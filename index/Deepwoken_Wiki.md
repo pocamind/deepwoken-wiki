@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Wiki
-revid: 116
+revid: 125
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -17,3 +17,27 @@ categories: [Browse]
 </table>
 
 _**Project Deepwoken is a game in development by Ragoozer.**_
+
+Start.
+
+## Start.
+
+Start.
+
+**Wiki Activity:**
+
+_View all..._
+
+**Blog posts:**
+
+<bloglist summarylength="100" timestamp="true" type=plain count="5" order="date">
+
+**Discussions posts:**
+
+**Staff:**
+
+Here is the list of current staff:
+
+Advertisement
+
+Template:TableStyle1
