@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Wiki
-revid: 125
+revid: 159
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -35,8 +35,6 @@ _View all..._
 **Discussions posts:**
 
 **Staff:**
-
-Here is the list of current staff:
 
 Advertisement
 
