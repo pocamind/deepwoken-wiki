@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Wiki
-revid: 171
+revid: 176
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -16,7 +16,7 @@ categories: [Browse]
 </tbody>
 </table>
 
-_**Project Deepwoken is a game in development by Ragoozer.**_
+_**Project Deepwoken is a game in development by Ragoozer. The game will be a permadeath style fantasy game that revolve more around deep exploration, mystery and lore.**_
 
 Start.
 
