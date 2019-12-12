@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Wiki
-revid: 176
+revid: 177
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
