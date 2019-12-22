@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Wiki
-revid: 177
+revid: 188
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -20,9 +20,13 @@ _**Project Deepwoken is a game in development by Ragoozer. The game will be a pe
 
 Start.
 
-## Start.
+First Leak
+
+## First Leak
 
 Start.
+
+First Leak
 
 **Wiki Activity:**
 
