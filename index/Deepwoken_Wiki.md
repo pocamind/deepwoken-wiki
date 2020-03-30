@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Wiki
-revid: 204
+revid: 238
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Wiki
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -22,15 +22,19 @@ Start.
 
 First Leak
 
-Ruins
+Ruins Leak
 
-## Ruins
+Sword Leak
+
+## Sword Leak
 
 Start.
 
 First Leak
 
-Ruins
+Ruins Leak
+
+Sword Leak
 
 **Wiki Activity:**
 
