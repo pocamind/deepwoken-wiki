@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 336
+revid: 432
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -88,4 +88,16 @@ categories: [Browse]
 </tbody>
 </table>
 
-None
+<table>
+<tbody>
+<tr>
+  <td rowspan="2"><p></p></td>
+  <th><p>Wiki Username</p></th>
+  <td><a href="https://deepwoken.fandom.com/wiki/User:R0bustic">R0bustic</a></td>
+</tr>
+<tr>
+  <th><p>Edit Count</p></th>
+  <td>Special:Editcount/R0bustic</td>
+</tr>
+</tbody>
+</table>
