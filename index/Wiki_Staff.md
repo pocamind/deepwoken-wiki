@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 432
+revid: 583
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -98,6 +98,15 @@ categories: [Browse]
 <tr>
   <th><p>Edit Count</p></th>
   <td>Special:Editcount/R0bustic</td>
+</tr>
+<tr>
+  <td rowspan="2"><p></p></td>
+  <th>Wiki Username</th>
+  <td><a href="https://deepwoken.fandom.com/wiki/User:CitrusQa">CitrusQa</a></td>
+</tr>
+<tr>
+  <th>Edit Count</th>
+  <td>Special:Editcount/CitrusQa</td>
 </tr>
 </tbody>
 </table>
