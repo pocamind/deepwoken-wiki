@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 323
+revid: 799
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse]
@@ -32,12 +32,12 @@ The page contains rules and punishments for violating them. If you see another u
 1
 
  | 3 Day Chat Ban |
-| **Irrelevant Pages** | Creating a page with no relevance to Rogue Lineage, to start a discussion, or as a joke. | 
+| **Irrelevant Pages** | Creating a page with no relevance to Deepwoken, to start a discussion, or as a joke. | 
 
 1
 
  | 1 Week Block |
-| **Irrelevant Image** | Adding a image that has no relevance to Rogue Lineage. | 
+| **Irrelevant Image** | Adding a image that is for jokes or vandalism | 
 
 1
 
@@ -66,7 +66,7 @@ The page contains rules and punishments for violating them. If you see another u
 0
 
  | 3 Week Block |
-| **Promoting Black Market Trading** | Asking to trade ingame races, and/or promoting black market trading. | 
+| **Promoting Black Market Trading** | Asking to trade accounts, items, etc. for robux, real money, an account, etc. | 
 
 0
 
