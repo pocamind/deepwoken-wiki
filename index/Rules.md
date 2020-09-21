@@ -1,9 +1,9 @@
 ---
 title: Rules
-revid: 799
+revid: 831
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Browse]
+categories: [Browse, Deepwoken Wiki]
 ---
 
 # Rules
