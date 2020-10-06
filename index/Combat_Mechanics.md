@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 893
+revid: 894
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics]
@@ -35,8 +35,8 @@ File:BottomGUI.png
   <td>Ether allows you to use spells, without it you can't use magic. Different spells use certain amount of ether. Ether will regenerate normally when not using any magic.<figure>File:Etherbar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>???</th>
-  <td>I don't know what the bar is for but it could be some type of stamina<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
+  <th>Resevoir</th>
+  <td>Regenerates ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>??? x 2</th>
