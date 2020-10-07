@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 905
+revid: 910
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -39,8 +39,8 @@ File:BottomGUI.png
   <td>Regenerates ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>??? x 2</th>
-  <td>Seems the to be a bar under the health.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
+  <th>Stamina (?)</th>
+  <td>Bar under the health. Probably represents Sekiro-like stamina.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
