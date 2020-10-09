@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 910
+revid: 923
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -28,7 +28,7 @@ File:BottomGUI.png
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not you can use certain moves like faints, dashes, parry, and (I don't know what the 4th icon is for).<figure>File:Cooldown Icons.png<figcaption></figcaption></figure></td>
+  <td>Icons that indicate whether or not you can use certain moves like faints, dashes, parry, and the 4th possibly being a potion cooldown.<figure>File:Cooldown Icons.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -39,8 +39,8 @@ File:BottomGUI.png
   <td>Regenerates ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>Stamina (?)</th>
-  <td>Bar under the health. Probably represents Sekiro-like stamina.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
+  <th>Toxicity (?)</th>
+  <td>Bar under the health. Probably represents a toxicity system, I mean it would make sense since you don't want people spamming HP pots.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -63,18 +63,22 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>Blocking at the perfect time will enable you to throw your opponent off of balance stunning them for a short while, this will not cost posture so parry when you are able to.</td>
+  <td>Blocking at then clicking LMB at the right them (right before your opponents swing), will enable you to throw your opponent off of balance stunning them for a short while, this will not cost posture so parry when you are able to.</td>
   <th></th>
 </tr>
 <tr>
-  <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an oponents block and play mind games with them, for example baiting them to block early disabling their ability to parry.</td>
+  <th>Fainting</th>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry.</td>
   <td></td>
 </tr>
 <tr>
   <th>Dashing</th>
   <td>Depending on what skills and stats you have you are able to roll a certain amount of distance, this will not consume posture if you are not in combat.</td>
   <td></td>
+</tr>
+<tr>
+  <th>Stance Change</th>
+  <td>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed.</td>
 </tr>
 </tbody>
 </table>
