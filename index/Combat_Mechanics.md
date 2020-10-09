@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 923
+revid: 930
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -39,8 +39,8 @@ File:BottomGUI.png
   <td>Regenerates ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>Toxicity (?)</th>
-  <td>Bar under the health. Probably represents a toxicity system, I mean it would make sense since you don't want people spamming HP pots.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
+  <th>Armour<p>Durability</p></th>
+  <td>Bar under the health. Represents durability of the armour that you're currently wearing.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
