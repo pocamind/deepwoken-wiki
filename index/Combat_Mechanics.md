@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 930
+revid: 937
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -93,7 +93,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td></td>
 </tr>
 <tr>
-  <th>Ether Burst (forgot the name someone please fix)</th>
+  <th>Venting</th>
   <td>This is essentially the parrying system to spells, at the cost of some Ether you are able to dodge all damage of a spell dependent on your timing.</td>
   <th></th>
 </tr>
