@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 937
+revid: 939
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -58,16 +58,16 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Blocking</th>
-  <td>Holding the F key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar.</td>
+  <td>Holding the F key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it.</td>
   <td></td>
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>Blocking at then clicking LMB at the right them (right before your opponents swing), will enable you to throw your opponent off of balance stunning them for a short while, this will not cost posture so parry when you are able to.</td>
+  <td>Blocking, then clicking LMB at the right time, will enable you to throw your opponent off of balance stunning them for a short while, this will not cost posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meat perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
   <th></th>
 </tr>
 <tr>
-  <th>Fainting</th>
+  <th>Feinting</th>
   <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry.</td>
   <td></td>
 </tr>
@@ -78,7 +78,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Stance Change</th>
-  <td>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed.</td>
+  <td>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed. You will not be able to dual wield <i>everything</i>, for example you can't dual wield 2 giant hammers.</td>
 </tr>
 </tbody>
 </table>
@@ -89,22 +89,22 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Basic Casting</th>
-  <td>When you use a spell it will deplete a certain amount of ether dependent on the volatility of the spell, you will hear a sound que while casting, timing your click to this will enable you to use the spell faster.</td>
+  <td>When you use a spell it will deplete a certain amount of ether dependent on the volatility of the spell, you will hear a sound que while casting, timing your click to this will enable you to use the spell faster. There is also a visual que, however this differs from spell to spell.</td>
   <td></td>
 </tr>
 <tr>
   <th>Venting</th>
-  <td>This is essentially the parrying system to spells, at the cost of some Ether you are able to dodge all damage of a spell dependent on your timing.</td>
+  <td>You release a short burst of Ether, if timed correctly to the peak of the burst (when the particles are at their high) you can dodge all damage to any magical attack. You will most likely only be able to vent normal spells and not ritual spells though.</td>
   <th></th>
 </tr>
 <tr>
   <th>Cast Cancelling</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack.</td>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You could even bait at a vent by going to cast a fireball then switching to a weapon and deal damage while they are venting.</td>
   <td></td>
 </tr>
 <tr>
-  <th>Runic Casting</th>
-  <td>This is a more advanced form of spell casting, letting you produce more powerful attacks at a cost. You will need to click multiple keys to cast these, it is speculated that a GUI will pop up while casting to help you.</td>
+  <th>Ritual Casting</th>
+  <td>This is a more advanced form of spell casting, letting you produce more powerful attacks at a cost. You will need to click multiple keys to cast these, it is speculated that a GUI will pop up while casting to help you. It is also speculated that while these spells will take a fair time to complete, you may also need certain items to use, for example sacrifice a leaf or piece of gold.</td>
 </tr>
 </tbody>
 </table>
