@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 939
+revid: 945
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -35,12 +35,24 @@ File:BottomGUI.png
   <td>Ether allows you to use spells, without it you can't use magic. Different spells use certain amount of ether. Ether will regenerate normally when not using any magic.<figure>File:Etherbar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>Resevoir</th>
+  <th>Reservoir</th>
   <td>Regenerates ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Armour<p>Durability</p></th>
   <td>Bar under the health. Represents durability of the armour that you're currently wearing.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Blood</th>
+  <td>You will progressively lose blood after being hit with a bladed weapon, once you reach 0 blood you will take heavy DoT (Damage over Time). Can be regained over time, and the speed it regenerates can be aided with eating food and water.</td>
+</tr>
+<tr>
+  <th>Water</th>
+  <td>If you reach 0 water you will start losing blood(?). Try to balance your stomach levels with your water levels, to much of one thing is not so good(?).</td>
+</tr>
+<tr>
+  <th>Stomach</th>
+  <td>Essentially your hunger bar, if it reaches zero you won't lose blood but instead just lose health. Try to balance your stomach levels with your water levels, to much of one thing is not so good(?).</td>
 </tr>
 </tbody>
 </table>
@@ -83,12 +95,38 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tbody>
 </table>
 
+## Status Effects
+
+<table>
+<tbody>
+<tr>
+  <th>Broken</th>
+  <td>This happens when your armor durability bar reaches 0, this can be shown visually by there being multiple scarring to your armor, it can also indicate if you have been in a fight recently.</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Bleeding</th>
+  <td>This happens when you are hit, if your armor durability is lower you will bleed more, the most obvious way to spot this is by looking at the center of your opponents torso, if the blood mark is small it means they still have a lot of health, however if it is bigger it means there's more blood gushing out meaning that they are lower. While bleeding probably won't effect your health straight away you will be able to patch it back up with bandages mid fight(?).</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Fire</th>
+  <td>This happens after being hit with a fire spell, you will be forced to have to roll out of the flames, while the flames are active you will take DoT (Damage over Time), you can also die by these flames(?).</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Paralysis</th>
+  <td>You take a slight amount more stun for a moment, only enough stun for your opponent to just land one single hit (since you can parry/block the next one). This occurs when you have been hit with a lightning spell.</td>
+</tr>
+</tbody>
+</table>
+
 ## Magic Basics
 
 <table>
 <tbody>
 <tr>
-  <th>Basic Casting</th>
+  <th>Spell Casting</th>
   <td>When you use a spell it will deplete a certain amount of ether dependent on the volatility of the spell, you will hear a sound que while casting, timing your click to this will enable you to use the spell faster. There is also a visual que, however this differs from spell to spell.</td>
   <td></td>
 </tr>
@@ -98,8 +136,8 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <th></th>
 </tr>
 <tr>
-  <th>Cast Cancelling</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You could even bait at a vent by going to cast a fireball then switching to a weapon and deal damage while they are venting.</td>
+  <th>Spell Feinting</th>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You could even bait at a vent by going to cast a fireball then switching to a weapon and deal damage while they are venting. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.</td>
   <td></td>
 </tr>
 <tr>
