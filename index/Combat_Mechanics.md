@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 945
+revid: 971
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -36,23 +36,34 @@ File:BottomGUI.png
 </tr>
 <tr>
   <th>Reservoir</th>
-  <td>Regenerates ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
+  <td>Regenerates Ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Armour<p>Durability</p></th>
   <td>Bar under the health. Represents durability of the armour that you're currently wearing.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
 </tr>
+</tbody>
+</table>
+
+## Survival Basics
+
+These are required to maintain to survive in the world of Deepwoken. The most common way for these to get depleted is by simply waiting it out, but the process can be sped up, usually from the environment, creatures, or other players. In order to survive, you will need to eat food to replenish stomach, and drink water to replenish thirst.
+
+File:Survival.png
+
+<table>
+<tbody>
 <tr>
   <th>Blood</th>
-  <td>You will progressively lose blood after being hit with a bladed weapon, once you reach 0 blood you will take heavy DoT (Damage over Time). Can be regained over time, and the speed it regenerates can be aided with eating food and water.</td>
+  <td>You will progressively lose blood after being hit with a bladed weapon (I dont think it has to be bladed), once you reach 0 blood you will take heavy DoT (Damage over Time) (?). Can be regained over time, and the speed it regenerates can be aided with Stomach and Water.<figure>File:Blood.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>If you reach 0 water you will start losing blood(?). Try to balance your stomach levels with your water levels, to much of one thing is not so good(?).</td>
+  <td>If you reach 0 water you will start losing blood (?). Try to balance your stomach levels with your water levels, too much of one thing is not good (?).<figure>File:Wtr.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you won't lose blood but instead just lose health. Try to balance your stomach levels with your water levels, to much of one thing is not so good(?).</td>
+  <td>Essentially your hunger bar, if it reaches zero you won't lose blood but instead just lose health. Try to balance your stomach levels with your water levels, too much of one thing is not good(?).<figure>File:Stomach.png<figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -91,6 +102,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Stance Change</th>
   <td>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed. You will not be able to dual wield <i>everything</i>, for example you can't dual wield 2 giant hammers.</td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -117,6 +129,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Paralysis</th>
   <td>You take a slight amount more stun for a moment, only enough stun for your opponent to just land one single hit (since you can parry/block the next one). This occurs when you have been hit with a lightning spell.</td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -143,6 +156,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Ritual Casting</th>
   <td>This is a more advanced form of spell casting, letting you produce more powerful attacks at a cost. You will need to click multiple keys to cast these, it is speculated that a GUI will pop up while casting to help you. It is also speculated that while these spells will take a fair time to complete, you may also need certain items to use, for example sacrifice a leaf or piece of gold.</td>
+  <td></td>
 </tr>
 </tbody>
 </table>
