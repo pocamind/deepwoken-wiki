@@ -1,0 +1,44 @@
+---
+title: Aspects
+revid: 1121
+source: https://deepwoken.fandom.com/wiki/Aspects
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Aspects
+
+### **Description**
+
+REJOICE BRETHERAN! I AM HERE TO PROVIDE NO USE TO THE FANDOM CURRENTLY OTHER THEN SETTING THE FOUNDATION FOR THIS GLORIOUS NEW PAGE I MADE CALLED RACES!
+
+\-Godsstruck.exe
+
+## **Races**
+
+#### Monkey
+
+[Monke](https://deepwoken.fandom.com/wiki/Monke) time
+
+#### Etrean
+
+Etrean's are the PERFECT RACE! Intoxicating ego's perfect for cleansing the diseased scum that are the feline monstrosities.
+
+#### Gremor
+
+Gremor kind are surprisingly less generic looking than all the kids on Roblox who use deer horn cosmetics.
+
+#### Adret
+
+Adret's are just ascended Vinds from Khei
+
+#### Ganymede
+
+Ganymede people remind me of my sleep paralysis demon. Ganymede? More like Gaymede.
+
+#### Vesperian
+
+[Vesperian](https://deepwoken.fandom.com/wiki/Vesperian) people are basically ugly nerds who are ugly and ugly. You can't even tell if they are people underneath those dumb masks.
+
+#### Felinor
+
+Felinor's... Nothing for me to say about this here...
