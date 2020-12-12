@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 1121
+revid: 1147
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,19 +21,19 @@ REJOICE BRETHERAN! I AM HERE TO PROVIDE NO USE TO THE FANDOM CURRENTLY OTHER THE
 
 #### Etrean
 
-Etrean's are the PERFECT RACE! Intoxicating ego's perfect for cleansing the diseased scum that are the feline monstrosities.
+[Etrean](https://deepwoken.fandom.com/wiki/Etrean)'s are the PERFECT RACE! Intoxicating ego's perfect for cleansing the diseased scum that are the feline monstrosities.
 
 #### Gremor
 
-Gremor kind are surprisingly less generic looking than all the kids on Roblox who use deer horn cosmetics.
+[Gremor](Gremor.md) kind are surprisingly less generic looking than all the kids on Roblox who use deer horn cosmetics.
 
 #### Adret
 
-Adret's are just ascended Vinds from Khei
+[Adret](https://deepwoken.fandom.com/wiki/Adret)'s are just ascended Vinds from Khei
 
 #### Ganymede
 
-Ganymede people remind me of my sleep paralysis demon. Ganymede? More like Gaymede.
+[Ganymede](https://deepwoken.fandom.com/wiki/Ganymede?venotify=created) people remind me of my sleep paralysis demon. Ganymede? More like Gaymede.
 
 #### Vesperian
 
