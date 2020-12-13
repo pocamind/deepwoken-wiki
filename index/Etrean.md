@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1148
+revid: 1161
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,4 +15,4 @@ _\-definitely a Etrean and not Godsstruck.exe because he did not actually know t
 
 ## **Notes**
 
--   ETREANS DO NOT LIKE LITTLE BOYS!
+-   ETREANS DO NOT LIKE LITTLE BOYS! THAT IS A STUPID AND FALSE RUMOR!

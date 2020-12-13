@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 1126
+revid: 1157
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ _We venture below._
 
 _And to you we bestow._
 
-_A pitch to behold._
+A pitch _to behold._
 
 _Your ass, we will blast._
 
