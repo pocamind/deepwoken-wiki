@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1167
+revid: 1177
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,6 +9,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:Race Box mark 2"Lore"
 
-mEooooOOW?
+_mEooooOOW?_
 
-Translation: May you please kill me?
+_Translation: May you please kill me?_
