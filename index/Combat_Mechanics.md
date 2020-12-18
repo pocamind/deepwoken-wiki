@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 1096
+revid: 1225
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -163,5 +163,5 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 ## Notes
 
--   With enough skill you can easily 1v5, so a skilled player is a huge danger.
+-   With enough skill you can easily 1v5, so a skilled player is a huge danger. (except no because one of the 5 will have a lightning strike spell that you will not be able to avoid with all of the pressure)
 -   This may be a perk or some unique skill, but as shown in Nanoprodigy's video or the Deepwoken Direct, upon knocking someone out you gain some if not all of your health back. This may be useful at times when your getting ganked.
