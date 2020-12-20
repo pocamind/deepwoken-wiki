@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1222
+revid: 1242
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,6 +10,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Template:Race Box mark 2"Lore"
 
 _Everything is trash, we all share one thing in common, trash. We eat the trash, we're breeded by trash, but most importantly. We take out the trash._
+
+## **Description**
+
+Light skin and gray hair
 
 ## **Notes**
 
