@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 1225
+revid: 1251
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -28,7 +28,7 @@ File:BottomGUI.png
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not you can use certain moves like faints, dashes, parry, and the 4th possibly being a potion cooldown.<figure>File:Cooldown Icons.png<figcaption></figcaption></figure></td>
+  <td>Icons that indicate whether or not you can use certain moves. The first being for faints, second for dashes, third for parry, and the 4th possibly being a potion cooldown.<figure>File:Cooldown Icons.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -165,3 +165,4 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 -   With enough skill you can easily 1v5, so a skilled player is a huge danger. (except no because one of the 5 will have a lightning strike spell that you will not be able to avoid with all of the pressure)
 -   This may be a perk or some unique skill, but as shown in Nanoprodigy's video or the Deepwoken Direct, upon knocking someone out you gain some if not all of your health back. This may be useful at times when your getting ganked.
+-   The Health and Survival GUI have 5 separate bars in them that represent 20%. This will help you to interpret damage dealt, health percentage and help me to interpret the percentage of water and food each consumable fills. :D

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 1234
+revid: 1250
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -55,6 +55,6 @@ REJOICE BRETHERAN! I AM HERE TO PROVIDE NO USE TO THE FANDOM CURRENTLY OTHER THE
 
 [Felinor](https://deepwoken.fandom.com/wiki/Felinor?venotify=created)'s... Nothing for me to say about this here...
 
-#### Celtor
+#### **Celtor**
 
-[Raccoon](https://deepwoken.fandom.com/wiki/Raccoon)'s! Because the Dev's are GOD DAMN FURRIES!
+[Celtor](https://deepwoken.fandom.com/wiki/Raccoon)'s! Because the Dev's are GOD DAMN FURRIES!
