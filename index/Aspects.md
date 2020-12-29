@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 1250
+revid: 1270
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,51 +10,38 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 <table>
 <tbody>
 <tr>
-  <td>Description</td>
+  <td>Percentage</td>
 </tr>
 </tbody>
 </table>
 
-REJOICE BRETHERAN! I AM HERE TO PROVIDE NO USE TO THE FANDOM CURRENTLY OTHER THEN SETTING THE FOUNDATION FOR THIS GLORIOUS NEW PAGE I MADE CALLED RACES!
+Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a non-rollable race.
 
-\-Godsstruck.exe
+| **Race** | **Percentage** | **Race** | **Percentage** |
+| --- | --- | --- | --- |
+| Monke | Pending | Etrean | Pending |
+| Gremor | Pending | Adret | Pending |
+| Ganymede | Pending | Vesperian | Pending |
+| Felinor | Pending | Celtor | Pending |
 
 <table>
 <tbody>
 <tr>
-  <td>Races</td>
+  <td>Rollable Races</td>
 </tr>
 </tbody>
 </table>
 
-#### **Monkey**
+  
 
-[Monke](https://deepwoken.fandom.com/wiki/Monke) time
+  
 
-#### **Etrean**
+<table>
+<tbody>
+<tr>
+  <td>Notes</td>
+</tr>
+</tbody>
+</table>
 
-[Etrean](https://deepwoken.fandom.com/wiki/Etrean)'s are the PERFECT RACE! Intoxicating ego's perfect for cleansing the diseased scum that are the feline monstrosities.
-
-#### **Gremor**
-
-[Gremor](Gremor.md) kind are surprisingly less generic looking than all the kids on Roblox who use deer horn cosmetics.
-
-#### **Adret**
-
-[Adret](https://deepwoken.fandom.com/wiki/Adret)'s are just ascended Vinds from Khei
-
-#### **Ganymede**
-
-[Ganymede](https://deepwoken.fandom.com/wiki/Ganymede?venotify=created) people remind me of my sleep paralysis demon. Ganymede? More like Gaymede.
-
-#### **Vesperian**
-
-[Vesperian](https://deepwoken.fandom.com/wiki/Vesperian) people are basically ugly nerds who are ugly and ugly. You can't even tell if they are people underneath those dumb masks.
-
-#### **Felinor**
-
-[Felinor](https://deepwoken.fandom.com/wiki/Felinor?venotify=created)'s... Nothing for me to say about this here...
-
-#### **Celtor**
-
-[Celtor](https://deepwoken.fandom.com/wiki/Raccoon)'s! Because the Dev's are GOD DAMN FURRIES!
+Pending
