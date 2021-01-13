@@ -1,8 +1,9 @@
 ---
 title: Vesperian
-revid: 1122
+revid: 1327
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Vesperian
@@ -19,4 +20,8 @@ u g l y
 
 -   Vesperian's after clapping your cheese flawlessly: [https://www.youtube.com/watch?v=jDo3jRvGu\_4](https://www.youtube.com/watch?v=jDo3jRvGu_4)
 
--   Nothing to do with the Wiki but they look like Scavengers from the game Rain World.
+-   File:UGLY.png
+    
+    Archmage's exclusive vesperian in the real world of deepwoken
+    
+    Nothing to do with the Wiki but they look like Scavengers from the game Rain World.
