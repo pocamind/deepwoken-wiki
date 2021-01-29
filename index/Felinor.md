@@ -1,13 +1,13 @@
 ---
 title: Felinor
-revid: 1346
+revid: 1347
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Felinor
 
-"Lore"
+Template:Race Box mark 2"Lore"
 
 _mEooooOOW?_
 
