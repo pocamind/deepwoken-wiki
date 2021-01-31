@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 1304
+revid: 1351
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,5 +47,5 @@ Chance of attaining each race upon first joining the game. Percentages may chang
 </table>
 
 -   NPC's and **some** players may treat you differently depending on your race, but most of the time enough points in Charisma will over right their aggression towards you.
--   All races are **balanced** you do not need a rare race to be considered **good** at the game, rarer races simply look cooler.
--   All races will only give a small amount of boosts or a head start at best meaning that to survive you **must** be skilled and can not simply rely on your race's abilities to carry you in a battle.
+-   All races are **balanced** you do not need a rare race to be considered **good** at the game, rarer races simply look cooler. (We have yet to see, I've already seen some screws loose in dis gaem. -Godsstruck)
+-   All races will only give a small amount of boosts or a head start at best meaning that to survive you **must** be skilled and can not simply rely on your race's abilities to carry you in a battle. (Like the Haseldan race, take notes, dev's. Haseldan is a very VERY busted race in the hands of someone SKILLED. You want that to be the case for this game too don't you? In short: Haseldan winning)
