@@ -1,12 +1,10 @@
 ---
 title: Khan
-revid: 1329
+revid: 1353
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Khan
 
-Template:Race Box mark 2"_Lore"_
-
-_OOH! OOH! AH! AH!_
+Template:Quote1
