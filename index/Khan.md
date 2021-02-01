@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 1358
+revid: 1365
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ _The customers who buy these Monke's never ask for refunds!! :D ...And they can'
 
 ## **Description**
 
-b a n n a n a
+b a n n a n a t h r o w - (Active) t h r o w b a n n a n a
 
 ## **Notes**
 
