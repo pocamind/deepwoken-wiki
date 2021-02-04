@@ -1,14 +1,21 @@
 ---
 title: Khan
-revid: 1371
+revid: 1411
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Khan
 
-Template:Race Box mark 2"_Lore"_
+Template:Race Box mark 2
 
+_**All info is unconfirmed and subject to change. (but most of this info is highly factual)**_
+
+"_Lore"_
+
+  
+
+  
 _OOH! OOH! AH! AH!_
 
 _The customers who buy these Monke's never ask for refunds!! :D ...And they can't... :)))_
