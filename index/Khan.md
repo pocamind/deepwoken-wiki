@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 1432
+revid: 1435
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,3 +37,4 @@ b a n a n a (confirmed)
 -   Can probably fold you like a piece of paper. (YOU GOT THAT, AREAFORCE?)
 -   D o n ' t - l e t - t h e m - n e a r - y o u r - c h i l d r e n.
 -   A MONKE classic, a MONKE dealer sending a customer a death threat through the phone: **[Banana Phone](https://www.youtube.com/watch?v=j5C6X9vOEkU)**
+-   Can monke flip if needs to
