@@ -1,13 +1,39 @@
 ---
 title: Khan
-revid: 1413
+revid: 1432
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion]
-notices:
-  - Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.
 ---
 
 # Khan
 
-"Stop Editing This Page, You Have Been Warned." - AreaForce
+Template:Race Box mark 2
+
+_**All info is unconfirmed and subject to change. (but most of this info is highly factual) All current info is theorized and unconfirmed so do not rely on it for the final product. (except for the lore)**_
+
+"_Lore"_
+
+  
+
+  
+_OOH! OOH! AH! AH!_
+
+_The customers who buy these Monke's never ask for refunds!! :D ...And they can't... :)))_
+
+## **Description**
+
+b a n a n a (confirmed)  
+
+## **Actives**
+
+**b a n n a n a t h r o w -** t h r o w b a n n a n a (unconfirmed)  
+
+## **Passive**
+
+**Monke -** Literally superhuman strength. (unconfirmed)
+
+## **Notes**
+
+-   Can probably fold you like a piece of paper. (YOU GOT THAT, AREAFORCE?)
+-   D o n ' t - l e t - t h e m - n e a r - y o u r - c h i l d r e n.
+-   A MONKE classic, a MONKE dealer sending a customer a death threat through the phone: **[Banana Phone](https://www.youtube.com/watch?v=j5C6X9vOEkU)**
