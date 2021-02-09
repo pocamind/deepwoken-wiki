@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 1396
+revid: 1446
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 </tbody>
 </table>
 
-WELCOME BACK! The weaponry page greets you with an abundance of your favorite Furry life ending tools! Including tools designed to stop your own life from ending! NOW GIT ON OUT THERE AND USE YOUR SLASHING, BASHING, CHOPPING, STABBING, AND SMASHING MACHINES TO PAINT THE TOWN RED! :D
+This page will list the different weapons that you will use in Deepwoken / Drowned Gods.
 
 <table>
 <tbody>
