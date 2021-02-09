@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1376
+revid: 1453
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,5 +19,6 @@ Etrean's are a cold blooded reptilian race that probably runs the government. Th
 
 ## **Notes**
 
--   ETREANS DO NOT LIKE LITTLE BOYS! THAT IS A STUPID AND FALSE RUMOR!
+-   ETREANS LIKE LITTLE BOYS
 -   Resident exterminator's, got Felinor pest on your front lawn? Call in the Etrean's, we'll eat that shit right up.
+-   hehe snek
