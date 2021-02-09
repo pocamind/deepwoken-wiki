@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1456
+revid: 1457
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,3 +25,5 @@ This race paints a very bad image of cats.
 
   
 however I will say furries don't get any ideas
+
+catgirl race must be destroyed
