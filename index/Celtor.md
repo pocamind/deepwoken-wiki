@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1345
+revid: 1501
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,3 +18,4 @@ Light skin and gray hair
 ## **Notes**
 
 -   Looks like they haven't slept in days
+-   its obviously a raccoon
