@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1508
+revid: 1511
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,15 +10,15 @@ categories: [Pages with broken file links]
 
 Template:Race Box mark 2"Lore" 
 
-We worship felinors!!!!
+       _WE ARE UGLY SO WE WEAR MASKS! :DDD_
 
 ### **Description**
 
-wannabe felinor + mask = vesperian
+dinakigga + mask = vesperian (not more)
 
 ### **Notes** 
 
--   Vesperian's after getting clapped flawlessly: [https://www.youtube.com/watch?v=jDo3jRvGu\_4](https://www.youtube.com/watch?v=jDo3jRvGu_4)
+-   Vesperian's after clapping your cheese flawlessly: [https://www.youtube.com/watch?v=jDo3jRvGu\_4](https://www.youtube.com/watch?v=jDo3jRvGu_4)
     
     File:UGLY.png
     
