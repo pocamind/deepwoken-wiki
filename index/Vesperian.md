@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1511
+revid: 1518
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,11 +10,11 @@ categories: [Pages with broken file links]
 
 Template:Race Box mark 2"Lore" 
 
-       _WE ARE UGLY SO WE WEAR MASKS! :DDD_
+We look that one dude who puts on a mask because his house got disbanded but they still kept the name.
 
 ### **Description**
 
-dinakigga + mask = vesperian (not more)
+??? + mask = vesperian (not more)
 
 ### **Notes** 
 
