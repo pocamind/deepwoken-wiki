@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 1519
+revid: 1520
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,4 +11,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:WeaponInfoBox Definitely not the Drowned Gods version of cum sword.
 
-possibly made by allah the ultimate elym user? 😳😳
+possibly made by the milk man, who's milk is delicious.
