@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1501
+revid: 1542
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
