@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1546
+revid: 1549
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ We look that one dude who puts on a mask because his house got disbanded but the
 
 ### **Description**
 
-smol boi + mask = vesperian (not more)
+FAT RIGGA + mask = vesperian (not more)
 
 ### **Notes** 
 
