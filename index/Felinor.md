@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1548
+revid: 1551
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,13 +9,21 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:Race Box mark 2"Lore"
 
-Not yet known
+_mEooooOOW?_
+
+_Translation: May you please kill me?_
+
+Enslave the catgirls
 
   
 
-  
-If anyone says "enslave the catgirls" to us then you're a lonely horny boi.
+Interview from an actual customer: (" this petite cat mother in my area madr my squirt gun into a water cannon")
+
+when they die they drop a cat fur rug. Just like they should.
+
+This race paints a very bad image of cats.
 
   
+however I will say furries don't get any ideas
 
-This race paints a very intriguing image of cats.
+ragoozer - "adrets simp for felinor"
