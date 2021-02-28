@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 1554
+revid: 1555
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
