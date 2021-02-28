@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1549
+revid: 1553
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,11 +10,11 @@ categories: [Pages with broken file links]
 
 Template:Race Box mark 2"Lore" 
 
-We look that one dude who puts on a mask because his house got disbanded but they still kept the name.
+A gray hair with dark greenish gray skin and a white mask. Is this guy the WoW version of big foot or something.
 
 ### **Description**
 
-FAT RIGGA + mask = vesperian (not more)
+Shaved and painted greenish dark gray mini big foot + Cloths and a mask = Vesperian
 
 ### **Notes** 
 

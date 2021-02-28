@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 1505
+revid: 1554
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,13 +9,15 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 "Lore"
 
-_They watch..._
+_They watch...as they suck your cock_
 
 ## **Description**
 
-Template:Race Box mark 2~Ganymede's are the creatures that lurk in your dreams. Haunting every dark corner and feeding upon your mysery.~ Ganymede's are an eerie race that looks like your sleep paralysis demon. They have Black skin, Bright White eyes, and no eyelids (not confirmed).
+Template:Race Box mark 2~Ganymede's are the creatures that lurk in your dreams. Haunting every dark corner and feeding upon your mysery.~ Ganymede's are sluts who want to give homosexualists blow jobs
+
+  
 
 ## **Notes**
 
--   They might look cute in-game, hopefully they're intentions are as well.
--   Looks like something straight out of a cursed image.
+-   They give good blow jobs
+-   They are a rip off of final fantasy 14
