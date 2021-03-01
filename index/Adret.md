@@ -1,29 +1,46 @@
 ---
 title: Adret
-revid: 1480
+revid: 1575
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Adret
 
-Template:Race Box mark 2"Lore"
+## Description
 
-_From the plains of Khei, to wherever we are now._
+Placeholder
 
-_Haled from the skies above._
+Template:Race Box mark 2
 
-_We venture below._
+## Lore:
 
-_And to you we bestow._
+_Placeholder_
 
-_Two lines_ _to behold._
+## Racial Abilities
 
-_Your ass we will blast._
+-   **Placeholder -** Placeholder
 
-_With the force of our gas._
+## Progression
 
-## **Description**
+**Placeholder -** Placeholder
+
+## Good Classes to go
+
+Placeholder
+
+**Placeholder -** Placeholder
 
   
-deepwoken race, no info rn
+
+## Strengths
+
+-   Placeholder
+
+## Weaknesses
+
+-   Placeholder
+
+## Notes/Trivia
+
+-   Placeholder

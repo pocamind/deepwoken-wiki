@@ -1,40 +1,46 @@
 ---
 title: Khan
-revid: 1435
+revid: 1565
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Khan
 
+## Description
+
+Placeholder
+
 Template:Race Box mark 2
 
-_**All info is unconfirmed and subject to change. (but most of this info is highly factual) All current info is theorized and unconfirmed so do not rely on it for the final product. (except for the lore)**_
+## Lore:
 
-"_Lore"_
+_Placeholder_
+
+## Racial Abilities
+
+-   **Placeholder -** Placeholder
+
+## Progression
+
+**Placeholder -** Placeholder
+
+## Good Classes to go
+
+Placeholder
+
+**Placeholder -** Placeholder
 
   
 
-  
-_OOH! OOH! AH! AH!_
+## Strengths
 
-_The customers who buy these Monke's never ask for refunds!! :D ...And they can't... :)))_
+-   Placeholder
 
-## **Description**
+## Weaknesses
 
-b a n a n a (confirmed)  
+-   Placeholder
 
-## **Actives**
+## Notes/Trivia
 
-**b a n n a n a t h r o w -** t h r o w b a n n a n a (unconfirmed)  
-
-## **Passive**
-
-**Monke -** Literally superhuman strength. (unconfirmed)
-
-## **Notes**
-
--   Can probably fold you like a piece of paper. (YOU GOT THAT, AREAFORCE?)
--   D o n ' t - l e t - t h e m - n e a r - y o u r - c h i l d r e n.
--   A MONKE classic, a MONKE dealer sending a customer a death threat through the phone: **[Banana Phone](https://www.youtube.com/watch?v=j5C6X9vOEkU)**
--   Can monke flip if needs to
+-   Placeholder

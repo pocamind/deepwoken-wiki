@@ -1,25 +1,46 @@
 ---
 title: Etrean
-revid: 1541
+revid: 1568
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Etrean
 
-Template:Race Box mark 2"Lore"
+## Description
 
-       _Bodies of hardened scales, pride of hardened will. We shall cleanse the world clean of these Furry beasts... Rats we will devour. FELINOR'S WE WILL SMITE!_
+Placeholder
 
-_\-definitely a Etrean and not Godsstruck.exe because he did not actually know the lore._
+Template:Race Box mark 2
 
-## **Description**
+## Lore:
 
-Etrean's are a cold blooded reptilian race that probably runs the government. They have scales on their bodies, Red or Gold colored eyes, and narrow iris's. Much like their hide, their pride is of iron and power. By the edge of their blades, the Felinor's reign will come to an end AND NAUGHT WILL OPPOSE US!  
+_Placeholder_
 
-## **Notes**
+## Racial Abilities
 
--   ETREANS DO NOT LIKE LITTLE BOYS! THAT IS A IDIOTIC AND FALSE RUMOR!!! BUT WE WILL DEFINITELY RAPE THOSE WHO ACCUSE US OF THIS
--   Resident exterminator's, got Felinor pest on your front lawn? Call in the Etrean's, we'll eat that shit right up.
--   hehe snek
--   smol snek
+-   **Placeholder -** Placeholder
+
+## Progression
+
+**Placeholder -** Placeholder
+
+## Good Classes to go
+
+Placeholder
+
+**Placeholder -** Placeholder
+
+  
+
+## Strengths
+
+-   Placeholder
+
+## Weaknesses
+
+-   Placeholder
+
+## Notes/Trivia
+
+-   Placeholder

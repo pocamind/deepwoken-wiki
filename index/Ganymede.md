@@ -1,21 +1,46 @@
 ---
 title: Ganymede
-revid: 1557
+revid: 1569
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ganymede
 
-"Lore"
+## Description
 
-_They watch...as they suck your cock_
+Placeholder
 
-## **Description**
+Template:Race Box mark 2
 
-Template:Race Box mark 2Ganymede's are the creatures that lurk in your dreams. Haunting every dark corner and feeding upon your mysery.
+## Lore:
 
-## **Notes**
+_Placeholder_
 
--   They give good blow jobs
--   They are a rip off of final fantasy 14
+## Racial Abilities
+
+-   **Placeholder -** Placeholder
+
+## Progression
+
+**Placeholder -** Placeholder
+
+## Good Classes to go
+
+Placeholder
+
+**Placeholder -** Placeholder
+
+  
+
+## Strengths
+
+-   Placeholder
+
+## Weaknesses
+
+-   Placeholder
+
+## Notes/Trivia
+
+-   Placeholder

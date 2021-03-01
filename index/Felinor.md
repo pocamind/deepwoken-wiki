@@ -1,29 +1,46 @@
 ---
 title: Felinor
-revid: 1551
+revid: 1571
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Felinor
 
-Template:Race Box mark 2"Lore"
+## Description
 
-_mEooooOOW?_
+Placeholder
 
-_Translation: May you please kill me?_
+Template:Race Box mark 2
 
-Enslave the catgirls
+## Lore:
+
+_Placeholder_
+
+## Racial Abilities
+
+-   **Placeholder -** Placeholder
+
+## Progression
+
+**Placeholder -** Placeholder
+
+## Good Classes to go
+
+Placeholder
+
+**Placeholder -** Placeholder
 
   
 
-Interview from an actual customer: (" this petite cat mother in my area madr my squirt gun into a water cannon")
+## Strengths
 
-when they die they drop a cat fur rug. Just like they should.
+-   Placeholder
 
-This race paints a very bad image of cats.
+## Weaknesses
 
-  
-however I will say furries don't get any ideas
+-   Placeholder
 
-ragoozer - "adrets simp for felinor"
+## Notes/Trivia
+
+-   Placeholder
