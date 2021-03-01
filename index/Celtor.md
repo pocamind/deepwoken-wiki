@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1572
+revid: 1581
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,14 +24,6 @@ _Placeholder_
 ## Progression
 
 **Placeholder -** Placeholder
-
-## Good Classes to go
-
-Placeholder
-
-**Placeholder -** Placeholder
-
-  
 
 ## Strengths
 
