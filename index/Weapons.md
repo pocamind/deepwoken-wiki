@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 1446
+revid: 1591
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
