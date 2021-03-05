@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1582
+revid: 1593
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,4 +35,5 @@ _Placeholder_
 
 ## Notes/Trivia
 
--   Placeholder
+-   are cats
+-   most likely like milk
