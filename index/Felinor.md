@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1593
+revid: 1594
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,5 +35,5 @@ _Placeholder_
 
 ## Notes/Trivia
 
--   are cats
+-   This race resemble a cat, since they have cat ears.
 -   most likely like milk
