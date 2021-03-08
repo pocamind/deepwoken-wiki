@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1597
+revid: 1598
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:Race Box mark 2
 
 ## Lore:
 
-_Placeholder_
+_Placeholder....... Just a fucking place holder._
 
 ## Racial Abilities
 

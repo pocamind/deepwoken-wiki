@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 1595
+revid: 1600
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 </tbody>
 </table>
 
-_Within the world of Deepwoken there are a vast amount of races that can be found, each race is unique granting intricate abilities as well as how_ NPC's and players interact with one another, providing each user with a new profound experience_._
+_Within the world of Deepwoken there are a vast amount of races that can be found, each race is unique granting intricate abilities as well as how_
+
+NPC's and players interact with one another, providing each user with a new profound experience_._
+
+Fellinor = virgirn race.
+
+Other races = no virgirnity.
 
   
 

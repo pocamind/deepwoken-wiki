@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1594
+revid: 1599
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,3 +37,4 @@ _Placeholder_
 
 -   This race resemble a cat, since they have cat ears.
 -   most likely like milk
+-   Virgirn race
