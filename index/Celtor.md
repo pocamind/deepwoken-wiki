@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1598
+revid: 1606
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,13 +9,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Placeholder
+Placeholder Gay race ok
 
 Template:Race Box mark 2
 
 ## Lore:
 
-_Placeholder....... Just a fucking place holder._
+_Placeholder....... Just a fucking place holder daddy uwuwuwuwuwuwuwwuuwuwwuwu lemme suck yo cock man._
 
 ## Racial Abilities
 

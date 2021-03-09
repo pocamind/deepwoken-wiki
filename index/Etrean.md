@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1580
+revid: 1609
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,20 +19,20 @@ _Placeholder_
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   Cum
 
 ## Progression
 
-**Placeholder -** Placeholder
+Need to have sex to progress
 
 ## Strengths
 
--   Placeholder
+-   Good at sex
 
 ## Weaknesses
 
--   Placeholder
+-   Your mom
 
 ## Notes/Trivia
 
--   Placeholder
+-   Good at sex

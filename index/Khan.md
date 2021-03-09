@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 1583
+revid: 1610
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,20 +19,22 @@ _Placeholder_
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   Cum
+-   Big dick dick
 
 ## Progression
 
-**Placeholder -** Placeholder
+Fuck women and men give better progression
 
 ## Strengths
 
--   Placeholder
+-   Good at sex
+-   BIG DICK SO HUGE
 
 ## Weaknesses
 
--   Placeholder
+-   None
 
 ## Notes/Trivia
 
--   Placeholder
+-   Hot guy with 12 inches dick and good at sex owo
