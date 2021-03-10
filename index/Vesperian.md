@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1608
+revid: 1615
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,20 +19,19 @@ _Placeholder_
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder grow dick
+-   **Placeholder -** Placeholder
 
 ## Progression
 
-**Mask-** Your mask is gradually wearing more cum with your age owo and there is a lot of cum daddy ;)
+**Mask-** Your mask is gradually wearing more ink with your age.
 
 ## Strengths
 
 -   Placeholder
--   bIG DICK SO HUGE
 
 ## Weaknesses
 
--   Placeholder dick gets small
+-   Placeholder
 
 ## Notes/Trivia
 

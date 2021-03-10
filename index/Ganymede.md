@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 1611
+revid: 1612
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,28 +9,29 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Loves sex he fucks any man and women and good at it
+Placeholder
 
 Template:Race Box mark 2
 
+## Lore:
+
+_Placeholder_
+
 ## Racial Abilities
 
--   Cum
--   Go sonic speed when having sex
+-   **Placeholder -** Placeholder
 
 ## Progression
 
-Fuck men and women to progress owo
+**Placeholder -** Placeholder
 
 ## Strengths
 
--   Sex
--   Cum
--   Dick
+-   Placeholder
 
 ## Weaknesses
 
--   None
+-   Placeholder
 
 ## Notes/Trivia
 
