@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1614
+revid: 1624
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,30 +9,30 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Placeholder
+snake
 
 Template:Race Box mark 2
 
 ## Lore:
 
-_Placeholder_
+he shed his skin to hard and become snake
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   **snake -** you slither around the map and you have no legs because snake
 
 ## Progression
 
-**Placeholder -** Placeholder
+**unholy snake -** your skin turns black and u shed skin and the shedding spells the exact words: snake
 
 ## Strengths
 
--   Placeholder
+-   eat rats bc snake
 
-## Weaknesses
+## Weakness
 
--   Placeholder
+-   get eaten bc snake
 
 ## Notes/Trivia
 
--   Placeholder
+-   how many snakes would a snake snake snake: answer: snake

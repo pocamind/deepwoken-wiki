@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 1586
+revid: 1622
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ _Placeholder_
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   **Racism -** You can call black people N-Words without being shamed
 
 ## Progression
 
