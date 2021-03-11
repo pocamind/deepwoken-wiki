@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1624
+revid: 1625
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,15 +15,15 @@ Template:Race Box mark 2
 
 ## Lore:
 
-he shed his skin to hard and become snake
+He shed his skin too hard and became a snake.
 
 ## Racial Abilities
 
--   **snake -** you slither around the map and you have no legs because snake
+-   **snake -** You slither around the map and you have no legs because you're a snake.
 
 ## Progression
 
-**unholy snake -** your skin turns black and u shed skin and the shedding spells the exact words: snake
+**unholy snake -** Your skin turns black and you shed skin. The shedding spells the exact words: snake.
 
 ## Strengths
 
