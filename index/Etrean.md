@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1625
+revid: 1626
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,21 +17,11 @@ Template:Race Box mark 2
 
 He shed his skin too hard and became a snake.
 
-## Racial Abilities
-
--   **snake -** You slither around the map and you have no legs because you're a snake.
-
-## Progression
-
-**unholy snake -** Your skin turns black and you shed skin. The shedding spells the exact words: snake.
-
-## Strengths
-
--   eat rats bc snake
+  
 
 ## Weakness
 
--   get eaten bc snake
+-   incapable of swimming, trash race 0/10 ez ez e
 
 ## Notes/Trivia
 
