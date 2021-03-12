@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 1613
+revid: 1640
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,9 +13,13 @@ Placeholder
 
 Template:Race Box mark 2
 
-## Lore:
+## Lore
 
 _Placeholder_
+
+## Appearance
+
+Khans are wukong-like humanoids with bits of jewelry around their head. They have orange/yellowish hair and have light green eyes.
 
 ## Racial Abilities
 

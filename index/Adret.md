@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 1622
+revid: 1648
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,9 +17,13 @@ Template:Race Box mark 2
 
 _Placeholder_
 
+## Appearance
+
+Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange markings over their faces that almost resemble that of scars.
+
 ## Racial Abilities
 
--   **Racism -** You can call black people N-Words without being shamed
+-   **Placeholder -** Placeholder
 
 ## Progression
 

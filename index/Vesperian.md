@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1615
+revid: 1645
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,9 +13,13 @@ Placeholder
 
 Template:Race Box mark 2
 
-## Lore:
+## Lore
 
 _Placeholder_
+
+## Appearance
+
+Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each character.
 
 ## Racial Abilities
 

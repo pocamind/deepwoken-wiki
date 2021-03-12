@@ -1,13 +1,15 @@
 ---
 title: Aspects
-revid: 1620
+revid: 1638
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Aspects
 
-**Since the game is not out yet, info can be wrong.**
+**NOTE:**
+
+Deepwoken is an unreleased game. Some of the information that is displayed on this site could possibly be incorrect. All of what is shown below is purely from footage uploaded by YouTubers on Deepwoken. This includes, but is not limited to, the DemStormz Q&A, Deepwoken Direct, and a few other leaks posted by the developers.
 
 <table>
 <tbody>
@@ -17,7 +19,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 </tbody>
 </table>
 
-_Within the world of Deepwoken there are a vast amount of races that can be found, each race is unique granting intricate abilities as well as how_ NPC's and players interact with one another, providing each user with a new profound experience_._
+In the world of Deepwoken, there are a vast amount of races that can be discovered. Your race will affect the abilities you possess, the way NPC's and players interact with you, and will provide you and each user with their own profound experience.
 
   
 
@@ -40,3 +42,4 @@ _Within the world of Deepwoken there are a vast amount of races that can be foun
 -   NPC's and **some** players may treat you differently depending on your race, but most of the time enough points in Charisma will overwrite their aggression towards you.
 -   While all races are currently assumed to be equally balanced requiring the same level of skill from the player, this is cannot be fully known until the game has been released.
 -   **Due to lack of knowledge on the way the game currently works with rerolling ones race we can not say that a percentage race reroll is 100% correct.** Please stand by until the release of Project Deepwoken prior to making any major edits to this page.
+-   According to a tweet posted, Etrean is claimed to be the most common race. (this could be false, lmk if it isn't)

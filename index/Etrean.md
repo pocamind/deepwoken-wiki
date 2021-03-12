@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1626
+revid: 1642
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,20 +9,34 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-snake
+Placeholder
 
 Template:Race Box mark 2
 
-## Lore:
+## Lore
 
-He shed his skin too hard and became a snake.
+Placeholder
 
-  
+## Appearance
+
+Etreans are humanoids that resemble snakes with menacing green eyes and light gray skin/hair.
+
+## Racial Abilities
+
+Placeholder
+
+## Progression
+
+Placeholder  
+
+## Strengths
+
+-   Placeholder
 
 ## Weakness
 
--   incapable of swimming, trash race 0/10 ez ez e
+-   Placeholder
 
 ## Notes/Trivia
 
--   how many snakes would a snake snake snake: answer: snake
+-   Placeholder
