@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1642
+revid: 1660
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,8 +35,8 @@ Placeholder
 
 ## Weakness
 
--   Placeholder
+-   Can't swim
 
 ## Notes/Trivia
 
--   Placeholder
+-   Very racist

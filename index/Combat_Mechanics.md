@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 1251
+revid: 1662
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -163,6 +163,6 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 ## Notes
 
--   With enough skill you can easily 1v5, so a skilled player is a huge danger. (except no because one of the 5 will have a lightning strike spell that you will not be able to avoid with all of the pressure)
+-   With enough skill you can easily 1v5, so a skilled player is a huge danger. (except no because one of the 5 will have a lightning strike spell that you will not be able to avoid with all of the pressure)(Except no, because multiple people hitting you at once would break your guard and bypass your parry rather easily, considering parry has only been shown to be able to counter 1 attack, and not multiple attacks/spells so far)
 -   This may be a perk or some unique skill, but as shown in Nanoprodigy's video or the Deepwoken Direct, upon knocking someone out you gain some if not all of your health back. This may be useful at times when your getting ganked.
 -   The Health and Survival GUI have 5 separate bars in them that represent 20%. This will help you to interpret damage dealt, health percentage and help me to interpret the percentage of water and food each consumable fills. :D
