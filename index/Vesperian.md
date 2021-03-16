@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1645
+revid: 1674
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
