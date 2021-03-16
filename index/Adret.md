@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 1648
+revid: 1666
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:Race Box mark 2
 
 ## Lore:
 
-_Placeholder_
+Placeholder
 
 ## Appearance
 
