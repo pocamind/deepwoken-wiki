@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 1643
+revid: 1682
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,3 +40,4 @@ Ganymedes are pitch-black creatures with bright white eyes, they seem to resembl
 ## Notes/Trivia
 
 -   Placeholder
+-   Looks EXTREMELY similar to Snake\_Worl’s Rogue Lineage Race
