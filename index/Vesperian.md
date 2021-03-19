@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1688
+revid: 1691
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,4 +39,4 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Notes/Trivia
 
--   Placeholder
+-   I'm pretty sure this is a Hollow Knight reference.
