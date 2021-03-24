@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 1689
+revid: 1704
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,4 +36,3 @@ _Placeholder_
 ## Notes/Trivia
 
 -   Placeholder
--   (Useless Trivia) The most R34’d Deepwoken Race
