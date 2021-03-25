@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 1604
+revid: 1717
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

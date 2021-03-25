@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1676
+revid: 1719
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,3 +40,4 @@ Placeholder
 ## Notes/Trivia
 
 -   Very racist
+-   Mentioned to be a more common race
