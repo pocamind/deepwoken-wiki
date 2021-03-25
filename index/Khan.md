@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 1695
+revid: 1715
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ _Placeholder_
 
 ## Appearance
 
-Khans are monkey-like humanoids with bits of jewelry around their head. They have orange/yellowish hair and have light green eyes.
+Khans are ape-like humanoids with bits of jewelry around their head. They have orange/yellowish hair and have light green eyes.
 
 ## Racial Abilities
 
