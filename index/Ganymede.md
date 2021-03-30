@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 1682
+revid: 1747
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,13 +9,17 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Placeholder
+Dark black creatures with white eyes, somewhat humanoid.
 
 Template:Race Box mark 2
 
 ## Lore
 
-_Placeholder_
+''child of the dark
+
+Dare not weep
+
+Born from the dark''
 
 ## Appearance
 
@@ -23,19 +27,19 @@ Ganymedes are pitch-black creatures with bright white eyes, they seem to resembl
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   darkness scream (causes a stun and some damage to the opponent mabey a curse stack if there is any)
 
 ## Progression
 
-**Placeholder -** Placeholder
+**darkness scream training - darkness scream improves its range and damage**
 
 ## Strengths
 
--   Placeholder
+-   darkness scream is really good for combo extenders/ extra damage/ stun to start new combo
 
 ## Weaknesses
 
--   Placeholder
+-   because its a dark creature it might be vounrubill to light which cause it too have not the best eyesight and might also take extra dameg to monks
 
 ## Notes/Trivia
 
