@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1759
+revid: 1762
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,3 +26,4 @@ Strengths
 
 -   Very racist
 -   Mentioned to be a more common race
+-   Possibly a reference to Orochimaru from Naruto
