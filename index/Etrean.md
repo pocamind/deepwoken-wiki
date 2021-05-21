@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1788
+revid: 1791
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,4 +30,4 @@ Strengths
 -   Very Holy
 -   Very Mighty
 -   Debatably hot. (not a Scaley)
--   Don't use the same format as the Rogue Lineage wiki pages.
+-   Don't use the same format as the Rogue Lineage wiki pages. (use the same format as the rogue lineage pages)
