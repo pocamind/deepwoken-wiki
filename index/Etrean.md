@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1791
+revid: 1792
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,10 +24,7 @@ Strengths
 
 ## Notes/Trivia
 
--   Very racist
+-   Racist, probably from thinking that their race is superior
 -   Mentioned to be a more common race
 -   Possibly a reference to Orochimaru from Naruto
--   Very Holy
--   Very Mighty
--   Debatably hot. (not a Scaley)
--   Don't use the same format as the Rogue Lineage wiki pages. (use the same format as the rogue lineage pages)
+-   Debatably hot & slim in Fanart (not a Scaley as its just a few reptile features on a human)

@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 1787
+revid: 1793
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,4 +46,4 @@ Canor are humanoids with tan skin, black hair, and green eyes (?).
 
 -   The most human looking race in Deepwoken (Possibly one of the only human races).
 -   Will most likely have their hair turn white as they grow older similar to how Khans have more white hair as they grow older.
--   ~One of the Nonlewded Races~ they are literally humans, ever heard of porn?
+-   One of the Non-Lewded Races
