@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1792
+revid: 1800
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,13 +9,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Snake-like humanoid creatures with green eyes and light gray hair
+Snake-like humanoid creatures with lime green eyes and white hair.
 
 Template:Race Box mark 2
 
 ## Appearance
 
-Etreans are humanoids that resemble snakes with powerful green eyes, yellow narrow barrel iris and light gray skin and hair.
+Etreans are humanoids that resemble snakes with lime green eyes, yellow narrow barrel iris and light gray skin and white hair.
 
 ## Progression
 
@@ -28,3 +28,4 @@ Strengths
 -   Mentioned to be a more common race
 -   Possibly a reference to Orochimaru from Naruto
 -   Debatably hot & slim in Fanart (not a Scaley as its just a few reptile features on a human)
+-   Eyes which looks like an open Avocado.
