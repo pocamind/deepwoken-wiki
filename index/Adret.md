@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 1807
+revid: 1813
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
