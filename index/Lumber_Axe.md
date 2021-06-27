@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 1888
+revid: 1889
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
