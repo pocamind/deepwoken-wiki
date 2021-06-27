@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 1775
+revid: 1880
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,3 +33,13 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 
 -   Looks similar to [Wukong](https://en.wikipedia.org/wiki/Monkey_King), a character from a story/myth made during the [Song Dynasty](https://en.wikipedia.org/wiki/Song_dynasty) in China.
 -   🐵 :o
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>Variants and Aging</td>
+</tr>
+</tbody>
+</table>
