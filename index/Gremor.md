@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 1641
+revid: 1899
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Placeholder
+Deer-horned pariahs who lived a peaceful life as nomads before the tides came. Tolerant of extremes that many others would avoid.
 
 Template:Race Box mark 2
 
