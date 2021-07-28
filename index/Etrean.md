@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1925
+revid: 1927
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,3 +39,4 @@ Unknown
 -   Mentioned to be a more common race
 -   Debatably hot & slim in Fanart (Wearing bunny ears is enough to make you semi-furry, so no, this is does not get a scaley-free pass. To be fair, they are the hottest race but by no means hot)
 -   Eyes which looks like an open Avocado.
+-   This is the most drippiest race in deepwoken

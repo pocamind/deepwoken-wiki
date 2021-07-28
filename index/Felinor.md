@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1873
+revid: 1926
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,6 +39,8 @@ Felinors are cat-eared humanoids with yellow/green eyes. They have light gray ha
 
 -   Might like milk since they are cats.
 -   Fighting Celtors for the number 1 spot on the weeb race list
+-   Felinors would make a great punching bag
+-   By far the worst hybrid for now
 
   
 

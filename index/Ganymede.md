@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 1785
+revid: 1928
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,10 @@ Template:Race Box mark 2
 Ganymedes are pitch-black creatures with bright white eyes, they seem to resemble insects. Not much is known about this race, put any information you know here.
 
   
+
+## Strengths
+
+They can say the n word
 
 ## Notes/Trivia
 
