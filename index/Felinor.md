@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1940
+revid: 1942
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
