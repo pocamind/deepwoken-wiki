@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1958
+revid: 1963
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ Felinors are cat-eared humanoids with yellow/green eyes. They have light gray ha
 
 ## Notes/Trivia
 
--   Might like milk since they are cats.
+-   Might like milk since they are cats, they may also have less tolerance to water.
 
   
 
