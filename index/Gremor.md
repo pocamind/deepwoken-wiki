@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 1919
+revid: 1965
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ Gremors are green-skinned humanoids with deer horns on their forehead. They have
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   **Placeholder -** Dick.
 
 ## Progression
 
