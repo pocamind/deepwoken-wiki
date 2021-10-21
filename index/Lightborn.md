@@ -1,12 +1,12 @@
 ---
-title: Adret
-revid: 1981
-source: https://deepwoken.fandom.com/wiki/Adret
+title: Lightborn
+revid: 1988
+source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
 ---
 
-# Adret
+# Lightborn
 
 ## Description
 
@@ -14,13 +14,13 @@ Placeholder
 
 Template:Race Box mark 2
 
-## Lore:
+## Lore
 
 Placeholder
 
 ## Appearance
 
-Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange markings over their faces that almost resemble that of scars.
+Lightborn are fair-skinned Humanoids with crosses in their eyes and White or Gold Halos either on their wrist, neck or head.
 
 ## Racial Abilities
 
@@ -32,7 +32,7 @@ Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange m
 
 ## Strengths
 
--   Placeholder
+-   Halos are drippy.
 
 ## Weaknesses
 
@@ -40,4 +40,4 @@ Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange m
 
 ## Notes/Trivia
 
--   Placeholder
+-   Lightborn are probably the most humanoid race in Deepwoken, save for their halos and eyes,
