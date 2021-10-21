@@ -1,8 +1,9 @@
 ---
 title: Felinor
-revid: 1963
+revid: 1977
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Races]
 ---
 
 # Felinor
@@ -33,7 +34,7 @@ Felinors are cat-eared humanoids with yellow/green eyes. They have light gray ha
 
 ## Weaknesses
 
--   Placeholder
+-   Due to the nature of the community, Felinors are often targeted to either be killed or used in a daily guild sacrifice.
 
 ## Notes/Trivia
 

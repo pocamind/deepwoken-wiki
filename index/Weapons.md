@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 1895
+revid: 1970
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,10 +17,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 This page will list the different weapons that you will use in Deepwoken / Drowned Gods.
 
-<table>
-<tbody>
-<tr>
-  <td>Categories</td>
-</tr>
-</tbody>
-</table>
+There are three different main types of weaponry:
+
+Strength weapons {which are governed by the strength attribute}, these weapons are characterized by their large hitboxes, slow weapon attacks and high damage. These also govern Flintlocks, the current only known gun type.
+
+Agility weapons (which are governed by the agility attribute}, these weapons are characterized by their small hitboxes, fast weapon attacks and low damage.
+
+Spells (which are governed by Intelligence, potentially Charisma, and the different spell types), unlike Rogue Lineage, tomes are not needed to wield spells and as such you can use both a weapon and a spell simultaneously, all spells are player-made, and there are no scrolls to pick up,

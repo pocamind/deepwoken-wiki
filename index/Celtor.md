@@ -1,8 +1,9 @@
 ---
 title: Celtor
-revid: 1822
+revid: 1978
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Races]
 ---
 
 # Celtor

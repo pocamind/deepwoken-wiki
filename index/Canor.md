@@ -1,8 +1,9 @@
 ---
 title: Canor
-revid: 1802
+revid: 1973
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Races]
 ---
 
 # Canor
