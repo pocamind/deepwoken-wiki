@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 1993
+revid: 2033
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ Template:Race Box mark 2
 
 ## Lore:
 
-Little is known about them, save that they come from the largest island in Deepwoken, Etrea.
+Little is known about them, other than them coming from the largest island in Deepwoken, Etrea.
 
 ## Appearance
 
