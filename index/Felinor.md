@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 1977
+revid: 2035
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Description
 
-Placeholder
+IT'S ABOUT DRIVE, IT'S ABOUT POWER, WE STAY HUNGRY, WE DEVOUR, PUT IN THE WORK, PUT IN THE HOURS AND TAKE WHAT'S OURS
 
 Template:Race Box mark 2
 
