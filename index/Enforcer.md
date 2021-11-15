@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 2032
+revid: 2040
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,3 +26,4 @@ The Enforcer is a special enemy in Deepwoken that only appears in The Depths ser
 ## **Notes**
 
 -   The jokes are implied at this point.
+-   Due to the name "Enforcer" complied with his goal to seemingly stop you from leaving the depths, i can be theorized that leaving is something forbidden, which the player obviously ignores.
