@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2039
+revid: 2043
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -28,7 +28,7 @@ Felinors are cat-eared humanoids with yellow/green eyes. They have light gray ha
 
 ## Progression
 
-**After sleeping with 10 player pets you get a badge and invitation to a roblox furcon**
+**After sleeping with 10 player pets you get a badge and invitation to a roblox furcon** (I know this is a joke but don't give them any ideas)
 
 ## Strengths
 
@@ -36,7 +36,7 @@ Felinors are cat-eared humanoids with yellow/green eyes. They have light gray ha
 
 ## Weaknesses
 
--   Due to the nature of the community, Felinors are often targeted to either be killed or used in a daily guild sacrifice.
+-   Due to the nature of the community, Felinors are often targeted to either be killed or used in a daily guild sacrifice. (because this community is wholesome but in a very based manner which is a very good thing)
 
 ## Notes/Trivia
 
