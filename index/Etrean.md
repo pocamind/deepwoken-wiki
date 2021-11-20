@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 2033
+revid: 2049
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Description
 
-Placeholder
+A prideful, xenophobic race.
 
 Template:Race Box mark 2
 

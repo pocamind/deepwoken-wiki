@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 2022
+revid: 2046
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,4 +14,4 @@ A shield amongst many others granted with better swagger and size. The shield is
 
 File:Some Virgins virgin shield V2.png
 
-Some bitch who got fingered by his dad contaminating this shield.
+A shield
