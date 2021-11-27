@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2047
+revid: 2052
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ Template:Race Box mark 2
 
 ## Lore
 
-Placeholder  
+A disgusting, and degenerate race of cat-"people". They are notorious for a fifth of their kin finding animals in the wilderness and commiting sexual acts against the animal. Similar to their real-life counterpart, furries. For more information and evidence regarding this topic, please visit Furry Survey - WikiFur, the furry encyclopedia.
 
 ## Appearance
 
