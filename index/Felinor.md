@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2052
+revid: 2054
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ Template:Race Box mark 2
 
 ## Lore
 
-A disgusting, and degenerate race of cat-"people". They are notorious for a fifth of their kin finding animals in the wilderness and commiting sexual acts against the animal. Similar to their real-life counterpart, furries. For more information and evidence regarding this topic, please visit Furry Survey - WikiFur, the furry encyclopedia.
+Placeholder
 
 ## Appearance
 
@@ -41,7 +41,8 @@ Felinors are cat-eared humanoids with yellow/green eyes. They have light gray ha
 ## Notes/Trivia
 
 -   Might like milk since they are cats, they may also have less tolerance to water.
--   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed or used in a daily guild sacrifice. (because this community is wholesome but in a very based manner which is a very good thing)  
+-   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed because people do not like furries/cat people for their own personal reasons.
+-   (stop editing the page to show how much you hate furries, half of the other races are based on animals)  
     
 
 <table>
