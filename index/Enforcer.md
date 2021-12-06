@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 2041
+revid: 2064
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -27,3 +27,4 @@ The Enforcer is a special enemy in Deepwoken that only appears in The Depths ser
 
 -   The jokes are implied at this point.
 -   Due to the name "Enforcer" complied with his goal to seemingly stop you from leaving the depths, i can be theorized that leaving is something forbidden, which the player obviously ignores.
+-   Rumored to be the spawn of a Lad daddy long since gone. The Enforcer's however are only able to reach Thad level due to the lack of attention they got in their childhood. Page of Lad Daddy [here](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops)
