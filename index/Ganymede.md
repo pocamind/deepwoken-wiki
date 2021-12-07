@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2075
+revid: 2076
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -32,11 +32,11 @@ TBA
 
 ## Strengths
 
-TBA
+Always following you untill they catch up. NEVER LOOK BACK KEEP ON RUNNING.
 
 ## Weaknesses
 
-TBA
+Salt, so be prepare to curse them out when you die to them.
 
 ## Notes/Trivia
 
