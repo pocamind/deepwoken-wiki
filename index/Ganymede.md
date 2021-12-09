@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2076
+revid: 2130
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -20,7 +20,7 @@ Gaymede
 
 ## Appearance
 
-Ganymedes are pitch-black creatures with bright white eyes, they seem to resemble insects. Not much is known about this race, put any information you know here. (theorized they are based of snails, if confirmed please quote in the comments)
+Ganymedes are pitch-black creatures with bright white eyes, they seem to resemble insects. Not much information is known about this race. \[add Info here\] (theorized they are based of snails, if confirmed please quote in the comments)
 
 ## Racial Abilities
 
