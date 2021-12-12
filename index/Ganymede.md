@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2154
+revid: 2155
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -26,17 +26,9 @@ Ganymedes are pitch-black creatures with bright white eyes, they seem to resembl
 
 TBA
 
-## Progression
+  
 
-TBA
-
-## Strengths
-
-Always following you untill they catch up. NEVER LOOK BACK KEEP ON RUNNING.
-
-## Weaknesses
-
-Salt, so be prepare to curse them out when you die to them.
+  
 
 ## Notes/Trivia
 
