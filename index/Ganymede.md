@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2130
+revid: 2154
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,13 +10,13 @@ categories: [Races]
 
 ## Description
 
-Dark black creatures with white eyes, somewhat humanoid.
+Dark black creatures with white eyes, with a humanoid structure as its base figure.
 
 Template:Race Box mark 2
 
 ## Lore
 
-Gaymede  
+TBA;.  
 
 ## Appearance
 
