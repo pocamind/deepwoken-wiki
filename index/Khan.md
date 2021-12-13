@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 2132
+revid: 2181
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Description
 
-Khans resemble the Sun Wukong from Mandarin Chinese mytholgy. With the spiky hair and as I would call it "A little tiny crown" make sure to boost there ego by saying how nice that crown looks.Template:Race Box mark 2
+Khans resemble the Sun Wukong from Mandarin Chinese mytholgy. With the spiky hair and a small crown. Template:Race Box mark 2
 
   
 
