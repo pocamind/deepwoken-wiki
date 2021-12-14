@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 1974
+revid: 2207
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -28,7 +28,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Progression
 
--   As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
+-   takes off their mask to reveal that they are sans undertale
 
 ## Strengths
 
@@ -40,4 +40,4 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Notes/Trivia
 
--   I'm pretty sure this is a Hollow Knight reference.
+-   this is a Hollow Knight reference.
