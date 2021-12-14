@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2050
+revid: 2198
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,23 @@ Deepwoken is an unreleased game. Some of the information that is displayed on th
 
 In the world of Deepwoken, there are a vast amount of races that can be discovered. Your race will affect the abilities you possess, the way NPC's and players interact with you, and will provide you and each user with their own profound experience.
 
-  
+<table>
+<tbody>
+<tr>
+  <td>Percentage</td>
+</tr>
+</tbody>
+</table>
+
+Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan.
+
+| **Race** | **Percentage** | **Race** | **Percentage** |
+| --- | --- | --- | --- |
+| Ganymede | 2.1% | Gremor | 12.8% |
+| Capra | 2.1% | Canor | 14.9% |
+| Vesperian | 6.4% | Etrean | 14.9% |
+| Felinor | 8.5% | Celtor | 19.1% |
+| Khan | ??? | Adret | 19.1% |
 
 <table>
 <tbody>
