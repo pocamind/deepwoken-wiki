@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2198
+revid: 2219
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ Chance of attaining each race upon first joining the game. Percentages may chang
 | Capra | 2.1% | Canor | 14.9% |
 | Vesperian | 6.4% | Etrean | 14.9% |
 | Felinor | 8.5% | Celtor | 19.1% |
-| Khan | ??? | Adret | 19.1% |
+| Khan | 9.1% | Adret | 19.1% |
 
 <table>
 <tbody>

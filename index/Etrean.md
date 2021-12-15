@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 2049
+revid: 2220
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Description
 
-A prideful, xenophobic race.
+A based, xenophobic race.
 
 Template:Race Box mark 2
 
@@ -32,7 +32,7 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 
 ## Strengths
 
--   Placeholder
+-   They are racist
 
 ## Weaknesses
 
