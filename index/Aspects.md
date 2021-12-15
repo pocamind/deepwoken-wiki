@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2219
+revid: 2224
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,6 +46,8 @@ Chance of attaining each race upon first joining the game. Percentages may chang
 </tr>
 </tbody>
 </table>
+
+[capra](Capra.md)
 
 <table>
 <tbody>
