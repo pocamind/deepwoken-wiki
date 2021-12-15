@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2224
+revid: 2230
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,7 +29,7 @@ In the world of Deepwoken, there are a vast amount of races that can be discover
 </tbody>
 </table>
 
-Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan.
+Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan. (percentages could be false)
 
 | **Race** | **Percentage** | **Race** | **Percentage** |
 | --- | --- | --- | --- |
