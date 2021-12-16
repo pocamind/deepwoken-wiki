@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2230
+revid: 2253
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,7 +29,7 @@ In the world of Deepwoken, there are a vast amount of races that can be discover
 </tbody>
 </table>
 
-Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan. (percentages could be false)
+Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan. (percentages are false)
 
 | **Race** | **Percentage** | **Race** | **Percentage** |
 | --- | --- | --- | --- |
@@ -38,6 +38,8 @@ Chance of attaining each race upon first joining the game. Percentages may chang
 | Vesperian | 6.4% | Etrean | 14.9% |
 | Felinor | 8.5% | Celtor | 19.1% |
 | Khan | 9.1% | Adret | 19.1% |
+
+The percentages literally add up to 109%, this is just straight up false.
 
 <table>
 <tbody>
