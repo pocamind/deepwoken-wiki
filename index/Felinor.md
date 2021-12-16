@@ -1,42 +1,18 @@
 ---
 title: Felinor
-revid: 2268
+revid: 2275
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Felinor
 
-## Descriptions
-
-placeholder
-
-Template:Race Box mark 2
-
-## Lore
-
-placeholder
-
-## Appearance
-
-catgirl furry, really hot
-
-## Racial Abilities
-
-placeholder
-
-## Strengths
-
-placeholder
-
-## Weaknesses
-
-placeholder
-
-## Notes/Trivia
-
--   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed because people do not like cat people for their own personal reasons.
+-   File:FelinorF.png
+    
+    File:Yrs.JPG
+    
+    the fuck is this i found this under felinor in wiki images
 
 <table>
 <tbody>
