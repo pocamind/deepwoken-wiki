@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 2181
+revid: 2269
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,7 +24,10 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 
 -   As Khans grow older the jewelry on their head go from gold to silver and their hair turns more grayish.
 
-  
+## Strengths
+
+-   is monke  
+    
 
   
 

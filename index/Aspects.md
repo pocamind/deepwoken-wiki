@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2253
+revid: 2267
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,17 +29,17 @@ In the world of Deepwoken, there are a vast amount of races that can be discover
 </tbody>
 </table>
 
-Chance of attaining each race upon first joining the game. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan. (percentages are false)
+~Chance of attaining each race **if you are a Khan**. Percentages may change depending on your race, as you cannot roll the same race twice in a row. The following percentages were taken from a Khan. Similar to Rogue Lineage, the chance of rolling the race you currently have is distributed throughout the other races, leading to a higher chance of getting those.~
 
 | **Race** | **Percentage** | **Race** | **Percentage** |
 | --- | --- | --- | --- |
-| Ganymede | 2.1% | Gremor | 12.8% |
-| Capra | 2.1% | Canor | 14.9% |
-| Vesperian | 6.4% | Etrean | 14.9% |
-| Felinor | 8.5% | Celtor | 19.1% |
-| Khan | 9.1% | Adret | 19.1% |
+| Ganymede | 1.9% | Gremor | 11.6% |
+| Capra | 1.9% | Canor | 13.5% |
+| Vesperian | 5.8% | Etrean | 13.5% |
+| Felinor | 8.3% | Celtor | 17.4% |
+| Khan | 8.3% | Adret | 17.4% |
 
-The percentages literally add up to 109%, this is just straight up false.
+~The percentages literally add up to 109%, this is just straight up false. (because some retards can't do simple math, should be fixed now) Some literal monkey though you could roll khan if you already had it so they just took it from an Etreans Roll list, if you have a race you cant roll the same one~ I did my best to get the race percentages as close as possible with all the information we have. Adding up all the percentages will get you to 96.6% which is probably gonna be way closer to your chances than the table in place before though not exact.
 
 <table>
 <tbody>

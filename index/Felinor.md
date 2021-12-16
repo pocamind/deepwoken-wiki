@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2251
+revid: 2268
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,35 +10,33 @@ categories: [Races]
 
 ## Descriptions
 
-godless
+placeholder
 
 Template:Race Box mark 2
 
 ## Lore
 
-gay or something
+placeholder
 
 ## Appearance
 
-cameo
+catgirl furry, really hot
 
 ## Racial Abilities
 
-death
-
-sans
+placeholder
 
 ## Strengths
 
-none
+placeholder
 
 ## Weaknesses
 
-every
+placeholder
 
 ## Notes/Trivia
 
--   Placeholder
+-   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed because people do not like cat people for their own personal reasons.
 
 <table>
 <tbody>
