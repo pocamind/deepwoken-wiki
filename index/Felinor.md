@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2284
+revid: 2287
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -41,7 +41,6 @@ placeholder
 ## Notes/Trivia
 
 -   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed because people do not like cat people for their own personal reasons.
--   Mogusus is an incel
 
 <table>
 <tbody>
