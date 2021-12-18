@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 2225
+revid: 2294
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -36,7 +36,7 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 
 ## Weaknesses
 
--   Placeholder
+-   ~They're racist~ (undoubtedly not a weakness)
 
 ## Notes/Trivia
 

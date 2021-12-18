@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2287
+revid: 2297
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -36,11 +36,11 @@ placeholder
 
 ## Weaknesses
 
-placeholder
+Everyone most likely hates you due to them being an incel who doesn't touch grass.
 
 ## Notes/Trivia
 
--   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed because people do not like cat people for their own personal reasons.
+-   Due to the nature of the community, Felinors are likely going to be often targeted to either be killed because people do not like cat people for the fact that a fifth of furries admit to loving beastiality.
 
 <table>
 <tbody>
