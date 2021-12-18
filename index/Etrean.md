@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 2294
+revid: 2300
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ Template:Race Box mark 2
 
 ## Lore:
 
-Little is known about them, other than them coming from the largest island in Deepwoken, Etrea. they are also very racist to every race so its my favorite race
+Little is known about them, other than them coming from the largest island in Deepwoken, Etrea. They are also extremely racist to every other race that isn't an Etrean.
 
 ## Appearance
 

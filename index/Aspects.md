@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2272
+revid: 2301
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,11 +33,11 @@ In the world of Deepwoken, there are a vast amount of races that can be discover
 
 | **Race** | **Percentage** | **Race** | **Percentage** |
 | --- | --- | --- | --- |
-| Ganymede | 1.9% | Gremor | 11.6% |
-| Capra | 1.9% | Canor | 13.5% |
-| Vesperian | 5.8% | Etrean | 13.5% |
-| Felinor | 8.3% | Celtor | 17.4% |
-| Khan | 8.3% | Adret | 17.4% |
+| Ganymede | 2.3% | Gremor | 13.6% |
+| Capra | 2.3% | Canor | 15.9% |
+| Vesperian | 6.8% | Etrean | X |
+| Felinor | 9.1% | Celtor | 20.5% |
+| Khan | 9.1% | Adret | 20.5% |
 
 ~The percentages literally add up to 109%, this is just straight up false. (because some retards can't do simple math, should be fixed now) Some literal monkey though you could roll khan if you already had it so they just took it from an Etreans Roll list, if you have a race you cant roll the same one~ I did my best to get the race percentages as close as possible with all the information we have. Adding up all the percentages will get you to 99.6% which is probably gonna be way closer to your chances than the table in place before though not exact.
 
