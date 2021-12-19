@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 2186
+revid: 2302
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -9,3 +9,5 @@ categories: [Races]
 # Capra
 
 **Placeholder for future use**
+
+They are goated, literally
