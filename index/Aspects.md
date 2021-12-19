@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2301
+revid: 2304
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

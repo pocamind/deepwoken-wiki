@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 2270
+revid: 2303
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,7 +24,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   **Placeholder -** Placeholder \[put ideas for what this is here: \]
 
 ## Progression
 
