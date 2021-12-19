@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2297
+revid: 2306
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
