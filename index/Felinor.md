@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2323
+revid: 2326
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -36,11 +36,11 @@ placeholder
 
 ## Weaknesses
 
-placeholder
+-   Targeted by everybody.
 
 ## Notes/Trivia
 
--   Due to the nature of the community, Felinors are likely going to be often targeted to either being killed.
+-   The **Felanor** race is the only known way to access **Supreme Difficulty**.
 
 <table>
 <tbody>

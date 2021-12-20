@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 2060
+revid: 2325
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,7 +18,9 @@ Template:Race Box mark 2 Placeholder
 
 ## Appearance
 
-Canor are humanoids with tan skin, black hair, and green eyes (?).
+Wolf-based Canors are humanoids with tan skin, black hair, and green eyes (?).
+
+Lion-based Canors are humanoids with tan skin, orange/golden hair and brown eyes.
 
 They are based on wolves and lions (confirmed recently)
 
