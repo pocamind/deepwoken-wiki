@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2326
+revid: 2327
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -40,7 +40,7 @@ placeholder
 
 ## Notes/Trivia
 
--   The **Felanor** race is the only known way to access **Supreme Difficulty**.
+-   The **Felinor** race is the only known way to access **Supreme Difficulty**.
 
 <table>
 <tbody>
