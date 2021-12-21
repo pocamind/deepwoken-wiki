@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2155
+revid: 2348
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,11 +24,17 @@ Ganymedes are pitch-black creatures with bright white eyes, they seem to resembl
 
 ## Racial Abilities
 
-TBA
+N word pass
 
-  
+## Strengths
 
-  
+Have all the rights to say the n word.
+
+Invisible in the dark.
+
+## Weaknesses
+
+Sometimes unable to see self in the dark.
 
 ## Notes/Trivia
 
