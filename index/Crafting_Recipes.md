@@ -1,13 +1,13 @@
 ---
 title: Crafting Recipes
-revid: 2512
+revid: 2595
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Crafting Recipes
 
-_"Man, this Brown Mushroom tastes bussin'!" (Pukes everywhere) - Random Adret_
+_"Man, this Brown Mushroom bussin'!" (Pukes everywhere) - Random Adret_
 
 ## Description
 
@@ -23,7 +23,23 @@ One of the most obvious mechanics in the game, crafting. Recipes can be learned 
 
 -   1 browncap, 1 gobletto, 2 dentifillo - soothing potion (temp blindness for like 3 seconds)
 
-1 Bluecap, 1 Calabash, 1 Spider Egg - Heartening Elixir (?? Effect - probably healing or blood regeneration though)  
+-   1 Bluecap, 1 Calabash, 1 Spider Egg - Heartening Elixir (?? Effect - probably healing or blood regeneration though)
+
+-   3x browncap = disgusting bane (deals damage)
+
+-   3x gobletto = invigorating elixir (Healing)
+
+-   3x redd = icky bane (insta heal, drains ether)
+
+-   3x dentifilo = soothing tincture (Makes you throw up, looses water and food)
+
+-   2x gathered wheat 1x Dentifilo = dulling blight (big throw up, looses water and food)
+
+-   1x stick 2x browncap = disgusting Blight (does damage)
+
+-   2x browncap 1x dentifilo = soothing salve (Idk what this does)
+
+-   3x browncap 2x gathered wheat = focus-enhancing Elixir (idk what it does)
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 2430
+revid: 2626
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,36 +10,55 @@ categories: [Pages with broken file links, Races]
 
 ## Description
 
-Deer-horned pariahs who lived a peaceful life as nomads before the tides came. Tolerant of extremes that many others would avoid.
+Template:Races-Main
 
-Template:Race Box mark 2
+"_Deer-horned pariahs who lived a  
+peaceful life as nomads before the tides came.  
+Tolerant of extremes that many others would avoid._"
 
-## Lore
+## Racial Traits
 
-_Placeholder_
+<table><caption></caption>
+<tbody>
+<tr>
+  <td>(Image vertical compass)</td>
+  <td><b>Mental Compass</b>
+  <ul>
+    <li>Gain a compass on top of your screen</li>
+  </ul></td>
+</tr>
+<tr>
+  <td>File:Navae's Guidance.png</td>
+  <td><b>Navae's Guidance</b>
+  <ul>
+    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attibute Boosts</b>
+  <ul>
+    <li>+2 Strenth</li>
+    <li>+2 Fortitude</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
-## Appearance
+## Miscellaneous
 
-Gremors are green-skinned humanoids with deer horns on their forehead. They have dark green/brown hair and have dark brown eyes.
+**Lore:**
 
-## Racial Abilities
+Text
 
--   Gain a compass on top of your screen
--   Lose hunger at a slower rate
--   Free +2 to Strength and Fortitude
+**Strengths:**
 
-## Progression
+abcd
 
-**Placeholder -**
+**Weaknesses:**
 
-## Strengths
-
--   PlaceHolder
-
-## Weaknesses
-
--   Placeholder
+efgi
 
 ## Notes/Trivia
 
--   File:Compass.png
+-   (Notes)

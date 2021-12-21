@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 2500
+revid: 2554
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -22,7 +22,7 @@ _Placeholder_
 
 -   +2 Health (Maybe?)
 -   Slightly higher profincecy with ships (Probably not)
--   +1 Agility & +2 Charisma Racial Attributes
+-   +2 intellegence & +2 Charisma Racial Attributes
 
   
 

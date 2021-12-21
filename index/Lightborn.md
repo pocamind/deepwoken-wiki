@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 2490
+revid: 2601
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Description
 
-Placeholder
+The stars call you back...
 
 Template:Race Box mark 2
 

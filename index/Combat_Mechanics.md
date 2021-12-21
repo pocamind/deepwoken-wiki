@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 2517
+revid: 2602
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -55,15 +55,15 @@ File:Survival.png
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>You will progressively lose blood after being hit with a bladed weapon (I dont think it has to be bladed), once you reach 0 blood you will take heavy DoT (Damage over Time) (?). Can be regained over time, and the speed it regenerates can be aided with Stomach and Water.<figure>File:Blood.png<figcaption></figcaption></figure></td>
+  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, and lose around 10% hp/0.15 seconds.<figure>File:Blood.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>If you reach 0 water you will start losing blood (?). Try to balance your stomach levels with your water levels, too much of one thing is not good (?).<figure>File:Wtr.png<figcaption></figcaption></figure></td>
+  <td>If you reach 0 water your screen gets blurry. Lose 50% of bar upon vomitting<figure>File:Wtr.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you won't lose blood but instead just lose health. Try to balance your stomach levels with your water levels, too much of one thing is not good(?).<figure>File:Stomach.png<figcaption></figcaption></figure></td>
+  <td>Essentially your hunger bar, if it reaches zero you will lose blood and health. Lose 50% of bar upon vomitting<figure>File:Stomach.png<figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

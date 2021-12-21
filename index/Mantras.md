@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 2451
+revid: 2529
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,4 +31,4 @@ If the ingredients used to modify the mantra are incompatible with the mantra, t
 
 ## How can I get a Mantra?
 
-\*Incomplete\*
+One way to gain a mantra is through power cards. Some power cards may give mantras for example one of them gives the dash mantra. (dash is an agility mantra which propels you quickly towards where you are facing).
