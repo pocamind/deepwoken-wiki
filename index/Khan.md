@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 2445
+revid: 2498
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -21,7 +21,7 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 ## Racial Abilities
 
 -   Versatile: You can equip things at 3 points lower than required.
--   +2 Strength  
+-   +2 Strength & +2 Agility Racial Attributes  
     
 
 ## Progression

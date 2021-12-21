@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 2416
+revid: 2499
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,8 +24,7 @@ Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange m
 
 ## Racial Abilities
 
--   **Maudet -** +1 Health
--   Learning things is easier
+-   **Maudet -** +1 Health, Learning things is easier. Additional Dialogue Options unlocked (Atleast what it says...)
 
 ## Progression
 

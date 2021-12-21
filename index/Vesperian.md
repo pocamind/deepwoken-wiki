@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 2438
+revid: 2483
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ Template:Race Box mark 2
 
 ## Lore
 
-_Placeholder_
+_Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents._
 
 ## Appearance
 
@@ -25,6 +25,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 ## Racial Abilities
 
 -   **Natural Armor -** Gives you a slight bit of armor as well as +2 health.
+-   **Chitin -** +2 Health
 
 ## Progression
 
@@ -32,7 +33,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Strengths
 
--   Placeholder
+-   Slight bit tankier than most if not all other races
 
 ## Weaknesses
 
@@ -41,3 +42,21 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 ## Notes/Trivia
 
 -   I'm pretty sure this is a Hollow Knight reference.
+
+<table>
+<tbody>
+<tr>
+  <td>Variants</td>
+</tr>
+</tbody>
+</table>
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>Mask Variants</td>
+</tr>
+</tbody>
+</table>

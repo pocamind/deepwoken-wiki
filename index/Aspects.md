@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2369
+revid: 2450
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,11 +9,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-There are many races within the world of Deepwoken, each with its unique racial abilities and skills. Currently there are (Number) races in Deepwoken. It costs (Number) Robux to reroll your race.
+There are many races within the world of Deepwoken, each with its unique racial abilities and skills. Currently there are 9 (Nine) races in Deepwoken. It costs 150 Robux to reroll your race.
 
 ## Rollable Races
 
-These races are obtainable by anyone. One of these races will be given to the player when they first play the game. A new races can be obtained by rerolling your race for (Number) Robux or starting a new character.
+These races are obtainable by anyone. One of these races will be given to the player when they first play the game. A new races can be obtained by rerolling your race for 150 Robux or buying a new character slot.
 
 <table><caption><b>Race Roll Rates</b></caption>
 <tbody>

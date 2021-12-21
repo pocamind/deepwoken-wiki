@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2405
+revid: 2514
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,7 +24,7 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 
 ## Racial Abilities
 
--   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is studier against its effects. (+1 health)
+-   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects. (+1 health)
 -   Gets a free 2 points into Intelligence and Willpower.
 
 ## Strengths.

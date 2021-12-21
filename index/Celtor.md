@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 2448
+revid: 2500
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,12 +18,17 @@ Template:Race Box mark 2
 
 _Placeholder_
 
+## Racial Abilities
+
+-   +2 Health (Maybe?)
+-   Slightly higher profincecy with ships (Probably not)
+-   +1 Agility & +2 Charisma Racial Attributes
+
   
 
 ## Strengths
 
--   +2 Health
--   Slightly higher profincecy with ships
+-   Placeholder
 
 ## Weaknesses
 
