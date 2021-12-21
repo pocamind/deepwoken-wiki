@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 2328
+revid: 2438
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,7 +24,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Racial Abilities
 
--   **Natural Armor -** They get some sort of natural armor, I don't know what it does but we can see it in Agamatsu's stream.
+-   **Natural Armor -** Gives you a slight bit of armor as well as +2 health.
 
 ## Progression
 

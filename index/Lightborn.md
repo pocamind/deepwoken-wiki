@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 2247
+revid: 2449
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -24,7 +24,7 @@ Lightborn are fair-skinned Humanoids with crosses in their eyes and White or Gol
 
 ## Racial Abilities
 
--   **Placeholder -** Placeholder
+-   +2 points in every attribute (except charisma)
 
 ## Progression
 

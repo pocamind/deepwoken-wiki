@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 2269
+revid: 2445
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,7 +18,11 @@ Khans resemble the Sun Wukong from Mandarin Chinese mytholgy. With the spiky hai
 
 Khans are ape-like humanoids with bits of jewelry around their head. They have orange/yellowish hair and have light green eyes.
 
-  
+## Racial Abilities
+
+-   Versatile: You can equip things at 3 points lower than required.
+-   +2 Strength  
+    
 
 ## Progression
 
@@ -26,10 +30,13 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 
 ## Strengths
 
--   is monke  
+-   You can equip things at 3 points lower at required.  
     
 
-  
+## Weaknesses
+
+-   None  
+    
 
 ## Notes/Trivia
 

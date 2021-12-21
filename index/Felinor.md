@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2370
+revid: 2443
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,25 +10,26 @@ categories: [Races]
 
 ## Descriptions
 
-zani#9013
+[Nocrune#7275](#lore)
 
 Template:Race Box mark 2
 
 ## Lore
 
-zani#9013
+Nocrune#7275
 
 ## Appearance
 
-A humanoid appearance that has physical features that would resemble that of a feline, hence the name _felinor_.
+A fat ass whale that has physical features that would resemble that of a whale, hence the name _Nocrune_.
 
--   Distinctly visible cat ears.
--   Orange - Yellow eyes.
--   Pale yellow skin.
+-   400lb stomach.
+-   Greasy - unkempt hair.
+-   No pussy.
 
 ## Racial Abilities
 
-placeholder
+-   Naturally more stealthy
+-   when vaulting/sliding you get a speed buff
 
 ## Strengths
 

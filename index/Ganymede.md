@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2348
+revid: 2405
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -20,21 +20,22 @@ TBA;.
 
 ## Appearance
 
-Ganymedes are pitch-black creatures with bright white eyes, they seem to resemble insects. Not much information is known about this race. \[add Info here\] (theorized they are based of snails, if confirmed please quote in the comments)
+Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety of colors, they seem to resemble insects. Not much information is known about this race. Under their trademark hats, they have white hair. (theorized they are based of snails, if confirmed please quote in the comments)
 
 ## Racial Abilities
 
-N word pass
+-   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is studier against its effects. (+1 health)
+-   Gets a free 2 points into Intelligence and Willpower.
 
-## Strengths
+## Strengths.
 
-Have all the rights to say the n word.
+-   Gets +1 health
 
-Invisible in the dark.
+  
 
 ## Weaknesses
 
-Sometimes unable to see self in the dark.
+-   None
 
 ## Notes/Trivia
 

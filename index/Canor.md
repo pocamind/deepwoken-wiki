@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 2325
+revid: 2396
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -30,7 +30,10 @@ They are based on wolves and lions (confirmed recently)
 
 ## Racial Abilities
 
--   Placeholder
+-   Loyalty : Deal less damage to allies (awful)
+-   Vault: Extra speed after vaulting over objects for a short time.
+
+  
 
   
 

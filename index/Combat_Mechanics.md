@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 1662
+revid: 2385
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
 
 _Basic information about **combat** to give any voyager a fighting chance._
 
-**Please note that _all_ of this info can be wrong as the game isn't out yet.**
+**~Please note that _all_ of this info can be wrong as the game isn't out yet.~ THE GAME IS OUT YEEEEAAAAAAAAAA-**
 
 ## GUI
 
