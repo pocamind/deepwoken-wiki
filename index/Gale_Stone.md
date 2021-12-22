@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 2837
+revid: 2897
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,4 +19,4 @@ Holding a Gale Stone.
 
 **What It Does:**
 
-\[Unknown\]
+Can be used to obtain the GaleBreath Magic

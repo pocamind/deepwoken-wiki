@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 2694
+revid: 2947
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -53,7 +53,7 @@ Text
 
 **Strengths:**
 
-abcd
+Exploration - Nice compass.
 
 **Weaknesses:**
 

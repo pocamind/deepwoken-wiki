@@ -1,11 +1,13 @@
 ---
 title: Alchemy
-revid: 2779
+revid: 2907
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alchemy
+
+### _**hey, just saying, we might have to move alchemy recipes to Recipes and Alchemy**_
 
 **brewing is fun**
 
@@ -61,3 +63,9 @@ different person here (Chronos#6591)
 1 stick + 1 gobletto seems to give you invigorating elixir which gives hp regen w/o a campfire
 
 [https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif](https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif) proof of it actually healing
+
+Alchemy Chart by bobbio76#2916
+
+[https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
+
+Blank Spots are untested

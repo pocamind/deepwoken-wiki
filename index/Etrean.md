@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 2880
+revid: 2961
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -27,8 +27,7 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 -   +1 Health
 -   2 Agility
 -   2 Intelligence
--   When crouching pressing g your screen fades to gray
--   Immune to acid rain (Unconfirmed) <---- This is cap,alright? got my health drained once <---- (Never taken acid rain dmg)
+-   Immune to acid rain (Unconfirmed) <---- This is cap,alright? got my health drained once <---- (Never taken acid rain dmg) <---- (As an Etrean, I've taken acid rain damage.)
 
 ## Progression
 
@@ -45,3 +44,4 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 ## Notes/Trivia
 
 -   This race is based off many different naruto characters that are heavily related to snakes. All their variations reference a certain character, Black Haired for Orochimaru, White haired for Kabuto, and blue hair for Mitsuki
+-   When hit, Etreans will say "Sss!", referencing the fact they are a snake race.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 2795
+revid: 2978
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,7 +19,7 @@ The Depths looks like an underground sea. Where spirits either stay or escape.
 
 Celtor City, taken by the Sea.
 
-## Creatures (No official names)
+## Creatures (Few official names)
 
 -   [Seekers](Watcher.md)
 -   Depth Angels
@@ -28,7 +28,7 @@ Celtor City, taken by the Sea.
 -   Crab
 -   Depth Owl
 -   Menos Fish
--   Collasal Reptillian
+-   Sharko
 
 ## How do you escape?
 
@@ -44,7 +44,9 @@ Power 1-10: Nothing. You get to escape The Depth on the spot.
 
 Power 10-??: 1 swordman
 
-Power 30+: 1 Depth Angel
+Power 20-??: 1 Depth Angel
+
+Power 60: 1 Enforcer
 
 **NOTE:** If multiple players take on The Trial, the trial will be scaled of the player with the highest Power, and each additional player will add an extra enemy to fight (5 players taking on the trial = 5 enemies).
 

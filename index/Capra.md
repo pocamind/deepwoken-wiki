@@ -1,19 +1,27 @@
 ---
 title: Capra
-revid: 2700
+revid: 2954
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Capra
 
-**Placeholder for future use**
+**Placeholder for future use**Template:Races-MainThey are goated, literally
 
-They are goated, literally
+Capra has 3 color variant, and each one of them having specific active abilities.
 
-They spawn with Marks that buff ppl
+  
 
-+2 Int and +2 Will
+File:Capra2.png
 
-They buff their own sanity and the sanity of everyone around them when in the depths.
+Blue variant - _**Mark of Jurik**_ | Buffs the sanity of everyone around them besides the campfire. |
+
+Green variant - _**Mark of Nemit**_ | Buffs the food of everyone around them besides the campfire. |
+
+Red variant - _**Mark of Ku**_ | Buffs the "rest" of everyone around them besides the campfire. |
+
+**+2 Intelligence**
+
+**\+ 2 Willpower**

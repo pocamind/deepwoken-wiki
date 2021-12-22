@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 2751
+revid: 2960
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -22,8 +22,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Racial Abilities
 
--   **Natural Armor -** Gives you a slight bit of armor as well as +2 health.
--   **Chitin -** +2 Health
+-   **Chitin -** "You have a layer of natural armor that replenishes when you rest" - +2 health. Innate damage reduction that degrades with damage and can be replenished at a campfire.
 
 ## Progression
 

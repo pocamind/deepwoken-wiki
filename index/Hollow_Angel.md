@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 2746
+revid: 2938
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,4 +30,4 @@ White and Yellow Humanoid creatures with wings
 ## Located
 
 -   [The Depths](The_Depths.md)
--   The Overworld? (Assumption based on that there are [Seekers](Watcher.md) within the Overworld)
+-   The Overworld (Summoned by [Seekers](Watcher.md) in the Overworld)
