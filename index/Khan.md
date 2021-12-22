@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 2771
+revid: 2867
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -9,6 +9,8 @@ categories: [Races]
 # Khan
 
 ## Description
+
+**"Monke Race"**
 
 Khans resemble the Sun Wukong from Mandarin Chinese mytholgy. With the spiky hair and a small crown. Template:Race Box mark 2
 
@@ -43,6 +45,7 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 
 -   Looks similar to [Wukong](https://en.wikipedia.org/wiki/Monkey_King), a character from a story/myth made during the [Song Dynasty](https://en.wikipedia.org/wiki/Song_dynasty) in China.
 -   Wukong's crown on his head (from the note above) cannot be taken off, and was used to restrain Wukong from commiting murder.
+-   ooh ooh aah aah me monkey
 
   
 

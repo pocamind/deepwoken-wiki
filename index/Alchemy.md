@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 2756
+revid: 2779
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,11 +19,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 uhhh thats it lol!!!!!
 
-**Hi, Felinor here, I found out some recipes! (miodrag333)**
+**Hi, Felinor here, I found out some recipes! (miodrag333) (Anja <3#3252)**
 
 3x browncap = disgusting bane (deals damage)
 
-2x gobletto = invigorating elixir ~(fast regen for 15 health)~ Large loss of food and water
+3x gobletto = invigorating elixir (regeneration of health or Large loss of food and water)
 
 3x redd = icky bane (insta heal, drains ether)
 
@@ -53,7 +53,7 @@ uhhh thats it lol!!!!!
 
 \---------------------------------------------------------------------------------
 
-3x Ongo = Staggering Potion (don't know what this does)
+3x Ongo = Staggering Potion (don't know what this does) (Then drink it stupid)
 
   
 different person here (Chronos#6591)

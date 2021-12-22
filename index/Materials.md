@@ -1,15 +1,16 @@
 ---
 title: Materials
-revid: 2545
+revid: 2780
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Materials
 
-This is a list of materials in deepwoken which can be used to craft gear for your character (probably other uses as well)
+This is a list of several materials in Deepwoken as well as their uses.
 
   
+
 Wood - Cannot be sold to appraiser, can be crafted into a fire pit and sticks.
 
 Coal - Can be combined with a rock to create flint. (Probably used for fuel of a furnace)

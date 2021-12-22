@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 2747
+revid: 2877
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,7 +19,6 @@ Brown, Looks to be half a fish, Teeth Visible.
   
 
   
-
   
 
 ## Attacks
@@ -39,3 +38,12 @@ A giant lazer beam that takes around 3-4 seconds to charge up and does an Immens
     File:Big ass fish.jpg
     
     Fish on Land (not sure which island, picture by Hasseldanwinning1)
+    
+      
+    
+
+  
+
+## note
+
+its called lionfish in the files

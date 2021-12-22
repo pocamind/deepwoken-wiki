@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 2643
+revid: 2849
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,6 +14,8 @@ _"Your training finally bears fruit..." - Power Card Flavour Text_
 Power Cards (Or talents) are the main dish of your character. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
 
 There are many Talents in Deepwoken, all of which are under certain categories, such as the Engage Warrior Talent that allows your character to gain ether for each M1 Attack.
+
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Adept Flamecharmer, Depth Connection and The Sounds from Below are one. Depending on the prerequisite, its guarenteed your going to obtain them if you do the following requirements.
 
 Power Card Icon (Located at the top center of the screen)
 
@@ -53,6 +55,7 @@ Hand of Mantra Cards
 
 -   Moving Fortress \[Generic Talent, Obtained through Power\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
 -   Heavy Haul \[Generic Talent, Obtained through Power\] - Enemies who carry you move significantly slower. (+2 Health)
+-   Braced Collapse \[Generic Talent, Obtained through Power\] - After being block broken, the next attack to hit you deals reduced damage.
 
 ### Butterfly
 
@@ -70,7 +73,10 @@ Hand of Mantra Cards
 -   Concussive Force \[Generic Talent, Obtained through Power\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
 -   Duelist Dance \[Generic Talent, Obtained through Power\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 
-  
+### Ether Adept
+
+-   Nullifying Clarity \[Generic talent, Obtained through Power, 100 Ether, 200 Resevoir Requirement?\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact.  
+    
 
 ### Falling Star Guard
 
@@ -93,6 +99,8 @@ Hand of Mantra Cards
 ### Flamecharmer
 
 -   Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer. (+4 Elemental Intensity, +3 Health)
+-   Adept Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive, Power Level 23\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
+-   Produce Spark \[Generic Talent, Flamecharm Exclusive, Gained through Power\] - A simple production of Flame for the use of making Campfires.
 
   
 
@@ -124,6 +132,7 @@ Hand of Mantra Cards
 ### Metamancer
 
 -   Health Pack \[Generic Talent, Obtained through Power\] - It's extra health, do you need anything else? (+10 Health)
+-   Ether Pack \[Generic talent, Obtained through Power\] - It's extra Ether, do you need anything else? (+20 Ether)
 
   
 
@@ -180,12 +189,14 @@ Hand of Mantra Cards
 -   Martyr \[Obtained through Power\] - Enemies gain less health and posture when they knock you. (+3 Health)
 -   Polite Awakening \[Obtained through Power\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Hardened Nerves \[Obtained through Power\] - Slightly Increases Posture. (+2 Posture)
+-   Gourmand \[Obtained through Power\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
+-   Replenishing Knockout \[Obtained through Power\] - Gain more health and posture when knocking enemies.
 
 ## Mantra Cards/Attunement Abilities
 
 ### Strength Combat
 
--   Rapid Punches \[Strength Exclusive\] - Unleash a barrage of blows against your foes.
+-   Rapid Punches (1 Star Move) \[Strength Exclusive\] - Unleash a barrage of blows against your foes.
 
 ### Fire Combat
 
@@ -197,10 +208,13 @@ Hand of Mantra Cards
 ### Fire Support
 
 -   Graceful Flame \[Flamecharm Exclusive\] - Conjure an undying flame for you and your comrades to rest by. (Portable Campfire Mantra)
+-   Flames of Denial \[Flamecharm Exclusive, Wildcard Mantra\] - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 60 seconds until activated)
 
-**Frost combat**
+###### Frost combat
 
-Ice spikes \[Frostdraw Exclusive\] summon a spiek of ice form the ground
+-   Ice Spikes - Shoots up a beam of ice in front of where you're standing, dealing damage and sending people up.
+-   Frost Grab - Command grab that makes you rush foward and do damage to your opponent.
+-   Ice Blade (1 Star Move) - Acts like you are dual wielding swords and swings 4 times.
 
 ### Mystery
 
@@ -210,8 +224,9 @@ Ice spikes \[Frostdraw Exclusive\] summon a spiek of ice form the ground
 
 ## Notes/Trivia
 
--   The "Fold" Power Card can be used if you are not satisfied of your current hand of cards.
+-   The "Fold" Power Card can be used if you are not satisfied with your current hand of cards.
 -   The Power Card, "The Sound from Below" are always drawn per character at a certain Power Level.
 -   The "Heavy Lifting" Power Card reduces the movement speed penalty of carrying objects, does not allow you to slide or use ziplines.
 -   The "Graceful Flames" Mantra Card does not cook food, and has a duration of 30 seconds (Somewhere in that duration).
 -   It's highly suggested that for the "Warrior's Respite" Power Card should be used in a safe place, if you don't have any materials to make a campfire or lack the Graceful Flame Mantra.
+-   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.

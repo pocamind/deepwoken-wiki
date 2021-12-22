@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 2762
+revid: 2886
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 -   Sparring Arena (Located in the Temple of the Blade)
 -   Blacksmith
 -   Training Equipment
--   4 Quests
+-   Quests
 -   Unoccupied Lodge
 
 ## Quests
@@ -37,7 +37,8 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 ### Etrean Swordsman Quest
 
 -   To start this quest, talk to the Etrean in the Sparring Arena, located next to the Sparring NPC.
--   If asked about his attitude, he wants to be better, but lacks the proper knowledge in the Sword. He then asks you to give him a Weapon Manual.
+-   If asked about his attitude, he wants to be better, but lacks the proper knowledge in the Sword. He then asks you to give him a Weapon Manual
+-   The quest gives no rewards.
 
 ### A Lost Sibling Quest
 
@@ -49,4 +50,18 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 -   Talk to the Etrean that is idling next to a log, near the Bank.
 -   She will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
 -   Accepting her quest gives you a Lumber Axe for free.
+-   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
 -   Acts similar to Korin in Etris; 10 Wood for 5 Notes.
+
+### The Librarian Quest
+
+-   Speak to Kelsius, the Adret Librarian in the Library; located inside The Temple of the Blade.
+-   Kelsius will mention of an Etrean who borrowed the books, and pinpoints his location in an Abandoned Lodge under Etris.
+-   Upon arriving, a NPC by the name of Sentinel guards the front door. He is not hostile, and can grant you passage inside the house if you talk to him.
+-   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. Further dialogue triggers a bone-chilling atmosphere.
+-   Return to Kelsius and you'll be able to glean a selection of cards which you can choose from.
+
+## Notes/Trivia
+
+-   Before doing the "The Librarian" Quest, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.
+-   In the "Etrean Swordsman" Quest, The Etrean does not take your Weapons Manual.

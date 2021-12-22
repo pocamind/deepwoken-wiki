@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 2770
+revid: 2795
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,15 +32,25 @@ Celtor City, taken by the Sea.
 
 ## How do you escape?
 
-To escape the depths, you must find a way to climb the walls surrounding the citadel. Be careful though, if you get seen by the monsters (?) you will die and get wiped. After you managed to climb the wall, head to the center of the citadel (DO NOT FALL JUST WALK ON TOP OF THE WALLS) and jump down inside of the cathedral, then you must find an elevator and toggle it.
+The doors to your escape will be closed (most often). To open it, you must ring the bells within the city.
 
-**Or**
+Each district of the City of the Drowned have a bell that can be found by following a humming/shimerring sound effect toward unrung bells. Jumping and interacting with it will restore health and make an audible bell noise.
 
-Make your way inside the town, then enter through the gate into the Citadel, it isn't always open but announces its opening with a bell sounding.
+Once all bell have been rung, a large bell choir will be heard across The Depth, signalling the possible salvation of the souls trapped within via the opening of the doors to The Trial.
 
-For earlier levels you will be able to escape the depths without a trial (Around 1-10)
+Upon entering the elevator and reaching the top, you will be faced with a trial, the difficutly of which depending on your Power.
 
-For people with power levels 10+ they will have to complete a trial that is scaled to their level to leave, for instance, someone with a power level of 15 might only have to fight a bandit, but someone with a power level of 30 will have to fight a angel in a 1v1 to escape the depths.
+Power 1-10: Nothing. You get to escape The Depth on the spot.
+
+Power 10-??: 1 swordman
+
+Power 30+: 1 Depth Angel
+
+**NOTE:** If multiple players take on The Trial, the trial will be scaled of the player with the highest Power, and each additional player will add an extra enemy to fight (5 players taking on the trial = 5 enemies).
+
+**Alternatively**
+
+With enough Agility or proper usage of the buildings, one can reach the upper part of the city's wall and walk along them to reach the middle piece containing the trial. Care must be taken, as falling from this wall can be quite desastrous.
 
 ### Reward for Escaping?
 

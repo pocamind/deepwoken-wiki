@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 2767
+revid: 2885
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,10 +15,19 @@ One of the most obvious mechanics in the game, crafting. Recipes can be learned 
 
 ## Recipes
 
--   _1 Egg, 2 Gathered Wheat -_ Noodles, can be made anywhere
--   _1 Browncap, 1 Dentifillo -_ Mushroom Soup, Campfire required
--   _3 Wheat -_ Bread, Campfire required
--   3 _Redd_ - Redd Juice, can be made anywhere
+-   _1 Egg, 2 Gathered Wheat -_ **Noodles**, can be made anywhere
+-   _1 Browncap, 1 Dentifillo -_ **Mushroom Soup**, Campfire required
+-   _1 Gobletto, 1 Dentifillo -_ **Mushroom Soup**, Campfire required
+-   _3 Wheat -_ **Bread**, Campfire required
+-   3 _Redd_ - **Redd Juice**, can be made anywhere
+-   ? _Egg_ - **Omlette/Cooked Egg**
+-   ? _Sap_, ? _Gathered_ _Wheat_ - **Sticky Bun**
+-   ? _Plumfruit_, ? _Gathered_ _Wheat_ - **Plumfruit Muffin**
+-   1 Fishmeat - Cooked Fishmeat (Campfire required)
+-   2 Fishmeat - Chum
+-   2 calabash 1 sap - candied fruit
+
+  
 
 ## Alchemy
 
@@ -45,3 +54,4 @@ One of the most obvious mechanics in the game, crafting. Recipes can be learned 
 ## Notes/Trivia
 
 -   Sadly, you cannot use the Graceful Flame Mantra (Flamecharm exclusive) to cook Food.
+-   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.

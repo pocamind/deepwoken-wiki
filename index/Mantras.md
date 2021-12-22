@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 2529
+revid: 2873
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,13 +13,13 @@ Mantras are a special cast and writings that can be obtained through harsh train
 
 Mantras allow you to use certain spells and are unique to everyone. The base mantra element you can begin with are:
 
-**Flamecharm: Based off of fire attacks**
+**Flamecharm: Based off of fire attacks that ignite enemies on fire (Damage focused attacks like grabs)**
 
 **Thundercall: Utilizes stun and Lightning (teleports, agility, etc)**
 
 **Frostdraw: Allows you to freeze enemies and can crowd control**
 
-**Galebreath: Uses the forces wind to blow away or pull enemies towards you**
+**Galebreath: Directed towards movement and physical forces based around wind (Dashing, pushes, pulls, etc)**
 
   
 

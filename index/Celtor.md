@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 2765
+revid: 2842
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ Template:Race Box mark 2
 
 ## Lore:
 
-_Placeholder_
+racoon
 
 ## Racial Abilities
 

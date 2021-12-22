@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 2743
+revid: 2865
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,6 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 -   The Etrean Sea
 -   The Aratel Sea
+-   The Voidsea
 -   Etris (Starting Island)
 -   Isle of Vigils (Starting Island)
 -   Lower Erisia (Etrean Sea)

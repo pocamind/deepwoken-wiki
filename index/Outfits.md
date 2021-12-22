@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 2768
+revid: 2841
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,6 +32,27 @@ Image of the Outfit List, with 2 outfits learned
 
   
 
+## Outfits
+
+### Starter
+
+-   Stranded Armor -
+-   Traveler Cloak Armor -
+
+### Adept
+
+-   Experienced Adventurer -
+-   Cutthroat Light Armor - _"Sturdy Leather Armor, fashioned for the hunters sent into the Driftlands to deal with rival factions."_
+    -   Craft Req: x4 Cloth, x1 Crystal Lens, x4 Fiber, x5 Iron, 30 Notes | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 Durability, +Talent - Hunter, +10% Slash Armor
+-   Vigil Initiate - _"Initiate of a Vigil. A Warrior must walk the past before being granted the cloak of Winds."_
+    -   Craft Req: x5 Cloth, x5 Fiber, x4 Iron | Stat Req: Power Level 15 | Armor Stats: +20% Physical Armor, +Talent - Paired Soul, +1200 Durability, +10% Blunt Armor
+
+### Expert
+
+-   Grandmaster Pathfinder Cloak
+-   Darksteel Plate - _"The durable battle armour of an Adretian Soldier. The Armour is specifically forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile Armour Plate."_
+    -   Craft Req: x5 Cloth, x1 Dark Feather, x5 Erisore, x5 Fiber, x1 Strange Claw, 300 Notes | Stat Req: Power Level 30 | Armor Stats: +25% Elemental Armor, +Talent - Unbreakable, +2500 Durability, +25% Physical Armor
+
 ## Armor Pieces
 
   
@@ -47,3 +68,7 @@ Black fur boots
 ### Rings
 
 Old ring
+
+Silver ring
+
+Gold ring

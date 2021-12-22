@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 2578
+revid: 2785
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -30,12 +30,13 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 ## Strengths.
 
 -   Gets +1 health
+-   Immune to Mental Illness (apparently)
 
   
 
 ## Weaknesses
 
--   Might get targeted for large amounts of drip cuz of your hat
+-   You could get targeted for having "too much drip."
 
 ## Notes/Trivia
 
