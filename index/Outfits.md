@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 2841
+revid: 3077
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,6 +46,34 @@ Image of the Outfit List, with 2 outfits learned
     -   Craft Req: x4 Cloth, x1 Crystal Lens, x4 Fiber, x5 Iron, 30 Notes | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 Durability, +Talent - Hunter, +10% Slash Armor
 -   Vigil Initiate - _"Initiate of a Vigil. A Warrior must walk the past before being granted the cloak of Winds."_
     -   Craft Req: x5 Cloth, x5 Fiber, x4 Iron | Stat Req: Power Level 15 | Armor Stats: +20% Physical Armor, +Talent - Paired Soul, +1200 Durability, +10% Blunt Armor
+-   Firekeepers armor (found behind bank of Etris)- stats unknown
+
+-   Navaen Nomad Robes - "Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold."
+    -   Craft Req: 5x Cloth, 8x Erisore, 5x Fiber, 2x Frigid Prism, 100 Notes. | Stat Req: Power level 15 | Armor stats: +1800 Durability, +10% Physical Armor, +10% Blunt Armor, +50% Stealth, +15% Shadow Armor, +15% Ice Armor, +10% Elemental Armor, +Talent: Fists of Navae
+        
+        File:Nomadrobes.png
+        
+        Navaen Nomad Robes
+        
+
+  
+
+-   Ignition Union Uniform
+    -   Craft Req: 5x Cloth, 5x Fiber, 3x Irithine, 1x Lionfish Scale. | Stat Req: Power Level 20 | Armor Stats: +22% Physical Armor, +2000 Durability, +22% Elemental Armor.
+
+File:RobloxPlayerBeta FSAXUT3HCG.png
+
+Ignition Union Uniform
+
+-   Flame Worshipper Armor - "Coat of the Covenant of Flame, pioneered by the Drowned Diver Amorus Pleeksty."
+    -   Craft Req: 4x Cloth, 4x Fiber, 2x Iron, 30x Notes | Stat Req: Power Level 15 | Armor Stats: +25% Fire Armor, +1000 Durability, +10% Physical Armor, +Talent: Intrepid Flame, +5 Elemental Armor.
+        
+        File:FlameWorshipperArmor.png
+        
+        Flame Worshipper Armor
+        
+
+  
 
 ### Expert
 

@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 2896
+revid: 3079
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,3 +27,4 @@ Investment Points always start and refresh at 5, and decreases per attribute inc
 -   At Power Level 10 or above, if you ever get to the part to leave the Depths, you are forced to partake in a Trial (Most likely a boss) in order to return to the Overworld. (Not true escaped at power level 14 without having to do a challenge)
 -   At Power Level 15, your character is eligible to create Guilds.
 -   At Power Level 23, your character can no longer train using Training Equipment, and must increase their skill through combat and activities. Choose your stats wisely.
+-   Every time you level up / power up your lives are reset (If you have a tainted health bar \[1 life\] powering up changes it to a normal healthbar and does not send you to the Abyss after dying once again.)

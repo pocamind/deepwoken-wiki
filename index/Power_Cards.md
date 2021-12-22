@@ -1,11 +1,13 @@
 ---
 title: Power Cards
-revid: 2849
+revid: 3084
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Power Cards
+
+(This page has been sadly transfered to the [Talents](Talents.md) page. My hard work put in this page was meaningless lol) - NickMcNate
 
 _"Your training finally bears fruit..." - Power Card Flavour Text_
 
@@ -48,6 +50,7 @@ Hand of Mantra Cards
 
 -   Triathlete \[Generic Talent, Obtained through Power\] - You swim faster in water. (+2 Passive Agility, +2 Health)
 -   Heavy Lifting \[Generic Talent, Obtained through Power\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
+-   Pitcher \[Generic Talent, Obtained through Power\] - You can throw things further. (+1 Carry Load, +1 Passive Agility, +3 Health)
 
   
 
@@ -59,11 +62,12 @@ Hand of Mantra Cards
 
 ### Butterfly
 
--   Swift Reboud \[Generic Talent, Obtained through Power\] Move faster after succesfully dodging an attack (+1 Passive Agility)
+-   Swift Reboud \[Generic Talent, Obtained through Power\] - Move faster after succesfully dodging an attack (+1 Passive Agility)
+-   Acrobat \[Generic Talent, Obtained through Power\] - Move faster when doing a Walljump. (+1 Passive Agility)
 
 ### Deepwoken
 
--   The Sounds from Below \[Generic Talent, Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
+-   The Sounds from Below \[Generic Talent, Character Exclusive, Power Level 2\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
 -   Depths Connection \[Generic Talent, Character Exclusive, Escape The Depths once\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Resevoir. (Better Ether Regeneration)
 
   
@@ -73,9 +77,14 @@ Hand of Mantra Cards
 -   Concussive Force \[Generic Talent, Obtained through Power\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
 -   Duelist Dance \[Generic Talent, Obtained through Power\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 
+### Escape Artist
+
+-   Boot Wallet \[Generic Talent, Obtained through Power\] - You no longer lose notes from dying.
+-   Robber Baron \[Generic Talent, Obtained through Power, Rare Card\] - You hold onto more items when defeated. (Reduce the amount of items lost on death)
+
 ### Ether Adept
 
--   Nullifying Clarity \[Generic talent, Obtained through Power, 100 Ether, 200 Resevoir Requirement?\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact.  
+-   Nullifying Clarity \[Generic talent, Obtained through Power\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact.  
     
 
 ### Falling Star Guard
@@ -86,7 +95,7 @@ Hand of Mantra Cards
 
 ### Fish
 
--   Fishman \[Exclusive Talent, Obtained through Power\] - Heal when swimming. Just remember that theres always a bigger fish.
+-   Fishman \[Obtained through Power, Rare Card\] - Heal when swimming. Just remember that theres always a bigger fish.
 
   
 
@@ -117,11 +126,17 @@ Hand of Mantra Cards
 
 -   Hoplite \[Generic Talent, Obtained through Power\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
 
+### Limitbreaker
+
+-   Uproar \[Generic Talent, Obtained through Power, Rare Card\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
+
   
 
 ### Meditative Trance
 
--   Warrior's Respite \[Exclusive Talent, Obtained through Power\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
+-   Warrior's Respite \[Obtained through Power, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
+
+  
 
 ### Mental Fortress
 
@@ -132,13 +147,14 @@ Hand of Mantra Cards
 ### Metamancer
 
 -   Health Pack \[Generic Talent, Obtained through Power\] - It's extra health, do you need anything else? (+10 Health)
--   Ether Pack \[Generic talent, Obtained through Power\] - It's extra Ether, do you need anything else? (+20 Ether)
+-   Ether Pack \[Generic Talent, Obtained through Power\] - It's extra Ether, do you need anything else? (+20 Ether)
+-   Adept \[Generic Talent, Obtained through Power, Exclusive Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
 
   
 
 ### Navaen Nomad
 
--   Champion's Regalia \[Exclusive Talent, Obtained through Power\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
+-   Champion's Regalia \[Obtained through Power, Rare Card\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
 
   
 
@@ -150,7 +166,7 @@ Hand of Mantra Cards
 
 ### Soul Converter
 
--   Bloodiron Spirit \[Exclusive Talent, Obtained through Power\] - You regain some Armor upon killing enemies.  
+-   Bloodiron Spirit \[Obtained through Power, Rare Card\] - You regain some Armor upon killing enemies.  
     
 
 ### Stormcaller
@@ -164,6 +180,7 @@ Hand of Mantra Cards
 ### Thief
 
 -   Pickpocket \[Generic Talent, Obtained through Power\] - Gain the ability to pickpocket by pressing "N" (+4 Ether, +2 Passive Agility)
+-   Cap Artist \[Generic Talent, Obtained through Power\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 
 ### Thundercaller
 
@@ -177,6 +194,7 @@ Hand of Mantra Cards
 ### **Waterborne**
 
 -   Conditioned Swimmer \[Generic Talent, Obtained through Power\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
+-   Scuba Drowner \[Generic Talent, Obtained through Power, Rare Card\] - You no longer drown to death when drowned in waters. (+1 Passive Agility
 
 ### **Weapon Master**
 
@@ -219,8 +237,13 @@ Hand of Mantra Cards
 ### Mystery
 
 -   Mystery Mantra \[Any Attunement\] - Recieve a random Attunement Combat Mantra of any of your Character's Attunements. (Example: Random Fire, Thunder or Strength Combat Mantra)
--   Roll 2 - Recieve 2 random Talents.  
-    
+-   Roll 2 - Recieve 2 random Talents.
+
+## Outfit Talents
+
+### Pathfinder
+
+-   Environmentalist - Resist the effects of some Weather Effects. (Obtained by the Pathfinder Cloak Outfit)
 
 ## Notes/Trivia
 

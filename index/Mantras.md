@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 2873
+revid: 3059
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,9 @@ Mantras allow you to use certain spells and are unique to everyone. The base man
 
 Mantras can be modified by recalling them at a campfire, and then placing them on a mantra table which are located in mantra shops. To modify a mantra, place the mantra onto the mantra table and add ingredients. Ingredients that can modify a mantra have a purple background in the inventory.
 
-If the ingredients used to modify the mantra are incompatible with the mantra, then the modification will fail. You will get the mantra back in your inventory and the ingredient(s) will be lost.  
+If the ingredients used to modify the mantra are incompatible with the mantra, then the modification will fail. You will get the mantra back in your inventory and the ingredient(s) will be lost.
+
+[Here](Mantra_Modifiers.md) you can check some mantra modifiers.  
 
 ## How can I get a Mantra?
 

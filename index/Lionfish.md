@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 2877
+revid: 3089
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,7 @@ A giant lazer beam that takes around 3-4 seconds to charge up and does an Immens
 
 -   [The Depths](The_Depths.md)
 -   Land?
--   Somewhere in a different sea that starts with an A, near the Summer isles where you can buy guns
+-   Aratel Sea
     
     File:Big ass fish.jpg
     

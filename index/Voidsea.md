@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 2955
+revid: 3022
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,13 @@ _**"Placeholder area description"**_
 
 ## Overview
 
-The Void Sea is presumed to be one of the main areas in Deepwoken. It is speculated to be an ecological deadzone, where some sort of sea monster resides. Apparently, it will be incredibly easy to stumbe into during travelling. Template:Areainfobox
+The Void Sea is one of the main areas in Deepwoken. It is speculated to be an ecological deadzone, where some sort of sea monster(s) resides. Apparently, it will be incredibly easy to stumble into during travelling. It covers a fairly large part of the sea and can appear out of no where so while going long distances be very careful. Template:Areainfobox  
+
+## Description
+
+The Void sea has dark and gloomy waters. It is very dangerous to enter as a low level due to the constant attacks by sea beast. It's very easy to get lost as the void sea is far away from land making it hard to create or use landmarks to get back.
+
+  
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 2978
+revid: 3062
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,18 +11,18 @@ categories: [Pages with broken file links]
 | The Depths | |
 |---|---|
 
-The Depths is said to be the purgatory in which your soul goes when you die enough. While here dying at ALL will wipe you forcing you to restart your progress. There are a lot of dangers in the Depths and monsters. Specificlly a large shark like creature that hunts you down. (**MORE WILL BE ADDED LATER WITH THE LAUNCH OF DEEPWOKEN)**
+##### "You feel The Depths coil around your soul like a knot." -The Depths warning that you will wipe if killed
+
+The Depths is said to be the purgatory in which your soul goes when you die enough. While here dying at ALL will wipe you forcing you to restart your progress. There are a lot of dangers in the Depths and monsters. Specificlly a large shark like creature that hunts you down.
 
 ## What does the Depths look like?
 
-The Depths looks like an underground sea. Where spirits either stay or escape.
-
-Celtor City, taken by the Sea.
+The Depths is located in a underwater afterlife; Almost a limbo in between life and death. You will travel through sunken cities and relics that were lost to the deep. This is your judgement, you either live of die.
 
 ## Creatures (Few official names)
 
 -   [Seekers](Watcher.md)
--   Depth Angels
+-   [Depth Angels](Hollow_Angel.md)
 -   [Jellyfish](Gigamed.md)
 -   Giant Jellyfish
 -   Crab
@@ -44,7 +44,7 @@ Power 1-10: Nothing. You get to escape The Depth on the spot.
 
 Power 10-??: 1 swordman
 
-Power 20-??: 1 Depth Angel
+Power 20-??: 1 Depth [Angel](Hollow_Angel.md)
 
 Power 60: 1 Enforcer
 

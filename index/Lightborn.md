@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 2601
+revid: 3038
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -41,4 +41,4 @@ Lightborn are fair-skinned Humanoids with crosses in their eyes and White or Gol
 ## Notes/Trivia
 
 -   ~Lightborn are probably the most humanoid race in Deepwoken, save for their halos and eyes~.(Canor looks more like a human than lightborn.)
--   Lightborn may end up being similar to [Seraph](https://rogue-lineage.fandom.com/wiki/Seraph?so=search/edit) from Rogue Lineage, where they are only obtainable by being a notable figure who has impacted the community. This is _not confirmed_
+-   Only obtainable from admins

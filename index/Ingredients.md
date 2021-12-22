@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 2703
+revid: 3039
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,15 +24,13 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 
 ## Ingredients
 
-Basic ingiedients in the game, found on the first island are following:
-
 Gobbleto - A mushroom that is white and has a bluelike stalk.
 
 Browncap - A brown mushroom with a white stalk. Not much theory.
 
 Dentifilo - Smallest mushroom, hard to see.
 
-Gathered wheat - **W H E A T**
+Gathered Wheat - **W H E A T**
 
 Bamboo bundle - Bamboo sticks, growing mostly on beaches and shores.
 
@@ -44,4 +42,11 @@ Plum fruit - Purple fruit. Its a plum, what did you expect?
 
 Ongo - Brown, round fruit.
 
-**BONUS** : The recipe you want to know(Especially veegtarian characters), because its the most basic : Any mushroom x1 + Any mushroom x1 = Mushroom soup
+**BONUS** : The recipe you want to know(Especially vegetarian characters), because its the most basic : Any mushroom x1 + Any mushroom x1 = Mushroom soup
+
+## Mantra Ingredients
+
+-   [Drift Shard](Mantra_Modifiers.md#regular-modifiers)
+-   [Multiplying Spark](Mantra_Modifiers.md#sparks)
+-   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
+-   [Spark Gland](Spark_Gland.md)

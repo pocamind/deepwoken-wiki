@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 2945
+revid: 3072
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,27 +32,36 @@ It is recommended to learn how they act and read their attack patterns if you wa
 
 (Finishing move description)
 
+### Notes/Tips
+
+(Description)  
+
 ## Monsters
 
-### Megalodaunt
+### Hugo
 
 File:Sharko.png
 
 Megalodaunt doing the ol' Russian Squat (He's trying his best)
 
-Seen mostly in Lower Erisia and around the Erisia Island, the Megalodaunt is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops a Megalodaunt Hide.(use is still unknown, but can be sold for notes)
+Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use is still unknown, but can be sold for notes)
 
 #### Attacks
 
--   **Thousand Needles** - The Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
--   **Yellow Burst** - The Megalodaunt bends down and releases an AOE around him that deals significant damage if you are caught within its radius.
--   **Palm Slap** - The Megalodaunt slaps his opponents two times, dealing moderate damage.
--   **Football Kick** - The Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate damage.
--   **Thundering Roar** - The Megalodaunt roars out of the top of his lungs, inflicting a status effect (This move is unblockable and is indicated by a purple particle effect and also puts you in combat. Similar to dragon roar from Rogue Lineage but with a larger range)
+-   **Thousand Needles** - Hugo bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
+-   **Yellow Burst** - Hugo bends down and releases an AOE around him that deals significant damage if you are caught within its radius.
+-   **Palm Slap** - Hugo slaps his opponents two times, dealing moderate damage.
+-   **Football Kick** - Hugo delivers a fierce kick, knocking whatever it kicked very far back. deals moderate damage.
+-   **Thundering Roar** - Hugo roars out of the top of his lungs, inflicting a status effect (This move is unblockable and is indicated by a purple particle effect and also puts you in combat. Similar to dragon roar from Rogue Lineage but with a larger range)
 
 #### Finisher
 
--   **Curb Stomp** - The Megalodaunt ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen almost under a second.
+-   **Curb Stomp** - Hugo ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen almost under a second.
+
+#### Notes/Tips
+
+-   Hugo lets out a gnarling snarl when he spawns in, notifying the player of his presence.
+-   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
 
   
 
@@ -92,4 +101,5 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 ## Notes/Trivia
 
--   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears. A panicked Player fighting Monsters like these will definitely lose the fight. (But I do ill advise it's better to run rather to fight a monster)
+-   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears. A panicked Player fighting Monsters like these will definitely lose the fight.
+-   A handful of the Monsters have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some Monster Hunting.

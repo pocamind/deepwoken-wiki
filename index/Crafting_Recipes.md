@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 2942
+revid: 3083
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,13 +21,18 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 ### Non-Tool Recipes
 
--   **Wood** - 3 sticks
--   **Sticks** - 1 Wood
+-   **Wood** - _3 Sticks_
+-   **Sticks** - _1 Wood_
 -   **Campfire** - 3 Sticks **OR** 1 Wood
+-   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
+-   **Cloth** - _3 Fiber_
+-   **Sack** - _2 Cloth_
+-   **Flint** - _1 Coal, 1 Rock_
 
 ### Crafting Bench Recipes
 
--   **Canteen** - 1 Beewax, 1 Calabash
+-   **Canteen** - _1 Beewax, 1 Calabash_
+-   **Glider** - _2 Sticks, 2 Cloth_
 
 ## Food Recipes
 
@@ -39,9 +44,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Redd Juice** - _3 Redd_
 -   **Chum** - _2 Fishmeat_
 -   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap_
--   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
--   **Cloth** - _3 Fiber_
--   **Sack** - _2 Cloth_
+-   **Fruit Salad** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd)_
 
 ### _Campfire Recipes_
 
@@ -51,6 +54,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_
 -   **Cooked Fishmeat** - _1 Fishmeat_
+-   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
 
 ## Alchemy
 
