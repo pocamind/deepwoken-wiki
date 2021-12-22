@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 2498
+revid: 2771
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -30,7 +30,8 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 
 ## Strengths
 
--   You can equip things at 3 points lower at required.  
+-   You can equip things at 3 points lower at required.
+-   Drippy ass crown  
     
 
 ## Weaknesses
@@ -41,7 +42,7 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 ## Notes/Trivia
 
 -   Looks similar to [Wukong](https://en.wikipedia.org/wiki/Monkey_King), a character from a story/myth made during the [Song Dynasty](https://en.wikipedia.org/wiki/Song_dynasty) in China.
--   ^^The crown on his head was used to restrain Wukong from kiling(it cannot be token off). Whenever the owner of the crown start to pray Wukong well get a strong headache.
+-   Wukong's crown on his head (from the note above) cannot be taken off, and was used to restrain Wukong from commiting murder.
 
   
 

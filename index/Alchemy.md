@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 2616
+revid: 2756
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ uhhh thats it lol!!!!!
 
 3x browncap = disgusting bane (deals damage)
 
-3x gobletto = invigorating elixir (Healing)
+2x gobletto = invigorating elixir ~(fast regen for 15 health)~ Large loss of food and water
 
 3x redd = icky bane (insta heal, drains ether)
 
@@ -48,3 +48,16 @@ uhhh thats it lol!!!!!
 3x pomar 2x bamboo bundle = appalling blight (Drains ether)
 
 2X Browncap 1x bamboo bundle = appalling Bane (deals damage and drains reservoir)
+
+**These are all potions I found out, good luck alchemist!**
+
+\---------------------------------------------------------------------------------
+
+3x Ongo = Staggering Potion (don't know what this does)
+
+  
+different person here (Chronos#6591)
+
+1 stick + 1 gobletto seems to give you invigorating elixir which gives hp regen w/o a campfire
+
+[https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif](https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif) proof of it actually healing

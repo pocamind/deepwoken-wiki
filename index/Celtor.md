@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 2554
+revid: 2765
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -20,9 +20,8 @@ _Placeholder_
 
 ## Racial Abilities
 
--   +2 Health (Maybe?)
--   Slightly higher profincecy with ships (Probably not)
--   +2 intellegence & +2 Charisma Racial Attributes
+-   Seaborne - "You have a keen understanding of ships and their maintenance." - +2 Health. Owned ships have +10% hp.
+-   +2 intelligence & +2 Charisma
 
   
 

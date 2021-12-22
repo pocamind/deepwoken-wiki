@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 2630
+revid: 2697
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,6 +31,6 @@ These races are obtainable by anyone. One of these races will be given to the pl
 
 ## Notes
 
--   NPC's and **some** players may treat you differently depending on your race, but most of the time enough points in Charisma will over right their aggression towards you.
--   All races are **balanced** you do not need a rare race to be considered **good** at the game, rarer races simply look cooler.
+-   NPC's and **some** players may treat you differently depending on your race, but most of the time enough points in Charisma will overwrite their aggression towards you.
+-   All races are **balanced** you do not need a rare race to be considered **good** at the game.
 -   All races will only give a small amount of boosts or a head start at best meaning that to survive you **must** be skilled and can not simply rely on your race's abilities to carry you in a battle.

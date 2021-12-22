@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 2593
+revid: 2733
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,9 +15,9 @@ _"All that training, and for what?" - Unimpressed Etrean_
 
 Power Levels are your character's experience and combat ability. The more power you have, the better; along with encountering/unlocking dialogue and dangers.
 
-## Investment points
+## Investment Points & Free Points
 
-investment points (or Free Points) are the amount of points you can put into your seperate stats before levelling up, 1 point per level (2 per level if you have the Autodiact Trait)
+Investment Points are the amount of points you can put into your seperate stats before levelling up, Once your number of investment points reaches 0, you level up. Upon leveling, you gain 1 Free Point per level (2 per level if you have the Autodiact Trait)
 
   
 

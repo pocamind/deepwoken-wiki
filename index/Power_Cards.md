@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 2633
+revid: 2643
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -214,3 +214,4 @@ Ice spikes \[Frostdraw Exclusive\] summon a spiek of ice form the ground
 -   The Power Card, "The Sound from Below" are always drawn per character at a certain Power Level.
 -   The "Heavy Lifting" Power Card reduces the movement speed penalty of carrying objects, does not allow you to slide or use ziplines.
 -   The "Graceful Flames" Mantra Card does not cook food, and has a duration of 30 seconds (Somewhere in that duration).
+-   It's highly suggested that for the "Warrior's Respite" Power Card should be used in a safe place, if you don't have any materials to make a campfire or lack the Graceful Flame Mantra.

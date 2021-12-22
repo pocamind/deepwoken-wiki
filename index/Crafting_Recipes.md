@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 2595
+revid: 2767
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,6 +18,7 @@ One of the most obvious mechanics in the game, crafting. Recipes can be learned 
 -   _1 Egg, 2 Gathered Wheat -_ Noodles, can be made anywhere
 -   _1 Browncap, 1 Dentifillo -_ Mushroom Soup, Campfire required
 -   _3 Wheat -_ Bread, Campfire required
+-   3 _Redd_ - Redd Juice, can be made anywhere
 
 ## Alchemy
 

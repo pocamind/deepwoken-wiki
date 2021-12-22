@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 2615
+revid: 2752
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,7 +38,7 @@ Ankle Weights - Agility Training
 
 Mathematics Book - Intellegence Training
 
-Encyclopedia - ???
+Encyclopedia - Intelligence training
 
 Prayer Beads - Willpower Training
 
@@ -51,6 +51,7 @@ Weapon Manual - Light, Medium, or Heavy Weapons Training
 ## Notes/Trivia
 
 -   The Mathematics Book makes you do complicated Math Problems under a time limit (6 Seconds?)
+-   Encyclopedia does not need your brain to work.
 -   The "How to Make Friends" Training Item requires you to go outside and talk to NPCs.
 -   Boulder Training damages you.
 -   All Training Items have durability, indicated by \[#\] on their item description.

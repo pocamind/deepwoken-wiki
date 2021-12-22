@@ -1,18 +1,16 @@
 ---
 title: Vesperian
-revid: 2483
+revid: 2751
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Vesperian
 
-## Description
+File:Goated Vesperian.png
 
-Placeholder
-
-Template:Race Box mark 2
+A vesperian (greenish-brown variant) with daggers and some armor.
 
 ## Lore
 
@@ -20,7 +18,7 @@ _Never seen without their masks, Poorly understood, but begrudgingly appreciated
 
 ## Appearance
 
-Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each character. It's horns grow over time.
+Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each character. It's horns grow over time. Masks change based on what the player chooses in the beginning of the game / after a wipe.
 
 ## Racial Abilities
 
@@ -33,11 +31,11 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Strengths
 
--   Slight bit tankier than most if not all other races
+-   It is a bit more of a tank compared to the other races. Also starts you off with low-end armor.
 
 ## Weaknesses
 
--   Placeholder
+-   No weaknesses out of now. Has shaped up to be one of the best races in the game currently.
 
 ## Notes/Trivia
 

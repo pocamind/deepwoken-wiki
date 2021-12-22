@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 2626
+revid: 2694
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -21,14 +21,14 @@ Tolerant of extremes that many others would avoid._"
 <table><caption></caption>
 <tbody>
 <tr>
-  <td>(Image vertical compass)</td>
+  <td><figure>File:MentalCompass.png<figcaption></figcaption></figure></td>
   <td><b>Mental Compass</b>
   <ul>
     <li>Gain a compass on top of your screen</li>
   </ul></td>
 </tr>
 <tr>
-  <td>File:Navae's Guidance.png</td>
+  <td><figure>File:Navae's Guidance.png<figcaption></figcaption></figure></td>
   <td><b>Navae's Guidance</b>
   <ul>
     <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"</li>
