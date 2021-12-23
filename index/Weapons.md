@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 3082
+revid: 3508
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 This page will list the different weapons that you will use in Deepwoken.
 
-There are three different main types of weaponry:
+There are three different main types of weaponry,
 
 Strength weapons (which are governed by the strength attribute), are weapons characterized by their large hitboxes, slow weapon attacks and high damage.
 
@@ -44,6 +44,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Daggers delivers a series of slashes forwards.
 -   Spears performs a low blow. If hit, they lunge back then forwards.
 -   Swords winds up a powerful thrust.
+-   Clubs performs a standing vertical blow that stuns.
 -   Greataxes performs a slow, vertical cleave.
 
 ## Damage Types & Resistances
@@ -88,11 +89,11 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Falchion (Primary)
 -   Messer (Primary)
 -   Scimitar (Primary)
--   Katana (Primary)
+-   Katana (Primary) serpent blade (idk how to not leave huge gaps on fandom so fix this for me)
 
-### Blunts
+### Clubs
 
--   Maces (Primary)
+-   Mace (Primary)
 
 ## Heavy Weapons
 
@@ -105,7 +106,10 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Zweihander (Primary)
 -   Shadow Greatsword (Primary)
 
-  
+### Greathammers
+
+-   Warhammer (Primary)  
+    
 
 ## Mischelleny
 

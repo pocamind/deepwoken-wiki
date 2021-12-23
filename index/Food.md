@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 3226
+revid: 3312
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ _"Finally, some good fucking food." - Morgan Rhansey_
 
 Food is a necessary need for your Character's wellbeing. Ingredients and Food can sate your hunger or thirst, but others can decrease it via vomiting.
 
-Some Foods (Such as Candied Fruit and Mushroom Omlettes) takes a portion of your Hunger/Thirst bar with a different color; known as Reinforced Hunger/Thirst. Based on the color, Reinforced Hunger/Thirst reduce the decay rate.
+Some Foods (Such as Candied Fruit and Mushroom Omlettes) takes a portion of your Hunger/Thirst bar with a different color; known as Reinforced Hunger/Thirst. Based on the color, Reinforced Hunger/Thirst grants buffs such as Mantra Damage until the Reinforced bar is depleted.
 
 For knowing how to make Food, go here. Ingredients are also [here](Ingredients.md).
 

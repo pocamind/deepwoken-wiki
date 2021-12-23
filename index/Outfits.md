@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 3158
+revid: 3522
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -47,7 +47,11 @@ Image of the Outfit List, with 2 outfits learned
 ### Starter
 
 -   Stranded Armor -
--   Traveler Cloak Armor -
+    -   Craft Req: None, given upon creating a character
+-   Traveler Cloak Armor - _"A well-worn (color) travelers cloak."_
+    -   Craft Req: x1 Cloth, 10 Notes | Stat Req: None | Armor Stats: +1000 Durability, +12% Physical Armor
+-   Skeptic Pioneer - _"A durable coat to protect you against the wear of the world."_
+    -   Craft Req: x5 Cloth, x2 Crystal Lens, x5 Fiber, 25 Notes | Stat Req: None | Armor Stats: +1200 Durability, +8% Elemental Armor, +8% Physical Armor, +Talent: Apothecary
 
 ### Adept
 
@@ -56,7 +60,8 @@ Image of the Outfit List, with 2 outfits learned
     -   Craft Req: x4 Cloth, x1 Crystal Lens, x4 Fiber, x5 Iron, 30 Notes | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 Durability, +Talent - Hunter, +10% Slash Armor
 -   Vigil Initiate - _"Initiate of a Vigil. A Warrior must walk the past before being granted the cloak of Winds."_
     -   Craft Req: x5 Cloth, x5 Fiber, x4 Iron | Stat Req: Power Level 15 | Armor Stats: +20% Physical Armor, +Talent - Paired Soul, +1200 Durability, +10% Blunt Armor
--   Firekeepers armor (found behind bank of Etris)- stats unknown
+
+-   Firekeepers armor (~found behind bank of Etris~ it's not i checked)- Requirements and stats are unknown
 
 -   Navaen Nomad Robes - "Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold."
     -   Craft Req: 5x Cloth, 8x Erisore, 5x Fiber, 2x Frigid Prism, 100 Notes. | Stat Req: Power level 15 | Armor stats: +1800 Durability, +10% Physical Armor, +10% Blunt Armor, +50% Stealth, +15% Shadow Armor, +15% Ice Armor, +10% Elemental Armor, +Talent: Fists of Navae
@@ -87,9 +92,13 @@ Ignition Union Uniform
 
 ### Expert
 
--   Grandmaster Pathfinder Cloak
+-   Grandmaster Pathfinder Cloak - _"A long coat hiding reptilian-like armored scales beneath. A pathfinder's pride."_
+    -   Craft Req: x5 Cloth, x2 Dark Feather, x5 Erisore, x5 Fiber, x5 Gold, x5 Irithine, x6 Iron, 150 Notes | Stat Req: Power Level 30 | Armor Stats: +40% Stealth, +2000 Durability, +20% Physical Armor, +Talent: Legendary, +10% Elemental Armor
+
 -   Darksteel Plate - _"The durable battle armour of an Adretian Soldier. The Armour is specifically forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile Armour Plate."_
     -   Craft Req: x5 Cloth, x1 Dark Feather, x5 Erisore, x5 Fiber, x1 Strange Claw, 300 Notes | Stat Req: Power Level 30 | Armor Stats: +25% Elemental Armor, +Talent - Unbreakable, +2500 Durability, +25% Physical Armor
+-   Pathfinder Arch-Sorcerer - _"Robes of a full fledged Pathfinder Sorcerer. Grants excellent elemental defense and Ether Regen."_
+    -   Craft Req: x5 Cloth, x5 Fiber, x10 Irithine, x1 Lionfish Scale, x1 Strange Claw, 100 Notes | Stat Req: 40 Intelligence, Power Level 30 | Armor Stats: +25% Elemental Armor, +200% Ether Regen, +10% Lightning Armor, +1500 Durability, +10% Physical Armor, +Talent: Devastating Power, +10% Ice Armor
 
 ## Armor Pieces
 

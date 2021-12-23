@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 3174
+revid: 3515
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -64,9 +64,30 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 
 -   Megalodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
--   Common slang terms of Megalodaunt is Sharko and Jerry.
+-   Common slang terms of Megalodaunt is Sharko, Gary and Jerry.
 -   If Megalodaunt has you as a Target, its best if you parry some of his moves than try to avoid it. Moves such as Thousand Needles and Yellow Burst is semi-impossible to avoid, as it covers a good amount of area.
 -   Your camera shakes the closer Megalodaunt is to your character, due to his footsteps.
+
+**Rock Golem**
+
+Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big guys are slow and relatively easy to fight if you know what you're doing.
+
+**Attacks**
+
+-   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
+-   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
+-   **Rock Uppercut** - Similar to Shark-O's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away. The best way to avoid this is to roll away from him.
+
+-   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
+-   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling.
+
+**Finisher**
+
+-   **Angry Stomp** - The golem will slam down his foot and kill those hit by it if knocked.
+
+**Notes/Tips**
+
+-   Occasionally a Shark-O and a Golem will spawn next to each other and fight each other. It's a good idea to use projetiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 
 ### Lionfish
 
@@ -77,7 +98,7 @@ File:Menos Fish.jpg
 A Lionfish, up close
 
   
-A vicious Sea Monster that has a mane around its neck, hence how they've gotten their name. Lionfish inhabits the waters of [The Aratel Sea](The_Aratel_Sea.md), but are also encountered in [The Depths](The_Depths.md), presumably in Celtor Wastes.
+A vicious Sea Monster that has a mane around its neck and multiple tentacles to swim, hence how they've gotten their name. Lionfish inhabits the waters of [The Aratel Sea](The_Aratel_Sea.md), but are also encountered in [The Depths](The_Depths.md), presumably in Celtor Wastes.
 
 These Monsters can come in pairs or alone, and will tear your ship apart and finish you off in the water.
 
@@ -134,7 +155,128 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 -   **Electric Stun Pulse** - Blue AOE attack that deals approx. 7% of your health while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
 
+### Chromatic Jellyfish
+
   
+
+**Gargoyles**  
+Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
+
+#### **Attacks**
+
+-   **Bite -** Swoops down and attacks the player
+
+#### Finisher
+
+unknown
+
+### Notes/Tips
+
+Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.  
+
+**The Enforcer**
+
+A large armored beast with an oversized fuckin axe that appears in The Depths after you successfully escape if you are extremely high level.
+
+**Attacks**
+
+-   **High Swing -** Lifts its axe high in the air and brings it down on the enemy
+-   **Low Swing -** Swings its axe around knee length at the opponent
+-   **Kick -** Deliver a kick at the opponent
+
+**Finisher**
+
+The Enforcer takes its axe and swings it down on the knocked player killing them.
+
+**Notes/Tips**
+
+The Enforcer usually high swings sometimes then will high swing and in quick succession go for a low swing
+
+You can block all of its attacks and sometimes The Enforcer stands still allowing for a few hits
+
+**Snow Knights**
+
+File:Meteor golem.png
+
+Does anything else need to be said?
+
+Massive creatures that are white in color with 4 brightly lit red eyes and 1 unlit red eye with a humanoid figure has a hole in their chest with black pauldrons and wields a massive sword or a massive laser gun varies
+
+summoned by going in and out of the wall near the valley of heroes on the left crack at the end of the valley of heroes and then the ground will shake as white meteors fall from the sky, summoning 2 per meteor
+
+#### Attacks
+
+-   **Rock Pillar -** Summons a rock pillar that knocks you insanely high up and dazes
+-   **Slam -** Slams their fist on the ground dazing anyone in the vicinity
+-   **Slash -** A sword slash that does damage can be the finisher if low enough
+-   **Wind Blast -** Creates a wind blast in front of them with their sword that knocks the player up a decent amount.
+
+#### Finisher
+
+Swing their sword and instantly kill any knocked player in less than a second
+
+### Notes/Tips
+
+**Dont go to the valley of heroes**
+
+Their main attacks are to knock the player up and prevent them form escaping.
+
+[https://medal.tv/games/roblox/clips/5LHYvOqV\_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action (i sacrificed my life for this)
+
+  
+**Ice Golem**
+
+Main article - Ice Golem
+
+File:Ice Golem 4.png
+
+tanky
+
+  
+Huge stone creatures similar to the golems on Erisa
+
+summoned by going to glacier on top of Mintyrsa
+
+#### Attacks
+
+-   **Meteor Slam** - punches the ground, creating an aoe, explosion like, circle around it.
+-   **Tree Summoning?** - punches the ground and spawns trees
+-   **Punch** - punches a player and sends them flying
+
+#### Finisher
+
+???
+
+###### Notes/Tips
+
+Huge knockback, can knock players off of the glacier they spawn on and make the player fall to their deaths. The golem is slow enough to outrun and can be infinte combo'd with 3 people. It does alot of damage and can 2-3 shot level 25-30 players.  
+
+##### Big ass demonic bat thing
+
+  
+
+File:Fat fuck bat demon thing.png
+
+change this shit into a proper description
+
+> _fat fuck bat thing is useless_
+
+found in the middle of [The Aratel Sea](The_Aratel_Sea.md) in midair
+
+Attacks
+
+-   **dumb fuck smackity smack**\- hits you with his skinny little legs
+
+**swooping attack-** swoops at you with his small body
+
+Finisher
+
+idfk it cant kill shit
+
+notes and tips
+
+just spam this fucker cant block P.S makes this into a proper article
+
   
 
 ## Notes/Trivia

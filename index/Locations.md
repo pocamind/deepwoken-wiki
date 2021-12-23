@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 3168
+revid: 3520
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -19,13 +19,13 @@ categories: ["Post-death"]
     -   _Lower Erisia_
     -   _Upper Erisia_
     -   _Erisor's Church_
-    -   _Towerstruck Lands_
+    -   _[Towerstruck Lands](Towerstruck_Lands.md)_
     -   _Tomb of the Nameless Soldier_
     -   _The Temple of the Forgotten Flame_
     -   _Lord Erisia's Manor_
     -   _Burning Stone Gardens_
 -   Eastern Contentinal Lighthouse (Etrean Sea)
--   Snow Island (forgot name) (Etrean Sea)
+-   [Minityrsa](Minityrsa.md) (Etrean Sea)
 -   Songseeker Wilds (Aratel Sea)
 -   Summer Isle (Aratel Sea)
 -   Aratel (Aratel Sea)

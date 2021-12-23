@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 3108
+revid: 3468
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,8 +37,14 @@ One of flamecharms two ritual spells. Summon a small, floating rock-like pet abo
 
 Use a tiny amount of ether to create a small ember in front of your hands. Does no damage, used to light campfire pits.
 
-**Graceful Flame**
+### Graceful Flame
 
 Conjure a undying flame for you and your comrades to rest by. (blockiergrublol#8124)
 
-Flame gun
+### Flame gun
+
+You wind up both fists before throwing one fire ball straight ahead from each hand. Each ball dealing small damage and inflicing Burn.
+
+### Fire Eruption
+
+You raise both hands, causing the ground to quake as 2 flame pillar erupt out of the ground at your cursor (small delay between each pillar), after summoning they will stay for a few seconds before disappearing.

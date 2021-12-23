@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 3125
+revid: 3469
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic]
@@ -36,8 +36,10 @@ Lightning beam- a beam of lightning that does damage (does not fling)
 
 Lightning Impact- You fly up in the air and slam down
 
-**Trivia and note**
+**Trivia and Notes**
 
 _A Thundercall infused sword_
 
 Mantras can be upgraded at a guy in the Summer Isles (the place you buy guns at) for 100 notes. make sure your thundercall level is high enough though.
+
+Thundercall moves are very ether demanding, so it's best to use a character rich in ether.

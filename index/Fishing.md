@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 3107
+revid: 3261
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,4 +16,4 @@ You can get several items from fishing: Squid, Red Snappers, Sea Bass, Seaweed, 
 
 In order to use chum you need to hold out your fishing rod then left click on the chum. This will equip it making it last a few casts.
 
-also while fishing there is a chance of a mini-boss monster called the lionfish. it will try to attack you but if you stay on land it wont do anything. if you kill it, it will drop a lionfish scale ( there might be more but im not sure). (blockiergrublol#8124)
+also while fishing there is a chance of a mini-boss monster called the [lionfish](Lionfish.md). it will try to attack you but if you stay on land it wont do anything. if you kill it, it will drop a lionfish scale ( there might be more but im not sure). (blockiergrublol#8124)

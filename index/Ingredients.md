@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 3210
+revid: 3277
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -49,6 +49,8 @@ Ongo - Brown, round fruit.
 **BONUS** : The recipe you want to know(Especially vegetarian characters), because its the most basic : Any mushroom x1 + Any mushroom x1 = Mushroom soup
 
 ## Mantra Ingredients
+
+Information of Mantras and Modifications are located [here.](Mantras.md)
 
 -   [Drift Shard](Mantra_Modifiers.md#regular-modifiers)
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)

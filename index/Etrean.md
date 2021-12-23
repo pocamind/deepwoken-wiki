@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 3037
+revid: 3513
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -27,7 +27,7 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 -   +1 Health
 -   2 Agility
 -   2 Intelligence
--   Takes less health in acid rain (BEFORE ANYONE TRIES TO CHANGE THIS, I HAVE TESTED THIS ON MY ETREAN AND MY FRIENDS GREMOR, THEY DIED BEFORE ME)
+-   Takes less damage in acid rain
 
 ## Progression
 

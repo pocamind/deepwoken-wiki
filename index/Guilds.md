@@ -1,14 +1,18 @@
 ---
 title: Guilds
-revid: 3032
+revid: 3471
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Guilds
 
-Guild are the deepwoken equivalent to houses in rogue lineage
+The Guildhouse in Etris
 
-They can be brought from the woman in the guild house for 100 [Notes](Notes.md) once you have reached level 15
+Guilds are associations created by others, allowing players to come together and explore the game with one another. Guilds can be seen like [Houses](https://rogue-lineage.fandom.com/wiki/Houses) from _Rogue Lineage_, another game by _Monad Studios_.
 
-Once you are the owner of a Guild you will obtain the guild officer item in which you can then click on a person and invite them to your guild. If they are already in your guild you can promote them or kick them.
+Once you are **Power Level 15**, a guild can be founded for 100 [Notes](Notes.md) by talking to the Guild Clerk in the Guild House in Etris, east of the large tree in the center. Talking to the Guild Clerk will prompt you with a window. This window allows you to name your Guild and set it's primary color.
+
+Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild.
+
+Members of a guild will stay in their guild after death. Other benefits/changes from being in a guild are unknown currently.

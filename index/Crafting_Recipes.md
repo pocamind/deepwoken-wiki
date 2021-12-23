@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 3222
+revid: 3350
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,6 +33,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 -   **Canteen** - _1 Beewax, 1 Calabash_
 -   **Glider** - _2 Sticks, 2 Cloth_
+-   **Lumber Axe** - 1 Wood, 1 Iron
 
 ## Food Recipes
 

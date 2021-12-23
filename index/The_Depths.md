@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 3228
+revid: 3295
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -42,9 +42,11 @@ Upon entering the elevator and reaching the top, you will be faced with a trial,
 
 Power 1-10: Nothing. You get to escape The Depth on the spot.
 
-Power 10-??: 1 swordman
+Power 10-19: 1 swordman
 
-Power 20-??: 1 Depth [Angel](Hollow_Angel.md)
+Power 20-29: 1 Depth [Angel](Hollow_Angel.md)
+
+Power 30-39: 1 Sharko
 
 Power 60: 1 Enforcer
 

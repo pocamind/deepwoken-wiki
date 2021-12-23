@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 3236
+revid: 3270
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # How to Make Friends
 
-The ultimate guide on how to make friends wether it's with felinors(freak) or canors.
+The ultimate guide on how to make friends whether it's with felinors(freak) or canors.
 
 The book "how to make Friends" makes you go around and talk to other beings(shocking) to get charisma.
 
@@ -16,9 +16,9 @@ The book "how to make Friends" makes you go around and talk to other beings(shoc
 
 File:Tempsnip.png
 
-**LOCATION**
+**LOCATION in etris**
 
-in etris it's found in the bookstore on the bookshelf across from the door. (i don't know other locations)
+in etris it's found in the bookstore on the bookshelf across from the door. (I don't know other locations)
 
 _The excerpts from the book that you say to others._
 
