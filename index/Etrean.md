@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 3513
+revid: 3556
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -28,6 +28,7 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 -   2 Agility
 -   2 Intelligence
 -   Takes less damage in acid rain
+-   Innate Talent: **Molt -** Ailments and blessings go away more quickly
 
 ## Progression
 
@@ -35,11 +36,11 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 
 ## Strengths
 
--   Placeholder
+-   Racist
 
 ## Weaknesses
 
--   Placeholder
+-   Literally none, this is objectively the best race
 
 ## Notes/Trivia
 

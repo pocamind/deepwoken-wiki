@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 3523
+revid: 3614
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -44,7 +44,7 @@ Inside the temple at the Isle of Vigils
 
  | Wind trainer
 
-(Insert quote)
+\*You feel a sudden rush as if walking int a tornado. The feeling subsides as you take a step back, choosing not to disturb the man before you\*
 
  | Location: Isle of Vigils
 
@@ -65,3 +65,5 @@ Amashi
 
  | On top of a hill? |
 |  |  |  |  |
+
+NOTE: these are not all the trainers

@@ -1,0 +1,60 @@
+---
+title: NPCs
+revid: 3559
+source: https://deepwoken.fandom.com/wiki/NPCs
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# NPCs
+
+_"Welcome, friend of Etrea." - Etrean Guard of Etris_
+
+## Description
+
+(Placeholder)  
+
+## Factions
+
+### The Legion
+
+-   Affiliations - Unknown
+-   Hostile against - The Authority, Monsters, Bandits, The Legion, Players
+-   Appearance - Roman-like Armor, Pirate-like Armor
+-   Equipment - Scimitars, Clubs, Thundercall Spells, Strength Mantras
+-   Player Reputable? - Yes, inflicts with The Authority
+
+### **The Authority**
+
+-   Affiliations - Etris
+-   Hostile against - Monsters, Bandits, The Legion
+-   Appearance - White Armor
+-   Equipment - Swords, Spears, Battleaxes, Galebreathe Spells
+-   Player Reputable? - Yes, inflicts with The Legion
+
+### The Pathfinders
+
+-   Affiliations - Unknown
+-   Hostile against - Unknown
+-   Appearance - Pathfinder Armor
+-   Equipment - Unknown
+-   Player Reputable? - Unknown
+
+  
+
+### Vigils of the Blades
+
+-   Affiliations - Etris
+-   Hostile against - Bandits
+-   Appearance - White Robes/Armor
+-   Equipment - Katanas, Galebreathe Spells
+-   Player Reputable? - Possibly
+
+  
+
+### Nomads of Navae
+
+-   Affiliations - Neutral
+-   Hostile against - Bandits
+-   Appearance - Navaen Armor
+-   Equipment - Spears, Swords, Fists
+-   Player Reputable? - Yes

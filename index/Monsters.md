@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 3515
+revid: 3575
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,9 +51,8 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 #### Attacks
 
 -   **Thousand Needles** - Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
--   **Yellow Burst** - Megalodaunt bends down and releases an AOE around him that deals significant damage if you are caught within its radius.
 -   **Palm Slap** - Megalodaunt slaps his opponents two times using his claws, dealing moderate slashing damage.
--   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage.
+-   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried.
 -   **Thundering Roar** - Megalodaunt roars out of the top of his lungs, emitting a purple aura within his head and inflicting a status effect (Indicated with a purple particle effect) that combat tags all nearby Players. Deals no damage, but has a large radius.
 
 #### Finisher
@@ -157,6 +156,8 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 ### Chromatic Jellyfish
 
+File:Fat fuck bat demon thing.png
+
   
 
 **Gargoyles**  
@@ -249,38 +250,10 @@ summoned by going to glacier on top of Mintyrsa
 
 ###### Notes/Tips
 
-Huge knockback, can knock players off of the glacier they spawn on and make the player fall to their deaths. The golem is slow enough to outrun and can be infinte combo'd with 3 people. It does alot of damage and can 2-3 shot level 25-30 players.  
-
-##### Big ass demonic bat thing
-
-  
-
-File:Fat fuck bat demon thing.png
-
-change this shit into a proper description
-
-> _fat fuck bat thing is useless_
-
-found in the middle of [The Aratel Sea](The_Aratel_Sea.md) in midair
-
-Attacks
-
--   **dumb fuck smackity smack**\- hits you with his skinny little legs
-
-**swooping attack-** swoops at you with his small body
-
-Finisher
-
-idfk it cant kill shit
-
-notes and tips
-
-just spam this fucker cant block P.S makes this into a proper article
-
-  
+Huge knockback, can knock players off of the glacier they spawn on and make the player fall to their deaths. The golem is slow enough to outrun and can be infinte combo'd with 3 people. It does alot of damage and can 2-3 shot level 25-30 players.
 
 ## Notes/Trivia
 
 -   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears. A panicked Player fighting Monsters like these will definitely lose the fight.
 -   A handful of the Monsters have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some Monster Hunting.
--   All attacks from Monsters can be parriable, but I could be wrong.
+-   NOT all attacks are parriable; red attacks can't be. Buy a Hunter Brace at the Summer Island to be able to.

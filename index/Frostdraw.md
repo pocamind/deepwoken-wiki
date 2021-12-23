@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 3272
+revid: 3613
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,17 +21,17 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 <tr>
   <th><h3>Frostdrawer</h3>
   <ul>
-    <li>Frostdrawer - Generic Talent (Lvl&nbsp;?)</li>
+    <li>Frostdrawer - Generic Talent (Lvl 2)</li>
   </ul><p>Grants you the abillity to command Ice as a Frostdrawer.</p>
   <p>+3 Elemental Intensity</p>
   <p>+2 Health</p>
   <ul>
-    <li>Adept Frostdrawer - Generic Talent (Lvl&nbsp;?)</li>
+    <li>Adept Frostdrawer - Generic Talent (Lvl 20)</li>
   </ul><p>You can now obtain 1-star Frostdrawer mantras.</p>
   <p>+3 Elemental Intensity</p>
   <p>+2 Health</p>
   <ul>
-    <li>Expert Frostdrawer - Generic Talent (Lvl&nbsp;?)</li>
+    <li>Expert Frostdrawer - Generic Talent (Lvl 30)</li>
   </ul><p>You can now obtain 2-star Frostdrawer mantras.</p>
   <p>+4 Elemental Intensity</p>
   <p>+2 Health</p>
@@ -80,8 +80,9 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   </ul><p></p>
   <p>Damages and launches opponents in the air by summoning a large spike of ice where cursor is. Ice is formed below the spike.</p>
   <ul>
-    <li><b>Ice Beam</b> - (Add skill description here.)</li>
-  </ul><p>Summons a beam of ice that deals damage.</p>
+    <li><b>Ice Beam</b> - Fire a beam of ice.</li>
+  </ul><p></p>
+  <p>Summons a beam of ice that deals damage. Beam is formed in direction of player</p>
   <ul>
     <li><b>Frost Grab</b> - (Add skill description here.)</li>
   </ul><p>Rush forward with hand stretched out. If it lands, the enemy is held up for a short time as ice protrudes from their back.</p>
@@ -103,14 +104,23 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
     <li><b>Ice Forge</b> - (Add skill description here.)</li>
   </ul><p>Summons several shurikens of ice that leave ice on the surface it hits.</p>
   <ul>
+    <li><b>Ice Eruption</b> - A flurry of ice spikes.</li>
+  </ul><p></p>
+  <p>Creates a long chain of ice spikes in the direction the camera is facing. It will spawn ice on the ground (it can be used to spawn ice in the ocean if the player is standing on a boat, however it will glitch the boat. It can also be used to glitch stuck players out of boats)</p>
+  <ul>
+    <li><b>Ice Smash</b> - (Add skill description here.)</li>
+  </ul><p></p>
+  <p>Summons an ice mace that is slammed down.</p>
+  <ul>
     <li></li>
   </ul></td>
 </tr>
 <tr>
   <td><h3>2 Star</h3>
   <ul>
-    <li><b>Ice Lance</b> - (Add skill description here.)</li>
-  </ul><p>Summons a lance of ice on the player's right hand. The user then swiftly lunges forwards with the lance, dealing damage to whoever is hit. The lance is destroyed when it hits someone or does not hit anything within its range.</p>
+    <li><b>Ice Lance</b> - Form an icey spear and lunge forward</li>
+  </ul><p>File:Icelance.gif</p>
+  <p>Summons a lance of ice on the player's right hand. The user then swiftly lunges forwards with the lance, dealing damage to whoever is hit. The lance is destroyed when it hits someone or does not hit anything within its range.</p>
   <ul>
     <li></li>
   </ul></td>
@@ -149,34 +159,10 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 </table></td>
 </tr>
 <tr>
-  <td>Support Mantras (Unknown Max)</td>
+  <td><h2>Support Mantras (1 Max)</h2></td>
 </tr>
 <tr>
-  <td>Wildcard Mantras (1 Max)
-<table>
-<tbody>
-<tr>
-  <td>0 Star
-  <ul>
-    <li></li>
-  </ul></td>
-</tr>
-<tr>
-  <td>1 Star
-  <ul>
-    <li><b>Ice Eruption</b> - A flurry of ice spikes.</li>
-  </ul><p></p>
-  <p>Creates a long chain of ice spikes in the direction the camera is facing. It will spawn ice on the ground (it can be used to spawn ice in the ocean if the player is standing on a boat, however it will glitch the boat. It can also be used to glitch stuck players out of boats)</p>
-  <ul>
-    <li><b>Ice Smash</b> - (Add skill description here.)</li>
-  </ul><p></p>
-  <p>Summons an ice mace that is slammed down.</p></td>
-</tr>
-<tr>
-  <td>2 Star</td>
-</tr>
-</tbody>
-</table></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

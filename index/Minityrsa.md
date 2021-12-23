@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 3368
+revid: 3526
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,8 @@ Fortresses: 1?
 ## Monsters:
 
 -   Shadow? Bandits
--   Zombie Summoner?
+-   Necromancer
 -   Ice Bandits
 -   Ice Golems
 -   [Snow Knight](Stone_Knight.md)
+-   Harpies/Flying Demons

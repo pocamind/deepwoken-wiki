@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 3509
+revid: 3576
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -14,7 +14,9 @@ categories: [Races]
 
 Khans have an appearance similar to [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King). one of the main characters of [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West), a classical Chinese novel. Template:Race Box mark 2
 
-  
+## Lore
+
+monke  
 
 ## Appearance
 

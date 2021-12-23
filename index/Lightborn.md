@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 3237
+revid: 3620
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -36,3 +36,4 @@ Currently unobtainable - given by Ragoozer to wave 0 testers only
 
 -   ~Lightborn are probably the most humanoid race in Deepwoken, save for their halos and eyes~.(Canor looks more like a human than lightborn.)
 -   Only obtainable from admins
+-   This might be based off of the race Seraphs in Rouge Lineage

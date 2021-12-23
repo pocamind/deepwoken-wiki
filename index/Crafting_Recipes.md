@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 3350
+revid: 3566
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -113,11 +113,11 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris.)
   </ul></td>
   <td>
   <ul>
-    <li>Effects unknown.</li>
+    <li>Rapidly increases draw from Ether resivour.</li>
   </ul></td>
   <td>
   <ul>
-    <li>Someone please find out and contribute to this section.</li>
+    <li>Great for casters</li>
   </ul></td>
 </tr>
 <tr>

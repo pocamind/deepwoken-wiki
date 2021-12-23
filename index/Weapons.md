@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 3508
+revid: 3589
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,9 +53,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Damage Types should be kept in mind due to armor pieces and outfits having resistances to certain damage types; Such as the +10% blunt armor that the Vigil Initiate outfit gives.
 -   Known Resistances as of now are **Physical, Elemental, Slash, Blunt, Shadow, Fire, Wind, Thunder, Ice, and Light.**
 
-  
-
-## Light Weapons
+## Light Weapon
 
 ### Daggers
 
@@ -71,15 +69,15 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 ### Fists
 
--   Caustus (Primary)
-
-  
+-   Caestus (Primary)
+-   Iron Caestus (Primary)
+-   Legion Caestus (Primary)
 
 ## Medium Weapons
 
 ### Spears
 
--   Iron Spear (Primary)
+-   [Iron Spear](Iron_Spear.md) (Primary)
 -   Gremorian Spear (Primary)
 -   Ritual Spear (Primary)
 -   Trident (Primary)
@@ -100,16 +98,17 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 ### Greataxes
 
 -   Greataxe (Primary)
+-   Canorian Axe (Primary)
 
 ### Greatswords
 
 -   Zweihander (Primary)
+-   Crescent Cleaver (Primary)
 -   Shadow Greatsword (Primary)
 
 ### Greathammers
 
--   Warhammer (Primary)  
-    
+-   Warhammer (Primary)
 
 ## Mischelleny
 
@@ -118,6 +117,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Targe (Side)
 -   Kite Shield (Side)
 -   Worshipper's Shield (Side)
+-   Parrying Dagger (Side)
 
 ## Notes/Trivia
 

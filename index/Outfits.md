@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 3522
+revid: 3545
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,7 +26,7 @@ The only armor that loses durability is the Outfit. The Armor Durability Bar (lo
 
 To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-25 Notes.
 
-Sources that can damage your Outfit is by physical damage, elemental damage and possibly Acid Rain (Test this if this works)
+Sources that can damage your Outfit is by physical damage and elemental damage. Acid rain does NOT damage your outfit
 
 ## Outfits
 
@@ -110,14 +110,16 @@ Leather Pauldrons
 
 ### Boots
 
-White fur boots
+Leather Boots
 
-Black fur boots  
+White Fur Boots
+
+Black Fur Boots  
 
 ### Rings
 
-Old ring
+Old Ring
 
-Silver ring
+Silver Ring
 
-Gold ring
+Gold Ring
