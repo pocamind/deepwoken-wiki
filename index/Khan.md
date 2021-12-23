@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 3091
+revid: 3193
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -12,27 +12,27 @@ categories: [Races]
 
 **"Monke Race"**
 
-Khans resemble the Sun Wukong from Mandarin Chinese mytholgy. With the spiky hair and a small crown. Template:Race Box mark 2
+Khans have an appearance similar to [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King). one of the main characters of [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West), a classical Chinese novel. Template:Race Box mark 2
 
   
 
 ## Appearance
 
-Khans are ape-like humanoids with bits of jewelry around their head. They have orange/yellowish hair and have light green eyes.
+Khans are ape-like humanoids that wear a golden headband. They have orange/yellowish hair and have light green eyes.
 
 ## Racial Abilities
 
--   Versatile: You can equip things at 3 points lower than required.
+-   Versatile: You are able to equip items 3 points earlier than the required amount.
 -   +2 Strength & +2 Agility Racial Attributes  
     
 
 ## Progression
 
--   As Khans grow older the jewelry on their head go from gold to silver and their hair turns more grayish.
+-   As Khans grow older, their golden headbands chage in color to silver and their hair turns more grayish.
 
 ## Strengths
 
--   You can equip things at 3 points lower at required.
+-   You are able to equip items 3 points earlier than the required amount.
 -   Drippy ass crown  
     
 
@@ -43,8 +43,7 @@ Khans are ape-like humanoids with bits of jewelry around their head. They have o
 
 ## Notes/Trivia
 
--   Looks similar to [Wukong](https://en.wikipedia.org/wiki/Monkey_King), a character from a story/myth made during the [Song Dynasty](https://en.wikipedia.org/wiki/Song_dynasty) in China.
--   Wukong's crown on his head (from the note above) cannot be taken off, and was used to restrain Wukong from commiting murder.
+-   Sun Wukong's gold headband cannot be taken off, it's use is to restrain him, tightening when a certain sutra is chanted.
 -   ooh ooh aah aah me monkey
 
   

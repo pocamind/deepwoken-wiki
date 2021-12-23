@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 3038
+revid: 3237
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -14,9 +14,7 @@ The stars call you back...
 
 Template:Race Box mark 2
 
-## Lore
-
-Placeholder
+  
 
 ## Appearance
 
@@ -28,15 +26,11 @@ Lightborn are fair-skinned Humanoids with crosses in their eyes and White or Gol
 
 ## Progression
 
-**Placeholder -** Placeholder
+Currently unobtainable - given by Ragoozer to wave 0 testers only
 
 ## Strengths
 
 -   Halos are drippy.(very)
-
-## Weaknesses
-
--   Placeholder
 
 ## Notes/Trivia
 

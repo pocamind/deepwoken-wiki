@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 3072
+revid: 3174
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,7 +38,9 @@ It is recommended to learn how they act and read their attack patterns if you wa
 
 ## Monsters
 
-### Hugo
+### Megalodaunt (Sharko)
+
+_Main Source - [Megalodaunt](Megalodaunt.md)_
 
 File:Sharko.png
 
@@ -48,20 +50,52 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 
 #### Attacks
 
--   **Thousand Needles** - Hugo bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
--   **Yellow Burst** - Hugo bends down and releases an AOE around him that deals significant damage if you are caught within its radius.
--   **Palm Slap** - Hugo slaps his opponents two times, dealing moderate damage.
--   **Football Kick** - Hugo delivers a fierce kick, knocking whatever it kicked very far back. deals moderate damage.
--   **Thundering Roar** - Hugo roars out of the top of his lungs, inflicting a status effect (This move is unblockable and is indicated by a purple particle effect and also puts you in combat. Similar to dragon roar from Rogue Lineage but with a larger range)
+-   **Thousand Needles** - Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
+-   **Yellow Burst** - Megalodaunt bends down and releases an AOE around him that deals significant damage if you are caught within its radius.
+-   **Palm Slap** - Megalodaunt slaps his opponents two times using his claws, dealing moderate slashing damage.
+-   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage.
+-   **Thundering Roar** - Megalodaunt roars out of the top of his lungs, emitting a purple aura within his head and inflicting a status effect (Indicated with a purple particle effect) that combat tags all nearby Players. Deals no damage, but has a large radius.
 
 #### Finisher
 
--   **Curb Stomp** - Hugo ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen almost under a second.
+-   **Curb Stomp** - Megalodaunt ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen almost under a second.
 
 #### Notes/Tips
 
--   Hugo lets out a gnarling snarl when he spawns in, notifying the player of his presence.
+-   Megalodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
+-   Common slang terms of Megalodaunt is Sharko and Jerry.
+-   If Megalodaunt has you as a Target, its best if you parry some of his moves than try to avoid it. Moves such as Thousand Needles and Yellow Burst is semi-impossible to avoid, as it covers a good amount of area.
+-   Your camera shakes the closer Megalodaunt is to your character, due to his footsteps.
+
+### Lionfish
+
+_Main Source - Lionfish_
+
+File:Menos Fish.jpg
+
+A Lionfish, up close
+
+  
+A vicious Sea Monster that has a mane around its neck, hence how they've gotten their name. Lionfish inhabits the waters of [The Aratel Sea](The_Aratel_Sea.md), but are also encountered in [The Depths](The_Depths.md), presumably in Celtor Wastes.
+
+These Monsters can come in pairs or alone, and will tear your ship apart and finish you off in the water.
+
+  
+
+#### Attacks
+
+-   **Ship Crunch** - Damage ships using its powerful Jaw, dealing unknown damage to them. (Can 4-6 Shot a Sloop in my experience)
+-   **Bite -** Gnaws on players with a swift bite, dealing moderate damage.
+
+#### Finisher
+
+-   **Devour -** Gobbles up a knocked character for around 3 seconds before death.
+
+#### Notes/Tips
+
+-   Lionfish cannot attack anyone who is on Land.
+-   Fighting Lionfish on ships is tedious, as their hitbox is out of your reach unless you have Attunements. If your feeling brave, dive down to the waters and assert dominance.
 
   
 
@@ -86,6 +120,10 @@ Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolut
 
 -   **Literal Grip** - Steps on you, and instead of banging you against the ground, crushes you with its grip.
 
+### Purple Crab
+
+File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
+
   
 
 ### Blue Jellyfish
@@ -103,3 +141,4 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 -   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears. A panicked Player fighting Monsters like these will definitely lose the fight.
 -   A handful of the Monsters have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some Monster Hunting.
+-   All attacks from Monsters can be parriable, but I could be wrong.

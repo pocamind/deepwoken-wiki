@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 3020
+revid: 3198
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -55,5 +55,13 @@ Name: Stratos
 File:Isle of Vigils temple.png
 
 Inside the temple at the Isle of Vigils. Talking to Stratos requires positive karma which you can get by doing a delivery quest for Lance's Brother or giving Avian a weapons manuel (which is not consumed). Killing temple guards will lower karma and make him unwilling to talk. |
-|  |  |  |  |
+| File:FireSpelltrainer.png | Fire trainer | Location:
+
+Songseeker Wilds
+
+Name:
+
+Amashi
+
+ | On top of a hill? |
 |  |  |  |  |

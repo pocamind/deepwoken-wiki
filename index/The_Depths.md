@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 3062
+revid: 3228
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -17,7 +17,7 @@ The Depths is said to be the purgatory in which your soul goes when you die enou
 
 ## What does the Depths look like?
 
-The Depths is located in a underwater afterlife; Almost a limbo in between life and death. You will travel through sunken cities and relics that were lost to the deep. This is your judgement, you either live of die.
+The Depths is located in a underwater afterlife; Almost a limbo in between life and death. You will travel through sunken cities and relics that were lost to the deep. This is your judgement, you either live or die.
 
 ## Creatures (Few official names)
 
@@ -27,7 +27,7 @@ The Depths is located in a underwater afterlife; Almost a limbo in between life 
 -   Giant Jellyfish
 -   Crab
 -   Depth Owl
--   Menos Fish
+-   Lion Fish
 -   Sharko
 
 ## How do you escape?

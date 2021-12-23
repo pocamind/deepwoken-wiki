@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 2882
+revid: 3122
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,5 +33,10 @@ Rewards
 
 Locations & Hints
 
--   Any Island (Erisia Island)
+-   Erisia Island
+    -   The Viper's Fangs
 -   Sound Ques and Purple Rings flying upwards (Sounds of an echoed pulse)
+
+## Notes/Trivia
+
+-   The Piece of the Forge Artifact used to sell for 800 Notes.

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 2870
+revid: 3217
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Descriptions
 
-The cat-like people of the world, the Felinor are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the Canor, a race of canine-like folk.
+The cat-like people of the world, the Felinor are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk.
 
 It has a 9.1% rollable race chance.
 
@@ -18,7 +18,8 @@ Template:Race Box mark 2
 
 ## Lore
 
-Placeholder
+  
+some rando decided "haha cat funny"
 
 ## Appearance
 

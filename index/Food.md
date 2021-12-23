@@ -1,29 +1,26 @@
 ---
 title: Food
-revid: 2778
+revid: 3226
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Food
 
-## Food
+_"Finally, some good fucking food." - Morgan Rhansey_
 
-Food is a group of items used to restore hunger in-game, you can left click while holding a food item to consume it.
+## Description
 
-There are various foods found simply lying around in the world of deepwoken, some include:
+Food is a necessary need for your Character's wellbeing. Ingredients and Food can sate your hunger or thirst, but others can decrease it via vomiting.
 
--   Redd - Restores \_% of the hunger bar and \_% of the thirst bar, also heals for \_.
--   Browncap - Restores \_% of the hunger bar, deals \_ damage.
--   (Insert other foodds found in the wild here)
+Some Foods (Such as Candied Fruit and Mushroom Omlettes) takes a portion of your Hunger/Thirst bar with a different color; known as Reinforced Hunger/Thirst. Based on the color, Reinforced Hunger/Thirst reduce the decay rate.
 
-## Recipes
+For knowing how to make Food, go here. Ingredients are also [here](Ingredients.md).
 
-There are various recipes that can be made from other items, including:
+File:Reinforced Food Bar.png
 
--   Mushroom Stew: (Insert details here)
--   Noodles: 1 Egg, 2 Harvested Wheat - (Insert stats here)
--   Redd juice: 3 Redds - (Insert stats here)
--   Mushroom Omlette (Can you even craft this one?)
+Reinforced Food Bar, indicated with White
 
-Somebody add more to this page, I'll be figuring stuff out until then.
+  
+Known Colors so far: White (Tier 1?), Purple (Tier 2?)

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 3046
+revid: 3108
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,3 +36,9 @@ One of flamecharms two ritual spells. Summon a small, floating rock-like pet abo
 ### Produce Spark
 
 Use a tiny amount of ether to create a small ember in front of your hands. Does no damage, used to light campfire pits.
+
+**Graceful Flame**
+
+Conjure a undying flame for you and your comrades to rest by. (blockiergrublol#8124)
+
+Flame gun

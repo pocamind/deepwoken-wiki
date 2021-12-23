@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 3049
+revid: 3168
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -15,18 +15,19 @@ categories: ["Post-death"]
 -   [The Void Sea](Voidsea.md)
 -   Etris (Starting Island)
 -   Isle of Vigils (Starting Island)
--   Lower Erisia (Etrean Sea)
--   Upper Erisia (Etrean Sea)
--   Songseeker Wilds (Aratel Sea)
--   Erisor's Church (Erisia)
--   Towerstruck Lands (Erisia)
--   Tomb of the Nameless Soldier (Erisia)
--   The Temple of the Forgotten Flame (Erisia)
--   Lord Erisia's Manor (Erisia)
--   Burning Stone Gardens (Erisia)
+-   Erisia Island (Etrean Sea)
+    -   _Lower Erisia_
+    -   _Upper Erisia_
+    -   _Erisor's Church_
+    -   _Towerstruck Lands_
+    -   _Tomb of the Nameless Soldier_
+    -   _The Temple of the Forgotten Flame_
+    -   _Lord Erisia's Manor_
+    -   _Burning Stone Gardens_
 -   Eastern Contentinal Lighthouse (Etrean Sea)
+-   Snow Island (forgot name) (Etrean Sea)
+-   Songseeker Wilds (Aratel Sea)
 -   Summer Isle (Aratel Sea)
--   Snow island (forgot name) (Etrean Sea)
 -   Aratel (Aratel Sea)
 -   Other islands??
 
@@ -41,7 +42,7 @@ categories: ["Post-death"]
 -   [The Depths](The_Depths.md)
 -   Celtor Wastes
 -   The City of the Drowned
--   Varicosa District (The City of the Drowned)
+    -   _Varicosa District (The City of the Drowned)_
 
 ## Post-death
 

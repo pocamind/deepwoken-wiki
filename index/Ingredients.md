@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 3039
+revid: 3210
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,6 +10,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ## Description
 
 Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, in loot and other sources, Ingredients are used for crafting.
+
+Effects of Food and Ingredients that can be consumed are located [here](Food.md).
+
+Recipes & Alchemism are located here.
 
 ### Color Coding
 

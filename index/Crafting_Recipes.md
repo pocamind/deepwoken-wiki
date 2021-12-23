@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 3083
+revid: 3222
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ _"Man, this Brown Mushroom bussin'!" (Pukes everywhere) - Random Adret_
 
 One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some food recipes can be made on the go while others may require a campfire.
 
-  
+For more information about Food, go [here](Food.md).  
 
 ## Utility Recipes
 
@@ -48,7 +48,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 ### _Campfire Recipes_
 
--   **Mushroom Soup** - _1 Browncap, 1 Dentifillo_ **OR** _1 Gobletto, 1 Dentifillo_
+-   **Mushroom Soup** - _1 of **ANY KIND** of Mushroom, 1 Dentifillo_
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **Bread** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
@@ -91,7 +91,7 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris.)
   <td><b>Invigorating Elixir</b></td>
   <td>
   <ul>
-    <li>3x Gobletto</li>
+    <li>2x Gobletto</li>
   </ul></td>
   <td><h4><i><b>Positive</b></i></h4>
   <ul>

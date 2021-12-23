@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 3031
+revid: 3107
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,3 +15,5 @@ Fishing is an action undertaken in Deepwoken by purchasing a fishing rod, (Chum 
 You can get several items from fishing: Squid, Red Snappers, Sea Bass, Seaweed, Urchin and Pufferfish. Squid, Red Snappers and Sea bass both give you "Fish Meat". This can be cooked, made into bait (Two in in crafting table) or it can be eaten raw, which WILL make you puke. Red snappers give two meat. Seawood you can cook.
 
 In order to use chum you need to hold out your fishing rod then left click on the chum. This will equip it making it last a few casts.
+
+also while fishing there is a chance of a mini-boss monster called the lionfish. it will try to attack you but if you stay on land it wont do anything. if you kill it, it will drop a lionfish scale ( there might be more but im not sure). (blockiergrublol#8124)

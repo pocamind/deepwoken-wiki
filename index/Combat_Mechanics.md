@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 2602
+revid: 3173
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -10,17 +10,15 @@ categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
 
 _Basic information about **combat** to give any voyager a fighting chance._
 
-**~Please note that _all_ of this info can be wrong as the game isn't out yet.~ THE GAME IS OUT YEEEEAAAAAAAAAA-**
-
 ## GUI
 
-File:BottomGUI.png
+File:Gui.png
 
 <table>
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of your health. Upon reaching 0 health, you will get knocked out and be at mercy to anyone around you.<figure>File:Healthbar.png<figcaption></figcaption></figure></td>
+  <td>A visual representation of your health. Upon reaching 0 health, you will get knocked out and be at mercy to anyone around you.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
@@ -28,19 +26,19 @@ File:BottomGUI.png
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not you can use certain moves. The first being for faints, second for dashes, third for parry, and the 4th possibly being a potion cooldown.<figure>File:Cooldown Icons.png<figcaption></figcaption></figure></td>
+  <td>Icons that indicate whether or not you can use certain moves. The first being for faints, second for dashes, third for parry, and the 4th possibly being a potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
-  <td>Ether allows you to use spells, without it you can't use magic. Different spells use certain amount of ether. Ether will regenerate normally when not using any magic.<figure>File:Etherbar.png<figcaption></figcaption></figure></td>
+  <td>Ether allows you to use spells, without it you can't use magic. Different spells use certain amount of ether. Ether will regenerate normally when not using any magic.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Reservoir</th>
-  <td>Regenerates Ether while slowly depleting. regenerates over time very slowly.<figure>File:Dunnobar.png<figcaption></figcaption></figure></td>
+  <td>Regenerates Ether while slowly depleting. regenerates over time very slowly.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Armour<p>Durability</p></th>
-  <td>Bar under the health. Represents durability of the armour that you're currently wearing.<figure>File:Dunnobarx2.png<figcaption></figcaption></figure></td>
+  <td>Bar under the health. Represents durability of the armour that you're currently wearing.<figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -49,21 +47,21 @@ File:BottomGUI.png
 
 These are required to maintain to survive in the world of Deepwoken. The most common way for these to get depleted is by simply waiting it out, but the process can be sped up, usually from the environment, creatures, or other players. In order to survive, you will need to eat food to replenish stomach, and drink water to replenish thirst.
 
-File:Survival.png
+File:HDSurvival.png
 
 <table>
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, and lose around 10% hp/0.15 seconds.<figure>File:Blood.png<figcaption></figcaption></figure></td>
+  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, and lose around 10% hp/0.15 seconds.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>If you reach 0 water your screen gets blurry. Lose 50% of bar upon vomitting<figure>File:Wtr.png<figcaption></figcaption></figure></td>
+  <td>If you reach 0 water your screen gets blurry. Lose 50% of bar upon vomitting<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you will lose blood and health. Lose 50% of bar upon vomitting<figure>File:Stomach.png<figcaption></figcaption></figure></td>
+  <td>Essentially your hunger bar, if it reaches zero you will lose blood and health. Lose 50% of bar upon vomitting<figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

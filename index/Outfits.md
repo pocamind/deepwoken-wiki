@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 3077
+revid: 3158
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,11 +20,21 @@ Armors can be obtained in 2 ways; through Schematics or by loot.
 
 There are also Cosmetics in Deepwoken. Things such as Masks or Capes benefits your character's drip, but provides no tactical advantage whatsoever.
 
+## Repairing your Outfit
+
+The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking.
+
+To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-25 Notes.
+
+Sources that can damage your Outfit is by physical damage, elemental damage and possibly Acid Rain (Test this if this works)
+
 ## Outfits
 
 Outfits mostly are found as Schematics in Loot, and provides your Character the protection they need. All Players learn the Traveler Cloak variants, a good starting outfit due to the cheap price and material.
 
 The majority of Outfits (along with armor pieces) requires a certain requirement, such as an Attribute Requirement or Power Requirement.
+
+Information of Outfit Talents can be found [here](Talents.md).
 
 File:Outfits List.png
 
@@ -32,7 +42,7 @@ Image of the Outfit List, with 2 outfits learned
 
   
 
-## Outfits
+## Outfit List
 
 ### Starter
 
@@ -85,7 +95,9 @@ Ignition Union Uniform
 
   
 
-  
+### Arms
+
+Leather Pauldrons  
 
 ### Boots
 

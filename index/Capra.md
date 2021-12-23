@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 2954
+revid: 3194
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Races]
 
 **Placeholder for future use**Template:Races-MainThey are goated, literally
 
-Capra has 3 color variant, and each one of them having specific active abilities.
+Capras have 3 color variants, and each of them have specific passive bonuses.
 
   
 

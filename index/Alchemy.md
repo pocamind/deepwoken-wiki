@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 2907
+revid: 3146
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,7 +25,7 @@ uhhh thats it lol!!!!!
 
 3x browncap = disgusting bane (deals damage)
 
-3x gobletto = invigorating elixir (regeneration of health or Large loss of food and water)
+1x gobletto 1x any ingredient= invigorating elixir (regeneration of health or Large loss of food and water if you drink two)
 
 3x redd = icky bane (insta heal, drains ether)
 
