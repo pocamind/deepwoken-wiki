@@ -1,13 +1,13 @@
 ---
 title: Crafting Recipes
-revid: 3566
+revid: 3704
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Crafting Recipes
 
-_"Man, this Brown Mushroom bussin'!" (Pukes everywhere) - Random Adret_
+_A"Man, this Brown Mushroom bussin'!" (Pukes everywhere) - Random Adret_
 
 ## Description
 
@@ -32,8 +32,9 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 ### Crafting Bench Recipes
 
 -   **Canteen** - _1 Beewax, 1 Calabash_
--   **Glider** - _2 Sticks, 2 Cloth_
+-   **Glider** - Schematic Required - _2 Sticks, 2 Cloth_
 -   **Lumber Axe** - 1 Wood, 1 Iron
+-   **Fishing Rod -** 1 Stick, 2 Fibers
 
 ## Food Recipes
 
@@ -49,7 +50,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 ### _Campfire Recipes_
 
--   **Mushroom Soup** - _1 of **ANY KIND** of Mushroom, 1 Dentifillo_
+-   **Mushroom Soup** - 2 _diffrent Mushrooms of **ANY KIND**_
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **Bread** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
@@ -93,6 +94,9 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris.)
   <td>
   <ul>
     <li>2x Gobletto</li>
+    <li>or</li>
+    <li>1x Gobletto</li>
+    <li>Any etris ingredient</li>
   </ul></td>
   <td><h4><i><b>Positive</b></i></h4>
   <ul>
@@ -101,7 +105,7 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris.)
   <td>
   <ul>
     <li>Excellent early-game healing.</li>
-    <li>Please find out how much healing it does.</li>
+    <li>Regens for 15% health</li>
   </ul></td>
 </tr>
 <tr>

@@ -1,8 +1,9 @@
 ---
 title: Weapons
-revid: 3589
+revid: 3640
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character]
 ---
 
 # Weapons
@@ -87,7 +88,8 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Falchion (Primary)
 -   Messer (Primary)
 -   Scimitar (Primary)
--   Katana (Primary) serpent blade (idk how to not leave huge gaps on fandom so fix this for me)
+-   Katana (Primary)
+-   Serpent Blade (Primary)
 
 ### Clubs
 
@@ -99,6 +101,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 -   Greataxe (Primary)
 -   Canorian Axe (Primary)
+-   Halberd (Primary)
 
 ### Greatswords
 

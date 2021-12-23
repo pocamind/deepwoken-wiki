@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 3568
+revid: 3751
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -12,7 +12,7 @@ categories: [Races]
 
 The cat-like people of the world, the Felinor are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk.
 
-It has a 8.0% rollable race chance.
+It has a 8.2% rollable race chance.
 
 Template:Race Box mark 2
 
@@ -30,8 +30,8 @@ A race that has physical features who would resemble that of a fur- cat, hence t
 
 ## Racial Abilities
 
--   ~Nightfriend (no one can see u at night)~
--   Climb faster up wooden surfaces
+-   Climb faster up wooden surfaces.
+-   Nightchild: Improved stealth.
 
 ## Strengths
 

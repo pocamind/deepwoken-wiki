@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 3520
+revid: 3680
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -19,6 +19,7 @@ categories: ["Post-death"]
     -   _Lower Erisia_
     -   _Upper Erisia_
     -   _Erisor's Church_
+    -   _The Courteyard_
     -   _[Towerstruck Lands](Towerstruck_Lands.md)_
     -   _Tomb of the Nameless Soldier_
     -   _The Temple of the Forgotten Flame_
@@ -46,4 +47,4 @@ categories: ["Post-death"]
 
 ## Post-death
 
--   Fragments of Self
+-   [Fragments of Self](Fragments_of_Self.md)

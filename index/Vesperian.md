@@ -1,12 +1,14 @@
 ---
 title: Vesperian
-revid: 3113
+revid: 3741
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Vesperian
+
+-   Chance of obtaining race: **6.1%**
 
 File:Goated Vesperian.png
 
@@ -22,7 +24,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Racial Abilities
 
--   **Chitin -** "You have a layer of natural armor that replenishes when you rest" - +2 health. Innate damage reduction that degrades with damage and can be replenished at a campfire.
+-   **Chitin -** "You have a layer of natural armor that replenishes when you rest" Innate damage reduction that degrades with damage and can be replenished at a campfire.
 -   Gets a free 2 points in fortitude and willpower
 
 ## Progression
@@ -32,14 +34,17 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 ## Strengths
 
 -   It is a bit more of a tank compared to the other races. Also starts you off with low-end armor.
+-   +2 Health
 
 ## Weaknesses
 
--   No weaknesses out of now. Has shaped up to be one of the best races in the game currently.
+-   none
 
 ## Notes/Trivia
 
 -   I'm pretty sure this is a Hollow Knight reference.
+-   Vesperians are actually the cutest race under the mask, easily reaching the top of S tier. They keep it secret and never reveal this information to the world, as it may be catastrophic.
+-   (The only thing we actually know about what vesperians really look like is the big eyes behind their mask)
 
 <table>
 <tbody>

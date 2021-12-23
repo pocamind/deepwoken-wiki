@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 3468
+revid: 3698
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,3 +48,7 @@ You wind up both fists before throwing one fire ball straight ahead from each ha
 ### Fire Eruption
 
 You raise both hands, causing the ground to quake as 2 flame pillar erupt out of the ground at your cursor (small delay between each pillar), after summoning they will stay for a few seconds before disappearing.
+
+### **Fire Leap**
+
+Launches you far up into the air, leaving a trail of flames below you.

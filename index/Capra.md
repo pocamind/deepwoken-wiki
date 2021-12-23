@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 3194
+revid: 3628
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Races]
 
 # Capra
 
-**Placeholder for future use**Template:Races-MainThey are goated, literally
+#### **Lore**
+
+Template:Races-MainThey are keepers of ancient secrets who travel the sees sharing knowledge with those who need it.
+
+  
 
 Capras have 3 color variants, and each of them have specific passive bonuses.
 

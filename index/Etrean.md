@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 3556
+revid: 3739
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,13 +10,15 @@ categories: [Races]
 
 ## Description
 
-Placeholder
+A prideful race characterized with their hatred for other races, especially the beastly few. Can be distinguished by their snake eyes and pale skin.
+
+-   Chance of obtaining race: **16.3%**
 
 Template:Race Box mark 2
 
 ## Lore:
 
-Placeholder
+none
 
 ## Appearance
 
@@ -24,23 +26,22 @@ Etreans are white Humanoids with either white or black hair and eyes similar to 
 
 ## Racial Abilities
 
--   +1 Health
--   2 Agility
--   2 Intelligence
--   Takes less damage in acid rain
--   Innate Talent: **Molt -** Ailments and blessings go away more quickly
+-   Takes less damage in acid rain.
+-   Innate Talent: **Molt -** Ailments and blessings go away more quickly.
 
 ## Progression
 
 **Unknown -** Gives +2 Posture(Posture helps with parrying.)
 
+High Fortitude = Immunity to acid rain (I have fortitude 75 and take 0 damage)
+
 ## Strengths
 
--   Racist
+-   +1 Health, +2 Agility, +2 Intelligence.
 
 ## Weaknesses
 
--   Literally none, this is objectively the best race
+-   none
 
 ## Notes/Trivia
 

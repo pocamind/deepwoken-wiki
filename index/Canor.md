@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 2565
+revid: 3736
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,11 +10,12 @@ categories: [Races]
 
 ## Description
 
-Placeholder  
+Wolf/Lion-based Race  
+Chance of obtaining race: **14.3%**
 
 ## Lore
 
-Template:Race Box mark 2 Placeholder  
+Template:Race Box mark 2 none  
 
 ## Appearance
 
@@ -24,32 +25,24 @@ Lion-based Canors are humanoids with tan skin, orange/golden hair and brown eyes
 
 They are based on wolves and lions (confirmed recently)
 
-  
-
-  
-
 ## Racial Abilities
 
 -   Loyalty : Allies take less damage from attacks
 -   Vault: Extra speed after vaulting over objects for a short time.
 
-  
-
-  
-
 ## Progression
 
--   Placeholder  
+-   none  
     
 
 ## Strengths
 
--     
+-   +2 Charisma, +2 Strength  
     
 
 ## Weaknesses
 
--   Placeholder  
+-   none  
     
 
 ## Trivia

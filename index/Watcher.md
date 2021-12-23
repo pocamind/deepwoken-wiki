@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 2742
+revid: 3683
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,8 +33,8 @@ Seeker located in [The Depths](The_Depths.md)
 ## Located
 
 -   [The Depths (most common here)](The_Depths.md)
--   The Overworld
+-   The Courteyard
     
     File:Overworld Seeker.png
     
-    Seeker found in The Overworld (screenshot provided by Sundae#9802)
+    Seeker found in The Courteyard (screenshot provided by Sundae#9802)

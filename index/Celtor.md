@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 3176
+revid: 3723
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -12,23 +12,26 @@ categories: [Races]
 
 Individuals with pale, slightly green skin. They have dark green hair and a racoon-like mask under their eyes.
 
+-   Chance of obtaining race: **16.3%**
+
 Template:Race Box mark 2
 
 ## Lore:
 
-racoon
+racoon lol
 
 ## Racial Abilities
 
 -   Seaborne - "You have a keen understanding of ships and their maintenance." - +2 Health. Owned ships have +10% hp.
--   +2 intelligence & +2 Charisma
 -   20% Discount at the shipwright
 
-  
+## Progression
+
+none
 
 ## Strengths
 
--   the stats it gives
+-   +2 intelligence, +2 Charisma
 
 ## Weaknesses
 
@@ -37,4 +40,4 @@ racoon
 
 ## Notes/Trivia
 
--   Despite me for some reason being entirely unable to comment, as a pro epic gamer celtor main i will complete this page.
+-   eae

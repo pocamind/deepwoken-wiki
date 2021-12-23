@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 3576
+revid: 3750
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,13 +10,17 @@ categories: [Races]
 
 ## Description
 
-**"Chad Monke Race"**
+**"Chad Monke Race" (Monkey-based)**
 
-Khans have an appearance similar to [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King). one of the main characters of [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West), a classical Chinese novel. Template:Race Box mark 2
+Khans have an appearance similar to [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King). one of the main characters of [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West), a classical Chinese novel.
+
+-   Chance of obtaining race: **8.2%**
+
+Template:Race Box mark 2
 
 ## Lore
 
-monke  
+none
 
 ## Appearance
 
@@ -25,8 +29,6 @@ Khans are ape-like humanoids that wear a golden headband. They have orange/yello
 ## Racial Abilities
 
 -   Versatile: You are able to equip items 3 points earlier than the required amount.
--   +2 Strength & +2 Agility Racial Attributes  
-    
 
 ## Progression
 
@@ -34,19 +36,17 @@ Khans are ape-like humanoids that wear a golden headband. They have orange/yello
 
 ## Strengths
 
--   You are able to equip items 3 points earlier than the required amount.
--   Drippy ass crown  
-    
+-   +2 Strength, +2 Agility.
 
 ## Weaknesses
 
--   ooh ooh ah ah  
+-   none  
     
 
 ## Notes/Trivia
 
 -   Sun Wukong's gold headband cannot be taken off, it's use is to restrain him, tightening when a certain sutra is chanted.
--   ooh ooh aah aah me monkey
+-   ooh ooh aah aah me monkey powa!
 
   
 

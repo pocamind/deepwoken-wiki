@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 3575
+revid: 3717
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -15,6 +15,8 @@ _"Dear god, that Shark got some cake!" - Unfortunate Adventurer_
 As much as there are human enemies in the game you may encounter, Deepwoken's finest is the Monsters themselves. They can tear unaware NPCs and players apart if they are ill-equipped, along with sinking your own ship in the Sea.
 
 It is recommended to learn how they act and read their attack patterns if you want to survive.
+
+For information of Human Enemies, go [here](Enemies.md).
 
 **Monster Description Template**
 
@@ -251,6 +253,26 @@ summoned by going to glacier on top of Mintyrsa
 ###### Notes/Tips
 
 Huge knockback, can knock players off of the glacier they spawn on and make the player fall to their deaths. The golem is slow enough to outrun and can be infinte combo'd with 3 people. It does alot of damage and can 2-3 shot level 25-30 players.
+
+**Sea Dragon**
+
+Long, Gray sea monster with gray mane and appears somewhere in the Aratel Sea I believe or Void Sea a ferocious beast that will demolish your boat
+
+**Attacks**
+
+-   **Ice Beam** **\-** The Sea Dragon opens its mouth and releases a light blue to white ice beam, dealing massive damage to those around it while freezing the water
+
+#### Finisher
+
+Unknown
+
+**Notes/Tips**
+
+File:Sea Dragon.png
+
+I have no god damn clue this mf is huge asf
+
+[https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop\_2021.12.22\_-\_16.56.20.98\_Trim.mp4](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action
 
 ## Notes/Trivia
 

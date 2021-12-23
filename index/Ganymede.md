@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 3318
+revid: 3752
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,13 +10,15 @@ categories: [Pages with broken file links, Races]
 
 ## Description
 
-Dark black creatures with white eyes, with a humanoid structure as its base figure. You can press P to take off the hat if you dont like it.
+Dark black creatures with white eyes, with a humanoid structure as its base figure.
+
+-   Chance of obtaining race: **2.0%**
 
 Template:Race Box mark 2
 
 ## Lore
 
-TBA;.  
+none
 
 ## Appearance
 
@@ -24,25 +26,20 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 
 ## Racial Abilities
 
--   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects. (+1 health)
--   Gets a free 2 points into Intelligence and Willpower.
-
-  
+-   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.
+-   Resists insanity.
 
 ## Varients
 
--   white eyes
--   yellow/orangeish eyes
--   sky-blue eyes
+-   White eyes
+-   Yellow/orangeish eyes
+-   Sky-blue eyes
 -   (You can see the attunement you get of they eye color when you choose random) (NOT PROVEN) Yellow = Thunder Orange = Flame White = Frost Sky Blue = Gale  
     
 
 ## Strengths.
 
--   Gets +1 health
--   Immune to Mental Illness (apparently)
-
-  
+-   +2 Intelligence, +2 Willpower.
 
 ## Weaknesses
 
@@ -50,6 +47,8 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 
 ## Notes/Trivia
 
--   File:Blackmage-ff1-art.webp
+-   You can press P to take off the hat if you dont like it.
     
-    This race shares a strong resemblance to the black mages from Final Fantasy
+    File:Blackmage-ff1-art.webp
+    
+-   This race shares a strong resemblance to the black mages from Final Fantasy

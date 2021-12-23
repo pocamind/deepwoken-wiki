@@ -1,22 +1,28 @@
 ---
 title: Adret
-revid: 3374
+revid: 3744
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Adret
 
 ## Description
 
-Placeholder
+> _Tattooed when they come of age, their tattoo represents the path of life they seek. Well regarded as bureaucrats and keepers of coin._
+
+-   Chance of obtaining race: **16.3%**
 
 Template:Race Box mark 2
 
-## Lore:
+## Lore
 
-Placeholder
+Blue skinned and among the most common of races, the **Adret** are a race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Adretian Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
+
+File:Adret.png
+
+Adrets are evil fish creature from the deep
 
 ## Appearance
 
@@ -24,21 +30,23 @@ Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange m
 
 ## Racial Abilities
 
--   **Maudet -** +1 Health, Learning things is easier. Additional Dialogue Options unlocked (Atleast what it says...)  
-    **I Don't Know What to Call It:** Gain a free perk point every level, stacks with Autodictat
+-   Learning things is easier. Additional Dialogue Options unlocked (Atleast what it says...)
+-   **Maudet:** _Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking._
+-   **I Don't Know What to Call It:** Gain a free perk point every level, stacks with Autodictat.
 
 ## Progression
 
-**Placeholder -** Placeholder
+**none**
 
 ## Strengths
 
 -   Very fast progression. (2 Points Instead of 1 from Autodidact & Learning things is easier in general)
+-   +2 Charisma, +2 Willpower.
 
 ## Weaknesses
 
--   Placeholder
+-   none
 
 ## Notes/Trivia
 
--   Placeholder
+-   eae

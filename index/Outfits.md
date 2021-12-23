@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 3545
+revid: 3662
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,7 +26,7 @@ The only armor that loses durability is the Outfit. The Armor Durability Bar (lo
 
 To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-25 Notes.
 
-Sources that can damage your Outfit is by physical damage and elemental damage. Acid rain does NOT damage your outfit
+Sources that can damage your Outfit is by physical damage and elemental damage, Acid Rain damages also.
 
 ## Outfits
 
@@ -55,8 +55,16 @@ Image of the Outfit List, with 2 outfits learned
 
 ### Adept
 
--   Experienced Adventurer -
--   Cutthroat Light Armor - _"Sturdy Leather Armor, fashioned for the hunters sent into the Driftlands to deal with rival factions."_
+-   Experienced Adventurer - _"You wear your experience."_
+
+> • Craft Req: x3 Cloth, x3 Fiber, x2 Irithine | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 durability, + Talent: Looter, +10% Blunt Armor
+
+-   Shadow Hunter - _"A garb commonly worn by shadowy thieves and assassins, excellent for sneaking up on enemies"_ •
+
+> • Craft req: x5 Cloth, x5 Fiber, x2 Gold, x10 Iron | Stat req: 10 Agility | Armor Stats: +1500 Durability, +10% Physical Armor, +10% Shadow armor, +Talent: Now You See Me, + 5% Elemental Armor
+
+-   > Cutthroat Light Armor - _"Sturdy Leather Armor, fashioned for the hunters sent into the Driftlands to deal with rival factions."_
+    
     -   Craft Req: x4 Cloth, x1 Crystal Lens, x4 Fiber, x5 Iron, 30 Notes | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 Durability, +Talent - Hunter, +10% Slash Armor
 -   Vigil Initiate - _"Initiate of a Vigil. A Warrior must walk the past before being granted the cloak of Winds."_
     -   Craft Req: x5 Cloth, x5 Fiber, x4 Iron | Stat Req: Power Level 15 | Armor Stats: +20% Physical Armor, +Talent - Paired Soul, +1200 Durability, +10% Blunt Armor
@@ -106,7 +114,12 @@ Ignition Union Uniform
 
 ### Arms
 
-Leather Pauldrons  
+Leather Pauldrons
+
+  
+Steel Pauldrons
+
+Blacksteel Pauldrons
 
 ### Boots
 
