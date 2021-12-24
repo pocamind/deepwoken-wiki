@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 4097
+revid: 4180
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,11 +10,15 @@ categories: [Races]
 
 ## Description
 
+Template:Race Box mark 2
+
 > _A prideful race characterized with their hatred for other races, especially the beastly few. Can be distinguished by their snake eyes and pale skin._
 
 -   Chance of obtaining race: **17.4%**
 
-Template:Race Box mark 2
+  
+
+  
 
 ## Lore
 
@@ -33,7 +37,7 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 
 **Unknown -** Gives +2 Posture (Posture helps with parrying.)
 
-High Fortitude = Immunity to acid rain (I have fortitude 75 and take 0 damage)
+**High Fortitude** - Immunity to acid rain (e.g. I have fortitude 75 and take 0 damage)
 
 ## Strengths
 
@@ -41,9 +45,9 @@ High Fortitude = Immunity to acid rain (I have fortitude 75 and take 0 damage)
 
 ## Weaknesses
 
--   none, etreans are flawless and perfect.
+-   **None**, Etreans are Flawless and Perfect.
 
 ## Notes/Trivia
 
--   When hit, Etreans will say "Sss!", referencing the fact they are a snake race.
+-   When hit, Etreans will say "**Sss!**", referencing the fact they are a snake race.
 -   They are Xenophobic (Racist).

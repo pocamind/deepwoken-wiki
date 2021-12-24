@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 3856
+revid: 4132
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,13 +63,16 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 
 ### Oath Effects:
 
--   Increased Sanity stat (Remain longer in The Depths without going insane)
+-   +4 Health
+-   +10 Sanity (remain in The Depths for longer)
+-   +1 Support Mantra Slot
+-   +1 Wildcard Mantra Slot
 -   Full vision while wearing a blindfold
--   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md))
+-   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md)) (you can actually equip other face accessories and still have the full effects of the oath and the drippy eye symbol, although if you don't have any face accesory on it will still show you as weraing a blindfold)
 
 ### Oath Description:
 
-N/A
+"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to percieve it."
 
 ## Notes
 

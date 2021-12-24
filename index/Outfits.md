@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4035
+revid: 4182
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -123,6 +123,8 @@ _Talent: Looter_
 
  |
 | 
+
+File:Shadow Hunter Preview.png
 
  | Shadow Hunter | x5 Cloth
 
@@ -418,7 +420,11 @@ _Talent: Brunt_
  | Leather Boots | Placeholder |
 | 
 
- | White Fur Boots | Placeholder |
+ | White Fur Boots | +20 Ether
+
++3 Health
+
+ |
 | 
 
  | Black Fur Boots | Placeholder |
@@ -431,10 +437,10 @@ _Talent: Brunt_
  | Old Ring | Placeholder |
 | 
 
- | Silver Ring | Placeholder |
+ | Silver Ring | Random small buff |
 | 
 
- | Gold Ring | Placeholder |
+ | Gold Ring | Random small buff or +6 ether |
 | 
 
  | Konga's Clutch Ring | Removes slide delay |
@@ -449,7 +455,22 @@ _Talent: Brunt_
  | Iron Mask | None |
 | 
 
- | Blindfold | Blinds occupant |
+ | Blindfold | Blinds occupant To keep them from dying to gorgon-like
+
+enemys that will kill you if you look at them.
+
+ |
 | 
 
- | Bandana | Comes in various colors |
+ | Bandana
+
+/Ascended bandana
+
+ | Bandana: Comes in various colors
+
+  
+Ascended bandana: Stats up ( i dont remember what they are,
+
+They might depend on the color.
+
+ |

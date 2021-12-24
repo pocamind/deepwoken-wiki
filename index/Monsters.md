@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4081
+revid: 4202
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -110,7 +110,8 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 #### Attacks
 
 -   **Ship Crunch** - Damage ships using its powerful Jaw, dealing unknown damage to them. (Can 4-6 Shot a Sloop in my experience)
--   **Bite -** Gnaws on players with a swift bite, dealing moderate damage.
+-   **Descend -** Descends down into the Water, avoiding damage.
+-   **Bite -** Gnaws on players with 3 swift bites, dealing moderate damage.
 -   **Cero (Depths Only)** - The Lionfish faces it's body up into the sky, charging up a large and powerful lazer shot.
 
 #### Finisher
@@ -168,8 +169,9 @@ A purple crab not alot about it is known but seen spawned in the cave of Lower E
 
 #### Attacks
 
--   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block.
--   **Claw -** The purple crab swings its claw downwards doing damage if landed.
+-   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block. This move hits about 7 times.
+-   **Triple Claw -** The purple crab swings its claw downwards 3 times doing damage if landed.
+-   **Claw -** The purple crab swings its claw downwards once.
 
 #### Finisher
 
@@ -188,7 +190,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 #### Finisher
 
--   **TBD**
+-   The jellyfish hovers over you and presumably eats you to death.
 
 ### Purple Chromatic Jellyfish
 
@@ -296,7 +298,7 @@ Huge stone creatures similar to the golems on Erisia, summoned by going to glaci
 -   The golem is slow enough to outrun and can be infinte combo'd with 3 people.
 -   ait does alot of damage and can 2-3 shot level 25-30 players.
 
-### **Sea Serpent**
+### **Sea Serpent Ardour**
 
 File:Sea Dragon.png
 

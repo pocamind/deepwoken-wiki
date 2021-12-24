@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 3647
+revid: 4164
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,10 @@ For information of Monsters, go [here](Monsters.md).
 -   Peacekeeper Captain
 -   Peacekeeper Grunt
 
-  
+### Dark Mage Cultists
+
+-   Cultist Fanatic
+-   Cultist Necromancer (Mudskipper-Mancer)
 
 ### Shiny Enemies
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 4098
+revid: 4108
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -82,7 +82,7 @@ Here are the basics -
 
 Based on how much ingridients you put in, you can make the same potion - just to a lesser extent.
 
-For example, 3 goblettos makes an Invigorating Salve (the strongest heal potion known atm), while 2 goblettos will make an Invigorating Elixr, and 1 will make an Invigorating Tincture. Going above 3 will make the weakest version of said potion, and going past 4 will create a Nothing tincture.
+For example, 3 goblettos makes an Invigorating Salve (the strongest heal potion known atm), while 2 goblettos will make an Invigorating Elixr, and 1 will make an Invigorating Tincture. Going above 3 will make the weakest version of said potion, and going past 4 will create a Nothing tincture. (just some rando here, tried making it with 3 goblettos, it only made an invigorating elixir, tried with 4 it become diluted elixir)
 
 For the above, I am fairly certain that Tincture, Elixr, and Salve only exist for positive effecting potions.
 

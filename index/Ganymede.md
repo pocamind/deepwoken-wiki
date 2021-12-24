@@ -1,12 +1,14 @@
 ---
 title: Ganymede
-revid: 4083
+revid: 4143
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Ganymede
+
+File:Ganymede with Hat.png
 
 ## Description
 
@@ -15,6 +17,8 @@ Dark black creatures with white eyes, with a humanoid structure as its base figu
 -   Chance of obtaining race: **2.0%**
 
 Template:Race Box mark 2
+
+File:Ganymede.png
 
 ## Lore
 

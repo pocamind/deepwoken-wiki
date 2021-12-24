@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 3979
+revid: 4196
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -17,7 +17,9 @@ categories: ["Post-death"]
     -   Isle of Vigils (Starting Island)
     -   Erisia Island
         -   _Lower Erisia_
-        -   _Upper Erisia_
+        -   _[Upper Erisia](Upper_Erisia.md)_
+        -   The Birdcage
+        -   Viper's Jaw
         -   _Erisor's Church_
         -   _The Courteyard_
         -   _[Towerstruck Lands](Towerstruck_Lands.md)_
@@ -28,7 +30,7 @@ categories: ["Post-death"]
 -   The Aratel Sea
     -   Songseeker Wilds
     -   Summer Isle
-    -   Aratel
+    -   The Monkey's Paw Aratel
 -   [The Void Sea](Voidsea.md)
     -   Boatman's Watch
     -   [Voidheart](Voidheart.md)

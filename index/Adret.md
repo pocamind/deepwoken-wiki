@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 4086
+revid: 4170
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -22,7 +22,13 @@ _The **Adrets** are a race of spiritually adept individuals that make up the bul
 
 ## Appearance
 
-Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange markings over their faces that almost resemble that of scars.
+Adrets are humanoids colored shades of blue from light to navy. They have orange eyes. They have tattoos on their faces that could represent some kind of status. The tattoo colors change with the skin color.
+
+Light blue skin = Dark red tattoo
+
+Medium blue skin = Dark red/Black Tattoo
+
+Dark blue skin = Yellow tattoo
 
 File:Adret.png
 

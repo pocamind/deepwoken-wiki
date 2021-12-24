@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 4053
+revid: 4178
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -63,6 +63,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Stiletto (Starter)
 -   Gilded Dagger (LHT 25)
 -   Silver Dagger (LHT 35)
+-   Whaling Knife (LHT 40)
 
 ### Guns
 
@@ -83,7 +84,8 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Iron Spear (No Stat Requirement)
 -   Gremorian Spear (MED 20)
 -   Ritual Spear (MED 35)
--   Trident
+-   Trident (MED 60)
+-   Rifle Spear (MED 80)
 
 ### Swords
 
@@ -96,6 +98,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Vigil Longsword (MED 40)
 -   Shotel (MED 45)
 -   Razor Cutlass (MED 60)
+-   Shattered Katana (MED 100)
 
 ### Clubs
 
@@ -128,7 +131,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 ### Defense (Decrease Posture Damage)
 
 -   Targe (FTD 10)
--   Kite Shield (FTD 35)
+-   Kite Shield (FTD 30)
 -   Worshipper's Shield (FTD 45)
 -   Parrying Dagger (LHT 10)
 

@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 4089
+revid: 4131
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -91,6 +91,10 @@ Located at the bookstore.
 ## [Weaponry](Weapons.md) Training
 
 _To train your weapon. See the [Weaponry](Weapons.md) page for more info about how stats work._
+
+File:Weapon Manual.png
+
+Weapon Manual in the Bookstore at Etris
 
 _Purchased at Etris and Isle of Vigils library._
 

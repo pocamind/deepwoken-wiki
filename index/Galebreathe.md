@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4040
+revid: 4186
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells]
@@ -35,5 +35,7 @@ Heavenly Wind - The user jumps into the air, before falling and striking into th
 Gale Lunge - After a brief startup, the user lunges, stabbing forward with their wind-coated weapon in hand. Can be blocked.
 
 Astral Wind - Several very fast slashes that form a star shape. You are invincible during the length of the animation.
+
+Galetrap - Wind combat toss a wind landmine, (not much information as i picked heavenly wind over galetrap)
 
 **Trivia and note**
