@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 3909
+revid: 4097
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -22,7 +22,7 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 
 ## Appearance
 
-**Etreans** are white humanoids with either white or black hair and eyes similar to that of a snake (Snake Race).
+**Etreans** are white humanoids with either white, black, or blue hair and eyes similar to that of a snake (Snake Race).
 
 ## Racial Abilities
 

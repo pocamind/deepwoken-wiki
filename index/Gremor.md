@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 3851
+revid: 4057
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -63,4 +63,4 @@ none
 
 ## Notes/Trivia
 
--   eae
+-   While in The Depth, the compass is angled in a broken fashion, making it near impossible to use right.

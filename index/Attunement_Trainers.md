@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 3614
+revid: 4085
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ A spell trainer **WILL NOT** train you if you do not have the element learned (A
 
 ## List of trainers
 
-|  | Ice trainer
+|  | Frostdraw trainer
   
 "Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?" -Nell
 
@@ -42,9 +42,10 @@ Inside the temple at the Isle of Vigils
 
 Inside the temple at the Isle of Vigils
 
- | Wind trainer
+ | Galebreath trainer
 
-\*You feel a sudden rush as if walking int a tornado. The feeling subsides as you take a step back, choosing not to disturb the man before you\*
+  
+"Don't be shy, what is it you need?" -Stratos
 
  | Location: Isle of Vigils
 
@@ -55,7 +56,7 @@ Name: Stratos
 File:Isle of Vigils temple.png
 
 Inside the temple at the Isle of Vigils. Talking to Stratos requires positive karma which you can get by doing a delivery quest for Lance's Brother or giving Avian a weapons manuel (which is not consumed). Killing temple guards will lower karma and make him unwilling to talk. |
-| File:FireSpelltrainer.png | Fire trainer | Location:
+| File:FireSpelltrainer.png | Flamecharm trainer | Location:
 
 Songseeker Wilds
 
@@ -64,6 +65,7 @@ Name:
 Amashi
 
  | On top of a hill? |
-|  |  |  |  |
+|  | Thundercall trainer |  |  |
+|  | Shadow trainer |  |  |
 
 NOTE: these are not all the trainers

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 3943
+revid: 4106
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -40,19 +40,17 @@ Once all bell have been rung, a large bell choir will be heard across The Depth,
 
 Upon entering the elevator and reaching the top, you will be faced with a trial, the difficutly of which depending on your Power.
 
-| Power | Enemy |
-| --- | --- |
-| 1-9 | None |
-| 10-19 | 1 Swordman |
-| 20-29 | 1 [Angel](Hollow_Angel.md) |
-| 30-39 | 1 [Sharko](Megalodaunt.md) |
-| 40-49 | ??? |
-| 50-59 | ??? |
-| 60 | 1 [Enforcer](Enforcer.md) |
+| Power | Enemy | More enemies for each player? |
+| --- | --- | --- |
+| 1-9 | None | No |
+| 10-18 | 1 Swordman | Yes |
+| 19-26(?) | 1 [Angel](Hollow_Angel.md) | Yes |
+| 27(?)-50 | 1 [Sharko](Megalodaunt.md) | No |
+| 50-59 | ??? | ??? |
+| 60 | 1 [Enforcer](Enforcer.md) | ??? |
 
-**NOTE:** If multiple players take on The Trial, the trial will be scaled of the player with the highest Power, and each additional player will add an extra enemy to fight up to power 29 (5 players taking on the trial = 5 enemies). Afterward, only 1 enemy will spawn.
-
-**NOTE 2:** Revealed from Nanoprodgidy's video, if twenty players go onto the elevator, the Voices will force the players to "thin their numbers," which legit means to kill each other.
+  
+**NOTE:** Revealed from Nanoprodgidy's video, if twenty players go onto the elevator, the Voices will force the players to "thin their numbers," which legit means to kill each other.
 
 **Alternatively**
 

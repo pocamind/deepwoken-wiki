@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 3906
+revid: 4083
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,7 +18,8 @@ Template:Race Box mark 2
 
 ## Lore
 
-You got this race thinking you were lucky and then ended up getting targeted because you were black and got wiped more times than your father left you
+  
+(To be discovered)
 
 ## Appearance
 
@@ -27,7 +28,7 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 ## Racial Abilities
 
 -   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.
--   Turns You Black, Resists insanity.
+-   Resists insanity.
 
 ## Varients
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 3778
+revid: 4067
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,26 +13,26 @@ When you upgrade a mantra the previous upgrade will disappear. If you recall it,
 
 ## Mantra modifiers
 
-\- Cloudstone- increases mantra size.
+**Cloudstone**: Increases mantra size.
 
-\-Driftwood- increases casting speed.
+**Stratus Stone**: Better version of **Cloudstone**.
 
-\-Crystal Lens- Increases mantra range.
+**Driftwood**: Increases casting speed.
 
-\-Magnet Spark- makes projectile spells homing.
+**Crystal Lens**: Increases mantra range.
 
-\-Aeon Logstone- Makes effects last longer.
+**Perfect Lens**: Better version of Crystal Lens.
 
-\-Eternal Logstone- Better version of AegLogstone.
+**Magnet Spark**: Makes projectile spells homing.
 
-\-Drift Shard- Makes mantras (mainly projectiles) move faster.
+**Aeon Logstone**: Makes effects last longer.
 
-\-Rush Shard- Better version of Drift Shard.
+**Eternal Logstone**: Better version of AegLogstone.
 
-\-Perfect Lens- Better version of Crystal Lens.
+**Drift Shard**: Makes mantras (mainly projectiles) move faster.
 
-\-Stratus Stone- Better version of Cloudstone.
+**Rush Shard**: Better version of Drift Shard.
 
-\-Amnesiac Driftwood- Removes all modifiers on a mantra.
+**Amnesiac Driftwood**: Removes all modifiers on a mantra.
 
-\-Vibrant Gem- Gives elemental boosts (Flames are more intense, Ice is more effective, etc).
+**Vibrant Gem**: Gives elemental boosts (Flames are more intense, Ice is more effective, etc).

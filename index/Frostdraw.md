@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 3900
+revid: 4095
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,6 +46,11 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <ul>
     <li>Cryonis - Generic Talent</li>
   </ul><p>All ice spells casted on top of ice cost less Ether.</p>
+  <p>+5 Elemental Intensity</p>
+  <p>+2 Health</p>
+  <ul>
+    <li>Frostbite - Generic Talent</li>
+  </ul><p>Enemies can no longer heal when under the effect of your chill.</p>
   <p>+5 Elemental Intensity</p>
   <p>+2 Health</p></th>
 </tr>
@@ -102,7 +107,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <p>Launches a chain towards cursor. If hits opponent, creates a visible glowing chain link between them. Deals minor damage and (slows opponents?) (idk if ice chain is suppose to do anything else)</p>
   <ul>
     <li><b>Ice Forge</b> - (Add skill description here.)</li>
-  </ul><p>Summons several shurikens of ice that leave ice on the surface it hits.</p>
+  </ul><p>Summons several shurikens of ice on straight that leave ice on the surface it hits. (probably 8.)</p>
   <ul>
     <li><b>Ice Eruption</b> - A flurry of ice spikes.</li>
   </ul><p></p>

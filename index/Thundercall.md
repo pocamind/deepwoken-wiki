@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 3921
+revid: 4054
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic]
@@ -37,6 +37,12 @@ Lighning stream- Grapples onto a enemy and pulls them in (if you hit them) (also
 Lightning beam- a beam of lightning that does damage (does not fling)
 
 Lightning Impact- You fly up in the air and slam down
+
+Thunder Kick- Heavy Kick motion doing damage
+
+Lightning Assualt- You dash forward and attack those you pass
+
+Spark Swap- When used you swap positions with someone (NPC or Player)
 
 **Trivia and Notes**
 

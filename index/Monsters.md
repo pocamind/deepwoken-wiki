@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 3971
+revid: 4081
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -65,7 +65,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 
 -   Megalodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
--   Common slang terms of Megalodaunt is Sharko, Gary and Jerry.
+-   Common slang terms of Megalodaunt is Sharko, Gary, Jerry, and Big guy.
 -   If Megalodaunt has you as a Target, its best if you parry some of his moves than try to avoid it. Moves such as Thousand Needles and Yellow Burst is semi-impossible to avoid, as it covers a good amount of area.
 -   Your camera shakes the closer Megalodaunt is to your character, due to his footsteps.
 -   It's always reccomended to perfect dodge the Football Kick.

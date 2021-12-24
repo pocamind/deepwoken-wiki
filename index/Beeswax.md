@@ -1,15 +1,14 @@
 ---
 title: Beeswax
-revid: 3782
+revid: 4063
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Beeswax
 
-File:Beeswax.png
+Beeswax on a tree
 
-Floating Beeswax
+Beeswax in hand
 
 Beeswax is a crafting material found on trees.

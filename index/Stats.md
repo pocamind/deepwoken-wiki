@@ -1,6 +1,6 @@
 ---
 title: Stats
-revid: 4031
+revid: 4088
 source: https://deepwoken.fandom.com/wiki/Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -100,6 +100,6 @@ Training item: How to make friend
 
 Heavy/Medium/Light weapon affect your ability use a type of weaponary. Weapons have base damage + extra damage based on a % of their given stat.
 
-Actions that grant Heavy/Medium/Light EXP: Hitting with a weapon of that specific family (hitting with a light weapon grant light weapon EXP, not medium or heavy)
+Actions that grant Heavy/Medium/Light EXP: Hitting/blocking/parrying with a weapon of that specific family.
 
 Training item: Weapon Manual

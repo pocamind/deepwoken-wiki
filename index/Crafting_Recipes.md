@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 4041
+revid: 4080
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,7 +34,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   **Canteen** - _1 Beewax, 1 Calabash_
 -   **Glider** - Schematic Required - _2 Sticks, 2 Cloth_
 -   **Lumber Axe** - 1 Wood, 1 Iron
--   **Fishing Rod -** 1 Stick, 2 Fibers
+-   **Fishing Rod -** 2 Stick, 1 Fibers
 
 ## Food Recipes
 
@@ -58,6 +58,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
+-   **Any Two Fruits + Gathered Wheat**\- Fruit Cake
 
 ## Alchemy
 

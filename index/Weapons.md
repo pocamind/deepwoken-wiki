@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 3987
+revid: 4053
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -19,14 +19,6 @@ categories: [Character]
 This page will list the different weapons that you will use in Deepwoken.
 
 There are three different main types of weaponry,
-
-Strength weapons (which are governed by the strength attribute), are weapons characterized by their large hitboxes, slow weapon attacks and high damage.
-
-Agility weapons (which are governed by the agility attribute}, are weapons characterized by their small hitboxes, fast weapon attacks and low damage.
-
-Spells are governed by Intelligence, willpower, and the different elements. Unlike Rogue Lineage, tomes are not needed to wield spells and as such you can use both a weapon and a spell simultaneously. Spells are obtained from leveling up, and can be further modified at special crafting stations.
-
-Everything above besides that last part about spells is complete bullshit. Weapons are governed by their stat in the tab menu.
 
 Light weapons, like daggers, guns, and fists
 
@@ -47,7 +39,7 @@ For more information on spells, see this page: Spells
 Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter uses a different build. Which will prevail?
 
 -   Light Weapons are fast and agile, with high attack speed, but they lack damage and range. Guns on the other hand are a different case, though they need ammunition to operate.
--   Medium Weapons are a balance between speed and damage. Swords is the "jack of all trades" of Medium Weapons. Spears have a range advantage and Axes for a more offensive strategy.
+-   Medium Weapons are a balance between speed and damage. Swords is the "jack of all trades" of Medium Weapons. Spears have a range advantage and Clubs are for a more offensive strategy.
 -   Heavy Weapons are slow and may have endlag, but pack quite a punch.
 
 ### Heavy Attacks
@@ -69,8 +61,8 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 ### Daggers
 
 -   Stiletto (Starter)
--   Silver Dagger (LHT 35)
 -   Gilded Dagger (LHT 25)
+-   Silver Dagger (LHT 35)
 
 ### Guns
 
@@ -89,7 +81,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 ### Spears
 
 -   Iron Spear (No Stat Requirement)
--   Gremorian Spear(MED 20)
+-   Gremorian Spear (MED 20)
 -   Ritual Spear (MED 35)
 -   Trident
 
@@ -101,13 +93,9 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Scimitar (MED 20)
 -   Katana
 -   Serpent Blade
--   Razor Cutlass (MED 60)
--   Shotel (MED 45)
 -   Vigil Longsword (MED 40)
-
-### Axes
-
--   Canorian Axe (HVY 45)
+-   Shotel (MED 45)
+-   Razor Cutlass (MED 60)
 
 ### Clubs
 
@@ -118,7 +106,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 ### Greataxes
 
 -   Greataxe (Starter)
--   Canorian Axe
+-   Canorian Axe (HVY 45)
 -   Halberd
 
 ### Greatswords

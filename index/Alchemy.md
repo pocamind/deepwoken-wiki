@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 3843
+revid: 4098
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,9 +29,9 @@ uhhh thats it lol!!!!!
 
 3x redd = icky bane (insta heal, drains ether)
 
-3x dentifilo = soothing tincture (Makes you throw up, looses water and food)
+3x dentifilo = soothing tincture (Gives Resivore but can also make you throw up when drinken, suggested to splash)
 
-2x gathered wheat 1x Dentifilo = dulling blight (big throw up, looses water and food)
+2x gathered wheat 1x Dentifilo = dulling blight (Increases Ether regen)
 
 1x stick 2x browncap = disgusting Blight (does damage)
 
@@ -63,6 +63,10 @@ different person here (Chronos#6591)
 1 stick + 1 gobletto seems to give you invigorating elixir which gives hp regen w/o a campfire
 
 [https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif](https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif) proof of it actually healing
+
+Sup chronos back as my young man said below 3 Goblettos do indeed make a health regen Pot HOWEVER You can make it even more powerful by adding beeswax OR spidereggs potions are quite useful especially when you cannot use a campfire. there are also other potions that are umm Quite Useful in combat. also it scales off of intelligence so if u hav elike 100 intelligence you're going to be a God.
+
+3 Calabash + 2 Bamboo = Ether + Reservoir drain.
 
 Alchemy Chart by bobbio76#2916
 

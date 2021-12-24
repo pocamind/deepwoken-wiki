@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 4028
+revid: 4089
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -101,6 +101,8 @@ _Purchased at Etris and Isle of Vigils library._
 ## [Attunement](Attunements.md) Training
 
 _To train your mantra. See the [Attunement](Attunements.md) page for more info about how stats work._
+
+The "Self-Conducting Loop".
 
 _Purchased from Mantra Shops at any area._
 
