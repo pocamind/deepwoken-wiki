@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 3469
+revid: 3921
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic]
@@ -21,6 +21,8 @@ An element utilizing lightning based attacks.
 Can be trained by using [Self-Conducting Loop](https://deepwoken.fandom.com/wiki/Self-Conducting_Loop?so=search)
 
 -   **Spells**
+
+(Passive) Stormcaller Slash- After using a melee spell, if you press F an additional set of lightning will come down.
 
 Lightning Blade- A dash foward that unsheathes your weapon and cuts twice with a lightining infused blade.
 

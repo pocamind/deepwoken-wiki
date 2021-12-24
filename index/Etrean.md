@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 3830
+revid: 3909
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,28 +10,28 @@ categories: [Races]
 
 ## Description
 
-A prideful race characterized with their hatred for other races, especially the beastly few. Can be distinguished by their snake eyes and pale skin.
+> _A prideful race characterized with their hatred for other races, especially the beastly few. Can be distinguished by their snake eyes and pale skin._
 
--   Chance of obtaining race: **16.3%**
+-   Chance of obtaining race: **17.4%**
 
 Template:Race Box mark 2
 
-## Lore:
+## Lore
 
-none
+_The **Etreans** of the Eastern Luminant are a race like no other as they themselves are quite xenophobic to others not of their race. This is from their dislike of others possibly altering their way of already existing and how others influence their pre-existing traditions. The people of Etris have been in scrambles ever since their king had left them, with the current reigning lord causing great dismay to his people rather than helping them. The serpent-folk yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods._
 
 ## Appearance
 
-Etreans are white Humanoids with either white or black hair and eyes similar to that of a snake. (Snake Race).
+**Etreans** are white humanoids with either white or black hair and eyes similar to that of a snake (Snake Race).
 
 ## Racial Abilities
 
 -   Takes less damage in acid rain.
--   Innate Talent: **Molt -** Ailments and blessings go away more quickly.
+-   Innate Talent: **Molt** - Ailments and blessings go away more quickly. **+1 health**
 
 ## Progression
 
-**Unknown -** Gives +2 Posture(Posture helps with parrying.)
+**Unknown -** Gives +2 Posture (Posture helps with parrying.)
 
 High Fortitude = Immunity to acid rain (I have fortitude 75 and take 0 damage)
 
@@ -41,8 +41,9 @@ High Fortitude = Immunity to acid rain (I have fortitude 75 and take 0 damage)
 
 ## Weaknesses
 
--   none, etreans are flawless and perfect
+-   none, etreans are flawless and perfect.
 
 ## Notes/Trivia
 
 -   When hit, Etreans will say "Sss!", referencing the fact they are a snake race.
+-   They are Xenophobic (Racist).

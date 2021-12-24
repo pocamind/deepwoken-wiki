@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 3613
+revid: 3900
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -84,7 +84,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   </ul><p></p>
   <p>Summons a beam of ice that deals damage. Beam is formed in direction of player</p>
   <ul>
-    <li><b>Frost Grab</b> - (Add skill description here.)</li>
+    <li><b>Frost Grab</b> - An icy chokehold.</li>
   </ul><p>Rush forward with hand stretched out. If it lands, the enemy is held up for a short time as ice protrudes from their back.</p>
   <ul>
     <li></li>

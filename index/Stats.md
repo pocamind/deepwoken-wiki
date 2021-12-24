@@ -1,6 +1,6 @@
 ---
 title: Stats
-revid: 3808
+revid: 4031
 source: https://deepwoken.fandom.com/wiki/Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,7 @@ You have 2 possible moment to use training items:
 -   After working on the stat. The message "You feel like your ability in (stat name) has potential... With the right equipment, you could draw it out..." whenever you reach that stat current EXP thereshold (or is near) without having used the training item. Using the training item now or later will immediately level up the stat.
     -   Even if the stat is not leveling up due to the lack of training item, EXP gains are still accounted, which can potentially lead to multiple level up in a row with multiple use of the training item.
 
-**Note**: You may eventually reach a point where you receive a message saying "I've learnt what I can from training right now, I should put it into practice" when using a training item. If that's case, you must explore and kill hostile NPCs, monsters or players to progress further.
+**Note**: You may eventually reach a point where you receive a message saying "I've learnt what I can from training right now, I should put it into practice" when using a training item. If that's the case, you must explore and kill hostile NPCs, monsters or players to progress further.
 
 ## Strength
 

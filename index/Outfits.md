@@ -1,16 +1,12 @@
 ---
 title: Outfits
-revid: 3767
+revid: 4035
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Outfits
-
-_"Drip or Drown, to the Depths below!" - Helena Dusselden_
-
-  
 
 ## Description
 
@@ -40,113 +36,420 @@ File:Outfits List.png
 
 Image of the Outfit List, with 2 outfits learned
 
-  
-
 ## Outfit List
 
 ### Starter
 
--   Stranded Armor
-    -   Craft Req: None, given upon creating a character
--   Traveler Cloak Armor - _"A well-worn (color) travelers cloak."_
-    -   Craft Req: x1 Cloth, 10 Notes | Stat Req: None | Armor Stats: +1000 Durability, +12% Physical Armor
--   Skeptic Pioneer - _"A durable coat to protect you against the wear of the world."_
-    -   Craft Req: x5 Cloth, x2 Crystal Lens, x5 Fiber, 25 Notes | Stat Req: None | Armor Stats: +1200 Durability, +8% Elemental Armor, +8% Physical Armor, +Talent: Apothecary
+| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
+| --- | --- | --- | --- | --- |
+| 
+[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
+
+ | Stranded | Spawn | None | None |
+| 
+
+ | White Traveler Cloak | x1 Cloth
+
+10 Notes
+
+ | None | +1000 Durability
+
++12% Physical Armor
+
+ |
+| 
+
+ | Grey Traveler Cloak | x1 Cloth
+
+10 Notes
+
+ | None | +1000 Durability
+
++12% Physical Armor
+
+ |
+| 
+
+File:Bluetravelercloak.png
+
+ | Blue Traveler Cloak | x1 Cloth
+
+10 Notes
+
+ | None | +1000 Durability
+
++12% Physical Armor
+
+ |
+| 
+
+ | Purple Traveler Cloak | x1 Cloth
+
+10 Notes
+
+ | None | +1000 Durability
+
++12% Physical Armor
+
+ |
+| 
+
+ | Red Traveler Cloak | x1 Cloth
+
+10 Notes
+
+ | None | +1000 Durability
+
++12% Physical Armor
+
+ |
 
 ### Adept
 
--   Experienced Adventurer - _"You wear your experience."_
+| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
+| --- | --- | --- | --- | --- |
+| 
+ | Experienced Adventurer | x3 Cloth
 
-> • Craft Req: x3 Cloth, x3 Fiber, x2 Irithine | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 durability, + Talent: Looter, +10% Blunt Armor
+x2 Irithine
 
--   Shadow Hunter - _"A garb commonly worn by shadowy thieves and assassins, excellent for sneaking up on enemies"_ •
+ | Power Level 15 | +1000 Durability
 
-> • Craft req: x5 Cloth, x5 Fiber, x2 Gold, x10 Iron | Stat req: 10 Agility | Armor Stats: +1500 Durability, +10% Physical Armor, +10% Shadow armor, +Talent: Now You See Me, + 5% Elemental Armor
++10% Physical Armor
 
--   > Cutthroat Light Armor - _"Sturdy Leather Armor, fashioned for the hunters sent into the Driftlands to deal with rival factions."_
-    
-    -   Craft Req: x4 Cloth, x1 Crystal Lens, x4 Fiber, x5 Iron, 30 Notes | Stat Req: Power Level 15 | Armor Stats: +10% Physical Armor, +1000 Durability, +Talent - Hunter, +10% Slash Armor
--   Vigil Initiate - _"Initiate of a Vigil. A Warrior must walk the past before being granted the cloak of Winds."_
-    -   Craft Req: x5 Cloth, x5 Fiber, x4 Iron | Stat Req: Power Level 15 | Armor Stats: +20% Physical Armor, +Talent - Paired Soul, +1200 Durability, +10% Blunt Armor
++10% Blunt Armor
 
--   Firekeepers armor (~found behind bank of Etris~ it's not i checked)- Requirements and stats are unknown
+_Talent: Looter_
 
--   Navaen Nomad Robes - _"Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold."_
-    -   Craft Req: 5x Cloth, 8x Erisore, 5x Fiber, 2x Frigid Prism, 100 Notes. | Stat Req: Power level 15 | Armor stats: +1800 Durability, +10% Physical Armor, +10% Blunt Armor, +50% Stealth, +15% Shadow Armor, +15% Ice Armor, +10% Elemental Armor, +Talent: Fists of Navae
-        
-        File:Nomadrobes.png
-        
-        Navaen Nomad Robes
-        
+ |
+| 
 
-  
+ | Shadow Hunter | x5 Cloth
 
--   Ignition Union Uniform
-    -   Craft Req: 5x Cloth, 5x Fiber, 3x Irithine, 1x Lionfish Scale. | Stat Req: Power Level 20 | Armor Stats: +22% Physical Armor, +2000 Durability, +22% Elemental Armor.
+x5 Fiber
 
-File:RobloxPlayerBeta FSAXUT3HCG.png
+x2 Gold
 
-Ignition Union Uniform
+x10 Iron
 
--   Flame Worshipper Armor - "Coat of the Covenant of Flame, pioneered by the Drowned Diver Amorus Pleeksty."
-    -   Craft Req: 4x Cloth, 4x Fiber, 2x Iron, 30x Notes | Stat Req: Power Level 15 | Armor Stats: +25% Fire Armor, +1000 Durability, +10% Physical Armor, +Talent: Intrepid Flame, +5 Elemental Armor.
-        
-        File:FlameWorshipperArmor.png
-        
-        Flame Worshipper Armor
-        
+ | 10 Agility | +1500 Durability
 
-  
++10% Physical Armor
+
++5% Elemental Armor
+
++10% Shadow Armor
+
+_Talent: Now You See Me_
+
+ |
+| 
+
+ | Cutthroat Light Armor | x4 Cloth
+
+x1 Crystal Lens
+
+x4 Fiber
+
+x5 Iron
+
+30 Notes
+
+ | Power Level 15 | +1000 Durability
+
++10% Physical Armor
+
++10% Slash Armor
+
+_Talent: Hunter_
+
+ |
+| 
+
+ | Vigil Initiate | x5 Cloth
+
+x5 Fiber
+
+x4 Iron
+
+ | Power Level 15 | +1200 Durability
+
++20% Physical Armor
+
++10% Blunt Armor
+
+_Talent: Paired Soul_
+
+ |
+| 
+
+ | Firekeeper's Armor | Unknown | Unknown | Unknown |
+| 
+
+ | Navaen Nomad Robes | x5 Cloth
+
+x8 Erisore
+
+x5 Fiber
+
+x2 Frigid Prism
+
+100 Notes
+
+ | Power Level 15 | +1800 Durability
+
++10% Physical Armor
+
++10% Elemental Armor
+
++10% Blunt Armor
+
++15% Ice Armor
+
++15% Shadow Armor
+
++50% Stealth
+
+_Talent: Fists of Navae_
+
+ |
+| 
+
+ | Ignition Union Uniform | x5 Cloth
+
+x5 Fiber
+
+x3 Irithine
+
+x1 Lionfish Scale
+
+ | Power Level 20 | +2000 Durability
+
++22% Physical Armor
+
++22% Elemental Armor
+
+ |
+| 
+
+ | Flame Worshipper Armor | x4 Cloth
+
+x4 Fiber
+
+x2 Iron
+
+30 Notes
+
+ | Power Level 15 | +1000 Durability
+
++10% Physical Armor
+
++5% Elemental Armor
+
++25% Fire Armor
+
+_Talent: Intrepid Flame_
+
+ |
 
 ### Expert
 
--   Grandmaster Pathfinder Cloak - _"A long coat hiding reptilian-like armored scales beneath. A pathfinder's pride."_
-    -   Craft Req: x5 Cloth, x2 Dark Feather, x5 Erisore, x5 Fiber, x5 Gold, x5 Irithine, x6 Iron, 150 Notes | Stat Req: Power Level 30 | Armor Stats: +40% Stealth, +2000 Durability, +20% Physical Armor, +Talent: Legendary, +10% Elemental Armor
+| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
+| --- | --- | --- | --- | --- |
+| 
+ | Grandmaster Pathfinder Cloak | x5 Cloth
 
--   Darksteel Plate - _"The durable battle armour of an Adretian Soldier. The Armour is specifically forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile Armour Plate."_
-    -   Craft Req: x5 Cloth, x1 Dark Feather, x5 Erisore, x5 Fiber, x1 Strange Claw, 300 Notes | Stat Req: Power Level 30 | Armor Stats: +25% Elemental Armor, +Talent - Unbreakable, +2500 Durability, +25% Physical Armor
--   Pathfinder Arch-Sorcerer - _"Robes of a full fledged Pathfinder Sorcerer. Grants excellent elemental defense and Ether Regen."_
-    -   Craft Req: x5 Cloth, x5 Fiber, x10 Irithine, x1 Lionfish Scale, x1 Strange Claw, 100 Notes | Stat Req: 40 Intelligence, Power Level 30 | Armor Stats: +25% Elemental Armor, +200% Ether Regen, +10% Lightning Armor, +1500 Durability, +10% Physical Armor, +Talent: Devastating Power, +10% Ice Armor
+x2 Dark Feather
+
+x5 Erisore
+
+x5 Fiber
+
+x5 Gold
+
+x5 Irithine
+
+x6 Iron
+
+150 Notes
+
+ | Power Level 30 | +2000 Durability
+
++20% Physical Armor
+
++10% Elemental Armor
+
++40% Stealth
+
+_Talent: Legendary_
+
+ |
+| 
+
+File:Darksteel Plate.png
+
+ | Darksteel Plate | x5 Cloth
+
+x1 Dark Feather
+
+x5 Erisore
+
+x5 Fiber
+
+x1 Strange Claw
+
+300 Notes
+
+ | Power Level 30 | +2500 Durability
+
++25% Physical Armor
+
++25% Elemental Armor
+
+_Talent: Unbreakable_
+
+ |
+| 
+
+[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
+
+ | Pathfinder Arch-Sorcerer | x5 Cloth
+
+x5 Fiber
+
+x10 Irithine
+
+x1 Lionfish Scale
+
+x1 Strange Claw
+
+100 Notes
+
+ | 40 Intelligence
+
+Power Level 30
+
+ | +1500 Durability
+
++10% Physical Armor
+
++25% Elemental Armor
+
++10% Lightning Armor
+
++10% Ice Armor
+
++200% Ether Regen
+
+_Talent: Devastating Power_
+
+ |
+| 
+
+[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
+
+ | Hive Tactician Armor | x5 Cloth
+
+x2 Dark Feather
+
+x2 Iron
+
+x3 Vibrant Gem
+
+ | 25 Agility
+
+Power Level 30
+
+ | +1200 Durability
+
++30% Physical Armor
+
++20% Elemental Armor
+
++10% Wind Armor
+
+_Talent: Brunt_
+
+ |
+
+### Master
+
+| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
+| --- | --- | --- | --- | --- |
+| 
+[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
+
+ | Unknown | Unknown | Unknown | Unknown |
 
 ## Armor Pieces
 
-  
+### Head
+
+|  | Armor | Effects |
+| --- | --- | --- |
+| 
+[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
+
+ | Placeholder | Placeholder |
 
 ### Arms
 
-Leather Pauldrons
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+ | Leather Pauldrons | Placeholder |
+| 
 
-Autumn Pauldrons
+ | Autumn Pauldrons | Placeholder |
+| 
+
+ | Steel Pauldrons | Placeholder |
+| 
+
+ | Blacksteel Pauldrons | Placeholder |
 
   
-Steel Pauldrons
-
-Blacksteel Pauldrons
 
 ### Boots
 
-Leather Boots
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+ | Leather Boots | Placeholder |
+| 
 
-White Fur Boots
+ | White Fur Boots | Placeholder |
+| 
 
-Black Fur Boots  
+ | Black Fur Boots | Placeholder |
 
 ### Rings
 
-Old Ring
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+ | Old Ring | Placeholder |
+| 
 
-Silver Ring
+ | Silver Ring | Placeholder |
+| 
 
-Gold Ring
+ | Gold Ring | Placeholder |
+| 
 
-  
+ | Konga's Clutch Ring | Removes slide delay |
 
 ## Accessories
 
 ### Face
 
-Iron mask
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+ | Iron Mask | None |
+| 
 
-Blindfold
+ | Blindfold | Blinds occupant |
+| 
 
-Orange Bandana
+ | Bandana | Comes in various colors |

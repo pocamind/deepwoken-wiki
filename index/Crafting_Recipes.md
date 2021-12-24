@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 3876
+revid: 4041
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,6 +47,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Chum** - _2 Fishmeat_
 -   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap_
 -   **Fruit Salad** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd)_
+-   **Sushi** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_
 

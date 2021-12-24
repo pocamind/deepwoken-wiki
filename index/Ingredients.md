@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 3277
+revid: 4036
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -56,3 +56,4 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)
 -   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
 -   [Spark Gland](Spark_Gland.md)
+-   [Cloudstone](Mantra_Modifiers.md#regular-modifiers)

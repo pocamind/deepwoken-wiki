@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 3852
+revid: 3979
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -31,6 +31,7 @@ categories: ["Post-death"]
     -   Aratel
 -   [The Void Sea](Voidsea.md)
     -   Boatman's Watch
+    -   [Voidheart](Voidheart.md)
 -   Other islands??
 
 ## The Central Luminant

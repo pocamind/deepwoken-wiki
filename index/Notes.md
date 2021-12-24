@@ -1,20 +1,40 @@
 ---
 title: Notes
-revid: 3541
+revid: 4006
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sus]
+categories: [Pages with broken file links, Sus]
 ---
 
 # Notes
 
-# Notes
+## **Description**
 
-Notes are the currency of Deepwoken, It is used to purchase various things, from Food, Weapons, Tools, etc.
+**Notes** are the currency of Deepwoken, It is used to purchase various things, from Food, Weapons, Tools, etc.
+
+You can see how many notes you have on the bottom-right hand corner of your screen
+
+File:A bag of notes.png
+
+Note when dropped
+
+Dropping your notes
+
+A dog buying (good) shiny things for "sand dollar".
+
+Upon clicking your notes, you can choose to drop an amount of your choosing.
+
+-   The maximum amount of notes that can be dropped is **500**, i.e if you have over it, if not, then it's the max amount of notes you have.
+
+### Uses
 
 Currently, there are only a few known ways to obtain notes. Some of those are:
 
--   Asking the Helper at any spawn point to give you 25 Notes.
+-   Asking the Helper at any spawn point to give you **25 Notes**.
 -   Selling various things. (Currently the best moneymaking method)
--   Chopping trees, and turning them in. (10 wood > 5 notes)  
+-   Chopping trees, and turning them in. (10 wood = 5 notes)  
     In the future, please do tidy up this page
+
+## Trivia
+
+-   Illiterate trader NPCs refer to it as "sand dollars".

@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 3723
+revid: 3975
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,7 +18,7 @@ Template:Race Box mark 2
 
 ## Lore:
 
-racoon lol
+idk BUT, The city of celtor is where you escape the depths, and all the guards are celtors so
 
 ## Racial Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 3885
+revid: 3926
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -20,13 +20,13 @@ Template:Race Box mark 2
 
 _The **Adrets** are a race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Adretian Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another._
 
-File:Adret.png
-
-Adrets are evil fish creature from the deep
-
 ## Appearance
 
 Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange markings over their faces that almost resemble that of scars.
+
+File:Adret.png
+
+Adrets are evil fish creature from the deep
 
 ## Racial Abilities
 
@@ -49,4 +49,4 @@ Adrets are cyan-hued humanoids with yellow/greenish eyes. They have red/orange m
 
 ## Notes/Trivia
 
--   eae
+-   Every last name of an Adret has the suffix "-et."

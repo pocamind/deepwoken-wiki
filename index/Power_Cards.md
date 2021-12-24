@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 3084
+revid: 4001
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -161,6 +161,7 @@ Hand of Mantra Cards
 ### Raging Bull
 
 -   Harsh Response \[Generic Talent, Obtained through Power\] - Enemies recieve less posture back when they parry your attacks.
+-   Treefelling blow \[Generic Talent, Obtained through Power\] - You can collect lumber felled with your fists.
 
   
 
@@ -215,6 +216,7 @@ Hand of Mantra Cards
 ### Strength Combat
 
 -   Rapid Punches (1 Star Move) \[Strength Exclusive\] - Unleash a barrage of blows against your foes.
+-   Strong Left \[Strength Exclusive\] - Show enemies your strength. (Ragdoll enemies this can fling enemies off cliffs.)
 
 ### Fire Combat
 

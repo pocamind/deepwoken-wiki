@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 3839
+revid: 4042
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -100,13 +100,16 @@ _Some locations may be unlisted, feel free to add them!_
 -   Once you've become popular with the residence of Etrea, talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Upon talking to the Librarian for a second time with more knowledge from other NPC's, he'll dissapear.
--   Go up the cliff from the campsite, and you will find Kennith dead and a guard that instructs you to go to Lord Reagant.
+-   Go up the cliff from the campsite, and you will find Kennith dead and a guard that instructs you to go to Lord Reagant. (Can someone pinpoint the exact location? dont think a campsite would do us any good.)
 
 ### Diver Escort Quest
 
 -   To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
--   Accepting to escort her activates the quest, and must bring her to the Erisian Mines, located in Erisia Island.
+-   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
+-   Save her from the Mudskipper that is attacking her. After doing so, you need 10 Charisma to succeed on all the Charisma Checks.
+    -   Sending her home is the good option.
+    -   Letting her go into the Mines lead to the bad option, resulting in killing her, no matter what you do.
 
 ## Special Quests
 

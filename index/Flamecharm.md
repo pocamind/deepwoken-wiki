@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 3863
+revid: 3965
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,35 +17,35 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
 
 ## Mantras
 
-### Flame Repulsion
+### **Flame Repulsion**
 
 After charging for about 2 seconds, you will do a medium sized AOE attack affecting everywhere around you. This will knock back enemies as well as dealing damage. You cannot move and can still be attacked while charging the attack. The move does have super(?) armor, so you will still cast it even if an enemy attacks you.
 
-### Burning Servants
+### **Burning Servants**
 
-Around you, 8 spear-wielding humanoids made out fire will appear in a circle. They will each attack one by one around the circle with very short delay in between attacks, before all attacking the middle at the same time. This does not inflict stun or knockback.
+Around you, 6 spear-wielding humanoids made out fire will appear in a circle. They will each attack one by one around the circle with very short delay in between attacks, before all attacking the middle at the same time. This does not inflict stun or knockback.
 
-### Flame Palm
+### **Flame Palm**
 
 You wind up your fist back, before throwing it forward, releasing a medium ranged, cone-like blast of flame in front of you. Does medium(?) damage and burns the enemy.
 
-### Flame Wisp
+### **Flame Wisp**
 
 One of flamecharms two ritual spells. Summon a small, floating rock-like pet above your shoulder. Heals (Said by ReEvolu, requires testing) and lights up nearby campfire pits.
 
-### Produce Spark
+### **Produce Spark**
 
 Use a tiny amount of ether to create a small ember in front of your hands. Does no damage, used to light campfire pits.
 
-### Graceful Flame
+### **Graceful Flame**
 
 Conjure a undying flame for you and your comrades to rest by. (blockiergrublol#8124)
 
-### Flame gun
+### **Flame gun**
 
 You wind up both fists before throwing one fire ball straight ahead from each hand. Each ball dealing small damage and inflicing Burn.
 
-### Fire Eruption
+### **Fire Eruption**
 
 You raise both hands, causing the ground to quake as 2 flame pillar erupt out of the ground at your cursor (small delay between each pillar), after summoning they will stay for a few seconds before disappearing.
 
@@ -53,6 +53,14 @@ You raise both hands, causing the ground to quake as 2 flame pillar erupt out of
 
 Launches you far up into the air, leaving a trail of flames below you.
 
-### **Flame Blade**
+### **Fire Blade**
 
 Charge up a blow (about 1~ second or so) which deals Small/Medium damage, lighting anything hit on fire. _Counts as a critical? Possibly parryable, but not blockable._ Best used as a combo extender/finisher, due to the endlag.
+
+### **Flame of Denial**
+
+Prevents user from being knocked once for a limited duration.
+
+### Flame Grab
+
+Charge up a grab (about 0.5 seconds) which after charging thrusts you forward, if contact with a player/npc is made, you grab and slam the target into the ground, setting them ablaze (blockable)

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 3867
+revid: 3987
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -70,7 +70,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 -   Stiletto (Starter)
 -   Silver Dagger (LHT 35)
--   Gilded Dagger
+-   Gilded Dagger (LHT 25)
 
 ### Guns
 
@@ -101,6 +101,13 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Scimitar (MED 20)
 -   Katana
 -   Serpent Blade
+-   Razor Cutlass (MED 60)
+-   Shotel (MED 45)
+-   Vigil Longsword (MED 40)
+
+### Axes
+
+-   Canorian Axe (HVY 45)
 
 ### Clubs
 
@@ -147,6 +154,6 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 -   Daggers can feint, but it's difficult to time due to their high attack speed.
 -   All weapon types have different kinds of heavy attacks. Such examples are daggers performing a flurry of hits while moving forwards, Spears performing a short-ranged sweep and a lunge, and greataxes cleaving down your enemies.
--   All Firearms can fire bullets. If the user has no bullets, then they use Ether instead. Bullets can be bought for 5 Notes or crafted from Iron. (1 Iron > 5 Bullets).
+-   All Firearms can fire bullets. If the user has no bullets, then they use Ether instead. Players who wish to dual wield guns should therefore invest in intelligence. Bullets can be bought for 5 Notes or crafted from Iron. (1 Iron > 5 Bullets).
 -   Shields reduce posture damage.
 -   It is unknown if there is piercing damage in Deepwoken.

@@ -1,26 +1,25 @@
 ---
 title: Hearthgem
-revid: 3354
+revid: 4037
 source: https://deepwoken.fandom.com/wiki/Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hearthgem
 
--   **Description**
-    
-    Heart gem appearance
-    
+The Hearthgem in the Mantra shop at Etris.
 
-"Speak to the flames and tame them, training your Flamecharm"
+## **Description**
 
-**Appearance**
+_"A sphere containing a Flames so beautiful, they almost resemble a precious gem."_
 
-A glowing flame inside a glass-like orb
+> _**Speak to the Flames and tame them, training your Flamecharm.**_
 
-**Information**
+Used to train the [Flamecharm](Flamecharm.md) attunement. It can be used 200 times. Upon activation, the character places both hands on and lights it ablaze, as if they're pouring their heart into it.
 
--   Costs 25 Notes.
--   Purchased at the Mantra shop in Etris.
--   Used to train [Flamecharm](https://deepwoken.fandom.com/wiki/Flamecharm?so=search).
--   Can break if Overused.
+_Purchased at any Mantra Shop - **25 [Notes](Notes.md)**_
+
+## Trivia
+
+-   Every attunement has a training item.
+-   Can break if overused.
