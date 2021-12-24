@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 3668
+revid: 3791
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,7 +12,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ## Proposed Service
 
 -   **Campfire:** a permantly lit campfire located at the back of the area, near a torn tent. Good to reread your characters stats or remove pieces of equipment to be used at the Hippocampal Pool.
--   **Hippocampal Pool:** Located to the left, this pool let you input up to 2 items that will be transferred to your next character.
+-   **[Hippocampal Pool](Hippocampal_Pool.md):** Located to the left, this pool let you input up to 2 items that will be transferred to your next character.
 -   **Shrine of the Drowned:** Located before Self, the shrine let you make an offering (1000 robux) to return to The Etrean Luminant. This option is only available once per character.
 
 ## NPCs

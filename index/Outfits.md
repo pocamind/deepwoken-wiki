@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 3662
+revid: 3767
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,7 +46,7 @@ Image of the Outfit List, with 2 outfits learned
 
 ### Starter
 
--   Stranded Armor -
+-   Stranded Armor
     -   Craft Req: None, given upon creating a character
 -   Traveler Cloak Armor - _"A well-worn (color) travelers cloak."_
     -   Craft Req: x1 Cloth, 10 Notes | Stat Req: None | Armor Stats: +1000 Durability, +12% Physical Armor
@@ -71,7 +71,7 @@ Image of the Outfit List, with 2 outfits learned
 
 -   Firekeepers armor (~found behind bank of Etris~ it's not i checked)- Requirements and stats are unknown
 
--   Navaen Nomad Robes - "Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold."
+-   Navaen Nomad Robes - _"Outfit of the Eastern Navaen Nomads. The frigid prisms crafted into this armor have been blessed by Navae, giving them defense against darkness and the cold."_
     -   Craft Req: 5x Cloth, 8x Erisore, 5x Fiber, 2x Frigid Prism, 100 Notes. | Stat Req: Power level 15 | Armor stats: +1800 Durability, +10% Physical Armor, +10% Blunt Armor, +50% Stealth, +15% Shadow Armor, +15% Ice Armor, +10% Elemental Armor, +Talent: Fists of Navae
         
         File:Nomadrobes.png
@@ -116,6 +116,8 @@ Ignition Union Uniform
 
 Leather Pauldrons
 
+Autumn Pauldrons
+
   
 Steel Pauldrons
 
@@ -136,3 +138,15 @@ Old Ring
 Silver Ring
 
 Gold Ring
+
+  
+
+## Accessories
+
+### Face
+
+Iron mask
+
+Blindfold
+
+Orange Bandana

@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 3744
+revid: 3885
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,13 +12,13 @@ categories: [Pages with broken file links, Races]
 
 > _Tattooed when they come of age, their tattoo represents the path of life they seek. Well regarded as bureaucrats and keepers of coin._
 
--   Chance of obtaining race: **16.3%**
+-   Chance of obtaining race: **17.4%**
 
 Template:Race Box mark 2
 
 ## Lore
 
-Blue skinned and among the most common of races, the **Adret** are a race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Adretian Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
+_The **Adrets** are a race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Adretian Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another._
 
 File:Adret.png
 

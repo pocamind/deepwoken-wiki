@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 3698
+revid: 3863
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Flame charm icon
 
-> "Set you Heart ablaze,Go beyond your limits!" - Rengoku kyojuro
+> "The brightest flame casts the darkest shadow."
 
 -   **Description**
 
@@ -52,3 +52,7 @@ You raise both hands, causing the ground to quake as 2 flame pillar erupt out of
 ### **Fire Leap**
 
 Launches you far up into the air, leaving a trail of flames below you.
+
+### **Flame Blade**
+
+Charge up a blow (about 1~ second or so) which deals Small/Medium damage, lighting anything hit on fire. _Counts as a critical? Possibly parryable, but not blockable._ Best used as a combo extender/finisher, due to the endlag.

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 3504
+revid: 3839
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Etris
 
-_"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself."_
+_"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself." (never spawn here viglis give free 50 notes)_
 
 File:Etris.png
 
@@ -106,9 +106,35 @@ _Some locations may be unlisted, feel free to add them!_
 
 -   To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 -   Accepting to escort her activates the quest, and must bring her to the Erisian Mines, located in Erisia Island.
-    -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requirement unknown)  
-        
+    -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
+
+## Special Quests
+
+### Flamecharmer Ploom Quest
+
+_"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty here in the East." - Ploom talking to the Player after a successful Flamecharmer Check_
+
+-   Talk to Ploom, located in Lance's Food.
+-   Further through the dialogue, you can choose 3 ways of doing this quest.
+    -   1\. Do the quest normally, and accept his offer. Fetch him 3 Dying Embers for him.
+    -   2\. Perform a Charisma Check, which requires ???.
+    -   3\. Perform a Flamecharm Check, which requires Flamecharm 40.
+
+-   Reward of doing Ploom's bidding is the Pleeksty's Will Talent.
+
+### Frostdrawer Nell Quest
+
+-   Talk to Nell, located in the Alchemy House.
+-   Accepting Nell's quest requires you to bring 5 Frigid Prisms to her. (Frigid Prisms can be found by defeating enemies that use Frostdraw.)
+-   After giving her the required items, she will then use them and give you Glassblood to your inventory.
+-   Drinking Glassblood will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast Frostdraw and learn Frostdraw Talents.
 
 ## Notes/Trivia
 
 -   In the Lord Regent Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
+
+  
+
+  
+
+Successful Flamecharmer Check

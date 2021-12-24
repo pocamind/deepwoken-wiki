@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 1220
+revid: 3881
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,9 @@ Freshies get to vibing. These links will take you to Soundcloud. I totally know 
 The Main Ost for Deepwoken
 
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming?in=naktigonis/sets/deepwoken) Contour 1** (Plays in the menu screen)
--   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-2?in=naktigonis/sets/deepwoken) Contour 2** (Plays somewhere)
+-   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-2?in=naktigonis/sets/deepwoken) Contour 2** (Plays in the continue screen after selecting your character)
+-   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) Contour 3** (Plays somwhere, unkown)
+-   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) Contour 4** (Plays somewhere, really cool song, possible plays in the depths due to bells chiming)
 
 <table>
 <tbody>

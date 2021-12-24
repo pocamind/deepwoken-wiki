@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 3680
+revid: 3852
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -11,25 +11,26 @@ categories: ["Post-death"]
 ## The Etrean Luminant
 
 -   The Etrean Sea
+    -   Eastern Contentinal Lighthouse
+    -   [Minityrsa](Minityrsa.md)
+    -   Etris (Starting Island)
+    -   Isle of Vigils (Starting Island)
+    -   Erisia Island
+        -   _Lower Erisia_
+        -   _Upper Erisia_
+        -   _Erisor's Church_
+        -   _The Courteyard_
+        -   _[Towerstruck Lands](Towerstruck_Lands.md)_
+        -   _Tomb of the Nameless Soldier_
+        -   _The Temple of the Forgotten Flame_
+        -   _Lord Erisia's Manor_
+        -   _Burning Stone Gardens_
 -   The Aratel Sea
+    -   Songseeker Wilds
+    -   Summer Isle
+    -   Aratel
 -   [The Void Sea](Voidsea.md)
--   Etris (Starting Island)
--   Isle of Vigils (Starting Island)
--   Erisia Island (Etrean Sea)
-    -   _Lower Erisia_
-    -   _Upper Erisia_
-    -   _Erisor's Church_
-    -   _The Courteyard_
-    -   _[Towerstruck Lands](Towerstruck_Lands.md)_
-    -   _Tomb of the Nameless Soldier_
-    -   _The Temple of the Forgotten Flame_
-    -   _Lord Erisia's Manor_
-    -   _Burning Stone Gardens_
--   Eastern Contentinal Lighthouse (Etrean Sea)
--   [Minityrsa](Minityrsa.md) (Etrean Sea)
--   Songseeker Wilds (Aratel Sea)
--   Summer Isle (Aratel Sea)
--   Aratel (Aratel Sea)
+    -   Boatman's Watch
 -   Other islands??
 
 ## The Central Luminant
@@ -41,9 +42,10 @@ categories: ["Post-death"]
 ## The Depths
 
 -   [The Depths](The_Depths.md)
--   Celtor Wastes
--   The City of the Drowned
-    -   _Varicosa District (The City of the Drowned)_
+    -   The Depths
+    -   Celtor Wastes
+    -   The City of the Drowned
+        -   _Varicosa District (The City of the Drowned)_
 
 ## Post-death
 

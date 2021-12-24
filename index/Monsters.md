@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 3717
+revid: 3889
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,7 +46,7 @@ _Main Source - [Megalodaunt](Megalodaunt.md)_
 
 File:Sharko.png
 
-Megalodaunt doing the ol' Russian Squat (He's trying his best)
+Megalodaunt eating a player/npc.
 
 Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use is still unknown, but can be sold for notes)
 
@@ -146,21 +146,28 @@ Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolut
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
-  
+A purple crab not alot about it is known but seen spawned in the cave of Lower Erisia
+
+#### Attacks
+
+-   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block.
+-   **Claw -** The purple crab swings its claw downwards doing damage if landed.
 
 ### Blue Jellyfish
 
-Player-sized glowing blue Jellyfish that is commonly found all across _**The Depths**_. Reccommended for low-powered players due to its ease of fighting and stunlocking, even in groups.
+Player-sized glowing blue Jellyfish that is commonly found all across _**The Depths**_. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups.
 
 #### Attacks
 
 -   **Electric Stun Pulse** - Blue AOE attack that deals approx. 7% of your health while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
 
-### Chromatic Jellyfish
+### Purple Chromatic Jellyfish
 
-File:Fat fuck bat demon thing.png
+A massive purple jellyfish that is found in The Depths.
 
-  
+#### Attacks
+
+-   **Summon Jellyfish -** Usually upon being aggro'd they will spawn 1 or 2 blue jellyfish to attack the player.
 
 **Gargoyles**  
 Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
@@ -175,7 +182,9 @@ unknown
 
 ### Notes/Tips
 
-Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.  
+Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.
+
+They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.  
 
 **The Enforcer**
 
@@ -186,6 +195,7 @@ A large armored beast with an oversized fuckin axe that appears in The Depths af
 -   **High Swing -** Lifts its axe high in the air and brings it down on the enemy
 -   **Low Swing -** Swings its axe around knee length at the opponent
 -   **Kick -** Deliver a kick at the opponent
+-   **Spin -** Spin with your axe and deals tons of damage but is slown
 
 **Finisher**
 
@@ -222,6 +232,10 @@ Swing their sword and instantly kill any knocked player in less than a second
 
 **Dont go to the valley of heroes**
 
+Theres a 2nd variant of them called the Rock Knights that falls from a blue meteor has the same attacks I believe
+
+If you get hit by the meteor directly then you dont lose a life (possibly)
+
 Their main attacks are to knock the player up and prevent them form escaping.
 
 [https://medal.tv/games/roblox/clips/5LHYvOqV\_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action (i sacrificed my life for this)
@@ -248,7 +262,7 @@ summoned by going to glacier on top of Mintyrsa
 
 #### Finisher
 
-???
+The golem walks over to the knocked opponent and then slams their fist onto them and finishing them in less than a second. (I died for this)
 
 ###### Notes/Tips
 

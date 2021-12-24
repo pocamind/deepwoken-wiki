@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 3701
+revid: 3811
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,7 +50,7 @@ Upon entering the elevator and reaching the top, you will be faced with a trial,
 | 50-59 | ??? |
 | 60 | 1 [Enforcer](Enforcer.md) |
 
-**NOTE:** If multiple players take on The Trial, the trial will be scaled of the player with the highest Power, and each additional player will add an extra enemy to fight (5 players taking on the trial = 5 enemies).
+**NOTE:** If multiple players take on The Trial, the trial will be scaled of the player with the highest Power, and each additional player will add an extra enemy to fight up to power 29 (5 players taking on the trial = 5 enemies). Afterward, only 1 enemy will spawn.
 
 **Alternatively**
 

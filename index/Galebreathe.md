@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 3693
+revid: 3864
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells]
@@ -29,5 +29,7 @@ Rising Wind - When the move succesfully hits anyone, whoever was in the radius i
 Wind Blade - The user slashes with their weapon, launching a wind projectile in front of them
 
 Wind Carve - The user summons many small wind blades in front of them, rapidly hitting enemies. Can be blocked.
+
+Heavenly Wind - The user jumps into the air, before falling and striking into the ground. Can be blocked.
 
 **Trivia and note**

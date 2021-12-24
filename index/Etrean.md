@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 3739
+revid: 3830
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -41,7 +41,7 @@ High Fortitude = Immunity to acid rain (I have fortitude 75 and take 0 damage)
 
 ## Weaknesses
 
--   none
+-   none, etreans are flawless and perfect
 
 ## Notes/Trivia
 

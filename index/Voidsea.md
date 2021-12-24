@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 3022
+revid: 3801
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ The Void Sea is one of the main areas in Deepwoken. It is speculated to be an ec
 
 The Void sea has dark and gloomy waters. It is very dangerous to enter as a low level due to the constant attacks by sea beast. It's very easy to get lost as the void sea is far away from land making it hard to create or use landmarks to get back.
 
-  
+Whirlpool also appears in the area. They deal rapid damage to boats passing near them and can bring a player directly to [The Depths](The_Depths.md) without dying, but still incur the blue life bar.
 
 ## Notes
 

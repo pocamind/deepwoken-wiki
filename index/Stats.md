@@ -1,6 +1,6 @@
 ---
 title: Stats
-revid: 3743
+revid: 3808
 source: https://deepwoken.fandom.com/wiki/Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,9 +9,15 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Stats or Attributs are numerical representations of a character abilities in certain domains. Each stat grant different benefits the more they are leveled, as well as beeing necessary to equip certain items or weapons.
 
+## Purpose of stats
+
+-   **Statistical advantage:** Having higher stats means that your raw numbers like health or ether are higher, making you more efficient in combat or for other tasks.
+-   **Armor, weapon and item requirements:** Certain items require the player to have a high enough stat of a given field (sometime 2) to be equipable/purchaseable.
+-   **Talent pool:** Certain talent are locked to certain stats thereshold and will not be drawn upon a Power Up. Leveling up a stat allow you to obtain more varied talent cards related to that skill. (Someone with too low Charisma would not be able to get Vow of Mastery for example)
+
 ## How does upgrading a stat work?
 
-"Training" a stat require the player to:
+Upgrading a stat require the player to:
 
 -   perform actions related to that stat
 -   have used/equipped that stat specific training item
@@ -56,7 +62,7 @@ Actions that grant Agility EXP: Vaulting, Wall Climbing, Wall Jumping
 
 Training Item: Ankle Weight
 
-**Note**: Certain talents grant "Passive Agility" which is only used to improve mobility and is not accounted for in armor/weapons requirements.
+**Note**: Certain talents grant "Passive Agility" which is only used to improve mobility and stealth and is not accounted for in armor/weapons requirements.
 
 ## Intelligence
 

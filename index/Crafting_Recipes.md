@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 3704
+revid: 3876
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,7 +60,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 ## Alchemy
 
-_**Potions**_ are made with the use of a cauldron. (One can be found in Etris.)
+_**Potions**_ are made with the use of a cauldron. (One can be found in Etris, right of the guild house and up the mountain.)
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
 

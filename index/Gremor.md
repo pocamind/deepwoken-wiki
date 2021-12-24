@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 3748
+revid: 3851
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -46,12 +46,6 @@ Chance of obtaining race: **12.2/13.6%**
 </tr>
 </tbody>
 </table>
-
-  
-**Racial Abilities**
-
--   Loses less hunger.
--   Equipped with talent 'Navae's Guidance': Starts with a compass
 
 ## Miscellaneous
 
