@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 4215
+revid: 4563
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -18,15 +18,16 @@ categories: ["Post-death"]
     -   Erisia Island
         -   _Lower Erisia_
         -   _[Upper Erisia](Upper_Erisia.md)_
-        -   The Birdcage
+        -   [The Birdcage](The_Birdcage.md)
         -   Viper's Jaw
-        -   _Erisor's Church_
-        -   _The Courteyard_
+        -   _[Erisor's Church](<Erisor's_Church.md>)_
+        -   _The Courtyard_
         -   _[Towerstruck Lands](Towerstruck_Lands.md)_
         -   _Tomb of the Nameless Soldier_
         -   _The Temple of the Forgotten Flame_
         -   _Lord Erisia's Manor_
         -   _Burning Stone Gardens_
+        -   The Hidden Village
 -   The Aratel Sea
     -   Songseeker Wilds
     -   Summer Isle

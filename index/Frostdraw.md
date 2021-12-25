@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 4205
+revid: 4542
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -65,6 +65,11 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <th><h3>Cryomancer</h3><p>Chilling Flourish-Generic Talent</p>
   <p>When flourishing an enemy, they leave behind a trail of ice in the direction you send them.</p>
   <p>+4 Elemental Intensity</p>
+  <p>+2 Health</p>
+  <p><br>
+  Spike traps-(Generic Talent?)</p>
+  <p>Press [F] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.</p>
+  <p>+3 Elemental Intensity</p>
   <p>+2 Health</p></th>
 </tr>
 </tbody>
@@ -164,7 +169,33 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 </table></td>
 </tr>
 <tr>
-  <td><h2>Support Mantras (1 Max)</h2></td>
+  <td><h2>Support Mantras (1 Max)</h2>
+<table>
+<tbody>
+<tr>
+  <td><h3>0 Star</h3>
+  <ul>
+    <li><b>Adrenaline Surge</b> - A rush of agility.</li>
+  </ul><p><br>
+  Agility Support,</p>
+  <ul>
+    <li><b>Summon Cauldron</b> - Make a cauldron appear from your memories.</li>
+  </ul><p>Intelligence Support, summon a cauldron</p>
+  <ul>
+    <li></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><h3>1 Star</h3></td>
+</tr>
+<tr>
+  <td><h3>2 Star</h3></td>
+</tr>
+<tr>
+  <td><h3>3 Star</h3></td>
+</tr>
+</tbody>
+</table></td>
 </tr>
 <tr>
   <td></td>

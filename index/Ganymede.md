@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 4498
+revid: 4548
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -20,21 +20,22 @@ Template:Race Box mark 2
 
 File:Ganymede.png
 
-## Lore
+### Lore
 
   
 (To be discovered)
 
-## Appearance
+### Appearance
 
-Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety of colors, they are based off of Snails. Not much information is known about this race. Under their trademark hats, they have white hair.
+Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety of colors, they are based off of Snails. Not much information is known about this race other than the fact they share their face table with vesparians and are presumably related to them. Under their trademark hats, they have white hair.
 
-## Racial Abilities
+### Racial Abilities
 
 -   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.
 -   Resists insanity.
+-   George Floyd Beam: Similar to fus ru dah, it allows players to fling any enemy 500 studs backwards within a small beam that acts much like ice beam. 20 second cooldown and 5 power required.
 
-## Varients
+### Variants
 
 -   White eyes
 -   Yellow/orangeish eyes
@@ -42,15 +43,15 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 -   (You can see the attunement you get of they eye color when you choose random) (NOT PROVEN) Yellow = Thunder Orange = Flame White = Frost Sky Blue = Gale  
     
 
-## Strengths.
+### Strengths.
 
 -   +2 Intelligence, +2 Willpower.
 
-## Weaknesses
+### Weaknesses
 
 -   Unknown as of yet
 
-## Notes/Trivia
+### Notes/Trivia
 
 -   You can press P to take off the hat if you dont like it.
     

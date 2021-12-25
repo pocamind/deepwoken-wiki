@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4480
+revid: 4551
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -435,7 +435,39 @@ _Talent: Brunt_
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
 | 
- | Unknown | Unknown | Unknown | Unknown |
+File:Prophet's Cloak.png
+
+ | Prophet's Cloak | x1 Bloodless Gem
+
+x5 Cloth
+
+x1 Dark Feather
+
+x1 Odd tentacle
+
+x1 Thresher Spine
+
+x5 Umbral Obsidian
+
+x5 Vibrant Gem
+
+x1000 Notes
+
+ | Power 45 | +25% Physical Armor
+
++2600 Durability
+
++400% Ether Regen
+
++20% Ice Armor
+
++20% Fire Armor
+
++25% Elemental Armor
+
+Talent: Crippling Darkness
+
+ |
 
 ## Armor Pieces
 
@@ -454,13 +486,37 @@ _Talent: Brunt_
  | Leather Pauldrons | Placeholder |
 | 
 
+File:Autumn pauldrons.png
+
  | Autumn Pauldrons | Placeholder |
 | 
 
  | Steel Pauldrons | Placeholder |
 | 
 
- | Blacksteel Pauldrons | Placeholder |
+File:Flameguard.png
+
+ | (Ascended?) Flameguard Pauldrons | +10 Ether
+
++20 Reservoir
+
+ |
+| 
+
+ | Blacksteel Pauldrons | +2% Damage Vs. Giant
+
++3 Health
+
++1 Posture
+
+ |
+|  | Black Fur Pauldrons | +2% Damage Vs. Giant
+
++3 Health
+
++10 Ether
+
+ |
 | 
 
  | Vanguard Brace | Placeholder |

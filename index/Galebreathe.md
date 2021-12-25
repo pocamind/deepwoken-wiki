@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4483
+revid: 4536
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -90,7 +90,7 @@ Rapidly damages opponent.
 
  | Rising Wind
 
-(unknown)
+(☆)
 
  | Unknown | AOE attack that sends opponents and user into the air.
 
@@ -105,7 +105,7 @@ _Possibly inflicts opponents with fall damage._
 
  | Astral Wind
 
-(unknown)
+(☆☆☆)
 
  | Unknown | Several fast slashes that form a star.
 

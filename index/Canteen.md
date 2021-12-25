@@ -1,21 +1,25 @@
 ---
 title: Canteen
-revid: 2976
+revid: 4511
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Canteen
 
-used to hold water
+## Description
 
-recipe: Calabash + BeesWax near a crafting table
+Used to hold water on the go.
 
-the canteen has 5 uses to refill water bar before having to refill at a [well](Water_Well.md) (to refill click near a well, you can refill in the ocean but if you drink the ocean water you will vomit)
+### Recipe
 
-  
+Calabash + Beeswax near a crafting table.
 
-(to obtain beeswax u need to harvest a bee hive that spawns on trees, Calabash spawn on bushes around etrea \[one of the spawn options\])
+(To obtain Beeswax, you need to harvest a bee hive that spawns on trees, Calabash spawn on bushes around Etris.)
+
+### Uses
+
+the canteen has 5 uses to refill water bar before having to refill at a [well](Water_Well.md) (to refill click near a well, you can refill in the ocean but if you drink the ocean water you will vomit.)
 
   
 im surprised not that many people know this item and its use

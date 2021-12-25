@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 4496
+revid: 4507
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,22 +8,23 @@ categories: [Pages with broken file links, Races]
 
 # Capra
 
-**Description**
+## Description
+
+_Possibly_ based on wendigo's but Capra just means goat in spanish so its prolly more leaning on "goat-person."
 
 Drippy Stuff
 
--   Chance of obtaining race: **2.0%**  
-    
+-   Chance of obtaining race: **2.0%**
 
-#### **Lore**
+### **Lore**
 
 Template:Races-MainThey are keepers of ancient secrets who travel the sees sharing knowledge with those who need it.
 
-**Appearance**
+### **Appearance**
 
 Capras have 3 color variants, and each of them have specific passive bonuses.
 
-**Racial Abilities**
+### Racial Abilities
 
 File:Capra2.png
 
@@ -33,18 +34,18 @@ Green variant - _**Mark of Nemit**_ | Buffs the food of one person they choose a
 
 Red variant - _**Mark of Ku**_ | Buffs the "rest" of one person they choose around them as long as they are at the campfire. |
 
-**Progression**
+### Progression
 
 none
 
-**Strengths**
+### Strengths
 
 +2 Intelligence, 2+ Willpower.
 
-**Weaknesses**
+### Weaknesses
 
 none
 
-**Notes/Trivia**
+### Notes/Trivia
 
 eae

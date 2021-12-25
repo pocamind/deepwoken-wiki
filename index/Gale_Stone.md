@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 3565
+revid: 4532
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Holding a Gale Stone.
 
-You can obtain Gale Stones by killing Elisia Guards
+You can obtain Gale Stones by killing Galebreathe users (NPCs works as well)
 
 **Item Description:**
 
@@ -19,7 +19,9 @@ You can obtain Gale Stones by killing Elisia Guards
 
 **What It Does:**
 
-Can be used to obtain the GaleBreath Magic
+Used to obtain the Galebreathe Magic (5 needed)
+
+Used to complete the quest to unbound your weapon stat
 
   
 

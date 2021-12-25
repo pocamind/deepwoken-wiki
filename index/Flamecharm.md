@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 4426
+revid: 4554
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Repulsion</td>
-  <td>Unknown</td>
+  <td>An exertion of flames.</td>
   <td>After charging for about 2 seconds<b>charging for about 2 seconds</b>, <b>cast a medium sized AOE attack</b> affecting everywhere around you <b>while being unable to move</b>.<p><b>Knocks back</b> enemies and does <b>damage</b>. <b>Spell has hyper armour.</b></p></td>
 </tr>
 <tr>
@@ -47,13 +47,13 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Eruption</td>
-  <td>Unknown</td>
+  <td>A pyrocalstic eruption.</td>
   <td>Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Gun</td>
-  <td>Unknown</td>
+  <td>Rapid bullets of flame.</td>
   <td>Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target.</td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Grab</td>
-  <td>Unknown</td>
+  <td>A fiery chokehold.</td>
   <td>Caster charges a grab for 0.5 seconds, thrusting forward and when the target is hit, they are grabbed and slammed into the ground, inflicting burn and damage</td>
 </tr>
 </tbody>
@@ -115,13 +115,13 @@ rising flame is also a move, please add!
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Wisp</td>
-  <td>Unknown</td>
+  <td>A servant of flames.</td>
   <td>Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster (requires testing) and igniting nearby extinguished campfire pits.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Produce Spark</td>
-  <td>Unknown</td>
+  <td>A masterful production of flame for the use of making campfires.</td>
   <td>Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.</td>
 </tr>
 <tr>
@@ -135,6 +135,12 @@ rising flame is also a move, please add!
   <td>Flame of Denial</td>
   <td>Unknown</td>
   <td>Prevents caster from being knocked once for a limited duration. (Duration to be tested)</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Within</td>
+  <td>Set yourself ablaze.</td>
+  <td>Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling.</td>
 </tr>
 </tbody>
 </table>

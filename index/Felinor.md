@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 4461
+revid: 4549
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,8 +38,7 @@ A race that has physical features resembling that of cat, hence the name _Felino
 
 ## Notes/Trivia
 
--   The **Felinor** race is the only known way to access **Supreme Difficulty**, it's called Supreme Difficulty because of it being discriminated against so often (Players).
--   Can be built to achieve maximum edge or drip.
+-   The **Felinor** race is the only known way to access **Supreme Difficulty**, it's called Supreme Difficulty because of it being discriminated against so often by players.
 
 <table>
 <tbody>

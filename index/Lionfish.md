@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 4444
+revid: 4515
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,9 @@ File:Menos Fish.jpg
 
 A lionfish in [The Depths](The_Depths.md)
 
-Brown, Looks to be half a fish, Teeth Visible.
+Half-fish, half-lion. A large brown fish with a black mane of a Lion, thus it's name. It has white blank eyes, with it's teeth visible.
+
+Seams to be based off the Underwater panther or ''_**[Mishipeshu](https://en.wikipedia.org/wiki/Underwater_panther)''**_ Of indigenous/Native/Indian Americans (Or Arch got it off from ark's Shadowmane which is what I know the myth from). Considering that Deep's landscape seams to take insperation off early American settelers (especially seen in the Summer Company's teritories) and Asian Chinese/Japanise arcitexture in other areas this is possible. -Biscuit
 
 It drops an item called "Lionfish Scale"
 

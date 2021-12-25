@@ -1,13 +1,13 @@
 ---
 title: Voidsea
-revid: 4420
+revid: 4572
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Voidsea
 
-_**"Placeholder area description"**_
+_**"Here, the dying light collects like dregs at the precipice of a waterfall. The ultimate fate of all things become apparent."**_
 
 ## Overview
 

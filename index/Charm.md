@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 4224
+revid: 4534
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,3 +48,5 @@ Command: Sleep - Innate abilty that causes the Subject to instantly go into a st
 Command: Run - Command your servant to run with all their might. _Causes the Subject to run forward continuosly for an amount of time with a speed boost, no cool down_. ( \[Subject's First Name\] Run )
 
 Command: Fight - Command your servant to fight for their master, granting them enhanced stats for the duration. _Regardless of the rumors this one is purely a buff that does nothing else, appears to give more damage and enhanced life regen, lengthy cooldown_. ( \[Subject's First Name\] Fight )
+
+Command: Sacrifice - Damage your servant to heal yourself
