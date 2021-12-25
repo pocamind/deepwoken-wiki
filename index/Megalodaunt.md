@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 4490
+revid: 4616
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,3 +31,4 @@ This monster is hostile to every other creature and will attack them on sight, w
 
 -   With decently high hp and a good armor, it is perfectly viable to tank all the attacks and still go for hits, however, its still better to block and parry what you can.
 -   When Sharko's HP drop enough, he will be stunned, displayed via a red effect on him. You should throw everything at him at this moment.
+-   Here is a fairly easy method to kill sharkos [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy) ABUSE IT WHILE YOU CAN

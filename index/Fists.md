@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 4136
+revid: 4678
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,4 +13,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ### Way of Navae
 
--   To get this, either you buy the nomad robes inside one of the tents on the nomad camp on etris or find a captive on erisia and bring it to the nomads.
+-   To get this, ~either you buy you can only buy recipe for armor,~ (You can't get the fist style from armour, you only get a talent that buffs the fist style) you gotta craft it yourself the nomad robes inside one of the tents on the nomad camp on etris or find a captive on erisia and bring it to the nomads.
+
+### Jus Karita
+
+-   The trainer is next to the tree in the middle of Etris. Requirements are unconfirmed. But it seems to be that you need to have 45+ light weapon Level

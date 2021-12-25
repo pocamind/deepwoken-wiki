@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4551
+revid: 4623
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -503,6 +503,8 @@ File:Flameguard.png
  |
 | 
 
+File:Blacksteel Pauldron.png
+
  | Blacksteel Pauldrons | +2% Damage Vs. Giant
 
 +3 Health
@@ -510,7 +512,20 @@ File:Flameguard.png
 +1 Posture
 
  |
-|  | Black Fur Pauldrons | +2% Damage Vs. Giant
+|   
+
+File:Black Fur Pauldrons.png
+
+ | Black Fur Pauldrons | +2% Damage Vs. Giant
+
++3 Health
+
++10 Ether
+
+ |
+|  | Tracker's Brace | +2% Damage Vs. Giant
+
++20 Reservoir
 
 +3 Health
 
@@ -541,6 +556,8 @@ File:Vanguardbrace.png
 | Image | Armor | Effects |
 | --- | --- | --- |
 | 
+File:Leather boots.png
+
  | Leather Boots | +4 Health |
 | 
 
@@ -552,6 +569,11 @@ File:Vanguardbrace.png
 | 
 
  | Black Fur Boots | Placeholder |
+|  | Autumn Boots | +6% Damage Vs. Sea
+
++3 Health
+
+ |
 | 
 
 File:Khanboots.png

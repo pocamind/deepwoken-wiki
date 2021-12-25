@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 4523
+revid: 4599
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -62,3 +62,5 @@ File:Curse of the umbral knight in Infernasu's video.jpg
 
   
 Apparently there are enchanted armor as well. Any information given would be greatly appreciated.
+
+\- Random guy here, I used to have an enchanted armour piece with "Multiplicity". Basically once you got hit there was a chance you'd summon a clone of the person attacking you for a few seconds that would target said person and chase/attack him. It was op because it stacks, believe it or not, and you can practically solo 5v1 someone just because they hit you a bunch of times.

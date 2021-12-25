@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 4505
+revid: 4663
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -95,9 +95,9 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Falchion (MED 20)
 -   Scimitar (MED 20)
 -   Katana (MED 25)
--   (Rare) Serpent Blade (MED 45)
 -   Vigil Longsword (MED 40)
 -   Shotel (MED 45)
+-   (Rare) Serpent Blade (MED 45)
 -   Razor Cutlass (MED 60)
 -   (Rare) Shattered Katana (MED 100)
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 4415
+revid: 4639
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,8 @@ Mantras allow you to use certain spells and are unique to everyone. The base man
 **Frostdraw: Allows you to freeze enemies and can crowd control**
 
 **Galebreath: Directed towards movement and physical forces based around wind (Dashing, pushes, pulls, etc)**
+
+**Shadowcast: Ether stealing and crowd control ( Dashes, teleports, big aoes, etc )**
 
 There are also mantras that are based off of other character attributes. This includes strength, fortitude, intelligence, agility, willpower, and charisma.
 

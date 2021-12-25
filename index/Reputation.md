@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 4476
+revid: 4652
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links]
 _“The guard gives you a crooked smile.”_ Have a nice day, friend.
 
 If you ever get into trouble, you know who to look for...
+
+\- Nerin
 
 ## Description
 
@@ -28,7 +30,7 @@ Players with positive reputation from factions **will not** be attacked by NPCs 
 
 Players can talk to the NPC guards posted within villages and islands. Depending on your current reputation, guards will respond with dialogue that is established with that level of reputation. Guards will speak in a more friendly manner the higher your reputation is.
 
-Finally, at maxed positive reputation guards will fully acknowledge you and will even say your first name upon greeting you.
+Finally, at max positive reputation guards will fully acknowledge you and will even say your first name upon greeting you.
 
   
 
@@ -41,7 +43,7 @@ Finally, at maxed positive reputation guards will fully acknowledge you and will
 Players with negative reputation from factions **will be** attacked by NPCs from that faction.
 
 -   Guards within villages and islands will chase and attack you within line-of-sight.
--   Guards will aggro you in PVE faction battles.
+-   Guards will aggro you in PVE faction battles\*.
 -   Innkeepers will not grant you stay, thus not allowing you to respawn at that inn.
 
   
@@ -59,12 +61,12 @@ Players can reset their reputation to Neutral by bribing their faction's respect
 </tr>
 <tr>
   <td>File:Screenshot 2021-12-24 222420.jpg</td>
-  <td>Etris<p>(Located past the bridge above the Antiquarian)</p></td>
+  <td>Etris</td>
   <td><b>Nerin</b>: Removes hostilities with Etrean and Vigil guards</td>
 </tr>
 <tr>
   <td>File:Screenshot 2021-12-24 221619.jpg</td>
-  <td>Summer Isle<p>(Located past the stone bridge leaning back on a wall)</p></td>
+  <td>Summer Isle</td>
   <td><b>Nepo</b>: Removes hostilities with the Summer Company.</td>
 </tr>
 </tbody>
@@ -72,8 +74,10 @@ Players can reset their reputation to Neutral by bribing their faction's respect
 
   
 
-### Player vs. Environment (PVE) Faction Battles
+### Player vs. Environment (PVE) Faction Battles\*
 
 Battles between factions can randomly occur at anytime, and they usually take place at specific locations. Players can take part in these encounters as they see fit.
 
-For example, in Erisia Island players may find Etrean Guards fighting off a group of [enemies](Enemies.md), such as bandits. Allying with the Etrean Guards by managing to attack and kill their enemies will gain you reputation within the territories of Etrea.
+For example, in Erisia Island players may find Etrean Guards fighting off a group of [enemies](Enemies.md), such as bandits. Assisting with the Etrean Guards by managing to attack and kill their enemies will gain you reputation within the territories of Etrea.
+
+\*unofficial mechanic name

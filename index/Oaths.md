@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 4132
+revid: 4653
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,7 +63,7 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 
 ### Oath Effects:
 
--   +4 Health
+-   +3 Health
 -   +10 Sanity (remain in The Depths for longer)
 -   +1 Support Mantra Slot
 -   +1 Wildcard Mantra Slot

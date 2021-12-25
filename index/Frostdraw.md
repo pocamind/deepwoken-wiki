@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 4542
+revid: 4583
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links]
 
 File:Frostdrawerlogo.png
 
-Frostdrawer allows the user to command the ice element, a versatile class that balances mobility and combat. Use hemafrost to level up frostdrawer ability and talk to Nell to level up abilities.
+Frostdrawer allows the user to command the ice element, a versatile class that balances mobility and combat. Use hemafrost to level up frostdrawer ability and talk to [Nell](Attunement_Trainers.md) to level up mantras.
 
 ## Talents
 

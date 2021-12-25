@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 4417
+revid: 4602
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -150,7 +150,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 ## Notes/Trivia
 
 -   In the Lord Regent Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
--   After talking to the Bookworm in the Lord Regent Quest, the Royal Guards do not kill on sight if you trespass within the Palace. It is unknown if the Lord Regent too, doesn't kill you on sight also.
+-   After talking to the Bookworm in the Lord Regent Quest, the Royal Guards do not kill on sight if you trespass within the Palace. ~It is unknown if the Lord Regent too, doesn't kill you on sight also.~ If you are not requested to an audience with the Lord Regent, he will instakill you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   In the Apprentice Blacksmith Quest, the discount works on Materials inside the Blacksmith as intended, its just that you are looking at the original price.
 -   Etris is not a good Starting Island to spawn in as a Fresh Character; due to the lack of quests available to you. Isle of Vigils is recommended.
 

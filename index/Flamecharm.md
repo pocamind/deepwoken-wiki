@@ -1,8 +1,9 @@
 ---
 title: Flamecharm
-revid: 4554
+revid: 4659
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Spells]
 ---
 
 # Flamecharm
@@ -71,7 +72,7 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
 </tbody>
 </table>
 
-rising flame is also a move, please add!
+rising flame is also a move, please add! Please add flame assault,what it does is you dash horizontally in a spinning motion,if your dash hits somebody they are damaged and lit on fire
 
 <table><caption><b><u>Mobility Mantras</u></b></caption>
 <tbody>

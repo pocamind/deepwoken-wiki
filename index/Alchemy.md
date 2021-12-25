@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 4273
+revid: 4677
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **im a god at potions, i made all of these**
 
-1 browncap, 1 gobletto, 2 dentifillo - soothing potion (temp blindness for like 3 seconds)
+1 browncap, ~1 gobletto~, 2 dentifillo - soothing potion (temp blindness for like 3 seconds) \*Made with two dentifillo and one browncap\* (tested this out and it was wrong)
 
 1 Bluecap, 1 Calabash, 1 Spider Egg - Heartening Elixir (?? Effect - probably healing or blood regeneration though)
 

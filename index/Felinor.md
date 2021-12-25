@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 4549
+revid: 4648
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -22,7 +22,7 @@ Template:Race Box mark 2
 
 ## Appearance
 
-A race that has physical features resembling that of cat, hence the name _Felinor_.
+A race that has physical features resembling that of a cat, hence the name _Felinor_.
 
 -   Has cat ears
 -   White and Black variants

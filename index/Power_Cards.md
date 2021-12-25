@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 4208
+revid: 4644
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -95,7 +95,7 @@ Hand of Mantra Cards
 
 ### Fish
 
--   Fishman \[Obtained through Power, Rare Card\] - Heal when swimming. Just remember that theres always a bigger fish.
+-   Fishman \[Obtained through Power, Legendary Card\] - Heal when swimming. Just remember that theres always a bigger fish.
 
   
 

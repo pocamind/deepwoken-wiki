@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 4563
+revid: 4646
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -25,7 +25,7 @@ categories: ["Post-death"]
         -   _[Towerstruck Lands](Towerstruck_Lands.md)_
         -   _Tomb of the Nameless Soldier_
         -   _The Temple of the Forgotten Flame_
-        -   _Lord Erisia's Manor_
+        -   _[Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)_
         -   _Burning Stone Gardens_
         -   The Hidden Village
 -   The Aratel Sea
@@ -34,7 +34,7 @@ categories: ["Post-death"]
     -   The Monkey's Paw Aratel
     -   The Hive/ Stardew Valley
 -   [The Void Sea](Voidsea.md)
-    -   Boatman's Watch
+    -   [Boatman's Watch](<Boatman's_Watch.md>)
     -   [Voidheart](Voidheart.md)
 -   Other islands??
 

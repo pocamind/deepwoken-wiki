@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 4430
+revid: 4660
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Magic]
+categories: [Magic, Spells]
 ---
 
 # Thundercall

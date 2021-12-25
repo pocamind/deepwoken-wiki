@@ -1,15 +1,17 @@
 ---
 title: Shadowcast
-revid: 4332
+revid: 4604
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Shadowcast
 
-Page under construction, will add more as I unlock the mantras
+## Description
 
--   **Description**
+Shadowcast is an element that the player is required to unlock and can not start with. In order to unlock shadowcast, the player must bring five umbral obsidians to the Depths and talk to the respective trainer. Upon drinking the Nightblood item, the Shadowcaster talent will be given and the shadowcast element will be unlocked.
+
+## Training
 
 Shadowcast is an element thats belongs to Shadow, to train this element, you need to buy Pure heart.
 
