@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4202
+revid: 4309
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -161,7 +161,7 @@ Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolut
 
   
 
-### Purple Crab
+### Turtle (Purple Crab)
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
@@ -199,6 +199,8 @@ A massive purple jellyfish that is found in The Depths.
 #### Attacks
 
 -   **Summon Jellyfish -** Usually upon being aggro'd they will spawn 1 or 2 blue jellyfish to attack the player.
+-   **Shockwave -** Create a blast of energy that blasts players very far away
+-   **Static Pulse -** Create a pulse of electricity that is purple in color.
 
 ### **Gargoyles**
 
@@ -316,6 +318,47 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 **Notes/Tips** I have no god damn clue this mf is huge asf
 
 [https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop\_2021.12.22\_-\_16.56.20.98\_Trim.mp4](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action
+
+  
+The Giant Enemy Spider
+
+Large, protecter of the Serpent's den located in the hive. Utilises summoning and pulls threats in with it's sticky webs
+
+Attacks
+
+File:Dumb fucking spider.png
+
+fuc
+
+**Swipe -** The spider swipes with It's leg, doing medium to low damage depending on your statistics
+
+**Pull -** The spider produces a web in it's mouth, shooting it at a nearby player and puling them in
+
+**Summon -** Summons smaller and less threatening spiders the attack nearby players. Can be used as health packs
+
+Finisher
+
+**Swipe**
+
+**Notes/Tips**: Place a campfire at the back of the cave, Have 1 person on the campfire and one person fighting the spider. Have them switch when one is lower than the other
+
+**Squibbo**
+
+One of the hardest npcs to solo he will parry every single attack its an above average in size squid smaller than a sharko but is way stronger. Found in the depths
+
+#### Attacks
+
+-   **Punch -** Punches you many times into kicks
+-   **Kick -** Kicks the opponent
+-   **Grand Stomp -** Stomps the ground to create a shockwave towards the opponent.
+
+#### Finisher
+
+???
+
+### Notes/Tips
+
+He will parry like all your moves.
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 4080
+revid: 4290
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 -   **Wood** - _3 Sticks_
 -   **Sticks** - _1 Wood_
--   **Campfire** - 3 Sticks **OR** 1 Wood
+-   **Campfire** - _3 Sticks **OR** 1 Wood_
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
 -   **Sack** - _2 Cloth_
@@ -32,7 +32,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 ### Crafting Bench Recipes
 
 -   **Canteen** - _1 Beewax, 1 Calabash_
--   **Glider** - Schematic Required - _2 Sticks, 2 Cloth_
+-   **Glider** (Schematic Required) - _2 Sticks, 2 Cloth_
 -   **Lumber Axe** - 1 Wood, 1 Iron
 -   **Fishing Rod -** 2 Stick, 1 Fibers
 
@@ -51,14 +51,14 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 ### _Campfire Recipes_
 
--   **Mushroom Soup** - 2 _diffrent Mushrooms of **ANY KIND**_
+-   **Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **Bread** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
--   **Any Two Fruits + Gathered Wheat**\- Fruit Cake
+-   **Fruit Cake** - _2 Fruits and 1 from each kind + Gathered Wheat_
 
 ## Alchemy
 

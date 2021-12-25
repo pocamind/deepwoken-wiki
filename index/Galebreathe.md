@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 4186
+revid: 4328
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Spells]
+categories: [Pages with broken file links, Spells]
 ---
 
 # Galebreathe
@@ -18,24 +18,129 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 
 ## Spells
 
-Wind Gun - Fires a penetrating bullet of wind that damages anyone that is hit. Additonally, those who are hit are sent flying back a decent distance and become a ragdoll for some time. This is a powerful spell for PvE and PvP. The fact that it penetrates, does damage, and flings anyone who gets hit means you get a lot of value out of this one spell.
+### **Combat Mantras**
 
-Gale Wisp - Summons a wisp that reduces fall damage while active? (I am not sure if this is the full effect)
+| Image | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Windblade1.png
 
-Tornado - Leaves a large area of swirling wind that constantly damages and hit-stuns anyone who is inside of it as long as they are not blocking. During the duration you can not use other weapons or cast other spells, but you can still freely move around making it a great escape option. Keep in mind that your ether will drain during the duration of this spell.
+ | Wind Blade | Slicing blades of wind. | Launches a wind projectile to cursor's position.
 
-Rising Wind - When the move succesfully hits anyone, whoever was in the radius is sent into the air, along with the user, while the user damages those hit by the move multiple times before a final hit sends them even higher into the air. Blocking this ability causes the user to go into the air by themself and the spell essentially is rendered ineffective. Without a target near enough this spell will not trigger, but will still consume ether upon use.
+Damages opponent.
 
-Wind Blade - The user slashes with their weapon, launching a crescent shaped wind projectile in front of them. With Tempest Wind, a Gale Duelist talent, using Wind Blade during a slide will cause a different variation of Wind Blade to occur. Instead of the normal projectile, the user performs a spinning slash, which causes a multitude of short ranged Wind Blades to be ejected in a 360 radius around the user. Any opponent hit will be knocked upwards along with the user, as well as being momentarily stunned (needs further testing). This allows for an easy follow up as the user can continue attacking their opponent while midair. Whiffing/missing the attack will not cause the launch effect to occur.
+Can be buffed with _Tempest Wind_, a learnable talent.
 
-Wind Carve - The user summons many small wind blades in front of them, rapidly hitting enemies. Can be blocked.
+ |
+| 
 
-Heavenly Wind - The user jumps into the air, before falling and striking into the ground. Can be blocked.
+ | Gale Lunge | Unknown | User lunges forward, weapon coated in wind.
 
-Gale Lunge - After a brief startup, the user lunges, stabbing forward with their wind-coated weapon in hand. Can be blocked.
+Deals damage.
 
-Astral Wind - Several very fast slashes that form a star shape. You are invincible during the length of the animation.
+ |
+| 
 
-Galetrap - Wind combat toss a wind landmine, (not much information as i picked heavenly wind over galetrap)
+File:Tornado.png
 
-**Trivia and note**
+ | Tornado
+
+(☆)
+
+ | A rushing current of wind. | AOE attack that constantly damages all opponents inside.
+
+The caster cannot use weapons or spells during this spell.
+
+ |
+| 
+
+ | Heavenly Wind
+
+(☆)
+
+ | Unknown | User jumps into the air and strikes down.
+
+Deals damage.
+
+ |
+| 
+
+ | Wind Gun
+
+(unknown)
+
+ | Unknown | Fires a penetrating bullet of wind.
+
+Damages and flings opponents.
+
+ |
+| 
+
+ | Wind Carve
+
+(unknown)
+
+ | Unknown | Summons many small wind projectiles.
+
+Rapidly damages opponent.
+
+ |
+| 
+
+ | Rising Wind
+
+(unknown)
+
+ | Unknown | AOE attack that sends opponents and user into the air.
+
+Blocking sends only the user into the air.
+
+Allows user to damage opponents mid-air.
+
+_Possibly inflicts opponents with fall damage._
+
+ |
+| 
+
+ | Astral Wind
+
+(unknown)
+
+ | Unknown | Several fast slashes that form a star.
+
+User is invincibile during casting.
+
+ |
+| 
+
+ | Galetrap
+
+(unknown)
+
+ | Unknown | Tosses a wind landmine. |
+
+### **Mobility Mantras**
+
+| Image | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Placeholder | Placeholder | Placeholder |
+
+### **Support Mantras**
+
+| Image | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Galewisp160.png
+
+ | Gale Wisp
+
+(☆☆)
+
+ | A servant of wind. | Spawns a wisp of wind.
+
+Protects against fall damage.
+
+_Other effects may be unknown._
+
+ |

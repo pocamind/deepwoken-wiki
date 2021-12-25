@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 4204
+revid: 4217
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ The Summer Isle is an island in the Aratel Sea.
 
 ### Island Contents
 
-<table><caption>Caption</caption>
+<table><caption></caption>
 <tbody>
 <tr>
   <th>Image</th>

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 4036
+revid: 4327
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,14 +46,25 @@ Plum fruit - Purple fruit. Its a plum, what did you expect?
 
 Ongo - Brown, round fruit.
 
+Pomar - Looks like a mango, grows mostly in Etrin and Songseeker Wild.
+
+[Spark Gland](Spark_Gland.md)
+
 **BONUS** : The recipe you want to know(Especially vegetarian characters), because its the most basic : Any mushroom x1 + Any mushroom x1 = Mushroom soup
 
 ## Mantra Ingredients
 
 Information of Mantras and Modifications are located [here.](Mantras.md)
 
--   [Drift Shard](Mantra_Modifiers.md#regular-modifiers)
+-   [Drift Shard](Mantra_Modifiers.md#regular-modifiers) - Makes Projectile Mantras slightly faster
+    -   Rush Shard - Makes Projectile Mantras moderately faster
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)
--   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
--   [Spark Gland](Spark_Gland.md)
--   [Cloudstone](Mantra_Modifiers.md#regular-modifiers)
+-   Round Spark - Turns ice stomp from a straight line to a aoe, works on specific magics
+-   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) - Increases range of Mantras slightly
+    -   Perfect Lens - Increases range of Mantras moderately
+-   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your mantra effects slightly larger in size
+    -   Stratus Stone - Makes your mantra effects moderately larger in size
+-   Aeon Logstone - Makes effects slightly longer
+    -   Eternal Logstone - Makes effects moderately longer
+-   Amnesiac Driftwood - Removes all modifiers on a mantra
+-   Vibrant Gem - Increases Elemental Intensity

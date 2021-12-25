@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 4180
+revid: 4323
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -45,9 +45,9 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 
 ## Weaknesses
 
--   **None**, Etreans are Flawless and Perfect.
+-   Seeing as how Molt reduces the duration of positive effects as well as negative, this would technically make them **the worst race** in the game as they are the only ones to have a trait with a negative effect. Regardless, the decreased duration seems negligable and wont have much of an effect on gameplay.
 
 ## Notes/Trivia
 
 -   When hit, Etreans will say "**Sss!**", referencing the fact they are a snake race.
--   They are Xenophobic (Racist).
+-   They are Xenophobic (Racist (This is a Reference to the playerbase of Monad Studios previous game, Rogue Lineage).

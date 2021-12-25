@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 3758
+revid: 4318
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -27,11 +27,11 @@ Capras have 3 color variants, and each of them have specific passive bonuses.
 
 File:Capra2.png
 
-Blue variant - _**Mark of Jurik**_ | Buffs the sanity of everyone around them besides the campfire. |
+Blue variant - _**Mark of Jurik**_ | Buffs the sanity of one person they choose around them as long as they are at the campfire. |
 
-Green variant - _**Mark of Nemit**_ | Buffs the food of everyone around them besides the campfire. |
+Green variant - _**Mark of Nemit**_ | Buffs the food of one person they choose around them as long as they are at the campfire. |
 
-Red variant - _**Mark of Ku**_ | Buffs the "rest" of everyone around them besides the campfire. |
+Red variant - _**Mark of Ku**_ | Buffs the "rest" of one person they choose around them as long as they are at the campfire. |
 
 **Progression**
 

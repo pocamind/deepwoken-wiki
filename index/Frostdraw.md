@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 4095
+revid: 4205
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,7 +37,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <p>+2 Health</p>
   <ul>
     <li>Master Frostdrawer - Generic Talent (Lvl 50)</li>
-  </ul><p>You can now obtain 1-star Frostdrawer mantras.</p>
+  </ul><p>You can now obtain 3-star Frostdrawer mantras.</p>
   <p>+3 Elemental Intensity</p>
   <p>+2 Health</p></th>
 </tr>

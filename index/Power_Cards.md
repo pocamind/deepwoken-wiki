@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 4001
+revid: 4208
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -217,6 +217,11 @@ Hand of Mantra Cards
 
 -   Rapid Punches (1 Star Move) \[Strength Exclusive\] - Unleash a barrage of blows against your foes.
 -   Strong Left \[Strength Exclusive\] - Show enemies your strength. (Ragdoll enemies this can fling enemies off cliffs.)
+
+### **Fortitude Support**
+
+-   Reinforce \[Fortitude Exclusive\] - Buff those around you with extra defense
+-   Rally \[Fortitude Exclusive\] - Absorb incoming posture damage from allies around you
 
 ### Fire Combat
 

@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 3270
+revid: 4257
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ in etris it's found in the bookstore on the bookshelf across from the door. (I d
 
 _The excerpts from the book that you say to others._
 
-"Me-wow, is that the latest Felinor fashion?"(questionable to say this...)
+"Me-wow, is that the latest Felinor fashion?"
 
 "So, what's keeping you busy these days?"
 

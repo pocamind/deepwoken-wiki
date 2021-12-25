@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 4201
+revid: 4239
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -26,7 +26,7 @@ Chance of obtaining race: **12.2/13.6%**
   <td><figure>File:MentalCompass.png<figcaption></figcaption></figure></td>
   <td><b>Mental Compass</b>
   <ul>
-    <li>Gain a compass on top of your screen</li>
+    <li>Gain a compass at the top of your screen</li>
   </ul></td>
 </tr>
 <tr>
@@ -38,9 +38,9 @@ Chance of obtaining race: **12.2/13.6%**
 </tr>
 <tr>
   <td><center><font>+2</font></center></td>
-  <td><b>Attibute Boosts</b>
+  <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Strenth</li>
+    <li>+2 Strength</li>
     <li>+2 Fortitude</li>
   </ul></td>
 </tr>
@@ -51,16 +51,16 @@ Chance of obtaining race: **12.2/13.6%**
 
 **Lore:**
 
-none
+None
 
 **Strengths:**
 
-+2 Strengh, +2 Fortitude.
++2 Strength, +2 Fortitude.
 
 **Weaknesses:**
 
-none
+None
 
 ## Notes/Trivia
 
--   While in The Depth, the compass is angled in a broken fashion, making it near impossible to use right.
+-   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.

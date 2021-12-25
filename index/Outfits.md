@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4182
+revid: 4308
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -43,9 +43,38 @@ Image of the Outfit List, with 2 outfits learned
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
 | 
-[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
-
  | Stranded | Spawn | None | None |
+| 
+
+File:Nda.jpg
+
+ | 
+
+  
+
+Skeptic Pioneer
+
+  
+
+  
+
+ | 5x Cloth
+
+2x Crystal Lens
+
+5x Fiber
+
+25 Notes
+
+ | None | +1200 Durability
+
++8% Elemental Armor
+
++8% Physical Armor
+
+_Talent: Apothecary_
+
+ |
 | 
 
  | White Traveler Cloak | x1 Cloth
@@ -104,11 +133,15 @@ File:Bluetravelercloak.png
 
  |
 
+  
+
 ### Adept
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
 | 
+File:Eggspi.jpg
+
  | Experienced Adventurer | x3 Cloth
 
 x2 Irithine
@@ -120,6 +153,27 @@ x2 Irithine
 +10% Blunt Armor
 
 _Talent: Looter_
+
+ |
+| 
+
+File:Pe of shit.jpg
+
+ | Pathfinder Cloak | x4 Cloth
+
+x4 Fiber
+
+x6 Iron
+
+30 notes
+
+ | Power Level 15 | +1200 Durability
+
++20% Physical Armor
+
++5% Slash Armor
+
+_Talent: Environmentalist_
 
  |
 | 
@@ -188,6 +242,8 @@ _Talent: Paired Soul_
  | Firekeeper's Armor | Unknown | Unknown | Unknown |
 | 
 
+File:Naval.jpg
+
  | Navaen Nomad Robes | x5 Cloth
 
 x8 Erisore
@@ -216,6 +272,8 @@ _Talent: Fists of Navae_
 
  |
 | 
+
+File:Earworm.jpg
 
  | Ignition Union Uniform | x5 Cloth
 
@@ -313,7 +371,7 @@ _Talent: Unbreakable_
  |
 | 
 
-[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
+File:Arsehole.jpg
 
  | Pathfinder Arch-Sorcerer | x5 Cloth
 
@@ -348,8 +406,6 @@ _Talent: Devastating Power_
  |
 | 
 
-[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
-
  | Hive Tactician Armor | x5 Cloth
 
 x2 Dark Feather
@@ -379,19 +435,15 @@ _Talent: Brunt_
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
 | 
-[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
-
  | Unknown | Unknown | Unknown | Unknown |
 
 ## Armor Pieces
 
 ### Head
 
-|  | Armor | Effects |
+| Image | Armor | Effects |
 | --- | --- | --- |
 | 
-[Armorsplaceholder](https://deepwoken.fandom.com/wiki/File:Armorsplaceholder.png)
-
  | Placeholder | Placeholder |
 
 ### Arms
@@ -417,7 +469,7 @@ _Talent: Brunt_
 | Image | Armor | Effects |
 | --- | --- | --- |
 | 
- | Leather Boots | Placeholder |
+ | Leather Boots | +4 Health |
 | 
 
  | White Fur Boots | +20 Ether
@@ -437,11 +489,15 @@ _Talent: Brunt_
  | Old Ring | Placeholder |
 | 
 
- | Silver Ring | Random small buff |
+File:Silverring.png
+
+ | Silver Ring | Slightly buffs a random stat |
 | 
 
- | Gold Ring | Random small buff or +6 ether |
+ | Gold Ring | Slightly buffs a random stat or ether |
 | 
+
+File:Kongasclutchring.png
 
  | Konga's Clutch Ring | Removes slide delay |
 
@@ -455,22 +511,19 @@ _Talent: Brunt_
  | Iron Mask | None |
 | 
 
- | Blindfold | Blinds occupant To keep them from dying to gorgon-like
+File:Hairband.jpg
 
-enemys that will kill you if you look at them.
-
- |
+ | Headband | Comes in various colors |
 | 
 
- | Bandana
+ | Blindfold | Blinds occupant |
+| 
 
-/Ascended bandana
+ | Bandana | Comes in various colors |
+| 
 
- | Bandana: Comes in various colors
+ | Ascended Bandana | Buffs a stat (unknown) |
 
-  
-Ascended bandana: Stats up ( i dont remember what they are,
+## Trivia/Notes
 
-They might depend on the color.
-
- |
+-   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 4079
+revid: 4284
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -52,13 +52,13 @@ _Some locations may be unlisted, feel free to add them!_
   <p><b>Light Weapons</b></p></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure></td>
+  <td><figure>File:The Guildhouse.png<figcaption></figcaption></figure></td>
   <td>Guildhouse</td>
   <td>A small building where the player can found<p>guilds if they have the requirements.</p></td>
-  <td></td>
+  <td><b>Guild creation</b></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure></td>
+  <td><figure>File:Bookstore.png<figcaption></figcaption></figure></td>
   <td>Bookstore</td>
   <td>A small shop where the player can buy books to<p>increase attribute values.</p></td>
   <td><b>Intelligence Books</b><p><b>More</b></p></td>
@@ -71,10 +71,10 @@ _Some locations may be unlisted, feel free to add them!_
   <p><b>Materials</b></p></td>
 </tr>
 <tr>
-  <td><figure>File:Lanceleshi.png<figcaption></figcaption></figure></td>
+  <td><figure>File:LANCELESHI FOOD RESTURANT.png<figcaption></figcaption></figure></td>
   <td>Lance's Food</td>
   <td>A small shop where the player can buy omelettes<p>and bisques.</p></td>
-  <td><b>Food</b><p><b>LANCE LESHI</b></p></td>
+  <td><b>Food</b><p><b>LANCE LESHI</b> - <i>Quote from the man himself, Lance.</i></p></td>
 </tr>
 <tr>
   <td><figure>File:EtrisPalace.png<figcaption></figcaption></figure></td>

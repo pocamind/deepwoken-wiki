@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 4108
+revid: 4273
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -131,3 +131,94 @@ Once again I am _not_ sure what this does, drinking and throwing it just did lik
 1 Deltifino, Diluted Tincture, damages almost nothing
 
 for the rest I don't have enough ingridients atm to figure out any other stuff so... Looking forward to another alchemist who devotes themselves to this trashy mantra to finish my work or correct me or something.
+
+* * *
+
+  
+_**Sewer#7160**_ following up on the previous post, I've been doing alot of testing with my friends on alchemy, mostly using them as test subjects for my potions, and lets just say I got some information for any aspiring alchemists:
+
+**Strengthening potions**
+
+_Plumfruits_ give a strengthening effect which _directly increases your damage_ but takes a bit of health, no joke, you can put up to 3 in a cauldron.
+
+**One** will give you a diluted blight, does nothing
+
+**Two** gives a strengthening tinticture, increases damage for a bit
+
+**Three** gives a strengthening salve. increases damage for a while longer
+
+When drunken, it will directly increase your damage by a good amount, but you'll take a bit of damage. I don't know the scaling or if its a direct or percentage damage boost, I might need to test more. The effect is weakened when thrown by allies however, but it can be useful when thrown into a group.
+
+**If you want to save on plumfruits and make strengthening salves, I found out that 1 plumfruit + 2 browncaps will still result in strengthening salve. I'm pretty sure alot of potions can have substituted ingredients for them.**
+
+**Staggering potions**
+
+Next is _ongos_, which give a _direct posture damage boost_ on effected players. Real useful for dealing with players or certain NPCS
+
+One gives a diluted blight, no effect
+
+Two gives a staggering tinicture, which increases posture damage for a bit
+
+Three gives a staggering salve, which increases posture damage for a while longer
+
+**Like plumfruits**, the effect scales depending on how much you put, going up to 3, and the more you put in the longer the effect lasts. Again, effect is lessened if thrown.
+
+**I haven't found a substitute ingredient for the staggering salve, unlike the plumfruit - browncap combination above.**
+
+**Soothing potions**
+
+**Dentifilos** make soothing salves and soothing elixers, but if no one has noticed it actually restores your reservoir for a bit of health. Again, the restoration scales the more you put in.
+
+One results in a diluted tinticture
+
+Two results in a soothing potion
+
+Three results in a soothing elixer
+
+**Focus-enhancing potions**
+
+This one actually requires two ingredients, two browncap and two wheats, which make a focus-enhancing elixer, when drunken, will jack up your ether restoration so much, really useful for spamming spells and such. Again, effect is weakened when thrown.
+
+**Appalling potions**
+
+_Bamboo_ gives the opposite effect of dentifilos, which is reservoir removal.
+
+One will create a diluted bane.
+
+Two will create an appalling blight
+
+Three will create an appalling potion
+
+**Steadfast potions**
+
+_Calabash_ gives the effect of ether degeneration, and if strong enough can disable ether for a few more seconds
+
+One will created a diluted blight
+
+Two will create a appalling bane, removes most ether
+
+Three will create an appalling potion, removes all ether and disables it for a few seconds.
+
+**Icky potions**
+
+_Redds_ give this effect, dispite the name, these potions can instaheal you for the cost of some ether., even if they have bane or blight in their name.
+
+One will give you a diluted blight
+
+Two will give you an icky bane
+
+Three will give you an icky blight.
+
+If you want a health potion that **doesn't drain ether**, try mixing in two redds with a wheat, cause pretty sure wheat has **ether restoration properties**, you'll get a dulling bane which restores health without fricking up your ether.
+
+**Invigorating Potions**
+
+_Goblettos_ give this effect, which instill a passive, faster health regen for some time.
+
+im not repeating myself guy above me already wrote the effects
+
+Note: These potions may be a bit inaccurate due to me having all the alchemist talents, but if you disagree on something tell me my discord account is near the top of this diluted article.
+
+There are also effects like grueling bane and such that I haven't tested well yet enough, if someone can tell me the effects of those potions I'll be pretty glad.
+
+Ingredients like sap, spider egg, urchins, coral, scallops, and fish don't have any "base effects", but they might be used to enhanced the effects of certain potons.

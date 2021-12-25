@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 3122
+revid: 4272
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,3 +40,4 @@ Locations & Hints
 ## Notes/Trivia
 
 -   The Piece of the Forge Artifact used to sell for 800 Notes.
+-   They despawn after 1 hour if not picked up

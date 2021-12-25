@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 4114
+revid: 4261
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -29,7 +29,7 @@ They are based on wolves and lions (confirmed recently)
 
 -   Loyalty : Allies take less damage from attacks
 
--   Vault : Extra speed after vaulting over objects for a short time.
+-   ~Vault : Extra speed after vaulting over objects for a short time.~ <- Not sure this is true, it's a game mechanic where you run faster after doing parkour things. I might be wrong and Canors go even faster than other races
 
 ## Progression
 
