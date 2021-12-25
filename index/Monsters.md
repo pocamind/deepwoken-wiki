@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4309
+revid: 4493
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -40,7 +40,7 @@ For information of Human Enemies, go [here](Enemies.md).
 
 ## Monsters
 
-### Megalodaunt (Sharko)
+### Megalodaunt (Sharko) (Moby Dick)
 
 _Main Source - [Megalodaunt](Megalodaunt.md)_
 
@@ -112,7 +112,7 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 -   **Ship Crunch** - Damage ships using its powerful Jaw, dealing unknown damage to them. (Can 4-6 Shot a Sloop in my experience)
 -   **Descend -** Descends down into the Water, avoiding damage.
 -   **Bite -** Gnaws on players with 3 swift bites, dealing moderate damage.
--   **Cero (Depths Only)** - The Lionfish faces it's body up into the sky, charging up a large and powerful lazer shot.
+-   **Cero** - The Lionfish faces it's body up into the sky, charging up a large and powerful lazer shot.
 
 #### Finisher
 
@@ -136,7 +136,7 @@ _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 
 Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Lower and Upper Erisia, and its sudden appearance infront of you is signified by a singular Black Feather that floats in the location where he will spawn.
 
-\- When prompted to respond to the giant bastard, reply with _"I'm just passing through."_ and go back the way you came stranger. You are more likely to survive that way.
+\- When prompted to respond to the giant creature, reply with _"I'm just passing through."_ and go back the way you came stranger. You are more likely to survive that way.
 
 #### Attacks
 
@@ -194,7 +194,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 ### Purple Chromatic Jellyfish
 
-A massive purple jellyfish that is found in The Depths.
+A massive purple jellyfish that is only found in The Depths. '''Do not try to fight this creature unless your level is extremely high, it will destroy the absolute hell out of you.'''
 
 #### Attacks
 
@@ -202,7 +202,7 @@ A massive purple jellyfish that is found in The Depths.
 -   **Shockwave -** Create a blast of energy that blasts players very far away
 -   **Static Pulse -** Create a pulse of electricity that is purple in color.
 
-### **Gargoyles**
+### **Gargoyles (Rodolfo)**
 
 Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
 
@@ -300,6 +300,8 @@ Huge stone creatures similar to the golems on Erisia, summoned by going to glaci
 -   The golem is slow enough to outrun and can be infinte combo'd with 3 people.
 -   ait does alot of damage and can 2-3 shot level 25-30 players.
 
+  
+
 ### **Sea Serpent Ardour**
 
 File:Sea Dragon.png
@@ -320,7 +322,7 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 [https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop\_2021.12.22\_-\_16.56.20.98\_Trim.mp4](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action
 
   
-The Giant Enemy Spider
+**The Giant Enemy Spider**
 
 Large, protecter of the Serpent's den located in the hive. Utilises summoning and pulls threats in with it's sticky webs
 
@@ -344,7 +346,7 @@ Finisher
 
 **Squibbo**
 
-One of the hardest npcs to solo he will parry every single attack its an above average in size squid smaller than a sharko but is way stronger. Found in the depths
+One of the hardest npcs to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
 
 #### Attacks
 
@@ -358,7 +360,9 @@ One of the hardest npcs to solo he will parry every single attack its an above a
 
 ### Notes/Tips
 
-He will parry like all your moves.
+-   STAY CALM. If you don't, your parry timings will be broken.
+-   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.
+-   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
 
 ## Notes/Trivia
 

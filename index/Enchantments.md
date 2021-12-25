@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 4101
+revid: 4442
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,8 +20,9 @@ Enchants are basically upgrades/power-ups for your weapon. There are 3 variants 
   
 \- Curse of the bloodthirsty. Pro: deals more m1 dmg (exact amount unknown). Con: when you miss a m1, you will take dmg (dodging and parrying doesn't count).
 
-Apparently there are Enchanted armor as well. Right now, I have no information about them, so assistance would be greatly appreciated.
-
   
-
 \- Hero blessing. Pro: 3X m1 dmg. Con: NONE.
+
+\-Combustion - Pro: Every time you land a hit your enemy explodes. Con : UNKNOWN.
+
+Apparently there are enchanted armor as well. Any information given would be greatky appreciated.

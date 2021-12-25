@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 4239
+revid: 4456
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -16,11 +16,11 @@ Template:Races-Main
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining race: **12.2/13.6%**
+Chance of obtaining race: **12%**
 
 ## Racial Traits
 
-<table><caption></caption>
+<table>
 <tbody>
 <tr>
   <td><figure>File:MentalCompass.png<figcaption></figcaption></figure></td>
@@ -64,3 +64,4 @@ None
 ## Notes/Trivia
 
 -   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.
+    -   Also applies to Void Sea

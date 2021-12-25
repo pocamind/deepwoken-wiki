@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 3965
+revid: 4426
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,50 +17,124 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
 
 ## Mantras
 
-### **Flame Repulsion**
+<table><caption><b><u>Combat Mantras</u></b></caption>
+<tbody>
+<tr>
+  <th>Image/Gif</th>
+  <th>Spell</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Repulsion</td>
+  <td>Unknown</td>
+  <td>After charging for about 2 seconds<b>charging for about 2 seconds</b>, <b>cast a medium sized AOE attack</b> affecting everywhere around you <b>while being unable to move</b>.<p><b>Knocks back</b> enemies and does <b>damage</b>. <b>Spell has hyper armour.</b></p></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Burning Servants</td>
+  <td>Unknown</td>
+  <td>6 spear-wielding fire-humanoids circle you and attack one by one with a short delay between attacks<p>Finishing by attacking the middle at the same time.</p>
+  <p>Does not inflict stun or knockback</p></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Palm</td>
+  <td>Unknown</td>
+  <td>Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Eruption</td>
+  <td>Unknown</td>
+  <td>Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Gun</td>
+  <td>Unknown</td>
+  <td>Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Fire Blade</td>
+  <td>Unknown</td>
+  <td>Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Grab</td>
+  <td>Unknown</td>
+  <td>Caster charges a grab for 0.5 seconds, thrusting forward and when the target is hit, they are grabbed and slammed into the ground, inflicting burn and damage</td>
+</tr>
+</tbody>
+</table>
 
-After charging for about 2 seconds, you will do a medium sized AOE attack affecting everywhere around you. This will knock back enemies as well as dealing damage. You cannot move and can still be attacked while charging the attack. The move does have super(?) armor, so you will still cast it even if an enemy attacks you.
+rising flame is also a move, please add!
 
-### **Burning Servants**
+<table><caption><b><u>Mobility Mantras</u></b></caption>
+<tbody>
+<tr>
+  <th>Image/Gif</th>
+  <th>Spell</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Fire Leap</td>
+  <td>Unknown</td>
+  <td>Launches the caster up in the air leaving a trail of flames on the ground.</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-Around you, 6 spear-wielding humanoids made out fire will appear in a circle. They will each attack one by one around the circle with very short delay in between attacks, before all attacking the middle at the same time. This does not inflict stun or knockback.
+  
 
-### **Flame Palm**
-
-You wind up your fist back, before throwing it forward, releasing a medium ranged, cone-like blast of flame in front of you. Does medium(?) damage and burns the enemy.
-
-### **Flame Wisp**
-
-One of flamecharms two ritual spells. Summon a small, floating rock-like pet above your shoulder. Heals (Said by ReEvolu, requires testing) and lights up nearby campfire pits.
-
-### **Produce Spark**
-
-Use a tiny amount of ether to create a small ember in front of your hands. Does no damage, used to light campfire pits.
-
-### **Graceful Flame**
-
-Conjure a undying flame for you and your comrades to rest by. (blockiergrublol#8124)
-
-### **Flame gun**
-
-You wind up both fists before throwing one fire ball straight ahead from each hand. Each ball dealing small damage and inflicing Burn.
-
-### **Fire Eruption**
-
-You raise both hands, causing the ground to quake as 2 flame pillar erupt out of the ground at your cursor (small delay between each pillar), after summoning they will stay for a few seconds before disappearing.
-
-### **Fire Leap**
-
-Launches you far up into the air, leaving a trail of flames below you.
-
-### **Fire Blade**
-
-Charge up a blow (about 1~ second or so) which deals Small/Medium damage, lighting anything hit on fire. _Counts as a critical? Possibly parryable, but not blockable._ Best used as a combo extender/finisher, due to the endlag.
-
-### **Flame of Denial**
-
-Prevents user from being knocked once for a limited duration.
-
-### Flame Grab
-
-Charge up a grab (about 0.5 seconds) which after charging thrusts you forward, if contact with a player/npc is made, you grab and slam the target into the ground, setting them ablaze (blockable)
+<table><caption><b><u>Support Mantras</u></b></caption>
+<tbody>
+<tr>
+  <th>Image/Gif</th>
+  <th>Spell</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Wisp</td>
+  <td>Unknown</td>
+  <td>Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster (requires testing) and igniting nearby extinguished campfire pits.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Produce Spark</td>
+  <td>Unknown</td>
+  <td>Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Graceful Flame</td>
+  <td>Unknown</td>
+  <td>Conjure a undying flame for the caster and their comrades to rest by.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame of Denial</td>
+  <td>Unknown</td>
+  <td>Prevents caster from being knocked once for a limited duration. (Duration to be tested)</td>
+</tr>
+</tbody>
+</table>

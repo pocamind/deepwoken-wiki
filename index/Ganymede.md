@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 4143
+revid: 4498
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -48,7 +48,7 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 
 ## Weaknesses
 
--   You could get targeted for having "too much drip."
+-   Unknown as of yet
 
 ## Notes/Trivia
 

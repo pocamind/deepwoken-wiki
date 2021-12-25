@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 4284
+revid: 4417
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Etris
 
-_"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself." (never spawn here viglis give free 50 notes)_
+_"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself."_
 
 File:Etris.png
 
@@ -91,7 +91,7 @@ _Some locations may be unlisted, feel free to add them!_
 
 -   Located at the backside of the Blacksmith, talk to the Etrean there.
 -   The Etrean says to you that to not rat him out to the Blacksmith, as he will be revoked of his apprenticeship.
--   Keeping his promise and not ratting him out rewards you a 50%discount on all Materials in the Blacksmith.
+-   Keeping his promise and not ratting him out rewards you a 50% discount on all Materials in the Blacksmith.
 -   Ratting him out does nothing, but atleast your ego increased!
 
 ### Lord Regent Quest
@@ -135,7 +135,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Talk to Ploom, located in Lance's Food.
 -   Further through the dialogue, you can choose 3 ways of doing this quest.
     -   1\. Do the quest normally, and accept his offer. Fetch him 3 Dying Embers for him.
-    -   2\. Perform a Charisma Check, which requires ???.
+    -   2\. Perform a Charisma Check, which requires Charisma 50.
     -   3\. Perform a Flamecharm Check, which requires Flamecharm 40.
 
 -   Reward of doing Ploom's bidding is the Pleeksty's Will Talent.
@@ -152,6 +152,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   In the Lord Regent Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
 -   After talking to the Bookworm in the Lord Regent Quest, the Royal Guards do not kill on sight if you trespass within the Palace. It is unknown if the Lord Regent too, doesn't kill you on sight also.
 -   In the Apprentice Blacksmith Quest, the discount works on Materials inside the Blacksmith as intended, its just that you are looking at the original price.
+-   Etris is not a good Starting Island to spawn in as a Fresh Character; due to the lack of quests available to you. Isle of Vigils is recommended.
 
 Successful Flamecharmer Check
 

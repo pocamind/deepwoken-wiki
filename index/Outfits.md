@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4308
+revid: 4480
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links]
 
 There are many kinds of Armor in Deepwoken, with types of Armor pieces (Chestplates, Hands, Rings, Boots, etc) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Sea.
 
-Armors can be obtained in 2 ways; through Schematics or by loot.
+Armors can be obtained in 2 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats randomized. (This including the Gold Ring given to you by Polis in Etris)
 
 There are also Cosmetics in Deepwoken. Things such as Masks or Capes benefits your character's drip, but provides no tactical advantage whatsoever.
 
@@ -22,7 +22,7 @@ The only armor that loses durability is the Outfit. The Armor Durability Bar (lo
 
 To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-25 Notes.
 
-Sources that can damage your Outfit is by physical damage and elemental damage, Acid Rain damages also.
+Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
 ## Outfits
 
@@ -50,13 +50,7 @@ File:Nda.jpg
 
  | 
 
-  
-
 Skeptic Pioneer
-
-  
-
-  
 
  | 5x Cloth
 
@@ -201,6 +195,8 @@ _Talent: Now You See Me_
  |
 | 
 
+File:CutthroatLightArmor.png
+
  | Cutthroat Light Armor | x4 Cloth
 
 x1 Crystal Lens
@@ -221,6 +217,8 @@ _Talent: Hunter_
 
  |
 | 
+
+File:VigilInitiate.png
 
  | Vigil Initiate | x5 Cloth
 
@@ -291,6 +289,8 @@ x1 Lionfish Scale
 
  |
 | 
+
+File:FlameWorshipperArmorproper.png
 
  | Flame Worshipper Armor | x4 Cloth
 
@@ -461,6 +461,22 @@ _Talent: Brunt_
 | 
 
  | Blacksteel Pauldrons | Placeholder |
+| 
+
+ | Vanguard Brace | Placeholder |
+| 
+
+File:Vanguardbrace.png
+
+ | Ascended Vanguard Brace | +2% Damage Vs. Giant
+
++20 Reservoir
+
++7 Health
+
++1 Posture
+
+ |
 
   
 
@@ -480,6 +496,15 @@ _Talent: Brunt_
 | 
 
  | Black Fur Boots | Placeholder |
+| 
+
+File:Khanboots.png
+
+ | Khan Boots | +3% Damage Vs. Sea
+
++9 Health
+
+ |
 
 ### Rings
 

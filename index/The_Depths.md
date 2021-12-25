@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 4270
+revid: 4482
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ The Depths is located in a underwater afterlife; Almost a limbo in between life 
 ## Creatures (Few official names)
 
 -   [Seekers](Watcher.md)
--   [Depth Angels](Hollow_Angel.md)
+-   [Angels](Hollow_Angel.md)
 -   [Jellyfish](Gigamed.md)
 -   Giant Jellyfish
 -   Crab
@@ -34,11 +34,11 @@ The Depths is located in a underwater afterlife; Almost a limbo in between life 
 
 The doors to your escape will be closed (most often). To open it, you must ring the bells within the city.
 
-Each district of the City of the Drowned have a bell that can be found by following a humming/shimerring sound effect toward unrung bells. Jumping and interacting with it will restore health and make an audible bell noise.
+Certain district in the City of the Drowned have a bell, said districts can be identified by the presence of [Seekers](Watcher.md). They can be found by following a humming/shimerring sound effect toward unrung bells. Jumping and interacting with it will restore health and make an audible bell noise.
 
 Once all bell have been rung, a large bell choir will be heard across The Depth, signalling the possible salvation of the souls trapped within via the opening of the doors to The Trial.
 
-Upon entering the elevator and reaching the top, you will be faced with a trial, the difficutly of which depending on your Power.
+Upon entering the elevator and reaching the top, you will be faced with a trial (below Power 10, the trial is skipped) where you must fight a given mob. Higher power = more powerful enemies.
 
 | Power | Enemy | More enemies for each player? |
 | --- | --- | --- |
@@ -49,12 +49,7 @@ Upon entering the elevator and reaching the top, you will be faced with a trial,
 | 50-59 | ??? | ??? |
 | 60 | 1 [Enforcer](Enforcer.md) | ??? |
 
-  
-**NOTE:** Revealed from Nanoprodgidy's video, if twenty players go onto the elevator, the Voices will force the players to "thin their numbers," which legit means to kill each other.
-
-**Alternatively**
-
-With enough Agility or proper usage of the buildings, one can reach the upper part of the city's wall and walk along them to reach the middle piece containing the trial. Care must be taken, as falling from this wall can be quite desastrous.
+If 4 or more players attempt to escape, they will be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain, only then will the trial begin.
 
 ### Reward for Escaping?
 
@@ -66,3 +61,8 @@ Photo of "Depth Connection" talent
 
 Escaping the depths gives you a new talent "Depth Connection" which allows the player to easily draw ether from the surrounding air (which i assume is just better passive regen for ether)  
 (Deepwoken Talent)
+
+## Notes
+
+-   It is prossible to gain card luck (boosted if you have [Marauder](https://deepwoken.fandom.com/wiki/Boons?#Marauder)) by killing players in the depths.
+-   something something shadowcast

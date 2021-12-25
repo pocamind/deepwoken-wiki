@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 4178
+revid: 4485
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -64,6 +64,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Gilded Dagger (LHT 25)
 -   Silver Dagger (LHT 35)
 -   Whaling Knife (LHT 40)
+-   Tanto (LHT 50)
 
 ### Guns
 
@@ -115,7 +116,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 ### Greatswords
 
 -   Zweihander (HVY 20, STR 10)
--   Crescent Cleaver
+-   Crescent Cleaver (HVY 40, STR 10)
 -   Shadow Greatsword
 
 ### Greathammers
@@ -133,6 +134,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Targe (FTD 10)
 -   Kite Shield (FTD 30)
 -   Worshipper's Shield (FTD 45)
+-   Khan Shield (FTD 60)
 -   Parrying Dagger (LHT 10)
 
 ### Guns (Fired by Right-Clicking)

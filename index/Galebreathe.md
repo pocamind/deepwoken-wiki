@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4328
+revid: 4483
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -23,8 +23,6 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Windblade1.png
-
  | Wind Blade | Slicing blades of wind. | Launches a wind projectile to cursor's position.
 
 Damages opponent.
@@ -34,11 +32,14 @@ Can be buffed with _Tempest Wind_, a learnable talent.
  |
 | 
 
- | Gale Lunge | Unknown | User lunges forward, weapon coated in wind.
+ | Gale Lunge | A rush of piercing wind. | User lunges forward, weapon coated in wind.
 
 Deals damage.
 
  |
+| 
+
+ | Air Force | A blast of wind | Shoots out air from your hands in the direction of your mouse and staggers target. |
 | 
 
 File:Tornado.png
@@ -58,7 +59,7 @@ The caster cannot use weapons or spells during this spell.
 
 (☆)
 
- | Unknown | User jumps into the air and strikes down.
+ | A strike from the heavens. | User jumps into the air and strikes down.
 
 Deals damage.
 
@@ -67,9 +68,9 @@ Deals damage.
 
  | Wind Gun
 
-(unknown)
+(☆☆)
 
- | Unknown | Fires a penetrating bullet of wind.
+ | A powerful wind blast. | Fires a penetrating bullet of wind.
 
 Damages and flings opponents.
 
@@ -78,9 +79,9 @@ Damages and flings opponents.
 
  | Wind Carve
 
-(unknown)
+(☆☆)
 
- | Unknown | Summons many small wind projectiles.
+ | A quick swirl of sharp winds. | Summons many small wind projectiles.
 
 Rapidly damages opponent.
 
@@ -115,7 +116,7 @@ User is invincibile during casting.
 
  | Galetrap
 
-(unknown)
+(☆)
 
  | Unknown | Tosses a wind landmine. |
 

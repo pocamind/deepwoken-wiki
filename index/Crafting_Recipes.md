@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 4290
+revid: 4477
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Noodles** - _1 Egg, 2 Gathered Wheat_
 -   **Redd Juice** - _3 Redd_
 -   **Chum** - _2 Fishmeat_
--   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap_
+-   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Some of your hunger bar becomes blue. Needs more testing.)_
 -   **Fruit Salad** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd)_
 -   **Sushi** - _1 Fishmeat, 1 Seaweed Bundle_
 
@@ -59,6 +59,11 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **Fruit Cake** - _2 Fruits and 1 from each kind + Gathered Wheat_
+-   **Dried Seaweed** - _1 Seaweed Bundle_
+-   **Urchin Stew** - _3 Urchin_
+-   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
+-   **Fish Stew** - _1 Squid, 1 Fish Meat_
+-   **Calamari** - _1 Squid, 1 Gathered Wheat_
 
 ## Alchemy
 

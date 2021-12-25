@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 4054
+revid: 4430
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic]
@@ -43,6 +43,10 @@ Thunder Kick- Heavy Kick motion doing damage
 Lightning Assualt- You dash forward and attack those you pass
 
 Spark Swap- When used you swap positions with someone (NPC or Player)
+
+Discovery Of Fire - Flint but it has infinite uses
+
+[https://cdn.discordapp.com/attachments/809165836757499904/924123375784300606/unknown.png](https://cdn.discordapp.com/attachments/809165836757499904/924123375784300606/unknown.png)
 
 **Trivia and Notes**
 

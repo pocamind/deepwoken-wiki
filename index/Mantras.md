@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 4266
+revid: 4415
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ Mantras allow you to use certain spells and are unique to everyone. The base man
 
 **Galebreath: Directed towards movement and physical forces based around wind (Dashing, pushes, pulls, etc)**
 
-Apparently there is also the elusive fortitude support mantras
+There are also mantras that are based off of other character attributes. This includes strength, fortitude, intelligence, agility, willpower, and charisma.
 
   
 

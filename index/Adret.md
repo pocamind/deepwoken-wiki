@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 4170
+revid: 4466
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
 > _Tattooed when they come of age, their tattoo represents the path of life they seek. Well regarded as bureaucrats and keepers of coin._
 
--   Chance of obtaining race: **17.4%**
+-   Chance of obtaining race: **16%**
 
 Template:Race Box mark 2
 
@@ -34,24 +34,22 @@ File:Adret.png
 
 Adrets are evil fish creature from the deep
 
-## Racial Abilities
+## Racial Traits
 
--   Learning things is easier. Additional Dialogue Options unlocked (Passive autodictat, stacks with boon autodictat for 2 stats per level instead of 1)
+-   **Learning things is easier:** Probably an exp boost.
+-   **Additional Dialogue Options unlocked:** Passive autodictat, stacks with boon autodictat for 2 stats per level instead of 1.
 -   **Maudet:** _Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking. (Better starting reputation with village npcs)_
 
-## Progression
+## Miscellaneous
 
-**none**
+**Lore:**
 
-## Strengths
+None
 
--   Very fast progression. (2 Points Instead of 1 from Autodidact & Learning things is easier in general)
--   +2 Charisma, +2 Willpower.
+**Strengths:**
 
-## Weaknesses
++2 Charisma, +2 Willpower.
 
--   none
+**Weaknesses:**
 
-## Notes/Trivia
-
--   Every last name of an Adret has the suffix "-et."
+None

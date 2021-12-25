@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 4323
+revid: 4424
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -14,7 +14,7 @@ Template:Race Box mark 2
 
 > _A prideful race characterized with their hatred for other races, especially the beastly few. Can be distinguished by their snake eyes and pale skin._
 
--   Chance of obtaining race: **17.4%**
+-   Chance of obtaining race: **16%**
 
   
 
@@ -35,9 +35,7 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 
 ## Progression
 
-**Unknown -** Gives +2 Posture (Posture helps with parrying.)
-
-**High Fortitude** - Immunity to acid rain (e.g. I have fortitude 75 and take 0 damage)
+**Unknown -** Gives +2 Posture.
 
 ## Strengths
 

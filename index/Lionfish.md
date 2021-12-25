@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 4268
+revid: 4444
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -47,5 +47,5 @@ It drops an item called "Lionfish Scale"
 
 ## Notes
 
--   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish.
--   In order to assert your dominance and become the bigger fish you must jump in the water and start slashing.
+-   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish. **(not really you can solo it at power 1, just dash the lazer beam and stand under it so it doesnt bite you)**
+-   Lionfishs do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.

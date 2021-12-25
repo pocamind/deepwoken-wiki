@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 4327
+revid: 4421
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -59,11 +59,15 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
 -   [Drift Shard](Mantra_Modifiers.md#regular-modifiers) - Makes Projectile Mantras slightly faster
     -   Rush Shard - Makes Projectile Mantras moderately faster
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)
--   Round Spark - Turns ice stomp from a straight line to a aoe, works on specific magics
--   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) - Increases range of Mantras slightly
-    -   Perfect Lens - Increases range of Mantras moderately
--   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your mantra effects slightly larger in size
-    -   Stratus Stone - Makes your mantra effects moderately larger in size
+-   Magnet Spark - ???
+-   Tornado Spark - ???
+-   Spring Spark - ???
+-   Round Spark - Converts Mantras into an AOE effect.
+    -   Affected Mantras: Ice Stomp - _Instead of a straight line, perform an AOE instead._ | _Flame Repulsion - Extends the AOE range.(?)_
+-   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) - Increases range of Projectile Mantras slightly
+    -   Perfect Lens - Increases range of Projectile Mantras moderately
+-   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your Mantra effects slightly larger in size
+    -   Stratus Stone - Makes your Mantra effects moderately larger in size
 -   Aeon Logstone - Makes effects slightly longer
     -   Eternal Logstone - Makes effects moderately longer
 -   Amnesiac Driftwood - Removes all modifiers on a mantra

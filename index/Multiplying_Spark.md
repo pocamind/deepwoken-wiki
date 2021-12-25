@@ -1,6 +1,6 @@
 ---
 title: Multiplying Spark
-revid: 4070
+revid: 4337
 source: https://deepwoken.fandom.com/wiki/Multiplying_Spark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Item Obtainability:**
 
-Bandits, Chests, Mudman, (could be more ways)
+Bandits, Chests, Mudskippers, (could be more ways)
 
 **Item Description:**
 
