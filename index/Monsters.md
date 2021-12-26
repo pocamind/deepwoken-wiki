@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4928
+revid: 5013
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -80,7 +80,7 @@ File:Sharko.png
 
 Megalodaunt eating an NPC.
 
-Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use is still unknown, but can be sold for notes)
+Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use five of these to unlock a boss fight against primadon, also can be sold for notes)
 
 **Attacks**
 
@@ -195,6 +195,8 @@ File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 A purple crab, not a lot about it is known but seen spawned in the cave of Lower Erisia.
 
 Also known to spawn AROUND the cliffiside of Lower and Upper Erisia alike, (on the seaside that is).
+
+Drops strange claws.
 
 **Attacks**
 
@@ -387,7 +389,7 @@ One of the hardest enemies to solo he will parry every single attack its an abov
 
 **Finisher**
 
-???
+Turns you into a nasty mudskipper (if I remember right)
 
 **Notes/Tips**
 

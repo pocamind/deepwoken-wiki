@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 4858
+revid: 5026
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,6 +35,12 @@ Enchants are basically upgrades/power-ups for your weapon. There are 3 variants 
 
 -   Pros: 3x M1 damage at full HP and has M1 hyper armor.
 -   Cons: NONE.
+
+### Detonation
+
+-   Pros: Every time you hit an enemy, they explode. You can instantly kill people and mobs without gripping them due to the explosion. (This obviously only works if their hp are low)
+-   Cons: This might hit your allies and killing them instead.
+-   [How it looks](https://streamable.com/yjazax)
 
 ### Combustion
 

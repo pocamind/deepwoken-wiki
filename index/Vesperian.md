@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 4738
+revid: 5014
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,11 @@ categories: [Pages with broken file links, Races]
 
 File:Goated Vesperian.png
 
-A vesperian (greenish-brown variant) with daggers and some armor.
+A smelly vesperian
+
+File:Vesperianrea.png
+
+This guy looks better
 
 ## Lore
 

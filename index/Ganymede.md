@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 4904
+revid: 5003
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -33,7 +33,6 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 
 -   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.
 -   Resists insanity.
--   Floydian Beam: Similar to fus-ru-dah, it fires a linear beam that pushes all enemies backwards 200 studs. The cast time is instant and requires power 10 to use.
 
 ### Variants
 

@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 2938
+revid: 4936
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ File:Angel.jpg
 
 Angel spotted in [The Depths](The_Depths.md)
 
-White and Yellow Humanoid creatures with wings
+White and Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Thundercall attunements. They are summoned upon being spotted by a Spotlight or during Depths trials, past power 20.
 
   
 
@@ -22,8 +22,9 @@ White and Yellow Humanoid creatures with wings
 
 ## Attacks
 
--   Normal M1's, do about 20 or 30 damage each hit
--   Light Gun - Shoots around 5 bullets of light that do Moderate damage per hit
+-   Angels have M1s that deal 20-30 damage each hit. **Heavy hitting enemies, fight them with caution.**
+-   Light Gun - Rise into the air and shoot 5~ bullets of light that explode and deal damage, stunning.
+-   Not an attack, but it is important to note that Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this.
 
   
 

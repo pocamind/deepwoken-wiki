@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 4813
+revid: 4995
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ An Adret carrying a piece of The Forge.
   
 Rewards
 
--   400 Notes
+-   400-1000 Notes
 -   10 Common to Rare Items, including:
     -   Armor Blueprints
     -   Weapons

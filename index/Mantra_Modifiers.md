@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 4932
+revid: 4991
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,7 @@ If the modifier cannot be applied to the specific mantra you use it on, it will 
 
 Electric Blade + Magnet Spark adds an extra teleporting slash to the end.
 
-Jolt Grab + Magnet Spark makes Jolt Grab a teleport.
+[Jolt Grab](Thundercall.md#jolt-grab) + Magnet Spark makes Jolt Grab a teleport.
 
 **Round Spark**: Makes AoE spells a circle.(i.e ice stomp becomes a circle instead of a line)
 

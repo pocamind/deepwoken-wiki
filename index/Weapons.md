@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 4902
+revid: 5023
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -115,7 +115,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 ### Greatswords
 
--   Nazi Greatsword (HVY 20, STR 10)
+-   Zweihänder (HVY 20, STR 10)
 -   Crescent Cleaver (HVY 40, STR 10)
 -   Shadow Greatsword
 -   Darksteel Greatsword (HVY 40, STR 10)

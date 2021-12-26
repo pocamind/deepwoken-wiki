@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 4821
+revid: 4979
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Shadowcast is an element that the player is required to unlock and can not start with. In order to unlock shadowcast, the player must bring five umbral obsidians to the Depths and talk to the respective trainer. Upon drinking the Nightblood item, the Shadowcaster talent will be given and the shadowcast element will be unlocked.
+Shadowcast is an element that the player is required to unlock and can not start with. In order to unlock shadowcast, the player must bring five umbral obsidian to the Depths and talk to the respective trainer. Upon drinking the Nightblood item, the Shadowcaster talent will be given and the shadowcast element will be unlocked. (Note: After shadowcaster shows up in stats menu you can wipe to get it to show in your character creation.)
 
 ## Training
 

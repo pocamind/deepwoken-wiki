@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 4887
+revid: 5000
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -210,6 +210,7 @@ Hand of Mantra Cards
 -   Hardened Nerves \[Obtained through Power\] - Slightly Increases Posture. (+2 Posture)
 -   Gourmand \[Obtained through Power\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
 -   Replenishing Knockout \[Obtained through Power\] - Gain more health and posture when knocking enemies.
+-   Impervious Slumber \[Obtained through power- Rare\] - Getting hit while knocked no longer resets your time knocked.
 
 ## Mantra Cards/Attunement Abilities
 
@@ -246,6 +247,7 @@ Hand of Mantra Cards
 
 -   Mystery Mantra \[Any Attunement\] - Recieve a random Attunement Combat Mantra of any of your Character's Attunements. (Example: Random Fire, Thunder or Strength Combat Mantra)
 -   Roll 2 - Recieve 2 random Talents.
+-   Gaze - Gaze into your enemies souls.
 
 ## Outfit Talents
 
@@ -261,3 +263,4 @@ Hand of Mantra Cards
 -   The "Graceful Flames" Mantra Card does not cook food, and has a duration of 30 seconds (Somewhere in that duration).
 -   It's highly suggested that for the "Warrior's Respite" Power Card should be used in a safe place, if you don't have any materials to make a campfire or lack the Graceful Flame Mantra.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
+-   Oath: Oathless is guaranteed to be one of your cards when reaching power level 30

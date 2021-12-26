@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 4713
+revid: 5001
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -55,6 +55,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **Bread** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
+-   **Mushroom Omelette** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
 -   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
@@ -193,7 +194,8 @@ _**Negative**_
  | _**Negative**_
 
 -   Causes you to stop moving and holds you in place.
--   Makes you throw up and decreases your _**Thirst**_ and _**Hunger**_ bars.
+-   Makes you throw up and decreases your _**Thirst**_ and _**Hunger**_ bars.  
+    (TESTED IT AND DIDNT WORK.)
 
  | 
 

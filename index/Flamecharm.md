@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 4885
+revid: 4997
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -118,12 +118,6 @@ File:Flame Blind.png
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Produce Spark</td>
-  <td>A masterful production of flame for the use of making campfires.</td>
-  <td>Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
   <td>Graceful Flame</td>
   <td>Conjure a undying flame for the caster and their comrades to rest by.</td>
   <td>Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire.</td>
@@ -159,6 +153,23 @@ File:Flame Blind.png
   Can be blocked and parried, but cannot stop the dash once it happens.</p>
   <p><br>
   Considered a wildcard possibly due to how it can be anything however is unable to perfectly fit one role, such as flame leap being good for mobility, and servants being good for offensive capabilities.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table><caption><u><b>Other Mantras</b></u></caption>
+<tbody>
+<tr>
+  <th>Image/GIF</th>
+  <th>Spell</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Produce Spark</td>
+  <td>A masterful production of flame for the use of making campfires.</td>
+  <td>Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.</td>
 </tr>
 </tbody>
 </table>

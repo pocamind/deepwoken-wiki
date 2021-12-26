@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 4886
+revid: 5004
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ _"A solemn Sanctuary carved in stone, where warriors hone the dancing steps of W
 
 ## Description
 
-An Island that houses the Vigil Guard and the Temple of the Blade.  
+An Island that houses the Vigil Guard and the Temple of the Blade. One of the two starting islands, it's counterpart being Etris (Starting Island). Unlike its counterpart, the Isle of Vigils also contains a dojo where players can practise fighting with an instructor.  
 
 ## Contents
 
@@ -61,7 +61,8 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 -   Speak to Kelsius, the Adret Librarian in the Library; located inside The Temple of the Blade.
 -   Kelsius will mention of an Etrean who borrowed the books, and pinpoints his location in an Abandoned Lodge under Etris.
 -   Upon arriving, a NPC by the name of Sentinel guards the front door. He is not hostile, and can grant you passage inside the house if you talk to him.
--   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. Further dialogue triggers a bone-chilling atmosphere.
+-   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. He will ask if you know that you are working for a murderer, Further dialogue triggers a bone-chilling atmosphere.
+-   [https://gyazo.com/75e2143de872424682f82b4284619f89](https://gyazo.com/75e2143de872424682f82b4284619f89)
 -   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, ~and the option to level up at the cost of [Notes](Notes.md).~ This is wrong, I payed him TWICE, did not get anything (Im power 43). Not even a change in investment points. Someone please figure out the true purpose of this NPC.
     -   You can question Kelsius what Khan told you, either bluntly or politely ("Are you a Murderer?" or "Who are you, really?")
 
