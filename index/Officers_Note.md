@@ -1,15 +1,14 @@
 ---
 title: Officers Note
-revid: 2929
+revid: 4823
 source: https://deepwoken.fandom.com/wiki/Officers_Note
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Officers Note
 
--   Consumable (does not grant any hunger, thirst, or any boosts as far as I know)
--   The items description reads "Huh? Something incriminating is written in this note..."
--   possible lorepiece
--   Possible Authority Quest Item
+-   Consumable used to increase postive Etrea reputation
+-   Allows for guards to address player by name
+-   Gives access to the palace with sufficent rep ( eventually allows for acess to "king" quest)
 
 Me holding a officers note

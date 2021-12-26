@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 4677
+revid: 4787
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -67,6 +67,8 @@ different person here (Chronos#6591)
 Sup chronos back as my young man said below 3 Goblettos do indeed make a health regen Pot HOWEVER You can make it even more powerful by adding beeswax OR spidereggs potions are quite useful especially when you cannot use a campfire. there are also other potions that are umm Quite Useful in combat. also it scales off of intelligence so if u hav elike 100 intelligence you're going to be a God.
 
 3 Calabash + 2 Bamboo = Ether + Reservoir drain.
+
+2 Gobletto + 1 Plumfruit = Sussy Amogus Potion
 
 Alchemy Chart by bobbio76#2916
 

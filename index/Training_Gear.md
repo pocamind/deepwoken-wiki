@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 4131
+revid: 4798
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,7 +27,6 @@ _Purchased from Etris and Isle of Vigils Training Shops._
 ### Strength
 
 -   Dumbell - **25 Notes** / 200 Durability
--   Boulder - **30 Notes** / 200 Durability (Located outside the antiquarian shop to your right)
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils. Isle of Vigils does not have the boulder.
 
@@ -36,7 +35,7 @@ A training vest hanging in the Antiquarian shop at Etris.
 ### Fortitude
 
 -   Training Vest - **25 Notes** / 50 Durability (On the white and black armor)
--   Boulder - **30 Notes** / 200 Durability
+-   Boulder - **25 Notes** / 200 Durability
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 

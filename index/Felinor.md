@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 4714
+revid: 4871
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,7 +38,7 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 
 ## Weaknesses
 
-none
+Discriminated
 
 ## Notes/Trivia
 

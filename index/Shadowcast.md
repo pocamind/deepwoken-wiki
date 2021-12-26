@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 4751
+revid: 4821
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,10 @@ You wind up an arm, and fire a bolt of darkness energy.
 ### **Shadow Meteor**
 
 Hails down meteors of darkness at your cursor.
+
+### **Shadow Chains**
+
+You throw a shadow chain.
 
 ### **Dark Blade**
 

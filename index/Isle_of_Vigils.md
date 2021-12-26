@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 3557
+revid: 4846
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,24 +21,25 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 -   Mantra/Library (Located in the Temple of the Blade)
 -   Sparring Arena (Located in the Temple of the Blade)
 -   Blacksmith
--   Training Equipment
--   Quests
+-   [Training Equipment](Training_Gear.md)
+-   [Quests](Quests.md)
 -   Unoccupied Lodge
 
 ## Quests
 
-### Lance's Brother Quest
+### Main Page: [Quests](Quests.md)
 
--   To start this quest, talk to the Food Vendor near the Docks that occupies "Lance's Foods".
--   If asked to be helped, he tells you to deliver the crate of Food (Red Crate) to Stratos.
+#### Lance's Brother Quest
+
+-   To start this quest, talk to Lance's brother, the food vendor near the docks.
+-   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you deliver it to Stratos.
 -   Stratos is located near the water fountain in the Temple of the Blades.
--   Gives 25 Notes
--   Not repeatable.
+-   Gives 25 [Notes.](Notes.md)
 
 ### Etrean Swordsman Quest
 
 -   To start this quest, talk to the Etrean in the Sparring Arena, located next to the Sparring NPC.
--   If asked about his attitude, he wants to be better, but lacks the proper knowledge in the Sword. He then asks you to give him a Weapon Manual
+-   If asked about his attitude, he wants to be better, but lacks the proper knowledge in the Sword. He then asks you to give him a [Weapon Manual](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Light.2FMedium.2FHeavy) (This does not consume the weapon manual.)
 -   The quest gives no rewards.
 
 ### A Lost Sibling Quest
@@ -53,6 +54,7 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 -   Accepting her quest gives you a Lumber Axe for free.
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
 -   Acts similar to Korin in Etris; 10 Wood for 5 Notes.
+-   This quest is repeatable.
 
 ### The Librarian Quest
 
@@ -60,11 +62,10 @@ An Island that houses the Vigil Guard and the Temple of the Blade.
 -   Kelsius will mention of an Etrean who borrowed the books, and pinpoints his location in an Abandoned Lodge under Etris.
 -   Upon arriving, a NPC by the name of Sentinel guards the front door. He is not hostile, and can grant you passage inside the house if you talk to him.
 -   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. Further dialogue triggers a bone-chilling atmosphere.
--   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, and the option to level up at the cost of Notes.
+-   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, and the option to level up at the cost of [Notes](Notes.md).
     -   You can question Kelsius what Khan told you, either bluntly or politely ("Are you a Murderer?" or "Who are you, really?")
 
 ## Notes/Trivia
 
 -   Before doing the "The Librarian" Quest, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.
--   In the "Etrean Swordsman" Quest, The Etrean does not take your Weapons Manual.
 -   Depending on your Power Level, the cost of Notes required increases when choosing to level up through Kelsius. For each Power level after Power 1, increases the cost of leveling up by 50 Notes. (1,000 Notes at Power Level 20 and 1,350 Notes at Power Level 27)

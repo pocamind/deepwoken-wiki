@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 4749
+revid: 4812
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells]
@@ -30,7 +30,7 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Repulsion</td>
   <td>An exertion of flames.</td>
-  <td>After charging for about 2 seconds<b>charging for about 2 seconds</b>, <b>cast a medium sized AOE attack</b> affecting everywhere around you <b>while being unable to move</b>.<p><b>Knocks back</b> enemies and does <b>damage</b>. <b>Spell has hyper armour.</b></p></td>
+  <td>After charging for about 2 seconds <b>charging for about 2 seconds</b>, <b>cast a medium sized AOE attack</b> affecting everywhere around you <b>while being unable to move</b>.<p><b>Knocks back</b> enemies and does <b>damage</b>. <b>Spell has hyper armour.</b></p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -61,7 +61,7 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
   <td><figure><figcaption></figcaption></figure></td>
   <td>Fire Blade</td>
   <td>Unknown</td>
-  <td>Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.</td>
+  <td>Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.<p><b>Breaks block, but can be parried.</b></p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -69,10 +69,17 @@ Flamecharm is an element thats belong to Fire, to train this element, you need t
   <td>A fiery chokehold.</td>
   <td>Caster charges a grab for 0.5 seconds, thrusting forward and when the target is hit, they are grabbed and slammed into the ground, inflicting burn and damage</td>
 </tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Rising Flame</td>
+  <td>Unknown</td>
+  <td>Caster winds up for a short time, then spins around, making fire slash shapes around them. If it hits, launches said target into the air, dealing [insert general damage here] damage, along with fall damage depending on height.<p><br>
+  <b>If you have a certain card called Meteor Impact(?), once they are launched they will be slammed back down to the ground, dealing additional damage.</b></p>
+  <p><br>
+  Initial move can be blocked and parried. The spell on its own does NOT stun, however Meteor Impact does on impact.</p></td>
+</tr>
 </tbody>
 </table>
-
-rising flame is also a move, please add! Please add flame assault,what it does is you dash horizontally in a spinning motion,if your dash hits somebody they are damaged and lit on fire
 
 <table><caption><b><u>Mobility Mantras</u></b></caption>
 <tbody>
@@ -145,3 +152,31 @@ rising flame is also a move, please add! Please add flame assault,what it does i
 </tr>
 </tbody>
 </table>
+
+<table><caption><u><b>Wildcard Mantras</b></u></caption>
+<tbody>
+<tr>
+  <th>Image/GIF</th>
+  <th>Spell</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Flame Assault</td>
+  <td>Unknown</td>
+  <td>Caster dashes forward, dealing minor damage and lighting anything in the way on fire.<p><br>
+  Can be blocked and parried, but cannot stop the dash once it happens.</p>
+  <p><br>
+  Considered a wildcard possibly due to how it can be anything however is unable to perfectly fit one role, such as flame leap being good for mobility, and servants being good for offensive capabilities.</p></td>
+</tr>
+</tbody>
+</table>
+
+Maybe notes should be added as a new column, so certain details can be added, or maybe a rating on how good it is or can be in the near future, just a suggestion however. Just me though. Also, probably add another column in each row for levels in case we figure out statistics the fire trainer gives per level.
+
+## Trivia
+
+-   Certain mantras are similar to some spells from the games Dark Souls
+    -   Flame of Denial is named and acts in a similar way to the [Tear of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial)
+    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within)

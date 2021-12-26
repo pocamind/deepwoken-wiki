@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 4613
+revid: 4850
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -33,13 +33,14 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 
 -   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.
 -   Resists insanity.
+-   Cope: You cope against all insanity.
 
 ### Variants
 
 -   White eyes
 -   Yellow/orangeish eyes
 -   Sky-blue eyes
--   (You can see the attunement you get of they eye color when you choose random) (NOT PROVEN) Yellow = Thunder Orange = Flame White = Frost Sky Blue = Gale  
+-   ~(You can see the attunement you get of they eye color when you choose random) (NOT PROVEN) Yellow = Thunder Orange = Flame White = Frost Sky Blue = Gale~ Debunked, tested with a yellow-eyed variant obtaining a frost attunement at random.  
     
 
 ### Strengths.

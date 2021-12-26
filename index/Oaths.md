@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 4691
+revid: 4872
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ You may only have a single Oath per unique character, so it is best to pick what
 
 ## Notes
 
-Arguably the easiest Oath to obtain, as it only requires the player to reach Power 30, which can be achieved with relative ease. 
+Arguably the easiest Oath to obtain, as it only requires the player to reach Power 20, which can be achieved with relative ease. 
 
 <table>
 <tbody>
@@ -49,7 +49,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 ### Pre-requisites:
 
--   Willpower of 50+
+-   Willpower of 50+ ( not needed got mine with just the talents at 42)
 -   Blindfold (Chest Item)
 -   Breathing Exercise (Talent)
 -   Conquer your Fears (Talent)
@@ -68,7 +68,7 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   +1 Support Mantra Slot
 -   +1 Wildcard Mantra Slot
 -   Full vision while wearing a blindfold
--   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md)) (you can actually equip other face accessories and still have the full effects of the oath and the drippy eye symbol, although if you don't have any face accesory on it will still show you as weraing a blindfold)
+-   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md)) (you can actually equip other face accessories and still have the full effects of the oath (Except the fullbright.) and the drippy eye symbol, although if you don't have any face accesory on it will still show you as weraing a blindfold)
 
 ### Oath Description:
 

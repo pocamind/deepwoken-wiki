@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4701
+revid: 4848
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -628,6 +628,21 @@ File:Hairband.jpg
 | 
 
  | Ascended Bandana | Buffs a stat (unknown) |
+
+### Torso
+
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+File:Golden Cape.png
+
+ | Golden Cape | +20 Reservoir
+
+_or_
+
+Buffs a random stat.
+
+ |
 
 ## Trivia/Notes
 

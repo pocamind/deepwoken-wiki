@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 4706
+revid: 4793
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -51,7 +51,4 @@ categories: ["Post-death"]
     -   Celtor Wastes
     -   The City of the Drowned
         -   _Varicosa District (The City of the Drowned)_
-
-## Post-death
-
 -   [Fragments of Self](Fragments_of_Self.md)

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4739
+revid: 4828
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -68,6 +68,28 @@ Deals damage.
  |
 | 
 
+ | Rising Wind
+
+(☆)
+
+ | Unknown | AOE attack that sends opponents and user into the air.
+
+Blocking sends only the user into the air.
+
+Allows user to damage opponents mid-air.
+
+_Possibly inflicts opponents with fall damage._
+
+ |
+| 
+
+ | Galetrap
+
+(☆)
+
+ | Unknown | Tosses a wind landmine. |
+| 
+
  | Wind Gun
 
 (☆☆)
@@ -90,21 +112,6 @@ Rapidly damages opponent.
  |
 | 
 
- | Rising Wind
-
-(☆)
-
- | Unknown | AOE attack that sends opponents and user into the air.
-
-Blocking sends only the user into the air.
-
-Allows user to damage opponents mid-air.
-
-_Possibly inflicts opponents with fall damage._
-
- |
-| 
-
  | Astral Wind
 
 (☆☆☆)
@@ -114,13 +121,6 @@ _Possibly inflicts opponents with fall damage._
 User is invincibile during casting.
 
  |
-| 
-
- | Galetrap
-
-(☆)
-
- | Unknown | Tosses a wind landmine. |
 
 ### **Mobility Mantras**
 
@@ -134,13 +134,13 @@ User is invincibile during casting.
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Galewisp160.png
-
  | Gale Wisp
 
 (☆☆)
 
  | A servant of wind. | Spawns a wisp of wind.
+
+Must complete a casting minigame.
 
 Protects against fall damage.
 

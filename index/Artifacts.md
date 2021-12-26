@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 4272
+revid: 4813
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ _"Is that...Rock Johnson?!" - Bank Teller_
 
 ## Description
 
-Artifacts in Deepwoken are valuable pieces of technology or objects that can be sold to Antiquarians for high rewards such as Rare Armor and Mantra Ingredients.
+Artifacts in Deepwoken are valuable pieces of technology or objects that can be sold to Bankers for high rewards such as Rare Armor and Mantra Ingredients.
 
 Deepwoken Artifacts are not Rogue Lineage Artifacts.
 
@@ -29,7 +29,10 @@ An Adret carrying a piece of The Forge.
 Rewards
 
 -   400 Notes
--   10 Common to Rare Items (Armor & Weapons)
+-   10 Common to Rare Items, including:
+    -   Armor Blueprints
+    -   Weapons
+    -   Equipments
 
 Locations & Hints
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4772
+revid: 4790
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -40,6 +40,25 @@ Attacks
     
 
 ## Monsters
+
+### Mudskippers
+
+_Main Source - [Mudskipper](Mudskipper.md)_
+
+A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to block or parry. Easy when fighting one or 3 of them, hard if fighting a horde.
+
+#### Attacks
+
+-   **Smack** - The Mudskipper punches his enemies, dealing minor damage.
+-   **Galebreathe** - The Mudskipper charges up a Galebreathe spell, propelling anyone who is caught inside its line of effect.
+
+  
+
+#### Notes/Tips
+
+-   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage.
+-   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
+    
 
 ### Megalodaunt (Sharko) (Moby Dick)
 
