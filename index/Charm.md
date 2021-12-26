@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 4534
+revid: 4920
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,11 +27,11 @@ Charm talents can be split into two categories those that give enemies charm and
 
 ### Charm Augmenting Talents
 
-**Lasting Charisma** - Enemies charmed by yout mantras are charmed longer. (Once again enemies and allies, unclear because player can both enemies and allies.)
+**Lasting Charisma** - Enemies charmed by your mantras are charmed longer. (Once again enemies and allies, unclear because player can both enemies and allies.)
 
 **Morale Booster** - Allies recover from being knocked twice as quickly when charmed by you. (Allies might just equal any player, while enemies might just mean npcs.)
 
-**Tough Love** - Deal more damage to players charmed by you. (Players. Duh.)
+**Tough Love** - Deal more damage to players charmed by you.
 
 **Encore** - Your _Sing_ will now stun opponents who are alredy charmed. (Enemies/Npcs)
 
@@ -50,3 +50,11 @@ Command: Run - Command your servant to run with all their might. _Causes the Sub
 Command: Fight - Command your servant to fight for their master, granting them enhanced stats for the duration. _Regardless of the rumors this one is purely a buff that does nothing else, appears to give more damage and enhanced life regen, lengthy cooldown_. ( \[Subject's First Name\] Fight )
 
 Command: Sacrifice - Damage your servant to heal yourself
+
+## Notes
+
+Vow of mastery is obtainable through talent card at atleast charisma level 25. (tested)
+
+You start with 2 commands when you obtain vow of mastery, Sleep, and Say
+
+Sing has a fairly large hitbox

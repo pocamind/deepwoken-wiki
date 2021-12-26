@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4790
+revid: 4928
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,7 +24,7 @@ For information of Human Enemies, go [here](Enemies.md).
 
 (Description)
 
-Attacks
+**Attacks**
 
 -   **Move 1** - Move 1 desc
 -   **Move 2** - Move 2 Desc
@@ -33,6 +33,10 @@ Attacks
 **Finisher**
 
 (Finishing move description)
+
+**Enemy Variants (USE ONLY IF THERE ARE VARIANTS OF THE ENEMY)**
+
+-   **Enemy variant** - How the enemy variant differs from the normal variation, I.E. Attacks, Location & Stats
 
 **Notes/Tips**
 
@@ -45,16 +49,24 @@ Attacks
 
 _Main Source - [Mudskipper](Mudskipper.md)_
 
-A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to block or parry. Easy when fighting one or 3 of them, hard if fighting a horde.
+A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is possible to be repeatedly hitstunned by them until they can grip you.
 
-#### Attacks
+Attacks
 
 -   **Smack** - The Mudskipper punches his enemies, dealing minor damage.
--   **Galebreathe** - The Mudskipper charges up a Galebreathe spell, propelling anyone who is caught inside its line of effect.
+-   **Galebreathe** (Upper Erisia & Other)- The Mudskipper charges up a Galebreathe spell, propelling anyone who is caught inside its line of effect.
 
-  
+**Finisher**
 
-#### Notes/Tips
+-   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
+
+**Variants**
+
+-   **Light Green** **Mudskipper** - Explodes two seconds after dying.
+-   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreath
+-   **Black Mudskipper** - Found in the _**Temple of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy.
+
+Notes/Tips
 
 -   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage.
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
@@ -131,7 +143,7 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 -   **Ship Crunch** - Damage ships using its powerful Jaw, dealing unknown damage to them. (Can 4-6 Shot a Sloop in my experience)
 -   **Descend -** Descends down into the Water, avoiding damage.
 -   **Bite -** Gnaws on players with 3 swift bites, dealing moderate damage.
--   **Cero** - The Lionfish faces it's body up into the sky, charging up a large and powerful lazer shot. (Depths only.)
+-   **Water cannon** - The Lionfish faces it's body up into the sky, pressurizing water and firing it in a massive burst. (Depths only.)
 
 **Finisher**
 
@@ -182,6 +194,8 @@ File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
 A purple crab, not a lot about it is known but seen spawned in the cave of Lower Erisia.
 
+Also known to spawn AROUND the cliffiside of Lower and Upper Erisia alike, (on the seaside that is).
+
 **Attacks**
 
 -   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block. This move hits about 7 times.
@@ -190,7 +204,7 @@ A purple crab, not a lot about it is known but seen spawned in the cave of Lower
 
 **Finisher**
 
--   Picks you up and then consumes you.  
+-   **Devour** - Picks you up and consumes you.  
     
 
 ### Blue Jellyfish
@@ -203,10 +217,9 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 -   **Electric Stun Pulse** - Blue AOE attack that deals approx. 7% of your health while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
 
-  
 **Finisher**
 
--   The jellyfish hovers over you and presumably eats you to death.
+-   **Devour** - Floats over your dead body and pulls you into its main body, consuming you.
 
 ### Purple Chromatic Jellyfish
 
@@ -217,6 +230,10 @@ A massive purple jellyfish that is only found in The Depths. '''Do not try to fi
 -   **Summon Jellyfish -** Usually upon being aggro'd they will spawn 1 or 2 blue jellyfish to attack the player.
 -   **Shockwave -** Create a blast of energy that blasts players very far away
 -   **Static Pulse -** Create a pulse of electricity that is purple in color.
+
+**Finisher**
+
+-   TBD
 
 ### **Gargoyles (Rodolfo)**
 
@@ -281,15 +298,11 @@ summoned by going in and out of the wall near the valley of heroes on the left c
 
 **Notes/Tips**
 
-**Don't go to the Valley of Heroes.**
-
-It's believed there is a second variant of them called the Rock Knights that falls from a blue meteor has the same attacks.
-
-If you get hit by the meteor directly then you don't lose a life. (possibly)
-
-Their main attacks are to knock the player up and prevent them form escaping.
-
-View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
+-   **Don't go to the Valley of Heroes.**
+-   It's believed there is a second variant of them called the Rock Knights that falls from a blue meteor has the same attacks.
+-   If you get hit by the meteor directly then you don't lose a life. (possibly)
+-   Their main attacks are to knock the player up and prevent them form escaping.
+-   View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
 ### **Ice Golem**
 
@@ -331,13 +344,14 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 
 -   **Claw Swipe EX**
 
-**Notes/Tips** I have no god damn clue this mf is huge asf
+**Notes/Tips**
 
-View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
+-   I have no god damn clue this mf is huge asf
+-   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
-### **The Giant Enemy Spider**
+### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE)**
 
-Large, protecter of the Serpent's den located in the hive. Utilises summoning and pulls threats in with it's sticky webs
+Large, protecter of the Serpent's den located in the hive. Summons additional enemies when you fight it, and pulls threats in with it's sticky webs.
 
 **Attacks**
 
@@ -345,22 +359,21 @@ File:Dumb fucking spider.png
 
 fuc
 
-**Swipe -** The spider swipes with It's leg, doing medium to low damage depending on your statistics
-
-**Pull -** The spider produces a web in it's mouth, shooting it at a nearby player and puling them in
-
-**Summon -** Summons smaller and less threatening spiders the attack nearby players. Can be used as health packs
+-   **Swipe -** The spider swipes with It's leg, doing medium to low damage depending on your statistics
+-   **Pull -** The spider produces a web in it's mouth, shooting it at a nearby player and puling them in
+-   **Summon -** Summons smaller and less threatening spiders the attack nearby players. Squishy enough to be used as an infight healthpack.
 
 **Finisher**
 
-**Swipe**
+-   **Swipe** -
 
 **Notes/Tips**
 
--   Place a campfire at the back of the cave
-    -   Have 1 person on the campfire and one person fighting the spider.
-    -   Have them switch when one is lower than the other.
--   placeholder
+1.  Place a campfire at the back of the cave
+2.  Have 1 person on the campfire and one person fighting the spider.
+3.  Have them switch when one is lower than the other.
+
+-   Use the squishier spiders as healtpacks.
 
 ### **Squibbo**
 

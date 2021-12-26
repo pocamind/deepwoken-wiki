@@ -1,6 +1,6 @@
 ---
 title: Willpower
-revid: 4142
+revid: 4891
 source: https://deepwoken.fandom.com/wiki/Willpower
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Training Items#Willpower](Training_Items%253Fredirect=no.md#willpower)
+-   [Attributes#Willpower](Attributes.md#willpower)

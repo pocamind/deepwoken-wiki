@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 4644
+revid: 4887
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -229,6 +229,7 @@ Hand of Mantra Cards
 -   Flame Grab \[Flamecharm Exclusive\] - A fiery chokehold. (Lunging Mantra)
 -   Fire Gun \[Flamecharm Exclusive\] - Rapid Bullets of Flame. (Projectile Mantra)
 -   Flame Blind \[Flamecharm Exclusive\] - Snap your fingers, shooting a projectile up to the air and blinding anyone who dare gaze at it. (Blinding AOE Mantra, Duration unknown)
+-   Fire Palm {FlameCharm Exclusive}- its like aces fire fist
 
 ### Fire Support
 

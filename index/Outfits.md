@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4848
+revid: 4916
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -427,6 +427,31 @@ Power Level 30
 +10% Wind Armor
 
 _Talent: Brunt_
+
+ |
+| 
+
+File:HIVE DRONE.png
+
+ | Hive Drone | x5 Cloth
+
+x5 Fiber
+
+x2 Megalodaunt Hide
+
+x1 Rock
+
+30 notes
+
+ | Power 30 | +25% Elemental Armor
+
++1000 Durability
+
++25% Physical Armor
+
++5% Blunt Armor
+
+Talent: Now You See Me
 
  |
 

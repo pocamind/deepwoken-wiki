@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4828
+revid: 4929
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -70,9 +70,9 @@ Deals damage.
 
  | Rising Wind
 
-(☆)
+(☆☆)
 
- | Unknown | AOE attack that sends opponents and user into the air.
+ | Use wind to uppercut and propel yourself into the air. | AOE attack that sends opponents and user into the air.
 
 Blocking sends only the user into the air.
 

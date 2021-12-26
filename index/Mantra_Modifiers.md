@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 4820
+revid: 4932
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ When you upgrade a mantra the previous upgrade will disappear. If you recall it,
 
 **Cloudstone**: Increases mantra size.
 
-**Stratus Stone**: Better version of **Cloudstone**.
+**Stratus Stone**: Better version of **Cloudstone**. (Makes Wind Gun deal more damage instead of increasing size)
 
 **Driftwood**: Increases casting speed.
 
