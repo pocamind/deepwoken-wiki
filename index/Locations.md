@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 4646
+revid: 4706
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -33,6 +33,7 @@ categories: ["Post-death"]
     -   Summer Isle
     -   The Monkey's Paw Aratel
     -   The Hive/ Stardew Valley
+    -   Fort Merit
 -   [The Void Sea](Voidsea.md)
     -   [Boatman's Watch](<Boatman's_Watch.md>)
     -   [Voidheart](Voidheart.md)
@@ -40,7 +41,6 @@ categories: ["Post-death"]
 
 ## The Central Luminant
 
--   Fort Merit (Adretan Sea)
 -   Raftle (one piece refernce?)
 -   Other islands??
 

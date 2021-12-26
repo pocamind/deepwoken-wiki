@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 4493
+revid: 4772
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,19 +24,20 @@ For information of Human Enemies, go [here](Enemies.md).
 
 (Description)
 
-#### Attacks
+Attacks
 
 -   **Move 1** - Move 1 desc
 -   **Move 2** - Move 2 Desc
 -   **Move 3** - Move 3 Desc
 
-#### Finisher
+**Finisher**
 
 (Finishing move description)
 
-### Notes/Tips
+**Notes/Tips**
 
-(Description)  
+-   (Description)  
+    
 
 ## Monsters
 
@@ -46,22 +47,23 @@ _Main Source - [Megalodaunt](Megalodaunt.md)_
 
 File:Sharko.png
 
-Megalodaunt eating a player/npc.
+Megalodaunt eating an NPC.
 
 Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use is still unknown, but can be sold for notes)
 
-#### Attacks
+**Attacks**
 
 -   **Thousand Needles** - Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
+
 -   **Palm Slap** - Megalodaunt slaps his opponents his claws, dealing moderate slashing damage. Megalodaunt is also able to do this twice.
 -   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried.
 -   **Thundering Roar** - Megalodaunt roars out of the top of his lungs, emitting a purple aura within his head and inflicting a status effect (Indicated with a purple particle effect) that combat tags all nearby Players. Deals no damage, but has a large radius.
 
-#### Finisher
+**Finisher**
 
 -   **Curb Stomp** - Megalodaunt ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen almost under a second.
 
-#### Notes/Tips
+**Notes/Tips**
 
 -   Megalodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
@@ -75,7 +77,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 
 Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big guys are slow and relatively easy to fight if you know what you're doing.
 
-#### **Attacks**
+**Attacks**
 
 -   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
@@ -84,11 +86,11 @@ Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after 
 -   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
 -   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling.
 
-#### **Finisher**
+**Finisher**
 
 -   **Angry Stomp** - The golem will slam down his foot and kill those hit by it if knocked.
 
-#### **Notes/Tips**
+**Notes/Tips**
 
 -   Occasionally a Shark-O and a Golem will spawn next to each other and fight each other. It's a good idea to use projetiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 
@@ -105,40 +107,34 @@ A vicious Sea Monster that has a mane around its neck and multiple tentacles to 
 
 These Monsters can come in pairs or alone, and will tear your ship apart and finish you off in the water.
 
-  
-
-#### Attacks
+**Attacks**
 
 -   **Ship Crunch** - Damage ships using its powerful Jaw, dealing unknown damage to them. (Can 4-6 Shot a Sloop in my experience)
 -   **Descend -** Descends down into the Water, avoiding damage.
 -   **Bite -** Gnaws on players with 3 swift bites, dealing moderate damage.
--   **Cero** - The Lionfish faces it's body up into the sky, charging up a large and powerful lazer shot.
+-   **Cero** - The Lionfish faces it's body up into the sky, charging up a large and powerful lazer shot. (Depths only.)
 
-#### Finisher
+**Finisher**
 
 -   **Devour -** Gobbles up a knocked character for around 3 seconds before death.
 
-#### Notes/Tips
+**Notes/Tips**
 
 -   Lionfish cannot attack anyone who is on Land.
 -   Fighting Lionfish on ships is tedious, as their hitbox is out of your reach unless you have Attunements. If your feeling brave, dive down to the waters and assert dominance.
 -   To avoid it's Cero, dodge right as it lowers it's head to shoot the beam.
 
-  
+### Black Owl (Erdoganchi)
 
-### Black Owl
+Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Lower and Upper Erisia, and its sudden appearance infront of you is signified by a singular Black Feather that floats in the location where he will spawn.
+
+When prompted to respond to the giant creature, reply with _"I'm just passing through."_ and go back the way you came stranger. You are more likely to survive that way.
 
 File:FUCKFUCKFUCKFUCKFUCK.png
 
 _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 
-> Main Article - _**Black Owl**_
-
-Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Lower and Upper Erisia, and its sudden appearance infront of you is signified by a singular Black Feather that floats in the location where he will spawn.
-
-\- When prompted to respond to the giant creature, reply with _"I'm just passing through."_ and go back the way you came stranger. You are more likely to survive that way.
-
-#### Attacks
+**Attacks**
 
 -   **Feather Teleport** - If you aggro him and try to run, he'll disappear in a burst of black feathers and teleport to your location.
 -   **Talon Swipe** - Sounds harmless, but will literally shred half your health. Normally it swipes three times.
@@ -146,11 +142,11 @@ Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolut
 -   **Flock of Feathers** - Turns into a feathers which attack you, dealing massive damage.
 -   **Whirling Dash** - It dashes towards you, twirling as it attacks.
 
-#### Finisher
+**Finisher**
 
 -   **Literal Grip** - Steps on you, and instead of banging you against the ground, crushes you with its grip.
 
-#### Notes/Tips
+**Notes/Tips**
 
 -   Always parry it's Talon Swipes.
 -   When it uses Flock of Feathers, you can get easy parries.
@@ -165,15 +161,15 @@ Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolut
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
-A purple crab not alot about it is known but seen spawned in the cave of Lower Erisia
+A purple crab, not a lot about it is known but seen spawned in the cave of Lower Erisia.
 
-#### Attacks
+**Attacks**
 
 -   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block. This move hits about 7 times.
 -   **Triple Claw -** The purple crab swings its claw downwards 3 times doing damage if landed.
 -   **Claw -** The purple crab swings its claw downwards once.
 
-#### Finisher
+**Finisher**
 
 -   Picks you up and then consumes you.  
     
@@ -184,11 +180,12 @@ File:Jellyfish.jpg
 
 Player-sized glowing blue Jellyfish that is commonly found all across _**The Depths**_. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Blue Jellyfishes are commonly "healthpacks," giving free health to whoever is in need.
 
-#### Attacks
+**Attacks**
 
 -   **Electric Stun Pulse** - Blue AOE attack that deals approx. 7% of your health while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
 
-#### Finisher
+  
+**Finisher**
 
 -   The jellyfish hovers over you and presumably eats you to death.
 
@@ -196,7 +193,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 A massive purple jellyfish that is only found in The Depths. '''Do not try to fight this creature unless your level is extremely high, it will destroy the absolute hell out of you.'''
 
-#### Attacks
+**Attacks**
 
 -   **Summon Jellyfish -** Usually upon being aggro'd they will spawn 1 or 2 blue jellyfish to attack the player.
 -   **Shockwave -** Create a blast of energy that blasts players very far away
@@ -206,15 +203,15 @@ A massive purple jellyfish that is only found in The Depths. '''Do not try to fi
 
 Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
 
-#### **Attacks**
+**Attacks**
 
 -   **Bite -** Swoops down and attacks the player
 
-#### Finisher
+**Finisher**
 
 -   TBD
 
-#### Notes/Tips
+**Notes/Tips**
 
 -   Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.
 
@@ -225,7 +222,7 @@ Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
 
 A large armored beast with an oversized fuckin axe that appears in The Depths after you successfully escape if you are extremely high level.
 
-#### **Attacks**
+**Attacks**
 
 -   **High Swing -** Lifts its axe high in the air and brings it down on the enemy
 -   **Low Swing -** Swings its axe around knee length at the opponent
@@ -235,8 +232,9 @@ A large armored beast with an oversized fuckin axe that appears in The Depths af
 **Finisher**
 
 -   **Headsplitter** - Raises his axe overhead and slams it down, splitting your skull into two.
+-   **Pull -** If The Enforcer senses that you are knocked he will pull you in and instantly execute you.
 
-#### **Notes/Tips**
+**Notes/Tips**
 
 -   A common combo that the Enforcer uses, are two high swings in quick succession before going for a low swing
 -   You can block all of its attacks and sometimes The Enforcer stands still allowing for a few hits.
@@ -251,58 +249,55 @@ Massive creatures that are white in color with 4 brightly lit red eyes and 1 unl
 
 summoned by going in and out of the wall near the valley of heroes on the left crack at the end of the valley of heroes and then the ground will shake as white meteors fall from the sky, summoning 2 per meteor
 
-#### Attacks
+**Attacks**
 
 -   **Rock Pillar -** Summons a rock pillar that knocks you insanely high up and dazes
 -   **Slam -** Slams their fist on the ground dazing anyone in the vicinity
 -   **Slash -** A sword slash that does damage can be the finisher if low enough
 -   **Wind Blast -** Creates a wind blast in front of them with their sword that knocks the player up a decent amount.
 
-#### Finisher
+**Finisher**
 
 -   **Sword Swing** - Sword swing that slashes you with a lethal cut.
 
-#### Notes/Tips
+**Notes/Tips**
 
-**Dont go to the valley of heroes**
+**Don't go to the Valley of Heroes.**
 
-Theres a 2nd variant of them called the Rock Knights that falls from a blue meteor has the same attacks I believe
+It's believed there is a second variant of them called the Rock Knights that falls from a blue meteor has the same attacks.
 
-If you get hit by the meteor directly then you dont lose a life (possibly)
+If you get hit by the meteor directly then you don't lose a life. (possibly)
 
 Their main attacks are to knock the player up and prevent them form escaping.
 
-[https://medal.tv/games/roblox/clips/5LHYvOqV\_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action (i sacrificed my life for this)
+View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
 ### **Ice Golem**
-
-> _Main article - Ice Golem_
 
 File:Ice Golem 4.png
 
 tanky
 
-Huge stone creatures similar to the golems on Erisia, summoned by going to glacier on top of Mintyrsa.
+Huge stone creatures similar to the golems on Erisia, summoned by going to glacier on top of Mintyrsa. They also spawn at the Starswept Valley.
 
-#### Attacks
+**Attacks**
 
 -   **Meteor Slam** - punches the ground, creating an aoe, explosion like, circle around it.
--   **Tree Summoning?** - punches the ground and spawns trees
+-   **Tree Summoning** - punches the ground and spawns trees
 -   **Punch** - punches a player and sends them flying
 
-#### Finisher
+**Finisher**
 
 -   **Stone Crushing Fist** - Slams his fist down to break all the bones in your body, turning your organs into a pulp.
 
-#### Notes/Tips
+**Notes/Tips**
 
--   Huge knockback, can knock players off of the glacier they spawn on and make the player fall to their deaths.
+-   Huge knockback, can knock players off of the glacier they spawn on and make the player fall to their deaths. It can knock people off cliffs at Starswept Valley.
 -   The golem is slow enough to outrun and can be infinte combo'd with 3 people.
 -   ait does alot of damage and can 2-3 shot level 25-30 players.
 
   
-
-### **Sea Serpent Ardour**
+**Sea Serpent Ardour (Kaido)**
 
 File:Sea Dragon.png
 
@@ -319,14 +314,13 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 
 **Notes/Tips** I have no god damn clue this mf is huge asf
 
-[https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop\_2021.12.22\_-\_16.56.20.98\_Trim.mp4](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action
+View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
-  
-**The Giant Enemy Spider**
+### **The Giant Enemy Spider**
 
 Large, protecter of the Serpent's den located in the hive. Utilises summoning and pulls threats in with it's sticky webs
 
-Attacks
+**Attacks**
 
 File:Dumb fucking spider.png
 
@@ -338,27 +332,32 @@ fuc
 
 **Summon -** Summons smaller and less threatening spiders the attack nearby players. Can be used as health packs
 
-Finisher
+**Finisher**
 
 **Swipe**
 
-**Notes/Tips**: Place a campfire at the back of the cave, Have 1 person on the campfire and one person fighting the spider. Have them switch when one is lower than the other
+**Notes/Tips**
 
-**Squibbo**
+-   Place a campfire at the back of the cave
+    -   Have 1 person on the campfire and one person fighting the spider.
+    -   Have them switch when one is lower than the other.
+-   placeholder
 
-One of the hardest npcs to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
+### **Squibbo**
 
-#### Attacks
+One of the hardest enemies to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
 
--   **Punch -** Punches you many times into kicks
--   **Kick -** Kicks the opponent
--   **Grand Stomp -** Stomps the ground to create a shockwave towards the opponent.
+**Attacks**
 
-#### Finisher
+-   **Punch** - Punches you many times into kicks
+-   **Kick** - Kicks the opponent
+-   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
+
+**Finisher**
 
 ???
 
-### Notes/Tips
+**Notes/Tips**
 
 -   STAY CALM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.

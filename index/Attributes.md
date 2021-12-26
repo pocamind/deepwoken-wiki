@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 4412
+revid: 4770
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -52,7 +52,7 @@ Each Attribute has a hidden EXP Value. Performing certain actions (such as takin
 -   Agility Weapons, such as daggers, requires a Agility requirement to wield.
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
--   Gain Agility EXP via Parkour and Sneak Attacks.
+-   Gain Agility EXP via Parkour (Such as running, jumping and wall climbing) and Sneak Attacks.
 
 ### Intelligence
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 4659
+revid: 4749
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells]
@@ -129,13 +129,13 @@ rising flame is also a move, please add! Please add flame assault,what it does i
   <td><figure><figcaption></figcaption></figure></td>
   <td>Graceful Flame</td>
   <td>Unknown</td>
-  <td>Conjure a undying flame for the caster and their comrades to rest by.</td>
+  <td>Conjure a undying flame for the caster and their comrades to rest by. Lasts one minute.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame of Denial</td>
   <td>Unknown</td>
-  <td>Prevents caster from being knocked once for a limited duration. (Duration to be tested)</td>
+  <td>Prevents caster from being knocked once for one minute.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

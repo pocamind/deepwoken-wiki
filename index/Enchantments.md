@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 4599
+revid: 4743
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,15 +20,16 @@ Enchants are basically upgrades/power-ups for your weapon. There are 3 variants 
 
 -   Pros: When landing an M1 on a monster or person, it summons a shadow clone of yourself behind the enemy and does the exact replica of the M1.
 -   Cons: Unknown.
+    
+    File:Curse of the umbral knight in Infernasu's video.jpg
+    
+    **Curse of the umbral knight in Infernasu's video**
+    
 
 ### Curse of the bloodthirsty
 
 -   Pros: Deals more M1 dmg (exact amount unknown).
 -   Cons: When you miss a M1, you will take damage (dodging and parrying doesn't count).
-
-File:Curse of the umbral knight in Infernasu's video.jpg
-
-**Curse of the umbral knight in Infernasu's video**
 
 ### Hero Blessing
 
@@ -47,7 +48,7 @@ File:Curse of the umbral knight in Infernasu's video.jpg
 
 ### Obfuscation
 
--   Pros: The weapon will be invisble, only to be cloaked by particles of white air. Weapon M1 is increased
+-   Pros: The weapon will be invisble, only to be cloaked by particles of white air. Weapon M1 speed is increased
 -   Cons: It's okay on swords.
 
 ### Sear
@@ -64,3 +65,5 @@ File:Curse of the umbral knight in Infernasu's video.jpg
 Apparently there are enchanted armor as well. Any information given would be greatly appreciated.
 
 \- Random guy here, I used to have an enchanted armour piece with "Multiplicity". Basically once you got hit there was a chance you'd summon a clone of the person attacking you for a few seconds that would target said person and chase/attack him. It was op because it stacks, believe it or not, and you can practically solo 5v1 someone just because they hit you a bunch of times.
+
+\-Not adding much but found a heavy weapon with the "Curse of Yun'Shul" and it makes the weapon a black transparent type of thing and I believe it buffs the sprinting m1 and the knockback is boosted like crazy with no known downsides.

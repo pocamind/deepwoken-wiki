@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 3495
+revid: 4722
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Requirements:
 
-50 Medium exp
+20 Medium exp
 
 * * *
 

@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 3862
+revid: 4711
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -44,4 +44,4 @@ none
 ## Notes/Trivia
 
 -   Only obtainable from admins
--   This might be based off of the race Seraphs in Rouge Lineage
+-   This might be based off of the race Seraphs in Rogue Lineage

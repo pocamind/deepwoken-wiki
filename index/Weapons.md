@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 4663
+revid: 4692
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -111,7 +111,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 -   Greataxe (Starter)
 -   Canorian Axe (HVY 45)
--   Halberd
+-   Halberd (HVY 45)
 
 ### Greatswords
 
@@ -123,7 +123,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 -   Warhammer
 
--   Steel maul
+-   Steel maul (HVY 20, STR 10)
 
   
 

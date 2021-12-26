@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 4602
+revid: 4736
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -80,7 +80,7 @@ _Some locations may be unlisted, feel free to add them!_
   <td><figure>File:EtrisPalace.png<figcaption></figcaption></figure></td>
   <td>Lord Regent's<p>Palace</p></td>
   <td>A palace resting on top of the mountain.</td>
-  <td><b>No clue</b><p>(racist fucks)</p></td>
+  <td><b>Lord Regent</b></td>
 </tr>
 </tbody>
 </table>
@@ -96,7 +96,7 @@ _Some locations may be unlisted, feel free to add them!_
 
 ### Lord Regent Quest
 
--   To begin this quest, you must have a positive reputation in Etrea.
+-   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event.
 -   Once you've become popular with the residence of Etrea, talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.

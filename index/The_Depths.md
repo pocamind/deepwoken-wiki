@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 4666
+revid: 4683
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -45,7 +45,7 @@ Upon entering the elevator and reaching the top, you will be faced with a trial 
 | 1-9 | None | N/A |
 | 10-18 | 1 Swordman | Yes |
 | 19-26(?) | 1 [Angel](Hollow_Angel.md) | Yes |
-| 27(?)-50 | 1 [Sharko](Megalodaunt.md) | No |
+| 27(?)-50 | 1 [Sharko](Megalodaunt.md) | Yes |
 | 50-59 | ??? | ??? |
 | 60 | 1 [Enforcer](Enforcer.md) | ??? |
 

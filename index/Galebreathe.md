@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4536
+revid: 4739
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -15,6 +15,8 @@ Galebreathe grants the user the ability to manipulate and control wind, giving t
 ## Training
 
 Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
+
+The trainer can be found in the Isle of Vigils by the campfire near the tent.
 
 ## Spells
 

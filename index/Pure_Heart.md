@@ -1,14 +1,14 @@
 ---
 title: Pure Heart
-revid: 4331
+revid: 4750
 source: https://deepwoken.fandom.com/wiki/Pure_Heart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Pure Heart
 
-a training item that is used to train shadowcast
+A training item that is used to train [Shadowcast](Shadowcast.md)
 
-found in mantra shops
+Found in mantra shops
 
-Description: Corrupt this gem of light to train your shadowcast
+Description: Corrupt this gem of light to train your [Shadowcast](Shadowcast.md)

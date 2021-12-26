@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 4526
+revid: 4713
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -71,197 +71,173 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th><b>Potion Name</b></th>
-  <th><b>Ingredients</b></th>
-  <th><b>Effect</b></th>
-  <th><b>Additional Notes</b></th>
-</tr>
-<tr>
-  <td><b>Heartening Elixir</b></td>
-  <td>
-  <ul>
-    <li>1x Bluecap</li>
-    <li>1x Calabash</li>
-    <li>1x Spider Egg</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Effects unknown.</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>It is assumed that <i><b>Heartening Elixir</b></i> boosts Blood Regeneration or heals.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Invigorating Elixir</b></td>
-  <td>
-  <ul>
-    <li>2x Gobletto</li>
-    <li>or</li>
-    <li>1x Gobletto</li>
-    <li>Any etris ingredient</li>
-  </ul></td>
-  <td><h4><i><b>Positive</b></i></h4>
-  <ul>
-    <li>Grants Healing</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Excellent early-game healing.</li>
-    <li>Regens for 15% health</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Focus-Enhancing Elixir</b></td>
-  <td>
-  <ul>
-    <li>3x Browncap</li>
-    <li>2x Gathered Wheat</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Rapidly increases draw from Ether resivour.</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Great for casters</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Icky Bane</b></td>
-  <td>
-  <ul>
-    <li>3x Redd</li>
-  </ul></td>
-  <td><i><b>Positive</b></i>
-  <ul>
-    <li>Grants Healing</li>
-  </ul><p><i><b>Negative</b></i></p>
-  <ul>
-    <li>Drains Ether</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Excellent early-game healing.</li>
-    <li>Not reccomended for use during PVP &amp; PVE due to Ether drain.</li>
-    <li>Please find out how much healing it grants.</li>
-    <li>Please find out how much Ether it drains.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Soothing Salve</b></td>
-  <td>
-  <ul>
-    <li>2x Browncap</li>
-    <li>1x Dentifillo</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li><i><b>RaNdOm!?!!?!?!??!?!?!</b></i></li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Chooses a random effect based on a list of potions.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Soothing Potion</b></td>
-  <td>
-  <ul>
-    <li>1x Browncap</li>
-    <li>1x Gobletto</li>
-    <li>2x Dentifillo</li>
-  </ul></td>
-  <td><h4><i><b>Negative</b></i></h4>
-  <ul>
-    <li>Temporary Blindness</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Why the hell is it called a Soothing Potion if its effects are negative???</li>
-    <li>Please find out if there are additional effects.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Disgusting Bane</b></td>
-  <td>
-  <ul>
-    <li>3x Browncap</li>
-  </ul></td>
-  <td><i><b>Negative</b></i>
-  <ul>
-    <li>Deals damage</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Best used when thrown.</li>
-    <li>Reccomended for PVP and PVE.</li>
-    <li>Someone please find out the damage numbers and contribute.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Soothing Tincture</b></td>
-  <td>
-  <ul>
-    <li>3x Dentifillo</li>
-  </ul></td>
-  <td><i><b>Negative</b></i>
-  <ul>
-    <li>Causes you to stop moving and holds you in place.</li>
-    <li>Makes you throw up and decreases your <i><b>Thirst</b></i> and <i><b>Hunger</b></i> bars.</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Best used when thrown.</li>
-    <li>Reccomended for PVP and PVE.</li>
-    <li>Someone please find out the bar percentages and contribute.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Dulling Blight</b></td>
-  <td>
-  <ul>
-    <li>2x Gathered Wheat</li>
-    <li>1x Dentifillo</li>
-  </ul></td>
-  <td><i><b>Negative</b></i>
-  <ul>
-    <li>Causes you to stop moving and holds you in place.</li>
-    <li>Makes you throw up and decreases your <i><b>Thirst</b></i> and <i><b>Hunger</b></i> bars.</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Best used when thrown.</li>
-    <li>Reccomended for PVP and PVE.</li>
-    <li>Someone please find out the bar percentages and contribute.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Disgusting Blight</b></td>
-  <td>
-  <ul>
-    <li>1x Stick</li>
-    <li>2x Browncap</li>
-  </ul></td>
-  <td><i><b>Negative</b></i>
-  <ul>
-    <li>Deals damage.</li>
-  </ul></td>
-  <td>
-  <ul>
-    <li>Best used when thrown.</li>
-    <li>Reccomended for PVP and PVE.</li>
-    <li>Someone please find out the damage numbers and contribute.</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+| **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
+| --- | --- | --- | --- |
+| **Heartening Elixir** | 
+-   1x Bluecap
+-   1x Calabash
+-   1x Spider Egg
+
+ | 
+
+-   Effects unknown.
+
+ | 
+
+-   It is assumed that _**Heartening Elixir**_ boosts Blood Regeneration or heals.
+
+ |
+| **Invigorating Elixir** | 
+
+-   2x Gobletto or
+-   1x Gobletto
+-   Any Etris ingredient
+
+ | 
+
+#### _**Positive**_
+
+-   Grants Healing
+
+ | 
+
+-   Excellent early-game healing.
+-   Regens for 15% health
+
+ |
+| **Focus-Enhancing Elixir** | 
+
+-   3x Browncap
+-   2x Gathered Wheat
+
+ | 
+
+-   Rapidly increases draw from Ether reservoir.
+
+ | 
+
+-   Great for casters
+
+ |
+| **Icky Bane** | 
+
+-   3x Redd
+
+ | _**Positive**_
+
+-   Grants Healing
+
+_**Negative**_
+
+-   Drains Ether
+
+ | 
+
+-   Excellent early-game healing.
+-   Not reccomended for use during PVP & PVE due to Ether drain.
+-   Please find out how much healing it grants.
+-   Please find out how much Ether it drains.
+
+ |
+| **Soothing Salve** | 
+
+-   2x Browncap
+-   1x Dentifillo
+
+ | 
+
+-   _**RaNdOm!?!!?!?!??!?!?!**_
+
+ | 
+
+-   Chooses a random effect based on a list of potions.
+
+ |
+| **Soothing Potion** | 
+
+-   1x Browncap
+-   1x Gobletto
+-   2x Dentifillo
+
+ | 
+
+#### _**Negative**_
+
+-   Temporary Blindness
+
+ | 
+
+-   Why the hell is it called a Soothing Potion if its effects are negative???
+-   Please find out if there are additional effects.
+
+ |
+| **Disgusting Bane** | 
+
+-   3x Browncap
+
+ | _**Negative**_
+
+-   Deals damage
+
+ | 
+
+-   Best used when thrown.
+-   Reccomended for PVP and PVE.
+-   Someone please find out the damage numbers and contribute.
+
+ |
+| **Soothing Tincture** | 
+
+-   3x Dentifillo
+
+ | _**Negative**_
+
+-   Causes you to stop moving and holds you in place.
+-   Makes you throw up and decreases your _**Thirst**_ and _**Hunger**_ bars.
+
+ | 
+
+-   Best used when thrown.
+-   Reccomended for PVP and PVE.
+-   Someone please find out the bar percentages and contribute.
+
+ |
+| **Dulling Blight** | 
+
+-   2x Gathered Wheat
+-   1x Dentifillo
+
+ | _**Negative**_
+
+-   Causes you to stop moving and holds you in place.
+-   Makes you throw up and decreases your _**Thirst**_ and _**Hunger**_ bars.
+
+ | 
+
+-   Best used when thrown.
+-   Reccomended for PVP and PVE.
+-   Someone please find out the bar percentages and contribute.
+
+ |
+| **Disgusting Blight** | 
+
+-   1x Stick
+-   2x Browncap
+
+ | _**Negative**_
+
+-   Deals damage.
+
+ | 
+
+-   Best used when thrown.
+-   Reccomended for PVP and PVE.
+-   Someone please find out the damage numbers and contribute.
+
+ |
 
 ## Notes/Trivia
 
 -   Sadly, you cannot use the Graceful Flame Mantra (Flamecharm exclusive) to cook Food.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
+-   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.

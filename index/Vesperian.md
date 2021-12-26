@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 4503
+revid: 4738
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -36,13 +36,12 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Weaknesses
 
--   none
+-   Cannot wear facial items
 
 ## Notes/Trivia
 
 -   I'm pretty sure this is a Hollow Knight reference.
--   Vesperians are actually the cutest race under the mask, easily reaching the top of S tier. They keep it secret and never reveal this information to the world, as it may be catastrophic.
--   (The only thing we actually know about what vesperians really look like is the big eyes behind their mask)
+-   Vesperians have the exact same faces as ganymedes under their mask
 -   Vesperians get a special mask when Blindseer is aquired.
 
 <table>

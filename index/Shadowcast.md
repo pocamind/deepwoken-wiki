@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 4604
+revid: 4751
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Shadowcast is an element that the player is required to unlock and can not start
 
 ## Training
 
-Shadowcast is an element thats belongs to Shadow, to train this element, you need to buy Pure heart.
+Shadowcast is an element thats belongs to Shadow, to train this element, you need to buy Pure Heart.
 
 ## Mantras
 

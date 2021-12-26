@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 4340
+revid: 4707
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -65,4 +65,4 @@ None
 
 ## Notes/Trivia
 
--   eae
+-   racoon

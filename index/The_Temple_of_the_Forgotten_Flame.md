@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 4603
+revid: 4709
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,8 +43,10 @@ Neero is an NPC pathfinder trying to solve the mysteries of the island. Conversi
 
 ## Mysterious Glyphs (???)
 
-Mysterious Glyphs are interactable writings in the Temple Of The Forgotten Flame. The player can attempt to read the text, resulting in the message '\*The writing on the rock is inscrutable. Whenever your eyes begin to focus on the glyphs, they seem to switch positions. Somehow, it feels like your vision is failing you.\*'.
+Mysterious Glyphs are interactable writings in the Temple Of The Forgotten Flame.
+
+If the player attempts to read the glyphs without 50 willpower, a blindfold, and five certain talents, it will say '\*The writing on the rock is inscrutable. Whenever your eyes begin to focus on the glyphs, they seem to switch positions. Somehow, it feels like your vision is failing you.\*'.
+
+If you do have the requirements, you will be able to obtain the Blindseer Oath. This makes you able to see in a blindfold and gaining a glyph on your blindfold, also giving a lot of other buffs.
 
 ??? Glyphs at the temple
-
-(It is rumored that you need a scarf with an eye on it that you can get in the depths to read the writing)

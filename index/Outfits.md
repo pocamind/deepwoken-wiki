@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4623
+revid: 4701
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -476,7 +476,9 @@ Talent: Crippling Darkness
 | Image | Armor | Effects |
 | --- | --- | --- |
 | 
- | Placeholder | Placeholder |
+File:Herbalist's Hat.png
+
+ | Herbalist's Hat |  |
 
 ### Arms
 
