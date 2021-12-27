@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 4660
+revid: 5306
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -22,6 +22,8 @@ Can be trained by using [Self-Conducting Loop](https://deepwoken.fandom.com/wiki
 
 -   **Spells**
 
+**COMBAT**
+
 (Passive) Stormcaller Slash- After using a melee spell, if you press F an additional set of lightning will come down.
 
 Lightning Blade- A dash foward that unsheathes your weapon and cuts twice with a lightining infused blade.
@@ -32,15 +34,24 @@ Jolt grab- A dash with a charged up fist of lightning that grabs the opponent, l
 
 Grand Javelin- Throws a spear that ragdolls enemies and flings them into the air
 
-Lighning stream- Grapples onto a enemy and pulls them in (if you hit them) (also stuns them for awhile you may be able to get in an m1 or two before they start parrying/blocking)
-
 Lightning beam- a beam of lightning that does damage (does not fling)
-
-Lightning Impact- You fly up in the air and slam down
 
 Thunder Kick- Heavy Kick motion doing damage
 
+Lightning Impact- You fly up in the air and slam down
+
+**SUPPORT**
+
+Lighning stream- Grapples onto a enemy and pulls them in (if you hit them) (also stuns them for awhile you may be able to get in an m1 or two before they start parrying/blocking)
+
+**MOBILITY**
+
 Lightning Assualt- You dash forward and attack those you pass
+
+  
+**UNKNOWN**(Someone please sort these out, I don't have them unlocked yet)
+
+Thunder Kick- Heavy Kick motion doing damage
 
 Spark Swap- When used you swap positions with someone (NPC or Player)
 

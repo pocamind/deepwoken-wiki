@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5240
+revid: 5245
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,6 +37,11 @@ File:Curse of the Bloodthirsty.jpg
 -   Cons: When you miss a M1, you will take damage (dodging and parrying doesn't count).
 
   
+**Curse of the No-Life King**
+
+-   Pros: Unknown. (Perhaps damage increase?)
+-   Cons: You are put to one life. (Thought to be.)  
+    
 
 File:Hero Blessing.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 3539
+revid: 5255
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -154,6 +154,18 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Ritual Casting</th>
   <td>This is a more advanced form of spell casting, letting you produce more powerful attacks at a cost. You will need to click multiple keys to cast these, it is speculated that a GUI will pop up while casting to help you. It is also speculated that while these spells will take a fair time to complete, you may also need certain items to use, for example sacrifice a leaf or piece of gold.</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+## Advanced Movement
+
+<table>
+<tbody>
+<tr>
+  <th>Roll Cancel</th>
+  <td>When you roll, you can right click similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to get back into the fight or to fake out your opponent.</td>
   <td></td>
 </tr>
 </tbody>

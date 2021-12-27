@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 5078
+revid: 5305
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,7 +29,7 @@ The Depths is located in a underwater afterlife; Almost a limbo in between life 
 -   Depth Owl
 -   Lion Fish
 -   [Sharko](Megalodaunt.md)
--   Black Owl
+-   Owl
 
 ## How do you escape?
 

@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 4839
+revid: 5288
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Sus]
@@ -25,6 +25,7 @@ A dog buying (good) shiny things for "sand dollar".
 Upon clicking your notes, you can choose to drop an amount of your choosing.
 
 -   The maximum amount of notes that can be dropped is **500**, i.e if you have over it, if not, then it's the max amount of notes you have.
+-   Cannot take money from someone who has less than you? (it can be bypassed kif you drop all your money, pick their's up first and then pick up yours)
 
 ### Uses
 

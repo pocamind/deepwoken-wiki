@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 5228
+revid: 5300
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -76,7 +76,16 @@ File:Flame Blind.png
 | Image/Gif | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Fire Leap | Unknown | Launches the caster up in the air leaving a trail of flames on the ground. |
+ | Fire Leap | Unknown | Launches the caster up in the air leaving a trail of flames on the ground.
+
+  
+**Reversal Spark:**
+
+-   **Standing still**: Backflips, then create a flaming area around you that boosts players up and burn them except for yourself.
+-   **Falling before the animation completes**: Negate all fall damage and create a flaming area on impact.
+-   **Casting in water**: Dive into the water then floats back up again, creating a flaming area when you reach land.
+
+ |
 |  |  |  |  |
 |  |  |  |  |
 

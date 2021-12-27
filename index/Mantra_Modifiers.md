@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 5175
+revid: 5302
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -55,6 +55,8 @@ Blast Spark + Lightning Clones causes your clones to explode on death.
 
 **Reversal Spark**: Unknown effect, but accepted by Lightning Impact and Flame Leap.
 
-**Multiplying Spark**: Unknown effect.
+**Multiplying Spark**: Increase the number of hits on certain mantras. (Flame Blade)
 
 **Spring Spark**: Unknown effect.
+
+**Tornado Spark:** Unknown effect.

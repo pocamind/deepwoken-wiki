@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 4572
+revid: 5250
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,6 +28,8 @@ Whirlpool also appears in the area. They deal rapid damage to boats passing near
 ## Notes
 
 Especially dangerous monsters spawn in this area, such as: Flying demons, ice dragons, sea monsters from the depths,
+
+There are patches of bubbles around the Void Sea and hitting one can cause a Sea Dragon (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
 
 If you die in the void sea, no matter how many lives you have, you'll go to the Depth's
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 4929
+revid: 5276
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -116,7 +116,7 @@ Rapidly damages opponent.
 
 (☆☆☆)
 
- | Unknown | Several fast slashes that form a star.
+ | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
 
 User is invincibile during casting.
 

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5218
+revid: 5304
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -240,11 +240,14 @@ _**Negative**_
  |
 | **Steadfast Elixer** | 
 
--   2
+-   2 Calabash  
+    
 
-abash
+ | Effects Unknown | 
 
- | Effects Unknown | ??? |
+-   Perhaps the Steadfast Elixer increases Posture? Effects unknown.
+
+ |
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 5147
+revid: 5274
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,6 +30,7 @@ You may only have a single Oath per unique character, so it is best to pick what
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots
+-   Will not to be able to be under the Vow of Mastery
 
 ### Oath Description:
 

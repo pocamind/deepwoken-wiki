@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5222
+revid: 5287
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -460,6 +460,43 @@ Talent: Now You See Me
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
 | 
+File:Legion centurion.png
+
+ | Legion Centurion | x1 Blue gem
+
+x5 Cloth
+
+x5 Fiber
+
+x1 Dark Feather
+
+x1 Thresher Spine
+
+x5 Gale stone
+
+x1000 Notes
+
+ | 10 Fortitude
+
+45 power
+
+ | +25% Wind Armor
+
++30% Physical Armor
+
++3000 Durability
+
++20% Lightning Armor
+
++30% Elemental Armor
+
++100% Ether Regen
+
++Talent: Centurion's Resolve
+
+ |
+| 
+
 File:Prophet's Cloak.png
 
  | Prophet's Cloak | x1 Bloodless Gem
