@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 5173
+revid: 5349
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -95,6 +95,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Sword (Starter)
 -   Messer (MED 10)
 -   Falchion (MED 20)
+-   Worshipper Longsword (MED 20)
 -   Scimitar (MED 20)
 -   Katana (MED 25)
 -   Vigil Longsword (MED 40)

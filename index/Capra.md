@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 5065
+revid: 5352
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -38,7 +38,7 @@ Red variant - _**Mark of Ku**_ | Buffs the "rest" of one person they choose arou
 
 ### Progression
 
-none
+Power 10+(Not sure of the exact level): Gain the ability to use Mark of Jurik/Ku/Nemit outside of campfires.
 
 ### Strengths
 
@@ -46,8 +46,10 @@ none
 
 ### Weaknesses
 
-none
+this race is literally useless if you are solo progressing
 
 ### Notes/Trivia
 
 Goated race
+
+Each of the marks appear to originate from a different real world source, most closely in definition with Old Greek, and varrying regions of Euro-Asia

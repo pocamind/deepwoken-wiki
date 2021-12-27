@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5287
+revid: 5354
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -682,7 +682,13 @@ File:Leather boots.png
  |
 | 
 
- | Black Fur Boots | Placeholder |
+File:Black fur boots 1.png
+
+ | Black Fur Boots | +9 Health
+
++3% Damange vs. Sea
+
+ |
 |   
 
  | Autumn Boots | +6% Damage Vs. Sea

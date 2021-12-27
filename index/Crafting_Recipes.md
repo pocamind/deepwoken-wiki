@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5304
+revid: 5342
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,13 +26,14 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   **Campfire** - _3 Sticks **OR** 1 Wood_
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
--   **Sack** - _2 Cloth_
+-   **[Sack](Cut_Content.md)** - _2 Cloth_
 -   **Flint** - _1 Coal, 1 Rock_
 
 ### Crafting Bench Recipes
 
--   **Canteen** - _1 Beewax, 1 Calabash_
--   **Glider** (Schematic Required) - _2 Sticks, 2 Cloth_
+-   **[Canteen](Canteen.md)** - _1 Beewax, 1 Calabash_
+-   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
+-   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 1 Wood, 1 Iron
 -   **Fishing Rod -** 2 Stick, 1 Fibers
 
@@ -42,30 +43,30 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 ### _Non-campfire Recipes_
 
--   **Noodles** - _1 Egg, 2 Gathered Wheat_
--   **Redd Juice** - _3 Redd_
--   **Chum** - _2 Fishmeat_
+-   **[Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
+-   **[Redd Juice](Redd_Juice.md)** - _3 Redd_
+-   **[Chum](Chum.md)** - _2 Fishmeat_
 -   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
--   **Fruit Salad** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
--   **Sushi** - _1 Fishmeat, 1 Seaweed Bundle_
+-   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
+-   **[Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_
 
 -   **Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
--   **Bread** - _3 Gathered Wheat_
+-   **[Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
--   **Mushroom Omelette** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
--   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate)
+-   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
+-   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate)
 -   **Cooked Fishmeat** - _1 Fishmeat_
--   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
--   **Fruit Cake** - _2 Fruits and 1 from each kind + Gathered Wheat_
--   **Dried Seaweed** - _1 Seaweed Bundle_
--   **Urchin Stew** - _3 Urchin_
+-   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
+-   **[Fruit Cake](Fruit_Cake.md)** - _2 Fruits and 1 from each kind + Gathered Wheat_
+-   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
+-   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
 -   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
--   **Fish Stew** - _1 Squid, 1 Fish Meat_
--   **Calamari** - _1 Squid, 1 Gathered Wheat_
--   **Glazed Fish -** _1 Fishmeat, 1 Sap_
+-   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat_
+-   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
+-   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_
 
 ## Alchemy
 

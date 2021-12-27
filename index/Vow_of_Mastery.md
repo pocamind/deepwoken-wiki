@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 4998
+revid: 5385
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,6 +18,8 @@ To make someone your servant, you must ask them "\[Their name\], do you wanna ma
 **Commands:**
 
 _Sleep -_ "\[Servant's name\] sleep." The servant will be downed allowing them to be gripped or carried.
+
+Drop - "\[Servant's name\] drop \[item name\].' the servant will drop the item you requested if its in the invetory (some items dont work for some reason)
 
 _Say -_ "\[Servant's name\] say \[text\]." The servant will say whatever you put as the text.
 

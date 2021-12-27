@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 5239
+revid: 5324
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -112,7 +112,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <p>Launches a chain towards cursor. If hits opponent, creates a visible glowing chain link between them. Deals minor damage and (slows opponents?) (idk if ice chain is suppose to do anything else)</p>
   <ul>
     <li><b>Ice Forge</b> - (Add skill description here.)</li>
-  </ul><p>Summons several shurikens of ice on straight that leave ice on the surface it hits. (probably 8.)</p>
+  </ul><p>Summons several shurikens of ice on straight that leave ice on the surface it hits. (it was 8 but nerfed.)</p>
   <ul>
     <li><b>Ice Eruption</b> - A flurry of ice spikes.</li>
   </ul><p></p>

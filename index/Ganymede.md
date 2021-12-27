@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 5260
+revid: 5350
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -34,7 +34,6 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
 -   Deepfolk: The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.
 -   Resists insanity.
 -   H A T
--   Snail Beam: Fires a linear beam similar to an ice beam that pushes enemies back 200 studs. Deals 25 damage and requires power 5 to use. 60 second cooldown. (not anywhere near the truth but this adition is funny so lets keep it)
 
 ### Variants
 

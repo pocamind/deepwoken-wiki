@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5229
+revid: 5379
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -77,7 +77,7 @@ Notes/Tips
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko) (Hugo)
+### Megalodaunt (Sharko) (Hugo) (Dog) (Carl)
 
 _Main Source - [Megalodaunt](Megalodaunt.md)_
 
@@ -85,7 +85,7 @@ File:Sharko.png
 
 Megalodaunt eating an NPC.
 
-Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use five of these to unlock a boss fight against primadon, also can be sold for notes)
+Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use five of these to unlock a boss fight against primadon, also can be sold for notes)
 
 **Attacks**
 
@@ -115,7 +115,7 @@ Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after 
 
 **Attacks**
 
--   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
+-   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
 -   **Rock Uppercut** - Similar to Shark-O's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away. The best way to avoid this is to roll away from him.
 
@@ -193,7 +193,7 @@ _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 
   
 
-### Turtle (Purple Crab)
+### Turtle (Purple Crab)(Sheldon)
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
@@ -252,7 +252,7 @@ Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
 
 **Finisher**
 
--   TBD
+-   Scratches you a lot at a fast rate with its legs, killing you
 
 **Notes/Tips**
 

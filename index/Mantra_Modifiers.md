@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 5302
+revid: 5321
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ When you upgrade a mantra the previous upgrade will disappear. If you recall it,
 
 **Cloudstone**: Increases mantra size.
 
-**Stratus Stone**: Better version of **Cloudstone**. (Makes Wind Gun deal more damage instead of increasing size)
+**Stratus Stone**: Better version of **Cloudstone**. (Makes Wind Gun deal more damage instead of increasing size) - Wind Gun needs testing (Mine didn't)
 
 **Driftwood**: Increases casting speed.
 
@@ -29,11 +29,15 @@ When you upgrade a mantra the previous upgrade will disappear. If you recall it,
 
 **Drift Shard**: Makes mantras (mainly projectiles) move faster.
 
+Some clown using **WAY TOO** many items to enhance their mantra.
+
 **Rush Shard**: Better version of Drift Shard.
 
 **Amnesiac Driftwood**: Removes all modifiers on a mantra.
 
 **Vibrant Gem**: Gives elemental boosts (Flames are more intense, Ice is more effective, etc).
+
+You can stack up to 3 of each. Including their weaker versions. (Increases ether cost. You can't stack every item and expect it to cast.)
 
 ## Sparks
 
