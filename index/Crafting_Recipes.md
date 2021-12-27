@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5155
+revid: 5218
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -56,7 +56,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Bread** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **Mushroom Omelette** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
--   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_
+-   **Sticky Bun** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate)
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **Plumfruit Muffin** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **Fruit Cake** - _2 Fruits and 1 from each kind + Gathered Wheat_
@@ -65,6 +65,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
 -   **Fish Stew** - _1 Squid, 1 Fish Meat_
 -   **Calamari** - _1 Squid, 1 Gathered Wheat_
+-   **Glazed Fish -** _1 Fishmeat, 1 Sap_
 
 ## Alchemy
 

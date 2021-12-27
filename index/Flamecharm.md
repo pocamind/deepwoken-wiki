@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 5145
+revid: 5228
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -37,16 +37,16 @@ Does not inflict stun or knockback
  |
 | 
 
- | Flame Palm | Unknown | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
+ | Flame Palm | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
 | 
 
  | Flame Eruption | A pyrocalstic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |
 | 
 
- | Flame Gun | Rapid bullets of flame. | Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target. |
+ | Flame Gun | Rapid bullets of flame. | Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target. Able to ignite campfires, as well as grass, leaves, and bush tiles when they aren't snowed over. |
 | 
 
- | Fire Blade | Unknown | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.
+ | Fire Blade | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.
 
 **Breaks block, but can be parried.**
 
@@ -71,110 +71,66 @@ File:Flame Blind.png
 
  | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, and after a very short delay, a fire orb shoots out infront of them and implodes, this blinds anyone in an undefined radius for 1.5 seconds. |
 
-<table><caption><b><u>Mobility Mantras</u></b></caption>
-<tbody>
-<tr>
-  <th>Image/Gif</th>
-  <th>Spell</th>
-  <th>Card Description</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Fire Leap</td>
-  <td>Unknown</td>
-  <td>Launches the caster up in the air leaving a trail of flames on the ground.</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
+## **Mobility Mantras**
+
+| Image/Gif | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Fire Leap | Unknown | Launches the caster up in the air leaving a trail of flames on the ground. |
+|  |  |  |  |
+|  |  |  |  |
 
   
 
-<table><caption><b><u>Support Mantras</u></b></caption>
-<tbody>
-<tr>
-  <th>Image/Gif</th>
-  <th>Spell</th>
-  <th>Card Description</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Flame Wisp</td>
-  <td>A servant of flames.</td>
-  <td>Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Graceful Flame</td>
-  <td>Conjure a undying flame for the caster and their comrades to rest by.</td>
-  <td>Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Flame of Denial</td>
-  <td>Undying flame.</td>
-  <td>Prevents caster from being knocked once for one minute.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Flame Within</td>
-  <td>Set yourself ablaze.</td>
-  <td>Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling.</td>
-</tr>
-</tbody>
-</table>
+## **Support Mantras**
 
-<table><caption><u><b>Wildcard Mantras</b></u></caption>
-<tbody>
-<tr>
-  <th>Image/GIF</th>
-  <th>Spell</th>
-  <th>Card Description</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Flame Assault</td>
-  <td>Unknown</td>
-  <td>Caster dashes forward, dealing minor damage and lighting anything in the way on fire.<p><br>
-  Can be blocked and parried, but cannot stop the dash once it happens.</p>
-  <p><br>
-  Considered a wildcard possibly due to how it can be anything however is unable to perfectly fit one role, such as flame leap being good for mobility, and servants being good for offensive capabilities.</p></td>
-</tr>
-</tbody>
-</table>
+| Image/Gif | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Flame Wisp | A servant of flames. | Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits. |
+| 
 
-<table><caption><u><b>Other Mantras</b></u></caption>
-<tbody>
-<tr>
-  <th>Image/GIF</th>
-  <th>Spell</th>
-  <th>Card Description</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Produce Spark</td>
-  <td>A masterful production of flame for the use of making campfires.</td>
-  <td>Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.</td>
-</tr>
-</tbody>
-</table>
+ | Graceful Flame | Conjure a undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
+| 
 
-Maybe notes should be added as a new column, so certain details can be added, or maybe a rating on how good it is or can be in the near future, just a suggestion however. Just me though. Also, probably add another column in each row for levels in case we figure out statistics the fire trainer gives per level.
+ | Flame of Denial | Undying flame. | Prevents caster from being knocked once for one minute. |
+| 
+
+ | Flame Within | Set yourself ablaze. | Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling. |
+
+## **Wildcard Mantras**
+
+| Image/GIF | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Flame Assault | Unknown | Caster dashes forward, dealing minor damage and lighting anything in the way on fire.
+
+  
+Can be blocked and parried, but cannot stop the dash once it happens.
+
+  
+Considered a wildcard possibly due to how it can be anything however is unable to perfectly fit one role, such as flame leap being good for mobility, and servants being good for offensive capabilities.
+
+ |
+
+## **Other Mantras**
+
+| Image/GIF | Spell | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
+
+  
+
+## **Azure Flame (Blue Fire)**
+
+You are able to obtain Azure Flame by having the following:
+
+\- 40 Willpower
+
+\- 75 Flamecharm Levels
+
+You will obtain it once you level up after reaching these requirements.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 4583
+revid: 5239
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -202,3 +202,9 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 </tr>
 </tbody>
 </table>
+
+Glass Path: Crystallization
+
+Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
+
+I got this with 41 Frostdraw and 20 fortitude 7 Agility 2 Intelligence 7 medium Weapon and 0 in the rest dm Chronos#6591 if you want proof lol

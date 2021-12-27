@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5085
+revid: 5222
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -569,7 +569,7 @@ File:Autumn pauldrons.png
 
 File:Flameguard.png
 
- | (Ascended?) Flameguard Pauldrons | +10 Ether
+ | Flameguard Pauldrons | +10 Ether
 
 +20 Reservoir
 
@@ -584,6 +584,8 @@ File:Blacksteel Pauldron.png
 
 +1 Posture
 
+100 Note sell price
+
  |
 |   
 
@@ -596,13 +598,15 @@ File:Black Fur Pauldrons.png
 +10 Ether
 
  |
-|  | Tracker's Brace | +2% Damage Vs. Giant
+|   
+
+ | Tracker's Brace | +2% Damage Vs. Giant
 
 +20 Reservoir
 
 +3 Health
 
-+10 Ether
++1 Posture
 
  |
 | 
@@ -642,7 +646,9 @@ File:Leather boots.png
 | 
 
  | Black Fur Boots | Placeholder |
-|  | Autumn Boots | +6% Damage Vs. Sea
+|   
+
+ | Autumn Boots | +6% Damage Vs. Sea
 
 +3 Health
 
@@ -656,6 +662,8 @@ File:Khanboots.png
 +9 Health
 
  |
+
+  
 
 ### Rings
 
@@ -716,3 +724,4 @@ Buffs a random stat.
 ## Trivia/Notes
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
+-   Some Accessories can be Ascended, and have buffed stats.

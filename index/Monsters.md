@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5150
+revid: 5229
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -49,6 +49,10 @@ For information of Human Enemies, go [here](Enemies.md).
 
 _Main Source - [Mudskipper](Mudskipper.md)_
 
+File:Dumb Mudskipper.jpg
+
+_"AAAH, AAH! STOP! CUT THE BREAKS! AGHHH~"_
+
 A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is possible to be repeatedly hitstunned by them until they can grip you.
 
 Attacks
@@ -63,16 +67,17 @@ Attacks
 **Variants**
 
 -   **Light Green** **Mudskipper** - Explodes two seconds after dying.
--   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreath
+-   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreathe.
 -   **Black Mudskipper** - Found in the _**Temple of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy.
+-   **Necro-Skipper -** Summoned Mudskippers from Cultist Necromancers. Equipped with nothing but armor, and acts like regular Mudskippers.
+-   **Deep Mudskippers** - Mudskippers exclusively in [The Depths](The_Depths.md). Fought exclusively in the Trial the Voices give you, they're skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
 
 Notes/Tips
 
--   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage.
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko) (Moby Dick)
+### Megalodaunt (Sharko) (Hugo)
 
 _Main Source - [Megalodaunt](Megalodaunt.md)_
 
@@ -87,7 +92,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 -   **Thousand Needles** - Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
 
 -   **Palm Slap** - Megalodaunt slaps his opponents his claws, dealing moderate slashing damage. Megalodaunt is also able to do this twice.
--   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried.
+-   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried. Can be perfect dodged.
 -   **Thundering Roar** - Megalodaunt roars out of the top of his lungs, emitting a purple aura within his head and inflicting a status effect (Indicated with a purple particle effect) that combat tags all nearby Players. Deals no damage, but has a large radius.
 
 **Finisher**
@@ -98,7 +103,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Mons
 
 -   Megalodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
--   Common slang terms of Megalodaunt is Sharko, Gary, Jerry, and Big guy.
+-   Common slang terms of Megalodaunt is Sharko, Hugo, Gary, Jerry, and Big guy.
 -   If Megalodaunt has you as a Target, its best if you parry some of his moves than try to avoid it. Moves such as Thousand Needles and Yellow Burst is semi-impossible to avoid, as it covers a good amount of area.
 -   Your camera shakes the closer Megalodaunt is to your character, due to his footsteps.
 -   It's always reccomended to perfect dodge the Football Kick.
@@ -225,7 +230,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 ### Purple Chromatic Jellyfish
 
-A massive purple jellyfish that is only found in The Depths. This enemy is just a DPS check, as it cannot attack if you keep spamming m1s.
+A massive purple jellyfish that is only found in The Depths. This enemy is just a DPS check for light weapons (attack too fast to fight back) but is very hard for other weapon classes.
 
 **Attacks**
 
@@ -330,8 +335,7 @@ Huge stone creatures similar to the golems on Erisia, summoned by going to glaci
 -   The golem is slow enough to outrun and can be infinte combo'd with 3 people.
 -   ait does alot of damage and can 2-3 shot level 25-30 players.
 
-  
-**Sea Serpent Ardour (Kaido)**
+### **Sea Serpent Ardour (Kaido)**
 
 File:Sea Dragon.png
 
@@ -389,7 +393,7 @@ One of the hardest enemies to solo he will parry every single attack its an abov
 
 **Finisher**
 
-Turns you into a nasty mudskipper (if I remember right)
+Turns you into a nasty mudskipper.
 
 **Notes/Tips**
 

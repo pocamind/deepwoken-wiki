@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 5004
+revid: 5197
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -62,8 +62,7 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 -   Kelsius will mention of an Etrean who borrowed the books, and pinpoints his location in an Abandoned Lodge under Etris.
 -   Upon arriving, a NPC by the name of Sentinel guards the front door. He is not hostile, and can grant you passage inside the house if you talk to him.
 -   Confronting Khan, the supposed Etrean, your character questions him on the whereabouts of Kelsius' Books. He will ask if you know that you are working for a murderer, Further dialogue triggers a bone-chilling atmosphere.
--   [https://gyazo.com/75e2143de872424682f82b4284619f89](https://gyazo.com/75e2143de872424682f82b4284619f89)
--   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, ~and the option to level up at the cost of [Notes](Notes.md).~ This is wrong, I payed him TWICE, did not get anything (Im power 43). Not even a change in investment points. Someone please figure out the true purpose of this NPC.
+-   Return to Kelsius. Rewards you a hand of cards as if you gained a Power Level, and the option to increase 1 of your Attributes at the cost of Notes.
     -   You can question Kelsius what Khan told you, either bluntly or politely ("Are you a Murderer?" or "Who are you, really?")
 
 ## Notes/Trivia

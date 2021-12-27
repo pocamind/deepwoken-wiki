@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 4991
+revid: 5175
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,7 +39,7 @@ When you upgrade a mantra the previous upgrade will disappear. If you recall it,
 
 Sparks are modifiers that are only able to be used on specific mantras.
 
-If the modifier cannot be applied to the specific mantra you use it on, it will return **Incompatible Ingredients,** and you will lose the spark
+If the modifier cannot be applied to the specific mantra you use it on, it will return **Incompatible Ingredients,** and you will lose the spark.
 
 **Magnet Spark**: Makes projectile spells homing.
 
@@ -53,8 +53,8 @@ Electric Blade + Magnet Spark adds an extra teleporting slash to the end.
 
 Blast Spark + Lightning Clones causes your clones to explode on death.
 
-**Reversal Spark**: Unknown effect, but accepted by Lightning Impact
+**Reversal Spark**: Unknown effect, but accepted by Lightning Impact and Flame Leap.
 
-**Multiplying Spark**: Unknown effect
+**Multiplying Spark**: Unknown effect.
 
-**Spring Spark**: Unknown effect
+**Spring Spark**: Unknown effect.

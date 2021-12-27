@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 5140
+revid: 5173
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -39,7 +39,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 
 -   Light Weapons are fast and agile, with high attack speed, but they lack damage and range. Guns on the other hand are a different case, though they need ammunition or ether to operate.
 -   Medium Weapons are a balance between speed and damage. Swords is the "jack of all trades" of Medium Weapons. Spears have a range advantage and Clubs are for a more offensive strategy.
--   Heavy Weapons are slow and may have endlag, but pack quite a punch.
+-   Heavy Weapons are slow and may have endlag, but pack quite a punch. Ranging from Greatsword to Hammers.
 
 ### Heavy Attacks
 

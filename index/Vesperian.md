@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 5058
+revid: 5171
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -33,19 +33,21 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 ## Progression
 
 -   As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
+-   It is possible to get a gold and black mask if you are a blindseer (Not abtainable if oathless)
 
 ## Strengths
 
 -   +2 Health, +2 Fortitude, 2+ Willpower.
+-   Starts out with armor better then the starter set.
 
 ## Weaknesses
 
--   Cannot wear facial items (you actually can, it just doesn't appear on your character you still get buffs)
+-   Cannot see facial items (it just doesn't appear on your character you still get buffs)
 
 ## Notes/Trivia
 
 -   I'm pretty sure this is a Hollow Knight reference.
--   Vesperians have the exact same faces as ganymedes under their mask
+-   Vesperians have similar faces as ganymedes under their mask
 -   Vesperians get a special mask when Blindseer is aquired.
 
 <table>

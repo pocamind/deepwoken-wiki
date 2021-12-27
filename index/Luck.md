@@ -1,21 +1,30 @@
 ---
 title: Luck
-revid: 5154
+revid: 5196
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Luck
 
-Luck is a hidden value that increase the odds of getting rarer cards during a power up. Luck gain is identified by a specific particle effect playing when it is obtained. (a bunch of particle rising)
+_"You steal the luck of others at a slightly higher rate." - Marauder Flavour Text_
 
-## How to get luck
+## Description
 
--   Gripping players. Players with more Power yield more Luck. This also steals a portions of their Luck.
--   Killing corrupted monsters in [The Depths](The_Depths.md). Usually, if an enemy can be found on the Etran Luminant, it will be corrupted, identified by the purple mist around it. They have 2x damage and 3x HP.
+Luck is a hidden value that affects your Character's learning of rare Talents.
 
 ## Effects of Luck
 
-Luck increase the likelyhood of drawing Rare (red) or Legendary (green) cards during talent selection after a Power Up.
+-   Luck increases the likelihood of Rare Talents (Indicated by their color backgrounds and particle effects) per [Power Level](Leveling.md) Increase.  
+    
 
-While these cards are usually much better than what regular cards provides, they are not necessary to make a good build. You should not make a build with one of these cards in mind, as you can only get 59 cards total. Rather, you want to adapt yourself if you happen to find them.
+## Obtaining Luck
+
+-   Luck affects the drop rate of Rare Cards (Indicated by their colored background and particle effects).
+-   Gripping players. Players with more Power yield more Luck. This also steals a portions of their Luck.
+-   Killing Corrupted Monsters (indicated by a malicious, purple aura) in both [The Depths](The_Depths.md) & Overworld. These variants of monsters are stronger than their original selves, but has the same attack patterns.
+-   If you have the Marauder Boon, you gain slightly more Luck from Monsters and Players.
+
+## Notes/Trivia
+
+-   It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 5141
+revid: 5203
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,11 +38,12 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 
 ## Weaknesses
 
-none
+-   **Everyone hates you:** Seeing as Felinors are cats (furry/nekos) other races hold a grudge over you.
 
 ## Notes/Trivia
 
 -   **Felinor** is commonly the target of discrimation, often being listed as a furry bait. It is not uncommon for people to attack Felinors just because they are a Felinor.
+-   **Language.** When a Felinor is attacked, instead of the character saying somthing on the lines of "Ouch!," Felinors will say Me-ow or Nyah.
 
 <table>
 <tbody>

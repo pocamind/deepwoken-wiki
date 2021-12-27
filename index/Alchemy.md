@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 5132
+revid: 5179
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -64,9 +64,17 @@ different person here (Chronos#6591)
 
 [https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif](https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif) proof of it actually healing
 
+AS A Certain Young man said below, spider eggs do indeed buff potions (buff the duration)
+
+So a little sexy potion for all of you is 3 goblettos + 2 spider eggs which heals 157.5 hp at 75 intelligence (softcap)
+
 Sup chronos back as my young man said below 3 Goblettos do indeed make a health regen Pot HOWEVER You can make it even more powerful by adding beeswax OR spidereggs potions are quite useful especially when you cannot use a campfire. there are also other potions that are umm Quite Useful in combat. also it scales off of intelligence so if u hav elike 100 intelligence you're going to be a God.
 
-3 Calabash + 2 Bamboo = Ether + Reservoir drain.
+3 Calabash + 2 Bamboo = Ether + Reservoir drain. (when thrown/drunk lol)
+
+3 Wheat + 2 Dentifilo = Ether Regen (When drunk)
+
+[https://gyazo.com/a636747af3fbf44a5cb5aa3f63af844e](https://gyazo.com/a636747af3fbf44a5cb5aa3f63af844e)
 
 2 Gobletto + 1 Plumfruit = Sussy Amogus Potion
 

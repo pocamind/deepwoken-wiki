@@ -1,13 +1,13 @@
 ---
 title: Leveling
-revid: 5077
+revid: 5172
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Leveling
 
-# Power Level
+# Power Level frotnite lover143
 
 _"All that training, and for what?" - Unimpressed Etrean_  
 

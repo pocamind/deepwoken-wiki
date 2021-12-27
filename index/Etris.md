@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 4809
+revid: 5231
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -96,13 +96,20 @@ _Some locations may be unlisted, feel free to add them!_
 
 ### Lord Regent Quest
 
+Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
+
 -   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event.
 -   Once you've become popular with the residence of Etrea, talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
 -   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
     -   Make sure you talk to the Royal Guards that the Lord Regent is expecting you, making them docile unless provoked.
--   Heading upstairs, the Lord Regent hires you into doing his bidding of obtaining an Artifact in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Heading upstairs, the Lord Regent hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
+-   To use the Key to unlock the black iron gate, the Key must be glowing White (Presumably in the Night, but further research is needed.)
+-   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
+-   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
+    -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
 
 ### Diver Escort Quest
 
@@ -154,6 +161,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   In the Apprentice Blacksmith Quest, the discount works on Materials inside the Blacksmith as intended, its just that you are looking at the original price.
 -   Etris is not a good Starting Island to spawn in as a Fresh Character; due to the lack of quests available to you. Isle of Vigils is recommended.
 -   Etrea is the island. Etris is the city.
+-   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
 
 Successful Flamecharmer Check
 

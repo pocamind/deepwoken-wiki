@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 4731
+revid: 5210
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,4 +17,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ### Jus Karita
 
--   The trainer is next to the tree in the middle of Etris. Requirements are unconfirmed. But it seems to be that you need to have around 30-40 light weapon Level, Power 30 (and maybe good rep with etreans, good enough that the guards at Etrea say "Welcome Traveller"(not your name))
+-   The trainer is next to the tree in the middle of Etris. Requirements are unconfirmed. But it seems to be that you need to have around 37-40 light weapon Level, Power 30 (and maybe good rep with etreans, good enough that the guards at Etrea say "Welcome Traveller"(not your name))

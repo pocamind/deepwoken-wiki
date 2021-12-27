@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5059
+revid: 5240
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -65,7 +65,7 @@ File:Detonation.jpg
 
   
 
-### Combustion
+### Combustion (Need more info)
 
 -   Pros: Every time a M1 connects, your enemy explodes.
 -   Cons: Unknown.
@@ -94,6 +94,10 @@ File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg
 
 -   Pros: Drains a person's thirst every M1 Connection.
 -   Cons: Unknown.
+
+File:Providence.png
+
+**Providence of Storms on Executioner's Axe.**
 
 ### Providence of Storms
 

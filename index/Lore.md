@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 4874
+revid: 5187
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,11 @@ _"Who would've thought, that they will forget us so easily?" - Voice of the Deep
 
 Deepwoken Lore is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-## The Lord Regent of Etrea
+  
+
+## Figures
+
+### The Lord Regent of Etrea
 
 _"Ah! Well if it isn't \[Your full name here\]. I've been expecting you. How have your travels been?" - The Lord Regent_
 
@@ -24,10 +28,69 @@ The Lord Regent has been ruler of Etris for a good amount of time, enough to the
 -   Talking to the Bookworm in Etris about the Lord Regent (As explained in The Lord Regent Quest) talks about the backstory of past Lord Regents of Etris, that all of them are to record their history in an official Office. Though, as of Year 1271, the Office ceased to exist, and the current Lord Regent is rumored to be sick by the locals, yet he remains the Ruler.
 -   The Lord Regent seems very secretive about his obtained power, and will exterminate anyone who attempts to uncover it. Proof of this is Kennith in "The Lord Regent" Quest, who died rather gruesomely while talking to the Locals of Etris. This can be done the same to players if they trespass in the Palace and confront the Lord Regent.
 
-## Lord Erisia & Erisia Island
+## Locations
+
+### Lord Erisia & Erisia Island (Etrean Luminant)
 
 (Placeholder)
 
-## The City of the Drowned
+### The City of the Drowned (The Depths)
 
-Thousands of years before your adventure starts, there was a city that was known as Celtor, now called The City of the Drowned. According to some npcs, the world "shifted", which caused The Depths to "consume" Celtor. Celtor is now a underwater city that are filled with insane people (there are a few that managed to keep their sanity) and is filled with monsters. Whenever you die your second time, you can see your soul being pulled or consumed by The Depths. If you manage to escape, you will hear voices just before you escape. These are likely the gods that drowned, as a potential name of Deepwoken was "Drowned Gods". If you are strong enough, they will try to stop you from escaping by making you fight mobs. This means that they don't want people to escape and are probably angry and envy their own creation (the people of deepwoken) as they are able to walk and land.
+-   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
+
+  
+
+## Factions
+
+### Pathfinders
+
+(Placeholder)
+
+### The Ignition Reunion
+
+(Placeholder)
+
+### The Empire/Legion
+
+(Placeholder)
+
+### The Authority
+
+(Placeholder)
+
+### Navaen Nomads
+
+(Placeholder)
+
+  
+
+## Attunement Lore
+
+### Flamecharm
+
+_"Pleeksy, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharmer Historian_
+
+-   Flamecharmers, originated from the Far West of the Luminant Sea...  
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+## Before the Tides
+
+  
+
+### City of Celtor
+
+-   Before the Tides, The City of the Drowned was once a City, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
+
+### Life before the Tides
+
+-   There was once Land Animals in Deepwoken, both Domestic, Predator and Livestock alike before the Tides.

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 5143
+revid: 5156
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,4 +32,4 @@ This monster is hostile to every other creature and will attack them on sight, w
 -   With decently high hp and a good armor, it is perfectly viable to tank all the attacks and still go for hits, however, its still better to block and parry what you can.
 -   Along with a few other giant enemies, the megalodaunt get stunned for a few seconds once it takes enough damage.
 -   Here is a fairly easy method to kill sharkos [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy) ABUSE IT WHILE YOU CAN
--   Sharkos have 1000 HP; they often lose to those golem creatures, as you can see the golems may be defending their people suddenly ( I wouldn't try and see whether you are one of their people ).
+-   They often lose to those golem creatures, as you can see the golems may be defending their people suddenly ( I wouldn't try and see whether you are one of their people ).

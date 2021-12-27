@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 4964
+revid: 5159
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,3 +42,7 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. (Requirement: Intelligence, Support Mantra)
 
 **Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source. (Requirement: Intelligence, Combat Mantra)
+
+### Willpower Mantras
+
+**Gaze -** An ability where you stare at them and make them go insane
