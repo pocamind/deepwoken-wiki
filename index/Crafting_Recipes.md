@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5001
+revid: 5155
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,8 +45,8 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Noodles** - _1 Egg, 2 Gathered Wheat_
 -   **Redd Juice** - _3 Redd_
 -   **Chum** - _2 Fishmeat_
--   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Some of your hunger bar becomes blue. Needs more testing.)_
--   **Fruit Salad** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd)_
+-   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
+-   **Fruit Salad** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **Sushi** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_
@@ -237,6 +237,13 @@ _**Negative**_
 -   Someone please find out the damage numbers and contribute.
 
  |
+| **Steadfast Elixer** | 
+
+-   2
+
+abash
+
+ | Effects Unknown | ??? |
 
 ## Notes/Trivia
 

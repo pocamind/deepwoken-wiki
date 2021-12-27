@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 5014
+revid: 5058
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -40,7 +40,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Weaknesses
 
--   Cannot wear facial items
+-   Cannot wear facial items (you actually can, it just doesn't appear on your character you still get buffs)
 
 ## Notes/Trivia
 

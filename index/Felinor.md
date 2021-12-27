@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 5006
+revid: 5141
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,11 +38,11 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 
 ## Weaknesses
 
-Discriminated and Disguting
+none
 
 ## Notes/Trivia
 
--   The **Felinor** race is the only known way to access **Supreme Difficulty**, it's called Supreme Difficulty because of it being discriminated against so often by players.
+-   **Felinor** is commonly the target of discrimation, often being listed as a furry bait. It is not uncommon for people to attack Felinors just because they are a Felinor.
 
 <table>
 <tbody>

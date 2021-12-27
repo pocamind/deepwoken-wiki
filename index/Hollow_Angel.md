@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 4936
+revid: 5070
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ File:Angel.jpg
 
 Angel spotted in [The Depths](The_Depths.md)
 
-White and Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Thundercall attunements. They are summoned upon being spotted by a Spotlight or during Depths trials, past power 20.
+White and Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Thundercall attunements. They are summoned upon being spotted by a Spotlight or during Depths trials.
 
   
 

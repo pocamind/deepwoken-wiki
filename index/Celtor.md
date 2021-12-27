@@ -1,9 +1,9 @@
 ---
 title: Celtor
-revid: 4863
+revid: 5103
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Celtor
@@ -16,36 +16,9 @@ _"Silver-tongued traders whose
 pride often gets the better of them.  
 Renowned as ship-builders and seafarers alike."_
 
-_Chance of obtaining race: **16%**_
+_Chance of obtaining race: **17.4%**_
 
-## Racial Traits
-
-<table><caption></caption>
-<tbody>
-<tr>
-  <td>Image Here</td>
-  <td><b>Seaborne</b>
-  <ul>
-    <li>"You have a keen understanding of ships and their maintenance."</li>
-  </ul>
-  <ul>
-    <li>Owned ships have <b>+10% hp</b>. <b>20%</b> Discount at the shipwright.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td>Image Here</td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+2 Intelligence</li>
-    <li>+2 Charisma</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
-
-  
-
-## Miscellaneous
+## Lore
 
 **Lore:**
 
@@ -61,7 +34,30 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 
 None
 
-  
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
+  <td><b>Seaborne</b>
+  <ul>
+    <li>"You have a keen understanding of ships and their maintenance."</li>
+  </ul>
+  <ul>
+    <li>Owned ships have <b>+10% hp</b>. <b>20%</b> Discount at the shipwright.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Attributes</b></td>
+  <td>
+  <ul>
+    <li>+2 Intelligence</li>
+    <li>+2 Charisma</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Notes/Trivia
 

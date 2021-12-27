@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 4900
+revid: 5031
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,7 +63,7 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
 -   Tornado Spark - ???
 -   Spring Spark - Most likely boots height of a mantra that makes you jump high.
 -   Round Spark - Converts Mantras into an AOE effect.
-    -   Affected Mantras: Ice Stomp - _Instead of a straight line, perform an AOE instead._ | _Flame Repulsion - Extends the AOE range.(?)_
+    -   Affected Mantras: Ice Stomp - _Instead of a straight line, perform an AOE instead._ |
 -   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) - Increases range of Projectile Mantras slightly
     -   Perfect Lens - Increases range of Projectile Mantras moderately
 -   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your Mantra effects slightly larger in size CURRENT TESTING FOR ICE ELEMENT, Glacial Ark: it makes more than 1 arc like the effect of Multiplying Spark, 5 Arcs in Total. ICE SHURIKEN: Makes it track and follow target which is supposed to be the effect of Magnet Spark) DISCLAMER: I literally dont know why it happened, different effects for each spell. (DISCLAMER, I have no idea why this happened. My only theory is that its different per spell or per element DM ME, RoyalMagus#1631)

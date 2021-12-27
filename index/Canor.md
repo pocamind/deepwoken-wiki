@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 4425
+revid: 5137
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,18 +10,36 @@ categories: [Races]
 
 ## Description
 
-Wolf/Lion-based Race  
-Chance of obtaining race: **14.3%**
+Template:Race Box mark 2
+
+_"With canine features,  
+the Canor are fiercely loyal.  
+Often found as guards  
+and personal servants in the  
+retinue of powerful people."_
+
+  
+_Chance of obtaining race: **14.3%**_
 
 ## Lore
 
-Template:Race Box mark 2 none
+**Lore:**
 
-  
+none
+
+**Strengths:**
+
++2 Strength, +2 Charisma.
+
+Inflicts less damage to their own allies.
+
+**Weaknesses:**
+
+None
 
 ## Appearance
 
-Wolf-based Canors are humanoids with tan skin, black hair, and green eyes (?).
+Wolf-based Canors are humanoids with tan skin, black hair, and green eyes.
 
 Lion-based Canors are humanoids with tan skin, orange/golden hair and brown eyes.
 
@@ -31,19 +49,11 @@ They are based on wolves and lions (confirmed recently)
 
 ## Racial Abilities
 
--   Loyalty : Allies take less damage from attacks.
+-   Loyalty: Allies take less damage from attacks.
 
 ## Progression
 
 -   Their hair turn white as they grow older.
-
-## Strengths
-
--   +2 Charisma, +2 Strength.
-
-## Weaknesses
-
--   none
 
 ## Trivia
 
@@ -51,4 +61,4 @@ They are based on wolves and lions (confirmed recently)
 
 -   Will most likely have their hair turn white as they grow older similar to how Khans have more white hair as they grow older.
 
--   Somehow related to the Justicar (The Ring Man) in Etris as upon gaining a canor, he has a third dialogue option to learn about the Justicar sword style.
+-   ~Somehow related to the Justicar (The Ring Man) in Etris as upon gaining a canor, he has a third dialogue option to learn about the Justicar sword style.~ NOT TRUE, he teaches you the Justicar hand to hand combat with any race.

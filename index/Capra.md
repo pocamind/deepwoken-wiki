@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 4800
+revid: 5065
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -32,7 +32,9 @@ Blue variant - _**Mark of Jurik**_ | Buffs the sanity of one person they choose 
 
 Green variant - _**Mark of Nemit**_ | Buffs the food of one person they choose around them as long as they are at the campfire. |
 
-Red variant - _**Mark of Ku**_ | Buffs the "rest" of one person they choose around them as long as they are at the campfire. |
+Red variant - _**Mark of Ku**_ | Buffs the "rest" of one person they choose around them as long as they are at the campfire.
+
+(i have done some tests and know that "rest" isnt ethyr, or reseviour. It may be blood but no promises)
 
 ### Progression
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 4997
+revid: 5145
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -114,7 +114,7 @@ File:Flame Blind.png
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame Wisp</td>
   <td>A servant of flames.</td>
-  <td>Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster (requires testing) and igniting nearby extinguished campfire pits.</td>
+  <td>Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -125,7 +125,7 @@ File:Flame Blind.png
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Flame of Denial</td>
-  <td>Unknown</td>
+  <td>Undying flame.</td>
   <td>Prevents caster from being knocked once for one minute.</td>
 </tr>
 <tr>

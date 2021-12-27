@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5013
+revid: 5150
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -225,7 +225,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 ### Purple Chromatic Jellyfish
 
-A massive purple jellyfish that is only found in The Depths. '''Do not try to fight this creature unless your level is extremely high, it will destroy the absolute hell out of you.'''
+A massive purple jellyfish that is only found in The Depths. This enemy is just a DPS check, as it cannot attack if you keep spamming m1s.
 
 **Attacks**
 
@@ -235,7 +235,7 @@ A massive purple jellyfish that is only found in The Depths. '''Do not try to fi
 
 **Finisher**
 
--   TBD
+-   **Devour -** Will kill you with a single bite. (Assumed that it tears out a organ vital to living)
 
 ### **Gargoyles (Rodolfo)**
 
@@ -258,7 +258,7 @@ Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
 
 ### **The Enforcer**
 
-A large armored beast with an oversized fuckin axe that appears in The Depths after you successfully escape if you are extremely high level.
+A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level.
 
 **Attacks**
 
@@ -348,7 +348,7 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 
 **Notes/Tips**
 
--   I have no god damn clue this mf is huge asf
+-   I have no clue this monster is huge
 -   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
 ### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE)**
@@ -402,7 +402,3 @@ Turns you into a nasty mudskipper (if I remember right)
 -   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears. A panicked Player fighting Monsters like these will definitely lose the fight.
 -   A handful of the Monsters have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some Monster Hunting.
 -   NOT all attacks are parriable; red attacks can't be. Buy a Hunter Brace at the Summer Island to be able to.
-
-### Page Attributions?
-
--   **24/12/21 @Arguinghen / FoolsArcana -** Page Template, Black Owl section & General Edits.

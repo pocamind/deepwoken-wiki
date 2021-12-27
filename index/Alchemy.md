@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 4787
+revid: 5132
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -224,3 +224,14 @@ Note: These potions may be a bit inaccurate due to me having all the alchemist t
 There are also effects like grueling bane and such that I haven't tested well yet enough, if someone can tell me the effects of those potions I'll be pretty glad.
 
 Ingredients like sap, spider egg, urchins, coral, scallops, and fish don't have any "base effects", but they might be used to enhanced the effects of certain potons.
+
+  
+Hi, SlenDaMan64#1618 here, been an alchemist for about 4 days, with a couple of things to add, which I covered a bit in a comment on this page
+
+side note to all of alchemy: when testing new ingredients pay attention to cauldron colour, if it's white then it's a nothing tincture
+
+Urchins can actually be put in potions by themselves, making the "mindbreaking" line of potions, which lowers sanity a LOT, but a lot of items create a nothing tincture, which only puts potions on cooldown, as you can see next to the roll cooldown indicator. Drinking another potion during this cooldown makes you vomit. All potions have this cooldown
+
+The alchemy cards actually increase the negative effects of potions with some positive and some negatives, like icky banes. So either A, icky bane is considered a positive and it works like this for all of them, or B, the more likely option, icky banes are conisdered negative potions, and this is how we can base the effects of the alchemy cards onto the potions.
+
+I'm going to be testing more with the effects of "nothing" ingredients and if mixing them with other things actually does anything, if you have any ideas on a new ingredient, test it, but pay attention to the colour of the cauldron.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 4954
+revid: 5078
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,17 +39,17 @@ Certain district in the City of the Drowned have a bell, said districts can be i
 
 Once all bell have been rung, a large bell choir will be heard across The Depth, signalling the possible salvation of the souls trapped within via the opening of the doors to The Trial.
 
-Upon entering the elevator and reaching the top, you will be faced with a trial (below Power 10, the trial is skipped) where you must fight a given mob. Higher power = more powerful enemies.
+Upon entering the elevator and reaching the top, you will be faced with a trial (below Power 15, the trial is skipped) where you must fight a given mob. Higher power = more powerful enemies.
 
-| Power | Enemy | More enemies for each player? |
-| --- | --- | --- |
-| 1-9 | None | N/A |
-| 10-18 | 1 Swordman | Yes |
-| 19-27 | 1 [Angel](Hollow_Angel.md) | Yes |
-| 28-49 | 1 [Sharko](Megalodaunt.md) | Yes |
-| 50-60 | 1 [Enforcer](Enforcer.md) | ??? |
+Possible enemies: Swordman, [Angel](Hollow_Angel.md), [Megalodaunt](Megalodaunt.md), [Enforcer](Enforcer.md). (Unsure if this is based on luck or power but I fought an enchanted sharko instead of a regular one.)
+
+In the case of weaker enemies, multiple can spawn to fit the amount of players escaping.
 
 If 4 or more players attempt to escape, they will be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain, only then will the trial begin.
+
+**Alternatively**
+
+With enough Agility or proper usage of the buildings, one can reach the upper part of the city's wall and walk along them to reach the middle piece containing the trial. Care must be taken, as falling from this wall can be quite desastrous.
 
 ### Reward for Escaping?
 
@@ -64,5 +64,5 @@ Escaping the depths gives you a new talent "Depth Connection" which allows the p
 
 ## Notes
 
--   It is prossible to gain card luck (boosted if you have [Marauder](https://deepwoken.fandom.com/wiki/Boons?#Marauder)) by killing players in the depths.
+-   It is prossible to gain card luck (boosted if you have [Marauder](https://deepwoken.fandom.com/wiki/Boons?#Marauder)) by killing players (or NPCs) in the depths.
 -   something something shadowcast

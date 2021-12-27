@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 4916
+revid: 5085
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -496,6 +496,17 @@ Talent: Crippling Darkness
 
 ## Armor Pieces
 
+### Ears
+
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+ | Dewdrop Earrings | +16 Reservoir
+
++6 Sanity
+
+ |
+
 ### Head
 
 | Image | Armor | Effects |
@@ -504,6 +515,41 @@ Talent: Crippling Darkness
 File:Herbalist's Hat.png
 
  | Herbalist's Hat |  |
+
+### Rings
+
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+"Ring of the infamous theif Emiya Konga."
+
+_"Ring of the infamous_
+
+_thief Emiya Konga."_
+
+ | Konga's Clutch Ring | Allows the user to
+
+slide without delay
+
+ |
+| 
+
+ | Gold Ring | (Any Random
+
+buff effect)
+
+\*Can be sold for 50[n](Notes.md)\*
+
+ |
+| 
+
+ | Silver Ring | (Any Random
+
+buff effect)
+
+\*Can be sold for 10[n](Notes.md)\*
+
+ |
 
 ### Arms
 
@@ -644,9 +690,7 @@ File:Kongasclutchring.png
 File:Hairband.jpg
 
  | Headband | Comes in various colors |
-| 
-
- | Blindfold | Blinds occupant |
+|  | Blindfold | Blinds occupant and gives +20 sanity |
 | 
 
  | Bandana | Comes in various colors |

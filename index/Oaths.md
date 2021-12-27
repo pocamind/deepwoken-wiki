@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 4924
+revid: 5147
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,11 +21,11 @@ You may only have a single Oath per unique character, so it is best to pick what
 
 ### Pre-requisites:
 
--   Power 20
+-   Power 30
 
 ### How to obtain:
 
--   Open card deck at Power 20+ and select Oath: Oathless
+-   Open card deck at Power 30+ and select Oath: Oathless
 
 ### Oath Effects:
 
@@ -37,7 +37,7 @@ You may only have a single Oath per unique character, so it is best to pick what
 
 ## Notes
 
-Arguably the easiest Oath to obtain, as it only requires the player to reach Power 20, which can be achieved with relative ease. 
+Arguably the easiest Oath to obtain, as it only requires the player to reach Power 30, which can be achieved with relative ease. 
 
 <table>
 <tbody>
