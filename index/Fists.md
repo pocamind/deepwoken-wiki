@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 5808
+revid: 5857
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,8 +22,10 @@ categories: [Pages with broken file links]
 
 File:Jus Karita Description.png
 
--   The trainer is next to the tree in the middle of Etris. Requirements are unconfirmed. Requirements are 40 light weapon, Power 30
+-   The trainer is next to the tree in the middle of Etris. Requirements are 40 light weapon, Power 30
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
 
 (Note For Fist Styles From (TheRefinedOne)#4224 All Fist Styles Seem to Bug When using Leigon caestus Or Iron Variation)
+
+i think it just cause its a leg style not a fist

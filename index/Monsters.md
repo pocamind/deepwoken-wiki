@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5750
+revid: 5882
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,19 +8,56 @@ categories: [Pages with broken file links]
 
 # Monsters
 
-_"Dear god, that Sharko got some cake!" - Unfortunate Adventurer_
+_"Dear god, that Sharko got some cake!"_
+
+\- Unfortunate Adventurer
 
 ## Description
 
-As much as there are human enemies in the game you may encounter, Deepwoken's finest is the Monsters themselves. They can tear unaware NPCs and players apart if they are ill-equipped, along with sinking your own ship in the Sea.
+As much as there are human enemies in the game you may encounter, Deepwoken's finest is the Monsters themselves. They can tear unaware NPCs and players apart if they are ill-equipped or inexperienced, along with sinking your nautical vessel into the Sea and if you're unlucky...
 
-It is recommended to learn how they act and read their attack patterns if you want to survive. Or gain good enough gear or experience if you want to fight such foes.  
+_Sending you directly to **the Depths.**_
+
+It is recommended you learn how each monster acts and behaves to read their attack patterns if you want to survive against these beasts. No amount of levelling, gear or experience will do you good if you can't parry, block or dodge their attacks for the life of you.  
+For information on Human Enemies, go [here](Enemies.md).
+
+### Monster Name
+
+(Description)
+
+**Attacks**
+
+-   **Move 1** - Move 1 desc
+-   **Move 2** - Move 2 Desc
+-   **Move 3** - Move 3 Desc
+
+**Finisher**
+
+**Finishing Move Name** - Finishing move description
+
+**Known Drops**
+
+-   **Item Dropped 1** - Inferred Drop Chance (Common, Rare, Extremely Rare)
+-   **Item Dropped 2** - Inferred Drop Chance (Common, Rare, Extremely Rare)
+-   **Item Dropped 3** - Inferred Drop Chance (Common, Rare, Extremely Rare)
+
+**Enemy Variants (USE ONLY IF THERE ARE VARIANTS OF THE ENEMY)**
+
+-   **Enemy variant** - How the enemy variant differs from the normal variation, I.E. Attacks, Location & Stats
+
+**Notes/Tips**
+
+-   Insert notes & Tips
 
 ## Monsters
 
 ### Mudskippers
 
 _Main Source - [Mudskipper](Mudskipper.md)_
+
+> _"Ayo these zombies ain't shi-"_
+
+> \- Foolhardy Fighter
 
 File:Dumb Mudskipper.jpg
 
@@ -39,20 +76,20 @@ Attacks
 
 **Variants**
 
--   **Light Green** **Mudskipper** - Explodes two seconds after dying.
+-   **Green** **Mudskipper** - Explodes two seconds after dying.
 -   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreathe.
--   **Black Mudskipper** - Found in the _**Temple of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy.
+-   **Black Mudskipper** - Found in the _**Shrine of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy. Does not die when backstabbed.
 -   **Necro-Skipper -** Summoned Mudskippers from Cultist Necromancers. Equipped with nothing but armor, and acts like regular Mudskippers.
--   **Deep Mudskippers** - Mudskippers exclusively in [The Depths](The_Depths.md). Fought exclusively in the Trial the Voices give you, they're skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
+-   **Deep Mudskippers** - Mudskippers exclusively in [The Depths](The_Depths.md). Fought exclusively in the Trial the Voices give you, their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
 
 Notes/Tips
 
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko/Hugo)
+### Megalodaunt (Sharko) (Carl)
 
-_Main Source - [Megalodaunt](Megalodaunt.md)_
+_Main Article - [Megalodaunt](Megalodaunt.md)_
 
 Megalodaunt eating an NPC.
 
@@ -83,11 +120,11 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Megalodaunt between each of you and when one of you fighting gets low you swap out and heal.
 -   They have great ass.
 
+### **Rock Golem (Dwayne)**
+
 File:Satgea.PNG
 
 Rock Golem standing in the distance.
-
-### **Rock Golem**
 
 Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big
 
@@ -110,15 +147,19 @@ guys are slow and relatively easy to fight if you know what you're doing.
 
 -   Occasionally a Shark-O and a Golem will spawn next to each other and fight each other. It's a good idea to use projetiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 
-### Lionfish
+### Lionfish (Jason)
 
-> _Main Article- Lionfish_
+_Main Article- Lionfish_
 
 File:Menos Fish.jpg
 
 A Lionfish, up close
 
-  
+>   
+> _"I can take on this big fish, no sweat!... Why's it looking up?"_
+
+> _\- Brave Depthstrider._
+
 A vicious Sea Monster that has a mane around its neck and multiple tentacles to swim, hence how they've gotten their name. Lionfish inhabits the waters of [The Aratel Sea](The_Aratel_Sea.md), but are also encountered in [The Depths](The_Depths.md), presumably in Celtor Wastes.
 
 These Monsters can come in pairs or alone, and will tear your ship apart and finish you off in the water.
@@ -142,9 +183,9 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 
 ### Black Owl (Erdoganchi)
 
-Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Lower and Upper Erisia, and its sudden appearance infront of you is signified by a singular Black Feather that floats in the location where he will spawn.
+> _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
 
-When prompted to respond to the giant creature, reply with _"I'm just passing through."_ and go back the way you came stranger. You are more likely to survive that way.
+Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Lower and Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
 
 File:FUCKFUCKFUCKFUCKFUCK.png
 
@@ -155,7 +196,7 @@ _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 -   **Feather Teleport** - If you aggro him and try to run, he'll disappear in a burst of black feathers and teleport to your location.
 -   **Talon Swipe** - Sounds harmless, but will literally shred half your health. Normally it swipes three times.
 -   **Flying Grab** - The owl will dissappear into the air and grab you, bringing you into the sky.
--   **Flock of Feathers** - Turns into a feathers which attack you, dealing massive damage.
+-   **Flock of Feathers** - Turns into feathers which attack you, dealing massive damage.
 -   **Whirling Dash** - It dashes towards you, twirling as it attacks.
 
 **Finisher**
@@ -224,7 +265,7 @@ A massive purple jellyfish that is only found in The Depths. This enemy is just 
 
 ### **Gargoyles (Rodolfo)**
 
-Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
+Spawns somewhere within Minityrsa or near it, the Aratel Sea, the Void Sea, and Starswept Valley.
 
 **Attacks**
 
@@ -237,7 +278,6 @@ Spawns somewhere within Minityrsa or near it and the Aratel Sea and the Void Sea
 **Notes/Tips**
 
 -   Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.
-
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.  
     
 
@@ -291,7 +331,7 @@ summoned by going in and out of the wall near the valley of heroes on the left c
 -   Their main attacks are to knock the player up and prevent them form escaping.
 -   View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
-### **Ice Golem**
+### **Ice Golem (Hugo)**
 
 File:Ice Golem 4.png
 
@@ -317,6 +357,8 @@ Huge stone creatures similar to the golems on Erisia, summoned by going to glaci
 
 ### **Sea Serpent Ardour (Kaido)**
 
+> _"Nothing bad ever happens in the Voidsea!"_ - John Kennedy
+
 File:Sea Dragon.png
 
 Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, and the Voidsea. Utilises the power of Frostdraw to stop boats in their tracks.
@@ -336,6 +378,8 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 -   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
 ### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE)**
+
+> _"GIANT. ENEMY. SPIDER."_ _\-_ Jermaine.
 
 Large, protecter of the Serpent's den located in the hive. Summons additional enemies when you fight it, and pulls threats in with it's sticky webs.
 
@@ -367,13 +411,13 @@ One of the hardest enemies to solo he will parry every single attack its an abov
 
 **Attacks**
 
--   **Punch** - Punches you many times into kicks
+-   **~Stand~ Melee Rush** - Punches you many times into kicks
 -   **Kick** - Kicks the opponent
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 
 **Finisher**
 
-Turns you into a nasty mudskipper.
+**Mudskipped** - Get turned into a Mudskipper. (So that's where they come from...)
 
 **Notes/Tips**
 
@@ -381,20 +425,19 @@ Turns you into a nasty mudskipper.
 -   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
 
-  
-**Sea Monkey**
-
-A giant blue monkey that can be summoned on Monkey Paw Island. Does massive damage and if you die to a sea monkey you will be sent to The Depths regardless of how many lives you have.
+### **Sea Monkey**
 
 File:Seamonkey.png
 
-Sea Monkey
+_MMmm. Sea Monke._
+
+A giant blue monkey that can be summoned on Monkey Paw Island. Does massive damage and if you die to a sea monkey you will be sent to The Depths regardless of how many lives you have.
 
 **Attacks**
 
 -   **Punch** - Very high damage punch that can execute
--   **Swipe** - Makes a slicing motion with his hand, does medium damage
--   **Kick** - Kicks the opponentm, does high damage
+-   **Monke Paw** - Makes a slicing motion with his hand, does medium damage
+-   **Football Kick** - Kicks the opponent, does high damage
 
 **Finisher**
 
@@ -402,35 +445,8 @@ Sea Monkey
 
 **Notes/Tips**
 
-1.  He is incredibly tanky, can take more than an hour to solo
-
-Reccomended to bring at least 6 other high levels with you when fighting it
-
-  
-**Monster Description Template**
-
-### Monster Name
-
-(Description)
-
-**Attacks**
-
--   **Move 1** - Move 1 desc
--   **Move 2** - Move 2 Desc
--   **Move 3** - Move 3 Desc
-
-**Finisher**
-
-(Finishing move description)
-
-**Enemy Variants (USE ONLY IF THERE ARE VARIANTS OF THE ENEMY)**
-
--   **Enemy variant** - How the enemy variant differs from the normal variation, I.E. Attacks, Location & Stats
-
-**Notes/Tips**
-
--   (Description)  
-    For information of Human Enemies, go [here](Enemies.md).
+-   He is incredibly tanky, and can take more than an hour to solo (that is, if you don't die.)
+-   Reccomend bringing at least 6 other high levels with you when fighting it, and a Charisma user that has _**Sing**_ with Ally boost talents if they are in the same guild as you.
 
 ## Notes/Trivia
 

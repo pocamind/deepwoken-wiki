@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 5449
+revid: 5927
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,9 +11,9 @@ categories: [Pages with broken file links]
 | The Depths | |
 |---|---|
 
-##### "You feel The Depths coil around your soul like a knot." -The Depths warning that you will wipe if killed
+##### "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
 
-The Depths is said to be the purgatory in which your soul goes when you die enough. While here dying at ALL will wipe you forcing you to restart your progress. There are a lot of dangers in the Depths and monsters. Specificlly a large shark like creature that hunts you down.
+The Depths is a purgatory to all the Drowned, and the inhabatants of Sea Monsters.
 
 ## What does the Depths look like?
 

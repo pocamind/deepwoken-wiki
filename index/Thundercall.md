@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 5778
+revid: 5921
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -73,7 +73,7 @@ It is unknown if 3 star combat mantras exist or not
 <tbody>
 <tr>
   <td>latest?cb=20211227210501</td>
-  <td>Lightning Assualt (☆)</td>
+  <td>Lightning Assualt (☆☆)</td>
   <td>A rush of lightning.</td>
   <td>You dash forward and attack those you pass</td>
 </tr>

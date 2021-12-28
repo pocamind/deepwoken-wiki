@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 5817
+revid: 5930
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -18,7 +18,7 @@ categories: [Character]
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
-Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit stuff with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest.
+Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit stuff with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s)
 
 When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, like extra Penetration, or Weight. It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are extremely rare though.
 
@@ -61,7 +61,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td>Gilded Dagger</td>
   <td>25 Light Weapon</td>
-  <td></td>
+  <td>13.5</td>
   <td></td>
 </tr>
 <tr>
@@ -104,20 +104,20 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Rarity</b></td>
 </tr>
 <tr>
-  <td>Cestus</td>
-  <td>30 Light Weapon</td>
-  <td>10</td>
-  <td></td>
-</tr>
-<tr>
-  <td>Legion Cestus</td>
-  <td></td>
+  <td>Bare Hands</td>
+  <td>0 Light Weapon</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Iron Cestus</td>
+  <td>0 Light Weapon</td>
   <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Legion Cestus</td>
+  <td>30 Light Weapon</td>
   <td></td>
   <td></td>
 </tr>
@@ -139,19 +139,19 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
 <tr>
   <td>Flintlock</td>
   <td>25 Light Weapon</td>
-  <td></td>
+  <td>10</td>
   <td></td>
 </tr>
 <tr>
   <td>Revolver</td>
   <td>65 Light Weapon</td>
-  <td></td>
+  <td>13</td>
   <td></td>
 </tr>
 <tr>
   <td>Dragoon</td>
   <td>65 Light Weapon</td>
-  <td></td>
+  <td>20</td>
   <td></td>
 </tr>
 </tbody>
@@ -182,7 +182,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Messer</td>
   <td>10 Medium Weapon</td>
-  <td></td>
+  <td>20</td>
   <td></td>
 </tr>
 <tr>
@@ -365,25 +365,19 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 </tr>
 <tr>
   <td>Zweihänder</td>
-  <td>20 Heavy Weapon 10 Strength</td>
+  <td>20 Heavy Weapon, 10 Strength</td>
   <td>10</td>
   <td></td>
 </tr>
 <tr>
   <td>Crescent Cleaver</td>
-  <td>40 Heavy Weapon 10 Strength</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Shadow Greatsword</td>
-  <td>45 Heavy Weapon</td>
+  <td>40 Heavy Weapon, 10 Strength</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Darksteel Greatsword</td>
-  <td></td>
+  <td>45 Heavy Weapon</td>
   <td></td>
   <td></td>
 </tr>
@@ -392,7 +386,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 
 **Greathammers:**
 
-Greathammers are wweapons with a heavy metal head mounted at right angles at the end of a handle.
+Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle.
 
 <table>
 <tbody>

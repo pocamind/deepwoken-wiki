@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 5231
+revid: 5920
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ _"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands 
 
 File:Etris.png
 
-A large Island with the docks at sea level and the city ontop of the Mountains.
+A large Island with the docks at sea level and the city ontop of the Mountains. (winter)
 
 ## Contents
 
@@ -48,8 +48,17 @@ _Some locations may be unlisted, feel free to add them!_
   <td><figure><figcaption></figcaption></figure></td>
   <td>Weaponry</td>
   <td>A small shop where the player can purchaes<p>better weapons to upgrade their gear.</p></td>
-  <td><b>Heavy Weapons</b><p><b>Medium Weapons</b></p>
-  <p><b>Light Weapons</b></p></td>
+  <td>Iron Spear<p>Mace (10 Medium Wep.)</p>
+  <p>Stiletto (0 Light Wep.)</p>
+  <p>Messer (10 Medium Wep.)</p>
+  <p>Battle Axe</p>
+  <p>Steel Maul (10 Strength, 20 Heavy Wep.)</p>
+  <p>Ritual Spear (35 Medium Wep.)</p>
+  <p>Zweihander (10 Strength, 20 Heavy Wp.)</p>
+  <p>Parrying Dagger (10 Light Wep.)</p>
+  <p>Targe (10 Fortitude)</p>
+  <p>Bullets</p>
+  <p>Schematics (upstairs)</p></td>
 </tr>
 <tr>
   <td><figure>File:The Guildhouse.png<figcaption></figcaption></figure></td>
@@ -113,17 +122,43 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 
 ### Diver Escort Quest
 
+_"She's mentally unstable? ZAAMN!!!" - Unknown Felinor_
+
 Kalilah getting her ass kicked by a Mudskipper.
 
 To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
--   Save her from the Mudskipper that is attacking her. After doing so, you need 10 Charisma to succeed on all the Charisma Checks.
-    -   Sending her home is the good option.
-    -   Letting her go into the Mines lead to the bad option, resulting in killing her, no matter what you do.
+-   Save her from the Mudskipper that is attacking her. After doing so, you need 20 Charisma to succeed on all the Charisma Checks.
+
+#### Ending 1: Promise Broken
+
+_"Don't be scared. I promise I'll protect you no matter what."_
+
+-   If you pick the 1st option, Karlilah enters the caves, sealing her fate by being eaten alive by Isopods.
+-   There is no rewards from this ending, only bitter and cold.
 
 Kalilah, eaten alive by Isopods.
+
+  
+
+#### Ending 2: Eyes Wide Open
+
+_"You've been through alot- Maybe you should go home and study on your own for awhile and come back later."_
+
+-   Picking the 2nd option, Karlilah returns back home and studies. If the Player checks up on Karlilah's Home in Etris, she is covered in blood and mentally deranged- along with petting the head of an Old Etrean she once helped.
+-   She greets you with a friendly tone, and talks about her studies. Her eyes to the truth of the world was revealed due to the studies you ask her to.
+-   There is no way to save her, as the only option is to put her down; snapping her neck from behind.
+-   The reward from this ending is a fistful of EXP, and a shiver down your spine.
+
+#### Ending 3: Snap Back to Reality
+
+_"I don't think you're cut out for this. Mudskippers are small fry, and you'll face much worse as a Diver. You need to rethink your life goals."_
+
+-   Picking the 3rd option, Karlilah accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in Etris.
+-   Checking up on Karlilah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
+-   The reward from this ending is a fistful of EXP, and a moment of harmony and relief.
 
   
 
@@ -162,6 +197,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Etris is not a good Starting Island to spawn in as a Fresh Character; due to the lack of quests available to you. Isle of Vigils is recommended.
 -   Etrea is the island. Etris is the city.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
+-   In Ending 2 of Karlilah's Quest, she must've read something about [The Depths](The_Depths.md), and went too far deep into it.
 
 Successful Flamecharmer Check
 

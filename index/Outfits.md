@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5665
+revid: 5901
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ There are many kinds of Armor in Deepwoken, with types of Armor pieces (Chestpla
 
 Armors can be obtained in 2 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats randomized. (This including the Gold Ring given to you by Polis in Etris)
 
-There are also Cosmetics in Deepwoken. Things such as Masks or Capes benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 1000 [note](Notes.md) fee.
+There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes are accesories, only face accesories dont do anything. also, blindfold can be used to get blindseer.) benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 1000 [note](Notes.md) fee.
 
 ## Repairing your Outfit
 
@@ -532,6 +532,45 @@ x1000 Notes
 Talent: Crippling Darkness
 
  |
+| 
+
+File:BlackDiverPNG.png
+
+ | Black Diver | x1 Blessed Gem
+
+x5 Cloth
+
+x5 Fiber
+
+x1 Megalodaunt Hide
+
+x1 Odd Tentacle
+
+x1 Thresher Spine
+
+x5 Vibrant Gem
+
+1000 Notes
+
+ | Willpower 20
+
+Power 45
+
+ | +20% Lightning Armor
+
++30% Physical Armor
+
++2600 Durability
+
++20% Shadow Armor
+
++16 Sanity
+
++300% Ether Regen
+
++30% Elemental Armor
+
+ |
 
 ## Armor Pieces
 
@@ -580,7 +619,7 @@ slide without delay
 
 buff effect)
 
-\*Can be sold for 50[n](Notes.md)\*
+\*Can be sold for 25[n](Notes.md)\*
 
  |
 | 
@@ -732,6 +771,16 @@ File:Silverring.png
 File:Kongasclutchring.png
 
  | Konga's Clutch Ring | Removes slide delay |
+
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Forgot (depths drop)</td>
+  <td>Reduces M1 speed for increased posture dmg</td>
+</tr>
+</tbody>
+</table>
 
 ## Accessories
 

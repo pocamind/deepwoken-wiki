@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 5820
+revid: 5931
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -18,7 +18,7 @@ Attributes are your character's stats or capability that uses that attribute. Th
 
 You can hover over an Attribute to reveal its description.
 
-It is possible to go past the softcap (75) on a stat, but it is unknown. Please do update this page if you know how to go past the softcap.
+It is possible to go past the softcap (75) on a stat, all you have to do is get 1 galestone and 75 stat (light, medium, heavy) then talk to Vigil Isaac somewhere in Burning Stone Gardens then go to Vigils and talk to Apprentice Kj. After that go talk to Maestro Evengarde Rest inside the sparring room.
 
 File:Attributes Chart.png
 
@@ -33,6 +33,8 @@ Each Attribute has a hidden EXP Value. Performing certain actions (such as takin
   
 
 ## Physical/Mental Attributes
+
+These attributes can be improved up to 100 points.
 
 ### Strength
 
@@ -61,6 +63,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour (Such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
+-   **NOTE:** Your Agility is also affected by your health. Lower health = less agility = harder time to parkour/run away.
 
 ### Intelligence
 
@@ -68,6 +71,7 @@ _"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Charisma.
+-   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via Foraging, discovering Recipes for the first time, or discovering new locations for the first time.
 
 ### Willpower
@@ -76,20 +80,25 @@ _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom 
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
--   Gain Willpower EXP via Foraging and fighting Monsters with the Prayer Beads.
+-   Gain Willpower EXP via Foraging and fighting Monsters.
 
 ### Charisma
 
-_"Would you like to sign my Petition?" - Charismatic Felinor_
+_"SIGN MY PETITION DAMNIT!" - Charismatic Felinor_
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items.
+-   Increases Ether.
 
 ## Weapon Proficiency Attributes
 
+These attributes can be improved up to 75, but completion of the A Lost Sibling quest allow attributes that reached 75 to go up to 100.
+
 ### Heavy Weapons
+
+_"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron." - A Legend, describing his shadow greatsword._
 
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
@@ -115,9 +124,13 @@ _"Would you like to sign my Petition?" - Charismatic Felinor_
 
 ## Attunement Attributes
 
+These attributes can be improved up to 75, but completion of Lord Regent's quest allow attributes that reached 75 to go up to 100.
+
 ### Flamecharm
 
 _"The Power of the Sun... In the palm of my hand." - Unnamed Flamecharmer_
+
+_"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
@@ -147,3 +160,11 @@ _"Standing here, I realize, You are just like me, Trying to make History—" Unk
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
 -   Gain Galebreathe EXP by dealing damage to Enemies and Monsters using Galebreathe Mantras.
+
+### Shadowcast
+
+_"Ahh yes, Darkness... Where I belong... Your ether... is mine!—" Edgy Shadowcaster_
+
+-   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
+-   Unlocks Shadowcast related Talents.
+-   Gain Shadowcast EXP by dealing damage to Enemies and Monsters using Shadowcast Mantras.

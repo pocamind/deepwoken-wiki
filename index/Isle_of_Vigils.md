@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 5197
+revid: 5886
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,7 +32,7 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 #### Lance's Brother Quest
 
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
--   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you deliver it to Stratos.
+-   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
 -   Stratos is located near the water fountain in the Temple of the Blades.
 -   Gives 25 [Notes.](Notes.md)
 

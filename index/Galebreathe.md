@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 5276
+revid: 5869
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -127,7 +127,7 @@ User is invincibile during casting.
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Placeholder | Placeholder | Placeholder |
+ | Dash | An agile dash | Launch yourself forward for a short period of time |
 
 ### **Support Mantras**
 

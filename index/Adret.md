@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 5743
+revid: 5900
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -32,12 +32,12 @@ Dark blue skin = Yellow tattoo
 
 File:Adret.png
 
-Adrets are evil fish creature from the deep
+Adrets' are most likely from the depths.
 
 ## Racial Traits
 
 -   **Learning things is easier:** Probably an exp boost.
--   **Additional Dialogue Options unlocked:** Passive autodictat, stacks with boon autodictat for 2 stats per level instead of 1.
+-   **Additional Dialogue Options unlocked:** Passive autodidact. stacks with boon autodidact for 2 stats per level instead of 1.
 -   **Maudet:** _Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking. (Better starting reputation with village npcs)_ +1 Health
 
 ## Miscellaneous
@@ -58,6 +58,3 @@ None
 
 -   LIkely one of the best races due to its ridiculously fast progression when stacked with autodidact.
 -   Probably the best race for charisma builds
--   Adrets are most likely based on fishies
-
--   this race will Make you Feel like a Fish!!!

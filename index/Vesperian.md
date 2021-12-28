@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 5440
+revid: 5826
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -46,7 +46,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Notes/Trivia
 
--   I'm pretty sure this is a Hollow Knight reference.
+-   I'm pretty sure this is a reference to Neon Genesis Evangelion and Hollow Knight.
 -   Vesperians have rigan eyes and no mouth under their mask
 -   Vesperians get a special mask when Blindseer is aquired.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5765
+revid: 5934
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,29 +12,35 @@ _"I always wanted to see what the LGBTQ enchant did to people!"_
 
 ## Description
 
-Enchants are basically upgrades/power-ups for your weapon. There are 3 variants of Enchants. First, there is your normal Enchant. Secondly, there are curses, which are stronger than normal enchants but there are downsides to them. Thirdly, there are Blessings, which are curses but without any downsides.
+Enchants are basically upgrades/power-ups for your weapon/gear. There are 3 variants of Enchants. First, there is your normal Enchant. Secondly, there are curses, which are stronger than normal enchants but there are downsides to them. Thirdly, there are Blessings, which are curses but without any downsides.
+
+You can get any type of enchant from chest it can be any chest from any place.
+
+(im not sure about blessing type is also from chest and i never see gear whit curse and blessing to)
 
 ## Enchants
+
+### Curse of the Umbral Knight
 
 File:Curse of the umbral knight in Infernasu's video.jpg
 
 **Curse of the Umbral Knight in Infernasu's video**
 
-### Curse of the Umbral Knight
-
 -   Pros: When landing an M1 on a monster or person, it summons a shadow clone of yourself behind the enemy and does an exact replica of the M1.
 -   Cons: If you don't grip 1 person per day, you will get absorbed into the blade.
-
-File:Curse of the Bloodthirsty.jpg
-
-**Curse of the Bloodthirsty**
 
   
 
 ### Curse of the Bloodthirsty
 
+File:Curse of the Bloodthirsty.jpg
+
+**Curse of the Bloodthirsty**
+
 -   Pros: Deals more M1 dmg (exact amount unknown).
 -   Cons: When you miss a M1, you will take damage (dodging and parrying doesn't count).
+
+  
 
 ### Curse of the No-Life King
 
@@ -49,11 +55,7 @@ File:Hero Blessing.jpg
 ### Hero Blessing
 
 -   Pros: 3x M1 damage at full HP and has M1 hyper armor.
--   Cons: NONE.
-
-File:Detonation.jpg
-
-**Detonation**
+-   Cons: When your low hp you do less than normal damage.
 
 ### LGBTQ
 
@@ -63,6 +65,10 @@ File:Detonation.jpg
   
 
 ### Detonation
+
+File:Detonation.jpg
+
+**Detonation**
 
 -   Pros: Every time you hit an enemy, they explode. You can instantly kill people and mobs without gripping them due to the explosion. (This obviously only works if their hp are low). AOE damage.
 -   Cons: This might hit your allies and killing or knocking them instead.
@@ -75,23 +81,23 @@ File:Detonation.jpg
 -   Pros: Everytime you hit an enemy, you lit them on fire. Damage scales off Flamecharm.
 -   Cons: None.
 
+### Bungee Gum
+
 File:Gum.jpg
 
 **Bungee Gum**
 
-### Bungee Gum
-
 -   Pros: Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.
--   Cons: Unknown.
+-   Cons: Makes backing out of a fight more difficult.
+
+### Obfuscation
 
 File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg
 
 **Obfuscation (Notice the air particles)**
 
-### Obfuscation
-
 -   Pros: The weapon will be invisble, only to be cloaked by particles of white air. Weapon M1 speed is increased
--   Cons: It's useless on swords.
+-   Cons: It's useless on swords, and causes feints to be harder to perform.
 
   
 
@@ -100,11 +106,11 @@ File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg
 -   Pros: Drains a person's thirst every M1 Connection.
 -   Cons: Unknown.
 
+### Providence of Storms
+
 File:Providence.png
 
 **Providence of Storms on Executioner's Axe.**
-
-### Providence of Storms
 
 -   Pros: Increases M1 speed drastically. Any parry damage that the other person inflicts will be inflicted back to them. No movement speed penalty.
 -   Cons: NONE.
@@ -119,14 +125,40 @@ File:Providence.png
 -   Pros: Increased knockback and sprinting M1 speed.
 -   Cons: Unknown.
 
+### Grim
+
 File:Grim.png
 
 Grim on a Messer(?)
 
-### Grim
-
 -   Pros: Steals ether when an M1 connects.
 -   Cons: Unknown.
+
+  
+
+  
+
+File:Wild sword.png
+
+### Wild
+
+Pros: Unknown
+
+Cons: Unknown
+
+  
+
+File:Metal.png
+
+Metal
+
+### Pros: Can't be parried and penetrates block.
+
+**Cons: Unknown**
+
+  
+
+  
 
 ### Hero Sword (Might not be considered an enchant)
 
@@ -144,11 +176,12 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 
 -   Shadow: Uknown for now.
 
-  
+## Armour
 
-  
+### Adhesive
 
-  
+Pros: Unknown
+
 Any information given would be greatly appreciated.
 
 Credits to the people who made this page better:
@@ -166,3 +199,5 @@ Credits to the people who made this page better:
 -   Hguyperson
 -   xer101
 -   SkipperFalconeer
+-   MacShaino
+-   marquise

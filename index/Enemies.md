@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 5767
+revid: 5907
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ For information of Monsters, go [here](Monsters.md).
 ### Bandits
 
 -   Shadow Hunter Assassins
--   Bandit Captains:stronger then bandits, typically have a heavy weapons of some kind and usually have a mantra.
+-   Bandit Captains
 -   Common Bandits
 
 ### The Authority

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 5710
+revid: 5917
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,3 +46,11 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 ### Willpower Mantras
 
 **Gaze -** An ability where you stare at them and make them go insane
+
+### Light Weapon Mantras
+
+(insert light weapon mantras here)
+
+### Medium Weapon Mantras
+
+**forgor name ;skull;** - A spinning slice with your sword
