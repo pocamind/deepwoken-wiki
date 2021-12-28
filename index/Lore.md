@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 5469
+revid: 5646
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,8 +33,8 @@ The Lord Regent has been ruler of Etris for a good amount of time, enough to the
 _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're what— Let me guess, an Etrean Adventurer or something? ...That Island's prospects are certainly grim." - The Duke of Erisia, talking to the Player_
 
 -   The Duke, known for his creation of the Golems that roam Erisia Island and the [Piece of the Forge](Artifacts.md), is a Celtor Galebreathe User who fights the player during the "The Lord Regent" Quest.
--   The Duke, sealed himself deep within his Manor on his Research, locked behind a black iron gate, along with Rock Golems and Humanoid Constructs as his bodyguards.
--   The Duke is not the Lord of Erisia, as the Titles do not intertwine as the same ranking.
+-   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems and [Mindless Servants](Mindless_Servant.md).
+-   The Duke is presumably the Lord of Erisia, as Alastir (The NPC who gives you the Glider Schematic in Pathfinder's Respite) said that the Lord of Erisia used his Golems to capture people.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to The Lord Regent's Ruling.
 -   He wields a light green bell on his right belt, the same bells from [The Depths](The_Depths.md).

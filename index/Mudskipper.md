@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 4966
+revid: 5643
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,7 +19,7 @@ Attacks
 Template:Creature Info Box v2
 
 -   **Smack** - The Mudskipper punches his enemies, dealing minor damage.
--   **Galebreathe** (Upper Erisia & Other)- The Mudskipper charges up a Galebreathe spell, propelling anyone who is caught inside its line of effect.
+-   **Air Force** (Upper Erisia & Other)- The Mudskipper charges up the Galebreathe mantra Air Force, propelling anyone who is caught inside its line of effect.
 
 **Finisher**
 
@@ -35,3 +35,8 @@ Notes/Tips
 
 -   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage.
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.
+-   Very good for grinding when first starting, due to their low hp and low damage output.
+-   If you arent fighting many Mudskippers, use M1s to knock them.
+-   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck.
+    -   Be careful about this, as you can get infinite stun locked if there is a Horde.
+-   If there is a Horde and you can't fight them up close, use projectiles like Ice Shurikens, Fire Palm, Air Blast, or Guns.

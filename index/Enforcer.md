@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 5112
+revid: 5715
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,21 +10,24 @@ categories: [Pages with broken file links, Monsters]
 
 Template:Creature Info Box v2
 
-_"You see this guy your boned <3" - Some tester hopefully not._
+_"You see this guy your not boned cuz they dont one shot" - Some tester_
 
-## **Description** (unconfirmed)
+## **Description**
 
-The Enforcer is a special enemy in Deepwoken that only appears in The Depths serving as one of the main threats to your survival. ~This enemy is impervious to any forms of damage meaning it cannot be stopped from clapping you down the middle~ As of 12/26/21, a video by ReEvolu shows that the enforcer can be killed. It's supposed purpose is to thwart any players seeking passage from [The Depths](The_Depths.md) back to the OG realm. The Enforcer wields a large axe capable of dealing devastating blows and executing a KO'd player instantly.
+###### The Enforcer is a special enemy in Deepwoken that only appears in The Depths serving as one of the main threats to your survival. The Enforcer weilds a menacing axe that deals a 20-ish damage on most of its moves. It generally has predictable attacks and more of the easier type of trial mobs. It was thought to take no damage and instantly KO but it doesn't. Not even close. It may look threatening but it certainly isnt but dont think its as easy as a bandit.
 
--   **Slay n' Spay** - The Enforcer goes up to a downed player and swipes their axe downward centering the blow directly onto the victim's groin or anus killing them instantly. (semi-accurate)
--   **C h o p** - Or most likely referred to as "fuck you" due to your day getting fucked up by a single swipe. The Warden swings his axe at you and makes those memories you got from getting fucked by an Abyss Walker look like kid shit. (semi-accurate)
+  
+
+-   **Slay n' Spay** - The Enforcer slashes his blade dealing moderate damage and being able to parry
+
+-   **C h o p** - The Warden swings his axe at you and deals insane damage
 
 ## **Notes**
 
--   The jokes are implied at this point.
+-   It is widely considered easier than the corrupted sharko trial or 2 angels. Due to having no ranged attacks meh damage output and meh hp
 -   Due to the name "Enforcer" complied with his goal to seemingly stop you from leaving the depths, i can be theorized that leaving is something forbidden, which the player obviously ignores.
 -   Rumored to be the spawn of a Lad daddy long since gone. The Enforcer's however are only able to reach Thad level due to the lack of attention they got in their childhood. Page of Lad Daddy [here](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops)
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 
-Enforcer's Axe
+EnforceAr's Axe

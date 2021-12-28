@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5493
+revid: 5696
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,6 +51,7 @@ File:Hero Blessing.jpg
 
 -   Pros: 3x M1 damage at full HP and has M1 hyper armor.
 -   Cons: NONE.
+-   It is said by Infernasu that the ~Hero's Blessing~ LGTBQ Enchant is unobtainable.
 
 File:Detonation.jpg
 
@@ -128,11 +129,6 @@ File:Grim.png
 
 Grim on a Messer(?)
 
-### Multiplicity (Armor Enchant)
-
--   Pros: When hit, a clone of yourself will be summoned and the clone will chase/attack the enemy.
--   Cons: Unknown.
-
 ### Hero Sword (Might not be considered an enchant)
 
 Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords.
@@ -158,3 +154,6 @@ Credits to the people who made this page better:
 -   Phantomlayen
 -   BlackSquidInk
 -   PikaNubby
+-   Xero
+-   Sawtoly
+-   Cyro

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5450
+revid: 5716
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -77,11 +77,9 @@ Notes/Tips
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko) (Hugo) (Dog) (Carl)
+### Megalodaunt (Sharko/Hugo)
 
 _Main Source - [Megalodaunt](Megalodaunt.md)_
-
-File:Sharko.png
 
 Megalodaunt eating an NPC.
 
@@ -109,6 +107,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   It's always reccomended to perfect dodge the Football Kick.
 -   After parrying it's Palm Slap, block for a second to see if it slaps again and react to it's next move.
 -   Sharkos have about 215 points of HP.
+-   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Megalodaunt between each of you and when one of you fighting gets low you swap out and heal.
 
 ### **Rock Golem**
 
@@ -117,7 +116,7 @@ Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after 
 **Attacks**
 
 -   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
+-   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. You cannot hide behind objects the beam passes through them. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
 -   **Rock Uppercut** - Similar to Shark-O's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away. The best way to avoid this is to roll away from him.
 
 -   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
@@ -206,7 +205,7 @@ Drops strange claws.
 
 **Attacks**
 
--   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block. This move hits about 7 times.
+-   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block. This move hits 10 times.
 -   **Triple Claw -** The purple crab swings its claw downwards 3 times doing damage if landed.
 -   **Claw -** The purple crab swings its claw downwards once.
 
@@ -401,6 +400,30 @@ Turns you into a nasty mudskipper.
 -   STAY CALM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
+
+  
+**Sea Monkey**
+
+A giant blue monkey that can be summoned on Monkey Paw Island. Does massive damage and if you die to a sea monkey you will be sent to The Depths regardless of how many lives you have.
+
+File:Seamonkey.png
+
+Sea Monkey
+
+**Attacks**
+
+-   **Punch** - Very high damage punch that can execute
+-   **Swipe** - Makes a slicing motion with his hand, does medium damage
+-   **Kick** - Kicks the opponentm, does high damage
+
+**Finisher**
+
+-   **Stomp** - Basically just the Megalodaunt stomp
+
+**Notes/Tips**
+
+-   He is incredibly tanky, can take more than an hour to solo
+-   Reccomended to bring at least 6 other high levels with you when fighting it
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 5544
+revid: 5694
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -50,7 +50,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 ### Pre-requisites:
 
--   Willpower of (40+)
+-   Willpower of 40+
 -   Blindfold (Chest Item)
 -   Breathing Exercise (Talent)
 -   Conquer your Fears (Talent)

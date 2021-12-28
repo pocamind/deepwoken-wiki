@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5447
+revid: 5665
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -534,6 +534,9 @@ Talent: Crippling Darkness
  |
 
 ## Armor Pieces
+
+**note:** the stats on nearly all armor pieces are randomized. any numbered stat boosting effects you see in this section should probably be disregarded  
+armor pieces come in different "rarities' (ie ascended) meaning that item has more or higher valued stat bonuses. this can apply to items that dont normally roll with stats, such as an iron mask or headband. an items rarity **does not change the items look** (please, dont make seperate entries for different rarities of the same armor piece).
 
 ### Ears
 

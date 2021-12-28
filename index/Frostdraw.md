@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 5324
+revid: 5676
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -63,7 +63,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 </tr>
 <tr>
   <th><h3>Cryomancer</h3><p>Chilling Flourish-Generic Talent</p>
-  <p>When flourishing an enemy, they leave behind a trail of ice in the direction you send them.</p>
+  <p>When flourishing an enemy, send them off with a trail of ice.</p>
   <p>+4 Elemental Intensity</p>
   <p>+2 Health</p>
   <p><br>
@@ -88,14 +88,14 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <ul>
     <li><b>Ice Spikes</b> - Piercing spikes of ice.</li>
   </ul><p></p>
-  <p>Damages and launches opponents in the air by summoning a large spike of ice where cursor is. Ice is formed below the spike.</p>
+  <p>A huge ice spike juts out from the ground wherever your cursor is (there is a limited range). This does moderate damage and sends the target into the air. Leaves ice wherever the mantra has been casted.</p>
   <ul>
     <li><b>Ice Beam</b> - Fire a beam of ice.</li>
   </ul><p></p>
-  <p>Summons a beam of ice that deals damage. Beam is formed in direction of player</p>
+  <p>Fires a narrow beam of ice that punctures though the target hitting mutiple times (if not parried/blocked) Deals light damage and slows targets breifly.</p>
   <ul>
     <li><b>Frost Grab</b> - An icy chokehold.</li>
-  </ul><p>Rush forward with hand stretched out. If it lands, the enemy is held up for a short time as ice protrudes from their back.</p>
+  </ul><p>A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs)</p>
   <ul>
     <li></li>
   </ul></td>
@@ -105,32 +105,29 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <ul>
     <li><b>Ice Blade</b> - A barrage of freezing blades.</li>
   </ul><p></p>
-  <p>(placeholder description)</p>
+  <p>Medium weapon sized ice swords appear in both of your characters hands. The ice swords have narrow blades with 3 noticeable gaps on the blade with a short hilt. Your character then starts slashing in a fury, dealing light yet rapid damage.</p>
   <ul>
     <li><b>Ice Chain</b> - Freezing chains of ice</li>
   </ul><p>File:Icechain.gif</p>
-  <p>Launches a chain towards cursor. If hits opponent, creates a visible glowing chain link between them. Deals minor damage and (slows opponents?) (idk if ice chain is suppose to do anything else)</p>
+  <p>Launches a narrow chain that (if target is hit) pulls the target twords your character. Deals light damage. Best used to get free M1 hits in with your melee weapon or to stop a escaping player. Not recommended for gun users.</p>
   <ul>
     <li><b>Ice Forge</b> - (Add skill description here.)</li>
-  </ul><p>Summons several shurikens of ice on straight that leave ice on the surface it hits. (it was 8 but nerfed.)</p>
+  </ul><p>Your character creates several shurikens and rapidly pelts them at your cursor. Deals light damage and briefly slows targets.</p>
   <ul>
     <li><b>Ice Eruption</b> - A flurry of ice spikes.</li>
   </ul><p></p>
-  <p>Creates a long chain of ice spikes in the direction the camera is facing. It will spawn ice on the ground (it can be used to spawn ice in the ocean if the player is standing on a boat, however it will glitch the boat. It can also be used to glitch stuck players out of boats)</p>
+  <p>Your character firmly stomps the floor to create a long path of ice spikes. Deals moderate damage and slows targets for quite a while comapred to other ice mantras (about 2 seconds). The mantra also creates a very wide ice sheet beneath it.</p>
   <ul>
     <li><b>Ice Smash</b> - (Add skill description here.)</li>
   </ul><p></p>
-  <p>Summons an ice mace that is slammed down.</p>
-  <ul>
-    <li></li>
-  </ul></td>
+  <p>Your character creates a huge ice club with sharp spikes near the end of the club. Your character then proceeds to quickly bash the club into the floor, dealing heavy damage and flinging targets with low knockback. Breifly slows the target. This mantra can also destroy breakables.</p></td>
 </tr>
 <tr>
   <td><h3>2 Star</h3>
   <ul>
     <li><b>Ice Lance</b> - Form an icey spear and lunge forward</li>
   </ul><p>File:Icelance.gif</p>
-  <p>Summons a lance of ice on the player's right hand. The user then swiftly lunges forwards with the lance, dealing damage to whoever is hit. The lance is destroyed when it hits someone or does not hit anything within its range.</p>
+  <p>Creates a short and narrow ice spear jutting out from the players right arm. Your character then qucikly dashes forward with their spear arm outforward in the direction of the dash. Deals moderate damage and breifly slows target.</p>
   <ul>
     <li></li>
   </ul></td>
@@ -153,7 +150,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <ul>
     <li><b>Glacial Arc</b> - An arc of ice.</li>
   </ul><p></p>
-  <p>Creates an arc of ice in the direction that the camera is facing. The icicle will stop generating if colliding with a wall or solid object. (The icicle can be used as temporary shelter for campfires from snow/rain? and can probably be used as shelter from acid rain)<br>
+  <p>Fires a narrow ice *tendril* that arcs upward and impacts wherever the cursor is. (with spell creation mutiple tendrils can be fired at once at a certain interval. The arc lasts a (pretty long, uncomfirmed) amount of time and can be climbed on. Usually used to gain more height to climb a wall, but can be used in combat if timed correctly. Whever the tendrils impacts does, infact, deal damage. Deals heavy damage and slows target for about 2 seconds. Of course this is difficult to do, unless your fighting NPCS. (Don't try this with players).<br>
   </p></td>
 </tr>
 <tr>
@@ -163,7 +160,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <td><h3>3 Star</h3>
   <ul>
     <li><b>Ice Skates</b> - (Add skill description here.)</li>
-  </ul><p>Creates a path of ice beneath the user as they skate on it. Can only be started up when in or above water.</p></td>
+  </ul><p>(Can only be used in or ontop of water) Upon usuage your character creates a large ice platform below them and quickly slides foward on the surface of the water. Deals no damage and is purley mobility. (Unless freezing some water is a part of any of your attack methods).</p></td>
 </tr>
 </tbody>
 </table></td>

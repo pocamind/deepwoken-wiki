@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 5300
+revid: 5629
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -86,7 +86,9 @@ File:Flame Blind.png
 -   **Casting in water**: Dive into the water then floats back up again, creating a flaming area when you reach land.
 
  |
-|  |  |  |  |
+| 
+
+ | Flame Assault | Unknown | Caster dashes forward, dealing minor damage and lighting anything in the way on fire. |
 |  |  |  |  |
 
   
@@ -103,31 +105,16 @@ File:Flame Blind.png
 | 
 
  | Flame of Denial | Undying flame. | Prevents caster from being knocked once for one minute. |
-| 
 
- | Flame Within | Set yourself ablaze. | Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling. |
-
-## **Wildcard Mantras**
-
-| Image/GIF | Spell | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | Flame Assault | Unknown | Caster dashes forward, dealing minor damage and lighting anything in the way on fire.
-
-  
-Can be blocked and parried, but cannot stop the dash once it happens.
-
-  
-Considered a wildcard possibly due to how it can be anything however is unable to perfectly fit one role, such as flame leap being good for mobility, and servants being good for offensive capabilities.
-
- |
-
-## **Other Mantras**
+## **Talents**
 
 | Image/GIF | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
+| 
+
+ | Flame Within | Set yourself ablaze. | Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling. |
 
   
 

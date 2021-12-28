@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 5031
+revid: 5638
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,7 +38,7 @@ Gathered Wheat - **W H E A T**
 
 Bamboo bundle - Bamboo sticks, growing mostly on beaches and shores.
 
-Calabash - Similar to pear, but greenier.
+[Calabash](Calabash.md) - Similar to pear, but greenier.
 
 Redd - Thats an apple
 

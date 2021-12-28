@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 5255
+revid: 5680
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -99,7 +99,12 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Stance Change</th>
-  <td>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed. You will not be able to dual wield <i>everything</i>, for example you can't dual wield 2 giant hammers.</td>
+  <td><s>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed. You will not be able to dual wield <i>everything</i>, for example you can't dual wield 2 giant hammers.</s><p><br>
+  Stance affects blocks and parries.</p>
+  <p><br>
+  <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance makes it so that blocking hits increase your posture bar less. The downside is that parrying barely restores any posture at all.</b></p>
+  <p><br>
+  <i><b>Stance 2:</b></i> This is your seccondary stance. Any blocking equipment will be put away, such as shields. if you do not have any then you will do another idle animation. <b>This stance makes it so that parrying gives a lot more posture than stance 1. The downside is that blocking increases your bar far more than stance 1.</b></p></td>
   <td></td>
 </tr>
 </tbody>

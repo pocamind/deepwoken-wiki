@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 5541
+revid: 5636
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -41,7 +41,7 @@ _"My right arm is a lot stronger than my left arm!" - Beefed Up Canor_
 -   Overall Physical Strength, Increases Carry Load by 1 per Strength.
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras, depending on the Character's Strength.
--   Gain Strength EXP via dealing damage, parrying, or blocking.
+-   Gain Strength EXP via dealing cutting down trees, damage, parrying, or blocking.
 
 ### Fortitude
 

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5404
+revid: 5639
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,7 +46,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **[Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
--   **Candied Fruit?** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
+-   **[Candied Fruit](Candied_Fruit.md)** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **[Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
@@ -239,7 +239,7 @@ _**Negative**_
 -   Someone please find out the damage numbers and contribute.
 
  |
-| **Steadfast Elixer** | 
+| **Steadfast Elixir** | 
 
 -   2 Calabash  
     
@@ -247,6 +247,16 @@ _**Negative**_
  | Effects Unknown | 
 
 -   Perhaps the Steadfast Elixer increases Posture? Effects unknown.
+
+ |
+| Dulling Bane | 
+
+-   Gathered Wheat
+-   Stick
+
+ | Effects Unknown | 
+
+-   ???
 
  |
 

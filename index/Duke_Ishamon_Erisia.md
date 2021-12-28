@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 5555
+revid: 5625
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,10 +34,10 @@ Duke Boss Room
 
 ### Phases
 
--   **Phase 1 - Normal:** Fights normally.
--   **Phase 2 -** **Wind Shield:** The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras. The only forms of combat against this phase is parrying his attacks.
--   **Phase 3 -** **Release Mindless Servants:** The Servants inside their tubes breaks out, and assists The Duke.
--   **Phase 4 - Normal:** Fights normally.
+Phases begin in sequence, depending on the Bosses' Max HP.
+
+-   **Phase 1 -** **Wind Shield:** Upon initiating the fight, The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras.
+-   **Phase 2 -** **Release Mindless Servants (50%):** The Servants inside their tubes breaks out, and assists The Duke.
 
 ### Finisher
 
@@ -52,12 +52,11 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   Rare Weapons (Possible Shattered Katana, needs further Research)
 -   Luck (Unknown value)
 
-## The Fight
-
-The fight will start out with The Duke in a wind shield, making him automatically parry every attack you hit him with. Hitting it enough will cause it to break. Be careful with your posture as it will get very high. During this phase, his attacks consist of Galebreathe mantras and punches. After this phase, he will start fisting you (fighting with fists ;). He will continue to use certain Galebreathe mantras. He is very good at parrying. He will then start to summon Servents from inside of the tubes to support him (3 Servents at a time, and they spawn right next to you, so be careful). The Servents fight similarly to regular zombies, but have considerably higher stats. They also immediately die when their health reaches 0, so there is no need to try and grip them. He will continue to attack while the Servents are spawned. The Servents are not always being spawned, most of the time, there are no Servents spawned. The rest of the fight follows this.
-
 ## Notes/Trivia
 
--   It is unknown how to deal damage in The Duke's first phase.
--   There is a bug that you would be rewarded the chest even though the Duke is still alive.
+-   To destroy The Duke's Wind Shield in Phase 1, land attacks until it breaks. It will take awhile, but its progress.
+-   ~There is a bug that you would be rewarded the chest even though the Duke is still alive.~ As of 12/27/2021, The Duke no longer stays "Immortal".
 -   It is recommended if your in a group, to make campfire pits around the Boss Room, and have either Flints or Mantras that light campfires.
+-   A weapon that instantly grips downed enemies is recommended, as Phase 2 will be tedious.
+
+Ongoing fight within the Boss Room

@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 4822
+revid: 5566
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ This is a village that is hidden behind the wooden door in the dessert,
 
 Once in, you can go to this town. In the town there are two npcs. Thier name is \_\_\_\_(gonna be updated again, don't remove).
 
-There is also a mysterious green fountain that no one knows what it does.
+There is also a green fountain that teleports you to [Greathive Aratel](Greathive_Aratel.md) if you have already opened the [Lordsgrove](The_Lordsgrove.md) Gate.
 
 this is a picture of my friends next the green fountain.
 
