@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 5693
+revid: 5778
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -37,10 +37,6 @@ when editing items in the wiki, be sure to be safe in deepwoken, I got killed wh
 | Image/Gif | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | latest?cb=20211227210247 | Lightning Blade (0 Star) | Arcing blades of electricity. | A dash foward that unsheathes your weapon and cuts twice with a lightning infused blade. |
-| latest?cb=20211227210321 | Stormcaller Slash (0 Star)
-(Move starts when lightning is called down)
-
- | Call forth the fury of the storms by pressing F at the end of your move. | After using a melee spell, if you press F an additional set of lightning will come down. |
 | latest?cb=20211227205713 | Lightning Impact | Slam those under you with a lightning empowered kick. | You fly up in the air and slam down, infused with electricity. |
 |  | Lightning Beam | (fill card description here) | Calls a beam of lightning from the ground after around a second of casting. (at this point, save and go for Grand Javelin instead) |
 |  | Lightning Clones | (fill card description here) | A spell that summons two clones of the player and attack whoever has either: Aggro on the player, or whoever the player attacked within the last few seconds of casting. |
@@ -85,7 +81,7 @@ It is unknown if 3 star combat mantras exist or not
 </table>
 
   
-**UNKNOWN (Either unknown or abilities from thundercall that don't take up mantra slots)**
+**TALENTS**
 
 <table>
 <tbody>
@@ -95,6 +91,7 @@ It is unknown if 3 star combat mantras exist or not
   <td>Flints and Flamecharm are for simpletons.</td>
   <td>Flint but it has infinite uses. (this is just a common talent card that can be obtained randomly)<br>
   </td>
+  <td></td>
 </tr>
 <tr>
   <td></td>
@@ -102,6 +99,14 @@ It is unknown if 3 star combat mantras exist or not
   <td>(fill card description here)</td>
   <td>Used to stop someone from carrying you, but has two other power cards that modifiy it's uses, choose carefully:<p>- First upgrade increases your mobility, increasing your speed and ability to climb (may disable the stop carrying mechanic, have to test this further)</p>
   <p>- Second upgrade nulifies all effects mentioned above, but does less self damage and gives a buff to your physical attacks</p></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td>latest?cb=20211227210321</td>
+  <td>Stormcaller Slash<p>(Move starts when lightning is called down)</p></td>
+  <td>Call forth the fury of the storms by pressing F at the end of your move.</td>
+  <td>After using a melee spell, if you press F an additional set of lightning will come down.</td>
 </tr>
 </tbody>
 </table>

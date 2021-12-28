@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 5550
+revid: 5817
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -16,146 +16,478 @@ categories: [Character]
 </tbody>
 </table>
 
-This page will list the different weapons that you will use in Deepwoken.
+_Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
-There are three different main types of weaponry:
+Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit stuff with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest.
 
--   Light weapons, like daggers, guns, and fists
--   Medium weapons, like swords, spears, and maces
--   Heavy weapons, like axes, hammers, and greatswords
+When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, like extra Penetration, or Weight. It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are extremely rare though.
 
-These are only upgraded in terms of damage by upgrading their stat. You can do this buy using the weapon until you get enough exp (youll get a unique message when you have enough, if you havent noticed it for a while just try to level it up), then use a Weapon Manual, which will level up your weapon type depending on what weapon you're holding at the moment.
+## Stances
 
-Weapons can be [Enchanted](Enchantments.md), and give different type of effects to the weapon.
+Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance however you can one-hand a heavy weapon if you have 50 heavy weapon and get one-hand training talent.
 
-For more information on spells, see this page: Spells
+### One-handed
 
-Medium weapons (as well as Heavy weapons with the use of a talent) can switch between 1 handed and 2 handed, while light weapons can only be used 1 handed.
+Hold your weapon with your dominant hand, which allows the use of an off-hand accessory, such as shields.
 
--   **1 handed** allow the usage of a side weapon, such as a shield, parrying dagger or gun.
--   **2 handed** does not allow side weapon usage but increases damage dealt.
+### Two-handed
 
-## Further Information
+Hold your weapon with both hands, which increases damage.
 
-Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter uses a different build. Which will prevail?
+## Types of Weapons
 
--   Light Weapons are fast and agile, with high attack speed, but they lack damage and range. Guns on the other hand are a different case, though they need ammunition or ether to operate.
--   Medium Weapons are a balance between speed and damage. Swords is the "jack of all trades" of Medium Weapons. Spears have a range advantage and Clubs are for a more offensive strategy.
--   Heavy Weapons are slow and may have endlag, but pack quite a punch. Ranging from Greatsword to Hammers.
+**Light Weapons:**
 
-### Heavy Attacks
+Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they lack damage and range.
 
--   Daggers delivers a series of slashes forwards.
--   Spears back up and then do a low blow. If hit, they lunge back then forwards.
--   Swords winds up a powerful thrust.
--   Clubs performs a standing vertical blow that stuns.
--   Greataxes performs a slow, vertical cleave.
+**Daggers:**
 
-## Damage Types & Resistances
+Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. Despite this, they have very low damage and range.
 
--   In Deepwoken, there are different kinds of Damage Types.
--   Damage Types should be kept in mind due to armor pieces and outfits having resistances to certain damage types; Such as the +10% blunt armor that the Vigil Initiate outfit gives.
--   Resistances are:
-    -   **Physical**, which is subdivided into **Blunt** and **Slash**
-    -   **Elemental**, which is subdivided into **Shadow, Fire, Wind, Thunder, Ice** and **Light**
--   If an armor says Physical or Elemental, it reduce all damage type from that category.
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Stiletto</td>
+  <td>0 Light Weapon</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Gilded Dagger</td>
+  <td>25 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Silver Dagger</td>
+  <td>35 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Whaling Knife</td>
+  <td>40 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Champion's Dagger</td>
+  <td>50 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Tanto</td>
+  <td>50 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-## Light Weapons
+**Fists:**
 
-### Daggers
+Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes.
 
--   Stiletto (Starter)
--   Gilded Dagger (LHT 25)
--   Silver Dagger (LHT 35)
--   Whaling Knife (LHT 40)
--   Tanto (LHT 50)
--   Champions Dagger (LHT 50)
--   Krulian Knife (LHT 60)
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Cestus</td>
+  <td>30 Light Weapon</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Legion Cestus</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Iron Cestus</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-### Guns
+**Guns:**
 
--   Flintlock (LHT 25)
--   Revolver (LHT 65)
--   Dragoon (LHT 65)
+Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead. To use your off-hand gun, you must press M2.
 
-### Fists
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Flintlock</td>
+  <td>25 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Revolver</td>
+  <td>65 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Dragoon</td>
+  <td>65 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
--   Caestus (LHT 30)
--   Iron Caestus
--   Legion Caestus
+**Medium Weapons:**
 
-## Medium Weapons
+Medium Weapons are both one-handed and two-handed weapons. They are a balance between speed and damage.
 
-### Spears
+**Swords:**
 
--   Iron Spear (No Stat Requirement)
--   Gremorian Spear (MED 20)
--   Ritual Spear (MED 35)
--   Trident (MED 60)
--   Rifle Spear (MED 80)
+Swords are weapons with a long metal blade and a hilt with a handguard used for striking opponents or creatures.
 
-### Swords
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Sword</td>
+  <td>0 Medium Weapon</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Messer</td>
+  <td>10 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Falchion</td>
+  <td>20 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Worshipper Longsword</td>
+  <td>20 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Scimitar</td>
+  <td>20 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Katana</td>
+  <td>25 Medium Weapon</td>
+  <td>18</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Vigil Longsword</td>
+  <td>40 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Shotel</td>
+  <td>45 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Serpent Blade</td>
+  <td>45 Medium Weapon</td>
+  <td>22</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Razor Cutlass</td>
+  <td>60 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Shattered Katana</td>
+  <td>100 Medium Weapon</td>
+  <td>20</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
--   Sword (Starter)
--   Messer (MED 10)
--   Falchion (MED 20)
--   Worshipper Longsword (MED 20)
--   Scimitar (MED 20)
--   Katana (MED 25)
--   Vigil Longsword (MED 40)
--   Shotel (MED 45)
--   (Rare) Serpent Blade (MED 45)
--   Razor Cutlass (MED 60)
--   (Rare) Shattered Katana (MED 100)
+**Spears:**
 
-### Clubs
+Spears are weapons with a long metal pole, with a blade at one end, used for attacking enemies at a safe distance.
 
--   Mace (MED 10)
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Iron Spear</td>
+  <td>0 Medium Weapon</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Gremorian Longspear</td>
+  <td>20 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Ritual Spear</td>
+  <td>35 Medium Weapon</td>
+  <td>19</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Trident</td>
+  <td>60 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Rifle Spear</td>
+  <td>80 Medium Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-## Heavy Weapons
+**Clubs:**
 
-### Greataxes
+Clubs are among the simplest of all weapons: short staves or sticks, wielded as a weapon to inflict blunt trauma.
 
--   Greataxe (Starter)
--   Canorian Axe (HVY 45)
--   Halberd (HVY 45)
--   Enforcer Axe
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Mace</td>
+  <td>10 Medium Weapon</td>
+  <td>20</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-### Greatswords
+**Heavy Weapons:**
 
--   Zweihänder (HVY 20, STR 10)
--   Crescent Cleaver (HVY 40, STR 10)
--   Shadow Greatsword
--   Darksteel Greatsword (HVY 40, STR 10)
+Heavy Weapons are two-handed weapons. They are slow, but have superior range and pack quite a punch.
 
-### Greathammers
+**Greataxes:**
 
--   Warhammer
+Greataxes are weapons with a long pole, with sharp edges protruding out at the end.
 
--   Steel maul (HVY 20, STR 10)
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Greataxe</td>
+  <td>0 Heavy Weapon</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Canorian Axe</td>
+  <td>45 Heavy Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Halberd</td>
+  <td>45 Heavy Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Enforcer's Axe</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-  
+**Greatswords:**
 
-## Side Weapons
+Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage.
 
-### Defense (Decrease Posture Damage)
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Zweihänder</td>
+  <td>20 Heavy Weapon 10 Strength</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Crescent Cleaver</td>
+  <td>40 Heavy Weapon 10 Strength</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Shadow Greatsword</td>
+  <td>45 Heavy Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Darksteel Greatsword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
--   Targe (FTD 10)
--   Kite Shield (FTD 30)
--   Worshipper's Shield (FTD 45)
--   Khan Shield (FTD 60)
--   Parrying Dagger (LHT 10)
+**Greathammers:**
 
-### Guns (Fired by Right-Clicking)
+Greathammers are wweapons with a heavy metal head mounted at right angles at the end of a handle.
 
--   Flintlock (LHT 25)
--   Revolver (LHT 65)
--   Dragoon (LHT 65)
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Warhammer</td>
+  <td>20 Heavy Weapon</td>
+  <td>10</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Steel Maul</td>
+  <td>45 Heavy Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Forge Greathammer</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Pale Morning</td>
+  <td></td>
+  <td>27.5</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
-## Notes/Trivia
+**Off-hand:**
 
--   All weapon types have different kinds of heavy attacks. Such examples are daggers performing a flurry of hits while moving forwards, Spears performing a short-ranged sweep and a lunge, and greataxes cleaving down your enemies.
--   All Firearms can fire bullets. If the user has no bullets, then they use Ether instead. Players who wish to dual wield guns should therefore invest in intelligence. Bullets can be bought for 5 Notes or crafted from Iron. (1 Iron > 5 Bullets).
--   Shields reduce posture damage.
--   Certain talents and equipment can grant PENetration, which bypass a % of the defence value of armors, resulting in more damage.
-    -   I.E: 50% PENetration against an armor with 20% resistance means that the attack will bypass 50% of the resistances, resulting in the armor protecting for only 10%.
+Accessories you can use in your off-hand.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Rarity</b></td>
+</tr>
+<tr>
+  <td>Targe</td>
+  <td>10 Fortitude</td>
+  <td>N/A</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Kite Shield</td>
+  <td>30 Fortitude</td>
+  <td>N/A</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Worshipper's Shield</td>
+  <td>45 Fortitude</td>
+  <td>N/A</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Khan Shield</td>
+  <td>60 Fortitude</td>
+  <td>N/A</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Parrying Dagger</td>
+  <td>10 Light Weapon</td>
+  <td>N/A</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Flintlock</td>
+  <td>25 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Revolver</td>
+  <td>65 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Dragoon</td>
+  <td>65 Light Weapon</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>

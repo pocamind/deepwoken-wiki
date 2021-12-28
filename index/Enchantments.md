@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5696
+revid: 5765
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -36,8 +36,7 @@ File:Curse of the Bloodthirsty.jpg
 -   Pros: Deals more M1 dmg (exact amount unknown).
 -   Cons: When you miss a M1, you will take damage (dodging and parrying doesn't count).
 
-  
-**Curse of the No-Life King**
+### Curse of the No-Life King
 
 -   Pros: Unknown. (Perhaps damage increase?)
 -   Cons: You are put to one life. (Thought to be.)  
@@ -45,21 +44,21 @@ File:Curse of the Bloodthirsty.jpg
 
 File:Hero Blessing.jpg
 
-**Hero Blessing (The Hammer)**
+**Hero Blessing (The Katana)** **LGBTQ (The Hammer)**
 
 ### Hero Blessing
 
 -   Pros: 3x M1 damage at full HP and has M1 hyper armor.
 -   Cons: NONE.
--   It is said by Infernasu that the ~Hero's Blessing~ LGTBQ Enchant is unobtainable.
 
 File:Detonation.jpg
 
 **Detonation**
 
-  
+### LGBTQ
 
-  
+-   Pros: Same thing as Hero Blessing, but more op. Guardbreak hit but you can parry it. (?)
+-   Cons: You can't obtain it...?
 
   
 
@@ -71,10 +70,10 @@ File:Detonation.jpg
 
   
 
-### Combustion (Need more info)
+### Combustion
 
--   Pros: Every time a M1 connects, your enemy explodes.
--   Cons: Unknown.
+-   Pros: Everytime you hit an enemy, you lit them on fire. Damage scales off Flamecharm.
+-   Cons: None.
 
 File:Gum.jpg
 
@@ -120,26 +119,32 @@ File:Providence.png
 -   Pros: Increased knockback and sprinting M1 speed.
 -   Cons: Unknown.
 
+File:Grim.png
+
+Grim on a Messer(?)
+
 ### Grim
 
 -   Pros: Steals ether when an M1 connects.
 -   Cons: Unknown.
 
-File:Grim.png
-
-Grim on a Messer(?)
-
 ### Hero Sword (Might not be considered an enchant)
 
 Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords.
 
--   Versions: Wind, Fire, Lightning.
+-   Versions: Wind, Fire, Lightning, Ice, Shadow
 
 -   Lightning: Stuns enemy for longer.
 
--   Ice: Unknown for now
+-   Ice: Unknown for now.
 
 -   Fire: Sets your enemy on fire.
+
+-   Wind: Unknown for now.
+
+-   Shadow: Uknown for now.
+
+  
 
   
 
@@ -157,3 +162,7 @@ Credits to the people who made this page better:
 -   Xero
 -   Sawtoly
 -   Cyro
+-   Kendu378
+-   Hguyperson
+-   xer101
+-   SkipperFalconeer

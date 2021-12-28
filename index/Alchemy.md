@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 5284
+revid: 5818
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,8 +11,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **brewing is fun**
 
-1 browncap, ~1 gobletto~, 2 dentifillo - soothing potion (temp blindness for like 3 seconds) \*Made with two dentifillo and one browncap\* (tested this out and it was wrong)
-
 1 Bluecap, 1 Calabash, 1 Spider Egg - Heartening Elixir (?? Effect - probably healing or blood regeneration though)
 
 2 Browncaps, 1 Gathered wheat - Focus-Enhancing Salve
@@ -21,33 +19,23 @@ uhhh thats it lol!!!!!
 
 **Hi, Felinor here, I found out some recipes! (miodrag333) (Anja <3#3252)**
 
-3x browncap = disgusting bane (deals damage)
+3x browncap = disgusting bane (Doesnt seem to do much, all we know it does a little bit of damage)
 
-1x gobletto 1x any ingredient= invigorating elixir (regeneration of health or Large loss of food and water if you drink two)
+3x Gobletto = Invigorating Elixer (Health regen, drinking too many can make you throw up, doesnt work when splashing)
 
 3x redd = icky bane (insta heal, drains ether)
 
 3x dentifilo = soothing tincture (Gives Resivore but can also make you throw up when drinken, suggested to splash)
 
-2x gathered wheat 1x Dentifilo = dulling blight (Increases Ether regen)
-
-1x stick 2x browncap = disgusting Blight (does damage)
-
-2x browncap 1x dentifilo = soothing salve (Idk what this does)
-
-3x browncap 2x gathered wheat = focus-enhancing Elixir (idk what it does)
+3x Gathered Wheet = Dulling Potions (Ether Regen)
 
 3X Calabash = Steadfast potion (drains whole ether bar)
 
-3X Plum fruit = strenghtening salve  (gives strenght)
+3X Plum fruit = strenghtening salve (gives strenght)
 
 3X Bamboo bundle = Appalling potion (drains reservoir)
 
 3x Pomar = hastening elixir (Deals damage and gives speed boost)
-
-3x pomar 2x bamboo bundle = appalling blight (Drains ether)
-
-2X Browncap 1x bamboo bundle = appalling Bane (deals damage and drains reservoir)
 
 **These are all potions I found out, good luck alchemist!**
 
@@ -58,10 +46,6 @@ uhhh thats it lol!!!!!
   
 different person here (Chronos#6591)
 
-1 stick + 1 gobletto seems to give you invigorating elixir which gives hp regen w/o a campfire
-
-[https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif](https://gyazo.com/49c312e7eaf0b412ee3e4f9b0080b171.gif) proof of it actually healing
-
 AS A Certain Young man said below, spider eggs do indeed buff potions (buff the duration)
 
 So a little sexy potion for all of you is 3 goblettos + 2 spider eggs which heals 157.5 hp at 75 intelligence (softcap)
@@ -70,11 +54,7 @@ Sup chronos back as my young man said below 3 Goblettos do indeed make a health 
 
 3 Calabash + 2 Bamboo = Ether + Reservoir drain. (when thrown/drunk lol)
 
-3 Wheat + 2 Dentifilo = Ether Regen (When drunk)
-
 [https://gyazo.com/a636747af3fbf44a5cb5aa3f63af844e](https://gyazo.com/a636747af3fbf44a5cb5aa3f63af844e)
-
-2 Gobletto + 1 Plumfruit = Sussy Amogus Potion
 
 Alchemy Chart by bobbio76#2916
 
@@ -134,9 +114,13 @@ Deltifinos
 
 **Note:**
 
-Once again I am _not_ sure what this does, drinking and throwing it just did like 1% of damage to me and other people.
+Gives Resivore Back, not regen but a determaned amount
 
-1 Deltifino, Diluted Tincture, damages almost nothing
+1 Deltifino, gives 2% back
+
+2 Deltifino, gives 5%
+
+3 Deltifino, gives 7%
 
 for the rest I don't have enough ingridients atm to figure out any other stuff so... Looking forward to another alchemist who devotes themselves to this trashy mantra to finish my work or correct me or something.
 
@@ -185,7 +169,7 @@ Three results in a soothing elixer
 
 **Focus-enhancing potions**
 
-This one actually requires two ingredients, two browncap and two wheats, which make a focus-enhancing elixer, when drunken, will jack up your ether restoration so much, really useful for spamming spells and such. Again, effect is weakened when thrown.
+This one actually requires two ingredients, two browncap and two wheats, which make a focus-enhancing elixer, when drunken, ~will jack up your ether restoration so much, really useful for spamming spells and such.~ Again, effect is weakened when thrown. (The ether Regen is jsut from the wheat, we dont actually know what it does)
 
 **Appalling potions**
 

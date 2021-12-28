@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 5636
+revid: 5820
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -60,7 +60,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 -   Agility Weapons, such as daggers, requires a Agility requirement to wield.
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
--   Gain Agility EXP via Parkour (Such as running, jumping and wall climbing) and Sneak Attacks.
+-   Gain Agility EXP via Parkour (Such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
 
 ### Intelligence
 
@@ -76,7 +76,7 @@ _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom 
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
--   Gain Willpower EXP via Foraging and fighting Monsters.
+-   Gain Willpower EXP via Foraging and fighting Monsters with the Prayer Beads.
 
 ### Charisma
 

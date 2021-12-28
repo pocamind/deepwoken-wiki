@@ -1,13 +1,13 @@
 ---
 title: Crafting Recipes
-revid: 5639
+revid: 5822
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Crafting Recipes
 
-_A"Man, this Brown Mushroom bussin'!" (Pukes everywhere) - Random Adret_
+_"Man, this Brown Mushroom bussin'!" \*Pukes everywhere\* - Random Adret_
 
 ## Description
 
@@ -64,7 +64,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
 -   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
--   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat_
+-   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_
 
@@ -100,7 +100,7 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 
 #### _**Positive**_
 
--   Grants Healing
+-   Grants Health Regen
 
  | 
 
@@ -115,7 +115,7 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 
  | 
 
--   Rapidly increases draw from Ether reservoir.
+-   Rapidly increases draw from Ether reservoir. (greater regen the just Wheat)
 
  | 
 
@@ -158,20 +158,17 @@ _**Negative**_
  |
 | **Soothing Potion** | 
 
--   1x Browncap
--   1x Gobletto
 -   2x Dentifillo
 
  | 
 
-#### _**Negative**_
+#### _**Positive**_
 
--   Temporary Blindness
+-   Resivore Gain (gives back missing Resivore)
 
  | 
 
--   Why the hell is it called a Soothing Potion if its effects are negative???
--   Please find out if there are additional effects.
+-   Good if fighting and you dont have the time to build a campfire to gain Resivore back.
 
  |
 | **Disgusting Bane** | 
@@ -187,23 +184,22 @@ _**Negative**_
 -   Best used when thrown.
 -   Reccomended for PVP and PVE.
 -   Someone please find out the damage numbers and contribute.
+-   The damage numbers are too low for me to assume its a damaging potion. when Thrown it doesnt even hit 5%  
+    
 
  |
 | **Soothing Tincture** | 
 
 -   3x Dentifillo
 
- | _**Negative**_
+ | _**Positive**_
 
--   Causes you to stop moving and holds you in place.
--   Makes you throw up and decreases your _**Thirst**_ and _**Hunger**_ bars.  
-    (TESTED IT AND DIDNT WORK.)
+-   Worse verison of Soothing Potion, Just less Resivore gain.
 
  | 
 
--   Best used when thrown.
--   Reccomended for PVP and PVE.
--   Someone please find out the bar percentages and contribute.
+-   Best used when thrown. but better effects when drank
+-   Recomended in PVP when out of resivore
 
  |
 | **Dulling Blight** | 
@@ -211,16 +207,13 @@ _**Negative**_
 -   2x Gathered Wheat
 -   1x Dentifillo
 
- | _**Negative**_
+ | \-
 
--   Causes you to stop moving and holds you in place.
--   Makes you throw up and decreases your _**Thirst**_ and _**Hunger**_ bars.
+-   Unknown Effects
 
  | 
 
--   Best used when thrown.
--   Reccomended for PVP and PVE.
--   Someone please find out the bar percentages and contribute.
+-   Maybe just be two types of potions mixed in one, if possible please Test
 
  |
 | **Disgusting Blight** | 
@@ -228,25 +221,29 @@ _**Negative**_
 -   1x Stick
 -   2x Browncap
 
- | _**Negative**_
+ | \-
 
--   Deals damage.
+-   Unknown
 
  | 
 
--   Best used when thrown.
--   Reccomended for PVP and PVE.
--   Someone please find out the damage numbers and contribute.
+-   Maybe just be two types of potions mixed in one, if possible please Test
 
  |
 | **Steadfast Elixir** | 
 
--   2 Calabash  
+-   1-3 Calabash  
     
 
- | Effects Unknown | 
+ | _**Negitive**_
 
--   Perhaps the Steadfast Elixer increases Posture? Effects unknown.
+-   Ether Drain
+
+ | 
+
+-   Best used in PvP since it can drain the whole bar if 3 are used.
+-   Works both thrown and drinken
+-   Good potion to keep handy
 
  |
 | Dulling Bane | 
@@ -256,7 +253,7 @@ _**Negative**_
 
  | Effects Unknown | 
 
--   ???
+-   Maybe just be two types of potions mixed in one, if possible please Test
 
  |
 
@@ -265,3 +262,4 @@ _**Negative**_
 -   Sadly, you cannot use the Graceful Flame Mantra (Flamecharm exclusive) to cook Food.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
+-   If you drink a potion while its on cooldown, you'll puke

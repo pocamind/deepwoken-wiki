@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 4995
+revid: 5824
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,6 +33,7 @@ Rewards
     -   Armor Blueprints
     -   Weapons
     -   Equipments
+-   1 free point to spend on your [Attributes](Attributes.md) (uses an investement point)
 
 Locations & Hints
 

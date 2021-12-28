@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 5694
+revid: 5751
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -52,11 +52,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 -   Willpower of 40+
 -   Blindfold (Chest Item)
--   Breathing Exercise (Talent)
--   Conquer your Fears (Talent)
--   Disbelief (Talent)
--   Encouraging Presence (Talent)
--   Unyielding Focus (Talent)
+-   All of the "Mental Fortress" talents. (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, and Unyielding Focus.)
 
 ### How to obtain:
 

@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 5180
+revid: 5724
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -51,15 +51,17 @@ Chance of obtaining race: **12%**
 
 **Lore:**
 
-None
+Nomads
 
 **Strengths:**
 
 +2 Strength, +2 Fortitude.
 
+Know where you are going at sea
+
 **Weaknesses:**
 
-mental compass it does nothing at the moment?
+Compass doesn’t work in void sea of depths
 
 ## Notes/Trivia
 

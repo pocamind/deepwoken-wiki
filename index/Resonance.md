@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 5648
+revid: 5790
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,3 +43,4 @@ One way a to obtain a Bell is to stay in The Depths for seven exact hours. After
 ###### Tips/Notes
 
 -   Staying in The Depths for 7 hours can be a challenge, as you attain Insanity from being in The Depths (this means you will have to make multiple trips and grind Willpower)
+-   If you are grinding for a bell/resonance, It might be a good idea to consider acquiring blind seer oath.

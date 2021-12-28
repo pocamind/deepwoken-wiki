@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 4263
+revid: 5756
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,4 +18,4 @@ In order to use chum you need to hold out your fishing rod then left click on th
 
 (Written by Decadunce#1839)
 
-also while fishing there is a chance of a mini-boss monster called the [lionfish](Lionfish.md). it will try to attack you but if you stay on land it wont do anything. if you kill it, it will drop a lionfish scale ( there might be more but im not sure). (blockiergrublol#8124)
+**WARNING:** also while fishing there is a chance of spawning a Mudskipper, or a mini-boss monster called the [lionfish](Lionfish.md). it will try to attack you but if you stay on land it wont do anything. if you kill it, it will drop a lionfish scale ( there might be more but im not sure). (blockiergrublol#8124)

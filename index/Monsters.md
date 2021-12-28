@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5716
+revid: 5750
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,40 +8,13 @@ categories: [Pages with broken file links]
 
 # Monsters
 
-_"Dear god, that Shark got some cake!" - Unfortunate Adventurer_
+_"Dear god, that Sharko got some cake!" - Unfortunate Adventurer_
 
 ## Description
 
 As much as there are human enemies in the game you may encounter, Deepwoken's finest is the Monsters themselves. They can tear unaware NPCs and players apart if they are ill-equipped, along with sinking your own ship in the Sea.
 
-It is recommended to learn how they act and read their attack patterns if you want to survive.
-
-For information of Human Enemies, go [here](Enemies.md).
-
-**Monster Description Template**
-
-### Monster Name
-
-(Description)
-
-**Attacks**
-
--   **Move 1** - Move 1 desc
--   **Move 2** - Move 2 Desc
--   **Move 3** - Move 3 Desc
-
-**Finisher**
-
-(Finishing move description)
-
-**Enemy Variants (USE ONLY IF THERE ARE VARIANTS OF THE ENEMY)**
-
--   **Enemy variant** - How the enemy variant differs from the normal variation, I.E. Attacks, Location & Stats
-
-**Notes/Tips**
-
--   (Description)  
-    
+It is recommended to learn how they act and read their attack patterns if you want to survive. Or gain good enough gear or experience if you want to fight such foes.  
 
 ## Monsters
 
@@ -90,7 +63,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   **Thousand Needles** - Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
 
 -   **Palm Slap** - Megalodaunt slaps his opponents his claws, dealing moderate slashing damage. Megalodaunt is also able to do this twice.
--   **Football Kick** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried. Can be perfect dodged.
+-   **Punt** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried. Can be perfect dodged.
 -   **Thundering Roar** - Megalodaunt roars out of the top of his lungs, emitting a purple aura within his head and inflicting a status effect (Indicated with a purple particle effect) that combat tags all nearby Players. Deals no damage, but has a large radius.
 
 **Finisher**
@@ -106,12 +79,19 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   Your camera shakes the closer Megalodaunt is to your character, due to his footsteps.
 -   It's always reccomended to perfect dodge the Football Kick.
 -   After parrying it's Palm Slap, block for a second to see if it slaps again and react to it's next move.
--   Sharkos have about 215 points of HP.
+-   Sharkos have 1000 points of HP.
 -   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Megalodaunt between each of you and when one of you fighting gets low you swap out and heal.
+-   They have great ass.
+
+File:Satgea.PNG
+
+Rock Golem standing in the distance.
 
 ### **Rock Golem**
 
-Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big guys are slow and relatively easy to fight if you know what you're doing.
+Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big
+
+guys are slow and relatively easy to fight if you know what you're doing.
 
 **Attacks**
 
@@ -381,7 +361,7 @@ fuc
 
 -   Use the squishier spiders as healtpacks.
 
-### **Squibbo**
+### **Squid Hoss (Squibbo)**
 
 One of the hardest enemies to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
 
@@ -422,8 +402,35 @@ Sea Monkey
 
 **Notes/Tips**
 
--   He is incredibly tanky, can take more than an hour to solo
--   Reccomended to bring at least 6 other high levels with you when fighting it
+1.  He is incredibly tanky, can take more than an hour to solo
+
+Reccomended to bring at least 6 other high levels with you when fighting it
+
+  
+**Monster Description Template**
+
+### Monster Name
+
+(Description)
+
+**Attacks**
+
+-   **Move 1** - Move 1 desc
+-   **Move 2** - Move 2 Desc
+-   **Move 3** - Move 3 Desc
+
+**Finisher**
+
+(Finishing move description)
+
+**Enemy Variants (USE ONLY IF THERE ARE VARIANTS OF THE ENEMY)**
+
+-   **Enemy variant** - How the enemy variant differs from the normal variation, I.E. Attacks, Location & Stats
+
+**Notes/Tips**
+
+-   (Description)  
+    For information of Human Enemies, go [here](Enemies.md).
 
 ## Notes/Trivia
 
