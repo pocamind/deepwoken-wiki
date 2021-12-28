@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 5349
+revid: 5550
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -25,6 +25,8 @@ There are three different main types of weaponry:
 -   Heavy weapons, like axes, hammers, and greatswords
 
 These are only upgraded in terms of damage by upgrading their stat. You can do this buy using the weapon until you get enough exp (youll get a unique message when you have enough, if you havent noticed it for a while just try to level it up), then use a Weapon Manual, which will level up your weapon type depending on what weapon you're holding at the moment.
+
+Weapons can be [Enchanted](Enchantments.md), and give different type of effects to the weapon.
 
 For more information on spells, see this page: Spells
 
@@ -54,7 +56,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   In Deepwoken, there are different kinds of Damage Types.
 -   Damage Types should be kept in mind due to armor pieces and outfits having resistances to certain damage types; Such as the +10% blunt armor that the Vigil Initiate outfit gives.
 -   Resistances are:
-    -   **Physical**, which is subdivided into **Bludgeoning** and **Slashing**
+    -   **Physical**, which is subdivided into **Blunt** and **Slash**
     -   **Elemental**, which is subdivided into **Shadow, Fire, Wind, Thunder, Ice** and **Light**
 -   If an armor says Physical or Elemental, it reduce all damage type from that category.
 
@@ -67,6 +69,8 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Silver Dagger (LHT 35)
 -   Whaling Knife (LHT 40)
 -   Tanto (LHT 50)
+-   Champions Dagger (LHT 50)
+-   Krulian Knife (LHT 60)
 
 ### Guns
 
@@ -115,6 +119,7 @@ Weapons ranging from your bare hands to the clunkiest of weapons. Every fighter 
 -   Greataxe (Starter)
 -   Canorian Axe (HVY 45)
 -   Halberd (HVY 45)
+-   Enforcer Axe
 
 ### Greatswords
 

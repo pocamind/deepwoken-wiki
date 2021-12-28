@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5342
+revid: 5404
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -138,7 +138,7 @@ _**Negative**_
 
 -   Excellent early-game healing.
 -   Not reccomended for use during PVP & PVE due to Ether drain.
--   Please find out how much healing it grants.
+-   Please find out how much healing it grants.(I think it's heals about 5%)
 -   Please find out how much Ether it drains.
 
  |

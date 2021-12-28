@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5379
+revid: 5450
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -108,6 +108,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   Your camera shakes the closer Megalodaunt is to your character, due to his footsteps.
 -   It's always reccomended to perfect dodge the Football Kick.
 -   After parrying it's Palm Slap, block for a second to see if it slaps again and react to it's next move.
+-   Sharkos have about 215 points of HP.
 
 ### **Rock Golem**
 

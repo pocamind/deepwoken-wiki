@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5245
+revid: 5493
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -118,6 +118,15 @@ File:Providence.png
 
 -   Pros: Increased knockback and sprinting M1 speed.
 -   Cons: Unknown.
+
+### Grim
+
+-   Pros: Steals ether when an M1 connects.
+-   Cons: Unknown.
+
+File:Grim.png
+
+Grim on a Messer(?)
 
 ### Multiplicity (Armor Enchant)
 

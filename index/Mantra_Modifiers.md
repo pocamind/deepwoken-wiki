@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 5321
+revid: 5559
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,6 +12,8 @@ This page is a list of all items that you can use in order to modify a mantra (a
 When you upgrade a mantra the previous upgrade will disappear. If you recall it, the upgrade still stands.  
 
 ## Mantra modifiers
+
+**WARNING:** Using lots of modifiers REQUIRES intelligence. Trying to do so anyway will fail the upgrade and DELETE all items involved (excluding the mantra).
 
 **Cloudstone**: Increases mantra size.
 
@@ -33,7 +35,7 @@ Some clown using **WAY TOO** many items to enhance their mantra.
 
 **Rush Shard**: Better version of Drift Shard.
 
-**Amnesiac Driftwood**: Removes all modifiers on a mantra.
+**Amnesiac Driftwood**: ~Removes all modifiers on a mantra.~ Decreases cooldowns
 
 **Vibrant Gem**: Gives elemental boosts (Flames are more intense, Ice is more effective, etc).
 
@@ -57,10 +59,10 @@ Electric Blade + Magnet Spark adds an extra teleporting slash to the end.
 
 Blast Spark + Lightning Clones causes your clones to explode on death.
 
-**Reversal Spark**: Unknown effect, but accepted by Lightning Impact and Flame Leap.
+**Reversal Spark**: Reverses the effect of the skill. For example, using a reveral spark on Air Force will make the mantra pull people towards you instead of pushing them away. Is accepted by Lightning Impact, Flame leap, Air Push, and Tornado.
 
 **Multiplying Spark**: Increase the number of hits on certain mantras. (Flame Blade)
 
-**Spring Spark**: Unknown effect.
+**Spring Spark**: Unknown effect. (test on moves that fling upwards?)
 
 **Tornado Spark:** Unknown effect.

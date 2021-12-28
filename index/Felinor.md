@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 5334
+revid: 5532
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -39,7 +39,7 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 
 ## Weaknesses
 
--   **Everyone hates you:** Seeing as Felinors are cats (furry/nekos) other races hold a grudge over you for literally no good reason.
+-   **Hunted:** due to their mild resemblance to furries/nekos, many players from Monad Studios previous game Rogue Lineage (who tend to be bigoted in many aspects) have taken it upon themselves to hunt felinors whenever possible. _regardless of your race, they can be quite annoying (or just bad) so its best to avoid them in general_
 -   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
 
 <table>

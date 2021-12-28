@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 5169
+revid: 5545
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -32,7 +32,7 @@ categories: ["Post-death"]
     -   Songseeker Wilds
     -   Summer Isle
     -   The Monkey's Paw Aratel
-    -   The Hive/ Stardew Valley
+    -   The Hive/ Starswept Valley
     -   Fort Merit
 -   [The Void Sea](Voidsea.md)
     -   [Boatman's Watch](<Boatman's_Watch.md>)

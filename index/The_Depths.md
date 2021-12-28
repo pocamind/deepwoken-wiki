@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 5305
+revid: 5449
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,7 +35,7 @@ The Depths is located in a underwater afterlife; Almost a limbo in between life 
 
 The doors to your escape will be closed (most often). To open it, you must ring the bells within the city.
 
-Certain district in the City of the Drowned have a bell, said districts can be identified by the presence of [Seekers](Watcher.md). They can be found by following a humming/shimerring sound effect toward unrung bells. Jumping and interacting with it will restore health and make an audible bell noise.
+The City of the Drowned is split into 6 sections. 4 of them have a bell, said section can be identified by the presence of [Seekers](Watcher.md). They can be found by following a humming/shimerring sound effect toward unrung bells. Interacting with it will restore health and make an audible bell noise.
 
 Once all bell have been rung, a large bell choir will be heard across The Depth, signalling the possible salvation of the souls trapped within via the opening of the doors to The Trial.
 

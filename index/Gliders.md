@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 5341
+revid: 5420
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,5 +14,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 -   Recipe = 2 sticks, 2 cloth (at crafting table)
 -   Must be in the air to use it.
 -   Sharkscale Glider - 2 Megalodaunt Hide, and 2 Sticks (150 Uses)
+-   Gliders cannot be used in combat. If you take damage while gliding, you will be ragdolled out of the glider (This includes damage from sources such as acid rain or insanity in the Depths).
     
     Etrean adventurer starting his journey!

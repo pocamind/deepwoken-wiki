@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 5350
+revid: 5530
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -55,4 +55,6 @@ Ganymedes are pitch-black creatures with bright eyes ranging in a wide variety o
     
     File:Blackmage-ff1-art.webp
     
--   This race shares a strong resemblance to the black mages from Final Fantasy
+-   File:Snail Shaman.webp
+    
+    This race shares a strong resemblance to the black mages from Final Fantasy and the snail shaman from Hollow Knight

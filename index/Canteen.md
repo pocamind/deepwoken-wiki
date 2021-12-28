@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 4511
+revid: 5442
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,3 +23,7 @@ the canteen has 5 uses to refill water bar before having to refill at a [well](W
 
   
 im surprised not that many people know this item and its use
+
+### Video Guide
+
+You can easily get canteen at power level 1 if you know where to look: [https://youtu.be/CrnGXgYL138](https://youtu.be/CrnGXgYL138)

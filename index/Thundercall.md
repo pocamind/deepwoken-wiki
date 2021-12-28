@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 5322
+revid: 5551
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -33,29 +33,36 @@ also, please add or edit any new spells in, this page is undeveloped compared to
 <tr>
   <th>0 STAR
   <ul>
-    <li>Lightning Blade- A dash foward that unsheathes your weapon and cuts twice with a lightining infused blade.</li>
-    <li>(Passive) Stormcaller Slash- After using a melee spell, if you press F an additional set of lightning will come down.</li>
+    <li>Lightning Blade- A dash foward that unsheathes your weapon and cuts twice with a lightining infused blade.<figure><figcaption></figcaption></figure><br>
+  </li>
+    <li>Jolt grab- A dash with a charged up fist of lightning that grabs the opponent, lifts them up into the air, and slams them down the lightning</li>
+    <li>(Passive) Stormcaller Slash- After using a melee spell, if you press F an additional set of lightning will come down.<figure><figcaption></figcaption></figure><br>
+  </li>
   </ul></th>
 </tr>
 <tr>
   <td>1 STAR
   <ul>
     <li>Lightning Clones- A spell that summons two clones of the player and attack whoever has either: Aggro on the player, or whoever the player attacked within the last few seconds of casting.</li>
-    <li>Jolt grab- A dash with a charged up fist of lightning that grabs the opponent, lifts them up into the air, and slams them down the lightning, (similar to thunder spear crash from rogue, but a much smaller scale)</li>
     <li>Lightning beam- Calls a beam of lightning from the ground after around a second of casting (at this point, save and go for grand javelin instead)</li>
+    <li>Thunder Kick - A spell that does a heavy kick forward</li>
+    <li>Lightning Impact- You fly up in the air and slam down<figure><figcaption></figcaption></figure><br>
+  </li>
   </ul></td>
 </tr>
 <tr>
   <td>2 STAR
   <ul>
-    <li>Grand Javelin- Throws a spear that ragdolls enemies and flings them into the air, guardbreaks when blocked</li>
-    <li>Lightning Impact- You fly up in the air and slam down</li>
+    <li>Grand Javelin- Throws a spear that ragdolls enemies and flings them into the air, guardbreaks when blocked<figure><figcaption></figcaption></figure><br>
+  </li>
+    <li>Electro Carve - creates a yellow orb that shocks anyone inside of it<figure><figcaption></figcaption></figure><br>
+  </li>
   </ul></td>
 </tr>
 <tr>
   <td>3 STAR
   <ul>
-    <li>Thunder Kick- Heavy Kick motion doing damage</li>
+    <li>Unknown</li>
   </ul></td>
 </tr>
 </tbody>
@@ -66,7 +73,10 @@ also, please add or edit any new spells in, this page is undeveloped compared to
 <tr>
   <th>
   <ul>
-    <li>Lighning stream- Grapples onto a enemy and pulls them in (if you hit them) (also stuns them for awhile you may be able to get in an m1 or two before they start parrying/blocking)</li>
+    <li>*Lightning Stream- Grapples onto a enemy and pulls them in (if you hit them) (also stuns them for awhile you may be able to get in an m1 or two before they start parrying/blocking)<figure><figcaption></figcaption></figure><br>
+  </li>
+    <li>Adrenaline Surge - An activable ability that when used grants a&nbsp;??? buff to your agility.</li>
+    <li>***Spark Swap- When used you swap positions with someone (NPC or Player)</li>
   </ul></th>
 </tr>
 </tbody>
@@ -79,7 +89,8 @@ also, please add or edit any new spells in, this page is undeveloped compared to
 <tr>
   <th>
   <ul>
-    <li>Lightning Assualt- You dash forward and attack those you pass</li>
+    <li>**Lightning Assualt- You dash forward and attack those you pass<figure><figcaption></figcaption></figure><br>
+  </li>
   </ul></th>
 </tr>
 </tbody>
@@ -88,11 +99,7 @@ also, please add or edit any new spells in, this page is undeveloped compared to
   
 **UNKNOWN**(Someone please sort these out, I don't have them unlocked yet)
 
-Electro Carve - creates an area of influence that shocks any individual within it with electro
-
-Spark Swap- When used you swap positions with someone (NPC or Player)
-
-Discovery Of Fire - Flint but it has infinite uses
+Discovery Of Fire - Flint but it has infinite uses (this is just a common talent card that can be obtained randomly)
 
 [https://cdn.discordapp.com/attachments/809165836757499904/924123375784300606/unknown.png](https://cdn.discordapp.com/attachments/809165836757499904/924123375784300606/unknown.png)
 

@@ -1,12 +1,28 @@
 ---
 title: Resonance
-revid: 5241
+revid: 5539
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Resonance
 
-Resonance, or bells, are obtained somehow from the Depths. Currently, it is hidden to how these Bells are obtained. However, Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. In Nanoprodigy's video about his own resonance, it showcases that his resonance can summon a spot in which when he gets hit, it returns to that spot.
+<table>
+<tbody>
+<tr>
+  <td>Description</td>
+</tr>
+</tbody>
+</table>
 
-Any info is helpful.
+Resonance, or bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. One way a to obtain a Bell is to stay in The Depths for seven exact hours. After that, you have to be knocked down and wake up, you gain the bell. This is not seven hours straight, it can be in increments. Take this with a grain of salt since this is not confirmed.
+
+## Resonances
+
+### Hit Reflection
+
+-   Reflects any damage taken back to the attacker in a 5-6 second time frame.
+-   Creates an effect with two green rings and which inside are eight crosses, four are green, and four are black that point at the user.
+    -   The effect gets smaller and when it ends, that signifies the ending of the hit reflection.
+        
+        _Hit Reflection showcased by Bracting._

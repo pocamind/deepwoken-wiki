@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 5274
+revid: 5544
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,12 +25,12 @@ You may only have a single Oath per unique character, so it is best to pick what
 
 ### How to obtain:
 
--   Open card deck at Power 30+ and select Oath: Oathless
+-   Open card deck at Power 30+ and select Oath: Oathless (will not always be drawn).
 
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots
--   Will not to be able to be under the Vow of Mastery
+-   Unable to take a Vow of Mastery (can still be the master), current Vow of Mastery are broken.
 
 ### Oath Description:
 
@@ -50,7 +50,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 ### Pre-requisites:
 
--   Willpower of 50+ ( not needed got mine with just the talents at 42)
+-   Willpower of (40+)
 -   Blindfold (Chest Item)
 -   Breathing Exercise (Talent)
 -   Conquer your Fears (Talent)

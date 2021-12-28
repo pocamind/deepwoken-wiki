@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 5364
+revid: 5558
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,11 +43,11 @@ Of course, this Page is useless because we have the Controls in the Game. But th
 
 **G (while crouching) - Eavesdrop -** Nullify the environment's background effects, and percieve Player Activity (such as movements, cooking, interaction, and combat).
 
-**W + Space (airborn and facing a wall) - Wall climb -** Perform two small hops on the wall, grabbing any ledge along the way if available.
+**W + Space (airborn and facing a wall) - Wall Jump -** Perform two small hops on the wall, grabbing any ledge along the way if available. Some talents can improve this.
 
 **M1 (while crouching and behind an humanoid) - Backstab -** Swift motion that deal large damage (reduced on players) and leave the victim defenceless on the ground for a few seconds (reduced on players). If the victim say there hit dialogue (text chat that sound like pain), it means the backstab did not kill them instantly and is still alive.
 
-**Space (airborn and facing a wall) - Wall Jump -** Performs a Wall Jump, sending upward while slightly pushing away from the wall. This is an alternative to wall climbing and is useful to go over ledges that slightly hangs to the side. A few talents improve Wall Jumping.
+**Space (airborn and facing a wall) - Wall Kick -** Performs a Wall Kick, sending upward while slightly pushing away from the wall. This is an alternative to wall climbing and is useful to go over ledges that slightly hangs to the side.
 
 **N - Pickpocket (talent required) -** Steal a few Notes from a nearby player or NPC.
 

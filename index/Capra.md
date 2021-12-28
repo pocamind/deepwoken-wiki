@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 5352
+revid: 5531
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,7 +18,9 @@ Drippy Stuff
 
 ### **Lore**
 
-Template:Races-MainThey are keepers of ancient secrets who travel the sees sharing knowledge with those who need it.
+Template:Races-MainThey are keepers of ancient secrets who travel the seas (~sees~ < Lmao) sharing knowledge with those who need it.
+
+  
 
 ### **Appearance**
 

@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 4711
+revid: 5439
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -39,7 +39,7 @@ Currently unobtainable - given by Ragoozer to wave 0 testers only
 
 ## Weaknesses
 
-none
+-   "Degenerates like you should belong on a cross."
 
 ## Notes/Trivia
 

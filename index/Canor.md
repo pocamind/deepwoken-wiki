@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 5137
+revid: 5405
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -19,7 +19,7 @@ and personal servants in the
 retinue of powerful people."_
 
   
-_Chance of obtaining race: **14.3%**_
+_Chance of obtaining race: **15.2%**_
 
 ## Lore
 

@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 5149
+revid: 5395
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -26,13 +26,13 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 **Strengths:**
 
 +1 Health  
-+2 Agility  
-+2 Intelligence.  
++2 **Agility**  
++2 **Intelligence**  
 Takes less damage in acid rain.
 
 **Weaknesses:**
 
-Seeing as how Molt reduces the duration of positive effects as well as negative, this would technically make them **the worst race** in the game as they are the only ones to have a trait with a negative effect. Regardless, the decreased duration seems negligible and won't have much of an effect on gameplay.
+Seeing as how **Molt** reduces the duration of positive effects as well as negative, this would technically make them "the worst race" in the game as they are the only ones to have a trait with a negative effect. Regardless, the decreased duration seems negligible and won't have much of an effect on gameplay.
 
 ## Racial Traits
 
@@ -46,7 +46,7 @@ Seeing as how Molt reduces the duration of positive effects as well as negative,
   </ul></td>
 </tr>
 <tr>
-  <td><center><font>+2</font></center></td>
+  <td><b><big>Attributes</big></b></td>
   <td>
   <ul>
     <li>+2 Agility</li>

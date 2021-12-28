@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 4257
+revid: 5417
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ The ultimate guide on how to make friends whether it's with felinors(freak) or c
 
 The book "how to make Friends" makes you go around and talk to other beings(shocking) to get charisma.
 
-  
+To use the book type the sentences into the chat.  
 
 File:Tempsnip.png
 

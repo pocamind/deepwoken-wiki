@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 4164
+revid: 5461
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,14 +23,15 @@ For information of Monsters, go [here](Monsters.md).
 -   Bandit Captains
 -   Common Bandits
 
-  
-
 ### The Authority
 
 -   Palace Guards
 -   Lord Regent
 
-  
+### Songseeker Tribesmen
+
+-   Songseeker Flamecharmer  
+    
 
 ### **Empire/Legionaires**
 
@@ -40,7 +41,11 @@ For information of Monsters, go [here](Monsters.md).
 ### Dark Mage Cultists
 
 -   Cultist Fanatic
--   Cultist Necromancer (Mudskipper-Mancer)
+-   [Cultist Necromancer (Mudskipper-Mancer)](Ministry_Necromancer.md)
+
+### The Hive
+
+-   Hive Hoplite
 
 ### Shiny Enemies
 
@@ -49,3 +54,9 @@ For information of Monsters, go [here](Monsters.md).
 ### Mischelleny
 
 -   Crazed Stranded
+-   Mindless Servant
+
+## Bosses
+
+-   [The Duke of Erisia](Duke_Ishamon_Erisia.md)
+-   The Ferryman

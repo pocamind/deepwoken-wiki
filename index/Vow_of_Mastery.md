@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 5385
+revid: 5519
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Vow of Mastery is a talent which allows you to turn people into servants. A Servant will lose the Vow of Mastery if they get wiped.
 
-You will need a high amount of Charisma (20 I think, not sure, if you find out type it in), then you will have a chance to get the talent every power up. You can have a servant every per 10 charisma.
+You will need a high amount of Charisma (20 or more), then you will have a chance to get the talent every power up. You can have a servant every per 10 charisma.
 
 **How to use it:**
 
@@ -31,4 +31,4 @@ _Return -_ "\[Servant's name\] return." The servant will start running back towa
 
 _**Live (Legendary talent) -**_ "\[Servant's name\] live." The servant will get back to full hp and get some buffs (not sure which, if you know add it.)
 
-Commands can be used across the map, for example, if the Master was at Erisia and the Servant was at Etris, if the Master said "\[Servant's name\] run." The Servant will start running.
+Commands can be used across the map (excluding return), for example, if the Master was at Erisia and the Servant was at Etris, if the Master said "\[Servant's name\] run." The Servant will start running.

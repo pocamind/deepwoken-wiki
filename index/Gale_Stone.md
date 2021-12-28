@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 4923
+revid: 5560
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,6 +12,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Holding a Gale Stone.
 
 You can obtain Gale Stones by killing Galebreathe users (NPCs works as well)
+
+Killing guards at Erisia is a decent way of getting these
 
 **Item Description:**
 

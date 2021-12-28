@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5354
+revid: 5447
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,11 +10,13 @@ categories: [Pages with broken file links]
 
 ## Description
 
+(**Warning**: Keep in mind that Deepwoken is a newly released game and most of this information could be false.)
+
 There are many kinds of Armor in Deepwoken, with types of Armor pieces (Chestplates, Hands, Rings, Boots, etc) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Sea.
 
 Armors can be obtained in 2 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats randomized. (This including the Gold Ring given to you by Polis in Etris)
 
-There are also Cosmetics in Deepwoken. Things such as Masks or Capes benefits your character's drip, but provides no tactical advantage whatsoever.
+There are also Cosmetics in Deepwoken. Things such as Masks or Capes benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 1000 [note](Notes.md) fee.
 
 ## Repairing your Outfit
 
