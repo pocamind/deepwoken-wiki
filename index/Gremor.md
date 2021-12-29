@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 5724
+revid: 6067
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -33,8 +33,11 @@ Chance of obtaining race: **12%**
   <td><figure>File:Navae's Guidance.png<figcaption></figcaption></figure></td>
   <td><b>Navae's Guidance</b>
   <ul>
-    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"</li>
-  </ul></td>
+    <li>"Navae's star guides your path, showing you the way forwards, you are less prone to starvation.</li>
+  </ul><p><br>
+  </p>
+  <p><br>
+  </p></td>
 </tr>
 <tr>
   <td><center><font>+2</font></center></td>
@@ -51,15 +54,21 @@ Chance of obtaining race: **12%**
 
 **Lore:**
 
+## Lore
+
 Nomads
 
 **Strengths:**
+
+## Strengths
 
 +2 Strength, +2 Fortitude.
 
 Know where you are going at sea
 
 **Weaknesses:**
+
+## Weaknesses
 
 Compass doesn’t work in void sea of depths
 

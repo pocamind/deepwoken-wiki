@@ -1,8 +1,9 @@
 ---
 title: Resonance
-revid: 5790
+revid: 6082
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Resonance
@@ -17,9 +18,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Resonance, or bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension.
 
-One way a to obtain a Bell is to stay in The Depths for seven exact hours. After that, you have to be knocked down and wake up, you gain the bell. This is not seven hours straight, it can be in increments. Take this with a grain of salt since this is **not confirmed**. (to the person that wrote this, whos your source?)
-
-  
+_**Pressing C triggers resonance**_  
 
 ## Resonances
 
@@ -40,7 +39,30 @@ One way a to obtain a Bell is to stay in The Depths for seven exact hours. After
 
   
 
+### Phoenix
+
+-   Sends you back in time to where you used the bell after around 5 seconds
+-   You take no damage when its in use
+-   Creates a flame-ish effect where it was used
+    -   This goes once you return to said spot
+        
+        File:Phoenix Fire.jpg
+        
+        Phoenix fire effect
+        
+          
+        
+
+  
+
+  
+
+  
+  
+
 ###### Tips/Notes
 
--   Staying in The Depths for 7 hours can be a challenge, as you attain Insanity from being in The Depths (this means you will have to make multiple trips and grind Willpower)
+-   ~Staying in The Depths for 7 hours can be a challenge, as you attain Insanity from being in The Depths (this means you will have to make multiple trips and grind Willpower)~ the guy who made the 7 hour thing is wrong the only thing we know is that its obtained in the depths
 -   If you are grinding for a bell/resonance, It might be a good idea to consider acquiring blind seer oath.
+
+-   Another good way to grind for this is to have alot of food and go on top of the castle or somewhere out of reach, u can do this by using fire leap or gale leap or glacial arc if ur thunder have ur freind get there and swap with him.

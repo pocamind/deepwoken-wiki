@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 5638
+revid: 5974
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,6 +60,7 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
     -   Rush Shard - Makes Projectile Mantras moderately faster
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)
 -   Magnet Spark - ???
+    -   Affected Mantras: Lightning Blade - Unknown
 -   Tornado Spark - ???
 -   Spring Spark - Most likely boots height of a mantra that makes you jump high.
 -   Round Spark - Converts Mantras into an AOE effect.

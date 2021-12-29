@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 5826
+revid: 6112
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,13 +10,13 @@ categories: [Pages with broken file links, Races]
 
 -   Chance of obtaining race: **6.1%**
 
+  
+
+**Get rid of your ugly fucking custom vesparians and put a picture of a fucking freshie one instead cuck shits**
+
 File:Goated Vesperian.png
 
-A smelly vesperian
-
 File:Vesperianrea.png
-
-This guy looks better
 
 ## Lore
 

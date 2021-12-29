@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 5900
+revid: 6119
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -56,5 +56,4 @@ None
 
 ## Notes/Trivia
 
--   LIkely one of the best races due to its ridiculously fast progression when stacked with autodidact.
--   Probably the best race for charisma builds
+-   Based on the theory that the Adrets came from the tides, it's my best guess to say that this race is based off of marine animals/fish

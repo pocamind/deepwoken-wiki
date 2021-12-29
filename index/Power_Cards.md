@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 5000
+revid: 6040
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -148,7 +148,7 @@ Hand of Mantra Cards
 
 -   Health Pack \[Generic Talent, Obtained through Power\] - It's extra health, do you need anything else? (+10 Health)
 -   Ether Pack \[Generic Talent, Obtained through Power\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Adept \[Generic Talent, Obtained through Power, Exclusive Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
+-   Adept \[Generic Talent, Obtained through Power, Exclusive Talent, Legendary Card\] - Taking this talent will make it easier to progress. (Increased experience gain)
 
   
 

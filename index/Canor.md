@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 5871
+revid: 6066
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -57,7 +57,7 @@ They are based on wolves and lions (confirmed recently)
 
 ## Trivia
 
--   The most human looking race in Deepwoken.
+-   The most human looking race in Deepwoken (Aside the Adret, NPC's themselves claiming Adret to have no animalistic features whatsoever)
 
 -   Will most likely have their hair turn white as they grow older. ~Similar to how Khans have more white hair as they grow older.~
 

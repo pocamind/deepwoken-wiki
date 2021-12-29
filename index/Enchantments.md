@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 5934
+revid: 6093
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -152,7 +152,7 @@ File:Metal.png
 
 Metal
 
-### Pros: Can't be parried and penetrates block.
+### Pros: Unknown
 
 **Cons: Unknown**
 
@@ -181,6 +181,18 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 ### Adhesive
 
 Pros: Unknown
+
+### **Bounce**
+
+Pros: Knocks people back when they m1 you. Doesn't knock them back if you parry/block. Makes it harder for them to land multiple m1s to flourish you
+
+Cons: None
+
+**Viscosity**
+
+Pros: Makes any damage taken get reduced and be dealt over time. Using potions pretty much negate the effect of the over time damage, making it a quite busted enchant.
+
+Cons: If you dont know how to manage your health properly while using this, you can get killed quite easily.
 
 Any information given would be greatly appreciated.
 

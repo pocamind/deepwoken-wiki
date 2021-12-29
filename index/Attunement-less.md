@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 5917
+revid: 6043
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,4 +53,8 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 ### Medium Weapon Mantras
 
-**forgor name ;skull;** - A spinning slice with your sword
+Master's Flourish - A spinning slice with your sword
+
+### Heavy Weapon Mantras
+
+Pressurized Blast - Unlease a powerful pressure blast from the weight of you weapon

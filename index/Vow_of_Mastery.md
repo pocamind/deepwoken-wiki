@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 5519
+revid: 6053
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,6 +25,8 @@ _Say -_ "\[Servant's name\] say \[text\]." The servant will say whatever you put
 
 _Run - "_\[Servant's name\] run." The servant will start running for around 15 seconds, they can change the direction of their running.
 
+_Sacrifice -_ "\[Servant's name\] sacrifice." The servant will receive all your damage received from before, and you will receive the percent of damage taken, healing your life to max, for example: The master has 60% hp while the servant has 100% hp, the command will make the servant hp 60% and the master 100%, the master will take the servant hp, and the servant the master damage
+
 _Fight - "_\[Servant's name\] fight." The servant will get a purple aura and a boost in damage and defense. It can also be used on 2 servants for example: "\[Servant1\] fight \[Servant2\]"
 
 _Return -_ "\[Servant's name\] return." The servant will start running back towards the master.
@@ -32,3 +34,5 @@ _Return -_ "\[Servant's name\] return." The servant will start running back towa
 _**Live (Legendary talent) -**_ "\[Servant's name\] live." The servant will get back to full hp and get some buffs (not sure which, if you know add it.)
 
 Commands can be used across the map (excluding return), for example, if the Master was at Erisia and the Servant was at Etris, if the Master said "\[Servant's name\] run." The Servant will start running.
+
+Commands can be used as "\[All\]" if you want to effect all your servants

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 5901
+revid: 6068
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes ar
 
 The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking.
 
-To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-25 Notes.
+To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes.
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
@@ -602,11 +602,26 @@ File:Herbalist's Hat.png
 | Image | Armor | Effects |
 | --- | --- | --- |
 | 
+"Ring of a wandering Swordman."
+
+"Ring of a wandering Swordman."
+
+"Ring of a wandering
+
+Swordsman."
+
+ | Isshin's Ring | Take 1.2x damage
+
+and deal 1.2x damage
+
+ |
+| 
+
 "Ring of the infamous theif Emiya Konga."
 
-_"Ring of the infamous_
+"Ring of the infamous
 
-_thief Emiya Konga."_
+thief Emiya Konga."
 
  | Konga's Clutch Ring | Allows the user to
 
@@ -615,13 +630,7 @@ slide without delay
  |
 | 
 
- | Gold Ring | (Any Random
-
-buff effect)
-
-\*Can be sold for 25[n](Notes.md)\*
-
- |
+ | Gold Ring | \*Can be sold for 25[n](Notes.md)\* |
 | 
 
  | Silver Ring | (Any Random
@@ -631,6 +640,9 @@ buff effect)
 \*Can be sold for 10[n](Notes.md)\*
 
  |
+|  | Bloodiron Ring | Armor Durability on Grip |
+
+  
 
 ### Arms
 
@@ -815,6 +827,15 @@ File:Golden Cape.png
 _or_
 
 Buffs a random stat.
+
+ |
+
+**Arms**
+
+| Image | Armor | Effects |
+| --- | --- | --- |
+|  | Hunter's Brace | Lets you parry heavy attacks (red effect apparently)
+Can be equipped on top of any arms armor.
 
  |
 

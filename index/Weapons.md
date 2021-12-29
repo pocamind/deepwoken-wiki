@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 5930
+revid: 6080
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -50,6 +50,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
+  <td><b>LHT Scaling</b></td>
   <td><b>Rarity</b></td>
 </tr>
 <tr>
@@ -57,16 +58,19 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>0 Light Weapon</td>
   <td>10</td>
   <td></td>
+  <td>starter</td>
 </tr>
 <tr>
   <td>Gilded Dagger</td>
   <td>25 Light Weapon</td>
   <td>13.5</td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Silver Dagger</td>
   <td>35 Light Weapon</td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
@@ -75,16 +79,19 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>40 Light Weapon</td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Champion's Dagger</td>
   <td>50 Light Weapon</td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Tanto</td>
   <td>50 Light Weapon</td>
+  <td>16</td>
   <td></td>
   <td></td>
 </tr>
@@ -101,11 +108,13 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
+  <td><b>LHT Scaling</b></td>
   <td><b>Rarity</b></td>
 </tr>
 <tr>
   <td>Bare Hands</td>
   <td>0 Light Weapon</td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
@@ -114,10 +123,12 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0 Light Weapon</td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Legion Cestus</td>
   <td>30 Light Weapon</td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
@@ -134,6 +145,7 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
+  <td><b>LHT Scaling</b></td>
   <td><b>Rarity</b></td>
 </tr>
 <tr>
@@ -141,17 +153,20 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>25 Light Weapon</td>
   <td>10</td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Revolver</td>
   <td>65 Light Weapon</td>
   <td>13</td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Dragoon</td>
   <td>65 Light Weapon</td>
   <td>20</td>
+  <td></td>
   <td></td>
 </tr>
 </tbody>
@@ -177,7 +192,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>Sword</td>
   <td>0 Medium Weapon</td>
   <td>10</td>
-  <td></td>
+  <td>starter</td>
 </tr>
 <tr>
   <td>Messer</td>
@@ -216,9 +231,15 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td></td>
 </tr>
 <tr>
+  <td>Champion Sword</td>
+  <td>40 Medium Weapon</td>
+  <td>19</td>
+  <td></td>
+</tr>
+<tr>
   <td>Shotel</td>
   <td>45 Medium Weapon</td>
-  <td></td>
+  <td>22</td>
   <td></td>
 </tr>
 <tr>
@@ -328,7 +349,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>Greataxe</td>
   <td>0 Heavy Weapon</td>
   <td>10</td>
-  <td></td>
+  <td>starter</td>
 </tr>
 <tr>
   <td>Canorian Axe</td>
@@ -405,7 +426,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td>Steel Maul</td>
   <td>45 Heavy Weapon</td>
-  <td></td>
+  <td>22</td>
   <td></td>
 </tr>
 <tr>
@@ -416,7 +437,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td>Pale Morning</td>
-  <td></td>
+  <td>75 Heavy Weapon, 10 Strength</td>
   <td>27.5</td>
   <td></td>
 </tr>

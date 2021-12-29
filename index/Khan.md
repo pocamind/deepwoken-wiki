@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 5540
+revid: 5970
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -41,8 +41,8 @@ Khans are ape-like humanoids that wear a golden headband. They have orange/yello
 ## Notes/Trivia
 
 -   Sun Wukong's gold headband cannot be taken off, it's use is to restrain him, tightening when a certain sutra is chanted.
-
-  
+-   monke  
+    
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 5869
+revid: 6022
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -10,13 +10,17 @@ categories: [Pages with broken file links, Spells]
 
 ## Description
 
+A wind coated blade.
+
 Galebreathe grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
+
+Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
 ## Training
 
 Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
 
-The trainer can be found in the Isle of Vigils by the campfire near the tent.
+The spelltrainer can be found in the Isle of Vigils by the tent across the Inn.
 
 ## Spells
 
@@ -68,6 +72,13 @@ Deals damage.
  |
 | 
 
+ | Galetrap
+
+(☆)
+
+ | Unknown | Tosses a wind landmine. |
+| 
+
  | Rising Wind
 
 (☆☆)
@@ -81,13 +92,6 @@ Allows user to damage opponents mid-air.
 _Possibly inflicts opponents with fall damage._
 
  |
-| 
-
- | Galetrap
-
-(☆)
-
- | Unknown | Tosses a wind landmine. |
 | 
 
  | Wind Gun
@@ -118,7 +122,7 @@ Rapidly damages opponent.
 
  | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
 
-User is invincibile during casting.
+User is invincibile during casting (To a lvl 1 player it does 35% dmg).
 
  |
 
@@ -140,10 +144,43 @@ User is invincibile during casting.
 
  | A servant of wind. | Spawns a wisp of wind.
 
-Must complete a casting minigame.
-
-Protects against fall damage.
+Must complete a casting minigame. Protects against fall damage.
 
 _Other effects may be unknown._
 
  |
+
+## Talents
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Gale Leap | Jumping while sliding down a
+
+slope or off a cliff launches
+
+you forward.
+
+ | Launches you forward if requirements are met.
+
+Cliff must be approximately 50 studs above.
+
+Slope cannot be too steep.
+
+Costs _Ether_.
+
+ |
+| 
+
+ | Placeholder | Placeholder | Gives you the ability to double jump.
+
+Has a cooldown.
+
+Costs _Ether_.
+
+ |
+
+## **Trivia/Notes**
+
+-   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
+-   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.

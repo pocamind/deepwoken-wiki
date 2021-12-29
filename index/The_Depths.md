@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 5927
+revid: 5958
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,6 +50,8 @@ If 4 or more players attempt to escape, they will be prompted to "Thin their num
 **Alternatively**
 
 With enough Agility or proper usage of the buildings, one can reach the upper part of the city's wall and walk along them to reach the middle piece containing the trial. Care must be taken, as falling from this wall can be quite desastrous.
+
+As a side note if you have somebody who can help you it is possible to just infinite climb to the top of the wall, no agility or buildings required.
 
 ### Reward for Escaping?
 

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 5814
+revid: 6023
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,8 +23,8 @@ Shadowcast is an element thats belongs to Shadow, to train this element, you nee
 
 | Image/Gif | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-| latest?cb=20211228093607&format=original | Dark Blade | Slicing blades of dark energy | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. |
-| latest?cb=20211228093608 | Shadow Gun | An awful blast of dark energy | You fire a melee-ranged shot at your mouse cursor. |
+|  | Dark Blade | Slicing blades of dark energy | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. |
+|  | Shadow Gun | An awful blast of dark energy | You fire a melee-ranged shot at your mouse cursor. |
 |  | Clutching Shadow | Power lurks within. | Chokes target enemy and slams them down. |
 
 It is unknown if 3 star combat mantras exist or not
@@ -34,7 +34,7 @@ It is unknown if 3 star combat mantras exist or not
 <table>
 <tbody>
 <tr>
-  <td>latest?cb=20211228093610</td>
+  <td></td>
   <td>Shadow Meteor (☆☆)</td>
   <td>Hail down meteors of darkness.</td>
   <td>Three meteors fall depending on where you aim your cursor. They may get stuck if it would hit a surface before where your cursor is pointed towards.</td>
@@ -47,8 +47,8 @@ It is unknown if 3 star combat mantras exist or not
 <table>
 <tbody>
 <tr>
-  <td>latest?cb=20211228093610</td>
-  <td>Shadow Assault</td>
+  <td></td>
+  <td>Shadow Assault<p>(☆☆)</p></td>
   <td>A rush of darkness.</td>
   <td>You dash forwards, hitting anybody in the way.</td>
 </tr>

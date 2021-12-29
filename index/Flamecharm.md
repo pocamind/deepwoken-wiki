@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 5782
+revid: 6041
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -127,6 +127,8 @@ You are able to obtain Azure Flame by having the following:
 \- 70 Flamecharm Levels
 
 You will obtain it once you level up after reaching these requirements.
+
+Azure Flame increases burn damage, and also prevents environmental effects from snuffing out campfires. This makes it incredibly useful if you wish to traverse The Depths.
 
 ## Trivia
 

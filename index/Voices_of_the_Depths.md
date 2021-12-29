@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 5248
+revid: 6016
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,3 +34,7 @@ The Voice of Enmity is highly aggresive to the players, wanting them to be crush
 _"The power or right to give orders, make decisions, and enforce obedience."_
 
 The Voice of Authority only appears after the player succesfully beats the trial, ordering the other voices to send the player back up into the Etrean Luminant.
+
+## Trivia
+
+-   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.

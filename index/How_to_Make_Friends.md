@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 5861
+revid: 5981
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,10 +27,6 @@ _The excerpts from the book that you say to others._
 "Me-wow, is that the latest Felinor fashion?"
 
 "So, what's keeping you busy these days?"
-
-"You doing anything next week? Because I'd like to see you greMORE."
-
-"So, you doing anything on the weekend?"
 
 "Hey hivekin, can I bug you for a moment?"
 

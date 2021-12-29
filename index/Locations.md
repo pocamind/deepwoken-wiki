@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 5795
+revid: 6115
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -30,10 +30,12 @@ categories: ["Post-death"]
         -   _Burning Stone Gardens_
 -   The Aratel Sea
     -   Songseeker Wilds
-    -   Summer Isle
-    -   The Monkey's Paw Aratel
+    -   [Summer Isle](Summer_Isle.md)
+    -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
+    -   [Greathive Aratel](Greathive_Aratel.md)
     -   The Hive/ Starswept Valley
-    -   Fort Merit
+    -   [Fort Merit](Fort_Merit.md)
+        -   Merit's Reach
 -   [The Void Sea](Voidsea.md)
     -   [Boatman's Watch](<Boatman's_Watch.md>)
     -   [Voidheart](Voidheart.md)

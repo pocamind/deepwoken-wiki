@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 5882
+revid: 6125
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,38 +16,9 @@ _"Dear god, that Sharko got some cake!"_
 
 As much as there are human enemies in the game you may encounter, Deepwoken's finest is the Monsters themselves. They can tear unaware NPCs and players apart if they are ill-equipped or inexperienced, along with sinking your nautical vessel into the Sea and if you're unlucky...
 
-_Sending you directly to **the Depths.**_
-
+  
 It is recommended you learn how each monster acts and behaves to read their attack patterns if you want to survive against these beasts. No amount of levelling, gear or experience will do you good if you can't parry, block or dodge their attacks for the life of you.  
 For information on Human Enemies, go [here](Enemies.md).
-
-### Monster Name
-
-(Description)
-
-**Attacks**
-
--   **Move 1** - Move 1 desc
--   **Move 2** - Move 2 Desc
--   **Move 3** - Move 3 Desc
-
-**Finisher**
-
-**Finishing Move Name** - Finishing move description
-
-**Known Drops**
-
--   **Item Dropped 1** - Inferred Drop Chance (Common, Rare, Extremely Rare)
--   **Item Dropped 2** - Inferred Drop Chance (Common, Rare, Extremely Rare)
--   **Item Dropped 3** - Inferred Drop Chance (Common, Rare, Extremely Rare)
-
-**Enemy Variants (USE ONLY IF THERE ARE VARIANTS OF THE ENEMY)**
-
--   **Enemy variant** - How the enemy variant differs from the normal variation, I.E. Attacks, Location & Stats
-
-**Notes/Tips**
-
--   Insert notes & Tips
 
 ## Monsters
 
@@ -87,9 +58,13 @@ Notes/Tips
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko) (Carl)
+### Megalodaunt (Sharko)
 
 _Main Article - [Megalodaunt](Megalodaunt.md)_
+
+"Bet that Sharko got a fat ass..... WH-"
+
+\- Some Adret
 
 Megalodaunt eating an NPC.
 
@@ -120,20 +95,24 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Megalodaunt between each of you and when one of you fighting gets low you swap out and heal.
 -   They have great ass.
 
-### **Rock Golem (Dwayne)**
+### **Rock Golem (Hughbert)**
 
-File:Satgea.PNG
+File:Rock Golem standing in distance.png
 
 Rock Golem standing in the distance.
 
-Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big
+Can be seen in Lower Erisa and Upper Erisa, these guys are generally seen after Shark-O's (They also sometimes spawn together and fight). These big guys are slow and relatively easy to fight if you know what you're doing.
 
-guys are slow and relatively easy to fight if you know what you're doing.
+They generally can tank a lot of damage while dealing it, The best strategy is to stay at a bit of distance and constantly parry the spin while dodging the big punch, parrying the other moves it throws at you.
+
+  
 
 **Attacks**
 
 -   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
+
 -   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. You cannot hide behind objects the beam passes through them. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
+
 -   **Rock Uppercut** - Similar to Shark-O's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away. The best way to avoid this is to roll away from him.
 
 -   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
@@ -185,7 +164,7 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 
 > _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
 
-Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Lower and Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
+Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
 
 File:FUCKFUCKFUCKFUCKFUCK.png
 
@@ -214,13 +193,11 @@ _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 
   
 
-### Turtle (Purple Crab)(Sheldon)
+### **Crab carl**
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
-A purple crab, not a lot about it is known but seen spawned in the cave of Lower Erisia.
-
-Also known to spawn AROUND the cliffiside of Lower and Upper Erisia alike, (on the seaside that is).
+An large giant crab like creature with extremely sharp claws able to slash any foe in its way. Dealing moderate damage and only spawns in upper erisa with a average hp pool. They can easily get you if unprepared and swings quickly but all moves are parryable.
 
 Drops strange claws.
 
@@ -235,7 +212,7 @@ Drops strange claws.
 -   **Devour** - Picks you up and consumes you.  
     
 
-### Blue Jellyfish
+### Blue Jellyfish (Eugene)
 
 File:Jellyfish.jpg
 
@@ -249,7 +226,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 -   **Devour** - Floats over your dead body and pulls you into its main body, consuming you.
 
-### Purple Chromatic Jellyfish
+### Purple Chromatic Jellyfish (Mother of Pearl)
 
 A massive purple jellyfish that is only found in The Depths. This enemy is just a DPS check for light weapons (attack too fast to fight back) but is very hard for other weapon classes.
 
@@ -281,7 +258,7 @@ Spawns somewhere within Minityrsa or near it, the Aratel Sea, the Void Sea, and 
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.  
     
 
-### **The Enforcer**
+### **The Enforcer (Rock)**
 
 A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level.
 
@@ -331,7 +308,7 @@ summoned by going in and out of the wall near the valley of heroes on the left c
 -   Their main attacks are to knock the player up and prevent them form escaping.
 -   View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
-### **Ice Golem (Hugo)**
+### **Ice Golem (Madara)**
 
 File:Ice Golem 4.png
 
@@ -425,7 +402,7 @@ One of the hardest enemies to solo he will parry every single attack its an abov
 -   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
 
-### **Sea Monkey**
+### **Sea Monkey (Primadon)**
 
 File:Seamonkey.png
 
@@ -446,7 +423,10 @@ A giant blue monkey that can be summoned on Monkey Paw Island. Does massive dama
 **Notes/Tips**
 
 -   He is incredibly tanky, and can take more than an hour to solo (that is, if you don't die.)
--   Reccomend bringing at least 6 other high levels with you when fighting it, and a Charisma user that has _**Sing**_ with Ally boost talents if they are in the same guild as you.
+-   Reccomend bringing at least 6 other high levels with you when fighting it, and a Charisma user that has _**Sing**_ with Ally boost talents if they are in the same guild as you.  
+    
+
+  
 
 ## Notes/Trivia
 

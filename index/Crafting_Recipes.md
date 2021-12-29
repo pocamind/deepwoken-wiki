@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 5822
+revid: 6090
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,7 +46,6 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **[Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
--   **[Candied Fruit](Candied_Fruit.md)** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **[Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
@@ -62,6 +61,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **[Fruit Cake](Fruit_Cake.md)** - _2 Fruits and 1 from each kind + Gathered Wheat_
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
+-   **[Candied Fruit](Candied_Fruit.md)** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
 -   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
 -   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
@@ -164,11 +164,11 @@ _**Negative**_
 
 #### _**Positive**_
 
--   Resivore Gain (gives back missing Resivore)
+-   Reservoir Gain (gives back missing Reservoir)
 
  | 
 
--   Good if fighting and you dont have the time to build a campfire to gain Resivore back.
+-   Good if fighting and you dont have the time to build a campfire to gain Reservoir back.
 
  |
 | **Disgusting Bane** | 
@@ -194,12 +194,12 @@ _**Negative**_
 
  | _**Positive**_
 
--   Worse verison of Soothing Potion, Just less Resivore gain.
+-   Worse verison of Soothing Potion, Just less Reservoir gain.
 
  | 
 
 -   Best used when thrown. but better effects when drank
--   Recomended in PVP when out of resivore
+-   Recomended in PVP when out of Reservoir
 
  |
 | **Dulling Blight** | 
@@ -235,7 +235,7 @@ _**Negative**_
 -   1-3 Calabash  
     
 
- | _**Negitive**_
+ | _**Negative**_
 
 -   Ether Drain
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 5676
+revid: 6104
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links]
 
 File:Frostdrawerlogo.png
 
-Frostdrawer allows the user to command the ice element, a versatile class that balances mobility and combat. Use hemafrost to level up frostdrawer ability and talk to [Nell](Attunement_Trainers.md) to level up mantras.
+Frostdrawer allows the user to command the ice element, a versatile class that balances mobility and combat. The NPC [Nell](Attunement_Trainers.md) can attune players to the element (allow your character use hemafrost) and level up mantras. Use hemafrost to level up frostdrawer.
 
 ## Talents
 
@@ -72,6 +72,17 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <p>+3 Elemental Intensity</p>
   <p>+2 Health</p></th>
 </tr>
+<tr>
+  <th><h3><b>Glass Path(?)</b></h3><p>Crystallization-(Generic Talent?)</p>
+  <p>Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.</p>
+  <p>(placeholder stat modifiers)</p></th>
+</tr>
+<tr>
+  <th><h3><b>Uncategorized</b></h3><p>Saint Jay-Generic Talent</p>
+  <p>When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled.</p>
+  <p>+5 Elemental Intensity</p>
+  <p>+2 Health</p></th>
+</tr>
 </tbody>
 </table>
 
@@ -95,7 +106,15 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <p>Fires a narrow beam of ice that punctures though the target hitting mutiple times (if not parried/blocked) Deals light damage and slows targets breifly.</p>
   <ul>
     <li><b>Frost Grab</b> - An icy chokehold.</li>
-  </ul><p>A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs)</p>
+  </ul><p>[add gif]</p>
+  <p>A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs)</p>
+  <ul>
+    <li><b>Crystal Impale</b> - Impale your foes with a brutal crystal smash</li>
+  </ul><p>[add gif]</p>
+  <p>It leaps you up and then you crash back down, dealing around 6-8 hits.</p>
+  <ul>
+    <li><b>Frost Legion</b> - (Summon an icey legion on your foes? will check)</li>
+  </ul><p>Almost identical to <a href="Flamecharm.md">burning servants</a>, but ice themed. Summon 4-5 Ice statues around the player that blow chilling air, becoming an AoE that will damage and slow characters inside. It also creates ice around the floor where the player stands.</p>
   <ul>
     <li></li>
   </ul></td>
@@ -105,22 +124,23 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <ul>
     <li><b>Ice Blade</b> - A barrage of freezing blades.</li>
   </ul><p></p>
-  <p>Medium weapon sized ice swords appear in both of your characters hands. The ice swords have narrow blades with 3 noticeable gaps on the blade with a short hilt. Your character then starts slashing in a fury, dealing light yet rapid damage.</p>
+  <p>Medium weapon sized ice swords appear in both of your character's hands. The ice swords have narrow blades with 3 noticeable gaps on the blade with a short hilt. Your character then starts slashing in a fury, dealing light yet rapid damage.</p>
   <ul>
-    <li><b>Ice Chain</b> - Freezing chains of ice</li>
+    <li><b>Ice Chain</b> - Freezing chains of ice.</li>
   </ul><p>File:Icechain.gif</p>
-  <p>Launches a narrow chain that (if target is hit) pulls the target twords your character. Deals light damage. Best used to get free M1 hits in with your melee weapon or to stop a escaping player. Not recommended for gun users.</p>
+  <p>Launches a narrow chain that (if the target is hit) pulls the target towards your character. Deals light damage. Best used to get free M1 hits in with your melee weapon or to stop an escaping player. Not recommended for gun users.</p>
   <ul>
-    <li><b>Ice Forge</b> - (Add skill description here.)</li>
-  </ul><p>Your character creates several shurikens and rapidly pelts them at your cursor. Deals light damage and briefly slows targets.</p>
+    <li><b>Ice Forge</b> - Conjure and throw weapons of ice.</li>
+  </ul><p></p>
+  <p>Your character creates several shurikens and rapidly pelts them at your cursor. Deals light damage and briefly slows targets.</p>
   <ul>
     <li><b>Ice Eruption</b> - A flurry of ice spikes.</li>
   </ul><p></p>
-  <p>Your character firmly stomps the floor to create a long path of ice spikes. Deals moderate damage and slows targets for quite a while comapred to other ice mantras (about 2 seconds). The mantra also creates a very wide ice sheet beneath it.</p>
+  <p>Your character firmly stomps the floor to create a long path of ice spikes. Deals moderate damage and slow targets for quite a while compared to other ice mantras (about 2 seconds). The mantra also creates a very wide ice sheet beneath it.</p>
   <ul>
-    <li><b>Ice Smash</b> - (Add skill description here.)</li>
+    <li><b>Ice Smash</b> - A colossal mace of ice.</li>
   </ul><p></p>
-  <p>Your character creates a huge ice club with sharp spikes near the end of the club. Your character then proceeds to quickly bash the club into the floor, dealing heavy damage and flinging targets with low knockback. Breifly slows the target. This mantra can also destroy breakables.</p></td>
+  <p>Your character creates a Kanabō. Your character then proceeds to quickly bash the club into the floor, dealing heavy damage and flinging targets with low knockback. Briefly slows the target. This mantra can also destroy breakables.</p></td>
 </tr>
 <tr>
   <td><h3>2 Star</h3>
@@ -173,8 +193,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <td><h3>0 Star</h3>
   <ul>
     <li><b>Adrenaline Surge</b> - A rush of agility.</li>
-  </ul><p><br>
-  Agility Support,</p>
+  </ul><p>Agility Support, (probably increases speed, doesnt seem to increase move cool down or spellcast rate)</p>
   <ul>
     <li><b>Summon Cauldron</b> - Make a cauldron appear from your memories.</li>
   </ul><p>Intelligence Support, summon a cauldron</p>
@@ -195,13 +214,8 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 </table></td>
 </tr>
 <tr>
-  <td></td>
+  <td><br>
+  <h2>Uncategorized Mantras</h2><p>Ice Dagger</p></td>
 </tr>
 </tbody>
 </table>
-
-Glass Path: Crystallization
-
-Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
-
-I got this with 41 Frostdraw and 20 fortitude 7 Agility 2 Intelligence 7 medium Weapon and 0 in the rest dm Chronos#6591 if you want proof lol

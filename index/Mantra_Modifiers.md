@@ -1,70 +1,190 @@
 ---
 title: Mantra Modifiers
-revid: 5796
+revid: 6120
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Mantra Modifiers
 
-This page is a list of all items that you can use in order to modify a mantra (add modifying items and how they modify a mantra). Its max is 3 per item.
+_This page is a list of all items that you can use in order to modify a Mantra._
 
-When you upgrade a mantra the previous upgrade will disappear. If you recall it, the upgrade still stands.  
+## Description
 
-## Mantra modifiers
-
-**WARNING:** Using lots of modifiers REQUIRES intelligence. Trying to do so anyway will fail the upgrade and DELETE all items involved (excluding the mantra).
-
-**Cloudstone**: Increases mantra size.
-
-**Stratus Stone**: Better version of **Cloudstone**. (Makes Wind Gun deal more damage instead of increasing size) - Wind Gun needs testing (Mine didn't)
-
-**Driftwood**: Increases casting speed.
-
-**Crystal Lens**: Increases mantra range.
-
-**Perfect Lens**: Better version of Crystal Lens.
-
-**Aeon Logstone**: Makes effects last longer.
-
-**Eternal Logstone**: Better version of AegLogstone.
-
-**Drift Shard**: Makes mantras (mainly projectiles) move faster.
+[Some clown using WAY TOO many items to enhance their mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
 
 Some clown using **WAY TOO** many items to enhance their mantra.
 
-**Rush Shard**: Better version of Drift Shard.
+Mantra Modifiers are items that can be used to expand the potential of your Mantras. Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
 
-**Amnesiac Driftwood**: Removes all modifiers on a mantra.
+You can stack up to 3 of each modifier, including their weaker versions. This means a user can put 3 _Drift Shards_ and 3 _Rush Shards_ on one Mantra. _Be aware that adding more will increase [Ether](Combat_Mechanics.md) cost._
 
-**Vibrant Gem**: Gives elemental boosts (Flames are more intense, Ice is more effective, etc).
+When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 
-You can stack up to 3 of each. Including their weaker versions. (Increases ether cost. You can't stack every item and expect it to cast.)
+Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required, with discs brightening with each requirement. The specific meanings of these discs are unknown currently.
+
+## Mantra Modifiers
+
+You can stack up to 3 of each modifier, including their weaker versions. This increases Ether cost though.
+
+| Image | Modifier | Effect |
+| --- | --- | --- |
+| 
+File:Cloudstonebigger.png
+
+ | Cloudstone | Increases mantra size. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Stratus Stone | Upgrade of **Cloudstone**. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Driftwood | Increases casting speed. |
+| 
+
+File:Screenshot 2021-12-28 151959.png
+
+ | Crystal Lens | Increases mantra range. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Perfect Lens | Upgrade of **Crystal Lens**. |
+| 
+
+File:Screenshot 2021-12-28 152201.png
+
+ | Aeon Logstone | Makes effects last longer. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Eternal Logstone | Upgrade of **Aeon Logstone**. |
+| 
+
+File:Screenshot 2021-12-28 152259.png
+
+ | Drift Shard | Makes Mantras (projectiles) move faster. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Rush Shard | Better version of **Drift Shard**. |
+| 
+
+File:Screenshot 2021-12-28 152413.png
+
+ | Amnesic Driftwood | Removes all modifiers on a Mantra. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Vibrant Gem | Intensifies elemental effects. |
 
 ## Sparks
 
 Sparks are modifiers that are only able to be used on specific mantras.
 
-If the modifier cannot be applied to the specific mantra you use it on, it will return **Incompatible Ingredients,** and you will lose the spark.
+If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
 
-**Magnet Spark**: Makes projectile spells homing.
+| Image | Modifier | Applicable Mantras | Effect |
+| --- | --- | --- | --- |
+| 
+File:Mantra Modifier Placeholder.png
 
-Electric Blade + Magnet Spark adds an extra teleporting slash to the end.
+ | Magnet Spark | Electric Blade
 
-[Jolt Grab](Thundercall.md#jolt-grab) + Magnet Spark makes Jolt Grab a teleport.
+Jolt Grab
 
-**Round Spark**: Makes AoE spells a circle.(i.e ice stomp becomes a circle instead of a line)
+ | Makes projectile spells homing. |
+| 
 
-**Blast Spark**: Makes things explode.
+File:Mantra Modifier Placeholder.png
 
-Blast Spark + Lightning Clones causes your clones to explode on death.
+ | Round Spark | Ice Stomp | Makes AoE spells a circle. |
+| 
 
-**Reversal Spark**: Reverses the effect of the skill. For example, using a reveral spark on Air Force will make the mantra pull people towards you instead of pushing them away. Is accepted by Lightning Impact, Flame leap, Air Push, and Tornado.
+File:Mantra Modifier Placeholder.png
 
-**Multiplying Spark**: Increase the number of hits on certain mantras. (Flame Blade)
+ | Blast Spark | Lightning Clones
 
-Multiplying Spark + Wind Gun makes it a shotgun
+Shadow Gun
 
-**Spring Spark**: Unknown effect. (test on moves that fling upwards?)
+ | Adds an explosion effect. |
+| 
 
-**Tornado Spark:** Adds a spin at the end of Dark Blade.
+File:Mantra Modifier Placeholder.png
+
+ | Reversal Spark | Lightning Impact
+
+Flame Leap
+
+Air Force
+
+Tornado
+
+Gale Punch
+
+ | Reverses the effect of the Mantra. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Multiplying Spark | Wind Gun
+
+Flame Blade
+
+ | Increases the number of hits. |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Spring Spark | _Unknown._ | Unknown effect.
+
+_"Alt text placeholder"_
+
+ |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Tornado Spark | Dark Blade | Exact effect unknown.
+
+_"You feel dizzy when you hold it."_
+
+ |
+
+### **Specific Effects**
+
+#### **Magnet Spark**
+
+-   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
+-   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
+
+#### Round Spark
+
+-   This modifier converts the _Ice Stomp_ Mantra's hitbox into a circle.
+
+#### Blast Spark
+
+-   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
+
+#### Reversal Spark
+
+-   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
+
+#### Multiplying Spark
+
+-   This modifier turns the _Wind Gun_ Mantra into a shotgun.
+
+#### Spring Spark
+
+-   _Unknown._
+
+#### Tornado Spark
+
+-   This modifier adds a spin at the end of the _Dark Blade_ Mantra.

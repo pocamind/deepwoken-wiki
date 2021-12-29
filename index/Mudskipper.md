@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 5643
+revid: 6056
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -31,7 +31,7 @@ Template:Creature Info Box v2
 -   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreath
 -   **Black Mudskipper** - Found in the _**Temple of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy.
 
-Notes/Tips
+Notes/Tips/Trivia
 
 -   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage.
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.
@@ -40,3 +40,4 @@ Notes/Tips
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck.
     -   Be careful about this, as you can get infinite stun locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use projectiles like Ice Shurikens, Fire Palm, Air Blast, or Guns.
+-   Mudskippers have a slight resemblance to the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us.
