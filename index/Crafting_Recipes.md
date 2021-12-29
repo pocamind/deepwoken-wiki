@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6090
+revid: 6292
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -124,7 +124,8 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
  |
 | **Icky Bane** | 
 
--   3x Redd
+-   1x Redd
+-   Any 2 Fruits
 
  | _**Positive**_
 

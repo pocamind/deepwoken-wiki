@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 5558
+revid: 6387
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,7 @@ Of course, this Page is useless because we have the Controls in the Game. But th
 
 **W + Space (airborn and facing a wall) - Wall Jump -** Perform two small hops on the wall, grabbing any ledge along the way if available. Some talents can improve this.
 
-**M1 (while crouching and behind an humanoid) - Backstab -** Swift motion that deal large damage (reduced on players) and leave the victim defenceless on the ground for a few seconds (reduced on players). If the victim say there hit dialogue (text chat that sound like pain), it means the backstab did not kill them instantly and is still alive.
+**M1 (while crouching and behind an humanoid) - Assassinate -** Swift attack that does large amounts of damage to [NPCs](Enemies.md), reduced against players. Can execute. If the enemy survives, they are left on the ground for a while, the duration of this is longer on [NPCs](Enemies.md). Can only be done when both the attacking player and the receiving enemy are not in combat. There are talents that can increase the damage and knockdown duration.
 
 **Space (airborn and facing a wall) - Wall Kick -** Performs a Wall Kick, sending upward while slightly pushing away from the wall. This is an alternative to wall climbing and is useful to go over ledges that slightly hangs to the side.
 

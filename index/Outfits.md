@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 6151
+revid: 6309
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -577,6 +577,8 @@ Power 45
 **note:** the stats on nearly all armor pieces are randomized. any numbered stat boosting effects you see in this section should probably be disregarded  
 armor pieces come in different "rarities' (ie ascended) meaning that item has more or higher valued stat bonuses. this can apply to items that dont normally roll with stats, such as an iron mask or headband. an items rarity **does not change the items look** (please, dont make seperate entries for different rarities of the same armor piece).
 
+You can find an NPC that transfers your gear's attributes/stats into another, for matching your attire and drip. The NPC, by the name of Jarvis, is located inside the Stronghold of [Summer Isle](Summer_Isle.md), near the Underground Arena.
+
 ### Ears
 
 | Image | Armor | Effects |
@@ -731,6 +733,8 @@ File:Leather boots.png
  | Leather Boots | +4 Health |
 | 
 
+File:White fur boots.png
+
  | White Fur Boots | +20 Ether
 
 +3 Health
@@ -763,6 +767,15 @@ File:Khanboots.png
  |
 
   
+
+File:Imperial Boots.png
+
+  
+
+  
+
+  
+Imperial Boots + 44 Resivoir +3% Dmg vs sea + 5 Health
 
 ### Rings
 

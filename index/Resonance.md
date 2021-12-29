@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 6257
+revid: 6279
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-Currently there is no confirmed way of obtaining a Resonance. Some **speculations** say that obtaining a bell requires the player to stay in The Depths for seven hours. However, this is not confirmed. The only two confirmed things about obtaining one is that 1. The player has to be knocked down and wake up to gain the resonance and 2. An effect with three spinning rings with crosses well signify a gaining of a resonance.
+Currently there is no confirmed way of obtaining a Resonance. The only two confirmed things about obtaining one is that 1. The player has to be knocked down and wake up to gain the resonance and 2. An effect with three spinning rings with crosses well signify a gaining of a resonance.
 
 It is theorized that the game will tell you that your resonance has been made, and will tell you the how to activate it. (Minor speculation) You will gain a power card similar to a mantra on the left side of your screen.
 

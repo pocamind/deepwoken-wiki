@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 6205
+revid: 6384
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,27 +31,27 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 **Adrenaline Surge** - An adrenaline rish of agility. (Requirement: Agility, Support Mantra)
 
-**Revenge** - A red, teleporting dash that deals damage to those caught in it's path. (Requirement: Agility, Combat Mantra)
+**Revenge** - A red, teleporting dash that deals damage to those caught in it's path. (Requirement: 5 Agility, Combat Mantra)
 
 ### Strength Mantras
 
-**Strong Left** - A powerful, flinging punch that shatters the air. (Requirement: Strength, Combat Mantra)
+**Strong Left** - A powerful, flinging punch that shatters the air. (Requirement: 5 Strength, Combat Mantra)
 
 ### Intelligence Mantras
 
 **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. (Requirement: Intelligence, Support Mantra)
 
-**Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source. (Requirement: Intelligence, Combat Mantra)
+**Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source. (Requirement: 50 Intelligence, Combat Mantra)
 
 ### Willpower Mantras
 
-**Gaze -** An ability where you stare at them and make them go insane (Requirement: Willpower, Support Mantra)
+**Gaze -** An ability where you stare at them and make them go insane (Requirement: 10 Willpower, Support Mantra)
 
 **Exhausting Strike-** A melee strike that once performed removes your posture's damage (Requirement: Willpower, Combat Mantra)
 
 ### Light Weapon Mantras
 
-(insert light weapon mantras here)
+**Rapid Slashes** - Rush down your opponent cutting them apart.
 
 ### Medium Weapon Mantras
 

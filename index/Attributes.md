@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 6049
+revid: 6286
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -109,6 +109,8 @@ _"It was too big to be called a sword. Massive, thick, heavy, and far too rough.
 
 ### Medium Weapons
 
+Long =/= better. - Someone who regretted buying a spear.
+
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
 -   Certain Medium Weapons, such as the Gremorian Longspear, requires a Medium Weapons requirement.
@@ -116,6 +118,8 @@ _"It was too big to be called a sword. Massive, thick, heavy, and far too rough.
 -   Gain Medium Weapons EXP by dealing damage with Medium Weapons.
 
 ### Light Weapons
+
+"Britain." - Trigger Happy Adret
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.

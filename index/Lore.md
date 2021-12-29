@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 6252
+revid: 6327
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,14 +63,25 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 (Placeholder)
 
-### The Empire/Legion
+### Nation of Etrea
 
-(Placeholder)
+-   A government ruled by Etreans. They occupy the Etrean Luminant, and its capital being Etris.
+-   Not to be confused with The Authority, as they called them Dogs after a confrontation of them.
+-   Their appearance can be distinguished by their white/green armor.
+
+An Etrean Guard, part of the Nation of Etrea
+
+  
 
 ### The Authority
 
 -   The Authority are Peacekeepers, and are not to be confused with the Nation of Etrea.
--   The Authority wears armor, over a red coat; similar to Pirates.
+-   The Authority wears armor, over a red coat; similar to Pirates. There are also Authority members that wear legion-like armor.
+-   Consists mostly Adrets, but can vary with other races too.
+
+A Peacekeeper Grunt, part of The Authority
+
+  
 
 ### Navaen Nomads
 
@@ -82,7 +93,13 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### The Divers
 
-(Placeholder)  
+(Placeholder)
+
+### Tribespeople of the Song
+
+-   Tribesmen that worships the Song, presumably [Sea Serpent Ardur](Monsters.md).
+-   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
+-   Flamecharm Tribesmen are commonly found in Songseeker Isles, and Frostdraw Tribesmen can be found in [Minityrsa](Minityrsa.md).
 
 ## Attunement Lore
 

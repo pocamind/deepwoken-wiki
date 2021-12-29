@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6093
+revid: 6382
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,9 +8,15 @@ categories: [Pages with broken file links]
 
 # Enchantments
 
-_"I always wanted to see what the LGBTQ enchant did to people!"_  
+_"I've always wanted to see what the 'LGBTQ' enchant did to people!"_
 
-## Description
+<table>
+<tbody>
+<tr>
+  <td>Description</td>
+</tr>
+</tbody>
+</table>
 
 Enchants are basically upgrades/power-ups for your weapon/gear. There are 3 variants of Enchants. First, there is your normal Enchant. Secondly, there are curses, which are stronger than normal enchants but there are downsides to them. Thirdly, there are Blessings, which are curses but without any downsides.
 
@@ -45,8 +51,7 @@ File:Curse of the Bloodthirsty.jpg
 ### Curse of the No-Life King
 
 -   Pros: Unknown. (Perhaps damage increase?)
--   Cons: You are put to one life. (Thought to be.)  
-    
+-   Cons: You are put to one life. (Thought to be.)
 
 File:Hero Blessing.jpg
 
@@ -55,14 +60,12 @@ File:Hero Blessing.jpg
 ### Hero Blessing
 
 -   Pros: 3x M1 damage at full HP and has M1 hyper armor.
--   Cons: When your low hp you do less than normal damage.
+-   Cons: When you're low hp you do less than normal damage.
 
 ### LGBTQ
 
 -   Pros: Same thing as Hero Blessing, but more op. Guardbreak hit but you can parry it. (?)
 -   Cons: You can't obtain it...?
-
-  
 
 ### Detonation
 
@@ -88,7 +91,18 @@ File:Gum.jpg
 **Bungee Gum**
 
 -   Pros: Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.
--   Cons: Makes backing out of a fight more difficult.
+-   Cons: Makes backing out of a fight more difficult.  
+    
+
+### Storm
+
+File:Storm enchant.png
+
+Storm enchant on a Crescent Cleaver
+
+-   Pros: Increases stun (needs testing) as well as a small chance to call lightning from the sky on hit, doing additional damage.
+-   Cons: Unkown.  
+    
 
 ### Obfuscation
 
@@ -117,6 +131,10 @@ File:Providence.png
 
 ### Gluttony
 
+File:Gluttony.png
+
+Gluttony on a Crescent Cleaver
+
 -   Pros: Drains a person's thirst and hunger every M1 Connection and gives it to the user.
 -   Cons: Unknown.
 
@@ -134,17 +152,11 @@ Grim on a Messer(?)
 -   Pros: Steals ether when an M1 connects.
 -   Cons: Unknown.
 
-  
-
-  
-
 File:Wild sword.png
 
 ### Wild
 
-Pros: Unknown
-
-Cons: Unknown
+Pros: Unknown Cons: Unknown
 
   
 
@@ -152,31 +164,38 @@ File:Metal.png
 
 Metal
 
-### Pros: Unknown
+### Metal
 
-**Cons: Unknown**
+Pros: Unknown Cons: Unknown
 
-  
+### Deferred
 
-  
+File:Deferred.png
+
+Deferred on a Messer
+
+-   Pros: Attacks deal Damage over time instead of instantly.
+-   Cons: Attacks deal Damage over time instead of instantly.  
+    
 
 ### Hero Sword (Might not be considered an enchant)
 
 Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords.
 
 -   Versions: Wind, Fire, Lightning, Ice, Shadow
-
 -   Lightning: Stuns enemy for longer.
-
 -   Ice: Unknown for now.
-
 -   Fire: Sets your enemy on fire.
-
 -   Wind: Unknown for now.
-
 -   Shadow: Uknown for now.
 
 ## Armour
+
+### Multiplicity
+
+Pros: If player is struck by another player or humanoid npc, it has a chance to summon a clone of said person or npc who dealt the hit, the clone summoned will target its original until it is defeated or dissapear
+
+THIS ENCHANT IS CURRENTLY DISABLED AND WILL BE REPLACED WITH A NEW ENCHANT IN A LATER UPDATE
 
 ### Adhesive
 

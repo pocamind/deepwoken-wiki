@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 5751
+revid: 6362
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -56,7 +56,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 ### How to obtain:
 
-Head to Lower Ersia and make your way to the large bandit camp (just slightly past the bandit camp in the ran-down house), climb up the wall on the right until you see a temple-like structure. Head inside the structure, but watch out for the spotlight monsters that can also be found in The Depths, as they'll spawn an angel entity that uses spear combat if you're spotted by them. From there, head inside the temple and enter the opening on the left. All that remains from there is to equip the blindfold and read the text on the wall with the requirements and accept the Oath.
+Head to Lower Ersia and make your way to the large bandit camp (just slightly past the bandit camp in the ran-down house), climb up the wall on the right until you see a temple-like structure (Temple of The Forgotten Flame). Head inside the structure, but watch out for [Watchers](Watcher.md) that can also be found in The Depths, as they'll spawn an angel entity that uses spear combat if you're spotted by them. From there, head inside the temple and enter the opening on the left. All that remains from there is to equip the blindfold and read the text on the wall with the requirements and accept the Oath.
 
 ### Oath Effects:
 
@@ -64,6 +64,7 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   +10 Sanity (remain in The Depths for longer)
 -   +1 Support Mantra Slot
 -   +1 Wildcard Mantra Slot
+-   Slight no fog
 -   Full vision while wearing a blindfold
 -   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md)) (you can actually equip other face accessories and still have the full effects of the oath (Except the fullbright.) and the drippy eye symbol, although if you don't have any face accesory on it will still show you as weraing a blindfold)
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 6244
+revid: 6368
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -152,7 +152,7 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 -   **Ship Crunch** - Damage ships using its powerful Jaw, dealing unknown damage to them. (Can 4-6 Shot a Sloop in my experience)
 -   **Descend -** Descends down into the Water, avoiding damage.
 -   **Bite -** Gnaws on players with 3 swift bites, dealing moderate damage.
--   **Water cannon** - The Lionfish faces it's body up into the sky, pressurizing water and firing it in a massive burst. (Depths only.)
+-   **Water Cannon / Cero** - The Lionfish faces it's body up into the sky, pressurizing water and firing it in a massive burst. (Depths only.)
 
 **Finisher**
 
@@ -399,7 +399,13 @@ fuc
 
 ### **Squid Hoss (Squibbo)**
 
-One of the hardest enemies to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
+> "A_yo who the fuck is this cluthulu looki-"_
+
+> _\- ~Weary Traveller~ Mudskipper._  
+
+A player getting turned into a Mudskipper
+
+the hardest enemie to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
 
 Drops odd tentacles.
 
@@ -418,8 +424,9 @@ Drops odd tentacles.
 -   STAY CALM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
+-   if he's cursed **RUN,** Your not beating him solo. he will violate you in 10 seconds
 
-### **Sea Monkey (Primadon)**
+### **Sea Monkey**..**Primadon)**
 
 File:Seamonkey.png
 
@@ -427,7 +434,7 @@ _MMmm. Sea Monke._
 
 > "Damn, he got a fat ass." - every player
 
-A giant blue monkey that can be summoned on Monkey Paw Island. Does massive damage and if you die to a sea monkey you will be sent to The Depths regardless of how many lives you have.
+A giant blue monkey (thats a fucking gorilla) that can be summoned on Monkey Paw Island. Does massive damage and if you die to a sea monkey you will be sent to The Depths regardless of how many lives you have.
 
 **Attacks**
 

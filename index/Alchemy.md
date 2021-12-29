@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 5818
+revid: 6363
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ uhhh thats it lol!!!!!
 
 **Hi, Felinor here, I found out some recipes! (miodrag333) (Anja <3#3252)**
 
-3x browncap = disgusting bane (Doesnt seem to do much, all we know it does a little bit of damage)
+3x browncap = disgusting bane (Doesnt seem to do much, all we know it does a little bit of damage) (Doesn't get improved with Beeswax)
 
 3x Gobletto = Invigorating Elixer (Health regen, drinking too many can make you throw up, doesnt work when splashing)
 

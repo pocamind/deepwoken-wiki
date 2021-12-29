@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 6080
+revid: 6373
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -57,7 +57,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>Stiletto</td>
   <td>0 Light Weapon</td>
   <td>10</td>
-  <td></td>
+  <td>1</td>
   <td>starter</td>
 </tr>
 <tr>
@@ -70,8 +70,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td>Silver Dagger</td>
   <td>35 Light Weapon</td>
-  <td></td>
-  <td></td>
+  <td>12</td>
+  <td>6</td>
   <td></td>
 </tr>
 <tr>
@@ -94,6 +94,13 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>16</td>
   <td></td>
   <td></td>
+</tr>
+<tr>
+  <td>Krulian Knife</td>
+  <td>60 Light Weapon</td>
+  <td></td>
+  <td></td>
+  <td>Rare (exclusive drop from <a href="The_Ferryman.md">The Ferryman</a>)</td>
 </tr>
 </tbody>
 </table>
@@ -137,7 +144,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead. To use your off-hand gun, you must press M2.
+Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead. To use your off-hand gun, you must press M2. Revolver, Flintlock and Dragoon can all be obtained at Summer Isle.
 
 <table>
 <tbody>
@@ -203,7 +210,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Falchion</td>
   <td>20 Medium Weapon</td>
-  <td></td>
+  <td>18.5</td>
   <td></td>
 </tr>
 <tr>
@@ -227,7 +234,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Vigil Longsword</td>
   <td>40 Medium Weapon</td>
-  <td></td>
+  <td>20</td>
   <td></td>
 </tr>
 <tr>

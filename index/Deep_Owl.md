@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 4999
+revid: 6337
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 > _"A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity."_
 
-Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across [Lower Erisia](Erisia.md), [Upper Erisia](Upper_Erisia.md), And [The Depths](The_Depths.md). Its sudden appearance infront of you is signified by a singular Black Feather that floats in the location where he will spawn.
+Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across [Lower Erisia](Erisia.md), [Upper Erisia](Upper_Erisia.md), And [The Depths](The_Depths.md). It's sudden appearance infront of you is signified by a several Black Feathers that floats in the location where he will spawn.
 
 When prompted to respond to the giant creature, reply with _"I'm just passing through."_ and go back the way you came stranger. You are more likely to survive that way.
 

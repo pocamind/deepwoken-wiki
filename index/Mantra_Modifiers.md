@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6269
+revid: 6366
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This me
 
 When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 
-Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently.
+Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific talent or Intelligence.
 
 ## Mantra Modifiers
 
@@ -39,11 +39,7 @@ File:Cloudstonebigger.png
 File:Mantra Modifier Placeholder.png
 
  | Stratus Stone | Upgrade of **Cloudstone**. |
-| 
-
-File:Mantra Modifier Placeholder.png
-
- | Driftwood | Increases casting speed. |
+|  |  |  |
 | 
 
 File:Screenshot 2021-12-28 151959.png
@@ -78,7 +74,7 @@ File:Mantra Modifier Placeholder.png
 
 File:Screenshot 2021-12-28 152413.png
 
- | Amnesic Driftwood | Lowers cooldowns on a mantra. |
+ | Amnesic Driftwood | Removes all Modifiers on a Mantra |
 | 
 
 File:Mantra Modifier Placeholder.png

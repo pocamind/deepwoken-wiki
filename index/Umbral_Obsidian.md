@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 6223
+revid: 6365
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Umbral Obsidian
 
-Umbral Obsidian is a material used to obtain the [Shadowcast](Shadowcast.md) Mantra. It can be obtained by killing creatures other than jellyfish ~in the depths~ (Can be obtained on overworld and The Depths) such as [Sharkos](Megalodaunt.md) and [Lionfish](Lionfish.md). It is a 10% chance drop so that makes it fairly rare. 5 Umbral Obsidian are required to obtain Shadowcast. (This may have other uses but for now this is the only one that I know of.)
+Umbral Obsidian is a material used to obtain the [Shadowcast](Shadowcast.md) Mantra. It can be obtained by killing creatures from the depths (you do not have to be in the depths to obtain it) such as [Sharkos](Megalodaunt.md) and [Lionfish](Lionfish.md), there are a few exceptions so dont think you can just farm jellies for them. It is a 10% chance drop so that makes it fairly rare. 5 Umbral Obsidian are required to obtain Shadowcast. (This may have other uses but for now this is the only one that I know of.)
 
 ## Description
 

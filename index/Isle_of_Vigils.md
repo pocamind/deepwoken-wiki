@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 5886
+revid: 6275
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,6 +46,9 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the right corridor room; sitting down sobbing.
 -   He asks you to rescue, or find his sibling in Erisia.
+-   His sibling is difficult to reach, but can be found high above the streams where the golems spawn frequently, he's in an abandoned house facing the sea and is bleeding out.
+-   You must have a galestone in order to complete the quest.
+-   Afterwards, you return to Kj in Vigils who allows you an audience with Maestro in the training hall.
 
 ### Lumberjack Quest
 
