@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 6043
+revid: 6205
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,9 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 ### Willpower Mantras
 
-**Gaze -** An ability where you stare at them and make them go insane
+**Gaze -** An ability where you stare at them and make them go insane (Requirement: Willpower, Support Mantra)
+
+**Exhausting Strike-** A melee strike that once performed removes your posture's damage (Requirement: Willpower, Combat Mantra)
 
 ### Light Weapon Mantras
 
@@ -53,8 +55,8 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 ### Medium Weapon Mantras
 
-Master's Flourish - A spinning slice with your sword
+**Master's Flourish** - A spinning slice with your sword
 
 ### Heavy Weapon Mantras
 
-Pressurized Blast - Unlease a powerful pressure blast from the weight of you weapon
+**Pressurized Blast** - Unlease a powerful pressure blast from the weight of you weapon

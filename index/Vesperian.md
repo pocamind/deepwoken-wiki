@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 6112
+revid: 6250
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
   
 
-**Get rid of your ugly fucking custom vesparians and put a picture of a fucking freshie one instead cuck shits**
+**a drippy race**
 
 File:Goated Vesperian.png
 
@@ -46,9 +46,10 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 
 ## Notes/Trivia
 
--   I'm pretty sure this is a reference to Neon Genesis Evangelion and Hollow Knight.
--   Vesperians have rigan eyes and no mouth under their mask
+-   I'm pretty sure this is a reference to Neon Genesis Evangelion, Hollow Knight and Halo 3: ODST
+-   Vesperians have yellow circles as eyes and no mouth under their mask
 -   Vesperians get a special mask when Blindseer is aquired.
+-   Their eyes kinda look like a cat on drugs
 
 <table>
 <tbody>

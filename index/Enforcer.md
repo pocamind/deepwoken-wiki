@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 5715
+revid: 6142
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -25,7 +25,7 @@ _"You see this guy your not boned cuz they dont one shot" - Some tester_
 ## **Notes**
 
 -   It is widely considered easier than the corrupted sharko trial or 2 angels. Due to having no ranged attacks meh damage output and meh hp
--   Due to the name "Enforcer" complied with his goal to seemingly stop you from leaving the depths, i can be theorized that leaving is something forbidden, which the player obviously ignores.
+-   Due to the name "Enforcer" complied with his goal to seemingly stop you from leaving the depths, it can be theorized that leaving is something forbidden, which the player obviously ignores.
 -   Rumored to be the spawn of a Lad daddy long since gone. The Enforcer's however are only able to reach Thad level due to the lack of attention they got in their childhood. Page of Lad Daddy [here](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops)
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg

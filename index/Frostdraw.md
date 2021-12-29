@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 6104
+revid: 6143
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links]
 
 File:Frostdrawerlogo.png
 
-Frostdrawer allows the user to command the ice element, a versatile class that balances mobility and combat. The NPC [Nell](Attunement_Trainers.md) can attune players to the element (allow your character use hemafrost) and level up mantras. Use hemafrost to level up frostdrawer.
+Frostdraw allows the user to use/\*draw\* ice magic. Frostdraw is slightly slower compared other magics but is still quick and cunning. The mantra afflicts a brief agility pentalty when targets are hit and is the only mantra so far that can create physical objects that you or your opponents can collide with. To train frostdraw you will need to buy the Hemafrost training gear. Hemafrost can be found in any mantra Etris or Vigils. To upgrade any frostdraw mantra you will need to visit Nell, an npc found near Etris in a small home. Upon speaking to Nell you will need to bring frigid prisims to her in order to upgrade your mantras.
 
 ## Talents
 
@@ -170,7 +170,7 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
   <ul>
     <li><b>Glacial Arc</b> - An arc of ice.</li>
   </ul><p></p>
-  <p>Fires a narrow ice *tendril* that arcs upward and impacts wherever the cursor is. (with spell creation mutiple tendrils can be fired at once at a certain interval. The arc lasts a (pretty long, uncomfirmed) amount of time and can be climbed on. Usually used to gain more height to climb a wall, but can be used in combat if timed correctly. Whever the tendrils impacts does, infact, deal damage. Deals heavy damage and slows target for about 2 seconds. Of course this is difficult to do, unless your fighting NPCS. (Don't try this with players).<br>
+  <p>Fires a narrow ice *tendril* that arcs upward and impacts wherever the cursor is. (when infusing with a cloud or stratus stone, mutiple tendrils can be fired at once at a certain interval, such as in the gif) The arc lasts a (pretty long, uncomfirmed) amount of time and can be climbed on. Usually used to gain more height to climb a wall, but can be used in combat if timed correctly. Whever the tendrils impacts does, infact, deal damage. Deals heavy damage and slows target for about 2 seconds. Of course this is difficult to do, unless your fighting NPCS. (Don't try this with players).<br>
   </p></td>
 </tr>
 <tr>
@@ -191,12 +191,6 @@ Frostdrawer allows the user to command the ice element, a versatile class that b
 <tbody>
 <tr>
   <td><h3>0 Star</h3>
-  <ul>
-    <li><b>Adrenaline Surge</b> - A rush of agility.</li>
-  </ul><p>Agility Support, (probably increases speed, doesnt seem to increase move cool down or spellcast rate)</p>
-  <ul>
-    <li><b>Summon Cauldron</b> - Make a cauldron appear from your memories.</li>
-  </ul><p>Intelligence Support, summon a cauldron</p>
   <ul>
     <li></li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6120
+revid: 6269
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This me
 
 When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 
-Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required, with discs brightening with each requirement. The specific meanings of these discs are unknown currently.
+Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently.
 
 ## Mantra Modifiers
 
@@ -33,7 +33,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 | 
 File:Cloudstonebigger.png
 
- | Cloudstone | Increases mantra size. |
+ | Cloudstone | Increases mantra size or quantity. |
 | 
 
 File:Mantra Modifier Placeholder.png
@@ -78,7 +78,7 @@ File:Mantra Modifier Placeholder.png
 
 File:Screenshot 2021-12-28 152413.png
 
- | Amnesic Driftwood | Removes all modifiers on a Mantra. |
+ | Amnesic Driftwood | Lowers cooldowns on a mantra. |
 | 
 
 File:Mantra Modifier Placeholder.png
@@ -172,6 +172,7 @@ _"You feel dizzy when you hold it."_
 #### Blast Spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
+-   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 
 #### Reversal Spark
 

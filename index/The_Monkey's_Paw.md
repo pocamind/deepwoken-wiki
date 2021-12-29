@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 6076
+revid: 6266
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,10 +13,13 @@ Template:AreainfoboxNorth East of Songseeker Wilds, There's a gate, and you want
 
 Once you enter the Island (from the front), there is a ridge which overlooks a massive flat ground. To the left and to the right of the ridge, there's 2 ropes that lead down into it. The ropes don't work. (What a shame)
 
-On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, all of the purple items, and all of the green items. (There's probably an item you need to sacrifice, I didn't see anything happen.)
+On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, all of the purple items, and all of the green items. This fire is used to summon the Primadon, a massive aquatic ape. To summon the Primadon, you need to sacrifice a Megalodaunt hide (I've seen people say 5, but I've also seen it summoned with only 1 megalodaunt hide. Try 1 and if that doesn't work keep putting Megalodaunt hides into the fire until the Primadon spawns.)
 
   
-**THERE IS NO SHIP POST, PACK A REPAIR HAMMER AND SOME WOOD**
+
+There is a ship post.
+
+  
 
 (edit there is only 1 ship post at the front of the island)
 

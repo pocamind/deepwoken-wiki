@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 6067
+revid: 6262
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,6 +17,10 @@ peaceful life as nomads before the tides came.
 Tolerant of extremes that many others would avoid._"
 
 Chance of obtaining race: **12%**
+
+## Lore
+
+_The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremor seek simple lives away from the conflicts of the The Authority, with a majority living in Nomadic tribes. The Gremor of the Eastern Luminant are renowned for following a celestial known as "Navae", a protector of Ice and Shadow._
 
 ## Racial Traits
 
@@ -49,28 +53,6 @@ Chance of obtaining race: **12%**
 </tr>
 </tbody>
 </table>
-
-## Miscellaneous
-
-**Lore:**
-
-## Lore
-
-Nomads
-
-**Strengths:**
-
-## Strengths
-
-+2 Strength, +2 Fortitude.
-
-Know where you are going at sea
-
-**Weaknesses:**
-
-## Weaknesses
-
-Compass doesn’t work in void sea of depths
 
 ## Notes/Trivia
 

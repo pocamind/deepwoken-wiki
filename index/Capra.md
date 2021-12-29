@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 6116
+revid: 6165
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,13 +8,11 @@ categories: [Pages with broken file links, Races]
 
 # Capra
 
+## Etymology
+
+"Capra" is the scientific name of the genus of mammals called "goats". The word is from Latin.
+
 ## Description
-
-Capra just means goat in spanish/romanian so its prolly more leaning on "goat-person."
-
-\-In spanish "Capra" doesn't meat goat but if you just change the p to a b (cabra) it will mean goat, and in romanian goat is "capră". (Maybe I'm wrong on the second one)
-
-Drippy Stuff
 
 -   Chance of obtaining race: **2.0%**
 

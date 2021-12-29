@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 6122
+revid: 6148
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,6 +46,8 @@ The Heart Plaza contains 2 quests, and a R&D room.
 
 File:Greathive Aratel4.png
 
+Suri the NPC
+
 The first quest is given by a vesperian named "Suri" to visit his dead brother's grave in Isle of Vigils. (I skipped over some dialogue, you're supposed to do something before you visit the grave)
 
 File:Greathive Aratel5.png
@@ -80,6 +82,8 @@ File:Greathive Aratel8.png
 Witch shop from the balcony
 
 **UPDATE ON THE VESPERIAN GRAVE QUEST:** Do not take fall damage, or damage in general, It will break the delicate flower that Suri gives you.
+
+**UPDATE ON THE VESPERIAN GRAVE QUEST 2:** When you complete the quest you get a Vibrant Gem as compensation. Do not take any damage, or else you will have to go back.
 
 Extra: There is green wells around the hive, that you can invoke. I'm not able to invoke any of the wells, so I don't know what they do or what they require. However, they're most likely used to teleport, or for fast travel vertically.
 

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 6053
+revid: 6134
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,5 +34,7 @@ _Return -_ "\[Servant's name\] return." The servant will start running back towa
 _**Live (Legendary talent) -**_ "\[Servant's name\] live." The servant will get back to full hp and get some buffs (not sure which, if you know add it.)
 
 Commands can be used across the map (excluding return), for example, if the Master was at Erisia and the Servant was at Etris, if the Master said "\[Servant's name\] run." The Servant will start running.
+
+Commands can be stacked, example being if you say "\[Name\], say I will sleep now." The servant will both sleep and say "I will sleep now."
 
 Commands can be used as "\[All\]" if you want to effect all your servants

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 5899
+revid: 6252
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -69,7 +69,8 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### The Authority
 
-(Placeholder)
+-   The Authority are Peacekeepers, and are not to be confused with the Nation of Etrea.
+-   The Authority wears armor, over a red coat; similar to Pirates.
 
 ### Navaen Nomads
 

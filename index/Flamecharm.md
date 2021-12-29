@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 6041
+revid: 6263
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -14,7 +14,7 @@ Flame charm icon
 
 -   **Description**
 
-Flamecharm is an element thats belong to Fire, to train this element, you need to buy **Hearthgem.**
+Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Hearthgem. Hearthgems could be found in every mantra and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to visit a Ganymede (don't know the name) found in Lance's Resturant near the entrance. You will need to offer up Dying Embers in order to upgrade your mantras.
 
 ## Mantras
 

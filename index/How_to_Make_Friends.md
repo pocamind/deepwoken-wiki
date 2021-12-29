@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 5981
+revid: 6156
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,21 +8,19 @@ categories: [Pages with broken file links]
 
 # How to Make Friends
 
-The ultimate guide on how to make friends whether it's with felinors(freak) or canors.
+**Overview**
 
-WARNING: Some people are getting their roblox account banned for using this item, due to the lines it makes you say
+How to Make Friends is a training tool used to increase your **charisma**. It can be found in bookstores, and costs 25 Notes. In order to train your Charisma, you must recite the provided dialogue that appears at the top of your screen.
 
-The book "how to make Friends" makes you go around and talk to other beings(shocking) to get charisma.
+**Usage**
 
-To use the book type the sentences into the chat.  
+In order to succesfully use How to Make Friends, select the item in your inventory and click. You must then type out the sentence provided word for word, including punctuation and capitalization. It's recommended to do it around NPCs or other players in order to increase your charisma faster.  
 
 File:Tempsnip.png
 
 **LOCATION in etris**
 
-in etris it's found in the bookstore on the bookshelf across from the door. (I don't know other locations)
-
-_The excerpts from the book that you say to others._
+**Phrases**
 
 "Me-wow, is that the latest Felinor fashion?"
 
@@ -39,3 +37,5 @@ _The excerpts from the book that you say to others._
 "Some weather we're having, huh?"
 
 "You ever been to a Canor restaurant? The food's pretty howlright."
+
+"Are you doing anything this weekend? Because I'd like to see you greMORE."

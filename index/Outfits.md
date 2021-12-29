@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 6068
+revid: 6151
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -788,7 +788,7 @@ File:Kongasclutchring.png
 <tbody>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Forgot (depths drop)</td>
+  <td>heavy hands ring (depths drop)</td>
   <td>Reduces M1 speed for increased posture dmg</td>
 </tr>
 </tbody>

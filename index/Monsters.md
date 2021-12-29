@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 6125
+revid: 6244
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ For information on Human Enemies, go [here](Enemies.md).
 
 ## Monsters
 
-### Mudskippers
+### Mudskippers (Zed, Zed and Zeddy)
 
 _Main Source - [Mudskipper](Mudskipper.md)_
 
@@ -58,17 +58,17 @@ Notes/Tips
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko)
+### Megalodaunt (Sharko/Hugo)
 
 _Main Article - [Megalodaunt](Megalodaunt.md)_
 
-"Bet that Sharko got a fat ass..... WH-"
+"Yo I'm gonna go farm some bandits real quic- WHAT THE FUCK"
 
-\- Some Adret
+\- Some freshie
 
 Megalodaunt eating an NPC.
 
-Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use five of these to unlock a boss fight against primadon, also can be sold for notes)
+Seen mostly in Lower Erisia and around the Erisia Island, Hugo is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death. Upon being killed, it drops his Hide.(use five of these to unlock a boss fight against primadon, also can be sold for notes)
 
 **Attacks**
 
@@ -95,7 +95,11 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Megalodaunt between each of you and when one of you fighting gets low you swap out and heal.
 -   They have great ass.
 
-### **Rock Golem (Hughbert)**
+### **Rock Golem (Johnathan)**
+
+"Ben 10 in Deepwoken!?!?!?"
+
+\- Very Dead Man
 
 File:Rock Golem standing in distance.png
 
@@ -164,7 +168,7 @@ These Monsters can come in pairs or alone, and will tear your ship apart and fin
 
 > _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
 
-Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
+Giant gatekeeping Owl, presumed to drop Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting. Drops Black feathers / Void feathers
 
 File:FUCKFUCKFUCKFUCKFUCK.png
 
@@ -211,6 +215,15 @@ Drops strange claws.
 
 -   **Devour** - Picks you up and consumes you.  
     
+
+File:Crabby man ZoomedInVersion.png
+
+### Actual Crab (Bob)
+
+Unlike carl this crab is actually large averaging in about 8 times the size that spawns in the depths. Like carl it uses its large claws to snap at ya. It also shoots lots o bubbles.
+
+  
+This is just a placeholder for a real document on it.  
 
 ### Blue Jellyfish (Eugene)
 
@@ -262,6 +275,8 @@ Spawns somewhere within Minityrsa or near it, the Aratel Sea, the Void Sea, and 
 
 A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level.
 
+Drops the Enforcer Axe
+
 **Attacks**
 
 -   **High Swing -** Lifts its axe high in the air and brings it down on the enemy
@@ -308,7 +323,7 @@ summoned by going in and out of the wall near the valley of heroes on the left c
 -   Their main attacks are to knock the player up and prevent them form escaping.
 -   View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
-### **Ice Golem (Madara)**
+### **Ice Golem (Hashirama)**
 
 File:Ice Golem 4.png
 
@@ -386,6 +401,8 @@ fuc
 
 One of the hardest enemies to solo he will parry every single attack its an above average in size squid smaller than a Sharko but is way stronger. Found in the Depths. It has health similar to a Sharko.
 
+Drops odd tentacles.
+
 **Attacks**
 
 -   **~Stand~ Melee Rush** - Punches you many times into kicks
@@ -407,6 +424,8 @@ One of the hardest enemies to solo he will parry every single attack its an abov
 File:Seamonkey.png
 
 _MMmm. Sea Monke._
+
+> "Damn, he got a fat ass." - every player
 
 A giant blue monkey that can be summoned on Monkey Paw Island. Does massive damage and if you die to a sea monkey you will be sent to The Depths regardless of how many lives you have.
 

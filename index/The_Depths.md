@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 5958
+revid: 6220
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,7 +25,7 @@ The Depths is located in a underwater afterlife; Almost a limbo in between life 
 -   [Angels](Hollow_Angel.md)
 -   [Jellyfish](Gigamed.md)
 -   Giant Jellyfish
--   Crab
+-   [Crab](Crab.md)
 -   Depth Owl
 -   Lion Fish
 -   [Sharko](Megalodaunt.md)
