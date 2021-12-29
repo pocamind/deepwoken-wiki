@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 6364
+revid: 6401
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -55,7 +55,7 @@ Frostdraw allows the user to use/\*draw\* ice magic. Frostdraw is slightly slowe
 
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers | +3 Health |
+|  | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health |
 
 #### Cryomancer
 
@@ -154,4 +154,7 @@ Frostdraw allows the user to use/\*draw\* ice magic. Frostdraw is slightly slowe
 
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Saint Jay | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. | (Insert Effects here) |
+|  | Saint Jay | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity
++2 Health
+
+ |

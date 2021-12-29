@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 5974
+revid: 6444
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ Recipes & Alchemism are located here.
 
 ## Ingredients
 
-Gobbleto - A mushroom that is white and has a bluelike stalk.
+Gobbleto - A mushroom that is white and has a tube-like stalk.
 
 Browncap - A brown mushroom with a white stalk. Not much theory.
 
@@ -40,13 +40,15 @@ Bamboo bundle - Bamboo sticks, growing mostly on beaches and shores.
 
 [Calabash](Calabash.md) - Similar to pear, but greenier.
 
-Redd - Thats an apple
+Redd - Thats an apple. They do not grow during summer.
 
 Plum fruit - Purple fruit. Its a plum, what did you expect?
 
 Ongo - Brown, round fruit.
 
 Pomar - Looks like a mango, grows mostly in Etrin and Songseeker Wild.
+
+Bluecaps - Found only in a libary area coated in blue fog, on Ersia. There are two ways into this locale; First by an upwards shaft from the cave in Lower Ersia where one can find gold \[One can only access this location with ridiculous mobility, or glacial arc\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a Soul Hearthgem for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
 
 [Spark Gland](Spark_Gland.md)
 
@@ -59,16 +61,17 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
 -   [Drift Shard](Mantra_Modifiers.md#regular-modifiers) - Makes Projectile Mantras slightly faster
     -   Rush Shard - Makes Projectile Mantras moderately faster
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)
--   Magnet Spark - ???
+-   Magnet Spark - Supposedly adds homing onto mantras... doesn't actually do that.
     -   Affected Mantras: Lightning Blade - Unknown
 -   Tornado Spark - ???
 -   Spring Spark - Most likely boots height of a mantra that makes you jump high.
 -   Round Spark - Converts Mantras into an AOE effect.
-    -   Affected Mantras: Ice Stomp - _Instead of a straight line, perform an AOE instead._ |
+    -   Affected Mantras: Ice Stomp - _Instead of a straight line, it creates a ring of ice around the user._
 -   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) - Increases range of Projectile Mantras slightly
     -   Perfect Lens - Increases range of Projectile Mantras moderately
--   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your Mantra effects slightly larger in size CURRENT TESTING FOR ICE ELEMENT, Glacial Ark: it makes more than 1 arc like the effect of Multiplying Spark, 5 Arcs in Total. ICE SHURIKEN: Makes it track and follow target which is supposed to be the effect of Magnet Spark) DISCLAMER: I literally dont know why it happened, different effects for each spell. (DISCLAMER, I have no idea why this happened. My only theory is that its different per spell or per element DM ME, RoyalMagus#1631)
+-   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your Mantra effects slightly larger in size CURRENT TESTING FOR ICE ELEMENT, Glacial Arc: it makes more than 1 arc like the effect of Multiplying Spark, 5 Arcs in Total. ICE SHURIKEN: Makes it track and follow target which is supposed to be the effect of Magnet Spark) DISCLAMER: I literally dont know why it happened, different effects for each spell. (DISCLAMER, I have no idea why this happened. My only theory is that its different per spell or per element DM ME, RoyalMagus#1631)
     -   Stratus Stone - Makes your Mantra effects moderately larger in size
+-   Glass Orb - Created from mixing a crystal lens and cloudstone. It appears to be nonfunctional, but presumably has the effects of its components.
 -   Aeon Logstone - Makes effects slightly longer
     -   Eternal Logstone - Makes effects moderately longer
 -   Amnesiac Driftwood - Removes all modifiers on a mantra

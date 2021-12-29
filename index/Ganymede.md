@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 6222
+revid: 6421
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -47,7 +47,7 @@ Ganymedes are pitch-black/deep(woken) blue creatures with bright eyes ranging in
 
 ### Weaknesses
 
--   Can not breathe if held by the neck for 9 minutes.
+-   Can not breathe if held by the neck for 9 minutes. <-- imagine
 
 ### Notes/Trivia
 

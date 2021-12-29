@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 6373
+revid: 6461
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -222,7 +222,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Scimitar</td>
   <td>20 Medium Weapon</td>
-  <td></td>
+  <td>15</td>
   <td></td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td>Canorian Axe</td>
   <td>45 Heavy Weapon</td>
-  <td></td>
+  <td>21,4</td>
   <td></td>
 </tr>
 <tr>

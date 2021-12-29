@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 6327
+revid: 6432
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,12 +21,14 @@ Deepwoken Lore is vast, and scattered across the sea. Lore can be found through 
 
 _"Ah! Well if it isn't \[Your full name here\]. I've been expecting you. How have your travels been?" - The Lord Regent_
 
-The Lord Regent has been ruler of Etris for a good amount of time, enough to the point where he is recognized by his formidable power and wealth. He is located in the Etris Palace in Etris.
+The Lord Regent is a mysterious individiual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best intrests of Etris.
 
--   How he've gotten this much power could be the fact that he has been drawing them from the Depths through an Unknown Source (Either by literally going into The Depths or through some sort of reservoir). This fact remains true as his throne is decorated with a variety of Coral and the ability to instantly kill anyone using Shadowcast.
--   Hung up around the Lord Regent's Throne are Talismans, inscribed with an unknown symbol. Perhaps the Depth's Power is too powerful for mankind, and must be contained at all times? Or is the Lord Regent, whom must be kept within his Throne, as leaving the only protected area is a death sentence to both him and Etris?
--   Talking to the Bookworm in Etris about the Lord Regent (As explained in The Lord Regent Quest) talks about the backstory of past Lord Regents of Etris, that all of them are to record their history in an official Office. Though, as of Year 1271, the Office ceased to exist, and the current Lord Regent is rumored to be sick by the locals, yet he remains the Ruler.
--   The Lord Regent seems very secretive about his obtained power, and will exterminate anyone who attempts to uncover it. Proof of this is Kennith in "The Lord Regent" Quest, who died rather gruesomely while talking to the Locals of Etris. This can be done the same to players if they trespass in the Palace and confront the Lord Regent.
+-   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission.
+-   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
+-   Talking to the Bookworm in Etris about him (as required for the Lord Regent Quest) reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist in the year of 1271, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
+-   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
+-   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
 
 ### **The Duke of Erisia**
 
@@ -38,7 +40,13 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to The Lord Regent's Ruling.
 -   He wields a light green bell on his right belt, the same bells from [The Depths](The_Depths.md). Based on what Alastir said, the Bell brings life to the Golems.
--   Before Erisia Island sank into The Depths, The Duke extracted an Artifact from the Temple of the Forgotten Flame, presumably the Piece of the Forge, and brought it back to his Manor. Soon afterwards, he ordered his Golems to attack and capture the inhabatants of Erisia Island, to his own people. Mayhap he lost his humanity after discovering what the Forge can do, or simply went insane?
+-   Before Erisia Island sank into The Depths, The Duke extracted an Artifact from the Temple of the Forgotten Flame, presumably the Piece of the Forge, and brought it back to his Manor. Soon afterwards, he ordered his Golems to attack and capture the inhabatants of Erisia Island, to his own people. Maybe he lost his humanity after discovering what the Forge can do, or simply went insane?
+
+### Maestro Evengarde Rest
+
+"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, and is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in medium weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+
+-   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
 
 ## Locations
 
@@ -65,18 +73,23 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### Nation of Etrea
 
--   A government ruled by Etreans. They occupy the Etrean Luminant, and its capital being Etris.
--   Not to be confused with The Authority, as they called them Dogs after a confrontation of them.
+-   A government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
+-   They are not to be confused with The Authority, who are referred to as "dogs" after a confrontation between them and the Etrean guards.
 -   Their appearance can be distinguished by their white/green armor.
 
 An Etrean Guard, part of the Nation of Etrea
 
-  
+### Vigil Guard
+
+-   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro" (meaning "master" or "teacher" in Italian).
+-   They seem to be allied with (and even in service to) the Etrean government.
+    -   Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
+-   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 
 ### The Authority
 
--   The Authority are Peacekeepers, and are not to be confused with the Nation of Etrea.
--   The Authority wears armor, over a red coat; similar to Pirates. There are also Authority members that wear legion-like armor.
+-   The Authority are peacekeepers, and are not to be confused with the Nation of Etrea.
+-   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly Adrets, but can vary with other races too.
 
 A Peacekeeper Grunt, part of The Authority
@@ -105,7 +118,7 @@ A Peacekeeper Grunt, part of The Authority
 
 ### Flamecharm
 
-_"Pleeksy, whom taught us his concept of the Inner Flameâ€” Deep within our souls, lies the Soul of Man." - Flamecharmer Historian_
+_"Pleetksy, whom taught us his concept of the Inner Flameâ€” Deep within our souls, lies the Soul of Man." - Flamecharmer Historian_
 
 -   Flamecharmers, originated from the Far West of the Luminant Sea...  
     
@@ -121,8 +134,6 @@ _"Pleeksy, whom taught us his concept of the Inner Flameâ€” Deep within our soul
   
 
 ## Before the Tides
-
-  
 
 ### City of Celtor
 

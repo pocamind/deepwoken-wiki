@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6382
+revid: 6459
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,6 +37,9 @@ File:Curse of the umbral knight in Infernasu's video.jpg
 
   
 
+  
+  
+
 ### Curse of the Bloodthirsty
 
 File:Curse of the Bloodthirsty.jpg
@@ -53,6 +56,8 @@ File:Curse of the Bloodthirsty.jpg
 -   Pros: Unknown. (Perhaps damage increase?)
 -   Cons: You are put to one life. (Thought to be.)
 
+  
+
 File:Hero Blessing.jpg
 
 **Hero Blessing (The Katana)** **LGBTQ (The Hammer)**
@@ -67,6 +72,10 @@ File:Hero Blessing.jpg
 -   Pros: Same thing as Hero Blessing, but more op. Guardbreak hit but you can parry it. (?)
 -   Cons: You can't obtain it...?
 
+  
+
+  
+
 ### Detonation
 
 File:Detonation.jpg
@@ -78,11 +87,14 @@ File:Detonation.jpg
 -   [How it looks](https://streamable.com/yjazax)
 
   
+  
 
 ### Combustion
 
 -   Pros: Everytime you hit an enemy, you lit them on fire. Damage scales off Flamecharm.
 -   Cons: None.
+
+  
 
 ### Bungee Gum
 
@@ -94,6 +106,8 @@ File:Gum.jpg
 -   Cons: Makes backing out of a fight more difficult.  
     
 
+  
+
 ### Storm
 
 File:Storm enchant.png
@@ -103,6 +117,8 @@ Storm enchant on a Crescent Cleaver
 -   Pros: Increases stun (needs testing) as well as a small chance to call lightning from the sky on hit, doing additional damage.
 -   Cons: Unkown.  
     
+
+  
 
 ### Obfuscation
 
@@ -115,10 +131,16 @@ File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg
 
   
 
+  
+
+  
+
 ### Sear
 
 -   Pros: Drains a person's thirst every M1 Connection.
 -   Cons: Unknown.
+
+  
 
 ### Providence of Storms
 
@@ -129,6 +151,10 @@ File:Providence.png
 -   Pros: Increases M1 speed drastically. Any parry damage that the other person inflicts will be inflicted back to them. No movement speed penalty.
 -   Cons: NONE.
 
+  
+
+  
+
 ### Gluttony
 
 File:Gluttony.png
@@ -138,10 +164,22 @@ Gluttony on a Crescent Cleaver
 -   Pros: Drains a person's thirst and hunger every M1 Connection and gives it to the user.
 -   Cons: Unknown.
 
+  
+
+  
+
 ### Curse of Yun'Shul
 
--   Pros: Increased knockback and sprinting M1 speed.
+File:Curse of yun shul.png
+
+**Me with a Steel Maul with the Curse of Yun'Shul**
+
+-   Pros: Unknown (Tested the last persons Pros and it wasn't correct.)
 -   Cons: Unknown.
+
+  
+
+  
 
 ### Grim
 
@@ -152,21 +190,33 @@ Grim on a Messer(?)
 -   Pros: Steals ether when an M1 connects.
 -   Cons: Unknown.
 
-File:Wild sword.png
+  
+  
 
 ### Wild
 
-Pros: Unknown Cons: Unknown
+File:Wild sword.png
+
+Pros: Unknown
+
+Cons: Unknown
 
   
+
+  
+
+### Metal
 
 File:Metal.png
 
 Metal
 
-### Metal
-
 Pros: Unknown Cons: Unknown
+
+  
+
+  
+  
 
 ### Deferred
 
@@ -177,6 +227,25 @@ Deferred on a Messer
 -   Pros: Attacks deal Damage over time instead of instantly.
 -   Cons: Attacks deal Damage over time instead of instantly.  
     
+
+  
+
+  
+
+### Providence's Thorn
+
+File:RobloxScreenShot20211228 210555026 (2).png
+
+Providence's Thorn
+
+-   Pros: Every parry you do deals damage to the creature or player you parried.
+-   Cons: None
+
+  
+
+  
+
+  
 
 ### Hero Sword (Might not be considered an enchant)
 
@@ -195,7 +264,7 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 
 Pros: If player is struck by another player or humanoid npc, it has a chance to summon a clone of said person or npc who dealt the hit, the clone summoned will target its original until it is defeated or dissapear
 
-THIS ENCHANT IS CURRENTLY DISABLED AND WILL BE REPLACED WITH A NEW ENCHANT IN A LATER UPDATE
+THIS ENCHANT IS CURRENTLY DISABLED AND WILL BE REPLACED WITH A NEW EFFECT IN A LATER UPDATE
 
 ### Adhesive
 
@@ -212,6 +281,10 @@ Cons: None
 Pros: Makes any damage taken get reduced and be dealt over time. Using potions pretty much negate the effect of the over time damage, making it a quite busted enchant.
 
 Cons: If you dont know how to manage your health properly while using this, you can get killed quite easily.
+
+**Drowned**
+
+Pros: Unknown
 
 Any information given would be greatly appreciated.
 

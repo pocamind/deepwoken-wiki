@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 6279
+revid: 6450
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -68,7 +68,4 @@ It is theorized that the game will tell you that your resonance has been made, a
 
 ###### Tips/Notes
 
--   ~Staying in The Depths for 7 hours can be a challenge, as you attain Insanity from being in The Depths (this means you will have to make multiple trips and grind Willpower)~ the guy who made the 7 hour thing is wrong the only thing we know is that its obtained in the depths
--   If you are grinding for a bell/resonance, It might be a good idea to consider acquiring blind seer oath.
-
--   Another good way to grind for this is to have alot of food and go on top of the castle or somewhere out of reach, u can do this by using fire leap or gale leap or glacial arc if ur thunder have ur freind get there and swap with him.
+-   ~Staying in The Depths for 7 hours can be a challenge, as you attain Insanity from being in The Depths (this means you will have to make multiple trips and grind Willpower)~ the guy who made the 7 hour thing is wrong the only thing we know is that its obtained in the depths.

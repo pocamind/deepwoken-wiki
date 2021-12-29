@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 6040
+revid: 6430
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,12 +41,18 @@ Hand of Mantra Cards
 
 ## Power Cards/Talents
 
-### **Alley Cat**
+### Apex Predator (?)
+
+-   Carnivore \[Generic Talent, Obtained through power.\] - Removes the ability to eat plants in exchange for replenishing Hunger and Thirst upon gripping monsters, NPCs and players.
+
+  
+
+### **Alley Cat (?)**
 
 -   Scaredy Cat \[Generic Talent, Obtained through power\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
 -   Lowstride \[Generic Talent, Obtained through power\] You suffer much less speed decrease from crouching (+1 Passive Agility)
 
-### Athlete
+### Athlete (3)
 
 -   Triathlete \[Generic Talent, Obtained through Power\] - You swim faster in water. (+2 Passive Agility, +2 Health)
 -   Heavy Lifting \[Generic Talent, Obtained through Power\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
@@ -54,46 +60,46 @@ Hand of Mantra Cards
 
   
 
-### Bastion
+### Bastion (3)
 
 -   Moving Fortress \[Generic Talent, Obtained through Power\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
 -   Heavy Haul \[Generic Talent, Obtained through Power\] - Enemies who carry you move significantly slower. (+2 Health)
 -   Braced Collapse \[Generic Talent, Obtained through Power\] - After being block broken, the next attack to hit you deals reduced damage.
 
-### Butterfly
+### Butterfly (?)
 
 -   Swift Reboud \[Generic Talent, Obtained through Power\] - Move faster after succesfully dodging an attack (+1 Passive Agility)
 -   Acrobat \[Generic Talent, Obtained through Power\] - Move faster when doing a Walljump. (+1 Passive Agility)
 
-### Deepwoken
+### Deepwoken (?)
 
 -   The Sounds from Below \[Generic Talent, Character Exclusive, Power Level 2\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
 -   Depths Connection \[Generic Talent, Character Exclusive, Escape The Depths once\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Resevoir. (Better Ether Regeneration)
 
   
 
-### Duelist
+### Duelist (?)
 
 -   Concussive Force \[Generic Talent, Obtained through Power\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
 -   Duelist Dance \[Generic Talent, Obtained through Power\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 
-### Escape Artist
+### Escape Artist (2)
 
 -   Boot Wallet \[Generic Talent, Obtained through Power\] - You no longer lose notes from dying.
 -   Robber Baron \[Generic Talent, Obtained through Power, Rare Card\] - You hold onto more items when defeated. (Reduce the amount of items lost on death)
 
-### Ether Adept
+### Ether Adept (?)
 
 -   Nullifying Clarity \[Generic talent, Obtained through Power\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact.  
     
 
-### Falling Star Guard
+### Falling Star Guard (?)
 
 -   Thorns of Fire \[Generic Talent, Obtained through Power, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity, +3 Health)
 
   
 
-### Fish
+### Fish (?)
 
 -   Fishman \[Obtained through Power, Legendary Card\] - Heal when swimming. Just remember that theres always a bigger fish.
 
@@ -122,17 +128,17 @@ Hand of Mantra Cards
 -   Maudet \[Generic Talent, Adret Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.  
     
 
-### Legion Shock Trooper
+### Legion Shock Trooper (?)
 
 -   Hoplite \[Generic Talent, Obtained through Power\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
 
 ### Limitbreaker
 
 -   Uproar \[Generic Talent, Obtained through Power, Rare Card\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
+-   \[Generic Talent, Obtained through Power.\] Defy being gripped by shouting one final quip.  
+    
 
-  
-
-### Meditative Trance
+### Meditative Trance (?)
 
 -   Warrior's Respite \[Obtained through Power, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
 
@@ -141,67 +147,71 @@ Hand of Mantra Cards
 ### Mental Fortress
 
 -   Breathing Exercise \[Generic Talent, Obtained through Power\] - Your sanity recovers more quickly once out of terrifying situations.
+-   Conquer your Fears \[Generic Talent, Obtained through Power\] - Your sanity recovers somewhat when you grip enemies of the deep.
+
+**Notes**
+
+Mental Fortess is an integral Talent tree for those withing to obtain an Oath.
 
   
 
-### Metamancer
+### Metamancer (3?)
 
 -   Health Pack \[Generic Talent, Obtained through Power\] - It's extra health, do you need anything else? (+10 Health)
 -   Ether Pack \[Generic Talent, Obtained through Power\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Adept \[Generic Talent, Obtained through Power, Exclusive Talent, Legendary Card\] - Taking this talent will make it easier to progress. (Increased experience gain)
+-   Adept \[Generic Talent, Obtained through Power, Exclusive Talent, Legendary Card\] - Taking this talent will make it easier to progress. (Increased experience gain)  
+    
 
-  
-
-### Navaen Nomad
+### Navaen Nomad (?)
 
 -   Champion's Regalia \[Obtained through Power, Rare Card\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
 
   
 
-### Raging Bull
+### Raging Bull (?)
 
 -   Harsh Response \[Generic Talent, Obtained through Power\] - Enemies recieve less posture back when they parry your attacks.
 -   Treefelling blow \[Generic Talent, Obtained through Power\] - You can collect lumber felled with your fists.
 
   
 
-### Soul Converter
+### Soul Converter (?)
 
 -   Bloodiron Spirit \[Obtained through Power, Rare Card\] - You regain some Armor upon killing enemies.  
     
 
-### Stormcaller
+### Stormcaller (?)
 
 -   Stormcaller Slash \[Generic Talent, Obtained through Power\] - Call forth the fury of storms by pressing F at the end of your move.
 
-### Survivor
+### Survivor (?)
 
 -   Pack Mule \[Generic Talent, Obtained through Power\] - The max quantity of carrying food has increased. (+4 Health, +1 Carry Load)
 
-### Thief
+### Thief (?)
 
 -   Pickpocket \[Generic Talent, Obtained through Power\] - Gain the ability to pickpocket by pressing "N" (+4 Ether, +2 Passive Agility)
 -   Cap Artist \[Generic Talent, Obtained through Power\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 
-### Thundercaller
+### Thundercaller (?)
 
 -   Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
 
-### Warrior
+### Warrior (?)
 
 -   Engage \[Generic Talent, Obtained through Power\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
 -   Critical Attack \[Generic Talent, Obtained through Power\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 
-### **Waterborne**
+### **Waterborne (?)**
 
 -   Conditioned Swimmer \[Generic Talent, Obtained through Power\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
 -   Scuba Drowner \[Generic Talent, Obtained through Power, Rare Card\] - You no longer drown to death when drowned in waters. (+1 Passive Agility
 
-### **Weapon Master**
+### **Weapon Master (?)**
 
 -   Matador \[Generic Talent, Obtained through Power\] - Deal more damage to enemies with hyperarmor. (+2 Health)
 
-### **Miscellaneous**
+### **Miscellaneous (????)**
 
 -   Ready or Not \[Obtained through Power\] - The first Mantra you get struck by while out of combat deals half of its damage. (+3 Health)
 -   Fold \[Obtained through Power\] - Discard your current hand of Power Cards. On your next Power Level, you are able to pick another hand of cards. (8 Cards total, 2 choices)

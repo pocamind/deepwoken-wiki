@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6292
+revid: 6438
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -56,7 +56,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
--   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate)
+-   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **[Fruit Cake](Fruit_Cake.md)** - _2 Fruits and 1 from each kind + Gathered Wheat_
@@ -70,37 +70,38 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 ## Alchemy
 
-_**Potions**_ are made with the use of a cauldron. (One can be found in Etris, right of the guild house and up the mountain.)
+_**Potions**_ are made with the use of a cauldron. (One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. As of currently, only the Etris one is functional.)
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
+-   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
-| **Heartening Elixir** | 
--   1x Bluecap
--   1x Calabash
--   1x Spider Egg
+| **Heartening Remedy** | 
+-   Bluecaps
+
+ | _**Positive**_
+
+-   Regenerates Reservoir instantly.
+
+_**Negative**_
+
+-   Deals minor damage instantly.
 
  | 
 
--   Effects unknown.
-
- | 
-
--   It is assumed that _**Heartening Elixir**_ boosts Blood Regeneration or heals.
+-   The damage value of this potion does not scale with potency.
 
  |
 | **Invigorating Elixir** | 
 
--   2x Gobletto or
--   1x Gobletto
--   Any Etris ingredient
+-   Goblettos
 
  | 
 
 #### _**Positive**_
 
--   Grants Health Regen
+-   Regenerates Health over time.
 
  | 
 
@@ -115,7 +116,7 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 
  | 
 
--   Rapidly increases draw from Ether reservoir. (greater regen the just Wheat)
+-   Rapidly regenerates Ether over time.
 
  | 
 
@@ -129,11 +130,11 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 
  | _**Positive**_
 
--   Grants Healing
+-   Grants Healing.
 
 _**Negative**_
 
--   Drains Ether
+-   Drains Ether over time.
 
  | 
 
@@ -145,8 +146,7 @@ _**Negative**_
  |
 | **Soothing Salve** | 
 
--   2x Browncap
--   1x Dentifillo
+-   Dentifillos
 
  | 
 
@@ -165,11 +165,16 @@ _**Negative**_
 
 #### _**Positive**_
 
--   Reservoir Gain (gives back missing Reservoir)
+-   Regenerates reservoir.
+
+_**Negative**_
+
+-   Deals minor damage instantly.
 
  | 
 
 -   Good if fighting and you dont have the time to build a campfire to gain Reservoir back.
+-   \[Oddly, in self-testing this potion doesn't work on others.\]
 
  |
 | **Disgusting Bane** | 
@@ -184,9 +189,7 @@ _**Negative**_
 
 -   Best used when thrown.
 -   Reccomended for PVP and PVE.
--   Someone please find out the damage numbers and contribute.
--   The damage numbers are too low for me to assume its a damaging potion. when Thrown it doesnt even hit 5%  
-    
+-   Primarily for chip and crowd damage; It does not do a lot nor has any secondary effect. In fact, does about twice the damage of the other potions noted to deal damage. But, it can't be blocked and can be used from angles that don't put the user at risk.
 
  |
 | **Soothing Tincture** | 
@@ -199,7 +202,7 @@ _**Negative**_
 
  | 
 
--   Best used when thrown. but better effects when drank
+-   Best used when thrown. but better effects when inbibed.
 -   Recomended in PVP when out of Reservoir
 
  |
@@ -211,20 +214,6 @@ _**Negative**_
  | \-
 
 -   Unknown Effects
-
- | 
-
--   Maybe just be two types of potions mixed in one, if possible please Test
-
- |
-| **Disgusting Blight** | 
-
--   1x Stick
--   2x Browncap
-
- | \-
-
--   Unknown
 
  | 
 
@@ -245,12 +234,12 @@ _**Negative**_
 -   Best used in PvP since it can drain the whole bar if 3 are used.
 -   Works both thrown and drinken
 -   Good potion to keep handy
+-   \[Pretty sure this one removes "posture damage"\]
 
  |
 | Dulling Bane | 
 
 -   Gathered Wheat
--   Stick
 
  | Effects Unknown | 
 
@@ -263,4 +252,4 @@ _**Negative**_
 -   Sadly, you cannot use the Graceful Flame Mantra (Flamecharm exclusive) to cook Food.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
--   If you drink a potion while its on cooldown, you'll puke
+-   If you drink a potion while its on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.

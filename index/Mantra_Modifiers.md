@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6366
+revid: 6449
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,9 +12,9 @@ _This page is a list of all items that you can use in order to modify a Mantra._
 
 ## Description
 
-[Some clown using WAY TOO many items to enhance their mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
+[Some sped ass clown using WAY TOO many items to enhance their mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
 
-Some clown using **WAY TOO** many items to enhance their mantra.
+Some sped ass clown using **WAY TOO** many items to enhance their mantra.
 
 Mantra Modifiers are items that can be used to expand the potential of your Mantras. Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
 
@@ -23,6 +23,20 @@ You can stack up to 3 of each modifier, including their weaker versions. This me
 When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 
 Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific talent or Intelligence.
+
+  
+
+firegun+ blastspark = more projectiles
+
+cloud stone + crystal lens = glass stone
+
+rare sparks exist
+
+haunting stone ; spark thats white rarely dropped from merit \[?\]
+
+  
+
+what the hell does glass stone do  
 
 ## Mantra Modifiers
 
@@ -36,7 +50,7 @@ File:Cloudstonebigger.png
  | Cloudstone | Increases mantra size or quantity. |
 | 
 
-File:Mantra Modifier Placeholder.png
+File:Stratus.png
 
  | Stratus Stone | Upgrade of **Cloudstone**. |
 |  |  |  |
@@ -47,8 +61,6 @@ File:Screenshot 2021-12-28 151959.png
  | Crystal Lens | Increases mantra range. |
 | 
 
-File:Mantra Modifier Placeholder.png
-
  | Perfect Lens | Upgrade of **Crystal Lens**. |
 | 
 
@@ -56,8 +68,6 @@ File:Screenshot 2021-12-28 152201.png
 
  | Aeon Logstone | Makes effects last longer. |
 | 
-
-File:Mantra Modifier Placeholder.png
 
  | Eternal Logstone | Upgrade of **Aeon Logstone**. |
 | 
@@ -67,7 +77,7 @@ File:Screenshot 2021-12-28 152259.png
  | Drift Shard | Makes Mantras (projectiles) move faster. |
 | 
 
-File:Mantra Modifier Placeholder.png
+File:Rush Shard.png
 
  | Rush Shard | Better version of **Drift Shard**. |
 | 
@@ -76,8 +86,6 @@ File:Screenshot 2021-12-28 152413.png
 
  | Amnesic Driftwood | Removes all Modifiers on a Mantra |
 | 
-
-File:Mantra Modifier Placeholder.png
 
  | Vibrant Gem | Intensifies elemental effects. |
 
@@ -90,21 +98,19 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | Image | Modifier | Applicable Mantras | Effect |
 | --- | --- | --- | --- |
 | 
-File:Mantra Modifier Placeholder.png
-
  | Magnet Spark | Electric Blade
 
 Jolt Grab
 
+Flame Blade
+
  | Makes projectile spells homing. |
 | 
-
-File:Mantra Modifier Placeholder.png
 
  | Round Spark | Ice Stomp | Makes AoE spells a circle. |
 | 
 
-File:Mantra Modifier Placeholder.png
+File:Blast Spark .png
 
  | Blast Spark | Lightning Clones
 
@@ -146,8 +152,6 @@ _"Alt text placeholder"_
  |
 | 
 
-File:Mantra Modifier Placeholder.png
-
  | Tornado Spark | Dark Blade | Exact effect unknown.
 
 _"You feel dizzy when you hold it."_
@@ -158,7 +162,7 @@ _"You feel dizzy when you hold it."_
 
 #### **Magnet Spark**
 
--   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
+-   sThis modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
 
 #### Round Spark

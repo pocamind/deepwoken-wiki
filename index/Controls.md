@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 6387
+revid: 6388
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -51,6 +51,6 @@ Of course, this Page is useless because we have the Controls in the Game. But th
 
 **N - Pickpocket (talent required) -** Steal a few Notes from a nearby player or NPC.
 
-**R (while crouching) - Fake death (talent required) -** Drop to the ground, mimicking the action of dropping to 0 hp. Is cancelled by pressing R again or taking damage.
+**R (while crouching) - Fake death (talent required) -** Drop to the ground, mimicking the action of dropping to 0 hp. Is cancelled by pressing R again or taking damage. Very useful as it allows you to dismount off cliffs and display submissive behavior most effectively. This mechanic can also be accompanied by the players speech for specified interactions. Speech being used in this case can be phrases like "Please be gentle~" or "\*dies\*"
 
 **H - Murmur -** Uses the murmur (more info required, murmur obtained from defeating [Kaido](Monsters.md))
