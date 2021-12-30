@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 4798
+revid: 6554
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -69,7 +69,7 @@ Prayer beads in the Antiquarian shop at Etris
 
 ### Willpower
 
--   Prayer Beads - **25 Notes** / 200 Durability
+-   Prayer Beads - **25 Notes** / 100 Durability
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 

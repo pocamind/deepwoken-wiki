@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 6401
+revid: 6553
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -13,6 +13,10 @@ categories: [Pages with broken file links]
 File:Frostdrawerlogo.png
 
 Frostdraw allows the user to use/\*draw\* ice magic. Frostdraw is slightly slower compared other magics but is still quick and cunning. The mantra afflicts a brief agility pentalty when targets are hit and is the only mantra so far that can create physical objects that you or your opponents can collide with. To train frostdraw you will need to buy the [Hemafrost](Training_Gear.md#attunement-training-gears) training gear. Hemafrost can be found in Etris or Vigils mantra shop. To upgrade any frostdraw mantra you will need to visit [Nell](Attunement_Trainers.md), an npc found near Etris in a small home. Upon speaking to Nell you will need to bring frigid prisims to her in order to upgrade your mantras. (For the first few?) levels this is not required, players can pay Nell notes until lvl (2?).
+
+## Obtainability
+
+You can get Frostdraw by either getting it as a starter element or by giving the Nell npc 5 Frigid Prisms to unlock it as a secondary element which is permanent so when your wiped you have the ability to choose Frostdraw if wanted.
 
 ## Spells
 

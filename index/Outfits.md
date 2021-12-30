@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 6309
+revid: 6500
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -197,6 +197,31 @@ _Talent: Now You See Me_
  |
 | 
 
+File:11thlegionplate.png
+
+ | 11th Legion Plate | Cloth x5
+
+Fiber x5
+
+Gold x2
+
+Iron x10
+
+100 Notes
+
+ | Power 15
+
+10 Fortitude
+
+ | +1500 Durability
+
++30% Blunt Armor
+
++10% Physical Armor
+
+ |
+| 
+
 File:CutthroatLightArmor.png
 
  | Cutthroat Light Armor | x4 Cloth
@@ -313,6 +338,8 @@ x2 Iron
 _Talent: Intrepid Flame_
 
  |
+
+  
 
 ### Expert
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6449
+revid: 6538
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -53,7 +53,6 @@ File:Cloudstonebigger.png
 File:Stratus.png
 
  | Stratus Stone | Upgrade of **Cloudstone**. |
-|  |  |  |
 | 
 
 File:Screenshot 2021-12-28 151959.png
@@ -98,19 +97,19 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | Image | Modifier | Applicable Mantras | Effect |
 | --- | --- | --- | --- |
 | 
+File:Magnet Spark PNG.png
+
  | Magnet Spark | Electric Blade
 
 Jolt Grab
 
-Flame Blade
+  
 
  | Makes projectile spells homing. |
 | 
 
- | Round Spark | Ice Stomp | Makes AoE spells a circle. |
+ | Round Spark | Ice Eruption | Makes AoE spells a circle. |
 | 
-
-File:Blast Spark .png
 
  | Blast Spark | Lightning Clones
 
@@ -118,8 +117,6 @@ Shadow Gun
 
  | Adds an explosion effect. |
 | 
-
-File:Mantra Modifier Placeholder.png
 
  | Reversal Spark | Lightning Impact
 
@@ -143,8 +140,6 @@ Flame Blade
  | Increases the number of hits. |
 | 
 
-File:Mantra Modifier Placeholder.png
-
  | Spring Spark | _Unknown._ | Unknown effect.
 
 _"Alt text placeholder"_
@@ -162,12 +157,12 @@ _"You feel dizzy when you hold it."_
 
 #### **Magnet Spark**
 
--   sThis modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
+-   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
 
 #### Round Spark
 
--   This modifier converts the _Ice Stomp_ Mantra's hitbox into a circle.
+-   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle.
 
 #### Blast Spark
 

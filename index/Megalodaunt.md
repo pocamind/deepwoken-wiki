@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 6200
+revid: 6471
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ _"No dick, no balls, and probably no butthole since this thing feeds on Felinors
 
 ## Description
 
-Megalodaunts, commonly refered to as Sharkos (not to be confused with the shark-like creature, the [Lionfish](Lionfish.md)), are Giant Type enemies which spawn in The Etrean Luminant and The Depths.
+Megalodaunts, commonly refered to as Sharkos (not to be confused with the shark-like creature, the [Lionfish](Lionfish.md)) or Carl, are Giant Type enemies which spawn in The Etrean Luminant and The Depths.
 
 It is the most common Giant Type enemy. Typically, killing a Megalodaunt grants a chest with decent gear, usually better than the loot which bandit camps yield.
 

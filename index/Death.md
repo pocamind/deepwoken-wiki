@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 6446
+revid: 6494
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ Death is an important aspect of Deepwoken. You have 3 lives in Deepwoken, 2 of t
 Leaving Depths Solo
 
 -   Level 1-10 Allowed to leave
--   Level 10-20 One Angel Fight
+-   Level 10-20 ~One Angel Fight~(This may be false, as I was able to escape at this level without a fight. Probably a 50/50 if you get a trial or not.)
 -   Level 20-30 Sharko
 -   Level 30-40 Enforcer
 -   Level 40-50 Multiple Enforcers

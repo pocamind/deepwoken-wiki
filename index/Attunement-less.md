@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 6455
+revid: 6470
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,13 +29,17 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 **Dash** - An agile Dash.
 
-**Adrenaline Surge** - An adrenaline rish of agility. (Requirement: Agility, Support Mantra)
+**Adrenaline Surge** - An adrenaline rush of agility. (Requirement: Agility, Support Mantra)
 
 **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. (Requirement: 5 Agility, Combat Mantra)
 
 ### _**Strength Mantras**_
 
 **Strong Left** - A powerful, flinging punch that shatters the air. (Requirement: 5 Strength, Combat Mantra)
+
+**Rapid Punches** - Unleash a barrage of blows against your foes.
+
+  
 
 ### _**Intelligence Mantras**_
 

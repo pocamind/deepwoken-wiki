@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 6460
+revid: 6548
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,7 @@ You may only have a single Oath per unique character, so it is best to pick what
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots
--   Unable to take a Vow of Mastery (can still be the master), current Vow of Mastery are broken.
+-   ~Unable to take a Vow of Mastery (can still be the master).~ My friends have taken a Vow of Mastery while they had the 'Oath: Oathless' talent.
 
 ### Oath Description:
 

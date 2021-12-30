@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 6429
+revid: 6550
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -94,6 +94,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   Sharkos have 1000 points of HP.
 -   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Megalodaunt between each of you and when one of you fighting gets low you swap out and heal.
 -   They have great ass.
+-   If your above level 20 and have a squad of more than 3 players you can usually get away with just rushing them
 
 ### **Rock Golem (Dwayne)**
 
@@ -293,8 +294,9 @@ Drops the Enforcer Axe
 
 -   A common combo that the Enforcer uses, are two high swings in quick succession before going for a low swing
 -   You can block all of its attacks and sometimes The Enforcer stands still allowing for a few hits.
+-   The Enforcer can also feint.
 
-### **Snow Knights**
+### **Snow Knights (Bartholemue)**
 
 File:Meteor golem.png
 
@@ -369,7 +371,7 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 -   I have no clue this monster is huge
 -   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
-### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE)**
+### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE) (Natasha)**
 
 > _"GIANT. ENEMY. SPIDER."_ _\-_ Jermaine.
 

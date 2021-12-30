@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 6445
+revid: 6529
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -73,7 +73,7 @@ The Malevolent Gods sentence you a fight against whatever they throw at you. Bel
   <td>Cursed/Enhanced <a href="Megalodaunt.md">Megalodaunt</a></td>
 </tr>
 <tr>
-  <td>50&gt;</td>
+  <td>50&lt;</td>
   <td><a href="Enforcer.md">Enforcer</a></td>
 </tr>
 </tbody>
@@ -106,11 +106,13 @@ The Depths, being a naturally hostile location, will make sure it will kill you.
 
 ### Talents you want to consider.
 
--   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your health. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Willpower** or **Fortitude** (most likely Fortitude).  
-    
--   **Conquer Your Fears**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.  
-    
+-   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your health. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Willpower** or **Fortitude** (most likely Fortitude).
+
+-   **Conquer Your Fears**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
+
 -   **Giant Killer** (did I get that right?) lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs, level **Strength** if you want it to appear.
+
+-   **Blind Seer Oath**, a Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths nigh indefinently.
 
 ## Notes
 

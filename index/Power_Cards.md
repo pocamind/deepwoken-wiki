@@ -1,11 +1,15 @@
 ---
 title: Power Cards
-revid: 6430
+revid: 6552
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Power Cards
+
+Redirect to:
+
+-   [Talents](Talents.md)
 
 (This page has been sadly transfered to the [Talents](Talents.md) page. My hard work put in this page was meaningless lol) - NickMcNate
 
@@ -135,8 +139,8 @@ Hand of Mantra Cards
 ### Limitbreaker
 
 -   Uproar \[Generic Talent, Obtained through Power, Rare Card\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   \[Generic Talent, Obtained through Power.\] Defy being gripped by shouting one final quip.  
-    
+-   \[Generic Talent, Obtained through Power.\] Defy being gripped by shouting one final quip.
+-   Lose Your Mind \[Generic Talent, Obtained through Power\] - Deal more damage the more insane you are, but go insane twice as quickly.
 
 ### Meditative Trance (?)
 

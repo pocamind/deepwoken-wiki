@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 5196
+revid: 6465
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ Luck is a hidden value that affects your Character's learning of rare Talents.
 -   Luck affects the drop rate of Rare Cards (Indicated by their colored background and particle effects).
 -   Gripping players. Players with more Power yield more Luck. This also steals a portions of their Luck.
 -   Killing Corrupted Monsters (indicated by a malicious, purple aura) in both [The Depths](The_Depths.md) & Overworld. These variants of monsters are stronger than their original selves, but has the same attack patterns.
--   If you have the Marauder Boon, you gain slightly more Luck from Monsters and Players.
+-   If you have the Marauder Boon, you have a higher chance of getting Luck from Monsters and Players.
 
 ## Notes/Trivia
 

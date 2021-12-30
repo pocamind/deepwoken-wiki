@@ -1,40 +1,42 @@
 ---
 title: Vow of Mastery
-revid: 6134
+revid: 6551
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Vow of Mastery
 
-Vow of Mastery is a talent which allows you to turn people into servants. A Servant will lose the Vow of Mastery if they get wiped.
+## Description
 
-You will need a high amount of Charisma (20 or more), then you will have a chance to get the talent every power up. You can have a servant every per 10 charisma.
+**Vow of Mastery** is a [Talent](Talents.md) which allows you to turn people into Subject. A Subject will lose their **Vow of Mastery** if they get wiped.
 
-**How to use it:**
+You will need your Charisma at 25 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. You can have a Subject per every 10 Charisma points.
 
-To make someone your servant, you must ask them "\[Their name\], do you wanna make a Vow of Mastery?". Once accepted an animation will play and the player will become your Servant. You can now use commands on them. However you will need to unlock the commands as talents (you will need more charisma for more talents).
+## How to Use
 
-**Commands:**
+To become a Master, you must ask a player a question similar to: "Subject, would you like to make a Vow of Mastery?"
 
-_Sleep -_ "\[Servant's name\] sleep." The servant will be downed allowing them to be gripped or carried.
+The player must respond with "yes." Once accepted an animation will play and the player will become your Subject. You can now use commands on them. However, you will need to improve your [Charisma](Attributes.md) and unlock the more essential commands as [Talents](Talents.md).
 
-Drop - "\[Servant's name\] drop \[item name\].' the servant will drop the item you requested if its in the invetory (some items dont work for some reason)
+## Commands
 
-_Say -_ "\[Servant's name\] say \[text\]." The servant will say whatever you put as the text.
+| Command | Requires Talent | Usage | Effect |
+| --- | --- | --- | --- |
+| Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped. |
+| Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
+| Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |
+| Run | Yes | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
+| Fight | Yes | "_\[Name\]_, fight"
+"_\[Name\]_, fight _\[Name 2\]_"
 
-_Run - "_\[Servant's name\] run." The servant will start running for around 15 seconds, they can change the direction of their running.
+ | Gives the Subject a purple aura and a boost in damage and defense. |
+| Return | Yes | "_\[Name\]_, return" | Forces the Subject to run back to the Master. |
+| Sacrifice | Yes, legendary | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
+| Live | Yes, legendary | "_\[Name\]_, live" | Gives the Subject full health and unknown buffs. |
 
-_Sacrifice -_ "\[Servant's name\] sacrifice." The servant will receive all your damage received from before, and you will receive the percent of damage taken, healing your life to max, for example: The master has 60% hp while the servant has 100% hp, the command will make the servant hp 60% and the master 100%, the master will take the servant hp, and the servant the master damage
+## Trivia/Notes
 
-_Fight - "_\[Servant's name\] fight." The servant will get a purple aura and a boost in damage and defense. It can also be used on 2 servants for example: "\[Servant1\] fight \[Servant2\]"
-
-_Return -_ "\[Servant's name\] return." The servant will start running back towards the master.
-
-_**Live (Legendary talent) -**_ "\[Servant's name\] live." The servant will get back to full hp and get some buffs (not sure which, if you know add it.)
-
-Commands can be used across the map (excluding return), for example, if the Master was at Erisia and the Servant was at Etris, if the Master said "\[Servant's name\] run." The Servant will start running.
-
-Commands can be stacked, example being if you say "\[Name\], say I will sleep now." The servant will both sleep and say "I will sleep now."
-
-Commands can be used as "\[All\]" if you want to effect all your servants
+-   All commands excluding _Return_ have no radius, meaning you can command your Subject in seperate seas if wanted.
+-   Commands can be stacked, example being if you say "_\[Name\]_, say I will sleep now." The Subject will both sleep and say "I will sleep now."
+-   Commands can be used as "_\[All\]_" if you want to effect all your servants

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 6305
+revid: 6490
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -14,7 +14,7 @@ Flame charm icon
 
 -   **Description**
 
-Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Hearthgem. Hearthgems could be found in every mantra and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to visit a Ganymede (don't know the name) found in Lance's Resturant near the entrance. You will need to offer up Dying Embers in order to upgrade your mantras. Be scared of Flamecharmers.. Flamecharmer is cruel and unusual.
+Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Flame Hearthgem. They can be found in every mantra shop and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to climb past the top of the waterfall in songseeker wilds, the trainer will be in a dojo at the top (10 flamecharm per level). Be scared of Flamecharmers.. Flamecharmer is cruel and unusual.
 
 ## Mantras
 
@@ -104,7 +104,7 @@ File:Flame Blind.png
  | Graceful Flame | Conjure a undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
 | 
 
- | Flame of Denial | Undying flame. | Prevents caster from being knocked once for one minute. |
+ | Flame of Denial | Undying flame. | Prevents caster from being knocked once, Within One Minute. |
 
 ## **Talents**
 

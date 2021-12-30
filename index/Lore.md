@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 6432
+revid: 6527
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -65,7 +65,8 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### Pathfinders
 
-(Placeholder)
+-   An organization that preserves whats left before the tides came.
+-   Historians that safeguards Artifacts, such as the Pieces of the Forge.
 
 ### The Ignition Reunion
 
@@ -76,6 +77,7 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 -   A government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority, who are referred to as "dogs" after a confrontation between them and the Etrean guards.
 -   Their appearance can be distinguished by their white/green armor.
+-   Are enemies of The Adretian Authority.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -86,11 +88,12 @@ An Etrean Guard, part of the Nation of Etrea
     -   Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 
-### The Authority
+### The Adretian Authority
 
--   The Authority are peacekeepers, and are not to be confused with the Nation of Etrea.
+-   The Authority are a faction of Peacekeepers, and are not to be confused with the Nation of Etrea.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly Adrets, but can vary with other races too.
+-   Are enemies with The Nation of Etrea.
 
 A Peacekeeper Grunt, part of The Authority
 

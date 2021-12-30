@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 6016
+revid: 6463
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,13 +21,13 @@ The Voice of Odium is the first voice to talk when the player enters the elevato
 
 _"Isolate or hide away."_
 
-The Voice of Sequestration seems to be the most "nicest" out of the voices, calling the players endearing names like "little ones," and calling them adorable. This voice wants to lock the players in their "cage." The voice calls this cage perfect, and get's quite sad when the players try to escape it, as if they're are squandering their love. The Voice of Sequestration also knows that the player will inevitably be back to escape The Depths in a later date.
+The Voice of Sequestration seems to be the most "nicest" out of the voices, calling the players endearing names like "little ones," and calling them adorable. This voice wants to lock the players in their "cage." The voice calls this cage perfect, and get's quite sad when the players try to escape it, as if they're are squandering their love. The Voice of Sequestration also knows that the player will inevitably be back to escape The Depths in a later date. They describe the human world as perfect, but is unknown if these words are envious.
 
 ### Voice of Enmity
 
 _"The state or feeling of being actively opposed or hostile to someone or something."_
 
-The Voice of Enmity is highly aggresive to the players, wanting them to be crushed by their thumb. Even so, the Voice of Enmity still sees higher level players to be capable and sees them as fit for crushing. The Voice of Enmity enjoys the scene of players being attacked by the monsters of the trial. When multiple players try to escape The Depths together, it decides that the players deserve true punishment due to how they seek to make a mockery of the hall with sheer numbers.
+The Voice of Enmity is highly aggresive to the players, wanting them to be crushed by their thumb. They are highly sadistic. Even so, the Voice of Enmity still sees higher level players to be capable and sees them as fit for crushing. The Voice of Enmity enjoys the scene of players being attacked by the monsters of the trial. When multiple players try to escape The Depths together, it decides that the players deserve true punishment due to how they seek to make a mockery of the hall with sheer numbers.
 
 ### Voice of Authority
 
@@ -38,3 +38,4 @@ The Voice of Authority only appears after the player succesfully beats the trial
 ## Trivia
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
+-   Although not their actual names, these are the definitions and describe how they feel and how the feelings of their words convey.

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6438
+revid: 6537
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -148,38 +148,18 @@ _**Negative**_
 
 -   Dentifillos
 
- | 
+ | _**Positive**_
 
--   _**RaNdOm!?!!?!?!??!?!?!**_
-
- | 
-
--   Chooses a random effect based on a list of potions.
-
- |
-| **Soothing Potion** | 
-
--   2x Dentifillo
+-   Resivore Gain, 10% gained per potion
 
  | 
 
-#### _**Positive**_
-
--   Regenerates reservoir.
-
-_**Negative**_
-
--   Deals minor damage instantly.
-
- | 
-
--   Good if fighting and you dont have the time to build a campfire to gain Reservoir back.
--   \[Oddly, in self-testing this potion doesn't work on others.\]
+-   Can be slpashed so can be used several times. Good for long battles where u cant use campfires
 
  |
 | **Disgusting Bane** | 
 
--   3x Browncap
+-   Browncaps
 
  | _**Negative**_
 
@@ -190,20 +170,6 @@ _**Negative**_
 -   Best used when thrown.
 -   Reccomended for PVP and PVE.
 -   Primarily for chip and crowd damage; It does not do a lot nor has any secondary effect. In fact, does about twice the damage of the other potions noted to deal damage. But, it can't be blocked and can be used from angles that don't put the user at risk.
-
- |
-| **Soothing Tincture** | 
-
--   3x Dentifillo
-
- | _**Positive**_
-
--   Worse verison of Soothing Potion, Just less Reservoir gain.
-
- | 
-
--   Best used when thrown. but better effects when inbibed.
--   Recomended in PVP when out of Reservoir
 
  |
 | **Dulling Blight** | 
@@ -241,9 +207,13 @@ _**Negative**_
 
 -   Gathered Wheat
 
- | Effects Unknown | 
+ | Possitive
 
--   Maybe just be two types of potions mixed in one, if possible please Test
+-   Regens Ether
+
+ | 
+
+-   Best for when out of ether or when you hit yourself with an ether drain, Works when splashed so can also be used in team battles.
 
  |
 

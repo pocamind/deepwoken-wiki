@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6459
+revid: 6469
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -260,11 +260,19 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 
 ## Armour
 
+### Entanglement
+
+Pros: An enchant where when hit, it summons multiple trees like the Snow Mechs in Minityrsa and Hive Island. Cons: Unknown.
+
 ### Multiplicity
 
 Pros: If player is struck by another player or humanoid npc, it has a chance to summon a clone of said person or npc who dealt the hit, the clone summoned will target its original until it is defeated or dissapear
 
 THIS ENCHANT IS CURRENTLY DISABLED AND WILL BE REPLACED WITH A NEW EFFECT IN A LATER UPDATE
+
+### Stench
+
+Pros: Releases Toxic gas when hit
 
 ### Adhesive
 

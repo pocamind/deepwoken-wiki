@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 6246
+revid: 6504
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -11,10 +11,13 @@ categories: ["Post-death"]
 ## The Etrean Luminant
 
 -   The Etrean Sea
-    -   Eastern Contentinal Lighthouse
-    -   [Minityrsa](Minityrsa.md)
-    -   Etris (Starting Island)
+    -   Etrea
+        -   Etris (Starting Island) - Note that Etris is the name of the **city**, not the island.
+        -   Etrean Wilds
+        -   Etris Docks
     -   Isle of Vigils (Starting Island)
+        -   Temple's Approach
+        -   Temple of the Blade
     -   Erisia Island
         -   _Lower Erisia_
         -   _[Upper Erisia](Upper_Erisia.md)_
@@ -28,6 +31,8 @@ categories: ["Post-death"]
             -   _The Courtyard_
         -   _[Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)_
         -   _Burning Stone Gardens_
+    -   [Minityrsa](Minityrsa.md)
+    -   Eastern Contentinal Lighthouse
 -   The Aratel Sea
     -   Songseeker Wilds
     -   [Summer Isle](Summer_Isle.md)
