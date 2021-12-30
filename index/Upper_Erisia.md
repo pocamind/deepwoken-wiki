@@ -1,18 +1,18 @@
 ---
 title: Upper Erisia
-revid: 4198
+revid: 6699
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Upper Erisia
 
-The different locations in UE (Upper Erisia):
+Upper Erisia is the second part of Erisia's territory. It is a very unique area compared to the rest of Erisia. Upper Erisia is Erisia's mountains and hills. This area is a lot more dangerous then Lower Erisia due to a heavy population of monsters and other creatures scattered in Upper Erisia. It is **NOT** recommended to venture into Erisia's upper layers until a decently high level. (I'll finish the page tomorrow and get pictures when I'm on my PC)
 
-  
+## Parts of Upper Erisia
 
-The Hidden Village
-
-The Dessert
-
-The acid place(going to be changed)
+-   Burning Stone Garden
+-   Towerstruck Lands
+-   Ruined Castle
+-   Megalodaunt Nest
+-   The Manor

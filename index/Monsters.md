@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 6652
+revid: 6764
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -56,6 +56,7 @@ Attacks
 Notes/Tips
 
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
+      
     
 
 ### Megalodaunt (Sharko)
@@ -75,7 +76,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   **Thousand Needles** - Megalodaunt bends down and delivers thousands of Coral-like shrapnel in a straight line. Dealing significent damage if all of the needles hit.
 
 -   **Palm Slap** - Megalodaunt slaps his opponents his claws, dealing moderate slashing damage. Megalodaunt is also able to do this twice.
--   **Punt** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried. Can be perfect dodged.
+-   **Punt** - Megalodaunt delivers a fierce kick, knocking whatever it kicked very far back. deals moderate bludgeoning damage. Cannot be parried. Can be perfect dodged. (I SAID WATCH YO TONE)
 -   **Thundering Roar** - Megalodaunt roars out of the top of his lungs, emitting a purple aura within his head and inflicting a status effect (Indicated with a purple particle effect) that combat tags all nearby Players. Deals no damage, but has a large radius.
 
 **Finisher**
@@ -272,6 +273,27 @@ Spawns somewhere within Minityrsa or near it, the Aratel Sea, the Void Sea, and 
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.  
     
 
+### Angels
+
+Main article - [Angels](Hollow_Angel.md)
+
+> "Why am I combat tagged all of the sudden?"
+
+> \- Obvious Plunderer.
+
+"Heavenly" beasts of light that utilise the undiscovered power of Light magic. Appearing across both _**Upper Erisia**_ and _**The Depths**_ coupled with _**Seekers**_, their fast acting projectiles and slightly faster spears can catch player off guard, sending them into the Afterlife. It is advised that you face them head-on if you think you have the moxy, but otherwise, running and logging out is a better option for survival.
+
+  
+**Attacks**
+
+-   **Hyperlight Gun** - Leaps into the air to send multiple diamonds of explosive light your way.
+-   **Spear Stab** - Jabs at you with their spear.
+-   **Spear Critical** - Critical Spear attack.
+
+**Finisher**
+
+**Spear Grip** - Grips the player with a fundamentally similar grip not unlike that of an actual player using a spear.
+
 ### **The Enforcer**
 
 A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level.
@@ -372,7 +394,7 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 -   Gives you a Murmur when he dies if you did enough damage
 -   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
-### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE)**
+### Spider Queen
 
 > _"GIANT. ENEMY. SPIDER."_ _\-_ Jermaine.
 

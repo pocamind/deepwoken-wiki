@@ -1,22 +1,19 @@
 ---
 title: Mudskipper
-revid: 6056
+revid: 6717
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Mudskipper
 
-File:Dumb Mudskipper.jpg
-
-LightGreen mudskipper that wants to throw hands
-
-A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is possible to be repeatedly hitstunned by them until they can grip you.
+Template:Creature Info Box v2A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is possible to be repeatedly hitstunned by them until they can grip you.
 
 Attacks
 
-Template:Creature Info Box v2
+  
+
+  
 
 -   **Smack** - The Mudskipper punches his enemies, dealing minor damage.
 -   **Air Force** (Upper Erisia & Other)- The Mudskipper charges up the Galebreathe mantra Air Force, propelling anyone who is caught inside its line of effect.
@@ -33,7 +30,7 @@ Template:Creature Info Box v2
 
 Notes/Tips/Trivia
 
--   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage.
+-   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage. \[The explosion also auto grips knocked mobs and players nearby\]
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.
 -   Very good for grinding when first starting, due to their low hp and low damage output.
 -   If you arent fighting many Mudskippers, use M1s to knock them.

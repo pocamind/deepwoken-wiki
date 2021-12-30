@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 6612
+revid: 6737
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -87,12 +87,16 @@ Witch shop from the balcony
 
 **UPDATE ON THE SOULBLOOM QUEST:** There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory.
 
-Extra: There is green wells around the hive, that you can invoke. I'm not able to invoke any of the wells, so I don't know what they do or what they require. However, they're most likely used to teleport, or for fast travel vertically. Also the know ways you can get rep in greathive aratel are doing the quests and help the ganymedes and vesperians kills etreans guards in the hive and merits reach.
+Extra: There is green wells around the hive, that you can invoke. They are used as a fast-travel system that can be activated after washing your face with the fountain in the ruins near the spider cave. Also the know ways you can get rep in greathive aratel are doing the quests and help the ganymedes and vesperians kills etreans guards in the hive and merits reach.
 
 Everyone inside the Greathive Aratel is a Vesperian, except Laplace, that is a Ganymede.
 
 File:Greathive Aratel2.png
 
 Looking back at The Hive from Greathive Aratel
+
+File:Portals.png
+
+The portal locations.
 
 Budyuu was here (this will be the last location I visit for tonight)

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6669
+revid: 6736
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,6 +21,8 @@ _"I've always wanted to see what the 'LGBTQ' enchant did to people!"_
 Enchants are basically upgrades/power-ups for your weapon/gear. There are 3 variants of Enchants. First, there is your normal Enchant. Secondly, there are curses, which are stronger than normal enchants but there are downsides to them. Thirdly, there are Blessings, which are curses but without any downsides.
 
 You can get any type of enchant from chest it can be any chest from any place.
+
+Curses insta-wipes you if you are in depths.
 
 (im not sure about blessing type is also from chest and i never see gear whit curse and blessing to)
 
@@ -53,8 +55,8 @@ File:Curse of the Bloodthirsty.jpg
 
 ### Curse of the No-Life King
 
--   Pros: Unknown. (Perhaps damage increase? \[Potential passive hp regen as well?\])
--   Cons: You are put to one life. (Thought to be.)
+-   Pros: Combat only HP regen buff and M1 deals more dmg.
+-   Cons: You are put to one life, and cant return if you go to depths, you just get insta-wiped. (Actually dont have any VFX on Cestus)
 
   
 
@@ -69,8 +71,8 @@ File:Hero Blessing.jpg
 
 ### LGBTQ
 
--   Pros: Same thing as Hero Blessing, but more op. Guardbreak hit but you can parry it. (?)
--   Cons: You can't obtain it...?
+-   Pros: Everyone who buys Deepwoken has it.
+-   Cons: Everyone who buys Deepwoken has it.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 6286
+revid: 6756
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -81,11 +81,11 @@ _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom 
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
--   Gain Willpower EXP via Foraging and fighting Monsters.
+-   Gain Willpower EXP via Foraging and fighting Monsters. It will also passively increasei n [The Depths](The_Depths.md).
 
 ### Charisma
 
-_"SIGN MY PETITION DAMNIT!" - Charismatic Felinor_
+_"Wanna take a vow of mastery?" - Said the charismatic Felinor for the tenth time_
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.

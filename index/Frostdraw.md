@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 6665
+revid: 6741
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,7 +28,7 @@ You can get Frostdraw by either getting it as a starter element or by giving the
 |  | Ice Beam | Fire a beam of ice. | Fires a narrow beam of ice that punctures though the target hitting mutiple times (if not parried/blocked) Deals light damage and slows targets breifly. |
 |  | Frost Grab | An icy chokehold. | A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs) |
 |  | Crystal Impale | Impale your foes with a brutal crystal smash | It leaps you up and then you crash back down, dealing around 6-8 hits. |
-|  | Frost Legion | (Add skill description here.) | Almost identical to [burning servants](Flamecharm.md), but ice themed. Summon 4-5 Ice statues around the player that blow chilling air, becoming an AoE that will damage and slow characters inside. It also creates ice around the floor where the player stands. |
+|  | Frozen Soldiers | (Add skill description here.) | Almost identical to [burning servants](Flamecharm.md), but ice themed. Summon 4-5 Ice statues around the player that blow chilling air, becoming an AoE that will damage and slow characters inside. It also creates ice around the floor where the player stands. |
 |  | Ice Laser | (Add skill description here.) | (1 single Ice shot, similar to Wind Gun but doesnt Knockback) |
 |  | Crystal Impact | (Add skill description here.) | (Lightning Impact without the AoE, basically a jump and stomp) |
 |  | Ice Dagger | (Add skill description here.) | (Add effect description here.) |

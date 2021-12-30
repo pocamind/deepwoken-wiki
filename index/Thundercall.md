@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 6599
+revid: 6760
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -52,6 +52,19 @@ This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
  | Lightning Beam (☆) | Fire a beam of lightning. | Calls a beam of lightning onto the ground.
 
 Appears after a second of casting.
+
+ |
+| 
+
+ | Lightning
+
+Strike (☆)
+
+ | A strike of thunder at your desired location. | Makes it so a thunder strikes where the user was aiming with their cursor, after a split second the ground will be shocked stunning
+
+everyone around the beam and then the lighting will strike.
+
+Can strike 1-6 times
 
  |
 | 

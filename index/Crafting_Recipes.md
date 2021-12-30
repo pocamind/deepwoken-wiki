@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6561
+revid: 6709
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -74,7 +74,10 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. As of currently, only the Etris one is functional.)
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
+
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
+
+-   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, ive fixed this page up a lot)
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
@@ -96,7 +99,7 @@ _**Negative**_
  |
 | **Invigorating Elixir** | 
 
--   Goblettos
+-   2x Goblettos
 
  | 
 
@@ -107,7 +110,8 @@ _**Negative**_
  | 
 
 -   Excellent early-game healing.
--   Regens for 15% health
+-   With Apocracy this potion heals 18%.
+-   Actually only need 2 goblettos to craft the best verison.
 
  |
 | **Focus-Enhancing Elixir** | 
@@ -115,19 +119,22 @@ _**Negative**_
 -   3x Browncap
 -   2x Gathered Wheat
 
+ | _**Positive**_
+
+-   Rapidly regenerates Ether over time.(Due to the wheat)
+-   Please find out if theres a secondary effect
+
  | 
 
--   Rapidly regenerates Ether over time.
-
- | 
-
--   Great for casters
+-   Great for casters.
+-   Its only regenerating ether due to the wheat, there has to be a secondary effect.
+-   Seems to also remove resivore more then normal.  
+    
 
  |
 | **Icky Bane** | 
 
--   1x Redd
--   Any 2 Fruits
+-   2x Redd
 
  | _**Positive**_
 
@@ -141,13 +148,14 @@ _**Negative**_
 
 -   Excellent early-game healing.
 -   Not reccomended for use during PVP & PVE due to Ether drain.
--   Please find out how much healing it grants.(I think it's heals about 5%)
--   Please find out how much Ether it drains.
+-   With Apocracy it Heals 10%, without is 5%.
+-   Seems to drain 40% ether on use, could be number specific rather then percent specific.
+-   You only need 2 to make the best verison of the potion.
 
  |
-| **Soothing Salve** | 
+| **Soothing Potion** | 
 
--   Dentifillos
+-   2-3x Dentifillos
 
  | _**Positive**_
 
@@ -155,12 +163,13 @@ _**Negative**_
 
  | 
 
--   Can be slpashed so can be used several times. Good for long battles where u cant use campfires
+-   Much better when splashed as it doesnt use up potion cd for better potions
+-   Mostly used for pvp, you shouldnt be running out of resivore during pve
 
  |
 | **Disgusting Bane** | 
 
--   Browncaps
+-   2-3x Browncaps
 
  | _**Negative**_
 
@@ -173,23 +182,23 @@ _**Negative**_
 -   Primarily for chip and crowd damage; It does not do a lot nor has any secondary effect. In fact, does about twice the damage of the other potions noted to deal damage. But, it can't be blocked and can be used from angles that don't put the user at risk.
 
  |
-| **Dulling Blight** | 
+| **Dulling Potion** | 
 
--   2x Gathered Wheat
--   1x Dentifillo
+-   2-3x Gathered Wheat
 
- | \-
+ | _**Postive**_
 
--   Unknown Effects
+-   Ether Regen
 
  | 
 
--   Maybe just be two types of potions mixed in one, if possible please Test
+-   Great for Pvp since it works well without Resivore.
+-   Seems to drain resivore a lot but that could jsut be an effect of the regen rather then a negitive downside.
 
  |
-| **Steadfast Elixir** | 
+| **Steadfast Potion** | 
 
--   1-3 Calabash  
+-   2-3x Calabash  
     
 
  | _**Negative**_
@@ -199,22 +208,79 @@ _**Negative**_
  | 
 
 -   Best used in PvP since it can drain the whole bar if 3 are used.
--   Works both thrown and drinken
--   Good potion to keep handy
+-   Works both thrown and drinken.
+-   Good potion to keep handy.
 -   \[Pretty sure this one removes "posture damage"\]
 
  |
-| Dulling Bane | 
+| **Hastening Potion** | 
 
--   Gathered Wheat
+-   2-3x Pomars
 
- | Possitive
+  
 
--   Regens Ether
+ | _**Positive**_
+
+-   Grants a speed bonus, lasts longer high level potion
 
  | 
 
--   Best for when out of ether or when you hit yourself with an ether drain, Works when splashed so can also be used in team battles.
+-   The speed bonus also works in water, great for escapses.
+-   No real downsides otehr then Pomar being hard to come by.
+
+ |
+| **Grueling Potion**
+
+  
+
+ | 
+
+-   2-3x Plumfruits
+
+ | _**Positive**_
+
+-   Grants bonus attack damage with physical attacks
+
+ | 
+
+-   Its not very noticable when using light weapons but does deal extra damage \[Tested it with a Enforcer Axe if anyones wondering\]
+-   Used to have a different name, was recently changed.
+
+ |
+| **Staggering Potion**
+
+  
+
+ | 
+
+-   2-3x Ongo
+
+ | \-
+
+-   Unknown effect
+
+ | 
+
+-   If found out DM Malcolm#0572
+-   or apply your edit here
+
+ |
+| **Appalling Potion**
+
+  
+
+ | 
+
+-   2-3x Bamboo Bundle
+
+ | _**Negitive**_
+
+-   Removes Resivore
+
+ | 
+
+-   its not super effective in fights but it has its uses.
+-   it seems to only be able to remove 10% with 3 Bundles. \[May remove more with specific Talents\]
 
  |
 

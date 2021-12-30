@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 6642
+revid: 6742
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,7 +50,18 @@ _**Pressing C triggers resonance**_
 -   You take no damage when its in use
 -   Creates a flame-ish effect where it was used
     -   This goes once you return to said spot
-        
-        File:Phoenix Fire.jpg
-        
-        Phoenix fire effect
+
+File:Phoenix Fire.jpg
+
+Phoenix fire effect
+
+  
+
+  
+
+  
+
+**Wind up**
+
+-   Activating the resonances charges the ability, 1 level at a time. Can be done 5 times.
+-   Landing a hit (must deal damage) unleash a blast that deal additional damage, based on the number of charges.

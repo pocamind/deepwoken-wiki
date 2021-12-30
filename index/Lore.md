@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 6678
+revid: 6739
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,7 +44,7 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### Maestro Evengarde Rest
 
-"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, and is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in medium weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in medium weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
 
@@ -90,10 +90,12 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Adretian Authority
 
--   The Authority are a faction of Peacekeepers, and are not to be confused with the Nation of Etrea.
+-   The Authority (Or the Empire/Legion for some people) are a faction of Peacekeepers, and are not to be confused with the Nation of Etrea.
+-   The Adretian Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly Adrets, but can vary with other races too.
 -   Are enemies with The Nation of Etrea.
+-   The Authority are affiliated with The Depth Divers and Summer Company.
 
 A Peacekeeper Grunt, part of The Authority
 
@@ -105,13 +107,17 @@ A Peacekeeper Grunt, part of The Authority
 
 ### Summer Company
 
-(Placeholder)
+-   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
+-   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Authority for their efforts.
+
+A Summer Company Member.
 
 ### The Depth Divers
 
 -   An organization that specialize in traversing and researching in The Depths.
+-   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
 -   The Depth Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
--   The Divers has a mixed relationship with The Adretian Authority.
+-   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
 
 ### Tribespeople of the Song
@@ -119,6 +125,10 @@ A Peacekeeper Grunt, part of The Authority
 -   Tribesmen that worships the Song, presumably [Sea Serpent Ardur](Monsters.md).
 -   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
 -   Flamecharm Tribesmen are commonly found in Songseeker Isles, and Frostdraw Tribesmen can be found in [Minityrsa](Minityrsa.md).
+
+### The Hivemind
+
+(Placeholder)
 
 ## Attunement Lore
 

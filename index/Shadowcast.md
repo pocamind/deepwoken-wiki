@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 6676
+revid: 6729
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,22 +24,22 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 | Image/Gif | Star Rating | Spell | Card Description | Effect |
 | --- | --- | --- | --- | --- |
 |  | 
-> ( )
+> (☆)
 
  | Dark Blade | Slicing blades of dark energy. | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable. |
 |  | 
 
-> ( )
+> (☆)
 
  | Shadow Gun | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hit. Blockable. |
 |  | 
 
-> ( )
+> (☆)
 
  | Clutching Shadow | Power lurks within. | Chokes target enemy and slams them down. |
 |  | 
 
-> (☆)
+> (★)
 
  | Shadow Chains | Chains of shadow. | Throws out a blockable chain that, if connects, drains the targets ether and health for ~3 seconds. It fills the users ether simultaneously. |
 
@@ -50,9 +50,10 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 <tbody>
 <tr>
   <td></td>
-  <td>Shadow Meteor (☆☆)</td>
+  <td><blockquote><p>(★★)</p></blockquote></td>
+  <td>Shadow Meteor</td>
   <td>Hail down meteors of darkness.</td>
-  <td>Three meteors fall depending on where you aim your cursor. They may get stuck if it would hit a surface before where your cursor is pointed towards.</td>
+  <td>Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.</td>
 </tr>
 </tbody>
 </table>
@@ -63,9 +64,10 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 <tbody>
 <tr>
   <td></td>
+  <td><blockquote><p>(★★)</p></blockquote></td>
   <td>Shadow Assault</td>
   <td>A rush of darkness.</td>
-  <td>You dash forwards, hitting anybody in the way.</td>
+  <td>Windup before turning invisible and dashing forward, dealing damage to anyone in your way. Blockable.</td>
 </tr>
 </tbody>
 </table>

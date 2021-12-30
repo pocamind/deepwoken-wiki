@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 6568
+revid: 6705
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,9 +8,17 @@ categories: [Pages with broken file links]
 
 # Fists
 
+## Description
+
+**Fist Fighting Styles** or Fists are another type of weapon the player can use in Deepwoken. This weapon is scaled by the Light Weapons attribute.
+
+There are several different styles.
+
+## Styles
+
 ### Legion Martial Arts
 
--   You must talk to the legion captain inside the viper's jaw and ask them for training. You will then recieve a quest on getting recommended to the captain by helping the centurions 8 times (allegedly 8, could be more could be less).
+-   You must talk to the Legion Captain inside the Viper's Jaw and ask them for training. You will then receive a quest on getting recommended to the Captain by helping the Centurions 8 times. (allegedly 8, could be more could be less)
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed.
 
 ### File:Way Of Navae.png
@@ -22,8 +30,10 @@ categories: [Pages with broken file links]
 
 File:Jus Karita Description.png
 
--   The trainer is next to the tree in the middle of Etris. Requirements are 40 light weapon, Power 30
+-   The trainer is next to the tree in the middle of Etris. Requirements are 40/50 light weapon, Power 30
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
 
-Note: Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists. But equipping Cestus makes it so you swing your fists wildly, almost making Cestus + Jus Karita a different style from the original one (from what i know this is just the "base" fist style you get if you equip fists as a weapon without a style).
+## Trivia/Notes
+
+-   Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists. But equipping Cestus makes it so you swing your fists wildly, almost making Cestus + Jus Karita a different style from the original one (from what i know this is just the "base" fist style you get if you equip fists as a weapon without a style).

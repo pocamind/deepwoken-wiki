@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 6608
+revid: 6765
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,7 +19,7 @@ The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotte
 
 The Depths is located in a underwater afterlife; Almost a limbo in between life and death. You will travel through sunken cities and relics that were lost to the deep. This is your judgement: you either live or die.
 
-## Creatures (Few official names)
+## Creatures
 
 _**Main Article -**_ [Monsters](Monsters.md)
 
@@ -117,5 +117,5 @@ The Depths, being a naturally hostile location, will make sure it will kill you.
 ## Notes
 
 -   It is prossible to gain card luck (boosted if you have [Marauder](https://deepwoken.fandom.com/wiki/Boons?#Marauder)) by killing players (or NPCs) in the depths.
--   You're gonna need to bring some Obsidian somethings if you want to get Shadow Cast which is down here.
+-   You're gonna need to bring 5 Umbral Obsidian if you want to get Shadow Cast which is down here.
 -   Obtain resonance bells here too.

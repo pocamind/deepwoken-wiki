@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 6677
+revid: 6759
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -30,7 +30,7 @@ Press Y to change your stance. Changing your stance will change the way you hold
 
 ### One-handed
 
-Hold your weapon with your dominant hand, which allows the use of an off-hand accessory, such as shields. (This is obtained by a talent)
+Hold your weapon with your dominant hand, which allows the use of an off-hand accessory, such as shields.
 
 ### Two-handed
 
@@ -50,9 +50,10 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
 <tbody>
 <tr>
   <td><b>Name</b></td>
-  <td><b>Type</b></td>
   <td><b>Requires</b></td>
+  <td><b>Type</b></td>
   <td><b>Base Damage</b></td>
+  <td><b>Penetration</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -60,9 +61,10 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
 </tr>
 <tr>
   <td>Stiletto</td>
-  <td>Dagger</td>
   <td>0 LHT</td>
+  <td>Dagger</td>
   <td>10</td>
+  <td></td>
   <td>1</td>
   <td></td>
   <td></td>
@@ -70,65 +72,70 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
 </tr>
 <tr>
   <td>Way of Navae</td>
-  <td>Fist</td>
   <td>0 LHT</td>
+  <td>Fist</td>
   <td></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Legion Kata</td>
-  <td>Fist</td>
   <td>0 LHT</td>
+  <td>Fist</td>
   <td></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Gilded Dagger</td>
-  <td>Dagger</td>
   <td>25 LHT</td>
+  <td>Dagger</td>
   <td>13.5</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Flintlock</td>
-  <td>Flintlock</td>
   <td>25 LHT</td>
+  <td>Flintlock</td>
   <td>10</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Silver Dagger</td>
-  <td>Dagger</td>
   <td>35 LHT</td>
+  <td>Dagger</td>
   <td>12</td>
+  <td></td>
   <td>6</td>
   <td></td>
 </tr>
 <tr>
   <td>Whaling Knife</td>
-  <td>Dagger</td>
   <td>40 LHT</td>
+  <td>Dagger</td>
   <td></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Jus Karita</td>
-  <td>Fist</td>
   <td>45 LHT</td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>Fist</td>
+  <td>13</td>
+  <td>20%</td>
+  <td>9</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.9x</td>
 </tr>
 <tr>
   <td>Champion's Dagger</td>
-  <td>Dagger</td>
   <td>50 LHT</td>
+  <td>Dagger</td>
   <td>14.5</td>
+  <td></td>
   <td>8</td>
   <td>4</td>
   <td>6</td>
@@ -136,33 +143,34 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
 </tr>
 <tr>
   <td>Tanto</td>
-  <td>Dagger</td>
   <td>50 LHT</td>
+  <td>Dagger</td>
   <td>16</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Krulian Knife</td>
-  <td>Dagger</td>
   <td>60 LHT</td>
+  <td>Dagger</td>
   <td></td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Revolver</td>
-  <td>Flintlock</td>
   <td>65 LHT</td>
+  <td>Flintlock</td>
   <td>13</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Dragoon</td>
-  <td>Flintlock</td>
   <td>65 LHT</td>
+  <td>Flintlock</td>
   <td>20</td>
+  <td></td>
   <td>12</td>
   <td>3</td>
   <td>12</td>
@@ -269,10 +277,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>10 MED</td>
   <td>Sword</td>
   <td>20</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>5</td>
+  <td>6</td>
+  <td>7.5</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Mace</td>
@@ -325,10 +333,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>25 MED</td>
   <td>Sword</td>
   <td>18</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Ritual Spear</td>
@@ -453,6 +461,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>6</td>
   <td>8</td>
   <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Steel Maul</td>
@@ -473,6 +482,17 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td></td>
 </tr>
 <tr>
+  <td>Adretian Axe</td>
+  <td>40 HVY</td>
+  <td>Great Axe</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td>Crescent Cleaver</td>
   <td>40 HVY, 10 STR</td>
   <td>Great Sword</td>
@@ -487,7 +507,11 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Canorian Axe</td>
   <td>45 HVY</td>
   <td>Great Axe</td>
-  <td>21,4</td>
+  <td>21</td>
+  <td>5</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.6x</td>
   <td></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 5920
+revid: 6740
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -105,6 +105,8 @@ _Some locations may be unlisted, feel free to add them!_
 
 ### Lord Regent Quest
 
+Audience with the Lord Regent
+
 Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
 
 -   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event.
@@ -202,8 +204,6 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 Successful Flamecharmer Check
 
   
-
-Audience with the Lord Regent
 
 File:Kennith dead2.png
 

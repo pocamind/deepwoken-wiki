@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 6551
+revid: 6762
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,3 +40,4 @@ The player must respond with "yes." Once accepted an animation will play and the
 -   All commands excluding _Return_ have no radius, meaning you can command your Subject in seperate seas if wanted.
 -   Commands can be stacked, example being if you say "_\[Name\]_, say I will sleep now." The Subject will both sleep and say "I will sleep now."
 -   Commands can be used as "_\[All\]_" if you want to effect all your servants
+-   This talent is often regarded as a joke, due to the mischief it can cause, but in the right hands, it can turn the tides of some fights.

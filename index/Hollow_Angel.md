@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 5070
+revid: 6723
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,3 +32,11 @@ White and Yellow Humanoid creatures with wings. Wield vantablack spears and can 
 
 -   [The Depths](The_Depths.md)
 -   The Overworld (Summoned by [Seekers](Watcher.md) in the Overworld)
+
+  
+
+## Note
+
+you **will most likely** have to fight an angel if you are going for [Oath Blindseer](Oaths.md), there is a Seeker located in the area where you must obtain it which gives little to no room to sneak around
+
+Only 1 angel is summoned and I've found it considerably easier to Fight/Kill than the 2 spawned in [The Depths](The_Depths.md)

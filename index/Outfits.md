@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 6500
+revid: 6732
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -338,6 +338,31 @@ x2 Iron
 _Talent: Intrepid Flame_
 
  |
+| 
+
+File:Summercompanyuniform.png
+
+ | Summer Company Uniform | x5 Cloth
+
+x4 Fiber
+
+x10 Iron
+
+100 Notes
+
+ | Power Level 15 | +1500 Durability
+
++10% Physical Armor
+
++5% Elemental Armor
+
++10% Slash Armor
+
++25% Shadow Armor
+
+_Talent: Armor Piercing_
+
+ |
 
   
 
@@ -480,7 +505,7 @@ x1 Rock
 
 +5% Blunt Armor
 
-Talent: Now You See Me
+_Talent: Now You See Me_
 
  |
 
@@ -669,7 +694,9 @@ buff effect)
 \*Can be sold for 10[n](Notes.md)\*
 
  |
-|  | Bloodiron Ring | Armor Durability on Grip |
+| 
+
+ | Bloodiron Ring | Armor Durability on Grip |
 
   
 
