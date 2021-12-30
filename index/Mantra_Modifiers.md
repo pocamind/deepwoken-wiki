@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6658
+revid: 6786
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -119,6 +119,8 @@ Tornado
 
 Gale Punch
 
+Revenge
+
  | Reverses the effect of the Mantra. |
 | 
 
@@ -138,7 +140,7 @@ _"Alt text placeholder"_
  |
 | 
 
- | Tornado Spark | Dark Blade | Exact effect unknown.
+ | Tornado Spark | Dark Blade | Makes the last slash a Spin Attack.
 
 _"You feel dizzy when you hold it."_
 

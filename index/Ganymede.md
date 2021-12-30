@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 6670
+revid: 6796
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -38,4 +38,7 @@ The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% 
 ### Notes/Trivia
 
 -   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
+
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
+
+-   _They have tremendous drip._

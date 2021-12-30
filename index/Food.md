@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 6754
+revid: 6795
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,6 +35,8 @@ Known Boosts:
 Slowed Stomache (Feed Bar is drained at a significantly slower pace)
 
 Improved Mantra Damage
+
+Improved Weapon Damage
 
   
 

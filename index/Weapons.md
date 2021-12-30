@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 6759
+revid: 6783
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -68,7 +68,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>1</td>
   <td></td>
   <td></td>
-  <td></td>
+  <td>1,05x</td>
 </tr>
 <tr>
   <td>Way of Navae</td>

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 6764
+revid: 6779
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -59,7 +59,7 @@ Notes/Tips
       
     
 
-### Megalodaunt (Sharko)
+### Megalodaunt (Sharko/Carl)
 
 _Main Article - [Megalodaunt](Megalodaunt.md)_
 
@@ -97,7 +97,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   They have great ass.
 -   If your above level 20 and have a squad of more than 3 players you can usually get away with just rushing them
 
-### **Rock Golem**
+### **Rock Golem (Dwayne)**
 
 "Ben 10 in Deepwoken!?!?!?"
 
@@ -132,7 +132,7 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 
 -   Occasionally a Shark-O and a Golem will spawn next to each other and fight each other. It's a good idea to use projetiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 
-### Lionfish
+### Lionfish (Jason)
 
 _Main Article- Lionfish_
 
@@ -199,11 +199,11 @@ _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 
   
 
-### **Purple Crab**
+### **Purple Crab (Sheldon)**
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
-An large giant crab like creature with extremely sharp claws able to slash any foe in its way. Dealing moderate damage and only spawns in upper erisa with a average hp pool. They can easily get you if unprepared and swings quickly but all moves are parryable.
+A large giant crab like creature with extremely sharp claws able to slash any foe in its way. Dealing moderate damage and only spawns in upper erisa with a average hp pool. They can easily get you if unprepared and swings quickly but all moves are parryable.
 
 Drops strange claws.
 
@@ -220,7 +220,7 @@ Drops strange claws.
 
 File:Crabby man ZoomedInVersion.png
 
-### Crab
+### Crab (Mr. Krabs)
 
 Unlike Purple Crab this crab is actually large averaging in about 8 times the size that spawns in the depths. Like carl it uses its large claws to snap at ya. It also shoots lots o bubbles.
 
@@ -273,7 +273,7 @@ Spawns somewhere within Minityrsa or near it, the Aratel Sea, the Void Sea, and 
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.  
     
 
-### Angels
+### Angels (Deep Knight)
 
 Main article - [Angels](Hollow_Angel.md)
 
@@ -347,7 +347,7 @@ summoned by going in and out of the wall near the valley of heroes on the left c
 -   Their main attacks are to knock the player up and prevent them form escaping.
 -   View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
-### **Ice Golem**
+### **Ice Golem (Hugo)**
 
 File:Ice Golem 4.png
 
@@ -422,7 +422,7 @@ fuc
 
 -   Use the squishier spiders as healtpacks.
 
-### **Squid**
+### **Squid (SquidHoss/Squibbo/Squidward)**
 
 > "A_yo who the fuck is this cluthulu looki-"_
 

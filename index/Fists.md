@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 6705
+revid: 6792
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,13 +18,13 @@ There are several different styles.
 
 ### Legion Martial Arts
 
--   You must talk to the Legion Captain inside the Viper's Jaw and ask them for training. You will then receive a quest on getting recommended to the Captain by helping the Centurions 8 times. (allegedly 8, could be more could be less)
+-   You must talk to the Legion Captain inside the Viper's Jaw and ask them for training. You will then receive a quest on getting recommended to the Captain by helping the Centurions 8 times. (allegedly 8, could be more could be less) (I managed to get it by helping them 4 times but I did do the quest to find Lars so that might have something to do with it.)
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed.
 
 ### File:Way Of Navae.png
 
--   To get this, ~either you buy you can only buy recipe for armor,~ (You can't get the fist style from armour, you only get a talent that buffs the fist style) you gotta craft it yourself the nomad robes inside one of the tents on the nomad camp on etris or find a captive on erisia and bring it to the nomads.
--   This is the base of the fist fighting style, you'll need to get this first to learn the others.
+-   To get this, you must find a captive on erisia and bring it to the nomads.
+-   This is the base of the fist fighting style, you'll need to get this first to learn the others. ( This is wrong, just tested and learnt Jus Karita without it, unsure about legion martial arts though )
 
 ### Jus Karita
 

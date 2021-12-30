@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 6660
+revid: 6778
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -40,7 +40,7 @@ Red variant - _**Mark of Ku**_ | Buffs the "rest" of one person they choose arou
 
 ### Progression
 
-Power 10+(Not sure of the exact level): Gain the ability to use Mark of Jurik/Ku/Nemit outside of campfires.
+Power 10+~(Not sure of the exact level)~ (It's Power 10): Gain the ability to use Mark of Jurik/Ku/Nemit outside of campfires.
 
 ### Strengths
 

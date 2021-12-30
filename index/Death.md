@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 6571
+revid: 6775
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ Leaving Depths Solo
 -   Level 1-10 Allowed to leave
 -   Level 10-20 Unknown(Someone test this please)
 -   Level 20-30 Angel
--   Level 30-40 Sharko
+-   Level 30-40 [Sharko](Megalodaunt.md)
 -   Level 40-50 Enhanced Sharko
 -   Level 50-60 Enforcer
 

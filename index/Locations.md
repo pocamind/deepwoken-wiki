@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 6662
+revid: 6790
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -31,6 +31,7 @@ categories: ["Post-death"]
             -   _The Courtyard_
         -   _[Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)_
         -   _Burning Stone Gardens_
+            -   _Rat's Den_
     -   [Minityrsa](Minityrsa.md)
     -   Eastern Contentinal Lighthouse
 -   The Aratel Sea
@@ -54,6 +55,7 @@ categories: ["Post-death"]
 -   [The Depths](The_Depths.md)
     -   The Depths
     -   Celtor Wastes
+        -   Diver's Camp (will create the page soon)
     -   [Temple of Hearts](Temple_of_Hearts.md)
     -   The City of the Drowned
         -   _Varicosa District_

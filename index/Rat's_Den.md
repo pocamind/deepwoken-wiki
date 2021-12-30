@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 6546
+revid: 6782
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,4 +17,12 @@ Outside of the building stands an NPC named the "Golden Rat Bouncer." This NPC w
 
 ## Enemies
 
-The location is home to a unique enemy (dubbed "Rats" by the NPC outside of the building and the _Gold Plate'_s description), which use Galebreath and are equipped with heavy weapons. The enemies will use the Galebreath Mantras _Gale Lunge_ and _Heavenly Wind_.
+The location is home to a unique enemy (dubbed "Rats" by the NPC), which use Galebreath and are equipped with heavy weapons. The enemies will use the Galebreath Mantras _Gale Lunge_ and _Heavenly Wind_.
+
+## Gold Plate
+
+_Hey, it's worth at least a rat's weight in gold._
+
+-   Sells for 10 Notes
+
+The _Gold Plate_ is an item only obtainable from enemies in the Rat's Den. When held, it appears as a large, flat sheet of gold.
