@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 6471
+revid: 6624
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -36,10 +36,8 @@ This monster is hostile to every other creature and will attack them on sight, w
 -   Slash + Slash: If you block the first hit instead of parrying, the second hit will guard-break.
 -   Slash + Kick: You can block and parry the slash, but the kick must be dodged.
 
-## Tips/
+## Tips
 
--   With decently high hp and a good armor, it is perfectly viable to tank all the attacks and still go for hits, however, its still better to block and parry what you can.
--   Along with a few other giant enemies, the megalodaunt get stunned for a few seconds once it takes enough damage.
--   Here is a fairly easy method to kill sharkos [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy) ABUSE IT WHILE YOU CAN
--   They often lose to those golem creatures, as you can see the golems may be defending their people suddenly ( I wouldn't try and see whether you are one of their people ).
--   Can also be found eating a npc.
+-   With decently high HP and a good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
+-   Along with a few other Giant Type enemies, the Megalodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
+-   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy).

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 6490
+revid: 6588
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Spells]
 
 Flame charm icon
 
-> "The brightest flame casts the darkest shadow."
+> "The brightest flame casts the darkest shadow." - George R.R. Martin
 
 -   **Description**
 
@@ -21,7 +21,7 @@ Flamecharm is a moderate damaging long term dps mantra type that utilizes the bu
 | Image/Gif | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Flame Repulsion | An exertion of flames. | After charging for about 2 seconds **charging for about 2 seconds**, **cast a medium sized AOE attack** affecting everywhere around you **while being unable to move**.
+ | Flame Repulsion | An exertion of flames. | After charging for about 2 seconds **cast a medium sized AOE attack** affecting everywhere around you **while being unable to move**.
 
 **Knocks back** enemies and does **damage**. **Spell has hyper armour.**
 
@@ -40,13 +40,16 @@ Does not inflict stun or knockback
  | Flame Palm | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
 | 
 
- | Flame Eruption | A pyrocalstic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |
+ | Flame Eruption (☆) | A pyrocalstic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |
 | 
 
  | Flame Gun | Rapid bullets of flame. | Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target. Able to ignite campfires, as well as grass, leaves, and bush tiles when they aren't snowed over. |
 | 
 
- | Fire Blade | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.
+ | Fire Forge (☆) | Toss a nimble dagger. | Caster swipes their weapon hand and launches 3 flaming throwing stars which converge before spreading out in 3 adjacent directions. They deal little damage and inflict burn unless blocked. |
+| 
+
+ | Fire Blade (☆) | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.
 
 **Breaks block, but can be parried.**
 
@@ -56,7 +59,7 @@ Does not inflict stun or knockback
  | Flame Grab | A fiery chokehold. | Caster charges a grab for 0.5 seconds, thrusting forward and when the target is hit, they are grabbed and slammed into the ground, inflicting burn and damage |
 | 
 
- | Rising Flame | Unknown | Caster winds up for a short time, then spins around, making fire slash shapes around them. If it hits, launches said target into the air, dealing \[insert general damage here\] damage, along with fall damage depending on height.
+ | Rising Flame (☆☆) | A rising tornado of flames. | Caster winds up for a short time, then spins around, making fire slash shapes around them. If it hits, launches said target into the air, dealing \[insert general damage here\] damage, along with fall damage depending on height.
 
   
 **If you have a certain card called Meteor Impact(?), once they are launched they will be slammed back down to the ground, dealing additional damage.**
@@ -76,7 +79,7 @@ File:Flame Blind.png
 | Image/Gif | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Fire Leap | Unknown | Launches the caster up in the air leaving a trail of flames on the ground.
+ | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
 
   
 **Reversal Spark:**
@@ -88,7 +91,7 @@ File:Flame Blind.png
  |
 | 
 
- | Flame Assault | Unknown | Caster dashes forward, dealing minor damage and lighting anything in the way on fire. |
+ | Flame Assault (☆☆) | Burst foward in flames. | Caster dashes forward, dealing minor damage and lighting anything in the way on fire. |
 |  |  |  |  |
 
   
@@ -98,7 +101,7 @@ File:Flame Blind.png
 | Image/Gif | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Flame Wisp | A servant of flames. | Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits. |
+ | Flame Wisp (☆☆) | A servant of flames. | Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits. |
 | 
 
  | Graceful Flame | Conjure a undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6537
+revid: 6561
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,6 +53,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 -   **Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
+-   **Mushroom Bisque** - Recipe unsure, but buying one from the food store and eating it as a vegetarian causes one to puke, and looking up "mushroom bisque main ingredient" for real life bisque on google says that the main ingredient is crustaceans, means that its probably some mixture of mushrooms + fish
 -   **[Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_

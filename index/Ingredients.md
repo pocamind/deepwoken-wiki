@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 6444
+revid: 6578
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,7 +63,11 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
 -   [Multiplying Spark](Mantra_Modifiers.md#sparks)
 -   Magnet Spark - Supposedly adds homing onto mantras... doesn't actually do that.
     -   Affected Mantras: Lightning Blade - Unknown
--   Tornado Spark - ???
+
+-   Tornado Spark - Makes a tornado efect in a mantra.
+
+-   Affected Mantras: Dark Blade - _In the last hit makes a shadow tornado arround the character._
+
 -   Spring Spark - Most likely boots height of a mantra that makes you jump high.
 -   Round Spark - Converts Mantras into an AOE effect.
     -   Affected Mantras: Ice Stomp - _Instead of a straight line, it creates a ring of ice around the user._

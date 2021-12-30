@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 4920
+revid: 6573
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,15 +41,17 @@ I decided to include Vow of Mastery here due to some testing I did concluding th
 
 **Vow of Mastery** - The Vow of Mastery grants the Master the power to command their Subject. To innatiate a vow, you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (Other questions might work, unconclusive, but for now answering any type of question with sure makes you immune to the effect, only the answer yes when the players are directly infront of each other results in a vow.
 
-Command: Say - Innate ability that casues the Subject to say whatever the Master desires. ( \[Subject's First Name\] Say \_\_\_\_\_\_\_ )
+Command: Say - Innate ability that casues the Subject to say whatever the Master desires. ( \[Subject's First Name\] Say \_\_\_\_\_\_\_ ) (You start out with this)
 
-Command: Sleep - Innate abilty that causes the Subject to instantly go into a state of knockout. ( \[Subject's First Name\] Sleep )
+Command: Sleep - Innate abilty that causes the Subject to instantly go into a state of knockout. ( \[Subject's First Name\] Sleep ) (You start out with this)
 
 Command: Run - Command your servant to run with all their might. _Causes the Subject to run forward continuosly for an amount of time with a speed boost, no cool down_. ( \[Subject's First Name\] Run )
 
 Command: Fight - Command your servant to fight for their master, granting them enhanced stats for the duration. _Regardless of the rumors this one is purely a buff that does nothing else, appears to give more damage and enhanced life regen, lengthy cooldown_. ( \[Subject's First Name\] Fight )
 
 Command: Sacrifice - Damage your servant to heal yourself
+
+Command: Live - Can be only used 1 per hour (irl) Un knocks and fully heals the subject ( \[ Subject's First Name\] Live )
 
 ## Notes
 

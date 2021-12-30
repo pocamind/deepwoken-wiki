@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 6550
+revid: 6652
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ For information on Human Enemies, go [here](Enemies.md).
 
 ## Monsters
 
-### Mudskippers (Zed, Zed and Zeddy)
+### Mudskippers
 
 _Main Source - [Mudskipper](Mudskipper.md)_
 
@@ -58,7 +58,7 @@ Notes/Tips
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.  
     
 
-### Megalodaunt (Sharko/Hugo/Carl)
+### Megalodaunt (Sharko)
 
 _Main Article - [Megalodaunt](Megalodaunt.md)_
 
@@ -96,7 +96,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, Carl is the first Mons
 -   They have great ass.
 -   If your above level 20 and have a squad of more than 3 players you can usually get away with just rushing them
 
-### **Rock Golem (Dwayne)**
+### **Rock Golem**
 
 "Ben 10 in Deepwoken!?!?!?"
 
@@ -114,7 +114,7 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 
 **Attacks**
 
--   **Fist Spin** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
+-   **BeyBlade Time** - The golem will start charging up his torso in a spinning matter and walk towards a player. Do not try to block it as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 
 -   **Eye Beam** - The golem with begin charging up a huge eye beam. This move bypasses through block so don't try to block it or parry it. You cannot hide behind objects the beam passes through them. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
 
@@ -131,7 +131,7 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 
 -   Occasionally a Shark-O and a Golem will spawn next to each other and fight each other. It's a good idea to use projetiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 
-### Lionfish (Jason)
+### Lionfish
 
 _Main Article- Lionfish_
 
@@ -198,7 +198,7 @@ _Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
 
   
 
-### **Purple Crab (Sheldon)**
+### **Purple Crab**
 
 File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
@@ -219,14 +219,14 @@ Drops strange claws.
 
 File:Crabby man ZoomedInVersion.png
 
-### Crab (Mr. Krabs)
+### Crab
 
 Unlike Purple Crab this crab is actually large averaging in about 8 times the size that spawns in the depths. Like carl it uses its large claws to snap at ya. It also shoots lots o bubbles.
 
   
 This is just a placeholder for a real document on it.  
 
-### Blue Jellyfish (Eugene)
+### Blue Jellyfish
 
 File:Jellyfish.jpg
 
@@ -240,7 +240,7 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 -   **Devour** - Floats over your dead body and pulls you into its main body, consuming you.
 
-### Purple Chromatic Jellyfish (Mother of Pearl)
+### Purple Chromatic Jellyfish
 
 A massive purple jellyfish that is only found in The Depths. This enemy is just a DPS check for light weapons (attack too fast to fight back) but is very hard for other weapon classes.
 
@@ -272,7 +272,7 @@ Spawns somewhere within Minityrsa or near it, the Aratel Sea, the Void Sea, and 
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.  
     
 
-### **The Enforcer (Rock)**
+### **The Enforcer**
 
 A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level.
 
@@ -296,7 +296,7 @@ Drops the Enforcer Axe
 -   You can block all of its attacks and sometimes The Enforcer stands still allowing for a few hits.
 -   The Enforcer can also feint.
 
-### **Snow Knights (Bartholemue)**
+### **Snow Knights**
 
 File:Meteor golem.png
 
@@ -325,7 +325,7 @@ summoned by going in and out of the wall near the valley of heroes on the left c
 -   Their main attacks are to knock the player up and prevent them form escaping.
 -   View [this link](https://medal.tv/games/roblox/clips/5LHYvOqV_eZZi/d1337h6GcZau?invite=cr-MSwzeVgsMjIzNTE1NDcs) to see them in action.
 
-### **Ice Golem (Hashirama)**
+### **Ice Golem**
 
 File:Ice Golem 4.png
 
@@ -349,7 +349,7 @@ Huge stone creatures similar to the golems on Erisia, summoned by going to glaci
 -   The golem is slow enough to outrun and can be infinte combo'd with 3 people.
 -   ait does alot of damage and can 2-3 shot level 25-30 players.
 
-### **Sea Serpent Ardour (Kaido)**
+### **Sea Dragon Ardour (Kaido)**
 
 > _"Nothing bad ever happens in the Voidsea!"_ - John Kennedy
 
@@ -368,10 +368,11 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 
 **Notes/Tips**
 
--   I have no clue this monster is huge
+-   Just stay behind him and he is unable to hit you
+-   Gives you a Murmur when he dies if you did enough damage
 -   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
 
-### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE) (Natasha)**
+### **[_Giant Enemy Spider_](https://www.youtube.com/watch?v=m50WtUTBaHE)**
 
 > _"GIANT. ENEMY. SPIDER."_ _\-_ Jermaine.
 
@@ -399,7 +400,7 @@ fuc
 
 -   Use the squishier spiders as healtpacks.
 
-### **Squid Hoss (Squibbo)**
+### **Squid**
 
 > "A_yo who the fuck is this cluthulu looki-"_
 
@@ -428,7 +429,7 @@ Drops odd tentacles.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
 -   if he's cursed **RUN,** Your not beating him solo. he will violate you in 10 seconds
 
-### **Sea Monkey**..**Primadon)**
+### **Primadon**
 
 File:Seamonkey.png
 

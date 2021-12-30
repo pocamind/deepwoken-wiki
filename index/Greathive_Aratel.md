@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 6457
+revid: 6612
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -89,7 +89,7 @@ Witch shop from the balcony
 
 Extra: There is green wells around the hive, that you can invoke. I'm not able to invoke any of the wells, so I don't know what they do or what they require. However, they're most likely used to teleport, or for fast travel vertically. Also the know ways you can get rep in greathive aratel are doing the quests and help the ganymedes and vesperians kills etreans guards in the hive and merits reach.
 
-Everyone inside the Greathive Aratel is a Vesperian.
+Everyone inside the Greathive Aratel is a Vesperian, except Laplace, that is a Ganymede.
 
 File:Greathive Aratel2.png
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 6527
+revid: 6678
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -107,9 +107,12 @@ A Peacekeeper Grunt, part of The Authority
 
 (Placeholder)
 
-### The Divers
+### The Depth Divers
 
-(Placeholder)
+-   An organization that specialize in traversing and researching in The Depths.
+-   The Depth Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
+-   The Divers has a mixed relationship with The Adretian Authority.
+-   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
 
 ### Tribespeople of the Song
 

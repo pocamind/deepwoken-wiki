@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 6355
+revid: 6657
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -60,5 +60,3 @@ They are based on wolves and lions (confirmed recently)
 -   The most human looking race in Deepwoken (Aside the Adret, NPC's themselves claiming Adret to have no animalistic features whatsoever)
 
 -   Will most likely have their hair turn white as they grow older. ~Similar to how Khans have more white hair as they grow older.~
-
--   ~Somehow related to the Justicar (The Ring Man) in Etris as upon gaining a canor, he has a third dialogue option to learn about the Justicar sword style.~ NOT TRUE, he teaches you the Justicar hand to hand combat with any race.

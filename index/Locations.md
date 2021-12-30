@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 6504
+revid: 6662
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -44,12 +44,10 @@ categories: ["Post-death"]
 -   [The Void Sea](Voidsea.md)
     -   [Boatman's Watch](<Boatman's_Watch.md>)
     -   [Voidheart](Voidheart.md)
--   Other islands??
 
 ## The Central Luminant
 
 -   Raftle (one piece refernce?)
--   Other islands??
 
 ## The Depths
 
@@ -58,5 +56,5 @@ categories: ["Post-death"]
     -   Celtor Wastes
     -   [Temple of Hearts](Temple_of_Hearts.md)
     -   The City of the Drowned
-        -   _Varicosa District (The City of the Drowned)_
+        -   _Varicosa District_
 -   [Fragments of Self](Fragments_of_Self.md)

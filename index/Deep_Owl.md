@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 6337
+revid: 6560
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -41,6 +41,8 @@ When prompted to respond to the giant creature, reply with _"I'm just passing th
     -   It normally does this after it strikes you with three talon swipes.
 -   Roll a second before it grabs you, preventing you from getting half of your HP from depleting.
 -   Log if it ever interrogates you.
+-   Don't run from it before talking to it, otherwise it will literally punt you into [The Depths](The_Depths.md), or the [Fragments of Self](Fragments_of_Self.md) if you are already there (I've learned from experience)
 
   
+
 (**COMPLETE CREDIT TO @Arguinghen / FoolsArcana FOR THE ENTIRE PAGE, I KINDA STOLE IT TO PUT IN [THE DEPTHS](The_Depths.md) SECTION, SORRY!)**

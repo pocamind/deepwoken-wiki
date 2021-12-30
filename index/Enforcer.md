@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 6310
+revid: 6668
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -14,11 +14,11 @@ _"You see this guy your not boned cuz they dont one shot" - Some tester_
 
 ## **Description**
 
-###### The Enforcer is a special enemy in Deepwoken that only appears in The Depths as the exiting trial at 40+ power, serving as one of the main threats to your survival. The Enforcer weilds a menacing axe that deals a 20-ish damage on most of its moves. It generally has predictable attacks and more of the easier type of trial mobs. It was thought to take no damage and instantly KO but it doesn't. Not even close. It may look threatening but it certainly isnt but dont think its as easy as a bandit.
+###### The Enforcer is a special enemy in Deepwoken that only appears in The Depths as the exiting trial at 50+ power, serving as one of the main threats to your survival. The Enforcer weilds a menacing axe that deals a 20-ish damage on most of its moves. It generally has predictable attacks and more of the easier type of trial mobs. It was thought to take no damage and instantly KO but it doesn't. Not even close. It may look threatening but it certainly isnt but dont think its as easy as a bandit.
 
   
 
--   **Slay n' Spay** - The Enforcer slashes his blade dealing moderate damage and being able to parry
+-   **Slay n' Spay** - The Enforcer slashes his blade on a knocked target, executing the victim instantly.
 
 -   **C h o p** - The Warden swings his axe at you and deals insane damage
 

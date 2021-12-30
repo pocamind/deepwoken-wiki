@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 5395
+revid: 6656
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -59,7 +59,3 @@ Seeing as how **Molt** reduces the duration of positive effects as well as negat
 </tr>
 </tbody>
 </table>
-
-## Notes/Trivia
-
--   eae

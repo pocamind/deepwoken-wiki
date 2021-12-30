@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 6557
+revid: 6677
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -18,7 +18,7 @@ categories: [Character]
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
-Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit stuff with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s)
+Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit stuff with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
 
 When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, like extra Penetration, or Weight. It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are extremely rare though.
 
@@ -226,8 +226,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 <tbody>
 <tr>
   <td><b>Name</b></td>
-  <td><b>Type</b></td>
   <td><b>Requires</b></td>
+  <td><b>Type</b></td>
   <td><b>Base Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
@@ -236,8 +236,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Sword</td>
-  <td>Sword</td>
   <td>0 MED</td>
+  <td>Sword</td>
   <td>10</td>
   <td></td>
   <td></td>
@@ -246,8 +246,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Iron Spear</td>
-  <td>Spear</td>
   <td>0 MED</td>
+  <td>Spear</td>
   <td>10</td>
   <td></td>
   <td></td>
@@ -255,9 +255,19 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
 </tr>
 <tr>
-  <td>Messer</td>
+  <td>Officer Saber</td>
+  <td>0 MED</td>
   <td>Sword</td>
+  <td>22</td>
+  <td>4</td>
+  <td>7</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td>Messer</td>
   <td>10 MED</td>
+  <td>Sword</td>
   <td>20</td>
   <td></td>
   <td></td>
@@ -266,8 +276,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Mace</td>
-  <td>Club</td>
   <td>10 MED</td>
+  <td>Club</td>
   <td>20</td>
   <td></td>
   <td></td>
@@ -276,8 +286,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Falchion</td>
-  <td>Sword</td>
   <td>20 MED</td>
+  <td>Sword</td>
   <td>18.5</td>
   <td></td>
   <td></td>
@@ -286,15 +296,15 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Worshipper Longsword</td>
-  <td>Sword</td>
   <td>20 MED</td>
+  <td>Sword</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Scimitar</td>
-  <td>Sword</td>
   <td>20 MED</td>
+  <td>Sword</td>
   <td>15</td>
   <td></td>
   <td></td>
@@ -303,8 +313,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Gremorian Longspear</td>
-  <td>Spear</td>
   <td>20 MED</td>
+  <td>Spear</td>
   <td></td>
   <td></td>
   <td></td>
@@ -312,8 +322,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Katana</td>
-  <td>Sword</td>
   <td>25 MED</td>
+  <td>Sword</td>
   <td>18</td>
   <td></td>
   <td></td>
@@ -322,8 +332,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Ritual Spear</td>
-  <td>Spear</td>
   <td>35 MED</td>
+  <td>Spear</td>
   <td>19</td>
   <td></td>
   <td></td>
@@ -332,8 +342,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Vigil Longsword</td>
-  <td>Sword</td>
   <td>40 MED</td>
+  <td>Sword</td>
   <td>20</td>
   <td></td>
   <td></td>
@@ -342,8 +352,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Champion Sword</td>
-  <td>Sword</td>
   <td>40 MED</td>
+  <td>Sword</td>
   <td>19</td>
   <td></td>
   <td></td>
@@ -352,8 +362,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Shotel</td>
-  <td>Sword</td>
   <td>45 MED</td>
+  <td>Sword</td>
   <td>22</td>
   <td></td>
   <td></td>
@@ -362,8 +372,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Serpent Blade</td>
-  <td>Sword</td>
   <td>45 MED</td>
+  <td>Sword</td>
   <td>22</td>
   <td></td>
   <td></td>
@@ -371,9 +381,19 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
 </tr>
 <tr>
-  <td>Trident</td>
-  <td>Spear</td>
+  <td>Warden Ceremonial Sword</td>
   <td>50 MED</td>
+  <td>Sword</td>
+  <td>17</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Trident</td>
+  <td>50 MED</td>
+  <td>Spear</td>
   <td></td>
   <td></td>
   <td></td>
@@ -382,22 +402,22 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 </tr>
 <tr>
   <td>Razor Cutlass</td>
-  <td>Sword</td>
   <td>60 MED</td>
+  <td>Sword</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Rifle Spear</td>
-  <td>Spear</td>
   <td>80 MED</td>
+  <td>Spear</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>Shattered Katana</td>
-  <td>Sword</td>
   <td>100 MED</td>
+  <td>Sword</td>
   <td>20</td>
   <td></td>
   <td></td>
@@ -456,8 +476,12 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Crescent Cleaver</td>
   <td>40 HVY, 10 STR</td>
   <td>Great Sword</td>
-  <td></td>
-  <td></td>
+  <td>22</td>
+  <td>8</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td>Canorian Axe</td>

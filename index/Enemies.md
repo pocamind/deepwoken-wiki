@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 5907
+revid: 6614
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,9 @@ For information of Monsters, go [here](Monsters.md).
 
 ### Songseeker Tribesmen
 
--   Songseeker Flamecharmer  
+-   Songseeker Flamecharmer
+-   Songseeker Frostdrawer
+-   Songseeker Thundercaller  
     
 
 ### **Empire/Legionaires**

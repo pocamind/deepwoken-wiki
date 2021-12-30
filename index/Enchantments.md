@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6469
+revid: 6669
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -53,7 +53,7 @@ File:Curse of the Bloodthirsty.jpg
 
 ### Curse of the No-Life King
 
--   Pros: Unknown. (Perhaps damage increase?)
+-   Pros: Unknown. (Perhaps damage increase? \[Potential passive hp regen as well?\])
 -   Cons: You are put to one life. (Thought to be.)
 
   

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 6545
+revid: 6642
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,9 +22,8 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-Currently the only known way to obtain a Resonance is by spending 7 hours in The Depths and being knocked and getting back up. The 7 hours spent in the depths does not have to be consistent, and can done at different times.
-
-~It is theorized that the game will tell you that your resonance has been made, and will tell you the how to activate it. (Minor speculation) You will gain a power card similar to a mantra on the left side of your screen.~ Nope, it doesn't.
+-   The requirement to getting bells/resonances is not exactly known, however it is theorized that you must spend 7 hour in the depths(cap) (doesn't have to be all at once), and the timer can be reduced by gripping players you get luck from and enhanced mobs, however it is just a theory. It is also possible there is a level requirement to get resonances, as everyone I have seen with a resonance is over level 50
+-   We know that after meeting the requirement, in order to unlock it you need to be set to low hp in the depths, then you will get your hp refilled and some circles around you, showing that you obtained the resonance
 
 ## Resonances
 
@@ -55,17 +54,3 @@ Currently the only known way to obtain a Resonance is by spending 7 hours in The
         File:Phoenix Fire.jpg
         
         Phoenix fire effect
-        
-          
-        
-
-  
-
-  
-
-  
-  
-
-###### Tips/Notes
-
--   ~Staying in The Depths for 7 hours can be a challenge, as you attain Insanity from being in The Depths (this means you will have to make multiple trips and grind Willpower)~ T̶h̶e̶ ̶g̶u̶y̶ ̶w̶h̶o̶ ̶m̶a̶d̶e̶ ̶t̶h̶e̶ ̶7̶ ̶h̶o̶u̶r̶ ̶t̶h̶i̶n̶g̶ ̶i̶s̶ ̶w̶r̶o̶n̶g̶ ̶t̶h̶e̶ ̶o̶n̶l̶y̶ ̶t̶h̶i̶n̶g̶ ̶w̶e̶ ̶k̶n̶o̶w̶ ̶i̶s̶ ̶t̶h̶a̶t̶ ̶i̶t̶s̶ ̶o̶b̶t̶a̶i̶n̶e̶d̶ ̶i̶n̶ ̶t̶h̶e̶ ̶d̶e̶p̶t̶h̶s̶.̶ _**Resonances are 100% obtained via staying in the depths 7 hours and being knocked and getting back up. Please do not change this, and I have also tested this.**_

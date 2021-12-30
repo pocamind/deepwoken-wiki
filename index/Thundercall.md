@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 6547
+revid: 6599
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -39,13 +39,6 @@ Deals damage.
  |
 | 
 
- | Lightning Beam | Fire a beam of lightning. | Calls a beam of lightning onto the ground.
-
-Appears after a second of casting.
-
- |
-| 
-
  | Lightning Clones | Replicated forms of yourself conjured from electricity. | Summons two clones and attacks enemies.
 
 This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
@@ -54,6 +47,13 @@ This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
 | 
 
  | Jolt Grab | An electrified chokehold. | Dashes into the opponent and slams them into the ground. |
+| 
+
+ | Lightning Beam (☆) | Fire a beam of lightning. | Calls a beam of lightning onto the ground.
+
+Appears after a second of casting.
+
+ |
 | 
 
  | Thunder Kick (☆) | An unrelenting kick like a clap of thunder. | A spell that does a heavy kick forward.

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 6421
+revid: 6670
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,52 +10,32 @@ categories: [Pages with broken file links, Races]
 
 File:Ganymede with Hat.png
 
+Ganymede w/ Hat
+
+Ganymede w/o Hat
+
 ## Description
 
-Dark black creatures with white eyes, with a humanoid structure as its base figure.
-
--   Chance of obtaining [race](Aspects.md): **2.0%**
-
-Template:Race Box mark 2
-
-File:Ganymede.png
+The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% chance of being obtained with the [Capra](Capra.md) race. They are one of the most easily distinguishable, unique races with nearly pitch-black skin, glowing eyes of a variety of colors, and their white hair that may be seen under the [wizard hat](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots) they are born with.
 
 ### Lore
 
-  
 (To be discovered)
 
-### Appearance
+### Racial Bonuses
 
-Ganymedes are pitch-black/deep(woken) blue creatures with bright eyes ranging in a wide variety of colors, they are based off of Snails. Not much information is known about this race other than the fact they share their face table with [vesparians](Vesperian.md) and are presumably related to them. Under their trademark hats, they have white hair.
-
-### Racial Abilities
-
--   Deepfolk: The secrets of the [Deep](The_Depths.md) are easier for you to unravel. Your mind is sturdier against its effects.
--   Resists insanity.
--   Floydian Beam: Fires a linear beam similar to ice beam that deals 25 damage and knocks enemies back 200 studs. It has a cooldown of 25 seconds and has 1 pierce.
+-   Deepfolk: +1 Health
+-   Insanity Resistance
+-   +2 Intelligence
+-   +2 Willpower
 
 ### Variants
 
--   White eyes
--   Yellow/orangeish eyes
--   Sky-blue eyes
-
-### Strengths.
-
--   +2 Intelligence, +2 Willpower.
-
-### Weaknesses
-
--   Can not breathe if held by the neck for 9 minutes. <-- imagine
+-   White eyes with black skin
+-   Yellow eyes with black skin
+-   Cyan eyes with midnight blue skin
 
 ### Notes/Trivia
 
--   You can press P to take off the hat if you dont like it.
--   Easier to get [resonances](Resonance.md) due to its resistance to [insanity](Insanity.md).
-    
-    File:Blackmage-ff1-art.webp
-    
--   File:Snail Shaman.webp
-    
-    This race shares a strong resemblance to the black mages from Final Fantasy and the snail shaman from Hollow Knight
+-   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
+-   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.

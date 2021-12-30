@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 6250
+revid: 6659
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -9,10 +9,6 @@ categories: [Pages with broken file links, Races]
 # Vesperian
 
 -   Chance of obtaining race: **6.1%**
-
-  
-
-**a drippy race**
 
 File:Goated Vesperian.png
 
@@ -24,7 +20,7 @@ _Never seen without their masks, Poorly understood, but begrudgingly appreciated
 
 ## Appearance
 
-Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each character. It's horns grow over time. Masks change based on what the player chooses in the beginning of the game / after a wipe.
+Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each character. It's horns grow over time. Masks change based on what the player chooses in the beginning of the game / after a wipe. If you zoom in on your character to where it becomes slightly transparent, you can see that vesperians are mouthless people with slender yellow eyes, that look like lopsided rectangles.
 
 ## Racial Abilities
 
