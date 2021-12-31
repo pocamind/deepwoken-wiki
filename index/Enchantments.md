@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7119
+revid: 7185
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -291,7 +291,7 @@ Pros: Releases Toxic gas when hit
 
 ### Adhesive
 
-Pros: Unknown
+Pros: When an npc or player gets flourished by you, the target gets knocked back and a projectile is shot honing in on the target. (May additionally slow the target? This does not seem to work with Hero weapons. Needs more testing.)
 
 ### **Bounce**
 
@@ -307,7 +307,7 @@ Cons: If you dont know how to manage your health properly while using this, you 
 
 **Drowned**
 
-Pros: Swim Faster in water | You can't get attacked by sea monsters
+Pros: Swim Faster in water, possibly other buffs
 
 Any information given would be greatly appreciated.
 

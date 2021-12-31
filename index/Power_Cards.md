@@ -1,6 +1,6 @@
 ---
 title: Power Cards
-revid: 6552
+revid: 7228
 source: https://deepwoken.fandom.com/wiki/Power_Cards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Talents](Talents.md)
+-   Category:Talents
 
 (This page has been sadly transfered to the [Talents](Talents.md) page. My hard work put in this page was meaningless lol) - NickMcNate
 

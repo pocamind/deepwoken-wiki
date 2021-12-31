@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 7154
+revid: 7248
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ _Never seen without their masks, Poorly understood, but begrudgingly appreciated
 
 ## Appearance
 
-Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each character. It's horns grow over time. Masks change based on what the player chooses in the beginning of the game / after a wipe. If you zoom in on your character to where it becomes slightly transparent, you can see that vesperians are mouthless people with slender yellow eyes, that look like lopsided rectangles.
+Masked humanoids with cyan/grayish hair. Their masks and skin tone change depending upon the variant selected upon creation. If you zoom in on your character such that it becomes slightly transparent, you'll find that Vesperians lack all facial features aside from thick yellow eyes that come in a variety of different shapes. As they age, Vesperians begin to grow horns.
 
 ## Racial Abilities
 
@@ -25,22 +25,22 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 ## Progression
 
 -   As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
--   It is possible to get a gold and black mask if you are a blindseer (Not abtainable if oathless)
+-   It is possible to obtain a gold-and-black mask if you become a Blindseer.
 
 ## Strengths
 
--   +2 Health, +2 Fortitude, 2+ Willpower.
--   Starts out with armor better then the starter set.
+-   +2 Health, +2 Fortitude, 2+ Willpower
+-   Starts with slightly better armor than the starter set.
 
 ## Weaknesses
 
--   Cannot see facial items (it just doesn't appear on your character you still get buffs)
+-   Facial accessories are not visible (they still grant their buffs, however)
 
 ## Notes/Trivia
 
 -   I'm pretty sure this is a reference to Neon Genesis Evangelion, Hollow Knight and Halo 3: ODST
--   Vesperians have yellow circles as eyes and no mouth under their mask.
--   Vesperians get a special mask when Blindseer is aquired.
+-   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special dark-colored mask with a yellow pattern that resembles an eye.
+    -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md).
 
 <table>
 <tbody>

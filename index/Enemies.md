@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 6614
+revid: 7216
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,30 +17,23 @@ Depending on who they are, they could vary in their skill, equipment, and Attune
 
 For information of Monsters, go [here](Monsters.md).
 
-### Bandits
-
--   Shadow Hunter Assassins
--   Bandit Captains
--   Common Bandits
-
-### The Authority
+### The Kingdom of Etrea
 
 -   Palace Guards
 -   Lord Regent
 
-### Songseeker Tribesmen
+### Songseeker Cultists
 
 -   Songseeker Flamecharmer
 -   Songseeker Frostdrawer
--   Songseeker Thundercaller  
-    
+-   Songseeker Thundercaller
 
-### **Empire/Legionaires**
+### **The Legion**
 
 -   Peacekeeper Captain
 -   Peacekeeper Grunt
 
-### Dark Mage Cultists
+### The Ministry
 
 -   Cultist Fanatic
 -   [Cultist Necromancer (Mudskipper-Mancer)](Ministry_Necromancer.md)
@@ -49,11 +42,13 @@ For information of Monsters, go [here](Monsters.md).
 
 -   Hive Hoplite
 
-### Shiny Enemies
+### Bandits
 
--   Flamecharm Megaladaunt
+-   Thieves
+-   Bandit Captains
+-   Common Bandits
 
-### Mischelleny
+### Miscellaneous
 
 -   Crazed Stranded
 -   [Mindless Servant](Mindless_Servant.md)

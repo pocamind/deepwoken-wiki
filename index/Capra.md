@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 6952
+revid: 7197
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -45,7 +45,7 @@ Power 10+~(Not sure of the exact level)~ (It's Power 10): Gain the ability to us
 
 ### Weaknesses
 
-this race is literally useless if you are solo progressing
+Not a good race for solo progression, as its racial ability applies to allies.
 
 ### Notes/Trivia
 

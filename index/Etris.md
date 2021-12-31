@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 7093
+revid: 7244
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -109,7 +109,12 @@ _Some locations may be unlisted, feel free to add them!_
 -   Keeping his promise and not ratting him out rewards you a 50% discount on all Materials in the Blacksmith.
 -   Ratting him out does nothing, but atleast your ego increased!
 
-  
+### Slim Jim Quest
+
+-   Talk to Jim, a Red-Haired Canor located in a house within Etris Docks.
+-   He mutters about lacking the necessary ingredients- Agreeing to help him requires 2 Dying Embers.
+-   Reward of completing this quest is a Vibrant Gem.  
+    
 
 ### Lumberjack Quest
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 7056
+revid: 7172
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,7 +48,40 @@ The doors to your escape will be closed (most often). To open it, you must ring 
 
 The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along, the Trial will average out the player levels of all participants and spawn one mob for each of them.
 
-> _**"Triumph, or DIE!"**_ - Street Fighter, Alpha 3 Turbo. the trial that was here earlier is completely wrong so dont listen
+> _**"Triumph, or DIE!"**_ - Street Fighter, Alpha 3 Turbo.
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Level</th>
+  <th>Possible Enemies</th>
+</tr>
+<tr>
+  <td>&lt;10</td>
+  <td>N/A. No Mobs Fought.</td>
+</tr>
+<tr>
+  <td>11-19</td>
+  <td><a href="Enemies.md">City Sentinel, Assasin Mudskipper, Swordsman</a></td>
+</tr>
+<tr>
+  <td>20-29</td>
+  <td><a href="Hollow_Angel.md">Angels</a></td>
+</tr>
+<tr>
+  <td>30-39</td>
+  <td><a href="Megalodaunt.md">Megalodaunt</a></td>
+</tr>
+<tr>
+  <td>40-49</td>
+  <td>Cursed/Enhanced <a href="Megalodaunt.md">Megalodaunt</a></td>
+</tr>
+<tr>
+  <td>50&lt;</td>
+  <td><a href="Enforcer.md">Enforcer</a></td>
+</tr>
+</tbody>
+</table>
 
   
 **One more thing...**

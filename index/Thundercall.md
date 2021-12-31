@@ -1,12 +1,14 @@
 ---
 title: Thundercall
-revid: 6970
+revid: 7250
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
 ---
 
 # Thundercall
+
+> _"Thoron!"_ - Pathfinder Arch-Sorcerer
 
 ## Description
 
@@ -32,14 +34,14 @@ The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgra
  | Lightning Blade | Arcing blades of electricity. | User dashes forward with two swipes. |
 | 
 
- | Lightning Impact | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down.
+ | Lightning Impact (☆) | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down.
 
 Deals damage.
 
  |
 | 
 
- | Lightning Clones | Replicated forms of yourself conjured from electricity. | Summons two clones and attacks enemies.
+ | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons two clones and attacks enemies.
 
 This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
 

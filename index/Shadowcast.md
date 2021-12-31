@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 6897
+revid: 7218
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -10,7 +10,7 @@ categories: [Mantras]
 
 ## Description
 
-Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on this ether drain mechanic and the flame stacks.
+Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on this ether drain mechanic and the flame stacks. Compared to other attunement, shadowcasting tend to have a lower damage output, but can prove devasting to players with build heavily centered around ether.
 
 ## Obtainment & Training
 

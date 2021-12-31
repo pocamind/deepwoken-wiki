@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7152
+revid: 7220
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,8 +12,6 @@ _"Who would've thought, that they will forget us so easily?" - Voice of the Deep
 ## Description
 
 Deepwoken Lore is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
-
-  
 
 ## Figures
 
@@ -65,38 +63,37 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ## Factions
 
-### Pathfinders
+### The Old Stewards
 
--   An organization that preserves whats left before the tides came.
--   Historians that safeguards Artifacts, such as the Pieces of the Forge.
+-   An organisation that preserves whats left before the tides came.
 
-### The Ignition Reunion
+### The Ignition Union
 
 (Placeholder)
 
-### Nation of Etrea
+### The Kingdom of Etrea
 
 -   A government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority, who are referred to as "dogs" after a confrontation between them and the Etrean guards.
 -   Their appearance can be distinguished by their white/green armor.
--   Are enemies of The Adretian Authority.
+-   Are enemies of The Central Authority.
 
 An Etrean Guard, part of the Nation of Etrea
 
-### Vigil Guard
+### The Vigil of Winds
 
 -   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro" (meaning "master" or "teacher" in Italian).
 -   They seem to be allied with (and even in service to) the Etrean government.
     -   Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 
-### The Adretian Authority
+### The Central Authority
 
--   The Authority (Or the Empire/Legion for some people) are a faction of Peacekeepers, and are not to be confused with the Nation of Etrea.
--   The Adretian Authority has a FOB in The Etrean Luminant, named Fort Merit.
+-   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
+-   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly Adrets, but can vary with other races too.
--   Are enemies with The Nation of Etrea.
+-   Are enemies with The Kingdom of Etrea.
 -   The Authority are affiliated with The Depth Divers and Summer Company.
 
 A Peacekeeper Grunt, part of The Authority
@@ -114,21 +111,21 @@ A Peacekeeper Grunt, part of The Authority
 
 A Summer Company Member.
 
-### The Depth Divers
+### The Divers
 
 -   An organization that specialize in traversing and researching in The Depths.
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
--   The Depth Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
+-   The Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
 
-### Tribespeople of the Song
+### Songseeker Cultists
 
--   Tribesmen that worships the Song, presumably [Sea Serpent Ardur](Monsters.md).
+-   Cultists that worship the Song. Known as Masters of the Elements.
 -   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
--   Flamecharm Tribesmen are commonly found in Songseeker Isles, and Frostdraw Tribesmen can be found in [Minityrsa](Minityrsa.md).
+-   Flamecharm Masters are commonly found in Songseeker Isles, and Frostdraw Masters can be found in [Minityrsa](Minityrsa.md).
 
-### The Hivemind
+### The Hive
 
 (Placeholder)
 

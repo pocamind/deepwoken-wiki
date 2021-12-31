@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 7157
+revid: 7184
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes ar
 
 The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking.
 
-To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes.
+To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents).
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
@@ -772,6 +772,45 @@ buff effect)
 | 
 
  | Bloodiron Ring | Armor Durability on Grip |
+| File:Ringofwisps.PNG | 
+
+  
+Ring of Wisps
+
+  
+
+ | Increases effectiveness
+
+of wisps (flame wisp will
+
+heal more ect)
+
+ |
+|   
+File:Purifyingring.PNG
+
+  
+
+ | Purifying Ring | Allows wearer to drink
+
+seawater with no side
+
+effects
+
+ |
+| 
+
+File:Dazedband.PNG
+
+  
+
+ | Dazed Band | Flourishing an opponent
+
+has a 50% chance to stun
+
+them
+
+ |
 
   
 

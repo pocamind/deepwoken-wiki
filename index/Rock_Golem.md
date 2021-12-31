@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 7083
+revid: 7233
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,7 +24,7 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 -   **Eye Beam** - The golem with begin charging up a huge eye beam. You cannot hide behind objects the beam passes through them. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
 -   **Rock Uppercut** - Similar to Shark-O's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away.
 -   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
--   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling.
+-   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. <- Oh who could of thought the best way to avoid falling rocks is to watch for them? :O \*dumbass\*
 
 ## Finisher
 

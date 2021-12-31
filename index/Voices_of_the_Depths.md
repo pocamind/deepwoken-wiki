@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 6463
+revid: 7235
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,4 +38,5 @@ The Voice of Authority only appears after the player succesfully beats the trial
 ## Trivia
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
+-   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
 -   Although not their actual names, these are the definitions and describe how they feel and how the feelings of their words convey.

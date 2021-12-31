@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7144
+revid: 7254
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -27,6 +27,8 @@ Flamecharm is a moderate damaging long term dps mantra type that utilizes the bu
 
  |
 | 
+
+File:Снимок экрана 2021-12-31 211752.png
 
  | Burning Servants | A legion of flames. | 6 spear-wielding fire-humanoids circle you and attack one by one with a short delay between attacks
 

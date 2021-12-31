@@ -1,9 +1,9 @@
 ---
 title: Attributes
-revid: 6914
+revid: 7249
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Attributes
@@ -19,8 +19,6 @@ Attributes are your character's stats or capability that uses that attribute. Th
 You can hover over an Attribute to reveal its description.
 
 It is possible to go past the softcap (75) on a stat, all you have to do is get 1 galestone and 75 stat (light, medium, heavy) then talk to Vigil Isaac somewhere in Burning Stone Gardens then go to Vigils and talk to Apprentice Kj. After that go talk to Maestro Evengarde Rest inside the sparring room.
-
-File:Attributes Chart.png
 
 Character Sheet of Helena Dusselden
 
@@ -72,7 +70,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 _"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
--   Intelligence affects your Attunements' Damage slightly per Charisma.
+-   Intelligence affects your Attunements' Damage slightly per Intellegence.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via Foraging, discovering Recipes for the first time, or discovering new locations for the first time.
 
@@ -84,7 +82,8 @@ _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom 
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
--   Gain Willpower EXP via Foraging and fighting Monsters. It will also passively increasei n [The Depths](The_Depths.md).
+-   Willpower affects your Attunement's Damage slightly per Willpower.
+-   Gain Willpower EXP via Foraging and fighting Monsters. It will also passively increase in [The Depths](The_Depths.md).
 
 ### Charisma
 

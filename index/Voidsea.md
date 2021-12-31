@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 6697
+revid: 7170
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,8 +12,6 @@ _**"Here, the dying light collects like dregs at the precipice of a waterfall. T
 ## Overview
 
 Template:AreainfoboxThe Void Sea is one of the main areas in Deepwoken. It is speculated to be an ecological deadzone, where some sort of sea monster(s) resides. it is incredibly easy to stumble into during travelling. It covers a fairly large part of the sea and can appear out of no where so while going long distances be very careful.
-
-~Staying here for long periods of times may lower sanity ( Unsure of this )~ This is false
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7159
+revid: 7256
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -18,11 +18,11 @@ categories: [Character]
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
-Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit stuff with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
+Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
 
 When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, like extra Penetration, or Weight. It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are extremely rare though.
 
-To increase your damage with a weapon, you must invest in the corresponding stat. Light Weapons (LHT), Medium Weapons (MED), or Heavy Weapons (HVY). In addition, some weapons have additional requirements, such as Fortitude for shields (FTD) and Strength for some heavy weapons (STR).
+To increase your damage with a weapon, you must invest in the corresponding stat. Light Weapons (LHT), Medium Weapons (MED), or Heavy Weapons (HVY). In addition, some weapons have additional requirements, such as Fortitude (FTD) for shields and Strength (STR) for some heavy weapons.
 
 ## Stances
 
@@ -68,7 +68,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>1</td>
   <td></td>
   <td></td>
-  <td>1,05x</td>
+  <td>1.05x</td>
 </tr>
 <tr>
   <td>Way of Navae</td>
@@ -82,9 +82,12 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Legion Kata</td>
   <td>0 LHT</td>
   <td>Fist</td>
+  <td>12</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>7</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.75</td>
 </tr>
 <tr>
   <td>Iron Cestus</td>
@@ -100,7 +103,10 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Dagger</td>
   <td>13.5</td>
   <td></td>
+  <td>1.8</td>
   <td></td>
+  <td>6.5</td>
+  <td>1.03</td>
 </tr>
 <tr>
   <td>Flintlock</td>
@@ -131,7 +137,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Whaling Knife</td>
   <td>40 LHT</td>
   <td>Dagger</td>
-  <td></td>
+  <td>15</td>
   <td></td>
   <td></td>
 </tr>
@@ -253,6 +259,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td><b>Requires</b></td>
   <td><b>Type</b></td>
   <td><b>Base Damage</b></td>
+  <td><b>Penetration</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -267,6 +274,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Iron Spear</td>
@@ -277,12 +285,14 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Officer Saber</td>
   <td>0 MED</td>
   <td>Sword</td>
   <td>22</td>
+  <td></td>
   <td>4</td>
   <td>7</td>
   <td>8</td>
@@ -293,6 +303,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>10 MED</td>
   <td>Sword</td>
   <td>20</td>
+  <td></td>
   <td>5</td>
   <td>6</td>
   <td>7.5</td>
@@ -307,12 +318,14 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Falchion</td>
   <td>20 MED</td>
   <td>Sword</td>
   <td>16</td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -324,12 +337,14 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Scimitar</td>
   <td>20 MED</td>
   <td>Sword</td>
   <td>15</td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -349,6 +364,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>25 MED</td>
   <td>Sword</td>
   <td>18</td>
+  <td></td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -435,8 +451,12 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Rifle Spear</td>
   <td>80 MED</td>
   <td>Spear</td>
-  <td></td>
-  <td></td>
+  <td>20</td>
+  <td>50%</td>
+  <td>8</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td>Shattered Katana</td>
@@ -444,9 +464,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td>20</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>7</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 </tbody>
 </table>
@@ -535,6 +556,17 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td></td>
 </tr>
 <tr>
+  <td>Iron Birch</td>
+  <td>45 HVY</td>
+  <td>Great Axe</td>
+  <td>27</td>
+  <td>6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.64x</td>
+  <td></td>
+</tr>
+<tr>
   <td>Halberd</td>
   <td>45 HVY</td>
   <td>Great Axe</td>
@@ -568,6 +600,75 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Enforcer's Axe</td>
   <td>75 HVY</td>
   <td>Great Axe</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Hero Blades:**
+
+These weapons do not fit the other categories, because their requirements and scaling are based on their corresponding element, instead of a weapon stat.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requires</b></td>
+  <td><b>Type</b></td>
+  <td><b>Base Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td>Hero Blade of Flame</td>
+  <td>75 FIR</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero Blade of Lightning</td>
+  <td>75 THD</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero Blade of Frost</td>
+  <td>75 ICE</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero Blade of Wind</td>
+  <td>75 WND</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero Blade of Shadow</td>
+  <td>75 SHD</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
   <td></td>
 </tr>
 </tbody>
@@ -607,75 +708,6 @@ Accessories you can use in your off-hand and decrease posture damage.
   <td>Khan Shield</td>
   <td>60 Fortitude</td>
   <td>N/A</td>
-  <td></td>
-</tr>
-</tbody>
-</table>
-
-**Others:**
-
-These weapons do not fit any specific weapon category due to their nature
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requires</b></td>
-  <td><b>Type</b></td>
-  <td><b>Base Damage</b></td>
-  <td><b>Scaling</b></td>
-  <td><b>Weight</b></td>
-  <td><b>Range</b></td>
-  <td><b>Swing Speed</b></td>
-</tr>
-<tr>
-  <td>Hero blade of flame</td>
-  <td>75 FIR</td>
-  <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Hero blade of lightning</td>
-  <td>75 THD</td>
-  <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Hero blade of frost</td>
-  <td>75 ICE</td>
-  <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Hero blade of wind</td>
-  <td>75 WND</td>
-  <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Hero blade of shadow</td>
-  <td>75 SHD</td>
-  <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
   <td></td>
 </tr>
 </tbody>

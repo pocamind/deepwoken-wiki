@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 7124
+revid: 7210
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,9 +42,7 @@ Lastly, but definitely not least:
 
 Missing Monsters:
 
--   Red/Babylon Megalodaunt
--   Blue Megalodaunt
--   Red Golem
+-   Red/Alpha Megalodaunt
 -   Golem Turret
 
 ## Monsters
