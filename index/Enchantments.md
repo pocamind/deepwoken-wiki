@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6736
+revid: 6911
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,7 +48,7 @@ File:Curse of the Bloodthirsty.jpg
 
 **Curse of the Bloodthirsty**
 
--   Pros: Deals more M1 dmg (exact amount unknown).
+-   Pros: Deals more M1 dmg (exact amount unknown) | Takes blood of your enemies
 -   Cons: When you miss a M1, you will take damage (dodging and parrying doesn't count).
 
   
@@ -67,12 +67,8 @@ File:Hero Blessing.jpg
 ### Hero Blessing
 
 -   Pros: 3x M1 damage at full HP and has M1 hyper armor.
--   Cons: When you're low hp you do less than normal damage.
-
-### LGBTQ
-
--   Pros: Everyone who buys Deepwoken has it.
--   Cons: Everyone who buys Deepwoken has it.
+-   Cons: When you're low hp you do less than normal damage.  
+    
 
   
 
@@ -195,16 +191,19 @@ Grim on a Messer(?)
   
   
 
-### Wild
+### Wild Blessing
 
 File:Wild sword.png
 
-Pros: Unknown
+Pros: 2X Damage
 
-Cons: Unknown
+Cons: (Don't know yet more testing is needed)
 
   
 
+  
+
+  
   
 
 ### Metal
@@ -294,7 +293,7 @@ Cons: If you dont know how to manage your health properly while using this, you 
 
 **Drowned**
 
-Pros: Unknown
+Pros: Swim Faster in water | You can't get attacked by sea monsters
 
 Any information given would be greatly appreciated.
 

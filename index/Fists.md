@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 6792
+revid: 6800
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,10 +30,10 @@ There are several different styles.
 
 File:Jus Karita Description.png
 
--   The trainer is next to the tree in the middle of Etris. Requirements are 40/50 light weapon, Power 30
+-   The trainer is next to the tree in the middle of Etris. Requirements are 40/48light weapon, Power 30
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
 
 ## Trivia/Notes
 
--   Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists. But equipping Cestus makes it so you swing your fists wildly, almost making Cestus + Jus Karita a different style from the original one (from what i know this is just the "base" fist style you get if you equip fists as a weapon without a style).
+-   Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists. But equipping Cestus makes it so you swing your fists wildly, almost making Cestus + Jus Karita a different style from the original one (from what i know this is just the "base" fist style you get if you equip fists as a weapon without a style).(no you cant equip caestus without any fighting style bruh)

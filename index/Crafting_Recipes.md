@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6709
+revid: 6924
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,7 +60,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
--   **[Fruit Cake](Fruit_Cake.md)** - _2 Fruits and 1 from each kind + Gathered Wheat_
+-   **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **[Candied Fruit](Candied_Fruit.md)** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
@@ -99,7 +99,7 @@ _**Negative**_
  |
 | **Invigorating Elixir** | 
 
--   2x Goblettos
+-   2-3x Goblettos
 
  | 
 
@@ -111,7 +111,7 @@ _**Negative**_
 
 -   Excellent early-game healing.
 -   With Apocracy this potion heals 18%.
--   Actually only need 2 goblettos to craft the best verison.
+-   Over-all best healing potion and easiest to make, Recommened for all players.
 
  |
 | **Focus-Enhancing Elixir** | 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 6732
+revid: 6874
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -414,13 +414,63 @@ x1 Strange Claw
 
 300 Notes
 
- | Power Level 30 | +2500 Durability
+ | Power Level 30
+
+30 Strenght
+
+ | +2500 Durability
 
 +25% Physical Armor
 
 +25% Elemental Armor
 
 _Talent: Unbreakable_
+
+ |
+| 
+
+File:Authorian.png
+
+ | Authority Commander Uniform | x5 Cloth
+
+x1 Dark Feather
+
+x5 Fiber
+
+x1 Lionfish Scale
+
+500 Notes
+
+ | 25 Strength
+
+Power 30
+
+ | +30% Physical Armor
+
++2000 Durability
+
++25% Elemental Armor
+
+ |
+| 
+
+File:Verdantsniper.png
+
+ | Verdant Sniper | x10 Cloth
+
+x2 Megalodaunt Hide
+
+x5 Vibrant Gem
+
+100 Notes
+
+ | Power 30 | +10% Wind Armor
+
++1500 Durability
+
++25% Physical Armor
+
++20% Elemental Armor
 
  |
 | 
@@ -819,10 +869,19 @@ File:Khanboots.png
 +9 Health
 
  |
-
-  
+| 
 
 File:Imperial Boots.png
+
+ | Imperial Boots | +44 Reservoir
+
++3% Damage vs. Sea
+
++5 Health
+
+ |
+
+  
 
   
 

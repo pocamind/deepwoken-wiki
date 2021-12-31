@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 6790
+revid: 6855
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -33,6 +33,7 @@ categories: ["Post-death"]
         -   _Burning Stone Gardens_
             -   _Rat's Den_
     -   [Minityrsa](Minityrsa.md)
+        -   Valley of Heroes
     -   Eastern Contentinal Lighthouse
 -   The Aratel Sea
     -   Songseeker Wilds

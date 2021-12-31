@@ -1,34 +1,38 @@
 ---
 title: Mudskipper
-revid: 6717
+revid: 6840
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Mudskipper
 
-Template:Creature Info Box v2A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is possible to be repeatedly hitstunned by them until they can grip you.
-
-Attacks
+Template:Creature Infobox V3
 
   
 
-  
+## Description
+
+A mindless enemy that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is possible to be repeatedly hitstunned by them until they can grip you.
+
+## Moves
 
 -   **Smack** - The Mudskipper punches his enemies, dealing minor damage.
--   **Air Force** (Upper Erisia & Other)- The Mudskipper charges up the Galebreathe mantra Air Force, propelling anyone who is caught inside its line of effect.
-
-**Finisher**
+-   **Galebreathe** (Upper Erisia & Other)- The Mudskipper charges up a Galebreathe spell, propelling anyone who is caught inside its line of effect.
 
 -   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
 
-**Variants**
+## Variants
 
--   **Light Green** **Mudskipper** - Explodes two seconds after dying.
--   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreath
--   **Black Mudskipper** - Found in the _**Temple of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy.
+-   **Green** **Mudskipper** - Explodes two seconds after dying.
+-   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreathe.
+-   **Black Mudskipper** - Found in the _**Shrine of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy. Does not die when backstabbed.
+-   **Necro-Skipper -** Summoned Mudskippers from Cultist Necromancers. Equipped with nothing but armor, and acts like regular Mudskippers.
+-   **Deep Mudskippers** - Mudskippers exclusively in [The Depths](The_Depths.md). Fought exclusively in the Trial the Voices give you, their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
 
-Notes/Tips/Trivia
+## Tips
+
+-   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.
 
 -   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage. \[The explosion also auto grips knocked mobs and players nearby\]
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.

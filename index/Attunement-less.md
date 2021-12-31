@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 6692
+revid: 6831
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 **Strong Left** - A powerful, flinging punch that shatters the air. (Requirement: 5 Strength, Combat Mantra)
 
-**Rapid Punches** - Unleash a barrage of blows against your foes.
+**Rapid Punches** - Unleash a barrage of blows against your foes. (Requirement: ~7 Strength, Combat Mantra)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 6756
+revid: 6914
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -44,7 +44,7 @@ _"My right arm is a lot stronger than my left arm!" - Beefed Up Canor_
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras, depending on the Character's Strength.
 -   For every 10 Points of Strength, gain 1% Penetration.
--   Gain Strength EXP via dealing cutting down trees, damage, parrying, or blocking.
+-   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
 
 ### Fortitude
 
@@ -54,6 +54,7 @@ _"Good Soup." (Pukes everywhere) - Nameless Khan_
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.
+-   Can be unbounded by talking to Brutus in Fort Merit
 
 ### Agility
 
@@ -78,6 +79,8 @@ _"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 ### Willpower
 
 _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom read the strange glyphs for an ungodly amount of time_
+
+"Do not look at the deepwoken discord art channel or canor page comments, worst mistake of my life." - Unfortunate female canor
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -160,7 +163,7 @@ _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate
 
 ### Galebreathe
 
-_"Standing here, I realize, You are just like me, Trying to make History—" Unknown Galebreather_
+_"I'm gay." Unknown Galebreather_
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.

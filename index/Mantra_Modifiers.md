@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6786
+revid: 6921
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,9 +12,9 @@ _This page is a list of all items that you can use in order to modify a Mantra._
 
 ## Description
 
-[A foolish individual using a quite a numerous amount of items to upgrade a mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
+[A foolish individual using quite a numerous amount of items to upgrade a mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
 
-A foolish individual using a quite a numerous amount of items to upgrade a mantra.
+A foolish individual using quite a numerous amount of items to upgrade a mantra.
 
 Mantra Modifiers are items that can be used to expand the potential of your Mantras. Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
 
@@ -133,11 +133,7 @@ Flame Blade
  | Increases the number of hits. |
 | 
 
- | Spring Spark | _Unknown._ | Unknown effect.
-
-_"Alt text placeholder"_
-
- |
+ | Spring Spark | _\[Insert Mantra Mobility Moves Here\]_ | _Amplifies the effects of mobility moves._ |
 | 
 
  | Tornado Spark | Dark Blade | Makes the last slash a Spin Attack.
@@ -146,8 +142,6 @@ _"You feel dizzy when you hold it."_
 
  |
 | 
-
-File:Mantra Modifier Placeholder.png
 
  | Haunting Stone | _Unknown._ | _Unknown._ |
 
@@ -177,7 +171,7 @@ File:Mantra Modifier Placeholder.png
 
 #### Spring Spark
 
--   _Unknown._
+-   Increases the hight for mobility moves such as the Flame Leap Mantra.
 
 #### Tornado Spark
 

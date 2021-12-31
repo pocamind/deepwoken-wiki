@@ -1,8 +1,9 @@
 ---
 title: Shadowcast
-revid: 6793
+revid: 6897
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mantras]
 ---
 
 # Shadowcast
@@ -36,13 +37,19 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 > (☆☆☆)
 
- | Clutching Shadow | Power lurks within. | Chokes target enemy and slams them down. |
+ | Clutching Shadow | A shadowy hand. | Chokes target enemy and slams them down. |
 |  | 
 
 > (★☆☆)
 
  | Shadow Chains | Chains of shadow. | Throws out a blockable chain that, if connects, drains the targets ether and health for ~3 seconds. It fills the users ether simultaneously. |
+|  | 
 
+> (★☆☆)
+
+ | Shadow Eruption | Form a shockwave of darkness. | The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable. |
+
+  
 **SUPPORT**
 
 <table>
@@ -67,20 +74,25 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
   <td><blockquote><p>(★★☆)</p></blockquote></td>
   <td>Shadow Assault</td>
   <td>A rush of darkness.</td>
-  <td>Windup before turning invisible and dashing forward, dealing damage to anyone in your way. Blockable.</td>
+  <td>Windup before turning invisible and dashing forward, dealing very minor damage to anyone in your way while applying black flames. Blockable.</td>
 </tr>
 </tbody>
 </table>
 
-  
-**TALENTS**
+## Talents
 
-| Image | Talent Tree | Talent | Card Description | Effect |
+**ACTIVE**
+
+| Image | Rarity | Talent Tree | Talent | Card Description |
 | --- | --- | --- | --- | --- |
 |  | 
+> Rare
+
+ | 
+
 > Shadowcaster
 
- | Shadow Travel | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. | Teleport to your cursor. This drains a ton of ether beyond short distances, and attempting to teleport far ranges will almost certainly kill you. |
+ | Shadow Travel | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
 
 ## Trivia
 

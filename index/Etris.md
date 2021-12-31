@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 6740
+revid: 6872
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -90,6 +90,12 @@ _Some locations may be unlisted, feel free to add them!_
   <td>Lord Regent's<p>Palace</p></td>
   <td>A palace resting on top of the mountain.</td>
   <td><b>Lord Regent</b></td>
+</tr>
+<tr>
+  <td><figure>File:Den Master.png<figcaption></figcaption></figure></td>
+  <td>The Den</td>
+  <td>A cave in a small cove</td>
+  <td><b>Den Master</b></td>
 </tr>
 </tbody>
 </table>
