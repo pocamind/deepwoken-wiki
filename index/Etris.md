@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 7061
+revid: 7093
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -184,7 +184,7 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 
 -   Picking the 3rd option, Karlilah accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in Etris.
 -   Checking up on Karlilah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
--   The reward from this ending is a fistful of EXP, and a moment of harmony and relief.
+-   The reward from this ending increases your charisma cap to 100, a fistful of EXP, and a moment of harmony and relief.
 
   
 

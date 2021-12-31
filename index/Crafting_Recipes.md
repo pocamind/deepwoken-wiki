@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 6924
+revid: 7145
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 -   **[Canteen](Canteen.md)** - _1 Beewax, 1 Calabash_
 -   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
--   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
+-   **Sharkscale Glider** - (Schematic Required) _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 1 Wood, 1 Iron
 -   **Fishing Rod -** 2 Stick, 1 Fibers
 
@@ -76,6 +76,8 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
 
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
+
+-   2 Of a Ingredient will equal a Blight. (Blight is a potion but a lesser effect) 3 of a Ingredient will make a Potion.
 
 -   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, ive fixed this page up a lot)
 

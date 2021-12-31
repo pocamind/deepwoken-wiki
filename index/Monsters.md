@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 7068
+revid: 7124
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,29 @@ It is recommended you learn how each monster acts and behaves to read their atta
 
 Stay calm, focus, and alert. No monster is 'impossible' to beat.
 
+## The Depths
+
+In The Depths, monsters are noticeable different compared to the Etrean Luminant. Despite SOME monsters carrying over, notable changes include:
+
+-   Generally having slightly higher stats.
+-   Monsters of differing species will no longer attack eachother, and instead completely focus on players.
+-   Benefitting from the lower gravity of The Depths, being able to jump much higher to pursue players.
+-   Being much more aware, noticing players from much further away.
+-   Some gaining new behaviors/abilities, such as Lionfish's Beam.
+-   Becoming much more persitent, chasing players almost infinitely unless major distance is made, or the deaths of them or the victim.
+
+Lastly, but definitely not least:
+
+-   **Enhanced Monsters, signified by a purple aura, with roughly twice the damage and thrice the health of their normal versions, being able to spawn anywhere.**
+
 # **PLEASE MAKE PAGES FOR EVERY MONSTER AND FILL THEM WITH INFORMATION FROM OLDER REVISIONS OF THIS PAGE**
+
+Missing Monsters:
+
+-   Red/Babylon Megalodaunt
+-   Blue Megalodaunt
+-   Red Golem
+-   Golem Turret
 
 ## Monsters
 

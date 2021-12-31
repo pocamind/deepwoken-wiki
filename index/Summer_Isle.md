@@ -1,14 +1,12 @@
 ---
 title: Summer Isle
-revid: 5546
+revid: 7129
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Summer Isle
-
-_NOTE: I died while doing the Trig quest so this page lacks information_
 
 _"The smell of gunpowder blankets this tropical paradise."_
 

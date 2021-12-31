@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7054
+revid: 7159
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -87,6 +87,14 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td></td>
 </tr>
 <tr>
+  <td>Iron Cestus</td>
+  <td>0 LHT</td>
+  <td>Fist</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td>Gilded Dagger</td>
   <td>25 LHT</td>
   <td>Dagger</td>
@@ -101,6 +109,14 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>10</td>
   <td></td>
   <td></td>
+</tr>
+<tr>
+  <td>Legion Cestus</td>
+  <td>30 LHT</td>
+  <td>Fist</td>
+  <td>16</td>
+  <td></td>
+  <td>9</td>
 </tr>
 <tr>
   <td>Silver Dagger</td>
@@ -478,8 +494,12 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Zweihänder</td>
   <td>20 HVY, 10 STR</td>
   <td>Great Sword</td>
-  <td>10</td>
-  <td></td>
+  <td>22</td>
+  <td>7</td>
+  <td>7</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.25s</td>
 </tr>
 <tr>
   <td>Adretian Axe</td>
@@ -523,6 +543,8 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+</tr>
+<tr>
   <td>Darksteel Greatsword</td>
   <td>45 HVY</td>
   <td>Great Sword</td>
@@ -544,7 +566,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
 </tr>
 <tr>
   <td>Enforcer's Axe</td>
-  <td></td>
+  <td>75 HVY</td>
   <td>Great Axe</td>
   <td></td>
 </tr>
@@ -585,6 +607,75 @@ Accessories you can use in your off-hand and decrease posture damage.
   <td>Khan Shield</td>
   <td>60 Fortitude</td>
   <td>N/A</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Others:**
+
+These weapons do not fit any specific weapon category due to their nature
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requires</b></td>
+  <td><b>Type</b></td>
+  <td><b>Base Damage</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td>Hero blade of flame</td>
+  <td>75 FIR</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero blade of lightning</td>
+  <td>75 THD</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero blade of frost</td>
+  <td>75 ICE</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero blade of wind</td>
+  <td>75 WND</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Hero blade of shadow</td>
+  <td>75 SHD</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
   <td></td>
 </tr>
 </tbody>

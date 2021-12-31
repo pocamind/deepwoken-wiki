@@ -1,20 +1,20 @@
 ---
 title: Deep Owl
-revid: 7040
+revid: 7096
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Deep Owl
-
-# Black Owl
 
 > _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
 
 ## Description
 
 Giant gatekeeping Owl, _**Guaranteed to absolutely booty-blast you if you are under level 30, and travelling alone.**_ Appears across Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
+
+Alternatively, you can say you are just passing through, **MAKE SURE TO RUN FOR YOUR LIFE AFTER,** The owl will spare you for around 10-15 seconds, lingering after that timeframe and he will make you pick up the soap
 
 File:FUCKFUCKFUCKFUCKFUCK.png
 

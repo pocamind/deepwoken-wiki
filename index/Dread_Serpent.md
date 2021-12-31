@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 7048
+revid: 7113
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,9 @@ categories: [Pages with broken file links]
 
 # Dread Serpent
 
-# **Sea Dragon Ardour (Kaido)**
+> _"NOTHING BAD. EVER HAPPENS. IN THE VOIDSEA!"_
+
+> _\- John Kennedy_
 
 ## Description
 
@@ -30,3 +32,4 @@ Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, an
 -   Just stay behind him and he is unable to hit you
 -   Gives you a [Murmur](Murmur.md) when he dies if you did enough damage
 -   View [this link](https://cdn.discordapp.com/attachments/867480783051816991/923442739197116436/Desktop_2021.12.22_-_16.56.20.98_Trim.mp4) to see it in action.
+-   Another one of his nicknames are _**Kaido**_.

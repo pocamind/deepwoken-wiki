@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 6734
+revid: 7144
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -53,6 +53,11 @@ Does not inflict stun or knockback
 
 **Breaks block, but can be parried.**
 
+  
+**Multiplying Spark:**
+
+-   Increases the amount of slices made
+
  |
 | 
 
@@ -62,7 +67,8 @@ Does not inflict stun or knockback
  | Rising Flame (☆☆) | A rising tornado of flames. | Caster winds up for a short time, then spins around, making fire slash shapes around them. If it hits, launches said target into the air, dealing \[insert general damage here\] damage, along with fall damage depending on height.
 
   
-**If you have a certain card called Meteor Impact(?), once they are launched they will be slammed back down to the ground, dealing additional damage.**
+
+**If you have a talent called Meteor Impact, once they are launched they will be slammed back down to the ground, dealing additional damage. This can be further upgraded with the talent Phoenix Impact, which will heal you if you slam someone into the ground while theyre on fire.**
 
   
 Initial move can be blocked and parried. The spell on its own does NOT stun, however Meteor Impact does on impact.
@@ -92,7 +98,6 @@ File:Flame Blind.png
 | 
 
  | Flame Assault (☆☆) | Burst foward in flames. | Caster dashes forward, dealing minor damage and lighting anything in the way on fire. |
-|  |  |  |  |
 
   
 
@@ -107,7 +112,7 @@ File:Flame Blind.png
  | Graceful Flame | Conjure a undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
 | 
 
- | Flame of Denial | Undying flame. | Prevents caster from being knocked once, Within One Minute. |
+ | Flame of Denial | Undying flame. | For the next 60 seconds, if the caster receives fatal damage, he'll heal 15% health. However, if the damage is too high, the caster may still be knocked. |
 
 ## **Talents**
 
@@ -135,6 +140,7 @@ Azure Flame increases burn damage, and also prevents environmental effects from 
 
 ## Trivia
 
--   Certain mantras are similar to some spells from the games Dark Souls
-    -   Flame of Denial is named and acts in a similar way to the [Tear of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial)
-    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within)
+-   Certain mantras are similar to Pyromancies and similar attacks from games created by _**From Software**_, a large inspiration for Deepwoken,
+    -   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Pyromancy from Dark Souls 3, preventing death for one minute.
+    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
+    -   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.

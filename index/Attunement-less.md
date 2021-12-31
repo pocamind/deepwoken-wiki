@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 7032
+revid: 7138
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,6 +11,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Attunement-less mantras so far consist of mantras that are chosen based of your stats, similar to talents, rather than your attunements.
 
+  
+
 ### _**Strength Mantras**_
 
 **Strong Left** - A powerful, flinging punch that shatters the air. (Requirement: 5 Strength, Combat Mantra)
@@ -18,9 +20,12 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 **Rapid Punches** - Unleash a barrage of blows against your foes. (Requirement: ~7 Strength, Combat Mantra)
 
   
-_**Fortitude Mantras**_
+
+### _**Fortitude Mantras**_
 
 **Rally** - Strike your sheild a few times to absorb some of the posture received by nearby guildmates for a short duration. (Requirements: Fortitude + Any Shield, Support Mantra)
+
+  
 
 ### _**Agility Mantras**_
 
@@ -61,6 +66,8 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 **Glare -** Opponents facing you are briefly stunned. (Requirement: 10 Charisma. Support Mantra)
 
 **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage. (Requirement: Charisma, Support Mantra)
+
+  
 
 ### _**Light Weapon Mantras**_
 

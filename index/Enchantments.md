@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7049
+revid: 7119
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -247,6 +247,20 @@ Providence's Thorn
   
 
   
+  
+
+### Stone
+
+-   Pros: Everytime you hit an enemy when they are not blocking, they take 25% posture posture damage.
+-   Cons: None.
+
+  
+
+  
+
+  
+
+  
 
 ### Hero Sword (Might not be considered an enchant)
 
@@ -315,3 +329,4 @@ Credits to the people who made this page better:
 -   MacShaino
 -   marquise
 -   flank
+-   berebot

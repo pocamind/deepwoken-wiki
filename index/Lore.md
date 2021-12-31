@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 6739
+revid: 7152
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,9 @@ Deepwoken Lore is vast, and scattered across the sea. Lore can be found through 
 
 ### The Lord Regent of Etrea
 
-_"Ah! Well if it isn't \[Your full name here\]. I've been expecting you. How have your travels been?" - The Lord Regent_
+_"Ah! Well if it isn't \[Your full name here\]. I've been expecting you. How have your travels been?"_
+
+_The Lord Regent, sitting atop his throne of coral._
 
 The Lord Regent is a mysterious individiual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best intrests of Etris.
 

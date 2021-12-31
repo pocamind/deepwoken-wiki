@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 7006
+revid: 7157
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -545,7 +545,7 @@ x2 Megalodaunt Hide
 
 x1 Rock
 
-30 notes
+30 Notes
 
  | Power 30 | +25% Elemental Armor
 
@@ -556,6 +556,31 @@ x1 Rock
 +5% Blunt Armor
 
 _Talent: Now You See Me_
+
+ |
+| 
+
+File:Whaler Coat.png
+
+ | Whaler Coat | x5 Cloth
+
+x5 Fiber
+
+x2 Gold
+
+x10 Iron
+
+x2 Lionfish Scale
+
+100 Notes
+
+ | Power 30 | +1500 Durability
+
++15% Elemental Armor
+
++25% Physical Armor
+
++50% Stealth
 
  |
 

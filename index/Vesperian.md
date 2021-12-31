@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 6956
+revid: 7154
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -39,10 +39,8 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 ## Notes/Trivia
 
 -   I'm pretty sure this is a reference to Neon Genesis Evangelion, Hollow Knight and Halo 3: ODST
--   Vesperians have yellow circles as eyes and no mouth under their mask
+-   Vesperians have yellow circles as eyes and no mouth under their mask.
 -   Vesperians get a special mask when Blindseer is aquired.
--   Their eyes kinda look like a cat on drugs
--   people expecting them to be the cutest thing ever when they take their masks off. they're bug people they take it off and you get a terra formar cockroach mutant headass
 
 <table>
 <tbody>

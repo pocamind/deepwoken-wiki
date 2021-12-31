@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 6060
+revid: 7128
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,16 +14,9 @@ Template:AreainfoboxWest of the 2nd Hive Island (I think) & North East of Easter
 
   
 
-  
-
 Contains an Elevator (Clear technological superiority)
 
-Contains Jail Cells filled with Etreans, Free these Etreans for loot
-
-  
-\- Budyuuu was here :)
-
-  
+Contains Jail Cells filled with Etreans, Free these Etreans for loot  
 
 File:Fort Merit2.png
 

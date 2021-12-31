@@ -1,15 +1,18 @@
 ---
 title: Mudskipper
-revid: 6993
+revid: 7112
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters]
 ---
 
 # Mudskipper
 
 Template:Creature Infobox V3
 
-  
+> _"Ayo these zombies ain't shi-"_
+
+> _\- Foolhardy Fighter_  
 
 ## Description
 

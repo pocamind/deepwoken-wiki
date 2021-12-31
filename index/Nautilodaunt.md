@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 6997
+revid: 7125
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 > A_yo who the fuck is this cluthulu looki-_
 
-> \-~Weary Traveller~ Mudskipper
+> \-~Weary Traveller~ Soon to be Mudskipper.
 
 ## Description
 
@@ -20,6 +20,8 @@ A player getting turned into a Mudskipper
 The hardest enemy to solo as it will parry every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a Sharko.
 
 Drops odd tentacles.
+
+(This squid is literally just the Punch-Out Mike Tyson Enemy.)
 
 **Attacks**
 
