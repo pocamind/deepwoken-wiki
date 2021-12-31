@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 6860
+revid: 7045
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -49,7 +49,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 ### Pre-requisites:
 
--   Willpower of 40
+-   Willpower of 40+
 -   Blindfold (Chest Item)
 -   All of the "Mental Fortress" talents. (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, and Unyielding Focus.)
 
@@ -69,39 +69,10 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 
 ### Oath Description:
 
-"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to percieve it."
+"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."
 
 ## Notes
 
 -   As of the 23rd of December, 2021, this is the only known Oath with a quest. There may be other obtainable Oaths, but that is all up to us, the community, to find out. (Remove this note once another Oath with a quest is found.)
 -   According to a Blindseer user, with willpower 50, all pasives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Paladin</td>
-</tr>
-</tbody>
-</table>
-
-### Pre-requisites:
-
--   ???
-
-### How to obtain:
-
--   Something involving "[The Depths](The_Depths.md)"
-
-### Oath Effects:
-
--   ???
-
-### Oath Description:
-
-???
-
-## Notes
-
--   Looks to be fake.
--   If real, probably comes with a emote and a brand new sword and shield.

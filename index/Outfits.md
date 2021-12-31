@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 6874
+revid: 7006
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,7 +32,7 @@ Outfits mostly are found as Schematics in Loot, and provides your Character the 
 
 The majority of Outfits (along with armor pieces) requires a certain requirement, such as an Attribute Requirement or Power Requirement.
 
-Information of Outfit Talents can be found [here](Talents.md).
+Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).
 
 File:Outfits List.png
 

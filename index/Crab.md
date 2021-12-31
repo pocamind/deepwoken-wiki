@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 6425
+revid: 6957
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,14 +12,20 @@ File:Surface crab.png
 
 a crab (very spooky)
 
-Crab in depths and upper esiria.
+### **Purple Crab (Sheldon)**
 
-very big and scary.
+File:0682AD44-9DB5-48AC-90EB-8F7A3D98CBAC.png
 
-i once saw it spit bubbles at someone.
+A large giant crab like creature with extremely sharp claws able to slash any foe in its way. Dealing moderate damage and only spawns in upper erisa with a average hp pool. They can easily get you if unprepared and swings quickly but all moves are parryable.
 
-crab swipes talons and shoots bubbles(?taking your word for it person who edited this before me)(idk what the format is)
+Drops strange claws.
 
-  
+**Attacks**
 
-o ye mr krabs
+-   **Clawing Barrage -** The purple crab flails its arms up and down attacking very fast it is recommended you hold block. This move hits 10 times.
+-   **Triple Claw -** The purple crab swings its claw downwards 3 times doing damage if landed.
+-   **Claw -** The purple crab swings its claw downwards once.
+
+**Finisher**
+
+-   **Devour** - Picks you up and consumes you.

@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 5288
+revid: 7039
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Sus]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Sus]
 
 ## **Description**
 
-**Notes** are the currency of Deepwoken, It is used to purchase various things, from Food, Weapons, Tools, etc.
+**Notes** are the primary currency of Deepwoken. They are used to purchase various things, such as Food, Weapons, and Tools.
 
 You can see how many notes you have on the bottom-right hand corner of your screen
 
@@ -20,7 +20,7 @@ Note when dropped
 
 Dropping your notes
 
-A dog buying (good) shiny things for "sand dollar".
+Schnitzel buying (good) shiny things for "sand dollar".
 
 Upon clicking your notes, you can choose to drop an amount of your choosing.
 

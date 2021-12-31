@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 2724
+revid: 6996
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,6 +25,10 @@ Big, Blue and overall what youd expect a jellyfish to look like
 Only 1 attack which is an aoe electricity attack, around maybe a 5-7 second cooldown
 
   
+
+## Tips
+
+Block their attack and then just hit them. They are unable to hit while in combo of your attacks.
 
 ## Found in
 

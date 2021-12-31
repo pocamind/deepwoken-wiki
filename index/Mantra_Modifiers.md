@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 6921
+revid: 7027
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -94,6 +94,8 @@ File:Magnet Spark PNG.png
 
 Jolt Grab
 
+Spark Swap (no difference found)
+
  | Makes projectile spells homing. |
 | 
 
@@ -103,8 +105,6 @@ Jolt Grab
  | Blast Spark | Lightning Clones
 
 Shadow Gun
-
-Fire Gun
 
  | Adds an explosion effect. |
 | 
@@ -120,6 +120,10 @@ Tornado
 Gale Punch
 
 Revenge
+
+Ice Chains
+
+  
 
  | Reverses the effect of the Mantra. |
 | 

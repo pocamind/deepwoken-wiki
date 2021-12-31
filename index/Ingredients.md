@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 6578
+revid: 6974
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -75,7 +75,8 @@ Information of Mantras and Modifications are located [here.](Mantras.md)
     -   Perfect Lens - Increases range of Projectile Mantras moderately
 -   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your Mantra effects slightly larger in size CURRENT TESTING FOR ICE ELEMENT, Glacial Arc: it makes more than 1 arc like the effect of Multiplying Spark, 5 Arcs in Total. ICE SHURIKEN: Makes it track and follow target which is supposed to be the effect of Magnet Spark) DISCLAMER: I literally dont know why it happened, different effects for each spell. (DISCLAMER, I have no idea why this happened. My only theory is that its different per spell or per element DM ME, RoyalMagus#1631)
     -   Stratus Stone - Makes your Mantra effects moderately larger in size
--   Glass Orb - Created from mixing a crystal lens and cloudstone. It appears to be nonfunctional, but presumably has the effects of its components.
+-   Glass Orb - Created from mixing a crystal lens and cloudstone. Effects are unknown.
+-   Magnifying Orb - Created from mixing a perfect lens and a cloudstone. Effects are unknown.
 -   Aeon Logstone - Makes effects slightly longer
     -   Eternal Logstone - Makes effects moderately longer
 -   Amnesiac Driftwood - Removes all modifiers on a mantra

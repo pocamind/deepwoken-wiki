@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 6827
+revid: 7070
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -51,4 +51,4 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Megolodaunt is the
 
 -   With decently high HP and a good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Megalodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
--   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy).
+-   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy). (THE METHOD MIGHT HAVE BEEN PATCHED, NO TESTINGS YET.)

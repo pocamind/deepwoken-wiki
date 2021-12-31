@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 6855
+revid: 7022
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -31,7 +31,7 @@ categories: ["Post-death"]
             -   _The Courtyard_
         -   _[Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)_
         -   _Burning Stone Gardens_
-            -   _Rat's Den_
+            -   _[Rat's Den](<Rat's_Den.md>)_
     -   [Minityrsa](Minityrsa.md)
         -   Valley of Heroes
     -   Eastern Contentinal Lighthouse
@@ -60,4 +60,5 @@ categories: ["Post-death"]
     -   [Temple of Hearts](Temple_of_Hearts.md)
     -   The City of the Drowned
         -   _Varicosa District_
+        -   District of Commerce
 -   [Fragments of Self](Fragments_of_Self.md)

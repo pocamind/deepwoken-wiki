@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 6911
+revid: 7049
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -80,7 +80,7 @@ File:Detonation.jpg
 
 **Detonation**
 
--   Pros: Every time you hit an enemy, they explode. You can instantly kill people and mobs without gripping them due to the explosion. (This obviously only works if their hp are low). AOE damage.
+-   Pros: Every 4th hit will make your enemy explode. You can instantly kill people and mobs without gripping them due to the explosion. (This obviously only works if their hp are low). AOE damage.
 -   Cons: This might hit your allies and killing or knocking them instead.
 -   [How it looks](https://streamable.com/yjazax)
 
@@ -100,7 +100,7 @@ File:Gum.jpg
 
 **Bungee Gum**
 
--   Pros: Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.
+-   Pros: Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you. (possesses the properties of both rubber and gum)
 -   Cons: Makes backing out of a fight more difficult.  
     
 
@@ -314,3 +314,4 @@ Credits to the people who made this page better:
 -   SkipperFalconeer
 -   MacShaino
 -   marquise
+-   flank

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 6872
+revid: 7061
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -109,6 +109,18 @@ _Some locations may be unlisted, feel free to add them!_
 -   Keeping his promise and not ratting him out rewards you a 50% discount on all Materials in the Blacksmith.
 -   Ratting him out does nothing, but atleast your ego increased!
 
+  
+
+### Lumberjack Quest
+
+-   Talk to the Etrean that is idling outside a house by the exit to the Etrean wilds
+-   He will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
+-   Accepting his quest gives you a Lumber Axe for free.
+-   10 Wood for 5 Notes.
+-   This quest is repeatable.
+
+  
+
 ### Lord Regent Quest
 
 Audience with the Lord Regent
@@ -119,7 +131,9 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 -   Once you've become popular with the residence of Etrea, talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
--   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
+-   Kennith's corpse accompanied by a King's Guard
+    
+    After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
     -   Make sure you talk to the Royal Guards that the Lord Regent is expecting you, making them docile unless provoked.
 -   Heading upstairs, the Lord Regent hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
@@ -159,6 +173,10 @@ _"You've been through alot- Maybe you should go home and study on your own for a
 -   She greets you with a friendly tone, and talks about her studies. Her eyes to the truth of the world was revealed due to the studies you ask her to.
 -   There is no way to save her, as the only option is to put her down; snapping her neck from behind.
 -   The reward from this ending is a fistful of EXP, and a shiver down your spine.
+
+Yandere??
+
+  
 
 #### Ending 3: Snap Back to Reality
 

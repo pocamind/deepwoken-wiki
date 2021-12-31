@@ -1,18 +1,14 @@
 ---
 title: Ganymede
-revid: 6796
+revid: 6951
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Races]
 ---
 
 # Ganymede
 
-File:Ganymede with Hat.png
-
-Ganymede w/ Hat
-
-Ganymede w/o Hat
+Template:Races-Main
 
 ## Description
 
@@ -21,13 +17,6 @@ The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% 
 ### Lore
 
 (To be discovered)
-
-### Racial Bonuses
-
--   Deepfolk: +1 Health
--   Insanity Resistance
--   +2 Intelligence
--   +2 Willpower
 
 ### Variants
 
@@ -40,5 +29,3 @@ The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% 
 -   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
 
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
-
--   _They have tremendous drip._

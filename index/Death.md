@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 6916
+revid: 7041
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,9 +14,9 @@ Death is an important aspect of Deepwoken. You have 3 lives in Deepwoken, 2 of t
 Leaving Depths Solo
 
 -   Level 1-10 Allowed to leave
--   Level 10-20 Unknown(Someone test this please)
+-   Level 10-20 Bandit Leader
 -   Level 20-30 Angel (Even if it would be unlikely, you have a chance to fight a [Sharko](Megalodaunt.md))
--   Level 40-50 Enhanced Sharko
+-   Level 40-50 Enhanced Sharko (Chance of normal Sharko)
 -   Level 50-60 Enforcer
 
 Leaving Depths Group

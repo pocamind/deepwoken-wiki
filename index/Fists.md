@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 6800
+revid: 7043
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,7 +24,6 @@ There are several different styles.
 ### File:Way Of Navae.png
 
 -   To get this, you must find a captive on erisia and bring it to the nomads.
--   This is the base of the fist fighting style, you'll need to get this first to learn the others. ( This is wrong, just tested and learnt Jus Karita without it, unsure about legion martial arts though )
 
 ### Jus Karita
 
@@ -36,4 +35,4 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 
 ## Trivia/Notes
 
--   Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists. But equipping Cestus makes it so you swing your fists wildly, almost making Cestus + Jus Karita a different style from the original one (from what i know this is just the "base" fist style you get if you equip fists as a weapon without a style).(no you cant equip caestus without any fighting style bruh)
+-   Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 6765
+revid: 7056
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,6 +32,10 @@ _**Main Article -**_ [Monsters](Monsters.md)
 -   [Sharko](Megalodaunt.md)
 -   Owl
 
+## Quests??
+
+I went into one building and a dude asked me to find someone on the surface world named Morning and to tell Morning that the preparations are almost complete. When questions more about how to find Morning he said something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?"
+
 ## Escape from the city.
 
 The doors to your escape will be closed (most often). To open it, you must ring the bells within the city.
@@ -44,40 +48,7 @@ The doors to your escape will be closed (most often). To open it, you must ring 
 
 The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along, the Trial will average out the player levels of all participants and spawn one mob for each of them.
 
-> _**"Triumph, or DIE!"**_ - Street Fighter, Alpha 3 Turbo.
-
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Level</th>
-  <th>Possible Enemies</th>
-</tr>
-<tr>
-  <td>&lt;10</td>
-  <td>N/A. No Mobs Fought.</td>
-</tr>
-<tr>
-  <td>11-19</td>
-  <td><a href="Enemies.md">City Sentinel, Assasin Mudskipper, Swordsman</a></td>
-</tr>
-<tr>
-  <td>20-29</td>
-  <td><a href="Hollow_Angel.md">Angels</a></td>
-</tr>
-<tr>
-  <td>30-39</td>
-  <td><a href="Megalodaunt.md">Megalodaunt</a></td>
-</tr>
-<tr>
-  <td>40-49</td>
-  <td>Cursed/Enhanced <a href="Megalodaunt.md">Megalodaunt</a></td>
-</tr>
-<tr>
-  <td>50&lt;</td>
-  <td><a href="Enforcer.md">Enforcer</a></td>
-</tr>
-</tbody>
-</table>
+> _**"Triumph, or DIE!"**_ - Street Fighter, Alpha 3 Turbo. the trial that was here earlier is completely wrong so dont listen
 
   
 **One more thing...**

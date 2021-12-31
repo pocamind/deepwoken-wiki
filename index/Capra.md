@@ -1,12 +1,14 @@
 ---
 title: Capra
-revid: 6778
+revid: 6952
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Races]
 ---
 
 # Capra
+
+Template:Races-Main
 
 ## Etymology
 
@@ -14,23 +16,18 @@ categories: [Pages with broken file links, Races]
 
 ## Description
 
--   Chance of obtaining race: **2.0%**
+-   Chance of obtaining race: **2.0%**  
+    
 
 ### **Lore**
 
-Template:Races-MainThey are keepers of ancient secrets who travel the seas sharing knowledge with those who need it.
-
-  
-
-  
+They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it.
 
 ### **Appearance**
 
 Capras have 3 color variants, and each of them have specific passive bonuses.
 
 ### Racial Abilities
-
-File:Capra2.png
 
 Blue variant - _**Mark of Jurik**_ | Buffs the sanity of one person they choose around them as long as they are at the campfire. |
 

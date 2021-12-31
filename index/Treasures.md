@@ -1,18 +1,47 @@
 ---
 title: Treasures
-revid: 3252
+revid: 7012
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Treasures
 
-Items dropped from (usually bandits around Lower Erisia or Galleon loot) that can be sold to the Antiquarian for differing amounts of notes. (Possible weapon enchanting system similar to rogue?)
+Items commonly dropped from bandits around Lower Erisia or as Galleon loot that can be sold to the Antiquarian for various amounts of Notes.
 
--   Sapphire= 4 notes
--   Amethyst = 5 notes
--   Ruby= 6 notes
--   Emerald= 7 notes
--   Gold Bar= 7 notes
--   Platinum Bar = 18 notes
--   Diamond = 20 notes
+<table><caption>Gems</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Sell Price</th>
+</tr>
+<tr>
+  <td>Sapphire</td>
+  <td>4 Notes</td>
+</tr>
+<tr>
+  <td>Amethyst</td>
+  <td>5 Notes</td>
+</tr>
+<tr>
+  <td>Ruby</td>
+  <td>6 Notes</td>
+</tr>
+<tr>
+  <td>Emerald</td>
+  <td>7 Notes</td>
+</tr>
+<tr>
+  <td>Gold Bar</td>
+  <td>7 Notes</td>
+</tr>
+<tr>
+  <td>Platinum Bar</td>
+  <td>18 Notes</td>
+</tr>
+<tr>
+  <td>Diamond</td>
+  <td>20 Notes</td>
+</tr>
+</tbody>
+</table>

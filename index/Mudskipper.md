@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 6840
+revid: 6993
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,15 +17,18 @@ A mindless enemy that sprouts out of the ground to surprise Players. They lack i
 
 ## Moves
 
--   **Smack** - The Mudskipper punches his enemies, dealing minor damage.
+-   **Smack** - Combo of 3 jabs, dealing minor damage.
 -   **Galebreathe** (Upper Erisia & Other)- The Mudskipper charges up a Galebreathe spell, propelling anyone who is caught inside its line of effect.
 
 -   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
+-   **Flamecharm** - (ice island) use fire sword to hit.
 
 ## Variants
 
--   **Green** **Mudskipper** - Explodes two seconds after dying.
--   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreathe.
+-   **Green Mudskipper** - Normal Mudskipper.
+-   **Green fatty** **Mudskipper** - Explodes two seconds after dying.
+-   **Dark Green Mudskipper** - Only mudskipper variant to use Galebreathe. Uses air push.
+-   **Green Mudskipper in the cloth** - Only mudskipper variant to use Flamecharm. (found on ice island)
 -   **Black Mudskipper** - Found in the _**Shrine of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy. Does not die when backstabbed.
 -   **Necro-Skipper -** Summoned Mudskippers from Cultist Necromancers. Equipped with nothing but armor, and acts like regular Mudskippers.
 -   **Deep Mudskippers** - Mudskippers exclusively in [The Depths](The_Depths.md). Fought exclusively in the Trial the Voices give you, their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.

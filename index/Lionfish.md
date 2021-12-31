@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 5356
+revid: 6977
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,7 +27,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 **Mouth Laser**: Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does an immense amount of damage (depths only). Can be perfect dodged by rolling when it puts its head down.
 
-**Bite**: Bites multiple times, can be parried.
+**Bite**: Bites three times, can be parried.
 
 **Dive**: Although non-offensive, I am putting this here. Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
 

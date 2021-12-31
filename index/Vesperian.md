@@ -1,18 +1,14 @@
 ---
 title: Vesperian
-revid: 6659
+revid: 6956
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Races]
 ---
 
 # Vesperian
 
--   Chance of obtaining race: **6.1%**
-
-File:Goated Vesperian.png
-
-File:Vesperianrea.png
+Template:Races-Main
 
 ## Lore
 
@@ -46,6 +42,7 @@ Masked humanoids with cyan/grayish hair. Masks seem to differentiate for each ch
 -   Vesperians have yellow circles as eyes and no mouth under their mask
 -   Vesperians get a special mask when Blindseer is aquired.
 -   Their eyes kinda look like a cat on drugs
+-   people expecting them to be the cutest thing ever when they take their masks off. they're bug people they take it off and you get a terra formar cockroach mutant headass
 
 <table>
 <tbody>

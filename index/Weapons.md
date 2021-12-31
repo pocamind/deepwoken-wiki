@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 6912
+revid: 7054
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -296,7 +296,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Falchion</td>
   <td>20 MED</td>
   <td>Sword</td>
-  <td>18.5</td>
+  <td>16</td>
   <td></td>
   <td></td>
   <td></td>
@@ -518,10 +518,11 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Halberd</td>
   <td>45 HVY</td>
   <td>Great Axe</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
+  <td>22</td>
+  <td>7</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.6x</td>
   <td>Darksteel Greatsword</td>
   <td>45 HVY</td>
   <td>Great Sword</td>
