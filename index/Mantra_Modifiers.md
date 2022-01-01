@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 7027
+revid: 7458
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -94,7 +94,7 @@ File:Magnet Spark PNG.png
 
 Jolt Grab
 
-Spark Swap (no difference found)
+Spark Swap
 
  | Makes projectile spells homing. |
 | 
@@ -123,21 +123,15 @@ Revenge
 
 Ice Chains
 
-  
-
  | Reverses the effect of the Mantra. |
 | 
 
-File:Mantra Modifier Placeholder.png
+File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun
-
-Flame Blade
-
- | Increases the number of hits. |
+ | Multiplying Spark | Wind Gun | Increases the number of hits. |
 | 
 
- | Spring Spark | _\[Insert Mantra Mobility Moves Here\]_ | _Amplifies the effects of mobility moves._ |
+ | Spring Spark | _Unknown._ | Amplifies the effects of mobility moves. |
 | 
 
  | Tornado Spark | Dark Blade | Makes the last slash a Spin Attack.
@@ -155,6 +149,7 @@ _"You feel dizzy when you hold it."_
 
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
+-   This modifier is compatible with the _Spark Swap_ Mantra, but has no effect.
 
 #### Round Spark
 
@@ -172,10 +167,11 @@ _"You feel dizzy when you hold it."_
 #### Multiplying Spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
+-   This modifier turns the Shadow Gun mantra into a Cero-like beam.
 
 #### Spring Spark
 
--   Increases the hight for mobility moves such as the Flame Leap Mantra.
+-   This modifier increases the height for the _Flame Leap_ Mantra.
 
 #### Tornado Spark
 

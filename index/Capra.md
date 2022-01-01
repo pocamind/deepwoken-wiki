@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 7197
+revid: 7466
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -12,7 +12,7 @@ Template:Races-Main
 
 ## Etymology
 
-"Capra" is the scientific name of the genus of mammals called "goats". The word is from Latin.
+"Capra" is the scientific name of the genus of mammals called "goats". The word is derived from Latin.
 
 ## Description
 

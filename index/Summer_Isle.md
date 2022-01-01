@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 7284
+revid: 7382
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,7 +32,7 @@ Some food items can be found, in addition to at least 1 treasure chest. In the t
 
 ### Island Denizens
 
-There are many guards on this island, and some nomads on the outskirts. There seem to be bandits? On the beaches. I witnessed a guard and another NPC fighting, but I don't know what the mystery NPC was. The guards wield flintlocks. Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. More may be in the mountainous areas of the island.
+There are many guards on this island, and some nomads on the outskirts. There seem to be bandits? On the beaches. I witnessed a guard and another NPC fighting, but I don't know what the mystery NPC was. (Potentially a necromancer, I've seen nomands fighting them here). The guards wield flintlocks. Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. More may be in the mountainous areas of the island.
 
 ### Quests
 

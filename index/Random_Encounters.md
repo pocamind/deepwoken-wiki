@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 7276
+revid: 7411
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,19 +9,31 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Random encounters across Deepwoken.
+Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
 
-## NPC Encounters
+## AI-Driven Encounters
 
 ### Bandit Camp
 
-Bandits can be found chilling at a campfire, or in that abandoned village.
+A campfire, circled by two to three NPCs. The strength of said NPCs is scaled based on the severity of the area they are in. They drop lowtier loot.
 
 ### Bandit Ambush
 
-While in erisia, there is a chance that bandits will fall from the sky and ambush you. This can scare the shit out of you if you do not expect it. They will occasionally say "Suprised?".
+While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in.
 
-## Non-NPC Encounters
+### Authority vs X
+
+Authority NPCs of constant strength attack either a group of Legion, Pathfinder, or Vigil soldiers.
+
+### Hobo with a Chest
+
+Self explanatory. Hobo quite powerful, be careful.
+
+### The Teacher
+
+The teacher is an NPC that is often found situated around a campfire. As per dialogue, a player can gain a skill level in one of the six categories.
+
+## Non-AI-Driven Encounters
 
 ### Legendary Boot
 

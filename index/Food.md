@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 7106
+revid: 7441
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,7 +28,7 @@ For knowing how to make Food, go here. Ingredients are also [here](Ingredients.m
 
 File:SlowedStomach.png
 
-As per mentioned, certain foods give random boosts which can be indicated by the color overlaping your food bar, Colors & the type of boost you get may vary, but you can tell so from what boost you got by hovering above the food bar. It is currently not known if the colors are consistent with the same effects, or if they are all randomized, best hover over your food bar anyways to see what boost you got.
+As per mentioned, certain foods give random boosts which can be indicated by the color overlaping your food bar, Colors & the type of boost you get may vary, but you can tell so from what boost you got by hovering above the food bar. **The Color of the overlay does not mean anything.** It has been confirmed as of 30/12/2021
 
 Known Boosts:
 
@@ -46,3 +46,4 @@ Increased Ether Regen
 
 -   Some foods like Pomar will damage you, but doesn't hurt you in other ways and still satiates your hunger, it is not known why.
 -   Sometimes there's a rare chance for a NPC called the "Meat Lord" to spawn randomly throughout Hive, Lower-Upper Erisia and Summer Isle, The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomace.
+-   There seems to be unclear variety in what the buffs states, sometimes it will not state anything at all, sometimes it will quote what type of powerups you got e.g "You feels your blade is stronger"

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 6935
+revid: 7474
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,8 +24,6 @@ These races are obtainable by anyone. One of these races will be given to the pl
 | **[Gremor](Gremor.md)** | 10.9% | **[Ganymede](Ganymede.md)** | 1.82% |
 | **[Khan](Khan.md)** | 7.27% | **[Capra](Capra.md)** | 1.82% |
 | **[Felinor](Felinor.md)** | 7.27% |
-
-  
 
   
 

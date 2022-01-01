@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 7330
+revid: 7473
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,7 +52,7 @@ _"Good Soup." (Pukes everywhere) - Nameless Khan_
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.
--   Can be unbounded by talking to Brutus in Fort Merit (Must have positive rep with the Authorities\[?\])
+-   Can be unbounded by talking to Brutus in Fort Merit (Must have 75 fortitude or else you wont gain nothing). You won't gain a talent card but you still unbounded it.
 
 ### Agility
 
@@ -73,6 +73,7 @@ _"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 -   Intelligence affects your Attunements' Damage slightly per Intellegence.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via Foraging, discovering Recipes for the first time, or discovering new locations for the first time.
+-   Can be unbounded by using the Soul Hearthgem (found in the deep cave of Upper Erisia) and solving the Birdcage Puzzle. Next, eat a Bluecap at Intelligence 75.
 
 ### Willpower
 
@@ -94,6 +95,7 @@ _"Wanna take a vow of mastery?" - Said the charismatic Felinor for the tenth tim
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items.
 -   Increases Ether.
+-   Can be unbounded by completing the 3rd option in Karliah's quest and talking to her back in Etris.
 
 ## Weapon Proficiency Attributes
 

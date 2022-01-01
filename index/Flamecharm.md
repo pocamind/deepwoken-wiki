@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7267
+revid: 7482
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -14,7 +14,7 @@ Flame charm icon
 
 -   **Description**
 
-Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Flame Hearthgem. They can be found in every mantra shop and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to climb past the top of the waterfall in songseeker wilds, the trainer will be in a dojo at the top (10 flamecharm per level). Be scared of Flamecharmers.. Flamecharmer is cruel and unusual.
+Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Flame Hearthgem. They can be found in every mantra shop and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to climb past the top of the waterfall in songseeker wilds, the trainer will be in a dojo at the top (10 flamecharm per level).
 
 ## Mantras
 

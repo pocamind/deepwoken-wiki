@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7328
+revid: 7471
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -16,7 +16,7 @@ categories: [Character]
 </tbody>
 </table>
 
-_Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
+**Note : LOL THIS Belikekyan KID DOESN'T REALIZE PEOPLE CAN UNDO HIS RAID SHIT LOL.** _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
 Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
 
@@ -98,7 +98,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td></td>
 </tr>
 <tr>
-  <td>Gilded Dagger</td>
+  <td>Gilded Knife</td>
   <td>25 LHT</td>
   <td>Dagger</td>
   <td>13.5</td>
@@ -169,7 +169,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Tanto</td>
   <td>50 LHT</td>
   <td>Dagger</td>
-  <td>16</td>
+  <td>15</td>
   <td></td>
   <td></td>
 </tr>

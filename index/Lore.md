@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7327
+revid: 7389
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -65,7 +65,8 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### The Old Stewards/The Pathfinders
 
--   An organization that preserves whats left before the tides came.
+-   An organization that preserves whats left before the tides came; practically Historians.
+-   The Old Stewards can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
 
 ### The Ignition Union
 
@@ -109,6 +110,7 @@ A Peacekeeper Grunt, part of The Authority
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
 -   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
+-   No matter how many good deeds you've given them, Summer Company will always treat you as an Outsider.
 
 A Summer Company Member.
 

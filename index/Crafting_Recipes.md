@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7326
+revid: 7413
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -89,7 +89,9 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 
  | _**Positive**_
 
--   Regenerates Reservoir instantly.
+-   Regenerates Reservoir instantly.  
+    
+-   Returns some sanity
 
 _**Negative**_
 

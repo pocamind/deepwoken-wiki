@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 7244
+revid: 7402
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -142,7 +142,7 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
     -   Make sure you talk to the Royal Guards that the Lord Regent is expecting you, making them docile unless provoked.
 -   Heading upstairs, the Lord Regent hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
--   To use the Key to unlock the black iron gate, the Key must be glowing White (Presumably in the Night, but further research is needed.)
+-   To use the Key to unlock the black iron gate, the Key must be glowing White this only happens at night.
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
     -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
@@ -153,17 +153,18 @@ _"She's mentally unstable? ZAAMN!!!" - Unknown Felinor_
 
 Kalilah getting her ass kicked by a Mudskipper.
 
-To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
+  
 
+-   To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
--   Save her from the Mudskipper that is attacking her. After doing so, you need 20 Charisma to succeed on all the Charisma Checks.
+-   Save her from the Mudskipper that is attacking her. After doing so, you need 20 Charisma (No with 22 Charisma I was unable to get her to pick the third ending however the second ending worked.) to succeed on all the Charisma Checks.
 
 #### Ending 1: Promise Broken
 
 _"Don't be scared. I promise I'll protect you no matter what."_
 
--   If you pick the 1st option, Karlilah enters the caves, sealing her fate by being eaten alive by Isopods.
+-   If you pick the 1st option, Karliah enters the caves, sealing her fate by being eaten alive by Isopods.
 -   There is no rewards from this ending, only bitter and cold.
 
 Kalilah, eaten alive by Isopods.
@@ -174,7 +175,7 @@ Kalilah, eaten alive by Isopods.
 
 _"You've been through alot- Maybe you should go home and study on your own for awhile and come back later."_
 
--   Picking the 2nd option, Karlilah returns back home and studies. If the Player checks up on Karlilah's Home in Etris, she is covered in blood and mentally deranged- along with petting the head of an Old Etrean she once helped.
+-   Picking the 2nd option, Karliah returns back home and studies. If the Player checks up on Karliah's Home in Etris, she is covered in blood and mentally deranged- along with petting the head of an Old Etrean she once helped.
 -   She greets you with a friendly tone, and talks about her studies. Her eyes to the truth of the world was revealed due to the studies you ask her to.
 -   There is no way to save her, as the only option is to put her down; snapping her neck from behind.
 -   The reward from this ending is a fistful of EXP, and a shiver down your spine.
@@ -187,8 +188,8 @@ Yandere??
 
 _"I don't think you're cut out for this. Mudskippers are small fry, and you'll face much worse as a Diver. You need to rethink your life goals."_
 
--   Picking the 3rd option, Karlilah accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in Etris.
--   Checking up on Karlilah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
+-   Picking the 3rd option, Karliah accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in Etris.
+-   Checking up on Karliah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
 -   The reward from this ending increases your charisma cap to 100, a fistful of EXP, and a moment of harmony and relief.
 
   
@@ -220,6 +221,16 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   After giving her the required items, she will then use them and give you Glassblood to your inventory.
 -   Drinking Glassblood will damage you by a portion (Somewhere in the 10%) and ragdoll you. In return, you are able to cast Frostdraw and learn Frostdraw Talents.
 
+### Navaen Tribe Rescue Quest
+
+-   Talk to the Eastern Camp Master in the encampment, near the City. (Optional)
+    -   He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).
+
+-   Find and rescue a Navaen Tribe Member in Erisia Island in one of the many encounters there.
+-   Upon finding a Navaen Tribe Member, head back to the Camp Master and recieve your Reward.
+-   The Reward for this Quest is the "Way of Navae" Fist Stance and Talent. In addition, unlocks a new dialogue option from Polis.  
+    
+
 ## Notes/Trivia
 
 -   In the Lord Regent Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
@@ -229,6 +240,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Etrea is the island. Etris is the city.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
 -   In Ending 2 of Karlilah's Quest, she must've read something about [The Depths](The_Depths.md), and went too far deep into it.
+-   For the Navaen Tribe Rescue Quest, it is probable that you can "kidnap" any member of the Navaen Tribe other than finding one in Erisia Island. Such places to find Navaen Tribesmen is commonly in [Summer Isle](Summer_Isle.md).
 
 Successful Flamecharmer Check
 

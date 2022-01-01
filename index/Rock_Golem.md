@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 7343
+revid: 7372
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,4 +34,4 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 
 -   Occasionally a Shark-O and a Golem will spawn next to each other and fight each other. It's a good idea to use projetiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 -   Do not block it's Beyblade attack as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   It's Eyebeam bypasses through block so don't try to block it or parry it. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
+-   It's Eyebeam bypasses through block so don't try to block it or parry it. The best way to evade this move is to wait for it to charge up and roll away when its about to fire. You can notice that by hearing how sounds of charging stops, after that it shoots.

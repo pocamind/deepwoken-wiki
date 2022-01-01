@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 5834
+revid: 7403
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,3 +16,5 @@ There are four base elements that anyone may select when first creating a charac
 Other than the base elements there are other unlockable elements that can be taught by their respective trainers such as shadowcast.
 
 At the Character Selection you may choose no Attunement, which will start the player with no element, though elements can be aquried through their respective trainers.
+
+In order to gain every Attunement in the game, after learning three Attunements you must be given the other respective Attunement items by other players (Shadowblood, Glassblood, etc).

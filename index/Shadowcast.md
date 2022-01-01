@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 7353
+revid: 7417
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -27,7 +27,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 |  | 
 > (☆☆☆)
 
- | Dark Blade | Slicing blades of dark energy. | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable. |
+ | Dark Blade | Slicing blades of dark energy. | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable. Adding a Tornado Spark adds a spinning effect after the cuts. |
 |  | 
 
 > (☆☆☆)

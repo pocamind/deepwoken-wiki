@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 7290
+revid: 7409
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -714,38 +714,34 @@ You can find an NPC that transfers your gear's attributes/stats into another, fo
 File:Herbalist's Hat.png
 
  | Herbalist's Hat |  |
+| 
+
+File:Authorityhelm.png
+
+ | Authority Helm | 2 random buffs. |
+| 
+
+File:GreyGumshoeHat.png
+
+ | Grey Gumshoe Hat | Random buff. |
 
 ### Face
 
-<table>
-<tbody>
-<tr>
-  <th>Image</th>
-  <th>Armor</th>
-  <td>Effect</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Iron Mask</td>
-  <td>None</td>
-</tr>
-<tr>
-  <td><figure>File:Hairband.jpg<figcaption></figcaption></figure></td>
-  <td>Headband</td>
-  <td>None</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Blindfold</td>
-  <td>Grants the "Blinded" talent, which obscures the wearer's vision.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Bandana</td>
-  <td>None</td>
-</tr>
-</tbody>
-</table>
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+ | Iron Mask | None |
+| 
+
+File:Hairband.jpg
+
+ | Headband | None |
+| 
+
+ | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. |
+| 
+
+ | Bandana | None |
 
 ### Ears
 

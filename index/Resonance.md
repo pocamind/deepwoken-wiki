@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 6742
+revid: 7410
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,6 +23,7 @@ _**Pressing C triggers resonance**_
 ## How Do You Obtain A Resonance?
 
 -   The requirement to getting bells/resonances is not exactly known, however it is theorized that you must spend 7 hour in the depths(cap) (doesn't have to be all at once), and the timer can be reduced by gripping players you get luck from and enhanced mobs, however it is just a theory. It is also possible there is a level requirement to get resonances, as everyone I have seen with a resonance is over level 50
+-   Heres another theory on obtaining bells. It requires getting max luck in the Depths (either by gripping players or killing corrupted enemies. Max luck is 150) and then getting knocked.
 -   We know that after meeting the requirement, in order to unlock it you need to be set to low hp in the depths, then you will get your hp refilled and some circles around you, showing that you obtained the resonance
 
 ## Resonances

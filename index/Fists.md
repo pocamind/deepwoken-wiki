@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 7348
+revid: 7407
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,10 +29,12 @@ There are several different styles.
 
 File:Jus Karita Description.png
 
--   The trainer is next to the tree in the middle of Etris. Requirements are 40/48light weapon, Power 30
+-   ~To get Jus Karita, your Character must have the Way of Navae from completing the Navaen Tribe Quest in Etris.~
+-   ~Upon getting Way of Navae, head to Polis, the Vesperian polishing his Greatsword under the White Tree.~ I have a Jus Karita build, without any other fists styles. All you need is the stat reqs below.
+-   The requirements of Jus Karita is Light Weapons 45 and Power Level 30.
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
 
 ## Trivia/Notes
 
--   ~Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists.~ Wrong, when you equip a Cestus with Jus Karita, you get a whole almost different style. Instead of using your legs, you wildly swing your fists (This could be wrong, though I've been wiped a few times and this is how Jus Karita acted when you equiped a Cestus with it).
+-   ~Once learning Jus Karita, you can no longer equip a caestus, as you're no longer using your fists.~ Wrong, when you equip a Cestus with Jus Karita, you get a whole almost different style. Instead of using your legs, you wildly swing your fists (This could be wrong, though I've been wiped a few times and this is how Jus Karita acted when you equiped a Cestus with it). PS: This only works if you have another fists style. I have a Jus Karita without Navae/Legion, and I cannot use Cestus/Legion Cestus.

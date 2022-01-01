@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 7335
+revid: 7431
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,6 +26,6 @@ Loud and enormous, the Primadon is a giant with the appearance of a monkey with 
 
 ## Tips
 
--   Dying to Primadon automatically sends you to the depths (MYTH, NEEDS CONFIRMATION)
+-   Dying to a Primadon sends you to the depths automatically
 -   Primadon makes a wooshing noise whenever it attacks
 -   The footsteps of Primadon plays a loud, noticeable noise and shakes your camera.

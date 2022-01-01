@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 7259
+revid: 7375
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2Crocodiles are monsters that spawn in the Starswept
 
 -   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried.
 -   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried.
--   **Tail Swipe** - Turns around and smacks you with its tail. This attack is able to be parried.
+-   **Tail Swipe** - Turns around and smacks you with its tail. This attack is able to be parried. Normally breaks block but with additional posture can be blocked.
 -   **Dig** - Burrows underneath the ground and attempts to hit you. This attack can only be dodged as indicated by its red marker.
 
 ## Notes

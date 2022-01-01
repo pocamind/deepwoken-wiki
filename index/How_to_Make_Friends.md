@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 7344
+revid: 7363
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,3 +39,9 @@ File:Tempsnip.png
 "You ever been to a Canor restaurant? The food's pretty howlright."
 
 "Are you doing anything this weekend? Because I'd like to see you greMORE."
+
+  
+
+## Notes/Trivia
+
+-   There were some quotes that gotten Player's accounts deleted from ROBLOX because it thought they were Online Dating or attempting to get Personal Information. As of 12/27/2021, some of the lines in the "How to Make Friends" Book are removed.

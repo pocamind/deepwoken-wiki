@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 7182
+revid: 7437
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,7 +25,7 @@ Luck is a hidden value that affects your Character's learning of rare Talents.
 ## Obtaining Luck
 
 -   Luck affects the drop rate of Rare Cards (Indicated by their colored background, special sound effects, and particle effects).
--   Gripping players has a chance to provide luck. Gaining luck is symbolized by particles flying up around the user. Players with more Power yield more Luck, while players with less or significantly less Power relative to yours yield little to no luck (e.g. if a Power 50 player grips a freshie, they will recieve no luck, compared to that same Power 50 player gripping a Power 40 player, where they would recieve some, or gripping a Power 60 player, receiving a lot of luck). This also steals a portions of their Luck.
+-   Gripping players has a chance to provide luck. Gaining luck is symbolized by particles flying up around the user. Players with more Power yield more Luck, and this steals a portion of their Luck. You will never get luck from players if you are Power 10 and they are below that level, or if you grip players more than 15 levels below you. (Confirmed by the devs)
 -   Gripping NPCs, including but not limited to: bandits and mudskippers alike, also provide a chance of giving luck.
 -   Killing Corrupted Monsters (indicated by a malicious, purple aura) in both [The Depths](The_Depths.md) & Overworld. These variants of monsters are stronger than their original selves, but has the same attack patterns. Gives a lot of luck.
 -   Killing the golems in Valley of Hero.
@@ -34,3 +34,4 @@ Luck is a hidden value that affects your Character's learning of rare Talents.
 ## Notes/Trivia
 
 -   It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).
+-   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players as a higher level unless you are just that toxic, or are acting in self defense.
