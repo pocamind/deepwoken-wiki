@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7254
+revid: 7267
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -39,7 +39,7 @@ Does not inflict stun or knockback
  |
 | 
 
- | Flame Palm | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
+ | Flame Palm(☆) | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
 | 
 
  | Flame Eruption (☆) | A pyrocalstic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |

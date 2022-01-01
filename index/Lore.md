@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7220
+revid: 7327
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,9 +63,9 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ## Factions
 
-### The Old Stewards
+### The Old Stewards/The Pathfinders
 
--   An organisation that preserves whats left before the tides came.
+-   An organization that preserves whats left before the tides came.
 
 ### The Ignition Union
 
@@ -73,10 +73,10 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ### The Kingdom of Etrea
 
--   A government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
--   They are not to be confused with The Authority, who are referred to as "dogs" after a confrontation between them and the Etrean guards.
+-   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
+-   They are not to be confused with The Authority.
 -   Their appearance can be distinguished by their white/green armor.
--   Are enemies of The Central Authority.
+-   Are enemies of The Adretian Authority.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -87,7 +87,7 @@ An Etrean Guard, part of the Nation of Etrea
     -   Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 
-### The Central Authority
+### The Central Authority/The Adretian Authority
 
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
@@ -107,7 +107,8 @@ A Peacekeeper Grunt, part of The Authority
 ### Summer Company
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
--   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Authority for their efforts.
+-   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
+-   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
 
 A Summer Company Member.
 
@@ -119,15 +120,32 @@ A Summer Company Member.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
 
-### Songseeker Cultists
+### Songseeker Tribesmen
 
--   Cultists that worship the Song. Known as Masters of the Elements.
+-   A colony of Tribesmen that worship the Song. Known as Masters of the Elements.
 -   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
 -   Flamecharm Masters are commonly found in Songseeker Isles, and Frostdraw Masters can be found in [Minityrsa](Minityrsa.md).
 
-### The Hive
+### The Empire/Hive
 
-(Placeholder)
+-   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority.
+-   They wear ancient-like armor, ranging from armor plating and scale armor.
+-   They have a form of ranking such as Centurions and Tacticians, described by [Amara](Amara.md) in The Viper's Jaw and the Hive Tactician Armor.
+    
+    Amara, a Member of The Empire.
+    
+
+### The Ministry/Dark Mages
+
+_"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
+
+-   A group of Shadowcasters with unknown motives. Further research is required.
+-   They bring about the flood of the Overworld to [The Depths](The_Depths.md), just like how the Celtor and its City sank.
+-   The Ministry has some sort of hostility against the Navaen Nomads, commonly encountered in [Summer Isles](Summer_Isle.md).
+
+A Dark Mage, located in Minityrsa.
+
+  
 
 ## Attunement Lore
 
@@ -157,3 +175,13 @@ _"Pleetksy, whom taught us his concept of the Inner Flameâ€” Deep within our sou
 ### Life before the Tides
 
 -   There was once Land Animals in Deepwoken, both Domestic, Predator and Livestock alike before the Tides.
+
+### The Old Texts
+
+-   An assortment of History written in glyphs or in books. It is unknown if it can be found in the world of Deepwoken, but NPCs managed to discover them.
+
+#### The Origin of Adrets
+
+-   The Adret has no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc).
+-   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
+-   They are not Fish.

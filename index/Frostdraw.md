@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 7183
+revid: 7333
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -146,15 +146,15 @@ You can get Frostdraw by either getting it as a starter element or by giving the
 +2 Health
 
  |
-|  | (something flames) | (you cannot be put on fire while on ice. I think flamecharmer spells were lessened or something aswell) | (placeholder) |
+|  | Cool Head | (you cannot be put on fire while on ice. I think flamecharmer spells were lessened or something aswell) | (placeholder) |
 
-#### Glass Path(?)
+#### Glassdancer
 
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (P.S. It is currently unknown how to obtain this talent) | (Insert Effects here) |
 
-#### Uncategorized
+#### Ice Age
 
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -162,3 +162,10 @@ You can get Frostdraw by either getting it as a starter element or by giving the
 +2 Health
 
  |
+
+  
+**Cryoni**
+
+| **Image** | **Name** | **Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Fragile Freeze | Your ice mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity |

@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 7214
+revid: 7346
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,6 +19,8 @@ File:Dumb fucking spider.png
 _**Bugcatcher Joey challenges you to a battle!!!**_
 
 Large, protecter of _T**he Serpent's Den**_ located in _**The Hive**_. Summons additional enemies when you fight it, and pulls threats in with it's sticky webs.
+
+Health: 3500
 
 ## Moves
 

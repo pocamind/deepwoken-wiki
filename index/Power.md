@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 7196
+revid: 7350
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,4 +25,4 @@ If you want to plan your builds properly, consider using a calculator, like this
 
 **Weapon Skills -** Heavy, Medium, Light
 
-**Magic Skills -** Flamecharm, Frostdraw, Thundercall, Galebreathe (Potentially Light and Void/Shadow, requires confirmation)
+**Magic Skills -** Flamecharm, Frostdraw, Thundercall, Galebreathe, Shadowcast (Potentially Light, requires confirmation)

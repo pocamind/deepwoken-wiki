@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 7045
+revid: 7298
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -66,6 +66,9 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   Slight no fog
 -   Full vision while wearing a blindfold
 -   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md)) (you can actually equip other face accessories and still have the full effects of the oath (Except the fullbright.) and the drippy eye symbol, although if you don't have any face accesory on it will still show you as weraing a blindfold)
+    
+    Blindseer vesp  
+    
 
 ### Oath Description:
 

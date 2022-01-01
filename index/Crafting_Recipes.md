@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7145
+revid: 7326
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 -   **Wood** - _3 Sticks_
 -   **Sticks** - _1 Wood_
--   **Campfire** - _3 Sticks **OR** 1 Wood_
+-   [Campfire](Campfire_Pit.md) - _3 Sticks **OR** 1 Wood_
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
 -   **[Sack](Cut_Content.md)** - _2 Cloth_
@@ -68,6 +68,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_
+-   **Sauteed Scallops** - 2 Scallops
 
 ## Alchemy
 

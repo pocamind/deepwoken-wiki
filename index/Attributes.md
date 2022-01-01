@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 7249
+revid: 7330
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,7 +52,7 @@ _"Good Soup." (Pukes everywhere) - Nameless Khan_
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.
--   Can be unbounded by talking to Brutus in Fort Merit
+-   Can be unbounded by talking to Brutus in Fort Merit (Must have positive rep with the Authorities\[?\])
 
 ### Agility
 

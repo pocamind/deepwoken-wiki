@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 7023
+revid: 7282
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,6 +23,7 @@ The player must respond with "yes." Once accepted an animation will play and the
 
 | Command | Requires Talent | Usage | Effect |
 | --- | --- | --- | --- |
+| Eat | No | "\[Name\], eat \[Edible item\]" | Forces the Subject to eat an edible item. |
 | Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped. |
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
 | Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |

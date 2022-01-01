@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 7184
+revid: 7290
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -699,12 +699,53 @@ Power 45
 
  |
 
-## Armor Pieces
+## Accessories
 
-**note:** the stats on nearly all armor pieces are randomized. any numbered stat boosting effects you see in this section should probably be disregarded  
-armor pieces come in different "rarities' (ie ascended) meaning that item has more or higher valued stat bonuses. this can apply to items that dont normally roll with stats, such as an iron mask or headband. an items rarity **does not change the items look** (please, dont make seperate entries for different rarities of the same armor piece).
+**Note: The stats on nearly all accesories are random. Any numberical stat boosting effects you see in this section should be disregarded.**  
+Armor pieces come in different "rarities" (such as Ascended) meaning that item has more or higher valued stat bonuses. This can apply to items that dont normally roll with stats, such as an iron mask or headband.
 
 You can find an NPC that transfers your gear's attributes/stats into another, for matching your attire and drip. The NPC, by the name of Jarvis, is located inside the Stronghold of [Summer Isle](Summer_Isle.md), near the Underground Arena.
+
+### Head
+
+| Image | Armor | Effects |
+| --- | --- | --- |
+| 
+File:Herbalist's Hat.png
+
+ | Herbalist's Hat |  |
+
+### Face
+
+<table>
+<tbody>
+<tr>
+  <th>Image</th>
+  <th>Armor</th>
+  <td>Effect</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Iron Mask</td>
+  <td>None</td>
+</tr>
+<tr>
+  <td><figure>File:Hairband.jpg<figcaption></figcaption></figure></td>
+  <td>Headband</td>
+  <td>None</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Blindfold</td>
+  <td>Grants the "Blinded" talent, which obscures the wearer's vision.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Bandana</td>
+  <td>None</td>
+</tr>
+</tbody>
+</table>
 
 ### Ears
 
@@ -717,14 +758,57 @@ You can find an NPC that transfers your gear's attributes/stats into another, fo
 
  |
 
-### Head
+### Torso
 
 | Image | Armor | Effects |
 | --- | --- | --- |
 | 
-File:Herbalist's Hat.png
+File:Golden Cape.png
 
- | Herbalist's Hat |  |
+ | Golden Cape | Buffs a random stat. |
+
+### Arms
+
+| Image | Armor |
+| --- | --- |
+| 
+File:Autumn pauldrons.png
+
+ | Autumn Pauldrons |
+|   
+
+File:Black Fur Pauldrons.png
+
+ | Black Fur Pauldrons |
+| 
+
+File:Blacksteel Pauldron.png
+
+ | Blacksteel Pauldrons |
+| 
+
+File:Flameguard.png
+
+ | Flameguard Pauldrons |
+| 
+
+ | Hunter's Brace |
+| 
+
+ | Leather Pauldrons |
+| 
+
+ | Steel Pauldrons |
+|   
+
+ | Tracker's Brace |
+| 
+
+File:Vanguardbrace.png
+
+ | Vanguard Brace |
+
+  
 
 ### Rings
 
@@ -772,20 +856,14 @@ buff effect)
 | 
 
  | Bloodiron Ring | Armor Durability on Grip |
-| File:Ringofwisps.PNG | 
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness
 
-  
-Ring of Wisps
-
-  
-
- | Increases effectiveness
-
-of wisps (flame wisp will
-
-heal more ect)
+of wisps (flame wisp will heal more, etc.)
 
  |
+| 
+
+ | Old Ring | Placeholder |
 |   
 File:Purifyingring.PNG
 
@@ -793,18 +871,13 @@ File:Purifyingring.PNG
 
  | Purifying Ring | Allows wearer to drink
 
-seawater with no side
-
-effects
+seawater with no side effects
 
  |
 | 
 
-File:Dazedband.PNG
-
-  
-
- | Dazed Band | Flourishing an opponent
+ | heavy hands ring (depths drop) | Reduces M1 speed for increased posture dmg |
+| File:Dazedband.PNG | Dazed Band | Flourishing an opponent
 
 has a 50% chance to stun
 
@@ -814,222 +887,49 @@ them
 
   
 
-### Arms
-
-| Image | Armor | Effects |
-| --- | --- | --- |
-| 
- | Leather Pauldrons | Placeholder |
-| 
-
-File:Autumn pauldrons.png
-
- | Autumn Pauldrons | Placeholder |
-| 
-
- | Steel Pauldrons | Placeholder |
-| 
-
-File:Flameguard.png
-
- | Flameguard Pauldrons | +10 Ether
-
-+20 Reservoir
-
- |
-| 
-
-File:Blacksteel Pauldron.png
-
- | Blacksteel Pauldrons | +2% Damage Vs. Giant
-
-+3 Health
-
-+1 Posture
-
-100 Note sell price
-
- |
-|   
-
-File:Black Fur Pauldrons.png
-
- | Black Fur Pauldrons | +2% Damage Vs. Giant
-
-+3 Health
-
-+10 Ether
-
- |
-|   
-
- | Tracker's Brace | +2% Damage Vs. Giant
-
-+20 Reservoir
-
-+3 Health
-
-+1 Posture
-
- |
-| 
-
- | Vanguard Brace | Placeholder |
-| 
-
-File:Vanguardbrace.png
-
- | Ascended Vanguard Brace | +2% Damage Vs. Giant
-
-+20 Reservoir
-
-+7 Health
-
-+1 Posture
-
- |
-
-  
-
 ### Boots
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor |
+| --- | --- |
 | 
 File:Leather boots.png
 
- | Leather Boots | +4 Health |
+ | Leather Boots |
 | 
 
 File:White fur boots.png
 
- | White Fur Boots | +20 Ether
-
-+3 Health
-
- |
+ | White Fur Boots |
 | 
 
 File:Black fur boots 1.png
 
- | Black Fur Boots | +9 Health
-
-+3% Damange vs. Sea
-
- |
+ | Black Fur Boots |
 |   
 
- | Autumn Boots | +6% Damage Vs. Sea
-
-+3 Health
-
- |
+ | Autumn Boots |
 | 
 
 File:Khanboots.png
 
- | Khan Boots | +3% Damage Vs. Sea
-
-+9 Health
-
- |
+ | Khan Boots |
 | 
 
 File:Imperial Boots.png
 
- | Imperial Boots | +44 Reservoir
-
-+3% Damage vs. Sea
-
-+5 Health
-
- |
+ | Imperial Boots |
 
   
-
-  
-
-  
-
-  
-Imperial Boots + 44 Resivoir +3% Dmg vs sea + 5 Health
-
-### Rings
-
-| Image | Armor | Effects |
-| --- | --- | --- |
-| 
- | Old Ring | Placeholder |
-| 
-
-File:Silverring.png
-
- | Silver Ring | Slightly buffs a random stat |
-| 
-
- | Gold Ring | Slightly buffs a random stat or ether |
-| 
-
-File:Kongasclutchring.png
-
- | Konga's Clutch Ring | Removes slide delay |
-
-<table>
-<tbody>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>heavy hands ring (depths drop)</td>
-  <td>Reduces M1 speed for increased posture dmg</td>
-</tr>
-</tbody>
-</table>
-
-## Accessories
-
-### Face
-
-| Image | Armor | Effects |
-| --- | --- | --- |
-| 
- | Iron Mask | None |
-| 
-
-File:Hairband.jpg
-
- | Headband | Comes in various colors |
-|  | Blindfold | Blinds occupant and gives +20 sanity |
-| 
-
- | Bandana | Comes in various colors |
-| 
-
- | Ascended Bandana | Buffs a stat (unknown) |
-
-### Torso
-
-| Image | Armor | Effects |
-| --- | --- | --- |
-| 
-File:Golden Cape.png
-
- | Golden Cape | +20 Reservoir
-
-_or_
-
-Buffs a random stat.
-
- |
-
-**Arms**
-
-| Image | Armor | Effects |
-| --- | --- | --- |
-|  | Hunter's Brace | Lets you parry heavy attacks (red effect apparently)
-Can be equipped on top of any arms armor.
-
- |
 
 ## Trivia/Notes
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
 -   Some Accessories can be Ascended, and have buffed stats.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>

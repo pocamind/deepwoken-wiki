@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7185
+revid: 7351
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -58,11 +58,11 @@ File:Curse of the Bloodthirsty.jpg
 -   Pros: Combat only HP regen buff and M1 deals more dmg.
 -   Cons: You are put to one life, and cant return if you go to depths, you just get insta-wiped. (Actually dont have any VFX on Cestus)
 
-  
-
 File:Hero Blessing.jpg
 
 **Hero Blessing (The Katana)** **LGBTQ (The Hammer)**
+
+  
 
 ### Hero Blessing
 
@@ -277,7 +277,7 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 
 ### Entanglement
 
-Pros: An enchant where when hit, it summons multiple trees like the Snow Mechs in Minityrsa and Hive Island. Cons: Unknown.
+Pros: An enchant where when hit, it summons multiple trees like the Snow Mechs in Minityrsa and Hive Island. When near a spawned tree you take less damage. (not tested)
 
 ### Multiplicity
 

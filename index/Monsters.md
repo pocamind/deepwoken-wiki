@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 7210
+revid: 7312
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,6 +44,10 @@ Missing Monsters:
 
 -   Red/Alpha Megalodaunt
 -   Golem Turret
+
+(These monsters are NOT 'variants' as they have different behaviors than their normal variants, and will even attack their original versions in the case of Alpha megalodaunts)
+
+information about the red megalodaunt and the golem turret should be added on the megalodaunt and rock golem pages (their pictures will be added as gifs here)
 
 ## Monsters
 

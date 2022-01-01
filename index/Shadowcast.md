@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 7218
+revid: 7353
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -10,7 +10,7 @@ categories: [Mantras]
 
 ## Description
 
-Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on this ether drain mechanic and the flame stacks. Compared to other attunement, shadowcasting tend to have a lower damage output, but can prove devasting to players with build heavily centered around ether.
+Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on this ether drain mechanic and the flame stacks.
 
 ## Obtainment & Training
 
@@ -37,7 +37,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 > (☆☆☆)
 
- | Clutching Shadow | A shadowy hand. | Chokes target enemy and slams them down. |
+ | Clutching Shadow | A shadowy hand. | Chokes enemies in a radius, and slams them down. It will notify targeted enemies with a red glow, and if they are hit it'll replenish ether equal to the cost. Blockable. |
 |  | 
 
 > (★☆☆)
@@ -83,20 +83,21 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 **ACTIVE**
 
-| Image | Rarity | Talent Tree | Talent | Card Description |
+| Image | Talent | Talent Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
-|  | 
-> Rare
+|  | Shadow Travel | 
+> Shadowcaster
 
  | 
 
-> Shadowcaster
+> Rare
 
- | Shadow Travel | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
+ | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
 
 ## Trivia
 
--   The selection icon for Shadowcast has the same art as Flamecharm, but is oddly tinted white.
+-   In past updates the selection icon for Shadowcast had the same art as Flamecharm, but was oddly tinted white.
 -   Shadowcast has a talent which blinds the victim on consecutive flame stacks, however this blind turns the victims screen white ironically.
+-   Additionally, several Shadowcast moves charge up with a white light.
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred as Lightkeepers are an "authority" within Deepwoken's world that this death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7256
+revid: 7328
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -131,7 +131,9 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>12</td>
   <td></td>
   <td>6</td>
-  <td></td>
+  <td>2</td>
+  <td>6.5</td>
+  <td>1.05x</td>
 </tr>
 <tr>
   <td>Whaling Knife</td>
@@ -326,18 +328,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td>16</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Worshipper Longsword</td>
-  <td>20 MED</td>
-  <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td>Scimitar</td>
@@ -369,6 +363,17 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+</tr>
+<tr>
+  <td>Worshipper Longsword</td>
+  <td>30 MED</td>
+  <td>Sword</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Ritual Spear</td>

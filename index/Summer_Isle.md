@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 7129
+revid: 7284
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ Inside of the buildings of the island, there is a gun store. This sells [Flintlo
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks.
 
-There is a forge where a weapon can be given the appearance of another, at the cost of the second weapon.
+There is a forge where an accessory can be given the appearance of another, at the cost of another accessory.
 
 There is, apparently, a supply room. I personally was unable to find it.
 
