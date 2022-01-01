@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 7225
+revid: 7501
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,8 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 ### _**Fortitude Mantras**_
 
 **Rally** - Strike your sheild a few times to absorb some of the posture received by nearby guildmates for a short duration. (Requirements: Fortitude + Any Shield, Support Mantra)
+
+**Reinforce** - Buff those around you with extra strength. (Requirements: Fortitude, Support Mantra)
 
   
 

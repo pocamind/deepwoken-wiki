@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7471
+revid: 7538
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -16,7 +16,9 @@ categories: [Character]
 </tbody>
 </table>
 
-**Note : LOL THIS Belikekyan KID DOESN'T REALIZE PEOPLE CAN UNDO HIS RAID SHIT LOL.** _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
+_Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
+
+  
 
 Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
 
@@ -179,7 +181,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Dagger</td>
   <td></td>
   <td></td>
-  <td></td>
+  <td>10</td>
 </tr>
 <tr>
   <td>Revolver</td>
@@ -650,11 +652,11 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Frost</td>
   <td>75 ICE</td>
   <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>23</td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Hero Blade of Wind</td>

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 7282
+revid: 7523
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,7 +34,7 @@ The player must respond with "yes." Once accepted an animation will play and the
  | Gives the Subject a purple aura and a boost in damage and defense. |
 | Return | Yes | "_\[Name\]_, return" | Forces the Subject to run back to the Master. |
 | Sacrifice | Yes, legendary | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
-| Live | Yes, legendary | "_\[Name\]_, live" | Gives the Subject full health and unknown buffs. |
+| Live | Yes, legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko. |
 
 ## Trivia/Notes
 

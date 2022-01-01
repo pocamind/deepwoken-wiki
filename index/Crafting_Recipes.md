@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7413
+revid: 7518
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,6 +28,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   **Cloth** - _3 Fiber_
 -   **[Sack](Cut_Content.md)** - _2 Cloth_
 -   **Flint** - _1 Coal, 1 Rock_
+-   **Bullets (5x)** - _1 Iron_
 
 ### Crafting Bench Recipes
 

@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 7437
+revid: 7526
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Te
 
 File:Exp+LuckParticles.png
 
-Particles of Luck (identified by the yellow particles) and Experience (identified by the white particles) swirling around the user after gripping an NPC.
+Particles of Luck (identified by the white particles) and Experience (identified by the yellow particles) swirling around the user after gripping an NPC.
 
 ## Description
 
@@ -30,6 +30,8 @@ Luck is a hidden value that affects your Character's learning of rare Talents.
 -   Killing Corrupted Monsters (indicated by a malicious, purple aura) in both [The Depths](The_Depths.md) & Overworld. These variants of monsters are stronger than their original selves, but has the same attack patterns. Gives a lot of luck.
 -   Killing the golems in Valley of Hero.
 -   If you have the Marauder Boon, you have a higher chance of getting Luck from Players and Monsters.
+
+Note: Killing players will not grant luck if you are 15 levels above them.
 
 ## Notes/Trivia
 

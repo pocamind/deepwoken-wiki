@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 7410
+revid: 7517
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -66,3 +66,5 @@ Phoenix fire effect
 
 -   Activating the resonances charges the ability, 1 level at a time. Can be done 5 times.
 -   Landing a hit (must deal damage) unleash a blast that deal additional damage, based on the number of charges.
+-   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (cant guardbreak you.)
+-   Easily the worst resonance on the list.

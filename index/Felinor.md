@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 7194
+revid: 7485
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -43,6 +43,7 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 -   Inferior Race
 -   Hated by Voice of Odium (specifically)
 -   Was not meant to be created, therefore can be considered to be a "mistake".
+-   Me-wow, nyis that nye latest felinor fashion, nya~?
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7389
+revid: 7503
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,9 +63,9 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ## Factions
 
-### The Old Stewards/The Pathfinders
+### The Old Stewards
 
--   An organization that preserves whats left before the tides came; practically Historians.
+-   Also known as The Pathfinders, The Old Sewards is an organization that preserves whats left before the tides came; practically Historians.
 -   The Old Stewards can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
 
 ### The Ignition Union
@@ -88,7 +88,7 @@ An Etrean Guard, part of the Nation of Etrea
     -   Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 
-### The Central Authority/The Adretian Authority
+### The Central Authority
 
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
@@ -187,3 +187,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flameâ€” Deep within our sou
 -   The Adret has no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc).
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
 -   They are not Fish.
+
+## Notes/Trivia
+
+-   The Central Authority used to be The Adretian Authority. This change happened in 12/31/2021.

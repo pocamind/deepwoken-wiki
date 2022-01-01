@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7482
+revid: 7532
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -136,13 +136,16 @@ You are able to obtain Azure Flame by having the following:
 
 \- 70 Flamecharm Levels
 
-You will obtain it once you level up after reaching these requirements.
+You will obtain it once you level up after reaching these requirements. _Once obtained, your Flamecharm Mantra will change to a light-blue sort of colour, including campfires and Flame Wisp's aura colour._
 
-Azure Flame increases burn damage, and also prevents environmental effects from snuffing out campfires. This makes it incredibly useful if you wish to traverse The Depths.
+Azure Flames increase general Flamecharm Mantra damage (burn too), and is unaffected by environmental effects, such as rain. This means that campfires conjured with Azure Flames cannot be extinguished. This makes it very useful for traversing the Depths.
+
+You can think of Azure Flames as an upgraded version of the normal Flamecharm.
 
 ## Trivia
 
 -   Certain mantras are similar to Pyromancies and similar attacks from games created by _**From Software**_, a large inspiration for Deepwoken,
-    -   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Pyromancy from Dark Souls 3, preventing death for one minute.
-    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
-    -   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.
+-   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Pyromancy from Dark Souls 3, preventing death for one minute.
+-   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
+-   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.
+-   Flamecharm does not currently (1/01/2022) possess any 3-star Mantra.

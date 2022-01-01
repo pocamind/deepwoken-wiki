@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 7250
+revid: 7524
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -92,7 +92,7 @@ Shocks opponents inside of it.
  |
 | 
 
- | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning from the sky, causing bolts of thunder to rain at the location of the user's cursor. |
+ | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor. |
 
 _It is currently unknown if there are any 3-star combat Mantras for Thundercall._
 

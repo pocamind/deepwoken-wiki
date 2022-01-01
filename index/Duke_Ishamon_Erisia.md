@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 5625
+revid: 7520
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ Duke Boss Room
 ### Attacks
 
 -   Galebreathe - The Duke has an affinity with Galebreathe; using Galebreathe Mantras and Attacks. Consists of 2-3 Star Galebreathe Mantras.
--   Fist Combat - The Duke wields Iron Caestus, and will fight you with his bare fists.
+-   Fist Combat - The Duke wields Iron Cestus, and will fight you with his bare fists.
 
   
 
@@ -37,7 +37,7 @@ Duke Boss Room
 Phases begin in sequence, depending on the Bosses' Max HP.
 
 -   **Phase 1 -** **Wind Shield:** Upon initiating the fight, The Duke surrounds himself with a Shield of Galebreathe, instantly parrying all Attacks and Mantras.
--   **Phase 2 -** **Release Mindless Servants (50%):** The Servants inside their tubes breaks out, and assists The Duke.
+-   **Phase 2 -** **Release Mindless Servants (75%):** The Duke snaps his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Usually 2-4 Mindless Servants per player, depends on how many).
 
 ### Finisher
 

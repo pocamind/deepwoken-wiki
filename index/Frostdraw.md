@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 7477
+revid: 7519
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ Frostdraw allows the user to use/\*draw\* ice magic. Frostdraw is slightly slowe
 
 ## Obtainability
 
-You can get Frostdraw by either getting it as a starter element or by giving the Nell npc 5 Frigid Prisms to unlock it as a secondary element which is permanent so when your wiped you have the ability to choose Frostdraw if wanted.
+You can get Frostdraw by either getting it as a starter element/random or by giving the Nell npc 5 Frigid Prisms to unlock it as a secondary element which is permanent so when your wiped you have the ability to choose Frostdraw if wanted.
 
 ## Spells
 
@@ -63,6 +63,7 @@ You can get Frostdraw by either getting it as a starter element or by giving the
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health |
+| File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | {Placeholder\] |
 
 #### Cryomancer
 
@@ -166,9 +167,15 @@ You can get Frostdraw by either getting it as a starter element or by giving the
 
  |
 
-  
-**Cryoni**
+#### Frostthorn
+
+| **Image** | **Name** | **Description** | **Effect** |
+| --- | --- | --- | --- |
+| File:Orbital Ice card.webp | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | \[Placeholder\] |
+
+#### Cryoni
 
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Fragile Freeze | Your ice mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity |
+| File:Preceeding Chill Card.webp | Preceding Chill \[Rare\] | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity |

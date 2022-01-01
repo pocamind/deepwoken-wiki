@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 7087
+revid: 7492
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,3 +26,4 @@ Spawns within the Aratel Sea, the Void Sea alone, and Spawns in packs in Starswe
 
 -   Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.
+-   Brainsuckers

@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 7339
+revid: 7493
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,5 +26,6 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**The Dep
 
 ## Player notes & Tips
 
+-   Real Name: Gigamed
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Health: 250

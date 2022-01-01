@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 7216
+revid: 7505
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,7 @@ For information of Monsters, go [here](Monsters.md).
 ### The Kingdom of Etrea
 
 -   Palace Guards
+-   Etrean Guardsmen
 -   Lord Regent
 
 ### Songseeker Cultists
@@ -28,10 +29,12 @@ For information of Monsters, go [here](Monsters.md).
 -   Songseeker Frostdrawer
 -   Songseeker Thundercaller
 
-### **The Legion**
+### **The Central Authority**
 
 -   Peacekeeper Captain
 -   Peacekeeper Grunt
+-   Fort Merit Captain
+-   Fort Merit Guard
 
 ### The Ministry
 

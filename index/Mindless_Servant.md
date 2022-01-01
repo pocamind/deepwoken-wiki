@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 5652
+revid: 7515
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,8 +30,10 @@ Mindless Servants, incapacitated and about to be executed
 
 -   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
 
-  
+### Intelligence
+
+Mindless Servants only knows how to parry.  
 
 ## Notes/Trivia
 
--   Mindless Servants' behaves similar to [Mudskippers](Mudskipper.md), due to the lack of a present mind.
+-   Mindless Servants' behaves similar to [Mudskippers](Mudskipper.md), except smarter.

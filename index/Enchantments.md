@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7468
+revid: 7491
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -256,7 +256,17 @@ Providence's Thorn
 
   
 
-  
+### Tainted Sorrow
+
+File:Tainted sorrow.png
+
+Tainted Sorrow on a Legion Cestus
+
+(Gravity Manipulation)
+
+-   Pros: After landing an M1, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed after that will fling your target upwards. (Will reset after a while)
+-   Cons: Unknown / None  
+    
 
   
 

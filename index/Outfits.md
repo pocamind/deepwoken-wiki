@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 7409
+revid: 7522
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -56,7 +56,7 @@ Skeptic Pioneer
 
  | 5x Cloth
 
-2x Crystal Lens
+1x Crystal Lens
 
 5x Fiber
 

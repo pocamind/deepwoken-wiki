@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 7412
+revid: 7537
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -53,3 +53,4 @@ None
 ## Notes/Trivia
 
 -   Based on the theory that the Adrets came from the tides, it's my best guess to say that this race is based off of marine animals/fish
+-   Choosing to use Autodidact with this race will make it so that, after powering up, you will be able to use 2 attribute points instead of one. This massively helps with power-leveling.
