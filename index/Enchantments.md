@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7491
+revid: 7541
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -274,7 +274,11 @@ Tainted Sorrow on a Legion Cestus
 
 ### Hero Sword (Might not be considered an enchant)
 
-Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords.
+File:Enchanted hero.png
+
+**Cursed Hero Blade**
+
+Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords. **THEY CAN BE ENCHANTED.**
 
 -   Versions: Wind, Fire, Lightning, Ice, Shadow
 -   Lightning: Stuns enemy for longer.

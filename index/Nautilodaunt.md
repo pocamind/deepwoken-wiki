@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 7533
+revid: 7569
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

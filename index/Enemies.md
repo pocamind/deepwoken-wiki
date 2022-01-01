@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 7505
+revid: 7578
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,9 +41,9 @@ For information of Monsters, go [here](Monsters.md).
 -   Cultist Fanatic
 -   [Cultist Necromancer (Mudskipper-Mancer)](Ministry_Necromancer.md)
 
-### The Hive
+### The Empire/Legion
 
--   Hive Hoplite
+-   Hoplite
 
 ### Bandits
 

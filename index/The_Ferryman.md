@@ -1,18 +1,45 @@
 ---
 title: The Ferryman
-revid: 5631
+revid: 7566
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # The Ferryman
 
-The Ferryman is a boss that you can encounter on Boatman's Watch. It is extremely powerful and a large group of near end-game players likely cannot beat it. When you activate the bossfight, a barrier will appear, making you unable to escape and forcing you to fight it. However, there is no sky barrier so you can escape from there. You can activate this bossfight at a sacrificial circle by creating a campfire at each main point in the circle (4 points, you will know them when you see them). However, this is only if you want to die. This is likely not a reference to rogue lineage.(It kinda is since both ferryman are well, ferryman)(Ferryman got tired of no people in purgatory since rogue so he boutta send them there himself)
+_"Flames will call The Ferryman..."_
 
-He is mentioned by an npc next to a gate in the depths who says the ferryman is nice in some legends.
+## Description
 
-The Ferryman drops the Krulian Knife, a dager that was showcased in Infernasu's Deepwoken Direct.
+**The Ferryman** is a mysterious, godlike entity referenced in some old folklore of the surface world, able to be encountered on the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanour shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death. He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
 
-More information here: [https://www.youtube.com/watch?v=1z\_pE\_ElJQE](https://www.youtube.com/watch?v=1z_pE_ElJQE)
+### Attacks
 
-Although seemed to be impossible to kill, it is possible to solo the boss by memorizing most of it's techniques and going to a campfire to heal. Proof:[https://youtu.be/QazvPOWwfEs](https://youtu.be/QazvPOWwfEs)
+-   **Lightning Clones** - The Ferryman summons two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
+-   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
+-   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path.
+-   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion.
+-   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses Grand Javelin when below half health.
+
+### Finishers
+
+-   **Boatman's Gaze** - The Ferryman does not need to execute anyone. If you lose all of your health, you die instantly.
+
+### Rewards
+
+-   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife.
+-   **Luck** - You receive a massive amount of luck for your card draws.
+-   **Javelin Lord** - A talent that is granted to Thundercall users with Grand Javelin. It triples the damage of Grand Javelin, but at the cost of being unable to use any other mantra. Its visuals also change to match the javelins that the Ferryman throws.
+
+## Trivia/Notes
+
+-   The Ferryman is unlikely to be directly related to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) with the same name.
+    -   However, they both possess godlike powers and mock (to varying degrees) the mortals that come to meet them. They both wear black clothes and have pale skin.
+    -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
+-   As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
+-   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris huddling next to a gate, and he speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
+    
+    File:Petris.png
+    
+    _Petris, found traumatised in The Depths._

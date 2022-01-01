@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 7012
+revid: 7583
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Treasures
 
 Items commonly dropped from bandits around Lower Erisia or as Galleon loot that can be sold to the Antiquarian for various amounts of Notes.
+
+There are also gems that are dropped from the Primadon at the Monkey's Paw from defeating him. These gems can be used to enhance your mantra skills.
 
 <table><caption>Gems</caption>
 <tbody>

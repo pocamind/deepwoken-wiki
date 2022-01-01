@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 6554
+revid: 7559
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -83,7 +83,7 @@ File:Image (6).png
 
 -   How to Make Friends - **25 Notes** / 200 Durability
 
-Located at the bookstore.
+Located at the bookstore and also in the Isle of Vigils library.
 
   
 

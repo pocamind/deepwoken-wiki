@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 7519
+revid: 7576
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -156,7 +156,7 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 
 | **Image** | **Name** | **Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (P.S. It is currently unknown how to obtain this talent) | +4 Elemental Intensity |
+|  | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. | +4 Elemental Intensity |
 
 #### Ice Age
 

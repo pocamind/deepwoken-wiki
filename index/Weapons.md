@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7538
+revid: 7560
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -16,6 +16,7 @@ categories: [Character]
 </tbody>
 </table>
 
+  
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
   
@@ -432,10 +433,11 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>50 MED</td>
   <td>Sword</td>
   <td>17</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>0%</td>
+  <td>7</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td>Trident</td>
@@ -684,6 +686,8 @@ These weapons do not fit the other categories, because their requirements and sc
 **Shields:**
 
 Accessories you can use in your off-hand and decrease posture damage.
+
+</left>
 
 <table>
 <tbody>

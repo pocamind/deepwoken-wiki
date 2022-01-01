@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 6909
+revid: 7573
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,4 +32,3 @@ The flag at the top of your boat points the opposite direction of the wind.
 ## Notes/Trivia
 
 -   Many players have trouble sailing.
--   Guys you are fucking stupid
