@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 7458
+revid: 7614
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,6 +23,13 @@ You can stack up to 1 of each modifier, including their weaker versions. This me
 When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 
 Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
+
+  
+GLASS stone makes ice forge daggers invisible
+
+\-job
+
+  
 
 ## Mantra Modifiers
 

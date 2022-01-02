@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 7262
+revid: 7599
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -87,7 +87,7 @@ Witch shop from the balcony
 
 **UPDATE ON THE SOULBLOOM QUEST:** There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory.
 
-Extra: There is green wells around the hive, that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple. In the entrance, the left well goes to [Summer Isles](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
+Extra: There is green wells around the hive, that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an oath. In the entrance, the left well goes to [Summer Isles](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
 
 Everyone inside the Greathive Aratel is a Vesperian, except Laplace, that is a Ganymede.
 

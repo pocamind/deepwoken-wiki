@@ -1,12 +1,14 @@
 ---
 title: Thresher
-revid: 7375
+revid: 7657
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Thresher
+
+_Also known as Crocodiles, Crocs, Lil' Crocs, Dinosaurs, Alligators, and Lizards._
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 7298
+revid: 7638
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,6 +10,18 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Oaths are a power that can be obtained from completing tasks, much like Edicts in Rogue Lineage.
 
 You may only have a single Oath per unique character, so it is best to pick what Oath you're trying to get at the start of your journey.
+
+to add ;
+
+shadow teleport
+
+paladins oath
+
+possible yun shul?
+
+\-job
+
+  
 
 <table>
 <tbody>

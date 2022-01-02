@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 6776
+revid: 7669
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,6 +15,6 @@ Template:Areainfobox The Starswept Valley, Commonly just called "The Hive" is a 
 
 ## Description
 
-The Starswept Valley has the resemblance of a Oasis
+The Starswept Valley has the resemblance of an Oasis
 
 (continuing this later lol)

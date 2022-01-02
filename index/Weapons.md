@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7560
+revid: 7671
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -113,7 +113,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
 </tr>
 <tr>
   <td>Flintlock</td>
-  <td>25 LHT</td>
+  <td>20 LHT</td>
   <td>Flintlock</td>
   <td>10</td>
   <td></td>
@@ -180,9 +180,12 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Krulian Knife</td>
   <td>60 LHT</td>
   <td>Dagger</td>
-  <td></td>
+  <td>12</td>
   <td></td>
   <td>10</td>
+  <td>3</td>
+  <td>6.5</td>
+  <td>1.05x</td>
 </tr>
 <tr>
   <td>Revolver</td>
@@ -232,7 +235,7 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
 <tr>
   <td>Flintlock</td>
   <td>Flintlock</td>
-  <td>25 LHT</td>
+  <td>20 LHT</td>
   <td></td>
   <td></td>
 </tr>
@@ -674,11 +677,11 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Shadow</td>
   <td>75 SHD</td>
   <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>23</td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 7578
+revid: 7617
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,3 +60,5 @@ For information of Monsters, go [here](Monsters.md).
 
 -   [The Duke of Erisia](Duke_Ishamon_Erisia.md)
 -   The Ferryman
+
+-   Joe Mama. (Beta boss meme)

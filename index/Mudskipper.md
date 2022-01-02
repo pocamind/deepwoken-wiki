@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 7539
+revid: 7634
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,7 @@ categories: [Monsters]
 
 # Mudskipper
 
-Template:Creature Infobox V3
-
-> _"Ayo these zombies ain't shi-"_
-
-> _\- Foolhardy Fighter_  
+Template:Creature Infobox V3_Also known as Shriekers, Zombies, and Mushrooms._
 
 ## Description
 
@@ -21,23 +17,22 @@ A mindless enemy that sprouts out of the ground to surprise Players. They lack i
 ## Moves
 
 -   **Smack** - Combo of 3 jabs, dealing minor damage.
--   **Air Force** (Upper Erisia & Other) - Charges up Air Force, a Galebreathe spell, propelling anyone who is caught inside its line of effect.
--   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
--   **Flamecharm** (Minityrsa) - Charges up a fireball then throws it forward, burning anyone hit by it.
--   **Frostdraw** (Minityrsa) - Summons 4 ice swords that will spin around it, damaging anyone in range.
+-   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumb nail.
 
 ## Variants
 
 -   **Green Mudskipper** - Normal Mudskipper.
--   **Green Mudskipper** - Explodes two seconds after dying.
+-   **Light Green Mudskipper** - Can use the Galebreath mantra **Air Force** with greater knockback, ragdolling the player unlike the normal mantra.
+-   **Dark Green Mudskipper** - Explodes two seconds after dying. Has a bloated stomach.
 -   **Black Mudskipper** - Found in the _**Shrine of the Forgotten Warrior.**_ Loses its arms and then its head for each attack you parry. Extremely beefy. Does not die when backstabbed.
--   **Necro-Skipper -** Mudskippers summoned from [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but armor, and able to use Flamecharm and Frostdraw.
--   **Deep Mudskippers** - Mudskippers exclusively in [The Depths](The_Depths.md). Fought exclusively in the Trial the Voices give you, their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
+-   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but armor, and the ability to use Flamecharm and Frostdraw.
+    -   **Flamecharm Necro-Skipper** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
+    -   **Frostdraw Necro-Skipper** - Summons 4 ice swords that will spin around it, damaging anyone in range. Wears blue armor.
+-   **Swordsman Mudskipper** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 10 - 19. Their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
 
 ## Tips
 
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in atleast 1 or more Mudskippers after you. Potentially creating a Horde.
--   There are 2 colored variants of Mudskippers, Dark Green and Light Green. The Light Green Mudskippers, when killed, explode 2 seconds later; dealing damage and killing anyone knocked nearby.
 -   Very good for grinding when first starting, due to their low hp and low damage output.
 -   If you aren't fighting many Mudskippers, use M1s to knock them.
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck.

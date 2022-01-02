@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 7492
+revid: 7658
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,9 @@ categories: [Monsters]
 
 # Brainsucker
 
-# **Gargoyles (Rodolfo)**
+_Also known as Bats, Rodolfos, Fliers, and Beppos._
+
+# **Gargoyles**
 
 ## Description
 

@@ -1,12 +1,14 @@
 ---
 title: Felinor
-revid: 7485
+revid: 7661
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
 ---
 
 # Felinor
+
+_"Felinor's sweaty little paw beans in my mouth would be heaven, I need felinor's high resolution sweaty paw art in my life it's really important i Desperately need felinor's sweaty little paw" - probably an r/deepwoken user_
 
 ## Descriptions
 
@@ -35,10 +37,11 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 ## Strengths
 
 -   +2 Agility, +2 Charisma.
+-   Male Felinors have a tight bussy.
 
 ## Weaknesses
 
--   **Hunted:** due to their mild resemblance to furries/nekos, many players from Monad Studios previous game Rogue Lineage (who tend to be bigoted in many aspects) have taken it upon themselves to hunt felinors whenever possible. _regardless of your race, they can be quite annoying (or just bad) so its best to avoid them in general_
+-   **Hunted:** due to their mild resemblance to furries/nekos, many players have taken it upon themselves to hunt felinors.
 -   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
 -   Inferior Race
 -   Hated by Voice of Odium (specifically)

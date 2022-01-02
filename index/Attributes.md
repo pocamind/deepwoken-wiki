@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 7488
+revid: 7622
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -70,7 +70,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 _"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
--   Intelligence affects your Attunements' Damage slightly per Intellegence.
+-   Intelligence affects your Attunements' Damage slightly per Intelligence.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via Foraging, discovering Recipes for the first time, or discovering new locations for the first time.
 -   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving the [Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.

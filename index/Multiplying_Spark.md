@@ -1,6 +1,6 @@
 ---
 title: Multiplying Spark
-revid: 4337
+revid: 7621
 source: https://deepwoken.fandom.com/wiki/Multiplying_Spark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,9 @@ Bandits, Chests, Mudskippers, (could be more ways)
 
 **Item Description:**
 
-red circle(?)
+"you swear you see double or triple holding it."
+
+a green circular shape with spikes coming out.
 
 **What It Does:**
 

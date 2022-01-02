@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7518
+revid: 7664
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,6 +42,8 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the recipe and the ingredients within, they will be more fill more _**Hunger**_ and _**Thirst**_ than it's base counterparts.
 
+Certain foods, usually the more complicated one/which require more work to obtain, grant Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
+
 ### _Non-campfire Recipes_
 
 -   **[Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
@@ -68,7 +70,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 -   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
 -   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
--   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_
+-   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **Sauteed Scallops** - 2 Scallops
 
 ## Alchemy

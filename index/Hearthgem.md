@@ -1,6 +1,6 @@
 ---
 title: Hearthgem
-revid: 4843
+revid: 7646
 source: https://deepwoken.fandom.com/wiki/Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,4 +22,4 @@ _Purchased at any Mantra Shop - **25 [Notes](Notes.md)**_
 ## Trivia
 
 -   Every attunement has a training item.
--   Can break if overused.
+-   Can break if overused

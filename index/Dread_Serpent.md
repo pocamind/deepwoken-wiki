@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 7286
+revid: 7648
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,15 +8,15 @@ categories: [Pages with broken file links]
 
 # Dread Serpent
 
-> _"NOTHING BAD. EVER HAPPENS. IN THE VOIDSEA!"_
+_Also known as Kaido, Sea Serpent, Dragon, and Ice Leviathan._
 
-> _\- John Kennedy_
+_"NOTHING BAD EVER HAPPENS IN THE VOID SEA!!!" - John Kennedy (Not to be confused with the president)._
 
 ## Description
 
 File:Sea Dragon.png
 
-Long, Gray sea monster of Eastern origin that appears in both the Aratel Sea, and the Voidsea. Utilises the power of Frostdraw to stop boats in their tracks.
+Long, Gray sea monster of Eastern origin that appears in the Voidsea. Utilises the power of Frostdraw to stop boats in their tracks.
 
 #### **Attacks**
 

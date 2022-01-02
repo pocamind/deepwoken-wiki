@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7503
+revid: 7601
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ _The Lord Regent, sitting atop his throne of coral._
 
 The Lord Regent is a mysterious individiual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best intrests of Etris.
 
--   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission.
+-   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission (although he dons a blindfold).
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
 -   Talking to the Bookworm in Etris about him (as required for the Lord Regent Quest) reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist in the year of 1271, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
 -   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
@@ -186,7 +186,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The Adret has no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc).
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
--   They are not Fish.
+-   They may be based off of fish. There is seemingly no evidence to suggest that they are not.
 
 ## Notes/Trivia
 

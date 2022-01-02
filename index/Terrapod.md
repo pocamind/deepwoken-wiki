@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 7203
+revid: 7660
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Terrapod
 
 Template:Creature Info Box v2
+
+_Also known as Crabs, Small Crabs, Headcrabs, and Turtles._
 
 The Terrapod is a monster in Deepwoken notorious for shredding health quickly and for having very high mobility.
 
