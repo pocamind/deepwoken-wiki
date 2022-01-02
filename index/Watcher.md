@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 7209
+revid: 7676
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ File:Depth Seeker.jpg
 
 Seeker located in [The Depths](The_Depths.md)
 
-  
+" BIG BLACK MAN!!!" - DazGames
 
 Watchers, also known as Seekers, are lamp-like monsters featuring a closely-humanoid body with similarities to the [Demogorgon](<https://strangerthings.fandom.com/wiki/Demogorgon_(species)>) from Stranger Things.
 

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7664
+revid: 7732
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -119,7 +119,7 @@ _**Negative**_
 
 -   Excellent early-game healing.
 -   With Apocracy this potion heals 18%.
--   Over-all best healing potion and easiest to make, Recommened for all players.
+-   Overall best healing potion and easiest to make, recommended for all players.
 
  |
 | **Focus-Enhancing Elixir** | 
@@ -135,8 +135,8 @@ _**Negative**_
  | 
 
 -   Great for casters.
--   Its only regenerating ether due to the wheat, there has to be a secondary effect.
--   Seems to also remove resivore more then normal.  
+-   It's only regenerating ether due to the wheat, there has to be a secondary effect.
+-   Seems to also remove Reservoir more than normal.  
     
 
  |
@@ -167,12 +167,12 @@ _**Negative**_
 
  | _**Positive**_
 
--   Resivore Gain, 10% gained per potion
+-   Reservoir Gain, 10% gained per potion
 
  | 
 
--   Much better when splashed as it doesnt use up potion cd for better potions
--   Mostly used for pvp, you shouldnt be running out of resivore during pve
+-   Much better when splashed as it doesn't use up potion cd for better potions.
+-   Mostly used for PVP, you shouldn't be running out of Reservoir during PVE.
 
  |
 | **Disgusting Bane** | 
@@ -200,8 +200,8 @@ _**Negative**_
 
  | 
 
--   Great for Pvp since it works well without Resivore.
--   Seems to drain resivore a lot but that could jsut be an effect of the regen rather then a negitive downside.
+-   Great for Pvp since it works well without Reservoir.
+-   Seems to drain Reservoir a lot but that could jsut be an effect of the regen rather then a negitive downside.
 
  |
 | **Steadfast Potion** | 
@@ -233,8 +233,8 @@ _**Negative**_
 
  | 
 
--   The speed bonus also works in water, great for escapses.
--   No real downsides otehr then Pomar being hard to come by.
+-   The speed bonus also works in water, great for escapes.
+-   No real downsides other than Pomar being hard to come by.
 
  |
 | **Grueling Potion**
@@ -251,7 +251,7 @@ _**Negative**_
 
  | 
 
--   Its not very noticable when using light weapons but does deal extra damage \[Tested it with a Enforcer Axe if anyones wondering\]
+-   It's not very noticable when using light weapons but does deal extra damage \[Tested it with a Enforcer Axe if anyones wondering\]
 -   Used to have a different name, was recently changed.
 
  |
@@ -283,12 +283,12 @@ _**Negative**_
 
  | _**Negitive**_
 
--   Removes Resivore
+-   Removes Reservoir
 
  | 
 
--   its not super effective in fights but it has its uses.
--   it seems to only be able to remove 10% with 3 Bundles. \[May remove more with specific Talents\]
+-   It's not super effective in fights but it has its uses.
+-   It seems to only be able to remove 10% with 3 Bundles. \[May remove more with specific Talents\]
 
  |
 

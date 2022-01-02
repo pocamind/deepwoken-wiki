@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 7617
+revid: 7703
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,7 +53,7 @@ For information of Monsters, go [here](Monsters.md).
 
 ### Miscellaneous
 
--   Crazed Stranded
+-   Hobo (Crazed Stranded)
 -   [Mindless Servant](Mindless_Servant.md)
 
 ## Bosses

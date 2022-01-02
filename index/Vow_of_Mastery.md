@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 7523
+revid: 7800
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,12 +27,13 @@ The player must respond with "yes." Once accepted an animation will play and the
 | Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped. |
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
 | Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |
+| Use | No | _"\[Name\], use \[item\]"_ | Forces the Subject to use the item (Begin training with it, Equip it, etc) |
 | Run | Yes | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
 | Fight | Yes | "_\[Name\]_, fight"
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
-| Return | Yes | "_\[Name\]_, return" | Forces the Subject to run back to the Master. |
+| Return | Yes | "_\[Name\]_, return" | Forces the Subject to tp back to the Master. |
 | Sacrifice | Yes, legendary | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
 | Live | Yes, legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko. |
 

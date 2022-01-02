@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 6496
+revid: 7781
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ A secret temple hidden inside a cliff in [The Depths](The_Depths.md). An ancient
 
 Going through will lead into an altar with Yun'shul, a mysterious, eldritch entity who appears to be bound in the room.
 
-Yun'Shul can be inspected, but it only results in it killing you by exploding your head.
+Yun'Shul can be inspected, and if you're level 10 and have obtained your resonance, you can choose one out of four wishes from Yun'Shul. ([More info here](Oaths.md).)
 
 ## Monsters/Enemies
 
@@ -24,8 +24,6 @@ Yun'Shul
 ## Dialogue
 
 -   **Yun'Shul, Keeper of Hearts**: PLUCK OUT THINE EYES TEAR OUT THENE THROAT: LAY WASTE TO ALL WHICH SACRED. THE MOONSEYE CONVERGES WITH THAT BELOW.
-
-_(Player's head gets exploded.)_
 
 ## Notes/Trivia
 

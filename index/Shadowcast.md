@@ -1,9 +1,9 @@
 ---
 title: Shadowcast
-revid: 7417
+revid: 7783
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras]
+categories: [Pages with broken file links, Mantras]
 ---
 
 # Shadowcast
@@ -85,7 +85,22 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 | Image | Talent | Talent Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
+| File:Dark God.png | Dark God | 
+> Darksiphon
+
+ | 
+
+> Common
+
+ | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their reservoir instead.
+
++1 Elemental Intensity
+
++3 Health
+
+ |
 |  | Shadow Travel | 
+
 > Shadowcaster
 
  | 

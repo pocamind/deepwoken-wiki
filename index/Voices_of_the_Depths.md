@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 7235
+revid: 7734
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Voices of the Depths are the numerous Voices that have dialogue when a player attempts to escape The Depths. It is theorized that these Voices are actually the Gods that were taken over by The Depths, and hence the potential name of Deepwoken, "Drowned Gods." These Voices seem to be angry at their own creations.
+The Voices of the Depths are the numerous Voices that have dialogue when a player attempts to escape The Depths. It is confirmed by [the Ferryman](The_Ferryman.md) that these voices are in fact gods, as he remarks that his race, Krulian, is the closest bridge to the races on the surface.
 
 ### Voice of Odium
 

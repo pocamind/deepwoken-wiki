@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 6365
+revid: 7771
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,4 +16,4 @@ File:Ob.png
 
 Picture of a player holding Umbral Obsidian.
 
-The description of Umbral Obsidian states, "While holding it, you can feel the shadows darkening your soul." refrencing how Umbral Obsidian is used to obtain [Shadowcast](Shadowcast.md).
+The description of Umbral Obsidian states, "While holding it, you can feel the shadows darkening your soul." referencing how Umbral Obsidian is used to obtain [Shadowcast](Shadowcast.md).

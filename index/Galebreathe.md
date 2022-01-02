@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 6804
+revid: 7745
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -145,6 +145,8 @@ User is invincibile during casting (To a lvl 1 player it does 35% dmg).
  | A servant of wind. | Spawns a wisp of wind.
 
 Must complete a casting minigame. Protects against fall damage.
+
+Also heals you for 1% HP every couple of seconds (healing too much will cause the Gale Wisp to run out)
 
 _Other effects may be unknown._
 

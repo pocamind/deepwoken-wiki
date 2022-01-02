@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 7524
+revid: 7773
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -159,6 +159,7 @@ Increases the buff to physical attacks
 | 
 
  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | After using a melee spell, if you press F an additional set of lightning will come down. |
+|  | Volt Kick | After Landing a lightning kick successfully press F to followup on your opponent with a less potent kick | After using Thunder Kick, if you press F an additional (weaker) kick will followup. |
 
 ## **Trivia/Notes**
 

@@ -1,27 +1,20 @@
 ---
 title: Oaths
-revid: 7638
+revid: 7807
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Oaths
+
+## Description
 
 Oaths are a power that can be obtained from completing tasks, much like Edicts in Rogue Lineage.
 
 You may only have a single Oath per unique character, so it is best to pick what Oath you're trying to get at the start of your journey.
 
-to add ;
-
-shadow teleport
-
-paladins oath
-
-possible yun shul?
-
-\-job
-
-  
+###### _REMINDER: oaths do not carry over if your character wipes_
 
 <table>
 <tbody>
@@ -91,3 +84,48 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   As of the 23rd of December, 2021, this is the only known Oath with a quest. There may be other obtainable Oaths, but that is all up to us, the community, to find out. (Remove this note once another Oath with a quest is found.)
 -   According to a Blindseer user, with willpower 50, all pasives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>Oath: Yun'Shul</td>
+</tr>
+</tbody>
+</table>
+
+File:Yun'Shul low quality.png
+
+Bad quality proof of Yun'Shul Oath
+
+  
+
+### Pre-requisites:
+
+-   Bell/Resonance
+-   10 Levels since your last wish  
+    
+
+### How to obtain:
+
+1.  Visit The Depths, and talk to Yun'Shul.
+2.  If you are Level 10 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
+3.  Select Yun'Shul Oath to receive the oath. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths.
+
+### Oath Effects:
+
+-   +75 Elemental Intensity
+-   +75 Ether
+-   +150 Reservoir
+-   \-100 Sanity
+
+### Oath Description:
+
+"PLUCK OUT THINE EYES. TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED. THE MOONSEYE CONVERGES WITH THAT BELOW."
+
+  
+
+###### to be added :
+
+Shadow teleport

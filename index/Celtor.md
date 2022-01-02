@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 6959
+revid: 7809
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -32,10 +32,6 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 +2 **Intelligence**  
 +2 **Charisma**.
 
-**Weaknesses:**
-
-N/A
-
 ## Racial Traits
 
 <table>
@@ -63,4 +59,4 @@ N/A
 
 ## Notes/Trivia
 
--   N/A
+funny racoon hehe

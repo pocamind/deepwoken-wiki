@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 7592
+revid: 7814
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,13 +22,25 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
--   The requirement to getting bells/resonances is not exactly known, however it is theorized that you must spend 7 hour in the depths(cap) (doesn't have to be all at once), and the timer can be reduced by gripping players you get luck from and enhanced mobs, however it is just a theory. It is also possible there is a level requirement to get resonances, as everyone I have seen with a resonance is over level 50
--   Heres another theory on obtaining bells. It requires getting max luck in the Depths (either by gripping players or killing corrupted enemies. Max luck is 150) and then getting knocked.
--   We know that after meeting the requirement, in order to unlock it you need to be set to low hp in the depths, then you will get your hp refilled and some circles around you, showing that you obtained the resonance
+**NOTE. THIS IS NOT CONFIRMED OR DECONFIRMED, THIS IS SIMPLY A CHECKLIST OF WHAT IS THEORIZED TO WORK. IF THIS WORKS, THEN IT CAN SLOWLY BE WITTLED DOWN WHAT ITS UNESSECARY. FOR NOW, IF YOU ARE LOOKING TO OBTAIN A BELL, DO THEM ALL.**
+
+(No particular order, but some are probably encouraged to be done before others)
+
+-   Have killed every monster atleast once, including Ardour, Primadon, and The Enforcer.
+-   Have faced, and defeated, each Depth Trial (Angel, Duo Angel, Sharko, Enhanced Sharko, The Enforcer)
+-   Have entered/escaped depths 10 times.
+-   Have reached power 45.
+-   Have rung all three of the primary bells (used to open the trial gate), three times, doing each one in a seperate depth run.
+-   Have atleast 1 attribute maxed.
+-   Have stayed in the depths for at least 1 hour straight.
+-   Have gripped around 10 people in depths (Must be around your power level. It is suggested that you do this BEFORE you max luck, so you know if the person you grip counted or not.)
+-   Have max luck, being signified if you do not get luck from players/monsters anymore. (PICKING A LEGENDARY/RARE CARD WILL DRAIN LUCK).
+
+Upon all these things, getting knocked (cant be a guildmate) SHOULD give a resonance. (If not then we're all just S.O.L.)
 
 ## How Do You Change A Resonance?
 
--   Go to depths, find the weird doors that require resonance to open and talk to Yun'Shul. (If you do not own a bell the Yun'Shul will instead kill you, also he gives you 2 other options that is to escape depths instantly and possibly change some attribute (Not sure about that), you can only choose 1 wish per character.)
+-   Go to depths, find the weird doors that require resonance to open and talk to Yun'Shul. (He gives you 2 other options that is to escape depths instantly and possibly change some attribute (Not sure about that), you can only choose 1 wish per character.)
 
 ## Resonances
 
@@ -71,4 +83,4 @@ Phoenix fire effect
 -   Activating the resonances charges the ability, 1 level at a time. Can be done 5 times.
 -   Landing a hit (must deal damage) unleash a blast that deal additional damage, based on the number of charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (cant guardbreak you.)
--   Easily the worst resonance on the list.
+-   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 7172
+revid: 7784
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -57,11 +57,11 @@ The Malevolent Gods sentence you a fight against whatever they throw at you. Bel
   <th>Possible Enemies</th>
 </tr>
 <tr>
-  <td>&lt;10</td>
+  <td>&lt;15</td>
   <td>N/A. No Mobs Fought.</td>
 </tr>
 <tr>
-  <td>11-19</td>
+  <td>16-19</td>
   <td><a href="Enemies.md">City Sentinel, Assasin Mudskipper, Swordsman</a></td>
 </tr>
 <tr>
@@ -83,7 +83,8 @@ The Malevolent Gods sentence you a fight against whatever they throw at you. Bel
 </tbody>
 </table>
 
-  
+#### Note: These numbers are not exact and what you fight may vary. Eg. you can fight an Enforcer or regular megalodaunt at level 45
+
 **One more thing...**
 
 If 4 or more players attempt to escape, they will be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain, only then will the Trial begin.
@@ -123,3 +124,46 @@ The Depths, being a naturally hostile location, will make sure it will kill you.
 -   It is prossible to gain card luck (boosted if you have [Marauder](https://deepwoken.fandom.com/wiki/Boons?#Marauder)) by killing players (or NPCs) in the depths.
 -   You're gonna need to bring 5 Umbral Obsidian if you want to get Shadow Cast which is down here.
 -   Obtain resonance bells here too.
+
+## Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td>Demon Mask</td>
+  <th>Dazed Band</th>
+  <th>Shattered Katana</th>
+  <th>Iron Cestus</th>
+</tr>
+<tr>
+  <td>Shrouded Cape</td>
+  <th>Ring of Wisps</th>
+  <th></th>
+  <th></th>
+</tr>
+<tr>
+  <td>Star Duster</td>
+  <td>Freestyler's Band</td>
+  <td>Pale Hammer</td>
+  <td>Enforcer Boots</td>
+</tr>
+<tr>
+  <td>Bloodless Gem</td>
+  <td>Dewdrop Earrings</td>
+  <td>Shotel</td>
+  <td>Providence Coat</td>
+</tr>
+<tr>
+  <td>Black Diver</td>
+  <td>Ruby Earrings</td>
+  <td>Falchion</td>
+  <td>Star Boots</td>
+</tr>
+<tr>
+  <td>Legion Centurion</td>
+  <td>Iron Birch</td>
+  <td>Serpent's Edge</td>
+  <td>Pariah's Keepsake</td>
+</tr>
+</tbody>
+</table>

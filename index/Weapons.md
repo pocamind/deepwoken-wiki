@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7671
+revid: 7794
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -77,9 +77,12 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Way of Navae</td>
   <td>0 LHT</td>
   <td>Fist</td>
+  <td>12</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>7</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Legion Kata</td>
@@ -599,14 +602,23 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Forge Greathammer</td>
   <td>55 HVY, 10 STR</td>
   <td>Great Hammer</td>
-  <td></td>
+  <td>26</td>
+  <td>8</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td>Pale Morning</td>
   <td>75 HVY, 10 STR</td>
   <td>Great Hammer</td>
-  <td>27.5</td>
-  <td></td>
+  <td>24</td>
+  <td>9</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td>Enforcer's Axe</td>
@@ -637,21 +649,21 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Flame</td>
   <td>75 FIR</td>
   <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>23</td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Hero Blade of Lightning</td>
   <td>75 THD</td>
   <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>23</td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Hero Blade of Frost</td>
@@ -667,11 +679,11 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Wind</td>
   <td>75 WND</td>
   <td>Sword</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>23</td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Hero Blade of Shadow</td>
@@ -681,7 +693,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7</td>
+  <td>0.7x</td>
 </tr>
 </tbody>
 </table>

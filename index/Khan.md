@@ -1,12 +1,14 @@
 ---
 title: Khan
-revid: 7195
+revid: 7806
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Khan
+
+File:Khan.jpg
 
 ## Description
 
@@ -37,12 +39,12 @@ Khans are ape-like humanoids that wear a golden headband. They have orange/yello
 ## Strengths
 
 -   +2 Strength, +2 Agility.
--   Looks cool.
+-   Looks cool is the best race.
 
 ## Notes/Trivia
 
--   Sun Wukong's gold headband cannot be taken off, it's use is to restrain him, tightening when a certain sutra is chanted.  
-    
+-   Sun Wukong's gold headband cannot be taken off, it's use is to restrain him, tightening when a certain sutra is chanted.
+-   If you reroll a Khan into another race, instead of saying 'Switch to Khan' it will say 'Return to Khan,' in reference to returning to monke.
 
 <table>
 <tbody>

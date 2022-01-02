@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 7585
+revid: 7756
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -14,7 +14,7 @@ _"You see this guy your not boned cuz they dont one shot" - Some tester_
 
 ## **Description**
 
-A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level (Somewhere after level 40).
+A large armored beast with an oversized axe that appears in The Depths after you successfully escape if you are extremely high level (50+ but has a chance to spawn after level 40.)
 
 Drops the Enforcer Axe
 

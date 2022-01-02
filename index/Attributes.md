@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 7622
+revid: 7765
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -67,7 +67,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 
 ### Intelligence
 
-_"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
+_"What's 9 + 10?" - Etrean questioning a small-brained Felinor "Ayo thats racist" - another small-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence.
@@ -88,7 +88,7 @@ _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom 
 
 ### Charisma
 
-_"Wanna take a vow of mastery?" - Said the charismatic Felinor for the tenth time_
+_"Just sign the goddamn petition already!" - Said the charismatic Felinor for the tenth time_
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.

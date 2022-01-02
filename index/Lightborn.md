@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 5992
+revid: 7791
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -35,7 +35,7 @@ Currently unobtainable - given by Ragoozer to wave 0 testers only
 
 ## Strengths
 
--   Halos are drippy. (very) (like insanely drippy)
+-   Easier to play the game, because obviously you played it too much.
 
 ## Weaknesses
 

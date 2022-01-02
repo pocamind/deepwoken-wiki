@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 7614
+revid: 7798
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -79,8 +79,6 @@ File:Screenshot 2021-12-28 152413.png
  | Amnesic Driftwood | Removes all Modifiers on a Mantra |
 | 
 
-File:Mantra Modifier Placeholder.png
-
  | Glass Stone | _Unknown._ |
 | 
 
@@ -135,7 +133,11 @@ Ice Chains
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun | Increases the number of hits. |
+ | Multiplying Spark | Wind Gun
+
+Shadow Gun
+
+ | Increases the number of hits. |
 | 
 
  | Spring Spark | _Unknown._ | Amplifies the effects of mobility moves. |
@@ -187,3 +189,4 @@ _"You feel dizzy when you hold it."_
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
+    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together, possibly at a Craft Station, unsure as it was done with the Master Craftsman talent.

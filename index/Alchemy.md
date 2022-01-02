@@ -1,15 +1,34 @@
 ---
 title: Alchemy
-revid: 7579
+revid: 7750
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alchemy
 
-### _**hey, just saying, we might have to move alchemy recipes to Recipes and Alchemy**_
+_**hey, just saying, we might have to move alchemy recipes to Recipes and Alchemy**_
 
 **brewing is fun**
+
+  
+
+### Basic information
+
+needs 20+ inteligence to get cauldron
+
+skill to create cauldron appears at mantra choosing
+
+press E to throw potion
+
+while near cauldron press m1 to put ingredient in cauldron and E to mix cauldron and get potion
+
+if colour of your liquid is white, there will be no effect
+
+  
+random fact: if you go too far away from cauldron it will dissapear, otherwise it will last forever.
+
+### some random recipes.
 
 1 Bluecap, 1 Calabash, 1 Spider Egg - Heartening Elixir (?? Effect - probably healing or blood regeneration though)
 
