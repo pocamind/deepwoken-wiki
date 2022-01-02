@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 7790
+revid: 7878
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -31,7 +31,7 @@ File:Jus Karita Description.png
 
 -   ~To get Jus Karita, your Character must have the Way of Navae from completing the Navaen Tribe Quest in Etris.~
 -   ~Upon getting Way of Navae, head to Polis, the Vesperian polishing his Greatsword under the White Tree.~ I have a Jus Karita build, without any other fists styles. All you need is the stat reqs below.
--   The requirements of Jus Karita is Light Weapons 45 and Power Level 30. (I'm not 100% percent sure on this, but I do belive you only need 40 light weapons, someone ought to test this out.)
+-   The requirements of Jus Karita is Light Weapons 45 and Power Level 30. (I'm not 100% percent sure on this, but I do belive you only need 40 light weapons, someone ought to test this out.) Tested it and was able to obtain it with 40 Light Weapons.
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
 

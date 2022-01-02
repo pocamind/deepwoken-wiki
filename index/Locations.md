@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 7022
+revid: 7866
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Post-death"]
@@ -34,7 +34,7 @@ categories: ["Post-death"]
             -   _[Rat's Den](<Rat's_Den.md>)_
     -   [Minityrsa](Minityrsa.md)
         -   Valley of Heroes
-    -   Eastern Contentinal Lighthouse
+    -   Eastern Interstitial Lighthouse
 -   The Aratel Sea
     -   Songseeker Wilds
     -   [Summer Isle](Summer_Isle.md)

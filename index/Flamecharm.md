@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7532
+revid: 7833
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -99,7 +99,11 @@ File:Flame Blind.png
  |
 | 
 
- | Flame Assault (☆☆) | Burst foward in flames. | Caster dashes forward, dealing minor damage and lighting anything in the way on fire. |
+ | Flame Assault (☆☆) | Burst foward in flames. | Caster dashes forward, dealing minor damage and lighting anything in the way on fire.
+
+(Note: This is a combat mantra)
+
+ |
 
   
 

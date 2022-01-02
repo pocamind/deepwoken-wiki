@@ -1,13 +1,13 @@
 ---
 title: Nautilodaunt
-revid: 7569
+revid: 7872
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Nautilodaunt
 
-# **Squid (Squid Hoss/Squibbo/Squidward)**
+# **Squid (Squid Boss/Squibbo/Squidward)**
 
 > A_yo who the fuck is this cluthulu looki-_ (_\*It's Cthulhu)_
 
@@ -37,6 +37,6 @@ Drops odd tentacles.
 ## **Notes/Tips**
 
 -   STAY CALM. If you don't, your parry timings will be broken.
--   Parry trade with him (Parry - attack - parry - attack) untilh he is guard broken.
+-   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
--   if he's cursed **RUN,** You're not beating him solo. he will violate you in 10 seconds
+-   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7541
+revid: 7882
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -195,9 +195,9 @@ Grim on a Messer(?)
 
 File:Wild sword.png
 
-Pros: 2X Damage
+Pros: If you hit someone it has a chance to hit everyone around them.
 
-Cons: (Don't know yet more testing is needed)
+Cons: Can hit allies as well (not proven).
 
   
 
@@ -266,7 +266,14 @@ Tainted Sorrow on a Legion Cestus
 
 -   Pros: After landing an M1, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed after that will fling your target upwards. (Will reset after a while)
 -   Cons: Unknown / None  
+      
+      
+      
+    Chilling
     
+    File:Chilling.png
+    
+    Pros: Random Ice Proc After some time freezes you for 6 seconds - has cds Cons: Can Freeze Allies Allowing free combo on allies
 
   
 
@@ -292,6 +299,12 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 ### Entanglement
 
 Pros: An enchant where when hit, it summons multiple trees like the Snow Mechs in Minityrsa and Hive Island. When near a spawned tree you take less damage. (not tested)
+
+### Allure
+
+Pros: If you get hit by an enemy or they hit you, applies charm on the opponent you are facing. You will do 25% more damage to them and they will deal less damage to you.
+
+Cons: None
 
 ### Multiplicity
 
@@ -344,3 +357,4 @@ Credits to the people who made this page better:
 -   marquise
 -   flank
 -   berebot
+-   Kabeee

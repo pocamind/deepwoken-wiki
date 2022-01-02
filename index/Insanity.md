@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 6572
+revid: 7839
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,11 +15,11 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 
 ## Insanity effects
 
-**Tier 1 - Shaking:** After 17 minutes in The Depths (with 0 willpower), the characther will start shaking. This does nothing on its own and serve as a warning for future tiers.
+**Tier 1 - Shaking:** The characther will start shaking. This does nothing on its own and serve as a warning for future tiers.
 
-**Tier 2 - Scratching:** After 34 minutes, the character will start scratching themself every few seconds, dealing a generous amount of damage. The blue border on the screen will begin pulsing at this tier.
+**Tier 2 - Scratching:** The character will start scratching themself every few seconds, dealing a generous amount of damage. The blue border on the screen will begin pulsing at this tier.
 
-**Tier 3 - Enucleation:** After 50 minutes, seeing far too much horror, the character tear their own eyes out of their socket in their despair. This immediatly kills the player. The blue border will feature new motifs when nearing this tier.
+**Tier 3 - Enucleation:** Seeing far too much horror, the character tear their own eyes out of their socket in their despair. This immediatly kills the player. The blue border will feature new motifs when nearing this tier.
 
 ## Insanity increasing effects
 

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 5609
+revid: 7826
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:Food Template V1
 
 ## Effects
 
-Possible life regen?? 20% max hunger  
+Possible life regen?? 20% max hunger -Damage increase  
 
 ## Where to obtain
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 7814
+revid: 7867
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,7 +30,7 @@ _**Pressing C triggers resonance**_
 -   Have faced, and defeated, each Depth Trial (Angel, Duo Angel, Sharko, Enhanced Sharko, The Enforcer)
 -   Have entered/escaped depths 10 times.
 -   Have reached power 45.
--   Have rung all three of the primary bells (used to open the trial gate), three times, doing each one in a seperate depth run.
+-   Have rung all four of the primary bells (used to open the trial gate), three times, doing each one in a seperate depth run.
 -   Have atleast 1 attribute maxed.
 -   Have stayed in the depths for at least 1 hour straight.
 -   Have gripped around 10 people in depths (Must be around your power level. It is suggested that you do this BEFORE you max luck, so you know if the person you grip counted or not.)
@@ -83,4 +83,10 @@ Phoenix fire effect
 -   Activating the resonances charges the ability, 1 level at a time. Can be done 5 times.
 -   Landing a hit (must deal damage) unleash a blast that deal additional damage, based on the number of charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (cant guardbreak you.)
--   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)
+-   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)  
+    
+
+**Distortion**
+
+-   Enter The Distortion Realm while leaving a lingering portal to it that others can take.
+-   Standing on a different plate and reusing the ability will transport you to another location in the map, leaving another lingering portal for people to follow.

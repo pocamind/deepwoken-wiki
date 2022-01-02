@@ -1,36 +1,28 @@
 ---
 title: Gale Stone
-revid: 5979
+revid: 7831
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Gale Stone
 
-**Item Obtainability:**
+# Gale Stone
+
+## Description
 
 Holding a Gale Stone.
 
-You can obtain Gale Stones by killing Galebreathe users (NPCs works as well)
+A Gale Stone can be acquired by slaying Galebreath users, in which there is a high chance you will obtain one. A Galestone when used can restore a Galebreath user's reservoir to ~50%, along with this it can be used to complete the Lost Brother quest in the Isle of Vigils.
 
-Killing guards at Erisia is a decent way of getting these
-
-Killing Mudskippers works too
-
-**Item Description:**
-
-"A faint whisper of wind can be heard from within."
-
-**What It Does:**
-
-Used to obtain the Galebreathe Magic (5 needed)
-
-Used to complete the quest to unbound your weapon stat
-
-Replenishes around 50% of a Galebreathe user's reservoir
+WARNING: You can accidentally eat it.
 
   
 
-## Trivia
+  
 
-You can accidentally eat these so be careful
+## Notes/Trivia
+
+-   It is currently unknown how much Reservoir a Galestone restores, though some say it is around 50%.
+-   Whatever you do, be careful when handling a Galestone. Its very easy to accidentally eat a Galestone.
+-   It is unknown what eating a Galestone does besides giving more Reservoir.

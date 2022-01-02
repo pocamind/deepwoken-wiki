@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7732
+revid: 7837
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,6 +60,7 @@ Certain foods, usually the more complicated one/which require more work to obtai
 -   **[Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
+-   Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
 -   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
 -   **Cooked Fishmeat** - _1 Fishmeat_
 -   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_

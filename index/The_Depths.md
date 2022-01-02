@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 7784
+revid: 7857
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -84,6 +84,10 @@ The Malevolent Gods sentence you a fight against whatever they throw at you. Bel
 </table>
 
 #### Note: These numbers are not exact and what you fight may vary. Eg. you can fight an Enforcer or regular megalodaunt at level 45
+
+These numbers aren't permanent (mean you won't guarantee fight these monsters when reach enough power, you just have higher chance to fight them the closer these power are)
+
+  
 
 **One more thing...**
 

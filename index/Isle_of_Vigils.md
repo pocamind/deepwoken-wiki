@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 6275
+revid: 7828
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,13 +40,13 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 
 -   To start this quest, talk to the Etrean in the Sparring Arena, located next to the Sparring NPC.
 -   If asked about his attitude, he wants to be better, but lacks the proper knowledge in the Sword. He then asks you to give him a [Weapon Manual](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Light.2FMedium.2FHeavy) (This does not consume the weapon manual.)
--   The quest gives no rewards.
+-   This quest gives exp, it is unknown how much or what else it gives.
 
 ### A Lost Sibling Quest
 
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the right corridor room; sitting down sobbing.
 -   He asks you to rescue, or find his sibling in Erisia.
--   His sibling is difficult to reach, but can be found high above the streams where the golems spawn frequently, he's in an abandoned house facing the sea and is bleeding out.
+-   His sibling is found in an Abandoned Wood Lodge in Burning Stone Gardens, near a cliff where the Glowing Trees are.
 -   You must have a galestone in order to complete the quest.
 -   Afterwards, you return to Kj in Vigils who allows you an audience with Maestro in the training hall.
 
@@ -72,3 +72,4 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 
 -   Before doing the "The Librarian" Quest, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.
 -   Depending on your Power Level, the cost of Notes required increases when choosing to level up through Kelsius. For each Power level after Power 1, increases the cost of leveling up by 50 Notes. (1,000 Notes at Power Level 20 and 1,350 Notes at Power Level 27)
+-   Giving the Sibling in the "Lost Sibling" Quest your Gale Stones consumes all of them. Make sure to drop them first.

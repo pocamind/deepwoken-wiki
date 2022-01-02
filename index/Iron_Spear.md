@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 3591
+revid: 7836
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:WeaponInfoBox_"A staff with a point of iron, built to pierce enemies at far ranges. A great cheap and effective starting weapon."_
 
-_Etrea Weaponry_ - 25 Notes
+_Etris Weaponry_ - 25 Notes
 
 ## **Trivia**
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7799
+revid: 7877
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -50,6 +50,11 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 ## Locations
 
+### Eastern Interstitial Lighthouse
+
+-   A Lighthouse located near Isle of Vigils, past the Gate.
+-   As of Deepwoken's Release, the Lighthouse cannot be accessed into its interior, nor does it allow anyone to go to The Central Luminant. Due to the fact that only Lightkeepers can operate them.
+
 ### Erisia Island (Etrean Luminant)
 
 -   An Island that sank into [The Depths](The_Depths.md) and came back to the overworld with what's left of itself. Locals whom witnessed the Island's arrival said that it came and drifted away from the [Voidsea](Voidsea.md).
@@ -59,7 +64,9 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
 
-  
+### Songseeker Wilds (Etrean Luminant)
+
+(Placeholder)  
 
 ## Factions
 
@@ -187,6 +194,19 @@ _"Pleetksy, whom taught us his concept of the Inner Flameâ€” Deep within our sou
 -   The Adret has no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc).
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
 -   They may be based off of fish. There is seemingly no evidence to suggest that they are not.
+
+## Deepwoken: ~1271
+
+This category lists all the Lore of Deepwoken, taking events after the Tides, up to Year 1271.
+
+### Lightkeepers
+
+-   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
+    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light; using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary, and will fade away as normal.
+-   In 1271, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
+    -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
+-   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
 
 ## Notes/Trivia
 

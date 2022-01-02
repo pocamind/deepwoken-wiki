@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 7807
+revid: 7871
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -81,7 +81,6 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 
 ## Notes
 
--   As of the 23rd of December, 2021, this is the only known Oath with a quest. There may be other obtainable Oaths, but that is all up to us, the community, to find out. (Remove this note once another Oath with a quest is found.)
 -   According to a Blindseer user, with willpower 50, all pasives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
 
@@ -111,14 +110,14 @@ Bad quality proof of Yun'Shul Oath
 
 1.  Visit The Depths, and talk to Yun'Shul.
 2.  If you are Level 10 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
-3.  Select Yun'Shul Oath to receive the oath. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths.
+3.  Select Yun'Shul Oath to receive the oath, and to remove the -100 sanity, you must jump into the void without ever being in combat or taken damage since you got the Oath. After jumping into the void, you teleport to Yun'Shul and receive a buffed version of the Oath, removing the -100 sanity. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths.
 
 ### Oath Effects:
 
 -   +75 Elemental Intensity
 -   +75 Ether
 -   +150 Reservoir
--   \-100 Sanity
+-   \-100 Sanity (removed, if you jump into the void after getting the quest as listed in step 3.)
 
 ### Oath Description:
 
