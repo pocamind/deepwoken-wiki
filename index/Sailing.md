@@ -1,8 +1,9 @@
 ---
 title: Sailing
-revid: 7573
+revid: 7951
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Sailing

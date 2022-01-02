@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 7566
+revid: 7959
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ _"Flames will call The Ferryman..."_
 
 ## Description
 
-**The Ferryman** is a mysterious, godlike entity referenced in some old folklore of the surface world, able to be encountered on the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanour shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death. He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
+Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity referenced in some old folklore of the surface world, able to be encountered on the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanour shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death. He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
 
 ### Attacks
 
@@ -28,9 +28,9 @@ _"Flames will call The Ferryman..."_
 
 ### Rewards
 
+-   It is theoriszed that the rewards he gives depends on what season it is in game.
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife.
 -   **Luck** - You receive a massive amount of luck for your card draws.
--   **Javelin Lord** - A talent that is granted to Thundercall users with Grand Javelin. It triples the damage of Grand Javelin, but at the cost of being unable to use any other mantra. Its visuals also change to match the javelins that the Ferryman throws.
 
 ## Trivia/Notes
 

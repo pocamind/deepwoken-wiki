@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 7662
+revid: 7886
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,33 +10,31 @@ categories: [Pages with broken file links, Monsters]
 
 _Also known as Black Owls, Giant Owls, Owls, and Erdoganchi._
 
-> _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
+File:FUCKFUCKFUCKFUCKFUCK.png
 
 ## Description
 
-Giant gatekeeping Owl, _**Guaranteed to absolutely booty-blast ( LOL) you if you are under level 30, and travelling alone.**_ Appears across Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
+A large and extremely uncommon monster with juggernaut-like traits. Said to appear most frequently across Upper Erisia, its presence will be highlighted by a cloud of black feathers in the air.
 
-Alternatively, you can say you are just passing through, **MAKE SURE TO RUN FOR YOUR LIFE AFTER,** The owl will spare you for around 10-15 seconds, lingering after that timeframe and he will make you pick up the soap
+When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-File:FUCKFUCKFUCKFUCKFUCK.png
+## Strategy
 
-_Door stuck! Door stuck! Please! I beg you! We're dead! Y-you're a genuin~_
+During the initial encounter, the owl will question the player and offer 3 different choices of dialogue. **All of these options will result in the owl initiating combat with the player.** Closing the game during this event functions as a surefire chance to escape the owl.
+
+If the player decides to enter combat, the owl will attempt to eventually grip the player after using a combination of the following attacks.
 
 ### **Attacks**
 
--   **Feather Teleport** - If you aggro him and try to run, he'll disappear in a burst of black feathers and teleport to your location.
--   **Talon Swipe** - Sounds harmless, but will literally shred half your health. Normally it swipes three times.
--   **Flying Grab** - The owl will dissappear into the air and grab you, bringing you into the sky.
--   **Flock of Feathers** - Turns into feathers which attack you, dealing massive damage.
--   **Whirling Dash** - It dashes towards you, twirling as it attacks.
-
-### **Finisher**
-
--   **Literal Grip** - Steps on you, and instead of banging you against the ground, crushes you with its grip.
+-   **Dissapears and emerges** near the distant target.
+-   Attacks with **three consecutive swipes** whilst running in a direction.
+-   Targets a nearby player and becomes intangible, then **lifts the target into the sky** and drops it down.
+-   Turns into a **flock of feathers**, shredding its target's health.
+-   **Dashes** towards you, twirling as it attacks.
 
 ### **Drops**
 
-Black feathers which are used for armour and rarely drops void feathers with an unknown use  
+When defeated, the owl drops **black feathers** and occasionally **void feathers** at a much less common rate.  
 
 ## **Notes/ Tips**
 

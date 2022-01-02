@@ -1,8 +1,9 @@
 ---
 title: Crafting Recipes
-revid: 7837
+revid: 7952
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Crafting Recipes

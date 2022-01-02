@@ -1,9 +1,9 @@
 ---
 title: Attributes
-revid: 7849
+revid: 7926
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Character]
 ---
 
 # Attributes
@@ -139,6 +139,8 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 _"The Power of the Sun... In the palm of my hand." - Unnamed Flamecharmer_
 
+_"The inferno begins." - Brand_
+
 _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
@@ -150,6 +152,8 @@ _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 
+_"Flee from the cold." - Ash_
+
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Unlocks Frostdraw related Talents.
 -   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras.
@@ -158,13 +162,15 @@ _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 
 _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate Thundercaller_
 
+_"My thunder shakes the foundations of the world!" - Volibear_
+
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Unlocks Thundercall related Talents.
 -   Gain Thundercall EXP by dealing damage to Enemies and Monsters using Thundercall Mantras.
 
 ### Galebreathe
 
-_"I'm gay." Unknown Galebreather_
+_"Sorye ge ton!" - Yasuo_
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
@@ -173,6 +179,8 @@ _"I'm gay." Unknown Galebreather_
 ### Shadowcast
 
 _"Ahh yes, Darkness... Where I belong... Your ether... is mine!—" Edgy Shadowcaster_
+
+_"Ugghh, Shadowwww, carry meeee." - Vex_
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Unlocks Shadowcast related Talents.

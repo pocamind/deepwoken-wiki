@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 7773
+revid: 7967
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -41,7 +41,7 @@ Deals damage.
  |
 | 
 
- | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons two clones and attacks enemies.
+ | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons one clone and attacks enemies.
 
 This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
 

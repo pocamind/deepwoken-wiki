@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 7745
+revid: 7963
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -125,13 +125,6 @@ Rapidly damages opponent.
 User is invincibile during casting (To a lvl 1 player it does 35% dmg).
 
  |
-
-### **Mobility Mantras**
-
-| Image | Spell | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | Dash | An agile dash | Launch yourself forward for a short period of time |
 
 ### **Support Mantras**
 

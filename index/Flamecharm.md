@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7833
+revid: 7899
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -149,7 +149,7 @@ You can think of Azure Flames as an upgraded version of the normal Flamecharm.
 ## Trivia
 
 -   Certain mantras are similar to Pyromancies and similar attacks from games created by _**From Software**_, a large inspiration for Deepwoken,
--   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Pyromancy from Dark Souls 3, preventing death for one minute.
+-   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing death for one hit.
 -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
 -   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.
 -   Flamecharm does not currently (1/01/2022) possess any 3-star Mantra.

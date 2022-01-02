@@ -1,8 +1,9 @@
 ---
 title: Monsters
-revid: 7484
+revid: 7948
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World]
 ---
 
 # Monsters

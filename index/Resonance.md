@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 7867
+revid: 7973
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Skills]
 ---
 
 # Resonance
@@ -16,7 +16,7 @@ categories: [Pages with broken file links]
 </tbody>
 </table>
 
-Resonance, or bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. Gaining a resonance will heal you all the way similar to powering up.
+Resonance, or bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. Gaining a resonance will heal you all the way similar to powering up. (Someone may need to fact check but I'm pretty sure your bell depends on your weapon)
 
 _**Pressing C triggers resonance**_
 
@@ -37,6 +37,8 @@ _**Pressing C triggers resonance**_
 -   Have max luck, being signified if you do not get luck from players/monsters anymore. (PICKING A LEGENDARY/RARE CARD WILL DRAIN LUCK).
 
 Upon all these things, getting knocked (cant be a guildmate) SHOULD give a resonance. (If not then we're all just S.O.L.)
+
+(The theory going around that the base timer is 7 hours to get a bell and when you kill monsters and players it goes down.)
 
 ## How Do You Change A Resonance?
 
@@ -90,3 +92,7 @@ Phoenix fire effect
 
 -   Enter The Distortion Realm while leaving a lingering portal to it that others can take.
 -   Standing on a different plate and reusing the ability will transport you to another location in the map, leaving another lingering portal for people to follow.
+
+**Reaper**
+
+-   Activate to grip all nearby knocked entities in 1-2 seconds.

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 7599
+revid: 7883
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,9 +8,19 @@ categories: [Pages with broken file links]
 
 # Greathive Aratel
 
+## Entry
+
+To get access to Greathive Aratel there is some requirements you need to meet first before being able to teleport there.
+
+1.  Lvl 40(?)
+2.  An Oath (Oathless/Blindseer/...)
+3.  You probably need to wash your face in the well on Hive to get to the main teleporter on Hive Island
+
 ## Description
 
-Template:AreainfoboxThis place is quite literally a glorified tree house
+Template:AreainfoboxThis place is quite literally a glorified tree house.
+
+  
 
 The tree house is split up into 4 floors, from bottom to top:
 

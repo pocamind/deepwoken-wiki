@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 7871
+revid: 7971
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Skills]
 ---
 
 # Oaths
@@ -42,7 +42,7 @@ You may only have a single Oath per unique character, so it is best to pick what
 
 ## Notes
 
-Arguably the easiest Oath to obtain, as it only requires the player to reach Power 30, which can be achieved with relative ease. 
+The easiest Oath to obtain, as it only requires the player to reach Power 30, which can be achieved with relative ease. 
 
 <table>
 <tbody>
@@ -54,7 +54,7 @@ Arguably the easiest Oath to obtain, as it only requires the player to reach Pow
 
 ### Pre-requisites:
 
--   Willpower of 40+
+-   Willpower 50+ There is no Level Requirement
 -   Blindfold (Chest Item)
 -   All of the "Mental Fortress" talents. (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, and Unyielding Focus.)
 
@@ -94,9 +94,9 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 </tbody>
 </table>
 
-File:Yun'Shul low quality.png
+File:Oath Yun Shul.png
 
-Bad quality proof of Yun'Shul Oath
+A higher quality picture, I just snipping tooled it form the original image
 
   
 
@@ -110,14 +110,14 @@ Bad quality proof of Yun'Shul Oath
 
 1.  Visit The Depths, and talk to Yun'Shul.
 2.  If you are Level 10 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
-3.  Select Yun'Shul Oath to receive the oath, and to remove the -100 sanity, you must jump into the void without ever being in combat or taken damage since you got the Oath. After jumping into the void, you teleport to Yun'Shul and receive a buffed version of the Oath, removing the -100 sanity. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths.
+3.  Select Yun'Shul Oath to receive the oath. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths. _(Formerly there was a fake step that required you to jump into the void to remove the sanity, it is belived to be fake only put there to troll, I reverted this so there would be no misunderstandings. Although I am testing to see if it is real, I will revert if it is.)_
 
 ### Oath Effects:
 
 -   +75 Elemental Intensity
 -   +75 Ether
 -   +150 Reservoir
--   \-100 Sanity (removed, if you jump into the void after getting the quest as listed in step 3.)
+-   \-100 Sanity
 
 ### Oath Description:
 
@@ -125,6 +125,7 @@ Bad quality proof of Yun'Shul Oath
 
   
 
-###### to be added :
+###### Notes:
 
-Shadow teleport
+-   This oath could be fake, I am testing the validity of it, 1/2/21 - Neutered Cat#6865
+-   The old step three was most likely fake as some random user had just went in and changed the steps.

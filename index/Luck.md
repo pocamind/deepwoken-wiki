@@ -1,18 +1,13 @@
 ---
 title: Luck
-revid: 7651
+revid: 7890
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Luck
 
 _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Text_
-
-File:Exp+LuckParticles.png
-
-Particles of Luck (identified by the white particles) and Experience (identified by the yellow particles) swirling around the user after gripping an NPC.
 
 ## Description
 

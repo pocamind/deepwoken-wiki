@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 7783
+revid: 7892
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -48,6 +48,11 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 > (★☆☆)
 
  | Shadow Eruption | Form a shockwave of darkness. | The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable. |
+|  | 
+
+> (★★☆)
+
+ | Shadow Roar | Roar a wave of shadows. | The user leans and creates a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. You are unable to move while using it. Blockable but block breaks, can be parried. |
 
   
 **SUPPORT**

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 7402
+revid: 7911
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -158,7 +158,7 @@ Kalilah getting her ass kicked by a Mudskipper.
 -   To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
--   Save her from the Mudskipper that is attacking her. After doing so, you need 20 Charisma (No with 22 Charisma I was unable to get her to pick the third ending however the second ending worked.) to succeed on all the Charisma Checks.
+-   Save her from the Mudskipper that is attacking her. After doing so, you need 40 Charisma to succeed on all the Charisma Checks.
 
 #### Ending 1: Promise Broken
 
@@ -241,6 +241,11 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
 -   In Ending 2 of Karlilah's Quest, she must've read something about [The Depths](The_Depths.md), and went too far deep into it.
 -   For the Navaen Tribe Rescue Quest, it is probable that you can "kidnap" any member of the Navaen Tribe other than finding one in Erisia Island. Such places to find Navaen Tribesmen is commonly in [Summer Isle](Summer_Isle.md).
+-   **Etris guards can drop the Notes of players they have killed on death (needs further testing).**
+
+File:Ezgif.com-gif-maker(6)(1).mp4
+
+A player getting ~2000 Notes for gripping a guard that seemed to be in a fight beforehand
 
 Successful Flamecharmer Check
 

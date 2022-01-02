@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7794
+revid: 7922
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -552,7 +552,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Crescent Cleaver</td>
   <td>40 HVY, 10 STR</td>
   <td>Great Sword</td>
-  <td>22</td>
+  <td>22.4</td>
   <td>8</td>
   <td>9</td>
   <td>9</td>

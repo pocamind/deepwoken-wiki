@@ -1,8 +1,9 @@
 ---
 title: Guilds
-revid: 7511
+revid: 7953
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Guilds

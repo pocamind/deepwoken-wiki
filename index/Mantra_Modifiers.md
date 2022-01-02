@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 7798
+revid: 7900
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -133,11 +133,7 @@ Ice Chains
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun
-
-Shadow Gun
-
- | Increases the number of hits. |
+ | Multiplying Spark | Wind Gun | Increases the number of hits. |
 | 
 
  | Spring Spark | _Unknown._ | Amplifies the effects of mobility moves. |

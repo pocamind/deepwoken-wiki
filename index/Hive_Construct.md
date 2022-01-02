@@ -1,13 +1,24 @@
 ---
 title: Hive Construct
-revid: 7665
+revid: 7966
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Hive Construct
 
-Forest Golems, also known as Obsidian Golems given their appearance, spawn at Starswept Valley (link), the Bluster Canyons at Hive Island (link), and on the ice lake on top of [Minityrsa](Minityrsa.md). Does insane damage, easily doing 50% hp to most people level 40-50 in one hit. They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
+Forest Golems, also known as Obsidian Golems given their appearance, spawn at Starswept Valley (link), the Bluster Canyons at Hive Island (link), and on the ice lake on top of [Minityrsa](Minityrsa.md). Does
+
+File:Golem Grand Javelin.png
+
+Forest Golem being shot by a Grand Javelin (L bozo)
+
+File:Placeholder2.png
+
+Forest Golem at Starswept Valley/Bluster Canyon
+
+insane damage, easily doing 50% hp to most people level 40-50 in one hit. They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
 
 ### Appearance
 
@@ -31,7 +42,7 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
 
 ### Drops
 
-Killing the golem will reward in a ton of xp, along with a chest where it spawns. The chest has mediocre loot, similar to a croco's at Starswept Valley, but does have a chance to drop a [shattered katana](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons).
+Killing the golem will reward in a ton of xp, along with a chest where it spawns. The chest has mediocre loot, similar to a croco's at Starswept Valley, but does have a chance to drop a [shattered katana](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons). Keep in mind, however, this isn't the only way to get shattered katanas, as almost all enemies in Starswept Valley can drop them.
 
 ### Tips/Trivia
 
