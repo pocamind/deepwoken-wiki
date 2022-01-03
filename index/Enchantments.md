@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 7882
+revid: 8264
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -292,7 +292,7 @@ Note : You can get these swords by killing all the Snow Knights. Upon killing t
 -   Ice: Unknown for now.
 -   Fire: Sets your enemy on fire.
 -   Wind: Unknown for now.
--   Shadow: Uknown for now.
+-   Shadow: Every M1 gives you Ether.
 
 ## Armour
 

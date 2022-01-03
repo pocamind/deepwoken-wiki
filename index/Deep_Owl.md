@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 7886
+revid: 8213
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,19 +18,23 @@ A large and extremely uncommon monster with juggernaut-like traits. Said to appe
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-## Strategy
+### **Drops**
 
-During the initial encounter, the owl will question the player and offer 3 different choices of dialogue. **All of these options will result in the owl initiating combat with the player.** Closing the game during this event functions as a surefire chance to escape the owl.
+When defeated, the owl drops **black feathers** and occasionally **void feathers** at a much less common rate.
 
-If the player decides to enter combat, the owl will attempt to eventually grip the player after using a combination of the following attacks.
-
-### **Attacks**
+## **Moves**
 
 -   **Dissapears and emerges** near the distant target.
 -   Attacks with **three consecutive swipes** whilst running in a direction.
 -   Targets a nearby player and becomes intangible, then **lifts the target into the sky** and drops it down.
 -   Turns into a **flock of feathers**, shredding its target's health.
 -   **Dashes** towards you, twirling as it attacks.
+
+## Strategy
+
+During the initial encounter, the owl will question the player and offer 3 different choices of dialogue. **All of these options will result in the owl initiating combat with the player.** Closing the game during this event functions as a surefire chance to escape the owl.
+
+If the player decides to enter combat, the owl will attempt to eventually grip the player after using a combination of the following attacks.
 
 ### **Drops**
 

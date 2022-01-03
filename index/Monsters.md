@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 7948
+revid: 8221
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -43,7 +43,7 @@ Lastly, but definitely not least:
 
 Missing Monsters:
 
--   Red/Alpha Megalodaunt
+-   Stone knight
 -   Golem Turret
 
 (These monsters are NOT 'variants' as they have different behaviors than their normal variants, and will even attack their original versions in the case of Alpha megalodaunts)
@@ -52,13 +52,14 @@ information about the red megalodaunt and the golem turret should be added on th
 
 ## Monsters
 
-**Etrean Luminant**
+**Exclusive to the Etrean Luminant**
 
-**The Depths**
+**Exclusive to The Depths**
 
 ## Notes/Trivia
 
--   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears. A Player who is fighting Monsters and fears those. like these will definitely lose the fight.
+-   No matter how intimidating the Monsters of Deepwoken are, you must overcome your fears, there is always a chance, as monsters have (almost) always an attack pattern that can be parried/dodged while taking no damage if the one fighting is skilled enough.
+-   Most monsters have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
 -   A handful of the Monsters have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some Monster Hunting.
 -   NOT all attacks are parriable; red attacks can't be. Buy a Hunter Brace at the Summer Island to be able to
 -   Some Monsters will fight each other. Multiple are able to fight at the same time. Example-[Here](https://youtu.be/01uQchtfUvw)\-

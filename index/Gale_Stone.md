@@ -1,11 +1,9 @@
 ---
 title: Gale Stone
-revid: 7962
+revid: 7991
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
-
-# Gale Stone
 
 # Gale Stone
 

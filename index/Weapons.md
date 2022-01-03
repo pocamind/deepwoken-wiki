@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 7922
+revid: 8262
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -196,7 +196,10 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>Flintlock</td>
   <td>13</td>
   <td></td>
-  <td></td>
+  <td>15</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.3x</td>
 </tr>
 <tr>
   <td>Dragoon</td>
@@ -280,7 +283,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td>0 MED</td>
   <td>Sword</td>
-  <td>10</td>
+  <td>18</td>
   <td></td>
   <td></td>
   <td></td>
@@ -291,7 +294,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Iron Spear</td>
   <td>0 MED</td>
   <td>Spear</td>
-  <td>10</td>
+  <td>17</td>
   <td></td>
   <td></td>
   <td></td>
@@ -593,10 +596,14 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
 </tr>
 <tr>
   <td>Darksteel Greatsword</td>
-  <td>45 HVY</td>
+  <td>40 HVY</td>
   <td>Great Sword</td>
-  <td></td>
-  <td></td>
+  <td>26</td>
+  <td>8</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td>Forge Greathammer</td>
@@ -624,7 +631,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Enforcer's Axe</td>
   <td>75 HVY</td>
   <td>Great Axe</td>
-  <td></td>
+  <td>26</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 7342
+revid: 8189
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -26,37 +26,29 @@ Seams to be based off the Underwater panther or ''_**[Mishipeshu](https://en.wik
 
 It drops a Lionfish Scale, which is used for crafting armor sets.
 
-  
-  
+## Moves
 
-## Attacks
+**Bite** - Bites three times. Each bite does _**25 damage**_. Can be parried.
 
-**Cero**: Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does an immense amount of damage (depths only). Can be perfect dodged by rolling when it puts its head down. This will instantly evaporate you, if you get downed from this
+**Dive (Only in Etrean Luminant)** - Although non-offensive, I am putting this here. Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
 
-**Bite**: Bites three times, can be parried.
-
-**Dive**: Although non-offensive, I am putting this here. Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
+**Cero (Only in The Depths)** - Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
 
 ## Located
 
 -   [The Depths](The_Depths.md)
 -   Aratel Sea (Spawns naturally but can also be fished up)
-    
-    File:Big ass fish.jpg
-    
-    Fish on Land (not sure which island, picture by Hasseldanwinning1)
-    
-      
-    
-
-  
-
-  
 
 ## Notes
 
 -   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish. **(not really you can solo it at power 1, just dash the lazer beam and stand under it so it doesnt bite you)**
--   Lionfishs do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
+-   Lionfishes do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
+-   If a Lionfish dives, you can still hit it if you are directly above it.
 -   Mouth Laser is most likely a reference to the ability Cero from the anime Bleach due to the visuals, sounds and charge up
 -   Corrupted Health: 6000
 -   Regular Health: 2000
+-   You can spawn a lionfish by fishing if the game hates you enough
+    
+    File:Big ass fish.jpg
+    
+    Lionfish on Land

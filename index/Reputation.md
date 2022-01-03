@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 5554
+revid: 8208
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -81,7 +81,7 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
 
 File:Random PVE Event.png
 
-Etrean Guards vs. Bandits in Lower Erisia
+Etrean Guards vs. Authority Peacekeepers in Lower Erisia
 
 Battles between factions can randomly occur at anytime, and they usually take place at specific locations. Players can take part in these encounters as they see fit.
 

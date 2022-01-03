@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 7911
+revid: 8150
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -158,7 +158,7 @@ Kalilah getting her ass kicked by a Mudskipper.
 -   To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
--   Save her from the Mudskipper that is attacking her. After doing so, you need 40 Charisma to succeed on all the Charisma Checks.
+-   Save her from the Mudskipper that is attacking her. ~After doing so, you need 40 Charisma to succeed on all the Charisma Checks.~ _**Tested, it's 50 charisma for the third option and I think 20 for the second one.**_
 
 #### Ending 1: Promise Broken
 

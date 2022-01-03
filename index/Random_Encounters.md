@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 7535
+revid: 8152
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,6 +34,10 @@ If you open one of their chests (don't have to take the loot) it will aggro them
 ### **The Teacher**
 
 The teacher is an NPC that is often found situated around a campfire. As per dialogue, a player can gain a skill level in one of the six categories.
+
+### Sharko vs Golem
+
+A sharko can be found fighting a Golem or two in Upper Erisia, the Golems will usually win.
 
 ## **Non-AI-Driven Encounters:**
 

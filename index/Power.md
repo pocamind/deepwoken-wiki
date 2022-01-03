@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 7350
+revid: 8254
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -13,6 +13,12 @@ Power, or Level, is the levelling mechanic of Deepwoken that enables players to 
 An example of a player's Power and stat allotment gained through prestieging.
 
 Each level of power grants 5 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 5 points have been invested a player will increase their power upon meeting EXP requirements. Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, an Oath, or rarely a fifth card which is fold. Fold cards will postpone the player's reception of a Card until their next power up. If you fold, you will be granted an additional hand on your next Power Increase. This second hand will be randomised and differ from the previously folded one.
+
+To keep progressing however, you will need regular EXP, obtained by killing things:
+
+-   The white sparkling particles means you are getting EXP, the density showing the amount obtained
+-   The yellow/golden sparkling particles means you have reached an EXP thereshold, meaning that further progress is available
+    -   If you've reached the point where using [Training Gear](Training_Gear.md) says "I've learnt what I can from training right now, I should put it into practice...", those yellow particles indicates that you should be able to continue without this message, even if for just 1 point.
 
 As players power up further the EXP required to invest a point will increase as well. The maximum Power is currently 60.
 

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 7800
+revid: 8078
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Vow of Mastery** is a [Talent](Talents.md) which allows you to turn people into Subject. A Subject will lose their **Vow of Mastery** if they get wiped.
 
-You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. You can have a Subject per every 10 Charisma points.
+You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. ~You can have a Subject per every 10 Charisma points.~ You can have an unlimited number of subjects.
 
 ## How to Use
 

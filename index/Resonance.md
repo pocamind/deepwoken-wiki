@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 7973
+revid: 8151
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -26,8 +26,6 @@ _**Pressing C triggers resonance**_
 
 (No particular order, but some are probably encouraged to be done before others)
 
--   Have killed every monster atleast once, including Ardour, Primadon, and The Enforcer.
--   Have faced, and defeated, each Depth Trial (Angel, Duo Angel, Sharko, Enhanced Sharko, The Enforcer)
 -   Have entered/escaped depths 10 times.
 -   Have reached power 45.
 -   Have rung all four of the primary bells (used to open the trial gate), three times, doing each one in a seperate depth run.
@@ -36,63 +34,133 @@ _**Pressing C triggers resonance**_
 -   Have gripped around 10 people in depths (Must be around your power level. It is suggested that you do this BEFORE you max luck, so you know if the person you grip counted or not.)
 -   Have max luck, being signified if you do not get luck from players/monsters anymore. (PICKING A LEGENDARY/RARE CARD WILL DRAIN LUCK).
 
-Upon all these things, getting knocked (cant be a guildmate) SHOULD give a resonance. (If not then we're all just S.O.L.)
+Upon all these things, getting knocked (by someone who isnt a guildmate) should give a resonance, but it might take a few knock attempts.
 
-(The theory going around that the base timer is 7 hours to get a bell and when you kill monsters and players it goes down.)
+## Alternate Theory
+
+Upon entering The Depths, your character gets a 7 hour timer. Killing Enhanced Monsters and **players who drop luck** lowers the timer. The maximum amount of time said to be shaved off is 5 hours, so if you are able to reach this, you'll still need to be in the depths for 2 hours.
+
+It's completely possible that both theories are correct, but its just doing the first theory BASICALLY is doing the second one, because blah blah all the player/monster killing.
+
+**There is still some other requirement though, as those who have sat in depths for 7 hours straight and then knocked did not get it, to be safe, get max luck and grip a few people atleast.**
+
+**TLDR: try the alternate theory first, if that doesn't work, then do the first, main one.**
 
 ## How Do You Change A Resonance?
 
--   Go to depths, find the weird doors that require resonance to open and talk to Yun'Shul. (He gives you 2 other options that is to escape depths instantly and possibly change some attribute (Not sure about that), you can only choose 1 wish per character.)
+-   Go to depths, find the weird doors that require resonance to open and talk to Yun'Shul. (He gives you 2 other options that is to escape depths instantly and possibly change some attribute (Not sure about that), you can only choose 1 wish per character. ((Cap, you can choose a wish every 10 levels)))
 
-## Resonances
+## Known Resonance Abilities
 
-### Hit Reflection
+### **Complete Damage Redirection**
 
--   Reflects any damage taken back to the attacker in a 5-6 second time frame.
--   Creates an effect with two green rings and which inside are eight crosses, four are green, and four are black that point at the user.
-    -   The effect gets smaller and when it ends, that signifies the ending of the hit reflection.
-        
-        _Hit Reflection showcased by Bracting._
-        
-          
-        
+_Hit Reflection showcased by Bracting._
 
-  
+#### Effects:
 
-  
+-   Reflects all and any incoming damage back to the sender for around 5 or so seconds.
+-   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
 
-  
+### **Run It Back**
 
-### Phoenix
+#### Effects:
 
--   Sends you back in time to where you used the bell after around 5 seconds
--   You take no damage when its in use
--   Creates a flame-ish effect where it was used
-    -   This goes once you return to said spot
+-   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
+-   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
 
 File:Phoenix Fire.jpg
 
 Phoenix fire effect
 
-  
+### **Wind-up**
 
-  
+#### Effects:
 
-  
+-   Activating the resonances charges the ability, 1 level at a time. Can be done activated up to 5 times.
+-   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
+-   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
+-   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)
 
-**Wind up**
+### **Distortion Realm Portal**
 
--   Activating the resonances charges the ability, 1 level at a time. Can be done 5 times.
--   Landing a hit (must deal damage) unleash a blast that deal additional damage, based on the number of charges.
--   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (cant guardbreak you.)
--   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)  
-    
+#### Effects:
 
-**Distortion**
+-   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside yourself.
+-   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow.
 
--   Enter The Distortion Realm while leaving a lingering portal to it that others can take.
--   Standing on a different plate and reusing the ability will transport you to another location in the map, leaving another lingering portal for people to follow.
+### **Reaper**
 
-**Reaper**
+#### Effects:
 
--   Activate to grip all nearby knocked entities in 1-2 seconds.
+-   Activating your resonance will cause an area to appear below you, insta-gripping anyone that is knocked close to you, restoring your health(?).
+
+### **Soul Weapon Summoning**
+
+#### Effects:
+
+-   On activation, call forth a randomly chosen weapon.
+-   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
+
+#### Known Weapons:
+
+-   **Divine Axe**
+    -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.
+        -   Greataxe Weapon
+        -   28 Base Damage
+        -   10% Armor Penetration
+        -   6 Heavy Weapon Scaling
+        -   8 Weight
+        -   10.1 Range
+        -   0.6x Swing Speed
+
+-   **Divine Greatsword**
+    -   Special skill will boost the user's speed and propel them into the air, crashing down seconds later at the location they decide to move to.
+    -   **The difference between the Greatsword's special skill and the Greataxe's is that you are locked in place during the Axe's skill, while with the Greatsword's skill you get full control of where you're going.**
+        -   Greatsword Weapon
+        -   30 Base Damage
+        -   10% Armor Penetration
+        -   15 Heavy Weapon Scaling
+        -   8.5 Weight
+        -   9.2 Range
+        -   0.67x Swing Speed
+        -   0.25s Endlag
+
+-   **Divine Spear**
+    -   Special skill will send the user up into the air, shooting down 3 divine beams, similiar to the [Angel's](Hollow_Angel.md) technique.
+        -   Spear Weapon
+        -   25 Base Damage
+        -   10% Armor Penetration
+        -   10 Medium Weapon Scaling
+        -   5 Weight
+        -   10 Range
+        -   0.6x Swing Speed
+
+-   **Divine Longsword**
+    -   Special skill will cause the user to strike their target with their elbow, following into 3 divine sword slashes.
+        -   Sword Weapon
+        -   25 Base Damage
+        -   10% Armor Penetration
+        -   9 Medium Weapon Scaling
+        -   5.5 Weight
+        -   8.5 Range
+        -   0.8x Swing Speed
+
+-   **Divine Dagger**
+    -   Special skill will thrust the user forward and strike anyone in the way with a flurry of divine slashes.
+        -   Dagger Weapon
+        -   18 Base Damage
+        -   10% Armor Penetration
+        -   4 Light Weapon Scaling
+        -   4 Weight
+        -   6.5 Range
+        -   1.15x Swing Speed
+
+-   **Divine Flintlocks**
+    -   Special skill will cause the user to flip up-side down, rapidly shooting their target 5-6 times, finishing with a backdash into a final shot.
+        -   Flintlock Weapon
+        -   15 Base Damage
+        -   10% Armor Penetration
+        -   12 Light Weapon Scaling
+        -   5 Weight
+        -   12 Range
+        -   1.3x Swing Speed

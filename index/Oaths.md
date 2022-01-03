@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 7971
+revid: 7983
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -54,7 +54,7 @@ The easiest Oath to obtain, as it only requires the player to reach Power 30, wh
 
 ### Pre-requisites:
 
--   Willpower 50+ There is no Level Requirement
+-   Willpower 40+ There is no Level Requirement (Not 50)
 -   Blindfold (Chest Item)
 -   All of the "Mental Fortress" talents. (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, and Unyielding Focus.)
 

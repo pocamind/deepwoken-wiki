@@ -1,13 +1,13 @@
 ---
 title: "Champion's Sword"
-revid: 7977
+revid: 8085
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Champion's Sword
 
-_Your trusty weapon._
+Template:Weapon Template V2
 
 ## Effects
 

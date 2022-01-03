@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 7945
+revid: 8007
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -40,9 +40,14 @@ categories: [World]
     -   [Summer Isle](Summer_Isle.md)
     -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
     -   [Greathive Aratel](Greathive_Aratel.md)
-    -   The Hive/ Starswept Valley
-    -   [Fort Merit](Fort_Merit.md)
+    -   Aratel Island
+        -   [Starswept Valley](The_Starswept_Valley.md)
+        -   The Lordsgrove
+        -   Bluster Rift
         -   Merit's Reach
+        -   [Fort Merit](Fort_Merit.md)
+        -   Widow's Hollow
+        -   Lightkeeper Temple
 -   [The Void Sea](Voidsea.md)
     -   [Boatman's Watch](<Boatman's_Watch.md>)
     -   [Voidheart](Voidheart.md)

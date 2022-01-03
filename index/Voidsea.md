@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 7272
+revid: 8266
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,3 +28,5 @@ There are patches of bubbles around the Void Sea and hitting one can cause a Sea
 If you die in the void sea, no matter how many lives you have, you'll go to the Depth's
 
 Some video proofs about ice dragon: [https://youtu.be/-eJp5\_pmdq4](https://youtu.be/-eJp5_pmdq4)
+
+I believe that sea monsters only spawn when you stop moving, as me and several other users have travelled for about an hour here with zero monster sightings. I ended up resetting but people that say they've stopped their boat have reported monster attacks after an hour of peaceful sailing

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 7927
+revid: 8231
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character]
@@ -126,6 +126,23 @@ File:Bluetravelercloak.png
  | None | +1000 Durability
 
 +12% Physical Armor
+
+ |
+| 
+
+ | Hired Mercenary | x5 Cloth
+
+x5 Fiber
+
+x1 Iron
+
+25 Notes
+
+ | None | +1000 Durability
+
++15% Physical Armor
+
++10% Elemental Armor
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 7658
+revid: 8210
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,22 +10,22 @@ categories: [Monsters]
 
 _Also known as Bats, Rodolfos, Fliers, and Beppos._
 
-# **Gargoyles**
-
 ## Description
 
 Spawns within the Aratel Sea, the Void Sea alone, and Spawns in packs in Starswept Valley and Minystrisa.
 
-**Attacks**
+## Moves
 
--   **Bite -** Swoops down and attacks the player
+-   **Bite** - Flies up, swoops down and attacks the player
+-   **Foot Scratch** - Raises its leg and scratches the player
 
-**Finisher**
+### Finisher
 
 -   Scratches you a lot at a fast rate with its legs, killing you
 
-## **Notes/Tips**
+## Notes/Tips
 
--   Bite is the only move they can use and its easy to block them but they often spawn in packs and they can fly.
+-   Bite is a dangerous posture breaking move they can use however its easy to parry them, addtionally they spawn in packs. (in Starswept Valley and Minystrisa)
+-   They can fly.
 -   They seem to be very squishy as around 20-30 med dmg with a spear will kill them in 1 or 2 hits.
 -   Brainsuckers

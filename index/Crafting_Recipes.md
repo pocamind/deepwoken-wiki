@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 7952
+revid: 8255
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,13 +31,16 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   **Flint** - _1 Coal, 1 Rock_
 -   **Bullets (5x)** - _1 Iron_
 
+Picture of a Crafting Bench
+
 ### Crafting Bench Recipes
 
 -   **[Canteen](Canteen.md)** - _1 Beewax, 1 Calabash_
 -   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
 -   **Sharkscale Glider** - (Schematic Required) _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 1 Wood, 1 Iron
--   **Fishing Rod -** 2 Stick, 1 Fibers
+-   **Fishing Rod -** 2 Stick, 1 Fibers  
+    
 
 ## Food Recipes
 
@@ -57,7 +60,7 @@ Certain foods, usually the more complicated one/which require more work to obtai
 
 -   **Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
--   **Mushroom Bisque** - Recipe unsure, but buying one from the food store and eating it as a vegetarian causes one to puke, and looking up "mushroom bisque main ingredient" for real life bisque on google says that the main ingredient is crustaceans, means that its probably some mixture of mushrooms + fish
+-   **Mushroom Bisque** - Any Mushroom + Crustacean Meat
 -   **[Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
 -   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
@@ -80,12 +83,10 @@ Certain foods, usually the more complicated one/which require more work to obtai
 _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. As of currently, only the Etris one is functional.)
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
-
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
-
 -   2 Of a Ingredient will equal a Blight. (Blight is a potion but a lesser effect) 3 of a Ingredient will make a Potion.
-
 -   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, ive fixed this page up a lot)
+-   The effectiveness of potions scales with your INTelligence stat, as well as being improved with 2 talents: Apothecary (stronger beneficial potions) and Exterminator (stronger negative potions).
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
@@ -126,7 +127,7 @@ _**Negative**_
  |
 | **Focus-Enhancing Elixir** | 
 
--   3x Browncap
+-   2x Browncap
 -   2x Gathered Wheat
 
  | _**Positive**_

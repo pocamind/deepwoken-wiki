@@ -1,13 +1,18 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 7908
+revid: 8163
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Primadon, Titan of the East
 
-Template:Creature Infobox V3  
+Template:Creature Infobox V3
+
+File:Primadon.png
+
+  
 _Also known as Sea Monkey (Golden name), Gorilla, and Monkey._
 
   

@@ -1,15 +1,15 @@
 ---
 title: Nautilodaunt
-revid: 7872
+revid: 8215
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Nautilodaunt
 
-# **Squid (Squid Boss/Squibbo/Squidward)**
+# **Squid (Squid Hoss/Squibbo/Squidward)**
 
-> A_yo who the fuck is this cluthulu looki-_ (_\*It's Cthulhu)_
+> A_yo who the fuck is this cthulhu looki-_
 
 > \-~Weary Traveller~ Soon to be Mudskipper.
 

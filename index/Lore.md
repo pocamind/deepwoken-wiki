@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 7877
+revid: 8227
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,6 +29,13 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 -   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
+
+### The King of Etrea
+
+-   The previous Ruler of the Kingdom of Etrea, before his rule was taken over by The Lord Regent.
+-   Not much is known for The King of Etrea, but Theadre, the Old Etrean infront of the Statue in the Palace speaks of him.
+    -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the asperations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
+-   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 
 ### **The Duke of Erisia**
 
@@ -207,6 +214,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   In 1271, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
+
+### Kingdom of Etrea's Past Rulers
+
+-   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
+-   The Past Rulers of Etrea has no records of their deeds during their role, but they have been immortalized as statues near Etris; in the Etrean Sea.
+-   There were 6 Total Rulers of Etrea; the 4 past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.  
+    
 
 ## Notes/Trivia
 

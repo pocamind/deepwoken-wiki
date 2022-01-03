@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 7900
+revid: 8174
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -83,6 +83,7 @@ File:Screenshot 2021-12-28 152413.png
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |
+| [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) | Blessed Gem | Possibly a better version of Vibrant Gem |
 
 ## Sparks
 
@@ -185,4 +186,4 @@ _"You feel dizzy when you hold it."_
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
-    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together, possibly at a Craft Station, unsure as it was done with the Master Craftsman talent.
+    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together.

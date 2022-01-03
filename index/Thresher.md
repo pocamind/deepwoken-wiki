@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 7657
+revid: 8096
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,18 +8,20 @@ categories: [Monsters]
 
 # Thresher
 
-_Also known as Crocodiles, Crocs, Lil' Crocs, Dinosaurs, Alligators, and Lizards._
+_Also known as Crocodiles, Croccos, Crocs, Lil' Crocs, Dinosaurs, Alligators, and Lizards._
 
 ## Description
 
-Template:Creature Info Box v2Crocodiles are monsters that spawn in the Starswept Valley, as well as the Depths. Doable to fight solo if you know what you're doing. Sometimes spawns as a duo with another Crocodile, or spawns with the King Crocodile as a family of Crocodiles. It drops a Thresher Spine and can be used for crafting armor. There will usually be a chest reward after you kill this monster.
+Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept Valley, as well as the Depths. Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher, or spawns with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting armor. There will usually be a chest reward after you kill this monster.
+
+  
 
 ## Abilities
 
 -   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried.
 -   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried.
--   **Tail Swipe** - Turns around and smacks you with its tail. This attack is able to be parried. Normally breaks block but with additional posture can be blocked.
--   **Dig** - Burrows underneath the ground and attempts to hit you. This attack can only be dodged as indicated by its red marker.
+-   **Tail Swipe** - Turns around and smacks you with its tail, ragdolling those hit by this. This attack is able to be parried. Ignores block, able to be parried(?).
+-   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
 
 ## Notes
 
