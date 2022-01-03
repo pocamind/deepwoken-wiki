@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 8151
+revid: 8307
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -48,11 +48,11 @@ It's completely possible that both theories are correct, but its just doing the 
 
 ## How Do You Change A Resonance?
 
--   Go to depths, find the weird doors that require resonance to open and talk to Yun'Shul. (He gives you 2 other options that is to escape depths instantly and possibly change some attribute (Not sure about that), you can only choose 1 wish per character. ((Cap, you can choose a wish every 10 levels)))
+-   Go to The Depths, find the doors that require resonance to open, and talk to Yun'Shul. He gives you 2 other options besides changing Resonance, which are to escape depths instantly and wipe your Oath. You can choose a wish every 10 levels.
 
 ## Known Resonance Abilities
 
-### **Complete Damage Redirection**
+### **Payback**
 
 _Hit Reflection showcased by Bracting._
 
@@ -94,7 +94,7 @@ Phoenix fire effect
 
 -   Activating your resonance will cause an area to appear below you, insta-gripping anyone that is knocked close to you, restoring your health(?).
 
-### **Soul Weapon Summoning**
+### **Soul Weapon Summoning (aka. Crazy Slot)**
 
 #### Effects:
 

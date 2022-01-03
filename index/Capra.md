@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 7466
+revid: 8305
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]

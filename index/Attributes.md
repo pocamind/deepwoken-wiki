@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 7980
+revid: 8314
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -13,10 +13,6 @@ _"It's a simple method, beat people up and get better equipment. It's like a Ban
   
 
 ## Description
-
-Attributes are your character's stats or capability that uses that attribute. The higher an Attribute is, the more things they unlock, such as Talents or Dialogue.
-
-You can hover over an Attribute to reveal its description.
 
 It is possible to go past the softcap (75) on a stat, all you have to do is get 1 galestone and 75 stat (light, medium, heavy) then talk to Vigil Isaac somewhere in Burning Stone Gardens then go to Vigils and talk to Apprentice Kj. After that go talk to Maestro Evengarde Rest inside the sparring room.
 

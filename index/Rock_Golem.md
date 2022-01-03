@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 8214
+revid: 8304
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -23,15 +23,15 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 ## Moves
 
 -   **Beyblade** - The golem will start charging up his torso in a spinning matter and walk towards a player.
--   **Eye Beam** - The golem with begin charging up a huge eye beam. You cannot hide behind objects the beam passes through them. The best way to evade this move is to wait for it to charge up and roll away when its about to fire.
+-   **Eye Beam** - The golem with begin charging up a huge eye beam. You cannot hide behind objects the beam passes through them. The best way to evade this move is to wait for it to charge up and roll away when its about to fire. (Wow really? no shit sherlock your supposed to wait for it to fire to dodge)
 -   **Rock Uppercut** - Similar to Shark-O's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away.
 -   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
--   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. <- Oh who could of thought the best way to avoid falling rocks is to watch for them? :O \*dumbass\*
--   **Rock Sledgemhammer** - dude just puts their 2 arms together and swing them into the ground as an alternate melee move, unknown if blockable and/or parriable
+-   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. <- Oh who could of thought the best way to avoid falling rocks is to watch for them? :O \*dumbass\* (just don't fight them when there is a ceiling above them as this will trigger their move \[dumbass part 2\] )
+-   **Rock Sledgemhammer** - dude just puts their 2 arms together and swing them into the ground as an alternate melee move, parriable
 
 ### Finisher
 
--   **Angry Stomp** - The golem will slam down his foot and kill those hit by it if knocked.
+-   **Angry Stomp** - The golem will slam down his foot and kill those hit by it if knocked. (Are you a dumbass? if this is a finisher why the fuck would you be able to think you can dodge/block/parry this?)
 
 ## Tips
 

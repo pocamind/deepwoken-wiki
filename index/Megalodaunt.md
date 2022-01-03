@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 7670
+revid: 8332
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Monsters]
 
 Template:Creature Infobox V3
 
-_Also known as Shark(s), Sharko(s), Megalodaunt(s), and Carl._
+_Also known as Shark(s), Sharko(s), Megalodaunt(s), Bobi(s) and Carl._
 
 ## Description
 
@@ -25,7 +25,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the 
 ## Moves
 
 -   **Slash** - A short range slash. Blockable and parriable. Heavy posture damage.
--   **Kick** - Sends the target flying. Breaks block, but can be dodged.
+-   **Football Kick** - Sends little shits flying. Breaks block, but can be dodged.
 -   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable.
 -   **Spit** - A multi-hit projectile targeted at a single target. Blockable and parriable.
 -   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a small amount of insanity.

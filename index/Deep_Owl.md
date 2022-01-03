@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 8213
+revid: 8288
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -17,10 +17,6 @@ File:FUCKFUCKFUCKFUCKFUCK.png
 A large and extremely uncommon monster with juggernaut-like traits. Said to appear most frequently across Upper Erisia, its presence will be highlighted by a cloud of black feathers in the air.
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
-
-### **Drops**
-
-When defeated, the owl drops **black feathers** and occasionally **void feathers** at a much less common rate.
 
 ## **Moves**
 

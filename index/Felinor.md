@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 7737
+revid: 8315
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,7 +18,9 @@ Template:Race Box mark 2
 
 ## Lore
 
-(To be discovered)
+kys bum
+
+  
 
 ## Appearance
 
@@ -30,7 +32,8 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 ## Racial Abilities
 
 -   Bonus agility when climbing on wooden surfaces.
--   Nightchild: Improved stealth.
+-   Nightchild: Improved stealth.  
+    
 
 ## Strengths
 
@@ -38,7 +41,7 @@ A race that has physical features resembling that of a cat, hence the name _Feli
 
 ## Weaknesses
 
--   **Hunted:** due to their mild resemblance to furries/nekos, many players have taken it upon themselves to hunt felinors.
+-   **Hunted:** Due to their mild resemblance to furries/nekos, many players have taken it upon themselves to hunt felinors.
 -   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
 
 <table>

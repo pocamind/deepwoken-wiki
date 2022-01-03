@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 8163
+revid: 8317
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,7 +19,7 @@ _Also known as Sea Monkey (Golden name), Gorilla, and Monkey._
 
 ### **Description**
 
-Loud and enormous, the Primadon is a giant with the appearance of a monkey with fins. The Primadon can be spawned by offering 5 Megalodaunt hides to the fire in [The Monkey's Paw](<The_Monkey's_Paw.md>)
+Loud and enormous, the Primadon is a giant with the appearance of a monkey with fins. The Primadon can be spawned by offering 5 Megalodaunt hides (you can use any monster parts) to the fire in [The Monkey's Paw](<The_Monkey's_Paw.md>)
 
 ## Attacks
 

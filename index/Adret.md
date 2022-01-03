@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 7752
+revid: 8316
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -38,7 +38,7 @@ Adrets' are most likely from the depths.
 
 ## Racial Traits
 
--   **Learning things is easier:** Probably an exp boost.
+-   **Learning things is easier:** Extra stat point, stacks with autodidact.
 -   **Additional Dialogue Options unlocked:** Passive autodidact. stacks with boon autodidact for 2 stats per level instead of 1.
 -   **Maudet:** _Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking. (Better starting reputation with village npcs)_ +1 Health
 

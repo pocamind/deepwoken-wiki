@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 8264
+revid: 8293
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -112,7 +112,7 @@ File:Storm enchant.png
 
 Storm enchant on a Crescent Cleaver
 
--   Pros: Increases stun (needs testing) as well as a small chance to call lightning from the sky on hit, doing additional damage.
+-   Pros: Increases stun. (confirmed) If there is rain, every swipe with this weapon that connects will summon a lightning bolt, increasing damage by approx. 1.4%
 -   Cons: Unkown.  
     
 
@@ -172,8 +172,8 @@ File:Curse of yun shul.png
 
 **Me with a Steel Maul with the Curse of Yun'Shul**
 
--   Pros: Unknown (Tested the last persons Pros and it wasn't correct.)
--   Cons: Unknown.
+-   Pros: it has a 5% chance to instant kill a player or npc you hit.
+-   Cons: It has a 5% chance to instant kill the player in use.
 
   
 
@@ -185,7 +185,7 @@ File:Grim.png
 
 Grim on a Messer(?)
 
--   Pros: Steals ether when an M1 connects.
+-   Pros: Unknown.
 -   Cons: Unknown.
 
   

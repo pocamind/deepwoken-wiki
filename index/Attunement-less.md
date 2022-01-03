@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 7730
+revid: 8273
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -85,4 +85,4 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 ### _**Heavy Weapon Mantras**_
 
-**Pressurized Blast** - Unlease a powerful pressure blast from the weight of you weapon
+**Pressure Blast** - Unlease a powerful pressure blast from the weight of you weapon

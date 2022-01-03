@@ -1,9 +1,9 @@
 ---
 title: Gremor
-revid: 7804
+revid: 8310
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Gremor
@@ -24,8 +24,35 @@ _The deer folk of the land are among the few that still consider themselves free
 
 ## Racial Traits
 
--   **Navae's Guidance -** "Navae's star guides your path, showing you the way forwards, you are less prone to starvation." - A compass pointing north is shown at the top part of the screen. Hunger consumption is reduced.
--   +2 Strength, +2 Fortitude
+<table>
+<tbody>
+<tr>
+  <td><figure>File:MentalCompass.png<figcaption></figcaption></figure></td>
+  <td><b>Mental Compass</b>
+  <ul>
+    <li>Gain a compass at the top of your screen</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:Navae's Guidance.png<figcaption></figcaption></figure></td>
+  <td><b>Navae's Guidance</b>
+  <ul>
+    <li>"Navae's star guides your path, showing you the way forwards, you are less prone to starvation.</li>
+  </ul><p><br>
+  </p>
+  <p><br>
+  </p></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Strength</li>
+    <li>+2 Fortitude</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 7781
+revid: 8320
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,4 @@ Yun'Shul
 
 -   Only accesible by having a bell.
 -   Talking to Yun'Shul will instant kill(?).
--   Similar to Monad Studio's previous game, Rogue Lineage's "Ya'alda," being a Tenebrae of some sort.
+-   Similar to Monad Studio's previous game, Rogue Lineage's "Ya'alda," ~being a Tenebrae of some sort.~ Rogue Lineage and Deepwoken are not connected.

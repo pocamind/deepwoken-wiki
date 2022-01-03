@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 7899
+revid: 8269
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -142,7 +142,7 @@ You are able to obtain Azure Flame by having the following:
 
 You will obtain it once you level up after reaching these requirements. _Once obtained, your Flamecharm Mantra will change to a light-blue sort of colour, including campfires and Flame Wisp's aura colour._
 
-Azure Flames increase general Flamecharm Mantra damage (burn too), and is unaffected by environmental effects, such as rain. This means that campfires conjured with Azure Flames cannot be extinguished. This makes it very useful for traversing the Depths.
+Azure Flames increase general Flamecharm Mantra damage (burn too), ~and is unaffected by environmental effects, such as rain. This means that campfires conjured with Azure Flames cannot be extinguished. This makes it very useful for traversing the Depths.~ This is untrue. To get campfires in the depths/in the rain, you need to have a talent called Unyielding Inferno, which allows you to make campfires in the Depths/In rain regardless of whether or not you have Azure Flames
 
 You can think of Azure Flames as an upgraded version of the normal Flamecharm.
 
