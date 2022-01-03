@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 7949
+revid: 8397
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -40,7 +40,7 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 
 (Placeholder)
 
-### **Etris**
+### **Etrea**
 
 -   Affiliations - Etris
 -   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation)
@@ -50,7 +50,7 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 
 #### Lore
 
-Main government of Etrea. The "King", Lord Regent, holds a reputation of incredible power.
+Main government of Etris. The "King", Lord Regent, holds a reputation of incredible power.
 
 ### The Pathfinders
 

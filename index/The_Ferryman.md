@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 7959
+revid: 8401
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,7 +28,8 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 
 ### Rewards
 
--   It is theoriszed that the rewards he gives depends on what season it is in game.
+_It is theorized that the rewards he gives depend on what season it is in-game. There are many cases of players not receiving a Krulian Knife._
+
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife.
 -   **Luck** - You receive a massive amount of luck for your card draws.
 
@@ -37,6 +38,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 -   The Ferryman is unlikely to be directly related to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) with the same name.
     -   However, they both possess godlike powers and mock (to varying degrees) the mortals that come to meet them. They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
+-   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer".
 -   As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris huddling next to a gate, and he speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
     

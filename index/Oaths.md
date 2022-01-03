@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 8330
+revid: 8413
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -10,9 +10,9 @@ categories: [Pages with broken file links, Skills]
 
 ## Description
 
-Oaths are a power that can be obtained from completing tasks, much like Edicts in Rogue Lineage.
+Oaths are a power that can be obtained from completing tasks, much like Edicts / A Rare races in Rogue Lineage.
 
-You may only have a single Oath per unique character, so it is best to pick what Oath you're trying to get at the start of your journey.
+You may only have 1 Oath per character slot, so it is best to pick what Oath you're trying to get at the start of your journey as you will be locked into it forever.
 
 ###### _REMINDER: oaths do not carry over if your character wipes_
 
@@ -30,11 +30,12 @@ You may only have a single Oath per unique character, so it is best to pick what
 
 ### How to obtain:
 
--   Open card deck at Power 30+ and select Oath: Oathless (will not always be drawn).
+-   Open card deck at Power 30 and select Oath: Oathless
 
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots
+-   +Oath legacy hidden trait
 
 ### Oath Description:
 
@@ -54,9 +55,9 @@ The easiest Oath to obtain, as it only requires the player to reach Power 30, wh
 
 ### Pre-requisites:
 
--   Willpower 40+ There is no Level Requirement (Not 50)
--   Blindfold (Chest Item)
--   All of the "Mental Fortress" talents. (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, and Unyielding Focus.)
+-   Willpower 40+ There is no Level Requirement (I have got it twice at willpower 42)
+-   Blindfold or eyeglasses (Chest Items)
+-   All of the Mental Fortress talents (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus.)
 
 ### How to obtain:
 
@@ -69,8 +70,10 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   +1 Support Mantra Slot
 -   +1 Wildcard Mantra Slot
 -   Slight no fog
--   Full vision while wearing a blindfold
--   Visible symbol in front of your blindfold OR a black mask with a unique yellow design (Locked to [Vesperians](Vesperian.md)) (you can actually equip other face accessories and still have the full effects of the oath (Except the fullbright.) and the drippy eye symbol, although if you don't have any face accesory on it will still show you as weraing a blindfold)
+-   Hidden "Labanski buff" (what?) (no idea what this means)
+-   Full vision while wearing a Monocle
+-   Visible symbol in front of your Monocole OR a black mask with a unique yellow design (Locked to [Vesperian](Vesperian.md)).
+-   You can equip other face accessories and still have the full effects of the oath excluding fullbright and the eye symbol.
     
     Blindseer vesp  
     
@@ -82,7 +85,10 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 ## Notes
 
 -   According to a Blindseer user, with willpower 50, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
--   The Blindseer method video was published by Fear. You may watch the [video](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
+-   The Blindseer method video was published by Fear. You may watch the video for a more in-depth guide on how to obtain it.
+-   If you don't have any face accesory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
+
+  
 
   
 
@@ -108,10 +114,10 @@ A higher quality picture, I just snipping tooled it form the original image
 
 ### How to obtain:
 
-1.  Visit The Depths, and talk to Yun'Shul.
-2.  If you are Level 10 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
-3.  Select Yun'Shul Oath to receive the oath. You can only choose one wish per character and talking to him without resonance or level requirement will wipe you since it is in The Depths.
-4.  You must jump into the void while out of combat with high insanity which will teleport you back onto the surface and remove your -100 sanity debuff. This is **OPTIONAL.**
+1.  Visit The Depths, and talk to Yun'Shul
+2.  If you are Level 45 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
+3.  Select Yun'Shul Oath to receive the oath. ~You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed,~ (Unless you have proof of wishing more then once or test it don't add this back) **YOU CAN ONLY WISH ONCE PER CHARACTER.**
+4.  Select Yun'Shul Oath to receive the oath. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths. _(Formerly there was a fake step that required you to jump into the void to remove the sanity, it is belived to be fake only put there to troll, I reverted this so there would be no misunderstandings. Although I am testing to see if it is real, I will revert if it is.)_
 
 ### Oath Effects:
 
@@ -129,4 +135,5 @@ A higher quality picture, I just snipping tooled it form the original image
 ###### Notes:
 
 -   This oath could be fake, I am testing the validity of it, 1/2/21 - Neutered Cat#6865
+-   Some say that this oath has a big disadvantage. Just put it either on the effects or in the comments section if found.
 -   The old step three was most likely fake as some random user had just went in and changed the steps.

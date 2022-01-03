@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 8152
+revid: 8351
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,4 +47,4 @@ _IF YOU'RE WORTHY._
 
 **(Encountered in Erisia)** "The Legendary Boot waits for the day that one worthy will claim it."
 
-It is unknown whether or not it is possible to take the boot.
+The boot allows you to surpass 75 agility.

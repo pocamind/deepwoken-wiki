@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 7883
+revid: 8407
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links]
 
 To get access to Greathive Aratel there is some requirements you need to meet first before being able to teleport there.
 
-1.  Lvl 40(?)
+1.  Lvl 40(?) (Untrue, you just need to wash your face and have an oath, if those requirements have been checked. lvl 29 blindseer could use the teleport wells)
 2.  An Oath (Oathless/Blindseer/...)
 3.  You probably need to wash your face in the well on Hive to get to the main teleporter on Hive Island
 

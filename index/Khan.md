@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 7806
+revid: 8338
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -39,7 +39,6 @@ Khans are ape-like humanoids that wear a golden headband. They have orange/yello
 ## Strengths
 
 -   +2 Strength, +2 Agility.
--   Looks cool is the best race.
 
 ## Notes/Trivia
 

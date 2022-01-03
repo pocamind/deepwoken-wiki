@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 8293
+revid: 8393
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -157,7 +157,7 @@ File:Providence.png
 
 File:Gluttony.png
 
-Gluttony on a Crescent Cleaver
+Gluttony on a Crescent Cleaversilver dagger
 
 -   Pros: Drains a person's thirst and hunger every M1 Connection and gives it to the user.
 -   Cons: Unknown.
@@ -285,7 +285,7 @@ File:Enchanted hero.png
 
 **Cursed Hero Blade**
 
-Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords. **THEY CAN BE ENCHANTED.**
+Note : You can get these swords by killing all the Snow Knights. Upon killing them they will drop a chest with one of the swords. **THEY CAN NO LONGER BE ENCHANTED.**
 
 -   Versions: Wind, Fire, Lightning, Ice, Shadow
 -   Lightning: Stuns enemy for longer.

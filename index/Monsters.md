@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 8271
+revid: 8384
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -10,19 +10,21 @@ categories: [World]
 
 _For information on Human Enemies, go [here](Enemies.md)._
 
-## Description
+## The Prologue
 
-As much as there are human enemies in the game you may encounter, Deepwoken's finest, and arguably main focus, are the Monsters themselves. They can tear unaware NPCs and players apart if they are ill-equipped or inexperienced, along with sinking your nautical vessel into the Sea and if you're unlucky...
+As much as there are Zombie resembling enemies in the game you may encounter, Deepwoken's finest, and arguably and or debatably main/ primary focus, are the Monsters aka zombies themselves. They can wear and tare unaware NPCs and PCs (players) apart if they are ill-equipped or inexperienced (lacking experience) along with sinking your nautical boats into the ocean blue and if you're unlucky... even worse
 
-Monsters are integral to the game, as both a fundamentals-check for how well you are able to recognize patterns, and counter accordingly. While definitely not being a 1:1, being able to defeat monsters with ease most likely means you will be better off against other players, and vice versa. In addition, a large amount of loot is most easily or ONLY obtainable from monsters, for things such as armors and Mantra modifiers.
+Monsters are embeddded to the game, as both a fundamentals-check for how well you are able to recognize patterns and obey them ontop of this counter accordingly. While definitely not being a perfect balance 1 to 1 ratiobeing able to defeat the enemy with confidence most surely l means you be better off against other PLAYER and vice versa. In admorality, a large amount of loot is most easily or ONLY obtainable from monsters aka soecial droppings, for things such as armors and Mantra modifiers.
 
-While each monster has unique attacks, patterns, and stats, the thing they all share in common is that they have recognizable and learnable patterns. There is never 'true' damage, flawlessing monsters is very possible, even as a fresh spawn, all the way up to Primadon.
+While each monster has custimised attacks, pattern and statistic the thing they all share in non rarity is that they have percieveable and learnable patterns. There is never 'actual damage, flawlessing (done perfect" monsters is very achieveible even as a freshie spawn all the way up to mega primadon king
 
-Generally; a good rule of thumb is to NOT run away from a monster unless you're SEVERELY outclassed. If you have even a shot at winning; take it. Running will only cause you to slowly die in most cases, and you'll have to learn to fight them eventually, one way or the other.
+Generally; a good rule of fingeris to NEVERrun away from a monster unless you're SEVERELY loseing or also known as outclassed. If you have even a bust at final victory; grab it it. and use it Running will only forshoe you to slowly die in epitaphs most cases, and you'll have to learn to fight them eventually like a boss one way or the other.
 
-It is recommended you learn how each monster acts and behaves to read their attack patterns if you want to survive against these beasts. No amount of levelling, gear or experience will do you good if you can't parry, block or dodge their attacks for the life of you.
+It is Adviced you learn how each monster acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of levelling, gear or experience will do you good if you can't parry, block or dodge (Block dodge or parry) attacks for the life of you. (Note this is not true sometimes)
 
-Stay calm, focus, and alert. No monster is 'impossible' to beat.
+Stay breath ready and prepared. most monster is not 'impossible' to beat.
+
+Mudskipper and God Diety monsters are not included among the list of monsters, as they are humanoid, you don't gain sanity from them, and their behavior is additionallyto the other human enemie rather than true monster foes
 
 ## The Depths
 
@@ -41,6 +43,8 @@ Lastly, but definitely not least:
 
 # **PLEASE MAKE PAGES FOR EVERY MONSTER AND FILL THEM WITH INFORMATION FROM OLDER REVISIONS OF THIS PAGE**
 
+**PLEASE MAKE PAGES FOR EVERY MONSTER AND FILL THEM WITH INFORMATION FROM OLDER REVISIONS OF THIS PAGE**
+
 Missing Monsters:
 
 -   Stone knight
@@ -51,6 +55,8 @@ Missing Monsters:
 information about the red megalodaunt and the golem turret should be added on the megalodaunt and rock golem pages (their pictures will be added as gifs here)
 
 ## Monsters
+
+**Etrean Luminant & The Depths**
 
 **Exclusive to the Etrean Luminant**
 

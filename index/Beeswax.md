@@ -1,6 +1,6 @@
 ---
 title: Beeswax
-revid: 6159
+revid: 8410
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,4 +17,6 @@ Beeswax can be found hanging off of large trees in Vigil and Etrea, requiring yo
 
 **Usage**
 
-Beeswax is only used for crafting a Canteen, which is achievable by pairing it with a Calabash at a crafting table. Its other usages are currently unknown.
+Beeswax is only used for crafting a Canteen, which is achievable by pairing it with a Calabash at a crafting table.
+
+It also serves as an ingredient in potions, giving regeneration effects.

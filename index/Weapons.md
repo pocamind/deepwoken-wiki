@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 8312
+revid: 8389
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -49,6 +49,8 @@ Light weapons are one-handed weapons. They are fast and agile, with high attack 
 
 Light Weapons are small, light, and attack quickly. Their basic attack range tends to be short, but their heavy attacks tend to have more range. There are three types of Light Weapons. Dagger, Fist, and Flintlock.
 
+Way of Navae and Legion Kata apparently have the same stats and are both called "Fist" in the campfire menu, meaning it is only the animations that are different.
+
 <table>
 <tbody>
 <tr>
@@ -74,7 +76,7 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>1.05x</td>
 </tr>
 <tr>
-  <td>Way of Navae</td>
+  <td>Fist</td>
   <td>0 LHT</td>
   <td>Fist</td>
   <td>12</td>
@@ -85,21 +87,29 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Legion Kata</td>
+  <td>Cestus</td>
   <td>0 LHT</td>
-  <td>Fist</td>
-  <td>12</td>
   <td></td>
-  <td>7</td>
-  <td>3</td>
-  <td>7</td>
-  <td>0.75</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Iron Cestus</td>
   <td>0 LHT</td>
   <td>Fist</td>
   <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Flintlock</td>
+  <td>20 LHT</td>
+  <td>Flintlock</td>
+  <td>10</td>
   <td></td>
   <td></td>
 </tr>
@@ -113,14 +123,6 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td></td>
   <td>6.5</td>
   <td>1.03</td>
-</tr>
-<tr>
-  <td>Flintlock</td>
-  <td>20 LHT</td>
-  <td>Flintlock</td>
-  <td>10</td>
-  <td></td>
-  <td></td>
 </tr>
 <tr>
   <td>Legion Cestus</td>
@@ -142,16 +144,8 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>1.05x</td>
 </tr>
 <tr>
-  <td>Whaling Knife</td>
-  <td>40 LHT</td>
-  <td>Dagger</td>
-  <td>15</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
   <td>Jus Karita</td>
-  <td>45 LHT</td>
+  <td>40 LHT</td>
   <td>Fist</td>
   <td>13</td>
   <td>20%</td>
@@ -159,6 +153,14 @@ Light Weapons are small, light, and attack quickly. Their basic attack range ten
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
+</tr>
+<tr>
+  <td>Whaling Knife</td>
+  <td>40 LHT</td>
+  <td>Dagger</td>
+  <td>15</td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Champion's Dagger</td>
@@ -360,10 +362,12 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Gremorian Longspear</td>
   <td>20 MED</td>
   <td>Spear</td>
+  <td>18</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>4</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td>Katana</td>
@@ -403,9 +407,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td>20</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Champion Sword</td>
@@ -462,8 +467,12 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Razor Cutlass</td>
   <td>60 MED</td>
   <td>Sword</td>
-  <td></td>
-  <td></td>
+  <td>18</td>
+  <td>20%</td>
+  <td>7</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Rifle Spear</td>
@@ -477,7 +486,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>0.68x</td>
 </tr>
 <tr>
-  <td>Shattered Katana</td>
+  <td>Scattered Katana</td>
   <td>100 MED</td>
   <td>Sword</td>
   <td>22</td>
@@ -712,8 +721,6 @@ These weapons do not fit the other categories, because their requirements and sc
 **Shields:**
 
 Accessories you can use in your off-hand and decrease posture damage.
-
-</left>
 
 <table>
 <tbody>

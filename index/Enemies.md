@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 7919
+revid: 8357
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,9 +15,11 @@ Beyond the safety of cities and towns, there are humanoid NPCs that lurk within 
 
 Depending on who they are, they could vary in their skill, equipment, and Attunements.
 
+The following are **humanoid NPCs** that are **always hostile** to **all players**. Faction guards, such as those of Etrea, the Authority, or the Hive, are not included, because having positive reputation with them will prevent them from attacking you. Mudskippers and Angels are included; despite being hostile creatures they are not truly "monsters".
+
 For information of Monsters, go [here](Monsters.md).
 
-### The Kingdom of Etrea
+### Bandits
 
 -   Palace Guards
 -   Etrean Guardsmen
@@ -29,37 +31,20 @@ For information of Monsters, go [here](Monsters.md).
 -   Songseeker Frostdrawer
 -   Songseeker Thundercaller
 
-### **The Central Authority**
-
--   Peacekeeper Captain
--   Peacekeeper Grunt
--   Fort Merit Captain
--   Fort Merit Guard
-
 ### The Ministry
 
 -   Cultist Fanatic
 -   [Cultist Necromancer (Mudskipper-Mancer)](Ministry_Necromancer.md)
-
-### The Empire/Legion
-
--   Hoplite
--   Golden Warrior
-
-### Bandits
-
--   Thieves
--   Bandit Captains
--   Common Bandits
 
 ### Miscellaneous
 
 -   Hobo (Crazed Stranded)
 -   [Mindless Servant](Mindless_Servant.md)
 
+-   Mudskipper
+-   Angel
+
 ## Bosses
 
 -   [The Duke of Erisia](Duke_Ishamon_Erisia.md)
 -   The Ferryman
-
--   Joe Mama. (Beta boss meme)

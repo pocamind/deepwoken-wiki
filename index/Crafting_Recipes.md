@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 8255
+revid: 8412
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -91,7 +91,7 @@ _**Potions**_ are made with the use of a cauldron. (One can be found in Etris, r
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
 | **Heartening Remedy** | 
--   Bluecaps
+-   3 Bluecaps
 
  | _**Positive**_
 

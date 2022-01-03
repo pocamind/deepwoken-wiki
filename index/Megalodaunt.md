@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 8332
+revid: 8387
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -43,19 +43,19 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the 
 -   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt. Red Megalodaunts appear exclusively on Songseeker Wilds(?). Red Megalodaunts can use a mantra that summons flaming swords in the sky, which proceed to rain down. Much harder than the normal variant.
 -   **Black Megalodaunt** - Appears exclusively in [the Depths](The_Depths.md)(?). Probably stronger than a normal Megalodaunt, too.
 
-## Tips
+## Lyfe hacks
 
--   Do not be afraid of them. Any player, no matter the power and with enough experience, can kill a Meglodaunt (unless it's the red variant).
+-   Do not be scaret of them. Any player, no mater the power and with enough experience, can kill a Meglodaunt (unless it's the red variant).
 -   Meglodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
--   It is recommended to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
--   Common slang terms of Meglodaunt is Sharko, Megalodaunt, Gary, Jerry, and Big guy.
--   If Meglodaunt has you as a Target, its best if you parry some of his moves than try to avoid it. Moves such as Thousand Needles and Yellow Burst is semi-impossible to avoid, as it covers a good amount of area.
--   Your camera shakes the closer Meglodaunt is to your character, due to his footsteps.
--   It's always recommended to perfect dodge the Football Kick.
--   After parrying it's Palm Slap, block for a second to see if it slaps again and react to it's next move.
--   Meglodaunt has 1000 points of HP.
--   Although they do look extremely intimidating they can be dealt with if you have over 160 health or high fortitude, or if you have 2 or more people you can juggle the Meglodaunt between each of you and when one of you fighting gets low you swap out and heal.
--   If your above level 20 and have a squad of more than 3 players you can usually get away with just rushing them
+-   It is adviced to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
+-   Common slang terms of Meglodaunt is Sharko, Megalodaunt, Gary, Jerry, Big Guy, and Liam
+-   If Meglodaunt has you as a enemy targets, its best if you block dodge or party some of his moves than try to role it. Moves such as Thousand Needles and Yellow streamis semi-impossible to avoid, as it covers a good amount of area.
+-   Your camera shaker the closer Meglodaunt is to your character, due to his footsteps.
+-   It's always recommended to perfect dodge the Football Kicks
+-   After parrying it's Palm bust block for a second to see if it slaps again and react to it's next move.
+-   Meglodaunt has 400 points of HP.
+-   Although they do look extremely intimidating d they can be dealt with if you have over 160 health or high hos, or if you have 2 or more peeps you can jiggle the Meglodaunt between each of you and when one of you fighting gets low you swap out and heal. and jiggle
+-   If your above level 53 and have a squad of more than 3 players you can usually get away with just rushing them
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
 -   The following method can be used to easily kill the Meglodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy). (THE METHOD MIGHT HAVE BEEN PATCHED, NO TESTINGS YET.)

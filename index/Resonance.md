@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 8307
+revid: 8379
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -34,7 +34,7 @@ _**Pressing C triggers resonance**_
 -   Have gripped around 10 people in depths (Must be around your power level. It is suggested that you do this BEFORE you max luck, so you know if the person you grip counted or not.)
 -   Have max luck, being signified if you do not get luck from players/monsters anymore. (PICKING A LEGENDARY/RARE CARD WILL DRAIN LUCK).
 
-Upon all these things, getting knocked (by someone who isnt a guildmate) should give a resonance, but it might take a few knock attempts.
+  
 
 ## Alternate Theory
 
