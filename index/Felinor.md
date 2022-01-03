@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 8400
+revid: 8417
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -27,7 +27,7 @@ TBA
 A race that has physical features resembling that of a cat, hence the name _Felinor_.
 
 -   Has cat ears
--   3 Different variants, consisting of a paled-skin and almond coloured hair with yellow eyes, a pale-grey skinned and light grey hair variant, and a black skinned and black hair variant
+-   4 Different variants, consisting of a paled-skin and almond coloured hair with golden eyes, a pale-grey skinned and light grey hair variant with emerald green eyes, a black skinned and black hair variant with golden eyes, and a very humanly peach-skinned with peach ears variant with white hair and red eyes.
 
 ## Racial Abilities
 

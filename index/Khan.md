@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 8338
+revid: 8437
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -18,37 +18,47 @@ Khans have an appearance similar to [Sun Wukong](https://en.wikipedia.org/wiki/M
 
 -   Chance of obtaining race: **8%**
 
-Template:Race Box mark 2
+Template:Races-Main
 
-## Lore
-
-none
-
-## Appearance
-
-Khans are ape-like humanoids that wear a golden headband. They have orange/yellowish hair and have light green eyes.
-
-## Racial Abilities
-
--   Versatile: You are able to equip items 3 points earlier than the required amount.
-
-## Progression
-
--   As Khans grow older, their golden headbands change in color to silver and their hair turns more grayish.
-
-## Strengths
-
--   +2 Strength, +2 Agility.
-
-## Notes/Trivia
-
--   Sun Wukong's gold headband cannot be taken off, it's use is to restrain him, tightening when a certain sutra is chanted.
--   If you reroll a Khan into another race, instead of saying 'Switch to Khan' it will say 'Return to Khan,' in reference to returning to monke.
+## Racial Traits
 
 <table>
 <tbody>
 <tr>
-  <td>Variants and Aging</td>
+  <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
+  <td><b>Versatile</b>
+  <ul>
+    <li>You are able to equip items 3 points earlier than the required amount.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Strength</li>
+    <li>+2 Agility</li>
+  </ul></td>
 </tr>
 </tbody>
 </table>
+
+## Miscellaneous
+
+**Lore:**
+
+## Lore
+
+**Strengths:**
+
+## Strengths
+
+**Weaknesses:**
+
+## Weaknesses
+
+N/A
+
+## Notes/Trivia
+
+-   racoon
+-   you cannot eat garbage, this should be considered a weakness

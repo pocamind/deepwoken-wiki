@@ -1,9 +1,9 @@
 ---
 title: Mindless Servant
-revid: 7515
+revid: 8499
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Mindless Servant

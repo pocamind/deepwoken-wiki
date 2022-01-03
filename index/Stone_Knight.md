@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 8404
+revid: 8548
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Stone Knight
 
-## Snow Knight
+## Snow Knight (Bartholemue)
 
 Exclusive to the Winter season.
 
@@ -28,12 +28,12 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
 <tr>
   <th><figure>File:Ice knight kick.gif<figcaption></figcaption></figure></th>
   <th>Kick</th>
-  <th>The player is kicked into the air (and probably slammed into a wall)</th>
+  <th>The player is kicked into the air (and probably slammed into a wall)<p>If both the Snow Knight and player are close enough to a wall, the Snow Knight is near guaranted to get a free Slash or Rock Pillar.</p></th>
 </tr>
 <tr>
   <td><figure>File:Rock pillar.gif<figcaption></figcaption></figure></td>
   <td>Rock Pillar</td>
-  <td>A pillar forms below the targeted player, launching them into the air</td>
+  <td>A pillar forms below the targeted player, launching them into the air<p>If close to the player, the Snow Knight is guaranted to get a free Kick or Slash.</p></td>
 </tr>
 <tr>
   <td><figure>File:Wind Blast.gif<figcaption></figcaption></figure></td>

@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 6961
+revid: 8450
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,14 +10,44 @@ categories: [Pages with broken file links, Races]
 
 ## Description
 
-Template:Race Box mark 2
+Template:Races-Main
 
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._
 
 Chance of obtaining race: **17.4%**
 
-## Lore
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Molt.png<figcaption></figcaption></figure></td>
+  <td><b>Molt</b>
+  <ul>
+    <li><i>Ailments and blessings alike fade away more quickly.</i></li>
+    <li>+1 HP</li>
+  </ul></td>
+</tr>
+<tr>
+  <td></td>
+  <td><b>Poison Resistance</b>
+  <ul>
+    <li>Takes less damage in acid rain.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Agility</li>
+    <li>+2 Intelligence</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellaneous
 
 **Lore:**
 
@@ -34,28 +64,6 @@ Takes less damage in acid rain.
 
 Seeing as how **Molt** reduces the duration of positive effects as well as negative, this would technically make them "the worst race" in the game as they are the only ones to have a trait with a negative effect. Regardless, the decreased duration seems negligible and won't have much of an effect on gameplay.
 
-## Racial Traits
+## Notes/Trivia
 
-<table>
-<tbody>
-<tr>
-  <td><figure>File:Molt.png<figcaption></figcaption></figure></td>
-  <td><b>Molt</b>
-  <ul>
-    <li>Ailments and blessings go away more quickly.</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b><big>Attributes</big></b></td>
-  <td>
-  <ul>
-    <li>+2 Agility</li>
-    <li>+2 Intelligence</li>
-    <li>+1 Health</li>
-  </ul><p><b>Poison Resistance</b></p>
-  <ul>
-    <li>Takes less damage in acid rain.</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+-   Notes go here

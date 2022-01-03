@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 8269
+revid: 8545
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -115,7 +115,7 @@ File:Flame Blind.png
  | Flame Wisp (☆☆) | A servant of flames. | Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits. Has a very long- if not unlimited- duration, and will disappears after healing you a certain number of times. This number can be increased with logstones |
 | 
 
- | Graceful Flame | Conjure a undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
+ | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
 | 
 
  | Flame of Denial | Undying flame. | For the next 60 seconds, if the caster receives fatal damage, he'll heal 15% health. However, if the damage is too high, the caster may still be knocked. |

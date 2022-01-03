@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 7892
+revid: 8513
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -90,7 +90,34 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 | Image | Talent | Talent Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
+|  | Shadow Travel | 
+> Shadowcaster
+
+ | 
+
+> Rare
+
+ | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
+
+  
+**PASSIVE**
+
+| Image | Talent | Talent Tree | Rarity | Card Description |
+| --- | --- | --- | --- | --- |
+| File:Blackout.png | Blackout | 
+> Shadowcaster
+
+ | 
+
+> Common
+
+ | Block breaking an opponent their vision with darkness more potent than your Shadow mantra.
+
++5 Elemental Intensity +2 Health
+
+ |
 | File:Dark God.png | Dark God | 
+
 > Darksiphon
 
  | 
@@ -101,18 +128,20 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 +1 Elemental Intensity
 
-+3 Health
-
  |
-|  | Shadow Travel | 
+| File:Sightless Still.png | Sightless Still | 
 
 > Shadowcaster
 
  | 
 
-> Rare
+> Common
 
- | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
+ | The more a person is affected by your shadowcast the more you obscure their vision. +5 Elemental Intensity
+
++2 Health
+
+ |
 
 ## Trivia
 
@@ -121,3 +150,5 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 -   Additionally, several Shadowcast moves charge up with a white light.
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred as Lightkeepers are an "authority" within Deepwoken's world that this death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
+
+|}

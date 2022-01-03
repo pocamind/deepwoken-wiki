@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 5928
+revid: 8511
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,7 +39,19 @@ Locations & Hints
 
 -   Erisia Island
     -   The Viper's Fangs
--   Sound Ques and Purple Rings flying upwards (Sounds of an echoed pulse)
+-   A loud, pulsating noise with large Purple Rings flying upwards away from the artifact's vacinity.
+
+A Celtor finding the pulsating rings.
+
+  
+
+  
+
+  
+
+  
+
+  
 
 ## Notes/Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Hobo
-revid: 8070
+revid: 8508
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, NPC]
 ---
 
 # Hobo
@@ -14,7 +14,7 @@ File:Hobo.png
 
 Picture of a hobo sitting.
 
-His movements are very jagged and extremely fast, almost like he's flying. In order to parry his hits you need to predict them, and during his frenzy its impossible to flourish him, so he will be attacking nonstop with [flamecharm](Flamecharm.md) mantras. You must fight back when he stops moving, or by using AoE skills while he's moving. He does medium damage and has medium health (~500). Killing the Hobo results in no drops, so just avoid him if you dont have enough charisma.
+His movements are very jagged and extremely fast, almost like he's flying. In order to parry his hits you need to predict them, and during his frenzy its impossible to flourish him, so he will be attacking nonstop with [flamecharm](Flamecharm.md) mantras. You must fight back when he stops moving, or by using AoE skills while he's moving. He does medium damage and has medium health (1000). Killing the Hobo results in no drops, so just avoid him if you dont have enough charisma.
 
 Attacks:
 

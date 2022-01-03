@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 8413
+revid: 8426
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -70,7 +70,7 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   +1 Support Mantra Slot
 -   +1 Wildcard Mantra Slot
 -   Slight no fog
--   Hidden "Labanski buff" (what?) (no idea what this means)
+-   Hidden "Labanski buff" (what?) (no idea what this means) (<-- me neither)
 -   Full vision while wearing a Monocle
 -   Visible symbol in front of your Monocole OR a black mask with a unique yellow design (Locked to [Vesperian](Vesperian.md)).
 -   You can equip other face accessories and still have the full effects of the oath excluding fullbright and the eye symbol.

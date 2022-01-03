@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 8379
+revid: 8439
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -86,7 +86,7 @@ Phoenix fire effect
 #### Effects:
 
 -   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside yourself.
--   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow.
+-   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow. (discount Rogue Lineage gate)
 
 ### **Reaper**
 

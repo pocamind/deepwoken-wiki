@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 7903
+revid: 8459
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,7 +26,7 @@ _**Main Article -**_ [Monsters](Monsters.md)
 -   [Seekers](Watcher.md)
 -   [Angels](Hollow_Angel.md)
 -   [Jellyfish](Gigamed.md)
--   Giant Jellyfish
+-   [Giant Jellyfish](King_Gigamed.md)
 -   [Crab](Crab.md)
 -   Lion Fish
 -   [Sharko](Megalodaunt.md)

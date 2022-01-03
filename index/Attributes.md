@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 8314
+revid: 8540
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -8,41 +8,34 @@ categories: [Character]
 
 # Attributes
 
-_"It's a simple method, beat people up and get better equipment. It's like a Bandit-Beater!"_ - Naive Celtor
-
-  
+_"It's a simple method, beat people up and get better equipment. It's like a Bandit-Beater!"_ - A naïve Celtor, moments before a Megalodaunt shot barnacles at him.
 
 ## Description
 
-It is possible to go past the softcap (75) on a stat, all you have to do is get 1 galestone and 75 stat (light, medium, heavy) then talk to Vigil Isaac somewhere in Burning Stone Gardens then go to Vigils and talk to Apprentice Kj. After that go talk to Maestro Evengarde Rest inside the sparring room.
+They are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain amount of points into it.
+
+Each Power level, you get 5 Investment Points to spend on attributes. To Power up, spend all of the investment points.
 
 Character Sheet of Helena Dusselden
 
-  
-
-## Experience Points
-
-Each Attribute has a hidden EXP Value. Performing certain actions (such as taking damage from a variety of ways increases Fortitude EXP) gives EXP to that Attribute. Once the Attribute hits their max EXP value, a pop-up will show that Attribute is ready to be "let out" through [Training Gear](Training_Gear.md).
-
-  
-
 ## Physical/Mental Attributes
 
-These attributes can be improved up to 100 points.
+These attributes can be improved up to 75 points, but may be uncapped to 100 once you do a specific quest to unlock an Attribute's full potential.
 
 ### Strength
 
-_"My right arm is a lot stronger than my left arm!" - Beefed Up Canor_
+_"My right arm is a lot stronger than my left arm!" - Coomer Felinor_
 
 -   Overall Physical Strength, Increases Carry Load by 1 per Strength.
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras, depending on the Character's Strength.
 -   For every 10 Points of Strength, gain 1% Penetration.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
+-   For every 5 Points of Strength, you can hold more of stacked items, e.g you can only Hold 10 Mushroom Soups at a time but with 20 Strength you can hold 14 Mushroom Soups
 
 ### Fortitude
 
-_"Good Soup." (Pukes everywhere) - Nameless Khan_
+_"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
 
 -   Overall Character's Wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (0.5 HP Increase per Fortitude?)
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
@@ -63,7 +56,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 
 ### Intelligence
 
-_"What's 9 + 10?" - Etrean questioning a small-brained Felinor "Ayo thats racist" - another small-brained Felinor_
+_"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.
@@ -73,9 +66,7 @@ _"What's 9 + 10?" - Etrean questioning a small-brained Felinor "Ayo thats racist
 
 ### Willpower
 
-_"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom read the strange glyphs for an ungodly amount of time_
-
-"Do not look at the deepwoken discord art channel or canor page comments, worst mistake of my life." - Unfortunate female canor
+"Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now." - Unfortunate female Canor
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -84,7 +75,7 @@ _"I must rest now. The reading has made me weary." - Vesperian Pathfinder, whom 
 
 ### Charisma
 
-_"Just sign the goddamn petition already!" - Said the charismatic Felinor for the tenth time_
+_"Y'all see the shoes, y'all see the money" \*proceeds to scam the Antiquarian\* - A charismatic Capra_
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.
@@ -99,7 +90,7 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 ### Heavy Weapons
 
-_"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron." - A Legend, describing his shadow greatsword._
+_"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron." - a Felinor and Zweïhander_
 
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
@@ -109,7 +100,7 @@ _"It was too big to be called a sword. Massive, thick, heavy, and far too rough.
 
 ### Medium Weapons
 
-Long =/= better. - Someone who regretted buying a spear.
+"_All for The Prince._" - a Gremor repeatedly using the Gremorian Longspear's critical attack
 
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
@@ -119,7 +110,7 @@ Long =/= better. - Someone who regretted buying a spear.
 
 ### Light Weapons
 
-"Britain." - Trigger Happy Adret
+"Yew got a loicense for that knoif mate?" - British Adret
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.
@@ -133,10 +124,6 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-_"The Power of the Sun... In the palm of my hand." - Unnamed Flamecharmer_
-
-_"The inferno begins." - Brand_
-
 _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
@@ -148,8 +135,6 @@ _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 
-_"Flee from the cold." - Ash_
-
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Unlocks Frostdraw related Talents.
 -   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras.
@@ -157,8 +142,6 @@ _"Flee from the cold." - Ash_
 ### Thundercall
 
 _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate Thundercaller_
-
-_"My thunder shakes the foundations of the world!" - Volibear_
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Unlocks Thundercall related Talents.
@@ -174,10 +157,19 @@ _"Sorye ge ton!" - Yasuo_
 
 ### Shadowcast
 
-_"Ahh yes, Darkness... Where I belong... Your ether... is mine!—" Edgy Shadowcaster_
+_"Hoo boy, for some reason I want to grip freshspawns!" said the Shadowcaster_
 
-_"Ugghh, Shadowwww, carry meeee." - Vex_
+"You must be an Uber Oni" said his friend.
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Unlocks Shadowcast related Talents.
 -   Gain Shadowcast EXP by dealing damage to Enemies and Monsters using Shadowcast Mantras.
+
+## Experience Points
+
+Each Attribute has a hidden EXP Value. Performing certain actions (such as taking damage from a variety of ways increases Fortitude EXP) gives EXP to that Attribute. Once the Attribute hits their max EXP value, a pop-up will show that Attribute is ready to be "let out" through [Training Gear](Training_Gear.md).
+
+## Tips
+
+-   It is recommended you Get Good.
+-   You may sometimes spend all your Investment Points yet still not Power up. This usually happens to characters with the Autodidact Boon. It just means you need more EXP to Power up.

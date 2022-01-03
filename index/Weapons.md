@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 8389
+revid: 8547
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -525,7 +525,6 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>6</td>
   <td>8</td>
   <td>0.6x</td>
-  <td></td>
 </tr>
 <tr>
   <td>Steel Maul</td>
@@ -553,12 +552,11 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>Adretian Axe</td>
   <td>40 HVY</td>
   <td>Great Axe</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>26</td>
+  <td>8</td>
+  <td>6</td>
+  <td>8</td>
+  <td>0.61x</td>
 </tr>
 <tr>
   <td>Crescent Cleaver</td>
@@ -580,7 +578,6 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>4</td>
   <td>8</td>
   <td>0.6x</td>
-  <td></td>
 </tr>
 <tr>
   <td>Iron Birch</td>
@@ -591,7 +588,6 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>4</td>
   <td>8</td>
   <td>0.64x</td>
-  <td></td>
 </tr>
 <tr>
   <td>Halberd</td>

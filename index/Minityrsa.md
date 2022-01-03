@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 5627
+revid: 8495
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,7 +30,7 @@ Minityrsa, located far from Etris, is recommended for Players that are Power Lev
 -   Dark Mage Cultists
 -   Ice Golems
 -   [Snow Knight](Stone_Knight.md)
--   Gargoyles (those flying annoying things)
+-   [Gargoyles](Brainsucker.md)
 
 ## Notes/Trivia
 

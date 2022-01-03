@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 8231
+revid: 8519
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character]
@@ -713,6 +713,33 @@ Power 45
 +300% Ether Regen
 
 +30% Elemental Armor
+
+ |
+
+  
+
+### Unique
+
+| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
+| --- | --- | --- | --- | --- |
+| 
+ | Ferryman's Coat | x5 Cloth
+
+x5 Fiber
+
+x10 Vibrant Gems
+
+x500 Notes
+
+ | Power 25 | +20% Lightning Armor
+
++Talent: Ferryman's Curse
+
++1000 Durability
+
++25% Physical Armor
+
++25% Elemental Armor  
 
  |
 

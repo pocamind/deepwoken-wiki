@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 8227
+revid: 8549
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -142,13 +142,13 @@ A Summer Company Member.
 -   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
 -   Flamecharm Masters are commonly found in Songseeker Isles, and Frostdraw Masters can be found in [Minityrsa](Minityrsa.md).
 
-### The Hive Empire
+### The Hive Legion
 
 -   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have a form of ranking such as Centurions and Tacticians, described by [Amara](Amara.md) in The Viper's Jaw and the Hive Tactician Armor.
     
-    Amara, a Member of The Empire.
+    Amara, a Member of The Legion.
     
 
 ### The Ministry/Dark Mages

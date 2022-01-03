@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 8357
+revid: 8522
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,11 +19,11 @@ The following are **humanoid NPCs** that are **always hostile** to **all players
 
 For information of Monsters, go [here](Monsters.md).
 
-### Bandits
+### Etreans
 
--   Palace Guards
--   Etrean Guardsmen
--   Lord Regent
+-   [Palace Guards](https://deepwoken.fandom.com/wiki/Palace_Guard)
+-   [Etrean Guardsmen](https://deepwoken.fandom.com/wiki/Etrean_Guardsmen)
+-   [Lord Regent](https://deepwoken.fandom.com/wiki/Lord_Regent?venotify=created)
 
 ### Songseeker Cultists
 
@@ -36,13 +36,25 @@ For information of Monsters, go [here](Monsters.md).
 -   Cultist Fanatic
 -   [Cultist Necromancer (Mudskipper-Mancer)](Ministry_Necromancer.md)
 
+### The Central Authority
+
+-   [Fort Merit Captains](https://deepwoken.fandom.com/wiki/Fort_Merit_Captain)
+-   Fort Merit Guards
+
+### Bandits
+
+-   [Bandit](https://deepwoken.fandom.com/wiki/Bandit#Tips)
+-   [Bandit Captain](https://deepwoken.fandom.com/wiki/Bandit_Captain)
+-   [Bandit Assassin](https://deepwoken.fandom.com/wiki/Bandit_Assassin)
+-   [Bandit Adventurer](https://deepwoken.fandom.com/wiki/Bandit_Adventurer?venotify=created)
+
 ### Miscellaneous
 
 -   Hobo (Crazed Stranded)
 -   [Mindless Servant](Mindless_Servant.md)
 
--   Mudskipper
--   Angel
+-   [Mudskipper](Mudskipper.md)
+-   [Angel](https://deepwoken.fandom.com/wiki/Angels)
 
 ## Bosses
 

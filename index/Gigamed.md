@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 8108
+revid: 8477
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,5 +28,5 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**[The De
 
 -   Real Name: Gigamed
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
--   Health: 250
+-   Health: ~250~ Not 250 as i 2 shot them with my Forge Great-Hammer which does around 41 damange per hit. Possibly around 80 Health.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.

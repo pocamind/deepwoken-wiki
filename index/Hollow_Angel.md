@@ -1,9 +1,9 @@
 ---
 title: Hollow Angel
-revid: 8209
+revid: 8487
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Hollow Angel

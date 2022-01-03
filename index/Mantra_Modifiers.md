@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 8340
+revid: 8544
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,9 +12,9 @@ _This page is a list of all items that you can use in order to modify a Mantra._
 
 ## Description
 
-[A foolish individual using quite a numerous amount of items to upgrade a mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
+[A foolish fool using quite a numerous amount of items to upgrade a mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
 
-A foolish individual using quite a numerous amount of items to upgrade a mantra.
+A foolish fool using quite a numerous amount of items to upgrade a mantra.
 
 Mantra Modifiers are items that can be used to expand the potential of your Mantras. Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
 
@@ -187,4 +187,4 @@ _"You feel dizzy when you hold it."_
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
-    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together.
+    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together. If their better variants (**Status Stone** and **Perfect Lens**) are combined, you get Magnifying Stone.

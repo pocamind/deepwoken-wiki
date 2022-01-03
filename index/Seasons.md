@@ -1,8 +1,9 @@
 ---
 title: Seasons
-revid: 7127
+revid: 8498
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Seasons

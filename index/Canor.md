@@ -1,33 +1,55 @@
 ---
 title: Canor
-revid: 6963
+revid: 8467
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Canor
 
 ## Description
 
-Template:Race Box mark 2
+Template:Races-Main
 
-_"With canine features,  
-the Canor are fiercely loyal.  
-Often found as guards  
-and personal servants in the  
-retinue of powerful people."_
+_"With canine features, the Canor are fiercely loyal.  
+Often found as guards and personal servants in the retinue of powerful people."_
 
-  
 _Chance of obtaining race: **15.2%**_
 
-## Lore
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
+  <td><b>Loyalty</b>
+  <ul>
+    <li>Allies take less damage from attacks.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Strength</li>
+    <li>+2 Charisma</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellaneous
 
 **Lore:**
 
-none
+## Lore
+
+based off wolves
 
 **Strengths:**
+
+## Strengths
 
 +2 Strength, +2 Charisma.
 
@@ -35,28 +57,10 @@ Inflicts less damage to their own allies.
 
 **Weaknesses:**
 
-None
+## Weaknesses
 
-## Appearance
+N/A
 
-Wolf-based Canors are humanoids with tan skin, black hair, and green eyes.
+## Notes/Trivia
 
-Lion/Canine-based Canors are humanoids with tan skin, orange/golden hair and brown eyes.
-
-They are based on wolves and lions (confirmed recently)
-
-  
-
-## Racial Abilities
-
--   Loyalty: Allies take less damage from attacks.
-
-## Progression
-
--   Their hair turn white as they grow older.
-
-## Trivia
-
--   The most human looking race in Deepwoken (Aside the Adret, NPC's themselves claiming Adret to have no animalistic features whatsoever)
-
--   Will most likely have their hair turn white as they grow older. ~Similar to how Khans have more white hair as they grow older.~
+-   notes
