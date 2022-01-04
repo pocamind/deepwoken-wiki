@@ -1,13 +1,13 @@
 ---
 title: Nautilodaunt
-revid: 8756
+revid: 8901
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Nautilodaunt
 
-# **Squid (Squid Hoss/Squibbo/Squidward)**
+# **Squid (Squid Hoss/Squibbo/Squidward/ben 10)**
 
 ## Description
 
@@ -33,5 +33,7 @@ Drops "Odd Tentacles".
 -   STAY CALM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
--   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds New tip just don't.
+-   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds
 -   New tip just don't
+-   fr don't bro, just don't
+-   In the game files, Squibbo's real name is Squidward.

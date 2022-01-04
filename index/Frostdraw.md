@@ -1,9 +1,9 @@
 ---
 title: Frostdraw
-revid: 8849
+revid: 8850
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Spells]
 ---
 
 # Frostdraw

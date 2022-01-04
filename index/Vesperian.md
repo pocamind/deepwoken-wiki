@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 8838
+revid: 8874
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,12 +10,13 @@ categories: [Races]
 
 Template:Races-Main
 
-1.  1.  _**Lore**_
-    2.  _**SUPER sAYING JESUS 99999999999999999**_
+## Lore
+
+_Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents._
 
 ## Appearance
 
-GOD MODE.
+Masked humanoids with cyan/grayish hair. Their masks and skin tone change depending upon the variant selected upon creation. If you zoom in on your character such that it becomes slightly transparent, you'll find that Vesperians lack all facial features aside from thick yellow eyes that come in a variety of different shapes. As they age, Vesperians begin to grow horns.
 
 ## Racial Abilities
 
@@ -23,12 +24,12 @@ GOD MODE.
 
 ## Progression
 
--   Super saiyan g blue
--   super saiyan black
+-   As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
+-   It is possible to obtain a gold-and-black mask if you become a Blindseer.
 
 ## Strengths
 
--   +999 SPEED + 9999 Strenght +999999 god mode
+-   +2 Health, +2 Fortitude, 2+ Willpower
 -   Starts with slightly better armor than the starter set.
 
 ## Weaknesses

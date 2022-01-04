@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 8619
+revid: 8875
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -240,7 +240,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Etris is not a good Starting Island to spawn in as a Fresh Character; due to the lack of quests available to you. Isle of Vigils is recommended.
 -   Etrea is the island. Etris is the city.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
--   In Ending 2 of Karlilah's Quest, she must've read something about [The Depths](The_Depths.md), and went too far deep into it.
+-   In Ending 2 of Karlilah's Quest, ~she must've read something about [The Depths](The_Depths.md), and went too far deep into it.~ Nah, she realized she can't even kill a mudskipper, and decided to study how to kill
 -   For the Navaen Tribe Rescue Quest, it is probable that you can "kidnap" any member of the Navaen Tribe other than finding one in Erisia Island. Such places to find Navaen Tribesmen is commonly in [Summer Isle](Summer_Isle.md).
 -   **Etris guards can drop the Notes of players they have killed on death (needs further testing).**
 

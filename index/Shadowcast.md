@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 8812
+revid: 8893
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -22,7 +22,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 **COMBAT**
 
-| Image | Star Rating | Spell | Card Description | Effect |
+| Media | Star Rating | Name | Card Description | Effect |
 | --- | --- | --- | --- | --- |
 |  | 
 > (☆☆☆)
@@ -89,7 +89,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 **ACTIVE**
 
-| Image | Talent | Talent Tree | Rarity | Card Description |
+| Image | Name | Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
 | 
 File:Shadow travel.png
@@ -107,7 +107,7 @@ File:Shadow travel.png
   
 **PASSIVE**
 
-| Image | Talent | Talent Tree | Rarity | Card Description |
+| Image | Name | Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
 | File:Blackout.png | Blackout | 
 > Shadowcaster
@@ -118,7 +118,9 @@ File:Shadow travel.png
 
  | Block breaking an opponent their vision with darkness more potent than your Shadow mantra.
 
-+5 Elemental Intensity +2 Health
++5 Elemental Intensity
+
++2 Health
 
  |
 | File:Dark God.png | Dark God | 
@@ -131,7 +133,7 @@ File:Shadow travel.png
 
  | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their reservoir instead.
 
-+1 Elemental Intensity
++1 Elemental Intensity +3 Health
 
  |
 | File:Sightless Still.png | Sightless Still | 
@@ -142,11 +144,50 @@ File:Shadow travel.png
 
 > Common
 
- | The more a person is affected by your shadowcast the more you obscure their vision. +5 Elemental Intensity
+ | The more a person is affected by your shadowcast the more you obscure their vision.
+
++5 Elemental Intensity
 
 +2 Health
 
  |
+| File:Dark Hours.png | Dark Hours | 
+
+> Darksiphon
+
+ | 
+
+> Common
+
+ | Your Shadowcast Mantras deal more damage at night.
+
++4 Elemental Intensity
+
++3 Health
+
+ |
+| File:Devour.png | Devour | 
+
+> Darksiphon
+
+ | 
+
+> Common
+
+ | Stealing enough ether to fill your bar now stores the extras in your reserves.
+
++3 Elemental Intensity
+
++3 Health
+
+ |
+| File:Dark Synergy.png | Dark Synergy |  |  |  |
+| File:Fear.png | Fear |  |  |  |
+| File:Dark Rift.png | Dark Rift |  |  |  |
+| File:Lasting Sorrow.png | Lasting Sorrow |  |  |  |
+| File:Blossoming Darkness.png | Blossoming Darkness |  |  |  |
+| File:Shadow Overflow.png | Shadow Overflow |  |  |  |
+| File:Overwhelming Drain.png | Overwhelming Drain |  |  |  |
 
 ## Trivia
 

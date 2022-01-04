@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 8750
+revid: 8862
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -715,6 +715,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Darksteel Plate
 
 -   Unbreakable - You do not get stunned when you are block broken. (Obtained by wearing the Darksteel Plate)
+
+### Alchemist
+
+-   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the Sceptic Pioneer Outfit)
 
 ## Notes/Trivia
 

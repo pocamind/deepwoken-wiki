@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 8752
+revid: 8889
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -55,10 +55,10 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the 
 -   After parrying it's Palm Bust block for a second to see if it slaps again and react to it's next move.
 -   Meglodaunt has 400 points of HP.
 -   Although they do look extremely intimidating d they can be dealt with if you have over 160 health or high hos, or if you have 2 or more peeps you can jiggle the Meglodaunt between each of you and when one of you fighting gets low you swap out and heal. and jiggle
--   If your above level 53 and have a squad of more than 3 players you can usually get away with just rushing them
+-   If your above level 53 and have a squad of more than 3 players you can usually get away with just rushing them (Seriously who is so boosted you can't bum rush them alone at lvl 53. It's possible at 40 at least probably lower)
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
--   The following method can be used to easily kill the Meglodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy). (THE METHOD MIGHT HAVE BEEN PATCHED, NO TESTINGS YET.)
+-   The following method can be used to easily kill the Meglodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy). (--THE METHOD MIGHT HAVE BEEN PATCHED, NO TESTINGS YET--.)(just tested this method it still works)
 -     
     
     File:Screen Shot 2021-12-31 at 9.28.36 AM.png

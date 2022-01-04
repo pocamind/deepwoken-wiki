@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 7963
+revid: 8900
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -76,7 +76,16 @@ Deals damage.
 
 (☆)
 
- | Toss a wind landmine, | Tosses a wind landmine. |
+ | Toss a wind landmine, | Deploy a small, green landmine at your cursor location.
+
+Stepping on it creates a tornado that deal damage over a few seconds.
+
+The trap can stick to players when thrown, having the tornado follow them for the full duration.
+
+ |
+| 
+
+ | Gale Punch (☆) |  | AOE punch that deals damage and knocks opponents away |
 | 
 
  | Rising Wind
@@ -179,3 +188,4 @@ Costs _Ether_.
 
 -   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
+-   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and Ragdoll.

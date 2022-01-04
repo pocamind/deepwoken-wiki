@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 8839
+revid: 8879
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -61,7 +61,7 @@ _"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
--   Gain Intelligence EXP via Foraging, discovering Recipes for the first time, or discovering new locations for the first time.
+-   Gain Intelligence EXP via Foraging, harvesting, discovering Recipes for the first time, or discovering new locations for the first time.
 -   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving the [Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
 
 ### Willpower

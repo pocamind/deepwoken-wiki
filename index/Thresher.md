@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 8611
+revid: 8880
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -30,11 +30,13 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 # King Thresher
 
-_Also known as Big Lizard, Big Croc, Big Crocodile, Mama Crocodile, Mama Lizard, King K. Rool, Queen Crocodile, Queen Lizard._
+_Also known as Big Lizard, Big Croc, Big Crocodile, Mama Crocodile, Mama Lizard, King K. Rool, Queen Crocodile, Queen Lizard, Yung Croc God (name added by kyro)._
 
 ## Description
 
-Template:Creature Info Box v2The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths?, along with smaller Threshers. It drops a Thresher Spine and can be used for crafting armor. There will usually be a chest reward after you kill this monster.
+Template:Creature Info Box v2The King Thresher is a much bigger and more powerful Thresher that spawns in the Starswept Valley, as well as the Depths, along with two smaller Threshers. It drops a King Thresher Spine and can be used for crafting armor. There will usually be a chest reward after you kill this monster.
+
+  
 
   
 

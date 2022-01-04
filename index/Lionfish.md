@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 8753
+revid: 8857
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -38,6 +38,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 -   [The Depths](The_Depths.md)
 -   Aratel Sea (Spawns naturally but can also be fished up)
+-   void sea
 
 ## Notes
 

@@ -1,13 +1,13 @@
 ---
 title: Hero Blades
-revid: 8246
+revid: 8858
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hero Blades
 
-**The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes writtens on them.
+**The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them.
 
 ## Obtention
 
@@ -15,7 +15,7 @@ The Hero Blades are obtainable in the Valley of Heroes, as a guaranted drop (ele
 
 ## Elemental blades
 
-There are 5 different Hero Blade, each one representing a given [Attunement](Attunements.md):
+There are 5 different Hero Blades, each one representing a given [Attunement](Attunements.md): (All Require Level 45+)
 
 -   Hero Blade of Flames, requiring 75 Flamecharm to wield
 -   Hero Blade of Frost, requiring 75 Frostdraw to wield

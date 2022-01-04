@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 8764
+revid: 8895
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,7 @@ Completing your trial and escaping The Depths gives you a new talent "Depth Conn
 
 | Level | Possible Enemies |
 | --- | --- |
-| <15 | N/A - you may escape without fighting a mob. |
+| <8 | N/A - you may escape without fighting a mob guarantee. (no cap, I tested a ton of times) |
 | 16-19 | [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-39 | [Megalodaunt](Megalodaunt.md) |
