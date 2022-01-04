@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 8517
+revid: 8678
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -66,7 +66,7 @@ Strike (☆)
 
 everyone around the beam and then the lighting will strike.
 
-Can strike 1-6 times
+Strikes 7 total times but will be canceled if any of the strikes hit the user.
 
  |
 | 
@@ -160,6 +160,9 @@ Increases the buff to physical attacks
 
  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | After using a melee spell, if you press F an additional set of lightning will come down.(Seems to be in a bugged state right now, it will not call down lightning on any moves.) |
 |  | Volt Kick | After Landing a lightning kick successfully press F to followup on your opponent with a less potent kick | After using Thunder Kick, if you press F an additional (weaker) kick will followup. |
+| 
+
+ | Static Blade | \[Medium Weapons} Hitting blocks or blocking or parrying hits will now generate an electric charge in your blade. granting a small speed buff. Charges can stack up to 10 times. | Hitting blocks, blocking or parrying will grant a small speed buff, stacks up to 10 times. (Currently unsure if this works or not, could be bugged) |
 
 ## **Trivia/Notes**
 

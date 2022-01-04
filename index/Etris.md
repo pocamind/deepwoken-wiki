@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 8150
+revid: 8619
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ _"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands 
 
 File:Etris.png
 
-A large Island with the docks at sea level and the city ontop of the Mountains. (winter)
+A view of the center of the city of Etris situated on the island of Etrea in winter.
 
 ## Contents
 
@@ -226,9 +226,10 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Talk to the Eastern Camp Master in the encampment, near the City. (Optional)
     -   He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).
 
--   Find and rescue a Navaen Tribe Member in Erisia Island in one of the many encounters there.
+-   Find and rescue a Navaen Tribe Member in Erisia Island in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn. (Be ready to fight guards if you have bad reputation with Fort Merit Guards and Lionfish as you will have to sail through Aratel Sea.)
 -   Upon finding a Navaen Tribe Member, head back to the Camp Master and recieve your Reward.
--   The Reward for this Quest is the "Way of Navae" Fist Stance and Talent. In addition, unlocks a new dialogue option from Polis.  
+-   The Reward for this Quest is the "Way of Navae" Fist Stance and Talent. In addition, unlocks a new dialogue option from Polis.
+-   If you know that you want fist style from the beginning you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, as the spawn chances for the Nomads seem to be higher than in Erisia as a random encounter.  
     
 
 ## Notes/Trivia

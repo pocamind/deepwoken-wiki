@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 8215
+revid: 8571
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,30 +9,24 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 # **Squid (Squid Hoss/Squibbo/Squidward)**
 
-> A_yo who the fuck is this cthulhu looki-_
-
-> \-~Weary Traveller~ Soon to be Mudskipper.
-
 ## Description
 
 A player getting turned into a Mudskipper
 
-The hardest enemy to solo as it will parry every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a Sharko.
+Usually referred to as the hardest enemy to solo as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md).
 
-Drops odd tentacles.
+Drops "Odd Tentacles".
 
-(This squid is literally just the Punch-Out Mike Tyson Enemy.)
+### Attacks:
 
-**Attacks**
-
--   **~Stand~ Melee Rush** - Punches you many times into kicks.
+-   **Melee Rush** - Punches you many times into kicks.
 -   **Kick** - Kicks the opponent.
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 -   **Feint** - Feints an attack to throw you off.
 
-**Finisher**
+### Abilities:
 
-**Mudskipped** - Get turned into a Mudskipper. (So that's where they come from...)
+-   **Mudskipped** - Get turned into a Mudskipper.
 
 ## **Notes/Tips**
 

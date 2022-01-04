@@ -1,9 +1,8 @@
 ---
 title: The Depths
-revid: 8459
+revid: 8594
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # The Depths
@@ -13,15 +12,62 @@ categories: [Pages with broken file links]
 
 > "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
 
-The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a Bastion to freedom keeps the return to the surface out of arms reach.
+The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 0 again.
 
-## What does the Depths look like?
+Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will also drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
 
-The Depths is located in a underwater afterlife; Almost a limbo in between life and death. You will travel through sunken cities and relics that were lost to the deep. This is your judgement: you either live or die.
+## Escaping The Depths
 
-## Creatures
+There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate, or climb the wall to drop down into the bastion from above.
 
-_**Main Article -**_ [Monsters](Monsters.md)
+### _The Bells_
+
+The City of the Drowned is split into 6 sections. 4 of them have a bell, and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Unrung bells can be found by following a humming/shimerring sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
+
+Once all bells have been rung, a large bell choir will be heard across The Depths, signalling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+
+### _Climbing the Walls_
+
+Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of eachother all the way to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
+
+This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you.
+
+## The Trial
+
+The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
+
+Completing your trial and escaping The Depths gives you a new talent "Depth Connection", which allows the player to easily draw ether from the surrounding air, meaning you gain a buff ether regeneration. Escaping will also award both of your character's lives back.
+
+| Level | Possible Enemies |
+| --- | --- |
+| <15 | N/A - you may escape without fighting a mob. |
+| 16-19 | [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
+| 20-29 | [Angels](Hollow_Angel.md) |
+| 30-39 | [Megalodaunt](Megalodaunt.md) |
+| 40-49 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
+| 50< | [Enforcer](Enforcer.md) |
+
+**Note:** These numbers are not exact. There is still a chance you may fight something more or less powerful than whats shown in the table above depending on your power. Think of it as if there's a chance for you to fight anything within 10 Power of you, eg: Power 40 players have a slim chance to face The Enforcer, Power 25 players have a chance to fight a Megalodaunt, etc.
+
+**Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
+
+## Farming in The Depths
+
+The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However the benefits of XP Gain and loot drops are especially rewarding too. Listed below are Talents you may want to consider gaining before going to The Depths that will aid in sustained survival in one of the most trecharous areas in Deepwoken:
+
+-   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Willpower** or **Fortitude** (most likely Fortitude).
+
+-   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
+
+-   _**Giant Killer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs, level **Strength** if you want it to appear.
+
+-   **_Blind Seer Oath_**, an Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths for very long periods of time.
+
+## Quests (incomplete)
+
+An NPC (insert name here) asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he says something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
+
+## Monsters in The Depths (incomplete)
 
 -   [Seekers](Watcher.md)
 -   [Angels](Hollow_Angel.md)
@@ -29,106 +75,11 @@ _**Main Article -**_ [Monsters](Monsters.md)
 -   [Giant Jellyfish](King_Gigamed.md)
 -   [Crab](Crab.md)
 -   Lion Fish
--   [Sharko](Megalodaunt.md)
--   Owl
+-   [Megalodaunt](Megalodaunt.md)
+-   [Deep Owl](Deep_Owl.md)
 -   Crabo
-
-## Quests??
-
-I went into one building and a dude asked me to find someone on the surface world named Morning and to tell Morning that the preparations are almost complete. When questions more about how to find Morning he said something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?"
-
-## Escape from the city.
-
-The doors to your escape will be closed (most often). To open it, you must ring the bells within the city.
-
-1.  The City of the Drowned is split into 6 sections. 4 of them have a bell, and said sections can be identified by the presence of [Seekers](Watcher.md). They can be found by following a humming/shimerring sound effect toward unrung bells. Interacting with it will restore health and make an audible bell noise. Please note that the lack of Seekers do not denote the status of a rung bell, and will be there regardless of whether or not the bell has or has not been rung in that sector.
-2.  Once all bells have been rung, a large bell choir will be heard across The Depth, signalling the possible salvation of the souls trapped within via the opening of the doors to The Trial.
-3.  Upon entering the elevator and reaching the top, you will be faced with a trial where you must fight a given mob. Higher power = more powerful enemies.
-
-### The Trial
-
-The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along, the Trial will average out the player levels of all participants and spawn one mob for each of them.
-
-> _**"Triumph, or DIE!"**_ - Street Fighter, Alpha 3 Turbo.
-
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Level</th>
-  <th>Possible Enemies</th>
-</tr>
-<tr>
-  <td>&lt;15</td>
-  <td>N/A. No Mobs Fought.</td>
-</tr>
-<tr>
-  <td>16-19</td>
-  <td><a href="Enemies.md">City Sentinel, Assasin Mudskipper, Swordsman</a></td>
-</tr>
-<tr>
-  <td>20-29</td>
-  <td><a href="Hollow_Angel.md">Angels</a></td>
-</tr>
-<tr>
-  <td>30-39</td>
-  <td><a href="Megalodaunt.md">Megalodaunt</a></td>
-</tr>
-<tr>
-  <td>40-49</td>
-  <td>Cursed/Enhanced <a href="Megalodaunt.md">Megalodaunt</a></td>
-</tr>
-<tr>
-  <td>50&lt;</td>
-  <td><a href="Enforcer.md">Enforcer</a></td>
-</tr>
-</tbody>
-</table>
-
-#### Note: These numbers are not exact and what you fight may vary. Eg. you can fight an Enforcer or regular megalodaunt at level 45
-
-These numbers aren't permanent (mean you won't guarantee fight these monsters when reach enough power, you just have higher chance to fight them the closer these power are)
-
-  
-
-**One more thing...**
-
-If 4 or more players attempt to escape, they will be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain, only then will the Trial begin.
-
-### **Alternate ways of escape.**
-
--   With enough Agility, clever usage of surrounding environments, the buildings on the inside and crafty utilisation of Mantras, one can reach the upper part of the city's wall and walk along them to reach the middle piece containing the trial. Care must be taken, as falling from this wall can be quite disastrous, plunging you into the sightlines of a Seeker, or worse, a fall from the peak immediately killing you with fall damage.
-
-File:Image 2021-12-20 233551.png
-
-Photo of "Depth Connection" talent
-
--   As a side note if you have somebody who can help you it is possible to just infinite climb to the top of the wall, no agility or buildings required.
--   You can also collect barrels from around the map to create a staircase to the outer walls.
-
-### Reward for Escaping?
-
-Escaping the depths gives you a new talent "Depth Connection" which allows the player to easily draw ether from the surrounding air (which i assume is just better passive regen for ether)  
-(Deepwoken Talent)
-
-## What if you want to stay in The Depths?
-
-The Depths, being a naturally hostile location, will make sure it will kill you. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. There are measures you can take before going to The Depths however that will aid your survival in Deepwoken's most trecherous environment.
-
-### Talents you want to consider.
-
--   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your health, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Willpower** or **Fortitude** (most likely Fortitude).
-
--   **Conquer Your Fears**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
-
--   **Giant Killer** (did I get that right?) lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs, level **Strength** if you want it to appear.
-
--   **Blind Seer Oath**, a Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths nigh indefinently.
-
-## Notes
-
--   It is prossible to gain card luck (boosted if you have [Marauder](https://deepwoken.fandom.com/wiki/Boons?#Marauder)) by killing players (or NPCs) in the depths.
--   You're gonna need to bring 5 Umbral Obsidian if you want to get Shadow Cast which is down here.
--   Obtain resonance bells here too.
+-   [Squibbo](Nautilodaunt.md)
+-   [The Enforcer](Enforcer.md)
 
 ## Loot Table
 
@@ -172,3 +123,9 @@ The Depths, being a naturally hostile location, will make sure it will kill you.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   It is still possible to gain card luck (potentially even more than usual?) by killing players (or NPCs) in the depths.
+-   Resonance bells can be found in The Depths.
+-   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths.

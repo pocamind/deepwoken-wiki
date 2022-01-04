@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 8545
+revid: 8710
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -39,13 +39,13 @@ Does not inflict stun or knockback
  |
 | 
 
- | Flame Palm(☆) | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
+ | Fire Palm(☆) | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
 | 
 
- | Flame Eruption (☆) | A pyrocalstic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |
+ | Flame Eruption (☆) | A pyroclastic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |
 | 
 
- | Flame Gun | Rapid bullets of flame. | Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target. Able to ignite campfires, as well as grass, leaves, and bush tiles when they aren't snowed over. |
+ | Fire Gun | A bullet of flames shot through each hand. | Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target. Able to ignite campfires, as well as grass, leaves, and bush tiles when they aren't snowed over. |
 | 
 
  | Fire Forge (☆) | Toss a nimble dagger. | Caster swipes their weapon hand and launches 3 flaming throwing stars which converge before spreading out in 3 adjacent directions. They deal little damage and inflict burn unless blocked. |
@@ -132,7 +132,7 @@ File:Flame Blind.png
 
   
 
-## **Azure Flame (Blue Fire)**
+## **Azure Flames (Blue Fire)**
 
 You are able to obtain Azure Flame by having the following:
 
@@ -142,7 +142,7 @@ You are able to obtain Azure Flame by having the following:
 
 You will obtain it once you level up after reaching these requirements. _Once obtained, your Flamecharm Mantra will change to a light-blue sort of colour, including campfires and Flame Wisp's aura colour._
 
-Azure Flames increase general Flamecharm Mantra damage (burn too), ~and is unaffected by environmental effects, such as rain. This means that campfires conjured with Azure Flames cannot be extinguished. This makes it very useful for traversing the Depths.~ This is untrue. To get campfires in the depths/in the rain, you need to have a talent called Unyielding Inferno, which allows you to make campfires in the Depths/In rain regardless of whether or not you have Azure Flames
+Asure Flames increase general Flamecharm Mantra damage (burn too), ~and is unaffected by environmental effects, such as rain. This means that campfires conjured with Asure Flames cannot be extinguished. This makes it very useful for traversing the Depths.~ This is untrue. To get campfires in the depths/in the rain, you need to have a talent called Unyielding Inferno, which allows you to make campfires in the Depths/In rain regardless of whether or not you have Asure Flames. (only usable when lighting a camfires with flame) not usable with graceful flame.
 
 You can think of Azure Flames as an upgraded version of the normal Flamecharm.
 

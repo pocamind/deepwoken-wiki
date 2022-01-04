@@ -1,9 +1,9 @@
 ---
 title: Outfits
-revid: 8519
+revid: 8677
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character]
+categories: [Pages with broken file links, Armors]
 ---
 
 # Outfits
@@ -961,15 +961,11 @@ File:Imperial Boots.png
 
   
 
-## Trivia/Notes
+  
+
+  
+
+  
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
 -   Some Accessories can be Ascended, and have buffed stats.
-
-<table>
-<tbody>
-<tr>
-  <td></td>
-</tr>
-</tbody>
-</table>

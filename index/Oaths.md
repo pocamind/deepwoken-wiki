@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 8426
+revid: 8668
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -116,8 +116,7 @@ A higher quality picture, I just snipping tooled it form the original image
 
 1.  Visit The Depths, and talk to Yun'Shul
 2.  If you are Level 45 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
-3.  Select Yun'Shul Oath to receive the oath. ~You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed,~ (Unless you have proof of wishing more then once or test it don't add this back) **YOU CAN ONLY WISH ONCE PER CHARACTER.**
-4.  Select Yun'Shul Oath to receive the oath. You can select another wish every 10 Levels; if you try to wish again before you meet the 10 Level requirement you will be instantly killed, thus wiping you since it is in The Depths. _(Formerly there was a fake step that required you to jump into the void to remove the sanity, it is belived to be fake only put there to troll, I reverted this so there would be no misunderstandings. Although I am testing to see if it is real, I will revert if it is.)_
+3.  Select Yun'Shul Oath to receive the oath however before you do this step you have to jump off a high point. You will be resurrected and instantly be brought to the upperworld with the Yun'Shul Oath. The game will give a card when you reach the upperworld called "Yun'Shul Oath"
 
 ### Oath Effects:
 

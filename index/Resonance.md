@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 8439
+revid: 8646
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -22,29 +22,39 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-**NOTE. THIS IS NOT CONFIRMED OR DECONFIRMED, THIS IS SIMPLY A CHECKLIST OF WHAT IS THEORIZED TO WORK. IF THIS WORKS, THEN IT CAN SLOWLY BE WITTLED DOWN WHAT ITS UNESSECARY. FOR NOW, IF YOU ARE LOOKING TO OBTAIN A BELL, DO THEM ALL.**
+**PLEASE NOTE: THIS IS STILL BARELY CONFIRMED, SO SOME OF IT MAY BE SLIGHTLY UNTRUE.**
 
-(No particular order, but some are probably encouraged to be done before others)
+Upon entering The Depths **through a whirlpool,** your character has a 7 hour timer, and while in the depths the timer is 'active'. While the timer is active, killing enhanced monsters, or **players your level range that can drop luck**, will lower the timer by **15 minutes.** Leveling up while **THE TIMER IS ACTIVE** **WHILE IN THE DEPTHS**will **INCREASE THE TIMER**, leveling in The Overworld while the timer is active will not affect it. Once max luck is achieved, and the timer is over, a resonance will be achievable.
 
--   Have entered/escaped depths 10 times.
--   Have reached power 45.
--   Have rung all four of the primary bells (used to open the trial gate), three times, doing each one in a seperate depth run.
--   Have atleast 1 attribute maxed.
--   Have stayed in the depths for at least 1 hour straight.
--   Have gripped around 10 people in depths (Must be around your power level. It is suggested that you do this BEFORE you max luck, so you know if the person you grip counted or not.)
--   Have max luck, being signified if you do not get luck from players/monsters anymore. (PICKING A LEGENDARY/RARE CARD WILL DRAIN LUCK).
+In TLDR:
 
-  
+-   While entering The Depths through a **whirlpool**, a 7 hour timer will start.
+-   Killing a monster or player that can **drop luck** will **decrease the timer** by 15 minutes.
+-   Leveling up while **in The Depths** will **increase the timer**.
+-   Leveling up while in **The Overworld**, while the timer has already started, will not change it when you return back to The Depths.
+-   **Picking** a rare/legendary card will **decrease luck**.
+-   You are able to **escape** The Depths, and the timer will **save.**
+-   Upon the **timers end**, and **max luck**, the **resonance will be achievable**.
 
-## Alternate Theory
+## Strategy
 
-Upon entering The Depths, your character gets a 7 hour timer. Killing Enhanced Monsters and **players who drop luck** lowers the timer. The maximum amount of time said to be shaved off is 5 hours, so if you are able to reach this, you'll still need to be in the depths for 2 hours.
+**NOTE: THESE ARE NOT REQUIREMENTS, YOU DO IT HOWEVER YOU FEEL LIKE. THIS IS JUST A SAFE WAY TO GET IT THE FIRST TIME, AND YOU CAN DO IT IN MORE RISKIER/EFFICENT WAYS WHEN YOU'RE MORE EXPERIENCED WITH IT.**
 
-It's completely possible that both theories are correct, but its just doing the first theory BASICALLY is doing the second one, because blah blah all the player/monster killing.
+Getting a bell in the most safe, efficent, and reliable way requires a team. What you enter The Depths when it comes to Mantras and Talents will be what you have for the entire duration of the journey, as leveling up actively and signifcantly lengthens the timer, but you CAN level up while in the OVERWORLD. Getting XP from The Depths, then returning back to The Overworld to actually use it, will work.
 
-**There is still some other requirement though, as those who have sat in depths for 7 hours straight and then knocked did not get it, to be safe, get max luck and grip a few people atleast.**
+An undying flame and/or Capra user is advised, for sanity and thirst/hunger regain, respectively, as you want to stay as long as possible.
 
-**TLDR: try the alternate theory first, if that doesn't work, then do the first, main one.**
+Even though you dont need to stay in The Depths for the entire duration, it's advised that you stay as long as possible to find the most safe servers, which is again where the Capra and Undying Flame user comes in. Conquer Your Fears is also great, as you regain sanity back from killing monsters. Blindseer is advised, only requiring 40 willpower to be invested, which is nice for its reservoir buff anyways.
+
+Even though **technically** theres no level requirement, a good level is 40, as thats a level at which you **should** be able to defend yourself and deal with enhanced monsters, aswell as being somewhat achievable from overworld farming, and also allowing you to get three wishes from Yun'Shul, as you get 1 wish per 10 levels, from the level at which you unlock your resonance.
+
+### Advised Requirements
+
+-   Alot of food, like **alot** of food.
+-   A Capra and/or Undying Flame buddy.
+-   40 Willpower/Blindseer/Conquer Your Fears
+-   Level 40
+-   Learning the patterns of Sharkos, Lionfish, Threshers, and King Crabs, and how to deal with them at said level 40.
 
 ## How Do You Change A Resonance?
 

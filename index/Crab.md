@@ -1,12 +1,16 @@
 ---
 title: Crab
-revid: 7086
+revid: 8606
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Crab
+
+Redirect to:
+
+-   [Terrapod](Terrapod.md)
 
 File:Surface crab.png
 

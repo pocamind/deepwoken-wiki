@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 8393
+revid: 8609
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -89,8 +89,8 @@ File:Detonation.jpg
 
 ### Combustion
 
--   Pros: Everytime you hit an enemy, you lit them on fire. Damage scales off Flamecharm.
--   Cons: None.
+-   Pros: Everytime you hit an enemy, you lit them on fire. Damage scales off how big pp.
+-   Cons: None
 
   
 
@@ -113,7 +113,7 @@ File:Storm enchant.png
 Storm enchant on a Crescent Cleaver
 
 -   Pros: Increases stun. (confirmed) If there is rain, every swipe with this weapon that connects will summon a lightning bolt, increasing damage by approx. 1.4%
--   Cons: Unkown.  
+-   Cons: causes you to have a small pp (confirmed)  
     
 
   

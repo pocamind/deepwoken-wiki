@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 8197
+revid: 8725
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,10 +51,11 @@ The Main OST for Deepwoken.
 -   **The Depths MusicFile:Drowned City - 7394909817.ogg**
 -   **The Depths Combat MusicFile:DepthsCombatLoop.ogg**
 -   **The Garden Reservoir File:The Garden Reservoir - Deepwoken OST.mp3**
--   **The Garden Reservoir Combat File:The Garden Reservoir (Combat) - Deepwoken OST.mp3**
+-   **Voidheart File:CorvusManorMain.ogg**
 -   **Voidsea File:Voidsea - Deepwoken OST.mp3**
 
-(IF ANY OF THIS IS WRONG PLEASE LEAVE A COMMENT) 
+  
+(IF ANY OF THIS IS WRONG, OR IF YOU HAVE MORE MUSIC, PLEASE LEAVE A COMMENT) 
 
 <table>
 <tbody>

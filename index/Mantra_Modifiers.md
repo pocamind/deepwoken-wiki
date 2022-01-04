@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 8544
+revid: 8613
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -84,7 +84,7 @@ File:Screenshot 2021-12-28 152413.png
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |
-| [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) | Blessed Gem | Possibly a better version of Vibrant Gem |
+| [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |
 
 ## Sparks
 
@@ -102,6 +102,8 @@ File:Magnet Spark PNG.png
 Jolt Grab
 
 Spark Swap
+
+Flame Blind
 
  | Makes projectile spells homing. |
 | 

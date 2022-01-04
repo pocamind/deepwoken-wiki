@@ -1,25 +1,43 @@
 ---
 title: Fishing
-revid: 8127
+revid: 8644
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Pages with broken file links, Mechanics]
 ---
 
 # Fishing
 
-Welcome to FishWoken.
+## How to Fish
 
-Fishing is a mechanic in Deepwoken that can be undertaken by purchasing a fishing rod in **Etris** or crafting one (2 sticks and 1 fiber at a crafting table). To fish, you need to go to any body of water and hold click throw out your fishing line then release, with holding for longer casting your line out farther. After awhile, your character gets a bite and the camera locks. Your character will start leaning in one of three directions, left, back and right. To reel the fish in, you need to hold the corresponding key (A for Left Leaning, S for Back Leaning, D for Right Leaning), and click your mouse. Spam clicking usually works if you're fast enough on the leaning swap.
+Fishing is a mechanic that allows you to obtain Fish Meat, Squids, Urchins and other items.
 
-You can get several items from fishing, which consist of: **[Squid, Red Snapper, Swordfish, Sea Bass, Tuna, Seaweed, Urchin and Pufferfish.](https://deepwoken.fandom.com/wiki/Types_of_Fish)** Tuna, Red Snappers, Swordfish and Sea Bass give you "Fish Meat". This can be cooked, used as bait, made into chum (two in in the crafting menu) or it can be eaten raw, which WILL make you puke. Sea Bass gives you one meat, Red snappers gives two meat, Tuna gives you three meat and Swordfish gives you four, while pufferfish gives you chum. Seaweed can be cooked aswell.
+To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine 2 Sticks and 1 Fiber.
 
-You can use just about any eatable item as bait, such as any mushroom, raw fish meat, fruit, tree sap, squids, etc, Excluding meals (examples being cooked fish meat or Mushroom Soup). You do not have to bait your line, however, you are very much less likely to get a bite without doing so.
+The next step to fishing is cast out your Fishing Rod at an area with alot of fish, such as Docks. Soon you will get a bite, and when you get a bite your character will be leaning in a certain direction. it can lean backwards, leftwards and rightwards. you must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this start clicking, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish.
 
-In order to use bait, you need to hold out your fishing rod, then left click on the desired bait. If you catch a fish or get one on your line and do not catch them, then you will lose your bait. If you reel in your line, or unequip your fishing pole, then you will keep the bait.
+Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as Fruit and Fish Meat. Bait is assumed to make fish more attracted to your fishing rod, and possibly give you better rewards but this is unknown.
 
-(Written by Decadunce#1839)
+## Fish
 
-**WARNING:** Also, while fishing, there is a chance of spawning a [**Mudskipper,**](Mudskipper.md) which can be taken down easily, or a [**Lionfish.**](Lionfish.md) It will try to attack you, but if you stay on land, it won't be able to. If you kill it, it will drop a lionfish scale. (blockiergrublol#8124)
+You can fish up many different kinds of fish. The bigger the fish, the better the loot. The fish you can fish up are:
 
-Sidenote: Just discovered fishing also gives XP, so after you fish for a while, you're off training cooldown. I usually fish and meditate.
+File:Tuna.png
+
+Fishing up the Tuna.
+
+-   Sea Bass (1 Fish Meat)
+-   Red Snapper (2 Fish Meat)
+-   Tuna (3 Fish Meat)
+-   Squid (1 Squid)
+-   Urchin (1 Urchin)
+-   Swordfish (5 Fish Meat)
+-   Pufferfish (1 Chum)
+-   Seaweed (1 Seaweed)
+-   1 Mudskipper (Will spawn a Mudskipper)
+-   1 Lionfish (Will spawn a Lionfish)
+
+## Notes/Trivia
+
+-   Some spots wont let you fish.
+-   It is unknown what bait does. If you know, please edit this page.

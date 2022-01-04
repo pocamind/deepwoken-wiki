@@ -1,20 +1,15 @@
 ---
 title: Gigamed
-revid: 8477
+revid: 8576
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Gigamed
 
 ## Appearance
 
-File:Jellyfish.jpg
-
-Jellyfish from [The Depths](The_Depths.md)
-
-Player-sized glowing blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
+Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
 
 ## **Attacks**
 
@@ -30,3 +25,23 @@ Player-sized glowing blue Jellyfish that is commonly found all across _**[The De
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Health: ~250~ Not 250 as i 2 shot them with my Forge Great-Hammer which does around 41 damange per hit. Possibly around 80 Health.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
+
+  
+
+# Mother Jellyfish
+
+Template:Creature Infobox V3
+
+## Description
+
+Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
+
+## **Attacks**
+
+-   **Summon** - Summons 3 Jellyfish.
+-   **Greater Stun Pulse** - Purple AOE attack that deals approx. Deals _**30 damage**_.
+
+## Notes/Trivia
+
+-   Real Name: King Gigamed
+-   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot.

@@ -1,9 +1,9 @@
 ---
 title: Monsters
-revid: 8384
+revid: 8687
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World]
+categories: [Monsters]
 ---
 
 # Monsters
@@ -12,19 +12,21 @@ _For information on Human Enemies, go [here](Enemies.md)._
 
 ## The Prologue
 
-As much as there are Zombie resembling enemies in the game you may encounter, Deepwoken's finest, and arguably and or debatably main/ primary focus, are the Monsters aka zombies themselves. They can wear and tare unaware NPCs and PCs (players) apart if they are ill-equipped or inexperienced (lacking experience) along with sinking your nautical boats into the ocean blue and if you're unlucky... even worse
+As much as there are Zombie resembling enemies in the game you may encounter, Deepwoken's finest, and arguably and or debatably main/ primary focus, are the Monsters aka zombies themselves. They can wear and tare unaware NPCs and PCs (players) apart if they are ill-equipped or inexperienced, along with sinking your nautical ships into the ocean blue and if you're unlucky...
 
-Monsters are embeddded to the game, as both a fundamentals-check for how well you are able to recognize patterns and obey them ontop of this counter accordingly. While definitely not being a perfect balance 1 to 1 ratiobeing able to defeat the enemy with confidence most surely l means you be better off against other PLAYER and vice versa. In admorality, a large amount of loot is most easily or ONLY obtainable from monsters aka soecial droppings, for things such as armors and Mantra modifiers.
+Monsters are embeddded to the game, as both a fundamentals-check for how well you are able to recognize patterns and obey them ontop of this counter accordingly. While definitely not being a perfect balance 1 to 1 ratiobeing able to defeat the enemy with confidence most surely l means you be better off against other PLAYER and vice versa. In admorality, a large amount of loot is most easily or ONLY obtainable from monsters aka special droppings, for things such as armors and Mantra modifiers.
 
-While each monster has custimised attacks, pattern and statistic the thing they all share in non rarity is that they have percieveable and learnable patterns. There is never 'actual damage, flawlessing (done perfect" monsters is very achieveible even as a freshie spawn all the way up to mega primadon king
+While each monster has customised attacks and their attack patterns, the thing they all share is that they have learnable patterns. There is never a mob you cannot beat, even as a freshie, if you perfect their pattern- even the legendary primadon.
 
-Generally; a good rule of fingeris to NEVERrun away from a monster unless you're SEVERELY loseing or also known as outclassed. If you have even a bust at final victory; grab it it. and use it Running will only forshoe you to slowly die in epitaphs most cases, and you'll have to learn to fight them eventually like a boss one way or the other.
+Generally; a good rule of finger is to NEVER run away from a monster unless you're SEVERELY losing and also outclassed. If you have even a chance at victory; grab it. Running will only leave you to being chased, and in most cases, you'll have to learn their pattern eventually either way.
 
-It is Adviced you learn how each monster acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of levelling, gear or experience will do you good if you can't parry, block or dodge (Block dodge or parry) attacks for the life of you. (Note this is not true sometimes)
+It is Advised you learn how each monster acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of leveling, gear or experience will do you good if you can't parry, block or dodge attacks.
 
-Stay breath ready and prepared. most monster is not 'impossible' to beat.
+Stay ready and prepared. No monster is impossible to beat.
 
-Mudskipper and God Diety monsters are not included among the list of monsters, as they are humanoid, you don't gain sanity from them, and their behavior is additionallyto the other human enemie rather than true monster foes
+Mudskipper and God Diety monsters are not included among the list of monsters, as they are humanoid, you don't lose sanity from them, and their behavior is akin to the other humanoid enemies rather than true monsters.
+
+**King Thresher's information has been moved to the Thresher page, and Mother Jellyfish's information has been moved to the Jellyfish page.**
 
 ## The Depths
 

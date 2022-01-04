@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 8273
+revid: 8551
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,7 +41,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 ### _**Intelligence Mantras**_
 
-**Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. (Requirement: Intelligence, Support Mantra)
+**Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. (Requirement: 20 Intelligence, Support Mantra)
 
 **Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source. (Requirement: 50 Intelligence, Combat Mantra)
 
