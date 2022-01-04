@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 8646
+revid: 8784
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -16,25 +16,27 @@ categories: [Pages with broken file links, Skills]
 </tbody>
 </table>
 
-Resonance, or bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. Gaining a resonance will heal you all the way similar to powering up. (Someone may need to fact check but I'm pretty sure your bell depends on your weapon)
+Resonance, or Bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. Gaining a resonance will heal you all the way similar to powering up. (Someone may need to fact check but I'm pretty sure your bell depends on your weapon)
 
 _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-**PLEASE NOTE: THIS IS STILL BARELY CONFIRMED, SO SOME OF IT MAY BE SLIGHTLY UNTRUE.**
+**Confirmed method by multiple resonance users, Kanorogue#6037**
 
-Upon entering The Depths **through a whirlpool,** your character has a 7 hour timer, and while in the depths the timer is 'active'. While the timer is active, killing enhanced monsters, or **players your level range that can drop luck**, will lower the timer by **15 minutes.** Leveling up while **THE TIMER IS ACTIVE** **WHILE IN THE DEPTHS**will **INCREASE THE TIMER**, leveling in The Overworld while the timer is active will not affect it. Once max luck is achieved, and the timer is over, a resonance will be achievable.
+\- Get a bunch of luck via **killing** players that are around your level or by killing bosses / corrupt mobs in the depths. You know you will have obtained luck when white stars appear around your character (Not to be confused with the regular white particles that appear around your character when killing any mob).
+
+\- Once you have a bunch of luck, it is speculated you need level 50 but that may or may not be true.
+
+\- Knock yourself in the depths with a bunch of luck and you will get resonance. If it doesn't work, you need more luck
+
+The process to get a resonance has just been overly complicated due to testers trying to gatekeep them.
 
 In TLDR:
 
--   While entering The Depths through a **whirlpool**, a 7 hour timer will start.
--   Killing a monster or player that can **drop luck** will **decrease the timer** by 15 minutes.
--   Leveling up while **in The Depths** will **increase the timer**.
--   Leveling up while in **The Overworld**, while the timer has already started, will not change it when you return back to The Depths.
 -   **Picking** a rare/legendary card will **decrease luck**.
--   You are able to **escape** The Depths, and the timer will **save.**
--   Upon the **timers end**, and **max luck**, the **resonance will be achievable**.
+-   You are able to **escape** The Depths, and you will not lose luck
+-   **DO NOT** LEVEL UP
 
 ## Strategy
 
@@ -173,4 +175,12 @@ Phoenix fire effect
         -   12 Light Weapon Scaling
         -   5 Weight
         -   12 Range
-        -   1.3x Swing Speed
+-   **Dimensional Shift**
+-   Effects:
+    -   Upon activation, the player enters a white portal that only he/she can go through.
+    -   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
+    -   You are forced out of the dimension after 5 or 6 seconds.
+    -   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.
+-   Notes:
+    -   It's reccommended that you don't chat before using it, as your text bubbles do not disappear when you are in the dimension.
+    -   You could think of it just like Yoru's ultimate from Valorant.

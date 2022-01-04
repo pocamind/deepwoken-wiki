@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 8682
+revid: 8815
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -62,6 +62,7 @@ categories: [Locations]
     -   The Depths
     -   Celtor Wastes
         -   Diver's Camp (will create the page soon)
+        -   Castle Light
     -   [Temple of Hearts](Temple_of_Hearts.md)
     -   The City of the Drowned
         -   _Varicosa District_

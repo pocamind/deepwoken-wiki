@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 6699
+revid: 8826
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,8 +11,8 @@ Upper Erisia is the second part of Erisia's territory. It is a very unique area 
 
 ## Parts of Upper Erisia
 
--   Burning Stone Garden
--   Towerstruck Lands
+-   Burning Stone Gardens
+-   [Towerstruck Lands](Towerstruck_Lands.md)
 -   Ruined Castle
 -   Megalodaunt Nest
--   The Manor
+-   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)

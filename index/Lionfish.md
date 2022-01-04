@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 8189
+revid: 8753
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -47,7 +47,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 -   Mouth Laser is most likely a reference to the ability Cero from the anime Bleach due to the visuals, sounds and charge up
 -   Corrupted Health: 6000
 -   Regular Health: 2000
--   You can spawn a lionfish by fishing if the game hates you enough
+-   You can spawn a lionfish by fishing if the game hates you enough (happened to me once before while i was fishing at etris, me and 2 other guys and a freshspawn all teamed up and took it down since it was preventing everyone from sailing away)
     
     File:Big ass fish.jpg
     

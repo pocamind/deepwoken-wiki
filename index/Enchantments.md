@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 8609
+revid: 8840
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -89,8 +89,8 @@ File:Detonation.jpg
 
 ### Combustion
 
--   Pros: Everytime you hit an enemy, you lit them on fire. Damage scales off how big pp.
--   Cons: None
+-   Pros: Every time you hit an enemy, you light them on fire. Damage scales off of Flamecharm.
+-   Cons: None.
 
   
 
@@ -173,10 +173,11 @@ File:Curse of yun shul.png
 **Me with a Steel Maul with the Curse of Yun'Shul**
 
 -   Pros: it has a 5% chance to instant kill a player or npc you hit.
--   Cons: It has a 5% chance to instant kill the player in use.
+-   Cons: ~It has a 5% chance to instant kill the player in use.~ [https://medal.tv/games/roblox/clips/6QEB7uw0H\_U2w/d1337HTY9kfo?invite=cr-MSxnd0UsMTMyNDUyNTEs](https://medal.tv/games/roblox/clips/6QEB7uw0H_U2w/d1337HTY9kfo?invite=cr-MSxnd0UsMTMyNDUyNTEs) proven wrong by this clip
 
   
 
+  
   
 
 ### Grim

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 8714
+revid: 8839
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -147,9 +147,9 @@ _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate
 -   Unlocks Thundercall related Talents.
 -   Gain Thundercall EXP by dealing damage to Enemies and Monsters using Thundercall Mantras.
 
-### Gaybreathe
+### Galebreathe
 
-_"Sorye ge ton!" - Yasuo_
+_"Sorye ge ton!" - Yasuo, the Wind Shitter of Runeterra._
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.

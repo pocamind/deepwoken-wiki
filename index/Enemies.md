@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 8700
+revid: 8747
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -16,7 +16,7 @@ Beyond the safety of cities and towns, there are humanoid NPCs that lurk within 
 
 Depending on who they are, they could vary in their skill, equipment, and Attunements.
 
-The following are **HUMANOID NPCs** that are **ALWAYS HOSTILE** to **ALL PLAYERS**. Faction guards, such as those of Etrea, the Authority, or the Hive, **ARE NOT INCLUDED**, because **having positive reputation with them will prevent them from attacking you.** Mudskippers and Angels are included; despite being hostile creatures they are not truly "monsters".
+The following are **HUMANOID NPCs** that are **ALWAYS HOSTILE** to **ALL PLAYERS**. Faction guards, such as those of Etrea, the Authority, and the Hive, **ARE NOT INCLUDED** because **having positive reputation with them will prevent them from attacking you.** Mudskippers and Angels are included; despite being hostile creatures, they still take a standard humanoid appearances and behave similarly to other humanoids.
 
 For information of Monsters, go [here](Monsters.md).
 

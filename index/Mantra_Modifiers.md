@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 8613
+revid: 8768
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -185,6 +185,10 @@ _"You feel dizzy when you hold it."_
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
+
+#### Cloud stone
+
+-   This modifer makes most beam moves in the game bigger
 
 ## Trivia/Notes
 

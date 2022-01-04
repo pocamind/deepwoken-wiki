@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 8697
+revid: 8777
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -34,9 +34,10 @@ Monke
 
 ## Weaknesses
 
-You cannot eat garbage.
+N/A
 
 ## Notes/Trivia
 
 -   It's a monke
--   Khan means "ruler" in Mongolian
+-   Khan means "ruler" in Mongolian, Chinese and Hindi
+-   In the novel "Journey to the west", The crown of Sun Wukong is actually a curse.

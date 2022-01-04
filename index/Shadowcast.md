@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 8513
+revid: 8812
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -32,7 +32,8 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 > (☆☆☆)
 
- | Shadow Gun | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hit. Blockable. |
+ | Shadow Gun | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable. By using 3-6 cloud stones, 1 blast spark, and 2 crystal lens you can make a super beam but will cost a lot more ether  
+ |
 |  | 
 
 > (☆☆☆)
@@ -90,7 +91,11 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 | Image | Talent | Talent Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
-|  | Shadow Travel | 
+| 
+File:Shadow travel.png
+
+ | Shadow Travel | 
+
 > Shadowcaster
 
  | 

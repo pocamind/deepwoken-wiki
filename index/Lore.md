@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 8549
+revid: 8806
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -55,6 +55,15 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
 
+### Akira, The Black Diver
+
+_"Another one..? You've got to be kidding me." - Akira_
+
+-   Akira is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
+-   Akira wields some sort of power- enough to blow up an unfortunate victim's head clean off. Provoking him will lead the same fate as the others.
+-   Akira is in charge of clearing out Research Sites and Recruit Field Training.
+-   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
+
 ## Locations
 
 ### Eastern Interstitial Lighthouse
@@ -68,6 +77,8 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 -   It is unknown how Erisia Island managed to escape from The Depths, but further research is required.
 
 ### The City of the Drowned (The Depths)
+
+  
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
 
@@ -130,7 +141,7 @@ A Summer Company Member.
 
 ### The Divers
 
--   An organization that specialize in traversing and researching in The Depths.
+-   An Organization that specialize in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
 -   The Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
@@ -142,14 +153,22 @@ A Summer Company Member.
 -   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
 -   Flamecharm Masters are commonly found in Songseeker Isles, and Frostdraw Masters can be found in [Minityrsa](Minityrsa.md).
 
-### The Hive Legion
+### The Legion
 
--   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority.
+-   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hivemind.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
--   They have a form of ranking such as Centurions and Tacticians, described by [Amara](Amara.md) in The Viper's Jaw and the Hive Tactician Armor.
+-   They have a form of ranking such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
     
     Amara, a Member of The Legion.
     
+
+### The Hivemind
+
+-   A group of Individuals; mostly Vesperian and Ganymedes are located in [Greathive Aratel](Greathive_Aratel.md).
+-   Their previous home was [The Hidden Village](The_Hidden_Village.md), but evacuated by invoking the green fountains.
+-   The Hivemind, based on Nimea's theory, is that they are scavengers; reaping what they can to build homes and structures out of them.
+-   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
+-   The Hivemind protects green artifacts, similar to [The Forge](Artifacts.md), against the Kingdom of Etrea.
 
 ### The Ministry/Dark Mages
 
@@ -210,7 +229,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light; using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
--   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary, and will fade away as normal.
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary, and will eventually fade away.
 -   In 1271, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
@@ -218,10 +237,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Kingdom of Etrea's Past Rulers
 
 -   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
--   The Past Rulers of Etrea has no records of their deeds during their role, but they have been immortalized as statues near Etris; in the Etrean Sea.
--   There were 6 Total Rulers of Etrea; the 4 past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.  
-    
+-   The Past Rulers of Etrea has a record of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. But during The Lord Regent's ruling, the Office was suspended.
+-   The pillar that house 4 statues near Etris, are presumably the Past Rulers.
+-   There were 6 Total Rulers of Etrea; the 4 past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
+
+## Miscellaneous (Doesn't fit into a specific category)
+
+-   When souls leave the body after death, they are shown with dark particles and are dragged down into the depths, this could entail something like getting to a certain point in your progression so that when you die you'll be **going up instead**.
 
 ## Notes/Trivia
 
--   The Central Authority used to be The Adretian Authority. This change happened in 12/31/2021.
+-   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 8594
+revid: 8764
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -66,6 +66,13 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 ## Quests (incomplete)
 
 An NPC (insert name here) asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he says something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
+
+### Joining The Divers
+
+-   Akira, a Black Diver can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of Ignition Union goons.
+    -   You can confront Akira after he killed the Ignition Union; proposing 2 dialogue options.
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue allows access to [Castle Light](Castle_Light.md).
+        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (???). Failing this check leads to the same fate as the Ignition Union group.
 
 ## Monsters in The Depths (incomplete)
 

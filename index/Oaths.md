@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 8668
+revid: 8787
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Skills]
+categories: [Skills]
 ---
 
 # Oaths
@@ -26,11 +26,11 @@ You may only have 1 Oath per character slot, so it is best to pick what Oath you
 
 ### Pre-requisites:
 
--   Power 30
+-   Power 20
 
 ### How to obtain:
 
--   Open card deck at Power 30 and select Oath: Oathless
+-   Chance to obtain at Power 20 from power up. (Easy to Get Tbh)
 
 ### Oath Effects:
 
@@ -87,52 +87,3 @@ Head to Lower Ersia and make your way to the large bandit camp (just slightly pa
 -   According to a Blindseer user, with willpower 50, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the video for a more in-depth guide on how to obtain it.
 -   If you don't have any face accesory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
-
-  
-
-  
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Yun'Shul</td>
-</tr>
-</tbody>
-</table>
-
-File:Oath Yun Shul.png
-
-A higher quality picture, I just snipping tooled it form the original image
-
-  
-
-### Pre-requisites:
-
--   Bell/Resonance
--   At least Level 10  
-    
-
-### How to obtain:
-
-1.  Visit The Depths, and talk to Yun'Shul
-2.  If you are Level 45 and have a Resonance/Bell, he will let you make a wish out of 4 options. These options include: **Reroll Resonance, Wipe Oath, Return to Etrean Luminant, Yun'Shul Oath.**
-3.  Select Yun'Shul Oath to receive the oath however before you do this step you have to jump off a high point. You will be resurrected and instantly be brought to the upperworld with the Yun'Shul Oath. The game will give a card when you reach the upperworld called "Yun'Shul Oath"
-
-### Oath Effects:
-
--   +75 Elemental Intensity
--   +75 Ether
--   +150 Reservoir
--   \-100 Sanity
-
-### Oath Description:
-
-"PLUCK OUT THINE EYES. TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED. THE MOONSEYE CONVERGES WITH THAT BELOW."
-
-  
-
-###### Notes:
-
--   This oath could be fake, I am testing the validity of it, 1/2/21 - Neutered Cat#6865
--   Some say that this oath has a big disadvantage. Just put it either on the effects or in the comments section if found.
--   The old step three was most likely fake as some random user had just went in and changed the steps.

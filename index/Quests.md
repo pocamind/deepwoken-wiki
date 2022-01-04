@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 7666
+revid: 8818
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,18 +9,17 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-This page has the discovered quests in the game, how to complete them, and where. (start adding quests because I forgot all of the ones that I started)
+This page has the discovered quests in the game, how to complete them, and where.
 
-## Location Quests
+## Island Quests
 
--   Isle of Vigils
--   Etris
+-   [Isle of Vigils](<https://deepwoken.fandom.com/wiki/Isle_of_Vigils_(Starting_Island)#Main_Page:_Quests>)
+-   [Etris](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Quests>)
+
+## Coexisting Quests
 
 Korin (Money/Wood Quest): Korin is an NPC within Etris that can be found by the entrance to the Etrean wild.
 
-  
-Quest: Start the quest by talking to Korin and selecting the "Yeah \[Obtain Axe\]" dialogue option. He will give you a free Lumber axe. You can then give him 10 wood in exchange for 5 notes. Unlike most quests, this can be repeated.
+Drefa (Money/Wood Quest): Drefa is an NPC within Isle of Vigils that can be found by the Antiquarian
 
-Karliah (Diving quest)(wip so feel free to add stuff if you know how to further progress/complete the quest)
-
-Quest: Start the quest by talking to Karliah and selecting option 1>1>1>1>1>1. She then tells you to meet her at the mines of Erisia when you're ready. She is referring to the mudskipper infested cave in Lower Erisia. Once you arrive here, you will need to parkour to the highest point in the cave. If you do not have enough stamina there is a way to zipline down to the desired place. Once here, Karliah should be getting viciously attacked by a mudskipper. If she's not there rejoin until you find her. Talk to her and select option 1 which will enable the mudskipper to come after you. Upon defeating the mudskipper talk to Karliah who will whine about not being able to defeat a single muskipper or something like that. From there, you have a few options. Option 1 will cause her to walk deeper into the caves and be swallowed by some roots that come out from the ground and drag her under. You need around 40 charisma to choose option 2 which tells her to go back home and read some books to calm down, this leads to her murdering the old man while sitting down on a chair rubbing the old man's severed head, there are 2 options from this point and they are to leave her alone or put her out of her misery. Option 3 will require 50 charisma and tells ehr to give up on diving, this is considered the best ending because she decides to live happily in Etris. It is rumored that she may be in the depths after picking option one or option 2 (someone test this out)
+Quest: Start the quest by talking to Korin/Drefa and selecting the "Yeah. \[Obtain Axe\]" dialogue option. They will give you a free Lumber Axe. You can then give them 10 wood in exchange for 5 Notes. Unlike most quests, this can be repeated.

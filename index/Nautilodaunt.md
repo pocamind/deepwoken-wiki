@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 8571
+revid: 8756
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,4 +33,5 @@ Drops "Odd Tentacles".
 -   STAY CALM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
--   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds
+-   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds New tip just don't.
+-   New tip just don't

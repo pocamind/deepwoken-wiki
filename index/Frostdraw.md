@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 7654
+revid: 8849
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,9 +26,9 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 | --- | --- | --- | --- |
 |  | Ice Spikes | Piercing spikes of ice. | A huge ice spike juts out from the ground wherever your cursor is (there is a limited range). This does moderate damage and sends the target into the air. Leaves ice wherever the mantra has been casted. |
 |  | Ice Beam | Fire a beam of ice. | Fires a narrow beam of ice that punctures though the target hitting mutiple times (if not parried/blocked) Deals light damage and slows targets breifly. |
-|  | Frost Grab | An icy chokehold. | A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs) |
+| File:Frost Grab.gif | Frost Grab | An icy chokehold. | A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs) |
 |  | Crystal Impale | Impale your foes with a brutal crystal smash | It leaps you up and then you crash back down, dealing around 6-8 hits. |
-|  | Frozen Soldiers | (Add skill description here.) | Almost identical to [burning servants](Flamecharm.md), but ice themed. Summon 4-5 Ice statues around the player that blow chilling air, becoming an AoE that will damage and slow characters inside. It also creates ice around the floor where the player stands. |
+|  | Frozen Soldiers | A legion of frost. | Almost identical to [burning servants](Flamecharm.md), but ice themed. Summon 4-5 Ice statues around the player that blow chilling air, becoming an AoE that will damage and slow characters inside. It also creates ice around the floor where the player stands. |
 |  | Ice Laser | (Add skill description here.) | (1 single Ice shot, similar to Wind Gun but doesnt Knockback) |
 |  | Crystal Impact | (Add skill description here.) | (Lightning Impact without the AoE, basically a jump and stomp) |
 |  | Ice Dagger | Throws homing Ice daggers at the Enemy. | You throw 3 daggers (Can be modified) and it homes towards the nearest person. |
@@ -37,14 +37,16 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 |  | Ice Forge (☆) | Conjure and throw weapons of ice. | Your character creates several shurikens and rapidly pelts them at your cursor. Deals light damage and briefly slows targets. |
 |  | Ice Eruption (☆) | A flurry of ice spikes. | Your character firmly stomps the floor to create a long path of ice spikes. Deals moderate damage and slow targets for quite a while compared to other ice mantras (about 2 seconds). The mantra also creates a very wide ice sheet beneath it. |
 |  | Ice Smash (☆) | A colossal mace of ice. | Your character creates a Kanabō. Your character then proceeds to quickly bash the club into the floor, dealing heavy damage and flinging targets with low knockback. Briefly slows the target. This mantra can also destroy breakables. |
-| File:Icelance.gif | Ice Lance (☆☆) | Form an icey spear and lunge forward | Creates a short and narrow ice spear jutting out from the players right arm. Your character then qucikly dashes forward with their spear arm outforward in the direction of the dash. Deals moderate damage and breifly slows target. |
+| File:Icelance.gif | Ice Lance (☆☆) | Form an icey spear and lunge forward. | Creates a short and narrow ice spear jutting out from the players right arm. Your character then qucikly dashes forward with their spear arm outforward in the direction of the dash. Deals moderate damage and breifly slows target. |
+|  | Ice Fissure (☆☆☆) | Send ice rippling out in a shockwave. | The player holds an ice pickaxe and stomps on the ground. A floating ice pillar is created at the impact site and the floor turns to ice. The ice pillar pulsates a blue aura. |
 
 ### **Mobility Mantras (1 Max)**
 
 | Image | Name | Description | Effect |
 | --- | --- | --- | --- |
 |  | Glacial Arc | An arc of ice. | Fires a narrow ice \*tendril\* that arcs upward and impacts wherever the cursor is. (when infusing with a cloud or stratus stone, mutiple tendrils can be fired at once at a certain interval, such as in the gif) The arc lasts a (pretty long, uncomfirmed) amount of time and can be climbed on. Usually used to gain more height to climb a wall, but can be used in combat if timed correctly. Whever the tendrils impacts does, infact, deal damage. Deals heavy damage and slows target for about 2 seconds. Of course this is difficult to do, unless your fighting NPCS. (Don't try this with players). |
-| File:Ice Skate.png | Ice Skates
+|  | Ice Tower | \[Place Holder\] | (User can summon huge ice pillar like ice spikes. Appears to be larger version of ice spikes) |
+|  | Ice Skates
 (☆☆☆)
 
  | (Add skill description here) | (Can only be used in or ontop of water) Upon usuage your character creates a large ice platform below them and quickly slides foward on the surface of the water. Deals no damage and is purley mobility. However, can also create a large ice platform for you to use, since many useful ice talents activate when your on ice. |
@@ -116,6 +118,15 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 
  |
 
+#### Uncategorized
+
+| **Image** | **Name** | **Description** | **Effect** |
+| --- | --- | --- | --- |
+| File:Shatter Spear.webp | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity
++3 Health  
+
+ |
+
 #### Ice Age
 
 | **Image** | **Name** | **Description** | **Effect** |
@@ -140,6 +151,15 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 +6 Sanity
 
  |
+| 
+
+File:Bottom freeze.png
+
+ | Bottom Freeze | Hitting chilled enemies with shurikens(ice forge) while they are on ice freezes them to the ground. | +5 Elemental Intensity
+
++2 Health
+
+ |
 
 #### Cryomancer
 
@@ -151,6 +171,13 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 
  |
 |  | Cool Head | (you cannot be put on fire while on ice. I think flamecharmer spells were lessened or something aswell) | (placeholder) |
+| File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. | +4 Ether
+
++2 Elemental Intensity
+
++1 Health
+
+ |
 
 #### Glassdancer
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 8538
+revid: 8752
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -48,7 +48,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the 
 -   Do not be scared of them. Any player, no mater the power and with enough experience, can kill a Meglodaunt (unless it's the red variant).
 -   Meglodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is adviced to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
--   Common slang terms of Meglodaunt is Sharko, Megalodaunt, Gary, Jerry, Big Guy, and Liam
+-   Common slang terms of Megalodaunt is Sharko, Megalodon, Gary, Jerry, Big Guy, and Liam
 -   If Meglodaunt has you as a enemy targets, its best if you block dodge or party some of his moves than try to role it. Moves such as Thousand Needles and Yellow streamis semi-impossible to avoid, as it covers a good amount of area.
 -   Your camera shakes the closer Meglodaunt is to your character, due to his footsteps.
 -   It's always recommended to perfect dodge the Football Kicks.
@@ -63,7 +63,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the 
     
     File:Screen Shot 2021-12-31 at 9.28.36 AM.png
     
-    uhhhhh
+    uhhhhh (secret technique the red megalodaunt uses, its called the "nutcracker")
     
     File:Black Megalodaunt variant.png
 -   black Meglodaunt???
