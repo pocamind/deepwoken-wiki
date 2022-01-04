@@ -1,9 +1,9 @@
 ---
 title: Outfits
-revid: 8677
+revid: 8986
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Armors]
+categories: [Pages with broken file links, Armors, Items]
 ---
 
 # Outfits
@@ -433,7 +433,7 @@ x1 Strange Claw
 
  | Power Level 30
 
-30 Strenght
+20 Fortitude
 
  | +2500 Durability
 
@@ -916,7 +916,7 @@ seawater with no side effects
  |
 | 
 
- | heavy hands ring (depths drop) | Reduces M1 speed for increased posture dmg |
+ | Heavy Hands Ring | Reduces M1 speed for increased posture dmg |
 | File:Dazedband.PNG | Dazed Band | Flourishing an opponent
 
 has a 50% chance to stun

@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 8541
+revid: 9009
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -67,4 +67,4 @@ N/A
 
 ## Notes/Trivia
 
--   Notes go here
+-   An Npc in the Summer Isle refers to the Adrets as different, stating that they came not from the "old world" but rather from someplace else. He also cites that they are the only race not in relation to an animal. This directly disputes with the claims that Adret is in fact a fish.

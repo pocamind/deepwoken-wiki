@@ -1,13 +1,15 @@
 ---
 title: Nautilodaunt
-revid: 8901
+revid: 8967
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Nautilodaunt
 
-# **Squid (Squid Hoss/Squibbo/Squidward/ben 10)**
+> _"I DIDN'T SIGN UP FOR THIS!"_
+
+> ~\-~ ~Unfortunate Craftsman~ Soon to be Mudskipper.
 
 ## Description
 
@@ -30,10 +32,10 @@ Drops "Odd Tentacles".
 
 ## **Notes/Tips**
 
--   STAY CALM. If you don't, your parry timings will be broken.
+-   STAY CALM AND FEEL THE RHYTHM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
--   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also.
--   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds
--   New tip just don't
--   fr don't bro, just don't
+-   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also, but the stab is less effective than the latter two.
+-   No matter how high level'd you are, you cannot just try to meat hit it like a sharko. You need to parry and pay attention to his m1's or you will Immediately get wiped, This thing _**WILL**_ outskill you.
+-   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds.
 -   In the game files, Squibbo's real name is Squidward.
+-   Git gud scrub.

@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 8467
+revid: 8918
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -45,7 +45,9 @@ _Chance of obtaining race: **15.2%**_
 
 ## Lore
 
-based off wolves
+Wolf/lion people, blue haired/black haired are wolf-people, orange/golden haired are lion-people.
+
+Most human-like race in Deepwoken.
 
 **Strengths:**
 
@@ -63,4 +65,5 @@ N/A
 
 ## Notes/Trivia
 
--   notes
+-   Superior of felinor.
+-   **Not** furries, just like Adret aren't for being fish-men. >:(

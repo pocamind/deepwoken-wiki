@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 8502
+revid: 8925
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -31,6 +31,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 _It is theorized that the rewards he gives depend on what season it is in-game. There are many cases of players not receiving a Krulian Knife._
 
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife.
+-   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman.
 -   **Luck** - You receive a massive amount of luck for your card draws.
 
 ## Trivia/Notes

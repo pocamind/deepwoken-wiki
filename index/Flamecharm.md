@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 8710
+revid: 9004
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -54,11 +54,6 @@ Does not inflict stun or knockback
  | Fire Blade (☆) | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.
 
 **Breaks block, but can be parried.**
-
-  
-**Multiplying Spark:**
-
--   Increases the amount of slices made
 
  |
 | 
@@ -145,6 +140,8 @@ You will obtain it once you level up after reaching these requirements. _Once ob
 Asure Flames increase general Flamecharm Mantra damage (burn too), ~and is unaffected by environmental effects, such as rain. This means that campfires conjured with Asure Flames cannot be extinguished. This makes it very useful for traversing the Depths.~ This is untrue. To get campfires in the depths/in the rain, you need to have a talent called Unyielding Inferno, which allows you to make campfires in the Depths/In rain regardless of whether or not you have Asure Flames. (only usable when lighting a camfires with flame) not usable with graceful flame.
 
 You can think of Azure Flames as an upgraded version of the normal Flamecharm.
+
+You need both Azure Flames and Unyielding Inferno talent to use Graceful Flame in the depths.
 
 ## Trivia
 

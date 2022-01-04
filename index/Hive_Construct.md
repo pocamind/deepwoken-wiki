@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 8228
+revid: 8939
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,9 +24,9 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
 
 ## Moves
 
--   **Ground Slam** - Slams the ground with its arms, creating two circular shockwaves that do insane damage (~150) and can instagrip at max hp if you're low level. Can parry and roll to evade.
+-   **Ground Slam** - Punches the ground with its fist, creating two circular shockwaves that do insane damage (~150) and can instagrip at max hp if you're low level. Can parry and roll to evade.
 -   **Trees. A lot of trees** - Steps on the ground several times, spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing.
--   **Punch** - The golem swings at you, dealing insane damage (~200) and can instagrip at max hp if you're low level. Can parry and roll to evade.
+-   **Punch** - The golem uncoils it's arms and swings them upwards at you, dealing insane damage (~200) and can instagrip at max hp if you're low level. Can parry and roll to evade.
 -   **Kick** - The golem will kick you, block breaking and radolling you, sending you flying, similar to a sharko's punt. Can only be rolled to evade.
 
 ### Finishers

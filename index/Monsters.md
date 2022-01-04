@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 8687
+revid: 8969
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -45,7 +45,7 @@ Lastly, but definitely not least:
 
 # **PLEASE MAKE PAGES FOR EVERY MONSTER AND FILL THEM WITH INFORMATION FROM OLDER REVISIONS OF THIS PAGE**
 
-**PLEASE MAKE PAGES FOR EVERY MONSTER AND FILL THEM WITH INFORMATION FROM OLDER REVISIONS OF THIS PAGE**
+### REFER TO [\-> THIS <-](https://deepwoken.fandom.com/wiki/Monsters?oldid=6918) LINK FOR INFORMATION THAT NEEDS TO BE PASTED
 
 Missing Monsters:
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 8780
+revid: 9018
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -37,7 +37,7 @@ Hold your weapon with your dominant hand, which allows the use of an off-hand ac
 
 ### Two-handed
 
-Hold your weapon with both hands, which increases damage.
+Hold your weapon with both hands.
 
 ## Types of Weapons
 
@@ -71,8 +71,8 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>10</td>
   <td></td>
   <td>1</td>
-  <td></td>
-  <td></td>
+  <td>2</td>
+  <td>6.5</td>
   <td>1.05x</td>
 </tr>
 <tr>
@@ -101,9 +101,12 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>Iron Cestus</td>
   <td>0 LHT</td>
   <td>Fist</td>
+  <td>15</td>
   <td></td>
-  <td></td>
-  <td></td>
+  <td>7</td>
+  <td>5</td>
+  <td>7</td>
+  <td>0.86x</td>
 </tr>
 <tr>
   <td>Flintlock</td>
@@ -122,7 +125,7 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>1.8</td>
   <td></td>
   <td>6.5</td>
-  <td>1.03</td>
+  <td>1.03x</td>
 </tr>
 <tr>
   <td>Legion Cestus</td>
@@ -439,6 +442,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Serpent Blade</td>
   <td>45 MED</td>
   <td>Sword</td>
+  <td></td>
   <td>22</td>
   <td>6</td>
   <td>6</td>
@@ -450,7 +454,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>50 MED</td>
   <td>Sword</td>
   <td>17</td>
-  <td>0%</td>
+  <td></td>
   <td>7</td>
   <td>4</td>
   <td>8</td>
@@ -493,7 +497,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>100 MED</td>
   <td>Sword</td>
   <td>22</td>
-  <td>40%</td>
+  <td>25%</td>
   <td>7</td>
   <td>5</td>
   <td>8</td>
@@ -650,7 +654,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
 
 **Hero Blades:**
 
-These weapons do not fit the other categories, because their requirements and scaling are based on their corresponding element, instead of a weapon stat.
+These weapons do not fit the other categories, because their requirements and scaling are based on their corresponding element, instead of a weapon stat. They also got an Power Req of 35.
 
 <table>
 <tbody>
@@ -666,53 +670,53 @@ These weapons do not fit the other categories, because their requirements and sc
 </tr>
 <tr>
   <td>Hero Blade of Flame</td>
-  <td>75 FIR</td>
+  <td>75 FIR, LVL 35</td>
   <td>Sword</td>
   <td>23</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Hero Blade of Lightning</td>
-  <td>75 THD</td>
+  <td>75 THD, LVL 35</td>
   <td>Sword</td>
   <td>23</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Hero Blade of Frost</td>
-  <td>75 ICE</td>
+  <td>75 ICE, LVL 35</td>
   <td>Sword</td>
   <td>23</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Hero Blade of Wind</td>
-  <td>75 WND</td>
+  <td>75 WND, LVL 35</td>
   <td>Sword</td>
   <td>23</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Hero Blade of Shadow</td>
-  <td>75 SHD</td>
+  <td>75 SHD, LVL 35</td>
   <td>Sword</td>
   <td>23</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.75x</td>
 </tr>
 </tbody>
 </table>

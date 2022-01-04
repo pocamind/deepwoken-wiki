@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 8862
+revid: 8996
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -112,6 +112,10 @@ Hand of Mantra Cards
     -   Prerequisites: Strength
 -   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+1 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: Strength
+
+### Authority Interrogator
+
+-   Authority Intimidation \[?, Common Talent\] - All moves that apply electricity slow the opponent more.
 
 ### Bastion
 
@@ -397,7 +401,7 @@ Hand of Mantra Cards
 
 -   Now you see me \[Generic Talent, Common Talent\] - Your stealth when crouching is increaseed. (+1 Passive Agility, +2 Health)
 
-### Silvertounge
+### Silvertongue
 
 -   Friends in High Places \[Generic Talent, Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
 -   Salesperson \[Generic Talent, Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)

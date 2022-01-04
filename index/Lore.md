@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 8806
+revid: 8921
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,13 +41,18 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 
 _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€” Let me guess, an Etrean Adventurer or something? ...That Island's prospects are certainly grim." - The Duke of Erisia, talking to the Player_
 
+The Duke
+
+  
+
 -   The Duke, known for his creation of the Golems that roam Erisia Island, is a Celtor Galebreathe User who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems and [Mindless Servants](Mindless_Servant.md).
 -   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to The Lord Regent's Ruling.
--   He wields a light green bell on his right belt, the same bells from [The Depths](The_Depths.md). Based on what Alastir said, the Bell brings life to the Golems.
--   Before Erisia Island sank into The Depths, The Duke extracted an Artifact from the Temple of the Forgotten Flame, presumably the Piece of the Forge, and brought it back to his Manor. Soon afterwards, he ordered his Golems to attack and capture the inhabatants of Erisia Island, to his own people. Maybe he lost his humanity after discovering what the Forge can do, or simply went insane?
+-   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
+-   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
+-   The Duke extracted an Artifact from the Temple of the Forgotten Flame after Erisia Island went back up to the Etrean Luminant, presumably the Piece of the Forge, and brought it back to his Manor.
 
 ### Maestro Evengarde Rest
 
@@ -60,7 +65,8 @@ _\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're whatâ€
 _"Another one..? You've got to be kidding me." - Akira_
 
 -   Akira is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
--   Akira wields some sort of power- enough to blow up an unfortunate victim's head clean off. Provoking him will lead the same fate as the others.
+-   Akira wields a purple Resonance Bell, which allows the ability to blow up an unfortunate victim's head clean off. Provoking him will lead the same fate as the others.
+    -   It is presumed that the purple Resonance Bell is Yun'Shul's curse, as tumor-like spheres pop around the victim's head, before blowing up.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 
@@ -73,7 +79,8 @@ _"Another one..? You've got to be kidding me." - Akira_
 
 ### Erisia Island (Etrean Luminant)
 
--   An Island that sank into [The Depths](The_Depths.md) and came back to the overworld with what's left of itself. Locals whom witnessed the Island's arrival said that it came and drifted away from the [Voidsea](Voidsea.md).
+-   An Island that sank into [The Depths](The_Depths.md) and came back to the overworld with what's left of itself. Locals whom witnessed the Island's arrival said that it came and drifted away from the [Voidsea](Voidsea.md) months before year 1271.
+-   Erisia Island has experienced some sort of 'Time Stasis' when it was pulled out of the Voidsea, explained by Vohxus.
 -   It is unknown how Erisia Island managed to escape from The Depths, but further research is required.
 
 ### The City of the Drowned (The Depths)
@@ -241,6 +248,16 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The pillar that house 4 statues near Etris, are presumably the Past Rulers.
 -   There were 6 Total Rulers of Etrea; the 4 past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
 
+### Driftlands
+
+-   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
+-   Driftlands has experienced a sort of Time Stasis during its time in The Depths, and resumed back to the Luminant.
+
+### Resonance Bells
+
+-   Handheld Bells that allows the wielder to perform things that are impossible for the common people. Examples of Resonance Bells is The Duke's Bell, which allows him to create Golems.
+-   Their origin is unknown, but it is theorized to be in [The Depths](The_Depths.md).
+
 ## Miscellaneous (Doesn't fit into a specific category)
 
 -   When souls leave the body after death, they are shown with dark particles and are dragged down into the depths, this could entail something like getting to a certain point in your progression so that when you die you'll be **going up instead**.
@@ -248,3 +265,5 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ## Notes/Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
+
+-   Some things of the lore and the wiki in general **might** not be true so please don't think everything in here is 100% accurate/real...

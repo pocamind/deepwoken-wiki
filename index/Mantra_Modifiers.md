@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 8768
+revid: 8992
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Items]
 ---
 
 # Mantra Modifiers
@@ -18,7 +18,7 @@ A foolish fool using quite a numerous amount of items to upgrade a mantra.
 
 Mantra Modifiers are items that can be used to expand the potential of your Mantras. Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
 
-You can stack up to 1 of each modifier, including their weaker versions. This means a user can put 3 _Drift Shards_ and 3 _Rush Shards_ on one Mantra. _Be aware that adding more will increase [Ether](Combat_Mechanics.md) cost._
+You can stack up to 3 of each modifier, including their weaker versions. This means a user can put 3 _Drift Shards_ and 3 _Rush Shards_ on one Mantra. _Be aware that adding more will increase [Ether](Combat_Mechanics.md) cost._
 
 When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 

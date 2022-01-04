@@ -1,13 +1,15 @@
 ---
 title: Voidsea
-revid: 8604
+revid: 8980
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Voidsea
 
-_**"Here, the dying light collects like dregs at the precipice of a waterfall. The ultimate fate of all things become apparent."**_
+> _"Here, the dying light collects like dregs at the precipice of a waterfall. The ultimate fate of all things become apparent."_
+
+> \- In-game flavour text upon entering _**The Void Sea**_.
 
 ## Overview
 
@@ -21,12 +23,9 @@ Whirlpool also appears in the area. They instantly destroy any boat that touch t
 
 ## Notes
 
-Especially dangerous monsters spawn in this area, such as: Flying demons, ice dragons, sea monsters from the depths,
-
-There are patches of bubbles around the Void Sea and hitting one can cause a Sea Dragon (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
-
-If you die in the void sea, no matter how many lives you have, you'll go to the Depth's
-
-Some video proofs about ice dragon: [https://youtu.be/-eJp5\_pmdq4](https://youtu.be/-eJp5_pmdq4)
-
-~I believe that sea monsters only spawn when you stop moving, as me and several other users have travelled for about an hour here with zero monster sightings. I ended up resetting but people that say they've stopped their boat have reported monster attacks after an hour of peaceful sailing~ They only spawn when you come in contact with bubbles.
+-   Especially dangerous monsters spawn in this area, such as: Flying demons, ice dragons, sea monsters from the depths,
+-   There are patches of bubbles around the Void Sea and hitting one can cause a Sea Dragon (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
+-   If you die in the void sea, no matter how many lives you have, you'll go to the Depth's
+-   Some video proofs about ice dragon: [https://youtu.be/-eJp5\_pmdq4](https://youtu.be/-eJp5_pmdq4)
+-   Monsters only spawn when you come in contact with bubbles.
+-   It is rumoured that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumour however is shoddy at most.

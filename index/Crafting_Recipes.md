@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 8412
+revid: 9012
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Crafting Recipes
 
-_"Man, this Brown Mushroom bussin'!" \*Pukes everywhere\* - Random Adret_
+"Man, this Brown Mushroom bussin'!" \*Pukes everywhere\* - Random Adret
 
 ## Description
 

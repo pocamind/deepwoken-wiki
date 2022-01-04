@@ -1,8 +1,9 @@
 ---
 title: Random Encounters
-revid: 8351
+revid: 8931
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World]
 ---
 
 # Random Encounters

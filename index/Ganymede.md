@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 8836
+revid: 9017
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -28,4 +28,4 @@ The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% 
 
 -   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
--   The only race who has the right to say the N word.
+-   Looks alot like cipher from the valorant series.

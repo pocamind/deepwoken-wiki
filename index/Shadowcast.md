@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 8893
+revid: 8927
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -181,7 +181,7 @@ File:Shadow travel.png
 +3 Health
 
  |
-| File:Dark Synergy.png | Dark Synergy |  |  |  |
+| File:Dark Synergy.png | Dark Synergy | Darksiphon | Common | engulf your enemy in shadows when flourishing them. |
 | File:Fear.png | Fear |  |  |  |
 | File:Dark Rift.png | Dark Rift |  |  |  |
 | File:Lasting Sorrow.png | Lasting Sorrow |  |  |  |

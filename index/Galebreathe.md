@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 8900
+revid: 8997
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -85,7 +85,7 @@ The trap can stick to players when thrown, having the tornado follow them for th
  |
 | 
 
- | Gale Punch (☆) |  | AOE punch that deals damage and knocks opponents away |
+ | Gale Punch (☆) |  | AOE punch that deals damage and knocks opponents away. It can be upgraded with the "Vacuum Punch" talent. |
 | 
 
  | Rising Wind

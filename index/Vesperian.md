@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 8874
+revid: 8960
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -39,6 +39,7 @@ Masked humanoids with cyan/grayish hair. Their masks and skin tone change depend
 ## Notes/Trivia
 
 -   I'm pretty sure this is a reference to Neon Genesis Evangelion, Hollow Knight and Halo 3: ODST
+-   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it.
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special dark-colored mask with a yellow pattern that resembles an eye.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md).
 

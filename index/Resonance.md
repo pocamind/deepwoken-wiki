@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 8784
+revid: 9003
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Skills]
@@ -26,7 +26,7 @@ _**Pressing C triggers resonance**_
 
 \- Get a bunch of luck via **killing** players that are around your level or by killing bosses / corrupt mobs in the depths. You know you will have obtained luck when white stars appear around your character (Not to be confused with the regular white particles that appear around your character when killing any mob).
 
-\- Once you have a bunch of luck, it is speculated you need level 50 but that may or may not be true.
+\- Leveling up WHILE IN THE DEPTHS will DECREASE your luck, so do NOT level until you reach back to the Overworld.
 
 \- Knock yourself in the depths with a bunch of luck and you will get resonance. If it doesn't work, you need more luck
 
@@ -34,15 +34,16 @@ The process to get a resonance has just been overly complicated due to testers t
 
 In TLDR:
 
--   **Picking** a rare/legendary card will **decrease luck**.
--   You are able to **escape** The Depths, and you will not lose luck
--   **DO NOT** LEVEL UP
+-   Kill players or enhanced monsters until you reach max luck.
+-   Upon reaching max luck, get knocked.
+-   You are able to **escape** The Depths, and you will keep your current luck.
+-   **DO NOT** LEVEL UP.
 
 ## Strategy
 
 **NOTE: THESE ARE NOT REQUIREMENTS, YOU DO IT HOWEVER YOU FEEL LIKE. THIS IS JUST A SAFE WAY TO GET IT THE FIRST TIME, AND YOU CAN DO IT IN MORE RISKIER/EFFICENT WAYS WHEN YOU'RE MORE EXPERIENCED WITH IT.**
 
-Getting a bell in the most safe, efficent, and reliable way requires a team. What you enter The Depths when it comes to Mantras and Talents will be what you have for the entire duration of the journey, as leveling up actively and signifcantly lengthens the timer, but you CAN level up while in the OVERWORLD. Getting XP from The Depths, then returning back to The Overworld to actually use it, will work.
+Getting a bell in the most safe, efficent, and reliable way requires a team. When you enter The Depths, you will not be able to level up until you leave back to the Overworld, which you don't want to do, as it's better if you can reduce your amount of trips back to the overworld in total.
 
 An undying flame and/or Capra user is advised, for sanity and thirst/hunger regain, respectively, as you want to stay as long as possible.
 
@@ -52,9 +53,12 @@ Even though **technically** theres no level requirement, a good level is 40, as 
 
 ### Advised Requirements
 
+Main Article - _[The Depths](The_Depths.md)_
+
 -   Alot of food, like **alot** of food.
+-   Food Alternative - Carnivore Talent
 -   A Capra and/or Undying Flame buddy.
--   40 Willpower/Blindseer/Conquer Your Fears
+-   40 Willpower/Blindseer/**Conquer Your Fears**
 -   Level 40
 -   Learning the patterns of Sharkos, Lionfish, Threshers, and King Crabs, and how to deal with them at said level 40.
 
@@ -98,7 +102,7 @@ Phoenix fire effect
 #### Effects:
 
 -   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside yourself.
--   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow. (discount Rogue Lineage gate)
+-   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow. (discount Rogue Lineage gate) (This is basicly kamui)
 
 ### **Reaper**
 

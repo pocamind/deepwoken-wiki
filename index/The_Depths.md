@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 8895
+revid: 9010
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,7 +12,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 > "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
 
-The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 0 again.
+_The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 0 again._
 
 Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will also drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
 
@@ -40,22 +40,22 @@ Completing your trial and escaping The Depths gives you a new talent "Depth Conn
 
 | Level | Possible Enemies |
 | --- | --- |
-| <8 | N/A - you may escape without fighting a mob guarantee. (no cap, I tested a ton of times) |
-| 16-19 | [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
+| <9 | N/A - You escape without fighting a mob (no cap, I tested a ton of times) |
+| 10-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-39 | [Megalodaunt](Megalodaunt.md) |
 | 40-49 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
 | 50< | [Enforcer](Enforcer.md) |
 
-**Note:** These numbers are not exact. There is still a chance you may fight something more or less powerful than whats shown in the table above depending on your power. Think of it as if there's a chance for you to fight anything within 10 Power of you, eg: Power 40 players have a slim chance to face The Enforcer, Power 25 players have a chance to fight a Megalodaunt, etc.
+**Note:** These numbers are not exact. There is still a chance you may fight something more or less powerful than whats shown in the table above depending on your power. Think of it as if there's a chance for you to fight anything within 10 Power of you, eg: Power 40 players have a slim chance to face The Enforcer, Power 25 players have a chance to fight a Megalodaunt, etc. **TL;DR** These are a rough estimate of what you will most likely fight.
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 
 ## Farming in The Depths
 
-The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However the benefits of XP Gain and loot drops are especially rewarding too. Listed below are Talents you may want to consider gaining before going to The Depths that will aid in sustained survival in one of the most trecharous areas in Deepwoken:
+The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops far outweigh the negatives of death for greedy souls such as yourself. Listed below are Talents you may want to consider acquiring before heading down to The Depths that will aid in your sustained survival in one of the most trecharous areas in Deepwoken:
 
--   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Willpower** or **Fortitude** (most likely Fortitude).
+-   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Strength** or **Fortitude** (most likely Strength).
 
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 
@@ -90,6 +90,8 @@ An NPC (insert name here) asks to find someone on the surface world named "Morni
 
 ## Loot Table
 
+Almost everything in the game drops in the depths
+
 <table>
 <tbody>
 <tr>
@@ -101,8 +103,8 @@ An NPC (insert name here) asks to find someone on the surface world named "Morni
 <tr>
   <td>Shrouded Cape</td>
   <th>Ring of Wisps</th>
-  <th></th>
-  <th></th>
+  <th>Officer's Sabre</th>
+  <th>Curved Blade of Winds</th>
 </tr>
 <tr>
   <td>Star Duster</td>
@@ -134,5 +136,5 @@ An NPC (insert name here) asks to find someone on the surface world named "Morni
 ## Trivia
 
 -   It is still possible to gain card luck (potentially even more than usual?) by killing players (or NPCs) in the depths.
--   Resonance bells can be found in The Depths.
+-   Resonance/bells can be unlocked in The Depths.
 -   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths.

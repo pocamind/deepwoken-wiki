@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 8868
+revid: 8959
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -9,6 +9,8 @@ categories: [Magic, Spells]
 # Thundercall
 
 > _"Thoron!"_ - Pathfinder Arch-Sorcerer
+
+> _**"PRAISE THE SUN!"**_ - Devout Thundercaller Crusader
 
 ## Description
 
@@ -31,27 +33,36 @@ The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgra
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Lightning Blade | Arcing blades of electricity. | User dashes forward with two swipes. |
-| 
+ | Lightning Blade | Arcing blades of electricity. | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
 
- | Lightning Impact (☆) | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down.
-
-Deals damage.
+-   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 
  |
 | 
 
- | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons two clones beside you and strikes enemies once then dissapears.
+ | Jolt Grab | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands.
 
-This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
+-   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. Without a target, the cast will fail to activate.
 
  |
 | 
 
- | Jolt Grab | An electrified chokehold. | Dashes into the opponent and slams them into the ground. (can be upgraded to teleport with magnet spark) |
+ | Lightning Impact (☆) | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
+
+-   Can be upgraded with a Talent.
+
+ |
 | 
 
- | Lightning Beam (☆) | Fire a beam of lightning. | Calls a beam of lightning onto the ground.
+ | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before dissapearing.
+
+-   This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
+-   Modifying the Mantra with a Cloudstone does not produce more clones.
+
+ |
+| 
+
+ | Lightning Beam (☆) | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
 
 Appears after a second of casting.
 
@@ -62,11 +73,11 @@ Appears after a second of casting.
 
 Strike (☆)
 
- | A strike of thunder at your desired location. | Makes it so a thunder strikes where the user was aiming with their cursor, after a split second the ground will be shocked stunning
+ | A strike of thunder at your desired location. | 
 
-everyone around the beam and then the lighting will strike.
+-   Makes it so a thunder strikes where the user was aiming with their cursor, after a split second the ground will be shocked stunning, everyone around the beam and then the lighting will strike.
 
-Strikes 7 total times but will be canceled if any of the strikes hit the user.
+-   Strikes a total of 7 times, but will be canceled if any of the strikes hit the user.
 
  |
 | 
@@ -87,7 +98,7 @@ Guard breaks opponents blocking.
 
  | Electro Carve (☆☆) | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
 
-Shocks opponents inside of it.
+Shocks opponents inside of it while dealing damage.
 
  |
 | 
@@ -128,43 +139,120 @@ This can be used on NPCs or players.
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Lightning Assault (☆☆) | A rush of lightning. | You dash forward and attack those you pass |
+ | Lightning Assault (☆☆) | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
+
+-   Guaranteed to hit at least one target if you have your crosshair locked onto them.
+
+ |
 
 ## Talents
+
+Documented Talents (excluding those unlocked by level) from Thundercaller.
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Discovery Of Fire | Flints and Flamecharm are for simpletons. | Flint but it has infinite uses. (this is just a common talent card that can be obtained randomly)  
- |
-| 
+_**Stormcaller**_ | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | After using a melee spell, if you press F an additional set of lightning will come down.
 
- | Static Withdraw | After being knocked, if someone tries to carry you for the first time you get knocked, release a static charge to damage them. | Used to stop someone from carrying you, but has two other Talent cards that modifiy its uses. |
-| 
-
- | Jumpstart (Static Withdraw Upgrade) | Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage, and damage taken. | Increases your mobility, including speed and Parkour
-
-Buffs physical damage attacks
+-   (Seems to be in a bugged state right now, it will not call down lightning on any moves.)
 
  |
 | 
 
- | Raging Static (Jumpstart Upgrade) | Your jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered and this also lowers your cooldown on Jumpstart. | Removes the movement boost effects from Jumpstart
+ | Discovery Of Fire | Flints and Flamecharm are for simpletons. | Flint but it has infinite uses.
 
-Does less self damage
+-   This is just a common talent card that can be obtained randomly.  
+    
 
-Increases the buff to physical attacks
+ |
+| _**Thundercaller**_ | Stratoshock | Your lightning deals more damage when in the rain. | Self-explanatory, deal more damage when its raining (may apply in water).
+
+-   +4 Elemental Intensity
+-   +3 Health
 
  |
 | 
 
- | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | After using a melee spell, if you press F an additional set of lightning will come down.(Seems to be in a bugged state right now, it will not call down lightning on any moves.) |
-|  | Volt Kick | After Landing a lightning kick successfully press F to followup on your opponent with a less potent kick | After using Thunder Kick, if you press F an additional (weaker) kick will followup. |
+_**Thunder Caster**_
+
+ | Jolt Cast | Every 3 perfect casted lightning mantra builds a stack. At 3 stacks, your next lightning mantra is an instant cast. | Perfect cast? 3 times and your next cast will forgo the casting time and immediately throw it out.
+
+-   The definition of a _"Perfect Cast"_ is not clear, but may refer to how some Mantras will not cast if they are interrupted or do not have a designated target.
+-   +7 Carry Load
+-   +2 Elemental Intensity
+
+ |
+|  | Volt Kick | After Landing a lightning kick successfully press F to followup on your opponent with a less potent kick | After using Thunder Kick, if you press F an additional (weaker) kick will followup.
+
+-   Upgrade to _**Thunder Kick**_
+
+ |
+| 
+
+_**Javelin Lord**_
+
+ | Grand Skewer | Your _**Grand Javelin**_ now carries opponents through the air. | Upon hitting an opponent, the projectile now ragdolls opponents before carrying them through the air for a short while before dropping them. |
 | 
 
  | Static Blade | \[Medium Weapons} Hitting blocks or blocking or parrying hits will now generate an electric charge in your blade. granting a small speed buff. Charges can stack up to 10 times. | Hitting blocks, blocking or parrying will grant a small speed buff, stacks up to 10 times. (Currently unsure if this works or not, could be bugged) |
+| 
+
+ | Static Withdraw | After being knocked, if someone tries to carry you for the first time you get knocked, release a static charge to damage them. | 
+
+-   Used to stop someone from carrying you, but has two other Talent cards that modifiy its uses.
+
+ |
+| 
+
+ | Jumpstart (Static Withdraw Upgrade) | Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage, and damage taken. | 
+
+-   Increases your mobility, including speed and Parkour
+
+-   Buffs physical damage attacks
+
+ |
+| 
+
+ | Raging Static (Jumpstart Upgrade) | Your jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered and this also lowers your cooldown on Jumpstart. | 
+
+-   Removes the movement boost effects from Jumpstart
+-   Does less damage to self.
+-   Buffs the buff to attacks.
+
+ |
+| 
+
+_**Static Weaver**_
+
+ | Static Link | Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. | Creates a visible link between you, and your enemy after finishing a three-hit-combo.
+
+-   Link can apply to multiple enemies at once.
+-   Upgradeable with other talents.
+-   +8 Resevoir
+-   +4 Elemental Intensity
+-   +1 Health
+
+ |
+| 
+
+_**Static Weaver**_
+
+ | Jumper Cables
+
+(Static Link Upgrade)
+
+ | Getting Knocked with an active tether allows you to steal health from tethered target and not get knocked. | Being tethered while being knocked immediately drains health from the target and gets you back up on your feet.
+
+-   Upgrade of _**Static Link.**_
+-   +1 Ether
+-   +5 Resevoir
+-   +2 Health
+
+ |
 
 ## **Trivia/Notes**
 
 -   Thundercall moves are very ether demanding, so it's best to use a character rich in ether.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
+-   Base _Lightning clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissapating after being hit by friend, foe and self.
+-   The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.

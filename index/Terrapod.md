@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 8492
+revid: 8978
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 Template:Creature Info Box v2
 
-_"It's your pet- the frickin' HEADHUMPER!" - Barney Dusselden_
+> _"It's your pet- the frickin' HEADHUMPER!" - Barney Dusselden_
 
 _Also known as Crabs, Small Crabs, Headcrabs, and Turtles._
 

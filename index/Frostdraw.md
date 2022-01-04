@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 8850
+revid: 9020
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -46,7 +46,11 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 | --- | --- | --- | --- |
 |  | Glacial Arc | An arc of ice. | Fires a narrow ice \*tendril\* that arcs upward and impacts wherever the cursor is. (when infusing with a cloud or stratus stone, mutiple tendrils can be fired at once at a certain interval, such as in the gif) The arc lasts a (pretty long, uncomfirmed) amount of time and can be climbed on. Usually used to gain more height to climb a wall, but can be used in combat if timed correctly. Whever the tendrils impacts does, infact, deal damage. Deals heavy damage and slows target for about 2 seconds. Of course this is difficult to do, unless your fighting NPCS. (Don't try this with players). |
 |  | Ice Tower | \[Place Holder\] | (User can summon huge ice pillar like ice spikes. Appears to be larger version of ice spikes) |
-|  | Ice Skates
+| 
+File:Ice Skate.png
+
+ | Ice Skates
+
 (☆☆☆)
 
  | (Add skill description here) | (Can only be used in or ontop of water) Upon usuage your character creates a large ice platform below them and quickly slides foward on the surface of the water. Deals no damage and is purley mobility. However, can also create a large ice platform for you to use, since many useful ice talents activate when your on ice. |

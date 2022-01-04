@@ -1,8 +1,9 @@
 ---
 title: Artifacts
-revid: 8511
+revid: 8987
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Artifacts
