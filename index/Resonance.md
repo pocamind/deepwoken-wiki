@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 9286
+revid: 9332
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -24,7 +24,8 @@ _**Pressing C triggers resonance**_
 
 **Confirmed method by multiple resonance users, Kanorogue#6037.**
 
--   ~Get a ton of luck then knock yourself in the depths. It is really that simple.~ This doesn't work, I maxed out luck (and still didn't get resonance, only after a few hours of afk i did get a resonance, retard piece of shit trying to confuse people, i'm too lazy to edit the way in again but to know if you have maxed out luck is to kill a corrupt mob and if a white transluecent block doesn't appear around you it means you've maxed it out). Please spread this method before it gets edited again (sorry about whoever did that). You can gain luck by killing players, bosses, or corrupt monsters in the depths. You will know you have gained luck when white stars appear around your character (Not to be confused with the white stars you get when killing any npc).
+-   Get a ton of luck then knock yourself in depths. It is really that simple. If you want proof of my bell go ahead and dm me I did not spend very long in the depths at all.
+-   People say things along the lines of "max luck" when there is no way to tell when you've reached max luck. There is no such thing as a "timer" I know like 5 different people with resonances they will all say the same thing. Please stop editing this page just because you didn't get enough luck and sat there for 5 hours
 
 ## How Do You Change A Resonance?
 
@@ -143,18 +144,24 @@ Phoenix fire effect
         -   12 Light Weapon Scaling
         -   5 Weight
         -   12 Range
--   **Dimensional Shift** [https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
--   Effects:
-    -   Upon activation, the player enters a white portal that only they can go through.
-    -   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
-    -   You are forced out of the dimension after 5 or 6 seconds.
-    -   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.[\[1\]](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
+
+### **Dimensional Shift**
+
+#### Effects:
+
+-   Upon activation, the player enters a white portal that only they can go through.
+-   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
+-   You are forced out of the dimension after 5 or 6 seconds.
+-   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.[\[1\]](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
 -   Notes:
     -   It's reccommended that you don't chat before using it, as your text bubbles do not disappear when you are in the dimension.
     -   You could think of it just like Yoru's ultimate from Valorant.
--   **Soul Manipulation**
--   Effects:
-    -   Upon killing a player or an npc, you absorb their soul.
-    -   Having a soul allows you to shoot a projectile which deals damage by activating your resonance
-    -   Sadly, the beam does little damage and it's recommended you reroll this
-        -   You cannot absorb the souls of monsters
+
+### **Soul Manipulation**
+
+#### Effects:
+
+-   Upon killing a player or an npc, you absorb their soul.
+-   Having a soul allows you to shoot a projectile which deals damage by activating your resonance
+-   Sadly, the beam does little damage and it's recommended you reroll this
+    -   You cannot absorb the souls of monsters

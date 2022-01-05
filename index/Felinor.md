@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 9280
+revid: 9367
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -8,9 +8,11 @@ categories: [Races]
 
 # Felinor
 
+Felinor is a [Race](Aspects.md) in Rogue Lineage 2
+
 ## Descriptions
 
-The cat-like people of the world, Felinor (sometimes called Feliggers), are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk, even though they're also based on Lions, a type of big cat.
+The cat-like people of the world, Felinor, are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk, even though they're also partially based on Lions.
 
 It has a 8.2% rollable race chance.
 
@@ -18,7 +20,7 @@ Template:Race Box mark 2
 
 ## Lore
 
-none  
+Unknown  
 
 ## Appearance
 

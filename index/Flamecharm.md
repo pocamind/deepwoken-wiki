@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 9291
+revid: 9336
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -14,7 +14,7 @@ Flame charm icon
 
 -   **Description**
 
-Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Flame Hearthgem. They can be found in every mantra shop and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to climb past the top of the waterfall in songseeker wilds, the trainer will be in a dojo at the top (10 flamecharm per level).
+Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Flame Hearthgem. They can be found in every mantra shop and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to climb past the top of the waterfall in Songseeker Wilds, the trainer will be in a dojo at the top.
 
 ## Mantras
 
@@ -51,11 +51,7 @@ Does not inflict stun or knockback
  | Fire Forge (☆) | Toss a nimble dagger. | Caster swipes their weapon hand and launches 3 flaming throwing stars which converge before spreading out in 3 adjacent directions. They deal little damage and inflict burn unless blocked. |
 | 
 
- | Fire Blade (☆) | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit.
-
-**Breaks block, but can be parried.**
-
- |
+ | Fire Blade (☆) | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit. |
 | 
 
  | Flame Grab | A fiery chokehold. | Caster charges a grab for 0.5 seconds, thrusting forward and when the target is hit, they are grabbed and slammed into the ground, inflicting burn and damage |
@@ -135,13 +131,7 @@ You are able to obtain Azure Flame by having the following:
 
 \- 70 Flamecharm Levels
 
-You will obtain it once you level up after reaching these requirements. _Once obtained, your Flamecharm Mantra will change to a light-blue sort of colour, including campfires and Flame Wisp's aura colour._
-
-Azure Flames increase general Flamecharm Mantra damage (burn too), ~and is unaffected by environmental effects, such as rain. This means that campfires conjured with Asure Flames cannot be extinguished. This makes it very useful for traversing the Depths.~ This is untrue. To get campfires in the depths/in the rain, you need to have a talent called Unyielding Inferno, which allows you to make campfires in the Depths/In rain regardless of whether or not you have Asure Flames. (only usable when lighting a camfires with flame) not usable with graceful flame.
-
-You can think of Azure Flames as an upgraded version of the normal Flamecharm.
-
-You need both Azure Flames and Unyielding Inferno talent to use Graceful Flame in the depths.
+You will obtain it once you level up after reaching these requirements. Once obtained, your Flamecharm Mantra will have most of its colours changed to blue, including campfires and Flame Wisp's aura colour. You can think of Azure Flames as an upgraded version of the normal Flamecharm.
 
 ## Trivia
 

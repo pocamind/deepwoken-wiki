@@ -1,12 +1,14 @@
 ---
 title: Khan
-revid: 9214
+revid: 9348
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Khan
+
+Khan is a [Race](Aspects.md) in Deepwoken
 
 ## Description
 
@@ -63,6 +65,6 @@ N/A
 
 ## Notes/Trivia
 
--   It's a monke
+-   Race based off monkies.
 -   Khan means "ruler" in Mongolian, Chinese and Hindi
 -   In the novel "Journey to the west", The crown of Sun Wukong is actually a curse.

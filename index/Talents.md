@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9230
+revid: 9361
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -225,6 +225,11 @@ Hand of Mantra Cards
 ### Fish
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.
+
+### Flame Dancer
+
+-   Dancing Steps \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
+-   Flaming Rebound \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
 
 ### Flame Warden
 
@@ -580,6 +585,11 @@ Hand of Mantra Cards
 Occasionally, instead of receiving a selection of cards, you receive a Whisper - a selection of Mantras.
 
 ### Physical Mantras
+
+#### Fortitude Combat
+
+-   Reinforce - up defence for you and allies around you
+-   Rally \[Shield Only\] - absorb incoming posture damage for allies around you
 
 #### Agility Combat
 

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 9282
+revid: 9360
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -9,6 +9,8 @@ categories: [Races]
 # Capra
 
 Template:Races-Main
+
+Capra is a [Race](Aspects.md) in Deepwoken
 
 ## Etymology
 
@@ -25,7 +27,7 @@ They are keepers of ancient secrets who travel the seas sharing knowledge with t
 
 ### **Appearance**
 
-Caprae have 3 skin color variants blue, green, and red. Each variant has specific passive bonuses which are listed down below. All Caprae have horizontal rectangular pupils, similar to real world goats. Universally, they have bony masks, which's individual shape ranges from having teeth or no teeth, alongside a variety of different horn types. This is followed by a brownnish-yellow hair and yellow irises.
+The Caprae have 3 skin color variants: Blue, green, and red. Each variant provides unique passive bonuses, which are listed down below. All Caprae don goat-shaped masks, revealing only their eyes, horizontally rectangular pupils (similar to real world goats) as well as yellow irises. Regardless of variation, their hair color will always be a medium jungle green,
 
 ### Racial Abilities
 
@@ -47,12 +49,12 @@ Upon reaching Power 10 you gain the ability to use the Mark of Jurik, Nemit, or 
 
 ### Weaknesses
 
-This is not a good race for solo progression, as its racial abilities solely apply to allies.
+This isn't a good race to play as for solo progression, as its racial abilities solely apply to other players.
 
 ### Notes/Trivia
 
-Objectively goated race.
+An objectively goated race.
 
 Each of the marks appear to originate from a different real world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
 
-This is probably a reference to the Capra Demon, a boss in Dark Souls.
+This race is likely a reference to the Capra Demon, a boss in Dark Souls.

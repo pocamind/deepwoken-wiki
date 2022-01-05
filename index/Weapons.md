@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 9268
+revid: 9341
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -483,7 +483,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td>18</td>
   <td>20%</td>
-  <td>7</td>
+  <td>7.5</td>
   <td>4</td>
   <td>8</td>
   <td>0.7x</td>

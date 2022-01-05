@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 9257
+revid: 9311
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -10,13 +10,13 @@ categories: [Pages with broken file links, Armors]
 
 ## Description
 
-(**Warning**: Keep in mind that Deepwoken is a newly released game and most of this information could be false.)
+(**Warning**: This is a RNK (1) Page. If any griefing occours please let an admin know.)
 
-There are many kinds of Armor in Deepwoken, with types of Armor pieces (Chestplates, Hands, Rings, Boots, etc) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Sea.
+There are many kinds of Armor in Deepwoken, with types of Armor pieces (Common, Uncommon, Rare, Epic, Legendary) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Landmass
 
-Armors can be obtained in 2 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats randomized. (This including the Gold Ring given to you by Polis in Etris)
+Armors can be obtained in 5 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats D-Rolled (randomized). (This including the Kongas Cluch Ring given to you by rare chest
 
-There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes are accesories, only face accesories dont do anything. also, blindfold can be used to get blindseer.) benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 1000 [note](Notes.md) fee.
+There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes are accesories, only spike accesories dont do anything. also, blindfold can be used to get blindseer.) benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 200 [note](Notes.md) fee.
 
 ## Repairing your Outfit
 

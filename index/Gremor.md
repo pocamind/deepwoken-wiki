@@ -1,12 +1,14 @@
 ---
 title: Gremor
-revid: 9173
+revid: 9346
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Gremor
+
+Gremor is a [Race](Aspects.md) in Deepwoken
 
 ## Description
 
@@ -65,6 +67,6 @@ N/A
 
 ## Notes/Trivia
 
--   By grabbing a Gremor by the horns, you can more easily plunge your weapon into them
+-   By grabbing a Gremor by the horns, you could theoretically more easily plunge your weapon into them.
 -   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.
     -   Also applies to Void Sea

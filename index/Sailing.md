@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 9069
+revid: 9315
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -14,7 +14,7 @@ categories: [Sailing]
 
 Sailing is a crucial part to Deepwoken, you cannot cross the sea without a boat. The sea has many threats, including Whirlpools, Lionfish, Giant Sea Dragons (Kaido) and the eternal Void.
 
-## How to Sail
+## How to Seaborne
 
 Boat Man.
 
@@ -29,6 +29,8 @@ Hold D/A to steer. Steering can be somewhat difficult to get used to.
 Hold Z/C to Rotate sails. Rotate your sails to be perpendicular of the flag (seen below) for a speed boost.
 
 The flag at the top of your boat points the opposite direction of the wind.
+
+You can hyperdrive if you have the hidden talent for it unlocked
 
 ## Notes/Trivia
 

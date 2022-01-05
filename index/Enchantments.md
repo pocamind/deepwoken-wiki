@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 9127
+revid: 9354
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -136,7 +136,7 @@ _The information below may not be accurate. Many enchants are yet to be discover
 
 ### Curse of Yun'Shul
 
--   Pros: Every hit has a 5% chance to instantly kill the target.
+-   Pros: Every hit has a small chance to deal 3x damage to the target.
 -   Cons: Every hit has a 5% chance to deal significant damage to the user. [https://medal.tv/games/roblox/clips/6QEB7uw0H\_U2w/d1337HTY9kfo?invite=cr-MSxnd0UsMTMyNDUyNTEs](https://medal.tv/games/roblox/clips/6QEB7uw0H_U2w/d1337HTY9kfo?invite=cr-MSxnd0UsMTMyNDUyNTEs)
     
     File:Curse of yun shul.png

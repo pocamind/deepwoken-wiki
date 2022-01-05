@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 8469
+revid: 9368
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Bandit Assassin is NPC Type enemies that are found in the all over Erisia.
+Bandit Assassin is NPC Type enemies that are found in the all over Erisia. Wears black.
 
 They would usually be in a group of 3 Assassin bandits
 

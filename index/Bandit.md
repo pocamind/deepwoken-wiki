@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 8464
+revid: 9364
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Bandit is NPC Type enemies that are found in the all over Erisia.
+Bandit is NPC Type enemies that are found in the all over Erisia. Wears red.
 
 They would usually be sitting around a campfire.
 

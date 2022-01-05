@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 8754
+revid: 9362
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -57,7 +57,7 @@ File:Greathive Aratel4.png
 
 Suri the NPC
 
-The first quest is given by a vesperian named "Suri" to visit his dead brother's grave in Isle of Vigils. (I skipped over some dialogue, you're supposed to do something before you visit the grave)
+The first quest is given by a vesperian named "Suri" to visit his dead brother's grave in Isle of Vigils. He gives you a delicate flower and asks you to deliver it to his brother's grave in isle of vigils, the flower is delicate so he asks you to take the safest route. He gives you a vibrant gem for completing it. (This quest was inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger). You can restart the quest by talking to Suri again if your flower is destroyed.
 
 File:Greathive Aratel5.png
 
@@ -90,11 +90,8 @@ File:Greathive Aratel8.png
 
 Witch shop from the balcony
 
-**UPDATE ON THE VESPERIAN GRAVE QUEST:** Do not take fall damage, or damage in general, It will break the delicate flower that Suri gives you.
-
-**UPDATE ON THE VESPERIAN GRAVE QUEST 2:** When you complete the quest you get a Vibrant Gem as compensation. Do not take any damage, or else you will have to go back.
-
-**UPDATE ON THE SOULBLOOM QUEST:** There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory.
+  
+**SOULBLOOM QUEST:** Go to the arcives and talk to an npc by a culdron for the quest. There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory and the last one near bsmith aswell. The reward is being able to upgrade willpower mantras.
 
 Extra: There is green wells around the hive, that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an oath. In the entrance, the left well goes to [Summer Isles](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
 

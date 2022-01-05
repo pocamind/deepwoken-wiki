@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 9267
+revid: 9355
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You wi
 
 ## How to Use
 
-To become a Master, you must ask a player a question similar to: "Subject, would you like to make a Vow of Mastery?"
+To become a Master, you must ask a player a question similar to: "wanna make a vow of mastery?"
 
 The player must respond with "yes." Once accepted an animation will play and the player will become your Subject. You can now use commands on them. However, you will need to improve your [Charisma](Attributes.md) and unlock the more essential commands as [Talents](Talents.md).
 

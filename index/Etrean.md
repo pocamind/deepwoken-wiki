@@ -1,12 +1,14 @@
 ---
 title: Etrean
-revid: 8450
+revid: 9342
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Etrean
+
+Etrean is a [Race](Aspects.md) in Deepwoken
 
 ## Description
 

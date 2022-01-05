@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 8748
+revid: 9365
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Bandit is NPC Type enemies that are found in the all over Erisia.
+Bandit is NPC Type enemies that are found in the all over Erisia. Wears white.
 
 They would usually be sitting around a campfire.
 

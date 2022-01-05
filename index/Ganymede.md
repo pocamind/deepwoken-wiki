@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 9204
+revid: 9352
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -9,6 +9,8 @@ categories: [Races]
 # Ganymede
 
 Template:Races-Main
+
+Ganymede is a [Race](Aspects.md) in Deepwoken
 
 ## Description
 
@@ -28,4 +30,4 @@ Peculiar folk often known for their wisdom and intelligence. Though quite rare, 
 
 -   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
--   Looks alot like cipher from the valorant series.
+-   Looks similar to cipher from the valorant series.

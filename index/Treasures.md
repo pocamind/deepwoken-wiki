@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 9056
+revid: 9312
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems]
@@ -8,9 +8,9 @@ categories: [Gems]
 
 # Treasures
 
-Items commonly dropped from bandits around Lower Erisia or as Galleon loot that can be sold to the Antiquarian for various amounts of Notes.
+Items commonly dropped from mountain blades around Lower Erisia/ Spydon island or as Galleon loot that can be sold to the Antiquarian for various amounts of Notes.
 
-There are also gems that are dropped from the Primadon at the Monkey's Paw from defeating him. These gems can be used to enhance your mantra skills.
+There are also Shiners that are dropped from the Primadon at the Monkey's Paw from defeating him. These gems can be used to enhance your weapon skills
 
 <table><caption>Gems</caption>
 <tbody>

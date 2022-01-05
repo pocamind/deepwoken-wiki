@@ -1,12 +1,14 @@
 ---
 title: Celtor
-revid: 9176
+revid: 9343
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Celtor
+
+Celtor is a [Race](Aspects.md) in Deepwoken
 
 ## Description
 

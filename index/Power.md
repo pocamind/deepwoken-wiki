@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 8254
+revid: 9307
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,8 +17,8 @@ Each level of power grants 5 investment points to a player, these investment poi
 To keep progressing however, you will need regular EXP, obtained by killing things:
 
 -   The white sparkling particles means you are getting EXP, the density showing the amount obtained
--   The yellow/golden sparkling particles means you have reached an EXP thereshold, meaning that further progress is available
-    -   If you've reached the point where using [Training Gear](Training_Gear.md) says "I've learnt what I can from training right now, I should put it into practice...", those yellow particles indicates that you should be able to continue without this message, even if for just 1 point.
+-   The yellow/golden sparkling particles means you have reached an EXP thereshold, meaning that further progress is (sometime) available
+    -   If you've reached the point where using [Training Gear](Training_Gear.md) says "I've learnt what I can from training right now, I should put it into practice...", those yellow particles usually indicates that you should be able to continue without this message, even if for just 1 point.
 
 As players power up further the EXP required to invest a point will increase as well. The maximum Power is currently 60.
 
