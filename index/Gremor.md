@@ -1,14 +1,12 @@
 ---
 title: Gremor
-revid: 9346
+revid: 9383
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Gremor
-
-Gremor is a [Race](Aspects.md) in Deepwoken
 
 ## Description
 
@@ -25,13 +23,11 @@ Chance of obtaining race: **12%**
 <table>
 <tbody>
 <tr>
-  <td>File:Seaborne.png</td>
-  <td><b>Mental Compass</b>
+  <td>File:Navae's Guidance.png</td>
+  <td><b>Navae's Guidance</b>
   <ul>
-    <li><i>*Insert description here*</i></li>
-  </ul><p><b>Navae's Guidance</b></p>
-  <ul>
-    <li><i>*Insert description here*</i></li>
+    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"</li>
+    <li>Gain a compass at the top of your screen</li>
   </ul></td>
 </tr>
 <tr>

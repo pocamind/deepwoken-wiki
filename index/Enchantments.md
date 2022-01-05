@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 9354
+revid: 9436
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -257,8 +257,8 @@ _Note: Currently disabled. It is due to be replaced with a new enchant in a late
 
 ### Bounce
 
--   Pros: Knocks enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block.
--   Cons: ONLY knocks back NPC enemies. Does not work against players.
+-   Pros: Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block.
+-   Cons: ONLY knocks back players. Does not work against NPCs.
 
 ### Viscosity
 
@@ -296,3 +296,4 @@ Credits to the people who made this page better:
 -   berebot
 -   Kabeee
 -   Cosmicessence
+-   bartyfarty

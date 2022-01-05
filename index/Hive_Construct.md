@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 8939
+revid: 9433
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Hive Construct
 
-Forest Golems, also known as Obsidian Golems given their appearance, spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md).
+Forest Golems, also known as Hugo's or Obsidian Golems given their appearance, spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md).
 
 File:Golem Grand Javelin.png
 
@@ -35,7 +35,7 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
 
 ### Drops
 
-Killing the golem will reward in a ton of xp, along with a chest where it spawns. The chest has mediocre loot, similar to a croco's at Starswept Valley, but does have a chance to drop a [shattered katana](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons). Keep in mind, however, this isn't the only way to get shattered katanas, as almost all enemies in Starswept Valley can drop them.
+Killing the golem will reward in a ton of xp (2-3 of them can level up a skill once at level 50+), along with a chest where it spawns. The chest has mediocre loot, similar to a [thresher's](Thresher.md) at Starswept Valley, but does have a chance to drop a [shattered katana](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons). Keep in mind, however, this isn't the only way to get shattered katanas, as almost all enemies in Starswept Valley can drop them.
 
 ## Tips/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 9220
+revid: 9371
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -115,3 +115,17 @@ An organization that preserves whats left before the tides came. Historians that
 #### **Lore**
 
 (Placeholder)
+
+### The Divers
+
+-   Affiliations - Unknown
+-   Locations - The Depths / Void Sea
+-   Hostile against - Depths Monsters, Non-Divers (Negative Reputation), Players (Negative Reputation)
+-   Appearance - Blue/Green Clothing (Diver Apprentice, Diver), Black Clothing (Black Diver)
+-   Equipment - Melee Weaponry / Magic
+-   Player Reputable? - Yes
+-   Faction is joinable via the Akira Questline
+
+#### **Lore**
+
+You can get a lot of the lore from travelling to the Castle of Light (Diver HQ in the depths), after meeting Akira elsewhere in the depths. There you will learn a lot more about what the divers do. They apparently have different groups within them (Akira is part of the research group, and he explains he was securing a area from any other threats before the group arrived.) Another fact we learn from Akira is that 2% of Divers survive.

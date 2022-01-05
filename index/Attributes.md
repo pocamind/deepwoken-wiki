@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 9324
+revid: 9392
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -38,7 +38,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 > _"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
 
--   Overall Character's Wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (0.5 HP Increase per Fortitude?)
+-   Overall Character's Wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (1 HP Increase per Fortitude?)
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.

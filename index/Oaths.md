@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 9328
+revid: 9429
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,6 +33,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots
+-   Can't get vow of masteried (also im pretty sure u cant get this if u have a vow)
 
 ### Oath Description:
 
@@ -52,8 +53,8 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 40+
--   Blindfold or eyeglasses (Chest Items)
+-   Willpower 40
+-   Blindfold (Chest Item)
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus.)
 
 ### How to obtain:

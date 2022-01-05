@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 8896
+revid: 9395
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -120,8 +120,8 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td></td>
 </tr>
 <tr>
-  <th>Bleeding</th>
-  <td>This happens when you are hit, if your armor durability is lower you will bleed more, the most obvious way to spot this is by looking at the center of your opponents torso, if the blood mark is small it means they still have a lot of health, however if it is bigger it means there's more blood gushing out meaning that they are lower. While bleeding probably won't effect your health straight away you will be able to patch it back up with bandages mid fight(?).</td>
+  <th></th>
+  <td></td>
   <td></td>
 </tr>
 <tr>

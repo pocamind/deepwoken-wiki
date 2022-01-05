@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9177
+revid: 9375
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -182,7 +182,7 @@ _"You feel dizzy when you hold it."_
 
 #### Spring Spark
 
--   This modifier increases the height for the _Flame Leap_ Mantra.
+-   This modifier increases the height for the _Flame Leap_ Mantra. (Tested but did not work on Flame Leap, leaving here for testing purposes.)
 
 #### Tornado Spark
 

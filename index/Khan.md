@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 9348
+revid: 9389
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,13 +8,11 @@ categories: [Pages with broken file links, Races]
 
 # Khan
 
-Khan is a [Race](Aspects.md) in Deepwoken
-
 ## Description
 
-Template:Races-Main**"Your honor, Khan will never have drip." (Monkey-based)**
+Template:Races-Main
 
-_Khans have an appearance similar to [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King). one of the main characters of [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West), a classical Chinese novel._
+_"Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over."_
 
 _Chance of obtaining race: **8%**_
 
@@ -23,7 +21,7 @@ _Chance of obtaining race: **8%**_
 <table>
 <tbody>
 <tr>
-  <td>File:Versatile.jpg</td>
+  <td>File:Versatile2.png</td>
   <td><b>Versatile</b>
   <ul>
     <li><i>"You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than required."</i>

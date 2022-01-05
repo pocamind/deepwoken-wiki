@@ -1,33 +1,65 @@
 ---
 title: Ganymede
-revid: 9352
+revid: 9400
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Ganymede
 
-Template:Races-Main
-
-Ganymede is a [Race](Aspects.md) in Deepwoken
-
 ## Description
 
-The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% chance of being obtained with the [Capra](Capra.md) race. They are one of the most easily distinguishable, unique races with nearly pitch-black skin, glowing eyes of a variety of colors, and their white hair that may be seen under the [wizard hat](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots) they are born with.
+Template:Races-Main
 
-### Lore
+_"Peculiar fold often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads Man forward."_
+
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td>File:Navae's Guidance.png</td>
+  <td><b>Navae's Guidance</b>
+  <ul>
+    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.</i>"</li>
+    <li>+1 Health</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Intelligence</li>
+    <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellaneous
+
+**Lore:**
+
+## Lore
 
 Peculiar folk often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads "Man" forward. (More to be uncovered.)
 
-### Variants
+**Strengths:**
 
--   White eyes with black skin
--   Yellow eyes with black skin
--   Cyan eyes with midnight blue skin
+## Strengths
 
-### Notes/Trivia
+Insanity Resistance
+
+**Weaknesses:**
+
+## Weaknesses
+
+N/A
+
+## Notes
 
 -   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Looks similar to cipher from the valorant series.
+-   According to one of the Discord/Ingame Mod: Ganymedes are confirmed to have 2 male genitals, instead of 1. (This also goes the same for females Ganymedes as they also have 2 female vaginas.)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9361
+revid: 9444
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -332,7 +332,7 @@ Hand of Mantra Cards
 
 ### Meditative Trance
 
--   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
+-   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health, healing stops when reaching 55% HP)
 
 ### Mental Fortress
 
@@ -407,7 +407,7 @@ Hand of Mantra Cards
 
 ### Shade
 
--   Now you see me \[Generic Talent, Common Talent\] - Your stealth when crouching is increaseed. (+1 Passive Agility, +2 Health)
+-   Now you see me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
 
 ### Silvertongue
 
