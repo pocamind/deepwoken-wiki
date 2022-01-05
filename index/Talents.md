@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9125
+revid: 9230
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -247,11 +247,14 @@ Hand of Mantra Cards
 -   Adept Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 1-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
 -   Expert Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 2-Star Leveled Galebreath mantras. (+5 Elemental Intesity)
 -   Master Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 3-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
+-   The Old Wind \[Generic Talent, Galebreath Exclusive\] - Glide straight with the power of Gales.
 
 ### Galeforce
 
+-   After Cut \[Generic Talent, Galebreath Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
 -   Breathing Impact \[Generic Talent, Galebreath Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
--   Inhale (Generic Talent, Galebreath Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
+-   Inhale \[Generic Talent, Galebreath Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
+-   Tailwind \[Generic Talent, Galebreath Exclusive\] - Gain a speed boost after a successful inhale.
 
 ### Genius Intellect
 

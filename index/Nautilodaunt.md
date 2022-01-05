@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 9047
+revid: 9199
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,6 +10,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ## Description
 
 A player getting turned into a Mudskipper
+
+> _"AGH, STOP! CUT THE BREAKS! AGH~"_ - ~Unfortunate Diver~ Mudskipper.
 
 Sometimes referred to as Squid/Squidward. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md).
 
@@ -24,7 +26,7 @@ Drops "Odd Tentacles".
 
 ### Abilities:
 
--   **Mudskipped** - Get turned into a Mudskipper.
+-   **Mudskipped** - Get turned into a Mudskipper (ko).
 
 ## **Notes/Tips**
 

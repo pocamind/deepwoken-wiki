@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 8921
+revid: 9303
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,9 @@ _"Who would've thought, that they will forget us so easily?" - Voice of the Deep
 
 ## Description
 
-Deepwoken Lore is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
+The lore of Deepwoken is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
+
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is also edited by one of the Developers themselves to correct these mistakes.
 
 ## Figures
 
@@ -32,7 +34,7 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 
 ### The King of Etrea
 
--   The previous Ruler of the Kingdom of Etrea, before his rule was taken over by The Lord Regent.
+-   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent.
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean infront of the Statue in the Palace speaks of him.
     -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the asperations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
@@ -45,18 +47,18 @@ The Duke
 
   
 
--   The Duke, known for his creation of the Golems that roam Erisia Island, is a Celtor Galebreathe User who fights the player during the "The Lord Regent" Quest.
+-   The Duke, known for his creation of the Golems that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems and [Mindless Servants](Mindless_Servant.md).
 -   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
--   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to The Lord Regent's Ruling.
+-   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame after Erisia Island went back up to the Etrean Luminant, presumably the Piece of the Forge, and brought it back to his Manor.
 
 ### Maestro Evengarde Rest
 
-"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in medium weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in Medium Weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
 
@@ -171,7 +173,7 @@ A Summer Company Member.
 
 ### The Hivemind
 
--   A group of Individuals; mostly Vesperian and Ganymedes are located in [Greathive Aratel](Greathive_Aratel.md).
+-   A group of Individuals; mostly Vesperian and Ganymedes, are located in [Greathive Aratel](Greathive_Aratel.md).
 -   Their previous home was [The Hidden Village](The_Hidden_Village.md), but evacuated by invoking the green fountains.
 -   The Hivemind, based on Nimea's theory, is that they are scavengers; reaping what they can to build homes and structures out of them.
 -   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
@@ -198,7 +200,11 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Flamecharmers, originated from the Far West of the Luminant Sea...  
     
 
-  
+### Frostdraw
+
+-   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is apart of the Frostdraw talent tree.
+-   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
+    
 
   
 
@@ -265,5 +271,3 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ## Notes/Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
-
--   Some things of the lore and the wiki in general **might** not be true so please don't think everything in here is 100% accurate/real...

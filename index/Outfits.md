@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 9052
+revid: 9257
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -378,6 +378,46 @@ x10 Iron
 +25% Shadow Armor
 
 _Talent: Armor Piercing_
+
+ |
+| 
+
+File:Authority Peacekeeper.png
+
+ | Authority Peacekeeper Armour | x5 Cloth
+
+x5 Fiber
+
+x1 Iron
+
+30 Notes
+
+ | 5 Fortitude
+
+Power Level 15
+
+ | +10% Elemental Armor
+
++Talent: Now You See Me
+
++1600 Durability
+
++15% Physical Armor
+
++10% Slash Armor
+
++15% Fire Armor
+
+ |
+| 
+
+File:Duelist's Atture.png
+
+ | Duelist's Attire | x5 Glass Stone | Power Level 15 | +20% Physical Armor
+
++1200 Durability
+
++10% Slash Armor
 
  |
 

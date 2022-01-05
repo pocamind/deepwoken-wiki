@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9141
+revid: 9177
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -25,10 +25,6 @@ When you upgrade a Mantra, the previous upgrade will disappear. If you recall it
 Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
 
   
-
-GLASS stone makes ice forge daggers invisible \[I tested this with 2 glass stones on a ice forge, seemed the same to me - hexcog\]
-
-\-job
 
   
 
@@ -81,6 +77,11 @@ File:Screenshot 2021-12-28 152413.png
 | 
 
  | Glass Stone | Makes projectiles transparent. _(requires some more testing)_ |
+| 
+
+File:GlassStonePlaceholder.png
+
+ | Magnifying Stone | Likely same as Glass Stone, but other than that, unknown. |
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |
@@ -168,6 +169,7 @@ _"You feel dizzy when you hold it."_
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
+-   This modifier is compatible with the _Flame Repulsion_ Mantra, but has no effect.
 
 #### Reversal Spark
 

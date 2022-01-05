@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 9136
+revid: 9286
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -22,42 +22,9 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-**Confirmed method by multiple resonance users, Kanorogue#6037**
+**Confirmed method by multiple resonance users, Kanorogue#6037.**
 
-\- Get a bunch of luck via **killing** players that are around your level or by killing bosses (Duke, Ferryman, Primadon, etc.) / corrupt mobs in the depths. You know you will have obtained luck when white stars appear around your character (Not to be confused with the regular white particles that appear around your character when killing any mob).
-
-\- Knock yourself in the depths with a bunch of luck and you will get resonance. If it doesn't work, you need more luck
-
-The process to get a resonance has just been overly complicated due to testers trying to gatekeep them.
-
-In TLDR:
-
--   Kill players, bosses, or enhanced monsters until you reach max luck.
--   Upon reaching max luck, get knocked.
--   You are able to **escape** The Depths, and you will keep your current luck.
-
-## Strategy
-
-**NOTE: THESE ARE NOT REQUIREMENTS, YOU DO IT HOWEVER YOU FEEL LIKE. THIS IS JUST A SAFE WAY TO GET IT THE FIRST TIME, AND YOU CAN DO IT IN MORE RISKIER/EFFICENT WAYS WHEN YOU'RE MORE EXPERIENCED WITH IT.**
-
-Getting a bell in the most safe, efficent, and reliable way requires a team. It's better if you can reduce your amount of trips back to the overworld in total.
-
-An undying flame and/or Capra user is advised, for sanity and thirst/hunger regain, respectively, as you want to stay as long as possible.
-
-Even though you dont need to stay in The Depths for the entire duration, it's advised that you stay as long as possible to find the most safe servers, which is again where the Capra and Undying Flame user comes in. Conquer Your Fears is also great, as you regain sanity back from killing monsters. Blindseer is advised, only requiring 40 willpower to be invested, which is nice for its reservoir buff anyways.
-
-Even though **technically** theres no level requirement, a good level is 40, as thats a level at which you **should** be able to defend yourself and deal with enhanced monsters, aswell as being somewhat achievable from overworld farming, and also allowing you to get three wishes from Yun'Shul, as you get 1 wish per 10 levels, from the level at which you unlock your resonance.
-
-### Advised Requirements
-
-Main Article - _[The Depths](The_Depths.md)_
-
--   Alot of food, like **alot** of food.
--   Food Alternative - Carnivore Talent
--   A Capra and/or Undying Flame buddy.
--   40 Willpower/Blindseer/**Conquer Your Fears**
--   Level 40
--   Learning the patterns of Sharkos, Lionfish, Threshers, and King Crabs, and how to deal with them at said level 40.
+-   ~Get a ton of luck then knock yourself in the depths. It is really that simple.~ This doesn't work, I maxed out luck (and still didn't get resonance, only after a few hours of afk i did get a resonance, retard piece of shit trying to confuse people, i'm too lazy to edit the way in again but to know if you have maxed out luck is to kill a corrupt mob and if a white transluecent block doesn't appear around you it means you've maxed it out). Please spread this method before it gets edited again (sorry about whoever did that). You can gain luck by killing players, bosses, or corrupt monsters in the depths. You will know you have gained luck when white stars appear around your character (Not to be confused with the white stars you get when killing any npc).
 
 ## How Do You Change A Resonance?
 

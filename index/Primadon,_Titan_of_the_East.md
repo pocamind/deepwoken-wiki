@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 8580
+revid: 9194
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -19,7 +19,9 @@ Loud and enormous, the Primadon is a giant with the appearance of a monkey with 
 
 File:Seamonkey.png
 
-YOU HAVE A CHANCE TO GET SENT INTO THE DEPTHS IF YOU DIE TO PRIMADON.
+YOU HAVE A CHANCE TO GET SENT INTO THE DEPTHS IF YOU DIE TO PRIMADON. (this is false, you will always go to the depths when gripped by primadon, idk how to cross out text so im putting this in parentheses, btw heres proof, #mod-faq in the official deepwoken server)[\[2\]](https://cdn.discordapp.com/attachments/756626054436749333/928104968618127430/unknown.png)
+
+File:Proof.png
 
 His health scales with the amount of people currently in the Monkey's Paw Island.
 

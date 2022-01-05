@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 8959
+revid: 9301
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -77,7 +77,7 @@ Strike (☆)
 
 -   Makes it so a thunder strikes where the user was aiming with their cursor, after a split second the ground will be shocked stunning, everyone around the beam and then the lighting will strike.
 
--   Strikes a total of 7 times, but will be canceled if any of the strikes hit the user.
+-   Strikes a total of 7 times, but will be canceled if the mouse is moved away or the user is hit with any of the strikes.
 
  |
 | 
@@ -91,7 +91,7 @@ This can be upgraded with a Talent card. (placeholder)
 
  | Grand Javelin (☆☆) | A javelin of lightning. | Throws a spear that ragdolls enemies and flings them into the air.
 
-Guard breaks opponents blocking.
+Does not guard break but gives a lot of posture if blocked.
 
  |
 | 

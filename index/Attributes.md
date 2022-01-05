@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 9087
+revid: 9226
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -22,9 +22,11 @@ Character Sheet of Helena Dusselden
 
 These attributes can be improved up to 75 points, but may be uncapped to 100 once you do a specific quest to unlock an Attribute's full potential.
 
+If your race happen to start with +2 in a given stat, the limits are 77 and 102 instead.
+
 ### Strength
 
-_"My right arm is a lot stronger than my left arm!" - Coomer Felinor_
+> _"My right arm is a lot stronger than my left arm!" - Coomer Felinor_
 
 -   Overall Physical Strength, Increases Carry Load by 1 per Strength.
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
@@ -35,7 +37,7 @@ _"My right arm is a lot stronger than my left arm!" - Coomer Felinor_
 
 ### Fortitude
 
-_"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
+> _"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
 
 -   Overall Character's Wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (0.5 HP Increase per Fortitude?)
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
@@ -45,7 +47,7 @@ _"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
 
 ### Agility
 
-_"Parkour—PARKOUR!" - Last words of a Ganymede_
+> _"Parkour—PARKOUR!" - Last words of a Ganymede_
 
 -   Slight of hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
 -   Agility Weapons, such as daggers, requires a Agility requirement to wield.
@@ -57,7 +59,7 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 
 ### Intelligence
 
-_"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
+> _"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.
@@ -66,6 +68,8 @@ _"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
 -   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving the [Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
 
 ### Willpower
+
+> _"Grant us eyes, **GRANT US EYES!** Grant us eyes on the inside!" - 'Enlightened' Etrean._
 
 "Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now." - Unfortunate female Canor
 
@@ -76,7 +80,9 @@ _"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
 
 ### Charisma
 
-_"Y'all see the shoes, y'all see the money" \*proceeds to scam the Antiquarian\* - A charismatic Capra_
+> _"Y'all see the shoes, y'all see the money..." \*proceeds to scam the Antiquarian\* - A charismatic Capra_
+
+> _"Say, I know a way to get stronger. Called a Vow of Mastery, want to make one?"_ _\- Canorian to a Stranded Vesperian._
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.
@@ -129,6 +135,7 @@ _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
+-   Increases intensity of flames.
 -   Determines your character's Knowledge of the arts of Flamecharm, unlocking dialogue to certain NPCs.
 -   Gain Flamecharm EXP by dealing damage to Enemies and Monsters using Flamecharm Mantras.
 
@@ -137,6 +144,7 @@ _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
+-   Lengthens slow and freeze times of procced abilities.
 -   Unlocks Frostdraw related Talents.
 -   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras.
 
@@ -145,6 +153,7 @@ _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate Thundercaller_
 
 -   Increases damage and effectiveness of Thundercall Mantras.
+-   Lengthens the stun procced by attacks.
 -   Unlocks Thundercall related Talents.
 -   Gain Thundercall EXP by dealing damage to Enemies and Monsters using Thundercall Mantras.
 
@@ -163,6 +172,7 @@ _"Hoo boy, for some reason I want to grip freshspawns!" said the Shadowcaster_
 "You must be an Uber Oni" said his friend.
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
+-   Increases duration of blindness afflicting abilities.
 -   Unlocks Shadowcast related Talents.
 -   Gain Shadowcast EXP by dealing damage to Enemies and Monsters using Shadowcast Mantras.
 

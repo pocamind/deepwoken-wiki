@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 8997
+revid: 9289
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -176,9 +176,39 @@ Costs _Ether_.
  |
 | 
 
- | Placeholder | Placeholder | Gives you the ability to double jump.
+ | Wind Step | Create a step of wind below you when jumping in the air. (+4 Elemental Intensity) | Gives you the ability to creating a temporary wind platform that can act as a double jump.
 
-Has a cooldown.
+Note : Other players can also use the platform in order to propel themselves. Has a cooldown.
+
+ |
+| 
+
+ | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds,
+
+empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
+
+ | When a wind spell is cancelled, the next wind spell cast will be empowered.
+
+  
+Costs _Ether_.
+
+ |
+| 
+
+ | The Old Wind | Glide straight with the power of Gales. | Allows you to glide longer with a glider. |
+| 
+
+ | After Cut | If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt. | An ennemy sucessfully attacked with a physical wind attack,
+
+he will recieve 5% of the damage dealt with the previous attack in the form of poison.
+
+ |
+| 
+
+ | Breathing Impact | When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. | ??? |
+| 
+
+ | Tailwind | Gain a speed boost after a successful inhale. | After inhaling a wind attack, you will gain a small speed boost.
 
 Costs _Ether_.
 

@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 8424
+revid: 9176
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,9 +60,11 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 
 ## Strengths
 
-**Seaborne**  
-+2 **Intelligence**  
-+2 **Charisma**.
+Seaborne
+
++2 Intelligence
+
++2 Charisma
 
 **Weaknesses:**
 

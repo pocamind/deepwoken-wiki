@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 9063
+revid: 9196
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,7 +12,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 > "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
 
-The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 1 again.
+_The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 1 again._
 
 ## Escaping The Depths
 
@@ -40,8 +40,8 @@ Completing your trial and escaping The Depths gives you a new talent "Depth Conn
 | --- | --- |
 | <9 | N/A - You escape without fighting a monster |
 | 10-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
-| 20-29 | [Angels](Hollow_Angel.md) |
-| 30-39 | [Megalodaunt](Megalodaunt.md) |
+| 20-27 | [Angels](Hollow_Angel.md) |
+| 28-39 | [Megalodaunt](Megalodaunt.md) |
 | 40-49 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
 | 50< | [Enforcer](Enforcer.md) |
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 9079
+revid: 9299
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ _For information on Human Enemies, go [here](Enemies.md)._
 
 ## The Prologue
 
-Deepwoken's finest, and arguably and or debatably main/primary focus, are the Monsters. They can wear and tear unaware NPCs and (mostly) PCs (player characters) apart if they are ill-equipped or inexperienced, along with sinking your nautical ships into the ocean blue and if you're unlucky...
+Deepwoken's finest, and arguably and or debatably main/primary focus, are the Monsters. They can wear and tear unaware NPCs and (mostly) players apart if they are ill-equipped or inexperienced, along with sinking your nautical ships into the ocean blue and if you're unlucky...
 
 Monsters are embeddded to the game, as both a fundamentals-check for how well you are able to recognize patterns and obey them ontop of this counter accordingly. While definitely not being a perfect balance 1 to 1 ratio being able to defeat the enemy with confidence most surely l means you be better off against other PLAYERS and vice versa. In admorality, a large amount of loot is most easily or ONLY obtainable from monsters aka special droppings, for things such as armors and Mantra modifiers.
 

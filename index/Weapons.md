@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 9134
+revid: 9268
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -41,7 +41,7 @@ Hold your weapon with both hands.
 
 ## Calculating Scaling
 
-The formula for calculating your weapon damage with scaling is D \* (1 + S\*W/1000), where D is the base damage, S is the weapon's Scaling stat and W is the amount of points put into the stat with which the damage scales.
+The formula for calculating your weapon damage with scaling is D \* (1 + S\*W/1000), where D is the weapon's base Damage, S is the weapon's Scaling stat, and W is the amount of points put into the stat with which the damage scales.
 
 Example: Dragoon damage with 65 Light Weapon level: 20 \* (1 + 0.78) = 20 \* 1.78 = 35.6.
 
@@ -128,7 +128,7 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>Dagger</td>
   <td>13.5</td>
   <td></td>
-  <td>1.8</td>
+  <td>8</td>
   <td></td>
   <td>6.5</td>
   <td>1.03x</td>
@@ -409,9 +409,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Spear</td>
   <td>19</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>5</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td>Vigil Longsword</td>

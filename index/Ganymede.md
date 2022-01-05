@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 9017
+revid: 9204
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,7 +16,7 @@ The **Ganymede** are one of two of the rarest [races](Aspects.md), sharing a 2% 
 
 ### Lore
 
-(To be discovered)
+Peculiar folk often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads "Man" forward. (More to be uncovered.)
 
 ### Variants
 

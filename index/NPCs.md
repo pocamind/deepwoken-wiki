@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 8696
+revid: 9220
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,6 +19,7 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 ### The Legion
 
 -   Affiliations - Unknown
+-   Locations - ???
 -   Hostile against - The Authority, Monsters, Bandits, The Legion, Players (Negative Reputation)
 -   Appearance - Roman-like Armor, Golden Helmets
 -   Equipment - Swords, Spears, Fists, Thundercall Spells, Galebreath Spells, Strength Mantras
@@ -31,8 +32,9 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 ### **The Authority**
 
 -   Affiliations - Unknown
+-   Locations - Fort Merit, ???
 -   Hostile against - Monsters, Bandits, The Legion, Etris, Players (Negative Reputation)
--   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets
+-   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, Adretians
 -   Equipment - Swords, Spears, Greataxes, Flamecharm Spells, Frostdraw Spells
 -   Player Reputable? - Yes, inflicts with The Legion and Etris
 
@@ -42,7 +44,7 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 
 ### **Etrea**
 
--   Affiliations - Etris
+-   Affiliations - Etris, Isle of Vigils
 -   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation)
 -   Appearance - White Armor
 -   Equipment - Swords, Spears, Greataxes, Galebreathe Spells
@@ -91,11 +93,25 @@ An organization that preserves whats left before the tides came. Historians that
 ### **Summer Company**
 
 -   Affiliations - Unknown
--   Hostile against - Bandits, Players (Negative Reputation)
+-   Locations - Summer Isle
+-   Hostile against - Bandits, Ignition Union, Players (Negative Reputation)
 -   Appearance - Black Clothing
 -   Equipment - Guns
 -   Player Reputable? - Yes
 
 #### Lore
+
+(Placeholder)
+
+### **The Hive**
+
+-   Affiliations - Unknown
+-   Locations - Greathive Aratel, The Lordsgrove
+-   Hostile Against - Etrea, The Central Authority, Players (Negative Reputation)
+-   Appearance - Black-clothed Vesperians or Ganymedes
+-   Equipment - Swords and Battleaxes
+-   Player Reputable? - Yes, inflicts with Etrea
+
+#### **Lore**
 
 (Placeholder)

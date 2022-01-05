@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 9071
+revid: 9208
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -65,6 +65,6 @@ N/A
 
 ## Notes/Trivia
 
--   Superior of felinor.
+-   Equivalent to the poor Felinor. As most furries identify as Wolves. Get bullied!
 -   **Not** furries, just like Adret aren't for being fish-men. >:(
 -   They can't sail for shit. If you see one at the helm, make sure you yell "CANOR DRIVER"

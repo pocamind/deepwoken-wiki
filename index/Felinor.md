@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 9118
+revid: 9280
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,7 +10,7 @@ categories: [Races]
 
 ## Descriptions
 
-The cat-like people of the world, Felinor, are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk.
+The cat-like people of the world, Felinor (sometimes called Feliggers), are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk, even though they're also based on Lions, a type of big cat.
 
 It has a 8.2% rollable race chance.
 
@@ -18,26 +18,24 @@ Template:Race Box mark 2
 
 ## Lore
 
-TBA
-
-  
+none  
 
 ## Appearance
 
 A race that has physical features resembling that of a cat, hence the name _Felinor_.
 
--   Has cat ears
+-   Cat ears.
 -   4 Different variants, consisting of a paled-skin and almond coloured hair with golden eyes, a pale-grey skinned and light grey hair variant with emerald green eyes, a black skinned and black hair variant with golden eyes, and a very humanly peach-skinned with peach ears variant with white hair and red eyes.
 
 ## Racial Abilities
 
 -   Bonus agility when climbing on wooden surfaces.
--   Nightchild: Improved stealth.  
-    
+-   Nightchild: Improved stealth.
 
 ## Strengths
 
--   +2 Agility, +2 Charisma,
+-   +2 Agility
+-   +2 Charisma
 
 ## Weaknesses
 

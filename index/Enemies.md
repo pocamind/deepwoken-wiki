@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 8747
+revid: 9193
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -52,4 +52,4 @@ For information of Monsters, go [here](Monsters.md).
 ## Bosses
 
 -   [The Duke of Erisia](Duke_Ishamon_Erisia.md)
--   The Ferryman
+-   Bartholemew

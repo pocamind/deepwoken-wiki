@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 8889
+revid: 9203
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,9 +10,13 @@ categories: [Pages with broken file links, Monsters]
 
 Template:Creature Infobox V3
 
-_Also known as Shark(s), Sharko(s), Megalodaunt(s), Bobi(s) and Carl._
+_Also known as Shark(s), Sharko(s), Megalodaunt(s), Bobi(s), Hugo(s) and Carl._
 
 ## Description
+
+> _"Zamn bro, that Sharko got some cake!"_
+
+> \- Foolish Bard.
 
 Megalodaunts are shark-like (not to be confused with [Lionfish](Lionfish.md), the actual shark enemy) Giant Type enemies which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
@@ -48,7 +52,7 @@ Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the 
 -   Do not be scared of them. Any player, no mater the power and with enough experience, can kill a Meglodaunt (unless it's the red variant).
 -   Meglodaunt lets out a gnarling snarl when he spawns in, notifying the player of his presence.
 -   It is adviced to get atleast Adept Armor and Power Level 15+, unless you're a Chad.
--   Common slang terms of Megalodaunt is Sharko, Megalodon, Gary, Jerry, Big Guy, and Liam
+-   Common slang terms of Megalodaunt is Sharko, Megalodon, Gary, Jerry, Big Guy, Hugo, and Liam
 -   If Meglodaunt has you as a enemy targets, its best if you block dodge or party some of his moves than try to role it. Moves such as Thousand Needles and Yellow streamis semi-impossible to avoid, as it covers a good amount of area.
 -   Your camera shakes the closer Meglodaunt is to your character, due to his footsteps.
 -   It's always recommended to perfect dodge the Football Kicks.
