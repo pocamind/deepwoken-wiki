@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 9012
+revid: 9099
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Crafting Recipes
 
-"Man, this Brown Mushroom bussin'!" \*Pukes everywhere\* - Random Adret
+_"Man, this Brown Mushroom bussin'!" \*Pukes everywhere\*_ - Random Adret
 
 ## Description
 
@@ -48,7 +48,7 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 Certain foods, usually the more complicated one/which require more work to obtain, grant Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 
-### _Non-campfire Recipes_
+### _Non-Campfire Recipes_
 
 -   **[Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **[Redd Juice](Redd_Juice.md)** - _3 Redd_

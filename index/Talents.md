@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 8996
+revid: 9125
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -190,7 +190,7 @@ Hand of Mantra Cards
 
 -   The Sounds from Below \[Generic Talent, Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
     -   Prerequisites: Power Level 2
--   Depths Connection \[Generic Talent, Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Resevoir. (Better Ether Regeneration) (**OBTAIN THIS ASAP IF YOU KNOW WHAT YOU ARE DOING**, best way to do so is by wiping and going to the depths as a freshspawn and immediately head for the church since you get a free pass if you are under level 15)
+-   Depths Connection \[Generic Talent, Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Resevoir. (Better Reservoir Regeneration)
     -   Prerequisite: Escape from The Depths once.
 
 ### Duelist
@@ -710,7 +710,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Shadow Hunter
 
--   Now You See Me - Increases stealth. (Obtained by wearing the Shadow Hunter Outfit)
+-   Now You See Me - Increases stealth. (Obtained by wearing the Shadow Hunter Outfit)(Can also be obtained through cards)
 
 ### Gunslinger
 

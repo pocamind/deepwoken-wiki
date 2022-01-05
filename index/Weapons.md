@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 9018
+revid: 9134
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -21,11 +21,11 @@ _Tools_ _constructed with the intent to harm others, polished to be efficient ki
 
   
 
-Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by doing a certain quest, here the best guide i could find [ttps://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
+Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils. This is a guide that could help: [https://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
 
-When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, like extra Penetration, or Weight. It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are extremely rare though.
+When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are **extremely** rare however.
 
-To increase your damage with a weapon, you must invest in the corresponding stat. Light Weapons (LHT), Medium Weapons (MED), or Heavy Weapons (HVY). In addition, some weapons have additional requirements, such as Fortitude (FTD) for shields and Strength (STR) for some heavy weapons.
+To increase your damage with a weapon, you must invest in the corresponding stat, which are Light Weapons (LHT), Medium Weapons (MED), or Heavy Weapons (HVY). In addition, some weapons have additional requirements, such as Fortitude (FTD) for shields and Strength (STR) for some heavy weapons. All weapons have a Scaling stat that, depending on it's value, will determine how much of an increase in damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
 
 ## Stances
 
@@ -38,6 +38,12 @@ Hold your weapon with your dominant hand, which allows the use of an off-hand ac
 ### Two-handed
 
 Hold your weapon with both hands.
+
+## Calculating Scaling
+
+The formula for calculating your weapon damage with scaling is D \* (1 + S\*W/1000), where D is the base damage, S is the weapon's Scaling stat and W is the amount of points put into the stat with which the damage scales.
+
+Example: Dragoon damage with 65 Light Weapon level: 20 \* (1 + 0.78) = 20 \* 1.78 = 35.6.
 
 ## Types of Weapons
 
@@ -442,8 +448,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Serpent Blade</td>
   <td>45 MED</td>
   <td>Sword</td>
-  <td></td>
   <td>22</td>
+  <td></td>
   <td>6</td>
   <td>6</td>
   <td>8.5</td>
@@ -486,7 +492,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>80 MED</td>
   <td>Spear</td>
   <td>20</td>
-  <td>50%</td>
+  <td>40%</td>
   <td>8</td>
   <td>5</td>
   <td>9</td>

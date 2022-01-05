@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 8992
+revid: 9141
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -67,7 +67,7 @@ File:Screenshot 2021-12-28 152201.png
 
 File:Screenshot 2021-12-28 152259.png
 
- | Drift Shard | Makes Mantras (projectiles) move faster. |
+ | Drift Shard | Makes mantras (projectiles) move faster. |
 | 
 
 File:Rush Shard.png
@@ -77,10 +77,10 @@ File:Rush Shard.png
 
 File:Screenshot 2021-12-28 152413.png
 
- | Amnesic Driftwood | Removes all Modifiers on a Mantra |
+ | Amnesic Driftwood | Removes all modifiers on a mantra. |
 | 
 
- | Glass Stone | _Unknown._ |
+ | Glass Stone | Makes projectiles transparent. _(requires some more testing)_ |
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |

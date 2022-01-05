@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 8998
+revid: 9127
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -216,6 +216,16 @@ File:Wild sword.png
     File:Chilling.png
     
 
+### Vampirism
+
+-   Pros: Each hit regenerates a portion of health (Might scale with Max HP.) Heal slightly less from hits towards players.
+-   Cons: Unknown
+    
+    File:Vampirism.png
+    
+    Vampirism on a Vigil Longsword
+    
+
 ## Armor
 
 ### Entanglement
@@ -248,7 +258,7 @@ _Note: Currently disabled. It is due to be replaced with a new enchant in a late
 ### Bounce
 
 -   Pros: Knocks enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block.
--   Cons: None
+-   Cons: ONLY knocks back NPC enemies. Does not work against players.
 
 ### Viscosity
 
@@ -285,3 +295,4 @@ Credits to the people who made this page better:
 -   flank
 -   berebot
 -   Kabeee
+-   Cosmicessence

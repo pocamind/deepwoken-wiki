@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 8879
+revid: 9087
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -52,11 +52,12 @@ _"Parkour—PARKOUR!" - Last words of a Ganymede_
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour (Such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
+-   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 agility. (Might require an oath too?)
 -   **NOTE:** Your Agility is also affected by your health. Lower health = less agility = harder time to parkour/run away.
 
 ### Intelligence
 
-_"What's 9 + 10?" - Etrean questioning a small-brained Felinor_
+_"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
 
 -   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.

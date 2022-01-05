@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 8981
+revid: 9048
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Skills]
+categories: [Oaths]
 ---
 
 # Oaths

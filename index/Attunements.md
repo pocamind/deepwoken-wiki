@@ -1,9 +1,9 @@
 ---
 title: Attunements
-revid: 7940
+revid: 9045
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Skills]
+categories: [Attunement]
 ---
 
 # Attunements

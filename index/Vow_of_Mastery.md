@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 8890
+revid: 9088
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Vow of Mastery** is a [Talent](Talents.md) which allows you to turn people into Subject. A Subject will lose their **Vow of Mastery** if they get wiped.
 
-You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. As of 12/27/21 theres no limit to how many people you can vow.
+You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You will have a chance to get the Talent every power up. There is no limit to how many players can be your Subject.
 
 ## How to Use
 
@@ -27,8 +27,8 @@ The player must respond with "yes." Once accepted an animation will play and the
 | Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped. |
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
 | Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |
-| Run | Yes, 40 Charisma? | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
-| Fight | Yes 50 Charisma? | "_\[Name\]_, fight"
+| Run | Yes, 40 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
+| Fight | Yes, 50 Charisma | "_\[Name\]_, fight"
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |

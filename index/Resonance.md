@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 9003
+revid: 9136
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Skills]
+categories: [Pages with broken file links, Resonance]
 ---
 
 # Resonance
@@ -24,9 +24,7 @@ _**Pressing C triggers resonance**_
 
 **Confirmed method by multiple resonance users, Kanorogue#6037**
 
-\- Get a bunch of luck via **killing** players that are around your level or by killing bosses / corrupt mobs in the depths. You know you will have obtained luck when white stars appear around your character (Not to be confused with the regular white particles that appear around your character when killing any mob).
-
-\- Leveling up WHILE IN THE DEPTHS will DECREASE your luck, so do NOT level until you reach back to the Overworld.
+\- Get a bunch of luck via **killing** players that are around your level or by killing bosses (Duke, Ferryman, Primadon, etc.) / corrupt mobs in the depths. You know you will have obtained luck when white stars appear around your character (Not to be confused with the regular white particles that appear around your character when killing any mob).
 
 \- Knock yourself in the depths with a bunch of luck and you will get resonance. If it doesn't work, you need more luck
 
@@ -34,16 +32,15 @@ The process to get a resonance has just been overly complicated due to testers t
 
 In TLDR:
 
--   Kill players or enhanced monsters until you reach max luck.
+-   Kill players, bosses, or enhanced monsters until you reach max luck.
 -   Upon reaching max luck, get knocked.
 -   You are able to **escape** The Depths, and you will keep your current luck.
--   **DO NOT** LEVEL UP.
 
 ## Strategy
 
 **NOTE: THESE ARE NOT REQUIREMENTS, YOU DO IT HOWEVER YOU FEEL LIKE. THIS IS JUST A SAFE WAY TO GET IT THE FIRST TIME, AND YOU CAN DO IT IN MORE RISKIER/EFFICENT WAYS WHEN YOU'RE MORE EXPERIENCED WITH IT.**
 
-Getting a bell in the most safe, efficent, and reliable way requires a team. When you enter The Depths, you will not be able to level up until you leave back to the Overworld, which you don't want to do, as it's better if you can reduce your amount of trips back to the overworld in total.
+Getting a bell in the most safe, efficent, and reliable way requires a team. It's better if you can reduce your amount of trips back to the overworld in total.
 
 An undying flame and/or Capra user is advised, for sanity and thirst/hunger regain, respectively, as you want to stay as long as possible.
 
@@ -179,12 +176,18 @@ Phoenix fire effect
         -   12 Light Weapon Scaling
         -   5 Weight
         -   12 Range
--   **Dimensional Shift**
+-   **Dimensional Shift** [https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
 -   Effects:
-    -   Upon activation, the player enters a white portal that only he/she can go through.
+    -   Upon activation, the player enters a white portal that only they can go through.
     -   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
     -   You are forced out of the dimension after 5 or 6 seconds.
-    -   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.
+    -   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.[\[1\]](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
 -   Notes:
     -   It's reccommended that you don't chat before using it, as your text bubbles do not disappear when you are in the dimension.
     -   You could think of it just like Yoru's ultimate from Valorant.
+-   **Soul Manipulation**
+-   Effects:
+    -   Upon killing a player or an npc, you absorb their soul.
+    -   Having a soul allows you to shoot a projectile which deals damage by activating your resonance
+    -   Sadly, the beam does little damage and it's recommended you reroll this
+        -   You cannot absorb the souls of monsters

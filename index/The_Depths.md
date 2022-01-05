@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 9010
+revid: 9063
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,9 +12,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 > "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
 
-_The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 0 again._
-
-Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will also drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
+The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 1 again.
 
 ## Escaping The Depths
 
@@ -36,36 +34,38 @@ This is certainly a faster method to escape, although still poses the threat of 
 
 The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
 
-Completing your trial and escaping The Depths gives you a new talent "Depth Connection", which allows the player to easily draw ether from the surrounding air, meaning you gain a buff ether regeneration. Escaping will also award both of your character's lives back.
+Completing your trial and escaping The Depths gives you a new talent "Depth Connection", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
 
 | Level | Possible Enemies |
 | --- | --- |
-| <9 | N/A - You escape without fighting a mob (no cap, I tested a ton of times) |
+| <9 | N/A - You escape without fighting a monster |
 | 10-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-39 | [Megalodaunt](Megalodaunt.md) |
 | 40-49 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
 | 50< | [Enforcer](Enforcer.md) |
 
-**Note:** These numbers are not exact. There is still a chance you may fight something more or less powerful than whats shown in the table above depending on your power. Think of it as if there's a chance for you to fight anything within 10 Power of you, eg: Power 40 players have a slim chance to face The Enforcer, Power 25 players have a chance to fight a Megalodaunt, etc. **TL;DR** These are a rough estimate of what you will most likely fight.
+**Note:** These are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer).
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 
 ## Farming in The Depths
 
-The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops far outweigh the negatives of death for greedy souls such as yourself. Listed below are Talents you may want to consider acquiring before heading down to The Depths that will aid in your sustained survival in one of the most trecharous areas in Deepwoken:
+The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are Talents you may want to consider acquiring before heading down to The Depths that will aid in your sustained survival in one of the most trecharous areas in Deepwoken:
 
--   _**Carnivore**_, the Talent apart of the _**Apex Predator**_ talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Strength** or **Fortitude** (most likely Strength).
+-   _**Carnivore**_, the Talent apart of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Strength** or **Fortitude** (most likely Strength).
 
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 
--   _**Giant Killer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs, level **Strength** if you want it to appear.
+-   _**Giant Killer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Level up your **Strength** if you want it to appear.
 
 -   **_Blind Seer Oath_**, an Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths for very long periods of time.
 
 ## Quests (incomplete)
 
-An NPC (insert name here) asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he says something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
+### Finding Morning
+
+-   An NPC (insert name here) asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he says something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
 
 ### Joining The Divers
 
@@ -136,5 +136,6 @@ Almost everything in the game drops in the depths
 ## Trivia
 
 -   It is still possible to gain card luck (potentially even more than usual?) by killing players (or NPCs) in the depths.
--   Resonance/bells can be unlocked in The Depths.
+-   [Resonance](Resonance.md)/bells can be unlocked by gaining very high amounts of luck while grinding within The Depths, followed by becoming knocked. Read the Resonance page for more information.
 -   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths.
+-   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.

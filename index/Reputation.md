@@ -1,9 +1,9 @@
 ---
 title: Reputation
-revid: 8208
+revid: 9067
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Pages with broken file links, Reputation]
 ---
 
 # Reputation

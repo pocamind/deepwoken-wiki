@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 9020
+revid: 9061
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -40,7 +40,7 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 | File:Icelance.gif | Ice Lance (☆☆) | Form an icey spear and lunge forward. | Creates a short and narrow ice spear jutting out from the players right arm. Your character then qucikly dashes forward with their spear arm outforward in the direction of the dash. Deals moderate damage and breifly slows target. |
 |  | Ice Fissure (☆☆☆) | Send ice rippling out in a shockwave. | The player holds an ice pickaxe and stomps on the ground. A floating ice pillar is created at the impact site and the floor turns to ice. The ice pillar pulsates a blue aura. |
 
-### **Mobility Mantras (1 Max)**
+### **Mobility Mantras (theres is no max)**
 
 | Image | Name | Description | Effect |
 | --- | --- | --- | --- |

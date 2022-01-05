@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 8931
+revid: 9107
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -28,7 +28,7 @@ Authority NPCs of constant strength attack either a group of Legion, Pathfinder,
 
 ### **Hobo**
 
-The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 3 chests around him. If you interact with the Hobo, they will brag of their wealth. With 20 Charisma, you can ask the Hobo if you can take one of their chests.
+The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him most likely not more. If you interact with the Hobo, they will brag of their wealth. ~With 20 Charisma, you can ask the Hobo if you can take one of their chests.~ (Not confirmed, I talked to one when I had 30 Charisma and I did not receive one- Twibppp)
 
 If you open one of their chests (don't have to take the loot) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra.
 
@@ -48,4 +48,4 @@ _IF YOU'RE WORTHY._
 
 **(Encountered in Erisia)** "The Legendary Boot waits for the day that one worthy will claim it."
 
-The boot allows you to surpass 75 agility.
+It is currently unknown what the boot does.

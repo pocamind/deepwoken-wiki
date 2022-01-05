@@ -1,21 +1,17 @@
 ---
 title: Nautilodaunt
-revid: 8967
+revid: 9047
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Nautilodaunt
 
-> _"I DIDN'T SIGN UP FOR THIS!"_
-
-> ~\-~ ~Unfortunate Craftsman~ Soon to be Mudskipper.
-
 ## Description
 
 A player getting turned into a Mudskipper
 
-Usually referred to as the hardest enemy to solo as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md).
+Sometimes referred to as Squid/Squidward. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md).
 
 Drops "Odd Tentacles".
 
@@ -38,4 +34,3 @@ Drops "Odd Tentacles".
 -   No matter how high level'd you are, you cannot just try to meat hit it like a sharko. You need to parry and pay attention to his m1's or you will Immediately get wiped, This thing _**WILL**_ outskill you.
 -   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds.
 -   In the game files, Squibbo's real name is Squidward.
--   Git gud scrub.

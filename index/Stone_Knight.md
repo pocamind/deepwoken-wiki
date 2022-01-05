@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 8837
+revid: 9132
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -17,8 +17,6 @@ Template:Creature Info Box v2
 ## Description
 
 Tall white slender figures with red eyes who spawn from meteors in the Valley of Heroes on [Minityrsa](Minityrsa.md). You can tell if you are near their spawn as the walls of the valley will be littered with white glowing meteors. Once triggered white meteors will fall from the sky and do an aoe. Out of the meteors, 5 Snow Knights will spawn and attack on sight, Often begining with a pillar attack. They carry a sword and use their legs to kick a unfortunate player into the air. They can also use their sword to slash the air and make an air projectile.
-
-There IS in fact a new way to cheese them, but I won't say how because I don't want this new cheese method to get patched, all im saying is that its a bit similar to how you used to be able to cheese them .- fuck you why would you add this here in the first place
 
 <table><caption></caption>
 <tbody>

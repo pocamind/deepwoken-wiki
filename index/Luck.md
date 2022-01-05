@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 8735
+revid: 9139
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,10 @@ _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Te
 
 Luck is a hidden value that affects your Character's learning of rare Talents.
 
+Killing something that provides you with Luck will cause white stars to appear nearby you, signaling your luck increase.
+
   
+
 the maximum obtainable luck is 150 ; good luck figuring out what gives how much luck
 
 \-job
@@ -39,3 +42,4 @@ Other note: You get no luck from players under level 10.
 
 -   It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players as a higher level unless you are just that toxic, or are acting in self defense.
+-   if you roll a rare/legendary card, you may as well take it as no matter which card you take, **your luck resets**(?) when you power up and doesnt carry over regardless of what card you picked.
