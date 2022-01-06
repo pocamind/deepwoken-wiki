@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 9308
+revid: 9540
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ A player getting turned into a Mudskipper
 
 > _"AGH, STOP! CUT THE BREAKS! AGH~"_ - ~Unfortunate Diver~ Mudskipper.
 
-Sometimes referred to as Squid Hoss. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md).
+Sometimes referred to as Squid Hoss. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md). It can spawn in City of the Drowned.
 
 Drops "Odd Tentacles".
 
@@ -36,3 +36,6 @@ Drops "Odd Tentacles".
 -   No matter how high level'd you are, you cannot just try to meat hit it like a sharko. You need to parry and pay attention to his m1's or you will Immediately get wiped, This thing _**WILL**_ outskill you.
 -   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds.
 -   In the game files, Squibbo's real name is Squidward.
+-   If he tries to kick you, parry it or dash out of it. If it hits, it does an INSANE amount of damage.
+-   Keep a distance of about 10 studs between you and him. If he gets anywhere near that raidus, he will be able to hit you.
+-   DO NOT RUN IF YOU ARE LOW. If you attempt to run after engaging in a fight, he will wipe you.

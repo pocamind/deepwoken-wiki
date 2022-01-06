@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9375
+revid: 9572
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -16,7 +16,7 @@ _This page is a list of all items that you can use in order to modify a Mantra._
 
 A foolish fool using quite a numerous amount of items to upgrade a mantra.
 
-Mantra Modifiers are items that can be used to expand the potential of your Mantras. Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
+Mantra Modifiers are items that can be used to expand the potential of your [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a Mantra Table to add Mantra Modifiers.
 
 You can stack up to 3 of each modifier, including their weaker versions. This means a user can put 3 _Drift Shards_ and 3 _Rush Shards_ on one Mantra. _Be aware that adding more will increase [Ether](Combat_Mechanics.md) cost._
 
@@ -25,6 +25,10 @@ When you upgrade a Mantra, the previous upgrade will disappear. If you recall it
 Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
 
   
+
+GLASS stone makes ice forge daggers invisible \[I tested this with 2 glass stones on a ice forge, seemed the same to me - hexcog\]
+
+\-job
 
   
 
@@ -63,7 +67,7 @@ File:Screenshot 2021-12-28 152201.png
 
 File:Screenshot 2021-12-28 152259.png
 
- | Drift Shard | Makes mantras (projectiles) move faster. |
+ | Drift Shard | Makes Mantras (projectiles) move faster. |
 | 
 
 File:Rush Shard.png
@@ -73,19 +77,31 @@ File:Rush Shard.png
 
 File:Screenshot 2021-12-28 152413.png
 
- | Amnesic Driftwood | Removes all modifiers on a mantra. |
+ | Amnesic Driftwood | Removes all Modifiers on a Mantra |
 | 
 
- | Glass Stone | Makes projectiles transparent. _(requires some more testing)_ |
-| 
-
-File:GlassStonePlaceholder.png
-
- | Magnifying Stone | Likely same as Glass Stone, but other than that, unknown. |
+ | Glass Stone | _Unknown._ |
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |
 | [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |
+
+## Deep Gems
+
+(If anyone has these gems please update the wiki with their pictures
+
+Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped at a time.
+
+Deep Gems are dropped by the Primadon boss at a low rate.
+
+| Image | Modifier | Effect |
+| --- | --- | --- |
+|  | Insignia Gem | Mantra's with this gem cast immediately after another Mantra will have it's windup removed. |
+|  | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra |
+|  | Blessed Gem | Removes cooldowns for mantra's without the Blessed Gem equipped |
+|  | Blue Gem | Reduces Mantra ether cost |
+|  | Wayward Gem | You will teleport to the first enemy hit by the mantra |
+|  | Wind Gem | Hitting an enemy with the mantra will increase your speed for a short time |
 
 ## Sparks
 
@@ -169,11 +185,11 @@ _"You feel dizzy when you hold it."_
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
--   This modifier is compatible with the _Flame Repulsion_ Mantra, but has no effect.
 
 #### Reversal Spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
+-   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
 
 #### Multiplying Spark
 
@@ -182,7 +198,7 @@ _"You feel dizzy when you hold it."_
 
 #### Spring Spark
 
--   This modifier increases the height for the _Flame Leap_ Mantra. (Tested but did not work on Flame Leap, leaving here for testing purposes.)
+-   This modifier increases the height for the _Flame Leap_ Mantra.
 
 #### Tornado Spark
 

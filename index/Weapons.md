@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 9341
+revid: 9551
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -112,7 +112,7 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>7</td>
   <td>5</td>
   <td>7</td>
-  <td>0.86x</td>
+  <td>0.87x</td>
 </tr>
 <tr>
   <td>Flintlock</td>
@@ -140,6 +140,9 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>16</td>
   <td></td>
   <td>9</td>
+  <td>5</td>
+  <td>7</td>
+  <td>0.87x</td>
 </tr>
 <tr>
   <td>Silver Dagger</td>
@@ -679,7 +682,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Flame</td>
   <td>75 FIR, LVL 35</td>
   <td>Sword</td>
-  <td>23</td>
+  <td>23 /44 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -689,7 +692,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Lightning</td>
   <td>75 THD, LVL 35</td>
   <td>Sword</td>
-  <td>23</td>
+  <td>23 /44 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -699,7 +702,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Frost</td>
   <td>75 ICE, LVL 35</td>
   <td>Sword</td>
-  <td>23</td>
+  <td>23 /44 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -709,7 +712,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Wind</td>
   <td>75 WND, LVL 35</td>
   <td>Sword</td>
-  <td>23</td>
+  <td>23 /44 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -719,7 +722,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Shadow</td>
   <td>75 SHD, LVL 35</td>
   <td>Sword</td>
-  <td>23</td>
+  <td>23/44 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>

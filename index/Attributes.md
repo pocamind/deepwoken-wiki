@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 9392
+revid: 9469
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -33,6 +33,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Unlocks Strength-related Talents and Strength Mantras, depending on the Character's Strength.
 -   For every 10 Points of Strength, gain 1% Penetration.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
+-   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength.
 
 ### Fortitude
 
@@ -76,6 +77,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Willpower affects your Attunement's Damage slightly per Willpower.
 -   Gain Willpower EXP via Foraging and fighting Monsters. It will also passively increase in [The Depths](The_Depths.md).
+-   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength and 75 willpower.
 
 ### Charisma
 

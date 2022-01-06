@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 9311
+revid: 9518
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -22,7 +22,7 @@ There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes ar
 
 The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking.
 
-To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents).
+To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent) or Bloodiron spirit ring (Obtained in depths)
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
@@ -418,6 +418,31 @@ File:Duelist's Atture.png
 +1200 Durability
 
 +10% Slash Armor
+
+ |
+| 
+
+File:Diverapprentice.png
+
+ | Diver Apprentice | x4 Cloth
+
+x3 Crystal Lens
+
+x4 Fiber
+
+50 Notes
+
+ | Power 15
+
+Intelligence 10
+
+ | +100% Ether Regen
+
++20% Elemental Armor
+
++1000 Durability
+
++5% Physical Armor
 
  |
 
@@ -1008,4 +1033,4 @@ File:Imperial Boots.png
   
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
--   Some Accessories can be Ascended, and have buffed stats.
+-   Some Accessories can be Ascended, Enlightened, Celestial and have buffed stats.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 9196
+revid: 9586
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,12 +38,12 @@ Completing your trial and escaping The Depths gives you a new talent "Depth Conn
 
 | Level | Possible Enemies |
 | --- | --- |
-| <9 | N/A - You escape without fighting a monster |
-| 10-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
+| <15 | N/A - You escape without fighting a monster |
+| 16-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-27 | [Angels](Hollow_Angel.md) |
-| 28-39 | [Megalodaunt](Megalodaunt.md) |
-| 40-49 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
-| 50< | [Enforcer](Enforcer.md) |
+| 28-38 | [Megalodaunt](Megalodaunt.md) |
+| 39-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
+| 45< | [Enforcer](Enforcer.md) |
 
 **Note:** These are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer).
 
@@ -139,3 +139,4 @@ Almost everything in the game drops in the depths
 -   [Resonance](Resonance.md)/bells can be unlocked by gaining very high amounts of luck while grinding within The Depths, followed by becoming knocked. Read the Resonance page for more information.
 -   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths.
 -   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
+-   A easy way to get out of the depths known as the barrel method is commonly used to surface. Example-[here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-

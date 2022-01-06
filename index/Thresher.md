@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 9437
+revid: 9478
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -30,7 +30,7 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 # King Thresher
 
-_Also known as Big Lizard, Big Croc, Big Crocodile, Mama Crocodile, Mama Lizard, King K. Rool, Queen Crocodile, Queen Lizard, Yung Croc God (name added by kyro)._
+_Also known as Big Mom, Big Dog, Big Lizard, Big Croc, Big Crocodile, Mama Crocodile, Mama Lizard, King K. Rool, Queen Crocodile, Queen Lizard, King Croc, Yung Croc God (name added by kyro)._
 
 ## Description
 

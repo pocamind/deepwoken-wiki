@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 9450
+revid: 9561
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -24,8 +24,9 @@ _**Pressing C triggers resonance**_
 
 **Confirmed method by multiple resonance users, Kanorogue#6037.**
 
--   -   Get a ton of luck then knock yourself in depths. It is really that simple. If you want proof of my bell go ahead and dm me I did not spend very long in the depths at all.
-    -   People say things along the lines of "max luck" when there is no way to tell when you've reached max luck. There is no such thing as a "timer" I know like 5 different people with resonances they will all say the same thing. Please stop editing this page just because you didn't get enough luck and sat there for 5 hours
+-   Get a ton of luck then knock yourself in depths. It is really that simple. If you want proof of my bell go ahead and dm me I did not spend very long in the depths at all.
+-   People say things along the lines of "max luck" when there is no way to tell when you've reached max luck. There is no such thing as a "timer" I know like 5 different people with resonances they will all say the same thing. Please stop editing this page just because you didn't get enough luck and sat there for 5 hours
+-   **MULTIPLE** Resonance users have confirmed that you just need max luck (watch videos by no names making videos on how to get resonance and they all say "max luck", not staying in depths for 482399e+493 hours)
 
 ## How Do You Change A Resonance?
 
@@ -33,9 +34,9 @@ _**Pressing C triggers resonance**_
 
 ## Known Resonance Abilities
 
-### **Full Counter**
-
 _Hit Reflection showcased by Bracting._
+
+### **Full Counter**
 
 #### Effects:
 
@@ -43,12 +44,20 @@ _Hit Reflection showcased by Bracting._
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
 -   Variant 2: Works exactly the same, except you must first hit the opponent with a beam. Basically a worse version.
 
+File:Beambell.png
+
+Probably variant 2 of full counter
+
+  
+
 ### **Run It Back**
 
 #### Effects:
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
+
+  
 
 File:Phoenix Fire.jpg
 
@@ -63,12 +72,16 @@ Phoenix fire effect
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
 -   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)
 
+  
+
 ### **Distortion Realm Portal**
 
 #### Effects:
 
 -   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside yourself.
 -   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow.
+
+  
 
 ### **God's Will**
 
@@ -78,11 +91,15 @@ Phoenix fire effect
     
     Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense.
 
+  
+
 ### **Reaper**
 
 #### Effects:
 
 -   Activating your resonance will cause an area to appear below you, insta-gripping anyone that is knocked close to you, restoring your health.
+
+  
 
 ### **Soul Weapon Summoning (aka. Crazy Slot)**
 
@@ -154,6 +171,8 @@ Phoenix fire effect
         -   5 Weight
         -   12 Range
 
+  
+
 ### **Dimensional Shift**
 
 #### Effects:
@@ -165,6 +184,8 @@ Phoenix fire effect
 -   Notes:
     -   It's recommended that you don't chat before using it, as your text bubbles do not disappear when you are in the dimension.
     -   You could think of it just like Yoru's ultimate from Valorant.
+
+  
 
 ### **Soul Jar**
 

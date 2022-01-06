@@ -1,12 +1,49 @@
 ---
 title: Murmur
-revid: 8605
+revid: 9570
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Murmur
 
-A buff obtained by defeating [Kaido](Murmur%253A_Ardour.md) in the [Void Sea](Voidsea.md)
+## Description
 
-Current information: A usable buff that increases attack speed and damage, in a trade off for draining ether
+Current information: A usable buff that increases attack speed and damage, in a trade off for draining ether. Needs further testing and research.
+
+## Obtainability
+
+Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
+
+## Murmur Talents
+
+<table><caption>Note: The amount of ether these Murmur talents consume is immense, so you will need a lot of Intelligence and or Charisma. Having high Ether stats on your armor pieces will also help.</caption>
+<tbody>
+<tr>
+  <th>Image</th>
+  <th>Name</th>
+  <th>Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Murmur: Ardour</td>
+  <td>An application of the Song that enables one to channel the Murmur into raw strength. Press H.<p><br>
+  [Provides +5 Sanity, +9 Carry Load]</p></td>
+  <td>Provides a buff to your attack speed and damage. Drains ether the longer you use it. (According to currently available information.)</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Ardour Scream</td>
+  <td>Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)<p><br>
+  [Provides +9 Sanity, +1 Posture, +3 Health]</p></td>
+  <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether.</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>

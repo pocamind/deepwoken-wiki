@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 8804
+revid: 9484
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -33,7 +33,7 @@ Drops the Enforcer's Axe weapon and perfect lenses.
 -   Fighting him is widely considered easier than fighting a Corrupt Sharko or 2 Angels.
 -   A common combo that The Enforcer will use is two high swings in quick succession before going for a low swing.
 -   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits. He can also feint.
--   The Enforcer has approximately 600 hp.
+-   Do this solo or duo it you are NOT beating it with a lot of people
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 

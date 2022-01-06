@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 9139
+revid: 9498
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Te
 
 ## Description
 
-Luck is a hidden value that affects your Character's learning of rare Talents.
+Luck is a hidden value that affects your Character's learning of rare Talents and Chest Items.
 
 Killing something that provides you with Luck will cause white stars to appear nearby you, signaling your luck increase.
 
@@ -24,6 +24,7 @@ the maximum obtainable luck is 150 ; good luck figuring out what gives how much
 ## Effects of Luck
 
 -   Luck increases the likelihood of Rare Talents (Indicated by their color backgrounds and particle effects) per [Power Level](Leveling.md) Increase.
+-   Luck increases the Item rarity from chests.
 
 ## Obtaining Luck
 

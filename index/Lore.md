@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 9303
+revid: 9560
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,6 +14,8 @@ _"Who would've thought, that they will forget us so easily?" - Voice of the Deep
 The lore of Deepwoken is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
 
 **DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is also edited by one of the Developers themselves to correct these mistakes.
+
+This Page is for LORE only. If you want to see which Faction can be reputable or not, go [here](Reputation.md).
 
 ## Figures
 
@@ -72,6 +74,10 @@ _"Another one..? You've got to be kidding me." - Akira_
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 
+**The Meat Lord**
+
+(Placeholder)
+
 ## Locations
 
 ### Eastern Interstitial Lighthouse
@@ -90,6 +96,8 @@ _"Another one..? You've got to be kidding me." - Akira_
   
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
+-   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, whom are encountered ontop of the Tower, are the reason why its here.
+-   Many theories, based on the City District's description, that the City mayhap sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
 
 ### Songseeker Wilds (Etrean Luminant)
 
@@ -97,16 +105,14 @@ _"Another one..? You've got to be kidding me." - Akira_
 
 ## Factions
 
-### The Old Stewards
-
--   Also known as The Pathfinders, The Old Sewards is an organization that preserves whats left before the tides came; practically Historians.
--   The Old Stewards can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
-
-### The Ignition Union
-
-(Placeholder)
-
 ### The Kingdom of Etrea
+
+-   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
+-   **Attunements:** Galebreathe
+-   **Alliances:** _Vigil of Winds (Neutral)_
+-   **Enemies:** _The Central Authority, The Hivemind, The Contractors_
+
+#### Etrea
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority.
@@ -115,31 +121,57 @@ _"Another one..? You've got to be kidding me." - Akira_
 
 An Etrean Guard, part of the Nation of Etrea
 
-### The Vigil of Winds
+#### The Vigils of Wind
 
 -   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro" (meaning "master" or "teacher" in Italian).
--   They seem to be allied with (and even in service to) the Etrean government.
-    -   Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
+-   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 
-### The Central Authority
+### Children of Navae
 
--   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
--   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
--   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
--   Consists mostly Adrets, but can vary with other races too.
--   Are enemies with The Kingdom of Etrea.
--   The Authority are affiliated with The Depth Divers and Summer Company.
+-   **Territory:** _N/A_
+-   **Encountered In:** _Etrean Wilds, Summer Isle_
+-   **Attunements:** _Frostdraw_
+-   **Alliances:** _Unknown_
+-   **Enemies:** _The Ministry, The Contractors, Summer Company_
 
-A Peacekeeper Grunt, part of The Authority
+### Bandits
 
-  
+-   **Encounter In:** _Anywhere_
+-   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
+-   Hostile to all players. Reputation cannot be gained with the bandits.
 
-### Navaen Nomads
+### The Pathfinders
 
-(Placeholder)
+-   Also known as The Old Stewards. An organization that preserves whats left before the tides came; practically Historians.
+-   Can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
+
+### The 11th Legion of the Cloudjumper Empire
+
+-   Located In: Erisia, Aratel
+-   Attunements: Galebreath
+-   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hivemind.
+-   They wear ancient-like armor, ranging from armor plating and scale armor.
+-   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
+    
+    Amara, a Member of The Legion.
+    
+
+### Songseekers
+
+-   **Locations Encounter In**: Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)
+-   Attunements: Flamecharm, Thundercall, Frostdraw
+-   Strangely, there seem to be no Galebreath songseekers.
+-   A colony of Tribesmen that worship the Song. Known as Masters of the Elements.
+-   They all wear colored masks which match the element they use. They learn only Martial Arts and Attunements.
 
 ### Summer Company
+
+-   **Territory:** _Summer Isles_
+-   **Encountered In:** _Summer Isles_
+-   **Attunements:** _N/A_
+-   **Alliances:** _The Central Authority (Mixed)_
+-   **Enemies:** _The Navaen Nomads, The Ignition Union, The Ministry_
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
 -   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
@@ -148,6 +180,65 @@ A Peacekeeper Grunt, part of The Authority
 
 A Summer Company Member.
 
+  
+
+### The Ministry
+
+_"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
+
+-   **Territory:** _Unknown_
+-   **Encountered In**: _Minityrsa, Summer Isles_
+-   **Attunements:** _Shadowcast_
+-   **Alliances:** _The Contractors (Neutral)_
+-   **Enemies:** _The Navaen Nomads_
+
+-   A group of dark mages with unknown motives. Further research is required.
+-   They warn of (and possibly bring about?) the sinking of the Overworld into [The Depths](The_Depths.md).
+-   The Ministry has some sort of hostility against the Navaen Nomads, commonly encountered in [Summer Isles](Summer_Isle.md).
+
+A Dark Mage, located in Minityrsa.
+
+### The Contractors
+
+-   **Territory:** _Unknown_
+-   **Attunements:** _Time Attunement?_
+-   **Alliances:** _The Ministry (Neutral)_
+-   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+
+  
+
+### The Ignition Union
+
+(Placeholder)
+
+### The Central Authority
+
+-   **Territory:** _Fort Merit_
+-   **Attunements:** _Flamecharm, Thundercall_
+-   **Alliances:** _The Depth Divers (Mixed), Summer Company (Neutral)_
+-   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+
+-   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
+-   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
+-   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
+-   Consists mostly Adrets, but can vary with other races too.
+
+A Peacekeeper Grunt, part of The Authority
+
+### The Hive
+
+-   **Territory:** _Greathive Aratel_
+-   **Attunements:** _Unknown_
+-   **Alliances:** _Unknown_
+-   **Enemies:** _The Kingdom of Etrea_
+
+-   Also known as The Hivemind, they are a group of Individuals; mostly Vesperian and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
+-   Their previous home was [The Hidden Village](The_Hidden_Village.md), but evacuated by invoking the green fountains.
+-   The Hive, based on Nimea's theory, are scavengers; reaping what they can to build homes and structures out of them.
+-   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
+-   The Hive protects green artifacts, similar to [The Forge](Artifacts.md), against the Kingdom of Etrea.
+-   They seem to have ranks such as Drone and Tactician.
+
 ### The Divers
 
 -   An Organization that specialize in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
@@ -155,39 +246,6 @@ A Summer Company Member.
 -   The Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
-
-### Songseeker Tribesmen
-
--   A colony of Tribesmen that worship the Song. Known as Masters of the Elements.
--   Ranges mostly Vesperian, and learn only Martial Arts and Attunements, commonly Frostdraw and Flamecharm.
--   Flamecharm Masters are commonly found in Songseeker Isles, and Frostdraw Masters can be found in [Minityrsa](Minityrsa.md).
-
-### The Legion
-
--   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hivemind.
--   They wear ancient-like armor, ranging from armor plating and scale armor.
--   They have a form of ranking such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
-    
-    Amara, a Member of The Legion.
-    
-
-### The Hivemind
-
--   A group of Individuals; mostly Vesperian and Ganymedes, are located in [Greathive Aratel](Greathive_Aratel.md).
--   Their previous home was [The Hidden Village](The_Hidden_Village.md), but evacuated by invoking the green fountains.
--   The Hivemind, based on Nimea's theory, is that they are scavengers; reaping what they can to build homes and structures out of them.
--   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
--   The Hivemind protects green artifacts, similar to [The Forge](Artifacts.md), against the Kingdom of Etrea.
-
-### The Ministry/Dark Mages
-
-_"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
-
--   A group of Shadowcasters with unknown motives. Further research is required.
--   They bring about the flood of the Overworld to [The Depths](The_Depths.md), just like how the Celtor and its City sank.
--   The Ministry has some sort of hostility against the Navaen Nomads, commonly encountered in [Summer Isles](Summer_Isle.md).
-
-A Dark Mage, located in Minityrsa.
 
   
 
@@ -237,6 +295,11 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 ## Deepwoken: ~1271
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to Year 1271.
+
+### The Great Drowning
+
+-   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
+-   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met.
 
 ### Lightkeepers
 

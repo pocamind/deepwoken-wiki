@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 9367
+revid: 9575
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -8,7 +8,7 @@ categories: [Races]
 
 # Felinor
 
-Felinor is a [Race](Aspects.md) in Rogue Lineage 2
+Felinor is a [Race](Aspects.md) in Deepwoken
 
 ## Descriptions
 

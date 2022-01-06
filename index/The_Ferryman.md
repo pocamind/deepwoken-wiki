@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 9347
+revid: 9536
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -16,6 +16,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 
 ### Attacks
 
+-   **Displacement -** Whenever the player get too close to the Ferryman and while it is not attacking, or after a delay if the player stays far, the Ferryman will teleport to another spot in the arena, immediatly using another attack afterward.
 -   **Lightning Clones** - The Ferryman summons two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path.
@@ -37,6 +38,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 -   The Ferryman is unlikely to be directly related to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) with the same name.
     -   However, they both possess godlike powers and mock (to varying degrees) the mortals that come to meet them. They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
+-   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer".
 -   As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris huddling next to a gate, and he speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.

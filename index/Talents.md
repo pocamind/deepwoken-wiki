@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9444
+revid: 9582
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -226,6 +226,11 @@ Hand of Mantra Cards
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.
 
+### The Emperor's Blade
+
+-   Emperor Flame \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
+-   Mirage Clone \[Generic Talent(?), Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.
+
 ### Flame Dancer
 
 -   Dancing Steps \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
@@ -241,8 +246,10 @@ Hand of Mantra Cards
 
 -   Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer. (+4 Elemental Intensity, +3 Health)
     -   Prerequisites: Flamecharm | Power Level 2
--   Adept Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive, Power Level 23\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
+-   Adept Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
     -   Prerequisites: Flamecharm | 25 in flamecharm stat
+-   Expert Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
+-   Master Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
 -   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: Flamecharm
 
@@ -578,6 +585,7 @@ Hand of Mantra Cards
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
+-   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)(Obtained by wearing a blindfold)
 
 ## Whispers
@@ -702,6 +710,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Navaen-Nomad
 
 -   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen Nomad Robes Outfit)
+
+### Flamecharmer
+
+-   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing Flame Worshipper Robes Outfit)
 
 ### Pathfinder
 

@@ -1,20 +1,24 @@
 ---
 title: The Starswept Valley
-revid: 7669
+revid: 9511
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # The Starswept Valley
 
-_**"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands"**_
+> _**"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands."**_
+
+> \- Area Description
 
 ## Overview
 
-Template:Areainfobox The Starswept Valley, Commonly just called "The Hive" is a High-Tier Loot & Risk area located in the very edge of the map and is the place to areas like Fort Merit, & Widows Hallow. Most enemies here are equivalent to that of a Sharko in terms of strength.  
+Template:Areainfobox Starswept Valley is a location on Aratel Island.
+
+High-tier enemies that drop high-tier loot spawn here, making this an alternative to The Depths to get items like Royal Pathfinder and Star Duster.  
 
 ## Description
 
-The Starswept Valley has the resemblance of an Oasis
+Starswept Valley is a desert-like area containing a massive gate that leads to the [Lordsgrove](The_Lordsgrove.md).
 
-(continuing this later lol)
+Upon washing your face at the Lightkeeper Temple, the gate will be removed, allowing you to enter.

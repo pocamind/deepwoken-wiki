@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 9395
+revid: 9580
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -105,6 +105,12 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance makes it so that blocking hits increase your posture bar less. The downside is that parrying barely restores any posture at all.</b></p>
   <p><br>
   <i><b>Stance 2:</b></i> This is your seccondary stance. Any blocking equipment will be put away, such as shields. if you do not have any then you will do another idle animation. <b>This stance makes it so that parrying gives a lot more posture than stance 1. The downside is that blocking increases your bar far more than stance 1.</b></p></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Stealth</th>
+  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and left click behind them to perform a sneak attack (throat slit). This will deal a moderate amount of damage (Killing some low level bandits outright) and cause the target to ragdoll.<p><br>
+  If the target is not killed by the initial attack, it is reccomended to swipe at them as much as possible before they rise once more. They cannot be picked up if they aren't technically 'knocked' down.</p></td>
   <td></td>
 </tr>
 </tbody>

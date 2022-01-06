@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 9436
+revid: 9490
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,6 +51,8 @@ _The information below may not be accurate. Many enchants are yet to be discover
     
 
 ### Curse of the No-Life King
+
+File:Image 2022-01-05 195102.png
 
 -   Pros: Combat-only HP regen buff and M1 deals more dmg.
 -   Cons: You have only one life and cannot gain more. When dying, you are instantly sent to the [Fragments of Self](Fragments_of_Self.md).

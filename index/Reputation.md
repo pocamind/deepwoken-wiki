@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 9067
+revid: 9535
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation]
@@ -49,6 +49,20 @@ Players with negative reputation from factions **will be** attacked by NPCs from
 -   Certain questlines will be disabled until reputation is restored to Neutral or Positive
 -   Innkeepers will not grant you stay, thus not allowing you to respawn at that inn.
 
+### Changes in Reputation
+
+File:Reputation Indicator.png
+
+Icon indicating changes to the player's reputation. Image provided by: Batter boi
+
+The main indicator for changes in a player's reputation will be shown by an 'eye' icon appearing at the top-center of the player's screen
+
+  
+
+  
+
+  
+
   
 
 ### Resetting Enmity
@@ -88,3 +102,22 @@ Battles between factions can randomly occur at anytime, and they usually take pl
 For example, in Erisia Island players may find Etrean Guards fighting off a group of enemies, such as bandits. Assisting with the Etrean Guards by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
 
 However, depending on who you attack and grip/finish will result in **losing** reputation from that faction.
+
+  
+
+## Factions/Entities
+
+### Reputable Factions
+
+-   The Central Authority
+-   The Kingdom of Etrea
+-   The Navaen Nomads
+-   Summer Company (Kinda)
+-   The 11th Legion/The Empire
+
+### Non-Reputable Factions
+
+-   Bandits
+-   The Ministry
+-   The Contractors
+-   Songseeker Tribesmen
