@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 9682
+revid: 9729
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -38,7 +38,7 @@ _Chance of obtaining race: **16.0%**_
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 WillPower</li>
+    <li>+2 Willpower</li>
     <li>+2 Charisma</li>
   </ul></td>
 </tr>

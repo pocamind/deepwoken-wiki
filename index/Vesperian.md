@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 9407
+revid: 9737
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -31,7 +31,7 @@ _"Never seen without their masks, Poorly understood, but begrudgingly appreciate
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+2 Intelligence</li>
+    <li>+2 Fortitude</li>
     <li>+2 Willpower</li>
   </ul></td>
 </tr>
@@ -71,4 +71,5 @@ lorelorelore
 
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it.
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special dark-colored mask with a yellow pattern that resembles an eye.
+-   Some of the mask designs that you can choose as a face may be based on designs found in the Kung-fu Soulslike _**Absolver**_.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md).

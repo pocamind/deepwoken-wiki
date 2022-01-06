@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 2046
+revid: 9747
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 ## **Description**
 
-A shield amongst many others granted with better swagger and size. The shield is an off-hand tool that grants the user more posture when equipped.
+The Worshipper's Shield can be obtained as a rare drop from enemies and requires 45 fortitude to wield. It boasts a higher posture buff than the Targe and Kite Shield.
 
 File:Some Virgins virgin shield V2.png
 

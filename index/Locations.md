@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 9685
+revid: 9704
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,16 +22,15 @@ categories: [Locations]
 
 -   _Temple's Approach_
 -   _Temple of the Blade_
--   _Eastern Interstitial Lighthouse_
 
-### **Erisia Island**
+#### **Erisia**
 
-#### _Lower Erisia_
+##### Lower Erisia
 
 -   _Tomb of the Nameless Soldier_
 -   _Pathfinder's Respite_
 
-#### [_Upper Erisia_](Upper_Erisia.md)
+##### [Upper Erisia](Upper_Erisia.md)
 
 -   [_The Birdcage_](The_Birdcage.md)
 -   _Viper's Jaw_
@@ -49,12 +48,7 @@ categories: [Locations]
 
 -   Valley of Heroes
 
-#### **The Aratel Sea**
-
--   Songseeker Wilds
--   [Summer Isle](Summer_Isle.md)
--   [The Monkey's Paw](<The_Monkey's_Paw.md>)
--   [Greathive Aratel](Greathive_Aratel.md)
+### **The Aratel Sea**
 
 #### Aratel Island
 
@@ -70,10 +64,6 @@ categories: [Locations]
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Voidheart](Voidheart.md)
-
-## The Central Luminant
-
--   Raftle (one piece refernce?)
 
 ## [The Depths](The_Depths.md)
 

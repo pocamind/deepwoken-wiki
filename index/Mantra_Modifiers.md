@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9605
+revid: 9734
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -24,11 +24,19 @@ When you upgrade a Mantra, the previous upgrade will disappear. If you recall it
 
 Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
 
+New Note - Had a single lit disk and was able to combine it with my spell. At that point, I had 75 Intelligence and 70 Thundercall on level 34. It is likely that it is tied to not only Level, but also Intelligence.
+
+### Modifier Hitlist
+
+There are currently a number of Mantra Mods that can be crafted, but are unsure of how it can be. Currently, we need to find out whether or not the following mods can be crafted, the recipe of the mod if it can be crafted, and also its effects.
+
+Currently, there are:
+
+-   ~Magnifying Stone~
+-   False Flamestone
+-   Mirage Stone
+
   
-
-GLASS stone makes ice forge daggers invisible \[I tested this with 2 glass stones on a ice forge, seemed the same to me - hexcog\]
-
-\-job
 
   
 
@@ -80,12 +88,19 @@ File:Screenshot 2021-12-28 152413.png
  | Amnesic Driftwood | Removes all Modifiers on a Mantra |
 | 
 
- | Glass Stone | _Appears to make projectiles invisible (more testing needed)_ |
+ | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
+
+-   Does not turn additional FX on the spell invisible I.E. Tracers.
+-   Certain spells are not turned invisible, I.E. Lightning Beam.
+-   Crafted with Crystal Lens and a Cloudstone.
+-   May also mod the spell with both Crystal Lens and Cloudstone _(Testing required)._
+
+ |
 | 
 
 File:Mantra Modifier Placeholder.png
 
- | Magnifying Stone | Likely same as Glass Stone. (testing required) |
+ | Magnifying Stone | Likely same as Glass Stone. (testing required, someone try combining a Stratus Stone with a Perfect Lens) |
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |

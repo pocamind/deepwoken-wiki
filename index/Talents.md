@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9648
+revid: 9693
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -245,11 +245,12 @@ Hand of Mantra Cards
 ### Flamecharmer
 
 -   Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer. (+4 Elemental Intensity, +3 Health)
-    -   Prerequisites: Flamecharm | Power Level 2
+    -   Prerequisites: Flamecharm at Power Level 2 or obtain through Flamecharmer Trainer
 -   Adept Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
-    -   Prerequisites: Flamecharm | 25 in flamecharm stat
+    -   Prerequisites: Flamecharm | 25 Flamecharm
 -   Expert Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
 -   Master Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
+    -   Prerequisites: Flamecharm | 50-51 Flamecharm
 -   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: Flamecharm
 -   Unyielding Inferno \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
@@ -259,7 +260,7 @@ Hand of Mantra Cards
 
 -   Galebreather \[Generic Talent, Galebreath Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intesity, +3 Health)
 -   Adept Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 1-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
--   Expert Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 2-Star Leveled Galebreath mantras. (+5 Elemental Intesity)
+-   Expert Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 2-Star Leveled Galebreath mantras. (+5 Elemental Intensity)
 -   Master Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 3-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
 -   The Old Wind \[Generic Talent, Galebreath Exclusive\] - Glide straight with the power of Gales.
 
@@ -506,6 +507,7 @@ Hand of Mantra Cards
 -   Expert Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
 
 -   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
+    -   Prerequisites: Thundercall | 50-51 Thundercall
 -   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and flamecharm are for simpletons. (Allows you to light campfires)
 
 -   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
@@ -572,7 +574,7 @@ Hand of Mantra Cards
     -   Presrequisites: High Light Weapon (~40)
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
-    -   Prerequisites: High Heavy Weapons (50, probably lower tho)
+    -   Prerequisites: 20 Strength & 25 Heavy Weapon
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 
 ### **Miscellaneous**

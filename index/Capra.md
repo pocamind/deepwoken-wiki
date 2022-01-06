@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 9398
+revid: 9733
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -71,6 +71,5 @@ This isn't a good race to play as for solo progression, as its racial abilities 
 
 ## Notes
 
--   An objectively goated race.
 -   Each of the marks appear to originate from a different real world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
 -   This race is likely a reference to the Capra Demon, a boss in Dark Souls.

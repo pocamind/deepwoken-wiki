@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 9684
+revid: 9698
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -148,12 +148,12 @@ An Etrean Guard, part of the Nation of Etrea
 -   Also known as The Old Stewards. An organization that preserves whats left before the tides came; practically Historians.
 -   Can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
 
-### The 11th Legion of the Cloudjumper Empire
+### The 11th Cloudjumper Legion
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Unknown_
--   **Enemies:** _Unknown (Presumably Kingdom of Etrea)_
+-   **Enemies:** _Unknown (Presumably Kingdom of Etrea and the Peacekeepers)_
 -   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hivemind.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
@@ -238,7 +238,7 @@ A Peacekeeper Grunt, part of The Authority
 
 ### The Hive
 
--   **Territory:** _Greathive Aratel_
+-   **Territory:** _The Lordsgrove, Greathive Aratel_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea_

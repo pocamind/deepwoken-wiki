@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 9490
+revid: 9714
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -104,7 +104,8 @@ File:Image 2022-01-05 195102.png
 ### Obfuscation
 
 -   Pros: Increases M1 speed. The weapon becomes invisible, becoming shrouded with air.
--   Cons: Useless on swords. Feints are harder to perform.
+-   Cons: ~Useless on swords~. The hard visibility of the weapon can be used to your advantage, as the range will remain usually unknown to your opponent.
+-   Feints are harder to perform.
     
     File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg
     
@@ -177,8 +178,8 @@ File:Wild sword.png
 
 ### Deferred
 
--   Pros: Attacks deal damage-over-time instead of instantly.
--   Cons: The damage-over-time might be less useful than instant damage.
+-   Pros: Attacks deal damage-over-time instead of instantly. Especially good for fights that are bound to be long.
+-   Cons: The damage-over-time might be less useful than instant damage, especially in shorter fights.
     
     File:Deferred.png
     

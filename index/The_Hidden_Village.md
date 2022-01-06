@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 8810
+revid: 9700
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 This is a village that is hidden behind a wooden door in the desert.
 
-(The door can be broken with any heavy weapon m3 or fire)
+(The door can be broken with any heavy weapon m3, dark blade, shadow meteor or fire)
 
 Once in, you can go in the town. Located in the town are two npcs; one of them is named Nimea who mentions the term "Lightkeepers," highlighted in blue text.
 

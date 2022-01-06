@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 9590
+revid: 9699
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 ## Description
 
-Oaths are powers that can be obtained from either Power Up or completing specific tasks.
+no
 
 You may only have one Oath per character slot, so it is best to pick what Oath you're trying to get at the start of your journey as you will be locked into it forever. Oaths do not carry over if a character gets wiped.
 
@@ -24,7 +24,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Power 30;
+-   None.
 
 ### How to obtain:
 
@@ -33,7 +33,6 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots;
--   ~Cannot be put under a Vow of Mastery.~ Wrong they still can
 
 ### Oath Description:
 

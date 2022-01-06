@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 8285
+revid: 9736
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 _Also known as Kaido, Sea Serpent, Dragon, Ice Leviathan and Shenron._
 
-_"NOTHING BAD EVER HAPPENS IN THE VOID SEA!!!" - John Kennedy (Not to be confused with the president)._
+_"NOTHING BAD. EVER HAPPENS. IN THE VOID SEA!!!" - John Kennedy (Not to be confused with the late president; JFK)._
 
 ## Description
 

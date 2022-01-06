@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 9660
+revid: 9731
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -49,6 +49,5 @@ The deer folk of the land are among the few that still consider themselves free 
 
 ## Notes/Trivia
 
--   By grabbing a Gremor by the horns, you could theoretically more easily plunge your weapon into them.
 -   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.
     -   Also applies to Void Sea

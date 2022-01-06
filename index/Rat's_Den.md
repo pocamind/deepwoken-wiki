@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 9626
+revid: 9702
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,7 +25,7 @@ _Hey, it's worth at least a rat's weight in gold._
 
 -   Sells for 10 Notes
 
-The _Gold Plate_ is an item only obtainable from enemies in the Rat's Den. When held, it appears as a large, flat sheet of gold.
+The _Gold Plate_ is an item only obtainable from enemies in the Rat's Den and from a rare NPC rat who spawns randomly and challenges you to a duel. When held, it appears as a large, flat sheet of gold.
 
 ## Trivia/Player notes
 

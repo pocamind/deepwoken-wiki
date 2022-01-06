@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 9656
+revid: 9744
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -49,6 +49,8 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 > _"Parkour—PARKOUR!" - Last words of a Ganymede_
 
+> _"I'M RUNNIN' CIRCLES AROUND YA!"_ _\- Etrean Pitcher to a beefy Canorian._
+
 -   Slight of hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
 -   Agility Weapons, such as daggers, requires a Agility requirement to wield.
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
@@ -66,6 +68,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via Foraging, harvesting, discovering Recipes for the first time, or discovering new locations for the first time.
 -   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving the [Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
+-   Allows you to pass certain _Intelligence_ skill checks.
 
 ### Willpower
 
@@ -81,7 +84,9 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ### Charisma
 
-> _"Y'all see the shoes, y'all see the money..." \*proceeds to scam the Antiquarian\* - A charismatic Capra_ _"Say, I know a way to get stronger. Called a Vow of Mastery, want to make one?"_ _\- Canorian to a Stranded Vesperian._
+> _"Y'all see the shoes, y'all see the money..." \*proceeds to scam the Antiquarian\* - A charismatic Capra_
+
+> _"Say, I know a way to get stronger. Called a Vow of Mastery, want to make one?"_ _\- Canorian to a Stranded Vesperian._
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.
@@ -96,7 +101,9 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 ### Heavy Weapons
 
-_"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron." - a Felinor and Zweïhander_
+> _"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron."_
+
+> _\- A canorian with his Blacksteel Greatsword._
 
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
@@ -106,7 +113,9 @@ _"It was too big to be called a sword. Massive, thick, heavy, and far too rough.
 
 ### Medium Weapons
 
-"_All for The Prince._" - a Gremor repeatedly using the Gremorian Longspear's critical attack
+> "_All for The Prince._"
+
+> \- a Gremor repeatedly using the Gremorian Longspear's critical attack
 
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
@@ -116,7 +125,11 @@ _"It was too big to be called a sword. Massive, thick, heavy, and far too rough.
 
 ### Light Weapons
 
-"Yew got a loicense for that knoif mate?" - British Adret
+> _"Yew got a loicense for that knoif mate?"_
+
+> _"You're callin' **THIS**_ _a knoife mate?"_
+
+> \- 'British' Adret to an 'Aussie' Capra fistfighter.
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.
@@ -130,7 +143,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-_"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
+> _"Mmmph hrmhph umpph?"_
+
+> \- Adret Pyromancer with an Iron Mask.
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
@@ -140,7 +155,9 @@ _"PRAISE **THE SUN!**" - Elite Knight & Royal Swordsman._
 
 ### Frostdraw
 
-_"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
+> _"Honey? Where's my Super Suit?"_
+
+> \- Black Felinor Frostdrawer
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
@@ -149,7 +166,13 @@ _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 
 ### Thundercall
 
-_"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate Thundercaller_
+> _"Strike me down, Voices of the Deep— You don't have the BALLS-"_
+
+> _\- Unfortunate Thundercaller_
+
+> _"PRAISE **THE SUN!**"_
+
+> \- Elite Knight & Royal Swordsman
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
@@ -158,7 +181,9 @@ _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate
 
 ### Galebreathe
 
-_"Sorye ge ton!" - Yasuo, the Wind Shitter of Runeterra._
+> _"Sorye ge ton!"_
+
+> _\- Yasou,_ Wandering Galebreath Swordsman.
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
@@ -166,9 +191,9 @@ _"Sorye ge ton!" - Yasuo, the Wind Shitter of Runeterra._
 
 ### Shadowcast
 
-_"Hoo boy, for some reason I want to grip freshspawns!" said the Shadowcaster_
+> _"Hoo boy, for some reason I want to grip freshspawns!" said the Shadowcaster._
 
-_"You must be an Uber Oni!"_ said his friend.
+> _"You must be an Uber Oni!"_ said his foreign friend.
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.
