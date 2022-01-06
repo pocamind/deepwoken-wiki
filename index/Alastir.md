@@ -1,15 +1,19 @@
 ---
 title: Alastir
-revid: 5293
+revid: 9618
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alastir
 
-Description An npc in Lower Erisia that claims to be the Royal pathfinder for Etris. He appears to be wounded and rests past a boarded up door above the left pass on the left of the staircase. He gives you the [glider blueprint](Gliders.md) and asks for you to bring him [lost villagers](<Erisor's_Church.md>).
+## Description
 
-When returning villagers to him and completing his quest, the player can ask questions about Lord Erisia and his weapon \[Spoilers\]
+An NPC in Lower Erisia that claims to be the Royal Pathfinder for Etris. He appears to be wounded, and rests past a boarded up door above the left pass on the left of the staircase. He gives you the [Glider Schematic](Gliders.md) and asks for you to bring him [lost villagers](<Erisor's_Church.md>) around Erisia.
+
+When returning villagers to him and completing his Quest, the player can ask questions about Lord Erisia and his weapon.
+
+## Dialogue Options
 
 Who is Lord Erisia?
 
@@ -23,6 +27,10 @@ Who is Lord Erisia?
 
 What's that sword?
 
-|  |
-| --- |
-| I... I know I promised to speak. But I can't, not this. |
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>I... I know I promised to speak. But I can't, not this.</th>
+</tr>
+</tbody>
+</table>

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 9107
+revid: 9600
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -39,6 +39,12 @@ The teacher is an NPC that is often found situated around a campfire. As per dia
 ### Sharko vs Golem
 
 A sharko can be found fighting a Golem or two in Upper Erisia, the Golems will usually win.
+
+### Aelita
+
+Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is persumed to be a Krulian, the same race as the Ferryman, due to her mysterious abilities and purple eyes.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
+
+The first order is to use a mantra, the second order is to chose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to chose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Snow Knight](Stone_Knight.md) event.
 
 ## **Non-AI-Driven Encounters:**
 

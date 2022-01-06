@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9572
+revid: 9605
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -80,7 +80,12 @@ File:Screenshot 2021-12-28 152413.png
  | Amnesic Driftwood | Removes all Modifiers on a Mantra |
 | 
 
- | Glass Stone | _Unknown._ |
+ | Glass Stone | _Appears to make projectiles invisible (more testing needed)_ |
+| 
+
+File:Mantra Modifier Placeholder.png
+
+ | Magnifying Stone | Likely same as Glass Stone. (testing required) |
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |
@@ -157,7 +162,7 @@ File:Image 2021-12-31 211633.png
  | Multiplying Spark | Wind Gun | Increases the number of hits. |
 | 
 
- | Spring Spark | _Unknown._ | Amplifies the effects of mobility moves. |
+ | Spring Spark | Strong Leap | Amplifies the effects of mobility moves. |
 | 
 
  | Tornado Spark | Dark Blade | Makes the last slash a Spin Attack.

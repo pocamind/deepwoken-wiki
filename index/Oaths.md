@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 9584
+revid: 9590
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oaths
@@ -33,7 +33,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 ### Oath Effects:
 
 -   +2 Wildcard Mantra Slots;
--   Cannot be put under a Vow of Mastery.
+-   ~Cannot be put under a Vow of Mastery.~ Wrong they still can
 
 ### Oath Description:
 
@@ -84,36 +84,3 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 -   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
 -   If you don't have any face accesory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
 -   You can equip other face accessories and still have the full effects of the oath, excluding fullbright.
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Meat Sucker</td>
-</tr>
-</tbody>
-</table>
-
-### Pre-requisites:
-
--   Unknown
-
-### How to Obtain:
-
-File:Oath.png
-
-High Quality image of the Oath Card
-
--   Unknown
-
-### Oath Effects:
-
--   Unknown
-
-### Oath Description:
-
-"You Vow to suck the ####### of every mob (male, of course) in Deepwoken."
-
-## Notes
-
--   Theorized to be a progression to Blindseer or an Intelligence Oath
--   Unknown if this Oath is real, recently shown by Infernasu in this [tweet](https://twitter.com/infernasu/status/1478355225392132097?s=21)

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 9469
+revid: 9656
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -12,7 +12,7 @@ _"It's a simple method, beat people up and get better equipment. It's like a Ban
 
 ## Description
 
-They are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain amount of points into it.
+Attributes are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain amount of points into it.
 
 Each Power level, you get 5 Investment Points to spend on attributes. To Power up, spend all of the investment points.
 
@@ -20,7 +20,7 @@ Character Sheet of Helena Dusselden
 
 ## Physical/Mental Attributes
 
-These attributes can be improved up to 75 points, but may be uncapped to 100 once you do a specific quest to unlock an Attribute's full potential.
+All Attributes can be improved up to 75 points, but may be uncapped to 100 once you do a specific task to unlock an Attribute's full potential.
 
 If your race happen to start with +2 in a given stat, the limits are 77 and 102 instead.
 
@@ -39,7 +39,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 > _"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
 
--   Overall Character's Wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (1 HP Increase per Fortitude?)
+-   Overall character wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (1 HP Increase per Fortitude?)
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.
@@ -61,7 +61,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 > _"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
 
--   Logical processing and Problem Solving skills. Increases Ether and Resevoir slightly per Intelligence.
+-   Logical processing and Problem-Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via Foraging, harvesting, discovering Recipes for the first time, or discovering new locations for the first time.
@@ -71,7 +71,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 > _"Grant us eyes, **GRANT US EYES!** Grant us eyes on the inside!" - 'Enlightened' Etrean._
 
-"Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now." - Unfortunate female Canor
+"Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now." - Unfortunate female Canor (retty)
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -81,9 +81,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ### Charisma
 
-> _"Y'all see the shoes, y'all see the money..." \*proceeds to scam the Antiquarian\* - A charismatic Capra_
-
-> _"Say, I know a way to get stronger. Called a Vow of Mastery, want to make one?"_ _\- Canorian to a Stranded Vesperian._
+> _"Y'all see the shoes, y'all see the money..." \*proceeds to scam the Antiquarian\* - A charismatic Capra_ _"Say, I know a way to get stronger. Called a Vow of Mastery, want to make one?"_ _\- Canorian to a Stranded Vesperian._
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.
@@ -154,7 +152,7 @@ _"Honey? Where's my Super Suit?" - Felinor Frostdrawer_
 _"Strike me down, Voices of the Deep— You don't have the BALLS-" - Unfortunate Thundercaller_
 
 -   Increases damage and effectiveness of Thundercall Mantras.
--   Lengthens the stun procced by attacks.
+-   Lengthens the stun caused by attacks.
 -   Unlocks Thundercall related Talents.
 -   Gain Thundercall EXP by dealing damage to Enemies and Monsters using Thundercall Mantras.
 
@@ -170,7 +168,7 @@ _"Sorye ge ton!" - Yasuo, the Wind Shitter of Runeterra._
 
 _"Hoo boy, for some reason I want to grip freshspawns!" said the Shadowcaster_
 
-"You must be an Uber Oni" said his friend.
+_"You must be an Uber Oni!"_ said his friend.
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.
@@ -183,5 +181,4 @@ Each Attribute has a hidden EXP Value. Performing certain actions (such as takin
 
 ## Tips
 
--   It is recommended you Get Good.
 -   You may sometimes spend all your Investment Points yet still not Power up. This usually happens to characters with the Autodidact Boon. It just means you need more EXP to Power up.

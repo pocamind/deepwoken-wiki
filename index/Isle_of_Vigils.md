@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 8496
+revid: 9595
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,11 +44,14 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 
 ### A Lost Sibling Quest
 
+_You must have a galestone in order to complete the quest._
+
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the right corridor room; sitting down sobbing.
 -   He asks you to rescue, or find his sibling in Erisia.
 -   His sibling is found in an Abandoned Wood Lodge in Burning Stone Gardens, near a cliff where the Glowing Trees are.
--   You must have a galestone in order to complete the quest.
--   Afterwards, you return to Kj in Vigils who allows you an audience with Maestro in the training hall.
+-   Give the Galestone to the sibling, healing his wounds. He asks you to head back to Isle of Vigils and talk to Kj about his status.
+-   Talking to Apprentice Kj after giving the galestone finishes the quest.
+-   Rewards of this quest allows you to talk to Maestro, an NPC to unbound your Weapon Proficiencies, if their 75.
 
 ### Lumberjack Quest
 

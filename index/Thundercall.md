@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 9301
+revid: 9677
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -194,7 +194,18 @@ _**Javelin Lord**_
  | Grand Skewer | Your _**Grand Javelin**_ now carries opponents through the air. | Upon hitting an opponent, the projectile now ragdolls opponents before carrying them through the air for a short while before dropping them. |
 | 
 
- | Static Blade | \[Medium Weapons} Hitting blocks or blocking or parrying hits will now generate an electric charge in your blade. granting a small speed buff. Charges can stack up to 10 times. | Hitting blocks, blocking or parrying will grant a small speed buff, stacks up to 10 times. (Currently unsure if this works or not, could be bugged) |
+ | Static Blade | \[Medium Weapons\] Hitting blocks or blocking or parrying hits will now generate an electric charge in your blade. granting a small speed buff. Charges can stack up to 10 times. | Hitting blocks, blocking or parrying will grant a small speed buff, stacks up to 10 times. (Currently unsure if this works or not, could be bugged) |
+| 
+
+ | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown | Upon reaching 10 stacks of Static Blade, your weapons will be infused with lightning, spending all 10 charges. 60 second cooldown. Also gives:
+
++10 Carry Load
+
++1 Passive Agility
+
++2 Health
+
+ |
 | 
 
  | Static Withdraw | After being knocked, if someone tries to carry you for the first time you get knocked, release a static charge to damage them. | 
@@ -246,6 +257,22 @@ _**Static Weaver**_
 -   Upgrade of _**Static Link.**_
 -   +1 Ether
 -   +5 Resevoir
+-   +2 Health
+
+ |
+| 
+
+ | Kickstart | Play the resurrector. Use your lightning to defibrillate your allies on the battefield | resurrect downed allies |
+| 
+
+Static Weaver
+
+ | Static Allure | Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increasees the dureaction of tethers by 15 seconds | Time tethered increased by 15 seconds.
+
+having more than 2 tethers magnitizes older tethered opponents to the newest tethered opponent
+
+-   +1 Ether
+-   +5 Reservior
 -   +2 Health
 
  |

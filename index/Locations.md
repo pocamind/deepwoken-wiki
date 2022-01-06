@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 8985
+revid: 9685
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,47 +10,61 @@ categories: [Locations]
 
 ## The Etrean Luminant
 
-### The Etrean Sea
+### **The Etrean Sea**
 
--   Etrea
-    -   Etris (Starting Island) - Note that Etris is the name of the **city**, not the island.
-    -   Etrean Wilds
-    -   Etris Docks
--   Isle of Vigils (Starting Island)
-    -   Temple's Approach
-    -   Temple of the Blade
--   Erisia Island
-    -   _Lower Erisia_
-    -   _[Upper Erisia](Upper_Erisia.md)_
-    -   [The Birdcage](The_Birdcage.md)
-    -   Viper's Jaw
-    -   _[Erisor's Church](<Erisor's_Church.md>)_
-    -   _[Towerstruck Lands](Towerstruck_Lands.md)_
-        -   _The Hidden Village_
-    -   _Tomb of the Nameless Soldier_
-    -   _The Temple of the Forgotten Flame_
-        -   _The Courtyard_
+#### Etrea
+
+-   Etris (Starting Island) - Note that Etris is the name of the **city**, not the island.
+-   Etrean Wilds
+-   Etris Docks
+
+#### Isle of Vigils (Starting Island)
+
+-   _Temple's Approach_
+-   _Temple of the Blade_
+-   _Eastern Interstitial Lighthouse_
+
+### **Erisia Island**
+
+#### _Lower Erisia_
+
+-   _Tomb of the Nameless Soldier_
+-   _Pathfinder's Respite_
+
+#### [_Upper Erisia_](Upper_Erisia.md)
+
+-   [_The Birdcage_](The_Birdcage.md)
+-   _Viper's Jaw_
+-   _[Erisor's Church](<Erisor's_Church.md>)_
+-   _[Towerstruck Lands](Towerstruck_Lands.md)_
+    -   _The Hidden Village_
+-   _The Temple of the Forgotten Flame_
+    -   _The Courtyard_
+-   _The Garden Reservoir_
     -   _[Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)_
     -   _Burning Stone Gardens_
         -   _[Rat's Den](<Rat's_Den.md>)_
--   [Minityrsa](Minityrsa.md)
-    -   Valley of Heroes
--   Eastern Interstitial Lighthouse
 
-### The Aratel Sea
+#### [Minityrsa](Minityrsa.md)
+
+-   Valley of Heroes
+
+#### **The Aratel Sea**
 
 -   Songseeker Wilds
 -   [Summer Isle](Summer_Isle.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Greathive Aratel](Greathive_Aratel.md)
--   Aratel Island
-    -   [Starswept Valley](The_Starswept_Valley.md)
-    -   The Lordsgrove
-    -   Bluster Rift
-    -   Merit's Reach
-    -   [Fort Merit](Fort_Merit.md)
+
+#### Aratel Island
+
+-   [Starswept Valley](The_Starswept_Valley.md)
+    -   _Lightkeeper Temple_
     -   Widow's Hollow
-    -   Lightkeeper Temple
+-   [The Lordsgrove](The_Lordsgrove.md)
+-   Bluster Rift
+-   Merit's Reach
+-   [Fort Merit](Fort_Merit.md)
 
 ### [The Void Sea](Voidsea.md)
 

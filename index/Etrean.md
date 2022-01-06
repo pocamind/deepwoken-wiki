@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 9377
+revid: 9653
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -68,4 +68,4 @@ Seeing as how **Molt** reduces the duration of positive effects as well as negat
 
 ## Notes/Trivia
 
--   Notes go here
+-   Suprisingly they're not that racist in Etris. In fact they're equal to all races but I can't say the same in Summer Isle

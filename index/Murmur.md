@@ -1,15 +1,16 @@
 ---
 title: Murmur
-revid: 9570
+revid: 9678
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Murmur
 
 ## Description
 
-Current information: A usable buff that increases attack speed and damage, in a trade off for draining ether. Needs further testing and research.
+Current information: A usable buff that increases attack speed and damage, in a trade off for draining ether. (Needs further testing and research)
 
 ## Obtainability
 
@@ -40,10 +41,10 @@ Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) wi
   <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether.</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td><figure>File:Adagio.jpg<figcaption></figcaption></figure></td>
+  <td>Adagio</td>
+  <td>An application of the song that allows you to slow down time in a bubble around you. Press H to activate.</td>
+  <td>Slows down entities that are within your bubble. (i think atleast)</td>
 </tr>
 </tbody>
 </table>

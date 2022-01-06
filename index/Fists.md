@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 9098
+revid: 9655
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,3 +39,4 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 ## Trivia/Notes
 
 -   Jus Karita fighting style can't equip a caestus. (If you have two fist styles and try to equip a caestus on Jus Karita, The game will forcably switch you to the other fist style with either Way of Navae or Legion.)
+-   DO NOT UNDERESTIMATE A FIST USER THEY CAN SHRED YOUR HP FASTER THAN BLACK OWL STOMPING YOUR SORRY LIFE

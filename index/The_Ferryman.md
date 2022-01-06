@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 9536
+revid: 9670
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 -   **Lightning Clones** - The Ferryman summons two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path.
--   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion.
+-   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack when below half health.
 -   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses Grand Javelin when below half health.
 
 ### Finishers
@@ -32,9 +32,12 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious, godlike entity re
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
 -   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn.
 -   **Luck** - You receive a massive amount of luck for your card draws.
+-   **A Chest -** Might just be Earrings, during the summer, does not drop on subsequent attempts
 
 ## Trivia/Notes
 
+-   When the Ferryman's health goes below half, the music that plays in the background changes into a faster version of the previous song.
+-   Under half health, Lightning Assault and Lightning Strike become much faster.
 -   The Ferryman is unlikely to be directly related to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) with the same name.
     -   However, they both possess godlike powers and mock (to varying degrees) the mortals that come to meet them. They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.

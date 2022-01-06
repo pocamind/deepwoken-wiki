@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 9368
+revid: 9641
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,15 +9,15 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Bandit Assassin is NPC Type enemies that are found in the all over Erisia. Wears black.
+A Bandit Assassin is an NPC-Type enemy that are found in the all over Erisia. Wears black.
 
-They would usually be in a group of 3 Assassin bandits
+They will usually be in a group of 3 Assassin Bandits
 
-### Moves
+## Moves
 
--   **Dagger: Fast Normal M1 hits**
+-   **Dagger: Fast M1 hits**
 
-### Tips
+## Tips
 
 -   You can usually one shot assassinate them.
 

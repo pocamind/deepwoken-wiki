@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 8746
+revid: 9624
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,8 +18,8 @@ White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and
 
 ## Moves
 
--   **Light attack** - Angel has M1s that deal 20-30 damage each hit. **Heavy hitting enemies, fight them with caution.**
--   **Light Gun** - Rise into the air and shoot 5~ bullets of light that explode and deal damage, stunning.
+-   **Light Attack** - Angel uses Spear M1s which deal 20-30 damage each hit.
+-   **Light Gun** - Rise into the air and shoot ~5 bullets of light that explode and deal damage, stunning.
 
 ## Located
 
@@ -28,7 +28,8 @@ White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and
 
 ## Note
 
--   You **will most likely** have to fight an angel if you are going for [Oath Blindseer](Oaths.md), there is a Seeker located in the area where you must obtain it which gives little to no room to sneak around
+-   **Heavy hitting enemies, fight them with caution.**
+-   You **will most likely** have to fight an Angel if you are going for [Oath Blindseer](Oaths.md), there is a Seeker located in the area where you must obtain it which gives little to no room to sneak around
 -   Only 1 angel is summoned and I've found it considerably easier to Fight/Kill than the 2 spawned in [The Depths](The_Depths.md)
 
 -   It is extremely easy to run away from Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.

@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 8982
+revid: 9626
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,4 @@ The _Gold Plate_ is an item only obtainable from enemies in the Rat's Den. When 
 
 ## Trivia/Player notes
 
--   The bouncer/guard infront of the establishment is invincible, yet will not grip you. Use him as farming fodder.
+-   The bouncer/guard infront of the establishment has tons of hp, yet will not grip you. Use him as farming fodder.

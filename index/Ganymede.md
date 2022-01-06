@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 9585
+revid: 9654
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -20,7 +20,7 @@ _"Peculiar fold often known for their wisdom and intelligence. Though quite rare
 <tbody>
 <tr>
   <td>File:Navae's Guidance.png</td>
-  <td><b>Navae's Guidance</b>
+  <td><b>Deep Folk's</b>
   <ul>
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.</i>"</li>
     <li>+1 Health</li>
@@ -55,10 +55,11 @@ Insanity Resistance
 
 ## Weaknesses
 
-N/A
+There is no weakness
 
-## Notes
+## Trivia
 
 -   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Looks similar to cipher from the Valorant series.
+-   Do you know that Ganymede is a jupiter moon? A little fun fact

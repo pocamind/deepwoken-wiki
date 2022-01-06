@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 7559
+revid: 9671
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -133,3 +133,5 @@ _Purchased from Mantra Shops at any area._
 
 -   Upon spawning, you will be given a Training Item correlated with your highest stat (for example, if your highest stat is strength, you will spawn with a dumbell).
 -   All Training Items, besides the one you spawn with, will require [notes](Notes.md) to purchase.
+-   When using "How to Make Friends," players nearby will be forced to respond with various phrases such as 'Err...' or 'I dont have time for this...'
+    -   If your charisma is higher than 33, players around you will say different, less negative phrases such as 'Mhm.' or 'Oh, sure.'

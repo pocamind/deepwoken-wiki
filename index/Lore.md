@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 9560
+revid: 9684
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -63,6 +63,7 @@ The Duke
 "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in Medium Weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
+-   Presumably a galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's blade" talent which infuses galebreath upon inhaling a spell.
 
 ### Akira, The Black Diver
 
@@ -75,6 +76,8 @@ _"Another one..? You've got to be kidding me." - Akira_
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 
 **The Meat Lord**
+
+_**Ey migi vuru?**_
 
 (Placeholder)
 
@@ -108,16 +111,14 @@ _"Another one..? You've got to be kidding me." - Akira_
 ### The Kingdom of Etrea
 
 -   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
+-   **Encountered In:** _Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
 -   **Alliances:** _Vigil of Winds (Neutral)_
 -   **Enemies:** _The Central Authority, The Hivemind, The Contractors_
 
-#### Etrea
-
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority.
 -   Their appearance can be distinguished by their white/green armor.
--   Are enemies of The Adretian Authority.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -126,6 +127,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro" (meaning "master" or "teacher" in Italian).
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
+-   Presumably connected to the galebreathe attunement, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (galebreathe exclusive) make mention of the vigils.
 
 ### Children of Navae
 
@@ -148,8 +150,10 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The 11th Legion of the Cloudjumper Empire
 
--   Located In: Erisia, Aratel
--   Attunements: Galebreath
+-   **Encountered In:** _Erisia, Aratel Island_
+-   **Attunements:** _Galebreathe_
+-   **Alliances:** _Unknown_
+-   **Enemies:** _Unknown (Presumably Kingdom of Etrea)_
 -   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hivemind.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
@@ -159,8 +163,9 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### Songseekers
 
--   **Locations Encounter In**: Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)
--   Attunements: Flamecharm, Thundercall, Frostdraw
+-   **Territory:** _Unknown (Presumably Aratel Island)_
+-   **Encountered In**: _Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)_
+-   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   Strangely, there seem to be no Galebreath songseekers.
 -   A colony of Tribesmen that worship the Song. Known as Masters of the Elements.
 -   They all wear colored masks which match the element they use. They learn only Martial Arts and Attunements.
@@ -209,7 +214,13 @@ A Dark Mage, located in Minityrsa.
 
 ### The Ignition Union
 
-(Placeholder)
+-   **Territory:** _Unknown_
+-   **Encountered In:** _Summer Isles_
+-   **Attunements:** _Flamecharm_
+-   **Alliances:** _Unknown_
+-   **Enemies:** _Summer Company_
+
+-   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company
 
 ### The Central Authority
 
@@ -276,7 +287,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### City of Celtor
 
--   Before the Tides, The City of the Drowned was once a City, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
+-   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
 
 ### Life before the Tides
 
@@ -288,9 +299,9 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
 #### The Origin of Adrets
 
--   The Adret has no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc).
+-   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc). This seems to be many races main point of contention with them, viewing them as alien.
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
--   They may be based off of fish. There is seemingly no evidence to suggest that they are not.
+-   Some believe they may be based off of fish.
 
 ## Deepwoken: ~1271
 
@@ -313,19 +324,19 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Kingdom of Etrea's Past Rulers
 
 -   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
--   The Past Rulers of Etrea has a record of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. But during The Lord Regent's ruling, the Office was suspended.
+-   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However during The Lord Regent's ruling the Office was suspended.
 -   The pillar that house 4 statues near Etris, are presumably the Past Rulers.
 -   There were 6 Total Rulers of Etrea; the 4 past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
 
 ### Driftlands
 
 -   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
--   Driftlands has experienced a sort of Time Stasis during its time in The Depths, and resumed back to the Luminant.
+-   Driftlands have experienced a sort of Time Stasis during their time in The Depths, but have resumed back to the Luminant.
 
 ### Resonance Bells
 
--   Handheld Bells that allows the wielder to perform things that are impossible for the common people. Examples of Resonance Bells is The Duke's Bell, which allows him to create Golems.
--   Their origin is unknown, but it is theorized to be in [The Depths](The_Depths.md).
+-   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
+-   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 
 ## Miscellaneous (Doesn't fit into a specific category)
 

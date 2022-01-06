@@ -1,40 +1,112 @@
 ---
 title: Alchemy
-revid: 7750
+revid: 9625
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alchemy
 
-_**hey, just saying, we might have to move alchemy recipes to Recipes and Alchemy**_
+This page contains most of the wiki's information on alchemy. Since the wiki is not very organised, there's some information on Recipes & Alchemy that isn't repeated here yet.
 
-**brewing is fun**
+A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and the effects of most potions. If you don't care how alchemy works and just want to make a health potion, you should stop reading and just use the spreadsheet.
 
-  
+## Basics
 
-### Basic information
+### Brewing Potions
 
-needs 20+ inteligence to get cauldron
+To do alchemy, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion.  
+There is only one functioning cauldron in the game, found in a hut on a hill near the guild hall on [Etris](Etris.md), next to the Frostdraw trainer. You can also create your own cauldron using an intelligence mantra, which appears at around 20 intelligence.
 
-skill to create cauldron appears at mantra choosing
+Almost all talents and mantras related to alchemy **only appear after brewing your first potion**. If you want to get all the alchemy talents, ensure you brew a potion at Etris early on.
 
-press E to throw potion
+Adding too many ingredients to a potion will dilute it, and the potion will do almost nothing. A maximum of **5** ingredients can be added to a potion before it is diluted, and any individual ingredient can be added a maximum of **3** times.  
+For example, you can make a powerful speed potion using 3 [Pomars](Pomar.md) and 2 [Spider Eggs](Spider_Egg.md), but if you brew a potion using 4 Pomars, or 3 Pomars and 3 Spider Eggs, you will just get a useless diluted potion.
 
-while near cauldron press m1 to put ingredient in cauldron and E to mix cauldron and get potion
+### Potion Names
 
-if colour of your liquid is white, there will be no effect
+Potions are given two word names based on their effect and strength.
 
-  
-random fact: if you go too far away from cauldron it will dissapear, otherwise it will last forever.
+Potions only have one effect (even if you mix different effect ingredients), shown by the first word of their name. For example, all _Icky_ potions will instantly heal you, and then drain your ether.
 
-### some random recipes.
+The second word of a potions name indicates its strength - however the word depends on the type of potion.
+
+-   Negative potions are very consistent - they almost all have two tiers, Blight and Bane (with Bane always being stronger).
+    -   An exception to this rule is _Appalling_ potions, which have Blight and Potion tiers (with Potion being stronger).
+-   Most positive potions have three tiers - Elixir, Salve and Tincture. The hierarchy depends on the effect of the potion.
+    -   For example, _Invigorating_ potions go Elixir < Tincture < Salve, whereas _Soothing_ potions are reversed.
+-   Some positive potions have Elixir, Potion and Remedy tiers instead. Again, the hierarchy depends on the potion.
+
+### Using Potions
+
+Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion will prevent you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. All potions share a 10 second "potion cooldown", represented by the tiny potion symbol in a circle under the health bar. If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
+
+You can also throw potions by holding them and pressing E - this usually applies a weaker version of potion effect to anyone standing near the potion when it explodes, though most potions with positive effects will apply a different (negative) effect when thrown. You can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down.
+
+## Ingredients and Mechanics
+
+We still haven't figured out exactly how alchemy works, but our best understanding is something as follows:
+
+Potions only have one effect, even if you mix different effect ingredients. The resulting effect of a potion is determined by the quantity and "power" of the ingredients - for example, urchins have the highest "power" of any ingredient, and mixing an urchin with another ingredient will always result in a Mindbreaker potion. Adding ingredients with low "power" (such as browncaps) to a potion can often increase the potion's tier without changing the effect, which can be used to save more expensive ingredients like Urchins or Plumfruit.
+
+Adding more ingredients to a potion will usually increase its tier (strength). For example, a single [Browncap](Browncap.md) makes a _Disgusting Blight_, but using two creates a _Disgusting Bane_, which deals more damage. In most cases, potions with the same name have the same effect - adding a third Browncap to a potion will create a _Disgusting Bane_ that does the same amount of damage as one brewed with only two mushrooms.  
+However, certain talents (such as Apothecary) and ingredients (such as Spider Eggs and Beeswax) will change the attributes of a potion without changing its name - the different potions will all stack together. Higher intelligence supposedly also increases the strength of potions, though I've not tested this.
+
+There are 23 (known) potion ingredients, though only 12 can be used to brew potions by themselves.
+
+-   Bamboo Bundle - used to create _Appalling_ potions, which drain reservoir.
+
+-   Bluecap - used to create _Heartening_ potions, which instantly restore sanity and reservoir. Deals damage when thrown.
+
+-   Browncap - used to create _Disgusting_ potions, which deal a small amount of damage.
+    -   Deals good damage for a throwing potion, but it's still pathetic. Even when brewed with every bonus, these will deal less than 5% damage even against significantly weaker opponents. At least they're cheap?
+
+-   Calabash - used to create _Steadfast_ potions. These heavily drain elixir when drunk, and deal a small amount of damage when thrown.
+    -   Presumably have another effect when drunk (perhaps damage reduction), but currently unknown.
+
+-   Dentifilo - used to create _Soothing_ potions, which deal damage and restore reservoir. When thrown, deal a small amount of damage, and drains a small amount of thirst.
+
+-   Gathered Wheat - primarily used to create _Dulling_ potions, which restore ether when drunk, and have an unknown effect when thrown. Also used to create _Focus-Enhancing_ potions, which drastically increase the rate ether is drawn from the reservoir.
+    -   Dulling potions are actually a Bane, so presumably they have some negative side effect.
+    -   Focus-Enhancing potions can be made in a variety of ways, though the cheapest is using a wheat and a browncap (plumfruit also work, as do redds but you need the correct ratio). The potion is one of the few (known) potions that can't be made with a single ingredient.
+
+-   Gobletto - used to create _Invigorating_ potions, which give you a brief regeneration effect. Unknown effect when thrown - possibly a very subtle slow.
+    -   Important to note - goblettos have very low potency, so it's impossible to brew a potion stronger than the lowest tier (Elixir) with just goblettos. If rarer ingredients aren't available, the cheapest Invigorating potion is brewed with one gobletto and any filler (such as a stick, or a browncap).
+    -   The Wild Alchemy talent can let you brew Tinctures (mid tier) using 3 goblettos, or you can add a plumfruit which creates a Salve (highest tier) for reasons beyond my understanding of alchemy.
+
+-   Ongo - used to create _Buckling_ potions. Effect unknown.
+
+-   Plumfruit - primarily used to create _Grueling_ (increase reservoir draw) and _Strengthening_ (increase physical damage) potions, depending on how many are used. Can be combined with wheat to brew _Focus-Enhancing_ potions (drastically increase reservoir draw), or a gobletto to create _Invigorating_ potions (health regeneration).
+    -   Grueling potions are brewed using a plumfruit and a filler (or two plumfruit), Focus-Enhancing potions are brewed using a plumfruit and a wheat, Strengthening potions can be brewed with either three plumfruit (creating a Salve), or a plumfruit and a sap or a browncap (creating a Tincture).
+    -   Invigorating Salves can be brewed with one plumfruit and one gobletto. This is notable for being more powerful than invigorating potions brewed using only goblettos.
+
+-   Pomar - used to make _Hastening_ potions, which deal a small amount of damage and give a 15 second speed boost when drunk. Unknown effect when thrown.
+
+-   Redd - used to make _Icky_ potions, which drain elixir and instantly restore health when drunk, and drain elixir when thrown.
+
+-   Urchin - used to create _Mindbreaker_ potions, which greatly lower sanity.
+    -   Notable for overpowering every other ingredient - mixing an urchin with any other ingredient always produces Mindbreaker potions.
+    -   Also notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
+
+Eggs, fish meat, beeswax, sticks and minerals (coal, iron, stone, irithine, and ect.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone. Potions with only a single ingredient appear to have a strength penalty, which can be avoided by adding a "filler" ingredient (such as a stick). Adding filler ingredients to a potion with at least 2 ingredients already will do nothing.
+
+Sap and beeswax are unique as ingredients which create Nothing Potions when used alone, but can be combined with other ingredients to change the effect of the potion.
+
+Finally, beeswax and spider eggs increase the duration of potions when added (seems to be about 50% per egg, didn't try beeswax).
+
+## Assorted Ramblings of Alchemists
+
+A bunch of people have visited this page and added their alchemy notes to it. I'm way too lazy to condense it all into a real article, so I'm just keeping it at the bottom. If you want to learn more about alchemy (or DM some other alchemists), there's some stuff here.
+
+### some recipes
 
 1 Bluecap, 1 Calabash, 1 Spider Egg - Heartening Elixir (?? Effect - probably healing or blood regeneration though)
 
 2 Browncaps, 1 Gathered wheat - Focus-Enhancing Salve
 
 uhhh thats it lol!!!!!
+
+### felinor with more recipes
 
 **Hi, Felinor here, I found out some recipes! (miodrag333) (Anja <3#3252)**
 
@@ -62,7 +134,8 @@ uhhh thats it lol!!!!!
 
 3x Ongo = Staggering Potion (don't know what this does) (Then drink it stupid)
 
-  
+### different person
+
 different person here (Chronos#6591)
 
 AS A Certain Young man said below, spider eggs do indeed buff potions (buff the duration)
@@ -81,6 +154,8 @@ Alchemy Chart by bobbio76#2916
 
 Blank Spots are untested  
 \-----------------------------------------------------------
+
+### someone explains the basics
 
 Ok. Wake#7067 here, I have been an alchemist for about 12 hours. If you have any extra information, please DM me immediately.
 
@@ -145,7 +220,8 @@ for the rest I don't have enough ingridients atm to figure out any other stuff s
 
 * * *
 
-  
+### more potions
+
 _**Sewer#7160**_ following up on the previous post, I've been doing alot of testing with my friends on alchemy, mostly using them as test subjects for my potions, and lets just say I got some information for any aspiring alchemists:
 
 **Strengthening potions**
@@ -234,7 +310,8 @@ There are also effects like grueling bane and such that I haven't tested well ye
 
 Ingredients like sap, spider egg, urchins, coral, scallops, and fish don't have any "base effects", but they might be used to enhanced the effects of certain potons.
 
-  
+### slenderman has a couple things to add
+
 Hi, SlenDaMan64#1618 here, been an alchemist for about 4 days, with a couple of things to add, which I covered a bit in a comment on this page
 
 side note to all of alchemy: when testing new ingredients pay attention to cauldron colour, if it's white then it's a nothing tincture

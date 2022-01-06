@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 9343
+revid: 9591
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -76,5 +76,4 @@ N/A
 
 ## Notes/Trivia
 
--   racoon
--   you cannot eat garbage, this should be considered a weakness
+-   Based off of racoons, it is unfortunate that they cannot eat garbage.

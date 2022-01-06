@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9582
+revid: 9648
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -78,7 +78,7 @@ Hand of Mantra Cards
     -   Prerequisites: Agility | Benefit: Retain normal movement speed when crouching.
 -   Conditioned Runner \[Generic Talent, Rare Talent\] You regenrate health faster than normal when running (+1 Passive Agility)
 -   Endurance Runner \[Generic Talent, Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
-    -   Prerequisites: Agility | Benefit: No clue yet.
+    -   Prerequisites: Agility | Benefit: Negates Movement Speed Penalty when low health.
 
 ### Amoran Seeker
 
@@ -251,6 +251,8 @@ Hand of Mantra Cards
 -   Expert Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
 -   Master Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
 -   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
+    -   Prerequisites: Flamecharm
+-   Unyielding Inferno \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
     -   Prerequisites: Flamecharm
 
 ### Galebreather
@@ -513,6 +515,8 @@ Hand of Mantra Cards
 ### Undying Ember
 
 -   Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
+    -   Prerequisites: Flamecharm
+-   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: Flamecharm
 
 ### Vow of Mastery
