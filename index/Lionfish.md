@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 9507
+revid: 9922
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -42,7 +42,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 ## Notes
 
--   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish. **(not really you can solo it at power 1, just dash the lazer beam and stand under it so it doesnt bite you)**
+-   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish. **(not really you can solo it at power 1, just dash the laser beam and stand under it so it doesnt bite you)**
 -   Lionfishes do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   Mouth Laser is most likely a reference to the ability Cero from the anime Bleach due to the visuals, sounds and charge up

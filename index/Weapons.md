@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 9551
+revid: 9873
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -439,6 +439,17 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
 </tr>
 <tr>
+  <td>Serpent's Edge</td>
+  <td>40 MED</td>
+  <td>Sword</td>
+  <td>22</td>
+  <td></td>
+  <td>6</td>
+  <td>6</td>
+  <td>8.5</td>
+  <td>0.75x</td>
+</tr>
+<tr>
   <td>Shotel</td>
   <td>45 MED</td>
   <td>Sword</td>
@@ -447,17 +458,6 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
   <td></td>
   <td></td>
-</tr>
-<tr>
-  <td>Serpent Blade</td>
-  <td>45 MED</td>
-  <td>Sword</td>
-  <td>22</td>
-  <td></td>
-  <td>6</td>
-  <td>6</td>
-  <td>8.5</td>
-  <td>0.75x</td>
 </tr>
 <tr>
   <td>Warden Ceremonial Sword</td>
@@ -496,7 +496,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>80 MED</td>
   <td>Spear</td>
   <td>20</td>
-  <td>40%</td>
+  <td>25%</td>
   <td>8</td>
   <td>5</td>
   <td>9</td>
@@ -506,7 +506,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Shattered Katana</td>
   <td>100 MED</td>
   <td>Sword</td>
-  <td>22</td>
+  <td>20</td>
   <td>25%</td>
   <td>7</td>
   <td>5</td>

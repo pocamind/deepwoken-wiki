@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9693
+revid: 9838
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -10,7 +10,13 @@ categories: [Talents]
 
 _"Your training finally bears fruit..." - Card Selection Flavour Text_
 
-## Description
+<table>
+<tbody>
+<tr>
+  <td>Description</td>
+</tr>
+</tbody>
+</table>
 
 Talents are the main aspect of your character's build. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 9714
+revid: 9894
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,265 +18,267 @@ _"I've always wanted to see what the 'LGBTQ' enchant did to people!"_
 </tbody>
 </table>
 
-Enchants are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment.
 
-There are three variants that enchants come in:
+There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
 -   **Curses** - They have a very strong effect but a large downside.
--   **Blessings** - They have a strong effect with a small downside or none at all.
 
-## List of Enchants
+## List of Enchantments
 
-_The information below may not be accurate. Many enchants are yet to be discovered, or have unknown effects._
+**Weapons:**
 
-### Curse of the Umbral Knight
+Will have an effect upon hitting something.
 
--   Pros: When landing an M1 on a monster or person, it summons a shadow clone of yourself behind the enemy and does an exact replica of the M1.
--   Cons: If you don't grip 1 person per day, you will get absorbed into the blade.
-    
-    File:Curse of the umbral knight in Infernasu's video.jpg
-    
-    _The Curse of the Umbral Knight, as showcased in Infernasu's video._
-    
+**Curses:**
 
-### Curse of the Bloodthirsty
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Description</b></td>
+</tr>
+<tr>
+  <td><figure>File:Curse of the umbral knight in Infernasu's video.jpg<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
+  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them. If you don't grip atleast one person per day, the Umbral Knight will absorb you into the weapon and kill you.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><div><p>M1s deal more damage and steals blood from your enemies. If you miss an M1, you will take damage.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
+  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. Dying will instantly send you to the Depths.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><div><p>M1 connections have a small chance to deal three times damage to the opponent. However, it also has a five percent chance (?) to deal significant damage to the user.</p></div></td>
+</tr>
+</tbody>
+</table>
 
--   Pros: M1s deal more damage (exact amount unknown). Steals blood from your enemies.
--   Cons: When you miss a M1, you will take damage (dodging and parrying doesn't count).
-    
-    File:Curse of the Bloodthirsty.jpg
-    
-    _Curse of the Bloodthirsty_
-    
+**Regular:**
 
-### Curse of the No-Life King
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Description</b></td>
+</tr>
+<tr>
+  <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><div><p>The more HP you have, the more damage you do. At max HP, your M1s will deal 25% more damage. Conversely, the less HP you have, the less damage you do. Being at low HP will reduce your M1 damage significantly. Also gives your M1s hyperarmor.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent four times. The fourth hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
+  <td><div><p>Every M1 connection will have a 20% chance of lighting your opponent on fire. A higher Flamecharm stat will make this enchantment more effective.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><div><p>Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><div><p>Increases M1 stun, visualized by the lightning shock. In the rain, every M1 connection will summon a bolt of lighting on the opponent, increasing damage by approximately 1.4% (?)</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Increases M1 speed. The hard visibility of the weapon can be used to your advantage, as the range will remain unknown to your opponent.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><div>Sear</div></td>
+  <td><div><p>Attacks will drain the opponent's thirst.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
+  <td><div><p>Increases M1 speed drastically. Any posture damage that the other person inflicts will be reflected back to them. Also removes movement speed penalties. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
+  <td><div><p>Attacks will steal the target's thirst and hunger.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><div><p>Every M1 connection will apply a "fear stack" on your opponent. Hitting an opponent with a fear stack will increase M1 damage inflicted to them. Basically curse stacks from Rogue Lineage.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
+  <td><div><p>Attacks let you hit multiple opponents at once, so long as they are near the person you hit.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
+  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals their armor as well.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
+  <td><div><p>Attacks deal damage-over-time instead of instantly.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
+  <td><div><p>Every parry you do deals damage to the opponent you parried.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><div>Stone</div></td>
+  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
+  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Chilling.png<figcaption></figcaption></figure><div>Chilling</div></td>
+  <td><div><p>Every M1 connection has a chance to freeze the opponent.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
+  <td><div><p>Every M1 connection regenerates a portion of HP. Heals slightly less from hits towards players.</p>
+  <p><br>
+  </p></div></td>
+</tr>
+</tbody>
+</table>
 
-File:Image 2022-01-05 195102.png
+**Armors:**
 
--   Pros: Combat-only HP regen buff and M1 deals more dmg.
--   Cons: You have only one life and cannot gain more. When dying, you are instantly sent to the [Fragments of Self](Fragments_of_Self.md).
+Will have an effect upon getting hit.
 
-### Blessing of Heroism
+| **Name** | **Description** |
+| --- | --- |
+| 
+Entanglement
 
--   Pros: M1s deal 25% more damage at max health. They also have hyperarmor.
--   Cons: M1s deal less damage at low health.
-    
-    File:Hero Blessing.jpg
-    
+ | 
 
-### Detonation
-
--   Pros: Every 4th hit makes your enemy explode. If their health is low enough, they will get executed by the explosion. Deals AOE damage.
--   Cons: If you aren't careful, you might hit your allies and knock/kill them.
--   [How it looks](https://streamable.com/yjazax)
-    
-    File:Detonation.jpg
-    
-    **Detonation**
-    
-
-### Blazing
-
--   Pros: Every time you hit an enemy, you have a 20% chance of lighting them on fire.
--   Cons: None
-
-### Bungee Gum
-
--   Pros: Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.
--   Cons: Makes backing out of a fight more difficult.
-    
-    File:Gum.jpg
-    
-    _Bungee gum possesses the properties of both rubber and gum._
-    
-
-### Storm
-
--   Pros: Increases stun. In the rain, every attack will summon a bolt of lighting, increasing damage by approximately 1.4%.
--   Cons: Unknown
-    
-    File:Storm enchant.png
-    
-    Storm enchant on a Crescent Cleaver
-    
-
-### Obfuscation
-
--   Pros: Increases M1 speed. The weapon becomes invisible, becoming shrouded with air.
--   Cons: ~Useless on swords~. The hard visibility of the weapon can be used to your advantage, as the range will remain usually unknown to your opponent.
--   Feints are harder to perform.
-    
-    File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg
-    
-    _Obfuscation (Notice the air particles)_
-    
-
-### Sear
-
--   Pros: M1s drain the target's thirst.
--   Cons: Unknown
-
-### Providence of Storms
-
--   Pros: Increases M1 speed drastically, allowing heavy weapons to be swung like daggers. Any parry damage that the other person inflicts will be reflected back to them. Removes movement speed penalty.
--   Cons: None
-    
-    File:Providence.png
-    
-    _Providence of Storms on an Enforcer's Axe_
-    
-
-### Gluttony
-
--   Pros: M1s steal the target's thirst and hunger.
--   Cons: Unknown
-    
-    File:Gluttony.png
-    
-    Gluttony on a Crescent Cleaversilver dagger
-    
-
-### Curse of Yun'Shul
-
--   Pros: Every hit has a small chance to deal 3x damage to the target.
--   Cons: Every hit has a 5% chance to deal significant damage to the user. [https://medal.tv/games/roblox/clips/6QEB7uw0H\_U2w/d1337HTY9kfo?invite=cr-MSxnd0UsMTMyNDUyNTEs](https://medal.tv/games/roblox/clips/6QEB7uw0H_U2w/d1337HTY9kfo?invite=cr-MSxnd0UsMTMyNDUyNTEs)
-    
-    File:Curse of yun shul.png
-    
-    **Me with a Steel Maul with the Curse of Yun'Shul**
-    
-
-### Grim
-
--   Pros: Unknown
--   Cons: Unknown
-    
-    File:Grim.png
-    
-    _Grim on a Messer(?)_
-    
-
-### Wild Blessing
-
--   Pros: If you hit someone it has a chance to hit everyone around them. Successful hits have a chance to deal AOE damage.
--   Cons: Can hit allies as well (not proven).
-
-File:Wild sword.png
+Upon getting hit, it has a chance of summoning a tree in front of you. Has a damage reduction effect.
 
   
 
-### Metal
+ |
+| 
 
--   Pros: Every hit refunds some of your armor. If the enemy is a player, it steals their armor as well.
--   Cons: Unknown
-    
-    File:Metal.png
-    
-    Metal
-    
+Allure
 
-### Deferred
+ | 
 
--   Pros: Attacks deal damage-over-time instead of instantly. Especially good for fights that are bound to be long.
--   Cons: The damage-over-time might be less useful than instant damage, especially in shorter fights.
-    
-    File:Deferred.png
-    
-    _Deferred on a Messer_
-    
+Upon getting hit, it will apply a charm effect on the opponent. Charm causes you to deal 25% more damage to them, and they will deal 25% less damage to you.
 
-### Providence's Thorn
+ |
+| 
 
--   Pros: Every parry you do deals damage to the creature or player you parried.
--   Cons: None
-    
-    File:RobloxScreenShot20211228 210555026 (2).png
-    
-    Providence's Thorn
-    
+Multiplicity
 
-### Stone
+ | 
 
--   Pros: Deals 25% posture damage to enemies if they are not blocking.
--   Cons: None
+Upon getting hit, it has a chance of summoning a clone of the attacker. The clone will defend you and attack the opponent. This enchantment is currenty disabled and will be replaced.
 
-### Tainted Sorrow
+  
 
--   Pros: After landing an M1, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.
--   Cons: Unknown
-    
-    File:Tainted sorrow.png
-    
-    _Tainted Sorrow on a Legion Cestus_
-    
+ |
+| 
 
-### Chilling
+Stench
 
--   Pros: Each hit has a chance to freeze the opponent.
--   Cons: Able to freeze allies.
-    
-    File:Chilling.png
-    
+ | 
 
-### Vampirism
+Upon getting hit, your armor releases toxic gas.
 
--   Pros: Each hit regenerates a portion of health (Might scale with Max HP.) Heal slightly less from hits towards players.
--   Cons: Unknown
-    
-    File:Vampirism.png
-    
-    Vampirism on a Vigil Longsword
-    
+  
 
-## Armor
+ |
+| 
 
-### Entanglement
+Adhesive
 
--   Pros: Upon getting hit, trees are summoned similarly to the mechs on [Minitryrsa](Minityrsa.md) and [Starswept Valley](The_Starswept_Valley.md).
--   Cons: Unknown
+ | 
 
-### Allure
+Flourishing an enemy fires homing projectiles upon them. (?)
 
--   Pros: Applies charm on an enemy if you get hit by an enemy or if they hit you. Charm causes you to deal 25% more damage to them, and they will deal 25% less damage to you.
--   Cons: None
+  
 
-### Multiplicity
+ |
+| 
 
-_Note: Currently disabled. It is due to be replaced with a new enchant in a later update._
+Bounce
 
--   Pros: Upon getting hit, the armor summons clones of the attacker that will target their original.
--   Cons: Unknown
+ | 
 
-### Stench
+Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block. This does not work on NPCs.
 
--   Pros: Upon getting hit, your armor releases toxic gas.
--   Cons: Unknown
+  
 
-### Adhesive
+ |
+| 
 
--   Pros: Flourishing an enemy fires homing projectiles upon them.
--   Cons: Unknown
+Viscosity
 
-### Bounce
+ | 
 
--   Pros: Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block.
--   Cons: ONLY knocks back players. Does not work against NPCs.
+Damage dealt to the user is reduced and dealt over time. Recommended to use potions to more-or-less negate the DOT.
 
-### Viscosity
+  
 
--   Pros: Damage dealt to the user is reduced and dealt over time. Recommended to use potions to more-or-less negate the DOT.
--   Cons: You may die quite easily if you cannot manage your health properly with this enchant.
+ |
+| 
 
-### Drowned
+Drowned
 
--   Pros: The user swims faster in water.
--   Cons: Unknown
+ | 
 
-### Displacement
+The user swims faster in water. (?)
 
--   Pros: Upon getting hit, the user has a chance of getting teleported a short distance.
--   Cons: Unknown
+  
+
+ |
+| 
+
+Displacement
+
+ | 
+
+Upon getting hit, the user has a chance of getting teleported a short distance.
+
+  
+
+ |
 
 Credits to the people who made this page better:
 

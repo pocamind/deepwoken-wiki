@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 9699
+revid: 9751
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -9,8 +9,6 @@ categories: [Oaths]
 # Oaths
 
 ## Description
-
-no
 
 You may only have one Oath per character slot, so it is best to pick what Oath you're trying to get at the start of your journey as you will be locked into it forever. Oaths do not carry over if a character gets wiped.
 
@@ -24,7 +22,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   None.
+-   Power 30;
 
 ### How to obtain:
 
@@ -40,7 +38,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ## Notes
 
--   The easiest Oath to obtain, as it only requires the player to reach Power 30;
+-   The easiest Oath to obtain, as it only requires the player to reach Power 30.
 
 <table>
 <tbody>

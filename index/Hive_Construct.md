@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 9529
+revid: 9777
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -45,3 +45,8 @@ The most reliable cheese spot at Starswept Valley in my experience.
 -   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and no known ones at Buster Valley.
 -   Can absolutely booty blast you even at level 60 if youre solo
 -   Not worth fighting
+-   They talk
+    
+    File:VLGf7ZV.png
+    
+    A hive golem talking.

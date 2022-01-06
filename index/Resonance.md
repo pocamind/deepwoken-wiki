@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 9561
+revid: 9895
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -24,9 +24,13 @@ _**Pressing C triggers resonance**_
 
 **Confirmed method by multiple resonance users, Kanorogue#6037.**
 
--   Get a ton of luck then knock yourself in depths. It is really that simple. If you want proof of my bell go ahead and dm me I did not spend very long in the depths at all.
--   People say things along the lines of "max luck" when there is no way to tell when you've reached max luck. There is no such thing as a "timer" I know like 5 different people with resonances they will all say the same thing. Please stop editing this page just because you didn't get enough luck and sat there for 5 hours
--   **MULTIPLE** Resonance users have confirmed that you just need max luck (watch videos by no names making videos on how to get resonance and they all say "max luck", not staying in depths for 482399e+493 hours)
+It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat.
+
+You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
+
+While there is no level or criteria required to get a bell besides max Progress, max Progress requires so much time of playing that it will be most likely that you obtain one at a high level.
+
+Tldr: it's basically luck but you can't lose it and it has a much higher max.
 
 ## How Do You Change A Resonance?
 
@@ -40,7 +44,7 @@ _Hit Reflection showcased by Bracting._
 
 #### Effects:
 
--   Reflects all and any incoming damage back to the sender for around 5 or so seconds.
+-   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
 -   Variant 2: Works exactly the same, except you must first hit the opponent with a beam. Basically a worse version.
 
@@ -70,7 +74,7 @@ Phoenix fire effect
 -   Activating the resonances charges the ability, 1 level at a time. Can be done activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
--   Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)
+-   ~Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)~ NOT ANYMORE! bell is good because it does insane damage when you maxely charge it up. (literally does 90 dmg from 1 m1
 
   
 

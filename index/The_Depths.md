@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 9586
+revid: 9881
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,7 +34,7 @@ This is certainly a faster method to escape, although still poses the threat of 
 
 The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
 
-Completing your trial and escaping The Depths gives you a new talent "Depth Connection", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
+Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
 
 | Level | Possible Enemies |
 | --- | --- |

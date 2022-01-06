@@ -1,53 +1,66 @@
 ---
 title: Felinor
-revid: 9575
+revid: 9809
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Felinor
 
-Felinor is a [Race](Aspects.md) in Deepwoken
-
 ## Descriptions
 
-The cat-like people of the world, Felinor, are a strange folk as they isolate themselves from others of their own species. Almost considered direct opposites with the [Canor](Canor.md), a race of canine-like folk, even though they're also partially based on Lions.
+Template:Races-Main
 
-It has a 8.2% rollable race chance.
+_"Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
-Template:Race Box mark 2
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td>File:Nightchild.png</td>
+  <td><b>Nightchild</b>
+  <ul>
+    <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nible on wooden surfaces</i>"</li>
+    <li>Bonus agility when climbing wooden surfaces</li>
+    <li>Improved Stealth</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Charisma</li>
+    <li>+2 Agility</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellaneous
+
+**Lore:**
 
 ## Lore
 
-Unknown  
+Unknown
 
-## Appearance
-
-A race that has physical features resembling that of a cat, hence the name _Felinor_.
-
--   Cat ears.
--   4 Different variants, consisting of a paled-skin and almond coloured hair with golden eyes, a pale-grey skinned and light grey hair variant with emerald green eyes, a black skinned and black hair variant with golden eyes, and a very humanly peach-skinned with peach ears variant with white hair and red eyes.
-
-## Racial Abilities
-
--   Bonus agility when climbing on wooden surfaces.
--   Nightchild: Improved stealth.
+**Strengths:**
 
 ## Strengths
 
 -   +2 Agility
 -   +2 Charisma
+    
+
+**Weaknesses:**
 
 ## Weaknesses
 
--   **Hunted:** Due to their mild resemblance to furries/nekos, many players have taken it upon themselves to hunt felinors.
 -   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
+    
 
-<table>
-<tbody>
-<tr>
-  <td>Variants and aging.</td>
-</tr>
-</tbody>
-</table>
+## Notes
+
+-   Felinors may be attacked due to their race mildly resembling furries / nekos as many players have taken it upon themselves to hunt felinors.

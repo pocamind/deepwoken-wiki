@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 9704
+revid: 9863
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -48,7 +48,7 @@ categories: [Locations]
 
 -   Valley of Heroes
 
-### **The Aratel Sea**
+### **[The Aratel Sea](The_Aratel_Sea.md)**
 
 #### Aratel Island
 

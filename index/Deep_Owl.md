@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 9472
+revid: 9752
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Deep Owl
 
-_Also known as Black Owls, Giant Owls, Owls, Erdoganchi and The Big Black Man._
+_Also known as Black Owls, Giant Owls, Owls, Tyrone and The Big Black Man._
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 9651
+revid: 9912
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss]
+categories: [Boss]
 ---
 
 # Primadon, Titan of the East
@@ -17,11 +17,7 @@ _Also known as Sea Monkey, Gorilla, and Monkey._
 
 Loud and enormous, the Primadon is a giant with the appearance of a monkey with fins. The Primadon can be instantly spawned by offering 5 Megalodaunt hides (you can use any monster parts) to the fire in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
-~Having over 40 willpower will avoid you from getting sent to the depths due to dying from the Primadon, however having below 40 willpower you will be sent to the depths when dying from it.~ (False, you will always be sent to depths regardless of willpower). Like other world bosses, Primadon's health DOES scale with the amount of players attacking Primadon
-
-File:Seamonkey.png
-
-  
+I'm not sure how many times I have to correct this wiki but, when Primadon kills you (stomps you) you get insta sent to the depths unless you have 40+ willpower. I have tested this and you can literally not prove me wrong.
 
   
 
@@ -45,3 +41,4 @@ File:Seamonkey.png
 -   The footsteps of Primadon play a loud, noticeable noise and shakes your camera.
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.
 -   DO NOT drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
+-   You can summon Primadon with guild members/whoever you are farming with on boats just outside the island. Then once he is spawned they can all come onto the island without the Primadons' health scaling higher unlike if they were actually on the island.

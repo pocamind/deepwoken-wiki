@@ -1,47 +1,71 @@
 ---
 title: Lightborn
-revid: 7791
+revid: 9891
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Lightborn
 
 ## Description
 
-The stars call you back...
+Template:Races-Main
+
+_"Born from the stars with blood of those born of light. Though rarely seen, Lightborns exhibt vast amounts of knowledge and strength."_
 
 **Currently Unobtainable**
 
-Template:Race Box mark 2
+## Racial Traits
+
+<table>
+<tbody>
+<tr>
+  <td>File:Seaborne.png</td>
+  <td><b>Unknown</b>
+  <ul>
+    <li>It is unknown what talent is given to lightborns</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Strength</li>
+    <li>+2 Fortitude</li>
+    <li>+2 Agility</li>
+    <li>+2 Intelligence</li>
+    <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellaneous
+
+**Lore:**
 
 ## Lore
 
-none
+None
 
-## Appearance
-
-Lightborns spawn with halo(s) naturally, it can be around the hands, neck or over their head. Each of their eyes has a blue cross.
-
-## Racial Abilities
-
--   +2 points in every attribute (except charisma)
--   +5 Points at character creation (untested, needs some proof)
-
-## Progression
-
-Currently unobtainable - given by Ragoozer to wave 0 testers only
+**Strengths:**
 
 ## Strengths
 
+-   +2 points in every attribute (except charisma)
+-   +5 Points at character creation (untested, needs some proof)
 -   Easier to play the game, because obviously you played it too much.
+    
+
+**Weaknesses:**
 
 ## Weaknesses
 
 -   "Degenerates like you should belong on a cross."
+    
 
-## Notes/Trivia
+## Notes
 
 -   Only obtainable from admins
 -   This might be based off of the race Seraphs in Rogue Lineage

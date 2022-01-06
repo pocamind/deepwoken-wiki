@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 9484
+revid: 9852
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,10 +18,11 @@ Drops the Enforcer's Axe weapon and perfect lenses.
 
 ### Attacks
 
--   **High Swing -** Lifts its axe high in the air and brings it down on the enemy
--   **Low Swing -** Swings its axe around knee length at the opponent
--   **Kick -** Deliver a kick at the opponent
--   **Spin -** Spin with your axe and deals tons of damage but is slown
+-   **High Swing -** Lifts his axe high in the air and brings it down on the enemy.
+-   **Low Swing -** Swings his axe around knee length at the opponent.
+-   **Kick -** Delivers a kick at the opponent.
+-   **Spin -** Spin with his axe, but is slown.
+-   **Rope -** If you far away from him he will pull you to him with rope.
 
 ### Finisher
 
@@ -32,9 +33,10 @@ Drops the Enforcer's Axe weapon and perfect lenses.
 
 -   Fighting him is widely considered easier than fighting a Corrupt Sharko or 2 Angels.
 -   A common combo that The Enforcer will use is two high swings in quick succession before going for a low swing.
--   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits. He can also feint.
+-   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits.
+-   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry its next attack quickly.
 -   Do this solo or duo it you are NOT beating it with a lot of people
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 
-EnforceAr's Axe
+Enforcer's Axe

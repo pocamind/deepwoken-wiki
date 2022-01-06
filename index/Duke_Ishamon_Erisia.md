@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 8500
+revid: 9794
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -59,5 +59,6 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   ~There is a bug that you would be rewarded the chest even though the Duke is still alive.~ As of 12/27/2021, The Duke no longer stays "Immortal".
 -   It is recommended if your in a group, to make campfire pits around the Boss Room, and have either Flints or Mantras that light campfires.
 -   A weapon that instantly grips downed enemies is recommended, as Phase 2 will be tedious.
+-   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
 
 Ongoing fight within the Boss Room

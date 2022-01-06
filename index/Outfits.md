@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 9666
+revid: 9799
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -591,6 +591,8 @@ _Talent: Devastating Power_
 
  |
 | 
+
+File:Hive Tactician Armor.png
 
  | Hive Tactician Armor | x5 Cloth
 

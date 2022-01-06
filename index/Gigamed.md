@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 9637
+revid: 9811
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 ## **Attacks**
 
--   **Electric Stun Pulse** - Blue AOE attack that deals approx. Deals _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
+-   **Electric Stun Pulse** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
 
 ### **Finisher**
 
@@ -23,7 +23,6 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 -   Real Name: Gigamed
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
--   Health: ~250~ Not 250 as i 2 shot them with my Forge Great-Hammer which does around 41 damange per hit. Possibly around 80 Health.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 
   

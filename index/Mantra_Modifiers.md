@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9734
+revid: 9760
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -227,6 +227,7 @@ _"You feel dizzy when you hold it."_
 #### Cloud stone
 
 -   This modifer makes most beam moves in the game bigger
+-   Cloud stone increases the amount of glacial arc
 
 ## Trivia/Notes
 

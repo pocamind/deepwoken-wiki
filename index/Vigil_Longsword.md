@@ -1,20 +1,20 @@
 ---
-title: "Champion's Sword"
-revid: 9783
-source: https://deepwoken.fandom.com/wiki/Champion's_Sword
+title: Vigil Longsword
+revid: 9771
+source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Weapons]
+categories: [Items]
 ---
 
-# Champion's Sword
+# Vigil Longsword
 
 Template:Weapon Template V2
 
 ## Effects
 
 +Type: [Sword](<Sword_(weapon).md>)  
-+Damage: 19  
++Damage: 20  
 +Medium Weapons Scaling: 6  
-+Weight: 4  
++Weight: 5  
 +Range: 8  
-+Swing Speed: 0.77x
++Swing Speed: 0.75x

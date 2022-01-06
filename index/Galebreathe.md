@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 9289
+revid: 9774
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -34,6 +34,8 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn.
 Damages opponent.
 
 Can be buffed with _Tempest Wind_, a learnable talent.
+
+(Getsuga Tenshou!)
 
  |
 | 

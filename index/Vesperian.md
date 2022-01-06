@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 9737
+revid: 9797
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -44,9 +44,9 @@ _"Never seen without their masks, Poorly understood, but begrudgingly appreciate
 
 ## Lore
 
-lorelorelore
+funny insect
 
-**Varients:**
+**Variants:**
 
   
 
