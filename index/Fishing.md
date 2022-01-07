@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 10032
+revid: 10081
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -39,5 +39,8 @@ Fishing up the Tuna.
 
 ## Notes/Trivia
 
--   Some spots wont let you fish.
--   It is unknown what bait does. If you know, please edit this page.
+1.  Some spots wont let you fish.
+
+-   ~It is unknown what bait does. If you know, please edit this page.~
+
+-   I think bait has to do with what creature you're going to get such as Delifintos giving me a lot more squids than if i we're to use chum. This is from my experince alone it could just be me being crazy but thats what i think bait does.

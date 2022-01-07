@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10062
+revid: 10086
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -116,9 +116,14 @@ Deep Gems are dropped by the Primadon boss at a low rate.
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
-|  | Insignia Gem | Mantras with this gem cast immediately after another Mantra will have it's windup removed. |
-|  | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra |
-| File:Blessedgem.png | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
+|  | Insignia Gem | The next Mantra you cast within a short timeframe will have no wind-up. |
+| 
+ | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra |
+| 
+
+File:Blessedgem.png
+
+ | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
 |  | Blue Gem | Reduces Mantra ether cost |
 |  | Wayward Gem | You will teleport to the first enemy hit by the mantra |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for a short time |
@@ -182,7 +187,11 @@ File:Image 2021-12-31 211633.png
  | Spring Spark | Strong Leap | Amplifies the effects of mobility moves. |
 | 
 
- | Tornado Spark | Dark Blade | Makes the last slash a Spin Attack.
+ | Tornado Spark | Dark Blade
+
+Fire Blade
+
+ | Makes the last slash a Spin Attack.
 
 _"You feel dizzy when you hold it."_
 
@@ -219,11 +228,12 @@ _"You feel dizzy when you hold it."_
 
 #### Spring Spark
 
--   This modifier increases the height for the _Flame Leap_ Mantra.
+-   This modifier increases the height for the _Flame Leap_ mantra.
 
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
+-   This modifier is compatible with the _Fire Blade_ Mantra, but has no effect.
 
 #### Cloud stone
 

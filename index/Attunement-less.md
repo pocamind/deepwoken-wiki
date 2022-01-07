@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 9748
+revid: 10107
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -78,6 +78,8 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 ### _**Light Weapon Mantras**_
 
 **Rapid Slashes** - Rush down your opponent cutting them apart (Mobility mantra, despite it being unable to be used for mobility at all. May be a mistake and may be fixed already)
+
+It's considered a mobility mantra because it teleports you a short distance to your target if it is not blocked or parried.
 
   
 

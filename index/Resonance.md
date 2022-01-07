@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 10011
+revid: 10108
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -24,6 +24,10 @@ _**Pressing C triggers resonance**_
 
 **Confirmed method by multiple resonance users, Kanorogue#6037.**
 
+File:Arch2.png
+
+After a confirmation by Arch, we have learned that progress toward resonance is most likely based on the amount of monsters you have killed.
+
 It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat.
 
 You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
@@ -35,6 +39,10 @@ Tldr: it's basically luck but you can't lose it and it has a much higher max.
 ## How Do You Change A Resonance?
 
 -   Go to The Depths, find the doors that require resonance to open, and talk to Yun'Shul. He gives you 2 other options besides changing Resonance, which are to escape depths instantly and wipe your Oath. You can choose a wish every 10 levels.
+
+## Corrupted Resonance
+
+Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhnace a Resonance's ability, said to be **4x** stronger than the original, but it induces Insanity every time it is used. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds. It is unknown if there are anyone other positives or negatives.
 
 ## Known Resonance Abilities
 
@@ -199,3 +207,4 @@ Phoenix fire effect
 -   Having a soul allows you to hold a beam which deals high damage over time.
 -   Notes:
     -   This bell is pretty common and requires you to farm NPCs to be used, so rerolling it should be considered.
+    -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.

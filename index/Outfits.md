@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 10049
+revid: 10113
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -853,60 +853,65 @@ You can find an NPC that transfers your gear's attributes/stats into another, fo
 | 
 File:Herbalist's Hat.png
 
- | Big Herbalist's Hat | Talent: Iron Gut
+ | Big Herbalist's Hat | Grants a random buff.
 
-Talent: Herbivore
+_\+ Talent: Iron Gut_
 
-+Random Buff
+_\+ Talent: Herbivore_
 
  |
 | 
 
 File:Alchemist Hat.png
 
- | Alchemist's Hat | Talent: Apothecary
+ | Alchemist's Hat | Grants a random buff.
 
-Talent: Pitcher
+_\+ Talent: Apothecary_
 
-+Random Buff
+_\+ Talent: Pitcher_
 
  |
 | 
 
 File:Authorityhelm.png
 
- | Authority Helm | 2 Random Buffs |
+ | Authority Helm | Grants two or three random buffs. |
 | 
 
 File:KnightHelm.png
 
- | Knight's Helm | 3 Random Buffs |
+ | Knight's Helm | Grants three random buffs. |
 | 
 
 File:GreyGumshoeHat.png
 
- | Gumshoe Hat | Random Buff |
+ | Gumshoe Hat | Grants a random buff. |
 
 ### Face
 
 | Image | Armor | Effects |
 | --- | --- | --- |
 | 
- | Iron Mask | None |
+ | Iron Mask | Cosmetic |
+| 
+
+File:Demonmask.png
+
+ | Demon Mask | Cosmetic |
 | 
 
 File:Hairband.jpg
 
- | Headband | None |
+ | Headband | Cosmetic |
+| 
+
+ | Bandana | Cosmetic |
 | 
 
  | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. |
 | 
 
- | Bandana | None |
-| 
-
- | Eyeglasses | Random Buff |
+ | Eyeglasses | Grants a random buff. |
 
 ### Ears
 
@@ -920,12 +925,12 @@ File:Hairband.jpg
  |
 | 
 
- | Ruby Red Earrings |  |
+ | Ruby Red Earrings | Placeholder |
 | 
 
 File:MasterThief.png
 
- | Master Thief Earrings | 2 Random Buffs |
+ | Master Thief Earrings | Grants two random buffs. |
 
 ### Neck
 
@@ -934,53 +939,53 @@ File:MasterThief.png
 | 
 File:Golden Cape.png
 
- | Golden Cape | Buffs a random stat. |
+ | Golden Cape | Grants a random buff. |
 
 ### Torso
 
-| Image | Armor |
-| --- | --- |
+| Image | Armor | Effects |
+| --- | --- | --- |
 | 
 File:Autumn pauldrons.png
 
- | Autumn Pauldrons |
+ | Autumn Pauldrons | Placeholder |
 |   
 
 File:Black Fur Pauldrons.png
 
- | Black Fur Pauldrons |
+ | Black Fur Pauldrons | Placeholder |
 | 
 
 File:Blacksteel Pauldron.png
 
- | Blacksteel Pauldrons |
+ | Blacksteel Pauldrons | Placeholder |
 | 
 
 File:Flameguard.png
 
- | Flameguard Pauldrons |
+ | Flameguard Pauldrons | Placeholder |
 | 
 
- | Hunter's Brace |
+ | Hunter's Brace | Placeholder |
 | 
 
- | Leather Pauldrons |
+ | Leather Pauldrons | Placeholder |
 | 
 
- | Steel Pauldrons |
+ | Steel Pauldrons | Placeholder |
 |   
 
- | Tracker's Brace |
+ | Tracker's Brace | Placeholder |
 | 
 
 File:Vanguardbrace.png
 
- | Vanguard Brace |
+ | Vanguard Brace | Placeholder |
 | 
 
 File:Aristocrat Coat.png
 
- | Aristocrat Coat |
+ | Aristocrat Coat | Placeholder |
 
   
 
@@ -997,11 +1002,7 @@ File:Aristocrat Coat.png
 
 Swordsman."
 
- | Isshin's Ring | Take 1.2x damage
-
-and deal 1.2x damage
-
- |
+ | Isshin's Ring | Take 1.2x damage and deal 1.2x damage. |
 | 
 
 "Ring of the infamous theif Emiya Konga."
@@ -1010,31 +1011,29 @@ and deal 1.2x damage
 
 thief Emiya Konga."
 
- | Konga's Clutch Ring | Allows the user to
+ | Konga's Clutch Ring | Allows the user to slide without delay.
 
-slide without delay
-
- |
-| 
-
- | Gold Ring | \*Can be sold for 25[n](Notes.md)\* |
-| 
-
- | Silver Ring | (Any Random
-
-buff effect)
-
-\*Can be sold for 10[n](Notes.md)\*
+_Requires Power Level 10_
 
  |
 | 
 
- | Bloodiron Ring | Armor Durability on Grip |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness
+ | Gold Ring | Grants a random buff.
 
-of wisps (flame wisp will heal more, etc.)
+Can be sold for 20 Notes.
 
  |
+| 
+
+ | Silver Ring | Grants a small random buff.
+
+Can be sold for 10 Notes.
+
+ |
+| 
+
+ | Bloodiron Ring | Grants the ability to recover Armor durability per kill. |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. |
 | 
 
  | Old Ring | Placeholder |
@@ -1043,63 +1042,58 @@ File:Purifyingring.PNG
 
   
 
- | Purifying Ring | Allows wearer to drink
-
-seawater with no side effects
-
- |
+ | Purifying Ring | Allows wearer to drink seawater with no side effects. |
 | 
 
- | Heavy Hands Ring | Reduces M1 speed for increased posture dmg |
-| File:Dazedband.PNG | Dazed Band | Flourishing an opponent
+ | Heavy Hands Ring | Reduces M1 speed for increased posture damage. |
+| 
 
-has a 50% chance to stun
+File:Dazedband.PNG
 
-them
-
- |
+ | Dazed Band | Flourishing an opponent has a 50% chance to stun them. |
 
   
 
 ### Boots
 
-| Image | Armor |
-| --- | --- |
+| Image | Armor | Effects |
+| --- | --- | --- |
 | 
 File:Leather boots.png
 
- | Leather Boots |
+ | Leather Boots | Placeholder |
 | 
 
 File:White fur boots.png
 
- | White Fur Boots |
+ | White Fur Boots | Placeholder |
 | 
 
 File:Black fur boots 1.png
 
- | Black Fur Boots |
+ | Black Fur Boots | Placeholder |
 |   
 
- | Autumn Boots |
+ | Autumn Boots | Placeholder |
 | 
 
 File:Khanboots.png
 
- | Khan Boots |
+ | Khan Boots | Placeholder |
 | 
 
 File:Imperial Boots.png
 
- | Imperial Boots |
+ | Imperial Boots | Placeholder |
+| 
 
-  
+ | Star Boots | Placeholder
 
-  
+_Requires Power Level 30_
 
-  
+ |
 
-  
+## Trivia/Notes
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
 -   Some Accessories can be Ascended, Enlightened, Celestial and have buffed stats.

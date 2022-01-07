@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 8590
+revid: 10089
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ File:RobloxScreenShot20211227 093118226.png
 
 The Summer Isle is an island in the Aratel Sea. This island is the only currently known area where there is access to firearms.
 
-### Island Contents
+## Island Contents
 
 Inside of the buildings of the island, there is a gun store. This sells [Flintlocks](Flintlock.md) for 100 Notes, Revolvers 200 Notes, and Dragoons for 500 Notes. Ammunition can be purchased nearby and at Etrea, for 5 notes each.
 
@@ -32,15 +32,13 @@ Finally, there is a strange Stonehenge-like structure. The purpose of this is un
 
 Some food items can be found, in addition to at least 1 treasure chest. In the treasure chest I found, there were 6 sapphires.
 
-### Island Denizens
+## Island Denizens
 
 There are many guards on this island, and some nomads on the outskirts. There seem to be bandits? On the beaches. I witnessed a guard and another NPC fighting, but I don't know what the mystery NPC was. (Potentially a necromancer, I've seen nomands fighting them here). The guards wield flintlocks. Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. More may be in the mountainous areas of the island.
 
-### Quests
+## Quests
 
-TRIG'S QUEST
-
-  
+### TRIG'S QUEST
 
 First, talk to Trig at a nondescript building (the inn/ guildhall):
 
@@ -56,7 +54,7 @@ File:Red Crate.png
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-THUNDERCALLER QUEST
+### THUNDERCALLER QUEST
 
 First, talk to the NPC with brown hair and slightly tanned skin
 

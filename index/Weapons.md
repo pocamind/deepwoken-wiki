@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 10067
+revid: 10085
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -31,19 +31,15 @@ To increase your damage with a weapon, you must invest in the corresponding stat
 
 Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance however you can one-hand a heavy weapon if you have 50 heavy weapon and get one-hand training talent.
 
-### One-handed
+### One-Handed
 
 Hold your weapon with your dominant hand, which allows the use of an off-hand accessory, such as shields.
 
-### Two-handed
+### Two-Handed
 
 Hold your weapon with both hands.
 
-## Calculating Scaling
-
-The formula for calculating your weapon damage with scaling is D \* (1 + S\*W/1000), where D is the weapon's base Damage, S is the weapon's Scaling stat, and W is the amount of points put into the stat with which the damage scales.
-
-Example: Dragoon damage with 65 Light Weapon level: 20 \* (1 + 0.78) = 20 \* 1.78 = 35.6.
+  
 
 ## Types of Weapons
 
@@ -480,11 +476,12 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Trident</td>
   <td>50 MED</td>
   <td>Spear</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>19</td>
+  <td>25%</td>
+  <td>6</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td>Razor Cutlass</td>
@@ -775,3 +772,25 @@ Accessories you can use in your off-hand and decrease posture damage.
 </tr>
 </tbody>
 </table>
+
+## Calculating Damage and Attack Speed
+
+Damage per hit = b a s e + I n v P t s ( ( b a s e / 1000 ) ∗ s c a l i n g ) {\\displaystyle base+InvPts((base/1000)\*scaling)} {\\displaystyle base+InvPts((base/1000)\*scaling)}
+
+  
+Take for example a Dragoon if the player has invested 65 light weapon points...
+
+D a m a g e \= 20 + 65 ( ( 20 / 1000 ) ∗ 12 ) {\\displaystyle Damage=20+65((20/1000)\*12)} {\\displaystyle Damage=20+65((20/1000)\*12)}
+
+D a m a g e \= 20 + 65 ( 0.02 ∗ 12 ) {\\displaystyle Damage=20+65(0.02\*12)} {\\displaystyle Damage=20+65(0.02\*12)}
+
+D a m a g e \= 20 + 65 ( 0.24 ) {\\displaystyle Damage=20+65(0.24)} {\\displaystyle Damage=20+65(0.24)}
+
+D a m a g e \= 20 + 15.6 {\\displaystyle Damage=20+15.6} {\\displaystyle Damage=20+15.6}
+
+D a m a g e \= 35.6 {\\displaystyle Damage=35.6} {\\displaystyle Damage=35.6}
+
+  
+The equation below shows the true attack speed per second.
+
+A t S p \= S w i n g S p e e d / 2 {\\displaystyle AtSp=SwingSpeed/2} {\\displaystyle AtSp=SwingSpeed/2}

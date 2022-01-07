@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 9751
+revid: 10109
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -50,8 +50,8 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 40;
--   Blindfold (Chest Item);
+-   Willpower ~50~(40);
+-   Any Blindfold (Chest Item);
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus);
 
 ### How to obtain:
@@ -77,7 +77,7 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 
 ## Notes
 
--   According to a Blindseer user, with Willpower 40, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
+-   According to a Blindseer user, with Willpower 50, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
 -   If you don't have any face accesory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
 -   You can equip other face accessories and still have the full effects of the oath, excluding fullbright.

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 9099
+revid: 10102
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -272,7 +272,7 @@ _**Negative**_
 
  | 
 
--   If found out DM Malcolm#0572
+-   gotted
 -   or apply your edit here
 
  |

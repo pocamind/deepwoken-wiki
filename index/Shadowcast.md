@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 9975
+revid: 10104
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -181,13 +181,58 @@ File:Shadow travel.png
 +3 Health
 
  |
-| File:Dark Synergy.png | Dark Synergy | Darksiphon | Common | engulf your enemy in shadows when flourishing them. |
-| File:Fear.png | Fear |  |  |  |
-| File:Dark Rift.png | Dark Rift |  |  |  |
-| File:Lasting Sorrow.png | Lasting Sorrow |  |  |  |
-| File:Blossoming Darkness.png | Blossoming Darkness |  |  |  |
-| File:Shadow Overflow.png | Shadow Overflow |  |  |  |
-| File:Overwhelming Drain.png | Overwhelming Drain |  |  |  |
+| File:Dark Synergy.png | Dark Synergy | Darksiphon | Common | Engulf your enemy in shadows when flourishing them.
+
+\+ 1 Elemental Intensity
+
+\+ 1 Health
+
+ |
+| File:Fear.png | Fear | Shadowcaster | Common | Enemies will briefly hang in place when they run from you.
+
+\+ 1 Elemental Intensity
+
+\+ 1 Health
+
+ |
+| File:Dark Rift.png | Dark Rift | Darksiphon | Common | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+
+\+ 4 Elemental Intensity
+
+\+ 2 Health
+
+ |
+| File:Lasting Sorrow.png | Lasting Sorrow | Shadowcaster | Common | Shadows last longer on your opponent.
+
+\+ 4 Elemental Intensity
+
+\+ 1 Health
+
+ |
+| File:Blossoming Darkness.png | Blossoming Darkness | Shadowcaster | Common | Ether drained during Shadow Roar increases the size of it.
+
+\+ 1 Elemental Intensity
+
+\+ 2 Health
+
+ |
+| File:Shadow Overflow.png | Shadow Overflow | Darksiphon | Common | Exta ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+
+\+ 3 Elemental Intensity
+
+\+ 1 Health
+
+ |
+| File:Overwhelming Drain.png | Overwhelming Drain | Darksiphon | Common | If multiple enemies are hit by your Shadow Eruption, they are dazed.
+
+\+ 4 Ether
+
+\+ 1 Health
+
+\+ 7 Resoirvoir
+
+ |
+|  | Singularity |  |  |  |
 
 ## Trivia
 

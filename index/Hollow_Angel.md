@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 9624
+revid: 10076
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -34,3 +34,4 @@ White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and
 
 -   It is extremely easy to run away from Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.
 -   Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this.
+-   There are actually two type of angels one for low levelled which have normal Iron Spear and for high levelled is the one who use Primodial Jade spear (Xiao's spear from Genshin Impact)

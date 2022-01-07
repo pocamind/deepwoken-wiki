@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 9979
+revid: 10105
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -82,7 +82,7 @@ Hand of Mantra Cards
 
 -   Lowstride \[Generic Talent, Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Prerequisites: Agility | Benefit: Retain normal movement speed when crouching.
--   Conditioned Runner \[Generic Talent, Rare Talent\] You regenrate health faster than normal when running (+1 Passive Agility)
+-   Conditioned Runner \[Generic Talent, Legendary Talent\] You regenrate health faster than normal when running (+1 Passive Agility)
 -   Endurance Runner \[Generic Talent, Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Prerequisites: Agility | Benefit: Negates Movement Speed Penalty when low health.
 
@@ -368,6 +368,8 @@ Hand of Mantra Cards
 
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill Sea Serpent Ardour.
+-   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health)
+-   Murmur: Adagio \[Generic Talent, Common Talent\] - An application of the Song that allows you to slow time in a bubble around you. Press H to activate.
 
 ### Natural Armor
 
@@ -695,6 +697,11 @@ _Main Source - Frostdrawer_
 -   Ice Blade (1 Star Mantra) - Summon an ice sword that you dual weild with your current weapon for a 4-hit slash combo.
 -   Ice Smash (1 Star Mantra) - Ready a mace made of ice, and smash it onto the ground in front of you.
 -   Ice Lance (2 Star Mantra) - Charge in front of you with an ice spear, dealing high damage. Much more range than frost grab.
+
+### Frost Mobility
+
+-   Glacial Arc (1 Star Mantra) - Summons an arc of ice infront of you used for traveling methods, deals high damage paired with cloudstones.
+-   Ice Skates
 
 ### Shadowcast Mantras
 

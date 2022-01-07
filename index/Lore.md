@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 9995
+revid: 10072
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -151,14 +151,13 @@ An Etrean Guard, part of the Nation of Etrea
 -   Can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
 -   There are a handful of people, consisting mostly of treasure hunters and expeditionists alike, claiming to be one of The Old Stewards. Though, the true people of the faction despise them for their attempt of fame.
 
-### The Cloudjumper Empire
+### The Cloudjumper Empire, 11th Legion
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _Unknown (Presumably Kingdom of Etrea and the Peacekeepers)_
 -   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hive.
--   The troops located in the Etrean Luminant are the 11th Legion.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
     
