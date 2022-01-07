@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 9977
+revid: 10116
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -42,4 +42,4 @@ Other note: You get no luck from players under level 10.
 
 -   ~It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).~ You can't actually loose luck by dying to other sources than players.
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players as a higher level unless you are just that toxic, or are acting in self defense.
--   if you roll a rare/legendary card and ~pick it~, (doesn't matter if you pick it, as long as you roll one, arch said it himself [https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png](https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png))you lose a portion of your luck. It doesnt get completely reset on powerup, but your luck cap gets increased.
+-   if you roll a rare/legendary card, you might as well pick it, as rolling a rare/legendary will make you lose a portion of your luck regardless of if you pick it or not (confirmed by arch, a developer of deepwoken [https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png](https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png)). It doesnt get completely reset on powerup, but your luck cap gets increased.

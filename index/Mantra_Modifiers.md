@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10086
+revid: 10138
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -112,6 +112,8 @@ File:Mantra Modifier Placeholder.png
 
 Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped at a time.
 
+**Warning: Once you put a gem in a mantra, you cannot take it out, you can only destroy it.**
+
 Deep Gems are dropped by the Primadon boss at a low rate.
 
 | Image | Modifier | Effect |
@@ -125,7 +127,11 @@ File:Blessedgem.png
 
  | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
 |  | Blue Gem | Reduces Mantra ether cost |
-|  | Wayward Gem | You will teleport to the first enemy hit by the mantra |
+| 
+
+File:Screenshot 59.png
+
+ | Wayward Gem | You will teleport to the first enemy hit by the mantra |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for a short time |
 
 ## Sparks
@@ -215,7 +221,7 @@ _"You feel dizzy when you hold it."_
 #### Blast Spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
--   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
+-   This modifier causes the _Shadow Gun_ Mantra to hit multiple times. Even with only 1 blast spark applied, this shows clear inspiration from Duelist Dash (minus the dash part) or Cero Metralleta (what probably everyone named their blast spark shadow gun)
 
 #### Reversal Spark
 
@@ -225,10 +231,6 @@ _"You feel dizzy when you hold it."_
 #### Multiplying Spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
-
-#### Spring Spark
-
--   This modifier increases the height for the _Flame Leap_ mantra.
 
 #### Tornado Spark
 

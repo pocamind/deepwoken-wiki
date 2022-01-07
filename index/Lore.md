@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10072
+revid: 10133
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,6 +28,7 @@ _The Lord Regent, sitting atop his throne of coral._
 The Lord Regent is a mysterious individiual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best intrests of Etris.
 
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission (although he dons a blindfold).
+-   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
 -   Talking to the Bookworm in Etris about him (as required for the Lord Regent Quest) reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist in the year of 1271, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
 -   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
@@ -126,7 +127,8 @@ An Etrean Guard, part of the Nation of Etrea
 
 #### The Vigils of Wind
 
--   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro" (meaning "master" or "teacher" in Italian).
+-   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
+    -   They have a history branch organization called "Scholars of the Cloud", whom records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 -   Presumably connected to the galebreathe attunement, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (galebreathe exclusive) make mention of the vigils.

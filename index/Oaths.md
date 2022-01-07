@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 10109
+revid: 10124
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -22,15 +22,15 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Power 30;
+-   Power 30
 
 ### How to obtain:
 
--   Chance to obtain at Power 30 as a talent from powering up;
+-   Chance to obtain at Power 30 as a talent from powering up
 
 ### Oath Effects:
 
--   +2 Wildcard Mantra Slots;
+-   +2 Wildcard Mantra Slots
 
 ### Oath Description:
 
@@ -50,9 +50,9 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower ~50~(40);
--   Any Blindfold (Chest Item);
--   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus);
+-   Willpower 40
+-   Any Blindfold (Chest Item)
+-   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
 
 ### How to obtain:
 
@@ -60,13 +60,13 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 
 ### Oath Effects:
 
--   +3 Health;
--   +10 Sanity;
--   +1 Support Mantra Slot;
--   +1 Wildcard Mantra Slot;
--   Fullbright (can see in dark);
--   Full vision while wearing a blindfold;
--   Visible symbol in front of your eyes or a black mask with a unique yellow design (Locked to [Vesperian](Vesperian.md));
+-   +3 Health
+-   +10 Sanity
+-   +1 Support Mantra Slot
+-   +1 Wildcard Mantra Slot
+-   Increased brightness
+-   Full vision while wearing a blindfold
+-   Visible symbol in front of your eyes or a black mask with a unique yellow design (Locked to [Vesperian](Vesperian.md))
     
     Blindseer vesp  
     
@@ -77,7 +77,7 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 
 ## Notes
 
--   According to a Blindseer user, with Willpower 50, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
+-   According to a Blindseer user, with Willpower 40, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
 -   If you don't have any face accesory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
--   You can equip other face accessories and still have the full effects of the oath, excluding fullbright.
+-   You can equip other face accessories and still have the full effects of the oath, excluding increased brightness.

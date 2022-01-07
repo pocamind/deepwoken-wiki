@@ -1,13 +1,11 @@
 ---
 title: Campfire Pit
-revid: 10050
+revid: 10118
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Campfire Pit
-
-# Campfire
 
 Crafted by using 3 Sticks **OR** 1 Wood
 

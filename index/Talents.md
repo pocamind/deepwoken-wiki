@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10105
+revid: 10125
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -353,6 +353,7 @@ Hand of Mantra Cards
 ### Mental Fortress
 
 -   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
+    -   Prerequisite: Willpower 5~
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
 -   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+3 Health, +7 Sanity)
 -   Encouraging Presence \[Generic Talent, Common Talent\] - Allies that grip enemies near you recover Sanity. (+3 Health, +6 Sanity)
@@ -582,7 +583,7 @@ Hand of Mantra Cards
     -   Presrequisites: High Light Weapon (~40)
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
-    -   Prerequisites: 20 Strength & 25 Heavy Weapon
+    -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either0)
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 
 ### **Miscellaneous**

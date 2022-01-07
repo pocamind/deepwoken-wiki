@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 10113
+revid: 10120
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -22,7 +22,7 @@ There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes ar
 
 The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking.
 
-To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent) or Bloodiron spirit ring (Obtained in depths)
+To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent), Thresher scales (rare talent), or a Bloodiron spirit ring (Obtained in [the Depths](The_Depths.md) or from [the Duke](Duke_Ishamon_Erisia.md)).
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 

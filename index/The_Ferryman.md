@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 9765
+revid: 10115
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -23,9 +23,9 @@ He can be summoned by lighting four campfires at the indicated points within a s
 ### Attacks
 
 -   **Displacement -** Whenever the player get too close to the Ferryman and while it is not attacking, or after a delay if the player stays far, the Ferryman will teleport to another spot in the arena, immediatly using another attack afterward.
--   **Lightning Clones** - The Ferryman summons two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
+-   **Lightning Clones** - The Ferryman summons two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing. He only uses Lightning Clones when above half health.
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
--   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path.
+-   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping.
 -   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack when below half health.
 -   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses Grand Javelin when below half health.
 

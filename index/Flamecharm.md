@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 9336
+revid: 10140
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -109,7 +109,7 @@ File:Flame Blind.png
  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
 | 
 
- | Flame of Denial | Undying flame. | For the next 60 seconds, if the caster receives fatal damage, he'll heal 15% health. However, if the damage is too high, the caster may still be knocked. |
+ | Flame of Denial | Undying flame. | For the next 60 seconds, if the caster receives fatal damage, they will heal 15% health. However, if the damage is too high, the caster may still be knocked. |
 
 ## **Talents**
 
@@ -125,13 +125,13 @@ File:Flame Blind.png
 
 ## **Azure Flames (Blue Fire)**
 
-You are able to obtain Azure Flame by having the following:
+You are able to obtain the Azure Flame talent by having the following:
 
 \- 40 Willpower
 
-\- 70 Flamecharm Levels
+\- 75 Flamecharm Levels
 
-You will obtain it once you level up after reaching these requirements. Once obtained, your Flamecharm Mantra will have most of its colours changed to blue, including campfires and Flame Wisp's aura colour. You can think of Azure Flames as an upgraded version of the normal Flamecharm.
+You will have the chance obtain it once you level up after reaching these requirements. Once obtained, your Flamecharm Mantra will have most of its colours changed to blue, including campfires and Flame Wisp's aura colour. You can think of Azure Flames as an upgraded version of the normal Flamecharm.
 
 ## Trivia
 
