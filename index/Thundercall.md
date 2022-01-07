@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 10007
+revid: 10204
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -279,7 +279,7 @@ having more than 2 tethers magnitizes older tethered opponents to the newest tet
 
 ## **Trivia/Notes**
 
--   Thundercall moves are very ether demanding, so it's best to use a character rich in ether.
+-   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invingorating Salves with 3x gobletto and 1x wheat that make your ether regen skyrocket.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissapating after being hit by friend, foe and self.
 -   The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.

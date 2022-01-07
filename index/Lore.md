@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10133
+revid: 10202
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -263,6 +263,7 @@ A Peacekeeper Grunt, part of The Authority
 -   The Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
+-   The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
 
 ### Krulians
 
@@ -349,6 +350,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Resonance Bells
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
+    -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will kindle once again to the bells of the deep.
 -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 

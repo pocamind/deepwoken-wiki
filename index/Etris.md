@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 8938
+revid: 10183
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -166,8 +166,8 @@ Kalilah getting her ass kicked by a Mudskipper.
 
 _"Don't be scared. I promise I'll protect you no matter what."_
 
--   If you pick the 1st option, Karliah enters the caves, sealing her fate by being eaten alive by Isopods.
--   There is no rewards from this ending, only bitter and cold.
+-   By choosing to continue the escort, Karliah will enter the cave and almost immediately get attacked by leeches and explode.
+-   There is no reward for this ending. (The four leeches on the ground can be seen beforehand but cannot be attacked or killed, neither before or during the attack. This route is meant only as some twisted humorous ending.)
 
 Kalilah, eaten alive by Isopods.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10125
+revid: 10201
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -155,6 +155,7 @@ Hand of Mantra Cards
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having max health makes your mantras do 1.25x damage (not exact description, but accurate).
     -   Prerequisite: Intelligence (unconfirmed)
 -   Ether Absorption \[Generic Talent, Common Talent\] - Recieve Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+-   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
 
 ### Charismatic Cast
 

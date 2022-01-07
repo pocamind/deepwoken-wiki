@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 9983
+revid: 10203
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -12,204 +12,253 @@ categories: [Pages with broken file links, Spells]
 
 File:Frostdrawerlogo.png
 
-Frostdraw allows the user to use/\*draw\* ice magic. Frostdraw is slightly slower compared other magics but is still quick and cunning. The mantra afflicts a brief agility pentalty when targets are hit and is the only mantra so far that can create physical objects that you or your opponents can collide with. To train frostdraw you will need to buy the [Hemafrost](Training_Gear.md#attunement-training-gears) training gear. Hemafrost can be found in Etris or Vigils mantra shop. To upgrade any frostdraw mantra you will need to visit [Nell](Attunement_Trainers.md), an npc found near Etris in a small home. Upon speaking to Nell you will need to bring frigid prisims to her in order to upgrade your mantras. (For the first few?) levels this is not required, players can pay Nell notes until lvl (2?).
+Frostdraw allows the user the ability to draw ice magic from the atmosphere, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-## Obtainability
+Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment.
 
-You can get Frostdraw by either getting it as a starter element/random or by giving the Nell npc 5 Frigid Prisms to unlock it as a secondary element which is permanent so when your wiped you have the ability to choose Frostdraw if wanted.
+## Training
+
+Frostdraw can be trained by using a combination of Hermafrost and Frostdraw Mantras.
+
+Along with all other elements, users can see their Mantras becoming stronger with training:
+
+-   At Power 2, players receive the _Frostdrawer_ Talent.
+-   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
+-   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
+-   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
+
+The spelltrainer, Nell, can be found in Etris near the cauldron. For further directions, visit Etris.
 
 ## Spells
 
-### **Combat Mantras (3 Max)**
+### **Combat Mantras**
 
-| Image | Name | Description | Effect |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Ice Spikes | Piercing spikes of ice. | A huge ice spike juts out from the ground wherever your cursor is (there is a limited range). This does moderate damage and sends the target into the air. Leaves ice wherever the mantra has been casted. |
-|  | Ice Beam | Fire a beam of ice. | Fires a narrow beam of ice that punctures though the target hitting mutiple times (if not parried/blocked) Deals light damage and slows targets breifly. |
-| File:Frost Grab.gif | Frost Grab | An icy chokehold. | A close range mantra that displays a animation of your character quickly dashing forward with a arm outstretched. If the mantra lands then your character grabs the targets neck and bashes their head into the floor. Deals moderate damage (does not work on large mobs) |
-|  | Crystal Impale | Impale your foes with a brutal crystal smash | It leaps you up and then you crash back down, dealing around 6-8 hits. |
-|  | Frozen Soldiers | A legion of frost. | Almost identical to [burning servants](Flamecharm.md), but ice themed. Summon 4-5 Ice statues around the player that blow chilling air, becoming an AoE that will damage and slow characters inside. It also creates ice around the floor where the player stands. |
-|  | Ice Laser | (Add skill description here.) | (1 single Ice shot, similar to Wind Gun but doesnt Knockback) |
-|  | Crystal Impact | (Add skill description here.) | (Lightning Impact without the AoE, basically a jump and stomp) |
-|  | Ice Dagger | Throws homing Ice daggers at the Enemy. | You throw 3 daggers (Can be modified) and it homes towards the nearest person. |
-|  | Ice Blade (☆) | A barrage of freezing blades. | Medium weapon sized ice swords appear in both of your character's hands. The ice swords have narrow blades with 3 noticeable gaps on the blade with a short hilt. Your character then starts slashing in a fury, dealing light yet rapid damage. |
-| File:Icechain.gif | Ice Chain (☆) | Freezing chains of ice. | Launches a narrow chain that (if the target is hit) pulls the target towards your character. Deals light damage. Best used to get free M1 hits in with your melee weapon or to stop an escaping player. Not recommended for gun users. |
-|  | Ice Forge (☆) | Conjure and throw weapons of ice. | Your character creates several shurikens and rapidly pelts them at your cursor. Deals light damage and briefly slows targets. |
-|  | Ice Eruption (☆) | A flurry of ice spikes. | Your character firmly stomps the floor to create a long path of ice spikes. Deals moderate damage and slow targets for quite a while compared to other ice mantras (about 2 seconds). The mantra also creates a very wide ice sheet beneath it. |
-|  | Ice Smash (☆) | A colossal mace of ice. | Your character creates a Kanabō. Your character then proceeds to quickly bash the club into the floor, dealing heavy damage and flinging targets with low knockback. Briefly slows the target. This mantra can also destroy breakables. |
-| File:Icelance.gif | Ice Lance (☆☆) | Form an icey spear and lunge forward. | Creates a short and narrow ice spear jutting out from the players right arm. Your character then qucikly dashes forward with their spear arm outforward in the direction of the dash. Deals moderate damage and breifly slows target. |
-|  | Domain expansion
+| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location.
+-   Deals moderate damage and sends target into the air.
+-   Leaves ice where the Mantra is casted.
+
+ |
+| [Ice Beam](https://deepwoken.fandom.com/wiki/File:Ice%20Beam.gif) | Ice Beam | Fire a beam of ice. | Fires a penetrating beam of ice.
+
+-   Deals multiple attacks and light damage.
+-   Slows target(s) briefly.
+
+ |
+| File:Frostgrab base range.gif | Frost Grab | An icy chokehold. | Launches the user forward and grabs a target in front of them.
+
+-   Deals moderate damage.
+
+ |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal
+
+Impale/Impact
+
+ | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
+
+-   Deals around six to eight hits.
+
+ |
+| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Soldiers | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
+
+-   Area of Effect attack that damages and slows targets inside.
+-   Leaves ice where the Mantra is casted.
+-   Similar to Flamecharm's [Burning Servants](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
+
+ |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Placeholder | Fires a penetrating bullet of ice.
+
+-   Damages opponents, _possibly slows them down._
+-   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
+
+ |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Dagger | Placeholder | User throws three daggers of ice toward the nearest person.
+
+-   Homing attack.
+
+ |
+| [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | Ice Blade
+
+(☆)
+
+ | A barrage of freezing blades. | User slashes forward rapidly with five or six swings.
+
+-   Deals light damage.
+
+ |
+| File:Icechain.gif | Ice Chain
+
+(☆)
+
+ | Freezing chains of ice. | Launches a narrow chain at the cursor's location.
+
+-   Pull target toward user and deals light damage.
+-   Best used to start a combo or intervene with someone fleeing.
+
+ |
+| [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | Ice Forge
+
+(☆)
+
+ | Conjure and throw weapons of ice. | Forms ice shurikens and launches them at the cursor's location.
+
+-   Rapidly deals light damage.
+-   Briefly slows target(s).
+
+ |
+| [Iceeruption](https://deepwoken.fandom.com/wiki/File:Iceeruption.gif) | Ice Eruption
+
+(☆)
+
+ | A flurry of ice spikes. | Forms a path of ice spikes in front of user.
+
+-   Deals moderate damage.
+-   Slows target(s) down.
+-   Leaves ice where Mantra is casted.
+
+ |
+| [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | Ice Smash
+
+(☆)
+
+ | A colossal mace of ice. | User winds up and bashes a club into the floor.
+
+-   Deals heavy damage and low knockback.
+-   Briefly slows target down.
+-   Can destroy certain parts.
+
+ |
+| [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | Ice Lance
+
+(☆☆)
+
+ | Form an ice spear and lunge forward. | Creates an ice spear and dashes forward.
+
+-   Deals moderate damage.
+-   Briefly slows target.
+
+ |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Fissure
+
 (☆☆☆)
 
- | Send ice rippling out in a shockwave. | The player holds an ice pickaxe and stomps on the ground. A floating ice pillar is created at the impact site and the floor turns to ice. The ice pillar pulsates a blue aura. |
+ | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
 
-### **Mobility Mantras (1 Max)**
+-   _Pillar pulsates a blue aura, possibly slows nearby targets._
 
-| Image | Name | Description | Effect |
+ |
+
+### **Mobility Mantras**
+
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Glacial Arc | An arc of ice. | Fires a narrow ice \*tendril\* that arcs upward and impacts wherever the cursor is. (when infusing with a cloud or stratus stone, mutiple tendrils can be fired at once at a certain interval, such as in the gif) The arc lasts a (pretty long, uncomfirmed) amount of time and can be climbed on. Usually used to gain more height to climb a wall, but can be used in combat if timed correctly. Whever the tendrils impacts does, infact, deal damage. Deals heavy damage and slows target for about 2 seconds. Of course this is difficult to do, unless your fighting NPCS. (Don't try this with players). |
-|  | Ice Tower | \[Place Holder\] | doesnt exist idiot |
-| 
-File:Ice Skate.png
+| [Glacialarc](https://deepwoken.fandom.com/wiki/File:Glacialarc.gif) | Glacial Arc
+(☆)
 
- | Ice Skates
+ | An arc of ice. | Launches an ice pillar that impacts where the cursor is.
+
+-   Can be used to climb or cross gaps.
+-   Deals heavy damage and briefly slows targets.
+
+ |
+| File:Ice Skate.png | Ice Skates
 
 (☆☆☆)
 
- | (Add skill description here) | (Can only be used in or ontop of water) Upon usuage your character creates a large ice platform below them and quickly slides foward on the surface of the water. Deals no damage and is purley mobility. However, can also create a large ice platform for you to use, since many useful ice talents activate when your on ice. |
+ | Placeholder | Creates a large ice platform and slides them quickly forward.
 
-### **Support Mantras (1 Max)**
+-   _Can only be used in or on top of water._
+-   Leaves ice where the Mantra is casted.
 
-| Image | Name | Description | Effect |
+ |
+
+### **Support Mantras**
+
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
 
 ## Talents
 
-### Active/Action
+**Frostforger:**
 
-#### Frost Forger
+These talents are in the _Frostforger_ category.
 
-| **Image** | **Name** | **Description** | **Effect** |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health |
-| File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | {Placeholder\] |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health |
+| File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | Placeholder |
 
-#### Cryomancer
+**Cyromancer:**
 
-| **Image** | **Name** | **Description** | **Effect** |
+These talents are in the _Cryomancer_ category.
+
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| File:Spike Traps Card.png | Spike traps | Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot. | +3 Elemental Intensity
-+2 Health
+| File:Spike Traps Card.png | Spike Traps | Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot. | +3 Elemental Intensity  
++2 Health |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Chilling Flourish | When flourishing an enemy, send them off with a trail of ice. | +4 Elemental Intensity  
++2 Health |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cool Head | (you cannot be put on fire while on ice. I think flamecharmer spells were lessened or something aswell) | (placeholder) |
+| File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. | +4 Ether  
++2 Elemental Intensity  
++1 Health |
 
- |
+**Ice Age:**
 
-### Passive
+These talents are in the _Ice Age_ category.
 
-#### Frostdrawer
+### **Ice Age**
 
-| **Image** | **Name** | **Description** | **Effect** |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Frostdrawer
-(Lvl 2)
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cryonis | All ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
++2 Health |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frostbite | Enemies can no longer heal when under the effect of your chill. | +5 Elemental Intensity  
++2 Health |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Ice | Your frost is now considerably more intense. | +3 Health  
++6 Sanity |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Bottom Freeze | Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. | +5 Elemental Intensity  
++2 Health |
+| File:Saint Jay.png | Ice Age | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity  
++2 Health |
 
- | Grants you the abillity to command Ice as a Frostdrawer. | +3 Elemental Intensity
+**Glassdancer:**
 
-+2 Health
+These talents are in the _Glassdancer_ category.
 
- |
-|  | Adept Frostdrawer
-
-(Lvl 20)
-
- | You can now obtain 1-star Frostdrawer mantras. | +3 Elemental Intensity
-
-+2 Health
-
- |
-|  | Expert Frostdrawer
-
-(Lvl 30)
-
- | You can now obtain 2-star Frostdrawer mantras. | +4 Elemental Intensity
-
-+2 Health
-
- |
-|  | Master Frostdrawer
-
-(Lvl 50)
-
- | You can now obtain 3-star Frostdrawer mantras. | +3 Elemental Intensity
-
-+2 Health
-
- |
-
-#### Uncategorized
-
-| **Image** | **Name** | **Description** | **Effect** |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| File:Shatter Spear.webp | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity
-+3 Health  
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. | +4 Elemental Intensity |
 
- |
+**Frostthorn:**
 
-#### Ice Age
+These talents are in the _Frostthorn_ category.
 
-| **Image** | **Name** | **Description** | **Effect** |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Cryonis | All ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity
-+2 Health
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | Placeholder |
 
-  
+**Cryoni:**
 
- |
-|  | Frostbite | Enemies can no longer heal when under the effect of your chill.
+These talents are in the _Cryoni_ category.
 
-  
-
- | +5 Elemental Intensity
-
-+2 Health
-
- |
-|  | Glacial Ice | Your frost is considerably more intense | +3 Health
-
-+6 Sanity
-
- |
-| 
-
-File:Bottom freeze.png
-
- | Bottom Freeze | Hitting chilled enemies with shurikens(ice forge) while they are on ice freezes them to the ground. | +5 Elemental Intensity
-
-+2 Health
-
- |
-
-#### Cryomancer
-
-| **Image** | **Name** | **Description** | **Effect** |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Chilling Flourish  
- | When flourishing an enemy, send them off with a trail of ice. | +4 Elemental Intensity
-+2 Health
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Fragile Freeze | Your ice Mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity |
+| File:Preceeding Chill Card.webp | Preceding Chill | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity |
 
- |
-|  | Cool Head | (you cannot be put on fire while on ice. I think flamecharmer spells were lessened or something aswell) | (placeholder) |
-| File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. | +4 Ether
+**Uncategorized:**
 
-+2 Elemental Intensity
+These talents have no category or their category is unknown.
 
-+1 Health
-
- |
-
-#### Glassdancer
-
-| **Image** | **Name** | **Description** | **Effect** |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. | +4 Elemental Intensity |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
++3 Health |
 
-#### Ice Age
+## Trivia/Notes
 
-| **Image** | **Name** | **Description** | **Effect** |
-| --- | --- | --- | --- |
-| File:Saint Jay.png | Saint Jay | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity
-+2 Health
-
- |
-
-#### Frostthorn
-
-| **Image** | **Name** | **Description** | **Effect** |
-| --- | --- | --- | --- |
-| File:Orbital Ice card.webp | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | \[Placeholder\] |
-
-#### Cryoni
-
-| **Image** | **Name** | **Description** | **Effect** |
-| --- | --- | --- | --- |
-|  | Fragile Freeze | Your ice mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity |
-| File:Preceeding Chill Card.webp | Preceding Chill \[Rare\] | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity |
+-   Frostdraw is slightly slower compared other magics but is still quick and cunning.
+-   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 10104
+revid: 10214
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -20,7 +20,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 ## Mantras
 
-**COMBAT**
+### **COMBAT**
 
 | Media | Star Rating | Name | Card Description | Effect |
 | --- | --- | --- | --- | --- |
@@ -55,8 +55,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
  | Shadow Roar | Roar a wave of shadows. | The user leans and creates a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. You are unable to move while using it. Blockable but block breaks, can be parried. |
 
-  
-**SUPPORT**
+### **SUPPORT**
 
 <table>
 <tbody>
@@ -70,8 +69,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 </tbody>
 </table>
 
-  
-**MOBILITY**
+### **MOBILITY**
 
 <table>
 <tbody>
@@ -87,7 +85,7 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
 
 ## Talents
 
-**ACTIVE**
+### **ACTIVE**
 
 | Image | Name | Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
@@ -104,8 +102,7 @@ File:Shadow travel.png
 
  | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
 
-  
-**PASSIVE**
+### **PASSIVE**
 
 | Image | Name | Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
@@ -114,7 +111,8 @@ File:Shadow travel.png
 
  | 
 
-> Common
+  
+Common  
 
  | Block breaking an opponent their vision with darkness more potent than your Shadow mantra.
 
@@ -129,7 +127,8 @@ File:Shadow travel.png
 
  | 
 
-> Common
+  
+Common  
 
  | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their reservoir instead.
 
@@ -142,7 +141,8 @@ File:Shadow travel.png
 
  | 
 
-> Common
+  
+Common  
 
  | The more a person is affected by your shadowcast the more you obscure their vision.
 
@@ -157,7 +157,8 @@ File:Shadow travel.png
 
  | 
 
-> Common
+  
+Common  
 
  | Your Shadowcast Mantras deal more damage at night.
 
@@ -172,7 +173,8 @@ File:Shadow travel.png
 
  | 
 
-> Common
+  
+Common  
 
  | Stealing enough ether to fill your bar now stores the extras in your reserves.
 
@@ -181,49 +183,77 @@ File:Shadow travel.png
 +3 Health
 
  |
-| File:Dark Synergy.png | Dark Synergy | Darksiphon | Common | Engulf your enemy in shadows when flourishing them.
+| File:Dark Synergy.png | Dark Synergy | 
+
+> Darksiphon
+
+ | Common | Engulf your enemy in shadows when flourishing them.
 
 \+ 1 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Fear.png | Fear | Shadowcaster | Common | Enemies will briefly hang in place when they run from you.
+| File:Fear.png | Fear | 
+
+> Shadowcaster
+
+ | Common | Enemies will briefly hang in place when they run from you.
 
 \+ 1 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Dark Rift.png | Dark Rift | Darksiphon | Common | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+| File:Dark Rift.png | Dark Rift | 
+
+> Darksiphon
+
+ | Common | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
 
 \+ 4 Elemental Intensity
 
 \+ 2 Health
 
  |
-| File:Lasting Sorrow.png | Lasting Sorrow | Shadowcaster | Common | Shadows last longer on your opponent.
+| File:Lasting Sorrow.png | Lasting Sorrow | 
+
+> Shadowcaster
+
+ | Common | Shadows last longer on your opponent.
 
 \+ 4 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Blossoming Darkness.png | Blossoming Darkness | Shadowcaster | Common | Ether drained during Shadow Roar increases the size of it.
+| File:Blossoming Darkness.png | Blossoming Darkness | 
+
+> Shadowcaster
+
+ | Common | Ether drained during Shadow Roar increases the size of it.
 
 \+ 1 Elemental Intensity
 
 \+ 2 Health
 
  |
-| File:Shadow Overflow.png | Shadow Overflow | Darksiphon | Common | Exta ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+| File:Shadow Overflow.png | Shadow Overflow | 
+
+> Darksiphon
+
+ | Common | Exta ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
 
 \+ 3 Elemental Intensity
 
 \+ 1 Health
 
  |
-| File:Overwhelming Drain.png | Overwhelming Drain | Darksiphon | Common | If multiple enemies are hit by your Shadow Eruption, they are dazed.
+| File:Overwhelming Drain.png | Overwhelming Drain | 
+
+> Darksiphon
+
+ | Common | If multiple enemies are hit by your Shadow Eruption, they are dazed.
 
 \+ 4 Ether
 

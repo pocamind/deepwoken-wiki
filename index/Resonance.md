@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 10126
+revid: 10160
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -42,7 +42,9 @@ Tldr: it's basically luck but you can't lose it and it has a much higher max.
 
 ## Corrupted Resonance
 
-Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhnace a Resonance's ability, said to be **4x** stronger than the original, but it induces Insanity every time it is used. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds. It is unknown if there are any other positives or negatives.
+Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhnace a Resonance's ability, said to be **4x** stronger than the original, but it has a debuff as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
+
+Currently known debuffs - Insanity on use, health loss on use, set on fire when used.
 
 **NOTE: You will know if you got a Corrupted Resonance if once you got the Resonance the particles will be Blue.**
 

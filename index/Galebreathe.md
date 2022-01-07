@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 9949
+revid: 10222
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -20,6 +20,13 @@ Galebreathe also has Talents attributed to it as well, allowing the user to full
 
 Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
 
+Like all other elements, users can see their Mantras become stronger with training:
+
+-   At Power 2, players receive the _Galebreather_ Talent.
+-   At Galebreathe level 20, players receive the _Adept Galebreather_ Talent.
+-   At Galebreathe level 30, players receive the _Expert Galebreather_ Talent.
+-   Finally, at Galebreathe level 50, players receive the _Master Galebreather_ Talent.
+
 The spelltrainer can be found in the Isle of Vigils by the tent across the Inn.
 
 ## Spells
@@ -28,195 +35,146 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn.
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | Wind Blade | Slicing blades of wind. | Launches a wind projectile to cursor's position.
-
-Damages opponent.
-
-Can be buffed with _Tempest Wind_, a learnable talent.
-
-(Getsuga Tenshou!)
+|  | Wind Blade | Slicing blades of wind. | Launches a wind projectile to cursor's position.
+-   Deals light damage.
+-   Can be improved with _Tempest Wind_, a learnable talent.(Getsuga Tenshou!)
 
  |
-| 
+|  | Gale Lunge | A rush of piercing wind. | User lunges forward with their weapon coated in wind.
 
- | Gale Lunge | A rush of piercing wind. | User lunges forward, weapon coated in wind.
-
-Deals damage.
+-   Deals moderate damage.
 
  |
-| 
+|  | Air Force | A blast of wind | Shoots out air from your hands in the direction of your mouse and staggers target.
 
- | Air Force | A blast of wind | Shoots out air from your hands in the direction of your mouse and staggers target. |
-| 
-
-File:Tornado.png
-
- | Tornado
-
-(☆)
-
- | A rushing current of wind. | AOE attack that constantly damages all opponents inside.
-
-The caster cannot use weapons or spells during this spell.
+-   Deals light damage.
+-   Knocks opponents back and stuns them.
 
  |
-| 
+| File:Tornado.png | Tornado  
+(☆) | A rushing current of wind. | AOE attack that rapidly damages all opponents inside.
 
- | Heavenly Wind
-
-(☆)
-
- | A strike from the heavens. | User jumps into the air and strikes down.
-
-Deals damage.
+-   Deals light damage.
+-   User cannot use weapons or spells during this spell.
 
  |
-| 
+|  | Heavenly Wind  
+(☆) | A strike from the heavens. | User jumps into the air and strikes down.
 
- | Galetrap
-
-(☆)
-
- | Toss a wind landmine, | Deploy a small, green landmine at your cursor location.
-
-Stepping on it creates a tornado that deal damage over a few seconds.
-
-The trap can stick to players when thrown, having the tornado follow them for the full duration.
+-   Deals moderate damage.
 
  |
-| 
+|  | Galetrap  
+(☆) | Toss a wind landmine. | Deploy a small, green landmine at your cursor location.
 
- | Gale Punch (☆) |  | AOE punch that deals damage and knocks opponents away. It can be upgraded with the "Vacuum Punch" talent. |
-| 
-
- | Rising Wind
-
-(☆☆)
-
- | Use wind to uppercut and propel yourself into the air. | AOE attack that sends opponents and user into the air.
-
-Blocking sends only the user into the air.
-
-Allows user to damage opponents mid-air.
-
-_Possibly inflicts opponents with fall damage._
+-   Stepping on it creates a tornado that deals light damage over a few seconds.
+-   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 
  |
-| 
+|  | Gale Punch  
+(☆) |  | AOE punch that deals damage and knocks opponents away.
 
- | Wind Gun
-
-(☆☆)
-
- | A powerful wind blast. | Fires a penetrating bullet of wind.
-
-Damages and flings opponents.
-
-Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
+-   Can be upgraded with the _Vacuum Punch_ Talent.
 
  |
-| 
+|  | Rising Wind  
+(☆☆) | Use wind to uppercut and propel yourself into the air. | Caster uppercuts their opponent, rapidly damaging them.
 
- | Wind Carve
-
-(☆☆)
-
- | A quick swirl of sharp winds. | Summons many small wind projectiles.
-
-Rapidly damages opponent.
+-   Blocking sends only the user into the air.
+-   Rapidly deals light damage to opponent while rising.
+-   Missing will not send the user into the air.
 
  |
-| 
+|  | Wind Gun  
+(☆☆) | A powerful wind blast. | Fires a penetrating bullet of wind.
 
- | Astral Wind
-
-(☆☆☆)
-
- | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
-
-User is invincibile during casting (To a lvl 1 player it does 35% dmg).
+-   Damages and flings opponents.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
 
  |
+|  | Wind Carve  
+(☆☆) | A quick swirl of sharp winds. | Summons many small wind projectiles.
+
+-   Rapidly damages opponent.
+-   Deals _possibly light_ damage.
+
+ |
+|  | Astral Wind  
+(☆☆☆) | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
+
+-   User is invincibile during casting.
+-   Deals _possibly moderate-heavy_ damage.
+
+ |
+
+### **Mobility Mantras**
+
+There are no known Mobilty Mantras for Galebreathers.
 
 ### **Support Mantras**
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | Gale Wisp
-
-(☆☆)
-
- | A servant of wind. | Spawns a wisp of wind.
-
-Must complete a casting minigame. Protects against fall damage.
-
-Also heals you for 1% HP every couple of seconds (healing too much will cause the Gale Wisp to run out)
-
-_Other effects may be unknown._
+|  | Gale Wisp  
+(☆☆) | A servant of wind. | Spawns a wisp of wind. Must use ritual casting.
+-   Protects against fall damage.
+-   Heals 1% every few seconds.
+-   Disappears after healing you enough.
 
  |
 
 ## Talents
 
+**Aeromancy:**
+
+These talents are found in the _Aeromancy_ category.
+
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | Gale Leap | Jumping while sliding down a
+| File:Galebreathe Talent Placeholder.png | Drifting Winds | Enemies hit by your wind mantra are winded, having their attack speed lowered for a short duration. | +2 Passive Agility  
++5 Elemental Intensity |
 
-slope or off a cliff launches
+**Cloudwalker:**
 
-you forward.
+These talents are found in the _Cloudwalker_ category.
 
- | Launches you forward if requirements are met.
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Gale Leap | Jumping while sliding down a slope or off a cliff launches you forward. | +1 Elemental Intensity  
++2 Health  
+Costs _[Ether](Combat_Mechanics.md)_. |
 
-Cliff must be approximately 50 studs above.
+**Galeforce:**
 
-Slope cannot be too steep.
+These talents are found in the _Galeforce_ category.
 
-Costs _Ether_.
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:Galebreathe Talent Placeholder.png | Breathing Impact | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. | +5 Elemental Intensity |
 
- |
-| 
+**Whisper:**
 
- | Wind Step | Create a step of wind below you when jumping in the air. (+4 Elemental Intensity) | Gives you the ability to creating a temporary wind platform that can act as a double jump.
+These talents are found in the _Whisper_ category.
 
-Note : Other players can also use the platform in order to propel themselves. Has a cooldown.
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:Galebreathe Talent Placeholder.png | Haunted Gale | Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. | +5 Elemental Intensity  
++2 Health |
 
- |
-| 
+**Uncategorized:**
 
- | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds,
+These talents have no category or their category is unknown.
 
-empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
-
- | When a wind spell is cancelled, the next wind spell cast will be empowered.
-
-  
-Costs _Ether_.
-
- |
-| 
-
- | The Old Wind | Glide straight with the power of Gales. | Allows you to glide longer with a glider. |
-| 
-
- | After Cut | If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt. | An ennemy sucessfully attacked with a physical wind attack,
-
-he will recieve 5% of the damage dealt with the previous attack in the form of poison.
-
- |
-| 
-
- | Breathing Impact | When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. | ??? |
-| 
-
- | Tailwind | Gain a speed boost after a successful inhale. | After inhaling a wind attack, you will gain a small speed boost.
-
-Costs _Ether_.
-
- |
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Wind Step | Create a step of wind below you when jumping in the air. | +4 Elemental Intensity  
+Costs _[Ether](Combat_Mechanics.md)_. |
+| File:Galebreathe Talent Placeholder.png | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | +1 Elemental Intensity  
++2 Health  
+Costs _[Ether](Combat_Mechanics.md)_. |
+| File:Galebreathe Talent Placeholder.png | The Old Wind | Glide straight with the power of Gales. | _Allows you to glide longer with a glider._ |
+| File:Galebreathe Talent Placeholder.png | After Cut | If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt. | _Enemy will receive 5% damage if they dealt damage with a physical wind attack._ |
+| File:Galebreathe Talent Placeholder.png | Tailwind | Gain a speed boost after a successful inhale. | Costs _[Ether](Combat_Mechanics.md)_. |
 
 ## **Trivia/Notes**
 

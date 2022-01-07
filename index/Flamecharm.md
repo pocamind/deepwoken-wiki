@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 10140
+revid: 10220
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -8,135 +8,168 @@ categories: [Pages with broken file links, Spells]
 
 # Flamecharm
 
-Flame charm icon
-
 > "The brightest flame casts the darkest shadow." - George R.R. Martin
 
--   **Description**
+## Description
 
-Flamecharm is a moderate damaging long term dps mantra type that utilizes the burning effect. Most mantras in this mantra type have large aoes and combined with mantra largening materials like cloudstones could prove very effective. To train this mantra you will need a Flame Hearthgem. They can be found in every mantra shop and cost 25 notes universally. To upgrade any of your Flamecharm mantras you will need to climb past the top of the waterfall in Songseeker Wilds, the trainer will be in a dojo at the top.
+Flame charm icon
+
+Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning, damage per second and AoE effects.
+
+Flamecharm also has Talents attributed to it as well, allowing the user to fully expand their captivating flame abilities.
+
+## Training
+
+Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Mantras.
+
+Along with all other elements, users can see their Mantras becoming stronger with practice:
+
+-   At Power 2, players will receive the _Flamecharmer_ Talent.
+-   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent.
+-   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
+-   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
+
+The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain.
 
 ## Mantras
 
-| Image/Gif | Spell | Card Description | Effect |
+### **Combat Mantras**
+
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| 
- | Flame Repulsion | An exertion of flames. | After charging for about 2 seconds **cast a medium sized AOE attack** affecting everywhere around you **while being unable to move**.
-
-**Knocks back** enemies and does **damage**. **Spell has hyper armour.**
-
- |
-| 
-
-File:Снимок экрана 2021-12-31 211752.png
-
- | Burning Servants | A legion of flames. | 6 spear-wielding fire-humanoids circle you and attack one by one with a short delay between attacks
-
-Finishing by attacking the middle at the same time.
-
-Does not inflict stun or knockback
+|  | Flame Repulsion | An exertion of flames. | After a wind-up of ~2 seconds, user explodes in a burst of flames.
+-   Unable to move in wind-up.
+-   Deals moderate damage.
+-   Knocks enemies back.
+-   User is invincible during casting.
 
  |
-| 
+| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summon six burning soldiers that attack the position of the caster.
 
- | Fire Palm(☆) | A blast of flame. | Caster winds up fist backwards before thrusting forward releasing a medium ranged, cone-like flame infront doing medium damage and burning the target. |
-| 
-
- | Flame Eruption (☆) | A pyroclastic eruption. | Caster raises both hands, causing a quake as 2 flame pillars erupt out with a small delay at the location of your cursor, after summon they will stay for a few seconds before disappearing. |
-| 
-
- | Fire Gun | A bullet of flames shot through each hand. | Caster winds up before properling a fireball in a straight line from each hand, dealing little damage and burning the target. Able to ignite campfires, as well as grass, leaves, and bush tiles when they aren't snowed over. |
-| 
-
- | Fire Forge (☆) | Toss a nimble dagger. | Caster swipes their weapon hand and launches 3 flaming throwing stars which converge before spreading out in 3 adjacent directions. They deal little damage and inflict burn unless blocked. |
-| 
-
- | Fire Blade (☆) | Slicing blades of flame. | Caster charges an attack for about 1 second dealing small to medium damage, erupting fire on anything hit. |
-| 
-
- | Flame Grab | A fiery chokehold. | Caster charges a grab for 0.5 seconds, thrusting forward and when the target is hit, they are grabbed and slammed into the ground, inflicting burn and damage |
-| 
-
- | Rising Flame (☆☆) | A rising tornado of flames. | Caster winds up for a short time, then spins around, making fire slash shapes around them. If it hits, launches said target into the air, dealing \[insert general damage here\] damage, along with fall damage depending on height.
-
-  
-
-**If you have a talent called Meteor Impact, once they are launched they will be slammed back down to the ground, dealing additional damage. This can be further upgraded with the talent Phoenix Impact, which will heal you if you slam someone into the ground while theyre on fire.**
-
-  
-Initial move can be blocked and parried. The spell on its own does NOT stun, however Meteor Impact does on impact.
+-   Deals moderate damage.
+-   Burns target(s).
+-   Similar to Frostdraw's [Frozen Soldiers](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
 
  |
-| 
+|  | Fire Gun | A bullet of flames shot through each hand. | User readies and propels two balls of fire from their hands.
 
-File:Flame Blind.png
+-   Deals light damage.
+-   Small cooldown.
+-   Burns target(s).
+-   Can destroy certain parts.
 
- | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, and after a very short delay, a fire orb shoots out infront of them and implodes, this blinds anyone in an undefined radius for 1.5 seconds. |
+ |
+|  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
 
-## **Mobility Mantras**
+-   Inflicts light damage.
+-   Burns target(s).
 
-| Image/Gif | Spell | Card Description | Effect |
+ |
+| File:Flame Blind.png | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
+
+-   Blinds nearby targets for 1.5 seconds.
+-   _Radius unknown._
+
+ |
+|  | Fire Palm(☆) | A blast of flame. | Caster releases an eruption of fire in front of them.
+
+-   Cone hitbox.
+-   Deals moderate damage.
+-   Burns target(s).
+
+ |
+|  | Flame Eruption (☆) | A pyroclastic eruption. | Caster summons two pillars of flame at the cursor's location.
+
+-   Pillars are briefly persistent.
+-   Deals damage.
+
+ |
+|  | Fire Forge (☆) | Toss a nimble dagger. | User swipes their weapon to launch three throwing stars.
+
+-   Deal light damage.
+-   Burns target(s).
+
+ |
+|  | Fire Blade (☆) | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
+
+-   Deals light-moderate damage.
+-   Burns target(s).
+-   Can break certain parts.
+
+ |
+|  | Rising Flame (☆☆) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
+
+-   Deals moderate_?_ damage.
+-   Can be improved with the Talents _Meteor Impact_ and _Phoenix Impact_.
+-   Base move is blockable.
+
+ |
+|  | Flame Assault (☆☆) | Burst foward in flames. | User dashes forward attacking anything in their path.
+
+-   Deals light damage.
+
+ |
+
+### **Mobility Mantras**
+
+| **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| 
- | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
-
-  
-**Reversal Spark:**
-
--   **Standing still**: Backflips, then create a flaming area around you that boosts players up and burn them except for yourself.
--   **Falling before the animation completes**: Negate all fall damage and create a flaming area on impact.
--   **Casting in water**: Dive into the water then floats back up again, creating a flaming area when you reach land.
-
- |
-| 
-
- | Flame Assault (☆☆) | Burst foward in flames. | Caster dashes forward, dealing minor damage and lighting anything in the way on fire.
-
-(Note: This is a combat mantra)
+|  | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
+-   This Mantra can be improved with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 
  |
 
-  
+### **Support Mantras**
 
-## **Support Mantras**
-
-| Image/Gif | Spell | Card Description | Effect |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| 
- | Flame Wisp (☆☆) | A servant of flames. | Caster summons a small, floating rock-like wisp above your shoulder. Healing the caster and igniting nearby extinguished campfire pits. Has a very long- if not unlimited- duration, and will disappears after healing you a certain number of times. This number can be increased with logstones |
-| 
+|  | Flame Wisp (☆☆) | A servant of flames. | Caster summons a wisp of magma.
+-   Heals the caster.
+-   Ignites nearby campfire pits.
+-   _Potentially ritual casting?_
 
- | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Creates a psuedo-campfire for you and your comrades to rest at, lasts for a single minute, has restrictions. You cannot cook at the campfire. |
-| 
+ |
+|  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
 
- | Flame of Denial | Undying flame. | For the next 60 seconds, if the caster receives fatal damage, they will heal 15% health. However, if the damage is too high, the caster may still be knocked. |
+-   Acts as a mobile campfire with restrictions.
+-   Lasts one minute.
+-   Cannot use to cook items.
+-   Ritual casting.
+
+ |
+|  | Flame of Denial | Undying flame. | Caster animation description placeholder
+
+-   Prevents the user from being knocked for 60 seconds if damage isn't substantial.
+
+ |
 
 ## **Talents**
 
-| Image/GIF | Spell | Card Description | Effect |
+**Uncategorized:**
+
+These talents have no category or their category is unknown.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| 
- | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
-| 
+|  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
+|  | Flame Within | Set yourself ablaze. | Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling. |
 
- | Flame Within | Set yourself ablaze. | Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling. |
+**Special:**
 
-  
+These talents are unique to their element and _may_ have no category.
 
-## **Azure Flames (Blue Fire)**
+### **Azure Flames**
 
-You are able to obtain the Azure Flame talent by having the following:
+Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
 
-\- 40 Willpower
+Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 75.
 
-\- 75 Flamecharm Levels
+Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
 
-You will have the chance obtain it once you level up after reaching these requirements. Once obtained, your Flamecharm Mantra will have most of its colours changed to blue, including campfires and Flame Wisp's aura colour. You can think of Azure Flames as an upgraded version of the normal Flamecharm.
+## Trivia/Notes
 
-## Trivia
-
--   Certain mantras are similar to Pyromancies and similar attacks from games created by _**From Software**_, a large inspiration for Deepwoken,
--   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing death for one hit.
--   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
--   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.
+-   Certain Mantras are similar to Pyromancies and similar attacks from games created by _**From Software**_, a large inspiration for Deepwoken.
+    -   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing death for one hit.
+    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
+    -   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.
 -   Flamecharm does not currently (1/01/2022) possess any 3-star Mantra.

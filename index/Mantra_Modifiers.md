@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10138
+revid: 10209
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -22,23 +22,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This me
 
 When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
 
-Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs brightening with each requirement. The specific meanings of these discs are unknown currently. As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
-
-New Note - Had a single lit disk and was able to combine it with my spell. At that point, I had 75 Intelligence and 70 Thundercall on level 34. It is likely that it is tied to not only Level, but also Intelligence.
-
-### Modifier Hitlist
-
-There are currently a number of Mantra Mods that can be crafted, but are unsure of how it can be. Currently, we need to find out whether or not the following mods can be crafted, the recipe of the mod if it can be crafted, and also its effects.
-
-Currently, there are:
-
--   ~Magnifying Stone~
--   False Flamestone
--   Mirage Stone
-
-  
-
-  
+Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs illuminating with each requirement. The specific meanings of these discs are unknown currently.
 
 ## Mantra Modifiers
 
@@ -190,7 +174,11 @@ File:Image 2021-12-31 211633.png
  | Multiplying Spark | Wind Gun | Increases the number of hits. |
 | 
 
- | Spring Spark | Strong Leap | Amplifies the effects of mobility moves. |
+ | Spring Spark | Strong Leap
+
+Flame Leap
+
+ | Amplifies the effects of mobility moves. |
 | 
 
  | Tornado Spark | Dark Blade
@@ -204,9 +192,9 @@ _"You feel dizzy when you hold it."_
  |
 | 
 
- | Haunting Stone | _Unknown._ | _Unknown._ |
+ | Mirage Stone | _Unknown._ | _Unknown._ |
 
-### **Specific Effects**
+### **Specific Effects of Sparks**
 
 #### **Magnet Spark**
 
@@ -221,12 +209,16 @@ _"You feel dizzy when you hold it."_
 #### Blast Spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
--   This modifier causes the _Shadow Gun_ Mantra to hit multiple times. Even with only 1 blast spark applied, this shows clear inspiration from Duelist Dash (minus the dash part) or Cero Metralleta (what probably everyone named their blast spark shadow gun)
+-   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 
 #### Reversal Spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
+-   This modifier reverses the _Flame Leap_ Mantra forcing all players around you to rise and burn.
+    -   If you fall before the animation completes, all fall damage is negated.
+    -   When casted in water, user dives into the water and floats back up. Creates a flaming AoE when/if user reaches land.
+-   placeholder
 
 #### Multiplying Spark
 
@@ -237,12 +229,20 @@ _"You feel dizzy when you hold it."_
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
 -   This modifier is compatible with the _Fire Blade_ Mantra, but has no effect.
 
-#### Cloud stone
-
--   This modifer makes most beam moves in the game bigger
--   Cloud stone increases the amount of glacial arc
-
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
     -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together. If their better variants (**Status Stone** and **Perfect Lens**) are combined, you get Magnifying Stone.
+
+### Mantra Table Speculations
+
+-   As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
+-   New Note - Had a single lit disk and was able to combine it with my spell. At that point, I had 75 Intelligence and 70 Thundercall on level 34. It is likely that it is tied to not only Level, but also Intelligence.
+
+### Modifier Hitlist
+
+There are currently a number of Mantra Mods that can be crafted, but are unsure of how it can be. Currently, we need to find out whether or not the following mods can be crafted, the recipe of the mod if it can be crafted, and also its effects.
+
+Currently, there are:
+
+-   False Flamestone
