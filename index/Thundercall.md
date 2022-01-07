@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 9677
+revid: 10007
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -154,7 +154,7 @@ Documented Talents (excluding those unlocked by level) from Thundercaller.
 | 
 _**Stormcaller**_ | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | After using a melee spell, if you press F an additional set of lightning will come down.
 
--   (Seems to be in a bugged state right now, it will not call down lightning on any moves.)
+-   (Seems to be in a bugged state right now, it will not call down lightning on any moves.) - only works with lightning blade
 
  |
 | 

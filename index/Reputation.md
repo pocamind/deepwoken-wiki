@@ -1,16 +1,16 @@
 ---
 title: Reputation
-revid: 9535
+revid: 10066
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Reputation]
+categories: [Pages with broken file links, Reputation, Mechanics]
 ---
 
 # Reputation
 
-_“The guard gives you a crooked smile.”_ Have a nice day, friend.
+_“The guard gives you a crooked smile.”' Have a nice day, friend._
 
-If you ever get into trouble, you know who to look for...
+If you ever get into trouble, you know who to look for..."
 
 \- Nerin
 
@@ -107,9 +107,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 
 ## Factions/Entities
 
-### Reputable Factions
-
--   The Central Authority
+-   rity
 -   The Kingdom of Etrea
 -   The Navaen Nomads
 -   Summer Company (Kinda)

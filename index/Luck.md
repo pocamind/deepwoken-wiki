@@ -1,8 +1,9 @@
 ---
 title: Luck
-revid: 9498
+revid: 9977
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Luck
@@ -13,13 +14,11 @@ _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Te
 
 Luck is a hidden value that affects your Character's learning of rare Talents and Chest Items.
 
-Killing something that provides you with Luck will cause white stars to appear nearby you, signaling your luck increase.
+File:Luck particles.png
 
-  
+The luck gain particle effects. Note that the white box is a glitch and is not meant to appear along the particles.
 
-the maximum obtainable luck is 150 ; good luck figuring out what gives how much luck
-
-\-job
+Killing something that provides you with Luck will cause white particles that resemble a rune or flower, to rise around you.
 
 ## Effects of Luck
 
@@ -41,6 +40,6 @@ Other note: You get no luck from players under level 10.
 
 ## Notes/Trivia
 
--   It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).
+-   ~It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).~ You can't actually loose luck by dying to other sources than players.
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players as a higher level unless you are just that toxic, or are acting in self defense.
--   if you roll a rare/legendary card, you may as well take it as no matter which card you take, **your luck resets**(?) when you power up and doesnt carry over regardless of what card you picked.
+-   if you roll a rare/legendary card and ~pick it~, (doesn't matter if you pick it, as long as you roll one, arch said it himself [https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png](https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png))you lose a portion of your luck. It doesnt get completely reset on powerup, but your luck cap gets increased.

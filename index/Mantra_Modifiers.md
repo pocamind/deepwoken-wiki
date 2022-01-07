@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 9760
+revid: 10062
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -116,9 +116,9 @@ Deep Gems are dropped by the Primadon boss at a low rate.
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
-|  | Insignia Gem | Mantra's with this gem cast immediately after another Mantra will have it's windup removed. |
+|  | Insignia Gem | Mantras with this gem cast immediately after another Mantra will have it's windup removed. |
 |  | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra |
-|  | Blessed Gem | Removes cooldowns for mantra's without the Blessed Gem equipped |
+| File:Blessedgem.png | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
 |  | Blue Gem | Reduces Mantra ether cost |
 |  | Wayward Gem | You will teleport to the first enemy hit by the mantra |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for a short time |
@@ -169,6 +169,8 @@ Revenge
 
 Ice Chains
 
+Shadow Chains
+
  | Reverses the effect of the Mantra. |
 | 
 
@@ -214,7 +216,6 @@ _"You feel dizzy when you hold it."_
 #### Multiplying Spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
--   This modifier turns the Shadow Gun mantra into a Cero-like beam.
 
 #### Spring Spark
 

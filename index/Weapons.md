@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 9873
+revid: 10067
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -120,7 +120,10 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>Flintlock</td>
   <td>10</td>
   <td></td>
-  <td></td>
+  <td>10</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.3x</td>
 </tr>
 <tr>
   <td>Gilded Knife</td>
@@ -171,6 +174,9 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>40 LHT</td>
   <td>Dagger</td>
   <td>15</td>
+  <td></td>
+  <td></td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
@@ -313,10 +319,10 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Spear</td>
   <td>17</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>2</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.68x</td>
 </tr>
 <tr>
   <td>Officer Saber</td>
@@ -497,7 +503,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Spear</td>
   <td>20</td>
   <td>25%</td>
-  <td>8</td>
+  <td>7</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 9698
+revid: 9995
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -75,11 +75,11 @@ _"Another one..? You've got to be kidding me." - Akira_
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
 
-**The Meat Lord**
+### **The Meat Lord**
 
 _**Ey migi vuru?**_
 
-(Placeholder)
+-   A legendary chef, known for his culinary accomplisments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 
 ## Locations
 
@@ -104,7 +104,9 @@ _**Ey migi vuru?**_
 
 ### Songseeker Wilds (Etrean Luminant)
 
-(Placeholder)  
+-   A place which the "Songseekers" migrate to in order to enchance their mantra abilities.
+-   It can be assumed that this island has some sort of connection to the Song (Mantra).
+-   The trainer for Fire Mantra owns a dojo on the island.
 
 ## Factions
 
@@ -143,18 +145,20 @@ An Etrean Guard, part of the Nation of Etrea
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
 
-### The Pathfinders
+### The Old Stewards
 
--   Also known as The Old Stewards. An organization that preserves whats left before the tides came; practically Historians.
+-   Also known as The Pathfinders, is an organization that preserves whats left before the tides came; practically Historians.
 -   Can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
+-   There are a handful of people, consisting mostly of treasure hunters and expeditionists alike, claiming to be one of The Old Stewards. Though, the true people of the faction despise them for their attempt of fame.
 
-### The 11th Cloudjumper Legion
+### The Cloudjumper Empire
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _Unknown (Presumably Kingdom of Etrea and the Peacekeepers)_
--   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hivemind.
+-   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hive.
+-   The troops located in the Etrean Luminant are the 11th Legion.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
     
@@ -206,7 +210,7 @@ A Dark Mage, located in Minityrsa.
 ### The Contractors
 
 -   **Territory:** _Unknown_
--   **Attunements:** _Time Attunement?_
+-   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
 
@@ -221,6 +225,7 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _Summer Company_
 
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company
+-   They've been spotted attempting to take over Diver terriotry, however their efforts have been less than successful.
 
 ### The Central Authority
 
@@ -238,7 +243,7 @@ A Peacekeeper Grunt, part of The Authority
 
 ### The Hive
 
--   **Territory:** _The Lordsgrove, Greathive Aratel_
+-   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea_
@@ -258,7 +263,15 @@ A Peacekeeper Grunt, part of The Authority
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
 
-  
+### Krulians
+
+-   **Territory:** _???_
+-   **Attunements:** _Thundercall?_
+-   **Alliances:** None
+-   **Enemies:** _None_
+-   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
+-   Claim to be a link between surface dwellers and "The Gods Below"
+-   Also claims to be the next step in evolution
 
 ## Attunement Lore
 
@@ -281,13 +294,12 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
-  
-
 ## Before the Tides
 
 ### City of Celtor
 
 -   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
+-   It is unknown what purpose the cathedrel would have served in a time before the tides, or if it even existed.
 
 ### Life before the Tides
 
@@ -310,7 +322,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### The Great Drowning
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
--   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met.
+-   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met. (Climate Change?)
 
 ### Lightkeepers
 
@@ -337,6 +349,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
 -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
+-   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 
 ## Miscellaneous (Doesn't fit into a specific category)
 

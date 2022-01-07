@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 9580
+revid: 10000
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -153,18 +153,8 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td></td>
 </tr>
 <tr>
-  <th>Venting</th>
-  <td>You release a short burst of Ether, if timed correctly to the peak of the burst (when the particles are at their high) you can dodge all damage to any magical attack. You will most likely only be able to vent normal spells and not ritual spells though. (VENTING HAS BEEN REMOVED)</td>
-  <th></th>
-</tr>
-<tr>
   <th>Spell Feinting</th>
   <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You could even bait at a vent by going to cast a fireball then switching to a weapon and deal damage while they are venting. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.</td>
-  <td></td>
-</tr>
-<tr>
-  <th>Ritual Casting</th>
-  <td>This is a more advanced form of spell casting, letting you produce more powerful attacks at a cost. You will need to click multiple keys to cast these, it is speculated that a GUI will pop up while casting to help you. It is also speculated that while these spells will take a fair time to complete, you may also need certain items to use, for example sacrifice a leaf or piece of gold.</td>
   <td></td>
 </tr>
 </tbody>
@@ -184,6 +174,4 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 ## Notes
 
--   With enough skill you can easily 1v5, so a skilled player is a huge danger. (except no because one of the 5 will have a lightning strike spell that you will not be able to avoid with all of the pressure)(Except no, because multiple people hitting you at once would break your guard)
--   This may be a perk or some unique skill, but as shown in Nanoprodigy's video or the Deepwoken Direct, upon knocking someone out you gain some if not all of your health back. This may be useful at times when your getting ganked.
 -   The Health and Survival GUI have 5 separate bars in them that represent 20%. This will help you to interpret damage dealt, health percentage and help me to interpret the percentage of water and food each consumable fills. :D

@@ -1,9 +1,9 @@
 ---
 title: NPCs
-revid: 9371
+revid: 10037
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, World]
 ---
 
 # NPCs

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 9799
+revid: 10049
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -667,6 +667,35 @@ x2 Lionfish Scale
 +50% Stealth
 
  |
+| i have a picture but i
+
+cant add it
+
+if u can add it and want
+
+the pic my disc is
+
+aidan#4606
+
+ | Cloak of Winds | x5 Cloth
+
+x10 Erisore
+
+x2 Strange Claw
+
+x1 Vibrant Gem
+
+ | Power 30 | +1200 Durability
+
++20% Physical Armour
+
++30% Elemental Armour
+
++25% Shadow Armour
+
+_Talent: Paired Soul_
+
+ |
 
 ### Master
 
@@ -824,17 +853,39 @@ You can find an NPC that transfers your gear's attributes/stats into another, fo
 | 
 File:Herbalist's Hat.png
 
- | Herbalist's Hat |  |
+ | Big Herbalist's Hat | Talent: Iron Gut
+
+Talent: Herbivore
+
++Random Buff
+
+ |
+| 
+
+File:Alchemist Hat.png
+
+ | Alchemist's Hat | Talent: Apothecary
+
+Talent: Pitcher
+
++Random Buff
+
+ |
 | 
 
 File:Authorityhelm.png
 
- | Authority Helm | 2 random buffs. |
+ | Authority Helm | 2 Random Buffs |
+| 
+
+File:KnightHelm.png
+
+ | Knight's Helm | 3 Random Buffs |
 | 
 
 File:GreyGumshoeHat.png
 
- | Grey Gumshoe Hat | Random buff. |
+ | Gumshoe Hat | Random Buff |
 
 ### Face
 
@@ -853,6 +904,9 @@ File:Hairband.jpg
 | 
 
  | Bandana | None |
+| 
+
+ | Eyeglasses | Random Buff |
 
 ### Ears
 
@@ -867,8 +921,13 @@ File:Hairband.jpg
 | 
 
  | Ruby Red Earrings |  |
+| 
 
-### Torso
+File:MasterThief.png
+
+ | Master Thief Earrings | 2 Random Buffs |
+
+### Neck
 
 | Image | Armor | Effects |
 | --- | --- | --- |
@@ -877,7 +936,7 @@ File:Golden Cape.png
 
  | Golden Cape | Buffs a random stat. |
 
-### Arms
+### Torso
 
 | Image | Armor |
 | --- | --- |
@@ -917,6 +976,11 @@ File:Flameguard.png
 File:Vanguardbrace.png
 
  | Vanguard Brace |
+| 
+
+File:Aristocrat Coat.png
+
+ | Aristocrat Coat |
 
   
 

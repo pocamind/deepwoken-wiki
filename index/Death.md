@@ -1,9 +1,9 @@
 ---
 title: Death
-revid: 9065
+revid: 10030
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Death]
+categories: [Pages with broken file links, Death, Mechanics]
 ---
 
 # Death

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 9499
+revid: 9983
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -38,7 +38,10 @@ You can get Frostdraw by either getting it as a starter element/random or by giv
 |  | Ice Eruption (☆) | A flurry of ice spikes. | Your character firmly stomps the floor to create a long path of ice spikes. Deals moderate damage and slow targets for quite a while compared to other ice mantras (about 2 seconds). The mantra also creates a very wide ice sheet beneath it. |
 |  | Ice Smash (☆) | A colossal mace of ice. | Your character creates a Kanabō. Your character then proceeds to quickly bash the club into the floor, dealing heavy damage and flinging targets with low knockback. Briefly slows the target. This mantra can also destroy breakables. |
 | File:Icelance.gif | Ice Lance (☆☆) | Form an icey spear and lunge forward. | Creates a short and narrow ice spear jutting out from the players right arm. Your character then qucikly dashes forward with their spear arm outforward in the direction of the dash. Deals moderate damage and breifly slows target. |
-|  | Ice Fissure (☆☆☆) | Send ice rippling out in a shockwave. | The player holds an ice pickaxe and stomps on the ground. A floating ice pillar is created at the impact site and the floor turns to ice. The ice pillar pulsates a blue aura. |
+|  | Domain expansion
+(☆☆☆)
+
+ | Send ice rippling out in a shockwave. | The player holds an ice pickaxe and stomps on the ground. A floating ice pillar is created at the impact site and the floor turns to ice. The ice pillar pulsates a blue aura. |
 
 ### **Mobility Mantras (1 Max)**
 

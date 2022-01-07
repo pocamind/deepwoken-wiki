@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 9774
+revid: 9949
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -112,6 +112,8 @@ _Possibly inflicts opponents with fall damage._
  | A powerful wind blast. | Fires a penetrating bullet of wind.
 
 Damages and flings opponents.
+
+Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
 
  |
 | 

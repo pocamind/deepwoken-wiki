@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 9895
+revid: 10011
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -177,7 +177,7 @@ Phoenix fire effect
 
   
 
-### **Dimensional Shift**
+### **Portal Travel**
 
 #### Effects:
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 9744
+revid: 10020
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -48,6 +48,8 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 ### Agility
 
 > _"Parkour—PARKOUR!" - Last words of a Ganymede_
+
+Template:Quote
 
 > _"I'M RUNNIN' CIRCLES AROUND YA!"_ _\- Etrean Pitcher to a beefy Canorian._
 

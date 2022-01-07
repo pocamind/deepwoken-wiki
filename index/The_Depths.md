@@ -1,8 +1,9 @@
 ---
 title: The Depths
-revid: 9881
+revid: 9997
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # The Depths
@@ -19,6 +20,10 @@ _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dott
 There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate, or climb the wall to drop down into the bastion from above.
 
 ### _The Bells_
+
+File:Citymap.png
+
+Rough map of the City of the Drowned
 
 The City of the Drowned is split into 6 sections. 4 of them have a bell, and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Unrung bells can be found by following a humming/shimerring sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 

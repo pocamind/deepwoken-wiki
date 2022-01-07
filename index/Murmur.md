@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 9678
+revid: 9970
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,7 +28,7 @@ Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) wi
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Murmur: Ardour</td>
+  <td>Ardour</td>
   <td>An application of the Song that enables one to channel the Murmur into raw strength. Press H.<p><br>
   [Provides +5 Sanity, +9 Carry Load]</p></td>
   <td>Provides a buff to your attack speed and damage. Drains ether the longer you use it. (According to currently available information.)</td>

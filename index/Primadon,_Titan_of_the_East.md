@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 9912
+revid: 9957
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -17,9 +17,7 @@ _Also known as Sea Monkey, Gorilla, and Monkey._
 
 Loud and enormous, the Primadon is a giant with the appearance of a monkey with fins. The Primadon can be instantly spawned by offering 5 Megalodaunt hides (you can use any monster parts) to the fire in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
-I'm not sure how many times I have to correct this wiki but, when Primadon kills you (stomps you) you get insta sent to the depths unless you have 40+ willpower. I have tested this and you can literally not prove me wrong.
-
-  
+It is unknown whether being sent to the depths by dying to Primadon is a chance or related to being on The Monkey's Paw at the time of death.
 
 ## Attacks
 
