@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 10585
+revid: 10620
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -22,9 +22,25 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
--   You need max Luck.
--   After you have max luck (indicated by having the eye symbol but not the white rectangle hovering over your opponent) you go to the depths.
--   Be knocked in the Depths, and you will rise and obtain resonance.
+**Confirmed method by multiple resonance users, Kanorogue#6037.**
+
+File:Arch2.png
+
+After a confirmation by Arch, we have learned that progress toward resonance is most likely based on the amount of monsters you have killed.
+
+It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat, notably, progress is obtainable in The Overworld.
+
+You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
+
+While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciate with things like hours in The Depths or max luck or a higher level.
+
+TLDR:
+
+-   Resonances are dependant on a seperate stat from Luck, known as Progress.
+-   Progress is obtained identically to Luck, anything that will drop Luck will drop Progress.
+-   Progress can never be lost or reset, besides wiping.
+-   Progress can be obtained in The Overworld and carry over to The Depths.
+-   Max progress takes signifcantly longer than max Luck.
 
 ## How Do You Change A Resonance?
 

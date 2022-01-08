@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10520
+revid: 10660
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -540,7 +540,7 @@ Hand of Mantra Cards
 
 -   Vow of Mastery \[Generic Talent, Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (+1 Ether, +1 Health)
     -   Prerequisites: Charisma (around level 20 \[Whoever got this at 20, I can confirm. )
-    -   Commands Given: "Drop (Item)", "Eat (Item)", "Say (Text)", "Use (Weapon Name)"
+    -   Commands Given: "Sleep", "Drop (Item)", "Eat (Item)", "Say (Text)", "Use (Weapon Name)"
 
 -   Command: Run \[Generic Talent, 35 Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery

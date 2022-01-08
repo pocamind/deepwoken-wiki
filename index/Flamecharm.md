@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 10402
+revid: 10663
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -162,7 +162,7 @@ These talents are unique to their element and _may_ have no category.
 
 Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
 
-Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 75.
+Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70.
 
 Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
 

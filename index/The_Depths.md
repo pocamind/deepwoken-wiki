@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 10559
+revid: 10655
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -43,7 +43,11 @@ Completing your trial and escaping The Depths gives you a new talent "[Depth Con
 
 | Level | Possible Enemies |
 | --- | --- |
-| <15 | N/A - You escape without fighting a monster |
+| <8 | N/A - You escape without fighting a monster |
+| 8-15 | N/A - You escape without fighting a monster
+Sometimes you might have to fight a [Hive Guard](https://deepwoken.fandom.com/wiki/Enemies#The_Hive)
+
+ |
 | 16-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-27 | [Angels](Hollow_Angel.md) |
 | 28-44 | [Megalodaunt](Megalodaunt.md) |

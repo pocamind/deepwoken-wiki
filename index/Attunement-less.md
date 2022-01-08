@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 10510
+revid: 10658
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 **Dash** - An agile Dash. (Requirement: Agility, Mobility Mantra)
 
-**Adrenaline Surge** - An adrenaline rush of agility. (Requirement: Agility, Support Mantra)
+**Adrenaline Surge** - An adrenaline rush of agility. (Requirement: 20 Agility, Support Mantra)
 
 **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Damage significantly increases as the user loses health. (Requirement: 5 Agility, Combat Mantra)
 

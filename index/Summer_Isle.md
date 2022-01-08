@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 10295
+revid: 10635
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,25 +16,27 @@ The Summer Isle is an island in the Aratel Sea. This island is the only currentl
 
 ## Island Contents
 
-Inside of the buildings of the island, there is a gun store. This sells [Flintlocks](Flintlock.md) for 100 Notes, Revolvers 200 Notes, and Dragoons for 500 Notes. Ammunition can be purchased nearby and at Etrea, for 5 notes each.
+Inside of the buildings of the island, there is a gun store. This sells [Flintlocks](Flintlock.md) for 100 Notes, Revolvers 200 Notes, and Dragoons for 500 Notes. Ammunition can be purchased nearby and at Etrea, for 5 notes each, alternatively it can be made by crafting with 1 iron in your inventory, resulting in 5-10 bullets (will update when I have precise amount).
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks.
 
 There is a forge where an accessory can be given the appearance of another, at the cost of another accessory.
 
-There is, apparently, a supply room. I personally was unable to find it.
+There is a supply room which contains Scope, the NPC that you give the explosives crates to in return for a chest.
 
-There are a few merchants inside of the "Castle" area.
+The castle contains a gunsmith who you can talk to initiate a fight with another player in an arena below the castle.
+
+In the castle there is a merchant to sell normal items to, a merchant to sell purple items to, a mantra shop (with a mantra table), a training gear shop, and a crafting bench.
 
 There is an NPC on the second floor of the fortress. He is the Thundercall [Spelltrainer](Attunement_Trainers.md)
 
-Finally, there is a strange Stonehenge-like structure. The purpose of this is unknown. It has some sort of device which also appears in a cave nearby.
+Finally, there is a strange Stonehenge-like structure. This structure is where you arrive after invoking to Summer Isle from Greathive Aratel. It has some sort of device which also appears in a cave nearby.
 
 Some food items can be found, in addition to at least 1 treasure chest. In the treasure chest I found, there were 6 sapphires.
 
 ## Island Denizens
 
-There are many guards on this island, and some nomads on the outskirts. There seem to be bandits? On the beaches. I witnessed a guard and another NPC fighting, but I don't know what the mystery NPC was. (Potentially a necromancer, I've seen nomands fighting them here). The guards wield flintlocks. Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. More may be in the mountainous areas of the island.
+There are guards on this island that wield flintlocks, and some nomads on the outskirts. There is also an event in which the guards are fighting what seems to be the Ignition Union (They are wearing Ignition Union armor) Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. There is an npc reading a book on a bridge near the castle, which you can access by climbing down a ladder and following a path, this NPC clears your reputation. Necromancers will rarely spawn here aswell and will most of the time fight the guards.
 
 ## Quests
 

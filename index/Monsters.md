@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 10571
+revid: 10610
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -12,7 +12,7 @@ categories: [Monsters, World]
 
 _For information on Human Enemies, go [here](Enemies.md)._
 
-## The Prologue
+## Introduction
 
 Deepwoken's finest, and arguably and or debatably main/primary focus, are the hostile Creatures. They can wear and tear unaware NPCs and (mostly) players apart if they are ill-equipped or inexperienced, along with sinking your nautical ships into the ocean blue and if you're unlucky...
 

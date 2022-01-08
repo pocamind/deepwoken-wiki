@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 10217
+revid: 10657
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -22,7 +22,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 
 ### Attacks
 
--   **Displacement -** Whenever the player get too close to the Ferryman and while it is not attacking, or after a delay if the player stays far, the Ferryman will teleport to another spot in the arena, immediatly using another attack afterward.
+-   **Displacement** - The Ferryman teleports to a different location on the battlefield and immediately uses another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
 -   **Lightning Clones** - The Ferryman summons two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing. He only uses Lightning Clones when above half health.
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping.
@@ -38,7 +38,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
 -   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn.
 -   **Luck** - You receive a boatload of luck (get it?) for your card draws.
--   **A Chest -** Might just be Earrings, during the summer, does not drop on subsequent attempts
+-   **A Chest -** Might just be earrings. Does not drop on subsequent attempts. Received only during summer.
 
 ## Trivia/Notes
 

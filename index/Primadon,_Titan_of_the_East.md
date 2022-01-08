@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 10127
+revid: 10630
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -13,7 +13,7 @@ Template:Creature Infobox V3
 
 ### **Description**
 
-_Also known as Sea Monkey, Gorilla, and Monkey._
+_Also known as Sea Monkey, Gorilla, and Monke._
 
 Loud and enormous, the Primadon is a giant with the appearance of a monkey with fins. The Primadon can be instantly spawned by offering 5 Megalodaunt hides (you can use any monster parts) to the fire in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
@@ -23,7 +23,7 @@ It is unknown whether being sent to the depths by Primadon is related to chance 
 
 -   **Stomp** - Primadon raises its foot and stomps once, this attack is AOE. Parriable
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Parriable, will ragdoll.
--   **Kick** - Similar to the [sharko](Megalodaunt.md) kick. Can only be dodged.
+-   **Baby Kick** - Similar to the [sharko](Megalodaunt.md) kick except sharko's don't launch you into orbit. Can only be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can only be dodged.
 
 ## Combos

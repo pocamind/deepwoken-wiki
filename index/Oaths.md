@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 10581
+revid: 10618
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oaths
@@ -103,11 +103,11 @@ This section is for oaths that are speculated to be real and are being investiga
 </tbody>
 </table>
 
+Image of the card
+
 ### Pre-Requisites:
 
--   Intelligence/Unknown
-
-Image of the card
+-   Intelligence - Most Intelligence Cards/Unknown
 
 ### How to obtain:
 
@@ -124,43 +124,36 @@ Image of the card
 ## Notes:
 
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
-
--   Theorized to be an Intelligence Oath.  
-    
+-   Theorized to be an Intelligence Oath.
 
 <table>
 <tbody>
 <tr>
-  <td>Oath: Windrunner</td>
+  <td>Oath: Wildwood</td>
 </tr>
 </tbody>
 </table>
 
-  
+File:Moth.png
+
+Higher Qual image of Oath
 
 ### Pre-Requisites:
 
--   Agility/Unknown
-
-Windrunner Image
+-   Unknown
 
 ### How to obtain:
 
--   Speak to the Windrunner, located on top of a gate near Erisia. Currently Requirement is Unknown but speculated to be Agility. (_Unknown_)
+-   Unknown
 
 ### Oath Effects:
 
--   +35 Passive Agility
--   +2 Mobllity Mantra Slots
--   +1 Wildcard Slots
+-   Unknown
 
 ### Oath Description:
 
-"Simply walking with the wind will not suffice - one must run as if they were the wind itself."
-
-Windrunner
+"Invoke the Moth, born from blood of kin, a pox upon the actor of fraticide. Consanguinous voices callout; the Moth answers."
 
 ## Notes:
 
--   Most likely the Agility Oath.
--   Has some validity due to diagloue with the Windrunner.
+-   Could be fake as this Moth entity as never been heard of or mentioned in game.
