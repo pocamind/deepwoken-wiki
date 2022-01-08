@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 10350
+revid: 10519
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Armors]
 
 ## Description
 
-(**Warning**: This is a SUS AMOGUS)
+(**Warning**: This is a RNK (1) Page. If any griefing occours please let an admin know.)
 
 There are many kinds of Armor in Deepwoken, with types of Armor pieces (Common, Uncommon, Rare, Epic, Legendary) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Landmass
 
@@ -34,7 +34,7 @@ The majority of Outfits (along with armor pieces) requires a certain requirement
 
 Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).
 
-File:9k (1).png
+File:Outfits List.png
 
 Image of the Outfit List, with 2 outfits learned
 
@@ -841,7 +841,7 @@ x500 Notes
 
 ## Accessories
 
-**Note: The stats on nearly all accesories are random. Any numberical stat boosting effects you see in this section should be disregarded.**  
+**Note: The stats on nearly all accesories are random. Any numerical stat boosting effects you see in this section should be disregarded.**  
 Armor pieces come in different "rarities" (such as Ascended) meaning that item has more or higher valued stat bonuses. This can apply to items that dont normally roll with stats, such as an iron mask or headband.
 
 You can find an NPC that transfers your gear's attributes/stats into another, for matching your attire and drip. The NPC, by the name of Jarvis, is located inside the Stronghold of [Summer Isle](Summer_Isle.md), near the Underground Arena.
@@ -1062,6 +1062,7 @@ File:Purifyingring.PNG
 File:Dazedband.PNG
 
  | Dazed Band | Flourishing an opponent has a 50% chance to stun them. |
+|  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |
 
   
 

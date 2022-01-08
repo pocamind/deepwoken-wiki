@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 10107
+revid: 10510
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 **Rally** - Strike your shield a few times to absorb some of the posture received by nearby guildmates for a short duration. (Requirements: Fortitude + Any Shield, Support Mantra) (also can be upgraded with aeon longstone or eternal logstone to extend the duration)
 
-**Reinforce** - Buff those around you with extra strength. (Requirements: Fortitude, Support Mantra)
+**Reinforce** - Buff those around you with extra defense. (Requirements: Fortitude, Support Mantra)
 
 **Brace** - Brace yourself against attacks and gain hyperarmour. (Requirements: Fortitude, Support Mantra)
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10294
+revid: 10556
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -121,7 +121,7 @@ _**Ey migi vuru?**_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority.
--   Their appearance can be distinguished by their white/green armor.
+-   Their appearance can be distinguished by their white/green/purple armor.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -308,7 +308,9 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
-  
+### Galebreathe
+
+Some Galebreathe lore is on WhiteWarbler's Youtube, "The Aberrant Archive"  
 
   
 
@@ -331,7 +333,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc). This seems to be many races main point of contention with them, viewing them as alien.
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
--   ~Some believe they may be based off of fish.~ (This was confirmed untrue by Arch\_Mage in the official Discord server.)
+-   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
 
 ## Deepwoken: ~1271
 
@@ -381,9 +383,6 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Mudskippers
 
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Squibbo or time within The Depths itself, they will eventually turn into mindless monsters.
--   Mudskippers- have sort of speech. Other than "gurgling", they speak somewhat fluently with eachother. It's unsure if this dialogue event is intentional or not, but its something worth taking notes of.
-
-Talking Mudskippers, located in Erisia Mines
 
   
 

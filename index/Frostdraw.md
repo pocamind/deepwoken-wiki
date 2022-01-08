@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 10355
+revid: 10404
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -60,11 +60,11 @@ Impale/Impact
 -   Deals around six to eight hits.
 
  |
-| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Trash | A legion of garbage. | Summons four or five ice trash that blow farts.
+| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Soldiers | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
 
--   Area of Effect attack that dances and buffs enemies inside.
+-   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.
--   Similar to Flamecharm's [Burning Trash](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
+-   Similar to Flamecharm's [Burning Servants](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
 
  |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Placeholder | Fires a penetrating bullet of ice.
@@ -175,7 +175,9 @@ Impale/Impact
 
 ### **Support Mantras**
 
-There are no known Support Mantras for Frostdraw currently.
+| **Image** | **Name** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
 
 ## Talents
 

@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 9709
+revid: 10526
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -8,7 +8,7 @@ categories: [Random Encounters]
 
 # The Meat Lord
 
-The Meat Lord is a Random Encounter and a merchant in Deepwoken. He sells three types of meat dishes at low prices. The available items seem to be randomly selected from a larger pool of food items.
+The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in Deepwoken. He sells three types of meat dishes at low prices. The available items seem to be randomly selected from a larger pool of food items.
 
 ## Wares
 

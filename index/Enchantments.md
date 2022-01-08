@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 9894
+revid: 10505
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -263,7 +263,7 @@ Drowned
 
  | 
 
-The user swims faster in water. (?)
+The user is granted 2x damage when in the depths.
 
   
 

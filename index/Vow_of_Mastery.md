@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 10065
+revid: 10558
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,7 @@ The player must respond with "yes." Once accepted an animation will play and the
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
-| Return | Yes, 60 Charisma? | "_\[Name\]_, return" | Forces the Subject to tp back to the Master. |
+| Return | Yes, 60 Charisma? | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a limited range unlike all other commands. |
 | Sacrifice | Yes, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
 | Live | Yes, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko. |
 
@@ -47,3 +47,4 @@ The player must respond with "yes." Once accepted an animation will play and the
 -   As long as you have friends and/or alts, you may use Vow of Mastery to improve a bossraid. You can stuff a bunch of alts in an obscure location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
 -   You cant make a vow on the same person, even if you originally had a vow, and you got wiped, and they lived, you cant make a vow with them again.
 -   You can still get Vow of Mastery with Oathless talent.
+-   Return can save someone from being gripped, but not from being carried.

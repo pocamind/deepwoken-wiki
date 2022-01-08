@@ -1,8 +1,9 @@
 ---
 title: Nautilodaunt
-revid: 9540
+revid: 10569
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters]
 ---
 
 # Nautilodaunt
@@ -17,16 +18,16 @@ Sometimes referred to as Squid Hoss. Considered the hardest enemy to solo, as it
 
 Drops "Odd Tentacles".
 
-### Attacks:
+### Attacks
 
 -   **Melee Rush** - Punches you many times into kicks.
 -   **Kick** - Kicks the opponent.
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 -   **Feint** - Feints an attack to throw you off.
 
-### Abilities:
+### Finisher
 
--   **Mudskipped** - Get turned into a Mudskipper (ko).
+-   **Mudskipped** - Get turned into a Mudskipper.
 
 ## **Notes/Tips**
 
@@ -39,3 +40,4 @@ Drops "Odd Tentacles".
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does an INSANE amount of damage.
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that raidus, he will be able to hit you.
 -   DO NOT RUN IF YOU ARE LOW. If you attempt to run after engaging in a fight, he will wipe you.
+-   Sometimes you can log if he sees you.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 10340
+revid: 10559
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,8 +46,8 @@ Completing your trial and escaping The Depths gives you a new talent "[Depth Con
 | <15 | N/A - You escape without fighting a monster |
 | 16-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-27 | [Angels](Hollow_Angel.md) |
-| 28-40 | [Megalodaunt](Megalodaunt.md) |
-| 41-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
+| 28-44 | [Megalodaunt](Megalodaunt.md) |
+| 41-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) (Chance) |
 | 45< | [Enforcer](Enforcer.md) |
 
 Dont change it back, AT level 40 i got a normal sharko!
@@ -147,3 +147,4 @@ Almost everything in the game drops in the depths
 -   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths.
 -   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
 -   A easy way to get out of the depths known as the barrel method is commonly used to surface. Example-[here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-
+-   The trial voices are not gods......this has been debunked.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10286
+revid: 10520
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -493,7 +493,7 @@ Hand of Mantra Cards
 ### Tactician
 
 -   Hard Read \[Generic Talent, Common Talent\] - Hitting your opponent during a deint will cause them to be dazed. (+4 Ether)
--   Target Switch \[Generic Talent, Common Talent\] - Parrying an Opponent then hitting someone else makes your next Mantra free. (+4 Ether)
+-   Target Switch \[Generic Talent, Common Talent\] - Parrying an Opponent then hitting someone else makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
 
 ### Thief
 

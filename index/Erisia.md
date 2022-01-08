@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 8824
+revid: 10518
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,8 +11,11 @@ _"An Island that drifted from [the Void Sea](Voidsea.md). A place, crawling with
 
 ## Notable Locations
 
-[Lower](Lower_Erisia.md) and [Upper Erisia](Upper_Erisia.md)
+-   [Lower Erisia](Lower_Erisia.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [Erisor's Church](<Erisor's_Church.md>)
+-   Tomb of the Nameless Warrior
 
-[Erisor's Church](<Erisor's_Church.md>)
+## Trivia
 
-Tomb of the Nameless Warrior
+-   Erisia is frequently referred to as "Bandit Island" by players.

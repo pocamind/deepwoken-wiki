@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 10263
+revid: 10584
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -41,16 +41,6 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
  | Clutching Shadow | A shadowy hand. | Chokes enemies in a radius, and slams them down. It will notify targeted enemies with a red glow, and if they are hit it'll replenish ether equal to the cost. Blockable. |
 |  | 
 
-> (★☆☆)
-
- | Shadow Chains | Chains of shadow. | Throws out a blockable chain that, if connects, drains the targets ether and health for ~3 seconds. It fills the users ether simultaneously. |
-|  | 
-
-> (★☆☆)
-
- | Shadow Eruption | Form a shockwave of darkness. | The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable. |
-|  | 
-
 > (★★☆)
 
  | Shadow Roar | Roar a wave of shadows. | The user leans and creates a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. You are unable to move while using it. Blockable but block breaks, can be parried. |
@@ -65,6 +55,27 @@ In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbr
   <td>Shadow Meteor</td>
   <td>Hail down meteors of darkness.</td>
   <td>Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.</td>
+</tr>
+</tbody>
+</table>
+
+### **WILD CARDS**
+
+<table>
+<tbody>
+<tr>
+  <td><sup></sup></td>
+  <td><blockquote><p>(★☆☆)</p></blockquote></td>
+  <td>Shadow Chains</td>
+  <td>Chains of shadow.</td>
+  <td>Throws out a blockable chain that, if connects, drains the targets ether and health for ~3 seconds. It fills the users ether simultaneously.</td>
+</tr>
+<tr>
+  <td></td>
+  <td><blockquote><p>(★☆☆)</p></blockquote></td>
+  <td>Shadow Eruption</td>
+  <td>Form a shockwave of darkness.</td>
+  <td>The user swipes before releasing a burst of shadow, similar to Flamecharm's Flame Repulsion. It hits twice and inflicts black flames with both hits. It is blockable.</td>
 </tr>
 </tbody>
 </table>

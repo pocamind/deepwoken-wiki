@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 10035
+revid: 10571
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, World]
@@ -50,7 +50,6 @@ Lastly, but definitely not least:
 
 Missing:
 
--   Stone knight
 -   Golem Turret
 
 (These are NOT 'variants' as they have different behaviors than their normal variants, and will even attack their original versions in the case of Alpha megalodaunts)

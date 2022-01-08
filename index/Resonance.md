@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 10160
+revid: 10585
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -22,19 +22,9 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-**Confirmed method by multiple resonance users, Kanorogue#6037.**
-
-File:Arch2.png
-
-After a confirmation by Arch, we have learned that progress toward resonance is most likely based on the amount of monsters you have killed.
-
-It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat.
-
-You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
-
-While there is no level or criteria required to get a bell besides max Progress, max Progress requires so much time of playing that it will be most likely that you obtain one at a high level.
-
-Tldr: it's basically luck but you can't lose it and it has a much higher max.
+-   You need max Luck.
+-   After you have max luck (indicated by having the eye symbol but not the white rectangle hovering over your opponent) you go to the depths.
+-   Be knocked in the Depths, and you will rise and obtain resonance.
 
 ## How Do You Change A Resonance?
 

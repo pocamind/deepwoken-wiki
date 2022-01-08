@@ -1,9 +1,9 @@
 ---
 title: Notes
-revid: 7039
+revid: 10573
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Sus]
+categories: [Pages with broken file links]
 ---
 
 # Notes

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 10354
+revid: 10402
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -44,15 +44,11 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   User is invincible during casting.
 
  |
-| File:Снимок экрана 2021-12-31 211752.png | Burning
+| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summon six burning soldiers that attack the position of the caster.
 
-Trash
-
- | A legion of garbage. | Summon six burning trash that attack absolutely nothing.
-
--   Deals no damage.
--   Doesn't hit $hit.
--   Similar to Frostdraw's [Frozen Trash](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
+-   Deals moderate damage.
+-   Burns target(s).
+-   Similar to Frostdraw's [Frozen Soldiers](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
 
  |
 |  | Fire Gun | A bullet of flames shot through each hand. | User readies and propels two balls of fire from their hands.

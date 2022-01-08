@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 9132
+revid: 10588
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Stone Knight
 
-## Snow Knight (Bartholemue)
+## Snow Knight
 
 Exclusive to the Winter season.
 

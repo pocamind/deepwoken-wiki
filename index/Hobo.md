@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 8508
+revid: 10521
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPC]
@@ -27,7 +27,7 @@ Attacks:
 
 Finisher(s):
 
--   \_\_\_\_ (fill in later)
+-   **FIRE**
 
 Tips/Notes:
 

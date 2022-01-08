@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 10092
+revid: 10373
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -42,6 +42,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 -   Slash + Slash: If you block the first hit instead of parrying, the second hit will guard-break.
 -   Slash + Kick: You can block and parry the slash, but the kick must be dodged.
+-   Kick (Watch Your Tone): Megalodaunt simply kicks at you.
 
 ## Variants
 

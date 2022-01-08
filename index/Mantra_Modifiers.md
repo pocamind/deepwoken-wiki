@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10356
+revid: 10366
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -26,7 +26,7 @@ Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) requir
 
 ## Mantra Modifiers
 
-You can stack up to 3 of each modifier, including their weaker versions. This increases Ether cost though.
+You can stack up to 3 of each modifier, including their weaker versions. This increases Ether cost though. The upgraded versions of modifiers (i.e. Cloudstone -> Stratus Stone) increase the ether cost further than their weaker counterparts.
 
 | Image | Modifier | Effect |
 | --- | --- | --- |

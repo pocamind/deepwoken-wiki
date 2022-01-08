@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 10124
+revid: 10581
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,4 +80,87 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 -   According to a Blindseer user, with Willpower 40, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
 -   If you don't have any face accesory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
--   You can equip other face accessories and still have the full effects of the oath, excluding increased brightness.
+
+You can equip other face accessories and still have the full effects of the oath, excluding increased brightness
+
+<table>
+<tbody>
+<tr>
+  <td>Speculated Oaths</td>
+</tr>
+</tbody>
+</table>
+
+This section is for oaths that are speculated to be real and are being investigated, feel free to add oaths that you speculate to be real. _(If it looks fake please don't post it things like Celestial or Paladin that have been debunked)_ any oaths that are debunked already will be removed. Also please follow the format that the oaths above have.
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>Oath: Visionshaper</td>
+</tr>
+</tbody>
+</table>
+
+### Pre-Requisites:
+
+-   Intelligence/Unknown
+
+Image of the card
+
+### How to obtain:
+
+-   Unknown
+
+### Oath Effects:
+
+-   Unknown
+
+### Oath Description:
+
+"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."
+
+## Notes:
+
+-   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
+
+-   Theorized to be an Intelligence Oath.  
+    
+
+<table>
+<tbody>
+<tr>
+  <td>Oath: Windrunner</td>
+</tr>
+</tbody>
+</table>
+
+  
+
+### Pre-Requisites:
+
+-   Agility/Unknown
+
+Windrunner Image
+
+### How to obtain:
+
+-   Speak to the Windrunner, located on top of a gate near Erisia. Currently Requirement is Unknown but speculated to be Agility. (_Unknown_)
+
+### Oath Effects:
+
+-   +35 Passive Agility
+-   +2 Mobllity Mantra Slots
+-   +1 Wildcard Slots
+
+### Oath Description:
+
+"Simply walking with the wind will not suffice - one must run as if they were the wind itself."
+
+Windrunner
+
+## Notes:
+
+-   Most likely the Agility Oath.
+-   Has some validity due to diagloue with the Windrunner.
