@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 8834
+revid: 10337
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -83,8 +83,52 @@ Ambience that can be found in different areas.
 
 Miscellaneous sounds found in Deepwoken.
 
+#### **Cards**
+
+-   **Card Pick**
+-   **Card FlipFile:Audio-card flip.ogg**
+-   **Rare Card**
+-   **Legendary Card**
+
+#### **Combat**
+
+-   **Enter Combat**
+-   **Enter Combat(Depths)**
+-   **Unsheathen SwordFile:Unsheathe2.ogg**
+-   **Sheathen SwordFile:Sheathe.ogg**
+-   **Sword Swing 1**
+-   **Sword Swing 2**
+-   **Sword Hit 1**
+-   **Sword Hit 2**
+-   **Sword Critical**
+-   **Sword Execute**
+
+-   **PunchFile:Punch3.ogg**
+
+-   **BlockFile:Block2.ogg**
+-   **Parry 2**
+-   **Guard Break**
+
+#### **Enemies**
+
+-   **Crab Screech**
+-   **Lionfish 1**
+-   **Lionfish 2**
+-   **Lionfish 3**
+-   **Lionfish 4**
+-   **Sharko Roar 1File:PROTO sharkoroar1.ogg**
+-   **Sharko Roar 2File:Sharko2.ogg**
+
+#### **Notes**
+
+-   **Gaining Notes**
+-   **Losing Notes**
+
+#### **Other**
+
 -   **Ascension (the sound that plays when you complete the Depths trial)File:Audio-ascension22.ogg**
 -   **Level Up**
+-   **Zipline (loops)**
 
 <table>
 <tbody>
@@ -122,9 +166,25 @@ These songs were made for other purposes.
 <table>
 <tbody>
 <tr>
+  <td>Notes</td>
+</tr>
+</tbody>
+</table>
+
+### **Notes/Trivia**
+
+-   The Voidheart music is/was the music for Corvus Manor on the Isle of Crows.
+
+<table>
+<tbody>
+<tr>
   <td>Credits</td>
 </tr>
 </tbody>
 </table>
 
+### **Credits**
+
 Nakigonis: FOR MAKING THESE DELICIOUS TUNES!
+
+Twibppp: uploading every file here yeayea

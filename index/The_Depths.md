@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 10110
+revid: 10340
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,9 +46,11 @@ Completing your trial and escaping The Depths gives you a new talent "[Depth Con
 | <15 | N/A - You escape without fighting a monster |
 | 16-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
 | 20-27 | [Angels](Hollow_Angel.md) |
-| 28-38 | [Megalodaunt](Megalodaunt.md) |
-| 39-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
+| 28-40 | [Megalodaunt](Megalodaunt.md) |
+| 41-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) |
 | 45< | [Enforcer](Enforcer.md) |
+
+Dont change it back, AT level 40 i got a normal sharko!
 
 **Note:** These are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer).
 

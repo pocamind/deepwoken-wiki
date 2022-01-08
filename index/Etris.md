@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 10183
+revid: 10268
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -123,6 +123,14 @@ _Some locations may be unlisted, feel free to add them!_
 -   Accepting his quest gives you a Lumber Axe for free.
 -   10 Wood for 5 Notes.
 -   This quest is repeatable.
+
+### Nomad Meeting Mishap Quest
+
+-   Talk to the Navaen Nomad in Etris, located near the big slope ramp close to the Alchemy House.
+-   She'll talk to you about a missing individual, whom they were suppose to meet in Etris. Agreeing to help to find this person accepts the quest.
+-   Sail to Isle of Vigils (?)
+
+  
 
   
 

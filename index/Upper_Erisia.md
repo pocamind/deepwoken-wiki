@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 8826
+revid: 10267
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,3 +16,6 @@ Upper Erisia is the second part of Erisia's territory. It is a very unique area 
 -   Ruined Castle
 -   Megalodaunt Nest
 -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+-   Erisors Church
+-   Hidden Village
+-   The Garden Reservoir

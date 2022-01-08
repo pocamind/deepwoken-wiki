@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10201
+revid: 10286
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -71,43 +71,47 @@ Hand of Mantra Cards
 
 ### Alchemist
 
--   Apothecary \[Generic Talent, Common Talent\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
--   Exterminator \[Generic Talent, Common Talent\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
--   Wild Alchemy \[Generic Talent, Common Talent\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
+-   Apothecary \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
+-   Exterminator \[ Common Talent\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+-   Wild Alchemy \[Common Talent\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
 
 ### Alley Cat
 
--   Scaredy Cat \[Generic Talent, Common Talent\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
+-   Scaredy Cat \[Common Talent\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   Prerequisites: Agility
 
--   Lowstride \[Generic Talent, Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
+-   Lowstride \[Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Prerequisites: Agility | Benefit: Retain normal movement speed when crouching.
--   Conditioned Runner \[Generic Talent, Legendary Talent\] You regenrate health faster than normal when running (+1 Passive Agility)
--   Endurance Runner \[Generic Talent, Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
+-   Conditioned Runner \[Legendary Talent\] You regenrate health faster than normal when running (+1 Passive Agility)
+-   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Prerequisites: Agility | Benefit: Negates Movement Speed Penalty when low health.
 
 ### Amoran Seeker
 
--   Flame Within \[Generic Talent, Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
+-   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
 
 ### Angler
 
--   Proficient Baiting \[Generic Talent, Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
+-   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   Prerequisite: Used your Fishing Rod once properly
--   Fisher's Lure \[Generic Talent, Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
+-   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
     -   Prerequisite: Used your Fishing Rod once properly
--   Hook, Line, and Sinker \[Generic Talent, Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
+-   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Prerequisite: Used your Fishing Rod once properly
 
 ### Apex Predator
 
--   Carnivore \[Generic Talent, Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
+-   Carnivore \[Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
     -   Prerequisites: Fortitude, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Mushroom Omlettes, Candied Fruits, etc.)
+
+-   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
+    -   Prerequisites: Carnivore
+
 -   Sunken Predator \[Rare Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
 
 ### Artisan
 
--   Master Craftsman \[Generic Talent, ?\] - Your skills alone substitute the need for a Craft Station.
+-   Master Craftsman \[? Talent\] - Your skills alone substitute the need for a Craft Station.
     -   Prerequisites: Intelligence
 
 ### Athlete
@@ -155,6 +159,7 @@ Hand of Mantra Cards
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having max health makes your mantras do 1.25x damage (not exact description, but accurate).
     -   Prerequisite: Intelligence (unconfirmed)
 -   Ether Absorption \[Generic Talent, Common Talent\] - Recieve Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+-   Ether Conduit \[Generic Talent, Common Talent\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
 
 ### Charismatic Cast

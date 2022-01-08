@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 10034
+revid: 10261
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -8,69 +8,106 @@ categories: [Locations, World]
 
 # Locations
 
+A list of locations that can be found in _Deepwoken_.
+
 ## The Etrean Luminant
 
-### **The Etrean Sea**
+**The Etrean Sea:**
 
-#### Etrea
+A list of locations that can be found in the Etrean Sea.
 
--   Etris (Starting Island) - Note that Etris is the name of the **city**, not the island.
+### Etrea
+
+Etris (Starting Island)
+
 -   Etrean Wilds
 -   Etris Docks
 
-#### Isle of Vigils (Starting Island)
+Isle of Vigils (Starting Island)
 
--   _Temple's Approach_
--   _Temple of the Blade_
+-   Temple's Approach
+-   Temple of the Blade
 
-#### **Erisia**
+### **Erisia**
 
-##### Lower Erisia
+Lower Erisia
 
--   _Tomb of the Nameless Soldier_
--   _Pathfinder's Respite_
+-   Tomb of the Nameless Soldier
+-   Pathfinder's Respite
 
-##### [Upper Erisia](Upper_Erisia.md)
+[Upper Erisia](Upper_Erisia.md)
 
--   [_The Birdcage_](The_Birdcage.md)
--   _Viper's Jaw_
--   _[Erisor's Church](<Erisor's_Church.md>)_
--   _[Towerstruck Lands](Towerstruck_Lands.md)_
-    -   _The Hidden Village_
--   _The Temple of the Forgotten Flame_
-    -   _The Courtyard_
--   _The Garden Reservoir_
-    -   _[Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)_
-    -   _Burning Stone Gardens_
-        -   _[Rat's Den](<Rat's_Den.md>)_
+-   [The Birdcage](The_Birdcage.md)
+-   Viper's Jaw
+-   [Erisor's Church](<Erisor's_Church.md>)
+-   [Towerstruck Lands](Towerstruck_Lands.md)
+    -   The Hidden Village
+-   The Temple of the Forgotten Flame
+    -   The Courtyard
+-   The Garden Reservoir
+    -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+    -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
+        -   [Rat's Den](<Rat's_Den.md>)
 
-#### [Minityrsa](Minityrsa.md)
+### Other
 
--   Valley of Heroes
+-   Eastern Interstitial Lighthouse
+-   [Minityrsa](Minityrsa.md)
+    -   Valley of Heroes
+        
 
-### **[The Aratel Sea](The_Aratel_Sea.md)**
+**The Aratel Sea:**
 
-#### Aratel Island
+A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
+
+### Aratel Island
 
 -   [Starswept Valley](The_Starswept_Valley.md)
-    -   _Lightkeeper Temple_
+    -   Lightkeeper Temple
     -   Widow's Hollow
 -   [The Lordsgrove](The_Lordsgrove.md)
 -   Bluster Rift
 -   Merit's Reach
 -   [Fort Merit](Fort_Merit.md)
 
-### [The Void Sea](Voidsea.md)
+### Other
+
+-   Songseeker Wilds
+-   [Summer Isle](Summer_Isle.md)
+-   [The Monkey's Paw](<The_Monkey's_Paw.md>)
+-   [Greathive Aratel](Greathive_Aratel.md)
+    
+
+**The Void Sea:**
+
+A list of locations that can be found in [the Void Sea](Voidsea.md).
+
+### The Void Sea
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Voidheart](Voidheart.md)
+    
 
 ## [The Depths](The_Depths.md)
 
--   Celtor Wastes
-    -   Diver's Camp (will create the page soon)
-    -   Castle Light
+A list of locations that can be found in [The Depths](The_Depths.md).
+
+Celtor Wastes
+
+-   Diver's Camp _(page coming soon)_
+-   Castle Light
+
+The City of the Drowned
+
+-   Varicosa District
+-   District of Commerce
+
+### More
+
 -   [Temple of Hearts](Temple_of_Hearts.md)
--   The City of the Drowned
-    -   _Varicosa District_
-    -   District of Commerce
+
+## Other
+
+A list of locations that can be found elsewhere.
+
+-   [Fragments of Self](Fragments_of_Self.md)

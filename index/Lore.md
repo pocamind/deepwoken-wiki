@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10202
+revid: 10294
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -211,6 +211,7 @@ A Dark Mage, located in Minityrsa.
 ### The Contractors
 
 -   **Territory:** _Unknown_
+-   **Encountered In:** _Aratel Sea_
 -   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
@@ -231,6 +232,7 @@ A Dark Mage, located in Minityrsa.
 ### The Central Authority
 
 -   **Territory:** _Fort Merit_
+-   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall_
 -   **Alliances:** _The Depth Divers (Mixed), Summer Company (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
@@ -264,6 +266,20 @@ A Peacekeeper Grunt, part of The Authority
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
 -   The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
+
+### The Golden Warriors
+
+-   **Territory:** _The Rat's Den_
+-   **Encountered In:** _Erisia Island_
+-   **Attunements:** _Galebreathe_
+-   **Alliances:** _N/A_
+-   **Enemies:** _N/A_
+
+-   The Golden Warriors are a group who show most ecstatic with glory and entertainment. They wear gold helmets and show off their muscular physique- lacking a shirt.
+-   In encounters, the Golden Warrior politely asks the player to only fight him to the death in a 1v1, and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
+-   Their "FOB" is located in The Rat's Den, within Burning Stone Gardens of [Erisia Island](Erisia.md). They can also be encountered anywhere in that island.
+    -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Warriors seek glory through combat, the Den is going to be a mess.  
+        
 
 ### Krulians
 
@@ -315,7 +331,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc). This seems to be many races main point of contention with them, viewing them as alien.
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
--   Some believe they may be based off of fish.
+-   ~Some believe they may be based off of fish.~ (This was confirmed untrue by Arch\_Mage in the official Discord server.)
 
 ## Deepwoken: ~1271
 
@@ -350,13 +366,26 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Resonance Bells
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
-    -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will kindle once again to the bells of the deep.
+    -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will rekindle once again to the bells of the deep.
 -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 
-## Miscellaneous (Doesn't fit into a specific category)
+## Miscellaneous
 
--   When souls leave the body after death, they are shown with dark particles and are dragged down into the depths, this could entail something like getting to a certain point in your progression so that when you die you'll be **going up instead**.
+### Character Deaths
+
+-   Your health bar depicts your soul's wellbeing. One death in the Luminant coils your soul a step closer to the depths, leaving a tainted stain onto your health. One more death in the Luminant and your soul drowns to The Depths; waking up in the Celtor Wastes.
+    -   Increasing your power while your health is tainted bolsters your soul, escaping the grasps of The Depths and reverting your health bar back to normal.
+-   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of whats left of your collective consciousness before it all drowns.
+
+### Mudskippers
+
+-   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Squibbo or time within The Depths itself, they will eventually turn into mindless monsters.
+-   Mudskippers- have sort of speech. Other than "gurgling", they speak somewhat fluently with eachother. It's unsure if this dialogue event is intentional or not, but its something worth taking notes of.
+
+Talking Mudskippers, located in Erisia Mines
+
+  
 
 ## Notes/Trivia
 

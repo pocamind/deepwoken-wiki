@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 9322
+revid: 10284
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,6 +45,8 @@ During a dodge, cancel the dodge to negate the endlag.
 ## Unlisted Controls
 
 **G (while crouching) - Eavesdrop -** Nullify the environment's background effects, and percieve Player Activity (such as movements, cooking, interaction, and combat).
+
+**B (near a campfire) - Clear campfire -** Kick a campfire pit to destroy it.
 
 **Space (while facing a waist level obstacle) - Vault -** Vault over the obstacle for a speed boost.
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 10120
+revid: 10350
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Armors]
 
 ## Description
 
-(**Warning**: This is a RNK (1) Page. If any griefing occours please let an admin know.)
+(**Warning**: This is a SUS AMOGUS)
 
 There are many kinds of Armor in Deepwoken, with types of Armor pieces (Common, Uncommon, Rare, Epic, Legendary) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Landmass
 
@@ -20,7 +20,7 @@ There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes ar
 
 ## Repairing your Outfit
 
-The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking.
+The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking. sus
 
 To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent), Thresher scales (rare talent), or a Bloodiron spirit ring (Obtained in [the Depths](The_Depths.md) or from [the Duke](Duke_Ishamon_Erisia.md)).
 
@@ -34,7 +34,7 @@ The majority of Outfits (along with armor pieces) requires a certain requirement
 
 Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).
 
-File:Outfits List.png
+File:9k (1).png
 
 Image of the Outfit List, with 2 outfits learned
 
@@ -1021,6 +1021,17 @@ _Requires Power Level 10_
  | Gold Ring | Grants a random buff.
 
 Can be sold for 20 Notes.
+
+ |
+| 
+
+File:Light eater ring.jpg
+
+ | Light eater ring | Getting hit by a Lightning or Fire mantra recovers ether.
+
+Grants one random buff
+
+_Requires Power Level 10_
 
  |
 | 

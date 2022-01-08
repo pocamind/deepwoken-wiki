@@ -1,13 +1,13 @@
 ---
 title: Alchemy
-revid: 9625
+revid: 10296
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alchemy
 
-This page contains most of the wiki's information on alchemy. Since the wiki is not very organised, there's some information on Recipes & Alchemy that isn't repeated here yet.
+This page contains most of the wiki's information on Alchemy. Since the wiki is not very organised, there's some information on Recipes & Alchemy that isn't repeated here yet.
 
 A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and the effects of most potions. If you don't care how alchemy works and just want to make a health potion, you should stop reading and just use the spreadsheet.
 
@@ -15,7 +15,8 @@ A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.co
 
 ### Brewing Potions
 
-To do alchemy, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion.  
+To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion.
+
 There is only one functioning cauldron in the game, found in a hut on a hill near the guild hall on [Etris](Etris.md), next to the Frostdraw trainer. You can also create your own cauldron using an intelligence mantra, which appears at around 20 intelligence.
 
 Almost all talents and mantras related to alchemy **only appear after brewing your first potion**. If you want to get all the alchemy talents, ensure you brew a potion at Etris early on.
@@ -45,7 +46,7 @@ You can also throw potions by holding them and pressing E - this usually applies
 
 ## Ingredients and Mechanics
 
-We still haven't figured out exactly how alchemy works, but our best understanding is something as follows:
+We still haven't figured out exactly how Alchemy works, but our best understanding is something as follows:
 
 Potions only have one effect, even if you mix different effect ingredients. The resulting effect of a potion is determined by the quantity and "power" of the ingredients - for example, urchins have the highest "power" of any ingredient, and mixing an urchin with another ingredient will always result in a Mindbreaker potion. Adding ingredients with low "power" (such as browncaps) to a potion can often increase the potion's tier without changing the effect, which can be used to save more expensive ingredients like Urchins or Plumfruit.
 
@@ -71,14 +72,14 @@ There are 23 (known) potion ingredients, though only 12 can be used to brew poti
     -   Focus-Enhancing potions can be made in a variety of ways, though the cheapest is using a wheat and a browncap (plumfruit also work, as do redds but you need the correct ratio). The potion is one of the few (known) potions that can't be made with a single ingredient.
 
 -   Gobletto - used to create _Invigorating_ potions, which give you a brief regeneration effect. Unknown effect when thrown - possibly a very subtle slow.
-    -   Important to note - goblettos have very low potency, so it's impossible to brew a potion stronger than the lowest tier (Elixir) with just goblettos. If rarer ingredients aren't available, the cheapest Invigorating potion is brewed with one gobletto and any filler (such as a stick, or a browncap).
-    -   The Wild Alchemy talent can let you brew Tinctures (mid tier) using 3 goblettos, or you can add a plumfruit which creates a Salve (highest tier) for reasons beyond my understanding of alchemy.
+    -   A single gobletto produces a diluted salve. Using multiple goblettos, or one gobletto and a filler ingredient produces an Invigorating Elixir.
+    -   Uniquely, brewing a gobletto with a plumfruit produces an Invigorating Salve. This is slower and weaker than the elixir.
 
 -   Ongo - used to create _Buckling_ potions. Effect unknown.
 
--   Plumfruit - primarily used to create _Grueling_ (increase reservoir draw) and _Strengthening_ (increase physical damage) potions, depending on how many are used. Can be combined with wheat to brew _Focus-Enhancing_ potions (drastically increase reservoir draw), or a gobletto to create _Invigorating_ potions (health regeneration).
-    -   Grueling potions are brewed using a plumfruit and a filler (or two plumfruit), Focus-Enhancing potions are brewed using a plumfruit and a wheat, Strengthening potions can be brewed with either three plumfruit (creating a Salve), or a plumfruit and a sap or a browncap (creating a Tincture).
-    -   Invigorating Salves can be brewed with one plumfruit and one gobletto. This is notable for being more powerful than invigorating potions brewed using only goblettos.
+-   Plumfruit - _Strengthening_ potions (increase physical damage). Can be combined with wheat to brew _Focus-Enhancing_ potions (drastically increase reservoir draw).
+    -   Strengthening Potions are brewed using either 3 plumfruit (for a salve), or 1 plumfruit and and a filler (or 2 plumfruit) for a tincture, Focus-Enhancing potions are brewed using a plumfruit and a wheat, Strengthening potions can be brewed with either three plumfruit (creating a Salve), or a plumfruit and a sap or a browncap (creating a Tincture).
+    -   Some players report that they brewed Grueling Banes and Grueling Blights using plumfruit (using the same recipes that currently produce Strengthening potions). This doesn't seem to be the case anymore - its unknown what changed.
 
 -   Pomar - used to make _Hastening_ potions, which deal a small amount of damage and give a 15 second speed boost when drunk. Unknown effect when thrown.
 
@@ -92,7 +93,7 @@ Eggs, fish meat, beeswax, sticks and minerals (coal, iron, stone, irithine, and 
 
 Sap and beeswax are unique as ingredients which create Nothing Potions when used alone, but can be combined with other ingredients to change the effect of the potion.
 
-Finally, beeswax and spider eggs increase the duration of potions when added (seems to be about 50% per egg, didn't try beeswax).
+Finally, beeswax and spider eggs increase the duration of potions when added. Eggs increase the duration by 50% each (stacking additively, so 2 eggs doubles the potion duration). I haven't tested beeswax because the game was coded by monkeys and all the trees are bugged.
 
 ## Assorted Ramblings of Alchemists
 

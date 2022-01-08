@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 10203
+revid: 10355
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -60,11 +60,11 @@ Impale/Impact
 -   Deals around six to eight hits.
 
  |
-| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Soldiers | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
+| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Trash | A legion of garbage. | Summons four or five ice trash that blow farts.
 
--   Area of Effect attack that damages and slows targets inside.
+-   Area of Effect attack that dances and buffs enemies inside.
 -   Leaves ice where the Mantra is casted.
--   Similar to Flamecharm's [Burning Servants](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
+-   Similar to Flamecharm's [Burning Trash](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
 
  |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Placeholder | Fires a penetrating bullet of ice.
@@ -175,15 +175,13 @@ Impale/Impact
 
 ### **Support Mantras**
 
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
+There are no known Support Mantras for Frostdraw currently.
 
 ## Talents
 
 **Frostforger:**
 
-These talents are in the _Frostforger_ category.
+These talents can be found in the _Frostforger_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -192,7 +190,7 @@ These talents are in the _Frostforger_ category.
 
 **Cyromancer:**
 
-These talents are in the _Cryomancer_ category.
+These talents can be found in the _Cryomancer_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -207,7 +205,7 @@ These talents are in the _Cryomancer_ category.
 
 **Ice Age:**
 
-These talents are in the _Ice Age_ category.
+These talents can be found in the _Ice Age_ category.
 
 ### **Ice Age**
 
@@ -226,7 +224,7 @@ These talents are in the _Ice Age_ category.
 
 **Glassdancer:**
 
-These talents are in the _Glassdancer_ category.
+These talents can be found in the _Glassdancer_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -234,7 +232,7 @@ These talents are in the _Glassdancer_ category.
 
 **Frostthorn:**
 
-These talents are in the _Frostthorn_ category.
+These talents can be found in the _Frostthorn_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -242,7 +240,7 @@ These talents are in the _Frostthorn_ category.
 
 **Cryoni:**
 
-These talents are in the _Cryoni_ category.
+These talents can be found in the _Cryoni_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -262,3 +260,4 @@ These talents have no category or their category is unknown.
 
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
+-   Hostile Frostdrawers can be found in Minityrsa.

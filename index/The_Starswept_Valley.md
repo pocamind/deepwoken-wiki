@@ -1,23 +1,21 @@
 ---
 title: The Starswept Valley
-revid: 9511
+revid: 10262
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # The Starswept Valley
 
-> _**"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands."**_
+Template:Quote
 
-> \- Area Description
-
-## Overview
+## Description
 
 Template:Areainfobox Starswept Valley is a location on Aratel Island.
 
 High-tier enemies that drop high-tier loot spawn here, making this an alternative to The Depths to get items like Royal Pathfinder and Star Duster.  
 
-## Description
+## Appearance
 
 Starswept Valley is a desert-like area containing a massive gate that leads to the [Lordsgrove](The_Lordsgrove.md).
 

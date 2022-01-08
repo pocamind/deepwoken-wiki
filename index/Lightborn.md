@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 9891
+revid: 10248
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -68,4 +68,4 @@ None
 ## Notes
 
 -   Only obtainable from admins
--   This might be based off of the race Seraphs in Rogue Lineage
+-   Has an exclusive oath that gives it luck and wildcard slots

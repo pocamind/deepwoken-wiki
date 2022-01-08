@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10209
+revid: 10356
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -20,7 +20,7 @@ Mantra Modifiers are items that can be used to expand the potential of your [Man
 
 You can stack up to 3 of each modifier, including their weaker versions. This means a user can put 3 _Drift Shards_ and 3 _Rush Shards_ on one Mantra. _Be aware that adding more will increase [Ether](Combat_Mechanics.md) cost._
 
-When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.
+~When you upgrade a Mantra, the previous upgrade will disappear. If you recall it, the upgrade still stands.~ The previous upgrades will only disappear if an Amnesiac Driftwood is added to the mantra. Upgrading an already upgraded mantra further will add onto the previous upgrades.
 
 Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs illuminating with each requirement. The specific meanings of these discs are unknown currently.
 
@@ -174,11 +174,7 @@ File:Image 2021-12-31 211633.png
  | Multiplying Spark | Wind Gun | Increases the number of hits. |
 | 
 
- | Spring Spark | Strong Leap
-
-Flame Leap
-
- | Amplifies the effects of mobility moves. |
+ | Spring Spark | Strong Leap | Amplifies the effects of mobility moves. |
 | 
 
  | Tornado Spark | Dark Blade
@@ -204,7 +200,7 @@ _"You feel dizzy when you hold it."_
 
 #### Round Spark
 
--   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle.
+-   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the songseeker ice npc).
 
 #### Blast Spark
 
