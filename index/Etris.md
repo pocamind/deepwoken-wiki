@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 10268
+revid: 10728
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -201,6 +201,8 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 -   Picking the 3rd option, Karliah accepts your harsh honesty, and retires from being a Depths Diver. She goes back home in Etris.
 -   Checking up on Karliah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
 -   The reward from this ending increases your charisma cap to 100, a fistful of EXP, and a moment of harmony and relief.
+-   Requires 50 Charisma \[Confirmed by SkipperFalconeer, If you don't have enough and try to get the 3rd ending anyway, You won't be able to try again. Keep this in mind before trying out to this.\]
+-   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 9100
+revid: 10712
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,7 +38,7 @@ These groups will spawn a chest once each enemies are defeated.
 -   Bottom of the stairs to the temple
     -   A Songseeker Flamecharmer, guarding the cliff from which most player will come from
     -   A Songseeker Frostdrawer, looking over the distance on a nearby cliff
-    -   A Songseeker Thundercaller, overlooking the smaller island on another cliff, which require mobility mantras to reach.
+    -   A Songseeker Thundercaller, overlooking the smaller island on another cliff, which require mobility mantras to reach (not true, you can parkour there it's just hard).
 
 -   Galebreath Pylon
     -   1 of each Songseeker, looking at the pylon

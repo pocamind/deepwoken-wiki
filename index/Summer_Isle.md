@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 10635
+revid: 10669
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ Inside of the buildings of the island, there is a gun store. This sells [Flintlo
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks.
 
-There is a forge where an accessory can be given the appearance of another, at the cost of another accessory.
+There is a forge towards the bottom of the castle where an NPC named Jarvis will smelt two items for you, transferring the stats of one item to another. This will not combine stats, only replaces them. Also, if you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever.
 
 There is a supply room which contains Scope, the NPC that you give the explosives crates to in return for a chest.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10656
+revid: 10729
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -281,7 +281,7 @@ A Peacekeeper Grunt, part of The Authority
     -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Warriors seek glory through combat, the Den is going to be a mess.  
         
 
-### Krulians
+### [Krulians](Krulian.md)
 
 -   **Territory:** _???_
 -   **Attunements:** _Thundercall?_

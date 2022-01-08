@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 10658
+revid: 10689
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -67,7 +67,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 Mantras that are cast with Charisma. So far, there are no Mantras that deal damage for Charisma, but many prioritise immobilization of enemies, and the application of buffs and debuffs onto enemies.
 
-**Sing** - _Charm_ those around you with you powerful voice. (Requirement: Charisma. Support Mantra)
+**Sing** - _Charm_ those around you with your powerful voice. (Requirement: Charisma. Support Mantra)
 
 **Glare -** Opponents facing you are briefly stunned. (Requirement: 10 Charisma. Support Mantra)
 

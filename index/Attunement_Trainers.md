@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 4789
+revid: 10710
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -55,6 +55,12 @@ You can also learn different attunments in a cost of 5 elemental ingredients (ex
   <td>Shadow Trainer</td>
   <td>The Depths</td>
   <td>File:Grate.pngDash inside the broken grate</td>
+</tr>
+<tr>
+  <td><figure>File:Screenshot 3.png<figcaption></figcaption></figure></td>
+  <td>Attuneless Trainer</td>
+  <td>The Hive</td>
+  <td>In the archives of the Greathive Aratel.</td>
 </tr>
 </tbody>
 </table>

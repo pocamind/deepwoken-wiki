@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 10000
+revid: 10699
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -108,7 +108,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td></td>
 </tr>
 <tr>
-  <th>Stealth</th>
+  <th><a href="Stealth.md">Stealth</a></th>
   <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and left click behind them to perform a sneak attack (throat slit). This will deal a moderate amount of damage (Killing some low level bandits outright) and cause the target to ragdoll.<p><br>
   If the target is not killed by the initial attack, it is reccomended to swipe at them as much as possible before they rise once more. They cannot be picked up if they aren't technically 'knocked' down.</p></td>
   <td></td>

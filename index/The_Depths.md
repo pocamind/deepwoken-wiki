@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 10655
+revid: 10666
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -41,6 +41,8 @@ The Malevolent Gods sentence you a fight against whatever they throw at you. Bel
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
 
+_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer)._
+
 | Level | Possible Enemies |
 | --- | --- |
 | <8 | N/A - You escape without fighting a monster |
@@ -53,10 +55,6 @@ Sometimes you might have to fight a [Hive Guard](https://deepwoken.fandom.com/wi
 | 28-44 | [Megalodaunt](Megalodaunt.md) |
 | 41-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) (Chance) |
 | 45< | [Enforcer](Enforcer.md) |
-
-Dont change it back, AT level 40 i got a normal sharko!
-
-**Note:** These are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer).
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 

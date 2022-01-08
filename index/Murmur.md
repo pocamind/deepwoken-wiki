@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 9970
+revid: 10711
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,9 +12,20 @@ categories: [Pages with broken file links]
 
 Current information: A usable buff that increases attack speed and damage, in a trade off for draining ether. (Needs further testing and research)
 
-## Obtainability
+## Murmurs & obtaining
 
-Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
+-   Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
+-   Tacet: currently unknow (THIS IS A MURMUR NOT A MYTH)
+
+File:Tacet.png
+
+**proof of tacet, (devconsole warning/error)**
+
+  
+
+-   Rythm: more likely a myth unknow for now
+
+  
 
 ## Murmur Talents
 
@@ -31,7 +42,7 @@ Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) wi
   <td>Ardour</td>
   <td>An application of the Song that enables one to channel the Murmur into raw strength. Press H.<p><br>
   [Provides +5 Sanity, +9 Carry Load]</p></td>
-  <td>Provides a buff to your attack speed and damage. Drains ether the longer you use it. (According to currently available information.)</td>
+  <td>Provides a buff to your attack speed and damage. Stops draining ether at max. (According to currently available information.)</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

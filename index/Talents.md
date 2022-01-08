@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10660
+revid: 10730
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -126,6 +126,7 @@ Hand of Mantra Cards
 ### Authority Interrogator
 
 -   Authority Intimidation \[?, Common Talent\] - All moves that apply electricity slow the opponent more.
+-   Resolve Crusher \[?, Common Talent\] - Lightning moves now have a chance to apply "Electrify"
 
 ### Bastion
 
@@ -150,7 +151,7 @@ Hand of Mantra Cards
 -   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after succesfully dodging an attack (+1 Passive Agility)
 -   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediatley (+1 Passive Agility)
 -   Acrobat \[Generic Talent, Common Talent\] - Move faster when doing a Walljump. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+-   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. (Not in description: Also halves? the invincibility frames of your dodges, free or not) (+1 Passive Agility)
 
 ### Caster
 
@@ -174,6 +175,7 @@ Hand of Mantra Cards
 -   Morale Booster \[Generic Talent, Common Talent\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
 -   Tough Love \[Generic Talent, Common Talent\] - Deal more damage to player charmed by you. (+ 4 Ether)
 -   Familiar Sight \[Generic Talent, Rare Talent\] - Being hit by someone of the same race causes them to be charmed for a short duration.
+-   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   PrerequisiteFor All: Charm
 
 ### Cryomancer
@@ -296,7 +298,7 @@ Hand of Mantra Cards
 
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
--   The Thinker \[Generic Talent, Common Talent\] - \[Guns\] Standing still for 15 seconds causes you to rapidly regenerate reservoir an ether. (+4 Ether, +2 Reservoir)
+-   The Thinker \[Generic Talent, Common Talent\] - \[Guns\] Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+4 Ether, +2 Reservoir)
 
 ### Inferno
 
@@ -492,7 +494,7 @@ Hand of Mantra Cards
 
 ### Tactician
 
--   Hard Read \[Generic Talent, Common Talent\] - Hitting your opponent during a deint will cause them to be dazed. (+4 Ether)
+-   Hard Read \[Generic Talent, Common Talent\] - Hitting your opponent during a feint will cause them to be dazed. (+4 Ether)
 -   Target Switch \[Generic Talent, Common Talent\] - Parrying an Opponent then hitting someone else makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
 
 ### Thief
@@ -701,6 +703,7 @@ _Main Source - Frostdrawer_
 -   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage. This skill is **arguably** the worst frost skill.
 -   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
 -   Frost Grab - Command grab that makes you shortly rush foward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
+-   Ice Eruption (1 Star Mantra) - Stomp the ground, releasing a barrage of ice spikes that block breaks.
 -   Ice Blade (1 Star Mantra) - Summon an ice sword that you dual weild with your current weapon for a 4-hit slash combo.
 -   Ice Smash (1 Star Mantra) - Ready a mace made of ice, and smash it onto the ground in front of you.
 -   Ice Lance (2 Star Mantra) - Charge in front of you with an ice spear, dealing high damage. Much more range than frost grab.

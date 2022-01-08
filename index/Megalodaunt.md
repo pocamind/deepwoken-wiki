@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 10373
+revid: 10684
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Monsters]
 
 Template:Creature Infobox V3
 
-_Also known as Shark(s), Sharko(s), Megalodaunt(s), Bobi(s), Liam(s) and Carl._
+_Also known as Shark(s), Sharko(s), and Megalodaunt(s)._
 
 ## Description
 
