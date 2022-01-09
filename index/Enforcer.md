@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 10779
+revid: 11020
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links, Monsters]
 Template:Creature Info Box v2
 
 ## **Description**
+
+"Yo imma try and fight that springtrap lookin freak" - Helpless level 41 (me)
 
 An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (usually 50+, but has a chance to spawn anywhere after level 40.)
 

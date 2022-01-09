@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10855
+revid: 10946
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -385,6 +385,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Your health bar depicts your soul's wellbeing. One death in the Luminant coils your soul a step closer to the depths, leaving a tainted stain onto your health. One more death in the Luminant and your soul drowns to The Depths; waking up in the Celtor Wastes.
     -   Increasing your power while your health is tainted bolsters your soul, escaping the grasps of The Depths and reverting your health bar back to normal.
 -   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of whats left of your collective consciousness before it all drowns.
+-   The Hippocampal Pool allows your current character to pass down 2 of their items to another soul; your character's legacy, transfered to a different character.
+
+### Character Slots
+
+-   Each Character Slot has their own legacy; not just shared. Because of this, if one of your character slots has all attunements and wiped, they unlock it for themselves but not for others.
+    -   For the confused folk, each Character Slot acts like a different Account.  
+        
 
 ### Mudskippers
 
@@ -396,3 +403,6 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus the makings of "Ancestors of Ganymedes & Vesperians".
+-   Mudskippers _used_ _to_ talk to eachother, but it was declared that it was a Dialogue bug.
+
+Talking Mudskippers

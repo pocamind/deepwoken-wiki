@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 10875
+revid: 11005
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,8 +48,10 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 1-7 | N/A - You escape without fighting a monster |
 | 8-19 | Mudskipper Assassin |
 | 20-30 | [Angels](Hollow_Angel.md) |
-| 30-50 | [Megalodaunt](Megalodaunt.md) (Don't know how enchanted works
+| 30-50 | [Megalodaunt](Megalodaunt.md) (Don't know how enhanced works
 but I'm guessing it's higher chance with higher power)
+
+(My friend got enhanced at Power 37 so watch out for it-Twbippp)
 
  |
 | 50+ | [Enforcer](Enforcer.md) |

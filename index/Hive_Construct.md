@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 9777
+revid: 10939
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -13,8 +13,6 @@ Forest Golems, also known as Hugo's or Obsidian Golems given their appearance, s
 File:Golem Grand Javelin.png
 
 Forest Golem being shot by a Grand Javelin (L bozo)
-
-File:Placeholder2.png
 
 Forest Golem at Starswept Valley/Bluster Canyon
 

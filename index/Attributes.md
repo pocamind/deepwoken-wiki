@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 10916
+revid: 10926
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -48,6 +48,10 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 “ This Gobletto bussin'! \*Pukes everywhere\* ”
 
 ― Nameless Khan
+
+“ I AM BULLET PROOF! ”
+
+― -Chunky Vesparian about to A-pose on a Felinor
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 10496
+revid: 10971
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -10,9 +10,9 @@ categories: [Mantras]
 
 Mantras are internalised passages of the Song that practicioners use to conjure Magic. Mantras are utilised as a variety of abilities, often uniquely modified by their casters through esoteric methods. Considered to be the root of Ether's usage.
 
-## What do Mantras Do?
+## [Elemental Mantras](Attunements.md)
 
-The base mantra elements you can begin with are:
+The base elemental mantras you can begin with are:
 
 **[Flamecharm](Flamecharm.md): Uses flames and the burning effect with mantras that have huge aoes and deal heavy damage long-term. Best used for crowd control, and creates area denial (usually around your character). Not recommended to use when guild members or allies are close as flamecharm is extremely volatile.**
 
@@ -26,13 +26,11 @@ The base mantra elements you can begin with are:
 
 There are also Mantras that are based off of other character attributes. This includes Strength, Fortitude, intelligence, Agility, Willpower, and Charisma. You can find those _**here.**_
 
-## How can I modify a Mantra?
+## [Modifying Mantras](Mantra_Modifiers.md)
 
 Mantras can be modified by recalling them at a campfire, and then placing them on a mantra table which are located in mantra shops. To modify a mantra, place the mantra onto the mantra table and add ingredients. Ingredients that can modify a mantra have a purple background in the inventory.
 
-If the ingredients used to modify the mantra are incompatible with the mantra, then the modification will fail. You will get the mantra back in your inventory and the ingredient(s) will be lost.
-
-A list of mantra modifiers and their effects can be found [here](Mantra_Modifiers.md).
+Modification can fail when you have placed incompatible ingredients on the table. And when modification fails, the mantra placed will return to your inventory, however the ingredient(s) will be lost.
 
 ## How can I get a Mantra?
 

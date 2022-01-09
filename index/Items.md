@@ -1,9 +1,9 @@
 ---
 title: Items
-revid: 10036
+revid: 10964
 source: https://deepwoken.fandom.com/wiki/Items
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, World]
+categories: [Items]
 ---
 
 # Items

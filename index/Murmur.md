@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 10711
+revid: 11012
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,7 +23,8 @@ File:Tacet.png
 
   
 
--   Rythm: more likely a myth unknow for now
+-     
+    Rythm: not a myth, currently disabled according to a mod
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 10558
+revid: 10925
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,7 @@ The player must respond with "yes." Once accepted an animation will play and the
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
-| Return | Yes, 60 Charisma? | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a limited range unlike all other commands. |
+| Return | Yes, Rare | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a limited range unlike all other commands. |
 | Sacrifice | Yes, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
 | Live | Yes, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko. |
 

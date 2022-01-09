@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 10920
+revid: 11023
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -23,7 +23,7 @@ Being killed by Primadon will instantly result in being sent to the depths.
 
 -   **Stomp** - Primadon raises its foot and stomps once, this attack is AOE. Parriable
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Parriable, will ragdoll.
--   **Watch yo Tone EX** - Primadon performs a kick similar to the Sharko's ragdoll kick, except this sends you to orbit and does heavy damage. Only dodgeable.
+-   **Watch yo Tone _EX_** - Primadon performs a kick similar to the Sharko's ragdoll kick, except this sends you to orbit and does heavy damage. Only dodgeable.
 -   **Grab** - Primadon crouches down and grabs you. Can only be dodged.
 
 ## Combos
@@ -34,7 +34,7 @@ Being killed by Primadon will instantly result in being sent to the depths.
 ## Tips
 
 -   Primadon makes a wooshing noise whenever it attacks.
--   Primadon despawns after 15 minutes.
+-   Primadon despawns after 10 minutes. (I have timed it, it's not 15 minutes.)
 -   After killing Primadon, he drops 16 chests (1 of them is a small chest and has a guaranteed chance to drop a legendary gem (Blue gem, Wayward gem, etc.)
 -   The footsteps of Primadon play a loud, noticeable noise and shakes your camera.
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.

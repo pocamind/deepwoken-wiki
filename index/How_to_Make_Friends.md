@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 10643
+revid: 11025
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,8 +37,6 @@ Sometimes I have really deep thoughts about life and stuff.
 Some weather we're having, huh?
 
 You ever been to a Canor restaurant? The food's pretty howlright.
-
-Are you doing anything this weekend? Because I'd like to see you greMORE.
 
   
 

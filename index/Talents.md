@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10870
+revid: 11014
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -153,7 +153,7 @@ Hand of Mantra Cards
 -   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after succesfully dodging an attack (+1 Passive Agility)
 -   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediatley (+1 Passive Agility)
 -   Acrobat \[Generic Talent, Common Talent\] - Move faster when doing a Walljump. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. (Not in description: Also halves? the invincibility frames of your dodges, free or not) (+1 Passive Agility)
+-   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. ~(Not in description: Also halves? the invincibility frames of your dodges, free or not)~ This was removed as of 01/01/2022. (+1 Passive Agility)
 
 ### Caster
 
@@ -182,7 +182,7 @@ Hand of Mantra Cards
 
 ### Cryomancer
 
--   Condensation Drip \[Rare Talent, Frostdraw Exclusive, Rare Talent\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
+-   Condensation Drip \[Generic Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
 
 ### Cutthroat
 
@@ -487,7 +487,7 @@ Hand of Mantra Cards
 ### Survival Instinct
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
--   Iron Gut \[Generic Talent, Outfit\]
+-   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
 
 ### Survivor
 
@@ -619,33 +619,33 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 ### Physical Mantras
 
-#### Fortitude Combat
+#### Fortitude Combat (??? Fortitude Needed)
 
 -   Reinforce - up defence for you and allies around you
 -   Rally \[Shield Only\] - absorb incoming posture damage for allies around you
 
-#### Agility Combat
+#### Agility Combat (25 Agility Needed)
 
--   Revenge - A vengeful dash.
--   Dash (Mobility)
--   Adrenaline Surge (Support)
+-   Revenge - A short dash dealing damage to opponents it hits.
+-   Dash - Just a dash, nothing special. (Mobility)
+-   Adrenaline Surge - Adrenaline Surges in your body activating a breif speed boost. (Support)
 
-#### Charisma Combat
+#### Charisma Combat (??? Charisma Needed)
 
 -   Sing - Charm those around you with your powerful voice.
 -   Taunt - Taunt those around you, causing them unable to jump and to take more damage. However in their rage they do extra damage.
 
-#### Intelligence Combat
+#### Intelligence Combat (??? Intelligence Needed)
 
 -   Prediction - Predict an opponents attack and reflect it.
 
-#### Strength Combat
+#### Strength Combat (20 Strength Needed)
 
--   Rapid Punches (1 Star Mantra) \[Strength Exclusive\] - Unleash a barrage of blows against your foes.
+-   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after going forward a little.
 -   Strong Left - Show your foes your strength. (Do a large, strong strike that knocks back and deals damage in a small AoE in front of you)
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 
-#### Willpower Combat
+#### Willpower Combat (??? Willpower Needed)
 
 -   Gaze \[Willpower Exclusive\] - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
 -   Glare - Opponents facing you are briefly stunned.
@@ -679,7 +679,7 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
     -   Throw a Dagger at moderate range. Does not ricochet off of Walls or objects.
 -   Fire Blade (1 Star Mantra) \[Flamecharm Exclusive\] - Slicing blades of Flame. (Melee Combat Mantra)
     -   Perform a cleave made of fire at close range.
--   Flame Assault (2 Star Mantra) \[Flamecharm Exclusive\] - Burst forward in flames. (Lunging Combat Mantra
+-   Flame Assault (2 Star Mantra) \[Flamecharm Exclusive\] - Burst forward in flames. (Lunging Combat Mantra)
     -   Torpedo through enemies and entities with a fiery blow.
 
 -   Fire Palm \[1 Star Mantra\] \[Flamecharm Exclusive\] - Fire a short burst of flame from your palm. (Combat Mantra)
@@ -713,7 +713,7 @@ _Main Source - Frostdrawer_
 ### Frost Mobility
 
 -   Glacial Arc (1 Star Mantra) - Summons an arc of ice infront of you used for traveling methods, deals high damage paired with cloudstones.
--   Ice Skates
+-   Ice Skates - After a decent wind-up, start skating only when around water. (Having a specific card makes it so you don't need to be around water.)
 
 ### Shadowcast Mantras
 
@@ -721,15 +721,16 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 #### Shadow Combat
 
--   Clutching Shadow - Power lurks within.
--   Dark Blade - Slicing blades of dark energy.
--   Shadow Gun - An awful blast of dark energy.
+-   Clutching Shadow - You stand still and use a force like move (from Star Wars) and choke your enemy out, then slam them into the ground.
+-   Dark Blade - After a short dash forward, you do 3 slashes of dark energy.
+-   Shadow Gun - After a short wind-up, you shoot a short blast of energy from your finger.
 -   Shadow Chains (1 Star Mantra) - Chains of shadow.
--   Shadow Roar (2 Star Mantra)
+-   Shadow Roar (2 Star Mantra) - After a short wind-up, you scream out dark particles in a large AOE, dealing damage to opponents.
 
 ### Shadow Mobility
 
--   Shadow Assault (2 Star Mantra)
+-   Shadow Assault (2 Star Mantra) - You turn into dark energy and speed forward. Used often to catch running enemies.
+-   Shadow Travel - After a long wind-up, teleport to where your cursor was. The farther the teleport, the more it will damage you. (This is NOT a whisper. I put this here for confused people.)
 
 #### Mystery
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 10922
+revid: 11027
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,15 +8,17 @@ categories: [Pages with broken file links, Monsters]
 
 # Megalodaunt
 
-Template:Creature Infobox V3
+“ Zamn bro, that Sharko got some cake! ”
 
-_Also known as Shark(s), Sharko(s), and Megalodaunt(s)._
+― Foolish Bard
+
+Template:Creature Infobox V3 _Also known as Shark(s), Sharko(s), and Megalodaunt(s)._
 
 ## Description
 
-> _"Zamn bro, that Sharko got some cake!"_ - Foolish Bard.
+“ Watch yo tone. ”
 
-> "Watch yo tone." -Megalodaunt (Presumably)
+― Megalodaunt (Presumably)
 
 Megalodaunts are shark-like (not to be confused with [Lionfish](Lionfish.md), the actual shark enemy) Giant Type enemies which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
@@ -56,7 +58,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 -   Meglodaunt lets out a snarl when he spawns in, notifying the player of his presence.
 -   It is adviced to get at least Adept Armor and Power Level 15+, unless you're aware of the parry patterns.
 -   Common slang terms of Megalodaunt is Sharko, Megalodon, Gary, Jerry, Big Guy, Hugo, and Liam
--   If Meglodaunt has you as a enemy targets, its best if you block dodge or parry some of his moves than try to roll it. Moves such as Thousand Needles and Yellow streamis semi-impossible to avoid, as it covers a good amount of area.
+-   If Meglodaunt has you as a enemy targets, its best if you block dodge or parry some of his moves than try to roll it. Moves such as Thousand Needles and Yellow stream is semi-impossible to avoid, as it covers a good amount of area.
 -   Your camera shakes the closer Meglodaunt is to your character, due to his footsteps.
 -   It's always recommended to perfect dodge the Football Kicks.
 -   After parrying it's Palm Bust block for a second to see if it slaps again and react to it's next move.
@@ -70,4 +72,4 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
     uhhhhh (secret technique the red megalodaunt uses, its called the "nutcracker")
     
     File:Black Megalodaunt variant.png
--   A Black Meglodaunt.
+-   A #iggalodaunt.

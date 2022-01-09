@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 7993
+revid: 10963
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,13 +16,13 @@ Ores are materials found all around the map, especially in caves. It is used for
 -   **Rock**\- Used in crafting Flint, comes in a grayish-blue color or a sandstone color
 -   **Coal**\- Used in crafting Flint, comes in a black color
 -   **Iron**\- Used for crafting Bullets, and certain armors, comes in a copper tint
--   **Gold**\- Used for crafting certain armors, comes in a yellowish color
+-   **Gold**\- Used for crafting certain armors, comes in a yellowish color.
 -   **Erisore**\- Used for crafting certain armor, comes in a glowing blueish color
 -   **Irithine**\- Used for crafting certain armor, comes in a green color
 
 ## Locations
 
-Iron, Coal and Rock can be found in pretty much any cave, Gold can be found in most caves but is slightly rarer.
+Iron, Coal and Rock can be found in pretty much any cave, Gold can be found in Song Seeker Isle Mines.
 
 Erisore and Irithine have their own caves.
 

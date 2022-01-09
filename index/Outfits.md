@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 10912
+revid: 11028
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -22,7 +22,7 @@ There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes ar
 
 The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking. sus
 
-To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent), Thresher scales (rare talent), or a Bloodiron spirit ring (Obtained in [the Depths](The_Depths.md) or from [the Duke](Duke_Ishamon_Erisia.md)).
+To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent), Thresher scales (rare talent), or a Bloodiron spirit ring (Obtained in [the Depths](The_Depths.md) or from [the Duke](Duke_Ishamon_Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md)).
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
@@ -46,6 +46,17 @@ Image of the Outfit List, with 2 outfits learned
 | --- | --- | --- | --- | --- |
 | 
  | Stranded | Spawn | None | None |
+| 
+
+File:Merchant Robes.PNG
+
+ | Merchant Robes | 5x Cloth
+
+5x Fiber
+
+25 Notes
+
+ | None | _Talent: Mates' Rates_ |
 | 
 
 File:Nda.jpg
@@ -1008,6 +1019,13 @@ thief Emiya Konga."
  | Konga's Clutch Ring | Allows the user to slide without delay.
 
 _Requires Power Level 10_
+
+ |
+| 
+
+ | Michael Phelps | Gives the user a massive increase in swimming speed.
+
+_Unknown Requirement_
 
  |
 | 

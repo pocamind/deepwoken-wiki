@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 10835
+revid: 10930
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -57,6 +57,7 @@ Below are possible items that can be found in the chests in songseeker.
 -   Iron cetus
 -   Shotel
 -   Razor cutlass
+-   Katana
 -   Vigil longsword
 -   Rangers boots
 -   Brilliant boots

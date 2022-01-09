@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 10914
+revid: 11021
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -37,7 +37,6 @@ While there is no requirement to get a Resonance besides max progress, max progr
 TLDR:
 
 -   Resonances are dependant on a seperate stat from Luck, known as Progress.
--   Progress is obtained identically to Luck, anything that will drop Luck will drop Progress.
 -   Progress can never be lost or reset, besides wiping.
 -   Progress can be obtained in The Overworld and carry over to The Depths.
 -   Max progress takes signifcantly longer than max Luck.
@@ -217,4 +216,13 @@ Phoenix fire effect
 -   Having a soul allows you to hold a beam which deals high damage over time.
 -   Notes:
     -   This bell is pretty common and requires you to farm NPCs to be used, so rerolling it should be considered.
-    -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.
+    -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.  
+        
+
+**Pheonix(?)**
+
+Effects:
+
+-   Summon a flying ridable pheonix that other people can get on.
+-   It is unknown how long this lasts, or how rare the bell is
+-   Mostly speculation, only being seen in a few clips.

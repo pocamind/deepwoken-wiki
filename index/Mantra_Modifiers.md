@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10662
+revid: 10941
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items]
 
 # Mantra Modifiers
 
-_This page is a list of all items that you can use in order to modify a Mantra._
+_esaThis page is a list of all items that you can use in order to modify a Mantra._
 
 ## Description
 
@@ -110,7 +110,9 @@ Deep Gems are dropped by the Primadon boss at a low rate.
 File:Blessedgem.png
 
  | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
-|  | Blue Gem | Reduces Mantra ether cost |
+| 
+
+ | Blue Gem | Reduces Mantra ether cost |
 | 
 
 File:Screenshot 59.png

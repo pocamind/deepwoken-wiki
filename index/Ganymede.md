@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 10432
+revid: 10982
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -10,9 +10,13 @@ categories: [Pages with broken file links, Races]
 
 ## Description
 
+“ Peculiar folk who are often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads man forward. ”
+
+― God (Presumably)
+
 Template:Races-Main
 
-_"Peculiar fold often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads man forward."_
+  
 
 ## Racial Traits
 
@@ -20,7 +24,7 @@ _"Peculiar fold often known for their wisdom and intelligence. Though quite rare
 <tbody>
 <tr>
   <td>File:Navae's Guidance.png</td>
-  <td><b>Deep Folk's</b>
+  <td><b>Deepfolk</b>
   <ul>
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.</i>"</li>
     <li>+1 Health</li>
@@ -59,7 +63,7 @@ There is no weakness
 
 ## Trivia
 
--   Obtaining [resonances](Resonance.md) may be easier for them due to the racial resistance to insanity.
+-   Obtaining [a Resonance](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Looks similar to cipher from the Valorant series.
--   Do you know that Ganymede is a jupiter moon? A little fun fact
+-   Do you know that Ganymede is a jupiter moon? A little fun fact.

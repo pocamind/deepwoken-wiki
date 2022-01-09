@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 10708
+revid: 10943
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -127,7 +127,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 |  | Flame Wisp (☆☆) | A servant of flames. | Caster summons a wisp of magma.
 -   Heals the caster.
 -   Ignites nearby campfire pits.
--   _Potentially ritual casting?_
+-   Ritual casting.
 
  |
 |  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.

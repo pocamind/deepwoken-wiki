@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 10924
+revid: 10936
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,9 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-_"Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents."_
+“ Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents. ”
+
+― God (Presumably)
 
 ## Racial Traits
 
@@ -43,8 +45,6 @@ _"Never seen without their masks, Poorly understood, but begrudgingly appreciate
 **Lore:**
 
 ## Lore
-
-Vesperians got there mask from mask maker from hollow knight (this is canon) fr (for real) :troll:
 
 **Variants:**
 
