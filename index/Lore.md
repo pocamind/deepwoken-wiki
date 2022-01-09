@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10729
+revid: 10855
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -344,6 +344,12 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
 -   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met. (Climate Change?)
 
+### Ancestors of Ganymedes & Vesperians
+
+-   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
+-   Up to the present in Year 1271, they still work together as The Hive.  
+    
+
 ### Lightkeepers
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
@@ -389,3 +395,4 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ## Notes/Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
+-   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus the makings of "Ancestors of Ganymedes & Vesperians".

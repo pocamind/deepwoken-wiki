@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 10666
+revid: 10875
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,7 +37,7 @@ This is certainly a faster method to escape, although still poses the threat of 
 
 ## The Trial
 
-The Malevolent Gods sentence you a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
+The Voices of the Depths sentence you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
 
@@ -45,16 +45,14 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 
 | Level | Possible Enemies |
 | --- | --- |
-| <8 | N/A - You escape without fighting a monster |
-| 8-15 | N/A - You escape without fighting a monster
-Sometimes you might have to fight a [Hive Guard](https://deepwoken.fandom.com/wiki/Enemies#The_Hive)
+| 1-7 | N/A - You escape without fighting a monster |
+| 8-19 | Mudskipper Assassin |
+| 20-30 | [Angels](Hollow_Angel.md) |
+| 30-50 | [Megalodaunt](Megalodaunt.md) (Don't know how enchanted works
+but I'm guessing it's higher chance with higher power)
 
  |
-| 16-19 | Bandit - [City Sentinel, Assassin Mudskipper, Swordsman](Enemies.md) |
-| 20-27 | [Angels](Hollow_Angel.md) |
-| 28-44 | [Megalodaunt](Megalodaunt.md) |
-| 41-44 | Cursed/Enhanced [Megalodaunt](Megalodaunt.md) (Chance) |
-| 45< | [Enforcer](Enforcer.md) |
+| 50+ | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 

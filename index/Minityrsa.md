@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 8495
+revid: 10886
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -31,6 +31,27 @@ Minityrsa, located far from Etris, is recommended for Players that are Power Lev
 -   Ice Golems
 -   [Snow Knight](Stone_Knight.md)
 -   [Gargoyles](Brainsucker.md)
+
+## Loot
+
+Possible items from chests in Minityrsa
+
+-   Tactician
+-   Canorian axe
+-   Razor cutlass
+-   Katana(1 star)
+-   Iron cestus(1-2 star)
+-   Brilliant boots
+-   Ranger boots
+-   Flameguard pauldrons
+-   Eyeglasses
+-   Crimson blindfold
+-   Ten-gallon bandana
+-   Gold bar(8)
+-   Amethyst(3-6)
+-   Emerald(6-8)
+-   Ruby(6)
+-   Saphire(6-7)
 
 ## Notes/Trivia
 

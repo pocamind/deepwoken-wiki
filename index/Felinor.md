@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 9809
+revid: 10863
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -59,8 +59,3 @@ Unknown
 ## Weaknesses
 
 -   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
-    
-
-## Notes
-
--   Felinors may be attacked due to their race mildly resembling furries / nekos as many players have taken it upon themselves to hunt felinors.

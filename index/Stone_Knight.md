@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 10615
+revid: 10917
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -41,11 +41,9 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
   <td>A projectile is fired towards the player, does damage (and probably launches the player back)</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Spawn</td>
+  <td>Upon entering the Valley of Heros, 5 meteors fall from the sky. When hitting the ground they spawn Snow Knights that will aggro on the player.</td>
 </tr>
 </tbody>
 </table>
-
-When you see this, run

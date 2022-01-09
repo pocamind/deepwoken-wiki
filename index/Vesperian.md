@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 10146
+revid: 10924
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -44,7 +44,7 @@ _"Never seen without their masks, Poorly understood, but begrudgingly appreciate
 
 ## Lore
 
-funny insect
+Vesperians got there mask from mask maker from hollow knight (this is canon) fr (for real) :troll:
 
 **Variants:**
 
@@ -74,3 +74,9 @@ funny insect
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special dark-colored mask with a yellow pattern that resembles an eye.
 -   Some of the mask designs that you can choose as a face may be based on designs found in the Kung-fu Soulslike _**Absolver**_.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md).
+
+## Race progression
+
+As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
+
+After a certain age they can take their mask off, suspected that they get a damage buff but they lose the armor below their health.

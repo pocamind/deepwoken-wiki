@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 10684
+revid: 10922
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -14,9 +14,9 @@ _Also known as Shark(s), Sharko(s), and Megalodaunt(s)._
 
 ## Description
 
-> _"Zamn bro, that Sharko got some cake!"_
+> _"Zamn bro, that Sharko got some cake!"_ - Foolish Bard.
 
-> \- Foolish Bard.
+> "Watch yo tone." -Megalodaunt (Presumably)
 
 Megalodaunts are shark-like (not to be confused with [Lionfish](Lionfish.md), the actual shark enemy) Giant Type enemies which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 

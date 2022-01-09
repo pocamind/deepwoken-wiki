@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 10712
+revid: 10835
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,3 +46,23 @@ These groups will spawn a chest once each enemies are defeated.
 -   Flamecharm temple
     -   A Songseeker Frostdrawer on the left
     -   A Songseeker Flamecharmer on the right.
+
+## Loot
+
+Below are possible items that can be found in the chests in songseeker.
+
+-   Canorian axe
+-   Crescent cleaver
+-   Legion cetus
+-   Iron cetus
+-   Shotel
+-   Razor cutlass
+-   Vigil longsword
+-   Rangers boots
+-   Brilliant boots
+-   Flameguard pauldrons
+-   Eyeglasses
+-   Polarised Eyeglasses
+-   Gold bar(3-6)
+-   Saphire(4-6)
+-   Amethyst(4-)

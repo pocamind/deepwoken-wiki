@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 10618
+revid: 10791
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -152,8 +152,9 @@ Higher Qual image of Oath
 
 ### Oath Description:
 
-"Invoke the Moth, born from blood of kin, a pox upon the actor of fraticide. Consanguinous voices callout; the Moth answers."
+"Invoke the Moth, born from blood of kin, a pox upon the actor of fratricide. Consanguinous voices callout; the Moth answers."
 
 ## Notes:
 
 -   Could be fake as this Moth entity as never been heard of or mentioned in game.
+-   fratricide: the killing of one's brother or sister. could be related to killing players who are your brother/sister/cousin otherwise why would they add a random mechanic that makes other players your family members very sussy indeed

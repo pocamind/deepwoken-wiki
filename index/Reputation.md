@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 10395
+revid: 10902
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -8,11 +8,11 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 # Reputation
 
-_“The guard gives you a crooked smile.”' Have a nice day, friend._
+“ The guard gives you a crooked smile. 'Have a nice day, friend. If you ever get into trouble, you know who to look for...' ”
 
-If you ever get into trouble, you know who to look for..."
+― Nerin
 
-\- Nerin
+  
 
 ## Description
 
@@ -86,10 +86,13 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
   <td><a href="Summer_Isle.md">Summer Isle</a></td>
   <td><b>Nepo</b>: Removes hostilities with the Summer Company.</td>
 </tr>
+<tr>
+  <td><figure>File:Zirik.png<figcaption></figcaption></figure></td>
+  <td><a href="Greathive_Aratel.md">Greathive Aratel</a><p>(In The Lordsgrove next to a pillar)</p></td>
+  <td><b>Zirik</b>: Removes hostilities with the Greathive Aratel guards</td>
+</tr>
 </tbody>
 </table>
-
-  
 
 ### Player vs. Environment (PVE) Events
 
@@ -112,7 +115,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   The Central Authority
 -   The Kingdom of Etrea
 -   The Navaen Nomads
--   Summer Company (Kinda)
+-   Summer Company (You can only have neutral and negative reputation)
 -   The 11th Legion/The Empire
 
 ### Non-Reputable Factions

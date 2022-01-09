@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 10620
+revid: 10914
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -111,7 +111,7 @@ Phoenix fire effect
 
 -   File:God's Will Showcase.mp4
     
-    Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense.
+    Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense. (more likely to be mantra resistance (someone tested) or might be another variant)
 
   
 

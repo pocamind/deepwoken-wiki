@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 10689
+revid: 10903
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,7 +35,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 ### _**Agility Mantras**_
 
-**Dash** - An agile Dash. (Requirement: Agility, Mobility Mantra)
+**Dash** - An agile Dash. (Requirement: 10 Agility, Mobility Mantra)
 
 **Adrenaline Surge** - An adrenaline rush of agility. (Requirement: 20 Agility, Support Mantra)
 

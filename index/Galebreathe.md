@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 10222
+revid: 10781
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Spells]
 
 A wind coated blade.
 
-Galebreathe grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 

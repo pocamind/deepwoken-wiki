@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 10519
+revid: 10912
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -667,15 +667,9 @@ x2 Lionfish Scale
 +50% Stealth
 
  |
-| i have a picture but i
+| 
 
-cant add it
-
-if u can add it and want
-
-the pic my disc is
-
-aidan#4606
+File:Cloak of winds .png
 
  | Cloak of Winds | x5 Cloth
 

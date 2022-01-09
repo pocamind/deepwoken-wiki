@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 9362
+revid: 10918
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -91,7 +91,7 @@ File:Greathive Aratel8.png
 Witch shop from the balcony
 
   
-**SOULBLOOM QUEST:** Go to the arcives and talk to an npc by a culdron for the quest. There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory and the last one near bsmith aswell. The reward is being able to upgrade willpower mantras.
+**SOULBLOOM QUEST:** Go to the arcives and talk to an npc by a culdron for the quest. There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory and the last one near bsmith aswell. The reward is being able to upgrade attunement-less mantras.
 
 Extra: There is green wells around the hive, that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an oath. In the entrance, the left well goes to [Summer Isles](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
 

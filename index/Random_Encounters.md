@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 9600
+revid: 10790
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -11,6 +11,8 @@ categories: [World]
 ## Description
 
 Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
+
+**Note:** This is not a comprehensive list of every single random encounter: more will be added.
 
 ## **AI-Driven Encounters:**
 
@@ -24,7 +26,7 @@ While in Erisia (or others?), there is a chance that three NPCs will fall from t
 
 ### **Authority vs X**
 
-Authority NPCs of constant strength attack either a group of Legion, Pathfinder, or Vigil soldiers.
+Authority NPCs of constant strength attack either a group of Legion, Pathfinder, or Etrean soldiers.
 
 ### **Hobo**
 

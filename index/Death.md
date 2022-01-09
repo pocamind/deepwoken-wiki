@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 10513
+revid: 10881
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mechanics]
@@ -14,9 +14,14 @@ Death is an important aspect of Deepwoken. You have 3 lives in Deepwoken, 2 of t
 
 [The Depths](The_Depths.md) is essentially the underworld, where you have to redeem yourself and prove your worth. Your goal in The Depths is to enter the sunken Celtorian city and sneak past enemy entities called Watchers. If spotted by the Watchers, you will have to fend off against [Angels](Hollow_Angel.md). While you are sneaking around, you have to go to certain parts of the city and ring bells to open a gate to the center area. Once you make it to the elevator, you will have to face a [Trial](https://deepwoken.fandom.com/wiki/The_Depths#The_Trial) that takes you back up to the Overworld, restoring all of your lives.
 
+New Theory: In a recent stream, ReEvolu cryptically mentioned how "Characters dont live forever", and also mentioned how characters age even when you arent playing them. Now I'm gonna be honest, judging from how much he talked about character age and stuff, despite not directly saying it, It is possible your character may die from old age.
+
+_**After some brief calculations, it is possible your character may wipe/die from old age after 256 REAL-LIFE days.**_
+
 File:R5kxsf.mp4What the bells sound like (thanks [Rayashiblie!)](<https://deepwoken.fandom.com/wiki/The_Depths?commentId=4400000000000357055)>)
 
   
+
 Leaving Depths Solo
 
 -   Level 1-9 Allowed to leave

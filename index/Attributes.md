@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 10509
+revid: 10916
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -8,7 +8,11 @@ categories: [Attributes]
 
 # Attributes
 
-_"It's a simple method, beat people up and get better equipment. It's like a Bandit-Beater!"_ - A naïve Celtor, moments before a Megalodaunt shot barnacles at him.
+“ It's a simple method, beat people up and get better equipment. It's like a Bandit-Beater! ”
+
+― A naive Celtor, moments before a Megalodaunt shot barnacles at him.
+
+  
 
 ## Description
 
@@ -26,7 +30,11 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ### Strength
 
-> _"My right arm is a lot stronger than my left arm!" - Coomer Felinor_
+“ My right arm is a lot stronger than my left arm! ”
+
+― Coomer Felinor
+
+  
 
 -   Overall Physical Strength, Increases Carry Load by 1 per Strength.
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
@@ -37,7 +45,11 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ### Fortitude
 
-> _"This Gobletto bussin'!" \*Pukes everywhere\* - Nameless Khan_
+“ This Gobletto bussin'! \*Pukes everywhere\* ”
+
+― Nameless Khan
+
+  
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (1 HP Increase per Fortitude?)
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
@@ -47,23 +59,35 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ### Agility
 
-> _"Parkour—PARKOUR!" - Last words of a Ganymede_
+“ Parkour—PARKOUR! ”
 
-Template:Quote
+― Last words of a Ganymede
 
-> _"I'M RUNNIN' CIRCLES AROUND YA!"_ _\- Etrean Pitcher to a beefy Canorian._
+“ Gotta go Fast! ”
+
+― A friend of a Felinor that tried to outrun a Sharko
+
+“ I'M RUNNIN' CIRCLES AROUND YA! ”
+
+― Etrean Pitcher to a beefy Canorian
+
+  
 
 -   Slight of hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
 -   Agility Weapons, such as daggers, requires a Agility requirement to wield.
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility. Most of them also grant Passive Agility, which is not displayed on the attribute tab but grant improvemed movement normally.
--   Gain Agility EXP via Parkour (Such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
+-   Gain Agility EXP via Parkour(such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
 -   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 agility. (Might require an oath too?)
--   **NOTE:** Your Agility is also affected by your health. Lower health = less agility = harder time to parkour/run away.
+-   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
 
 ### Intelligence
 
-> _"What's 9 + 10?" - Etrean questioning a rather large-brained Felinor_
+“ What's 9 + 10? ”
+
+― Etrean questioning a rather large-brained Felinor
+
+  
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.
@@ -74,9 +98,15 @@ Template:Quote
 
 ### Willpower
 
-> _"Grant us eyes, **GRANT US EYES!** Grant us eyes on the inside!" - 'Enlightened' Etrean._
+“ Grant us eyes, **GRANT US EYES!** Grant us eyes on the inside! ”
 
-"Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now." - Unfortunate female Canor (retty)
+― 'Enlightened' Etrean
+
+“ Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now. ”
+
+― Unfortunate female Canor
+
+  
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -86,9 +116,15 @@ Template:Quote
 
 ### Charisma
 
-> _"Y'all see the shoes, y'all see the money..." \*proceeds to scam the Antiquarian\* - A charismatic Capra_
+“ Y'all see the shoes, y'all see the money... \*proceeds to scam the Antiquarian\* ”
 
-> _"Say, I know a way to get stronger. Called a Vow of Mastery, want to make one?"_ _\- Canorian to a Stranded Vesperian._
+― A charismatic Capra
+
+“ Say, I know a way to get stronger. Called a Vow of Mastery, want to make one? ”
+
+― Canorian to a Stranded Vesperian
+
+  
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma affects your Attunements' Damage slightly per Charisma.
@@ -103,9 +139,11 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 ### Heavy Weapons
 
-> _"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron."_
+“ It was too big to be called a sword. Massive, heavy, and far too rough. Indeed, it was a heap of raw iron. ”
 
-> _\- A canorian with his Blacksteel Greatsword._
+― A canorian with his Blacksteel Greatsword
+
+  
 
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
@@ -115,9 +153,11 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 ### Medium Weapons
 
-> "_All for The Prince._"
+“ All for The Prince ”
 
-> \- a Gremor repeatedly using the Gremorian Longspear's critical attack
+― A Gremor repeatedly using the Gremorian Longspear's Critical Attack
+
+  
 
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
@@ -127,11 +167,11 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 ### Light Weapons
 
-> _"Yew got a loicense for that knoif mate?"_
+“ Yew got a loicense for that knoif mate?" "You're callin' **THIS** a knoife mate? ”
 
-> _"You're callin' **THIS**_ _a knoife mate?"_
+― British' Adret to an 'Aussie' Capra fistfighter
 
-> \- 'British' Adret to an 'Aussie' Capra fistfighter.
+  
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.
@@ -145,9 +185,11 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-> _"Mmmph hrmhph umpph?"_
+“ Mmmph hrmhph umpph? ”
 
-> \- Adret Pyromancer with an Iron Mask.
+― Adret Pyromancer with an Iron Mask
+
+  
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
@@ -157,9 +199,11 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Frostdraw
 
-> _"Honey? Where's my Super Suit?"_
+“ Honey? Where's my Super Suit? ”
 
-> \- Black Felinor Frostdrawer
+― Black Felinor Frostdrawer
+
+  
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
@@ -168,13 +212,11 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Thundercall
 
-> _"Strike me down, Voices of the Deep— You don't have the BALLS-"_
+“ PRAISE **THE SUN!**\=Elite Knight & Royal Swordsman ”
 
-> _\- Unfortunate Thundercaller_
+― {{{author}}}
 
-> _"PRAISE **THE SUN!**"_
-
-> \- Elite Knight & Royal Swordsman
+  
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
@@ -183,9 +225,11 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
-> _"Sorye ge ton!"_
+“ Sorye ge ton! ”
 
-> _\- Yasou,_ Wandering Galebreath Swordsman.
+― Yasou, Wandering Galebreath Swordsman
+
+  
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
@@ -193,9 +237,15 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Shadowcast
 
-> _"Hoo boy, for some reason I want to grip freshspawns!" said the Shadowcaster._
+“ Hoo boy, for some reason I want to grip freshspawns!". ”
 
-> _"You must be an Uber Oni!"_ said his foreign friend.
+― A random Shadowcaster
+
+“ You must be an Uber Oni! ”
+
+― His foreign friend
+
+  
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.

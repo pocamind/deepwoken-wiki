@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 10730
+revid: 10870
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -8,7 +8,9 @@ categories: [Talents]
 
 # Talents
 
-_"Your training finally bears fruit..." - Card Selection Flavour Text_
+“ Your training finally bears fruit... ”
+
+― Selection Flavour Text
 
 <table>
 <tbody>
@@ -111,7 +113,7 @@ Hand of Mantra Cards
 
 ### Artisan
 
--   Master Craftsman \[? Talent\] - Your skills alone substitute the need for a Craft Station.
+-   Master Craftsman \[Common Talent\] - Your skills alone substitute the need for a Craft Station.
     -   Prerequisites: Intelligence
 
 ### Athlete

@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 6266
+revid: 10812
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,8 @@ There is a ship post.
   
 
 (edit there is only 1 ship post at the front of the island)
+
+The island's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs where a family recieves a monkey's paw with three wishes, but each wish has a terrible consequence.
 
 Talking to the flame
 

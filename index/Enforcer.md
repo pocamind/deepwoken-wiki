@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 9852
+revid: 10779
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -14,7 +14,7 @@ Template:Creature Info Box v2
 
 An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (usually 50+, but has a chance to spawn anywhere after level 40.)
 
-Drops the Enforcer's Axe weapon and perfect lenses.
+Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
 ### Attacks
 
@@ -22,7 +22,7 @@ Drops the Enforcer's Axe weapon and perfect lenses.
 -   **Low Swing -** Swings his axe around knee length at the opponent.
 -   **Kick -** Delivers a kick at the opponent.
 -   **Spin -** Spin with his axe, but is slown.
--   **Rope -** If you far away from him he will pull you to him with rope.
+-   **Hook-** If you far away from him he will pull you to him with his hook.
 
 ### Finisher
 
@@ -35,7 +35,7 @@ Drops the Enforcer's Axe weapon and perfect lenses.
 -   A common combo that The Enforcer will use is two high swings in quick succession before going for a low swing.
 -   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits.
 -   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry its next attack quickly.
--   Do this solo or duo it you are NOT beating it with a lot of people
+-   Do this solo or duo; it becomes a lot more challenging when many players show up, causing an armada of Enforcers to wreck everything in sight.
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 
