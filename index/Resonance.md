@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11021
+revid: 11065
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -216,13 +216,4 @@ Phoenix fire effect
 -   Having a soul allows you to hold a beam which deals high damage over time.
 -   Notes:
     -   This bell is pretty common and requires you to farm NPCs to be used, so rerolling it should be considered.
-    -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.  
-        
-
-**Pheonix(?)**
-
-Effects:
-
--   Summon a flying ridable pheonix that other people can get on.
--   It is unknown how long this lasts, or how rare the bell is
--   Mostly speculation, only being seen in a few clips.
+    -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.

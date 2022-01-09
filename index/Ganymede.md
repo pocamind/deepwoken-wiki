@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 10982
+revid: 11058
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -47,7 +47,7 @@ Template:Races-Main
 
 ## Lore
 
-lorelorelore
+to be discoverd
 
 **Strengths:**
 

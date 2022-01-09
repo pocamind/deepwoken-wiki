@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 10206
+revid: 11052
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 ## **Attacks**
 
--   **Electric Stun Pulse** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
+-   **Electric Stun Pulse (Gigablast)** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
 
 ### **Finisher**
 
@@ -21,7 +21,6 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 ## Notes/Trivia
 
--   Real Name: Gigamed
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 
@@ -43,5 +42,5 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 ## Notes/Trivia
 
 -   Real Name: King Gigamed
--   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot.
+    -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot.
 -   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants

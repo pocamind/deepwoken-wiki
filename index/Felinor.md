@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 10863
+revid: 11064
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -59,3 +59,8 @@ Unknown
 ## Weaknesses
 
 -   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
+    
+
+## Notes
+
+When wearing earrings they appear on the cat ears.

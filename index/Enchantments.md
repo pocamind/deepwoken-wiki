@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 10505
+revid: 11047
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -226,11 +226,13 @@ Upon getting hit, your armor releases toxic gas.
  |
 | 
 
+File:Adhesive.png
+
 Adhesive
 
  | 
 
-Flourishing an enemy fires homing projectiles upon them. (?)
+Unknown
 
   
 

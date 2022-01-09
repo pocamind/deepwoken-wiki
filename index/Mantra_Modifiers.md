@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 10941
+revid: 11044
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -84,7 +84,11 @@ File:Screenshot 2021-12-28 152413.png
 
 File:Mantra Modifier Placeholder.png
 
- | Magnifying Stone | Likely same as Glass Stone. (testing required, someone try combining a Stratus Stone with a Perfect Lens) |
+ | Magnifying Stone | Likely same as Glass Stone. (tested, Stratus Stone and Perfect lens crafted together create Magnifying stone)
+
+"Images percieved through the stone seem to give off an expanding aura." -flavor text
+
+ |
 | 
 
  | Vibrant Gem | Intensifies elemental effects. |
@@ -191,6 +195,9 @@ _"You feel dizzy when you hold it."_
 | 
 
  | Mirage Stone | _Unknown._ | _Unknown._ |
+| 
+
+ | Falseflame Stone | _Unkown._ | _Unkown._ |
 
 ### **Specific Effects of Sparks**
 
@@ -243,4 +250,4 @@ There are currently a number of Mantra Mods that can be crafted, but are unsure 
 
 Currently, there are:
 
--   False Flamestone
+-   ~False Flamestone~ This isnt crafted, I found it by killing a jellyfish in depths, and I added picture to graph above.

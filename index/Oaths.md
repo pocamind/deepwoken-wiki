@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 10791
+revid: 11036
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -157,4 +157,4 @@ Higher Qual image of Oath
 ## Notes:
 
 -   Could be fake as this Moth entity as never been heard of or mentioned in game.
--   fratricide: the killing of one's brother or sister. could be related to killing players who are your brother/sister/cousin otherwise why would they add a random mechanic that makes other players your family members very sussy indeed
+-   fratricide: the killing of one's brother or sister. could be related to killing players who are your brother/sister/cousin otherwise why would they add a random mechanic that makes other players your family members very sussy indeed (so sussy)

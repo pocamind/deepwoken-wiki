@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 10777
+revid: 11051
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,4 +14,8 @@ This place has now been proven to exist by this youtube video (55:11) https://ww
 
 This place is also empty, if you go there be expecting only to find water.
 
-This place has been rumored to be removed from the game
+~This place has been rumored to be removed from the game~
+
+This place has been proven to still exist.
+
+Proof: [https://www.youtube.com/watch?v=Tr0KCPTDNbM](https://www.youtube.com/watch?v=Tr0KCPTDNbM)

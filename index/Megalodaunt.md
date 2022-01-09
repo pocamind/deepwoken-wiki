@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 11027
+revid: 11040
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -63,6 +63,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 -   It's always recommended to perfect dodge the Football Kicks.
 -   After parrying it's Palm Bust block for a second to see if it slaps again and react to it's next move.
 -   Meglodaunt has 1000 points of HP.
+-   Enchaned Megalodaunt has 3000 points of HP.
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
 -   The following method can be used to easily kill the Meglodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy). (--THE METHOD MIGHT HAVE BEEN PATCHED, NO TESTINGS YET--.)(just tested this method it still works)  
