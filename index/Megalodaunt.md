@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 11040
+revid: 11101
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -26,7 +26,7 @@ It is the most common Giant Type enemy.
 
 This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, red variant.
 
-Seen mostly in Lower Erisia and around the Erisia Island, The Meglodaunt is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death.
+Seen mostly in Lower Erisia and around the Erisia Island, The Megalodaunt is the first Monster new players would stumble against. Players that lack insight of this creature and are Ill-equipped are mostly likely going to experience a swift death.
 
 Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight against [primadon](Primadon,_Titan_of_the_East.md), also can be sold for notes.), killing a Megalodaunt may also grant a chest with decent gear, usually better than the loot that the bandit camps yield.
 
@@ -50,7 +50,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 -   **Megalodaunt** - A normal Megalodaunt.
 -   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt. Red Megalodaunts appear exclusively on Songseeker Wilds(?). Red Megalodaunts can use a mantra that summons flaming swords in the sky, which proceed to rain down. Much harder than the normal variant.
--   **Black Megalodaunt** - Appears exclusively in [the Depths](The_Depths.md)(?). Probably stronger than a normal Megalodaunt, too.
+-   **Enhanced/Corrupted Megalodaunt** - Appears exclusively in [the Depths](The_Depths.md)(?). Probably stronger than a normal Megalodaunt, too.
 
 ## Tips n' Tricks
 
@@ -62,11 +62,11 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 -   Your camera shakes the closer Meglodaunt is to your character, due to his footsteps.
 -   It's always recommended to perfect dodge the Football Kicks.
 -   After parrying it's Palm Bust block for a second to see if it slaps again and react to it's next move.
--   Meglodaunt has 1000 points of HP.
--   Enchaned Megalodaunt has 3000 points of HP.
+-   Megalodaunt has 1000 points of HP.
+-   Enhanced Megalodaunt has 3000 points of HP.
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
--   The following method can be used to easily kill the Meglodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy). (--THE METHOD MIGHT HAVE BEEN PATCHED, NO TESTINGS YET--.)(just tested this method it still works)  
+-   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy).  
     
     File:Screen Shot 2021-12-31 at 9.28.36 AM.png
     

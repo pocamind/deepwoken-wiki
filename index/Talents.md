@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11014
+revid: 11090
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -128,7 +128,9 @@ Hand of Mantra Cards
 ### Authority Interrogator
 
 -   Authority Intimidation \[?, Common Talent\] - All moves that apply electricity slow the opponent more.
--   Resolve Crusher \[?, Common Talent\] - Lightning moves now have a chance to apply "Electrify"
+-   Resolve Crusher \[?, Common Talent\] - Lightning moves now have a chance to apply "Electrify".
+-   First Interrogation \[?, Common Talent\] - Electrified attacks do 50% less posture damage.
+-   Second Interrogation \[?, Common Talent\] - Electrified attacks refill your Ether bar.
 
 ### Bastion
 
@@ -405,7 +407,7 @@ Hand of Mantra Cards
 ### Public Figure
 
 -   Bodyguard Detail \[Generic Talent, Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
-    -   Requires around 40 charisma
+    -   Requires around 40 charisma - The player will say "Hey, over here!" when this effect activate, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Generic Talent, Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
 -   Diplomat \[Genric Talent, Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   Prerequisites For All: Charisma
@@ -579,7 +581,7 @@ Hand of Mantra Cards
 
 -   Conditioned Swimmer \[Generic Talent, Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
     -   Prerequisites:
--   Scuba Drowner \[Generic Talent, Rare Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility
+-   Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility
     -   Prerequisites:
 
 ### **Weapon Master**

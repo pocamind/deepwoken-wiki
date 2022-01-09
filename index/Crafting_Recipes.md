@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 10345
+revid: 11087
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -293,6 +293,19 @@ _**Negative**_
 
 -   It's not super effective in fights but it has its uses.
 -   It seems to only be able to remove 10% with 3 Bundles. \[May remove more with specific Talents\]
+
+ |
+| **Mindbreaking Bane** | 
+
+-   2-3x Urchin
+
+ | _**Negative**_
+
+-   Inflicts Insanity
+
+ | 
+
+-   It does not give a lot of Insanity, although using one or getting hit by one will make your screen start going blue.
 
  |
 

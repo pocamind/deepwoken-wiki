@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 10886
+revid: 11098
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,20 +38,23 @@ Possible items from chests in Minityrsa
 
 -   Tactician
 -   Canorian axe
--   Razor cutlass
+-   Razor cutlass(0-1 star)
 -   Katana(1 star)
--   Iron cestus(1-2 star)
+-   Iron cestus(0-2 star)
 -   Brilliant boots
 -   Ranger boots
 -   Flameguard pauldrons
+-   Glassdancer wraps
+-   Golden cape
 -   Eyeglasses
+-   Polarized eyeglasses
 -   Crimson blindfold
 -   Ten-gallon bandana
--   Gold bar(8)
--   Amethyst(3-6)
+-   Gold bar(4-8)
+-   Amethyst(3-7)
 -   Emerald(6-8)
--   Ruby(6)
--   Saphire(6-7)
+-   Ruby(5-6)
+-   Saphire(4-8)
 
 ## Notes/Trivia
 

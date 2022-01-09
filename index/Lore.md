@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 10946
+revid: 11105
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ _"Who would've thought, that they will forget us so easily?" - Voice of the Deep
 
 The lore of Deepwoken is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is also edited by one of the Developers themselves to correct these mistakes.
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals.
 
 This Page is for LORE only. If you want to see which Faction can be reputable or not, go [here](Reputation.md).
 
@@ -30,7 +30,7 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission (although he dons a blindfold).
 -   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
--   Talking to the Bookworm in Etris about him (as required for the Lord Regent Quest) reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist in the year of 1271, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
+-   Talking to the Bookworm in Etris about him (as required for the Lord Regent Quest) reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
 -   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -117,7 +117,7 @@ _**Ey migi vuru?**_
 -   **Encountered In:** _Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
 -   **Alliances:** _Vigil of Winds (Neutral)_
--   **Enemies:** _The Central Authority, The Hivemind, The Contractors_
+-   **Enemies:** _The Central Authority, The Hive, The Contractors_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority.
@@ -149,17 +149,16 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Old Stewards
 
--   Also known as The Pathfinders, is an organization that preserves whats left before the tides came; practically Historians.
--   Can be found in The Temple of the Forgotten Flame, but they can also be found as an encounter.
--   There are a handful of people, consisting mostly of treasure hunters and expeditionists alike, claiming to be one of The Old Stewards. Though, the true people of the faction despise them for their attempt of fame.
+-   An organization that preserves whats left before the tides came; practically Historians.
+-   Only mentioned by [Bookkeeper Andros](Bookkeeper_Andros.md), not able to be found ingame yet.
 
-### The Cloudjumper Empire, 11th Legion
+### The Legion
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _Unknown (Presumably Kingdom of Etrea and the Peacekeepers)_
--   A Military Organization mainly in The Aratel Sea. They are not to be confused with The Adretian Authority or The Hive.
+-   A Military Organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
     
@@ -251,9 +250,7 @@ A Peacekeeper Grunt, part of The Authority
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea_
 
--   Also known as The Hivemind, they are a group of Individuals; mostly Vesperian and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
--   Their previous home was [The Hidden Village](The_Hidden_Village.md), but evacuated by invoking the green fountains.
--   The Hive, based on Nimea's theory, are scavengers; reaping what they can to build homes and structures out of them.
+-   A group of Individuals; mostly Vesperian and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
 -   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
 -   The Hive protects green artifacts, similar to [The Forge](Artifacts.md), against the Kingdom of Etrea.
 -   They seem to have ranks such as Drone and Tactician.
@@ -264,7 +261,7 @@ A Peacekeeper Grunt, part of The Authority
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
 -   The Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
--   Based on The Black Diver Armor's description, The Depth Divers has some form of ranking system.
+-   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
 -   The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
 
 ### The Golden Warriors
@@ -347,15 +344,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Ancestors of Ganymedes & Vesperians
 
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
--   Up to the present in Year 1271, they still work together as The Hive.  
-    
+-   Up to the present in Year 1271, they still work together as The Hive.
 
 ### Lightkeepers
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light; using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary, and will eventually fade away.
--   In 1271, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
+-   Some time before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 11063
+revid: 11104
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -34,9 +34,10 @@ Being killed by Primadon will instantly result in being sent to the depths. Howe
 ## Tips
 
 -   Primadon makes a wooshing noise whenever it attacks.
+-   Whoever spawns Primadon (or hits it) gets a 30 minute cd to respawn it.
 -   Primadon despawns after 10 minutes. (I have timed it, it's not 15 minutes.)
 -   After killing Primadon, he drops 16 chests (1 of them is a small chest and has a guaranteed chance to drop a legendary gem (Blue gem, Wayward gem, etc.)
 -   The footsteps of Primadon play a loud, noticeable noise and shakes your camera.
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.
 -   DO NOT drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
--   You can summon Primadon with guild members/whoever you are farming with on boats just outside the island. Then once he is spawned they can all come onto the island without the Primadons' health scaling higher unlike if they were actually on the island.
+-   ~You can summon Primadon with guild members/whoever you are farming with on boats just outside the island. Then once he is spawned they can all come onto the island without the Primadons' health scaling higher unlike if they were actually on the island.~ This is false because his hp does not scale with players.

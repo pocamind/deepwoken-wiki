@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11039
+revid: 11075
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,14 +48,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 1-7 | N/A - You escape without fighting a monster |
 | 8-19 | Mudskipper Assassin |
 | 20-30 | [Angels](Hollow_Angel.md) |
-| 30-50 | [Megalodaunt](Megalodaunt.md) (~Don't know how enhanced works~
-~but I'm guessing it's higher chance with higher power~ Higher power = higher chance, tested with different power)
-
-(My friend got enhanced at Power 37 so watch out for it-Twbippp)
-
-(Got a normal [Megalodaunt](Megalodaunt.md) at power 39)
-
- |
+| 30-50 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
 | 50+ | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.

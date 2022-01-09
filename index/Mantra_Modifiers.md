@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11044
+revid: 11084
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -249,5 +249,13 @@ _"You feel dizzy when you hold it."_
 There are currently a number of Mantra Mods that can be crafted, but are unsure of how it can be. Currently, we need to find out whether or not the following mods can be crafted, the recipe of the mod if it can be crafted, and also its effects.
 
 Currently, there are:
+
+Just tested you can't combine:
+
+Aeon + cloudstone
+
+aeon + driftshard
+
+drift + cloudstone
 
 -   ~False Flamestone~ This isnt crafted, I found it by killing a jellyfish in depths, and I added picture to graph above.

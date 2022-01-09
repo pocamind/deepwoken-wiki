@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 11025
+revid: 11072
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,7 +18,7 @@ In order to succesfully use How to Make Friends, select the item in your invento
 
 File:Tempsnip.png
 
-**LOCATION in etris**
+**LOCATION in Etris**
 
 **Phrases**
 

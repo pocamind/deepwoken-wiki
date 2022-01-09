@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 11013
+revid: 11094
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -332,6 +332,17 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>0.75x</td>
 </tr>
 <tr>
+  <td>Rapier</td>
+  <td>0 MED</td>
+  <td>Sword</td>
+  <td>19</td>
+  <td></td>
+  <td>6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.77x</td>
+</tr>
+<tr>
   <td>Messer</td>
   <td>10 MED</td>
   <td>Sword</td>
@@ -439,6 +450,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td></td>
   <td></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Serpent's Edge</td>
@@ -446,16 +458,28 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
   <td>Sword</td>
   <td>22</td>
   <td></td>
-  <td>6</td>
-  <td>6</td>
-  <td>8.5</td>
-  <td>0.75x</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Cavalry Saber</td>
+  <td>40 MED</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>Shotel</td>
   <td>45 MED</td>
   <td>Sword</td>
   <td>22</td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -545,6 +569,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>6</td>
   <td>8</td>
   <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Steel Maul</td>
@@ -577,6 +602,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>6</td>
   <td>8</td>
   <td>0.61x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Crescent Cleaver</td>
@@ -598,6 +624,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>4</td>
   <td>8</td>
   <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Iron Birch</td>
@@ -608,6 +635,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>4</td>
   <td>8</td>
   <td>0.64x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Halberd</td>
@@ -618,6 +646,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Darksteel Greatsword</td>
@@ -661,6 +690,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -743,32 +773,22 @@ Accessories you can use in your off-hand and decrease posture damage.
 <tr>
   <td><b>Name</b></td>
   <td><b>Requires</b></td>
-  <td><b>Damage</b></td>
-  <td><b>Rarity</b></td>
 </tr>
 <tr>
   <td>Targe</td>
   <td>10 Fortitude</td>
-  <td>N/A</td>
-  <td></td>
 </tr>
 <tr>
   <td>Kite Shield</td>
   <td>30 Fortitude</td>
-  <td>N/A</td>
-  <td></td>
 </tr>
 <tr>
   <td>Worshipper's Shield</td>
   <td>45 Fortitude</td>
-  <td>N/A</td>
-  <td></td>
 </tr>
 <tr>
   <td>Khan Shield</td>
   <td>60 Fortitude</td>
-  <td>N/A</td>
-  <td></td>
 </tr>
 </tbody>
 </table>
