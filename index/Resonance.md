@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11150
+revid: 11381
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -32,7 +32,7 @@ It is true that the method requires killing Enhanced Monsters and Players, but t
 
 You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
 
-While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciate with things like hours in The Depths or max luck or a higher level.
+While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciated with things like hours in The Depths or max luck or a higher level.
 
 TLDR:
 
@@ -91,7 +91,6 @@ Phoenix fire effect
 -   Activating the resonances charges the ability, 1 level at a time. Can be done activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
--   ~Easily the worst resonance on the list. (Yeah its really bad, barelly buffs the damage)~ NOT ANYMORE! bell is good because it does insane damage when you maxely charge it up. (literally does 90 dmg from 1 m1
 
   
 

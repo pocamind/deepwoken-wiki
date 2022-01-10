@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 9671
+revid: 11390
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -115,7 +115,7 @@ _Purchased from Mantra Shops at any area._
 
 ### Frostdrawer
 
--   Hermafrost - **25 Notes** / 200 Durability
+-   [Hemafrost](Training_Gear.md#attunement-training-gears) - **25 Notes** / 200 Durability
 
 ### [Flamecharm](Flamecharm.md)
 

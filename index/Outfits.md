@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11176
+revid: 11380
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -168,7 +168,7 @@ File:Eggspi.jpg
 
  | Experienced Adventurer | x3 Cloth
 
-x2 Irithine
+x3 Fiber x2 Irithine
 
  | Power Level 15 | +1000 Durability
 
@@ -847,7 +847,7 @@ x500 Notes
 ## Accessories
 
 **Note: The stats on nearly all accesories are random. Any numerical stat boosting effects you see in this section should be disregarded.**  
-Armor pieces come in different "rarities" (such as Ascended) meaning that item has more or higher valued stat bonuses. This can apply to items that dont normally roll with stats, such as an iron mask or headband.
+Armor pieces come in different "rarities" (Ascended, Enlightened, or Celestial) meaning that item has more or higher valued stat bonuses. This can apply to items that dont normally roll with stats, such as an iron mask or headband.
 
 You can find an NPC that transfers your gear's attributes/stats into another, for matching your attire and drip. The NPC, by the name of Jarvis, is located inside the Stronghold of [Summer Isle](Summer_Isle.md), near the Underground Arena.
 
@@ -891,32 +891,62 @@ File:KnightHelm.png
 File:GreyGumshoeHat.png
 
  | Gumshoe Hat | Grants a random buff. |  |
+| 
+
+File:White gumcumshoe.jpg
+
+ | White Gumshoe Hat | Grants a random buff. | Fort merit Chests |
+|  | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort merit Chests |
+|  | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort merit Chests |
+|  | Ochre Gumshoe Hat | Grants a random buff. | Fort merit Chests |
+| 
+
+File:Deepwoken hood.jpg
+
+ | Deepwoken Hood | Grants two random buffs | Fort merit Chests |
+|  | Vigil Hood |  |  |
 
 ### Face
+
+Many face acessories do not come with stats and using them will not improve your character other than drip. If youre looking to get Ascended versions which tend to have 2-3 buffs, they're much less common but the grinding method is the same.
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
 | 
- | Iron Mask | Cosmetic |  |
+ | Iron Mask | Cosmetic | Erisia Chests |
 | 
 
 File:Demonmask.png
 
- | Demon Mask | Cosmetic |  |
+ | Demon Mask | Cosmetic | The Duke Chest |
 | 
 
 File:Hairband.jpg
 
- | Headband | Cosmetic | Chests |
+ | Headband | Cosmetic | Erisia Chests |
 | 
 
  | Bandana | Cosmetic | Chests |
 | 
 
- | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Chests |
+ | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Erisia Chests |
 | 
 
- | Eyeglasses | Grants a random buff. |  |
+ | Crimson Blindfold | Grants the "Blinded" talent and a random buff | Minityrsa Chests |
+| 
+
+ | Eyeglasses | Grants a random buff. | Minityrsa and
+
+Songseeker Chests
+
+ |
+| 
+
+ | Polarized Eyeglasses | Cosmetic | Minityrsa and
+
+Songseeker Chests
+
+ |
 
 ### Ears
 
@@ -935,7 +965,13 @@ File:Hairband.jpg
 
 File:MasterThief.png
 
- | Master Thief Earrings | Grants two random buffs. |  |
+ | Master Thief Earrings | Grants ether and
+
+a Damage Vs. Sea
+
+or Damage Vs. Deep
+
+ | Fort merit Chests |
 
 ### Neck
 
@@ -945,6 +981,10 @@ File:MasterThief.png
 File:Golden Cape.png
 
  | Golden Cape | Grants a random buff. |  |
+|  | Dawn Scarf |  |  |
+|  | Adventurer's Scarf |  |  |
+|  | Black Scarf |  |  |
+|  | There's a lotta scarves, someone add them |  |  |
 
 ### Torso
 
@@ -968,7 +1008,7 @@ File:Blacksteel Pauldron.png
 
 File:Flameguard.png
 
- | Flameguard Pauldrons | Placeholder | Chests |
+ | Flameguard Pauldrons | 1 buff | Chests |
 | 
 
  | Hunter's Brace | Placeholder | Chests |
@@ -977,7 +1017,11 @@ File:Flameguard.png
  | Leather Pauldrons | Placeholder | Chests |
 | 
 
- | Steel Pauldrons | Placeholder | Chests |
+ | Steel Pauldrons | Grants buff for health
+
+usually from 6-12
+
+ | Chests |
 |   
 
  | Tracker's Brace | Placeholder | Chests |
@@ -986,6 +1030,26 @@ File:Flameguard.png
 File:Vanguardbrace.png
 
  | Vanguard Brace | Placeholder | Chests |
+| 
+
+File:Glassdancer wraps.jpg
+
+ | Glassdancer Wraps | 1-3 buffs. | Minityrsa and
+
+Songseeker Chests
+
+ |
+| 
+
+File:Warden pauldrons.jpg
+
+ | Warden's Pauldrons | Guaranteed to give
+
++10 health
+
++2 posture
+
+ | Fort merit Chests |
 | 
 
 File:Aristocrat Coat.png
@@ -1045,7 +1109,7 @@ Grants one random buff
 
 _Requires Power Level 10_
 
- |  |
+ | Depths Chests |
 | 
 
  | Silver Ring | Grants a small random buff.
@@ -1068,7 +1132,7 @@ File:Purifyingring.PNG
  | Purifying Ring | Allows wearer to drink seawater with no side effects. |  |
 | 
 
- | Heavy Hands Ring | Reduces M1 speed for increased posture damage. |  |
+ | Heavy Hands Ring | Reduces M1 speed for increased posture damage. | Depths Chests |
 | 
 
 File:Dazedband.PNG

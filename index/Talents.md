@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11157
+revid: 11368
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -104,7 +104,7 @@ Hand of Mantra Cards
 ### Apex Predator
 
 -   Carnivore \[Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: Fortitude, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Mushroom Omlettes, Candied Fruits, etc.)
+    -   Prerequisites: Fortitude, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -571,6 +571,7 @@ Hand of Mantra Cards
 -   Blade Dancer \[Generic Talent, Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
 -   Spinning Swordsman \[Generic Talent, Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
 -   Bear Trap \[Generic Talent, Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
+-   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
 
 ### Warrior
 
@@ -583,7 +584,7 @@ Hand of Mantra Cards
 
 -   Conditioned Swimmer \[Generic Talent, Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
     -   Prerequisites:
--   Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility
+-   Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)
     -   Prerequisites:
 
 ### **Weapon Master**
@@ -623,7 +624,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 ### Physical Mantras
 
-#### Fortitude Combat (??? Fortitude Needed)
+#### Fortitude Combat (Around 30-35 Fortitude Needed)
 
 -   Reinforce - up defence for you and allies around you
 -   Rally \[Shield Only\] - absorb incoming posture damage for allies around you

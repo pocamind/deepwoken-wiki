@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 10728
+revid: 11303
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,87 +18,91 @@ A view of the center of the city of Etris situated on the island of Etrea in win
 
 _Some locations may be unlisted, feel free to add them!_
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Image</th>
-  <th>Location</th>
-  <th>Description</th>
-  <th>Includes</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Inn</td>
-  <td>A two-story inn where the player can spawn in.</td>
-  <td><b>Trenti</b></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Blacksmith</td>
-  <td>A small shop where the player can purchase<p>ingredients and armor.</p></td>
-  <td><b>Caragan</b><p><b>Ingredients</b></p></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Mantra</td>
-  <td>A small shop where the player can purchase<p>training gear for their elements.</p></td>
-  <td><b>Training Gear</b></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Weaponry</td>
-  <td>A small shop where the player can purchaes<p>better weapons to upgrade their gear.</p></td>
-  <td>Iron Spear<p>Mace (10 Medium Wep.)</p>
-  <p>Stiletto (0 Light Wep.)</p>
-  <p>Messer (10 Medium Wep.)</p>
-  <p>Battle Axe</p>
-  <p>Steel Maul (10 Strength, 20 Heavy Wep.)</p>
-  <p>Ritual Spear (35 Medium Wep.)</p>
-  <p>Zweihander (10 Strength, 20 Heavy Wp.)</p>
-  <p>Parrying Dagger (10 Light Wep.)</p>
-  <p>Targe (10 Fortitude)</p>
-  <p>Bullets</p>
-  <p>Schematics (upstairs)</p></td>
-</tr>
-<tr>
-  <td><figure>File:The Guildhouse.png<figcaption></figcaption></figure></td>
-  <td>Guildhouse</td>
-  <td>A small building where the player can found<p>guilds if they have the requirements.</p></td>
-  <td><b>Guild creation</b></td>
-</tr>
-<tr>
-  <td><figure>File:Bookstore.png<figcaption></figcaption></figure></td>
-  <td>Bookstore</td>
-  <td>A small shop where the player can buy books to<p>increase attribute values.</p></td>
-  <td><b>Intelligence Books</b><p><b>More</b></p></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>General Store</td>
-  <td>A small shop where the player can buy general<p>materials and tools.</p></td>
-  <td><b>Pickaxe</b><p><b>Lumber Axe</b></p>
-  <p><b>Materials</b></p></td>
-</tr>
-<tr>
-  <td><figure>File:LANCELESHI FOOD RESTURANT.png<figcaption></figcaption></figure></td>
-  <td>Lance's Food</td>
-  <td>A small shop where the player can buy omelettes<p>and bisques.</p></td>
-  <td><b>Food</b><p><b>LANCE LESHI</b> - <i>Quote from the man himself, Lance.</i></p></td>
-</tr>
-<tr>
-  <td><figure>File:EtrisPalace.png<figcaption></figcaption></figure></td>
-  <td>Lord Regent's<p>Palace</p></td>
-  <td>A palace resting on top of the mountain.</td>
-  <td><b>Lord Regent</b></td>
-</tr>
-<tr>
-  <td><figure>File:Den Master.png<figcaption></figcaption></figure></td>
-  <td>The Den</td>
-  <td>A cave in a small cove</td>
-  <td><b>Den Master</b></td>
-</tr>
-</tbody>
-</table>
+| Image | Location | Description | Includes |
+| --- | --- | --- | --- |
+|  | Inn | A two-story inn where the player can spawn in. | **Trenti** |
+|  | Blacksmith | A small shop where the player can purchase
+ingredients and armor.
+
+ | **Caragan**
+
+**Ingredients**
+
+ |
+|  | Mantra | A small shop where the player can purchase
+
+training gear for their elements.
+
+ | **Training Gear** |
+|  | Weaponry | A small shop where the player can purchaes
+
+better weapons to upgrade their gear.
+
+ | Iron Spear
+
+Mace (10 Medium Wep.)
+
+Stiletto (0 Light Wep.)
+
+Messer (10 Medium Wep.)
+
+Battle Axe
+
+Steel Maul (10 Strength, 20 Heavy Wep.)
+
+Ritual Spear (35 Medium Wep.)
+
+Zweihander (10 Strength, 20 Heavy Wp.)
+
+Parrying Dagger (10 Light Wep.)
+
+Targe (10 Fortitude)
+
+Bullets
+
+Schematics (upstairs)
+
+ |
+| File:The Guildhouse.png | Guildhouse | A small building where the player can found
+
+guilds if they have the requirements.
+
+ | **Guild creation** |
+| File:Bookstore.png | Bookstore | A small shop where the player can buy books to
+
+increase attribute values.
+
+ | **Intelligence Books**
+
+**More**
+
+ |
+|  | General Store | A small shop where the player can buy general
+
+materials and tools.
+
+ | **Pickaxe**
+
+**Lumber Axe**
+
+**Materials**
+
+ |
+| File:LANCELESHI FOOD RESTURANT.png | Lance's Food | A small shop where the player can buy omelettes
+
+and bisques.
+
+ | **Food**
+
+**LANCE LESHI** - _Quote from the man himself, Lance._
+
+ |
+| File:EtrisPalace.png | Lord Regent's
+
+Palace
+
+ | A palace resting on top of the mountain. | **Lord Regent** |
+| File:Den Master.png | The Den | A cave in a small cove | **Den Master** |
 
 ## Quests
 

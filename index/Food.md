@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 7441
+revid: 11377
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -45,5 +45,6 @@ Increased Ether Regen
 ## Notes
 
 -   Some foods like Pomar will damage you, but doesn't hurt you in other ways and still satiates your hunger, it is not known why.
--   Sometimes there's a rare chance for a NPC called the "Meat Lord" to spawn randomly throughout Hive, Lower-Upper Erisia and Summer Isle, The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomace.
+-   Sometimes there's a rare chance for a NPC called the "Meat Lord" to spawn randomly throughout Hive, Lower-Upper Erisia and Summer Isle, The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomach.
 -   There seems to be unclear variety in what the buffs states, sometimes it will not state anything at all, sometimes it will quote what type of powerups you got e.g "You feels your blade is stronger"
+-   Having 0 thirst and/or 0 hunger will eventually kill you.

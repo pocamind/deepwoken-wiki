@@ -1,16 +1,14 @@
 ---
 title: Hobo
-revid: 10521
+revid: 11218
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPC]
+categories: [NPC]
 ---
 
 # Hobo
 
 The Hobo Is a neutral npc that can be found in the wild. He guards a chest that can only be obtained if you pass a charisma check or kill him.
-
-File:Hobo.png
 
 Picture of a hobo sitting.
 

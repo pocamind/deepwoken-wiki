@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 11208
+revid: 11310
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -50,7 +50,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 -   **Megalodaunt** - A normal Megalodaunt.
 -   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt. Red Megalodaunts appear exclusively on Songseeker Wilds(?). Red Megalodaunts can use a mantra that summons flaming swords in the sky, which proceed to rain down. Much harder than the normal variant.
--   **Enhanced/Corrupted Megalodaunt** - Appears exclusively in [the Depths](The_Depths.md)(?). Probably stronger than a normal Megalodaunt, too.
+-   **Enhanced/Corrupted Megalodaunt** - Appears exclusively in [the Depths](The_Depths.md)(?). Stronger and faster than a normal Megalodaunt.
 
 ## Tips n' Tricks
 
@@ -72,5 +72,5 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
     
     uhhhhh (secret technique the red megalodaunt uses, its called the "nutcracker")
     
-    File:Black Megalodaunt variant.png
+    File:Black Megalodaunt.png
 -   A Black Megalodaunt.

@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 9771
+revid: 11370
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -9,6 +9,10 @@ categories: [Items]
 # Vigil Longsword
 
 Template:Weapon Template V2
+
+## Vigil Longsword
+
+Part of a series on [weaponry](Weapons.md).
 
 ## Effects
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 10971
+revid: 11236
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -12,19 +12,25 @@ Mantras are internalised passages of the Song that practicioners use to conjure 
 
 ## [Elemental Mantras](Attunements.md)
 
-The base elemental mantras you can begin with are:
+**[Flamecharm](Flamecharm.md): Large and threatening damage-over-time fire based spells. Excels in crowd control and area denial as many spells have large range. Not recommended to use in close proximity to allies. Can be upgraded through Willpower for the "Azure Flames" Talent.**
 
-**[Flamecharm](Flamecharm.md): Uses flames and the burning effect with mantras that have huge aoes and deal heavy damage long-term. Best used for crowd control, and creates area denial (usually around your character). Not recommended to use when guild members or allies are close as flamecharm is extremely volatile.**
+**Typically used close-range.**
 
-**[Thundercall](Thundercall.md): Utilizes stun and Lightning to create quick and cunning attacks. Deals light damage but combos can be devastating. Best used on single or double targets, maybe even triple targets if you time your combo right. Not recommended for crowd control.**
+**[Thundercall](Thundercall.md): Lightning utilizes extrmely fast, combat fast spells to keep in offense and pressure the opponent with a flourish of quick strikes. Lightning has spells with extremely small start up for closing distance or keeping a opponent on defense. Lightning is the best at controlling a fight in PvP, and has a wide variety of useful spells for PvE and exploring the world.**
 
-**[Frostdraw](Frostdraw.md): Allows you to freeze enemies and create physical obstructions, that will either greatly benefit you or pentalize you in combat. Creates strong and quick close-ranged mantras with moderate medium range mantras. Very well rounded mantra. Not recommended for long range battles.**
+**Typically used mid/long range.**
 
-**Galebreath: Uses wind to deal target control and create huge knockback. Best used in relation to your weapon to deal high damage. Can also use knockback to quicky escape a pursuing enemy. Very well rounded, can be used for crowd control and single targets. Not recommended to use while guild members or allies are close by.**
+**[Frostdraw](Frostdraw.md): Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat. Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around. Can be upgraded through upgrading Frostdraw for the "Crystalization" Talent.**
 
-**[Shadowcast](Shadowcast.md): Ether-stealing and crowd control (Dashes, teleports, big AOEs, etc)**
+**Typically used close/mid range.**
 
-There are also Mantras that are based off of other character attributes. This includes Strength, Fortitude, intelligence, Agility, Willpower, and Charisma. You can find those _**here.**_
+**Galebreath: Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions. Wind spells usually sport a low startup and variety of uses. It has a mix of extremely deadly close-range combo spells and long ranged options, along with multiple movement talents for moving around the world. A wind user has many different options to draw upon during a fight allowing them to make many different reactions to stay alive.**
+
+**Typically used in any range.**
+
+**[Shadowcast](Shadowcast.md): Uses dark energy to siphon Ether from others into the user's own Ether. Doesn't excel in anything but has its niche in keeping the Ether bar up and making sure others can't use Ether. Goes well when paired with other elements.**
+
+_**Attunement-less Mantras:**_ There are also Mantras that are based off of other character attributes. This includes Strength, Fortitude, intelligence, Agility, Willpower, and Charisma. You can find those _**here.**_
 
 ## [Modifying Mantras](Mantra_Modifiers.md)
 

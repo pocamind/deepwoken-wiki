@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 11175
+revid: 11392
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Spells]
 
 ## Description
 
-A Hermafrosted Capra casting a beam of ice.
+A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to draw ice magic from the atmosphere, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
@@ -18,7 +18,7 @@ Frostdraw also has Talents attributed to it as well, allowing the user to fully 
 
 ## Training
 
-Frostdraw can be trained by using a combination of Hermafrost and Frostdraw Mantras.
+Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears) and Frostdraw Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
@@ -27,11 +27,15 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
 
-The spelltrainer, Nell, can be found in Etris near the cauldron. For further directions, visit Etris.
+The spelltrainer, [Nell](Attunement_Trainers.md), can be found in Etris near the cauldron. For further directions, visit Etris.
 
 ## Spells
 
 ### **Combat Mantras**
+
+**Standard:**
+
+These mantras have no prequisites.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -51,15 +55,7 @@ The spelltrainer, Nell, can be found in Etris near the cauldron. For further dir
 -   Deals moderate damage.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal
-
-Impale/Impact
-
- | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
-
--   Deals around six to eight hits.
-
- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Warden's Blades | Revolving blades of ice. | 4 ice swords spawn around the player. They stop moving and shoot out. |
 | [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Soldiers | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
 
 -   Area of Effect attack that damages and slows targets inside.
@@ -179,6 +175,40 @@ Impale/Impact
 | --- | --- | --- | --- |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
 
+**Crystal:**
+
+These mantras require (placeholder) ability to have them appear in your deck.
+
+| **Image** | **Name** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal
+Impale/Impact
+
+  
+
+ | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
+
+-   Deals around six to eight hits.
+
+ |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee
+
+  
+
+ | Knock your enemy skyward with a kick of crystal. | (Placeholder) |
+
+### **Mobility Mantras**
+
+| **Image** | **Name** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
+
+### **Support Mantras**
+
+| **Image** | **Name** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
+
 ## Talents
 
 **Frostforger:**
@@ -265,6 +295,8 @@ These talents have no category or their category is unknown.
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
++3 Health |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frozone | Ice Skates can be used on land. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
 +3 Health |
 
 ## Trivia/Notes

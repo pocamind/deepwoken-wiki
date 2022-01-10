@@ -1,43 +1,25 @@
 ---
 title: Death
-revid: 10881
+revid: 11255
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Death, Mechanics]
+categories: [Death, Mechanics]
 ---
 
 # Death
 
-\*Squish\* - Your now dead body (presumeably)
+_If you want to know more about the Death area, see [The Depths](The_Depths.md)_
+
+## Description
 
 Death is an important aspect of Deepwoken. You have 3 lives in Deepwoken, 2 of those lives are allowed above the sea, and your final life is in [The Depths](The_Depths.md). When you die, you lost some notes and some items, but the loss can be decreased through some [Talents](Talents.md). When you're on your second life, your healthbar will be stained, leveling up will revert the healthbar back to normal. Dying with a stained healthbar gets you drowned and sends you to the Depths.
 
 [The Depths](The_Depths.md) is essentially the underworld, where you have to redeem yourself and prove your worth. Your goal in The Depths is to enter the sunken Celtorian city and sneak past enemy entities called Watchers. If spotted by the Watchers, you will have to fend off against [Angels](Hollow_Angel.md). While you are sneaking around, you have to go to certain parts of the city and ring bells to open a gate to the center area. Once you make it to the elevator, you will have to face a [Trial](https://deepwoken.fandom.com/wiki/The_Depths#The_Trial) that takes you back up to the Overworld, restoring all of your lives.
 
-New Theory: In a recent stream, ReEvolu cryptically mentioned how "Characters dont live forever", and also mentioned how characters age even when you arent playing them. Now I'm gonna be honest, judging from how much he talked about character age and stuff, despite not directly saying it, It is possible your character may die from old age.
+## Escaping the Depths
 
-_**After some brief calculations, it is possible your character may wipe/die from old age after 256 REAL-LIFE days.**_
+See the [Escaping The Depths](https://deepwoken.fandom.com/wiki/The_Depths#Escaping_The_Depths) page
 
-File:R5kxsf.mp4What the bells sound like (thanks [Rayashiblie!)](<https://deepwoken.fandom.com/wiki/The_Depths?commentId=4400000000000357055)>)
-
-  
-
-Leaving Depths Solo
-
--   Level 1-9 Allowed to leave
--   Level 10-19 A Swordsman (about as strong as a [Bandit Captain](Bandit_Leader.md)) (Chance of being allowed to leave, or an Angel)
--   Level 20-29 [Angel](Hollow_Angel.md) (Chance of a Sharko)
--   Level 30-39 [Sharko](Megalodaunt.md) (Chance of an Angel)
--   Level 40-49 [Corrupted](Luck.md) Sharko (Chance of a normal Sharko or Enforcer)
--   Level 50-60 [Enforcer](Enforcer.md)
-
-Leaving Depths as a Group
-
--   The person with the highest level determines the enemy fought. The amount of enemies that will spawn will match the number of players (up to 3), except for the sharko.
--   If there are too many people (>3), the voices will ask the players to fight each other until only 3 remain, only then will the trial begin.
-
-(THESE MAY BE INACCURATE)
-
-Here is a guide on how to escape the [Depths](The_Depths.md): [https://www.youtube.com/watch?v=c4muNkduPs0](https://www.youtube.com/watch?v=c4muNkduPs0)
+## Notes
 
 Speaking of death, it is very unwise to kill people at a low level as guards in Viglis and Etris will hunt you down.

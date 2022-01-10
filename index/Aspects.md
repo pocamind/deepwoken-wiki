@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 10501
+revid: 11334
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -40,3 +40,5 @@ These races are owned by only a few specific people.
 -   All races are **balanced,** you do not need a rare race to be considered **good** at the game.
 -   All races will only give a small amount of boosts or a head start at best, meaning that to survive you **must** be skilled and can not simply rely on your race's abilities to carry you in battle.
 -   There is a secret/unreleased race called [Lightborn](Lightborn.md), which was only given to wave 0 testers by Ragoozer himself.
+-   ItsAplif wuz here
+-   Koalifant wuz here

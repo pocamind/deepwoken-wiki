@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 11032
+revid: 11382
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -55,7 +55,9 @@ The deer folk of the land are among the few that still consider themselves free 
 
 ## Strengths
 
-Stuff goes here
+Has a built in compass (Really quite lackluster, not very useful).
+
+Looks drippy
 
 **Weaknesses:**
 
@@ -68,3 +70,11 @@ N/A
 -   The compass will often times be covered by the server age, making it difficult to see where the compass is pointing.
 -   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.
     -   Also applies to Void Sea
+
+<table>
+<tbody>
+<tr>
+  <td>Variants</td>
+</tr>
+</tbody>
+</table>

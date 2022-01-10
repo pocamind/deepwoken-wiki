@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11149
+revid: 11332
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items]
 
 # Mantra Modifiers
 
-_esaThis page is a list of all items that you can use in order to modify a Mantra._
+_This page is a list of all items that you can use in order to modify a Mantra._
 
 ## Description
 

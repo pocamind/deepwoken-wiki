@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 10918
+revid: 11269
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,93 +19,52 @@ To get access to Greathive Aratel there is some requirements you need to meet fi
 
 Template:AreainfoboxThis place is quite literally a glorified tree house.
 
-  
-
 The tree house is split up into 4 floors, from bottom to top:
 
-1.  Entrance
-2.  Root Plaza
-3.  Heart Plaza
-4.  Canopy Plaza
+1.  **Entrance**
+2.  **Root Plaza**
+3.  **Heart Plaza**
+4.  **Canopy Plaza**
 
-The Entrance contains a shipyard, and a library. Going into the Library you'll find training gear
+The Entrance contains a Shipyard, and a Library.  
 
-File:Greathive Aratel9.png
+The Root Plaza contains a Cargo Room, Archive, and an Antiquarian. The Heart Plaza contains an R&D room.
 
-Shipyard thing
-
-  
-
-File:Gif of Entrance floor.gif
-
-Gif of Entrance Floor
-
-  
-
-The Root Plaza contains a cargo room, library, archive (this is a witch that teaches you magic), and an antiquarian.
-
-File:Greathive Aratel3.png
-
-Picture of the Root Plaza Floor
-
-  
-
-  
-The Heart Plaza contains 2 quests, and a R&D room.
-
-File:Greathive Aratel4.png
-
-Suri the NPC
-
-The first quest is given by a vesperian named "Suri" to visit his dead brother's grave in Isle of Vigils. He gives you a delicate flower and asks you to deliver it to his brother's grave in isle of vigils, the flower is delicate so he asks you to take the safest route. He gives you a vibrant gem for completing it. (This quest was inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger). You can restart the quest by talking to Suri again if your flower is destroyed.
+A is given by a man in the R&D room, who introduces himself as Laplace Diri. He quests you to find some lost property. I don't know what the lost property is lol.  
 
 File:Greathive Aratel5.png
 
 Laplace Diri
 
-The second quest is given by a man in the R&D room, who introduces himself as Laplace Diri. It's pretty cool and has a laboratory. He quests you to find some lost property. I don't know what the lost property is lol.  
-
-  
-The Canopy Plaza contains, a blacksmith, an inn (it costs 5 notes), balconies (they overlook the hive), and campfire, canopy peak, and observatory.
-
-There is nothing special in here, except the observatory which contains a telescope, at the time of writing this it's daytime, so I don't know if you'll be able to look at stars through the telescope, or distant places, which would be kinda cool. On the otherhand, the observatory has mantra training gear, so it doubles as a mantra shop.
-
-File:Greathive Aratel6.png
-
-The telescope inside the observatory
-
-  
-
-File:Greathive Aratel7.png
-
-The view from the balcony
+The Canopy Plaza contains a Blacksmith, an Inn, Canopy Peak, and an Observatory, which also doubles as a mantra shop.
 
   
 
   
 
+## Quests
+
+### Suri's Quest
+
+File:Greathive Aratel4.png
+
+Suri the NPC
+
+Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement, though, so he suggests taking the safest route.
+
+### Mantra Quest
+
+Go to the Archives and talk to [Regek](Regek.md). He will prompt you to collect several Soulblooms. There are three Soulblooms near the Blacksmith, and a Red Soulbloom in the balcony of the Observatory. One completing the quest, Regek will allow you to upgrade your Mantras that relate to no Attunement.
+
+## Extra
+
+There are green wells around the Hive that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). In the entrance, the left well goes to [Summer Isle](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
+
   
-
-File:Greathive Aratel8.png
-
-Witch shop from the balcony
-
-  
-**SOULBLOOM QUEST:** Go to the arcives and talk to an npc by a culdron for the quest. There are two white soulblooms near the blacksmith at the Canopy Plaza, and a red soulbloom in the balcony of observatory and the last one near bsmith aswell. The reward is being able to upgrade attunement-less mantras.
-
-Extra: There is green wells around the hive, that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an oath. In the entrance, the left well goes to [Summer Isles](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
-
-Everyone inside the Greathive Aratel is a Vesperian, except Laplace, that is a Ganymede.
-
-File:Greathive Aratel2.png
-
-Looking back at The Hive from Greathive Aratel
 
 File:Portals.png
 
 The portal locations.
-
-Budyuu was here (this will be the last location I visit for tonight)
 
   
 
@@ -113,3 +72,5 @@ Budyuu was here (this will be the last location I visit for tonight)
 
 -   Ganymedes and Vesperians seem to be related in some way, being part of the same faction when fighting at Aratel.
 -   There is nothing special about this place other than the fast travel system. It is just another town.
+-   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
+-   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11211
+revid: 11378
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment.
+-   Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment.
 
 There are two variants that enchantments come in:
 
@@ -47,7 +47,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. Dying will instantly send you to the Depths.</p></div></td>
+  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. Dying will instantly send you to <a href="Fragments_of_Self.md">Fragments of Self</a>.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -101,7 +101,7 @@ Will have an effect upon hitting something.
   </p></div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Attacks will drain the opponent's thirst.</p>
   <p><br>
   </p></div></td>
@@ -149,7 +149,7 @@ Will have an effect upon hitting something.
   </p></div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone.</p>
   <p><br>
   </p></div></td>
@@ -213,7 +213,7 @@ Upon getting hit, it has a chance of summoning a clone of the attacker. The clon
  |
 | 
 
-File:Https://media.discordapp.net/attachments/696954840919703603/929886075017646080/oc4.PNG
+File:Stench.png
 
 Stench
 
@@ -304,3 +304,6 @@ Credits to the people who made this page better:
 -   Kabeee
 -   Cosmicessence
 -   bartyfarty
+-   DeathAuRaX
+-   me
+-   TotallyADuck

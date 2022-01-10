@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 11121
+revid: 11249
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -40,7 +40,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   **Luck** - You receive a boatload of luck (get it?) for your card draws.
 -   **A Chest -** Might just be earrings. Does not drop on subsequent attempts. Received only during summer.
 
-**The Cheese**
+### Battle Strategies
 
 Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works, when you get close he is programmed to stop attacking (as he is unable to teleport during a attack) that way you cant get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
 
@@ -50,6 +50,7 @@ This may be patched in future updates, but still works as of 1/9/2022.
 
 -   When the Ferryman's health goes below half, the music that plays in the background changes into a faster version of the previous song.
 -   Under half health, Lightning Assault and Lightning Strike become much faster.
+-   The Ferryman takes about 25 minutes to respawn.
 -   The Ferryman is unlikely to be directly related to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) with the same name.
     -   However, they both possess godlike powers and mock (to varying degrees) the mortals that come to meet them. They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
