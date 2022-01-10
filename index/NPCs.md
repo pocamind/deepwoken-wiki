@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 10960
+revid: 11147
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -81,7 +81,7 @@ An organization that preserves whats left before the tides came. Historians that
 ### **Nomads of Navae**
 
 -   Affiliations - Neutral
--   Hostile against - Bandits
+-   Hostile against - Bandits, Summer Company
 -   Appearance - Navaen Armor
 -   Equipment - Spears, Swords, Fists, Frostdraw Spells
 -   Player Reputable? - Yes
@@ -94,7 +94,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 -   Affiliations - Unknown
 -   Locations - Summer Isle
--   Hostile against - Bandits, Ignition Union, Players (Negative Reputation)
+-   Hostile against - Bandits, Ignition Union, Players (Negative Reputation), Nomads of Navae
 -   Appearance - Black Clothing
 -   Equipment - Guns
 -   Player Reputable? - Yes

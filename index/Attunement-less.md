@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 10959
+revid: 11112
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -86,10 +86,14 @@ It's considered a mobility mantra because it teleports you a short distance to y
 
 ### _**Medium Weapon Mantras**_
 
-**Master's Flourish** - A spinning slice with your sword
+**Master's Flourish** - A spinning slice with your sword.
+
+`It is mentioned in the card that it breaks block. However, it does not. It **deals damage** (MED 30 Katana with 20 DMG dealt about 1/4th of a bar to FTD 0) even if you try to block it, whilst increasing posture.`
 
   
 
 ### _**Heavy Weapon Mantras**_
 
 **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
+
+`Has wind up before releasing a stream of AoE whirls, each dealing damage and knocking the enemy away, ragdolling them. _Parriable._`

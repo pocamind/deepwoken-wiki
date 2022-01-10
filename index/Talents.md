@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11090
+revid: 11157
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -127,10 +127,11 @@ Hand of Mantra Cards
 
 ### Authority Interrogator
 
--   Authority Intimidation \[?, Common Talent\] - All moves that apply electricity slow the opponent more.
--   Resolve Crusher \[?, Common Talent\] - Lightning moves now have a chance to apply "Electrify".
--   First Interrogation \[?, Common Talent\] - Electrified attacks do 50% less posture damage.
--   Second Interrogation \[?, Common Talent\] - Electrified attacks refill your Ether bar.
+-   Authority Intimidation \[Generic Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
+-   Resolve Crusher \[Generic Talent, Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
+-   First Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less posture damage.
+-   Second Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
+-   Third Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less damage.
 
 ### Bastion
 
@@ -303,6 +304,7 @@ Hand of Mantra Cards
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   The Thinker \[Generic Talent, Common Talent\] - \[Guns\] Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+4 Ether, +2 Reservoir)
+-   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
 
 ### Inferno
 
@@ -637,7 +639,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 -   Sing - Charm those around you with your powerful voice.
 -   Taunt - Taunt those around you, causing them unable to jump and to take more damage. However in their rage they do extra damage.
 
-#### Intelligence Combat (??? Intelligence Needed)
+#### Intelligence Combat (50 Intelligence Needed)
 
 -   Prediction - Predict an opponents attack and reflect it.
 
@@ -707,6 +709,9 @@ _Main Source - Frostdrawer_
 -   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage. This skill is **arguably** the worst frost skill.
 -   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
 -   Frost Grab - Command grab that makes you shortly rush foward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
+-   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. It's parryable and blockable.
+-   Crystal Impale (Requires Glass Path) - Jumps up and then smashes into the ground dealing multiple hits
+-   Crystal Kick (Requires Glass Path) -Kicks infront of you launching up your opponent into the air.
 -   Ice Eruption (1 Star Mantra) - Stomp the ground, releasing a barrage of ice spikes that block breaks.
 -   Ice Blade (1 Star Mantra) - Summon an ice sword that you dual weild with your current weapon for a 4-hit slash combo.
 -   Ice Smash (1 Star Mantra) - Ready a mace made of ice, and smash it onto the ground in front of you.
@@ -715,7 +720,7 @@ _Main Source - Frostdrawer_
 ### Frost Mobility
 
 -   Glacial Arc (1 Star Mantra) - Summons an arc of ice infront of you used for traveling methods, deals high damage paired with cloudstones.
--   Ice Skates - After a decent wind-up, start skating only when around water. (Having a specific card makes it so you don't need to be around water.)
+-   Ice Skates (3 Star Mantra) - After a decent wind-up, start skating only when around water. (Having a specific card makes it so you don't need to be around water.)
 
 ### Shadowcast Mantras
 

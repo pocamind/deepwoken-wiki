@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 11000
+revid: 11175
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Spells]
 
 ## Description
 
-File:Frostdrawerlogo.png
+A Hermafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to draw ice magic from the atmosphere, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
@@ -76,11 +76,6 @@ Impale/Impact
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Dagger | Placeholder | User throws three daggers of ice toward the nearest person.
 
 -   Homing attack.
-
- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | \[Placeholder Description\]
-
--   \[Placeholder\]
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | Ice Blade
@@ -192,7 +187,7 @@ These talents can be found in the _Frostforger_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. (Requires Ice Blade?) | +3 Health |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health |
 | File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | Placeholder |
 
 **Cyromancer:**
@@ -220,13 +215,13 @@ These talents can be found in the _Ice Age_ category.
 | --- | --- | --- | --- |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cryonis | All ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
 +2 Health |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frostbite | Enemies can no longer heal when under the effect of your chill. (Will cancel out Saint Jay) | +5 Elemental Intensity  
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frostbite | Enemies can no longer heal when under the effect of your chill. | +5 Elemental Intensity  
 +2 Health |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Ice | Your frost is now considerably more intense. | +3 Health  
 +6 Sanity |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Bottom Freeze | Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. | +5 Elemental Intensity  
 +2 Health |
-| File:Saint Jay.png | Saint Jay | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (Will cancel out frostbite) | +5 Elemental Intensity  
+| File:Saint Jay.png | Ice Age | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity  
 +2 Health |
 
 **Glassdancer:**
@@ -260,7 +255,7 @@ These talents can be found in the _Frozen Warrior_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| \[[\[1\]](https://deepwoken.fandom.com/wiki/File:Frozenlegs.PNG)\] | Frozen Legs | Your slow effect prevents your opponents from rolling. | +5 Elemental Intensity  
+| File:Frozenlegs.PNG | Frozen Legs | Your slow effect prevents your opponents from rolling. | +5 Elemental Intensity  
 +2 Health |
 
 **Uncategorized:**
@@ -270,8 +265,6 @@ These talents have no category or their category is unknown.
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
-+3 Health |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frozone | You are no longer required to be over water to use Ice Skate | +5 Elemental Intensity  
 +3 Health |
 
 ## Trivia/Notes

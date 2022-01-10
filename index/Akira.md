@@ -1,11 +1,17 @@
 ---
 title: Akira
-revid: 9374
+revid: 11127
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Akira
+
+Encountered at Castle Light and in the Celtor Wastes.
+
+Can join the Divers after talking to him in the Celtor Wastes by going to Castle Light, however joining the Divers will make you leave your guild.
+
+(Should be on Castle Light page but this place also works) In order to enter Castle Light, you must enter the Depths through a whirlpool. If you do not, you will find a barrier surrounding the Castle.
 
 "Still alive, are you? Not bad."
 

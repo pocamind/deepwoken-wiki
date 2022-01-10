@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 11104
+revid: 11207
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -28,8 +28,7 @@ Being killed by Primadon will instantly result in being sent to the depths. Howe
 
 ## Combos
 
--   **Triple Stomp** - Three quick stomps that can be parried.
--   **Stomp-Kick** - Primadon goes for a stomp, then kicks you afterwards. Parry the stomp then dodge the kick.
+-   **Triple Stomp** - Primadon performs 3 quick stomps with his LEFT leg, this is the move you should look out the most for. Parriable/Dodgeable.
 
 ## Tips
 
@@ -40,4 +39,4 @@ Being killed by Primadon will instantly result in being sent to the depths. Howe
 -   The footsteps of Primadon play a loud, noticeable noise and shakes your camera.
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.
 -   DO NOT drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
--   ~You can summon Primadon with guild members/whoever you are farming with on boats just outside the island. Then once he is spawned they can all come onto the island without the Primadons' health scaling higher unlike if they were actually on the island.~ This is false because his hp does not scale with players.
+-   ~You can summon Primadon with guild members/whoever you are farming with on boats just outside the island. Then once he is spawned they can all come onto the island without the Primadons' health scaling higher unlike if they were actually on the island. (Tested, Primadons HP does scale. Not sure if it scales with people being at the island or in a certain nearby area, so this strat might not work.)~ Primadon's health does not scale with the amount of players, you are given 10 minutes to kill this beast and if you can't do it within that time period then it will walk back into the ocean. (Like the chad he is)

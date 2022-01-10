@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 11098
+revid: 11146
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,6 +28,7 @@ Minityrsa, located far from Etris, is recommended for Players that are Power Lev
 ## Monsters/Enemies
 
 -   Dark Mage Cultists
+-   [Cultist Necromancer](Ministry_Necromancer.md)
 -   Ice Golems
 -   [Snow Knight](Stone_Knight.md)
 -   [Gargoyles](Brainsucker.md)
@@ -38,6 +39,7 @@ Possible items from chests in Minityrsa
 
 -   Tactician
 -   Canorian axe
+-   Crescent cleaver(0-1 star)
 -   Razor cutlass(0-1 star)
 -   Katana(1 star)
 -   Iron cestus(0-2 star)

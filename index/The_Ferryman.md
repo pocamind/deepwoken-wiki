@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 10657
+revid: 11121
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -39,6 +39,12 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn.
 -   **Luck** - You receive a boatload of luck (get it?) for your card draws.
 -   **A Chest -** Might just be earrings. Does not drop on subsequent attempts. Received only during summer.
+
+**The Cheese**
+
+Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works, when you get close he is programmed to stop attacking (as he is unable to teleport during a attack) that way you cant get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
+
+This may be patched in future updates, but still works as of 1/9/2022.
 
 ## Trivia/Notes
 

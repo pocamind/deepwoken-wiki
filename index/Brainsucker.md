@@ -1,12 +1,14 @@
 ---
 title: Brainsucker
-revid: 10778
+revid: 11170
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Brainsucker
+
+Template:Creature Infobox V3
 
 _Also known as Bats, Rodolfos, Fliers, and Beppos._ _Their real name is "Brainsucker"_
 
@@ -25,6 +27,8 @@ Spawns within the Aratel Sea, the Void Sea alone, and Spawns in packs in Starswe
 
 ## Notes/Tips
 
+-   You can easily kill them by constantly swinging as they are unable to block or dodge attacks
 -   Bite is a dangerous posture breaking move they can use however its easy to parry them, addtionally they spawn in packs. (in Starswept Valley and Minystrisa)
 -   They can fly.
 -   Gargoyles are remarkably fragile; don't waste your time running away unless on low health, as you can likely heal by killing one in under twenty seconds.
+-   In a tweet by Arch\_Mage (one of the developers) on twitter, it is called the "Brainsucker"

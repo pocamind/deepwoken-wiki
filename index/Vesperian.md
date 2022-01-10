@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 10936
+revid: 11203
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -80,3 +80,11 @@ Template:Races-Main
 As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
 
 After a certain age they can take their mask off, suspected that they get a damage buff but they lose the armor below their health.
+
+## Trivia
+
+Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
+
+This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
+
+File:Similar Last Names.png

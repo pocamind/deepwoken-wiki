@@ -1,14 +1,12 @@
 ---
 title: Enchantments
-revid: 11047
+revid: 11211
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Enchantments
-
-_"I've always wanted to see what the 'LGBTQ' enchant did to people!"_
 
 <table>
 <tbody>
@@ -68,7 +66,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>The more HP you have, the more damage you do. At max HP, your M1s will deal 25% more damage. Conversely, the less HP you have, the less damage you do. Being at low HP will reduce your M1 damage significantly. Also gives your M1s hyperarmor.</p>
+  <td><div><p>The more HP you have, the more damage you do. At max HP, your M1s will deal 25% more damage. Conversely, the less HP you have, the less damage you do. Being at low HP will reduce your M1 damage significantly.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -110,7 +108,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
-  <td><div><p>Increases M1 speed drastically. Any posture damage that the other person inflicts will be reflected back to them. Also removes movement speed penalties. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
+  <td><div><p>Increases M1 speed drastically. Any posture damage that the other person inflicts will be reflected back to them. Also removes movement speed penalties. You can swing a Heavy Weapon as fast as a Light Weapon for reference. (Need more proof on this)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -214,6 +212,8 @@ Upon getting hit, it has a chance of summoning a clone of the attacker. The clon
 
  |
 | 
+
+File:Https://media.discordapp.net/attachments/696954840919703603/929886075017646080/oc4.PNG
 
 Stench
 

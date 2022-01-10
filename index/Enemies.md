@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 10249
+revid: 11174
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -20,7 +20,7 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 
 For information of Monsters, go [here](Monsters.md).
 
-  
+## Enemies
 
 ### Bandits
 
@@ -69,8 +69,7 @@ For information of Monsters, go [here](Monsters.md).
 
 ### The Legion
 
--   Legion Captain  
-    
+-   Legion Captain
 
 ### Navaen Nomads
 
@@ -86,11 +85,7 @@ For information of Monsters, go [here](Monsters.md).
 -   Hobo (Crazed Stranded)
 -   [Mindless Servant](Mindless_Servant.md)
 
--   [Mudskipper](Mudskipper.md)
--   [Angel](https://deepwoken.fandom.com/wiki/Angels)
-
 ## Bosses
 
 -   [The Duke of Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
--   Bartholemew

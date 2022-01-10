@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 11008
+revid: 11193
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,9 @@ categories: [Monsters]
 
 # Monsters
 
-# Creatures
-
 _For information on Human Enemies, go [here](Enemies.md)._
 
-## Introduction
+# Introduction
 
 Deepwoken's finest, and arguably primary focus, are the hostile Creatures. They can tear down Players and NPCs apart if they are ill-equipped or inexperienced, along with sinking your ships into the ocean if you're unlucky...
 
@@ -26,7 +24,7 @@ It is advised you learn how each creature acts and behaves to read their attack 
 
 Stay ready and prepared. No creature is impossible to beat.
 
-## The Depths
+# The Depths
 
 In The Depths, creatures are noticeably different compared to the Etrean Luminant. Despite some creatures carrying over, notable changes include:
 
@@ -41,11 +39,13 @@ And:
 
 -   **Enhanced Creatures, signified by a purple aura, with roughly twice the damage and thrice the health of their normal versions, being able to spawn anywhere.**
 
+# Creatures
+
 ## Humanoid Creatures
 
 **Etrean Luminant & The Depths**
 
-## Giant-Type Monsters
+## Monsters
 
 **Etrean Luminant & The Depths**
 
@@ -53,19 +53,11 @@ And:
 
 **Exclusive to The Depths**
 
-## Sea-Type Monsters
-
-**Etrean Luminant & The Depths**
-
-**Exclusive to the Etrean Luminant**
-
-**Exclusive to The Depths**
-
-## Miscellaneous Type or Type Unclear
+## Miscellaneous/Type Unclear
 
 **Exclusive to The Etrean Luminant**
 
-## Notes/Trivia
+# Notes/Trivia
 
 -   No matter how intimidating the creatures of Deepwoken are, you must overcome your fears, there is always a chance, as they have (almost) always an attack pattern that can be parried/dodged while taking no damage if the one fighting is skilled enough.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.

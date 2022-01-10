@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 9655
+revid: 11209
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,7 +25,7 @@ There are several different styles.
 
 File:Way Of Navae.png
 
--   To get this, you must find a captive on Erisia and bring it to the Nomads.
+-   To get this, you must find a captive on Erisia or a nomad at Fort Merit and bring it to the Nomads. The nomads in Summer Isle do not count, I learnt this the hard way.
 
 ### Jus Karita
 

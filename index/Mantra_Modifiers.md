@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11084
+revid: 11149
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -96,7 +96,7 @@ File:Mantra Modifier Placeholder.png
 
 ## Deep Gems
 
-(If anyone has these gems please update the wiki with their pictures
+(If anyone has these gems please update the wiki with their pictures)
 
 Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped at a time.
 
@@ -116,7 +116,7 @@ File:Blessedgem.png
  | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
 | 
 
- | Blue Gem | Reduces Mantra ether cost |
+ | Blue Gem | Reduces Mantra ether cost by half |
 | 
 
 File:Screenshot 59.png
@@ -252,10 +252,6 @@ Currently, there are:
 
 Just tested you can't combine:
 
-Aeon + cloudstone
-
-aeon + driftshard
-
-drift + cloudstone
-
--   ~False Flamestone~ This isnt crafted, I found it by killing a jellyfish in depths, and I added picture to graph above.
+-   Aeon + Cloudstone
+-   Aeon + Driftshard
+-   Driftshard + Cloudstone

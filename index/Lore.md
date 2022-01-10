@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 11105
+revid: 11117
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,6 +34,7 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 -   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
+-   He appears similar to the Mindless Servants in Lord Erisia's Laboratory, wearing the same armor and blindfold.
 
 ### The King of Etrea
 
@@ -91,8 +92,8 @@ _**Ey migi vuru?**_
 
 ### Erisia Island (Etrean Luminant)
 
--   An Island that sank into [The Depths](The_Depths.md) and came back to the overworld with what's left of itself. Locals whom witnessed the Island's arrival said that it came and drifted away from the [Voidsea](Voidsea.md) months before year 1271.
--   Erisia Island has experienced some sort of 'Time Stasis' when it was pulled out of the Voidsea, explained by Vohxus.
+-   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals whom witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before year 1271.
+-   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
 -   It is unknown how Erisia Island managed to escape from The Depths, but further research is required.
 
 ### The City of the Drowned (The Depths)
@@ -156,8 +157,8 @@ An Etrean Guard, part of the Nation of Etrea
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
--   **Alliances:** _Unknown_
--   **Enemies:** _Unknown (Presumably Kingdom of Etrea and the Peacekeepers)_
+-   **Alliances:** _Kingdom of Etrea_
+-   **Enemies:** _The Central Authority_
 -   A Military Organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
@@ -365,7 +366,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 ### Driftlands
 
 -   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
--   Driftlands have experienced a sort of Time Stasis during their time in The Depths, but have resumed back to the Luminant.
+-   Driftlands have experienced a sort of Time Stasis during their time in the Voidsea, but have returned back to the Luminant.
 
 ### Resonance Bells
 

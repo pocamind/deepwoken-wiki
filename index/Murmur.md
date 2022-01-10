@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 11012
+revid: 11132
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,15 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Current information: A usable buff that increases attack speed and damage, in a trade off for draining ether. (Needs further testing and research)
+Obtained from killing Ardour (Commonly known as Kaido) in the Void Sea.
+
+Gives you a Posture Damage buff when active, along with a purple weapon trail and woosh sound effect on swing.
+
+Train this by using it. Training starts extremely slow but gets faster and faster until your able to regen ether while using it.
+
+  
+
+**You can hear whispers while the Murmur is active.**
 
 ## Murmurs & obtaining
 
@@ -43,7 +51,7 @@ File:Tacet.png
   <td>Ardour</td>
   <td>An application of the Song that enables one to channel the Murmur into raw strength. Press H.<p><br>
   [Provides +5 Sanity, +9 Carry Load]</p></td>
-  <td>Provides a buff to your attack speed and damage. Stops draining ether at max. (According to currently available information.)</td>
+  <td>Provides a buff to your current weapon that boosts Posture Damage. Great for NPCs (due to the fact that if they dont parry they almost immediately get guardbroken.) and Bosses/Monsters (due to the fact that it deals more damage towards a posture break.)</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

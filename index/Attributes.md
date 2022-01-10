@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 10926
+revid: 11169
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -32,7 +32,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 “ My right arm is a lot stronger than my left arm! ”
 
-― Coomer Felinor
+― Felinor Lifting A Dumbell
 
   
 
@@ -216,9 +216,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Thundercall
 
-“ PRAISE **THE SUN!**\=Elite Knight & Royal Swordsman ”
+“ PRAISE **THE SUN!** ”
 
-― {{{author}}}
+― Elite Knight & Royal Swordsman
 
   
 

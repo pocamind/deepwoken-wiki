@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 10930
+revid: 11154
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -62,8 +62,9 @@ Below are possible items that can be found in the chests in songseeker.
 -   Rangers boots
 -   Brilliant boots
 -   Flameguard pauldrons
+-   Glassdancer wraps
 -   Eyeglasses
 -   Polarised Eyeglasses
 -   Gold bar(3-6)
 -   Saphire(4-6)
--   Amethyst(4-)
+-   Amethyst(4-5)

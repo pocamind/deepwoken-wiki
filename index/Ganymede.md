@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 11058
+revid: 11109
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -67,3 +67,4 @@ There is no weakness
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Looks similar to cipher from the Valorant series.
 -   Do you know that Ganymede is a jupiter moon? A little fun fact.
+-   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.

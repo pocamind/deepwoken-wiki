@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 11101
+revid: 11208
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -73,4 +73,4 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
     uhhhhh (secret technique the red megalodaunt uses, its called the "nutcracker")
     
     File:Black Megalodaunt variant.png
--   A #iggalodaunt.
+-   A Black Megalodaunt.

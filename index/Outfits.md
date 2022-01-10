@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11028
+revid: 11176
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -853,8 +853,8 @@ You can find an NPC that transfers your gear's attributes/stats into another, fo
 
 ### Head
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
 File:Herbalist's Hat.png
 
@@ -864,7 +864,7 @@ _\+ Talent: Iron Gut_
 
 _\+ Talent: Herbivore_
 
- |
+ |  |
 | 
 
 File:Alchemist Hat.png
@@ -875,129 +875,129 @@ _\+ Talent: Apothecary_
 
 _\+ Talent: Pitcher_
 
- |
+ |  |
 | 
 
 File:Authorityhelm.png
 
- | Authority Helm | Grants two or three random buffs. |
+ | Authority Helm | Grants two or three random buffs. | Authority enemy |
 | 
 
 File:KnightHelm.png
 
- | Knight's Helm | Grants three random buffs. |
+ | Knight's Helm | Grants three random buffs. |  |
 | 
 
 File:GreyGumshoeHat.png
 
- | Gumshoe Hat | Grants a random buff. |
+ | Gumshoe Hat | Grants a random buff. |  |
 
 ### Face
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
- | Iron Mask | Cosmetic |
+ | Iron Mask | Cosmetic |  |
 | 
 
 File:Demonmask.png
 
- | Demon Mask | Cosmetic |
+ | Demon Mask | Cosmetic |  |
 | 
 
 File:Hairband.jpg
 
- | Headband | Cosmetic |
+ | Headband | Cosmetic | Chests |
 | 
 
- | Bandana | Cosmetic |
+ | Bandana | Cosmetic | Chests |
 | 
 
- | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. |
+ | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Chests |
 | 
 
- | Eyeglasses | Grants a random buff. |
+ | Eyeglasses | Grants a random buff. |  |
 
 ### Ears
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
  | Dewdrop Earrings | +16 Reservoir
 
 +6 Sanity
 
- |
+ | Hive Chests |
 | 
 
- | Ruby Red Earrings | Placeholder |
+ | Ruby Red Earrings | Placeholder | Hive Chests |
 | 
 
 File:MasterThief.png
 
- | Master Thief Earrings | Grants two random buffs. |
+ | Master Thief Earrings | Grants two random buffs. |  |
 
 ### Neck
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
 File:Golden Cape.png
 
- | Golden Cape | Grants a random buff. |
+ | Golden Cape | Grants a random buff. |  |
 
 ### Torso
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
 File:Autumn pauldrons.png
 
- | Autumn Pauldrons | Placeholder |
+ | Autumn Pauldrons | Placeholder | Chests |
 |   
 
 File:Black Fur Pauldrons.png
 
- | Black Fur Pauldrons | Placeholder |
+ | Black Fur Pauldrons | Placeholder | Chests |
 | 
 
 File:Blacksteel Pauldron.png
 
- | Blacksteel Pauldrons | Placeholder |
+ | Blacksteel Pauldrons | Placeholder | Chests |
 | 
 
 File:Flameguard.png
 
- | Flameguard Pauldrons | Placeholder |
+ | Flameguard Pauldrons | Placeholder | Chests |
 | 
 
- | Hunter's Brace | Placeholder |
+ | Hunter's Brace | Placeholder | Chests |
 | 
 
- | Leather Pauldrons | Placeholder |
+ | Leather Pauldrons | Placeholder | Chests |
 | 
 
- | Steel Pauldrons | Placeholder |
+ | Steel Pauldrons | Placeholder | Chests |
 |   
 
- | Tracker's Brace | Placeholder |
+ | Tracker's Brace | Placeholder | Chests |
 | 
 
 File:Vanguardbrace.png
 
- | Vanguard Brace | Placeholder |
+ | Vanguard Brace | Placeholder | Chests |
 | 
 
 File:Aristocrat Coat.png
 
- | Aristocrat Coat | Placeholder |
+ | Aristocrat Coat | Placeholder | Chests |
 
   
 
 ### Rings
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
 "Ring of a wandering Swordman."
 
@@ -1007,7 +1007,7 @@ File:Aristocrat Coat.png
 
 Swordsman."
 
- | Isshin's Ring | Take 1.2x damage and deal 1.2x damage. |
+ | Isshin's Ring | Take 1.2x damage and deal 1.2x damage. |  |
 | 
 
 "Ring of the infamous theif Emiya Konga."
@@ -1020,21 +1020,21 @@ thief Emiya Konga."
 
 _Requires Power Level 10_
 
- |
+ | Mudskipper cave event chest |
 | 
 
  | Michael Phelps | Gives the user a massive increase in swimming speed.
 
 _Unknown Requirement_
 
- |
+ |  |
 | 
 
  | Gold Ring | Grants a random buff.
 
 Can be sold for 20 Notes.
 
- |
+ |  |
 | 
 
 File:Light eater ring.jpg
@@ -1045,77 +1045,77 @@ Grants one random buff
 
 _Requires Power Level 10_
 
- |
+ |  |
 | 
 
  | Silver Ring | Grants a small random buff.
 
 Can be sold for 10 Notes.
 
- |
+ |  |
 | 
 
- | Bloodiron Ring | Grants the ability to recover Armor durability per kill. |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. |
+ | Bloodiron Ring | Grants the ability to recover Armor durability per kill. |  |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. |  |
 | 
 
- | Old Ring | Placeholder |
+ | Old Ring | Placeholder |  |
 |   
 File:Purifyingring.PNG
 
   
 
- | Purifying Ring | Allows wearer to drink seawater with no side effects. |
+ | Purifying Ring | Allows wearer to drink seawater with no side effects. |  |
 | 
 
- | Heavy Hands Ring | Reduces M1 speed for increased posture damage. |
+ | Heavy Hands Ring | Reduces M1 speed for increased posture damage. |  |
 | 
 
 File:Dazedband.PNG
 
- | Dazed Band | Flourishing an opponent has a 50% chance to stun them. |
-|  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |
+ | Dazed Band | Flourishing an opponent has a 50% chance to stun them. |  |
+|  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |  |
 
   
 
 ### Boots
 
-| Image | Armor | Effects |
-| --- | --- | --- |
+| Image | Armor | Effects | Source |
+| --- | --- | --- | --- |
 | 
 File:Leather boots.png
 
- | Leather Boots | Placeholder |
+ | Leather Boots | Placeholder | Chests |
 | 
 
 File:White fur boots.png
 
- | White Fur Boots | Placeholder |
+ | White Fur Boots | Placeholder | Chests |
 | 
 
 File:Black fur boots 1.png
 
- | Black Fur Boots | Placeholder |
+ | Black Fur Boots | Placeholder | Chests |
 |   
 
- | Autumn Boots | Placeholder |
+ | Autumn Boots | Placeholder | Chests |
 | 
 
 File:Khanboots.png
 
- | Khan Boots | Placeholder |
+ | Khan Boots | Placeholder | Chests |
 | 
 
 File:Imperial Boots.png
 
- | Imperial Boots | Placeholder |
+ | Imperial Boots | Placeholder |  |
 | 
 
  | Star Boots | Placeholder
 
 _Requires Power Level 30_
 
- |
+ | Depths Chests |
 
 ## Trivia/Notes
 

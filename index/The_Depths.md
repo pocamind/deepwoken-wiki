@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11075
+revid: 11166
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,10 +48,14 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 1-7 | N/A - You escape without fighting a monster |
 | 8-19 | Mudskipper Assassin |
 | 20-30 | [Angels](Hollow_Angel.md) |
-| 30-50 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
-| 50+ | [Enforcer](Enforcer.md) |
+| 30+ | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
+| 45-47+ | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
+
+**Note 2:** The requirements for getting Enforcer seem to not be just based off of level, as tested by the community. (Some players get a Megalodaunt at level 49, while others are getting Enforcer as early as level 45.) So its recommended to either be 44 if you are looking to fight a shark, or to overlevel that way the Enforcer will not be a threat incase you get him.
+
+Note 3: i have escaped the depths only fighting a normal megolodaunt at lvl 46 so there is a chance of a normal megolodant at lvl 46.
 
 ## Farming in The Depths
 
@@ -61,9 +65,10 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 
--   _**Giant Killer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Level up your **Strength** if you want it to appear.
+-   _**Giant Killer,**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Level up your **Strength** if you want it to appear (this is false I have it on my character with 0 strength stat, I think it appears with willpower training.
 
 -   **_Blind Seer Oath_**, an Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths for very long periods of time.
+-   **% Damage Up**, armor with stat modifiers (Ascended, Enlightened, etc.) usually have a form of % damage bonus against certain enemy types such as Giant, Sea, or Deep. Having a high total percent against Depths beasts will be useful.
 
 ## Quests (incomplete)
 

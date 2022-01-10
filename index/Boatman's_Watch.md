@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 9000
+revid: 11116
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Boatman's Watch
 
 _**"A place remembered only by the waves."**_
+
+  
+"It do go down." "No It dont, OH S-" -A conversation between two travellers before succumbing to the nearby whirlpools.
 
 ## Overview
 

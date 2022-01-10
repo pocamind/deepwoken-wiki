@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 11054
+revid: 11171
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -31,4 +31,5 @@ Bubble Beam** - Shoots a barrage of bubbles at its foes.
 
 ## Notes
 
--   One of if not the only [Monsters](Monsters.md) in [The Depths](The_Depths.md) one can straight run away from without climbing
+-   One of, if not the only [Monster](Monsters.md) in [The Depths](The_Depths.md) that one can run away from without climbing
+-   In a tweet by Arch\_Mage (one of the developers) on twitter, it is called "crustaceous rex"
