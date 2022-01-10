@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 11154
+revid: 11435
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,3 +68,10 @@ Below are possible items that can be found in the chests in songseeker.
 -   Gold bar(3-6)
 -   Saphire(4-6)
 -   Amethyst(4-5)
+
+## Tips & Things to Note
+
+-   As someone who commonly uses Songseeker, I have never experienced the Red Megalodaunt event, so do not worry about it as it most likely won't ever spawn while you're there and if it does, it certainly won't be on you.
+-   The ice NPCs are without a doubt the easiest NPCs on song island. They only spam skills (with no cooldowns) and you can m1 m1 m1 in order to win. The flame NPCs are either the hardest or second hardest. The thunder NPCs are the only ones that parry, block, and use their m1s, which makes them a formidable opponent because of how consistently they parry and do combos. The flame NPCs are dangerous because they, like the ice, spam skills without cooldowns except they have MUCH STRONGER skills than the ice users. Many unfortunate players fall to the flame users the most because of how many uncancellable skills they spam and how little time there is to get hits in before they cast another skill.
+-   Go up to the temple as soon as you get there because this island is either broken or NPCs rarely ever randomly spawn.
+-   This island (usually) drops loot that is better than bandit island but worse than hive island

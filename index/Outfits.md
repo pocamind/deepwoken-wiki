@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11421
+revid: 11492
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -984,6 +984,7 @@ File:Golden Cape.png
 |  | Dawn Scarf |  |  |
 |  | Adventurer's Scarf |  |  |
 |  | Black Scarf |  |  |
+|  | White Scarf |  |  |
 |  | There's a lotta scarves, someone add them |  |  |
 
 ### Torso

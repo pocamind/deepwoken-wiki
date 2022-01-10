@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 11095
+revid: 11459
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -18,7 +18,10 @@ File:Gui.png
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of your health. Upon reaching 0 health, you will get knocked out and be at mercy to anyone around you.<figure><figcaption></figcaption></figure></td>
+  <td>A visual representation of your health. Upon reaching 0 health, you will get knocked out and be at mercy to anyone around you.<p>Fastened regeneration at a <a href="Campfire_Pit.md">campfire</a> and slowed regeneration while in combat.</p>
+  <p><br>
+  </p><br>
+  <figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
@@ -26,7 +29,7 @@ File:Gui.png
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not you can use certain moves. The first being for faints, second for dashes, third for parry, and the 4th possibly being a potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
+  <td>Icons that indicate whether or not you can use certain moves. The first being for feints/roll cancels, second for rolls, and the 3th being a potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -34,11 +37,11 @@ File:Gui.png
 </tr>
 <tr>
   <th>Reservoir</th>
-  <td>Regenerates Ether while slowly depleting. regenerates over time very slowly.<figure><figcaption></figcaption></figure></td>
+  <td>Regenerates Ether while slowly depleting. regenerates over time very slowly when ether if full. Fast regeneration at campfire no matter if you have full ether or not<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Armour<p>Durability</p></th>
-  <td>Bar under the health. Represents durability of the armour that you're currently wearing.<figure><figcaption></figcaption></figure></td>
+  <td>Bar under the health. Represents durability of the armour that you're currently wearing. When the bar is depleted, your armor is considered to be "broken," and you will lose its effects. Can be repaired at a blacksmith, using talents, or with the Bloodiron ring.<figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +56,7 @@ File:HDSurvival.png
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, and lose around 10% hp/0.15 seconds.<figure><figcaption></figcaption></figure></td>
+  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, lose around 10% hp/0.15 seconds, and lose all hunger and thirst guaranteeing your death.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
@@ -79,6 +82,13 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
+  <th>Critical Attacks</th>
+  <td>A Critical Attack or a crit for short can be initiated by pressing your mouse button 3 (Scroll wheel) or by pressing the R key.<p><br>
+  </p>
+  <p>Crits are attacks that do significantly more posture damage and damage in general but have a wind-up or delay before use. Critical attacks are basically high-risk high-reward, they can be punished easily and be canceled but do high damage and posture. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
+  <td></td>
+</tr>
+<tr>
   <th>Blocking</th>
   <td>Holding the F key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it.</td>
   <td></td>
@@ -100,8 +110,10 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Stance Change</th>
-  <td><s>Pressing the 'Y' button will change your stance from one handed to two handed. You can dual wield weapons but it will cost you since wielding a weapon with two hands will give you a stat boost, most likely in swinging speed. You will not be able to dual wield <i>everything</i>, for example you can't dual wield 2 giant hammers.</s><p><br>
-  Stance affects blocks and parries.</p>
+  <td>Pressing the 'Y' button will change your stance from one-handed to two handed.<p><br>
+  </p>
+  <p><br>
+  Stance affects blocks and parries. Also, affects whether you can wield another tool in your off-hand.</p>
   <p><br>
   <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance makes it so that blocking hits increase your posture bar less. The downside is that parrying barely restores any posture at all.</b></p>
   <p><br>
@@ -133,7 +145,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Fire</th>
-  <td>This happens after being hit with a fire spell, you will be forced to have to roll out of the flames, while the flames are active you will take DoT (Damage over Time), you can also die by these flames(?).</td>
+  <td>This happens after being hit with a fire spell, you will be forced to have to roll out of the flames, while the flames are active you will take DoT (Damage over Time), you can also die by these flames if you are knocked.</td>
   <td></td>
 </tr>
 <tr>

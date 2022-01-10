@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11395
+revid: 11496
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -61,6 +61,7 @@ Hand of Mantra Cards
 -   Kick Off \[Generic Talent, Common Talent\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
 -   Steady Footing \[Generic Talent\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
 -   Quick Recovery \[Generic Talent, Common Talent\] - You move faster after doing a wall jump. (+1 Passive Agility)
+-   Graceful Landing \[Generic Talent, Common Talent\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
 
 ### Aerial Dancer
 
@@ -156,7 +157,7 @@ Hand of Mantra Cards
 -   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after succesfully dodging an attack (+1 Passive Agility)
 -   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediatley (+1 Passive Agility)
 -   Acrobat \[Generic Talent, Common Talent\] - Move faster when doing a Walljump. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. ~(Not in description: Also halves? the invincibility frames of your dodges, free or not)~ This was removed as of 01/01/2022. (+1 Passive Agility)
+-   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. ~(Not in description: Also halves the invincibility frames of your dodges, free or not)~ The downside was removed as of 01/01/2022. (+1 Passive Agility)
 
 ### Caster
 
@@ -259,17 +260,17 @@ Hand of Mantra Cards
 
 -   Cauterized Wounds \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Blood Loss from all sources are reduced. (+1 Passive Agility, +3 Elemental Intensity, +2 Health)
 -   Hell's Partisian \[Generic Talent, Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
-    -   Prerequisites: Fire Forge
+    -   Prerequisites: Fire Forge (Flamecharm Mantra)
 
 ### Flamecharmer
 
 -   Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer. (+4 Elemental Intensity, +3 Health)
     -   Prerequisites: Flamecharm at Power Level 2 or obtain through Flamecharmer Trainer
 -   Adept Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras. (+4 Elemental Intensity, +2 Health)
-    -   Prerequisites: Flamecharm | 25 Flamecharm
+    -   Prerequisites: Flamecharm | 20 Flamecharm
 -   Expert Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
 -   Master Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
-    -   Prerequisites: Flamecharm | 50-51 Flamecharm
+    -   Prerequisites: Flamecharm | 50 Flamecharm
 -   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: Flamecharm
 -   Unyielding Inferno \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
@@ -357,7 +358,8 @@ Hand of Mantra Cards
 ### Marauder
 
 -   Thresher Scales \[Generic Talent, Rare Card\] - You regenerate your armor at campfires. (+9 Health)
--   Thresher Claws \[Generic Talent, Rare Card\] - All of your attacks have 20% more PEN. (+9 Health)
+    -   Prerequisites: Bloodiron Spirit (Rare talent)
+-   Thresher Claws \[Generic Talent, Rare Card\] - All of your attacks have 10% more PEN. (+9 Health)
 -   Aggressive Posture \[Generic Talent, Rare Card\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
 
 ### Meditative Trance
@@ -507,6 +509,7 @@ Hand of Mantra Cards
 
 -   Pickpocket \[Generic Talent, Common Talent\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
 -   Cap Artist \[Generic Talent, Common Talent\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
+-   Master Thief \[Generic Talent, Common Talent\] - Gain more notes when mugging a player. (+2 Ether)
 
 ### Thunder Brawler
 
@@ -523,14 +526,14 @@ Hand of Mantra Cards
 ### Thundercaller
 
 -   Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisites: Thundercal
+    -   Prerequisites: Thundercall
 
 -   Adept Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
 
 -   Expert Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
 
 -   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
-    -   Prerequisites: Thundercall | 50-51 Thundercall
+    -   Prerequisites: Thundercall | 50 Thundercall
 -   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and flamecharm are for simpletons. (Allows you to light campfires)
 
 -   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
@@ -559,7 +562,7 @@ Hand of Mantra Cards
     -   Effect: buff speed slightly and major power boost.
 -   Command: Sacrifice \[Generic Talent, 60 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
 
--   Command: Return \[Generic Talent, 70 Rare Talent\] - Drags servants towards them within a certain radius of you (Card text unknown) (+4 Ether, +4 Health)
+-   Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
 
 -   Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)
@@ -626,8 +629,8 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 #### Fortitude Combat (Around 30-35 Fortitude Needed)
 
--   Reinforce - up defence for you and allies around you
--   Rally \[Shield Only\] - absorb incoming posture damage for allies around you - While active your posture will not break
+-   Reinforce - Up defence for you and allies around you
+-   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
 
 #### Agility Combat (25 Agility Needed)
 
@@ -647,12 +650,12 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 #### Strength Combat (20 Strength Needed)
 
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after going forward a little.
--   Strong Left - Show your foes your strength. (Do a large, strong strike that knocks back and deals damage in a small AoE in front of you)
+-   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 
 #### Willpower Combat (??? Willpower Needed)
 
--   Gaze \[Willpower Exclusive\] - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
+-   Gaze - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
 -   Glare - Opponents facing you are briefly stunned.
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
@@ -699,7 +702,7 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
 -   Graceful Flame \[Flamecharm Exclusive\] - Conjure an undying flame for you and your comrades to rest by. (Portable Campfire Mantra)
 -   Flames of Denial \[Flamecharm Exclusive\] - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 60 seconds until activated)
     -   Place a kindled flame into your body.
--   Flame Wisp\[Flamecharm Exclusive, Support Mantra\]- Summon a servant made of flame(Boosts HP Regen and lights campfires).
+-   Flame Wisp \[Flamecharm Exclusive\]- Summon a servant made of flame(Boosts HP Regen and lights campfires).
 
 ### Frostdraw Mantras
 

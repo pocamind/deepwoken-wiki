@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 11112
+revid: 11427
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -22,7 +22,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 **Rapid Punches** - Unleash a barrage of blows against your foes. (Requirement: ~7 Strength, Combat Mantra)
 
-**Strong Leap** - Kick off of the ground with your strength, sending you into the air. (Requirement: ~40 Strength, Mobility Mantra)  
+**Strong Leap** - Kick off of the ground with your strength, sending you into the air. (Requirement: ~50 Strength, Mobility Mantra)  
 
 ### _**Fortitude Mantras**_
 

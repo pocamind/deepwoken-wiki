@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 11060
+revid: 11475
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -15,6 +15,8 @@ Template:Creature Info Box v2
 "Yo imma try and fight that springtrap lookin freak" - Helpless level 41 (me)
 
 An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (usually 50+, but has a chance to spawn anywhere after level 40.)
+
+Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (level 50+) and fail the trial you'll turn into an enforcer.
 
 Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
@@ -33,10 +35,10 @@ Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
 ## **Trivia**
 
--   Fighting him is widely considered easier than fighting a Corrupt Sharko or 2 Angels.
 -   A common combo that The Enforcer will use is two high swings in quick succession before going for a low swing.
 -   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits.
--   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry its next attack quickly.
+-   ~Fighting him is widely considered easier than fighting a Corrupt Sharko or 2 Angels.~ No longer, mf can feint.
+-   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry/roll its next attack quickly.
 -   Do this solo or duo; it becomes a lot more challenging when many players show up, causing an armada of Enforcers to wreck everything in sight.
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg

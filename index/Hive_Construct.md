@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 10939
+revid: 11484
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -43,7 +43,8 @@ The most reliable cheese spot at Starswept Valley in my experience.
 -   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and no known ones at Buster Valley.
 -   Can absolutely booty blast you even at level 60 if youre solo
 -   Not worth fighting
--   They talk
+-   They talk if the ice mage that spawns with it at Starswept Valley is defeated (bug)
+-   At Hive Island it is **STRONGLY** recommended to not aggro it (**at hive it only aggros if you hit it, or have bad rep with fort merit guards**), unless you need the exp, and are confident you can defeat it. Instead aggro the adretian ice mage that spawns next to it. If you kill the adret, the golem will despawn after a bit, giving you the lootbox. Sometimes, if the player is close enough to the adretian and the golem, the adretian will use one of his ice skills and hit the golem, causing the two to fight one another.
     
     File:VLGf7ZV.png
     

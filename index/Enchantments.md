@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11406
+revid: 11486
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links]
 </tbody>
 </table>
 
--   Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment. Equipping an enchanted weapon will make it soulbound to you. Enchanted armors do not get soulbounded however. Enchanted equipment also cannot be passed down to the Hippocampal Pool.
 
 There are two variants that enchantments come in:
 
@@ -72,7 +72,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent four times. The fourth hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent seven times. The fourth hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -261,6 +261,8 @@ Damage dealt to the user is reduced and dealt over time. Recommended to use poti
  |
 | 
 
+File:Drowned.png
+
 Drowned
 
  | 
@@ -271,6 +273,8 @@ The user is granted 2x damage when in the depths.
 
  |
 | 
+
+File:Displacement.png
 
 Displacement
 

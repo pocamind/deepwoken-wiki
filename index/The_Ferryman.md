@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 11403
+revid: 11487
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -45,7 +45,8 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works, when you get close he is programmed to stop attacking (as he is unable to teleport during a attack) that way you cant get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
     -   This may be patched in future updates, but still works as of 1/9/2022.
 -   The Ferryman usually teleports away when you attempt to attack him with your weapon after his attacks, but he becomes vulnerable while using Lightning Strike and Lightning Clone.
-    -   The Ferryman also has a small window of time where you can attack him after he uses Lightning Strike, which becomes larger in his second phase.
+    -   The Ferryman also has a window of time where you can attack him after he uses Lightning Strike, which becomes larger in his second phase.
+-   If you parry the Ferryman's three strikes during Lightning Assault, he will give you a window of time to hit him once or twice before he teleports. This window of time is extended if you parry his Lightning Assault during the 2nd phase.
 
 ## Trivia/Notes
 
@@ -58,6 +59,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer".
 -   As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
+-   After defeating the Ferryman once, Corvis in Upper Erisia will have different dialogue for you if you choose the 2nd option. If you pick this option after beating the Ferryman, Corvis says that you do understand and have seen things. He then asks if you have considered becoming a Stormcaller.
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris huddling next to a gate, and he speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
     
     File:Petris.png
