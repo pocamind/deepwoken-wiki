@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11332
+revid: 11419
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -33,38 +33,54 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 | 
 File:Cloudstonebigger.png
 
- | Cloudstone | Increases mantra size or quantity. |
+ | Cloudstone | +2 Size
+
+\-1 Speed
+
+ |
 | 
 
 File:Stratus.png
 
- | Stratus Stone | Upgrade of **Cloudstone**. |
+ | Stratus Stone | +3 Size |
 | 
 
 File:Screenshot 2021-12-28 151959.png
 
- | Crystal Lens | Increases mantra range. |
+ | Crystal Lens | +2 Range
+
+\-1 Size
+
+ |
 | 
 
- | Perfect Lens | Upgrade of **Crystal Lens**. |
+ | Perfect Lens | +2 Range |
 | 
 
 File:Screenshot 2021-12-28 152201.png
 
- | Aeon Logstone | Makes effects last longer. |
+ | Aeon Logstone | +2 Duration
+
+\-1 Range
+
+ |
 | 
 
- | Eternal Logstone | Upgrade of **Aeon Logstone**. |
+ | Eternal Logstone | +3 Duration |
 | 
 
 File:Screenshot 2021-12-28 152259.png
 
- | Drift Shard | Makes Mantras (projectiles) move faster. |
+ | Drift Shard | +2 Speed
+
+\-1 Duration
+
+ |
 | 
 
 File:Rush Shard.png
 
- | Rush Shard | Better version of **Drift Shard**. |
+ | Rush Shard | +3 Speed |
 | 
 
 File:Screenshot 2021-12-28 152413.png
@@ -91,7 +107,7 @@ File:Mantra Modifier Placeholder.png
  |
 | 
 
- | Vibrant Gem | Intensifies elemental effects. |
+ | Vibrant Gem | +2 Intensity |
 | [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |
 
 ## Deep Gems
@@ -143,17 +159,17 @@ Spark Swap
 
 Flame Blind
 
- | Makes projectile spells homing. |
+ | Applies "Magnet Shot" to compatible Mantra. |
 | 
 
- | Round Spark | Ice Eruption | Makes AoE spells a circle. |
+ | Round Spark | Ice Eruption | Applies "Round Shot" to compatible Mantra. |
 | 
 
  | Blast Spark | Lightning Clones
 
 Shadow Gun
 
- | Adds an explosion effect. |
+ | Applies "Explosion" to compatible Mantra. |
 | 
 
  | Reversal Spark | Lightning Impact
@@ -177,17 +193,21 @@ Shadow Chains
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun | Increases the number of hits. |
+ | Multiplying Spark | Wind Gun
+
+Fire Gun
+
+ | Applies "Triple Shot" to compatible Mantra. |
 | 
 
- | Spring Spark | Strong Leap | Amplifies the effects of mobility moves. |
+ | Spring Spark | Strong Leap | Applies "Fire Trap" to compatible Mantra. |
 | 
 
  | Tornado Spark | Dark Blade
 
 Fire Blade
 
- | Makes the last slash a Spin Attack.
+ | Applies "Spin" to compatible Mantra.
 
 _"You feel dizzy when you hold it."_
 
@@ -241,8 +261,10 @@ _"You feel dizzy when you hold it."_
 
 ### Mantra Table Speculations
 
+-   The 5 Disks ontop of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
 -   As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
 -   New Note - Had a single lit disk and was able to combine it with my spell. At that point, I had 75 Intelligence and 70 Thundercall on level 34. It is likely that it is tied to not only Level, but also Intelligence.
+-   Another Note - Had a single lit disk and was able to combine it with my spell. I had 2 Intelligence, 75 Shadowcast on level 48.
 
 ### Modifier Hitlist
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11368
+revid: 11395
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -627,7 +627,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 #### Fortitude Combat (Around 30-35 Fortitude Needed)
 
 -   Reinforce - up defence for you and allies around you
--   Rally \[Shield Only\] - absorb incoming posture damage for allies around you
+-   Rally \[Shield Only\] - absorb incoming posture damage for allies around you - While active your posture will not break
 
 #### Agility Combat (25 Agility Needed)
 

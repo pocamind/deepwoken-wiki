@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 11316
+revid: 11416
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,7 +21,7 @@ There are several different styles.
 -   You must talk to the Legion Captain inside the Viper's Jaw and ask them for training. You will then receive a quest to go help the Centurions on Aratel (Hive Island), and the quest is to help the Centurion during the Centurion VS Authority 1v1s, and if you help the Centurions, you have a chance to get a recommendation. **Talk to the centurion after every fight, (you must grip the enemy dont let the Centurion do it**), and after about five - six times (not precisely confirmed), he will tell you that you have done well, and you get the recommandation from him.
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed. Your critical attack becomes a grab where you body slam the target into the ground.
 
-### Way of Ooga Booga Loo
+### Way of Navae
 
 File:Way Of Navae.png
 

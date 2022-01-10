@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 11071
+revid: 11414
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -120,6 +120,15 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 | --- | --- | --- | --- |
 |  | Lightning Assault (☆☆) | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
+
+ |
+| 
+
+ | Lightning Cloak (☆☆☆) | TBA. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+
+-   Your dashes become teleports, increasing your iframes.
+
+  
 
  |
 

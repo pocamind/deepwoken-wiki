@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11378
+revid: 11406
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,15 +39,15 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of the umbral knight in Infernasu's video.jpg<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them. If you don't grip atleast one person per day, the Umbral Knight will absorb you into the weapon and kill you.</p></div></td>
+  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them. If you don't grip at least one person per day, the Umbral Knight will absorb you into the weapon and kill you.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal more damage and steals blood from your enemies. If you miss an M1, you will take damage.</p></div></td>
+  <td><div><p>M1s deal more damage and steal blood from your enemies. If you miss an M1, you will take damage.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. Dying will instantly send you to <a href="Fragments_of_Self.md">Fragments of Self</a>.</p></div></td>
+  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. Equipping a weapon with this curse in the depths explodes your head and sends you to <a href="Fragments_of_Self.md">Fragments of Self</a>.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>

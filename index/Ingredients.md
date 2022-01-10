@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 10041
+revid: 11404
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World]
@@ -54,31 +54,3 @@ Bluecaps - Found only in a libary area coated in blue fog, on Ersia. There are t
 [Spark Gland](Spark_Gland.md)
 
 **BONUS** : The recipe you want to know(Especially vegetarian characters), because its the most basic : Any mushroom x1 + Any mushroom x1 = Mushroom soup
-
-## Mantra Ingredients
-
-Information of Mantras and Modifications are located [here.](Mantras.md)
-
--   [Drift Shard](Mantra_Modifiers.md#regular-modifiers) - Makes Projectile Mantras slightly faster
-    -   Rush Shard - Makes Projectile Mantras moderately faster
--   [Multiplying Spark](Mantra_Modifiers.md#sparks)
--   Magnet Spark - Supposedly adds homing onto mantras... doesn't actually do that.
-    -   Affected Mantras: Lightning Blade - Unknown
-
--   Tornado Spark - Makes a tornado efect in a mantra.
-
--   Affected Mantras: Dark Blade - _In the last hit makes a shadow tornado arround the character._
-
--   Spring Spark - Most likely boots height of a mantra that makes you jump high.
--   Round Spark - Converts Mantras into an AOE effect.
-    -   Affected Mantras: Ice Stomp - _Instead of a straight line, it creates a ring of ice around the user._
--   [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) - Increases range of Projectile Mantras slightly
-    -   Perfect Lens - Increases range of Projectile Mantras moderately
--   [Cloudstone](Mantra_Modifiers.md#regular-modifiers) - Makes your Mantra effects slightly larger in size CURRENT TESTING FOR ICE ELEMENT, Glacial Arc: it makes more than 1 arc like the effect of Multiplying Spark, 5 Arcs in Total. ICE SHURIKEN: Makes it track and follow target which is supposed to be the effect of Magnet Spark) DISCLAMER: I literally dont know why it happened, different effects for each spell. (DISCLAMER, I have no idea why this happened. My only theory is that its different per spell or per element DM ME, RoyalMagus#1631)
-    -   Stratus Stone - Makes your Mantra effects moderately larger in size
--   Glass Orb - Created from mixing a crystal lens and cloudstone. Effects are unknown.
--   Magnifying Orb - Created from mixing a perfect lens and a cloudstone. Effects are unknown.
--   Aeon Logstone - Makes effects slightly longer
-    -   Eternal Logstone - Makes effects moderately longer
--   Amnesiac Driftwood - Removes all modifiers on a mantra
--   Vibrant Gem - Increases Elemental Intensity

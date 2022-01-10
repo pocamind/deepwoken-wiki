@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11380
+revid: 11421
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1071,7 +1071,11 @@ File:Aristocrat Coat.png
 
 Swordsman."
 
- | Isshin's Ring | Take 1.2x damage and deal 1.2x damage. |  |
+ | Isshin's Ring | Take 1.2x damage and deal 1.2x damage.
+
+_Requires Power Level 15_
+
+ |  |
 | 
 
 "Ring of the infamous theif Emiya Konga."
@@ -1091,14 +1095,14 @@ _Requires Power Level 10_
 
 _Unknown Requirement_
 
- |  |
+ | Depths Chests |
 | 
 
  | Gold Ring | Grants a random buff.
 
 Can be sold for 20 Notes.
 
- |  |
+ | Mudskipper cave event chest |
 | 
 
 File:Light eater ring.jpg
@@ -1116,11 +1120,11 @@ _Requires Power Level 10_
 
 Can be sold for 10 Notes.
 
- |  |
+ | Mudskipper cave event chest |
 | 
 
- | Bloodiron Ring | Grants the ability to recover Armor durability per kill. |  |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. |  |
+ | Bloodiron Ring | Grants the ability to recover Armor durability per kill. | Depths Chests |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests |
 | 
 
  | Old Ring | Placeholder |  |
@@ -1129,7 +1133,7 @@ File:Purifyingring.PNG
 
   
 
- | Purifying Ring | Allows wearer to drink seawater with no side effects. |  |
+ | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
 | 
 
  | Heavy Hands Ring | Reduces M1 speed for increased posture damage. | Depths Chests |
@@ -1137,8 +1141,17 @@ File:Purifyingring.PNG
 
 File:Dazedband.PNG
 
- | Dazed Band | Flourishing an opponent has a 50% chance to stun them. |  |
+ | Dazed Band | Flourishing an opponent has a 50% chance to stun them. | Depths Chests |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |  |
+|  | Pariah's Keepsake | Deal more damage to factions that hate you. (idk what
+
+this means)
+
+ | Depths chests (as far as i
+
+know)
+
+ |
 
   
 

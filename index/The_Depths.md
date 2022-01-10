@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11166
+revid: 11411
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -150,3 +150,10 @@ Almost everything in the game drops in the depths
 -   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
 -   A easy way to get out of the depths known as the barrel method is commonly used to surface. Example-[here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-
 -   The trial voices are not gods......this has been debunked.
+
+## Tips
+
+-   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be suffecient. Learning the procedures of vanquishing each of The Depth's monsters, learning the layout, learning to avoid gang bangers, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can negate the risks.
+-   If you see a group of gang bangers (e.g some high level looking dudes in packs of 2-10) log. Your chances of not combat logging are a farcry better than your chances of not getting ganked underwater. Or if you are a bossraid dude with all sorts of enchantments and powerful tools then go ahead and go ham.
+-   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
+-   Enviromental awarness is pivital to players within The Depths. The amount of players who have been wiped to falling into the void is expenentiol. Make sure wherever your getting knocked back to is not the edge of a cliff, use the enviroment to your advantage as well and insta-kill players using the void.

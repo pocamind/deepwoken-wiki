@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 11249
+revid: 11403
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -42,9 +42,10 @@ He can be summoned by lighting four campfires at the indicated points within a s
 
 ### Battle Strategies
 
-Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works, when you get close he is programmed to stop attacking (as he is unable to teleport during a attack) that way you cant get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
-
-This may be patched in future updates, but still works as of 1/9/2022.
+-   Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works, when you get close he is programmed to stop attacking (as he is unable to teleport during a attack) that way you cant get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
+    -   This may be patched in future updates, but still works as of 1/9/2022.
+-   The Ferryman usually teleports away when you attempt to attack him with your weapon after his attacks, but he becomes vulnerable while using Lightning Strike and Lightning Clone.
+    -   The Ferryman also has a small window of time where you can attack him after he uses Lightning Strike, which becomes larger in his second phase.
 
 ## Trivia/Notes
 

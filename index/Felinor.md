@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 11064
+revid: 11417
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -44,7 +44,7 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
 
 ## Lore
 
-Unknown
+Commonly sold as slaves.
 
 **Strengths:**
 
