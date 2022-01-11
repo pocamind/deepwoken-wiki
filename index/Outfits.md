@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11492
+revid: 11558
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -17,6 +17,8 @@ There are many kinds of Armor in Deepwoken, with types of Armor pieces (Common, 
 Armors can be obtained in 5 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats D-Rolled (randomized). (This including the Kongas Cluch Ring given to you by rare chest
 
 There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes are accesories, only spike accesories dont do anything. also, blindfold can be used to get blindseer.) benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 200 [note](Notes.md) fee.
+
+Gear listed as ascended, regardless of being cosmetic or not, will give increased stats
 
 ## Repairing your Outfit
 
@@ -488,7 +490,7 @@ x6 Iron
 
 +40% Stealth
 
-_Talent: Legendary_
+_Talent: Legendary (Parrying and landing hits with your weapon gives you ether back.)_
 
  |
 | 
@@ -598,7 +600,7 @@ Power Level 30
 
 +200% Ether Regen
 
-_Talent: Devastating Power_
+_Talent: Devastating Power (Gain Extra Ether for every Mantra in your arsenal)_
 
  |
 | 
@@ -1101,7 +1103,7 @@ _Unknown Requirement_
 
  | Gold Ring | Grants a random buff.
 
-Can be sold for 20 Notes.
+Can be sold for 25 Notes.
 
  | Mudskipper cave event chest |
 | 
@@ -1144,11 +1146,7 @@ File:Dazedband.PNG
 
  | Dazed Band | Flourishing an opponent has a 50% chance to stun them. | Depths Chests |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |  |
-|  | Pariah's Keepsake | Deal more damage to factions that hate you. (idk what
-
-this means)
-
- | Depths chests (as far as i
+|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bed reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests (as far as i
 
 know)
 

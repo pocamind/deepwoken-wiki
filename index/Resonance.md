@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11409
+revid: 11549
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -94,7 +94,7 @@ Phoenix fire effect
 
   
 
-### **Distortion Realm Portal**
+### **KAMUI BELL**
 
 #### Effects:
 

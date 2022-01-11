@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11489
+revid: 11509
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,6 +14,12 @@ categories: [Pages with broken file links]
 > "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
 
 _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 1 again._
+
+## Layers of the Depths
+
+After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down.
+
+(Need more info)
 
 ## Escaping The Depths
 

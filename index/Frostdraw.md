@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 11394
+revid: 11527
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -220,7 +220,7 @@ These talents can be found in the _Frostforger_ category.
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health |
 | File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | Placeholder |
 
-**Cyromancer:**
+**Cryomancer:**
 
 These talents can be found in the _Cryomancer_ category.
 

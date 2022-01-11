@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 11466
+revid: 11497
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,6 +18,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 -   Sharkscale Glider - 2 Megalodaunt Hide, and 2 Sticks (150 Uses)
 -   Must be in the air to use it.
 -   Has a cooldown
--   Gliders cannot be used in combat. If you take damage while gliding, you will be ragdolled out of the glider (This includes damage from sources such as acid rain or insanity in the Depths).
+-   Gliders cannot be used in combat. If you take damage while gliding, you will be ragdolled out of the glider (This includes damage from sources such a
     
     Etrean adventurer starting his journey!

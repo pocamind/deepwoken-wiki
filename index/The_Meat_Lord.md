@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 10526
+revid: 11559
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -15,7 +15,7 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 -   Calamari
 -   Sushi
 -   Seafood Boil
--   Fish Omelet
+-   Fish Omelette
 
 ## Notes
 

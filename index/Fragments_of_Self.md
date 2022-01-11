@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 10252
+revid: 11547
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,4 +37,4 @@ The only NPC you can find here is yourself, or fragments of yourself. Talking to
 -   After which, talking to Self again prompt the following dialogue:
     -   S: _\*You see yourself smile weakly.\*_ Don't want to go out without a smile, do we?
 
-Taking the \[The End\] option officially mark the end of your character as your are sent back to the main menu and to the character creation screen.
+Taking the \[The End\] option officially marks the end of your character as your are sent back to the main menu and to the character creation screen.

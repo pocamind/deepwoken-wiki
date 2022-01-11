@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 10917
+revid: 11522
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -27,7 +27,7 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
 </tr>
 <tr>
   <th><figure>File:Ice knight kick.gif<figcaption></figcaption></figure></th>
-  <th>Kick</th>
+  <th>Watch Yo Tone<p>(Winter Exclusive.)</p></th>
   <th>The player is kicked into the air (and probably slammed into a wall)<p>If both the Snow Knight and player are close enough to a wall, the Snow Knight is near guaranted to get a free Slash or Rock Pillar.</p></th>
 </tr>
 <tr>

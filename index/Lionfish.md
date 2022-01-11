@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 10731
+revid: 11557
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -47,7 +47,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   Corrupted Health: 6000
 -   Regular Health: 2000
--   You can spawn a lionfish by fishing if the game hates you enough (happened to me once before while i was fishing at etris, me and 2 other guys and a freshspawn all teamed up and took it down since it was preventing everyone from sailing away)
+-   You can spawn a lionfish by fishing, however it has a really low chance of spawning
     
     File:Big ass fish.jpg
     

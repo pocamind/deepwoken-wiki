@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 11495
+revid: 11523
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -17,6 +17,10 @@ Real Name: "Owl"
 File:FUCKFUCKFUCKFUCKFUCK.png
 
 _"DOOR STUCK, **DOOR STUCK**, PLEASE! **I BEG YOU!** W-we're dead! You're a genuine d-"_
+
+> "Drop that dove...so I can give you love.." - Owl.
+
+  
 
 > P1: _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11485
+revid: 11510
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -118,11 +118,11 @@ Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that 
 
 **Warning: Once you put a gem in a mantra, you cannot take it out, you can only destroy it. (This is fake, you can just click recall mantra in a campfire and you have your gem in you inv)**
 
-Deep Gems are dropped by the Primadon boss at a low rate.
+Deep Gems are dropped by the Primadon boss guaranteed in a small chest and dropped by depths monsters at a low rate.
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
-|  | Insignia Gem | The next Mantra you cast within a short timeframe will have no wind-up. |
+|  | Insignia Gem | The next Mantra you cast within a short timeframe will have a 25% windup reduction. |
 | 
  | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra |
 | 
@@ -244,6 +244,7 @@ _"You feel dizzy when you hold it."_
     -   If you fall before the animation completes, all fall damage is negated.
     -   When casted in water, user dives into the water and floats back up. Creates a flaming AoE when/if user reaches land.
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)
+-   Using this modifier on "Ice chains" will make it so it will pull whoever you hit towards you. (Basically Mortal Kombat Scorpion's "Get over here! "move lol)
 
 #### Multiplying Spark
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11496
+revid: 11546
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -293,6 +293,8 @@ Hand of Mantra Cards
 
 ### Genius Intellect
 
+-   The Thinker \[Generic Talent, Common Talent\] - \[Guns\] Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+4 Ether, +2 Reservoir)
+
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
 
 ### Glassdancer
@@ -304,7 +306,6 @@ Hand of Mantra Cards
 
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
--   The Thinker \[Generic Talent, Common Talent\] - \[Guns\] Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
 
 ### Inferno
@@ -377,7 +378,7 @@ Hand of Mantra Cards
 
 ### Metamancer
 
--   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+10 Health)
+-   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
 
@@ -394,7 +395,7 @@ Hand of Mantra Cards
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Common Talent\] - Every 6 Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%.
+-   Fists of Fortitude \[Generic Talent, Common Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%.
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: A fist style.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
@@ -480,6 +481,7 @@ Hand of Mantra Cards
 
 -   Knight's Rally \[Generic Talent, Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Health, +4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
+-   Turtle Shell \[Generic Talent, Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
 
 ### Shipwright
 
@@ -546,6 +548,8 @@ Hand of Mantra Cards
     -   Prerequisites: Flamecharm
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: Flamecharm
+-   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
+    -   Prerequisites: Flamecharm, Graceful Flame
 
 ### Vow of Mastery
 
@@ -647,7 +651,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 -   Prediction - Predict an opponents attack and reflect it.
 
-#### Strength Combat (20 Strength Needed)
+#### Strength Combat (10 Strength Needed)
 
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after going forward a little.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
@@ -770,7 +774,8 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Vigil
 
--   Paired Soul - Increases katana damage. (Obtained by wearing the Vigil Initiate Outfit)
+-   Paired Soul - Increases _Katana_ damage. (Obtained by wearing the Vigil Initiate or the Cloak of Winds Outfit)
+    -   Works with the _Shattered Katana_, although it's less effective.
 
 ### Experienced Adventurer
 

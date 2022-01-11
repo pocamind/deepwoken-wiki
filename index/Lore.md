@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 11117
+revid: 11507
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -134,7 +134,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 -   Presumably connected to the galebreathe attunement, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (galebreathe exclusive) make mention of the vigils.
 
-### Children of Navae
+### People of Navae
 
 -   **Territory:** _N/A_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_

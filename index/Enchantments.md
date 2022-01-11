@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11486
+revid: 11542
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -238,6 +238,8 @@ Unknown
 
  |
 | 
+
+File:Bounce.png
 
 Bounce
 

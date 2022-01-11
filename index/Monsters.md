@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 11428
+revid: 11499
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -52,6 +52,10 @@ And:
 **Exclusive to the Etrean Luminant**
 
 **Exclusive to The Depths**
+
+  
+
+**Removed**
 
 ## Miscellaneous/Type Unclear
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 11066
+revid: 11560
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ The Summer Isle is an island in the Aratel Sea. This island is the only currentl
 
 ## Island Contents
 
-Inside of the buildings of the island, there is a gun store. This sells [Flintlocks](Flintlock.md) for 100 Notes, Revolvers 200 Notes, and Dragoons for 500 Notes. Ammunition can be purchased nearby and at Etrea, for 5 notes each, alternatively it can be made by crafting with 1 iron in your inventory, resulting in 5-10 bullets (will update when I have precise amount).
+Inside of the buildings of the island, there is a gun store. This sells [Flintlocks](Flintlock.md) for 100 Notes, Revolvers 200 Notes, and Dragoons for 500 Notes. Ammunition can be purchased nearby and at Etrea, for 5 notes each, alternatively it can be made by crafting with 1 iron in your inventory, resulting in 5 bullets.
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks.
 
