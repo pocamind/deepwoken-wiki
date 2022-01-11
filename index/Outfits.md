@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11558
+revid: 11609
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -962,7 +962,7 @@ Songseeker Chests
  | Hive Chests |
 | 
 
- | Ruby Red Earrings | Placeholder | Hive Chests |
+ | Rubydrop Earrings | Placeholder | Hive Chests |
 | 
 
 File:MasterThief.png
@@ -1058,6 +1058,19 @@ File:Warden pauldrons.jpg
 File:Aristocrat Coat.png
 
  | Aristocrat Coat | Placeholder | Chests |
+| 
+
+186.465x186.465px
+
+ | Ranger's Brace | +10 Ether
+
++20 Reservoir
+
++3 Health
+
++1 Posture
+
+ | Unknown |
 
   
 

@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 11092
+revid: 11607
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oaths
@@ -125,36 +125,3 @@ Image of the card
 
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Wildwood</td>
-</tr>
-</tbody>
-</table>
-
-File:Moth.png
-
-Higher Qual image of Oath
-
-### Pre-Requisites:
-
--   Unknown
-
-### How to obtain:
-
--   Unknown
-
-### Oath Effects:
-
--   Unknown
-
-### Oath Description:
-
-"Invoke the Moth, born from blood of kin, a pox upon the actor of fratricide. Consanguinous voices callout; the Moth answers."
-
-## Notes:
-
--   Likely fake as this Moth entity has never been heard of or mentioned in game, and the card art looks very different stylistically from the rest of the art seen in Deepwoken.
--   fratricide: the killing of one's brother or sister. could be related to killing players who are your brother/sister/cousin otherwise why would they add a random mechanic that makes other players your family members very sussy indeed (so sussy)

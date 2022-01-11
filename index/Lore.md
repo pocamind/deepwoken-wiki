@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 11507
+revid: 11613
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -94,7 +94,6 @@ _**Ey migi vuru?**_
 
 -   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals whom witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
--   It is unknown how Erisia Island managed to escape from The Depths, but further research is required.
 
 ### The City of the Drowned (The Depths)
 
@@ -109,6 +108,12 @@ _**Ey migi vuru?**_
 -   A place which the "Songseekers" migrate to in order to enchance their mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song (Mantra).
 -   The trainer for Fire Mantra owns a dojo on the island.
+
+### Voidsea
+
+-   A sea filled with nothing but null. The Voidsea is a gateway between Luminants and The Depths, either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [Ardour](Murmur%253A_Ardour.md), the Sea Serpent.
+-   There are little to no NPCs or texts that explains the lore of the Voidsea, as of 1/10/2022.
+-   Islands that resides within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 
 ## Factions
 

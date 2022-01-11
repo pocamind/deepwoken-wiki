@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 11503
+revid: 11570
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -29,7 +29,7 @@ To increase your damage with a weapon, you must invest in the corresponding stat
 
 ## Stances
 
-Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance however you can one-hand a heavy weapon if you have 50 heavy weapon and get one-hand training talent.
+Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance however you can one-hand a heavy weapon if you have 50 heavy weapon and get one-hand training talent. Using a weapon two-handed allows you to do more damage then using a weapon one-handed, but you are unable to equip side weapons, and shields.
 
 ### One-Handed
 

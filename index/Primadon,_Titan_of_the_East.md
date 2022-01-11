@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 11544
+revid: 11585
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -15,9 +15,9 @@ Template:Creature Infobox V3
 
 _Also known as Sea Monkey, Gorilla, and Monke. Monky._
 
-Loud and enormous, the Primadon is a giant with the appearance of a monkey with fins. The Primadon can be instantly spawned by offering 5 Megalodaunt hides (you can use any monster parts except Lionfish Scales) to the fire in [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
-Being killed by Primadon will instantly result in being sent to the depths. However, this seems buggy at the moment.
+Being killed/gripped by Primadon has a chance to send you to the depths.
 
 ## Attacks
 
@@ -32,11 +32,12 @@ Being killed by Primadon will instantly result in being sent to the depths. Howe
 
 ## Tips
 
+-   When between the Primadon's feet, he will only stomp and kick. This is a great way to solo him as his foot attacks are obvious and can be easily parried or rolled.
 -   Primadon makes a wooshing noise whenever it attacks.
--   Whoever spawns Primadon (or hits it) gets a 30 minute cd to respawn it.
--   Primadon despawns after 10 minutes. (I have timed it, it's not 15 minutes.)
+-   Whoever spawns Primadon (or hits it) gets a 30 minute cooldown to respawn it. \*\*INCORECT\*\*
+-   Primadon despawns after 10 minutes.
 -   After killing Primadon, he drops 16 chests (1 of them is a small chest and has a guaranteed chance to drop a legendary gem (Blue gem, Wayward gem, etc.)
 -   The footsteps of Primadon play a loud, noticeable noise and shakes your camera.
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.
--   DO NOT drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
--   ~You can summon Primadon with guild members/whoever you are farming with on boats just outside the island. Then once he is spawned they can all come onto the island without the Primadons' health scaling higher unlike if they were actually on the island. (Tested, Primadons HP does scale. Not sure if it scales with people being at the island or in a certain nearby area, so this strat might not work.)~ Primadon's health does not scale with the amount of players, you are given 10 minutes to kill this beast and if you can't do it within that time period then it will walk back into the ocean. (Like the chad he is)
+-   **DO NOT** drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
+-   Primadon's health does not scale with the amount of players, you are given 10 minutes to kill this beast and if you can't do it within that time period then it will walk back into the ocean.

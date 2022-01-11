@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 11527
+revid: 11603
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -69,7 +69,11 @@ These mantras have no prequisites.
 -   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Dagger | Placeholder | User throws three daggers of ice toward the nearest person.
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Dagger
+
+(☆)
+
+ | Placeholder | User throws three daggers of ice toward the nearest person.
 
 -   Homing attack.
 

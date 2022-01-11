@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11546
+revid: 11587
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -151,6 +151,10 @@ Hand of Mantra Cards
 
 -   Trained Fist \[Genric Talent, Common Talent\] - You can now equip Caestus. (+7 Health)
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
+
+### Bulwark
+
+-   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
 
 ### Butterfly
 
@@ -638,7 +642,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 #### Agility Combat (25 Agility Needed)
 
--   Revenge - A short dash dealing damage to opponents it hits.
+-   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 -   Dash - Just a dash, nothing special. (Mobility)
 -   Adrenaline Surge - Adrenaline Surges in your body activating a breif speed boost. (Support)
 

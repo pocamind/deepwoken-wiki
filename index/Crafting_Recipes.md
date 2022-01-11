@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 11087
+revid: 11578
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -27,7 +27,6 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   [Campfire](Campfire_Pit.md) - _3 Sticks **OR** 1 Wood_
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
--   **[Sack](Cut_Content.md)** - _2 Cloth_
 -   **Flint** - _1 Coal, 1 Rock_
 -   **Bullets (5x)** - _1 Iron_
 
@@ -39,8 +38,7 @@ Picture of a Crafting Bench
 -   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
 -   **Sharkscale Glider** - (Schematic Required) _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 1 Wood, 1 Iron
--   **Fishing Rod** - 2 Stick, 1 Fibers
--   **Cloth Bag** - 2 Cloth (not tested but heard of)  
+-   **Fishing Rod** - 2 Stick, 1 Fiber  
     
 
 ## Food Recipes

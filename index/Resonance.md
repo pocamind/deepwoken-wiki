@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11549
+revid: 11581
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -22,7 +22,7 @@ _**Pressing C triggers resonance**_
 
 ## How Do You Obtain A Resonance?
 
-**Confirmed method by multiple resonance users, Kanorogue#6037.**
+**Confirmed method by multiple resonance users, Kanorogue#8988.**
 
 File:Arch2.png
 
@@ -109,7 +109,7 @@ Phoenix fire effect
 
 -   File:God's Will Showcase.mp4
     
-    Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense. (more likely to be mantra resistance (someone tested) or might be another variant)
+    Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense. Possible known variants are mantra resistance and weapon resistance.
 
   
 
