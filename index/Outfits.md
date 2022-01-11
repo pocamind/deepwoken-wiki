@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11618
+revid: 11682
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -28,13 +28,7 @@ To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Dependin
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
-## Outfits
-
-Outfits mostly are found as Schematics in Loot, and provides your Character the protection they need. All Players learn the Traveler Cloak variants, a good starting outfit due to the cheap price and material.
-
-The majority of Outfits (along with armor pieces) requires a certain requirement, such as an Attribute Requirement or Power Requirement.
-
-Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).
+## input roblox chest Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).Outs
 
 File:Outfits List.png
 
@@ -199,7 +193,7 @@ x6 Iron
 
 +5% Slash Armor
 
-_Talent: Environmentalist_
+_Talent: Environmentalist (Resist the effects of some weather events.)_
 
  |
 | 
@@ -1152,8 +1146,8 @@ Can be sold for 10 Notes.
  | Mudskipper cave event chest |
 | 
 
- | Bloodiron Ring | Grants the ability to recover Armor durability per kill. | Depths Chests |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests |
+ | Bloodiron Ring | Grants the ability to recover Armor durability per kill. | Depths Chests (I got one of these from the pirate event too) |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests (I got a ring of wisps from the pirate event in the aratel sea) |
 | 
 
  | Old Ring | Placeholder |  |

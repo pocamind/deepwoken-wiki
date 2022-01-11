@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11619
+revid: 11635
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -129,7 +129,7 @@ File:God's Will Showcase.mp4
 -   On activation, call forth a randomly chosen weapon.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
 
-**\==== Known Weapons: ====**
+#### Known Weapons:
 
 -   **Divine Axe**
     -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.

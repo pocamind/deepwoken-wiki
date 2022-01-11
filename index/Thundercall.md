@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 11414
+revid: 11663
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -49,7 +49,7 @@ The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgra
 -   Can be upgraded with a Talent.
 
  |
-|  | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before dissapearing.
+|  | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before disappearing.
 
 -   This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
 -   Modifying the Mantra with a Cloudstone does not produce more clones.
@@ -98,7 +98,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 |  | Lightning Stream
 (☆)
 
- | A stream of lightning. | Grapples onto a enemy and pulls them in.
+ | A stream of lightning. | Grapples onto an enemy and pulls them in.
 
 -   Stuns the opponent, allowing a chance to begin a combo.
 
@@ -126,9 +126,13 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
  | Lightning Cloak (☆☆☆) | TBA. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
--   Your dashes become teleports, increasing your iframes.
+-   Your dashes become teleports, increasing your i-frames.
 
-  
+2 theories:
+
+\-lightning cloak is obtained at 50 thundercall (3 star mantras) and it is just a legendary mantra card that is very rare
+
+\-lightning cloak is obtained at 75/80 thundercall and it is just a legendary mantra card that is very rare  
 
  |
 

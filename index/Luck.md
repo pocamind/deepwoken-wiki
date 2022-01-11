@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 11444
+revid: 11662
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,35 +12,70 @@ _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Te
 
 ## Description
 
-Luck is a hidden value that affects your Character's learning of rare Talents.
-
 File:Luck particles.png
 
 The luck gain particle effects. Note that the white box is a glitch and is not meant to appear along the particles.
 
-Killing something that provides you with Luck will cause white particles that resemble a rune or flower, to rise around you.
+Luck is a hidden value that affects your Character's learning of rare Talents.
+
+Players have a "Luck wallet" that can hold a certain amount of luck. The size of this "wallet" slightly increases after each Power Up.
 
 ## Effects of Luck
 
--   Luck increases the likelihood of Rare/Legendary Talents (Indicated by their color backgrounds and particle effects) per [Power Level](Leveling.md) Increase.
+-   Luck increases the likelihood of Rare/Legendary Talents (Indicated by their color backgrounds (Red or Green/Teal) and particle effects. Not to be confused with the Oathless card, which is Dark Blue) per [Power Level](Leveling.md) Increase.
+    -   Note that Luck does not affect Mantra drawing. 1/2/3 stars mantras are locked behind Attunement requirements and share the same odds between each other to be drawn.
 
 ## Obtaining Luck
 
--   Stealing luck is based off level - for example, if a level 10 kills another level 10, the level 10 will steal half that player's luck. However, if that level 10 were to kill a level 60 player, the level 10 would steal all the luck.
--   Luck affects the drop rate of Rare Cards (Indicated by their colored background, special sound effects, and particle effects).
--   Gripping players has a chance to provide luck. Gaining luck is symbolized by particles flying up around the user. Players with more Power yield more Luck, and this steals a portion of their Luck. You will never get luck from players if you are Power 10 and they are below that level, or if you grip players more than 15 levels below you. (Confirmed by the devs)
--   Gripping NPCs, including but not limited to: bandits and mudskippers alike, also provide a chance of giving luck.
--   Killing any of the following monsters: Corrupted Monsters in [The Depths](The_Depths.md), [Snow Knights](Stone_Knight.md), or [Primadon](Primadon,_Titan_of_the_East.md).
--   If you have the Marauder Boon, you get more luck when you kill monsters/players.
+**The Marauder Boon increase Luck Gain from all sources.**
 
-Note: Killing players will not grant luck if you are 15 levels above them.
+Killing something that provides you with Luck will cause white particles that resemble runes or flowers, to rise around you.
 
-Other note: You get no luck from players under level 10.
+### From Players
 
-## Notes/Trivia
+Gripping a player will steal their luck (roughly ~50% of their own luck + base amount), if:
 
--   ~It is unknown if you lose Luck if you die other than from Players or Monsters (Such as Drowning, or dying from a great height).~ You can't actually loose luck by dying to other sources than players.
+-   The victim is at least Power 10.
+-   The victim is outside of a town if below Power 30.
+-   The victim is within 15 Power levels.
+    -   A player at Power 35 must kill players that are at least Power 20
+
+### From NPCs
+
+Killing an NPC has a chance for a white ball to come out of them. Walking over this white ball will consume it and give you luck. Honestly not too sure if it this is the actual effect, but it probably is. Needs some testing.
+
+File:Luck Ball.png
+
+I have seen these NPCs drop the white ball:
+
+-   [Mudskippers](Mudskipper.md)
+-   [Bandits](Enemies.md)
+-   [Megalodaunts](Megalodaunt.md)
+-   A lot more
+
+#### From Boss NPCs
+
+Killing the following Boss NPCs will provide you with luck:
+
+-   Snow Knights
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Sea Dragon](Murmur%253A_Ardour.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [The Ferryman](The_Ferryman.md)
+
+#### From Corrupted AKA Enhanced Monsters
+
+Killing a Corrupted Monster will provide you with luck. If a monster has a purple aura that is an immediate sign that it is corrupted. Corrupted Monsters are stronger counterparts from their original, but they are fundamentally the same. They hit harder, and have more HP.
+
+Corrupted Monsters only spawn in [The Depths](The_Depths.md).
+
+## Losing luck
+
+-   Getting gripped by a player within power range. Lose ~50% of your luck.
+-   Drawing a card during the card selection after a Power Up. A portion of your luck is "[spent](https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png)" to make the card appear.
+
+## Notes
+
+-   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players as a higher level unless you are just that toxic, or are acting in self defense.
--   if you roll a rare/legendary card, you might as well pick it, as rolling a rare/legendary will make you lose a portion of your luck regardless of if you pick it or not (confirmed by arch, a developer of deepwoken [https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png](https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png)). It doesnt get completely reset on powerup, but your luck cap gets increased.
 -   Luck doesnt affect Chest drops. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
--   Following new information allows us to confirmed that killing Kaido AKA Ardour drops luck

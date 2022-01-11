@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 11450
+revid: 11656
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -33,10 +33,10 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Moves
 
 -   **Slash** - A short range slash. Blockable and parriable. Heavy posture damage.
--   **~WATCH YO TONE~ Punt** - The Megalodaunt's leg will make a red flash before sending out a kick. Sends children instantly flying. Breaks block, but can be dodged.
--   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable (this attack may be used after WATCH YO TONE unintentionally since you will be above it at some point while flying through the sky).
+-   **Kick** - The Megalodaunt's leg will make a red flash before sending out a kick. Sends children instantly flying. Breaks block, but can be dodged.
+-   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable (this attack may be used after a kick unintentionally since you will be above it at some point while flying through the sky).
 -   **Spit** - A multi-hit projectile targeted at a single target. Blockable and parriable.
--   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a small amount of insanity.
+-   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a generous amount of insanity. A poor move in the etrean luminant but especially deadly in [The Depths](The_Depths.md), as an unaware player might suffer from insanities effect much earlier than expected, or worse, mid fight.
 -   **Thousand Needles** - A multi-hit AoE move, often used against groups of targets. Blockable and parriable.
 
 ## Finishers
@@ -51,8 +51,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Variants
 
 -   **Megalodaunt** - A normal Megalodaunt.
--   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt. Red Megalodaunts appear exclusively on Songseeker Wilds(?). Red Megalodaunts can use a mantra that summons flaming swords in the sky, which proceed to rain down. Much harder than the normal variant.
--   **Enhanced/Corrupted Megalodaunt** - Appears exclusively in [the Depths](The_Depths.md)(?). Stronger and faster than a normal Megalodaunt.
+-   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt with roughly 3x health. Red Megalodaunts appear exclusively on Songseeker Wilds in the rare Megalodaunt VS Red Megalodaunt event, if left by themself, the red one will always win due to its larger health pool. As the ability to rain down fire swords from the sky.
 -   **Black Megalodaunt** - Appears exclusively in the Depths.
 
 ## Tips n' Tricks

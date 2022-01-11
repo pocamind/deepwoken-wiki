@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11602
+revid: 11671
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ Enchantments are extremely rare and very powerful upgrades for your equipment. Y
 
 There are two variants that enchantments come in:
 
--   **Regular / Blessing** - They have an effect and no downsides.
+-   **Regular** - They have an effect and no downsides.
 -   **Curses** - They have a very strong effect but a large downside.
 
 ## List of Enchantments
@@ -38,7 +38,7 @@ Will have an effect upon hitting something.
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of the umbral knight in Infernasu's video.jpg<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
+  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
   <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them. If you don't grip at least one person per day, the Umbral Knight will absorb you into the weapon and kill you. (Im pretty sure this is currently disabled due to lag issues.)</p></div></td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. You go insane significantly faster in depths</p></div></td>
+  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and may die upon equipping the weapon.</a></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -119,7 +119,7 @@ Will have an effect upon hitting something.
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p>Every M1 connection will apply a "fear stack" on your opponent. Hitting an opponent with a fear stack will increase M1 damage inflicted to them. Basically curse stacks from Rogue Lineage.</p>
   <p><br>
   </p></div></td>
@@ -313,3 +313,4 @@ Credits to the people who made this page better:
 -   DeathAuRaX
 -   me
 -   TotallyADuck
+-   Moixme

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 11630
+revid: 11638
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -171,10 +171,10 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>Dagger</td>
   <td>15</td>
   <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>5</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>1.05x</td>
 </tr>
 <tr>
   <td>Champion's Dagger</td>
