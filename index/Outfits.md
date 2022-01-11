@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11609
+revid: 11618
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -983,13 +983,23 @@ or Damage Vs. Deep
 File:Golden Cape.png
 
  | Golden Cape | Grants a random buff. |  |
-|  | Dawn Scarf |  |  |
-|  | Adventurer's Scarf |  |  |
-|  | Black Scarf |  |  |
-|  | White Scarf |  |  |
-|  | There's a lotta scarves, someone add them |  |  |
+| 
 
-### Torso
+ | Dawn Scarf |  |  |
+| 
+
+ | Adventurer's Scarf |  |  |
+| 
+
+ | Black Scarf |  |  |
+| 
+
+ | White Scarf |  |  |
+| 
+
+ | There's a lotta scarves, someone add them |  |  |
+
+### Shoulders
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
@@ -1071,6 +1081,9 @@ File:Aristocrat Coat.png
 +1 Posture
 
  | Unknown |
+| 
+
+ | Royal Pathfinder | 2-4 buffs | Starswept Valley |
 
   
 

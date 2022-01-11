@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 11570
+revid: 11630
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -137,7 +137,7 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>30 LHT</td>
   <td>Fist</td>
   <td>16</td>
-  <td></td>
+  <td>5%</td>
   <td>9</td>
   <td>5</td>
   <td>7</td>

@@ -1,6 +1,6 @@
 ---
 title: Ships
-revid: 10257
+revid: 11625
 source: https://deepwoken.fandom.com/wiki/Ships
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,4 +24,4 @@ Players can acquire new ships and spawn them by talking to the Shipwright NPC, l
 | Schooner | 1400 | 4 | No | 500 |
 | Merchant Schooner | 2000 | 4 | Yes | 1000 |
 | Frigate | 3000 | 6 | Yes | 2000 |
-| Ironclade | 10000 | 20 | Yes | 6000 |
+| [Ironclad](Ships_&_Sailing.md#list-of-ships) | 10000 | 20 | Yes | 6000 |

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 11475
+revid: 11621
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -37,7 +37,8 @@ Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
 -   A common combo that The Enforcer will use is two high swings in quick succession before going for a low swing.
 -   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits.
--   ~Fighting him is widely considered easier than fighting a Corrupt Sharko or 2 Angels.~ No longer, mf can feint.
+-   Due to its very limited apperance, it is hard to train against it without putting a high level character at risk.
+-   Is sometime regarded as easier to fight than the [Angels](Hollow_Angel.md) or [Megalodaunts](Megalodaunt.md), however, its near human intelligence, involving feints, can prove difficult to newer players and still catch veterans off guards.
 -   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry/roll its next attack quickly.
 -   Do this solo or duo; it becomes a lot more challenging when many players show up, causing an armada of Enforcers to wreck everything in sight.
 

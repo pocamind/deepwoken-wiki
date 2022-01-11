@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11581
+revid: 11619
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -63,7 +63,8 @@ _Hit Reflection showcased by Bracting._
 
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
--   Variant 2: Works exactly the same, except you must first hit the opponent with a beam. Basically a worse version.
+    -   Version 1: The ability is activated when using the Resonance.
+    -   Version 2: The ability is activated by landing a laser shot by using the Resonance.
 
 File:Beambell.png
 
@@ -78,38 +79,38 @@ Probably variant 2 of full counter
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
 
-  
-
 File:Phoenix Fire.jpg
 
 Phoenix fire effect
+
+  
 
 ### **Wind-up**
 
 #### Effects:
 
--   Activating the resonances charges the ability, 1 level at a time. Can be done activated up to 5 times.
+-   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
 
-  
-
-### **KAMUI BELL**
+### **Distortion Portal**
 
 #### Effects:
 
--   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside yourself.
--   Standing on a different plate and re-activating your Resonance will transport you to another location in the map, leaving another lingering portal for people to follow.
-
-  
+-   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside the user.
+-   Activating the ability while in The Distortion Realm let you visualize where you will appear in the game world. Activating the ability while the visualization is on transports the player and create another portal for people to follow them.
+    -   Players can also walk of the plates and fall into the void to leave the area in the equivalent game map location. Both the bell user and people who do not have the bell can do it.
+-   Each steps in The Distortion Realm is roughly 5 steps in the game map.
 
 ### **Sacred Field**
 
 #### Effects:
 
--   File:God's Will Showcase.mp4
-    
-    Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense. Possible known variants are mantra resistance and weapon resistance.
+-   Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense.
+    -   Version 1: Grant high defense toward physical attacks.
+    -   Version 2: Grant high defense toward elemental attacks.
+
+File:God's Will Showcase.mp4
 
   
 
@@ -128,7 +129,7 @@ Phoenix fire effect
 -   On activation, call forth a randomly chosen weapon.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
 
-#### Known Weapons:
+**\==== Known Weapons: ====**
 
 -   **Divine Axe**
     -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 11585
+revid: 11627
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -22,8 +22,8 @@ Being killed/gripped by Primadon has a chance to send you to the depths.
 ## Attacks
 
 -   **Stomp** - Primadon raises its foot and stomps once, this attack is AOE. Parriable
--   **Punch** - Primadon brings back its arm to deliver a powerful punch. Parriable, will ragdoll.
--   **Watch yo Tone _EX_** - Primadon performs a kick similar to the Sharko's ragdoll kick, except this sends you to orbit and does heavy damage. Only dodgeable.
+-   **Watch yo Tone** - Primadon brings back its arm to deliver a powerful punch. Parriable, will ragdoll.
+-   **Watch yo Tone _EX_** - Primadon performs a kick similar to the Sharko's ragdoll kick, except this sends you to orbit and does too much damage. Only dodgeable.
 -   **Grab** - Primadon crouches down and grabs you. Can only be dodged.
 
 ## Combos
@@ -34,9 +34,8 @@ Being killed/gripped by Primadon has a chance to send you to the depths.
 
 -   When between the Primadon's feet, he will only stomp and kick. This is a great way to solo him as his foot attacks are obvious and can be easily parried or rolled.
 -   Primadon makes a wooshing noise whenever it attacks.
--   Whoever spawns Primadon (or hits it) gets a 30 minute cooldown to respawn it. \*\*INCORECT\*\*
 -   Primadon despawns after 10 minutes.
--   After killing Primadon, he drops 16 chests (1 of them is a small chest and has a guaranteed chance to drop a legendary gem (Blue gem, Wayward gem, etc.)
+-   After killing Primadon, he drops 16 chests (1 of them is a small chest and has a "guaranteed" chance to drop a legendary gem (Blue gem, Wayward gem, etc.)
 -   The footsteps of Primadon play a loud, noticeable noise and shakes your camera.
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.
 -   **DO NOT** drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
