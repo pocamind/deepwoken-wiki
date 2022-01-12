@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 11869
+revid: 11887
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oaths
@@ -66,7 +66,7 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 -   +1 Wildcard Mantra Slot
 -   Increased brightness
 -   Full vision while wearing a blindfold
--   Visible symbol in front of your eyes or a black mask with a unique yellow design (Locked to [Vesperian](Vesperian.md))
+-   Visible symbol in front of your eyes or a black skin and mask with a unique yellow design (Locked to [Vesperian](Vesperian.md))
     
     Blindseer vesp  
     
@@ -125,6 +125,3 @@ Image of the card
 
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.
--   The Oath below in the picture is a hidden oath. It's still unknown how to get it but only one player got it suddenly while he's playing. ( I got the picture from his stream ).  
-    
-    File:Hidden oath.png

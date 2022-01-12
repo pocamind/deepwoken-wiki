@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 11855
+revid: 11911
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -22,7 +22,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 ## Attacks
 
 -   **Stomp** - Primadon raises its foot and stomps once, this attack is AOE. Parriable
--   **Punch** - Primadon brings back its arm to deliver a powerful punch. Parriable, will ragdoll.
+-   **Punch** - Primadon brings back its arm to deliver a powerful punch. Parriable and dodgable
 -   **Kick** - Primadon performs a kick similar to the Sharko's ragdoll kick, except this sends you to orbit and does too much damage. Only dodgeable.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried but MUCH EASIER to proll
 
@@ -40,3 +40,5 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   It is recommended to stay completely still while fighting, to avoid being confused by Primadon's walking animation.
 -   **DO NOT** drop any downed teamates or get yourself downed near artificial campfire (aka. edge of the cliff) if Primadon is aggroed to someone who is at the artifical campfire, you will get gripped despite how high you are.
 -   Primadon's health does not scale with the amount of players, you are given 10 minutes to kill this beast and if you can't do it within that time period then it will walk back into the ocean.
+-   **Primadon has a rare chance of dropping Deep Gems (Used to drop a gem each primadon, although was recently nerfed)**
+-   **Mantra abilities will not affect him however if you have a bloodless gem on an ability it will still slightly heal you**

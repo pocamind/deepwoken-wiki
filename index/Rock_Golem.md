@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 11674
+revid: 11906
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -32,6 +32,10 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 ### Finisher
 
 -   **Angry Stomp** - The golem will slam down his foot and kill those hit by it if knocked.
+
+**Passives**
+
+-   **Rock shell -** Golems have very high Slash Resistance.
 
 ## Tips
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11831
+revid: 11873
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1080,6 +1080,17 @@ File:Aristocrat Coat.png
 +1 Posture
 
  | Unknown |
+| 
+
+ | Star Duster | Health
+
+Ether
+
+Posture
+
+% vs. (sea, depths, giant)
+
+ | Depths chests |
 | 
 
  | Royal Pathfinder | 2-4 buffs | Starswept Valley |

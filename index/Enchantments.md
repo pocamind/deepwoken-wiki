@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11774
+revid: 11914
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -47,7 +47,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and may die upon equipping the weapon.</a></p></div></td>
+  <td><div><p>Gives insanity on hit and fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and may die upon equipping the weapon.</a></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -150,7 +150,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone.</p>
+  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (not true, needs to be worked on. Would appreciate if someone knew what it did)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -269,7 +269,7 @@ Drowned
 
  | 
 
-~The user is granted 2x damage when in the depths.~ I tested it on players with and without armor enchanted with drowned and also tested how many hits it took to kill mobs with and without the armor. It was always the same. Whatever it does, it isn't damage related in depths.
+The user gains a buff in The Depths on the armor, the enchant is on.
 
   
 

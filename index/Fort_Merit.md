@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 11187
+revid: 11884
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,6 +24,7 @@ Fort Merit port from the castle
 
 The following are possible items that can be found once rescuing etrean guards and returning them to the Dingy. Keep in mind once this quest is completed, your rep with authority will forever be hostile unless you reset.
 
+-   Rifle Spear
 -   Authority commander uniform
 -   Adretian axe
 -   Warden ceremonial sword

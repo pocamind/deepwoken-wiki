@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 11773
+revid: 11904
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -33,7 +33,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Moves
 
 -   **Slash** - A short range slash. Blockable and parriable. Heavy posture damage.
--   **Kick** - The Megalodaunt's leg will make a red flash before sending out a kick. Sends children instantly flying. Breaks block, but can be dodged.
+-   WATC YO TONE LIL NI - The Megalodaunt's leg will make a red flash before sending out a kick. Sends children instantly flying. Breaks block, but can be dodged.
 -   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable (this attack may be used after a kick unintentionally since you will be above it at some point while flying through the sky).
 -   **Spit** - A multi-hit projectile targeted at a single target. Blockable and parriable.
 -   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a generous amount of insanity. A poor move in the etrean luminant but especially deadly in [The Depths](The_Depths.md), as an unaware player might suffer from insanities effect much earlier than expected, or worse, mid fight.

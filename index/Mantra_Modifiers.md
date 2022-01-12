@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11786
+revid: 11886
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -245,7 +245,7 @@ _"You feel dizzy when you hold it."_
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
--   This modifier reverses the _Flame Leap_ Mantra forcing all players around you to rise and burn.
+-   This modifier reverses the _Flame Leap_ Mantra ~forcing all players around you to rise and burn.~ _Flame Leap_ already does this, so I guess it just doesn't lift you up into the air anymore?
     -   If you fall before the animation completes, all fall damage is negated.
     -   When casted in water, user dives into the water and floats back up. Creates a flaming AoE when/if user reaches land.
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)

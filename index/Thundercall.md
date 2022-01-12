@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 11772
+revid: 11920
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -128,11 +128,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 -   Your dashes become teleports, increasing your i-frames.
 
-2 theories:
-
-\-lightning cloak is obtained at 50 thundercall (3 star mantras) and it is just a legendary mantra card that is very rare
-
-\-lightning cloak is obtained at 75/80 thundercall and it is just a legendary mantra card that is very rare  
+Contrary to popular belief, Lightning Cloak is as rare as spark swap, you are as likely to get spark swap as you are lightning cloak after being able to obtain 3-star mantras.
 
  |
 

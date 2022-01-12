@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11840
+revid: 11929
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -45,7 +45,7 @@ This is certainly a faster method to escape, although still poses the threat of 
 
 The Voices of the Depths sentence you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
 
-File:Depths Map.png
+File:Scuffed map Depths.png
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
 
@@ -53,11 +53,11 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 
 | Level | Possible Enemies |
 | --- | --- |
-| 1-7 | N/A - You escape without fighting a monster |
-| 8-18 | Mudskipper Assassin |
-| 19-30 | [Angels](Hollow_Angel.md) |
-| 30+ | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
-| 45-47+ | [Enforcer](Enforcer.md) |
+| 1-9 | N/A - You escape without fighting a monster |
+| 10-19 | Deepknight (Bandit Leader) |
+| 20-29 | [Angels](Hollow_Angel.md) |
+| 30-49 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
+| 50+ (No Drowns) | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 
@@ -120,6 +120,7 @@ Just a bag of information to keep in mind and remember
 -   Crabo
 -   [Squibbo](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
+-   The City Guards
 
 ## Loot Table
 

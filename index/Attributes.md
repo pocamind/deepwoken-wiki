@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 11828
+revid: 11900
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -153,7 +153,7 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 -   Determines the damage of your Heavy Weapons via Scaling.
 -   Certain Heavy Weapons, such as the Steel Greathammer, requires a Heavy Weapons requirement.
 -   Unlocks Heavy-Weapon related Talents.
--   Gain Heavy Weapons EXP by dealing damage with Heavy Weapons.
+-   Gain Heavy Weapons EXP by dealing damage with Heavy Weapons or parrying attacks.
 
 ### Medium Weapons
 
@@ -167,7 +167,7 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 -   Determines the damage of your Medium Weapons via Scaling.
 -   Certain Medium Weapons, such as the Gremorian Longspear, requires a Medium Weapons requirement.
 -   Unlocks Medium-Weapon related Talents.
--   Gain Medium Weapons EXP by dealing damage with Medium Weapons.
+-   Gain Medium Weapons EXP by dealing damage with Medium Weapons or parrying attacks.
 
 ### Light Weapons
 
@@ -181,7 +181,7 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 -   Determines the damage of your light Weapons via Scaling.
 -   Certain Light Weapons, such as the Silver Dagger, requires a Light Weapons requirement.
 -   Unlocks Light-Weapon related Talents.
--   Gain Light Weapons EXP by dealing damage with Light Weapons.
+-   Gain Light Weapons EXP by dealing damage with Light Weapons or parrying attacks.
 
 ## Attunement Attributes
 

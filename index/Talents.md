@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11863
+revid: 11930
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -611,6 +611,7 @@ Hand of Mantra Cards
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either0)
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
+-   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
 
 ### **Miscellaneous**
 
@@ -669,7 +670,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 #### Light Weapon Combat
 
--   Rapid Slashes -
+-   Rapid Slashes - Rush down your opponent cutting them apart.
 
 #### Medium Weapon Combat
 
@@ -757,6 +758,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 -   Roll 2 - Recieve 2 random Talents.
 
 ## Outfit Talents
+
+### Ferryman's Coat
+
+-   Ferryman's Curse - Being hit by lightning will cause you to momentarily disappear. (I think this is a discount Lannis Amulet) (Obtained by wearing the Ferryman's Outfit)
 
 ### Navaen-Nomad
 
