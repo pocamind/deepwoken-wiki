@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11694
+revid: 11807
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -49,7 +49,7 @@ File:Depths Map.png
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
 
-_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer)._
+_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). About 5 levels below you can still get one of them, higher level meaning your chances are bigger._
 
 | Level | Possible Enemies |
 | --- | --- |
@@ -64,6 +64,8 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 **Note 2:** The requirements for getting Enforcer seem to not be just based off of level, as tested by the community. (Some players get a Megalodaunt at level 49, while others are getting Enforcer as early as level 45.) So its recommended to either be 44 if you are looking to fight a shark, or to overlevel that way the Enforcer will not be a threat incase you get him.
 
 Note 3: i have escaped the depths only fighting a normal megolodaunt at lvl 46 so there is a chance of a normal megolodant at lvl 46.
+
+Note 4: Power level + drowned stat = trial power (ex: power 30 + 12 drowned = 42 trial power)
 
 ## Farming in The Depths
 
@@ -164,4 +166,4 @@ Almost everything in the game drops in the depths
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be suffecient. Learning the procedures of vanquishing each of The Depth's monsters, learning the layout, learning to avoid gang bangers, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can negate the risks.
 -   If you see a group of gang bangers (e.g some high level looking dudes in packs of 2-10) log. Your chances of not combat logging are a farcry better than your chances of not getting ganked underwater. Or if you are a bossraid dude with all sorts of enchantments and powerful tools then go ahead and go ham.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
--   Enviromental awarness is pivital to players within The Depths. The amount of players who have been wiped to falling into the void is expenentiol. Make sure wherever your getting knocked back to is not the edge of a cliff, use the enviroment to your advantage as well and insta-kill players using the void.
+-   Enviromental awarness is pivital to players within The Depths. The amount of players who have been wiped to falling into the void is exponential. Make sure wherever your getting knocked back to is not the edge of a cliff, use the enviroment to your advantage as well and insta-kill players using the void.

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11695
+revid: 11786
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -9,6 +9,9 @@ categories: [Pages with broken file links, Items]
 # Mantra Modifiers
 
 _This page is a list of all items that you can use in order to modify a Mantra._
+
+  
+**1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. (Reasoning for this is the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.)
 
 ## Description
 

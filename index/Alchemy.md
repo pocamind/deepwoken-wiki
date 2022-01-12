@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 10296
+revid: 11827
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 This page contains most of the wiki's information on Alchemy. Since the wiki is not very organised, there's some information on Recipes & Alchemy that isn't repeated here yet.
 
-A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and the effects of most potions. If you don't care how alchemy works and just want to make a health potion, you should stop reading and just use the spreadsheet.
+A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and the effects of most potions. It is outdated in places, but a good quick reference guide for potion effects.
 
 ## Basics
 
@@ -26,74 +26,86 @@ For example, you can make a powerful speed potion using 3 [Pomars](Pomar.md) and
 
 ### Potion Names
 
-Potions are given two word names based on their effect and strength.
+Potions are given two word names based on their most powerful effect effect, and the strength of that effect.
 
-Potions only have one effect (even if you mix different effect ingredients), shown by the first word of their name. For example, all _Icky_ potions will instantly heal you, and then drain your ether.
+Potions can have many different effects, but the potion's most powerful effect is shown by the first word of their name. For example, all _Invigorating_ potions will apply a regeneration effect, though if brewed with a Browncap, they will also deal a small amount of damage when drunk.
 
-The second word of a potions name indicates its strength - however the word depends on the type of potion.
+The second word of a potions name indicates the strength of the primary effect - however each primary effect has its own naming system.
 
--   Negative potions are very consistent - they almost all have two tiers, Blight and Bane (with Bane always being stronger).
+-   Negative effects are very consistent - they almost all have two tiers, Blight and Bane (with Bane always being stronger).
     -   An exception to this rule is _Appalling_ potions, which have Blight and Potion tiers (with Potion being stronger).
--   Most positive potions have three tiers - Elixir, Salve and Tincture. The hierarchy depends on the effect of the potion.
-    -   For example, _Invigorating_ potions go Elixir < Tincture < Salve, whereas _Soothing_ potions are reversed.
--   Some positive potions have Elixir, Potion and Remedy tiers instead. Again, the hierarchy depends on the potion.
+-   Most positive effects have three tiers - Salve, Elixir and Tincture. The hierarchy depends on the effect of the potion.
+-   Some positive effects have Elixir, Potion and Remedy tiers instead. Again, the hierarchy depends on the potion.
 
 ### Using Potions
 
 Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion will prevent you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. All potions share a 10 second "potion cooldown", represented by the tiny potion symbol in a circle under the health bar. If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
 
-You can also throw potions by holding them and pressing E - this usually applies a weaker version of potion effect to anyone standing near the potion when it explodes, though most potions with positive effects will apply a different (negative) effect when thrown. You can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down.
+You can also throw potions by holding them and pressing E - this usually applies a weaker version of the potion effect to anyone standing near the potion when it explodes, though some positive effects only apply when drunk. You can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down.
 
 ## Ingredients and Mechanics
 
 We still haven't figured out exactly how Alchemy works, but our best understanding is something as follows:
 
-Potions only have one effect, even if you mix different effect ingredients. The resulting effect of a potion is determined by the quantity and "power" of the ingredients - for example, urchins have the highest "power" of any ingredient, and mixing an urchin with another ingredient will always result in a Mindbreaker potion. Adding ingredients with low "power" (such as browncaps) to a potion can often increase the potion's tier without changing the effect, which can be used to save more expensive ingredients like Urchins or Plumfruit.
+Every ingredient has many effects - some are powerful and obvious, others are much more subtle. For example, adding a [Redd](Redd.md) to a potion will cause it to instantly restore a small amount of health (the _Rejuvinating_ effect), and drain your Ether for 10 seconds (the _Icky_ effect). Potions grant every effect of every ingredient they contain, but are named only after their strongest effect. When redds are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will be called an _Icky_ potion, though it's important to note it still has the _Rejuvinating_ effect.
 
-Adding more ingredients to a potion will usually increase its tier (strength). For example, a single [Browncap](Browncap.md) makes a _Disgusting Blight_, but using two creates a _Disgusting Bane_, which deals more damage. In most cases, potions with the same name have the same effect - adding a third Browncap to a potion will create a _Disgusting Bane_ that does the same amount of damage as one brewed with only two mushrooms.  
-However, certain talents (such as Apothecary) and ingredients (such as Spider Eggs and Beeswax) will change the attributes of a potion without changing its name - the different potions will all stack together. Higher intelligence supposedly also increases the strength of potions, though I've not tested this.
+The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
+Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with conflicting effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing Redds will partially cancel out the _Icky_ effect, and in the correct ratio, can produce a _Rejuvinating_ potion.
 
-There are 23 (known) potion ingredients, though only 12 can be used to brew potions by themselves.
+Potions containing only one ingredient suffer a penalty to the strength of all effects (often resulting in a Diluted potion), which can be avoided by adding any ingredient (including ones with no effect, like a Stick or a Rock).
 
--   Bamboo Bundle - used to create _Appalling_ potions, which drain reservoir.
+Beeswax and Spider Eggs are special ingredients which increase the duration of potion effects by 50% each (stacking additively, so 2 spider eggs will double the duration).
 
--   Bluecap - used to create _Heartening_ potions, which instantly restore sanity and reservoir. Deals damage when thrown.
+The Apothecary and Exterminator talents both double the effects of potions when drunk/thrown (respectively). Unlike adding more ingredients to a potion to increase the effect, this does not change the name of the potion. The intelligence stat supposedly also increases the effects of your potions, though I've not tested this.
 
--   Browncap - used to create _Disgusting_ potions, which deal a small amount of damage.
-    -   Deals good damage for a throwing potion, but it's still pathetic. Even when brewed with every bonus, these will deal less than 5% damage even against significantly weaker opponents. At least they're cheap?
+There are 23 (known) potion ingredients, though only 12 have an effect strong enough to brew potions by themselves.
 
--   Calabash - used to create _Steadfast_ potions. These heavily drain elixir when drunk, and deal a small amount of damage when thrown.
-    -   Presumably have another effect when drunk (perhaps damage reduction), but currently unknown.
+-   Bamboo Bundle - used to create **Appalling** potions, which drain reservoir.
+    -   When cancelled out with a Dentifilo (which restores reservoir), creates a Steadfast Salve, implying it also has a small Steadfast effect.
 
--   Dentifilo - used to create _Soothing_ potions, which deal damage and restore reservoir. When thrown, deal a small amount of damage, and drains a small amount of thirst.
+-   Bluecap - used to create **Heartening** potions, which instantly restore sanity and reservoir when drank. Deals damage when thrown.
+    -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion and which are secondary effects.
 
--   Gathered Wheat - primarily used to create _Dulling_ potions, which restore ether when drunk, and have an unknown effect when thrown. Also used to create _Focus-Enhancing_ potions, which drastically increase the rate ether is drawn from the reservoir.
-    -   Dulling potions are actually a Bane, so presumably they have some negative side effect.
-    -   Focus-Enhancing potions can be made in a variety of ways, though the cheapest is using a wheat and a browncap (plumfruit also work, as do redds but you need the correct ratio). The potion is one of the few (known) potions that can't be made with a single ingredient.
+-   Browncap - used to create **Disgusting** potions, which deal a small amount of damage when drunk and thrown.
+    -   The damage is very small - even when brewed with every bonus they're unlikely to deal more than 5% to weaker opponents.
+    -   Secondary effects aren't clear - perhaps a strengthening effect? Whatever it is, it cancels out Dulling.
 
--   Gobletto - used to create _Invigorating_ potions, which give you a brief regeneration effect. Unknown effect when thrown - possibly a very subtle slow.
-    -   A single gobletto produces a diluted salve. Using multiple goblettos, or one gobletto and a filler ingredient produces an Invigorating Elixir.
-    -   Uniquely, brewing a gobletto with a plumfruit produces an Invigorating Salve. This is slower and weaker than the elixir.
+-   Calabash - used to create **Steadfast** potions. These drain elixir when drunk, and deal a small amount of damage when thrown.
+    -   Calabash clearly have a reasonably strong Icky effect (combining a Calabash with a Redd produces a high strength Icky potion), which explains the elixir drain, but it's not clear what the Steadfast effect is doing. Perhaps damage reduction?
+
+-   Dentifilo - used to create **Soothing** potions, which deal damage and restore reservoir. When thrown, deal a small amount of damage, and drains a small amount of thirst.
+    -   The damage comes from a small disgusting effect, which can be seen by brewing two browncaps with a dentifilo and a bamboo to cancel out the soothing - two browncaps make a blight, while adding the dentifilo makes it a bane.
+    -   Soothing is a strong effect which almost always names the potion, so it's hard to tell if dentifilos have other effects.
+
+-   Gathered Wheat - primarily used to create _Dulling_ potions, which drastically increases the rate reservoir is turned into ether. When combined with certain ingredients, creates _Focus-Enhancing_ potions, which do the same thing.
+    -   Dulling potions are a Bane, so presumably they have some negative effect (perhaps reducing damage?), and the reservoir draw is coming from the Focus Enhancing effect.
+    -   Focus Enhancing becomes the strongest effect when the potion is combined with browncaps, redds (needs the right ratio, otherwise Rejuvinating is the strongest effect) and plumfruit. It's not clear what effect these ingredients have in common that cancels dulling.
+    -   Even after running out of reservoir, the focus enhancing effect will still increase ether regneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
+
+-   Gobletto - used to create _Invigorating_ potions, which give you a 10 second regeneration effect. Unknown effect when thrown - possibly a very subtle slow?
+    -   Invigorating is a very potent effect, and almost always names the potion. It can be cancelled out with multiple plumfruit, though it's unclear what is cancelling it as Strengthening then takes over as the strongest effect.
 
 -   Ongo - used to create _Buckling_ potions. Effect unknown.
+    -   When combined with a Pomar, creates a _Staggering_ potion, which also has an unknown effect. Perhaps one of these increases posture damage.
 
--   Plumfruit - _Strengthening_ potions (increase physical damage). Can be combined with wheat to brew _Focus-Enhancing_ potions (drastically increase reservoir draw).
-    -   Strengthening Potions are brewed using either 3 plumfruit (for a salve), or 1 plumfruit and and a filler (or 2 plumfruit) for a tincture, Focus-Enhancing potions are brewed using a plumfruit and a wheat, Strengthening potions can be brewed with either three plumfruit (creating a Salve), or a plumfruit and a sap or a browncap (creating a Tincture).
+-   Plumfruit - used to create _Strengthening_ potions, which increase physical damage.
+    -   Plumfruit are the only ingredient which cancel out the Invigorating effect, though it's not clear why.
+    -   Has a subtle hastening effect when brewed with Sap. Unclear which ingredient the effect is coming from.
     -   Some players report that they brewed Grueling Banes and Grueling Blights using plumfruit (using the same recipes that currently produce Strengthening potions). This doesn't seem to be the case anymore - its unknown what changed.
 
 -   Pomar - used to make _Hastening_ potions, which deal a small amount of damage and give a 15 second speed boost when drunk. Unknown effect when thrown.
+    -   Secondary effect is either Staggering, or something that cancels out Buckling. Or maybe both. Alchemy is hard.
 
 -   Redd - used to make _Icky_ potions, which drain elixir and instantly restore health when drunk, and drain elixir when thrown.
+    -   The elixir drain comes from the Icky effect, while the health restoration comes from the Rejuvinating effect, which can be seen by cancelling out the Icky with wheat.
 
 -   Urchin - used to create _Mindbreaker_ potions, which greatly lower sanity.
-    -   Notable for overpowering every other ingredient - mixing an urchin with any other ingredient always produces Mindbreaker potions.
+    -   Notable for overpowering every other ingredient - mixing an urchin with any other ingredient always produces Mindbreaker potions. This makes it very hard to figure out if the potion has a secondary effect.
     -   Also notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
 
 Eggs, fish meat, beeswax, sticks and minerals (coal, iron, stone, irithine, and ect.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone. Potions with only a single ingredient appear to have a strength penalty, which can be avoided by adding a "filler" ingredient (such as a stick). Adding filler ingredients to a potion with at least 2 ingredients already will do nothing.
 
 Sap and beeswax are unique as ingredients which create Nothing Potions when used alone, but can be combined with other ingredients to change the effect of the potion.
-
-Finally, beeswax and spider eggs increase the duration of potions when added. Eggs increase the duration by 50% each (stacking additively, so 2 eggs doubles the potion duration). I haven't tested beeswax because the game was coded by monkeys and all the trees are bugged.
 
 ## Assorted Ramblings of Alchemists
 

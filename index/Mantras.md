@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 11236
+revid: 11787
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -16,7 +16,7 @@ Mantras are internalised passages of the Song that practicioners use to conjure 
 
 **Typically used close-range.**
 
-**[Thundercall](Thundercall.md): Lightning utilizes extrmely fast, combat fast spells to keep in offense and pressure the opponent with a flourish of quick strikes. Lightning has spells with extremely small start up for closing distance or keeping a opponent on defense. Lightning is the best at controlling a fight in PvP, and has a wide variety of useful spells for PvE and exploring the world.**
+**[Thundercall](Thundercall.md): Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with extremely small start up for closing distance, or keeping a opponent on edge. Lightning is the best at controlling a fight in PvP, and has a wide variety of useful spells for PvE and exploring the world.**
 
 **Typically used mid/long range.**
 
@@ -24,7 +24,7 @@ Mantras are internalised passages of the Song that practicioners use to conjure 
 
 **Typically used close/mid range.**
 
-**Galebreath: Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions. Wind spells usually sport a low startup and variety of uses. It has a mix of extremely deadly close-range combo spells and long ranged options, along with multiple movement talents for moving around the world. A wind user has many different options to draw upon during a fight allowing them to make many different reactions to stay alive.**
+**Galebreath: Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions. It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world. Usually agreed on as the most "versatile" spell.**
 
 **Typically used in any range.**
 
@@ -40,4 +40,4 @@ Modification can fail when you have placed incompatible ingredients on the table
 
 ## How can I get a Mantra?
 
-One way to gain a mantra is through increasing your [Power](Talents.md). There is a chance that the cards you recieve will be Mantras.
+One way to gain a mantra is through increasing your [Power](Talents.md). There is a chance that the cards you receive will be Mantras.

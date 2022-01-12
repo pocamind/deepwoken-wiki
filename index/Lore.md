@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 11613
+revid: 11832
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,7 +53,7 @@ The Duke
 
 -   The Duke, known for his creation of the Golems that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems and [Mindless Servants](Mindless_Servant.md).
--   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people.
+-   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, whom wants the Forge of Sin from his hands.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
@@ -278,7 +278,7 @@ A Peacekeeper Grunt, part of The Authority
 -   **Alliances:** _N/A_
 -   **Enemies:** _N/A_
 
--   The Golden Warriors are a group who show most ecstatic with glory and entertainment. They wear gold helmets and show off their muscular physique- lacking a shirt.
+-   The Golden Warriors are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
 -   In encounters, the Golden Warrior politely asks the player to only fight him to the death in a 1v1, and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
 -   Their "FOB" is located in The Rat's Den, within Burning Stone Gardens of [Erisia Island](Erisia.md). They can also be encountered anywhere in that island.
     -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Warriors seek glory through combat, the Den is going to be a mess.  

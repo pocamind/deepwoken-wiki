@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 11692
+revid: 11794
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,6 +60,21 @@ Insanity Resistance
 ## Weaknesses
 
 There is no weakness
+
+**Surnames:**
+
+## Surnames
+
+-   Dise
+-   Etude
+-   Ixatoke
+-   Sekhige
+-   Zeneke
+-   Enege
+-   Galvige
+-   Rethige
+-   Trige
+    
 
 ## Trivia
 

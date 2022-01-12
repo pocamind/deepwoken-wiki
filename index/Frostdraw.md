@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 11677
+revid: 11821
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -55,7 +55,7 @@ These mantras have no prequisites.
 -   Deals moderate damage.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Warden's Blades | Revolving blades of ice. | 4 ice swords spawn around the player. They stop moving and shoot out. |
+| [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | Warden's Blades | Revolving blades of ice. | 4 ice swords spawn around the player. They stop moving and shoot out. |
 | [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Soldiers | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
 
 -   Area of Effect attack that damages and slows targets inside.
@@ -139,7 +139,7 @@ These mantras have no prequisites.
 -   Briefly slows target.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Fissure
+| [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | Ice Fissure
 
 (☆☆☆)
 
@@ -257,6 +257,8 @@ These talents can be found in the _Ice Age_ category.
 +2 Health |
 | File:Saint Jay.png | Ice Age | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity  
 +2 Health |
+| [Frozone](https://deepwoken.fandom.com/wiki/File:Frozone.png) | Frozone | You are no longer required to be over water to use Ice Skate. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
++3 Health |
 
 **Glassdancer:**
 
@@ -272,7 +274,7 @@ These talents can be found in the _Frostthorn_ category.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | Placeholder |
+| File:OrbitalIce.jpg | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | Placeholder |
 
 **Cryoni:**
 
@@ -282,6 +284,8 @@ These talents can be found in the _Cryoni_ category.
 | --- | --- | --- | --- |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Fragile Freeze | Your ice Mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity |
 | File:Preceeding Chill Card.webp | Preceding Chill | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity |
+| File:Cryostasis.jpg | Cryostasis | When block broken, fragile freeze yourself, negating the damage of the next attack. | +3 Elemental Intensity  
++1 Health |
 
 **Frozen Warrior:**
 
@@ -298,14 +302,11 @@ These talents have no category or their category is unknown.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
-+3 Health |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frozone | Ice Skates can be used on land. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
+| File:ShatterSpear.png | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
 +3 Health |
 
 ## Trivia/Notes
 
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
--   Hostile Frostdrawers can be found in Minityrsa.
--   A legendary card called "Frozone" allows Frostdrawers to use Ice Skates on land.
+-   Hostile Frostdrawers can be found in [Minityrsa](Minityrsa.md).

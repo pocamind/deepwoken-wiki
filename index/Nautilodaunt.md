@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 11771
+revid: 11815
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,6 +22,7 @@ Drops "Odd Tentacles".
 
 -   **Melee Rush** - Punches you many times into kicks.
 -   **Kick** - Kicks the opponent.
+-   **Flip kick** - Frontflips into the air and kicks you from above, usually only does this after a flourish.
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 -   **Feint** - Feints an attack to throw you off.
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 11721
+revid: 11825
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Deep Gems
 
-You find Deep Gems in the depths very rarely from chests. (Note: due to a recent patch, you can no longer find Deep Gems in the overworld, including Primadon chests. If you're wondering why its only in the Depths now, that's why.)
+You find Deep Gems very rarely from chests in the Depths and from Primadon. (The overworld was recently nerfed to no longer drop Deep Gems, but in the most current patch, Primadon can now rarely drop Deep Gems.
 
   
 Wayward Gem - Teleports you to your opponent after the mantra lands

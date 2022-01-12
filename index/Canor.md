@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 10088
+revid: 11811
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -63,6 +63,24 @@ Inflicts less damage to their own allies.
 ## Weaknesses
 
 N/A
+
+**Surnames:**
+
+## Surnames
+
+-   Bren
+-   Dardren
+-   Helsen
+-   Jaegen
+-   Scarsen
+-   Vondren
+-   Canden
+-   Dusselden
+-   Holden
+-   Nuren
+-   Ven
+-   Vorgen
+    
 
 ## Notes/Trivia
 

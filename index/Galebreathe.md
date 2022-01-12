@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 11528
+revid: 11816
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -118,7 +118,7 @@ There are no known Mobilty Mantras for Galebreathers.
 |  | Gale Wisp  
 (☆☆) | A servant of wind. | Spawns a wisp of wind. Must use ritual casting.
 -   Protects against fall damage.
--   Heals 1% every few seconds.
+-   Heals 1% every few seconds (about 10~15 seconds).
 -   Disappears after healing you enough.
 
  |

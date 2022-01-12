@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 11738
+revid: 11799
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -66,6 +66,25 @@ Adrets can easily level up their attributes and progress faster than the normal 
 ## Weaknesses
 
 N/A
+
+**Surnames:**
+
+## Surnames
+
+-   Adaset
+-   Corbet
+-   Isket
+-   Munet
+-   Praadet
+-   Vendet
+-   Ashet
+-   Donnet
+-   Hasset
+-   Mudet
+-   Osset
+-   Sahet
+-   Yuset
+    
 
 ## Notes/Trivia
 

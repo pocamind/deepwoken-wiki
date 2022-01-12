@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 11382
+revid: 11804
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -64,6 +64,27 @@ Looks drippy
 ## Weaknesses
 
 N/A
+
+**Surnames:**
+
+## Surnames
+
+-   Adra
+-   Cassatra
+-   Era
+-   Hira
+-   Nemira
+-   Niildra
+-   Theodra
+-   Ymara
+-   Atedra
+-   Eldra
+-   Estedra
+-   Mora
+-   Nephidra
+-   Ratra
+-   Vendra
+    
 
 ## Notes/Trivia
 

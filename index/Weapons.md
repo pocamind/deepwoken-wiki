@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 11638
+revid: 11830
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -202,7 +202,7 @@ Way of Navae and Legion Kata apparently have the same stats and are both called 
   <td>Krulian Knife</td>
   <td>60 LHT</td>
   <td>Dagger</td>
-  <td>12</td>
+  <td>14</td>
   <td></td>
   <td>10</td>
   <td>3</td>

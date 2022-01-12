@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 11400
+revid: 11791
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -65,6 +65,27 @@ Takes less damage in acid rain.
 **Weaknesses:**
 
 Seeing as how **Molt** reduces the duration of positive effects as well as negative, this would technically make them "the worst race" in the game as they are the only ones to have a trait with a negative effect. Regardless, the decreased duration seems negligible and won't have much of an effect on gameplay.
+
+**Surnames:**
+
+## Surnames
+
+-   Ashi
+-   Hashi
+-   Ishel
+-   Kereshi
+-   Massi
+-   Ureshi
+-   Vesti
+-   Zeshi
+-   Eshet
+-   Kasteshi
+-   Kanreshi
+-   Leshi
+-   Rashet
+-   Veshi
+-   Ytreshi
+    
 
 ## Notes/Trivia
 

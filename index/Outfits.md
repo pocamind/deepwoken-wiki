@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11745
+revid: 11831
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -876,7 +876,11 @@ _\+ Talent: Pitcher_
 
 File:Authorityhelm.png
 
- | Authority Helm | Grants two or three random buffs. | Authority enemy |
+ | Authority Helm | Grants two or three random buffs.
+
+_Requires Fortitude 10_
+
+ | Authority enemy |
 | 
 
 File:KnightHelm.png
@@ -996,7 +1000,7 @@ File:Golden Cape.png
 
  | There's a lotta scarves, someone add them |  |  |
 
-### Shoulders
+### Arms
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
@@ -1117,7 +1121,7 @@ _Requires Power Level 10_
 
  | Michael Phelps | Gives the user a massive increase in swimming speed.
 
-_Unknown Requirement_
+_Requires Power Level 10_
 
  | Depths Chests |
 | 

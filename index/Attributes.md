@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 11169
+revid: 11828
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -96,7 +96,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Logical processing and Problem-Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Intelligence affects your Attunements' Damage slightly per Intelligence and affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
--   Gain Intelligence EXP via Foraging, harvesting, discovering Recipes for the first time, or discovering new locations for the first time.
+-   Gain Intelligence EXP via foraging, brewing potions, completing questions in the [Math Textbook](Training_Gear.md#attribute-training-gears), discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
 -   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving the [Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
 -   Allows you to pass certain _Intelligence_ skill checks.
 

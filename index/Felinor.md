@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 11688
+revid: 11833
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -67,9 +67,3 @@ Commonly sold as slaves.
 ## Notes
 
 When wearing earrings they appear on the cat ears.
-
-File:Image 2022-01-11 185847.png
-
-black felinor
-
-1 Out of the 4 variants, is actually a neko. The other 3 variants are furry. (Black, White, Golden), Why know this information? Why not, maybe a reason to target the other 3 more than the neko variant due to being more furry.
