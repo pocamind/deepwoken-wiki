@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 11056
+revid: 11853
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, NPC]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Monsters, NPC]
 
 ## Description
 
-**Yun'Shul, Keeper of Hearts** is an NPC found in the [Temple of Heart](Temple_of_Hearts.md) withing [The Depths](The_Depths.md). A [Resonance](Resonance.md) is required to enter this location and to talk to Yun'Shul. Attempting to interact without a Resonance cause the demise of the subject, killing them instantly.
+**Yun'Shul, Keeper of Hearts** is an NPC found in the [Temple of Heart](Temple_of_Hearts.md) within [The Depths](The_Depths.md). A [Resonance](Resonance.md) is required to enter this location and to talk to Yun'Shul. Attempting to interact without a Resonance cause the demise of the subject, killing them instantly.
 
 ## Wish
 
@@ -26,7 +26,7 @@ After letting the voices scratching your mind in your head, Yun'Shul will speak 
 
 3 wishes are available to the player:
 
-1.  **The trials ahead of me fill me with trepidation, I wish to escape this place. -** This option allow the player to immediatly escape The Depths.
+1.  **The trials ahead of me fill me with trepidation, I wish to escape this place. -** This option allow the player to immediately escape The Depths.
 2.  **My Flaws weight me down too much, I wish for relief. -** This option allow the player to clear their [Oath](Oaths.md), if they ever wish to get a new one.
 3.  **The powers I have been granted displease me, I wish for new. -** Reroll your [Resonance](Resonance.md), obtaining a new one, at the cost of receiving the Tarnished flaw, which increase the cooldown of your Resonance.
 4.  \[End Dialogue\]

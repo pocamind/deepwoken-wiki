@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 11655
+revid: 11855
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -17,7 +17,7 @@ _Also known as Sea Monkey, Gorilla, and Monke. Monky._
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
-Being killed/gripped by Primadon will directly send you to [The Depths](The_Depths.md), no matter your life count.
+Being killed/gripped by Primadon can, but will not always, directly send you to [The Depths](The_Depths.md), no matter your life count.
 
 ## Attacks
 

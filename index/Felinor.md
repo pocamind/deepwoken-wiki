@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 11833
+revid: 11847
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -44,7 +44,7 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
 
 ## Lore
 
-Commonly sold as slaves.
+None yet.
 
 **Strengths:**
 
@@ -52,8 +52,7 @@ Commonly sold as slaves.
 
 -   +2 Agility
 -   +2 Charisma
--   Climbs faster and higher.
--   Can get horny simp army. (Confirmed)
+-   Climbs faster and higher, especially against wood surfaces including trees.
 -   Partically not affected by "Obvious" Flaw.
     
 
@@ -66,4 +65,4 @@ Commonly sold as slaves.
 
 ## Notes
 
-When wearing earrings they appear on the cat ears.
+When wearing earrings, they appear on the cat ears.

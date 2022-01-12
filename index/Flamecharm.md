@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 11770
+revid: 11864
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
 
-The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain.
+The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain. (Skills cost 100 notes to enhance.)
 
 ## Mantras
 
@@ -41,7 +41,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Unable to move in wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
--   User is invincible during casting.
+-   User ~is~ ~invincible~ takes reduced damage and has hyper-armor during casting.
 -   Can be improved with talent _Thorns of Fire_.
 
  |
@@ -58,6 +58,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Very short cooldown.
 -   Burns target(s).
 -   Can destroy certain parts.
+-   Improved by [Multiplying Spark](Mantra_Modifiers.md#multiplying-spark).
 
  |
 |  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
@@ -70,6 +71,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
+-   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
 
  |
 |  | Fire Palm(☆) | A blast of flame. | Caster releases an eruption of fire in front of them.
@@ -83,12 +85,14 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 
 -   Pillars are briefly persistent.
 -   Deals damage.
+-   Second pillar knocks enemies and ragdolls them briefly.
 
  |
 |  | Fire Forge (☆) | Toss a nimble dagger. | User swipes their weapon to launch three throwing stars.
 
 -   Deal light damage.
 -   Burns target(s).
+-   Breaks certain tiles (Hidden village door, glider cave planks).
 
  |
 |  | Fire Blade (☆) | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
@@ -128,6 +132,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Heals the caster.
 -   Ignites nearby campfire pits.
 -   Ritual casting.
+-   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone).
 
  |
 |  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
@@ -140,7 +145,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
  |
 |  | Flame of Denial | Undying flame. | Caster animation description placeholder
 
--   Prevents the user from being knocked for 60 seconds if damage isn't substantial.
+-   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon recieving lethal damage)
 
  |
 
@@ -163,7 +168,7 @@ These talents are unique to their element and _may_ have no category.
 
 Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
 
-Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70.
+Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance.
 
 Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
 

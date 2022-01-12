@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11807
+revid: 11840
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -69,6 +69,8 @@ Note 4: Power level + drowned stat = trial power (ex: power 30 + 12 drowned = 42
 
 ## Farming in The Depths
 
+**Talents**
+
 The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are Talents you may want to consider acquiring before heading down to The Depths that will aid in your sustained survival in one of the most trecharous areas in Deepwoken:
 
 -   _**Carnivore**_, the Talent apart of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Strength** or **Fortitude** (most likely Strength).
@@ -79,6 +81,18 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 -   **_Blind Seer Oath_**, an Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths for very long periods of time.
 -   **% Damage Up**, armor with stat modifiers (Ascended, Enlightened, etc.) usually have a form of % damage bonus against certain enemy types such as Giant, Sea, or Deep. Having a high total percent against Depths beasts will be useful.
+
+_**Tips and Tricks**_
+
+Just a bag of information to keep in mind and remember
+
+-   **_[Insanities](Insanity.md)_** will be your artificial timer for how long you can stay in the depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before dying. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
+    -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). Those basically allow you to stay forever in The Depths, as sitting near a campfire restore sanity. Remember that Lockers in the Diver Camp and Castle Light do not restore sanity.
+    -   Hearthening potions, made with Bluecaps, restore sanity. They are easy to make and even with low intelligence stat, still provide a decent amount of sanity.
+-   _**Corrupted Monsters**_ are where the juiciest part of Depths Farming gets. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterpart but have 3x HP and 2x damage. These grant chest with super high tier loot, possibly endgame tier and [Luck](Luck.md) when defeated
+-   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
+-   The inability to create campfire means that healing methods are limited. Beside killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to bring _**healing potions**_.
+-   Consider bringing _**elemental stones**_. The lack of campfire mean that you will often be low on reservoir.
 
 ## Quests (incomplete)
 

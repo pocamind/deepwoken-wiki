@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 11777
+revid: 11869
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oaths
@@ -125,3 +125,6 @@ Image of the card
 
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.
+-   The Oath below in the picture is a hidden oath. It's still unknown how to get it but only one player got it suddenly while he's playing. ( I got the picture from his stream ).  
+    
+    File:Hidden oath.png

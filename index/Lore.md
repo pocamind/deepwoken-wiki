@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 11832
+revid: 11852
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -139,13 +139,16 @@ An Etrean Guard, part of the Nation of Etrea
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 -   Presumably connected to the galebreathe attunement, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (galebreathe exclusive) make mention of the vigils.
 
-### People of Navae
+### The Navaen Nomads
 
 -   **Territory:** _N/A_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Ministry, The Contractors, Summer Company_
+
+-   A Tribe that consists of Gremor, whom worship the goddess(?) Navae.
+-   Not much more is known for the Navaen Tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
 
 ### Bandits
 
@@ -155,8 +158,16 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Old Stewards
 
--   An organization that preserves whats left before the tides came; practically Historians.
+-   An organization that preserves what's left before the tides came; practically Historians. They are not to be confused by The Pathfinders.
 -   Only mentioned by [Bookkeeper Andros](Bookkeeper_Andros.md), not able to be found ingame yet.
+-   It is presumed that The Old Stewards created The Old Texts; and was active until the Tides came.
+
+### The Pathfinders
+
+-   A group consisting mostly explorers, historians and the likes. The Pathfinders are a lesser version of The Old Stewards, what's left it.
+-   Pathfinders tells the tales of men; about their achievements and resolve. These tales can be listened when encountering The Pathfinder Teachers throughout Erisia Island.
+    -   Willpower talks of a man whom slain a beast, and how his victory inspired others to fight back their fears.  
+        
 
 ### The Legion
 
@@ -164,6 +175,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_
 -   **Enemies:** _The Central Authority_
+
 -   A Military Organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
@@ -176,9 +188,9 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** _Unknown (Presumably Aratel Island)_
 -   **Encountered In**: _Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   Strangely, there seem to be no Galebreath songseekers.
--   A colony of Tribesmen that worship the Song. Known as Masters of the Elements.
--   They all wear colored masks which match the element they use. They learn only Martial Arts and Attunements.
+
+-   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
+-   Strangely, there seem to be no Galebreathe Songseekers.
 
 ### Summer Company
 
@@ -221,7 +233,7 @@ A Dark Mage, located in Minityrsa.
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
 
-  
+(Placeholder)  
 
 ### The Ignition Union
 
@@ -281,8 +293,11 @@ A Peacekeeper Grunt, part of The Authority
 -   The Golden Warriors are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
 -   In encounters, the Golden Warrior politely asks the player to only fight him to the death in a 1v1, and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
 -   Their "FOB" is located in The Rat's Den, within Burning Stone Gardens of [Erisia Island](Erisia.md). They can also be encountered anywhere in that island.
-    -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Warriors seek glory through combat, the Den is going to be a mess.  
-        
+    -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Warriors seek glory through combat, the Den is going to be a mess.
+
+Golden Warrior Bouncer, located outside of Rat's Den.
+
+  
 
 ### [Krulians](Krulian.md)
 

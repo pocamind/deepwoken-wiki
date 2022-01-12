@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11636
+revid: 11863
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -315,7 +315,7 @@ Hand of Mantra Cards
 ### Inferno
 
 -   Pleeksty's Will \[Generic Talent, Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Prerequisites: Complete "Flamecharmer Ploom" Quest in Etris.
+    -   Prerequisites: Complete "Flamecharmer Ploom" Quest in Etris **OR** ~40 Flamecharm
 -   Agitating Spark \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
 -   All - Consuming Flame \[Generic Talent, Common Talent\] - Your flames will incinerate unconscious Targets much faster.
 -   Corpse Explosion \[Generic Talent, Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
@@ -327,7 +327,7 @@ Hand of Mantra Cards
 
 ### Immolator
 
--   Phoenix Flames \[Generic Talent, Flamecharm Exclusive, Common Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+4 Health, +2 Elemental Intensity)
+-   Phoenix Flames \[Generic Talent, Flamecharm Exclusive, Legendary Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+4 Health, +2 Elemental Intensity)
 -   Immolator \[Generic Talent, Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity)
 
 ### Innate (Racial Talents)
