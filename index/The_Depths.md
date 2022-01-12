@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11509
+revid: 11694
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -54,8 +54,8 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | Level | Possible Enemies |
 | --- | --- |
 | 1-7 | N/A - You escape without fighting a monster |
-| 8-19 | Mudskipper Assassin |
-| 20-30 | [Angels](Hollow_Angel.md) |
+| 8-18 | Mudskipper Assassin |
+| 19-30 | [Angels](Hollow_Angel.md) |
 | 30+ | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
 | 45-47+ | [Enforcer](Enforcer.md) |
 

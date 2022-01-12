@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11671
+revid: 11774
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -83,20 +83,20 @@ Will have an effect upon hitting something.
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
   <td><div><p>Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
-  <td><div><p>Increases M1 stun, visualized by the lightning shock. In the rain, every M1 connection will summon a bolt of lighting on the opponent, increasing damage by approximately 1.4% (?)</p>
+  <td><div><p>Increases M1 stun and damage by around 50%, visualized by a purple lightning after-shock. In the rain, every M1 connection will summon a bolt of lighting on the opponent, increasing damage by approximately 1.4% (?)</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Increases M1 speed. The hard visibility of the weapon can be used to your advantage, as the range will remain unknown to your opponent.</p>
+  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Increases M1 speed. The hard visibility of the weapon can be used to your advantage, as the range will remain unknown to your opponent. (Most likely a reference to Saber from Fate.)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -269,7 +269,7 @@ Drowned
 
  | 
 
-The user is granted 2x damage when in the depths.
+~The user is granted 2x damage when in the depths.~ I tested it on players with and without armor enchanted with drowned and also tested how many hits it took to kill mobs with and without the armor. It was always the same. Whatever it does, it isn't damage related in depths.
 
   
 
@@ -314,3 +314,4 @@ Credits to the people who made this page better:
 -   me
 -   TotallyADuck
 -   Moixme
+-   PlxlPug

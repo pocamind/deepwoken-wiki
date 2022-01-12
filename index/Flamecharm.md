@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 10943
+revid: 11770
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -55,7 +55,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 |  | Fire Gun | A bullet of flames shot through each hand. | User readies and propels two balls of fire from their hands.
 
 -   Deals light damage.
--   Small cooldown.
+-   Very short cooldown.
 -   Burns target(s).
 -   Can destroy certain parts.
 

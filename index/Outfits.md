@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11682
+revid: 11745
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -28,7 +28,7 @@ To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Dependin
 
 Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
 
-## input roblox chest Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).Outs
+## Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).
 
 File:Outfits List.png
 
@@ -75,7 +75,7 @@ Skeptic Pioneer
 
 +8% Physical Armor
 
-_Talent: Apothecary_
+_Talent: Apothecary (beneficial effect of potions you drink are more potent)_
 
  |
 | 
@@ -216,7 +216,7 @@ x10 Iron
 
 +10% Shadow Armor
 
-_Talent: Now You See Me_
+_Talent: Now You See Me (increased stealth while crouching)_
 
  |
 | 
@@ -264,7 +264,7 @@ x5 Iron
 
 +10% Slash Armor
 
-_Talent: Hunter_
+_Talent: Hunter (improve [Monsters](Monsters.md) loot table)_
 
  |
 | 
@@ -283,7 +283,7 @@ x4 Iron
 
 +10% Blunt Armor
 
-_Talent: Paired Soul_
+_Talent: Paired Soul (increase damage dealt by the katana and shaterred katana)_
 
  |
 | 
@@ -359,7 +359,7 @@ x2 Iron
 
 +25% Fire Armor
 
-_Talent: Intrepid Flame_
+_Talent: Intrepid Flame (fire last half as long on yourself)_
 
  |
 | 
@@ -384,7 +384,7 @@ x10 Iron
 
 +25% Shadow Armor
 
-_Talent: Armor Piercing_
+_Talent: Armor Piercing (guns have 50% PENetration)_
 
  |
 | 
@@ -405,8 +405,6 @@ Power Level 15
 
  | +10% Elemental Armor
 
-+Talent: Now You See Me
-
 +1600 Durability
 
 +15% Physical Armor
@@ -414,6 +412,8 @@ Power Level 15
 +10% Slash Armor
 
 +15% Fire Armor
+
+_Talent: Now You See Me (increased stealth while crouching)_
 
  |
 | 
@@ -513,7 +513,7 @@ x1 Strange Claw
 
 +25% Elemental Armor
 
-_Talent: Unbreakable_
+_Talent: Unbreakable (disable the stun of getting block broken)_
 
  |
 | 
@@ -646,7 +646,7 @@ x1 Rock
 
 +5% Blunt Armor
 
-_Talent: Now You See Me_
+_Talent: Now You See Me (increased stealth while crouching)_
 
  |
 | 
@@ -694,7 +694,7 @@ x1 Vibrant Gem
 
 +25% Shadow Armour
 
-_Talent: Paired Soul_
+_Talent: Paired Soul (increase damage dealt by Katana and Shattered Katana)_
 
  |
 
@@ -735,7 +735,7 @@ x1000 Notes
 
 +100% Ether Regen
 
-+Talent: Centurion's Resolve
+_Talent: Centurion's Resolve (Legion kata deal 15% more damage)_
 
  |
 | 
@@ -988,6 +988,9 @@ File:Golden Cape.png
  | Black Scarf |  |  |
 | 
 
+ | Tundra Scarf | Grants a random buff |  |
+| 
+
  | White Scarf |  |  |
 | 
 
@@ -1063,8 +1066,6 @@ File:Aristocrat Coat.png
 
  | Aristocrat Coat | Placeholder | Chests |
 | 
-
-186.465x186.465px
 
  | Ranger's Brace | +10 Ether
 
@@ -1152,11 +1153,7 @@ Can be sold for 10 Notes.
 
  | Old Ring | Placeholder |  |
 |   
-File:Purifyingring.PNG
-
-  
-
- | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
+File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
 | 
 
  | Heavy Hands Ring | Reduces M1 speed for increased posture damage. | Depths Chests |

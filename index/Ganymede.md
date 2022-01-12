@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 11109
+revid: 11692
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -47,7 +47,7 @@ Template:Races-Main
 
 ## Lore
 
-to be discoverd
+to be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have the same last names.
 
 **Strengths:**
 

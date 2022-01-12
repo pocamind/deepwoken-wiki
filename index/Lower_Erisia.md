@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 10524
+revid: 11705
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,11 +29,11 @@ Similar to the camp event, but 3 Bandits will spawn on top of you. Killing these
 
 3 Etrean Knights and 3 Adretian Footsoldiers will start fighting using basic Galebreath and Thundercall Mantras. Authority members will always be hostile to you, unless you have unlocked the charisma talent that makes people think more highly of you. Each side has a small chance to drop a Galestone or a Spark Gland respectively, and Officer Notes can drop from the Adrets.
 
-###### Mudskippers
+###### [Mudskippers](Mudskipper.md)
 
 On the way to Pathfinders Sanctuary there is a chance of an event occuring that spawns 9 mudskippers on the ledges of the cave.
 
-###### Magical Mudskippers
+###### Magical [Mudskippers](Mudskipper.md)
 
 Random event that sees 9 mudskipper pop out of the ground in batches of 3. These conniving coral creatures can be given the Galebreath Mantra. Detonate once gripped.
 

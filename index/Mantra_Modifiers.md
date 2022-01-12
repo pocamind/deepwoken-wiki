@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11611
+revid: 11695
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -168,6 +168,8 @@ Flame Blind
  | Blast Spark | Lightning Clones
 
 Shadow Gun
+
+Frost Grab (No Effect)
 
  | Applies "Explosion" to compatible Mantra. |
 | 

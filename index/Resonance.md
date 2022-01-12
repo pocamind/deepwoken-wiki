@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11635
+revid: 11739
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -59,8 +59,6 @@ _Hit Reflection showcased by Bracting._
 
 ### **Full Counter**
 
-#### Effects:
-
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
     -   Version 1: The ability is activated when using the Resonance.
@@ -74,8 +72,6 @@ Probably variant 2 of full counter
 
 ### **Run It Back**
 
-#### Effects:
-
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
 
@@ -87,15 +83,11 @@ Phoenix fire effect
 
 ### **Wind-up**
 
-#### Effects:
-
 -   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
 
 ### **Distortion Portal**
-
-#### Effects:
 
 -   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside the user.
 -   Activating the ability while in The Distortion Realm let you visualize where you will appear in the game world. Activating the ability while the visualization is on transports the player and create another portal for people to follow them.
@@ -103,8 +95,6 @@ Phoenix fire effect
 -   Each steps in The Distortion Realm is roughly 5 steps in the game map.
 
 ### **Sacred Field**
-
-#### Effects:
 
 -   Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense.
     -   Version 1: Grant high defense toward physical attacks.
@@ -116,15 +106,11 @@ File:God's Will Showcase.mp4
 
 ### **Reaper**
 
-#### Effects:
-
 -   Activating your resonance will cause an area to appear below you, insta-gripping anyone that is knocked close to you, restoring your health.
 
   
 
 ### **Soul Weapon Summoning (aka. Crazy Slot)**
-
-#### Effects:
 
 -   On activation, call forth a randomly chosen weapon.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
@@ -196,7 +182,7 @@ File:God's Will Showcase.mp4
 
 ### **Portal Travel**
 
-#### Effects:
+  
 
 -   Upon activation, the player enters a white portal that only they can go through.
 -   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
@@ -209,8 +195,6 @@ File:God's Will Showcase.mp4
   
 
 ### **Soul Jar**
-
-#### Effects:
 
 -   Upon killing a player or NPC around your level, you absorb their soul.
 -   Having a soul allows you to hold a beam which deals high damage over time.

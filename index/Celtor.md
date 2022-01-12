@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 11216
+revid: 11749
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -73,6 +73,26 @@ Seaborne
 ## Weaknesses
 
 cant eat garbage
+
+**Surnames:**
+
+## Surnames
+
+-   Baranof
+-   Golbor
+-   Kalashor
+-   Kavinel
+-   Kotof
+-   Pavel
+-   Sokel
+-   Bykof
+-   Ivanel
+-   Kalinof
+-   Kernel
+-   Olof
+-   Petrof
+-   Sokolof
+    
 
 ## Notes/Trivia
 

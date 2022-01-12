@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 11663
+revid: 11772
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -71,7 +71,7 @@ Strike (☆)
 -   Strikes a total of 7 times, but can be cancelled by cursor movement or user damage.
 
  |
-|  | Thunder Kick (☆) | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
+|  | Lightning Kick (☆) | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
 
 -   This can be upgraded with a Talent card.
 
@@ -140,38 +140,39 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 **Uncategorized:**
 
-These talents have no category or their category is unknown.
+Certain talents have no category or their category is unknown.
 
-| Image | Spell | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | +Buff Placeholder |
-|  | Discovery Of Fire | Flints and Flamecharm are for simpletons. | +Buff Placeholder |
+| Image | Spell | Card Description | Effect | Category |
+| --- | --- | --- | --- | --- |
+|  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | +Buff Placeholder | Stormblade |
+|  | Discovery Of Fire | Flints and Flamecharm are for simpletons. | +Buff Placeholder | Thundercaller |
 |  | Stratoshock | Your lightning deals more damage when in the rain. | +4 Elemental Intensity  
-+3 Health |
++3 Health | Thundercaller |
 |  | Jolt Cast | Every 3 perfect casted lightning mantra builds a stack. At 3 stacks, your next lightning mantra is an instant cast. | +7 Carry Load  
-+2 Elemental Intensity |
++2 Elemental Intensity | ??? |
 |  | Volt Kick | After landing a lightning kick successfully, press F to followup on your opponent with a less potent kick. | _Upgrades Lightning Kick._  
-+Buff Placeholder |
-|  | Grand Skewer | Your _**Grand Javelin**_ now carries opponents through the air. | +Buff Placeholder |
-|  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking or parrying hits will now generate an electric charge in your blade. granting a small speed buff. Charges can stack up to 10 times. | +Buff Placeholder |
++Buff Placeholder | ??? |
+|  | Grand Skewer | Your _**Grand Javelin**_ now carries opponents through the air. | +3 Elemental Intensity  
++1 Health | Javelin Lord |
+|  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking or parrying hits will now generate an electric charge in your blade. granting a small speed buff. Charges can stack up to 10 times. | +Buff Placeholder | Thunderblade |
 |  | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges automatically consumes the stacks and applies a lightning buff to your weapon. 60 second cooldown | +10 Carry Load  
 +1 Passive Agility  
-+2 Health |
-|  | Static Withdraw | After being knocked, if someone tries to carry you for the first time you get knocked, release a static charge to damage them. | +Buff Placeholder |
-|  | Jumpstart (Static Withdraw Upgrade) | Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage, and damage taken. | +Buff Placeholder |
-|  | Raging Static (Jumpstart Upgrade) | Your jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered and this also lowers your cooldown on Jumpstart. | \+ Buff Placeholder |
++2 Health | ??? |
+|  | Static Withdraw | After being knocked, if someone tries to carry you for the first time you get knocked, release a static charge to damage them. | +Buff Placeholder | Thundercaller |
+|  | Jumpstart (Static Withdraw Upgrade) | Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage, and damage taken. | +Buff Placeholder | Self-Shocker |
+|  | Raging Static (Jumpstart Upgrade) | Your jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered and this also lowers your cooldown on Jumpstart. | \+ Buff Placeholder | Self-Shocker |
 |  | Static Link | Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. | +8 Reservoir  
 +4 Elemental Intensity  
-+1 Health |
++1 Health | Static Weaver |
 |  | Jumper Cables | Getting knocked with an active tether allows you to steal health from tethered target and not get knocked. | _Upgrades Static Link._  
 +1 Ether  
 +5 Resevoir  
-+2 Health |
-|  | Kickstart | Play the resurrector. Use your lightning to defibrillate your allies on the battefield | +Buff Placeholder |
++2 Health | Static Weaver |
+|  | Kickstart | Play the resurrector. Use your lightning to defibrillate your allies on the battefield | +Buff Placeholder | ??? |
 |  | Static Allure | Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increasees the dureaction of tethers by 15 seconds |   
 +1 Ether  
 +5 Reservior  
-+2 Health |
++2 Health | Static Weaver |
 
 ## Trivia/Notes
 
