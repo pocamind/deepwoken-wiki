@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 12012
+revid: 12060
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -57,7 +57,7 @@ Currently known debuffs - Insanity on use, health loss on use, set on fire when 
 
 ## Known Resonance Abilities
 
-_Hit Reflection showcased by Bracting._
+Hit Reflection showcased by Bracting.
 
 ### **Full Counter**
 
@@ -72,7 +72,7 @@ Probably variant 2 of full counter
 
   
 
-### **Run It Back**
+### **Phoenix**
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
@@ -206,12 +206,21 @@ File:God's Will Showcase.mp4
 
   
 
+File:TravelMedalRing.png
+
+A group of players standing within the travel radius.
+
 ### **Waypoint Transmission (aka. Travel Medallion)**
 
+File:TravelMedalMarker.png
+
+The grey circle represents a placed marker.
+
 -   On first use, the user will place an invisible mark anywhere that they can see, including on another player.
--   This mark will persist on that spot indefinitely, even between servers, & the users death.
+-   This mark will persist on that spot indefinitely, even between servers, & the user's death.
     -   A marker placed on another player will expire if the marked player leaves the server.
 -   On second use, and when aiming their cursor at a mark, a small glowing ring will be made around the user, visually similar to Sacred Field.
 -   After a windup decided by how far away the chosen mark is, all humanoid entities within the ring will begin to quickly fly towards the mark, in the same way the Hive Wells work.
 -   Notes:
     -   I do not have this resonance. All information listed here is from [this video](https://youtu.be/aZ2W-L4QazA), all credit goes to Jenkz and Juniorr, who made the video, and who has the bell, respectively.
+    -   This bell is likely very rare, as we have seen few clips of people with it.

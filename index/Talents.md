@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11999
+revid: 12051
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -142,6 +142,7 @@ Hand of Mantra Cards
 -   Berserker \[Generic Talent, Common Talent\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
 -   Battle Tendency \[Generic Talent, Common Talent\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
 -   Firmly Planted \[Generic Talent, Common Talent\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
+-   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
 
 ### Beast Slayer
 
@@ -559,7 +560,7 @@ Hand of Mantra Cards
 ### Vow of Mastery
 
 -   Vow of Mastery \[Generic Talent, Common Talent\] - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (+1 Ether, +1 Health)
-    -   Prerequisites: Charisma (around level 20 \[Whoever got this at 20, I can confirm. )
+    -   Prerequisites: 20 Charisma
     -   Commands Given: "Sleep", "Drop (Item)", "Eat (Item)", "Say (Text)", "Use (Weapon Name)"
 
 -   Command: Run \[Generic Talent, 35 Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)

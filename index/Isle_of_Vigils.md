@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 11480
+revid: 12059
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,9 +27,9 @@ An Island that houses the Vigil Guard and the Temple of the Blade. One of the tw
 
 ## Quests
 
-### Main Page: [Quests](Quests.md)
+Main Page: [Quests](Quests.md)
 
-#### Lance's Brother Quest
+### Lance's Brother Quest
 
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
 -   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
@@ -79,3 +79,9 @@ _You must have a galestone in order to complete the quest._
 -   Lance's Brother will say that his own mother doesn't know his name and if you talk to Lance on Etris he will say he doesn't have a brother
 -   If you drop the food crate while running, You will get stuck in the box until you pick it back up.
     -   If you do this after jumping off of a short ledge (ex. the table that Lance's brother stands behind) before doing this, you can fly.
+
+Joining the vigils:
+
+~Though it is unknown how, many people have found out how to talk to Stratos and be possibly trained by him. I personally have talked to Stratos with 100 medium weapon, decent rep, high gale breathe and decent willpower. Stratos said that I needed to "feel the essence of the wind". Implying to join / be trained by the vigils, there is a gale breathe requirement of above 75, a possible rep and medium weapon requirement.~
+
+Stratos will talk to you upon acquiring decent reputation, without any (currently notable) stat requirements. On the other hand, the "feel the essence of the wind" dialogue is currently the furthest I have seen reached (requirements currently unknown).

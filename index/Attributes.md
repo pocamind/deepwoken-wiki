@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 12011
+revid: 12044
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -32,7 +32,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 “ My right arm is a lot stronger than my left arm! ”
 
-― Felinor Lifting A Dumbell
+― Tryndamere
 
   
 

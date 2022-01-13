@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 10734
+revid: 12021
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -30,7 +30,7 @@ Mindless enemies that sprouts out of the ground to surprise Players. They lack i
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color coded armor, and the ability to use Flamecharm and Frostdraw.
     -   **Flamecharm Necro-Skipper** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
     -   **Frostdraw Necro-Skipper** - Summons 4 ice swords that will spin around it, damaging anyone in range. Wears blue armor.
--   **Swordsman Mudskipper** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 5 - 19. Their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
+-   **Swordsman Mudskipper** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 10 - 19. Their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
 
 ## Tips
 

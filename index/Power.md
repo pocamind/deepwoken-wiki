@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 9307
+revid: 12048
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,7 +8,7 @@ categories: [Mechanics]
 
 # Power
 
-Power, or Level, is the levelling mechanic of Deepwoken that enables players to increase their stats as well as unlock new talents, mantras, and select an oath.
+Power or Level, is the levelling mechanic of Deepwoken that enables players to increase their stats as well as unlock new talents, mantras, and select an oath.
 
 An example of a player's Power and stat allotment gained through prestieging.
 

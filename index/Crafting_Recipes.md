@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 11578
+revid: 12035
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,7 +23,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 ### Non-Tool Recipes
 
 -   **Wood** - _3 Sticks_
--   **Sticks** - _1 Wood_
+-   **Sticks (3x)** - _1 Wood_
 -   [Campfire](Campfire_Pit.md) - _3 Sticks **OR** 1 Wood_
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_

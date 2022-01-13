@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 11852
+revid: 12063
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -124,6 +124,7 @@ _**Ey migi vuru?**_
 -   **Attunements:** Galebreathe
 -   **Alliances:** _Vigil of Winds (Neutral)_
 -   **Enemies:** _The Central Authority, The Hive, The Contractors_
+-   **Lore Sources:** _Etris_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority.
@@ -146,6 +147,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Ministry, The Contractors, Summer Company_
+-   **Lore Sources:**
 
 -   A Tribe that consists of Gremor, whom worship the goddess(?) Navae.
 -   Not much more is known for the Navaen Tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
@@ -159,15 +161,15 @@ An Etrean Guard, part of the Nation of Etrea
 ### The Old Stewards
 
 -   An organization that preserves what's left before the tides came; practically Historians. They are not to be confused by The Pathfinders.
--   Only mentioned by [Bookkeeper Andros](Bookkeeper_Andros.md), not able to be found ingame yet.
--   It is presumed that The Old Stewards created The Old Texts; and was active until the Tides came.
+-   The Old Stewards created The Old Texts.
+-   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
 
 ### The Pathfinders
 
--   A group consisting mostly explorers, historians and the likes. The Pathfinders are a lesser version of The Old Stewards, what's left it.
--   Pathfinders tells the tales of men; about their achievements and resolve. These tales can be listened when encountering The Pathfinder Teachers throughout Erisia Island.
-    -   Willpower talks of a man whom slain a beast, and how his victory inspired others to fight back their fears.  
-        
+-   An organization consisting mostly Explorers and Historians alike. The Pathfinder varies in the individual; either focused more in combat or exploration.
+-   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
+-   Pathfinders can share tales of stories to others, such as the inspiration of a warrior whom slain a great beast.  
+    
 
 ### The Legion
 
@@ -175,6 +177,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_
 -   **Enemies:** _The Central Authority_
+-   **Lore Sources:**
 
 -   A Military Organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
@@ -199,6 +202,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _N/A_
 -   **Alliances:** _The Central Authority (Mixed)_
 -   **Enemies:** _The Navaen Nomads, The Ignition Union, The Ministry_
+-   **Lore Sources:**
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
 -   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
@@ -218,6 +222,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Attunements:** _Shadowcast_
 -   **Alliances:** _The Contractors (Neutral)_
 -   **Enemies:** _The Navaen Nomads_
+-   **Lore Sources:**
 
 -   A group of dark mages with unknown motives. Further research is required.
 -   They warn of (and possibly bring about?) the sinking of the Overworld into [The Depths](The_Depths.md).
@@ -232,6 +237,7 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+-   **Lore Sources:**
 
 (Placeholder)  
 
@@ -242,6 +248,7 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _Summer Company_
+-   **Lore Sources:**
 
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company
 -   They've been spotted attempting to take over Diver terriotry, however their efforts have been less than successful.
@@ -253,6 +260,7 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm, Thundercall_
 -   **Alliances:** _The Depth Divers (Mixed), Summer Company (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+-   **Lore Sources:**
 
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
@@ -267,6 +275,7 @@ A Peacekeeper Grunt, part of The Authority
 -   **Attunements:** _Unknown_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea_
+-   **Lore Sources:**
 
 -   A group of Individuals; mostly Vesperian and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
 -   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
@@ -289,6 +298,7 @@ A Peacekeeper Grunt, part of The Authority
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _N/A_
 -   **Enemies:** _N/A_
+-   **Lore Sources:**
 
 -   The Golden Warriors are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
 -   In encounters, the Golden Warrior politely asks the player to only fight him to the death in a 1v1, and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
@@ -305,6 +315,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunements:** _Thundercall?_
 -   **Alliances:** None
 -   **Enemies:** _None_
+-   **Lore Sources:**
+
 -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
 -   Claim to be a link between surface dwellers and "The Gods Below"
 -   Also claims to be the next step in evolution
@@ -336,18 +348,26 @@ Some Galebreathe lore is on WhiteWarbler's Youtube, "The Aberrant Archive"
 
 ### City of Celtor
 
+**Lore Sources:**
+
 -   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
 -   It is unknown what purpose the cathedrel would have served in a time before the tides, or if it even existed.
 
 ### Life before the Tides
 
+**Lore Sources:**
+
 -   There was once Land Animals in Deepwoken, both Domestic, Predator and Livestock alike before the Tides.
 
 ### The Old Texts
 
+**Lore Sources:**
+
 -   An assortment of History written in glyphs or in books. It is unknown if it can be found in the world of Deepwoken, but NPCs managed to discover them.
 
 #### The Origin of Adrets
+
+**Lore Sources:**
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc). This seems to be many races main point of contention with them, viewing them as alien.
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
@@ -359,15 +379,21 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Great Drowning
 
+**Lore Sources:**
+
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
 -   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met. (Climate Change?)
 
 ### Ancestors of Ganymedes & Vesperians
 
+**Lore Sources:**
+
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present in Year 1271, they still work together as The Hive.
 
 ### Lightkeepers
+
+**Lore Sources:**
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light; using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
@@ -378,6 +404,8 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Kingdom of Etrea's Past Rulers
 
+**Lore Sources:**
+
 -   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
 -   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However during The Lord Regent's ruling the Office was suspended.
 -   The pillar that house 4 statues near Etris, are presumably the Past Rulers.
@@ -385,10 +413,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Driftlands
 
+**Lore Sources:**
+
 -   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
 -   Driftlands have experienced a sort of Time Stasis during their time in the Voidsea, but have returned back to the Luminant.
 
 ### Resonance Bells
+
+**Lore Sources:**
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will rekindle once again to the bells of the deep.

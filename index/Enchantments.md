@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11955
+revid: 12062
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -182,6 +182,8 @@ Will have an effect upon getting hit.
 | **Name** | **Description** |
 | --- | --- |
 | 
+File:Screenshot 1.png
+
 Entanglement
 
  | 
@@ -192,6 +194,8 @@ Upon getting hit, it has a chance of summoning a tree in front of you. Has a dam
 
  |
 | 
+
+File:AllureEnchant.png
 
 Allure
 
@@ -273,7 +277,7 @@ Drowned
 
  | 
 
-The user gains a buff in The Depths on the armor, the enchant is on.
+The user gains a buff in The Depths on the armor, the enchant is on. tbh no one knows what it does
 
   
 
@@ -319,3 +323,4 @@ Credits to the people who made this page better:
 -   TotallyADuck
 -   Moixme
 -   PlxlPug
+-   Xxr3ygunxX

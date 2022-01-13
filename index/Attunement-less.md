@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 11427
+revid: 12043
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -56,7 +56,7 @@ Attunement-less mantras so far consist of mantras that are chosen based of your 
 
 **Gaze -** An ability where you stare at them and make them go insane (Requirement: 25 Willpower, Support Mantra)
 
-**Exhaustion Strike-** A melee strike that once performed removes your posture's damage (Requirement: Willpower, Combat Mantra)
+**Exhaustion Strike-** A melee strike that once performed removes your posture's damage (Requirement: 40 Willpower, Combat Mantra)
 
   
 

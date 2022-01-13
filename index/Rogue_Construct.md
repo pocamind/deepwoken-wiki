@@ -1,10 +1,13 @@
 ---
 title: Rogue Construct
-revid: 11673
+revid: 12033
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Rogue Construct
 
-Spawns on top of the glacier located at minityrsa and is NOT worth your time as it doesn't drop a chest like the hive construct and is very very powerful
+Spawns on top of the glacier located at minityrsa and is NOT worth your time as it doesn't drop a chest like the hive construct and is very very powerful.
+
+  
+Luring a [Snow Knight](Stone_Knight.md) to this monster will get its hp down so you can more easily farm hero blades.

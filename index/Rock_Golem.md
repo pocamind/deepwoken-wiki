@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 11906
+revid: 12037
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,28 +10,29 @@ categories: [Monsters]
 
 Template:Creature Infobox V3
 
-_Also known as Golems, Spinners, and Hugo._
+_Also known as Golems, Spinners, and Hugo. Rock Golems are The Duke's Creations, meant to protect Erisia Island._
 
 _"Ive fought Golems from Rogue! This will be easy!" - Long dead person._
 
 ## Description
 
-Only spawn in burning Stone Gardens in Upper Erisia but can fall down into lower Erisia. Seen after Sharkos and Crabs (They also sometimes spawn together and fight). These big guys are slow and relatively easy to fight if you know what you're doing.
+Rock Golems spawn naturally in Erisia Island, mostly in Upper Erisia, Burning Stone Gardens and Garden Reservoir. The black variant of Rock Golems are exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
 
 They generally can tank a lot of damage while dealing it, The best strategy is to stay at a bit of distance and constantly parry the spin while dodging the big punch, parrying the other moves it throws at you.
 
 ## Moves
 
--   **Beyblade** - The golem will start charging up his torso in a spinning matter and walk towards a player.
--   **Consecutive Shots** - The golem will charge up beams that he releases one after another. This attack does an ok amount of damage per shot, and it can be prolled but im not sure if you can parry it.
+-   **Beyblade** - The Golem will start charging up his torso in a spinning matter and walk towards a player.
+-   **Laser Beam** - The Golem charges up a white beam; and discharges upon their target. Can be dodged or parried.
+    -   **Red Beam (Black Variant)** - The Black Golem charges up a red-hot beam, and discharges at the target multiple times.
 -   **Rock Uppercut** - Similar to Sharko's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away.
--   **Foot Stomp** - The golem will slam down his foot and attack. This move is blockable and parryable.
--   **Angered Scream** - The golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)
--   **Rock Sledgemhammer** -The golem puts their 2 arms together and swing them into the ground as an alternate melee move; Parriable.
+-   **Foot Stomp** - The Golem will slam down his foot and attack. This move is blockable and parryable.
+-   **Angered Scream** - The Golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)
+-   **Rock Sledgemhammer** -The Golem puts their 2 arms together and swing them into the ground as an alternate melee move; Parriable.
 
 ### Finisher
 
--   **Angry Stomp** - The golem will slam down his foot and kill those hit by it if knocked.
+-   **Angry Stomp** - The Golem will slam down his foot and kill those hit by it if knocked.
 
 **Passives**
 

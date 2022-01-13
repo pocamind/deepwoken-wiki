@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 11953
+revid: 12031
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, NPC]
@@ -29,6 +29,6 @@ After the first line of dialogue is finished, Yun'Shul will speak to the player,
 4 wishes are available:
 
 1.  **The trials ahead of me fill me with trepidation, I wish to escape this place. -** Choosing this allows the player to instantly escape The Depths.
-2.  **My Flaws weight me down too much, I wish for relief. -** This option will clear the player's [Oath](Oaths.md), if they ever wish to get a new one.
+2.  **My Flaws weight me down too much, I wish for relief. -** This option will clear the player's flaws, including tarnished (however I'm not sure if you can choose this option if you have tarnished since you need to use your wish for that?)
 3.  **The powers I have been granted displease me, I wish for new. -** Reroll your [Resonance](Resonance.md) at the cost of receiving the Tarnished flaw which increases the cooldown of your Resonance.
-4.  **The Vows I made give me much regret, I wish to break. -** _(please fill this up if you happen to know, I speculate it just breaks the vow of mastery with every player you have made it)_
+4.  **The Vows I made give me much regret, I wish to break. -** This option removes the current oath the player has

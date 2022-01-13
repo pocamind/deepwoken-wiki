@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 11933
+revid: 12034
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -11,6 +11,10 @@ categories: [Pages with broken file links, Monsters]
 ## Snow Knight
 
 Exclusive to the Winter season.
+
+Killing two of these monsters in the winter will spawn a chest that has a guarantee drop of a [hero's blade](Hero_Blades.md). The element of the blade is random.
+
+-   To make it easier to kill these, you can lure them to the [Rogue Construct](Rogue_Construct.md) that is next to the [valley of heroes](The_Valley_of_Heroes.md), and the two will fight.
 
 Template:Creature Info Box v2
 
