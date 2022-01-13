@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 8320
+revid: 11950
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ A secret temple hidden inside a cliff in [The Depths](The_Depths.md). An ancient
 
 Going through will lead into an altar with Yun'shul, a mysterious, eldritch entity who appears to be bound in the room.
 
-Yun'Shul can be inspected, and if you're level 10 and have obtained your resonance, you can choose one out of four wishes from Yun'Shul. ([More info here](Oaths.md).)
+Yun'Shul can be inspected, and if you're level 10 and have obtained your resonance, you can choose one out of four wishes from Yun'Shul. ([More info here](Oaths.md).) (Can somebody put a screenshot of the wishes here?)
 
 ## Monsters/Enemies
 
@@ -28,5 +28,5 @@ Yun'Shul
 ## Notes/Trivia
 
 -   Only accesible by having a bell.
--   Talking to Yun'Shul will instant kill(?).
+-   Talking to Yun'Shul will instant kill the player if they do not have a resonance/bell.
 -   Similar to Monad Studio's previous game, Rogue Lineage's "Ya'alda," ~being a Tenebrae of some sort.~ Rogue Lineage and Deepwoken are not connected.

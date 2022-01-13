@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 11809
+revid: 11992
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -28,7 +28,7 @@ When walking into the aforementioned feathers, the owl will emerge and prompt th
 
 _**Legacy Description**_
 
-Giant gatekeeping Owl, drops Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across ~Upper Erisia~ **everywhere**, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
+Giant gatekeeping Owl, drops Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across most places, especially Upper Erisia. It does not spawn on Lower Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
 
 ### Drops
 

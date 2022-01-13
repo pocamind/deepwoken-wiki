@@ -1,15 +1,17 @@
 ---
 title: Alchemy
-revid: 11918
+revid: 12006
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alchemy
 
-This page contains most of the wiki's information on Alchemy. Since the wiki is not very organised, there's some information on Recipes & Alchemy that isn't repeated here yet.
+Alchemy is the process of creating potions at a cauldron. Potions can have many different effects depending on the ingredients used, and can be drunk or thrown.
 
-A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and the effects of most potions. It is outdated in places, but a good quick reference guide for potion effects.
+The Crafting Recipes & Alchemy page contains some simple potion recipes, though some of the information is incorrect. At some point we'll update it.
+
+A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and some of the potion effects. Some of the information is technically incorrect, though it's mostly accurate, and a useful tool for inferring the exact effects of ingredients.
 
 ## Basics
 
@@ -60,48 +62,43 @@ The Apothecary and Exterminator talents both double the effects of potions when 
 
 ## Ingredients
 
-There are 23 (known) potion ingredients, though only 12 have an effect strong enough to brew potions by themselves.
+There are 23 (known) potion ingredients, though only 12 have an effect strong enough to brew named potions by themselves.
 
--   Bamboo Bundle - used to create **Appalling** potions, which drain reservoir.
-    -   When cancelled out with a Dentifilo (which restores reservoir), creates a Steadfast Salve, implying it also has a small Steadfast effect.
+All ingredients have two effects - a strong primary effect which will name the potion if used alone, and a weaker secondary effect which is always present, but will only name the potion if the primary effect is weakened by another ingredient.
 
--   Bluecap - used to create **Heartening** potions, which instantly restore sanity and reservoir when drank, and deal a small amount of damage.
+-   Bamboo Bundle - primary effect is **Appalling**, which drains reservior. Secondary effect is **Steadfast**, with an unknown effect.
+
+-   Bluecap - primary effect is **Heartening**, which instantly restores sanity. The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though it's not clear if these are part of the Heartening effect.
     -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion and which are secondary effects.
 
--   Browncap - used to create **Disgusting** potions, which deal a small amount of damage, and slightly increase damage dealt.
-    -   The damage is very small - even when brewed with every bonus they're unlikely to deal more than 5% to weaker opponents.
+-   Browncap - primary effect is **Disgusting**, which deals a small amount of damage. Secondary effect is **Strengthening**, which slightly increases damage dealt.
+    -   The damage from Disgusting is very small - even when brewed with every bonus, thrown potions are unlikely to deal more than 5% to opponents of similar strength.
     -   The secondary Strengthening effect is also very small.
 
--   Calabash - used to create **Steadfast** potions. These drain elixir when drunk, and deal a small amount of damage when thrown.
-    -   Calabash clearly have a reasonably strong Icky effect (combining a Calabash with a Redd produces a high strength Icky potion), which explains the elixir drain, but it's not clear what the Steadfast effect is doing. Perhaps damage reduction?
+-   Calabash - primary effect is **Steadfast**, which has an unknown effect. Secondary effect is **Icky**, which drains elixir for a short time.
+    -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
 
--   Dentifilo - used to create **Soothing** potions, which deal damage and restore reservoir. When thrown, deal a small amount of damage, and drains a small amount of thirst.
-    -   The damage comes from a small disgusting effect, which can be seen by brewing two browncaps with a dentifilo and a bamboo to cancel out the soothing - two browncaps make a blight, while adding the dentifilo makes it a bane.
-    -   Soothing is a strong effect which almost always names the potion, so it's hard to tell if dentifilos have other effects.
+-   Dentifilo - primary effect is **Soothing**, which restores reservoir. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
--   Gathered Wheat - primarily used to create **Dulling** potions, which decrease magical damage and drastically increases the rate reservoir is turned into ether.
-    -   Similar to Redds, the potion's effect comes from two effects - the Dulling effect reduces magical damage, while the weaker **Focus Enhancing** effect increases reservoir draw.
-    -   The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
-    -   Even after running out of reservoir, the focus enhancing effect will still increase ether regneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
+-   Gathered Wheat - primary effect is **Dulling**, which decreases mantra damage. Secondary effect is **Focus-Enhancing**, which drastically increases the rate reservoir is turned into ether.
+    -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
+    -   Even after running out of reservoir, the Focus-Enhancing effect will still increase ether regneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
 
--   Gobletto - used to create **Invigorating** potions, which give you a 10 second regeneration effect. Unknown effect when thrown - possibly a very subtle slow?
-    -   Invigorating is a very potent effect, and almost always names the potion. It can be cancelled out with multiple plumfruit, though it's unclear what is cancelling it as Strengthening then takes over as the strongest effect.
+-   Gobletto - primary effect is **Invigorating**, which give you a 10 second regeneration effect. Secondary effect is unknown.
+    -   Invigorating is a very potent effect, and almost always names the potion. It can be cancelled out with the multiple plumfruit (the only source of Grueling), though it's unclear what the secondary effect is as Strengthening then takes over as the strongest effect, naming the potion.
 
--   Ongo - used to create **Buckling** potions. Effect unknown.
-    -   When combined with a Pomar, creates a **Staggering** potion, which also has an unknown effect. Perhaps one of these increases posture damage.
+-   Ongo - primary effect is **Buckling**, which has an unknown effect but is opposite to Hastening. Secondary effect appears to be **Staggering**, which also has an unknown effect.
+    -   Some people have reported brewing Staggering potions using only Ongos instead of Buckling potions - this may be caused by only having the apothecary talent (which increases positive effects, but not negative ones), though further testing is needed.
 
--   Plumfruit - used to create **Strengthening** potions, which increase physical damage.
-    -   Plumfruit are the only ingredient which cancel out the Invigorating effect, though it's not clear why.
-    -   Has a subtle hastening effect when brewed with Sap. Unclear which ingredient the effect is coming from.
-    -   Some players report that they brewed **Grueling** Banes and Grueling Blights using the same recipes that currently produce Strengthening potions. This doesn't seem to be the case anymore - its unknown what changed.
+-   Plumfruit - primary effect is **Strengthening**, which increases physical damage. Secondary effect is **Grueling**, which has an unknown effect but probably reduces regeneration or very slowly deals damage.
+    -   Similar to Ongos, some players have reported brewing Grueling potions using only plumfruit. Probably the same cause.
 
--   Pomar - used to make **Hastening** potions, which deal a small amount of damage and give a 15 second speed boost when drunk. Unknown effect when thrown.
-    -   Secondary effect is either Staggering, or something that cancels out Buckling. Or maybe both. Alchemy is hard.
+-   Pomar - primary effect is **Hastening**, which apply a 15 second speed boost. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
--   Redd - used to make **Icky** potions, which drain elixir and instantly restore health when drunk, and drain elixir when thrown.
-    -   The elixir drain comes from the Icky effect, while the health restoration comes from the **Rejuvinating** effect, which can be seen by cancelling out the Icky with wheat.
+-   Redd - primary effect is **Icky**, which drains elixir. Secondary effect is **Rejuvinating**, which instantly restores a small amount of health.
+    -   Like Focus-Enhancing, Rejuvinating can't be brewed using only a single ingredient. The rejuvinating effect is very weak, but it is possible to brew a Rejuvinating potion using exactly three redds and one wheat.
 
--   Urchin - used to create **Mindbreaker** potions, which greatly lower sanity.
+-   Urchin - primary effect is **Mindbreaker**, which greatly lowers sanity. Secondary effect is unknown.
     -   Mindbreaker is notable for overpowering every other effect - mixing an urchin with any other ingredient always produces Mindbreaker potions. This makes it very hard to figure out if the ingredient has a secondary effect.
     -   Also notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
 
@@ -109,7 +106,7 @@ Eggs, fish meat, scallops, spider eggs, sticks and minerals (coal, iron, stone, 
 
 Alestrian Coral (found in the depths) is known to be a valid ingredient, but almost no testing with it has been done because it's hard to come by.
 
-Sap and beeswax are unique as ingredients which create Nothing Potions when used alone, but can be combined with other ingredients to change the effect of the potion.
+Sap and beeswax are unique as ingredients which create Nothing Potions when used alone, but can be combined with other ingredients to change the effect of the potion. More testing is required to figure out exactly what they do.
 
 ## Effects
 
@@ -150,7 +147,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Bluecap(?)<br>
   Browncap<br>
   Dentifilo<br>
-  Pomar(?)</td>
+  Pomar</td>
   <td>Instantly deals a small amount of damage.</td>
   <td>Opposite effect to <b>Rejuvinating</b>.<br>
   The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option.</td>
@@ -250,7 +247,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Pomar<br>
   Sap(?)</td>
   <td>Applies a 15 second speed boost.</td>
-  <td>Opposite effect is unknown, but most likely <b>Buckling</b>.</td>
+  <td>Opposite effect is <b>Buckling</b>.</td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
@@ -258,8 +255,9 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Ongo</td>
   <td>Unknown effect.<br>
-  Most likely reduces speed.</td>
-  <td>All that's known for sure about this effect is that when ongos are combined with a pomar, it produces a Staggering potion.</td>
+  Most likely reduces speed very slightly.</td>
+  <td>Opposite effect is <b>Hastening</b>.<br>
+  While it's easy to demonstrate this, it's much harder to actually figure out what the potion does, since even with three ongos you can only produce a blight.</td>
 </tr>
 <tr>
   <td><b>Staggering</b></td>
@@ -268,7 +266,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Unknown effect.<br>
   Supposedly increases posture damage dealt.</td>
   <td>Opposite effect is unknown.<br>
-  Only one recipe is known, combining Ongos with Pomars.<br>
+  Only one recipe is known, combining ongos with pomars.<br>
   <br>
   Some players report being able to brew staggering potions using only ongos, though this produces buckling potions for others.</td>
 </tr>

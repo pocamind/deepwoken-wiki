@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 11174
+revid: 11991
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -36,7 +36,7 @@ For information of Monsters, go [here](Monsters.md).
 
 ### The Ministry
 
--   Ministry Scout
+-   [Ministry Scout](Ministry_Scout.md)
 -   [Ministry Necromancer (Mudskipper-Mancer)](Ministry_Necromancer.md)
 
 ### Summer Company

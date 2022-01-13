@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 11886
+revid: 11959
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -222,7 +222,10 @@ _"You feel dizzy when you hold it."_
  | Mirage Stone | _Unknown._ | _Unknown._ |
 | 
 
- | Falseflame Stone | _Unkown._ | _Unkown._ |
+ | Falseflame Stone | Unknown. | Unknown. |
+| 
+
+ | Haunting Stone | Unknown. | Unknown, also looks identical to falseflame. |
 
 ### **Specific Effects of Sparks**
 

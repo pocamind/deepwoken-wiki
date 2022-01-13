@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11929
+revid: 11972
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -54,8 +54,8 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | Level | Possible Enemies |
 | --- | --- |
 | 1-9 | N/A - You escape without fighting a monster |
-| 10-19 | Deepknight (Bandit Leader) |
-| 20-29 | [Angels](Hollow_Angel.md) |
+| 10-18 | Deepknight (Bandit Leader) |
+| 19-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
 | 50+ (No Drowns) | [Enforcer](Enforcer.md) |
 
@@ -104,7 +104,7 @@ Just a bag of information to keep in mind and remember
 
 -   Akira, a Black Diver can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of Ignition Union goons.
     -   You can confront Akira after he killed the Ignition Union; proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue allows access to [Castle Light](Castle_Light.md).
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers.
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (???). Failing this check leads to the same fate as the Ignition Union group.
 
 ## Monsters in The Depths (incomplete)

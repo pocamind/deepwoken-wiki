@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 11132
+revid: 12008
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,31 +8,29 @@ categories: [Pages with broken file links]
 
 # Murmur
 
+File:Murmur- Ardour.png
+
+An adert using Ardour: Murmur
+
 ## Description
 
-Obtained from killing Ardour (Commonly known as Kaido) in the Void Sea.
+Murmur is a channeling of song into various abilities, called Murmurs only two are known of "Tacet" and "Ardour" gained from killing or doing
 
-Gives you a Posture Damage buff when active, along with a purple weapon trail and woosh sound effect on swing.
-
-Train this by using it. Training starts extremely slow but gets faster and faster until your able to regen ether while using it.
-
-  
+the respective quests.
 
 **You can hear whispers while the Murmur is active.**
 
 ## Murmurs & obtaining
 
 -   Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
--   Tacet: currently unknow (THIS IS A MURMUR NOT A MYTH)
+-   Tacet: currently unknown (THIS IS A MURMUR NOT A MYTH)
+-   Rythm: Speculated _(Someone said it was confirmed by a mod unknown if fact)_
 
 File:Tacet.png
 
 **proof of tacet, (devconsole warning/error)**
 
   
-
--     
-    Rythm: not a myth, currently disabled according to a mod
 
   
 
@@ -59,12 +57,6 @@ File:Tacet.png
   <td>Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)<p><br>
   [Provides +9 Sanity, +1 Posture, +3 Health]</p></td>
   <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether.</td>
-</tr>
-<tr>
-  <td><figure>File:Adagio.jpg<figcaption></figcaption></figure></td>
-  <td>Adagio</td>
-  <td>An application of the song that allows you to slow down time in a bubble around you. Press H to activate.</td>
-  <td>Slows down entities that are within your bubble. (i think atleast)</td>
 </tr>
 </tbody>
 </table>

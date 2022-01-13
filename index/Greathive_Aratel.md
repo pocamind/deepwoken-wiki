@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 11269
+revid: 11993
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -54,7 +54,7 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
 
 ### Mantra Quest
 
-Go to the Archives and talk to [Regek](Regek.md). He will prompt you to collect several Soulblooms. There are three Soulblooms near the Blacksmith, and a Red Soulbloom in the balcony of the Observatory. One completing the quest, Regek will allow you to upgrade your Mantras that relate to no Attunement.
+Go to the Archives and talk to [Regek](Regek.md). He will prompt you to collect three Soulblooms. There are two Soulblooms near the Blacksmith, and a Red Soulbloom in the balcony of the Observatory. One completing the quest, Regek will allow you to upgrade your Mantras that relate to no Attunement.
 
 ## Extra
 

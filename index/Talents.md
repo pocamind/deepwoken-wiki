@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 11930
+revid: 11999
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -366,6 +366,7 @@ Hand of Mantra Cards
     -   Prerequisites: Bloodiron Spirit (Rare talent)
 -   Thresher Claws \[Generic Talent, Rare Card\] - All of your attacks have 10% more PEN. (+9 Health)
 -   Aggressive Posture \[Generic Talent, Rare Card\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+-   Bloodletter \[Generic Talent, Rare Card\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
 
 ### Meditative Trance
 
@@ -568,7 +569,7 @@ Hand of Mantra Cards
 -   Command: Fight \[Generic Talent, 50 Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
     -   Effect: buff speed slightly and major power boost.
--   Command: Sacrifice \[Generic Talent, 60 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
+-   Command: Sacrifice \[Generic Talent, 50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
 
 -   Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
@@ -612,6 +613,7 @@ Hand of Mantra Cards
     -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either0)
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 -   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
+-   Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
 
 ### **Miscellaneous**
 
@@ -662,10 +664,10 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 
-#### Willpower Combat (??? Willpower Needed)
+#### Willpower Combat (Around 40 Willpower Needed)
 
 -   Gaze - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
--   Glare - Opponents facing you are briefly stunned.
+-   Glare - Opponents facing you are briefly stunned. (Is speculated to be a charisma-based mantra but very little is known about this move specifically)
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
 #### Light Weapon Combat

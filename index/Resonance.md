@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 11739
+revid: 12012
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -33,6 +33,8 @@ It is true that the method requires killing Enhanced Monsters and Players, but t
 You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
 
 While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciated with things like hours in The Depths or max luck or a higher level.
+
+Theorized that to get max progression, you have to solo kill primadon 6 times.
 
 TLDR:
 
@@ -194,10 +196,22 @@ File:God's Will Showcase.mp4
 
   
 
-### **Soul Jar**
+### **Jar of Souls**
 
 -   Upon killing a player or NPC around your level, you absorb their soul.
 -   Having a soul allows you to hold a beam which deals high damage over time.
 -   Notes:
     -   This bell is pretty common and requires you to farm NPCs to be used, so rerolling it should be considered.
     -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.
+
+  
+
+### **Waypoint Transmission (aka. Travel Medallion)**
+
+-   On first use, the user will place an invisible mark anywhere that they can see, including on another player.
+-   This mark will persist on that spot indefinitely, even between servers, & the users death.
+    -   A marker placed on another player will expire if the marked player leaves the server.
+-   On second use, and when aiming their cursor at a mark, a small glowing ring will be made around the user, visually similar to Sacred Field.
+-   After a windup decided by how far away the chosen mark is, all humanoid entities within the ring will begin to quickly fly towards the mark, in the same way the Hive Wells work.
+-   Notes:
+    -   I do not have this resonance. All information listed here is from [this video](https://youtu.be/aZ2W-L4QazA), all credit goes to Jenkz and Juniorr, who made the video, and who has the bell, respectively.

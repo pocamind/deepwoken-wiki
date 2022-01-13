@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 11914
+revid: 11955
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -202,6 +202,8 @@ Upon getting hit, it will apply a charm effect on the opponent. Charm causes you
  |
 | 
 
+File:Multiplicity.png
+
 Multiplicity
 
  | 
@@ -226,13 +228,15 @@ Upon getting hit, your armor releases toxic gas.
  |
 | 
 
-File:Adhesive.png
+thumb
+
+thumb
 
 Adhesive
 
  | 
 
-Unknown
+When getting hit by a player, they have a chance to get pulled towards you. (probably)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11873
+revid: 11995
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1093,7 +1093,11 @@ Posture
  | Depths chests |
 | 
 
- | Royal Pathfinder | 2-4 buffs | Starswept Valley |
+ | Royal Pathfinder | 2-4 buffs | [Starswept Valley](The_Starswept_Valley.md)
+
+Duke chests
+
+ |
 
   
 
@@ -1114,7 +1118,7 @@ Swordsman."
 
 _Requires Power Level 15_
 
- |  |
+ | Pirate Event at Aratel Sea |
 | 
 
 "Ring of the infamous theif Emiya Konga."

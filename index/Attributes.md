@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 11900
+revid: 12011
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -216,9 +216,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Thundercall
 
-“ PRAISE **THE SUN!** ”
+“ Strike me down Yun'shul, YOU DON'T HAVE THE BA- ”
 
-― Elite Knight & Royal Swordsman
+― Unlucky celtor
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 11815
+revid: 11981
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,7 +35,7 @@ Drops "Odd Tentacles".
 -   STAY CALM AND FEEL THE RHYTHM. If you don't, your parry timings will be broken.
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also, but the stab is less effective than the latter two.
--   No matter how high level'd you are, you cannot just try to meat hit it like a sharko. You need to parry and pay attention to his m1's or you will Immediately get wiped, This thing _**WILL**_ outskill you.
+-   No matter how high leveled you are, you cannot just try to meat hit it like a sharko. You need to parry and pay attention to his m1's or you will Immediately get wiped, This thing _**WILL**_ outskill you.
 -   if he's cursed **RUN,** You're not beating him solo. He will violate you in 10 seconds.
 -   In the game files, Squibbo's real name is Squidward.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does an INSANE amount of damage.
