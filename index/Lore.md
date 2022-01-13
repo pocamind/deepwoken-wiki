@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 12063
+revid: 12069
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,6 +42,7 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean infront of the Statue in the Palace speaks of him.
     -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the asperations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
+-   The King of Etrea wields the legendary "Splinterblade", the Shattered Katana.
 
 ### **The Duke of Erisia**
 

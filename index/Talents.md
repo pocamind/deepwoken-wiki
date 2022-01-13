@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12051
+revid: 12085
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -169,7 +169,7 @@ Hand of Mantra Cards
 -   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage(15% dmg buff).
     -   Prerequisite: Intelligence (Got it at lvl 28 Intelligence. Might be able to get it at a lower level?)
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having max health makes your mantras do 1.25x damage (not exact description, but accurate).
-    -   Prerequisite: Intelligence (unconfirmed)
+    -   Prerequisite: Intelligence (confirmed, only ever got this when i had over 20 intelligence)
 -   Ether Absorption \[Generic Talent, Common Talent\] - Recieve Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
@@ -353,7 +353,7 @@ Hand of Mantra Cards
 
 ### Limitbreaker
 
--   Dirty Boxing \[Generic Talent, Common Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
+-   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
@@ -388,7 +388,7 @@ Hand of Mantra Cards
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
 
-### Murmur
+### [Murmur](Murmur.md)
 
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill Sea Serpent Ardour.
@@ -493,6 +493,10 @@ Hand of Mantra Cards
 
 -   Spare Nails \[Generic Talent, Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
 -   Emergency Repairs \[Generic Talent, Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
+
+### Silencer
+
+-   A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
 
 ### Sturdy Resolve
 

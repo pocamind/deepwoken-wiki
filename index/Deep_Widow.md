@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 11917
+revid: 12084
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -43,4 +43,5 @@ A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Va
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides; as failure to avoid her attack will lead to peril.
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
 -   Try to deal only two attacks and always be ready for the bite.
--   You can indentify combos by their slower charging and faster swiping.
+-   You can identify combos by their slower charging and faster swiping.
+-   It is confirmed by Agamatsu that this creature also spawns in the depths, in a very specific location. (He did not disclose where specifically)

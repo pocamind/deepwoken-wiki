@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 12064
+revid: 12066
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,7 +37,7 @@ The following are possible items that can be found once rescuing etrean guards a
 -   Dark gumshoe hat
 -   Grey gumshoe hat
 -   Ochre gumshoe hat
--   Master Thief's Earrings (possibly only ascended)
+-   Master Thief's Earrings
 -   Amethyst(6)
 -   Gold bar(5-8)
 -   Saphire(6-8)

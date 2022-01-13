@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 11972
+revid: 12083
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,13 +51,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depth Con
 
 _**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). About 5 levels below you can still get one of them, higher level meaning your chances are bigger._
 
-| Level | Possible Enemies |
-| --- | --- |
-| 1-9 | N/A - You escape without fighting a monster |
-| 10-18 | Deepknight (Bandit Leader) |
-| 19-29 | [Angels](Hollow_Angel.md) |
-| 30-49 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
-| 50+ (No Drowns) | [Enforcer](Enforcer.md) |
+File:Mnhfds8goqa81.png
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 
@@ -121,6 +115,7 @@ Just a bag of information to keep in mind and remember
 -   [Squibbo](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
 -   The City Guards
+-   [Deep Widow](Deep_Widow.md) (Confirmed by Agamatsu)
 
 ## Loot Table
 
