@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 11995
+revid: 12106
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -860,7 +860,7 @@ _\+ Talent: Iron Gut_
 
 _\+ Talent: Herbivore_
 
- |  |
+ | Hive Chests |
 | 
 
 File:Alchemist Hat.png
@@ -880,7 +880,11 @@ File:Authorityhelm.png
 
 _Requires Fortitude 10_
 
- | Authority enemy |
+ | Authority enemy
+
+and Hive Chests
+
+ |
 | 
 
 File:KnightHelm.png
@@ -890,7 +894,7 @@ File:KnightHelm.png
 
 File:GreyGumshoeHat.png
 
- | Gumshoe Hat | Grants a random buff. |  |
+ | Gumshoe Hat | Grants a random buff. | Fort merit Chests |
 | 
 
 File:White gumcumshoe.jpg
@@ -918,7 +922,7 @@ Many face acessories do not come with stats and using them will not improve your
 
 File:Demonmask.png
 
- | Demon Mask | Cosmetic | The Duke Chest |
+ | Demon Mask | Cosmetic | The Duke Chest and Depths Chests |
 | 
 
 File:Hairband.jpg
@@ -980,22 +984,22 @@ or Damage Vs. Deep
 | 
 File:Golden Cape.png
 
- | Golden Cape | Grants a random buff. |  |
+ | Golden Cape | Grants a random buff. | Minityrsa Chests |
 | 
 
- | Dawn Scarf |  |  |
+ | Dawn Scarf |  | Hive Chests |
 | 
 
- | Adventurer's Scarf |  |  |
+ | Adventurer's Scarf |  | Hive Chests |
 | 
 
- | Black Scarf |  |  |
+ | Black Scarf |  | Hive Chests |
 | 
 
- | Tundra Scarf | Grants a random buff |  |
+ | Tundra Scarf | Grants a random buff | Hive Chests |
 | 
 
- | White Scarf |  |  |
+ | White Scarf |  | Hive Chests |
 | 
 
  | There's a lotta scarves, someone add them |  |  |
@@ -1017,7 +1021,7 @@ File:Black Fur Pauldrons.png
 
 File:Blacksteel Pauldron.png
 
- | Blacksteel Pauldrons | Placeholder | Chests |
+ | Blacksteel Pauldrons | 1-2 buffs | Chests |
 | 
 
 File:Flameguard.png
@@ -1028,7 +1032,7 @@ File:Flameguard.png
  | Hunter's Brace | Placeholder | Chests |
 | 
 
- | Leather Pauldrons | Placeholder | Chests |
+ | Leather Pauldrons | +2 Health | Chests |
 | 
 
  | Steel Pauldrons | Grants buff for health
@@ -1038,7 +1042,7 @@ usually from 6-12
  | Chests |
 |   
 
- | Tracker's Brace | Placeholder | Chests |
+ | Tracker's Brace | 2-3 buffs | Chests |
 | 
 
 File:Vanguardbrace.png

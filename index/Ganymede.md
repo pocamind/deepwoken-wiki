@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 11838
+revid: 12117
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -53,15 +53,15 @@ to be discovered, but they are related to vesperians and a ganymede can be famil
 
 ## Strengths
 
-Insanity Resistance
-
-flex
+-   Insanity Resistance
+    
 
 **Weaknesses:**
 
 ## Weaknesses
 
-wasted money
+-   Either undiscovered or none.
+    
 
 **Surnames:**
 
@@ -80,8 +80,8 @@ wasted money
 
 ## Trivia
 
--   Obtaining [a Resonance](Resonance.md) may be easier for them due to the racial resistance to insanity.
+-   Obtaining a [Resonance](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Looks similar to cipher from the Valorant series.
--   Do you know that Ganymede is a jupiter moon? A little fun fact.
+-   Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.

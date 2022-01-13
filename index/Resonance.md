@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 12060
+revid: 12111
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -72,7 +72,7 @@ Probably variant 2 of full counter
 
   
 
-### **Phoenix**
+### **Run it Back**
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.

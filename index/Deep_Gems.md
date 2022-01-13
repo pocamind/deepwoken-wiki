@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 11922
+revid: 12112
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,4 +23,4 @@ Blue Gem - Reduces ether cost of the move by ALOT.
 
 Wind Gem - After hitting the enemy, you get momentum for about 5 seconds, the same as sliding down a slope.
 
-Insignia Gem - After using the move with the insignia gem on, the next mantra you use has no wind-up.
+Insignia Gem - After using the move with the insignia gem on, the next mantra you use has 25% less wind-up.

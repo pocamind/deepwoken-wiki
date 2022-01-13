@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 12069
+revid: 12123
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -82,7 +82,8 @@ _"Another one..? You've got to be kidding me." - Akira_
 
 _**Ey migi vuru?**_
 
--   A legendary chef, known for his culinary accomplisments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplisments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 
 ## Locations
 

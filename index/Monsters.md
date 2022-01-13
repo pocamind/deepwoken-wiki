@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 11499
+revid: 12101
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -68,3 +68,4 @@ And:
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
 -   NOT all attacks are parriable; Buy a Hunter Brace at the Summer Island to be able to.
 -   Some creatures will fight each other. Multiple are able to fight at the same time. Example-[Here](https://youtu.be/01uQchtfUvw)\-
+-   Some variants of some creatures are limited to The Depths.

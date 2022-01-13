@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 11785
+revid: 12086
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,14 +28,18 @@ The player must respond with "yes." Once accepted an animation will play and the
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
 | Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |
 | Use | No | _"\[Name\],_ use _\[item\]"_ | Forces the Subject to use an item (ie: Begin using a training item) |
-| Run | Yes, 40 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
+| Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
 | Fight | Yes, 50 Charisma | "_\[Name\]_, fight"
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
-| Return | Yes, Rare | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a limited range unlike all other commands. |
-| Sacrifice | Yes, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
-| Live | Yes, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko. |
+| Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
+| Return | Yes, 70
+
+Charisma, Rare
+
+ | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a limited range unlike all other commands. |
+| Live | Yes, 75 Charisma, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko. |
 
 ## Trivia/Notes
 

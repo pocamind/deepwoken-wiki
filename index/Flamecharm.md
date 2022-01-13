@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 12024
+revid: 12122
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -121,6 +121,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 | --- | --- | --- | --- |
 |  | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
 -   This Mantra can be improved with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
+-   This Mantra can be improved with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
 
  |
 
@@ -168,7 +169,7 @@ These talents are unique to their element and _may_ have no category.
 
 Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
 
-Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance.
+Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance (usually around Power 25+).
 
 Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
 

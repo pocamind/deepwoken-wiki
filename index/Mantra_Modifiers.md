@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12026
+revid: 12121
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -262,6 +262,10 @@ _"You feel dizzy when you hold it."_
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
 -   This modifier is compatible with the _Fire Blade_ Mantra, but has no effect.
+
+#### Spring Spark
+
+-   This modifier seems to make flame leap go higher?
 
 ## Trivia/Notes
 

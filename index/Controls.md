@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 10284
+revid: 12107
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,7 +29,7 @@ During a dodge, cancel the dodge to negate the endlag.
 | F | Parry | If hit right after pressing F, deflect the attack, dealing posture damage and giving you an opening to attack. |
 | F (hold) | Block | Block attacks. Taking hits while blocking fills the posture bar, if it reach 100%, you are guard broken and open to attacks. |
 | Y | Switch Stance | Toggle between holding your weapon with 1 hand or 2 hands. Available to all Medium Weapon by default and Heavy Weapons if they get the required talent. |
-| T | Taunt | Spit. No mechanical value, beside the ability to anger guards to have them chase you. |
+| T | Taunt | Spit. No mechanical value, besides the ability to anger guards to have them chase you. (Pretty sure it also heals you a little if you land the spit.) |
 | V | Carry KO'd Enemy | Carry a KO'd humanoid on your back. Can be used to save people, or move away from the fight to kill. Can be used on Hostage type NPC without KO'ing them. |
 | B | Execute KO'd Enemy | Grip a KO'd humanoid. This puts an end to their current life. |
 | W x2 | Sprint | Run faster. Posture does not decrease while running. |
@@ -52,7 +52,7 @@ During a dodge, cancel the dodge to negate the endlag.
 
 **W + Space (airborn and facing a wall) - Wall Jump -** Perform two small hops on the wall, grabbing any ledge along the way if available. Some talents can improve this.
 
-**M1 + M1 + M1 (all 3 hits must connect, deal damage and only works on humanoids) - Flourish -** Kick your opponent back, giving them breathing room but potentially stunning them if they hit a wall.
+**M1 + M1 + M1 (MUST connect, only works on humanoids) - Flourish -** Kick your opponent back, giving them breathing room but potentially stunning them if they hit a wall.
 
 **M1 (while crouching and behind an humanoid) - Assassinate -** Swift attack that does large amounts of damage to [NPCs](Enemies.md), reduced against players. Can execute. If the enemy survives, they are left on the ground for a while, the duration of this is longer on [NPCs](Enemies.md). Can only be done when both the attacking player and the receiving enemy are not in combat. There are talents that can increase the damage and knockdown duration.
 

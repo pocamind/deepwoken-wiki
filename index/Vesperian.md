@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 11927
+revid: 12093
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -67,6 +67,7 @@ Beatle
 ## Weaknesses
 
 -   Facial accessories are not visible (they still grant their buffs, however)
+-   Dichlorvos
     
 
 **Surnames:**

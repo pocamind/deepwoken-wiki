@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 12032
+revid: 12118
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -715,7 +715,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Flame</td>
   <td>75 FIR, LVL 35</td>
   <td>Sword</td>
-  <td>23 /44 Max</td>
+  <td>22 /35.2 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -725,7 +725,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Lightning</td>
   <td>75 THD, LVL 35</td>
   <td>Sword</td>
-  <td>23 /44 Max</td>
+  <td>22 /35.2 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -735,7 +735,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Frost</td>
   <td>75 ICE, LVL 35</td>
   <td>Sword</td>
-  <td>23 /44 Max</td>
+  <td>22 /35.2 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -745,7 +745,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Wind</td>
   <td>75 WND, LVL 35</td>
   <td>Sword</td>
-  <td>23 /44 Max</td>
+  <td>22 /35.2 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>
@@ -755,7 +755,7 @@ These weapons do not fit the other categories, because their requirements and sc
   <td>Hero Blade of Shadow</td>
   <td>75 SHD, LVL 35</td>
   <td>Sword</td>
-  <td>23/44 Max</td>
+  <td>22 /35.2 Max</td>
   <td>6</td>
   <td>5</td>
   <td>8</td>

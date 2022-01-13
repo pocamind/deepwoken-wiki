@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 3762
+revid: 12089
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,3 +26,5 @@ A consumable item that fills up the ether reservoir for Thundercall users (may w
 **What It Does:**
 
 Sells for 15 notes. (prices vary depending on island and merchant)
+
+also permantenly unlocks thundercall in the main menu (quest is at summer isle)
