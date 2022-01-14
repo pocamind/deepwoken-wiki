@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 11889
+revid: 12213
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -28,7 +28,7 @@ These races are obtainable by anyone. One of these races will be given to the pl
 
   
 
-  
+(These rates are not 100 accurate and the rates may vary)
 
 ## Exclusive Races
 

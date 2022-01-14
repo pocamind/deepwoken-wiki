@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 11993
+revid: 12230
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,17 +26,32 @@ The tree house is split up into 4 floors, from bottom to top:
 3.  **Heart Plaza**
 4.  **Canopy Plaza**
 
-The Entrance contains a Shipyard, and a Library.  
+The Entrance contains a Shipyard, and a Library.
 
-The Root Plaza contains a Cargo Room, Archive, and an Antiquarian. The Heart Plaza contains an R&D room.
+The Root Plaza contains a Cargo Room, Archive, and an Antiquarian.
 
-A is given by a man in the R&D room, who introduces himself as Laplace Diri. He quests you to find some lost property. I don't know what the lost property is lol.  
+The Heart Plaza contains an R&D room.
 
-File:Greathive Aratel5.png
+The Canopy Plaza contains a Blacksmith, an Inn, Canopy Peak, and an Observatory, which also doubles as a mantra shop. When looking through the Celestial Telescope in the Observatory, it says this:
 
-Laplace Diri
+Second textbox that shows upon interaction
 
-The Canopy Plaza contains a Blacksmith, an Inn, Canopy Peak, and an Observatory, which also doubles as a mantra shop.
+“ \*You look through the telescope... You see the canopy of the Greathive crowding the lens, and the sea beyond it. Maybe there's a way to adjust the image?\* ”
+
+― Celestial Telescope
+
+  
+If the player looks at the side of the telescope, they will see a crank that can be interacted with. Upon interacting with it, this text shown: File:TelescopeCrank.png
+
+If the player turns it clockwise (which I assume is down), this image shows:
+
+You cannot turn it more than once for each side.
+
+Upon turning the telescope counterclockwise (which I assume is up), the player will see the following set of images (crystal-like):
+
+File:TelescopeCounterclockwise2.png
+
+  
 
   
 
@@ -70,7 +85,8 @@ The portal locations.
 
 ## Trivia
 
--   Ganymedes and Vesperians seem to be related in some way, being part of the same faction when fighting at Aratel.
+-   Ganymedes and Vesperians are related, each race had the same ancestor, but they had to make a decision to survive as a people when the tides came. Vesperians and Ganymedes are the two results of that decision.
 -   There is nothing special about this place other than the fast travel system. It is just another town.
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
 -   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.
+-   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.

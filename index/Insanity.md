@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 11907
+revid: 12202
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,6 +28,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   [Megalodaunt](Megalodaunt.md) scream attack
 -   Being hit with Gaze
 -   Drinking or being splashed by a potion that decreases sanity.
+-   Deep Widow web attack
 
 ## Insanity decreasing effects
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 12109
+revid: 12190
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -35,8 +35,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 -   **Slash** - A short range slash. Blockable and parriable. Heavy posture damage.
 -   **WATCH YO TONE** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block, but can be dodged.
 -   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable (this attack may be used after a kick unintentionally since you will be above it at some point while flying through the sky).
--   **Spit** - A multi-hit projectile targeted at a single target. Similar to **Thousand Needles** but from the blowhole like a whale.
--   Blockable and parriable.
+-   **Spit** - A multi-hit projectile targeted at a single target. Blockable and parriable.
 -   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a generous amount of insanity. A poor move in the etrean luminant but especially deadly in [The Depths](The_Depths.md), as an unaware player might suffer from insanities effect much earlier than expected, or worse, mid fight.
 -   **Thousand Needles** - A multi-hit AoE move, often used against groups of targets. Blockable and parriable.
 
@@ -57,6 +56,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 ## Tips n' Tricks
 
+-   Despite their scary looks, sharkos are _**very**_ squishy, and it's fairly easy to parry their claw attacks.
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
 -   Megalodaunt lets out a snarl when he spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it is aggro'd.
 -   It is adviced to get at least Adept Armor and Power Level 15+, unless you're aware of the parry patterns.

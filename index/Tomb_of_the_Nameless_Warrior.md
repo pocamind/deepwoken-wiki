@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 11925
+revid: 12236
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Located on [Erisia.](Erisia.md)
 
-This place is home to a unique [Mudskipper](Mudskipper.md), implied to be the Nameless Warrior themselves. It's the same type of mudskipper you can find in the hidden village, with what feels the same amount of health and attack. Behind the mudskipper is a broken portal that resembles one used to get to the Lord Of Erisia's mansion. Behind the broken pillar and mudskipper is a door that can be broken open with Strong Left, Ice Smash, and other such moves.
+This place is home to a unique [Mudskipper](Mudskipper.md), implied to be the Nameless Warrior themselves. It's the same type of mudskipper you can find in the hidden village, with what feels the same amount of health and attack. You can kill the Nameless Warrior by parrying him. Each time you parry him he loses a limb, first his left arm, then right arm then finally his head before dying. Behind the mudskipper is a broken portal that resembles one used to get to the Lord Of Erisia's mansion. Behind the broken pillar and mudskipper is a door that can be broken open with Strong Left, Ice Smash, and other such moves.
 
 (Be careful to not go all the way down the ladder as it is a bit buggy and can send you through the floor. Simply get off the ladder when you're halfway down)
 

@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 11749
+revid: 12231
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -97,3 +97,4 @@ cant eat garbage
 ## Notes/Trivia
 
 -   Based off of racoons, it is unfortunate that they cannot eat garbage.
+-   Half of the surnames of the Celtors are of Russian origin (Baranof, Kotof, Pavel, Bykof, Kalinof, Petrof, Sokolof).

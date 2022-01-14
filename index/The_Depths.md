@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 12083
+revid: 12191
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -47,19 +47,21 @@ The Voices of the Depths sentence you to a fight against whatever they throw at 
 
 File:Scuffed map Depths.png
 
-Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, meaning you gain buffed ether regeneration. Escaping will also award both of your character's lives back.
+Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
-_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). About 5 levels below you can still get one of them, higher level meaning your chances are bigger._
+_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases by going to the depths._
 
-File:Mnhfds8goqa81.png
+| Trial Power | Possible Enemies |
+| --- | --- |
+| 1-9 | N/A - You escape without fighting a monster |
+| 10-18 | Deepknight (Bandit Leader) |
+| 19-29 | [Angels](Hollow_Angel.md) |
+| 30-49 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |
+| 50+ | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 
-**Note 2:** The requirements for getting Enforcer seem to not be just based off of level, as tested by the community. (Some players get a Megalodaunt at level 49, while others are getting Enforcer as early as level 45.) So its recommended to either be 44 if you are looking to fight a shark, or to overlevel that way the Enforcer will not be a threat incase you get him.
-
-Note 3: i have escaped the depths only fighting a normal megolodaunt at lvl 46 so there is a chance of a normal megolodant at lvl 46.
-
-Note 4: Power level + drowned stat = trial power (ex: power 30 + 12 drowned = 42 trial power)
+  
 
 ## Farming in The Depths
 
@@ -71,9 +73,9 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 
--   _**Giant Killer,**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Level up your **Strength** if you want it to appear (this is false I have it on my character with 0 strength stat, I think it appears with willpower training.
+-   _**Giant Killer,**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Appears possibly with Willpower, but is untested.
 
--   **_Blind Seer Oath_**, an Oath obtainable through high willpower and obtaining most of the willpower dedicated cards will allow somebody to survive the depths without killing an enemy for over an hour. Paired with Conquer Your Fears, you can stay in the depths for very long periods of time.
+-   **_[Blindseer Oath](Oaths.md)_**, an Oath obtainable through high willpower and obtaining all 5 **Mental Fortress** cards will allow somebody to survive the depths without killing an enemy for over an hour. The Mental Fortress Talents help significiantly in the depths.
 -   **% Damage Up**, armor with stat modifiers (Ascended, Enlightened, etc.) usually have a form of % damage bonus against certain enemy types such as Giant, Sea, or Deep. Having a high total percent against Depths beasts will be useful.
 
 _**Tips and Tricks**_
@@ -111,7 +113,7 @@ Just a bag of information to keep in mind and remember
 -   Lion Fish
 -   [Megalodaunt](Megalodaunt.md)
 -   [Deep Owl](Deep_Owl.md)
--   Crabo
+-   Crabbo
 -   [Squibbo](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
 -   The City Guards
@@ -119,7 +121,7 @@ Just a bag of information to keep in mind and remember
 
 ## Loot Table
 
-Almost everything in the game drops in the depths
+Almost everything in the game drops in the depths. The Depths is the best place in the game for loot and corrupted monsters give the best loot in The Depths.
 
 <table>
 <tbody>
@@ -132,7 +134,7 @@ Almost everything in the game drops in the depths
 <tr>
   <td>Shrouded Cape</td>
   <th>Ring of Wisps</th>
-  <th>Officer's Sabre</th>
+  <th>Officer's Saber</th>
   <th>Curved Blade of Winds</th>
 </tr>
 <tr>
@@ -166,14 +168,14 @@ Almost everything in the game drops in the depths
 
 -   It is still possible to gain card luck (potentially even more than usual?) by killing players (or NPCs) in the depths.
 -   [Resonance](Resonance.md)/bells can be unlocked by gaining very high amounts of luck while grinding within The Depths, followed by becoming knocked. Read the Resonance page for more information.
--   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths.
--   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself.
+-   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future slots.
+-   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity, you rip your eyes out and die.
 -   A easy way to get out of the depths known as the barrel method is commonly used to surface. Example-[here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-
 -   The trial voices are not gods......this has been debunked.
 
 ## Tips
 
--   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be suffecient. Learning the procedures of vanquishing each of The Depth's monsters, learning the layout, learning to avoid gang bangers, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can negate the risks.
--   If you see a group of gang bangers (e.g some high level looking dudes in packs of 2-10) log. Your chances of not combat logging are a farcry better than your chances of not getting ganked underwater. Or if you are a bossraid dude with all sorts of enchantments and powerful tools then go ahead and go ham.
+-   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be sufficient. Learning the procedures of vanquishing each of The Depth's monsters, learning the layout, learning to avoid unwinnable conflict, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can negate the risks.
+-   If you see a group of high levelled people, log. Your chances of not combat logging are a farcry better than your chances of not getting ganked underwater. Or if you are a bossraid dude with all sorts of enchantments and powerful tools then go ahead and go ham.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
--   Enviromental awarness is pivital to players within The Depths. The amount of players who have been wiped to falling into the void is exponential. Make sure wherever your getting knocked back to is not the edge of a cliff, use the enviroment to your advantage as well and insta-kill players using the void.
+-   Enviromental awarness is pivotal to players within The Depths. Hitting the void below will instantly kill you. Making sure you avoid the Void, and knock other people in it will help you survive.

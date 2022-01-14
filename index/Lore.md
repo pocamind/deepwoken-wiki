@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 12123
+revid: 12235
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -318,10 +318,9 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Alliances:** None
 -   **Enemies:** _None_
 -   **Lore Sources:**
-
--   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
--   Claim to be a link between surface dwellers and "The Gods Below"
--   Also claims to be the next step in evolution
+    -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
+    -   Claim to be a link between surface dwellers and "The Gods Below"
+    -   Also claims to be the next step in evolution
 
 ## Attunement Lore
 
@@ -340,9 +339,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
-### Galebreathe
-
-Some Galebreathe lore is on WhiteWarbler's Youtube, "The Aberrant Archive"  
+  
 
   
 

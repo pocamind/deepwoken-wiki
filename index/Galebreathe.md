@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 11816
+revid: 12193
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -62,6 +62,8 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn.
 (☆) | A strike from the heavens. | User jumps into the air and strikes down.
 
 -   Deals moderate damage.
+-   User moves towards the cursor (turn shiftlock off to do this)
+-   Good mobility
 
  |
 |  | Galetrap  
