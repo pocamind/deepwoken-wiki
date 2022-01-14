@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 11218
+revid: 12337
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -17,11 +17,11 @@ His movements are very jagged and extremely fast, almost like he's flying. In or
 Attacks:
 
 -   Flame Assault
-    -   Identical to the flamecharm mantra [Flame Assault](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras), setting you on fire and ragdolling you.
+    -   Identical to the flamecharm mantra [Flame Assault](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras), dashing at you, setting you on fire, and ragdolling you. Can block/parry or roll to evade.
 -   Rising Flames
-    -   Identical to the flamecharm mantra [Rising Flames](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras), knocking you into the air.
+    -   Identical to the flamecharm mantra [Rising Flames](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras), knocking you into the air. Can block/parry or roll to evade.
 -   Flame Repulsion
-    -   Identical to the flamecharm mantra [Flame Repulsion](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras), but extremely large as if it had three cloudstones added to it
+    -   Identical to the flamecharm mantra [Flame Repulsion](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras), but extremely large as if it had three cloudstones added to it. Can block/parry or roll to evade.
 
 Finisher(s):
 
@@ -31,6 +31,6 @@ Tips/Notes:
 
 -   The hobo can spawn anywhere in erisia, lower or upper.
 -   ~The hobo remains neutral if you fail the charisma check or steal from his chest~
-    -   This has been patched, you now need to pass the charisma chest to get his loot (good for charisma builds, otherwise not worth it)
+    -   This has been patched, you now need to pass the charisma chest to get his loot (good for low level charisma builds, otherwise not worth it)
 -   The hobo seems to be someone who escaped captivity from the golems, and has lost his mind since.
 -   It's not worth fighting him.

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 12153
+revid: 12311
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,41 +12,52 @@ _"Finally, some good fucking food." - Morgan Rhansey_
 
 ## Description
 
-Food is a necessary need for your Character's wellbeing. Ingredients and Food can sate your hunger or thirst, but others can decrease it via vomiting.
-
 File:Reinforced Food Bar.png
 
-Some Foods (Such as Candied Fruit and Mushroom Omlettes) takes a portion of your Hunger/Thirst bar with a different color; known as Reinforced Hunger/Thirst. Based on the color, Reinforced Hunger/Thirst grants buffs such as Mantra Damage until the Reinforced bar is depleted.
+An example of a differently colored bar
 
-For knowing how to make Food, go here. Ingredients are also [here](Ingredients.md).
+Food is a necessary need for your Character's survival.
 
-  
+### **To get food one must collect ingredients**
 
-  
+-   Mushrooms and fruits are very easy to get, plentiful on both starter islands.
+-   On every seasons (except winter), the player can find fruits on smaller trees, an easy and safe source of nutrition.
 
-## Boosts
+1.  Althrough you can eat the ingredients directly, this may cause vomitting which leads to a immense decrease in thirst and hunger.
+
+### **To cook food one must rest at a campfire**
+
+-   By combining ingredients together the player can make various types of foods/drinks.
+-   2-3 types of ingredients are needed to make a certain food recipe. (Mushroom Soup for example, two mushrooms of different type)
+-   Sometimes it may require more ingredients. (Sticky Bun for example, 3 wheat and one sap)
+
+### **Recipes**
+
+-   The foods/potions recipes can be found here, ingredients [here](Ingredients.md).
+
+## Food Boosts
 
 File:SlowedStomach.png
 
-As per mentioned, certain foods give random boosts which can be indicated by the color overlaping your food bar, Colors & the type of boost you get may vary, but you can tell so from what boost you got by hovering above the food bar. **The Color of the overlay does not mean anything.** It has been confirmed as of 30/12/2021
+Some foods fill a portion of your Hunger/Thirst bar with a different color, known as Reinforced Hunger/Thirst.
 
-Known Boosts:
+-   Reinforced Hunger/Thirst grants buffs certain buffs until the bar is deleted.
+-   As per mentioned, certain foods give random boosts which can be indicated by the secondary color on your food bar.
+-   The type of boost can be identified by hovering over the differently colored bar.
 
-Wounds close up (guessing you dont bleed as much obtained from eating fruit salad)(Before they patched the notes once after I ate fruit salad it said "Increased regen" maybe that?)
+### **Known Boosts:**
 
-Slowed Stomache (Feed Bar is drained at a significantly slower pace)
+-   _"You feel your wounds closing up..."_ This buff increases the user's health regeneration speed.
+-   _"Slowed Stomach" =_ This buff significantly decreases the user's starvation speed.
+-   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
+-   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
+-   _"You feel ether surging into you..." =_ This buff increases the user's ether regenaration speed.
 
-Increased Mantra Damage
-
-Increased Weapon Damage
-
-Increased Ether Regen
-
-  
+Probably these buffs can be aswell amplified with the "Apothecary" talent perhaps?
 
 ## Notes
 
 -   Some foods like Pomar will damage you, but doesn't hurt you in other ways and still satiates your hunger, it is not known why.
 -   Sometimes there's a rare chance for a NPC called the "Meat Lord" to spawn randomly throughout Hive, Lower-Upper Erisia and Summer Isle, The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomach.
--   There seems to be unclear variety in what the buffs states, sometimes it will not state anything at all, sometimes it will quote what type of powerups you got e.g "You feels your blade is stronger"
 -   Having 0 thirst and/or 0 hunger will eventually kill you.
+-   ~**The Color of the overlay does not mean anything.** It has been confirmed as of 30/12/2021~

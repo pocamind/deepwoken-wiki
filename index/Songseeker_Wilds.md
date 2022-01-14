@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 12277
+revid: 12319
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -103,7 +103,7 @@ Below are possible items that can be found in the chests in songseeker.
 
 ## Tips & Things to Note
 
--   The Red [Megalodaunt](Megalodaunt.md) can spawn on Songseeker. It's exceptionally rare, but other than being able to rain flaming swords from the sky, it's no different from an ordinary Megalodaunt.
+-   The Red [Megalodaunt](Megalodaunt.md) can spawn on Songseeker. It's exceptionally rare, but other than being able to rain flaming swords from the sky (and possibly having an hp boost), it's no different from an ordinary Megalodaunt.
 -   The ice NPCs are without a doubt the easiest NPCs on song island. They only spam skills (with no cooldowns) and you can m1 m1 m1 in order to win. The flame NPCs are either the hardest or second hardest. The thunder NPCs are the only ones that parry, block, and use their m1s, which makes them a formidable opponent because of how consistently they parry and do combos. The flame NPCs are dangerous because they, like the ice, spam skills without cooldowns except they have MUCH STRONGER skills than the ice users. Many unfortunate players fall to the flame users the most because of how many uncancellable skills they spam and how little time there is to get hits in before they cast another skill.
--   If other spawnpoints appear broken or nonfunctional, look to the guaranteed spawn of two Songseekers at the Temple.
--   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than Aratel island loot. Roughly equivalent to lower [Minityrsa](Minityrsa.md)'s drops.
+-   If other spawnpoints appear broken or nonfunctional, look to the guaranteed spawn of the 8-9 songseekers atop the mountain on the way to the temple.
+-   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than Aratel (hive) island loot. Roughly equivalent to lower [Minityrsa](Minityrsa.md)'s drops.

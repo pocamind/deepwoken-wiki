@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 12139
+revid: 12360
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,8 +80,8 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 -   According to a Blindseer user, with Willpower 40, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
 -   If you don't have any face accessory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
-
-You can equip other face accessories and still have the full effects of the oath, excluding increased brightness
+-   You can equip other face accessories and still have the full effects of the oath, excluding increased brightness
+-   At 40 willpower, with the blindfold, all the talents and the oath, you receive an extra 96 sanity, which, with base sanity, equals to 176 sanity, or 88 minutes in the depths before dying.
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 12271
+revid: 12294
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,7 +38,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Obvious | "Enemies detect you more easily." | Does not affect crouching. | 1 |
 | Simple | "You learn things at a slower rate than others." | (Presumed) Decreased EXP gain. | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Bell Cooldown. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. | 0 |
+| Tarnished | "Your Resonance is harder to call forth." | Increases Bell Startup. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. | 0 |
 | Vacant | "Something's missing." | ??? | 0 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot benefit from the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 

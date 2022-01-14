@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12150
+revid: 12296
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Items]
 _This page is a list of all items that you can use in order to modify a Mantra._
 
   
-**1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. (Reasoning for this is the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.)
+**1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.
 
 ## Description
 
@@ -121,7 +121,7 @@ Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that 
 
 **Warning: Once you put a gem in a mantra, you cannot take it out, you can only destroy it. (This is fake, you can just click recall mantra in a campfire and you have your gem in you inv)**
 
-Deep Gems are obtained by killing **Primadon** boss or by killing **Depths monsters** (low drop rate %)
+Deep Gems are obtained by killing **Primadon** (no longer drops from Primadon, it was getting too common) or by killing **Depths monsters** (low drop rate %)
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
@@ -192,6 +192,8 @@ Revenge
 Ice Chains
 
 Shadow Chains
+
+Adrenaline Surge
 
  | Reverses the effect of the Mantra. |
 | 

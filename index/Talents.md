@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12259
+revid: 12365
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -626,12 +626,12 @@ File:Exoskeleton.png
     -   Prerequisites
 -   Aerial Stab \[Generic Talent, Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: High Medium Weapons (35+?)
--   Ariel Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+-   Aeriel Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
 -   Successive Throw \[Generic Talent, Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: High Light Weapon (~40)
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
-    -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either0)
+    -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either)
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 -   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
 -   Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
@@ -651,7 +651,7 @@ File:Exoskeleton.png
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
 -   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
--   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)(Obtained by wearing a blindfold)
+-   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
 
 ## Whispers
 
@@ -684,7 +684,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 #### Strength Combat (10 Strength Needed)
 
--   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after going forward a little.
+-   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 

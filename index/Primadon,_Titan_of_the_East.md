@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 12262
+revid: 12376
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -13,7 +13,7 @@ Template:Creature Infobox V3
 
 ### **Description**
 
-_Also known as Sea Monkey, Gorilla, Monkey, Monke, and King Kong._
+_Also known as Sea Monkey, Gorilla, Monkey, Monke, and King Kong The Water Beast.”_
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
@@ -38,7 +38,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   The footsteps of Primadon play a loud, noticeable noise that can be heard from very far, even from the beachfront of Monkey's paw. Use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the players (or _singular, solo_ _player_) fighting this fishy ape.
 -   It is recommended to stay completely still while fighting to avoid being confused by Primadon's walking animation.
     -   If multiple players are attacking the Primadon at the same time, make sure that they're all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
--   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood (or practically guaranteed if you were punted into the ocean) of nobody being able to save you from drowning if you were knocked in the process of being flung (with an exception coming in the form of the Scuba Diver talent).
+-   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood (or practically guaranteed if you were punted into the ocean) of nobody being able to save you from drowning if you were knocked in the process of being flung (with an exception coming in the form of the Scuba Drowner talent).
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in, taking advantage of your weakened and lightly pulverized state in order to finish you off.
 -   Mantra abilities will not affect this monster, as it is completely invincible against elemental attacks. However, if you have a Bloodless gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slight heal your health back.
 -   Debuffs from Mantras such as: Charm, Freeze, Shock, etc. do affect Primadon and are recommended for debuffing it.

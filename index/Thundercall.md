@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 11952
+revid: 12384
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -141,7 +141,7 @@ Certain talents have no category or their category is unknown.
 | Image | Spell | Card Description | Effect | Category |
 | --- | --- | --- | --- | --- |
 |  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of your move. | +Buff Placeholder | Stormblade |
-|  | Discovery Of Fire | Flints and Flamecharm are for simpletons. | +Buff Placeholder | Thundercaller |
+|  | Discovery Of Fire | Flints and Flamecharm are for simpletons. When used causes all campfires within a small radius to be struck by lightning, lighting up. Costs a little ether. | +Buff Placeholder | Thundercaller |
 |  | Stratoshock | Your lightning deals more damage when in the rain. | +4 Elemental Intensity  
 +3 Health | Thundercaller |
 |  | Jolt Cast | Every 3 perfect casted lightning mantra builds a stack. At 3 stacks, your next lightning mantra is an instant cast. | +7 Carry Load  

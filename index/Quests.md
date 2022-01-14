@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 12055
+revid: 12321
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,6 +16,7 @@ This page has the discovered quests in the game, how to complete them, and where
 -   [Isle of Vigils](<https://deepwoken.fandom.com/wiki/Isle_of_Vigils_(Starting_Island)#Main_Page:_Quests>)
 -   [Etris](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Quests>)
 -   [Greathive Aratel](https://deepwoken.fandom.com/wiki/Greathive_Aratel#Quests)
+-   [Erisia](Erisia.md)
 
 ## Coexisting Quests
 

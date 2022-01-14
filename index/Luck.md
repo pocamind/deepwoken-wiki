@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 12252
+revid: 12371
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -40,7 +40,7 @@ Gripping a player will steal their luck (roughly ~50% of their own luck + base a
 
 ### From NPCs
 
-Killing an NPC has a chance for a white ball to come out of them. Walking over this white ball will consume it and give you luck. Honestly not too sure if it this is the actual effect, but it probably is. Needs some testing.
+Killing an NPC has a chance for a white ball to come out of them. Walking over this white ball will consume it and give you luck. Honestly not too sure if it this is the actual effect, but it probably is. Needs some testing. The white ball gives you an extra stat point, possibly luck but unsure due to luck being invisible.
 
 File:Luck Ball.png
 
@@ -75,5 +75,5 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 ## Notes
 
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
--   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players as a higher level unless you are just that toxic, or are acting in self defense.
+-   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players when you're significantly higher level unless you are just that toxic, or are acting in self defense.
 -   Luck doesnt affect Chest drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch

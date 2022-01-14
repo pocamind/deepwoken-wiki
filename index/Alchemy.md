@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 12205
+revid: 12374
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -71,12 +71,12 @@ Almost all ingredients have two effects - a strong primary effect which will nam
 -   Alestrian Coral - primary effect is **Hastening**. Secondary effect is unknown, but might be **Dulling**.
     -   Ingredient is hard to test with since it can only be found in the Depths.
 
--   Bamboo Bundle - primary effect is **Appalling**, which drains reservior. Secondary effect is **Steadfast**, which increases your maximum posture.
+-   Bamboo Bundle - primary effect is **Appalling**, which instantly drains reservior. Secondary effect is **Steadfast**, which increases maximum posture.
 
 -   Beeswax - primary effect is **Invigorating**, secondary effect is unknown.
     -   Since beeswax's Invigorating effect is so powerful, and the only effect that cancels it is the weak Grueling from plumfruit, it is very difficult to find the name of the secondary effect. It appears to be a slowing effect, however.
 
--   Bluecap - primary effect is **Heartening**, which instantly restores sanity. The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though it's not clear if these are part of the Heartening effect.
+-   Bluecap - primary effect is **Heartening**, which rapidly restores sanity. The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though it's not clear if these are part of the Heartening effect.
     -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion and which are secondary effects.
 
 -   Browncap - primary effect is **Disgusting**, which deals a small amount of damage. Secondary effect is **Strengthening**, which slightly increases damage dealt.
@@ -89,7 +89,7 @@ Almost all ingredients have two effects - a strong primary effect which will nam
 -   Crustacean Meat - I've literally never seen this ingredient, but trustworthy people have told me you can brew potions out of it.
     -   Supposedly weakens physical attacks, which is probably a new effect.
 
--   Dentifilo - primary effect is **Soothing**, which restores reservoir. Secondary effect is **Disgusting**, which deals a small amount of damage.
+-   Dentifilo - primary effect is **Soothing**, which instantly restores reservoir. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
 -   Gathered Wheat - primary effect is **Dulling**, which decreases mantra damage. Secondary effect is **Focus-Enhancing**, which drastically increases the rate reservoir is turned into ether.
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
@@ -110,7 +110,7 @@ Almost all ingredients have two effects - a strong primary effect which will nam
 -   Redd - primary effect is **Icky**, which drains elixir. Secondary effect is **Rejuvinating**, which instantly restores a small amount of health.
     -   Like Focus-Enhancing, Rejuvinating can't be brewed using only a single ingredient. The rejuvinating effect is very weak, but it is possible to brew a Rejuvinating potion using exactly three redds and one wheat.
 
--   Urchin - primary effect is **Mindbreaker**, which greatly lowers sanity. Secondary effect is unknown, but might be **Strengthening**.
+-   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. Secondary effect is unconfirmed, but appears to be **Strengthening**.
     -   Mindbreaker potions are notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
 
 Eggs, fish meat, scallops, spider eggs, sticks and minerals (coal, iron, stone, irithine, and ect.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
@@ -214,7 +214,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Potion<br>
   Elixir</td>
   <td>Bluecap</td>
-  <td>Instantly restores sanity.<br>
+  <td>Rapidly restores sanity.<br>
   Might also instantly restore reservoir and deal a small amount of damage, though it's possible this comes from other effects on the bluecap.</td>
   <td>Opposite effect to <b>Mindbreaker</b>.<br>
   Since it's such a powerful effect that can only be cancelled out by Mindbreaker (both of which need rare ingredients), it's difficult to test if bluecaps have many different effects, or if the Heartening effect just does many different things.</td>
@@ -224,7 +224,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Bane<br>
   Blight</td>
   <td>Urchin</td>
-  <td>Instantly removes sanity.</td>
+  <td>Rapidly removes sanity.</td>
   <td>Opposite effect to <b>Heartening</b>.<br>
   Since running out of sanity will instantly kill you, these potions are very dangerous if you can land enough of them. Unlike Disgusting potions, Mindbreaker potions actually pose a threat.</td>
 </tr>
@@ -256,8 +256,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Calabash<br>
   Bamboo Bundle</td>
   <td>Increases maximum posture.</td>
-  <td>Opposite effect is <b>Buckling</b>, though might be Staggering.<br>
-  This would be the only pair of effects where one isn't a Bane/Blight, however.</td>
+  <td>Opposite effect is <b>Buckling</b>.</td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
@@ -265,12 +264,12 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Ongo</td>
   <td>Decreases maximum posture.</td>
-  <td>Opposite effect is <b>Steadfast</b>.<br>
-  While it's easy to demonstrate this, it's much harder to actually figure out what the potion does, since even with three ongos you can only produce a blight.</td>
+  <td>Opposite effect is <b>Steadfast</b>.</td>
 </tr>
 <tr>
   <td><b>Hastening</b></td>
-  <td>Elixir<br>
+  <td>Potion<br>
+  Elixir<br>
   Salve<br>
   Tincture</td>
   <td>Alestrian Coral<br>

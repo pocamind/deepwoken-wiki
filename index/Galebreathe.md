@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 12193
+revid: 12318
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -47,7 +47,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn.
  |
 |  | Air Force | A blast of wind | Shoots out air from your hands in the direction of your mouse and staggers target.
 
--   Deals light damage.
+-   Deals VERY light damage.
 -   Knocks opponents back and stuns them.
 
  |

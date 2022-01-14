@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 12245
+revid: 12375
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -379,10 +379,10 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>45 MED</td>
   <td>22</td>
   <td>N/A</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>0</td>
+  <td>2</td>
+  <td>8</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td>Warden Ceremonial Sword</td>
@@ -405,7 +405,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.7x</td>
 </tr>
 <tr>
-  <td>Shattered Katana</td>
+  <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
   <td>100 MED</td>
   <td>20</td>
   <td>25%</td>
@@ -557,7 +557,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.6x</td>
 </tr>
 <tr>
-  <td>Enforcer's Axe</td>
+  <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
   <td>75 HVY</td>
   <td>26</td>
   <td>N/A</td>
@@ -606,7 +606,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.6x</td>
 </tr>
 <tr>
-  <td>Darksteel Greatsword</td>
+  <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
   <td>40 HVY</td>
   <td>26</td>
   <td>N/A</td>
@@ -655,7 +655,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>0.6x</td>
 </tr>
 <tr>
-  <td>Pale Morning</td>
+  <td><a href="Pale_Morning.md">Pale Morning</a></td>
   <td>75 HVY, 10 STR</td>
   <td>24</td>
   <td>N/A</td>
@@ -754,7 +754,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Curved Blade of Winds</td>
+  <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
   <td></td>
   <td>19</td>
   <td>35%</td>
@@ -764,7 +764,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>0.8x</td>
 </tr>
 <tr>
-  <td>Crypt Blade</td>
+  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
   <td></td>
   <td>26</td>
   <td>N/A</td>

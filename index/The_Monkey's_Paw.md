@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 10812
+revid: 12302
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Template:AreainfoboxNorth East of Songseeker Wilds, There's a gate, and you want to follow straight through the gate, if you follow straight, it should appear to your left.
+Template:AreainfoboxNorth East of Songseeker Wilds, There's a gate, and you want to follow straight through the gate, if you follow straight, it should appear to your right.
+
+  
 
 Once you enter the Island (from the front), there is a ridge which overlooks a massive flat ground. To the left and to the right of the ridge, there's 2 ropes that lead down into it. The ropes don't work. (What a shame)
 
@@ -27,8 +29,7 @@ The island's name is likely a reference to the story "The Monkey's Paw" by W.W. 
 
 Talking to the flame
 
-Budyuuu was here
-
+  
   
 
 Looking back at the ridge

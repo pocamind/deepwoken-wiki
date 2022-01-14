@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 11459
+revid: 12313
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -56,7 +56,7 @@ File:HDSurvival.png
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, lose around 10% hp/0.15 seconds, and lose all hunger and thirst guaranteeing your death.<figure><figcaption></figcaption></figure></td>
+  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, lose around 10% hp/0.15 seconds. The thirst and hunger bar will rapidly decrease in an attempt to refill your blood bar. Upon all of the bars reaching 0, you will start to lose health quickly.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>

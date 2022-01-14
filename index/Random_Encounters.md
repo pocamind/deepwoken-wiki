@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 11848
+revid: 12339
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -24,11 +24,23 @@ A campfire, circled by two to three NPCs. The strength of said NPCs is scaled ba
 
 While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in.
 
+### **Shadow Bandits**
+
+A group of 3 bandits, reconisable by their black armor and the lack of campfire. Those usually drop aeon logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before dissapearing in a puff of shadow, leaving the player alive.
+
 ### **Authority vs X**
 
 Authority NPCs of constant strength attack either a group of Legion, Pathfinder, or Etrean soldiers.
 
-### **Hobo**
+**Divers vs Monster**
+
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.
+
+### **Golden Rat Fighter**
+
+A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest.
+
+### **[Hobo](Hobo.md)**
 
 The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him most likely not more. If you interact with the Hobo, they will brag of their wealth. With 60~70+ charisma you can take one of their chests.
 
@@ -38,9 +50,15 @@ If you open one of their chests (don't have to take the loot) it will aggro them
 
 The teacher is an NPC that is often found situated around a campfire. As per dialogue, a player can gain a skill level in one of the six categories.
 
-### Sharko vs Golem
+### Megalodaunt vs Golem
 
 A sharko can be found fighting a Golem or two in Upper Erisia, the Golems will usually win.
+
+### **Megalodaunt vs Red Megalodaunt**
+
+Exclusive to the Songseeker Wilds, this is a rare event involving a regular Megalodaunt fighting it's red variant. If left by themself, the red one will always win. Red Megalodaunt have roughly 2x more hp and can rain fire swords.
+
+## Unique Events
 
 ### Aelita
 
@@ -48,12 +66,14 @@ Aelita spawns in the center rock in the Valley of Heroes during a non-winter sea
 
 The first order is to use a mantra, the second order is to chose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to chose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Snow Knight](Stone_Knight.md) event.
 
-## **Non-AI-Driven Encounters:**
+### **Akira**
 
-### **Legendary Boot**
+Rare event that only spawns in [The Depths](The_Depths.md) within the Celtor's Waste. While reading a book, he will be interrupted by a group of Ignition Union soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to blow their heads of.
 
-_IF YOU'RE WORTHY._
+The player can interact with Akira if they have neutral or good reputation with The Divers. Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 
-**(Encountered in Erisia)** "The Legendary Boot waits for the day that one worthy will claim it."
+After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md) The Divers.
 
-It is currently unknown what the boot does.
+### **The Meat Lord**
+
+The Meat Lord is a merchant NPC that can appear on Starswept Valley. He offers a selection of 3 of several meat based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else he will ignore you.

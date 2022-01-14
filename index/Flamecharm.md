@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 12160
+revid: 12385
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
 
-The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain. (Skills cost 100 notes to enhance.)
+The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain. The base cost is 100 notes to upgrade a mantra, but increases by 100 each time. You can level up a spell once every 15(?) attunement mastery. (e. g. level 2 at 25 flamecharm, level 3 at 40 flamecharm, level 4 at 55 flamecharm, etc. Requires confirmation)
 
 ## Mantras
 
@@ -41,30 +41,34 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Unable to move in wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
--   User ~is~ ~invincible~ takes reduced damage and has hyper-armor during casting.
+-   User takes reduced damage and has hyper-armor during casting.
 -   Can be improved with talent _Thorns of Fire_.
+-   Size can become insanely huge (About 2x the size of the general store in Etris) if 3 Stratus and Cloud stones are added, and damage can be increased to ~50 if levelled up to level 5. However this will cause it to use ~180 ether to cast.
 
  |
-| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summon six burning soldiers that attack the position of the caster.
+| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons six burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).
 -   Similar to Frostdraw's [Frozen Soldiers](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
 
  |
-|  | Fire Gun | A bullet of flames shot through each hand. | User readies and propels two balls of fire from their hands.
+|  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   Very short cooldown.
 -   Burns target(s).
 -   Can destroy certain parts.
+-   Can propel the caster backwards if it is casted while jumping/walking backwards or in water.
 -   Improved by [Multiplying Spark](Mantra_Modifiers.md#multiplying-spark).
+-   Medium to long range
 
  |
 |  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
 
 -   Inflicts light damage.
 -   Burns target(s).
+-   Can **NOT** be improved by Drift/Rush Shards or Crystal/Perfect Lens. (May have been changed, might require testing)
 
  |
 | File:Flame Blind.png | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
@@ -79,6 +83,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Cone hitbox.
 -   Deals moderate damage.
 -   Burns target(s).
+-   Can be improved with Cloud/Stratus stones.
 
  |
 |  | Flame Eruption (☆) | A pyroclastic eruption. | Caster summons two pillars of flame at the cursor's location.
@@ -88,30 +93,40 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Second pillar knocks enemies and ragdolls them briefly.
 
  |
-|  | Fire Forge (☆) | Toss a nimble dagger. | User swipes their weapon to launch three throwing stars.
+|  | Fire Forge (☆) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
 
 -   Deal light damage.
 -   Burns target(s).
 -   Breaks certain tiles (Hidden village door, glider cave planks).
+-   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
+
+(Someone test multiplying spark on this)
 
  |
 |  | Fire Blade (☆) | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
 
 -   Deals light-moderate damage.
 -   Burns target(s).
+-   Can block break some targets at mantra level 1, and almost all targets at higher levels.
+-   Caster can walk (although slowed) while casting.
 -   Can break certain parts.
 
  |
 |  | Rising Flame (☆☆) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
 
--   Deals moderate_?_ damage.
--   Can be improved with the Talents _Meteor Impact_ and _Phoenix Impact_.
--   Base move is blockable.
+-   Deals moderate damage.
+-   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact_.
+-   Initial slashes are blockable.
 
  |
 |  | Flame Assault (☆☆) | Burst foward in flames. | User dashes forward attacking anything in their path.
 
 -   Deals light damage.
+-   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
+-   Can be upgraded with Drift/Rush Shards and Crystal/Perfect Lens.
+-   Great movement when upgraded despite being a combat mantra
+-   Good for chasing/escaping
+-   Moves in a straight horizontal line (Even midair)
 
  |
 
@@ -120,8 +135,8 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
--   This Mantra can be improved with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
--   This Mantra can be improved with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
+-   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
+-   This Mantra can be improved with a [Spring Spark](Mantra_Modifiers.md#spring-spark). (requires testing, I tried 3 days ago and it didn't work)
 
  |
 
@@ -130,10 +145,10 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Flame Wisp (☆☆) | A servant of flames. | Caster summons a wisp of magma.
--   Heals the caster.
--   Ignites nearby campfire pits.
--   Ritual casting.
--   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone).
+-   Heals the caster 5% hp over 5 seconds every 10 seconds.
+-   Ignites nearby campfire pits if not busy healing you (does not use up the wisp).
+-   Ritual casting (Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether).
+-   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses (requires confirmation).
 
  |
 |  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
@@ -142,11 +157,12 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Lasts one minute.
 -   Cannot use to cook items.
 -   Ritual casting.
+-   Does not go out in rain
 
  |
-|  | Flame of Denial | Undying flame. | Caster animation description placeholder
+|  | Flame of Denial | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
 
--   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon recieving lethal damage)
+-   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon receiving lethal damage)
 
  |
 
@@ -179,4 +195,4 @@ Once obtaining Azure Flames, you will see most of the appearance of your Flamech
     -   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing death for one hit.
     -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
     -   Flame Palm, though similar to Ignis from Rogue Lineage, is cast more similarly to the [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro.
--   Flamecharm does not currently (1/01/2022) possess any 3-star Mantra.
+-   Flamecharm does not currently (as of 1/14/2022) possess any 3-star Mantra.

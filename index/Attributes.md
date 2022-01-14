@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 12044
+revid: 12386
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -36,10 +36,11 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
   
 
--   Overall Physical Strength, Increases Carry Load by 1 per Strength.
+-   Overall Physical Strength, increases Carry Load and Armor Penetration.
+    -   Increases Carry Load by 1 per Strength.
+    -   For every 10 Points of Strength, gain 1% Penetration.
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras, depending on the Character's Strength.
--   For every 10 Points of Strength, gain 1% Penetration.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
 -   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength.
 
@@ -55,7 +56,8 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
   
 
--   Overall character wellbeing and resistance to diseases. Increases Health slightly per Fortitude. (1 HP Increase per Fortitude?)
+-   Overall character wellbeing and resistance to diseases. Increases Health slightly per Fortitude.
+    -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.
@@ -78,7 +80,6 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
   
 
 -   Slight of hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
--   Agility Weapons, such as daggers, requires a Agility requirement to wield.
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility. Most of them also grant Passive Agility, which is not displayed on the attribute tab but grant improvemed movement normally.
 -   Gain Agility EXP via Parkour(such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
