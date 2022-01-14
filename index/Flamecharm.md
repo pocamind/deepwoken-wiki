@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 12122
+revid: 12160
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Spells]
 
 ## Description
 
-Flame charm icon
+Flamecharm icon
 
 Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning, damage per second and AoE effects.
 

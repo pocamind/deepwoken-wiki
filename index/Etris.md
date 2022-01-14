@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 12125
+revid: 12126
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -142,7 +142,7 @@ Palace
 
 Audience with the Lord Regent
 
-This is how the King executes you if your reputation isn't high enough.
+This is how the Lord Regent executes you if your reputation isn't high enough.
 
 Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
 

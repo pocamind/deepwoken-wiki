@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 12073
+revid: 12175
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,6 +25,7 @@ the respective quests.
 -   Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
 -   Tacet: currently unknown (THIS IS A MURMUR NOT A MYTH)
 -   Rythm: Speculated _(Someone said it was confirmed by a mod unknown if fact)_
+-   Ardour Scream dropped as a talent card after unlocking Murmur: Ardour
 
 File:Tacet.png
 
@@ -57,13 +58,6 @@ File:Tacet.png
   <td>Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)<p><br>
   [Provides +9 Sanity, +1 Posture, +3 Health]</p></td>
   <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether.</td>
-</tr>
-<tr>
-  <td><figure>File:Murmur- Adagio.webp<figcaption><p>Murmur: Adagio</p></figcaption></figure></td>
-  <td>Adagio</td>
-  <td>An application of the Song that allows you to slow time in a bubble around you Press H to active.<p><br>
-  [?]</p></td>
-  <td>?</td>
 </tr>
 </tbody>
 </table>

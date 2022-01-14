@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 12006
+revid: 12145
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -132,9 +132,9 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 <tr>
   <td><b>Soothing</b></td>
   <td>Salve<br>
-  Elixir<br>
+  Elixir<p>Potion<br>
   Tincture<br>
-  <i>(someone check this)</i></td>
+  <i>(someone check this)</i></p></td>
   <td>Dentifilo<br>
   Bluecap(?)</td>
   <td>Instantly restores reservoir.</td>

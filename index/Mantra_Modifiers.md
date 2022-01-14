@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12121
+revid: 12150
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -257,6 +257,7 @@ _"You feel dizzy when you hold it."_
 #### Multiplying Spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
+-   This modifier turns the Shadow Gun Mantra into a multiple shots.
 
 #### Tornado Spark
 

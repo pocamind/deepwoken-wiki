@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 12101
+revid: 12172
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,9 +14,9 @@ _For information on Human Enemies, go [here](Enemies.md)._
 
 Deepwoken's finest, and arguably primary focus, are the hostile Creatures. They can tear down Players and NPCs apart if they are ill-equipped or inexperienced, along with sinking your ships into the ocean if you're unlucky...
 
-Creatures are embeddded to the game as both a fundamentals-check for how well you are able to recognize patterns and being able to counter accordingly. While definitely not being a perfect balance, being able to defeat the enemy with confidence most surely means you'll be better off against other Players, and vice versa. In admorality, a large amount of loot is most easily or only obtainable from Creatures for things such as Armor and Mantra Modifiers.
+Creatures are embedded to the game as both a fundamentals-check for how well you are able to recognize patterns and being able to counter accordingly. While definitely not being a perfect balance, being able to defeat the enemy with confidence most surely means you'll be better off against other Players, and vice versa. In amorality, a large amount of loot is most easily or only obtainable from Creatures for things such as Armor and Mantra Modifiers.
 
-While each creature has customised attacks and their own attack patterns, they all share one thing; They have learnable patterns. There is never a mob you cannot beat, even as a freshie, if you perfectly learn their pattern to a T, you may even beat the legendary [Primadon](Primadon,_Titan_of_the_East.md).
+While each creature has customized attacks and their own attack patterns, they all share one thing; They have learnable patterns. There is never a mob you cannot beat, even as a freshie. If you perfectly learn it's pattern to a T, you may even beat the legendary [Primadon](Primadon,_Titan_of_the_East.md).
 
 Generally, a good rule to follow is to NEVER run away from any creature unless you're SEVERELY losing, and also outclassed. If you have even a chance at victory, grab it. Running will only leave you to being chased, and in most cases, you'll be caught. Besides, you'll have to learn their pattern eventually either way.
 
@@ -33,7 +33,7 @@ In The Depths, creatures are noticeably different compared to the Etrean Luminan
 -   Benefitting from the lower gravity of The Depths, being able to jump much higher to pursue players.
 -   Being much more aware, noticing players more easily.
 -   Some gaining new behaviors/abilities, such as Lionfish's Beam.
--   Becoming much more persitent in their chase unless major distance is made, or the death of them or the victim.
+-   Becoming much more persistent in their chase unless major distance is made, or the death of them or the victim.
 
 And:
 

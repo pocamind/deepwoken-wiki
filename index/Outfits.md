@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 12106
+revid: 12165
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -55,7 +55,7 @@ File:Merchant Robes.PNG
  | None | _Talent: Mates' Rates_ |
 | 
 
-File:Nda.jpg
+File:SkepticPioneerEdit1.png
 
  | 
 
@@ -1094,7 +1094,11 @@ Posture
 
 % vs. (sea, depths, giant)
 
- | Depths chests |
+ | [The Duke](Duke_Ishamon_Erisia.md)
+
+Depths chests
+
+ |
 | 
 
  | Royal Pathfinder | 2-4 buffs | [Starswept Valley](The_Starswept_Valley.md)
@@ -1138,7 +1142,7 @@ _Requires Power Level 10_
  | Mudskipper cave event chest |
 | 
 
- | Michael Phelps | Gives the user a massive increase in swimming speed.
+ | Freestyler's Band | Gives the user a massive increase in swimming speed.
 
 _Requires Power Level 10_
 

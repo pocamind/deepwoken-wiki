@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 7510
+revid: 12167
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,30 +10,35 @@ categories: [Pages with broken file links]
 
 ## Description
 
-A High-Ranking Member of The Central Authority. Fort Merit Captains are both skilled and armed to the brim; having a high health pool than Fort Merit Guards and an intelligence of a Player.
+Fort Merit Captains (Authority Commanders) are High-Ranking members of The Central Authority. The rank of "captain" fits them very well, they have the combat skills of a experienced player and a huge health pool, making them a true challenge.
 
-Fort Merit Captains are aggressive, using their Flamecharm Mantras to their potential.
-
-Fort Merit Captains are located in [Fort Merit](Fort_Merit.md), and holds the Jail Key on their persons.
+Their appearance consists of the Authority Commander Uniform, Authority Helmet wielding a medium-heavy weapon (Adretian Axe, Officer Saber, Shotel).
 
 File:Fort Merit Captain.png
 
 A Fort Merit Captain, followed by Fort Merit Guards.
 
-  
+## Location
 
-## Combat
+Atleast ONE Captain is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves (they must know some FNAF lore)
 
-### Attacks
+## Moves
 
-Flamecharmer - Attuned with the elements of a [Flamecharmer](Flamecharm.md). Captains are attuned with Flame Assault, Fire Blade and Flame Repulsion.
+Their arsenal is composed of "[Flamecharm](Flamecharm.md)" ,a medium or heavy weapon (Adretian Axe, Officer Saber, Shotel), and the [Strong Left](Attunement-less.md) mantra:
 
-Strong Left - Captains has the "Strong Left" Strength Mantra.
+-   **Flame Assault:** The Captain dashes forward hitting anything in their path. _Blockable, can be parried._
+-   **Flame Repulsion:** After a wind-up of ~2 seconds, The Captain explodes in a burst of flames. _Blockable, cannot be parried._
+-   **Flame Blade:** The Captain thrusts down with their blade coated in flame. _Blockable, can be parried_
+-   **Strong Left:** A powerful, flinging punch that shatters the air. _Cannot be blocked, can be parried._
+-   **Intelligence:** Captains have the combat skills of an experienced player. Can instantly parry your first attacks unless it was a feint.
 
-### Intelligence
+## Tips
 
-Fort Merit Captains knows how to parry, block and dodge. Can instantly parry your first attacks unless it was a feint.
+-   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
+-   At almost any given time they'll try to use their mantras while performing an M1 combo.
+-   Expect for Authority Peacekeepers (regular guards) to interfere with your fight.
+-   You'll frequently get into a parry battle with the captains.
 
 ## Notes/Trivia
 
--   You can pickpocket the Fort Merit Captain for the Jail Keys, but requires the Pickpocket Talent to do so. Without it, the captain will instantly aggro on you. (Needs Testing)
+-   You can pickpocket the Fort Merit Captain for the Jail Keys, but requires the Pickpocket Talent to do so. ~Without it, the captain will instantly aggro on you~. Nothing happens when you attempt to pickpocket them without the talent.

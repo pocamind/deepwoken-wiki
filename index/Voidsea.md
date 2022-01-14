@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 8980
+revid: 12164
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,4 +28,4 @@ Whirlpool also appears in the area. They instantly destroy any boat that touch t
 -   If you die in the void sea, no matter how many lives you have, you'll go to the Depth's
 -   Some video proofs about ice dragon: [https://youtu.be/-eJp5\_pmdq4](https://youtu.be/-eJp5_pmdq4)
 -   Monsters only spawn when you come in contact with bubbles.
--   It is rumoured that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumour however is shoddy at most.
+-   It is rumoured that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumour however is shoddy at most. (May be refrenced to void heart)

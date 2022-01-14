@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12085
+revid: 12182
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -24,11 +24,11 @@ Talents are the main aspect of your character's build. Each [Power Level](Leveli
 
 There are many Talents in Deepwoken, all of which are under certain categories, such as the Engage Warrior Talent that allows your character to gain ether for each M1 Attack.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sounds from Below are one.
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are some examples of this.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements.
 
-**ABOUT WILDCARDS (IMPORTANT)** - For you permafreshies, Wildcard mantras are **NOT** specific mantras. Wildcard mantras can be any mantra that you have no space for in your normal slots. For example, if you already have 3 combat mantras and get another, the extra combat mantra will be placed in the Wildcard slot.
+**ABOUT WILDCARDS (IMPORTANT)** - The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 
 [Power Icon (Located at the top center of the screen)](https://deepwoken.fandom.com/wiki/File:Power_Card_Icon.png)
 
@@ -85,7 +85,7 @@ Hand of Mantra Cards
 
 -   Lowstride \[Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Prerequisites: Agility | Benefit: Retain normal movement speed when crouching.
--   Conditioned Runner \[Legendary Talent\] You regenrate health faster than normal when running (+1 Passive Agility)
+-   Conditioned Runner \[Legendary Talent\] You regenerate health faster than normal when running (+1 Passive Agility)
 -   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Prerequisites: Agility | Benefit: Negates Movement Speed Penalty when low health.
 
@@ -150,7 +150,7 @@ Hand of Mantra Cards
 
 ### Brawler
 
--   Trained Fist \[Genric Talent, Common Talent\] - You can now equip Caestus. (+7 Health)
+-   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus. (+7 Health)
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
 
 ### Bulwark
@@ -159,18 +159,18 @@ Hand of Mantra Cards
 
 ### Butterfly
 
--   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after succesfully dodging an attack (+1 Passive Agility)
--   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediatley (+1 Passive Agility)
+-   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after successfully dodging an attack (+1 Passive Agility)
+-   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediately (+1 Passive Agility)
 -   Acrobat \[Generic Talent, Common Talent\] - Move faster when doing a Walljump. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent\] - When you succesfully dodge, you'll automatically dodge the next attack. ~(Not in description: Also halves the invincibility frames of your dodges, free or not)~ The downside was removed as of 01/01/2022. (+1 Passive Agility)
+-   Risky Moves \[Generic Talent, Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. ~(Not in description: Also halves the invincibility frames of your dodges)~ The downside was removed as of 01/01/2022. (+1 Passive Agility)
 
 ### Caster
 
 -   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage(15% dmg buff).
     -   Prerequisite: Intelligence (Got it at lvl 28 Intelligence. Might be able to get it at a lower level?)
--   Perfect Flash \[Generic Talent, Rare Talent\] - Having max health makes your mantras do 1.25x damage (not exact description, but accurate).
-    -   Prerequisite: Intelligence (confirmed, only ever got this when i had over 20 intelligence)
--   Ether Absorption \[Generic Talent, Common Talent\] - Recieve Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+-   Perfect Flash \[Generic Talent, Rare Talent\] - Having full health causes your mantras do 1.25x damage.
+    -   Prerequisite: Intelligence (confirmed, only ever got this when I had over 20 intelligence)
+-   Ether Absorption \[Generic Talent, Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
 
@@ -187,7 +187,7 @@ Hand of Mantra Cards
 -   Tough Love \[Generic Talent, Common Talent\] - Deal more damage to player charmed by you. (+ 4 Ether)
 -   Familiar Sight \[Generic Talent, Rare Talent\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   PrerequisiteFor All: Charm
+    -   Prerequisite For All: Charm
 
 ### Cryomancer
 
@@ -398,6 +398,8 @@ Hand of Mantra Cards
 ### Natural Armor
 
 -   Padded Armor \[Generic Talent, Common Talent\] - You take 5% less damage when your armor is broken. (+1 Passive Agility)
+-   Steel Scales \[Generic Talent, Common Talent\] - You take an additional 5% less damage when your armor is broken. (+1 Passive Agility)
+    -   Prerequisites: Padded Armor
 
 ### Navaen Nomad
 
@@ -420,7 +422,7 @@ Hand of Mantra Cards
 -   Bodyguard Detail \[Generic Talent, Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
     -   Requires around 40 charisma - The player will say "Hey, over here!" when this effect activate, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Generic Talent, Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
--   Diplomat \[Genric Talent, Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
+-   Diplomat \[Generic Talent, Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   Prerequisites For All: Charisma
 
 ### Prospector
@@ -472,7 +474,7 @@ Hand of Mantra Cards
 -   Jumper Cables \[Generic Talent, Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
     -   Prerequisite: Static Link
 -   Link Conduction \[Generic Talent, Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
-    -   Prerequsite: Static Link
+    -   Prerequisite: Static Link
 
 ### Stormblade
 
@@ -546,7 +548,7 @@ Hand of Mantra Cards
 
 -   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
     -   Prerequisites: Thundercall | 50 Thundercall
--   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and flamecharm are for simpletons. (Allows you to light campfires)
+-   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
 
 -   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
 
@@ -593,9 +595,9 @@ Hand of Mantra Cards
 ### Warrior
 
 -   Engage \[Generic Talent, Common Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
-    -   Prerequisites: Strength
+    -   Prerequisites: None
 -   Critical Attack \[Generic Talent, Common Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
-    -   Prerequisites: Strength
+    -   Prerequisites: None
 
 ### **Waterborne**
 
@@ -611,8 +613,8 @@ Hand of Mantra Cards
 -   Aerial Stab \[Generic Talent, Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: High Medium Weapons (35+?)
 -   Ariel Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
--   Succesive Throw \[Generic Talent, Common Talent\] \[Dagger\] When you succesfully florish an enemy, you throw out a dagger afterwards
-    -   Presrequisites: High Light Weapon (~40)
+-   Successive Throw \[Generic Talent, Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
+    -   Prerequisites: High Light Weapon (~40)
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either0)
@@ -645,18 +647,21 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 #### Fortitude Combat (Around 30-35 Fortitude Needed)
 
--   Reinforce - Up defence for you and allies around you
+-   Reinforce - Up defense for you and allies around you
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
 
 #### Agility Combat (25 Agility Needed)
 
 -   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 -   Dash - Just a dash, nothing special. (Mobility)
--   Adrenaline Surge - Adrenaline Surges in your body activating a breif speed boost. (Support)
+-   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)
 
 #### Charisma Combat (??? Charisma Needed)
 
+-   Glare - Opponents facing you are briefly stunned.
+
 -   Sing - Charm those around you with your powerful voice.
+
 -   Taunt - Taunt those around you, causing them unable to jump and to take more damage. However in their rage they do extra damage.
 
 #### Intelligence Combat (50 Intelligence Needed)
@@ -728,12 +733,12 @@ _Main Source - Frostdrawer_
 
 -   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage. This skill is **arguably** the worst frost skill.
 -   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
--   Frost Grab - Command grab that makes you shortly rush foward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
+-   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
 -   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. It's parryable and blockable.
 -   Crystal Impale (Requires Glass Path) - Jumps up and then smashes into the ground dealing multiple hits
 -   Crystal Kick (Requires Glass Path) -Kicks infront of you launching up your opponent into the air.
 -   Ice Eruption (1 Star Mantra) - Stomp the ground, releasing a barrage of ice spikes that block breaks.
--   Ice Blade (1 Star Mantra) - Summon an ice sword that you dual weild with your current weapon for a 4-hit slash combo.
+-   Ice Blade (1 Star Mantra) - Summon an ice sword that you dual wield with your current weapon for a 4-hit slash combo.
 -   Ice Smash (1 Star Mantra) - Ready a mace made of ice, and smash it onto the ground in front of you.
 -   Ice Lance (2 Star Mantra) - Charge in front of you with an ice spear, dealing high damage. Much more range than frost grab.
 
@@ -761,8 +766,8 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 #### Mystery
 
--   Mystery Mantra \[Any Attunement\] - Recieve a random Attunement Combat Mantra of any of your Character's Attunements. (Example: Random Fire, Thunder or Strength Combat Mantra)
--   Roll 2 - Recieve 2 random Talents.
+-   Mystery Mantra \[Any Attunement\] - Receive a random Attunement Combat Mantra of any of your Character's Attunements. (Example: Random Fire, Thunder or Strength Combat Mantra)
+-   Roll 2 - Receive 2 random Talents.
 
 ## Outfit Talents
 

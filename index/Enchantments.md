@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 12103
+revid: 12144
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -102,7 +102,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Attacks will drain the opponent's thirst.</p>
+  <td><div><p>Attacks will greatly drain the opponent's thirst. (2 hits will already drain all thirst)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -114,7 +114,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
-  <td><div><p>Attacks will steal the target's thirst and hunger.</p>
+  <td><div><p>Attacks will steal a moderately high amount of the target's thirst and hunger. (One flourish to fully steal all water and hunger)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -126,7 +126,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Attacks let you hit multiple opponents at once, so long as they are near the person you hit.</p>
+  <td><div><p>Attacks let you hit multiple opponents at once, so long as they are near the person you hit. The damage done to multiple people is low unless you are physically hitting someone.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -144,7 +144,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>Every parry you do deals damage to the opponent you parried.</p>
+  <td><div><p>Every parry you do deals a parryable light damage hit to the opponent you parried.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -323,4 +323,5 @@ Credits to the people who made this page better:
 -   TotallyADuck
 -   Moixme
 -   PlxlPug
+-   flutternative
 -

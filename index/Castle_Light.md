@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 11967
+revid: 12138
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has a life barrier surrounding it. Requiring you to have entered the depths through a whirlpool instead of dying to pass through it.
+Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has an Ether Barrier preventing entry. Entry will only be granted if the player washed their face in the Lightkeeper Temple.
 
 ## Contents
 
@@ -19,5 +19,5 @@ Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to 
 
 ## Notes
 
--   The only "safe" area in the depths as it is hard for monsters to get into the castle proper and has guards protecting it.
+-   While considered a "safe zone" to some extents, monster can enter the barrier and also spawn in the castle. Apprentice Divers might be able to defeat said monster, but will have no chance against Corrupted one.
 -   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
