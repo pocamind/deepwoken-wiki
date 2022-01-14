@@ -1,32 +1,47 @@
 ---
 title: Songseeker Frostdrawer
-revid: 12068
+revid: 12282
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Songseeker Frostdrawer
 
-### Description
+## Description
 
-Songseeker Frostdrawers are NPC enemies that, of course, have the "[Frostdraw](Frostdraw.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot.
+Songseeker Frostdrawers are NPC enemies that have the "[Frostdraw](Frostdraw.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot.
 
 They can be found sitting on the ground wearing a mask and a pair of robes, their appearance is repetitive, the race not.
 
-### **Location**
+## **Location**
 
 -   [Minityrsa](Minityrsa.md)
 -   Songseeker Wilds
 
-### **Moves**
+## **Moves**
 
-Their arsenal consists of only [Frostdraw](Frostdraw.md) (at Minityrsa)(_they have fists as melee at songseeker wilds?_).
+Their arsenal consists of only [Frostdraw](Frostdraw.md).
+
+### Moves:
 
 -   **Ice Spike:** Thrusts a spike of ice from the ground at the player's location. Deals moderate damage and sends target into the air. Blockable, can be parried.
 -   **Ice Dagger:** Throws three daggers of ice toward the nearest player. Homing attack. Blockable, can be parried.
 -   **Ice Eruption:** Forms a circle of ice around the NPC. Deals moderate damage, slows target down. Blockable, can be parried.
 
-### **Tips**
+### Boons:
 
--   The Frostdrawers at Minityrsa cannot block,parry or M1 at all. Their mantras still cast despite being damaged during it's casting, yet it deals no damage.
--   Sometimes the AI will got bat-shit crazy and only spam Ice Dagger mantra. Make sure to take distance or parry if this ever happens, the damage done is pretty devastating if you keep trying to M1.
+-   **Apparently Unlimited Ether:** The Songseekers have an unlimited amount of Ether.
+-   **No Cooldowns:** The Frostdraw Songseekers have apparently no cooldowns on their mantras, allowing them to constantly spam them unless they are constantly damaged.
+-   **Third Eye:** Cannot be assassinated.
+
+### **Flaws:**
+
+-   **No Weapons:** The Frostdraw Songseekers have no weapons/fighting style.
+
+## Tips
+
+-   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
+-   Even if you attack them while they are casting a mantra, "cancelling" it. It will still cast regardless, dealing no damage.
+-   Constantly flourishing them/using mantras will prevent them from spamming mantras.
+-   Sometimes the AI goes ape-shit and starts spamming Ice Daggers, it is recommended to back off as the damage and stun is devastating.
+-   They're relatively easy to fight, even at a low power level.

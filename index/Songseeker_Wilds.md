@@ -1,53 +1,82 @@
 ---
 title: Songseeker Wilds
-revid: 12180
+revid: 12277
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Songseeker Wilds
 
-The Songseeker Wilds is an island located in the Aratel Sea, between Minityrsa and Summer Isle. It can be reached by the nearby gate entrance, or by taking the gorges directly opposite to Erisia, linking The Etrian Sea to The Aratel Sea and turning right.
+## Description
 
-It consist of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by Ships.
+The Songseeker Wilds is an island located in the [Aratel Sea](The_Aratel_Sea.md), between [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
+
+It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by Ships.
+
+## Location
+
+It can be reached by the nearby gate entrance, or by taking the gorges directly opposite to [Erisia](Erisia.md), linking The Etrean Sea to The Aratel Sea and turning right.
 
 ## The Island
 
-**Small Island**
+### **Small Island**
 
-The smaller island main feature is a mine, featuring a few nodes of Coal, Iron, Rock and little Gold. There are a lot of trees, many of which bear fruits. A small camp can be reached on a nearby hill.
+-   A mineshaft containing several nodes of Rock,Coal,Iron and Gold.
+-   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit and Pomar.
+-   A small campsite ontop of a hill.
 
-**Large Island**
+### **Large Island**
 
-The bottom level features trees bearing fruits, a small hut, and a windmill. To reach the higher part of the island, a mineshaft, which contains many nodes of the ores mentioned above, can be opened with the use of Mantras that can destroy walls and wood. It is also possible to scale the terrain near the stream to reach the upper area without entering the mine. Exploring the upper area further reveals a temple, in which the [Flamecharm](Flamecharm.md) trainer can be located.
+-   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit and Pomar.
+-   A mineshaft that is sealed off by debris, using terrain destroying mantras can open it up, containing several nodes of Rock,Coal,Iron and Gold.
+-   There are 3 structures:
+    1.  A Windmill, by climbing up the window there is a small room. (nothing of interest inside)
+    2.  A small hut. (nothing of interest inside)
+    3.  The Songseeker Temple, where aswell the [Flamecharm](Flamecharm.md) trainer can be located.
+
+## Points Of Interest
+
+### The Songseeker Temple/Flamecharm Trainer
+
+To reach the temple the player must climb up to the Temple.
+
+-   The mineshaft that is sealed off by debris has a second opening leading up towards a waterfall.
+-   Alternatively the player can use the surrounding trees to climb up to the waterfall
+
+The player from there will have to climb further up until they find a set of stairs.
+
+-   Follow the stairs, do not turn to the right, go foward
+-   Upon reaching the top, the temple will be easily spotted
+-   Inside is the [Flamecharmer Trainer](Attunement_Trainers.md).
 
 ## Enemies
 
--   Songseeker Cultists
-    -   Songseeker Flamecharmer
-    -   Songseeker Frostdrawer
-    -   Songseeker Thundercaller
+### Songseeker Cultists
 
--   Megalodaunt and its variant, the Red Megalodaunt
-    -   The pair appears in the rare Megalodaunt VS Red Megalodaunt event, which only occurs in this location.
+-   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
 
-## Guaranted enemies spawns
+### Megalodaunt and the Red Megalodaunt
 
-These groups will spawn a chest once each enemies are defeated.
+-   The pair appears in the rare [Megalodaunt](Megalodaunt.md) VS Red Megalodaunt event, which only occurs in this location.
 
--   Bottom of the stairs to the temple
-    -   A Songseeker Flamecharmer, guarding the cliff from which most player will come from
-    -   A Songseeker Frostdrawer, looking over the distance on a nearby cliff
-    -   A Songseeker Thundercaller, overlooking the smaller island on another cliff; can be difficult to reach, mobility mantra recommended
+## Guaranted enemy spawns
 
--   Galebreath Pylon
-    -   1 of each Songseeker, looking at the pylon
+### At the bottom of the stairs
 
--   Flamecharm temple
-    -   A Songseeker Frostdrawer on the left
-    -   A Songseeker Flamecharmer on the right.
--   The main shoreline with the [Ship](Ships_&_Sailing.md) spawn point
-    -   A Songseeker Frostdrawer? sitting looking into the water.
+-   A Songseeker Flamecharmer, guarding the cliff from which most player will come from
+-   A Songseeker Frostdrawer, looking over the distance on a nearby cliff
+-   A Songseeker Thundercaller, overlooking the smaller island on another cliff; can be difficult to reach, mobility mantra recommended
+
+### Galebreath Pylon
+
+-   1 of each Songseeker, looking at the pylon
+
+### Flamecharm temple
+
+-   A Songseeker Frostdrawer on the left
+-   A Songseeker Flamecharmer on the right.
 
 ## Loot
 

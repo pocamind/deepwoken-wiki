@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 12086
+revid: 12260
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -56,3 +56,5 @@ Charisma, Rare
 ##### Techniques against idiots
 
 You can ask an obvious question, then Ctrl + V vow of mastery in tricking them into vowing with you. (Worked once)
+
+👆🏿 This doesnt work anymore, as of now, after responding yes, you will have a menu appear on your screen which warns you and lets you accept or decline it.

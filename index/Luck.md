@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 12192
+revid: 12252
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,9 +12,7 @@ _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Te
 
 ## Description
 
-File:Luck particles.png
-
-The luck gain particle effects. Note that the white box is a glitch and is not meant to appear along the particles.
+The new luck effect, emitts a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
 Luck is a hidden value that affects your Character's learning of rare Talents.
 

@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 12182
+revid: 12259
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Talents]
+categories: [Pages with broken file links, Talents]
 ---
 
 # Talents
@@ -250,6 +250,20 @@ Hand of Mantra Cards
 ### Fish
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.
+
+**Freak Of Nature**
+
+-   Exoskeleton \[Legendary talent\] It always takes 20 hits to kill you - this makes it impossible to die unless struck 20 times after entering combat
+
+File:Exoskeleton.png
+
+  
+
+  
+
+  
+
+  
 
 ### The Emperor's Blade
 

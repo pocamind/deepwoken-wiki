@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 11908
+revid: 12275
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-_"Born from the stars with blood of those born of light. Though rarely seen, Lightborns exhibit vast amounts of knowledge and strength."_
+_"The stars call you back..."_
 
 **Currently Unobtainable**
 

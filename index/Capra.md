@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 11062
+revid: 12254
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -20,19 +20,19 @@ _"Keepers of old knowlege, they wonder the lands offering their experience to th
 <tbody>
 <tr>
   <td rowspan="3">File:Seaborne.png</td>
-  <td><b>Mark of Ku</b> (Capra)
+  <td><b>Mark of Ku</b> (Capra) (Red)
   <ul>
     <li>Buffs the "rest" (hp regen) of one person they choose around them as long as they are at a campfire or level 5+</li>
   </ul></td>
 </tr>
 <tr>
-  <td><b>Mark of Nemit</b> (Nature)
+  <td><b>Mark of Nemit</b> (Nature) (Green)
   <ul>
     <li>Buffs the food of one person they choose around them as long as they are at a campfire or level 5+</li>
   </ul></td>
 </tr>
 <tr>
-  <td><b>Mark of Jurik</b> (Moon)
+  <td><b>Mark of Jurik</b> (Moon) (Blue)
   <ul>
     <li>Buffs the sanity of one person they choose around them as long as they are at a campfire or level 5+</li>
   </ul></td>

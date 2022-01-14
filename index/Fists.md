@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 11857
+revid: 12274
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,7 +29,7 @@ There are several different styles.
 
 File:Way Of Navae.png
 
-**CRITICAL: Raise your leg, and kick your enemy. Careful, the windup is slow.**
+**CRITICAL: Raise your leg, and kick your enemy guard breaking. Careful, the windup is slow.**
 
   
 

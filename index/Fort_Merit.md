@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 12169
+revid: 12266
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]

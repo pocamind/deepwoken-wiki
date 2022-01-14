@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 11991
+revid: 12276
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,9 +30,9 @@ For information of Monsters, go [here](Monsters.md).
 
 ### Songseeker Cultists
 
--   Songseeker Flamecharmer
--   Songseeker Frostdrawer
--   Songseeker Thundercaller
+-   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
 
 ### The Ministry
 
@@ -58,9 +58,8 @@ For information of Monsters, go [here](Monsters.md).
 
 ### The Central Authority
 
--   Authority Commander
--   Authority Warden
--   Authority Prison Guard
+-   Authority Warden/Commander
+-   Authority Peacekeeper/Prison Guard
 -   Authority Footsoldier
 
 ### The Hive

@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 5442
+revid: 12286
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,6 @@ Calabash + Beeswax near a crafting table.
 the canteen has 5 uses to refill water bar before having to refill at a [well](Water_Well.md) (to refill click near a well, you can refill in the ocean but if you drink the ocean water you will vomit.)
 
   
-im surprised not that many people know this item and its use
 
 ### Video Guide
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 12229
+revid: 12262
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -23,7 +23,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 
 -   **Stomp** - Primadon raises its foot and stomps once. Can be parried.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be both parried and perfect dodged.
--   **Watch yo Tone _EX_** - Primadon performs a kick similar to the Sharko's ragdoll kick, except this sends you to orbit and does heavy damage. Only dodgeable.
+-   **Watch yo Tone _EX_** - Primadon winds back it's leg in order to deliver a devasting kick that is capable of punting you ~across the island~ _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megolodaunt's fling kick. Can only be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and perfect dodged.
 
 ## Combos
@@ -33,7 +33,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 ## Strategies & Tips
 
 -   When between the Primadon's feet, he will only stomp and kick. This is a great way to solo him as his foot attacks are obvious and can be easily parried or rolled out of.
-    -   They also make a whooshing sound every time they are raised, adding on to the _obvious_
+    -   They also make a whooshing sound every time they are raised, adding on to the _obvious_ factor of his attacks.
 -   Primadon's health does not scale with the amount of players present on the island- you are instead given 10 minutes to kill this beast. If this deed isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
 -   The footsteps of Primadon play a loud, noticeable noise that can be heard from very far, even from the beachfront of Monkey's paw. Use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the players (or _singular, solo_ _player_) fighting this fishy ape.
 -   It is recommended to stay completely still while fighting to avoid being confused by Primadon's walking animation.

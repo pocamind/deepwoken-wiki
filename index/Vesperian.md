@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 12161
+revid: 12256
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -14,7 +14,7 @@ Template:Races-Main
 
 “ Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents. ”
 
-― God (Presumably)
+― Voxhus (probably)
 
 ## Racial Traits
 

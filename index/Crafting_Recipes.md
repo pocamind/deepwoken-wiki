@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 12204
+revid: 12249
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,7 +36,7 @@ Picture of a Crafting Bench
 
 -   **[Canteen](Canteen.md)** - _1 Beewax, 1 Calabash_
 -   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
--   **Sharkscale Glider** - (Schematic Required) _2 Sticks, 2 Megalodaunt Hide_
+-   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 1 Wood, 1 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber  
     
@@ -69,13 +69,14 @@ Certain foods, usually the more complicated one/which require more work to obtai
 -   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
--   **[Candied Fruit](Candied_Fruit.md)** - _2 Calabash **OR** 2 Redd, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
+-   **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
 -   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
 -   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **Sauteed Scallops** - 2 Scallops
+-   **Cake** - 1 _Egg_, 1 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility)
 
 ## Alchemy
 
@@ -86,7 +87,7 @@ Potions are made with the use of a cauldron. One can be found in Etris, right of
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
--   2 Of a Ingredient will equal a Blight. (Blight is a potion but a lesser effect) 3 of a Ingredient will make a Potion.
+-   Adding more of one ingredient to a single ingredient potion adds to it's strength. You can add up to 3.
 -   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, ive fixed this page up a lot)
 -   The effectiveness of potions scales with your INTelligence stat, as well as being improved with 2 talents: Apothecary (stronger beneficial potions) and Exterminator (stronger negative potions).
 

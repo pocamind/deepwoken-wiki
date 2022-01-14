@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 12191
+revid: 12267
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,6 +23,8 @@ After talking to Mark Adaset in the Castle of Light, he tells the player that th
 
 ## Escaping The Depths
 
+File:Mnhfds8goqa81.png
+
 There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate, or climb the wall to drop down into the bastion from above.
 
 ### _The Bells_
@@ -37,6 +39,8 @@ Once all bells have been rung, a large bell choir will be heard across The Depth
 
 ### _Climbing the Walls_
 
+File:Scuffed map Depths.png
+
 Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of eachother all the way to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
 
 This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you.
@@ -45,15 +49,13 @@ This is certainly a faster method to escape, although still poses the threat of 
 
 The Voices of the Depths sentence you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
 
-File:Scuffed map Depths.png
-
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
 _**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases by going to the depths._
 
 | Trial Power | Possible Enemies |
 | --- | --- |
-| 1-9 | N/A - You escape without fighting a monster |
+| 1-7 | N/A - You escape without fighting a monster |
 | 10-18 | Deepknight (Bandit Leader) |
 | 19-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | Any variant of the [Megalodaunt](Megalodaunt.md). Can be corrupted. |

@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 12167
+revid: 12263
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,6 +30,9 @@ Their arsenal is composed of "[Flamecharm](Flamecharm.md)" ,a medium or heavy we
 -   **Flame Repulsion:** After a wind-up of ~2 seconds, The Captain explodes in a burst of flames. _Blockable, cannot be parried._
 -   **Flame Blade:** The Captain thrusts down with their blade coated in flame. _Blockable, can be parried_
 -   **Strong Left:** A powerful, flinging punch that shatters the air. _Cannot be blocked, can be parried._
+
+Boons:
+
 -   **Intelligence:** Captains have the combat skills of an experienced player. Can instantly parry your first attacks unless it was a feint.
 
 ## Tips

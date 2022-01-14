@@ -1,27 +1,32 @@
 ---
 title: Ministry Scout
-revid: 11989
+revid: 12283
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ministry Scout
 
-# Ministry Scouts
-
 ## Description:
 
-Ministry Scouts are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Their appearance is repetitive and consists of a hat, a blindfold and some sort of black suit, but not the race.
+Dark Mage Cultists (Ministry Scouts) are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Their appearance is repetitive and consists of a hat, a blindfold and some sort of black suit, but not the race.
 
-Their arsenal consists of a Ben's knife and [Shadowcast](Shadowcast.md) and are invulnerable to being assassinated:
+Their arsenal consists of a Ben's knife and [Shadowcast](Shadowcast.md):
 
-### Moves
+## Moves
+
+### **Moves:**
 
 -   **Dagger Attack:** Common dagger M1's, can be easily parried.
 -   **Shadow Assault**: Short windup before turning invisible and dashing forward, dealing very minor damage and applying black flames. Blockable, can be parried.
 -   **Shadow Spike:** Launches a shadow pillar that impacts where the player is, deals heavy damage and stuns for a decent amount of time while applying black flames. Blockable, builds a lot of posture, can be parried.
 
-### Tips
+### **Boons:**
+
+-   **Third Eye:** Cannot be assassinated.
+-   **Numbers:** Pretty self-explainatory, there's a lot of them.
+
+## Tips
 
 -   Almost at any given time they will try to use their mantras while doing an M1 Combo.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
@@ -29,7 +34,7 @@ Their arsenal consists of a Ben's knife and [Shadowcast](Shadowcast.md) and are 
 -   There are about 9 Ministry Scouts. 4 patrolling outside, 5 inside the fortress.
 -   Within the fortress there are 2 plumfruit trees and 3 wheat spots, a good source of water/food.
 
-### Trivia
+## Trivia
 
 -   A really good location to progress at, although no loot.
 -   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Ministry Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).

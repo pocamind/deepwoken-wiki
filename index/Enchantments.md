@@ -1,14 +1,12 @@
 ---
 title: Enchantments
-revid: 12196
+revid: 12247
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Enchantments
-
-0
 
 <table>
 <tbody>
@@ -18,7 +16,13 @@ categories: [Pages with broken file links]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchants from chests in any location, on any piece of equipment. Equipping an enchanted weapon will make it soulbound to you. Enchanted armors do not get soulbounded however. Enchanted equipment also cannot be passed down to the Hippocampal Pool.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from chests in any location, on any piece of equipment.
+
+Enchanted weapons are very special. Therefore, it has some limitations placed on it:
+
+-   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it. You can still switch weapons though.
+    -   **Enchanted armors do not get soulbounded however.**
+-   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 
 There are two variants that enchantments come in:
 
@@ -53,7 +57,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>M1 connections have a small chance to deal three times damage to the opponent. However, it also has a five percent chance (?) to deal significant damage to the user.</p></div></td>
+  <td><div><p>M1 connections have a small chance to deal three times damage to the opponent. However, it also has a five percent chance (?) to deal significant damage to the user. The weapon is invisible on the players back.</p></div></td>
 </tr>
 </tbody>
 </table>
