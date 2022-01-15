@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 12371
+revid: 12440
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,20 +27,20 @@ Players have a "Luck wallet" that can hold a certain amount of luck. The size of
 
 **The Marauder Boon increase Luck Gain from all sources.**
 
-Killing something that provides you with Luck will cause white particles that resemble runes or flowers, to rise around you.
+Killing something that provides you with Luck will cause "shining" noise and has a oval-like shape which zooms in and out on the character.
 
 ### From Players
 
 Gripping a player will steal their luck (roughly ~50% of their own luck + base amount), if:
 
--   The victim is at least Power 10.
--   The victim is outside of a town if below Power 30.
+-   The victim is at least Power 10. _(if above power 10)_
+-   The victim is outside of a town.(_if below Power 30)_
 -   The victim is within 15 Power levels.
     -   A player at Power 35 must kill players that are at least Power 20
 
 ### From NPCs
 
-Killing an NPC has a chance for a white ball to come out of them. Walking over this white ball will consume it and give you luck. Honestly not too sure if it this is the actual effect, but it probably is. Needs some testing. The white ball gives you an extra stat point, possibly luck but unsure due to luck being invisible.
+Killing an NPC has a chance for a white ball to come out of them. Walking over this white ball will give you an investment point (and possibly luck.)
 
 File:Luck Ball.png
 
@@ -70,7 +70,11 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 ## Losing luck
 
 -   Getting gripped by a player within power range. Lose ~50% of your luck.
--   Drawing a card during the card selection after a Power Up. A portion of your luck is "[spent](https://cdn.discordapp.com/attachments/804519651919921202/928689399292624946/unknown.png)" to make the card appear.
+-   Drawing a rare card during the card selection after a Power Up. A portion of your luck is "spent" to make the card appear.
+    -   It is a common misconception that if you don't pick the rare card, you will not lose any luck. This is **entirely false** (confirmed by Archmage below).  
+        
+        File:Arch regarding luck and cards.png
+        
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 11621
+revid: 12420
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -19,6 +19,8 @@ An armored beast with an oversized axe that you must face in [The Depths](The_De
 Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (level 50+) and fail the trial you'll turn into an enforcer.
 
 Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
+
+Has 4000 HP. (This can seem to be alot but Primadon have 60000HP.)
 
 ### Attacks
 

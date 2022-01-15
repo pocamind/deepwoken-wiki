@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 12374
+revid: 12449
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,8 +68,7 @@ There are 24 (known) potion ingredients, though only 15 have an effect strong en
 
 Almost all ingredients have two effects - a strong primary effect which will name the potion if used alone, and a weaker secondary effect which is always present, but will only name the potion if the primary effect is weakened by another ingredient.
 
--   Alestrian Coral - primary effect is **Hastening**. Secondary effect is unknown, but might be **Dulling**.
-    -   Ingredient is hard to test with since it can only be found in the Depths.
+-   Alestrian Coral - primary effect is **Dulling**, which decreases mantra damage. Secondary effect is **Hastening**, which increases speed for 15 seconds
 
 -   Bamboo Bundle - primary effect is **Appalling**, which instantly drains reservior. Secondary effect is **Steadfast**, which increases maximum posture.
 
@@ -86,9 +85,6 @@ Almost all ingredients have two effects - a strong primary effect which will nam
 -   Calabash - primary effect is **Steadfast**, which increases your maximum posture. Secondary effect is **Icky**, which drains elixir for a short time.
     -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
 
--   Crustacean Meat - I've literally never seen this ingredient, but trustworthy people have told me you can brew potions out of it.
-    -   Supposedly weakens physical attacks, which is probably a new effect.
-
 -   Dentifilo - primary effect is **Soothing**, which instantly restores reservoir. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
 -   Gathered Wheat - primary effect is **Dulling**, which decreases mantra damage. Secondary effect is **Focus-Enhancing**, which drastically increases the rate reservoir is turned into ether.
@@ -99,13 +95,13 @@ Almost all ingredients have two effects - a strong primary effect which will nam
     -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three plumfruits, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focus Enhancing effect is more powerful than whatever the gobletto's secondary effect is.
         -   It may be possible to find the name of the secondary effect if you have Exterminator but not Apothecary (which might allow invigorating to be cancelled with fewer plumfruit), though this is a difficult test to set up.
 
--   Ongo - primary effect is **Buckling**, which reduces maximum posture. Secondary effect is **Staggering**, which has an unknown effect (though probably increases posture damage).
+-   Ongo - primary effect is **Buckling**, which reduces maximum posture. Secondary effect is **Staggering**, which increases posture damage.
     -   If you have the Apothecary talent but not the Exterminator talent, the strongest effect is Staggering instead of Buckling.
 
 -   Plumfruit - primary effect is **Grueling**, which deals a small amount of damage over time. Secondary effect is **Strengthening**, which increases physical damage.
     -   Similar to Ongos, if you have the Apothecary talent but not the Exterminator talent, the strongest effect is Strengthening instead of Grueling.
 
--   Pomar - primary effect is **Hastening**, which apply a 15 second speed boost. Secondary effect is **Disgusting**, which deals a small amount of damage.
+-   Pomar - primary effect is **Hastening**, which increases speed for 15 seconds. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
 -   Redd - primary effect is **Icky**, which drains elixir. Secondary effect is **Rejuvinating**, which instantly restores a small amount of health.
     -   Like Focus-Enhancing, Rejuvinating can't be brewed using only a single ingredient. The rejuvinating effect is very weak, but it is possible to brew a Rejuvinating potion using exactly three redds and one wheat.
@@ -115,7 +111,8 @@ Almost all ingredients have two effects - a strong primary effect which will nam
 
 Eggs, fish meat, scallops, spider eggs, sticks and minerals (coal, iron, stone, irithine, and ect.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
 
-Sap is unique as an ingredient which creates Nothing Potions when used alone, but can be combined with other ingredients to change the prefix of the potion. More testing is required to figure out exactly what it does.
+Sap is unique as an ingredient which creates Nothing Potions when used alone, but can be combined with other ingredients to change the prefix of the potion. More testing is required to figure out exactly what it does.  
+Crustacean meat is supposedly similar, though more testing is needed.
 
 ## Effects
 
@@ -175,7 +172,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Potion<br>
   Bane<br>
   Blight</td>
-  <td>Gathered Wheat</td>
+  <td>Gathered Wheat<br>
+  Alestrian Coral</td>
   <td>Reduces damage dealt by mantras.</td>
   <td>Opposite effect to <b>Strengthening</b>.</td>
 </tr>
@@ -272,8 +270,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Elixir<br>
   Salve<br>
   Tincture</td>
-  <td>Alestrian Coral<br>
-  Pomar<br>
+  <td>Pomar<br>
+  Alestrian Coral<br>
   Sap(?)</td>
   <td>Applies a 15 second speed boost.</td>
   <td>Opposite effect is unknown, but can be found on Beeswax.</td>
@@ -290,8 +288,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td><b>Staggering</b></td>
   <td>Salve</td>
   <td>Ongo</td>
-  <td>Unknown effect.<br>
-  Supposedly increases posture damage dealt.</td>
+  <td>Increases posture damage dealt.</td>
   <td>Opposite effect is unknown - there is no known ingredient which seems to weaken Staggering potions.</td>
 </tr>
 </tbody>

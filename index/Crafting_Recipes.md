@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 12249
+revid: 12470
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -77,6 +77,7 @@ Certain foods, usually the more complicated one/which require more work to obtai
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **Sauteed Scallops** - 2 Scallops
 -   **Cake** - 1 _Egg_, 1 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility)
+-   Fish Omelette - 1 Fish Meat, 2 eggs (increases magic damage)
 
 ## Alchemy
 

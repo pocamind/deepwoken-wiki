@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 12111
+revid: 12468
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -35,6 +35,8 @@ You gain Progress by doing all the same things to obtain Luck, but as opposed to
 While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciated with things like hours in The Depths or max luck or a higher level.
 
 Theorized that to get max progression, you have to solo kill primadon 6 times.
+
+Bell obtainment method might be random between players i solo'd prima 6 times ferryman 5 with a bunch of regular kills + player kills and did not obtain
 
 TLDR:
 
@@ -108,7 +110,7 @@ File:God's Will Showcase.mp4
 
 ### **Reaper**
 
--   Activating your resonance will cause an area to appear below you, insta-gripping anyone that is knocked close to you, restoring your health.
+-   Activating your resonance will cause you to throw a sphere of dark energy forward, which stop after a moment and grips knocked people in its vicinity near instantly, healing the user.
 
   
 

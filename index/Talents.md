@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 12365
+revid: 12422
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents]
+categories: [Talents]
 ---
 
 # Talents
@@ -167,7 +167,7 @@ Hand of Mantra Cards
 ### Caster
 
 -   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage(15% dmg buff).
-    -   Prerequisite: Intelligence (Got it at lvl 28 Intelligence. Might be able to get it at a lower level?)
+    -   Prerequisite: 40 Intelligence
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having full health causes your mantras do 1.25x damage.
     -   Prerequisite: Intelligence (confirmed, only ever got this when I had over 20 intelligence)
 -   Ether Absorption \[Generic Talent, Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
@@ -253,17 +253,8 @@ Hand of Mantra Cards
 
 **Freak Of Nature**
 
--   Exoskeleton \[Legendary talent\] It always takes 20 hits to kill you - this makes it impossible to die unless struck 20 times after entering combat
-
-File:Exoskeleton.png
-
-  
-
-  
-
-  
-
-  
+-   Exoskeleton \[Legendary talent\] It always takes 20 hits to kill you - this makes it impossible to die unless struck 20 times after entering combat  
+    
 
 ### The Emperor's Blade
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 12339
+revid: 12451
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -27,6 +27,14 @@ While in Erisia (or others?), there is a chance that three NPCs will fall from t
 ### **Shadow Bandits**
 
 A group of 3 bandits, reconisable by their black armor and the lack of campfire. Those usually drop aeon logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before dissapearing in a puff of shadow, leaving the player alive.
+
+**Mudskipper Emergence**
+
+An encounter limited to [Erisia](Erisia.md), a group of special mudskipper appears from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death. This encounter is made up of 3 waves.
+
+**Mudskipper-mencer**
+
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that have the ability to become intangible to all damage and summon 3 Mudskippers: 2 using flamecharm and 1 using frostdraw.
 
 ### **Authority vs X**
 
@@ -68,7 +76,7 @@ The first order is to use a mantra, the second order is to chose a clone that is
 
 ### **Akira**
 
-Rare event that only spawns in [The Depths](The_Depths.md) within the Celtor's Waste. While reading a book, he will be interrupted by a group of Ignition Union soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to blow their heads of.
+Rare event that only spawns in [The Depths](The_Depths.md) within the Celtor's Waste. While reading a book, he will be interrupted by a group of Ignition Union soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
 The player can interact with Akira if they have neutral or good reputation with The Divers. Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 

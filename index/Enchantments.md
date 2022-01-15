@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 12315
+revid: 12462
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,7 +29,7 @@ There are two variants that enchantments come in:
 -   **Regular** - They have an effect and no downsides.
 -   **Curses** - They have a very strong effect but a large downside.
 
-## List of Enchantments
+## List of Enchantments/Curses
 
 **Weapons:**
 
@@ -194,7 +194,7 @@ Entanglement
 
  | 
 
-Upon getting hit, it has a chance of summoning a tree in front of you. Has a damage reduction effect.
+has a chance to reduce damage taken by a significant amount.
 
   
 
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-The user gains a buff in The Depths on the armor, the enchant is on. tbh no one knows what it does
+The user gains a buff in The Depths on the armor, the enchant is on. tbh no one knows what it does (My friend has this enchant whenever he flourishes someone they don’t get knocked back but might not be the enchant)
 
   
 
@@ -330,4 +330,4 @@ Credits to the people who made this page better:
 -   Moixme
 -   PlxlPug
 -   flutternative
--
+-   SyntexLP

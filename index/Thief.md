@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 9641
+revid: 12459
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,6 +16,10 @@ They will usually be in a group of 3 Assassin Bandits
 ## Moves
 
 -   **Dagger: Fast M1 hits**
+
+## Attack Pattern
+
+Bandit assassin's often organize themselves in front of the player side to side while MOSTLY attacking the player one at a time. Instead of blocking, Bandit Assassin's react to attacks by trying to step back out of range then immediately attack after the player misses similar to Mudskippers.
 
 ## Tips
 

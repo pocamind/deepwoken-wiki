@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 11799
+revid: 12450
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -88,5 +88,9 @@ N/A
 
 ## Notes/Trivia
 
--   An Npc in the Summer Isle refers to the Adrets as different, stating that they came not from the "old world" but rather from someplace else. He also cites that they are the only race not in relation to an animal. There is more than one way to interpret this. All of the other races are based off of animals that live on land, which could be what the NPC meant by saying that Adrets aren't like the others. ~That means it is possible that they could be based off of fish.~ (Arch\_Mage confirmed in Discord that Adrets aren't based off of fish.)
--   Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn, their face tattoos are directly inspired by Mistborn, as confirmed by Arch\_Mage.
+-   An Npc in the Summer Isle refers to the Adrets as different, stating that they came not from the "old world" but rather from someplace else. He also cites that they are the only race not in relation to an animal. There is more than one way to interpret this. All of the other races are based off of animals that live on land, which could be what the NPC meant by saying that Adrets aren't like the others.
+-   Archmage did, however, confirm that the Adret are **not** fish either.
+    
+      
+    
+-   According to Archmade, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.

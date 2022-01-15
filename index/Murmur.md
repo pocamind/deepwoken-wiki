@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 12175
+revid: 12464
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Murmur
 
-File:Murmur- Ardour.png
+File:Murmur-Ardour FerrymanEffect.png
 
 An adert using Ardour: Murmur
 
@@ -57,7 +57,7 @@ File:Tacet.png
   <td>Ardour Scream</td>
   <td>Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)<p><br>
   [Provides +9 Sanity, +1 Posture, +3 Health]</p></td>
-  <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether.</td>
+  <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether. It also acts similar to Megalodaunt Roar, inflicting Insanity and a Combat Tag on nearby players.</td>
 </tr>
 </tbody>
 </table>

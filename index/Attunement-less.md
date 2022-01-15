@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 12261
+revid: 12411
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -86,9 +86,7 @@ It's considered a mobility mantra because it teleports you a short distance to y
 
 ### _**Medium Weapon Mantras**_
 
-**Master's Flourish** - A spinning slice with your sword.
-
-`It is mentioned in the card that it breaks block. However, it does not. It **deals damage** (MED 30 Katana with 20 DMG dealt about 1/4th of a bar to FTD 0) even if you try to block it, whilst increasing posture.`
+**Master's Flourish** - A spinning slice with your sword that hits twice. Does a good amount of damage, even through block.
 
   
 

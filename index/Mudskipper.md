@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 12021
+revid: 12460
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mushrooms and Gob
 
 ## Description
 
-Mindless enemies that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly hitstunned by them until they can grip you.
+Mindless enemies that sprouts out of the ground to surprise Players. They lack intellect, as they don't know how to parry. Easy when fighting one or 3 of them, hard if fighting a horde. If you can't pat down the rhythm to parry or block them, consider playing more evasively, as it is easily possible to be repeatedly hitstunned by them until they can grip you. They are still annoying to fight because their reaction to M1's is to step away from you and attack during an open window which ends up being very effective.
 
 ## Moves
 
@@ -26,7 +26,7 @@ Mindless enemies that sprouts out of the ground to surprise Players. They lack i
 -   **Green Mudskipper** - Normal Mudskipper.
 -   **Light Green Mudskipper** - Can use the Galebreath mantra **Air Force** with greater knockback, ragdolling the player unlike the normal mantra.
 -   **Dark Green Mudskipper** - Explodes two seconds after dying. Has a bloated stomach.
--   **Black Mudskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies insantly (of course). Extremely beefy. Does not die when backstabbed.
+-   **Black Mudskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage than a normal Mudskipper. Does not die when backstabbed.
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color coded armor, and the ability to use Flamecharm and Frostdraw.
     -   **Flamecharm Necro-Skipper** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
     -   **Frostdraw Necro-Skipper** - Summons 4 ice swords that will spin around it, damaging anyone in range. Wears blue armor.

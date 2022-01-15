@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 12373
+revid: 12408
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1122,7 +1122,7 @@ Duke chests
 
 Swordsman."
 
- | Isshin's Ring | Take 1.2x damage and deal 1.2x damage.
+ | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
 
 _Requires Power Level 15_
 

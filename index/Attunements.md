@@ -1,9 +1,9 @@
 ---
 title: Attunements
-revid: 10517
+revid: 12437
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Attunement]
+categories: [Pages with broken file links, Attunement]
 ---
 
 # Attunements
@@ -19,3 +19,7 @@ Other than the base elements, there are other unlockable elements that can be ta
 When creating your character, you may choose to start with no Attunement, which will start the player with no element, though elements can still be acquired through their respective trainers.
 
 After receiving three Attunements, you must receive the remaining Attunement items _(shadowblood, grassblood, etc)_ from other players if you want more Attunements.
+
+Though it should **not** be expected, it is entirely possible new Attunements may be added to the game in the future _(Archmage stated that he would like to see an Earth element added to the game)_:
+
+File:Arch wants earth.png

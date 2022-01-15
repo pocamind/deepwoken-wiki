@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 12090
+revid: 12430
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -47,3 +47,4 @@ A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Va
 -   It is confirmed by Agamatsu that this creature also spawns in the depths, in a very specific location. (He did not disclose where specifically)
 -   You can cheese the Widow by going atop a ledge in the cave, this will cause her not to damage you and your m1s will connect.
 -   The Widows poison goes through armor.
+-   Can easily be run past/cheesed(?) as she is not the brightest when it comes to getting stuck between 2 rock pillars in her own home

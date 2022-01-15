@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12296
+revid: 12405
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -119,7 +119,7 @@ File:Mantra Modifier Placeholder.png
 
 Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped at a time.
 
-**Warning: Once you put a gem in a mantra, you cannot take it out, you can only destroy it. (This is fake, you can just click recall mantra in a campfire and you have your gem in you inv)**
+**Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.**
 
 Deep Gems are obtained by killing **Primadon** (no longer drops from Primadon, it was getting too common) or by killing **Depths monsters** (low drop rate %)
 

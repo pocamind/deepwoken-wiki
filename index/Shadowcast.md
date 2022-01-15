@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 12234
+revid: 12467
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -114,7 +114,7 @@ File:Shadow travel.png
   
 Common  
 
- | Block breaking an opponent their vision with darkness more potent than your Shadow mantra.
+ | Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.
 
 +5 Elemental Intensity
 

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 11557
+revid: 12433
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -32,7 +32,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 **Dive (Only in Etrean Luminant)** - Although non-offensive, I am putting this here. Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
 
-**Cero** (**Only in Depths and Hive**)- Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
+**Cero** (**Only in Depths and Hive/Under Lordsgrove**)- Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
 
 ## Located
 
