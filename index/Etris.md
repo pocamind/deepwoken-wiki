@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 12388
+revid: 12506
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -160,7 +160,7 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
     -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
--   After you defeat the Duke, if you visit Lord Regent once again, he thanks you for your help and disposes of you as you're no longer needed. The point of this is unknown.
+-   After you defeat the Duke, if you visit Lord Regent once again, he thanks you for your help and disposes of you as you're no longer needed. (THIS WILL AUTO GRIP YOU) The point of this is unknown.
     -   If this happens you and you go back to try and get your loot, even if the guards are passive and you tell them you have a audience with Lord Regent, the lord will execute you again if you try to enter his room.
 
 ### Diver Escort Quest

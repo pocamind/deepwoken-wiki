@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12405
+revid: 12518
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -9,9 +9,6 @@ categories: [Pages with broken file links, Items]
 # Mantra Modifiers
 
 _This page is a list of all items that you can use in order to modify a Mantra._
-
-  
-**1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.
 
 ## Description
 
@@ -221,13 +218,24 @@ _"You feel dizzy when you hold it."_
  |
 | 
 
- | Mirage Stone | _Unknown._ | _Unknown._ |
+ | Mirage Stone | _Unknown._ | _"You feel unnaturally calm when grasping this stone"_
+
+Possible sanity recover if you hit the attack.
+
+ |
 | 
 
- | Falseflame Stone | Unknown. | Unknown. |
+ | Falseflame Stone | Unknown. | _"The azure stone glows vibrantly, but emits no warmth."_ |
 | 
 
- | Haunting Stone | Unknown. | Unknown, also looks identical to falseflame. |
+ | Haunting Stone | Unknown. | _"You feel unsettled when grasping this stone"_
+
+Could give insanity on to the target if attack hits.
+
+  
+also looks identical to falseflame.
+
+ |
 
 ### **Specific Effects of Sparks**
 
@@ -273,20 +281,19 @@ _"You feel dizzy when you hold it."_
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
-    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together. If their better variants (**Status Stone** and **Perfect Lens**) are combined, you get Magnifying Stone.
-
-### Mantra Table Speculations
-
--   The 5 Disks ontop of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
--   As it is known, _**a single lit disk will not create a modded Mantra if you have 50 Int**_, which may mean it requires a specific [Talent](Talents.md) or Intelligence.
--   New Note - Had a single lit disk and was able to combine it with my spell. At that point, I had 75 Intelligence and 70 Thundercall on level 34. It is likely that it is tied to not only Level, but also Intelligence.
--   Another Note - Had a single lit disk and was able to combine it with my spell. I had 2 Intelligence, 75 Shadowcast on level 48.
+    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together. If their improved variants (**Status Stone** and **Perfect Lens**) are combined, you get a Magnifying Stone.
+-   The 5 blue Disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
+-   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
+-   **1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.
 
 ### Modifier Hitlist
 
 There are currently a number of Mantra Mods that can be crafted, but are unsure of how it can be. Currently, we need to find out whether or not the following mods can be crafted, the recipe of the mod if it can be crafted, and also its effects.
 
 Currently, there are:
+
+-   _Glass Stone_, made from a **Cloud Stone** and a **Crystal Lens**.
+-   _Magnifying Stone_, made from a **Stratus Stone** and a **Perfect Lens**.
 
 Just tested you can't combine:
 

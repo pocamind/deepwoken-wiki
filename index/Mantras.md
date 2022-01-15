@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 12332
+revid: 12505
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -8,25 +8,27 @@ categories: [Mantras]
 
 # Mantras
 
+> Whispers from the deep beckon you…
+
 Mantras are internalized passages of the Song that practitioners use to conjure Magic. Mantras are utilized as a variety of abilities, often uniquely modified by their casters through esoteric methods. Considered to be the root of Ether's usage.
 
 ## [Elemental Mantras](Attunements.md)
 
-**[Flamecharm](Flamecharm.md): Large and threatening damage-over-time fire based spells. Excels in crowd control and area denial as many spells have large range. Not recommended to use in close proximity to allies. Can be upgraded through Willpower for the "Azure Flames" Talent.**
+[Flamecharm](Flamecharm.md): Large and threatening damage-over-time fire based spells. Excels in crowd control and area denial as many spells have large range. Not recommended to use in close proximity to allies. Can be upgraded through Willpower for the "Azure Flames" Talent.
 
-**[Thundercall](Thundercall.md): Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with extremely small start up for closing distance, or keeping a opponent on edge. Lightning is the best at controlling a fight in PvP, and has a wide variety of useful spells for PvE and exploring the world.**
+[Thundercall](Thundercall.md): Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with extremely small start up for closing distance, or keeping a opponent on edge. Lightning is the best at controlling a fight in PvP, and has a wide variety of useful spells for PvE and exploring the world.
 
-**Typically used mid/long range.**
+_Typically used mid/long range._
 
-**[Frostdraw](Frostdraw.md): Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat. Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around. Can be upgraded through upgrading Frostdraw for the "Crystalization" Talent.**
+[Frostdraw](Frostdraw.md): Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat. Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around. Can be upgraded through upgrading Frostdraw for the "Crystalization" Talent.
 
-**Typically used close/mid range.**
+_Typically used close/mid range._
 
-**Galebreath: Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions. It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world. Usually agreed on as the most "versatile" spell.**
+Galebreath: Wind utilizes the best all-rounder kit amongst the elements for movement, defence, and offensive actions. It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world. Usually agreed on as the most "versatile" spell.
 
-**Typically used in any range.**
+_Typically used in any range._
 
-**[Shadowcast](Shadowcast.md): Uses dark energy to siphon Ether from others into the user's own Ether. Doesn't excel in anything but has its niche in keeping the Ether bar up and making sure others can't use Ether. Goes well when paired with other elements.**
+[Shadowcast](Shadowcast.md): Uses dark energy to siphon Ether from others into the user's own Ether. Doesn't excel in anything but has its niche in keeping the Ether bar up and making sure others can't use Ether. Goes well when paired with other elements.
 
 _**Attunement-less Mantras:**_ There are also Mantras that are based off of other character attributes. This includes Strength, Fortitude, intelligence, Agility, Willpower, and Charisma. You can find those _**here.**_
 

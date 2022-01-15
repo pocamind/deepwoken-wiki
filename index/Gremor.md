@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 11804
+revid: 12503
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -55,9 +55,11 @@ The deer folk of the land are among the few that still consider themselves free 
 
 ## Strengths
 
-Has a built in compass (Really quite lackluster, not very useful).
+ - Has a built in compass (Really quite lackluster, not very useful).
 
-Looks drippy
+\- Looks drippy
+
+\- Less prone to starvation
 
 **Weaknesses:**
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 12468
+revid: 12502
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -110,7 +110,16 @@ File:God's Will Showcase.mp4
 
 ### **Reaper**
 
--   Activating your resonance will cause you to throw a sphere of dark energy forward, which stop after a moment and grips knocked people in its vicinity near instantly, healing the user.
+Reaper Variation 1.
+
+  
+
+Reaper Variation 2.
+
+-   Quickly grips every knocked entity within a certain radius on use.
+-   Creates an large red effect similar to full counter, that expands and retracts from a certain point.
+    -   Version 1: The radius is created around the user.
+    -   Version 2: The user throws a ball forward, that shortly after creates the radius around itself.
 
   
 

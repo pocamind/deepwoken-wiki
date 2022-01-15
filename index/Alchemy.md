@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 12449
+revid: 12486
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -58,9 +58,17 @@ Potions containing only one ingredient suffer a penalty to the strength of all e
 
 Spider Eggs are a special ingredient which increases the duration of potion effects by 50% (stacking additively, so 2 spider eggs will double the duration).
 
+Finally, potions have a greater effect when brewed by a character with high intelligence. This does not change the name of the potion, and the exact scaling is untested.
+
+### Talents
+
 The Apothecary and Exterminator talents both increase the effects of potions when drunk/thrown (respectively), by an unknown amount (perhaps 50%?). This does not change the suffix of the potion, but it can change the prefix. For example, if you have the Apothecary talent but not the Exterminator talent, potions brewed with Plumfruit will have the Strengthening prefix, as Apothecary increases that effect but not the negative Grueling effect which is otherwise stronger.
 
-Finally, potions have a greater effect when brewed by a character with high intelligence. The exact scaling is untested.
+The Wild Alchemy talent has the description:  
+_"Potions you prepare will have a chance to have doubled ingredients when mixed."_
+
+This doesn't seem to be accurate. When a potion is brewed with Wild Alchemy, it gains a small increase in strength to all its effects, which is sometimes enough to change the suffix of the potion's name. When tested with both Apothecary and Exterminator talents on a character with 40 INT, potions affected by Wild Alchemy saw an increase of slightly less than 20% to the effect strength - this was consistent across all potions tested.  
+It's unknown if this is a bug or if there are factors we don't yet understand. More testing is needed.
 
 ## Ingredients
 
@@ -82,28 +90,28 @@ Almost all ingredients have two effects - a strong primary effect which will nam
     -   The damage from Disgusting is very small - even when brewed with every bonus, thrown potions are unlikely to deal more than 5% to opponents of similar strength.
     -   The secondary Strengthening effect is also very small.
 
--   Calabash - primary effect is **Steadfast**, which increases your maximum posture. Secondary effect is **Icky**, which drains elixir for a short time.
+-   Calabash - primary effect is **Steadfast**, which increases your maximum posture. Secondary effect is **Icky**, which drains elixir and prevents reservoir draw for 15 seconds.
     -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
 
 -   Dentifilo - primary effect is **Soothing**, which instantly restores reservoir. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
--   Gathered Wheat - primary effect is **Dulling**, which decreases mantra damage. Secondary effect is **Focus-Enhancing**, which drastically increases the rate reservoir is turned into ether.
+-   Gathered Wheat - primary effect is **Dulling**, which decreases mantra damage. Secondary effect is **Focus-Enhancing**, which drastically increases the rate reservoir is turned into ether for 15 seconds.
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
     -   Even after running out of reservoir, the Focus-Enhancing effect will still increase ether regneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
 
--   Gobletto - primary effect is **Invigorating**, which give you a 10 second regeneration effect. Secondary effect is unknown.
+-   Gobletto - primary effect is **Invigorating**, which apply a 15 second regeneration effect. Secondary effect is unknown.
     -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three plumfruits, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focus Enhancing effect is more powerful than whatever the gobletto's secondary effect is.
         -   It may be possible to find the name of the secondary effect if you have Exterminator but not Apothecary (which might allow invigorating to be cancelled with fewer plumfruit), though this is a difficult test to set up.
 
 -   Ongo - primary effect is **Buckling**, which reduces maximum posture. Secondary effect is **Staggering**, which increases posture damage.
     -   If you have the Apothecary talent but not the Exterminator talent, the strongest effect is Staggering instead of Buckling.
 
--   Plumfruit - primary effect is **Grueling**, which deals a small amount of damage over time. Secondary effect is **Strengthening**, which increases physical damage.
+-   Plumfruit - primary effect is **Grueling**, which deals a small amount of damage over 15 seconds. Secondary effect is **Strengthening**, which increases physical damage.
     -   Similar to Ongos, if you have the Apothecary talent but not the Exterminator talent, the strongest effect is Strengthening instead of Grueling.
 
 -   Pomar - primary effect is **Hastening**, which increases speed for 15 seconds. Secondary effect is **Disgusting**, which deals a small amount of damage.
 
--   Redd - primary effect is **Icky**, which drains elixir. Secondary effect is **Rejuvinating**, which instantly restores a small amount of health.
+-   Redd - primary effect is **Icky**, which drains elixir and prevents reservoir draw for 15 seconds. Secondary effect is **Rejuvinating**, which instantly restores a small amount of health.
     -   Like Focus-Enhancing, Rejuvinating can't be brewed using only a single ingredient. The rejuvinating effect is very weak, but it is possible to brew a Rejuvinating potion using exactly three redds and one wheat.
 
 -   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. Secondary effect is unconfirmed, but appears to be **Strengthening**.
@@ -129,11 +137,13 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 </tr>
 <tr>
   <td><b>Appalling</b></td>
-  <td>Bane<br>
+  <td>Blight<br>
+  Potion<br>
   Blight</td>
   <td>Bamboo Bundle</td>
   <td>Instantly drains reservoir.</td>
-  <td>Opposite effect to <b>Soothing</b>.</td>
+  <td>Opposite effect to <b>Soothing</b>.<br>
+  Both the strongest potions (brewed using Wild Alchemy) and the weakest potions share the same suffix. It's unknown if this is intentional.</td>
 </tr>
 <tr>
   <td><b>Soothing</b></td>
@@ -193,7 +203,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Calabash<br>
   Redd</td>
-  <td>Drains elixir.</td>
+  <td>Drains elixir for 15 seconds, and prevents drawing elixir from the reservoir.</td>
   <td>Opposite effect to <b>Focus Enhancing</b>.</td>
 </tr>
 <tr>
@@ -201,15 +211,17 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Elixir<br>
   Salve</td>
   <td>Gathered Wheat</td>
-  <td>Greatly increases elixir regeneration.<br>
+  <td>Greatly increases elixir regeneration for 15 seconds.<br>
   Quickly depletes the reservoir while regenerating elixir, but the effect still works when reservoir is empty.</td>
   <td>Opposite effect to <b>Icky</b>.<br>
-  The strongest effect on wheat is Dulling, so a potion with the Focus Enhancing name can only be brewed by cancelling out the <i>Dulling</i> effect with <b>Strengthening</b> from browncaps or plumfruit.</td>
+  The strongest effect on wheat is Dulling, so a potion with the Focus-Enhancing prefix can only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient.</td>
 </tr>
 <tr>
   <td><b>Heartening</b></td>
   <td>Remedy<br>
   Potion<br>
+  Salve<br>
+  Tincture(?)<br>
   Elixir</td>
   <td>Bluecap</td>
   <td>Rapidly restores sanity.<br>
@@ -234,7 +246,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Salve</td>
   <td>Beeswax<br>
   Gobletto</td>
-  <td>Applies a 10 second regeneration effect.</td>
+  <td>Applies a 15 second regeneration effect.</td>
   <td>Opposite effect to <b>Grueling</b>.</td>
 </tr>
 <tr>
@@ -242,7 +254,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Bane<br>
   Blight</td>
   <td>Plumfruit</td>
-  <td>Deals a small amount of damage over time.</td>
+  <td>Deals a small amount of damage over 15 seconds.</td>
   <td>Appears to be the opposite effect to <b>Invigorating</b>.<br>
   Some players report being able to brew grueling potions using only plumfruit, while the same recipes produce Strengthening potions for others.</td>
 </tr>
@@ -253,7 +265,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Elixir</td>
   <td>Calabash<br>
   Bamboo Bundle</td>
-  <td>Increases maximum posture.</td>
+  <td>Increases maximum posture for 15 seconds.</td>
   <td>Opposite effect is <b>Buckling</b>.</td>
 </tr>
 <tr>
@@ -261,7 +273,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Bane<br>
   Blight</td>
   <td>Ongo</td>
-  <td>Decreases maximum posture.</td>
+  <td>Decreases maximum posture for 15 seconds.</td>
   <td>Opposite effect is <b>Steadfast</b>.</td>
 </tr>
 <tr>

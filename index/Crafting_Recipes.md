@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 12470
+revid: 12522
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,19 +8,17 @@ categories: [Mechanics]
 
 # Crafting Recipes
 
-_"Man, this Brown Mushroom bussin'!" \*Pukes everywhere\*_ - Random Adret
-
 ## Description
 
 One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some food recipes can be made on the go while others may require a campfire.
 
-For more information about Food, go [here](Food.md).  
+For more information about Food, go [here](Food.md).
 
 ## Utility Recipes
 
 These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
-### Non-Tool Recipes
+### _Non-Tool Recipes_
 
 -   **Wood** - _3 Sticks_
 -   **Sticks (3x)** - _1 Wood_
@@ -32,9 +30,9 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
 Picture of a Crafting Bench
 
-### Crafting Bench Recipes
+### _[Crafting Station](Crafting_Station.md) Recipes_
 
--   **[Canteen](Canteen.md)** - _1 Beewax, 1 Calabash_
+-   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_
 -   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
 -   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 1 Wood, 1 Iron

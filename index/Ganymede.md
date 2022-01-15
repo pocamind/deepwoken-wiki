@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 12117
+revid: 12501
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -49,6 +49,8 @@ Template:Races-Main
 
 to be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have the same last names.
 
+Theory: Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above the water and the Ganymede's going into the depths. This would fit with the lore of the game and explain why they can be cousins, along with the vesperians having the same cross eyes underneath their masks that Ganymedes can have
+
 **Strengths:**
 
 ## Strengths
@@ -81,7 +83,7 @@ to be discovered, but they are related to vesperians and a ganymede can be famil
 ## Trivia
 
 -   Obtaining a [Resonance](Resonance.md) may be easier for them due to the racial resistance to insanity.
--   Their appearence has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
--   Looks similar to cipher from the Valorant series.
+-   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
+-   Ganymede looks similar to Cypher from the game _Valorant_.
 -   Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.

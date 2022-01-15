@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 12368
+revid: 12498
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -53,7 +53,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 -   **Megalodaunt** - A normal Megalodaunt.
 -   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt with roughly 3x health. Red Megalodaunts appear exclusively on Songseeker Wilds in the rare Megalodaunt VS Red Megalodaunt event, if left by themself, the red one will always win due to its larger health pool. As the ability to rain down fire swords from the sky.
--   **Black Megalodaunt** - Appears exclusively in the Depths.
+-   **Alpha (Black) Megalodaunt** - Appears exclusively in the Depths.
 
 ## Tips n' Tricks
 
@@ -71,6 +71,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
 -   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy) <-(Semi-Outdated, may not work 100% of the time)
+-   The Megalodaunt has a very close resemblance to the [Giant Fisherman](https://bloodborne.fandom.com/wiki/Giant_Fishman) from the game Bloodborne.
 -   **DO NOT RUN FROM THIS MONSTER UNLESS YOU FIND A HOUSE/CAVERN IT IS TOO TALL TO ENTER, FOR IT IS FUTILE AND WILL RESULT IN YOUR DEMISE**  
     
     File:Screen Shot 2021-12-31 at 9.28.36 AM.png

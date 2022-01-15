@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 12443
+revid: 12476
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -182,5 +182,7 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 
 -   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
+-   A few talents require to Inhale mantras, which acts like a cancel but are performed differently:
+    -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and Ragdoll.
 -   Archmage stated that Gale is the "least him" out of all the elements.

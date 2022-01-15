@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 12257
+revid: 12496
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Deep Owl
 
-_Also known as Black Owls, Giant Owls, Owls, Tyrone and The Big Black Man._
+_Also known as Black Owls, Giant Owls, Owls, Tyrone, The Lineage Destroyer and The Big Black Man._
 
 ## Description
 
@@ -26,13 +26,13 @@ A large and extremely uncommon monster with juggernaut-like traits. Said to appe
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-_**Legacy Description**_
+Owl drops Black Feathers. **It is not recommended to fight Owl alone below level 40, as each attacks are devastating.** Appears across most places, especially Upper Erisia. It does not spawn on Lower Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you. Therefore it's good time to log if you aren't strong enough to kill it.
 
-Giant gatekeeping Owl, drops Black Feathers. _**Guaranteed to absolutely booty-blast you if you are both under level 30, and travelling alone.**_ Appears across most places, especially Upper Erisia. It does not spawn on Lower Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. **IF THIS IS SEEN, TURN BACK.** If you were unlucky enough to encounter the Owl and are chatting with him, **LOG.** You will not be penalized if you are still in the process of chatting.
+Even though the dialogue ended, the owl will not attack you unless you attack the owl first or **YOU SHOW YOUR BACK TO OWL.** Just like escaping from dangerous wildlife such as lion or bear in real life, if you stare at the owl and walk backward, it will not attack you and you will eventually get out from owl's detection range.
 
 ### Drops
 
--   Black Feathers
+-   Dark Feathers
 -   Void Feathers
 
 ## **Moves**
@@ -57,7 +57,7 @@ The question when encountering the Owl is the **Fight** or **Flight** response.
 
 Log or run away. Because the Deep Owl can be seen before it is physically spawned, as signified by the cascading feathers, it is likely one can get away by turning back and returning the way they came.
 
-In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the End Dialogue Option). _All of these options_ will result in the owl initiating combat with the player. (No, responding "im just passing through" will keep you safe but if you dont run away in 15 seconds it will still attack you) Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state.
+In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the End Dialogue Option). _All of these options_ have same result. The Owl will never trigger fight unless you attack it first or show your back, instead it will stare at you. There isn't any time limit for owl to stare at you, meaning that if you confront owl, you can hold the owl at that position forever until you find someone to help, or log. Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state.
 
   
 **Fight**

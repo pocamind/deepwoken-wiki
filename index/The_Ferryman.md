@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 12469
+revid: 12519
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -53,9 +53,13 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   When the Ferryman's health goes below half, the music that plays in the background changes into a faster version of the previous song.
 -   Under half health, Lightning Assault and Lightning Strike become much faster.
 -   The Ferryman takes about 25 minutes to respawn.
--   The Ferryman is unlikely to be directly related to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) with the same name, but it is possible to be rather a refrence
-    -   However, they both possess godlike powers and mock (to varying degrees) the mortals that come to meet them. They both wear black clothes and have pale skin.
+-   The Ferryman is confirmed by Archmage to be completely unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
+    -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
+    -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
+        
+          
+        
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer".
 -   As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.

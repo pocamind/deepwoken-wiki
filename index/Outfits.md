@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 12408
+revid: 12497
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -8,31 +8,39 @@ categories: [Pages with broken file links, Armors]
 
 # Outfits
 
-## Description
-
 (**Warning**: This is a RNK (1) Page. If any griefing occours please let an admin know.)
 
-There are many kinds of Armor in Deepwoken, with types of Armor pieces (Common, Uncommon, Rare, Epic, Legendary) to go through. All Armor Pieces and Outfits have their own benefits, such as Slashing Resistance, Exclusive Talents, and Damage against the Landmass
+## Description
 
-Armors can be obtained in 5 ways; through Schematics or by loot. Crafted armors are generally stick to a default stats for everyone while looted armors such as arms, boots and rings have some of their stats D-Rolled (randomized). (This including the Kongas Cluch Ring given to you by rare chest
+Armor is an essential part to _Deepwoken_, being the basis of most of your resistance against enemies. The entirety of your Armor is split into two categories, Outfits and Armor items.
 
-There are also Cosmetics in Deepwoken. Things such as Masks or ~Capes~ (capes are accesories, only spike accesories dont do anything. also, blindfold can be used to get blindseer.) benefits your character's drip, but provides no tactical advantage ~whatsoever.~ unless you talk to the armour cosmetic modifier near the fight club arena in the basement of the castle in [Summer isle](Summer_Isle.md) for a 200 [note](Notes.md) fee.
+### **Outfits**
 
-Gear listed as ascended, regardless of being cosmetic or not, will give increased stats
+Outfits are the very base of your Armor, and are the only part of your defense that must be crafted and are given durability.
+
+Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
+
+Outfits can be purchased at the Blacksmiths in Etris or Isle of Vigils, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a Blacksmith to unlock an Outfit in their shop.
+
+Outfits grant unique buffs and Talents to their wearer and can be easily found essential to many players on their journey.
+
+### **Armors**
+
+Armor items are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
+
+Armor items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
+
+Armors cannot be purchased, and must be obtained in enemy drops or chests. Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
+
+Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
 
 ## Repairing your Outfit
 
-The only armor that loses durability is the Outfit. The Armor Durability Bar (located on the bottom of your Health Bar) displays how much health your Outfit has before breaking. sus
+The Outfit is the only piece of armor that loses durability, which can be found on the bar below your Health.
 
-To repair your Outfit, visit a Blacksmith and ask to repair your Armor. Depending on how damaged it is, you must pay in Notes. Repairing your Armor is cheap, ranging from 1-35 Notes, depending how much armor durability needs to be repaired (not in percents). You can also repair your armor If you have the talent Bloodiron spirit (rare talent), Thresher scales (rare talent), or a Bloodiron spirit ring (Obtained in [the Depths](The_Depths.md) or from [the Duke](Duke_Ishamon_Erisia.md) and [Primadon](Primadon,_Titan_of_the_East.md)).
+When Outfits reach zero durability, they will not be destroyed but they will no longer grant their set buffs until they are repaired.
 
-Sources that can damage your Outfit including physical damage, elemental damage and standing outside the Acid Rain that often happen in [Upper Erisia](Upper_Erisia.md).
-
-## Information of Outfit Talents can be found [here](https://deepwoken.fandom.com/wiki/Category:Talents#Outfit_Talents).
-
-File:Outfits List.png
-
-Image of the Outfit List, with 2 outfits learned
+You can repair your Outfit at the Blacksmith in Etris or Isle of Vigils. This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
 
 ## Outfit List
 
@@ -813,15 +821,11 @@ Power 45
 
  |
 
-  
-
 ### Unique
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
-| 
- | Ferryman's Coat | x5 Cloth
-
+|  | Ferryman's Coat | x5 Cloth
 x5 Fiber
 
 x10 Vibrant Gems
@@ -840,12 +844,9 @@ x500 Notes
 
  |
 
-## Accessories
+## Armor
 
-**Note: The stats on nearly all accesories are random. Any numerical stat boosting effects you see in this section should be disregarded.**  
-Armor pieces come in different "rarities" (Ascended, Enlightened, or Celestial) meaning that item has more or higher valued stat bonuses. This can apply to items that dont normally roll with stats, such as an iron mask or headband.
-
-You can find an NPC that transfers your gear's attributes/stats into another, for matching your attire and drip. The NPC, by the name of Jarvis, is located inside the Stronghold of [Summer Isle](Summer_Isle.md), near the Underground Arena.
+Armor Pieces come in different rarities: Ascended, Enlightened or Celestial, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
 
 ### Head
 
@@ -880,11 +881,7 @@ File:Authorityhelm.png
 
 _Requires Fortitude 10_
 
- | Authority enemy
-
-and Hive Chests
-
- |
+ | Authority Enemies and Hive Chests |
 | 
 
 File:KnightHelm.png
@@ -894,21 +891,29 @@ File:KnightHelm.png
 
 File:GreyGumshoeHat.png
 
- | Gumshoe Hat | Grants a random buff. | Fort merit Chests |
+ | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | 
 
 File:White gumcumshoe.jpg
 
- | White Gumshoe Hat | Grants a random buff. | Fort merit Chests |
-|  | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort merit Chests |
-|  | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort merit Chests |
-|  | Ochre Gumshoe Hat | Grants a random buff. | Fort merit Chests |
+ | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| 
+
+ | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
+| 
+
+ | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
+| 
+
+ | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | 
 
 File:Deepwoken hood.jpg
 
- | Deepwoken Hood | Grants two random buffs | Fort merit Chests |
-|  | Vigil Hood |  |  |
+ | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
+| 
+
+ | Vigil Hood |  |  |
 
 ### Face
 
@@ -929,6 +934,10 @@ File:Hairband.jpg
 
  | Headband | Cosmetic | Erisia Chests |
 | 
+
+File:Bandana.png
+
+155.997x155.997px
 
  | Bandana | Cosmetic | Chests |
 | 

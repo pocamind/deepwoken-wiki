@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 8466
+revid: 12516
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,6 +17,7 @@ Lord Regent would be sitting in the throne in the Palace.
 
 -   **Needle Stab:** Will one shot anyone.
 
-### Tips
+### Notes
 
 -   Don't go to him unless you have the quest needed to talk to him.
+-   He is mentioned by the teacher, in the charisma story as sacrificial king

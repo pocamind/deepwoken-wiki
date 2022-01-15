@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 12459
+revid: 12515
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,6 +12,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 A Bandit Assassin is an NPC-Type enemy that are found in the all over Erisia. Wears black.
 
 They will usually be in a group of 3 Assassin Bandits
+
+Will Steal your money if they grip you upon doing this they will say "!score" and disappear.
+
+Usually you won't actually die from them gripping you.
 
 ## Moves
 

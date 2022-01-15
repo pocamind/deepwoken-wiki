@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 12352
+revid: 12472
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -43,7 +43,7 @@ Fishing up the Tuna.
 
 ## Bait
 
-A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. I'm also bad. (Decadunce#1839 rules this fishing page, though i'd love it if someone could clean up this page and compile the data for me, I spent a good few hours on it) This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe.
+A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. I'm also bad. (Decadunce#1839 rules this fishing page, though i'd love it if someone could clean up this page and compile the data for me, I spent a good few hours on it) This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
 
 Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast i get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
