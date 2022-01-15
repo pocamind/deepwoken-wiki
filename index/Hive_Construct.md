@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 12367
+revid: 12579
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Hive Construct
 
-Forest Golems, also known as Hive Mech or Obsidian Golems given their appearance, spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md) (To be combined with Ice Golems)
+Forest Golems, also known as Hive Mech, Hive Construct, or Obsidian Golems (given their black appearance), spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md) (To be combined with Ice Golems)
 
 File:Golem Grand Javelin.png
 
@@ -20,15 +20,57 @@ Forest Golem at Starswept Valley/Bluster Canyon
 
 They have a black obsidian-like appearance, with foliage around its legs. Shorter and smaller than a [Sharko](Megalodaunt.md), but is garaunteed to whoop your ass if you fight it solo. The ones that spawn at [Minityrsa](Minityrsa.md) have red rings around their arms, and the ones that spawn at Hive Island/[Starswept Valley](The_Starswept_Valley.md) have green rings around their arms. Does insane damage, easily doing 50% hp to most people level 40-50 in one hit. They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
 
+File:Minityrsa Golem.png
+
+Forest Golem at Minityrsa
+
 ## Moves
 
--   **Ground Slam** - Punches the ground with its fist, creating two circular shockwaves that do insane damage (~150) and can instagrip at max hp if you're low level. Can parry and roll to evade.
--   **Trees. A lot of trees** - Steps on the ground several times, spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing.
--   **Swing** - The golem uncoils it's arms and swings them upwards, dealing high damage (~100) and can instagrip. Throws the player and will ragdoll. Block breaks, but can be rolled to be evaded.
--   **Punch** - The golem swings its fist, dealing insane damage (~200) and can instagrip at max hp if youre low level. Can parry and roll to evade.
--   **Roar** - The golems roars, does no damage, use unknown (Puts you in danger? Doesn't increase insanity like a [sharko](Megalodaunt.md) roar, or spawn rocks like a [golem](Rock_Golem.md) roar)
--   **Kick** - The golem will kick you, block breaking and ragdolling you, sending you flying, similar to a sharko's punt. Can only be rolled to evade.
-    -   Not actually sure if this move exists, I may have mistake it for its walking animation while it used its swing attack.
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Attack Name</th>
+  <th>Animation</th>
+  <th>Description</th>
+</tr>
+<tr>
+  <td><b>Meteor Punch</b></td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Punches the ground with its fist, creating two circular shockwaves that do insane damage (~200) and can instagrip at max hp if you're low level. Can parry and roll to evade.</td>
+</tr>
+<tr>
+  <td><b>Trees. A lot of trees.</b></td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Punches the ground, spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing, or pushes you off onto the golem when they despawn. You cannot walk through the tree's leaves.</td>
+</tr>
+<tr>
+  <td><b>Swing</b></td>
+  <td>(Placeholder)</td>
+  <td>The golem uncoils it's arms and swings them upwards, dealing high damage (~100) and can instagrip. Throws the player and will ragdoll. Block breaks, but can be rolled to be evaded.</td>
+</tr>
+<tr>
+  <td><b>Roar</b></td>
+  <td>(Placeholder)</td>
+  <td>The golems roars, does no damage, use unknown (Puts you in danger? Doesn't increase insanity like a <a href="Megalodaunt.md">sharko</a> roar, or spawn rocks like a <a href="Rock_Golem.md">golem</a> roar)</td>
+</tr>
+<tr>
+  <td><b>Kick</b></td>
+  <td>(Placeholder)</td>
+  <td>The golem will kick you, block breaking and ragdolling you, sending you flying, similar to a sharko's punt. Can only be rolled to evade.
+  <ul>
+    <li>Not actually sure if this move exists, I may have mistake it for its walking animation while it used its swing attack.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Punch</b></td>
+  <td>(Placeholder)</td>
+  <td>The golem swings its fist, dealing insane damage (~200) and can instagrip at max hp if youre low level. Can parry and roll to evade.
+  <ul>
+    <li>Not actually sure if this move exists, I may have mistake it for its meteor punch and just didn't see the circles.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### Finishers
 
@@ -43,7 +85,8 @@ The most reliable cheese spot at Starswept Valley in my experience.
 ## Tips/Trivia
 
 -   _**r u n**_
--   Forest Golems at Starswept Valley wont aggro you if your rep with fort merit guards are neutral or positive. Killing fort merit soldiers at events that spawn in Erisia (They can be spotted by their use of thundercall, and wearing of authority helms) will lower your rep.
+-   Forest Golems at Starswept Valley wont aggro you if your rep with hive (e.g Ganymedes and Vesperians). They will aggro on you if you have negative rep with the hive.
+-   Attacking the Hive guards will have a chance of spawning these golems.
 -   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and no known ones at Buster Valley.
 -   Can absolutely booty blast you even at level 60 if youre solo
 -   Not worth fighting

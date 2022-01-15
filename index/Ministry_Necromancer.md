@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 12279
+revid: 12599
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Cultist Necromancers (Ministry Necromancers), commonly referred as "Bandit Bosses", are NPC's that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
+Ministry Necromancers, commonly referred as "Bandit Bosses", are NPC's that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
+
+Their appearance consists of a Prophet's Cloak and always have the same hair style, the hair being pure white.
 
 ## Moves
 

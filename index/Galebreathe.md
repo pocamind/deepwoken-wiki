@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 12476
+revid: 12563
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -85,6 +85,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to opponent while rising.
 -   Missing will not send the user into the air.
+-   Can be upgraded with _Reverse Gale Kick_ Talent.
 
  |
 |  | Wind Gun  

@@ -1,9 +1,11 @@
 ---
 title: Random Encounters
-revid: 12451
+revid: 12565
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World]
+categories: [Stub pages without reason, StubPages, World]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Random Encounters
@@ -14,57 +16,65 @@ Random encounters are randomly spawning events that occur throughout target area
 
 **Note:** This is not a comprehensive list of every single random encounter: more will be added.
 
-## **AI-Driven Encounters:**
+## Overworld Encounters
 
-### **Bandit Camp**
+### _AI-Driven Encounters_
+
+#### **Bandit Camp**
 
 A campfire, circled by two to three NPCs. The strength of said NPCs is scaled based on the severity of the area they are in. Commonly, of the 3 bandits circling the campfire, one will be a Bandit Captain, who is roughly 2 times as strong as usual bandits. Loot from the chests after killing every bandit is mediocre.
 
-### **Bandit Ambush**
+#### **Bandit Ambush**
 
 While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in.
 
-### **Shadow Bandits**
+#### **Shadow Bandits**
 
 A group of 3 bandits, reconisable by their black armor and the lack of campfire. Those usually drop aeon logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before dissapearing in a puff of shadow, leaving the player alive.
 
-**Mudskipper Emergence**
+#### **Mudskipper Emergence**
 
 An encounter limited to [Erisia](Erisia.md), a group of special mudskipper appears from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death. This encounter is made up of 3 waves.
 
-**Mudskipper-mencer**
+#### **Mudskipper-mencer**
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that have the ability to become intangible to all damage and summon 3 Mudskippers: 2 using flamecharm and 1 using frostdraw.
 
-### **Authority vs X**
+#### **Authority vs X**
 
 Authority NPCs of constant strength attack either a group of Legion, Pathfinder, or Etrean soldiers.
 
-**Divers vs Monster**
-
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.
-
-### **Golden Rat Fighter**
+#### **Golden Rat Fighter**
 
 A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest.
 
-### **[Hobo](Hobo.md)**
+#### **[Hobo](Hobo.md)**
 
 The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him most likely not more. If you interact with the Hobo, they will brag of their wealth. With 60~70+ charisma you can take one of their chests.
 
 If you open one of their chests (don't have to take the loot) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra.
 
-### **The Teacher**
+#### **The Teacher**
 
 The teacher is an NPC that is often found situated around a campfire. As per dialogue, a player can gain a skill level in one of the six categories.
 
-### Megalodaunt vs Golem
+#### **Megalodaunt vs Golem**
 
 A sharko can be found fighting a Golem or two in Upper Erisia, the Golems will usually win.
 
-### **Megalodaunt vs Red Megalodaunt**
+#### **Megalodaunt vs Red Megalodaunt**
 
 Exclusive to the Songseeker Wilds, this is a rare event involving a regular Megalodaunt fighting it's red variant. If left by themself, the red one will always win. Red Megalodaunt have roughly 2x more hp and can rain fire swords.
+
+### Depth Encounters
+
+Main Article - D.R.I.N (Depths Random Interactive NPC's)
+
+#### **Divers vs Monster**
+
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.
+
+  
 
 ## Unique Events
 

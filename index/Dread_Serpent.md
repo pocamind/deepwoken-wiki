@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 11781
+revid: 12529
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -13,6 +13,8 @@ _Also known as Kaido, Sea Serpent, Dragon, Ice Leviathan and Shenron._
 _"NOTHING BAD. EVER HAPPENS. IN THE VOID SEA!!!" - John Kennedy (Not to be confused with the late president; JFK)._
 
 "oh boy i just got a new boat with increased hp! i wonder if theres anything in the voidsea?" - Unknown Celtor
+
+"Hey (unspecific), I heard there was a cool monster that spawns here! They said it was super easy so hopefully we get-" - Last words of an un-assuming Adret
 
 ## Description
 

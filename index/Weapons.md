@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 12375
+revid: 12552
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -607,7 +607,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 </tr>
 <tr>
   <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
-  <td>40 HVY</td>
+  <td>40 HVY, 10 STR</td>
   <td>26</td>
   <td>N/A</td>
   <td>8</td>

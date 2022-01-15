@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 12094
+revid: 12528
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Thresher
 
-_Also known as Crocodiles, Croccos, Crocs, Lil' Crocs, Dinosaurs, Dogs, Kapros/Swamp-Roadrunners, Alligators, and Lizards._
+_Also known as Crocodiles, Croccos, Crocs, Lil' Crocs, Dinosaurs, my lil' bitch, Dogs, Kapros/Swamp-Roadrunners, Alligators, and Lizards._
 
 ## Description
 
@@ -18,8 +18,8 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 ## Abilities
 
--   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried.
--   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried.
+-   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried. Deals moderate damage.
+-   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried. Deals slight damage per bite.
 -   **Tail Swipe** - Turns around and smacks you with its tail, ragdolling those hit by this. This attack is able to be parried. Can be blocked with a good enough shield/enough posture available (does ~50% posture with worshipper shield), able to be parried.
 -   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
 

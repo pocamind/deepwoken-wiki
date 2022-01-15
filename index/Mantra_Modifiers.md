@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12518
+revid: 12586
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -22,7 +22,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This me
 
 The previous upgrades will only disappear if an Amnesiac Driftwood is added to the mantra. Upgrading an already upgraded mantra further will add onto the previous upgrades.
 
-Modifying a Mantra can fail if you lack the [Intelligence](Attributes.md) required (May also require a high proficiency in mantra's attunement, needs testing), with discs illuminating with each requirement. The specific meanings of these discs are unknown currently.
+Modifying a Mantra can fail if you lack the _"Knowledge"_ required. This isdue in part to _Power Level_ and _Mantra Attunement (_it does not relate to the actual Intelligence stat) with discs illuminating with each requirement. The specific meanings of these discs are unknown currently.
 
 ## Mantra Modifiers
 
@@ -100,7 +100,9 @@ File:Screenshot 2021-12-28 152413.png
 
 File:Mantra Modifier Placeholder.png
 
- | Magnifying Stone | Likely same as Glass Stone. (tested, Stratus Stone and Perfect lens crafted together create Magnifying stone)
+ | Magnifying Stone | Likely same as Glass Stone.
+
+-   Crafted with a Stratus Stone and a Perfect lens.
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
@@ -118,7 +120,7 @@ Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that 
 
 **Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.**
 
-Deep Gems are obtained by killing **Primadon** (no longer drops from Primadon, it was getting too common) or by killing **Depths monsters** (low drop rate %)
+Deep Gems are obtained by killing **Primadon** (Isn't 100% but still has a small chance of dropping) or by killing **Depths monsters** (low drop rate %)
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
@@ -162,14 +164,18 @@ Flame Blind
  | Applies "Magnet Shot" to compatible Mantra. |
 | 
 
- | Round Spark | Ice Eruption | Applies "Round Shot" to compatible Mantra. |
+ | Round Spark | Ice Eruption
+
+Fire Gun
+
+ | Applies "Round Shot" to compatible Mantra. |
 | 
 
  | Blast Spark | Lightning Clones
 
 Shadow Gun
 
-Frost Grab (No Effect)
+Frost Grab (Ice Trail)
 
  | Applies "Explosion" to compatible Mantra. |
 | 
@@ -197,11 +203,7 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun
-
-Fire Gun
-
- | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
  | Spring Spark | Strong Leap | Applies "Fire Trap" to compatible Mantra. |
@@ -248,11 +250,13 @@ also looks identical to falseflame.
 #### Round Spark
 
 -   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the songseeker ice npc).
+-   This modifier makes Fire Gun bullets split into two.
 
 #### Blast Spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
+-   This modifier causes a trail of Ice to appear over the distance you dashed with the _Frost Grab_ Mantra
 
 #### Reversal Spark
 

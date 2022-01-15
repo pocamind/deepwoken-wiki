@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 11050
+revid: 12581
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -61,5 +61,6 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   A weapon that instantly grips downed enemies is recommended, as Phase 2 will be tedious.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
 -   The Dukes respawn timer is around 25 minutes (tested)
+-   Players often call the duke the "thinker" because of the ai breaking and making him pause in combat "thinking" of his next move.
 
 Ongoing fight within the Boss Room

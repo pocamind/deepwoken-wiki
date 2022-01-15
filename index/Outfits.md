@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 12497
+revid: 12530
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -376,7 +376,7 @@ File:Summercompanyuniform.png
 
  | Summer Company Uniform | x5 Cloth
 
-x4 Fiber
+x5 Fiber
 
 x10 Iron
 

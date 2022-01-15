@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12422
+revid: 12594
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -65,7 +65,7 @@ Hand of Mantra Cards
 
 ### Aerial Dancer
 
--   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage. (+3 Health)
+-   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
 
 ### Aeromancy
 
@@ -189,6 +189,11 @@ Hand of Mantra Cards
 -   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisite For All: Charm
 
+### Comrade
+
+-   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
+    -   Prerequisite: Reinforce
+
 ### Cryomancer
 
 -   Condensation Drip \[Generic Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
@@ -251,10 +256,9 @@ Hand of Mantra Cards
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.
 
-**Freak Of Nature**
+### **Freak Of Nature**
 
--   Exoskeleton \[Legendary talent\] It always takes 20 hits to kill you - this makes it impossible to die unless struck 20 times after entering combat  
-    
+-   Exoskeleton \[Legendary talent\] It always takes 20 hits to kill you - this makes it impossible to die unless struck 20 times after entering combat
 
 ### The Emperor's Blade
 

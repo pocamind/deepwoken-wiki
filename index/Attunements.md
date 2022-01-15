@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 12437
+revid: 12536
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,7 +16,7 @@ While it is possible to learn every or most Mantras of a given attunement, you a
 
 Other than the base elements, there are other unlockable elements that can be taught by their respective teachers.
 
-When creating your character, you may choose to start with no Attunement, which will start the player with no element, though elements can still be acquired through their respective trainers.
+When creating your character, you may choose to start with no Attunement, which will start the player with no element, 10 additional points to invest into attributes, and a lower attribute qualification to obtain Physical Mantras. Attunements can still be acquired through their respective trainers.
 
 After receiving three Attunements, you must receive the remaining Attunement items _(shadowblood, grassblood, etc)_ from other players if you want more Attunements.
 

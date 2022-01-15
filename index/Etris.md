@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 12506
+revid: 12542
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,9 @@ categories: [Pages with broken file links]
 
 # Etris
 
-_"Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself."_
+“ Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself. ”
+
+― In-game flavour text.
 
 File:Etris.png
 

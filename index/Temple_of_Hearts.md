@@ -1,13 +1,17 @@
 ---
 title: Temple of Hearts
-revid: 11950
+revid: 12540
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Temple of Hearts
 
-_"An esoteric place even the most pious of men are known to seek out, though all take the secret to their graves."_
+“ An esoteric place even the most pious of men are known to seek out, though all take the secret to their graves. ”
+
+― In-game flavour text.
+
+  
 
 ## Description
 

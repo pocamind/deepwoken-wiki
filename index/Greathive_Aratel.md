@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 12230
+revid: 12580
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -59,7 +59,7 @@ File:TelescopeCounterclockwise2.png
 
 ## Quests
 
-### Suri's Quest
+### Tending the Beloved Quest (Suri Quest)
 
 File:Greathive Aratel4.png
 
@@ -67,9 +67,17 @@ Suri the NPC
 
 Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement, though, so he suggests taking the safest route.
 
-### Mantra Quest
+-   Rewards of completing this quest when you come back to Suri is a Vibrant Gem.
 
-Go to the Archives and talk to [Regek](Regek.md). He will prompt you to collect three Soulblooms. There are two Soulblooms near the Blacksmith, and a Red Soulbloom in the balcony of the Observatory. One completing the quest, Regek will allow you to upgrade your Mantras that relate to no Attunement.
+  
+
+### Blooming Souls Quest (Soul Flower Quest)
+
+-   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms.
+    -   A red flower located outside near the observatory balcony. Mind your footing.
+    -   A white flower, located near the Blacksmith, facing infront of it.
+    -   A white flower, hanging at the side of a tree root a level above the Blacksmith.
+-   Reward of completing this quest gives a handful of EXP, and access to upgrade Non-Attunement Mantras.
 
 ## Extra
 
@@ -90,3 +98,4 @@ The portal locations.
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
 -   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
+-   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.

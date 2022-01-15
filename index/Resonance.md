@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 12502
+revid: 12578
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -24,9 +24,9 @@ _**Pressing C triggers resonance**_
 
 **Confirmed method by multiple resonance users, Kanorogue#8988.**
 
-File:Arch2.png
-
 After a confirmation by Arch, we have learned that progress toward resonance is most likely based on the amount of monsters you have killed.
+
+File:Arch2.png
 
 It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat, notably, progress is obtainable in The Overworld.
 
@@ -34,7 +34,7 @@ You gain Progress by doing all the same things to obtain Luck, but as opposed to
 
 While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciated with things like hours in The Depths or max luck or a higher level.
 
-Theorized that to get max progression, you have to solo kill primadon 6 times.
+Theorized that to get max progression, you have to solo kill primadon 5-10 times.
 
 Bell obtainment method might be random between players i solo'd prima 6 times ferryman 5 with a bunch of regular kills + player kills and did not obtain
 

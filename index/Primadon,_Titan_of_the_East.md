@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 12478
+revid: 12587
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -25,6 +25,12 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be both parried and perfect dodged.
 -   **Watch yo Tone _EX_** - Primadon winds back it's leg in order to deliver a devasting kick that is capable of punting you ~across the island~ _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megolodaunt's fling kick. Can only be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and perfect dodged.
+
+## Rewards
+
+-   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-5 umbral in them
+-   **Small chest -** Has 1-4 umbral in it and a random Deep gem in it
+-   **Alot of luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (9-12 primadon's is enough to get a resonance/bell)
 
 ## Combos
 

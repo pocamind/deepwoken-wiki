@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 12360
+revid: 12539
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,7 +36,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 "You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"
 
-## Notes
+## Notes (Oathless)
 
 -   The easiest Oath to obtain, as it only requires the player to reach Power 30.
 
@@ -56,7 +56,13 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### How to obtain:
 
-Head to Lower Erisia and make your way to the large bandit camp (just slightly past the bandit camp in the ran-down house), climb up the wall on the right until you see a temple-like structure (Temple of The Forgotten Flame). Head inside the structure, but watch out for [Watchers](Watcher.md) that can also be found in The Depths, as they'll spawn an angel entity that uses spear combat if you're spotted by them. From there, head inside the temple and enter the opening on the left. All that remains from there is to equip the blindfold and read the text on the wall with the requirements and accept the Oath.
+-   Head to Lower Erisia and make your way to the large bandit camp (just slightly past the bandit camp in the ran-down house),
+-   Climb up the wall on the right until you see a temple-like structure (Temple of The Forgotten Flame).
+-   Head inside the structure, but watch out for [Watchers](Watcher.md) that can also be found in The Depths, as they'll spawn an angel entity that uses spear combat if you're spotted by them.
+-   From there, head inside the temple and enter the opening on the left.
+-   All that remains from there is to equip the blindfold and read the text on the wall with the requirements and accept the Oath.
+
+Blindseer vesp  
 
 ### Oath Effects:
 
@@ -66,16 +72,14 @@ Head to Lower Erisia and make your way to the large bandit camp (just slightly p
 -   +1 Wildcard Mantra Slot
 -   Increased brightness
 -   Full vision while wearing a blindfold
--   Visible symbol in front of your eyes or a black skin and mask with a unique yellow design (Locked to [Vesperian](Vesperian.md))
-    
-    Blindseer vesp  
-    
+-   Visible symbol in front of your eyes
+    -   Black skin and new mask with a unique yellow design for [Vesperians](Vesperian.md)
 
 ### Oath Description:
 
 "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."
 
-## Notes
+## Notes (Blindseer)
 
 -   According to a Blindseer user, with Willpower 40, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
 -   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
@@ -121,7 +125,7 @@ Image of the card
 
 "You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."
 
-## Notes:
+## Notes (Visionshaper)
 
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.

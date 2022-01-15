@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 12235
+revid: 12596
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,7 +34,6 @@ The Lord Regent is a mysterious individiual who rose to power and has absolute c
 -   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
--   He appears similar to the Mindless Servants in Lord Erisia's Laboratory, wearing the same armor and blindfold.
 
 ### The King of Etrea
 
@@ -59,7 +58,7 @@ The Duke
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
--   The Duke extracted an Artifact from the Temple of the Forgotten Flame after Erisia Island went back up to the Etrean Luminant, presumably the Piece of the Forge, and brought it back to his Manor.
+-   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 
 ### Maestro Evengarde Rest
 
@@ -168,9 +167,18 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Pathfinders
 
+-   **Encountered In:** _Anywhere_
+-   **Attunements:** _???_
+-   **Alliances:** _???_
+-   **Enemies:** N/A
+-   **Lore Sources:** _Neero (Temple of the Forgotten Flame)_
+
 -   An organization consisting mostly Explorers and Historians alike. The Pathfinder varies in the individual; either focused more in combat or exploration.
+    -   The Pathfinders consists of Historians, Scavengers, Bounter Hunters, and Explorers. _(Source - Neero)_
+-   The Pathfinder's goal are to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
 -   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
--   Pathfinders can share tales of stories to others, such as the inspiration of a warrior whom slain a great beast.  
+-   Pathfinders can share tales of stories to others, such as the inspiration of a warrior whom slain a great beast.
+-   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- An artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
     
 
 ### The Legion
@@ -179,11 +187,12 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_
 -   **Enemies:** _The Central Authority_
--   **Lore Sources:**
+-   **Lore Sources:** _Amara_
 
 -   A Military Organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
+-   Their are regiments within The Legion; like the 11th Legion Armor players can obtain.
     
     Amara, a Member of The Legion.
     
@@ -275,14 +284,16 @@ A Peacekeeper Grunt, part of The Authority
 
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Unknown_
--   **Alliances:** _Unknown_
+-   **Alliances:** _Lightkeepers (???)_
 -   **Enemies:** _The Kingdom of Etrea_
--   **Lore Sources:**
+-   **Lore Sources:** _Regek_
 
 -   A group of Individuals; mostly Vesperian and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
--   Their Level of Technology is a mixture of Ancient and Modern. Proof of this is using the fountains as a form of travel between islands and their natural salvaging skills.
+    -   Their previous home was located in Erisia Island, by the names of [The Hidden Village](The_Hidden_Village.md).
+-   Their level of technology is far better than Summer Company, such as the makings of Hive Constructs, Laboratories, and the invocation of green fountains.
 -   The Hive protects green artifacts, similar to [The Forge](Artifacts.md), against the Kingdom of Etrea.
--   They seem to have ranks such as Drone and Tactician.
+-   They seem to have ranks such as Drone, Adjudicator and Tactician.
+-   The Hive have Lifeweavers within their ranks, individuals who utilized the song to create life.
 
 ### The Divers
 
@@ -392,7 +403,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Lightkeepers
 
-**Lore Sources:**
+**Lore Sources:** _Nimea_
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light; using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
@@ -400,6 +411,28 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Some time before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
+-   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
+    -   As of the Year 1271, it has been buried by the sands of the Valley, and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
+
+### Lifeweavers
+
+**Lore Sources:** _Regek (Greathive Aratel)_
+
+-   Individuals of The Hive whom utilized the Song to manipulate life itself; leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+-   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
+    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, eventually drown to the Tides, when the time comes.
+-   It's unsure how much a Lifeweaver's life is precious to the world of Deepwoken, unlike Lightkeepers.
+-   Lifeweavers as of 1/15/2022, are not encountered in-game.
+
+### Celestials
+
+**Lore Sources:** _Celestial Telescope (Greathive Aratel)_
+
+-   The People of the Stars, so to speak. They are not to be confused with Lightborns.
+-   Celestials came to the Luminants from the stars, and introduced the "Canticlysm"; an event that was drawn from the Heavens by the Song.
+-   The Cities of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
+-   As of the Year 1271, their civilization has undergo a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
+-   The Celestials are presumably extinct, though evidence is required to confirm the theory.
 
 ### Kingdom of Etrea's Past Rulers
 
@@ -425,6 +458,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
     -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will rekindle once again to the bells of the deep.
 -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
+
+## Deepwoken: 1271~
+
+This category lists new lore that has been added into Deepwoken through updates. This will cover what lore has been dropped, and the date it has been found or released.
+
+### Year 1277
+
+-   The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the City crash down into the surface.
 
 ## Miscellaneous
 

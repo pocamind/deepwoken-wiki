@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 11811
+revid: 12566
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -48,7 +48,7 @@ _Chance of obtaining race: **15.2%**_
 
 Wolf/lion people, blue haired/black haired are wolf-people, orange/golden haired are lion-people.
 
-Most human-like race in Deepwoken.
+Most human-like race in Deepwoken from a visual standpoint.
 
 **Strengths:**
 
@@ -84,4 +84,4 @@ N/A
 
 ## Notes/Trivia
 
--   Trivia goes here
+-   The surnames of the Canorian are noticeably German, or German inspired.

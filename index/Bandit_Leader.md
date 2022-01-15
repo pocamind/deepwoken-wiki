@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 9642
+revid: 12595
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,14 +9,19 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Bandit Captains are NPC-Type enemies that are found all over Erisia. Wears white. They will usually be sitting around a campfire.
+Bandit Captains are NPC hostiles. They are found around a campfire accompanied by 2 other [bandits](Bandit.md) and at the abandoned town in pairs of 5.
 
-Also found in the abandoned town, now turned fort, but gripping all of them won't drop a chest
+Their appearance consists of the Duelist's Attire.
+
+## Location
+
+-   Lower Erisia ([Erisia](Erisia.md))
+-   Abandoned Town ([Erisia](Erisia.md))
 
 ## Moves
 
--   **Different Weapons: Normal M1 hits**
+Their arsenal consists of a different Starter Weapon, nothing else special.
 
 ## Tips
 
--   You can usually assassinate them, then do an M1 combo and grip.
+-   You can assassinate them, do an M1 combo and grip.

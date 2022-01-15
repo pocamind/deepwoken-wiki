@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 12283
+revid: 12598
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,11 +9,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description:
 
-Dark Mage Cultists (Ministry Scouts) are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Their appearance is repetitive and consists of a hat, a blindfold and some sort of black suit, but not the race.
+Ministry Scouts are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave.
 
-Their arsenal consists of a Ben's knife and [Shadowcast](Shadowcast.md):
+Their appearance is repetitive and consists of a hat, a blindfold, a Prophet's Cloak, but not the race.
 
 ## Moves
+
+Their arsenal consists of a Ben's knife and [Shadowcast](Shadowcast.md):
 
 ### **Moves:**
 

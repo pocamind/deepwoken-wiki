@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 12466
+revid: 12592
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,19 +9,20 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Bandits are NPC hostiles that can be found all over [Erisia](Erisia.md). Can be identified by their red clothing.
+Bandits are NPC hostiles that can be found all over. Can be identified by their red clothing.
 
-They spawn in groups of 2, usually around a campfire, but sometimes in an [ambush](Random_Encounters.md) towards the player. They are accompanied by a [Bandit Captain.](Bandit_Leader.md)
+They spawn in groups of 2 around a campfire accompanied by a [Bandit Captain](Bandit_Leader.md), but sometimes in an [ambush](Random_Encounters.md) towards the player,
+
+## Location
+
+-   Lower Erisia ([Erisia](Erisia.md))
 
 ## Moves
 
--   **Starter weapons: Normal M1s, Heavy attacks.**
--   **Blocking**
--   **Rolling**
--   **Parrying**
+Their arsenal is composed of a Starter Weapon, nothing else special.
 
 ## Tips
 
--   You can usually one shot assassinate them.
+-   You can one shot assassinate them.
 -   They wont block much so you can take advantage of that.
 -   Almost never parry, you can use this to your advantage.

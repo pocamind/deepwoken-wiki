@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 12394
+revid: 12541
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,7 +11,9 @@ categories: [Pages with broken file links]
 | The Depths | |
 |---|---|
 
-> "You feel The Depths coil around your soul like a knot." - In Combat Flavour Text
+“ You feel the Depths coil around your soul like a knot. ”
+
+― In-combat flavour text.
 
 _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 1 again._
 
