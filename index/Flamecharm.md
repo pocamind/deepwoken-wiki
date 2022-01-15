@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 12385
+revid: 12620
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -99,8 +99,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Burns target(s).
 -   Breaks certain tiles (Hidden village door, glider cave planks).
 -   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
-
-(Someone test multiplying spark on this)
+-   Can not be upgraded with a multiplying spark.
 
  |
 |  | Fire Blade (☆) | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.

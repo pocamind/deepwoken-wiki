@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 12580
+revid: 12679
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,8 +33,6 @@ The Root Plaza contains a Cargo Room, Archive, and an Antiquarian.
 The Heart Plaza contains an R&D room.
 
 The Canopy Plaza contains a Blacksmith, an Inn, Canopy Peak, and an Observatory, which also doubles as a mantra shop. When looking through the Celestial Telescope in the Observatory, it says this:
-
-Second textbox that shows upon interaction
 
 “ \*You look through the telescope... You see the canopy of the Greathive crowding the lens, and the sea beyond it. Maybe there's a way to adjust the image?\* ”
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12594
+revid: 12692
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -258,7 +258,7 @@ Hand of Mantra Cards
 
 ### **Freak Of Nature**
 
--   Exoskeleton \[Legendary talent\] It always takes 20 hits to kill you - this makes it impossible to die unless struck 20 times after entering combat
+-   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you - this makes it impossible to die unless struck 20 times after entering combat
 
 ### The Emperor's Blade
 
@@ -450,6 +450,7 @@ Hand of Mantra Cards
 
 -   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest. (+2 Posture, +10 Health)
 -   Medium Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest. (+2 Posture, +9 Health)
+-   Light Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest. (+2 Posture, +9 Health)
 
 ### Self-Shocker
 

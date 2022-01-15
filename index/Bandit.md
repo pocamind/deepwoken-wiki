@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 12592
+revid: 12604
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,6 +16,9 @@ They spawn in groups of 2 around a campfire accompanied by a [Bandit Captain](Ba
 ## Location
 
 -   Lower Erisia ([Erisia](Erisia.md))
+-   Isle Of Vigils
+-   Etris
+-   [Summer Isle](Summer_Isle.md)
 
 ## Moves
 

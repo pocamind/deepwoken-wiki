@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 12440
+revid: 12628
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links]
 # Luck
 
 _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Text_
+
+_"Heh, let's go gank that freshie over there for luck, wait wha- ahhhh wtf!" - Un-Assuming lvl 10 Adret (me) Who Got His Ass Beat_
 
 ## Description
 
@@ -38,20 +40,7 @@ Gripping a player will steal their luck (roughly ~50% of their own luck + base a
 -   The victim is within 15 Power levels.
     -   A player at Power 35 must kill players that are at least Power 20
 
-### From NPCs
-
-Killing an NPC has a chance for a white ball to come out of them. Walking over this white ball will give you an investment point (and possibly luck.)
-
-File:Luck Ball.png
-
-I have seen these NPCs drop the white ball:
-
--   [Mudskippers](Mudskipper.md)
--   [Bandits](Enemies.md)
--   [Megalodaunts](Megalodaunt.md)
--   A lot more
-
-#### From Boss NPCs
+### From Boss NPCs
 
 Killing the following Boss NPCs will provide you with luck:
 
@@ -61,7 +50,7 @@ Killing the following Boss NPCs will provide you with luck:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 
-#### From Corrupted AKA Enhanced Monsters
+### From Corrupted Monsters
 
 Killing a Corrupted Monster will provide you with luck. If a monster has a purple aura that is an immediate sign that it is corrupted. Corrupted Monsters are stronger counterparts from their original, but they are fundamentally the same. They hit harder, and have more HP.
 

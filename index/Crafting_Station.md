@@ -1,6 +1,6 @@
 ---
 title: Crafting Station
-revid: 12521
+revid: 12689
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,3 @@ Crafting Stations can be used to build more complex items that can't be built in
 To use the Crafting Table, you must be within a certain proximity of it and use the crafting section in your inventory. To see recipes that the Crafting Station can be used for, see Crafting Recipes & Alchemy.
 
 Many items you build here must be learned with a Schematic.
-
-## Notes/Trivia
-
--   Player notes go here

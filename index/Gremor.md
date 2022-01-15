@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 12503
+revid: 12611
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -90,7 +90,6 @@ N/A
 
 ## Notes/Trivia
 
--   The compass will often times be covered by the server age, making it difficult to see where the compass is pointing.
 -   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.
     -   Also applies to Void Sea
 

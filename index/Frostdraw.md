@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 11932
+revid: 12613
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -76,6 +76,7 @@ These mantras have no prequisites.
  | Placeholder | User throws three daggers of ice toward the nearest person.
 
 -   Homing attack.
+-   Can be upgraded with Frozen Pin-Cushion (freezes opponents for a long period of time)
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | Ice Blade
@@ -260,6 +261,11 @@ These talents can be found in the _Ice Age_ category.
 +2 Health |
 | [Frozone](https://deepwoken.fandom.com/wiki/File:Frozone.png) | Frozone | You are no longer required to be over water to use Ice Skate. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
 +3 Health |
+| 
+[Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png)
+
+ | Frozen Pin-Cushion | Ice Daggers now freeze opponents. (Requires Ice Daggers 1 Star combat mantra) | +3 Elemental Intensity  
++1 Health |
 
 **Glassdancer:**
 

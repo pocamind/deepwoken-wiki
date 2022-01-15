@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 12552
+revid: 12693
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -293,6 +293,16 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>7.5</td>
   <td>0.7</td>
+</tr>
+<tr>
+  <td>Mace</td>
+  <td>10 MED</td>
+  <td>20</td>
+  <td>N/A</td>
+  <td>5</td>
+  <td>6</td>
+  <td>7.5</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td>Falchion</td>
@@ -694,16 +704,6 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>0.77x</td>
 </tr>
 <tr>
-  <td>Mace</td>
-  <td>10 Medium Weapon</td>
-  <td>20</td>
-  <td>N/A</td>
-  <td>5</td>
-  <td>6</td>
-  <td>7.5</td>
-  <td>0.7x</td>
-</tr>
-<tr>
   <td>Hero Blade of Flame</td>
   <td>75 FIR, LVL 35</td>
   <td>22</td>
@@ -748,7 +748,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>75 SHD, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>SHD: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>

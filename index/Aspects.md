@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 12213
+revid: 12638
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -8,13 +8,15 @@ categories: [Races]
 
 # Aspects
 
-## Description
+There are many races within the world of Deepwoken, each player starting out with a race at random per character slot. Currently, there are 10 obtainable races in Deepwoken, each providing various utility abilities and skills to the player.
 
-There are many races within the world of Deepwoken, each with its unique racial abilities and skills. Currently there are 10 obtainable races in Deepwoken. It costs 150 Robux to reroll your race. (Purchasing a new character slot for 200 robux will randomize the race on that character, your previous race does not carry over.)
+  
 
-## Rollable Races
+### Rollable Races
 
-These races are obtainable by anyone. One of these races will be given to the player when they first purchase the game. A new race can be obtained by rerolling your race for 150 Robux or buying a new character slot.
+These races are obtainable by any player. One of these races will be given to the player when they first purchase the game. A new race can be obtained by rerolling a race for 150 Robux, or buying a new character slot.
+
+The rates of rolling these races can be found below.
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |
@@ -27,8 +29,7 @@ These races are obtainable by anyone. One of these races will be given to the pl
 | **[Felinor](Felinor.md)** | 7.27% |
 
   
-
-(These rates are not 100 accurate and the rates may vary)
+_These rates are not 100% accurate, and may vary. Do not take this as a concrete source of information._
 
 ## Exclusive Races
 
@@ -36,7 +37,9 @@ These races are owned by only a few specific people.
 
 ## Notes
 
--   NPC's and **some** players may treat you differently depending on your race, but most of the time enough points in Charisma will overwrite the NPC's aggression towards you (can apply for players if you have irl charisma).
--   All races are **balanced,** you do not need a rare race to be considered **good** at the game.
--   All races will only give a small amount of boosts or a head start at best, meaning that to survive you **must** be skilled and can not simply rely on your race's abilities to carry you in battle. Most races do not even give you any combative boosts, they're usually for utility.
--   There is a secret/unreleased race called [Lightborn](Lightborn.md), which was only given to wave 0 testers by Ragoozer himself.
+-   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player.
+    -   **SOME** players may also treat the player differently depending on their race, however this cannot be solved by Charisma.
+-   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
+-   All races will only give the player a small amount of boosts, or maybe a head-start at best, meaning that to survive, the player _must_ be skilled, and cannot simply rely on their race's abilities to carry them through the game.
+    -   Most races does not even give the player any combative boosts, the boosts exist mainly for utility.
+-   Purchasing a new character slot for 200 will randomize the race on that character, your previous race does not carry over.

@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 12598
+revid: 12603
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,4 +42,4 @@ Their arsenal consists of a Ben's knife and [Shadowcast](Shadowcast.md):
 -   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Ministry Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
 -   Everyone except the [Ministry Necromancer](Ministry_Necromancer.md)s are enemies towards them, even NPCs.
 -   The Shadow Spike is a reskin of the [Glacial Arc](Frostdraw.md), and it's apparently only exclusive to these guys.
--   Ben's knife is apparently, not obtainable.
+-   Ben's knife is apparently, not obtainable, well it was before at release.

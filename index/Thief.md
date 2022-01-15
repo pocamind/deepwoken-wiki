@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 12515
+revid: 12602
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,17 +9,17 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-A Bandit Assassin is an NPC-Type enemy that are found in the all over Erisia. Wears black.
+Bandit Assassins are NPC hostiles, they are found in pairs of 3.
 
-They will usually be in a group of 3 Assassin Bandits
-
-Will Steal your money if they grip you upon doing this they will say "!score" and disappear.
-
-Usually you won't actually die from them gripping you.
+Their appearance consists of a Shadow Hunter's armor.
 
 ## Moves
 
--   **Dagger: Fast M1 hits**
+Their arsenal consists of a Stilleto.
+
+### Flaws
+
+-   **Very Inexperienced:** They dont block/parry at all, typically "newbie player" type of combat skill.
 
 ## Attack Pattern
 
@@ -27,6 +27,6 @@ Bandit assassin's often organize themselves in front of the player side to side 
 
 ## Tips
 
--   You can usually one shot assassinate them.
-
--   They wont block so you can take advantage of that.
+-   You can one shot assassinate them.
+-   Upon gripping you they will steal your money saying "Score!" and dissapear.
+-   Usually you won't actually die from them gripping you.

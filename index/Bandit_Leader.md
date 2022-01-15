@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 12595
+revid: 12607
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,6 +17,7 @@ Their appearance consists of the Duelist's Attire.
 
 -   Lower Erisia ([Erisia](Erisia.md))
 -   Abandoned Town ([Erisia](Erisia.md))
+-   [Summer Isle](Summer_Isle.md)
 
 ## Moves
 

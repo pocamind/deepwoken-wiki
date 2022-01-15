@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 12519
+revid: 12659
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -27,7 +27,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping.
 -   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack when below half health.
--   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. ~He only uses Grand Javelin when below half health~ (Wrong, i was fighting him and even before he was half hp he used it)
+-   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools.
 
 ### Finishers
 
@@ -53,10 +53,13 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   When the Ferryman's health goes below half, the music that plays in the background changes into a faster version of the previous song.
 -   Under half health, Lightning Assault and Lightning Strike become much faster.
 -   The Ferryman takes about 25 minutes to respawn.
--   The Ferryman is confirmed by Archmage to be completely unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
+    -   Sometimes, he won't spawn even if the timer is off and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires to solve the issue.
+-   The Ferryman is confirmed by Arch\_Mage to be completely unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
+        
+        _Verification from Arch\_Mage that they aren't related._
         
           
         

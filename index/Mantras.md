@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 12505
+revid: 12600
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -41,3 +41,13 @@ Modification can fail when you have placed incompatible ingredients on the table
 ## How can I get a Mantra?
 
 Mantra's can be obtained by increasing your [Power](Talents.md). Every time you get talent cards, there is a chance that you receive will be Mantras instead.
+
+## Upgrading your Mantras
+
+All Mantras can be upgraded from their respective element and trainer. Albeit Strength, Flamecharm or Willpower- As long as you have the points allocated into them.
+
+There are 5 Mantra Levels you can have, starting from Level 1 to Level 5.
+
+Level 1: Novice (~25) | Level 2: Adept (25+) | Level 3: Expert (50+) | Level 4: Master (75) | Level 5: Legendary (100)
+
+For every 25 points in the required Attribute, you are able to upgrade Mantras based on that Attribute.
