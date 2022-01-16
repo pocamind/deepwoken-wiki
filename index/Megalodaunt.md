@@ -1,16 +1,12 @@
 ---
 title: Megalodaunt
-revid: 12977
+revid: 13041
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Megalodaunt
-
-“ Zamn bro, that Sharko got some cake! ”
-
-― Foolish Bard
 
 Template:Creature Infobox V3 _Also known as Shark(s), Sharko(s), and Megalodaunt(s)._
 

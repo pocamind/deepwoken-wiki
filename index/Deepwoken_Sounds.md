@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 10337
+revid: 13047
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,35 +24,37 @@ ONLY EDIT IF YOU SERIOUSLY KNOW FOR A FACT THAT THE MUSIC HAS A CLEAR RELEVENCE 
 
 The Main OST for Deepwoken.
 
--   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming?in=naktigonis/sets/deepwoken) Contour 1** (Plays in the menu screen) File:Mainmenu contour1.ogg
+-   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming?in=naktigonis/sets/deepwoken) Contour 1** (Plays in the menu screen)File:Mainmenu contour1.ogg
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-2?in=naktigonis/sets/deepwoken) Contour 2** (Plays in the continue screen after selecting your character)File:To Sleep, Dreaming (Contour 2).mp3
--   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) Contour 3** (Plays somewhere, unkown)File:To Sleep, Dreaming (Contour 3).mp3
--   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) Contour 4** (Plays somewhere, really cool song, possible plays in the depths due to bells chiming)File:To Sleep, Dreaming (Contour 4).mp3
+-   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) Contour 3** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 3).mp3
+-   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) Contour 4** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 4).mp3
 -   **[Solivgant](https://soundcloud.com/naktigonis/solivgant)** (ambience ig)File:Solivagant.mp3
 -   **[To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine)** (fighting music)File:To Fight, Sanguine.mp3
 -   **[On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants)** (A combination of all 4 Countours of To Sleep Dreaming)File:On The Shoulders Of Giants.mp3
 
--   **Aratel & Etrean Sea File:Aratel Sea - Deepwoken OST.mp3**
--   **Erisia File:Erisia - Deepwoken OST.mp3**
--   **Erisia Combat File:Erisia (Combat) - Deepwoken OST.mp3**
--   **Greathive Aratel File:Greathive Aratel - Deepwoken OST.mp3**
--   **Greathive Aratel Combat File:Greathive Aratel (Combat) - Deepwoken OST.mp3**
--   **Isle of Vigils File:Isle of Vigils - Deepwoken OST.mp3**
--   **Lightkeeper's Temple File:Lightkeeper's Temple - Deepwoken OST.mp3**
--   **Lord Erisia's Manor File:Lord Erisia's Manor - Deepwoken OST.mp3**
--   **Minityrsa File:Minityrsa - Deepwoken OST.mp3**
--   **Songseeker Wilds File:Songseeker Wilds - Deepwoken OST.mp3**
--   **Songseeker Wilds Combat File:Songseeker Wilds (Combat) - Deepwoken OST.mp3**
--   **Starswept Valley File:Starswept Valley - Deepwoken OST.mp3**
--   **Starswept Valley Combat File:Starswept Valley (Combat) - Deepwoken OST.mp3**
--   **Summer Isle File:Summer Isle - Deepwoken OST.mp3**
--   **Summer Isle Combat File:Summer Isle (Combat) - Deepwoken OST.mp3**
--   **Temple Of Blades File:Temple Of Blades - Deepwoken OST.mp3**
--   **The Depths MusicFile:Drowned City - 7394909817.ogg**
--   **The Depths Combat MusicFile:DepthsCombatLoop.ogg**
--   **The Garden Reservoir File:The Garden Reservoir - Deepwoken OST.mp3**
+-   **[Aratel & Etrean Sea](https://soundcloud.com/naktigonis/to-shores-distant?in=naktigonis/sets/deepwoken-ost-1) File:Aratel Sea - Deepwoken OST.mp3**
+-   **[Erisia](https://soundcloud.com/naktigonis/the-trappings-of-a-lord?in=naktigonis/sets/deepwoken-ost-1) File:Erisia - Deepwoken OST.mp3**
+-   **[Erisia Combat](https://soundcloud.com/naktigonis/cry-havoc) File:Erisia (Combat) - Deepwoken OST.mp3**
+-   **[Greathive Aratel](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin?in=naktigonis/sets/deepwoken-ost-1) File:Greathive Aratel - Deepwoken OST.mp3**
+-   **[Greathive Aratel Combat](https://soundcloud.com/naktigonis/a-symphony-of-strife?in=naktigonis/sets/deepwoken-ost-1) File:Greathive Aratel (Combat) - Deepwoken OST.mp3**
+-   **[Isle of Vigils](https://soundcloud.com/naktigonis/peregrine?in=naktigonis/sets/deepwoken-ost-1) File:Isle of Vigils - Deepwoken OST.mp3**
+-   **[Lightkeeper's Temple](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) File:Lightkeeper's Temple - Deepwoken OST.mp3**
+-   **[Lord Erisia's Manor](https://soundcloud.com/naktigonis/of-labours-veiled?in=naktigonis/sets/deepwoken-ost-1) File:Lord Erisia's Manor - Deepwoken OST.mp3**
+-   **[Minityrsa](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights?in=naktigonis/sets/deepwoken-ost-1) File:Minityrsa - Deepwoken OST.mp3**
+-   **[Songseeker Wilds](https://soundcloud.com/naktigonis/the-sun-gleaming?in=naktigonis/sets/deepwoken-ost-1) File:Songseeker Wilds - Deepwoken OST.mp3**
+-   **[Songseeker Wilds Combat](https://soundcloud.com/naktigonis/thrill-of-the-hunt?in=naktigonis/sets/deepwoken-ost-1) File:Songseeker Wilds (Combat) - Deepwoken OST.mp3**
+-   **[Starswept Valley](https://soundcloud.com/naktigonis/in-starstruck-sands?in=naktigonis/sets/deepwoken-ost-1) File:Starswept Valley - Deepwoken OST.mp3**
+-   **[Starswept Valley Combat](https://soundcloud.com/naktigonis/pyres-of-glass?in=naktigonis/sets/deepwoken-ost-1) File:Starswept Valley (Combat) - Deepwoken OST.mp3**
+-   **[Summer Isle](https://soundcloud.com/naktigonis/of-smoke-and-steel?in=naktigonis/sets/deepwoken-ost-1) File:Summer Isle - Deepwoken OST.mp3**
+-   **[Summer Isle Combat](https://soundcloud.com/naktigonis/one-for-all-all-for-gun?in=naktigonis/sets/deepwoken-ost-1) File:Summer Isle (Combat) - Deepwoken OST.mp3**
+-   **[Temple Of Blades](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights?in=naktigonis/sets/deepwoken-ost-1) File:Temple Of Blades - Deepwoken OST.mp3**
+-   **[The Depths](https://soundcloud.com/naktigonis/oscillation?in=naktigonis/sets/deepwoken-ost-1) File:Drowned City - 7394909817.ogg**
+-   **[The Depths Combat](https://soundcloud.com/naktigonis/lacrimosa-dies-illa-1?in=naktigonis/sets/deepwoken-ost-1) File:DepthsCombatLoop.ogg**
+-   **[The Ferryman (Phase 1?)](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1) File:A Sarabande Of Thunder.mp3**
+-   **[The Ferryman (Phase 2?)](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1) File:Dance, If You Can!.mp3**
+-   **[The Garden Reservoir](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) File:The Garden Reservoir - Deepwoken OST.mp3**
 -   **Voidheart File:CorvusManorMain.ogg**
--   **Voidsea File:Voidsea - Deepwoken OST.mp3**
+-   **[Voidsea](https://soundcloud.com/naktigonis/what-mends-shall-fray?in=naktigonis/sets/deepwoken-ost-1) File:Voidsea - Deepwoken OST.mp3**
 
   
 (IF ANY OF THIS IS WRONG, OR IF YOU HAVE MORE MUSIC, PLEASE LEAVE A COMMENT) 
@@ -69,7 +71,7 @@ The Main OST for Deepwoken.
 
 Ambience that can be found in different areas.
 
--   **The Depths AmbienceFile:DepthsAmbience.ogg**
+-   **[The Depths](https://soundcloud.com/naktigonis/pelagic-slumber?in=naktigonis/sets/deepwoken-ost-1) File:DepthsAmbience.ogg**
 
 <table>
 <tbody>
@@ -126,7 +128,7 @@ Miscellaneous sounds found in Deepwoken.
 
 #### **Other**
 
--   **Ascension (the sound that plays when you complete the Depths trial)File:Audio-ascension22.ogg**
+-   **[Ascension](https://soundcloud.com/naktigonis/ascension-interlude?in=naktigonis/sets/deepwoken-ost-1) (the sound that plays when you complete The Depths trial)File:Audio-ascension22.ogg**
 -   **Level Up**
 -   **Zipline (loops)**
 
@@ -163,6 +165,10 @@ These songs were made for other purposes.
 
 -   **[Ash For The Altar](https://soundcloud.com/naktigonis/ash-for-the-altar)** Yeah this one is pretty fire. GET IT YET!? AHHAHHHHHHHHHHHHHHHHAHAHAHAHAAAHAHA it's still another remix. (plays in the intro for Demstormz Flamecharm Showcase video)File:Ash For The Altar (Flamecharm Showcase Theme).mp3
 
+-   **[A Memory of Tides](https://soundcloud.com/naktigonis/a-memory-of-tides) File:A Memory Of Tides.mp3**
+-   **[Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) File:Masters of the House.mp3**
+-   **[The Gideshu March](https://soundcloud.com/naktigonis/the-gideshu-march) File:The Gideshu March.mp3**
+
 <table>
 <tbody>
 <tr>
@@ -173,7 +179,8 @@ These songs were made for other purposes.
 
 ### **Notes/Trivia**
 
--   The Voidheart music is/was the music for Corvus Manor on the Isle of Crows.
+-   The Voidheart music was the music for Corvus Manor on the Isle of Crows.
+-   The "A Memory of Tides" song is called something along the terms of "Phonograph Song" in-game.
 
 <table>
 <tbody>

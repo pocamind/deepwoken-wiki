@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 12555
+revid: 13113
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,22 +18,20 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-"Yo imma try and fight that springtrap lookin freak" - Helpless level 41 (me)
-
 An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Power 50+)
 
 Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (Power 50+) and fail the trial you'll turn into an enforcer.
 
 Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
-Has 4000 HP. (This can seem to be alot but Primadon have 60000HP.)
+Has 4000 HP. (This can seem to be a lot but the Primadon has 60000HP.)
 
 ### Attacks
 
 -   **High Swing -** Lifts his axe high in the air and brings it down on the enemy.
 -   **Low Swing -** Swings his axe around knee length at the opponent.
 -   **Kick -** Delivers a kick at the opponent.
--   **Spin -** Spin with his axe, but is slown.
+-   **Spin -** Spin with his axe, but is slowed down.
 -   **Hook-** If you far away from him he will pull you to him with his hook.
 
 ### Finisher

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12716
+revid: 13057
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -97,8 +97,6 @@ File:Screenshot 2021-12-28 152413.png
 
  |
 | 
-
-File:Mantra Modifier Placeholder.png
 
  | Magnifying Stone | Likely same as Glass Stone.
 
@@ -200,12 +198,16 @@ Shadow Chains
 
 Adrenaline Surge
 
- | Reverses the effect of the Mantra. |
+ | Applies "Reversal" to compatible Mantra. |
 | 
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun
+
+Shadow Gun
+
+ | Applies "Triple Shot" to compatible Mantra. |
 | 
 
  | Spring Spark | Strong Leap | Applies "Fire Trap" to compatible Mantra. |
@@ -222,7 +224,7 @@ _"You feel dizzy when you hold it."_
  |
 | 
 
- | Mirage Stone | _Unknown._ | _"You feel unnaturally calm when grasping this stone"_
+ | Mirage Stone | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
 
 Possible sanity recover if you hit the attack.
 

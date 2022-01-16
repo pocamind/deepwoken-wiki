@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 12456
+revid: 13037
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ A player getting turned into a Mudskipper
 
 > _"AGH, STOP! CUT THE BREAKS! AGH~"_ - ~Unfortunate Diver~ Mudskipper.
 
-Sometimes referred to as Squid Hoss. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md). It can spawn in City of the Drowned.
+Sometimes referred to as Squid Hoss or Squibbo. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md). It can spawn in City of the Drowned.
 
 Drops "Odd Tentacles".
 
@@ -33,6 +33,7 @@ Drops "Odd Tentacles".
 ## **Notes/Tips**
 
 -   STAY CALM AND FEEL THE RHYTHM. If you don't, your parry timings will be broken.
+-   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder than [Primadon](Primadon,_Titan_of_the_East.md) or the [Enforcer](Enforcer.md).
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can also, but the stab is less effective than the latter two.
 -   No matter how high leveled you are, you cannot just try to meat hit it like a sharko. You need to parry and pay attention to his m1's or you will Immediately get wiped, This thing _**WILL**_ outskill you.

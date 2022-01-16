@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 12786
+revid: 13063
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -49,7 +49,7 @@ This is certainly a faster method to escape, although still poses the threat of 
 
 ## The Trial
 
-The Voices of the Depths sentence you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
+The [Voices of the Depths](Voices_of_the_Depths.md) sentence you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
@@ -61,7 +61,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 10-19 | Deepknight (Bandit Leader) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) (Can be corrupted) |
-| 45+ | [Enforcer](Enforcer.md) |
+| 50+ | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 

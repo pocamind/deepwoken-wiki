@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 12945
+revid: 13053
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -78,7 +78,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent seven times. The fourth hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (7 for Heavy, 8 for Medium, 9 for Light). The charged hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>

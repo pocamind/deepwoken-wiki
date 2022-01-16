@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 12662
+revid: 13050
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, NPC]
@@ -20,7 +20,7 @@ A [Resonance](Resonance.md) is required to enter the temple and to talk to Yun'S
 
 ## Wish
 
-Once per character, the player is allowed to interact with Yun'Shul to obtain a wish.
+Once per 10 level up, the player is allowed to interact with Yun'Shul to obtain a wish.
 
 After the first line of dialogue is finished, Yun'Shul will speak to the player, allowing them to make their wish:
 

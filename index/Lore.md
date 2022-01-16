@@ -1,8 +1,9 @@
 ---
 title: Lore
-revid: 12703
+revid: 13033
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Lore
@@ -279,6 +280,10 @@ A Dark Mage, located in Minityrsa.
 -   Consists mostly Adrets, but can vary with other races too.
 
 A Peacekeeper Grunt, part of The Authority
+
+#### Music
+
+-   The Gideshu March is a popular marching song of the Adretian Authority - the iron-fisted remnants of the Adretian Empire of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.File:The Gideshu March.mp3
 
 ### The Hive
 

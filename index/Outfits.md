@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 12949
+revid: 13104
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -886,7 +886,11 @@ _Requires Fortitude 10_
 
 File:KnightHelm.png
 
- | Knight's Helm | Grants three random buffs. |  |
+ | Knight's Helm | Grants three random buffs.
+
+_Requires Fortitude 12_
+
+ |  |
 | 
 
 File:GreyGumshoeHat.png

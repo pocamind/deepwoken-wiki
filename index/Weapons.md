@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 12960
+revid: 13109
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -124,7 +124,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>0.85x</td>
 </tr>
 <tr>
-  <td>Krulian Knife</td>
+  <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
   <td>60 LHT</td>
   <td>14</td>
   <td>N/A</td>
@@ -655,7 +655,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>0.6x</td>
 </tr>
 <tr>
-  <td>Forge Greathammer</td>
+  <td><a href="Forge_Greathammer.md">Forge Greathammer</a></td>
   <td>55 HVY, 10 STR</td>
   <td>26</td>
   <td>N/A</td>
@@ -755,7 +755,7 @@ Weapons that do not fit any criteria for it to belong to any type.
 </tr>
 <tr>
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
-  <td></td>
+  <td>25 MED, 75 WND</td>
   <td>19</td>
   <td>35%</td>
   <td>MED: 5, WND: 4</td>

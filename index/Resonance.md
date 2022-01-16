@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 12969
+revid: 13068
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -20,7 +20,7 @@ Resonance, or Bells, are obtained from the Depths. Bells have been stated to hav
 
 _**Pressing C triggers resonance**_
 
-## How Do You Obtain A Resonance?
+## How To Get a Resonance
 
 **Confirmed method by multiple resonance users, Kanorogue#8988.**
 
@@ -45,11 +45,11 @@ TLDR:
 -   Progress can be obtained in The Overworld and carry over to The Depths.
 -   Max progress takes signifcantly longer than max Luck.
 
-## How Do You Change A Resonance?
+## How To Change a Resonance
 
 -   Go to The Depths, find the doors that require resonance to open, and talk to Yun'Shul. He gives you 2 other options besides changing Resonance, which are to escape depths instantly and wipe your Oath. You can choose a wish every 10 levels.
 
-## Corrupted Resonance
+### Corrupted Resonance
 
 Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhance a Resonance's ability, said to be **4x** stronger than the original, but it has a debuff as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
 
@@ -57,7 +57,7 @@ Currently known debuffs - Insanity on use, health loss on use, set on fire when 
 
 **NOTE: You will know if you got a Corrupted Resonance if once you got the Resonance the particles will be Blue.**
 
-## Known Resonance Abilities
+## Known Resonances
 
 Hit Reflection showcased by Bracting.
 
@@ -108,13 +108,13 @@ File:God's Will Showcase.mp4
 
   
 
-### **Reaper**
+### **Blood Scourge**
 
-Reaper Variation 1.
+Blood Scourge Variation 1.
 
   
 
-Reaper Variation 2.
+Blood Scourge Variation 2.
 
 -   Quickly grips every knocked entity within a certain radius on use.
 -   Creates an large red effect similar to full counter, that expands and retracts from a certain point.

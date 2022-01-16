@@ -1,22 +1,16 @@
 ---
 title: Hollow Angel
-revid: 12661
+revid: 12995
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Hollow Angel
 
 ## Appearance
 
-File:Angel.jpg
-
-Angel spotted in [The Depths](The_Depths.md)
-
-White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Thundercall attunements. They are summoned upon being spotted by a Watcher or during Depths trials.
-
-They have 400HP.
+Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Thundercall attunements. They are summoned upon being spotted by a Watcher or during Depths trials.
 
 ## Moves
 

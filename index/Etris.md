@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 12972
+revid: 13102
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -148,8 +148,8 @@ This is how the Lord Regent executes you if your reputation isn't high enough.
 
 Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
 
--   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event.
--   Once you've become popular with the residence of Etrea, talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
+-   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
+-   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
 -   Kennith's corpse accompanied by a King's Guard
@@ -233,7 +233,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
     -   2\. Perform a Charisma Check, which requires Charisma 50.
     -   3\. Perform a Flamecharm Check, which requires Flamecharm 40.
 
--   Reward of doing Ploom's bidding is the Pleeksty's Will Talent.
+-   Reward of doing Ploom's bidding is the Pleeksty's Will Talent, which increases Ether and Reservoir gain from consuming elemental ingredients.
 
 ### Frostdrawer Nell Quest
 

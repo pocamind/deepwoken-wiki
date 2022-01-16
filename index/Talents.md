@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12963
+revid: 13116
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -231,6 +231,7 @@ Hand of Mantra Cards
 -   Precise Swing \[Generic Talent, Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
+-   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
 
 ### Empath
 
@@ -259,7 +260,7 @@ Hand of Mantra Cards
 
 ### **Freak Of Nature**
 
--   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you - this makes it impossible to die unless struck 20 times after entering combat
+-   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you - this makes it impossible to die unless struck 20 times after entering combat. This also includes fall damage and other natural damage.
 
 ### The Emperor's Blade
 
@@ -288,7 +289,7 @@ Hand of Mantra Cards
     -   Prerequisites: Flamecharm | 50 Flamecharm
 -   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: Flamecharm
--   Unyielding Inferno \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
+-   Unyielding Inferno \[Generic Talent, Common Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
     -   Prerequisites: Flamecharm
 
 ### Galebreather
@@ -298,6 +299,7 @@ Hand of Mantra Cards
 -   Expert Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 2-Star Leveled Galebreath mantras. (+5 Elemental Intensity)
 -   Master Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 3-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
 -   The Old Wind \[Generic Talent, Galebreath Exclusive\] - Glide straight with the power of Gales.
+    -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce
 
@@ -373,11 +375,11 @@ Hand of Mantra Cards
 
 ### Marauder
 
--   Thresher Scales \[Generic Talent, Rare Card\] - You regenerate your armor at campfires. (+9 Health)
+-   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
+-   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
     -   Prerequisites: Bloodiron Spirit (Rare talent)
--   Thresher Claws \[Generic Talent, Rare Card\] - All of your attacks have 10% more PEN. (+9 Health)
--   Aggressive Posture \[Generic Talent, Rare Card\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
--   Bloodletter \[Generic Talent, Rare Card\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
+-   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
+-   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
 
 ### Meditative Trance
 
@@ -626,6 +628,7 @@ Hand of Mantra Cards
 -   Aeriel Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
 -   Successive Throw \[Generic Talent, Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: High Light Weapon (~40)
+-   Lethal Force \[Genertic Talent, Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either)
@@ -771,7 +774,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Shadow Mobility
 
 -   Shadow Assault (2 Star Mantra) - You turn into dark energy and speed forward. Used often to catch running enemies.
--   Shadow Travel - After a long wind-up, teleport to where your cursor was. The farther the teleport, the more it will damage you. (This is NOT a whisper. I put this here for confused people.)
+-   Shadow Travel \[Rare "Talent"\] - After a long wind-up, teleport to where your cursor was. The farther the teleport, the more it will damage you. (This is NOT a whisper. I put this here for confused people.)
 
 #### Mystery
 
