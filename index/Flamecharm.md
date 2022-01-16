@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 13065
+revid: 13202
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -135,7 +135,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 | --- | --- | --- | --- |
 |  | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
--   This Mantra can be improved with a [Spring Spark](Mantra_Modifiers.md#spring-spark). (requires testing, I tried 3 days ago and it didn't work)
+-   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
 
  |
 

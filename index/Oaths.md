@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 13142
+revid: 13206
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -129,4 +129,4 @@ Image of the card
 
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.
--   Illusionary Abilities possibly hinted due to the description and GIF from the Infernasu's tweet. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
+-   Illusionary Abilitiess possibly hinted due to the description and GIF from the Infernasu's tweet. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))

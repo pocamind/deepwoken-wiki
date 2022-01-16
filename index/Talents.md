@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13123
+revid: 13192
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -405,7 +405,7 @@ Hand of Mantra Cards
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill Sea Serpent Ardour.
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health)
--   Murmur: Adagio \[Generic Talent, Common Talent\] - An application of the Song that allows you to slow time in a bubble around you. Press H to activate.
+-   ~Murmur: Adagio \[Generic Talent, Common Talent\] - An application of the Song that allows you to slow time in a bubble around you. Press H to activate.~ Proven by one of developers to be fake.
 
 ### Natural Armor
 
@@ -415,7 +415,7 @@ Hand of Mantra Cards
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Common Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%.
+-   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%.
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: A fist style.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)

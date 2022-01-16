@@ -1,12 +1,14 @@
 ---
 title: Crustaceous Rex
-revid: 11171
+revid: 13185
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Crustaceous Rex
+
+_Also known as Crabbo and King Crab._
 
 ## Description
 

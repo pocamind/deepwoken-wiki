@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 12807
+revid: 13183
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,7 +41,7 @@ Picture of a Crafting Bench
 
 ## Food Recipes
 
-Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the recipe and the ingredients within, they will be more fill more _**Hunger**_ and _**Thirst**_ than it's base counterparts.
+Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the recipe and the ingredients within, they will be more fill more _**Hunger**_ and _**Thirst**_ than its base counterparts.
 
 Certain foods, usually the more complicated one/which require more work to obtain, grant Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 
@@ -59,8 +59,8 @@ Certain foods, usually the more complicated one/which require more work to obtai
 -   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
 -   **Mushroom Bisque** - Any Mushroom + Crustacean Meat
 -   **[Bread](Bread.md)** - _3 Gathered Wheat_
--   **Omelette/Cooked Egg** - _2 Eggs (**NOT** Spider Eggs)._
--   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_
+-   **Omelette/Cooked Egg** - _2 Eggs_
+-   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increases Weapon damage)
 -   Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
 -   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
 -   **Cooked Fishmeat** - _1 Fishmeat_
@@ -80,15 +80,15 @@ Certain foods, usually the more complicated one/which require more work to obtai
 ## Alchemy
 
 **Main Article: [Alchemy](Alchemy.md)**  
-The potions listed in this section will all work, though there are some innaccuracies and not all effects are listed. For the most accurate known information, use the main page.
+The potions listed in this section will all work, though there are some inaccuracies and not all effects are listed. For the most accurate known information, use the main page.
 
 Potions are made with the use of a cauldron. One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. As of currently, only the Etris one is functional.
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
 -   Adding more of one ingredient to a single ingredient potion adds to it's strength. You can add up to 3.
--   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, ive fixed this page up a lot)
--   The effectiveness of potions scales with your INTelligence stat, as well as being improved with 2 talents: Apothecary (stronger beneficial potions) and Exterminator (stronger negative potions).
+-   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, I've fixed this page up a lot)
+-   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 2 talents: Apothecary (stronger beneficial potions) and Exterminator (stronger negative potions).
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
@@ -315,4 +315,4 @@ _**Negative**_
 -   Sadly, you cannot use the Graceful Flame Mantra (Flamecharm exclusive) to cook Food.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
--   If you drink a potion while its on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.
+-   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.

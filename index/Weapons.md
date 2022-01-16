@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13157
+revid: 13201
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -798,7 +798,7 @@ Accessories you can use in your off-hand.
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>?</td>
+  <td>1.5</td>
   <td>N/A</td>
   <td>N/A</td>
 </tr>
@@ -808,7 +808,7 @@ Accessories you can use in your off-hand.
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>?</td>
+  <td>1.25</td>
   <td>N/A</td>
   <td>N/A</td>
 </tr>
@@ -818,7 +818,7 @@ Accessories you can use in your off-hand.
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>?</td>
+  <td>1</td>
   <td>N/A</td>
   <td>N/A</td>
 </tr>

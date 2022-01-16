@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 11315
+revid: 13159
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -95,6 +95,6 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 5.  Go above the Navaen Nomad Camp and talk to the Royal Guard, make sure to take the dialogue option given to you.
 6.  Talk to Lord Regent and obtain the Manor Key
 7.  Head on to Erisia and go all the way throught the Garden Reservoir. You will eventually reach a teleport, which takes you to [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
-8.  Enter the manor, which require the Manor's Key to glow, which only happen at night.
+8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
 9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
 10.  (Optional) Return to Lord Regent to complete the quest, which will then proceed to dispose of you. This will kill you and take a life.

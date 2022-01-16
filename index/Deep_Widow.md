@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 12430
+revid: 13196
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -36,7 +36,7 @@ A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Va
 
 **Finisher**
 
--   **Devour** - The Widow eats the downed person, killing them instantly under a second.
+-   **Fatal Poison -** Bites you, and injects a fatal amount of poison into your body, killing you,
 
 ## **Notes/Tips**
 

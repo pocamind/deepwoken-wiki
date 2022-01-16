@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 13113
+revid: 13176
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,9 +18,9 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Power 50+)
+An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Power 45+)
 
-Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (Power 50+) and fail the trial you'll turn into an enforcer.
+Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (Power 45+) and fail the trial you'll turn into an enforcer.
 
 Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
@@ -47,6 +47,9 @@ Has 4000 HP. (This can seem to be a lot but the Primadon has 60000HP.)
 -   Is sometime regarded as easier to fight than the [Angels](Hollow_Angel.md) or [Megalodaunts](Megalodaunt.md), however, its near human intelligence, involving feints, can prove difficult to newer players and still catch veterans off guards.
 -   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry/roll its next attack quickly.
 -   Do this solo or duo; it becomes a lot more challenging when many players show up, causing an armada of Enforcers to wreck everything in sight.
+-   The deadliest thing is a feint. So basically, when you see a swing, hold F so you could be ready for unexpected attack.
+-   When he starts to spin, just go away from him and drink heal (invigorating) potion.
+-   Just parry and hit while wait till he's gonna posture break.
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13155
+revid: 13190
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -126,7 +126,7 @@ Deep Gems are obtained by killing **Primadon** (Isn't 100% but still has a small
 | 
  | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra
 
-Reduces damage of mantra for 20%
+Reduces damage of mantra for 30%
 
  |
 | 
@@ -289,7 +289,7 @@ also looks identical to falseflame.
 
 #### Spring Spark
 
--   This modifier seems to make flame leap go higher?
+-   This modifier has no known compatibilities.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 13041
+revid: 13181
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,9 @@ categories: [Monsters]
 
 # Megalodaunt
 
-Template:Creature Infobox V3 _Also known as Shark(s), Sharko(s), and Megalodaunt(s)._
+Template:Creature Infobox V3 _Also known as Shark(s) and Sharko(s)._
+
+  
 
 ## Description
 
@@ -70,3 +72,4 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
 -   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xy](https://www.youtube.com/watch?v=IwVD8iw7Xy)
     -   This method is semi-outdated and may not work 100% of the time.
+-   The Megalodaunt has a striking resemblance to the [Giant Fisherman](https://bloodborne.fandom.com/wiki/Giant_Fishman) from the game Bloodborne.
