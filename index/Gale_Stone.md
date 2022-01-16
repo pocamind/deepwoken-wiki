@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 9820
+revid: 12714
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,8 +15,11 @@ A Gale Stone can be acquired by slaying Galebreath users, in which there is a hi
 
 WARNING: You can accidentally eat it.
 
+Do not kill Etrean guards for these, instead kill Legionnaires as they have a higher chance on dropping Gale Stones.
+
   
 
+  
   
 
 ## Notes/Trivia

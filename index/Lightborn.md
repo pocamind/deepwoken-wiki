@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 12275
+revid: 12713
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -47,7 +47,7 @@ _"The stars call you back..."_
 
 ## Lore
 
-None
+Children of the Celestials, the Lightborn are considered to be fragments of these once great gods up above. However, in recent times, a family of these people known as the Spellhardt's had come forth within the Eastern Luminant. Rumored to be housing themselves within a mighty castle in the sky. Although they are of celestial origin, their reputation among the people is questioned quite often due to their less than favorable actions.
 
 **Strengths:**
 

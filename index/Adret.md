@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 12567
+revid: 12968
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links, Races]
 
 # Adret
 
-Adret is a [Race](Aspects.md) in Deepwoken
+Adret is a [Race](Aspects.md) in Deepwoken.
 
 ## Description
 
 Template:Races-Main
 
-_Tattooed when they come of age, their tattoo represents the path of life they seek. Well regarded as bureaucrats and keepers of coin._
+_Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin._
 
 _Chance of obtaining race: 16.0%_
 
@@ -49,27 +49,22 @@ _Chance of obtaining race: 16.0%_
 
 **Lore:**
 
-## Lore
-
-The Adrets are a historically recently arrived race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Adretian Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
+  
+The Adrets are a historically recently-arrived race of spiritually adept individuals that make up the bulk of the greatest force in the world; The Adretian Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
 
 **Strengths:**
 
-+2 Charisma, +2 Willpower.
-
-## Strengths
-
-Adrets can easily level up their attributes and progress faster than the normal player, they have a built in autodidact which can be stacked with the boon
+  
+Adrets can easily level up their attributes faster than the normal player, making them progress faster. They also have a built-in autodidact which can be stacked with the boon.
 
 **Weaknesses:**
 
-## Weaknesses
-
+  
 N/A
 
 **Surnames:**
 
-## Surnames
+  
 
 -   Adaset
 -   Corbet
@@ -86,9 +81,12 @@ N/A
 -   Yuset
     
 
+* * *
+
 ## Notes/Trivia
 
--   An Npc in the Summer Isle refers to the Adrets as different, stating that they came not from the "old world" but rather from someplace else. He also cites that they are the only race not in relation to an animal. There is more than one way to interpret this. All of the other races are based off of animals that live on land, which could be what the NPC meant by saying that Adrets aren't like the others.
+-   An NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "old world", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
+    -   There is a lot of ways to interpret this, but it's generally believed that he's indicating that all of the other races are based off of animals, and Adrets are not.
 -   Archmage did, however, confirm that the Adret are **not** fish either.
     
       

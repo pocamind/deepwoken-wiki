@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 12522
+revid: 12807
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -206,7 +206,7 @@ _**Negative**_
  | 
 
 -   Great for Pvp since it works well without Reservoir.
--   Seems to drain Reservoir a lot but that could jsut be an effect of the regen rather then a negitive downside.
+-   Seems to drain Reservoir a lot but that could just be an effect of the regen rather then a negitive downside.
 
  |
 | **Steadfast Potion** | 

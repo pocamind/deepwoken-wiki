@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 12462
+revid: 12945
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -207,7 +207,7 @@ Allure
 
  | 
 
-Upon getting hit, it will apply a charm effect on the opponent. Charm causes you to deal 25% more damage to them, and they will deal 25% less damage to you.
+Upon getting hit, it will apply a Tough Love charm effect on the opponent. Charm causes you to deal 25% more damage to them, and they will deal 25% less damage to you.
 
  |
 | 
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-The user gains a buff in The Depths on the armor, the enchant is on. tbh no one knows what it does (My friend has this enchant whenever he flourishes someone they don’t get knocked back but might not be the enchant)
+2x damage in depths and grants a lot more sanity.
 
   
 

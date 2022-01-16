@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 12692
+revid: 12963
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -230,10 +230,11 @@ Hand of Mantra Cards
 -   Duelist Dance \[Generic Talent, Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 -   Precise Swing \[Generic Talent, Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
+-   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
 
 ### Empath
 
--   Give and Take \[Generic Talent\] - Deal less damage to comrades and recieve less damage from comrades. (+3 Ether, + 2 Health)
+-   Give and Take \[Generic Talent\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Prerequisite: Charm
 
 ### Escape Artist
@@ -669,7 +670,6 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 #### Charisma Combat (??? Charisma Needed)
 
 -   Glare - Opponents facing you are briefly stunned.
-
 -   Sing - Charm those around you with your powerful voice.
 
 -   Taunt - Taunt those around you, causing them unable to jump and to take more damage. However in their rage they do extra damage.
@@ -687,7 +687,6 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 #### Willpower Combat (Around 40 Willpower Needed)
 
 -   Gaze - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
--   Glare - Opponents facing you are briefly stunned. (Is speculated to be a charisma-based mantra but very little is known about this move specifically)
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
 #### Light Weapon Combat

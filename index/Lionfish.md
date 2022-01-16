@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 12433
+revid: 12983
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,9 +16,7 @@ categories: [Pages with broken file links, Monsters]
 
 ## Appearance
 
-File:Menos Fish.jpg
-
-A lionfish in [The Depths](The_Depths.md)
+Template:Creature Infobox V3
 
 Half-fish, half-lion. A large brown fish with a black mane of a Lion, thus it's name. It has white blank eyes, with it's teeth visible.
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 12644
+revid: 12786
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -57,15 +57,15 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 
 | Trial Power | Possible Enemies |
 | --- | --- |
-| 1-7 | N/A - You escape without fighting a monster |
-| 8-18 | Deepknight (Bandit Leader) |
-| 19-29 | [Angels](Hollow_Angel.md) |
+| 1-9 | N/A - You escape without fighting a monster |
+| 10-19 | Deepknight (Bandit Leader) |
+| 20-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) (Can be corrupted) |
-| 50+ | [Enforcer](Enforcer.md) |
+| 45+ | [Enforcer](Enforcer.md) |
 
 **Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 
-  
+_**Note: Being sent to the depths by a mob or player will add a count to "times drowned". This count is added to your level when factoring what mob you fight in the trial**_  
 
 ## Farming in The Depths
 

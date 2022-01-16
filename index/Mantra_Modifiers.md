@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 12678
+revid: 12716
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -263,8 +263,9 @@ also looks identical to falseflame.
 #### Reversal Spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
+-   This modifier allow the _Tornado_ Mantra to pull enemies to its center.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
--   This modifier reverses the _Flame Leap_ Mantra ~forcing all players around you to rise and burn.~ _Flame Leap_ already does this, so I guess it just doesn't lift you up into the air anymore?
+-   This modifier reverses the _Flame Leap_ Mantra causing the caster to slam the ground, throwing those around them into the air.
     -   If you fall before the animation completes, all fall damage is negated.
     -   When casted in water, user dives into the water and floats back up. Creates a flaming AoE when/if user reaches land.
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)

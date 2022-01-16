@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 12386
+revid: 12777
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -84,6 +84,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Unlocks Agility-related Talents, depending on the Character's Agility. Most of them also grant Passive Agility, which is not displayed on the attribute tab but grant improvemed movement normally.
 -   Gain Agility EXP via Parkour(such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
 -   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 agility. (Might require an oath too?)
+-   Possibly gonna give an agility oath in the future.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
 
 ### Intelligence
@@ -137,6 +138,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Gain Charisma EXP by selling items.
 -   Increases Ether.
 -   Can be unbounded by completing the 3rd option in Karliah's quest and talking to her back in Etris.
+-   Vow of Mastery.
 
 ## Weapon Proficiency Attributes
 

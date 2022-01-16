@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 12596
+revid: 12703
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -178,7 +178,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   The Pathfinder's goal are to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
 -   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
 -   Pathfinders can share tales of stories to others, such as the inspiration of a warrior whom slain a great beast.
--   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- An artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
+-   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
     
 
 ### The Legion
@@ -389,14 +389,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Great Drowning
 
-**Lore Sources:**
+**Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
 -   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met. (Climate Change?)
 
 ### Ancestors of Ganymedes & Vesperians
 
-**Lore Sources:**
+**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
 
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present in Year 1271, they still work together as The Hive.
@@ -416,7 +416,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Lifeweavers
 
-**Lore Sources:** _Regek (Greathive Aratel)_
+**Lore Sources:** _Regek (Mentioned)_
 
 -   Individuals of The Hive whom utilized the Song to manipulate life itself; leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
@@ -426,7 +426,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Celestials
 
-**Lore Sources:** _Celestial Telescope (Greathive Aratel)_
+**Lore Sources:** _Celestial Telescope (Cities)_
 
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns.
 -   Celestials came to the Luminants from the stars, and introduced the "Canticlysm"; an event that was drawn from the Heavens by the Song.
@@ -436,7 +436,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Kingdom of Etrea's Past Rulers
 
-**Lore Sources:**
+**Lore Sources:** _Etris_
 
 -   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
 -   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However during The Lord Regent's ruling the Office was suspended.
@@ -445,14 +445,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Driftlands
 
-**Lore Sources:**
+**Lore Sources:** _Etris, Isle of Vigils_
 
 -   Driftlands, named by the people of Deepwoken, are Islands that drifted back to the Luminant from the Voidsea. [Erisia Island](Erisia.md) is an example of a Driftland.
 -   Driftlands have experienced a sort of Time Stasis during their time in the Voidsea, but have returned back to the Luminant.
 
 ### Resonance Bells
 
-**Lore Sources:**
+**Lore Sources:** _The Depths_
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will rekindle once again to the bells of the deep.

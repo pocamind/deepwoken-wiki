@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 12693
+revid: 12960
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -68,7 +68,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>0 LHT</td>
   <td>10</td>
   <td>N/A</td>
-  <td>1</td>
+  <td>LHT: 1</td>
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -78,7 +78,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>25 LHT</td>
   <td>13.5</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>LHT: 8</td>
   <td></td>
   <td>6.5</td>
   <td>1.03x</td>
@@ -88,7 +88,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>35 LHT</td>
   <td>12</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>LHT: 6</td>
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -98,7 +98,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>40 LHT</td>
   <td>15</td>
   <td>N/A</td>
-  <td>5</td>
+  <td>LHT: 5</td>
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -108,7 +108,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>50 LHT</td>
   <td>14.5</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
   <td>1.03x</td>
@@ -118,7 +118,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>50 LHT</td>
   <td>15</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>LHT: 8</td>
   <td>3</td>
   <td>7</td>
   <td>0.85x</td>
@@ -128,7 +128,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>60 LHT</td>
   <td>14</td>
   <td>N/A</td>
-  <td>10</td>
+  <td>LHT: 10</td>
   <td>3</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -157,7 +157,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0 LHT</td>
   <td>12</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>LHT: 7</td>
   <td>3</td>
   <td>7</td>
   <td>0.75x</td>
@@ -167,7 +167,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0 LHT</td>
   <td>15</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>LHT: 7</td>
   <td>5</td>
   <td>7</td>
   <td>0.87x</td>
@@ -177,7 +177,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>30 LHT</td>
   <td>16</td>
   <td>5%</td>
-  <td>9</td>
+  <td>LHT: 9</td>
   <td>5</td>
   <td>7</td>
   <td>0.87x</td>
@@ -187,7 +187,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>40 LHT</td>
   <td>13</td>
   <td>20%</td>
-  <td>9</td>
+  <td>LHT: 9</td>
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
@@ -216,7 +216,7 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>20 LHT</td>
   <td>10</td>
   <td>N/A</td>
-  <td>10</td>
+  <td>LHT: 10</td>
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
@@ -226,7 +226,7 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>65 LHT</td>
   <td>13</td>
   <td>N/A</td>
-  <td>15</td>
+  <td>LHT: 15</td>
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
@@ -236,7 +236,7 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>65 LHT</td>
   <td>20</td>
   <td>N/A</td>
-  <td>12</td>
+  <td>LHT: 12</td>
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
@@ -269,7 +269,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0 MED</td>
   <td>18</td>
   <td>N/A</td>
-  <td>2</td>
+  <td>MED: 2</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -279,7 +279,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0 MED</td>
   <td>22</td>
   <td>N/A</td>
-  <td>4</td>
+  <td>MED: 4</td>
   <td>7</td>
   <td>8</td>
   <td>0.75x</td>
@@ -289,7 +289,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>10 MED</td>
   <td>20</td>
   <td>N/A</td>
-  <td>5</td>
+  <td>MED: 5</td>
   <td>6</td>
   <td>7.5</td>
   <td>0.7</td>
@@ -299,7 +299,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>10 MED</td>
   <td>20</td>
   <td>N/A</td>
-  <td>5</td>
+  <td>MED: 5</td>
   <td>6</td>
   <td>7.5</td>
   <td>0.7x</td>
@@ -309,7 +309,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>20 MED</td>
   <td>16</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>MED: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
@@ -329,7 +329,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>25 MED</td>
   <td>18</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -339,7 +339,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>30 MED</td>
   <td>19</td>
   <td>N/A</td>
-  <td>4</td>
+  <td>MED: 4</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -349,7 +349,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>40 MED</td>
   <td>20</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -359,7 +359,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>40 MED</td>
   <td>19</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>MED: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.77x</td>
@@ -369,7 +369,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>40 MED</td>
   <td>21</td>
   <td>N/A</td>
-  <td>5</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -389,7 +389,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>45 MED</td>
   <td>22</td>
   <td>N/A</td>
-  <td>0</td>
+  <td>MED: 0</td>
   <td>2</td>
   <td>8</td>
   <td>0.73x</td>
@@ -399,7 +399,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>50 MED</td>
   <td>17</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>MED: 7</td>
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
@@ -409,7 +409,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>60 MED</td>
   <td>18</td>
   <td>20%</td>
-  <td>7.5</td>
+  <td>MED: 7.5</td>
   <td>4</td>
   <td>8</td>
   <td>0.7x</td>
@@ -419,7 +419,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>100 MED</td>
   <td>20</td>
   <td>25%</td>
-  <td>7</td>
+  <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -448,7 +448,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0 MED</td>
   <td>17</td>
   <td>N/A</td>
-  <td>2</td>
+  <td>MED: 2</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
@@ -458,7 +458,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>20 MED</td>
   <td>18</td>
   <td>N/A</td>
-  <td>4</td>
+  <td>MED: 4</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
@@ -468,17 +468,17 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>35 MED</td>
   <td>19</td>
   <td>N/A</td>
-  <td>5</td>
+  <td>MED: 5</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
 </tr>
 <tr>
   <td>Trident</td>
-  <td>60 MED</td>
+  <td>50 MED</td>
   <td>19</td>
   <td>25%</td>
-  <td>6</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
@@ -488,7 +488,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>80 MED</td>
   <td>20</td>
   <td>25%</td>
-  <td>7</td>
+  <td>MED: 7</td>
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
@@ -521,7 +521,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0 HVY</td>
   <td>20</td>
   <td>N/A</td>
-  <td>5</td>
+  <td>HVY: 5</td>
   <td>6</td>
   <td>8</td>
   <td>0.6x</td>
@@ -531,7 +531,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>40 HVY</td>
   <td>26</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>HVY: 8</td>
   <td>6</td>
   <td>8</td>
   <td>0.61x</td>
@@ -541,7 +541,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>45 HVY</td>
   <td>21</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>HVY: 7</td>
   <td>4</td>
   <td>8</td>
   <td>0.6x</td>
@@ -551,7 +551,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>45 HVY</td>
   <td>26</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>HVY: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.64x</td>
@@ -561,7 +561,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>45 HVY</td>
   <td>22</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>HVY: 7</td>
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
@@ -571,7 +571,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>75 HVY</td>
   <td>26</td>
   <td>N/A</td>
-  <td>10</td>
+  <td>HVY: 10</td>
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
@@ -600,7 +600,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>20 HVY, 10 STR</td>
   <td>22</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>HVY: 7</td>
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
@@ -610,7 +610,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>40 HVY, 10 STR</td>
   <td>22.4</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
@@ -620,7 +620,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>40 HVY, 10 STR</td>
   <td>26</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
@@ -649,7 +649,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>20 HVY, 10 STR</td>
   <td>22</td>
   <td>N/A</td>
-  <td>7</td>
+  <td>HVY: 7</td>
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
@@ -659,7 +659,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>55 HVY, 10 STR</td>
   <td>26</td>
   <td>N/A</td>
-  <td>8</td>
+  <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
@@ -669,7 +669,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>75 HVY, 10 STR</td>
   <td>24</td>
   <td>N/A</td>
-  <td>9</td>
+  <td>HVY: 9</td>
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
@@ -698,7 +698,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>0 MED</td>
   <td>19</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>MED: 6</td>
   <td>4</td>
   <td>8</td>
   <td>0.77x</td>
@@ -708,7 +708,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>75 FIR, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>FIR: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -718,7 +718,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>75 THD, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>THD: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -728,7 +728,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>75 ICE, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>ICE: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -738,7 +738,7 @@ Weapons that do not fit any criteria for it to belong to any type.
   <td>75 WND, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>6</td>
+  <td>WND: 6</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -847,7 +847,7 @@ Accessories you can use in your off-hand.
   <td>20 LHT</td>
   <td>10</td>
   <td>N/A</td>
-  <td>10</td>
+  <td>LHT: 10</td>
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
@@ -857,7 +857,7 @@ Accessories you can use in your off-hand.
   <td>65 LHT</td>
   <td>13</td>
   <td>N/A</td>
-  <td>15</td>
+  <td>LHT: 15</td>
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
@@ -867,7 +867,7 @@ Accessories you can use in your off-hand.
   <td>65 LHT</td>
   <td>20</td>
   <td>N/A</td>
-  <td>12</td>
+  <td>LHT: 12</td>
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>

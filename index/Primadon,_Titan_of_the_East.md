@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 12629
+revid: 12974
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -29,7 +29,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 ## Rewards
 
 -   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-5 umbral in them
--   **Small chest -** Has 1-4 umbral in it and a random Deep gem in it
+-   **Small chest -** Has 1-4 umbral in it and a 30-40% chance of a random Deep gem in it
 -   **Alot of luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo primadon's is enough to get a resonance/bell)
 
 ## Combos

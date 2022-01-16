@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 11560
+revid: 12994
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,14 @@ Inside of the buildings of the island, there is a gun store. This sells [Flintlo
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks.
 
-There is a forge towards the bottom of the castle where an NPC named Jarvis will smelt two items for you, transferring the stats of one item to another. This will not combine stats, only replaces them. Also, if you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever.
+There is a forge towards the bottom of the castle where an NPC named Jarvis will smelt two items for you, transferring the stats of one item to another.
+
+-   It costs 1000 Notes per smelt, regardless of the items being smelted.
+-   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
+-   If you try to give an item the "stat item" stats without the same amount of stats on the "appearance item," it will only transfer one of the stats. This is presumed to be random.
+    -   Confirmed; gave Jarvis a glassdancer wrap with 3 stats (health, ether, posture) and kept the appearance of a dark gumshoe coat (which rolls with no stats) and only the ether was transferred over.
+-   If you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever.
+-   This will _not combine_ stats, only replaces them.
 
 There is a supply room which contains Scope, the NPC that you give the explosives crates to in return for a chest.
 

@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 11506
+revid: 12993
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Terrapod
 
-Template:Creature Info Box v2
+Template:Creature Infobox V3
 
 > _"It's your pet- the frickin' HEADHUMPER!" - Barney Dusselden_
 

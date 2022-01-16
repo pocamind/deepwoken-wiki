@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 12486
+revid: 12833
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -305,3 +305,13 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 </tr>
 </tbody>
 </table>
+
+## Optimal potion
+
+**Soothing tincture (3 Redd + 2 Gobletto) - Reservoir + Health Regen:** Restore a good amount of reservoir. The Redds in the potions will deal damage, but the goblettos will heal that damage right away and leave you with an extra health regen.
+
+**Mindbreaker Bane (3 Urchin) - Insanity:** Purely offensive potion, designed to cripple your enemy. At 50 intelligence, people with low willpower will reach the first tier of insanity with just 1 potion. Can be used aggresively in The Depths to kill people prematurly.
+
+**Invigorating Elixir (3 Gobletto) - Heath Regen:** Super easy to make and can provide some good healing with Apothecary and a good chunk of intelligence.
+
+**Heartening Salve (3 Bluecap + 2 Gobletto) - Sanity + Health Regen:** Recover a decent chunck of sanity. The Gobletto are used to heal the bit of hp lost by drinking the bluecaps.

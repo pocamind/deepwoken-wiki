@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt
-revid: 12498
+revid: 12977
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Megalodaunt
@@ -20,7 +20,7 @@ Template:Creature Infobox V3 _Also known as Shark(s), Sharko(s), and Megalodaunt
 
 ― Megalodaunt (Presumably)
 
-Megalodaunts are shark-like (not to be confused with [Lionfish](Lionfish.md), the actual shark enemy) Giant Type enemies which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+Megalodaunts are shark-like (not to be confused with [Lionfish](Lionfish.md), the actual shark enemy) Giant-Type enemies which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
 It is the most common Giant Type enemy.
 
@@ -33,16 +33,16 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Moves
 
 -   **Slash** - A short range slash. Blockable and parriable. Heavy posture damage.
--   **WATCH YO TONE** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block, but can be dodged.
+-   **Kick** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block, but can be dodged.
 -   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable (this attack may be used after a kick unintentionally since you will be above it at some point while flying through the sky).
 -   **Spit** - A multi-hit projectile targeted at a single target. Blockable and parriable.
 -   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a generous amount of insanity. A poor move in the etrean luminant but especially deadly in [The Depths](The_Depths.md), as an unaware player might suffer from insanities effect much earlier than expected, or worse, mid fight.
-    -   **CAN BE BLOCKED TO NEGATE INSANITY EFFECTS**
+    -   **In order to avoid the Insanity effect, the player can simply block.**
 -   **Thousand Needles** - A multi-hit AoE move, often used against groups of targets. Blockable and parriable.
 
 ## Finishers
 
--   **Curb Stomp** - The Meglodaunt ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen almost under a second.
+-   **Curb Stomp** - The Meglodaunt ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen in only a second.
 
 ## Combos
 
@@ -51,36 +51,26 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 ## Variants
 
--   **Megalodaunt** - A normal Megalodaunt.
--   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt with roughly 3x health. Red Megalodaunts appear exclusively on Songseeker Wilds in the rare Megalodaunt VS Red Megalodaunt event, if left by themself, the red one will always win due to its larger health pool. As the ability to rain down fire swords from the sky.
--   **Alpha (Black) Megalodaunt** - Appears exclusively in the Depths.
+-   **Megalodaunt** - A normal Megalodaunt, with 1000 HP.
+-   **Red Megalodaunt** - A much more powerful red version of the Megalodaunt with roughly 3x health. Red Megalodaunts appear exclusively on the Songseeker Wilds in the rare Megalodaunt VS Red Megalodaunt event.
+    -   If the event is left by itself, the red one will always win, due to its larger health pool of 3000 HP.
+    -   Has the ability to rain down fiery swords from the sky.
+-   **Alpha (Black) Megalodaunt** - Appears exclusively in the Depths. Has 1600 HP.
 
-## Tips n' Tricks
+## Trivia & Notes
 
--   Despite their scary looks, sharkos are _**very**_ squishy, and it's fairly easy to parry their claw attacks.
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
--   Megalodaunt lets out a snarl when he spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it is aggro'd.
--   It is adviced to get at least Adept Armor and Power Level 15+, unless you're aware of the parry patterns.
--   Common slang terms of Megalodaunt include Sharko, Megalodon, Gary, Jerry, Big Guy, Hugo, and Liam
--   If Meglodaunt has you as a enemy targets, its best if you block dodge or parry some of his moves than try to roll it. Moves such as Thousand Needles and spit is semi-impossible to avoid, as it covers a good amount of area.
--   Your camera shakes the closer Meglodaunt is to your character, due to his footsteps.
--   It's always recommended to perfect dodge the Football Kicks. You may parry them if you have Hunter's Brace.
--   After parrying it's Palm Bust block for a second to see if it slaps again and react to it's next move.
--   Megalodaunt has 1000 points of HP.
--   Enhanced Megalodaunt has 3000 points of HP.
+-   Do **not** run from a Megalodaunt unless you find a house/cavern that is too small for it to enter. It will result in your demise, and is futile.
+-   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.
+-   It is advised to get at least [Adept Armor](Outfits.md) and Power Level 15+ in order to fight one, unless the player is aware of the parry patterns.
+-   Common slang terms of Megalodaunt include Sharko, Megalodon, Gary, Jerry, Big Guy, Hugo, and Liam.
+-   If a Megalodaunt has the player as a target, it's best if the player blocks, dodges, or parries some of its moves, then try to roll away from it.
+    -   Moves such as Thousand Needles and Spit is however semi-impossible to avoid, as it covers a good AoE.
+-   The player's camera shakes more the closer a Megalodaunt is to them character, due to his footsteps.
+-   It's always recommended to perfectly dodge the Kicks.
+    -   However, the player may also parry them if they have the [Hunter's Brace](Outfits.md#arms) equipped.
+-   After parrying its Palm Bust, block for a second, to see if it slaps again, and then react to its next move.
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
--   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab\_channel=CatClassy](https://www.youtube.com/watch?v=IwVD8iw7Xyk&ab_channel=CatClassy) <-(Semi-Outdated, may not work 100% of the time)
--   The Megalodaunt has a very close resemblance to the [Giant Fisherman](https://bloodborne.fandom.com/wiki/Giant_Fishman) from the game Bloodborne.
--   **DO NOT RUN FROM THIS MONSTER UNLESS YOU FIND A HOUSE/CAVERN IT IS TOO TALL TO ENTER, FOR IT IS FUTILE AND WILL RESULT IN YOUR DEMISE**  
-    
-    File:Screen Shot 2021-12-31 at 9.28.36 AM.png
-    
-    uhhhhh (secret technique the red megalodaunt uses, its called the "nutcracker")
-    
-    File:Watch.png
-    
-    Proof that megalodaunts can watch your tone
-    
-    File:Black Megalodaunt.png
--   A black Megalodaunt.
+-   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xy](https://www.youtube.com/watch?v=IwVD8iw7Xy)
+    -   This method is semi-outdated and may not work 100% of the time.

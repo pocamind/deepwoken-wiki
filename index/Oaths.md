@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 12683
+revid: 12952
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -50,7 +50,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 50
+-   Willpower 40 (its not 50)
 -   Any Blindfold (Chest Item)
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
 
@@ -130,3 +130,37 @@ Image of the card
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.
 -   Illusionary Abilities possibly hinted due to the description and GIF from the Infernasu's tweet. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
+
+<table>
+<tbody>
+<tr>
+  <td>Oath: Windrunner</td>
+</tr>
+</tbody>
+</table>
+
+Oath Windrunner
+
+### Pre-Requisites:
+
+-   60-75 Agility
+
+### How to obtain:
+
+-   Talk to Windrunner
+
+### Oath Effects:
+
+-   +35 Passive Agility
+-   +2 Mobility Mantra Slot
+-   +1 Wildcard Mantra Slot
+
+### Oath Description:
+
+"Simply walking with the wind will not suffice - one must run as if they were the wind itself."
+
+## Notes (Windrunner)
+
+-   Theorized to be an Agility Oath.
+-   Add anything else that is needed for it.
+-   Originated from IDGAF#0426

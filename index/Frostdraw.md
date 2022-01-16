@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 12613
+revid: 12876
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -20,7 +20,7 @@ Frostdraw also has Talents attributed to it as well, allowing the user to fully 
 
 Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears) and Frostdraw Mantras.
 
-Along with all other elements, users can see their Mantras becoming stronger with training:
+Along with all other elements, users crfaean see their Mantras becoming stronger with training:
 
 -   At Power 2, players receive the _Frostdrawer_ Talent.
 -   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.

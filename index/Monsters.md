@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 12537
+revid: 12981
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -64,6 +64,7 @@ And:
 # Notes/Trivia
 
 -   No matter how intimidating the creatures of Deepwoken are, you must overcome your fears, there is always a chance, as they have (almost) always an attack pattern that can be parried/dodged while taking no damage if the one fighting is skilled enough.
+-   Most monsters are categorized in one of three categories: Giant, Sea and Depths, which have an according +X% damage to Y stat in certain equipment. Monsters can only be of one category, which can be idenitfied by their intended fighting location. Anything that is fought in the open sea count as Sea, anything that is a giant count as Giant, and anything that only exist in the depths count as Depths.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
 -   NOT all attacks are parriable; Buy a Hunter Brace at the Summer Island to be able to.
