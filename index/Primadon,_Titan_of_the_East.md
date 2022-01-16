@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 12974
+revid: 13156
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -13,7 +13,7 @@ Template:Creature Infobox V3
 
 ### **Description**
 
-_Also known as Sea Monkey, Gorilla, Monkey, Monke, and King Kong The Water Beast.”_
+_Also known as Sea Monkey, Gorilla, Monkey, Monke, Big Sharko, and King Kong The Water Beast.”_
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
@@ -29,7 +29,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 ## Rewards
 
 -   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-5 umbral in them
--   **Small chest -** Has 1-4 umbral in it and a 30-40% chance of a random Deep gem in it
+-   **Small chest -** Has 1-4 umbral in it ~and a 10% chance of a random Deep gem in it~ ~Removed in recent update~
 -   **Alot of luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo primadon's is enough to get a resonance/bell)
 
 ## Combos
@@ -51,4 +51,5 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 
 ## Trivia
 
-The Primadon used to drop a Deep Gem chest every time it was defeated- Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem chests were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
+-   The Primadon used to drop a Deep Gem chest every time it was defeated- Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem chests were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
+-   Primadons respawn time is around 30 minutes (tested)

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 13063
+revid: 13143
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -58,7 +58,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | Trial Power | Possible Enemies |
 | --- | --- |
 | 1-9 | N/A - You escape without fighting a monster |
-| 10-19 | Deepknight (Bandit Leader) |
+| 11/12-19 | Deepknight (Bandit Leader) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) (Can be corrupted) |
 | 50+ | [Enforcer](Enforcer.md) |

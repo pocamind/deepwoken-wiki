@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 13062
+revid: 13119
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -26,7 +26,7 @@ A large and extremely uncommon monster with juggernaut-like traits. Said to appe
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-Owl drops Black Feathers. **It is not recommended to fight Owl alone below level 40, as each attacks are devastating.** Appears across most places, especially Upper Erisia. It does not spawn on Lower Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you. Therefore it's good time to log if you aren't strong enough to kill it.
+Owl drops Black Feathers. **It is not recommended to fight Owl alone below level 40, as each attacks are devastating.** Appears across most places, especially Upper Erisia. It does not spawn on Lower Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore it's good time to log if you aren't strong enough to kill it.
 
 Even though the dialogue ended, the owl will not attack you unless you attack the owl first or **YOU SHOW YOUR BACK TO OWL.** Just like escaping from dangerous wildlife such as lion or bear in real life, if you stare at the owl and walk backward, it will not attack you and you will eventually get out from owl's detection range.
 

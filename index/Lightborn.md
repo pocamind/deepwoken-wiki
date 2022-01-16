@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 12713
+revid: 13147
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -68,4 +68,3 @@ Children of the Celestials, the Lightborn are considered to be fragments of thes
 ## Notes
 
 -   Only obtainable from admins
--   Has an exclusive oath that gives it luck and wildcard slots

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13068
+revid: 13152
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -67,6 +67,7 @@ Hit Reflection showcased by Bracting.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
     -   Version 1: The ability is activated when using the Resonance.
     -   Version 2: The ability is activated by landing a laser shot by using the Resonance.
+-   Based om Meliodias' ability from The Seven Deadly Sins.
 
 File:Beambell.png
 
@@ -78,6 +79,7 @@ Probably variant 2 of full counter
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
+-   Based Pheonnix's ultimate from Valorant
 
 File:Phoenix Fire.jpg
 
@@ -90,6 +92,7 @@ Phoenix fire effect
 -   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
+-   Based on Phinks' Ripper Cyclotron from Hunter x Hunter.
 
 ### **Distortion Portal**
 
@@ -110,11 +113,11 @@ File:God's Will Showcase.mp4
 
 ### **Blood Scourge**
 
-Blood Scourge Variation 1.
+Reaper Variation 1.
 
   
 
-Blood Scourge Variation 2.
+Reaper Variation 2.
 
 -   Quickly grips every knocked entity within a certain radius on use.
 -   Creates an large red effect similar to full counter, that expands and retracts from a certain point.

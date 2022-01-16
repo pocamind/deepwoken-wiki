@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 13001
+revid: 13122
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Stone Knight
 
-## Snow Knight
+## Blizzard Knight
 
 Exclusive to the Winter season.
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 12313
+revid: 13135
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -168,6 +168,17 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Spell Feinting</th>
   <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You could even bait at a vent by going to cast a fireball then switching to a weapon and deal damage while they are venting. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Perfect Casting</th>
+  <td>Casting a spell during a specific time during your weapon swing will <i><b>Perfect Cast</b></i> it. Almost all spells benefit from Perfect casting, and certain spells and talents utilise Perfect Casting to better strengthen their power, but all around, Perfect Casting will-
+  <ul>
+    <li>Cast the spell faster.</li>
+    <li>Increase damage.</li>
+    <li>Increase posture damage.</li>
+    <li>Increase spell size (unconfirmed)</li>
+  </ul><p>A successful Perfect Cast is indicated by a white glow around your character.</p></td>
   <td></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13116
+revid: 13123
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -670,7 +670,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 -   Dash - Just a dash, nothing special. (Mobility)
 -   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)
 
-#### Charisma Combat (??? Charisma Needed)
+#### Charisma Combat (20~ Charisma Needed)
 
 -   Glare - Opponents facing you are briefly stunned.
 -   Sing - Charm those around you with your powerful voice.

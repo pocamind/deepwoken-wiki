@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 11705
+revid: 13124
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,7 +35,7 @@ On the way to Pathfinders Sanctuary there is a chance of an event occuring that 
 
 ###### Magical [Mudskippers](Mudskipper.md)
 
-Random event that sees 9 mudskipper pop out of the ground in batches of 3. These conniving coral creatures can be given the Galebreath Mantra. Detonate once gripped.
+Random event that sees 9 mudskipper pop out of the ground in batches of 3. These conniving coral creatures can be given the "Air Force" Galebreath Mantra. It has much longer range than normal. The darker green variants will detonate once gripped, auto-gripping anything knocked in it's radius.
 
 ###### Sharko
 

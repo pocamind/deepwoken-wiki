@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13109
+revid: 13157
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -74,7 +74,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.05x</td>
 </tr>
 <tr>
-  <td>Gilded Dagger</td>
+  <td>Gilded Knife</td>
   <td>25 LHT</td>
   <td>13.5</td>
   <td>N/A</td>

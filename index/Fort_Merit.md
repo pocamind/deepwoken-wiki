@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 12266
+revid: 13129
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,9 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Template:AreainfoboxFort Merit is an Etrean Prison overtaken by the Authority, now serving as a foward base for them.
+Template:AreainfoboxFort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them.
+
+  
 
 It has every necessary npcs other populated islands have, excluding the lumberjack quest and including a rescue quest.
 
@@ -61,7 +63,7 @@ Quest:
 -   Not a great location to set your spawn point at.
 -   A great location to farm xp/items.
 -   Considering that there is a guaranteed Nomad hostage here. Getting [Way Of Navae](Way_of_Navae.md) by picking up the hostage from here and bringing it the whole way back to Etris is possible. (unless.... yes im looking at you lionfish)
--   BY the love of GOD, do not try to assassinate ANY guard within the prison's vicinity. Only one "Hey, Over Here!" will bring the whole fucking security AND the commander to fuck you up.
+-   BY the love of GOD, do not try to assassinate or grip ANY guard within the prison's vicinity. Only one "Hey, Over Here!" will bring the whole fucking security AND the commander to fuck you up.
 
 ## Loots
 

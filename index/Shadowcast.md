@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 12467
+revid: 13133
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -209,7 +209,7 @@ Common
 
 > Darksiphon
 
- | Common | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+ | Rare | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
 
 \+ 4 Elemental Intensity
 
@@ -262,7 +262,28 @@ Common
 \+ 7 Resoirvoir
 
  |
-|  | Singularity |  |  |  |
+| 
+
+File:S1ngularity.png
+
+ | Singularity | Shadowcaster | Common | Enemies will briefly hang in place when hit by a shadow move.
+
+\+ 1 Elemental Intensity
+
+\+ 3 Health
+
+ |
+| 
+
+File:Blackhole.png
+
+ | Blackhole | Death Speaker | Rare | Your singularity pulls everyone nearby in.
+
+\+ 1 Elemental Intensity
+
+\+ 3 Health
+
+ |
 
 ## Trivia
 
