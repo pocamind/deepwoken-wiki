@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13261
+revid: 13325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -642,6 +642,7 @@ Hand of Mantra Cards
     -   Prerequisites: 10 Strength & 25 Heavy Weapon (might require less for either)
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 -   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
+-   Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
 -   Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
 
 ### **Miscellaneous**

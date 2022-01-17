@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 13235
+revid: 13322
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

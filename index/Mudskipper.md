@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 12460
+revid: 13321
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,8 @@ Mindless enemies that sprouts out of the ground to surprise Players. They lack i
 
 ## Moves
 
--   **Smack** - Combo of 3 jabs, dealing minor damage.
+-   **Scratch -** Scratches you, dealing low damage, it does this fast enough to stunlock you, so you must parry this to escape / fight back
+
 -   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumb nail.
 
 ## Variants

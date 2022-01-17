@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13302
+revid: 13327
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -22,40 +22,42 @@ _**Pressing C triggers resonance**_
 
 ## How To Get a Resonance
 
-**Confirmed method by multiple resonance users, Kanorogue#8988.**
-
 After a confirmation by Arch, we have learned that progress toward resonance is most likely based on the amount of monsters you have killed.
 
 File:Arch2.png
 
 It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat, notably, progress is obtainable in The Overworld.
 
-You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, doesnt mean you stopped getting Progress, or that your Progress is maxed.
+You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, does **NOT** mean you stopped getting Progress, or that your Progress is maxed.
 
-While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciated with things like hours in The Depths or max luck or a higher level.
+While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally associated with things like hours in The Depths or max luck or a higher level.
 
-Theorized that to get max progression, you have to solo kill primadon 5-10 times.
+Theorized that to get max progression, you have to solo kill [Primadon](Primadon,_Titan_of_the_East.md) 5-10 times.
 
-A theory that I've made is that the max progression to get resonance is different for every player because I solo'd Kaido 3 times, did Primadon 4 times with 4 other people and only a little bit of grips and cursed monsters and got it but other people did more and didn't get it.
+"A theory that I've made is that the max progression to get resonance is different for every player as there's people who did a lot and didn't get it but there's people who did less than them that did get it."
 
-Bell obtainment method might be random between players i solo'd prima 6 times ferryman 5 with a bunch of regular kills + player kills and did not obtain
+Bell obtainment method **might be random** between players, "I solo'd prima 6 times ferryman 5 with a bunch of regular kills + player kills and did not obtain."
 
 TLDR:
 
--   Resonances are dependant on a seperate stat from Luck, known as Progress.
+-   Resonances are dependent on a sepearate stat from Luck, known as Progress.
 -   Progress can never be lost or reset, besides wiping.
 -   Progress can be obtained in The Overworld and carry over to The Depths.
--   Max progress takes signifcantly longer than max Luck.
+-   Max progress takes significantly longer than max Luck.
 
 ## How To Change a Resonance
 
--   Go to The Depths, find the doors that require resonance to open, and talk to Yun'Shul. He gives you 2 other options besides changing Resonance, which are to escape depths instantly and wipe your Oath. You can choose a wish every 10 levels.
+-   Go to The Depths, find the doors that require resonance to open, and talk to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). He gives you 2 other options besides changing Resonance, which are to escape depths instantly and wipe your Oath. You can choose a wish every 10 levels.
 
 ### Corrupted Resonance
 
-Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhance a Resonance's ability, said to be **4x** stronger than the original, but it has a debuff as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
+Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhance a Resonance's ability, said to be **4x** stronger than the original, but it has a downside as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
 
 Currently known debuffs - Insanity on use, health loss on use, set on fire when used.
+
+Unique Interactions:
+
+\-Phoenix bell does not take damage from any sources when corrupted, meaning **only** the insanity bell can take effect, thus making 2/3 downsides entirely useless.
 
 **NOTE: You will know if you got a Corrupted Resonance if once you got the Resonance the particles will be Blue.**
 
@@ -68,7 +70,7 @@ Damage Reflection showcased by Bracting.
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
     -   Version 1: The ability is activated when using the Resonance.
-    -   Version 2: The ability is activated by landing a laser shot by using the Resonance.
+    -   Version 2: After the counter duration ends, the damage taken will be multiplied and shot out as a thin beam.
 
 File:Beambell.png
 

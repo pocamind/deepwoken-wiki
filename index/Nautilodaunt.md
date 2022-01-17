@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 13037
+revid: 13328
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -25,6 +25,7 @@ Drops "Odd Tentacles".
 -   **Flip kick** - Frontflips into the air and kicks you from above, usually only does this after a flourish.
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 -   **Feint** - Feints an attack to throw you off.
+-   **Drop kick - A running attack**
 
 ### Finisher
 

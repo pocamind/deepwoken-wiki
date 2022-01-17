@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 13010
+revid: 13323
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -94,4 +94,4 @@ It's considered a mobility mantra because it teleports you a short distance to y
 
 **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
 
-`Has wind up before releasing a stream of AoE whirls, each dealing damage and knocking the enemy away, ragdolling them. _Parriable._`
+`Has wind up before releasing a stream of AoE whirls, each dealing damage and knocking the enemy away, ragdolling them. _Parriable. btw ratio_`

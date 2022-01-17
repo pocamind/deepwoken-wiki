@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 12446
+revid: 13329
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,4 +27,4 @@ Whirlpool also appears in the Voidsea, specifically around The Boatman's Watch a
 -   There are patches of bubbles around the Void Sea and hitting one can cause a Sea Dragon (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
 -   Dying in the Voidsea only instantly takes you to The Depths if you didn't die to another player.
 -   It is rumoured that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumour however is shoddy at most. (May be refrenced to void heart)
--   Quack Quacke spending multiple hours in the Voidsea, being attacked by very little: [https://www.youtube.com/watch?v=o\_gR09r1\_5o](https://www.youtube.com/watch?v=o_gR09r1_5o)
+-   Quack Quacke spending multiple hours in the Voidsea, being attacked by very little: [https://www.youtube.com/watch?v=o\_gR09r1\_5o](https://www.youtube.com/watch?v=o_gR09r1_5o) (Do Note): This is because he was a relatively low level by himself on a small ship reducing spawn rates so low that it would be hard for anything to spawn.

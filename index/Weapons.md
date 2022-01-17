@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13291
+revid: 13318
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -701,7 +701,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
 </tbody>
 </table>
 
-|-| Greathammers= Greathammers are wweapons with a heavy metal head mounted at right angles at the end of a handle.
+|-| Greathammers= Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle.
 
 <table>
 <tbody>
