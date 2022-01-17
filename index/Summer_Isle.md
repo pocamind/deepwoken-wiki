@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 12994
+revid: 13270
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -78,3 +78,5 @@ Once you drink it, you will get ragdolled and have an electric aura around you, 
 Once you get up, you will have unlocked Thundercall and can now learn it's mantras and select it in the character select screen for that character slot.
 
 If you already have thundercall, he can upgrade your moves for 100 notes each. You can upgrade the same move multiple times. (this works if you got thundercall from him and now have a mantra too)
+
+(Update here) Trige is a gremor who is infront of the Summer Company Inn. He will give you a quest to talk to someone who owns him money. Finsih it and he will give you the second quest

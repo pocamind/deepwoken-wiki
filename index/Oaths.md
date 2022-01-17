@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 13245
+revid: 13262
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oaths
@@ -50,7 +50,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 40 (its not 50)
+-   Willpower 40
 -   Any Blindfold (Chest Item)
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
 
@@ -130,73 +130,3 @@ Image of the card
 -   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
 -   Theorized to be an Intelligence Oath.
 -   Illusionary Abilities possibly hinted due to the description and GIF from the Infernasu's tweet. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Windrunner</td>
-</tr>
-</tbody>
-</table>
-
-Oath Windrunner
-
-### Pre-Requisites:
-
--   60-75 Agility
-
-### How to obtain:
-
--   Talk to Windrunner
-
-### Oath Effects:
-
--   +35 Passive Agility
--   +2 Mobility Mantra Slot
--   +1 Wildcard Mantra Slot
-
-### Oath Description:
-
-"Simply walking with the wind will not suffice - one must run as if they were the wind itself."
-
-## Notes (Windrunner)
-
--   Theorized to be an Agility Oath.
--   Add anything else that is needed for it.
--   Originated from IDGAF#0426
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Cockgrower</td>
-</tr>
-</tbody>
-</table>
-
-File:Cockgrower.png
-
-Image of the card.
-
-### Pre-Requisites:
-
--   60-75 Strength
--   Big Dick Talent
-
-### How to obtain:
-
--   Unknown
-
-### Oath Effects:
-
--   +45 Passive Strength
--   +2 Wildcard Mantra Slots
--   \+ The Penis weapon (NOTE: Getting this oath will automatically unequip your current weapon, and force you to use the penis weapon. Penis scales with whatever weapon you have the most points in.)
-
-### Oath Description:
-
-"You vow to always have a big cock. The concept of having a small dick is simply a suggestion."
-
-## Notes (Cockgrower)
-
--   Theorized to be a Strength Oath.
--   Originated from a deleted tweet by Ragoozer.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13237
+revid: 13317
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -886,11 +886,7 @@ _Requires Fortitude 10_
 
 File:KnightHelm.png
 
- | Knight's Helm | Grants three random buffs.
-
-_Requires Fortitude 12_
-
- |  |
+ | Knight's Helm | Grants three random buffs. |  |
 | 
 
 File:GreyGumshoeHat.png
@@ -1053,6 +1049,15 @@ File:Flameguard.png
 usually from 6-12
 
  | Chests |
+| 
+
+File:Simple Pauldrons.png
+
+ | Simple Pauldrons
+
+(I forgot the name of it)
+
+ | 1-2 Buffs | Chests |
 |   
 
  | Tracker's Brace | 2-3 buffs | Chests |
@@ -1155,6 +1160,8 @@ _Requires Power Level 10_
  | Mudskipper cave event chest |
 | 
 
+File:Freestyler's Band.png
+
  | Freestyler's Band | Gives the user a massive increase in swimming speed.
 
 _Requires Power Level 10_
@@ -1207,7 +1214,11 @@ File:Dazedband.PNG
 
  | Dazed Band | Flourishing an opponent has a 50% chance to stun them. | Depths Chests (I got 1 from private event) |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |  |
-|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bed reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests, Starswept Valley Chests |
+|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bed reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests (as far as i
+
+know)
+
+ |
 
   
 

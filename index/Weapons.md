@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13215
+revid: 13291
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -57,7 +57,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
-  <td><b>Penetration</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -67,17 +66,24 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>Stiletto</td>
   <td>0 LHT</td>
   <td>10</td>
-  <td>N/A</td>
   <td>LHT: 1</td>
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
 </tr>
 <tr>
+  <td>Parrying Dagger (Side Weapon)</td>
+  <td>0 LHT</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>2</td>
+  <td>N/A</td>
+  <td>N/A</td>
+</tr>
+<tr>
   <td>Gilded Knife</td>
   <td>25 LHT</td>
   <td>13.5</td>
-  <td>N/A</td>
   <td>LHT: 8</td>
   <td></td>
   <td>6.5</td>
@@ -87,7 +93,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>Silver Dagger</td>
   <td>35 LHT</td>
   <td>12</td>
-  <td>N/A</td>
   <td>LHT: 6</td>
   <td>2</td>
   <td>6.5</td>
@@ -97,7 +102,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>Whaling Knife</td>
   <td>40 LHT</td>
   <td>15</td>
-  <td>N/A</td>
   <td>LHT: 5</td>
   <td>4</td>
   <td>6.5</td>
@@ -107,7 +111,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>Champion's Dagger</td>
   <td>50 LHT</td>
   <td>14.5</td>
-  <td>N/A</td>
   <td>LHT: 8</td>
   <td>4</td>
   <td>6</td>
@@ -117,7 +120,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>Tanto</td>
   <td>50 LHT</td>
   <td>15</td>
-  <td>N/A</td>
   <td>LHT: 8</td>
   <td>3</td>
   <td>7</td>
@@ -127,7 +129,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
   <td>60 LHT</td>
   <td>14</td>
-  <td>N/A</td>
   <td>LHT: 10</td>
   <td>3</td>
   <td>6.5</td>
@@ -197,7 +198,9 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead. To use your off-hand gun, you must press M2.
+Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead.
+
+Each gun has a Main Hand and Off Hand version. To use your off-hand gun while you're not dual-wielding, you must press M2.
 
 <table>
 <tbody>
@@ -205,7 +208,6 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
-  <td><b>Penetration</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -215,7 +217,6 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>Flintlock</td>
   <td>20 LHT</td>
   <td>10</td>
-  <td>N/A</td>
   <td>LHT: 10</td>
   <td>3</td>
   <td>12</td>
@@ -225,7 +226,6 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>Revolver</td>
   <td>65 LHT</td>
   <td>13</td>
-  <td>N/A</td>
   <td>LHT: 15</td>
   <td>3</td>
   <td>12</td>
@@ -235,7 +235,6 @@ Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in yo
   <td>Dragoon</td>
   <td>65 LHT</td>
   <td>20</td>
-  <td>N/A</td>
   <td>LHT: 12</td>
   <td>3</td>
   <td>12</td>
@@ -275,6 +274,16 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
+  <td>Rapier</td>
+  <td>0 MED</td>
+  <td>19</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.77x</td>
+</tr>
+<tr>
   <td>Officer Saber</td>
   <td>0 MED</td>
   <td>22</td>
@@ -305,16 +314,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.7x</td>
 </tr>
 <tr>
-  <td>Falchion</td>
-  <td>20 MED</td>
-  <td>16</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
-  <td>4</td>
-  <td>8</td>
-  <td>0.8x</td>
-</tr>
-<tr>
   <td>Scimitar</td>
   <td>20 MED</td>
   <td>15</td>
@@ -325,7 +324,17 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td></td>
 </tr>
 <tr>
-  <td>Katana</td>
+  <td><a href="Falchion.md">Falchion</a></td>
+  <td>20 MED</td>
+  <td>16</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.8x</td>
+</tr>
+<tr>
+  <td><a href="Katana.md">Katana</a></td>
   <td>25 MED</td>
   <td>18</td>
   <td>N/A</td>
@@ -333,6 +342,16 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+</tr>
+<tr>
+  <td>Curved Blade of Winds*</td>
+  <td>25 MED, 75 WND</td>
+  <td>19</td>
+  <td>35%</td>
+  <td>MED: 5, WND: 4</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td>Worshipper Longsword</td>
@@ -405,7 +424,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.8x</td>
 </tr>
 <tr>
-  <td>Razor Cutlass</td>
+  <td><a href="Razor_Cutlass.md">Razor Cutlass</a></td>
   <td>60 MED</td>
   <td>18</td>
   <td>20%</td>
@@ -413,6 +432,56 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.7x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Flame*</td>
+  <td>75 FIR, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>FIR: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Lightning*</td>
+  <td>75 THD, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>THD: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Frost*</td>
+  <td>75 ICE, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>ICE: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Wind*</td>
+  <td>75 WND, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>WND: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Shadow*</td>
+  <td>75 SHD, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>SHD: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
@@ -498,11 +567,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 
 **Heavy Weapons:**
 
-Heavy Weapons are two-handed weapons. They are slow, but have superior range and pack quite a punch.
-
-**Greataxes:**
-
-Greataxes are weapons with a long pole, with sharp edges protruding out at the end.
+Heavy Weapons are two-handed weapons. They are slow, but have superior range and pack quite a punch. {{#tag:tabber|Greataxes= Greataxes are weapons with a long pole, with sharp edges protruding out at the end.
 
 <table>
 <tbody>
@@ -579,9 +644,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tbody>
 </table>
 
-**Greatswords:**
-
-Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage.
+|-| Greatswords= Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage.
 
 <table>
 <tbody>
@@ -625,12 +688,20 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
 </tr>
+<tr>
+  <td>Crypt Blade*</td>
+  <td></td>
+  <td>26</td>
+  <td>N/A</td>
+  <td>SHD: 20</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.7x</td>
+</tr>
 </tbody>
 </table>
 
-**Greathammers:**
-
-Greathammers are wweapons with a heavy metal head mounted at right angles at the end of a handle.
+|-| Greathammers= Greathammers are wweapons with a heavy metal head mounted at right angles at the end of a handle.
 
 <table>
 <tbody>
@@ -677,200 +748,34 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
 </tbody>
 </table>
 
-**Miscellaneous:**
-
-Weapons that do not fit any criteria for it to belong to any type.
+**Shield:**
 
 <table>
 <tbody>
 <tr>
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
-  <td><b>Damage</b></td>
-  <td><b>Penetration</b></td>
-  <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
-  <td><b>Range</b></td>
-  <td><b>Swing Speed</b></td>
-</tr>
-<tr>
-  <td>Rapier</td>
-  <td>0 MED</td>
-  <td>19</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
-  <td>4</td>
-  <td>8</td>
-  <td>0.77x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Flame</td>
-  <td>75 FIR, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>FIR: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Lightning</td>
-  <td>75 THD, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>THD: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Frost</td>
-  <td>75 ICE, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>ICE: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Wind</td>
-  <td>75 WND, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>WND: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Shadow</td>
-  <td>75 SHD, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>SHD: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
-  <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
-  <td>25 MED, 75 WND</td>
-  <td>19</td>
-  <td>35%</td>
-  <td>MED: 5, WND: 4</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.8x</td>
-</tr>
-<tr>
-  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td></td>
-  <td>26</td>
-  <td>N/A</td>
-  <td>SHD: 20</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.7x</td>
-</tr>
-</tbody>
-</table>
-
-**Off-hand:**
-
-Accessories you can use in your off-hand.
-
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Damage</b></td>
-  <td><b>Penetration</b></td>
-  <td><b>Scaling</b></td>
-  <td><b>Weight</b></td>
-  <td><b>Range</b></td>
-  <td><b>Swing Speed</b></td>
 </tr>
 <tr>
   <td>Targe</td>
   <td>10 FTD</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
   <td>1.5</td>
-  <td>N/A</td>
-  <td>N/A</td>
 </tr>
 <tr>
   <td>Kite Shield</td>
   <td>30 FTD</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
   <td>1.25</td>
-  <td>N/A</td>
-  <td>N/A</td>
 </tr>
 <tr>
   <td>Worshipper's Shield</td>
   <td>45 FTD</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
   <td>1.85</td>
-  <td>N/A</td>
-  <td>N/A</td>
 </tr>
 <tr>
   <td>Khan Shield</td>
   <td>60 FTD</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>?</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>Parrying Dagger (Offhand)</td>
-  <td>10 LHT</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>?</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>Flintlock (Offhand)</td>
-  <td>20 LHT</td>
-  <td>10</td>
-  <td>N/A</td>
-  <td>LHT: 10</td>
-  <td>3</td>
-  <td>12</td>
-  <td>1.3x</td>
-</tr>
-<tr>
-  <td>Revolver (Offhand)</td>
-  <td>65 LHT</td>
-  <td>13</td>
-  <td>N/A</td>
-  <td>LHT: 15</td>
-  <td>3</td>
-  <td>12</td>
-  <td>1.3x</td>
-</tr>
-<tr>
-  <td>Dragoon (Offhand)</td>
-  <td>65 LHT</td>
-  <td>20</td>
-  <td>N/A</td>
-  <td>LHT: 12</td>
-  <td>3</td>
-  <td>12</td>
-  <td>1.3x</td>
+  <td></td>
 </tr>
 </tbody>
 </table>

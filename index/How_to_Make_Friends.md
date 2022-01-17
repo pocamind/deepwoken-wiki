@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 11072
+revid: 13275
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ How to Make Friends is a training tool used to increase your **charisma**. It ca
 
 **Usage**
 
-In order to succesfully use How to Make Friends, select the item in your inventory and click. You must then type out the sentence provided word for word, including punctuation and capitalization. It's recommended to do it around NPCs or other players in order to increase your charisma faster.  
+In order to succesfully use How to Make Friends, select the item in your inventory and click. You must then type out the sentence provided word for word, ~including punctuation and capitalization.~ You do NOT need to capatalize or use punctuation. It's recommended to do it around NPCs or other players in order to increase your charisma faster.  
 
 File:Tempsnip.png
 

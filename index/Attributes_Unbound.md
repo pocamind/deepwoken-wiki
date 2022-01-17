@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 13159
+revid: 13283
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -98,3 +98,8 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
 9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
 10.  (Optional) Return to Lord Regent to complete the quest, which will then proceed to dispose of you. This will kill you and take a life.
+
+## Notes
+
+-   A lot of the stat unbinding quests have bits of lore in them
+-   The Windrunner is yet another reference to _The Stormlight Archives_

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13242
+revid: 13302
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -35,6 +35,8 @@ You gain Progress by doing all the same things to obtain Luck, but as opposed to
 While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally assosciated with things like hours in The Depths or max luck or a higher level.
 
 Theorized that to get max progression, you have to solo kill primadon 5-10 times.
+
+A theory that I've made is that the max progression to get resonance is different for every player because I solo'd Kaido 3 times, did Primadon 4 times with 4 other people and only a little bit of grips and cursed monsters and got it but other people did more and didn't get it.
 
 Bell obtainment method might be random between players i solo'd prima 6 times ferryman 5 with a bunch of regular kills + player kills and did not obtain
 

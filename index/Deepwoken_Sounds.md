@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 13250
+revid: 13305
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links]
 Some links will take you to SoundCloud.
 
 ONLY EDIT IF YOU SERIOUSLY KNOW FOR A FACT THAT THE MUSIC HAS A CLEAR RELEVENCE TO DEEPWOKEN.
+
+_If you are interested about the descriptions of the Soundcloud songs, see [Deepwoken Song Descriptions](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)_
 
 <table>
 <tbody>

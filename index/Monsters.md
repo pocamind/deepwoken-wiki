@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 13188
+revid: 13290
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -23,6 +23,8 @@ Generally, a good rule to follow is to NEVER run away from any creature unless y
 It is advised you learn how each creature acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of leveling, gear, or experience will do you good if you can't parry, block or dodge attacks.
 
 Stay ready and prepared. No creature is impossible to beat.
+
+**Important Note**: Entities such as the King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of the "Watcher" its information has been relocated to the Angel page since it is a unique entity and not truly a monster.
 
 # The Depths
 
@@ -56,10 +58,6 @@ And:
   
 
 **Removed**
-
-## Miscellaneous/Type Unclear
-
-**Exclusive to The Etrean Luminant**
 
 # Notes/Trivia
 

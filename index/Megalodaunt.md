@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 13181
+revid: 13263
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,11 +42,6 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 -   **Curb Stomp** - The Meglodaunt ends his opponent's life by delivering a stomp onto their bodies, creating a gruesome crunching noise. This can happen in only a second.
 
-## Combos
-
--   Slash + Slash: If you block the first hit instead of parrying, the second hit will guard-break.
--   Slash + Kick: You can block and parry the slash, but the kick must be dodged.
-
 ## Variants
 
 -   **Megalodaunt** - A normal Megalodaunt, with 1000 HP.
@@ -54,6 +49,19 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
     -   If the event is left by itself, the red one will always win, due to its larger health pool of 3000 HP.
     -   Has the ability to rain down fiery swords from the sky.
 -   **Alpha (Black) Megalodaunt** - Appears exclusively in the Depths. Has 1600 HP.
+
+## Tips to Defeat
+
+-   Megalodaunts don't always do the same attack patterns in a certain order so you cannot always predict what move it will through out next
+-   Attack patterns/combos
+    -   Slash + Slash consecutively. Easily parried. 90% of the time will throw out a kick about 3 seconds after but rarely it will do another slash then a kick right after. Be wary because if you dodge the swipe you won't because to dodge the kick after. After the beginning two slashes, you have time to late two hits with any weapon and possibly 3 before you have to dodge or parry.
+    -   Slash + a move. 50% of the time the megolodaunt will kick a second after doing a single slash, but the other 50% of the time it will do a slash a second after doing the original slash. If it does a second slash it will always do a kick a second after. Be wary as if you dodge a slash expecting a kick then you will be kicked because your dash would be on cool down.
+    -   A single kick. 30% of the time if you walk up to a megalodaunt it will do a kick right off the bat.
+    -   After you dodge a kick you can always land a hit before having to dodge or parry.
+    -   You can dodge the slash and successfully dodge the kick as well if you have a high attack speed weapon with the talent that resets your roll cooldown with you land a hit, if you are able to land a hit after dodging the hand swipe.
+    -   When you see the megalodaunt lean down, parry. Just practice to get it down.
+    -   The trick to the megalodaunt is to practice getting ready to dodge or parry. You cannot always predict when to parry or dodge so try to get the muscle memory down.
+        -   When you see the red flash on the leg, press q. When you see the arm rising, press f. It is difficult to get it down because you are under pressure when fighting a megalodaunt, but with practice you can get it down. It is important to try to stay calm and focus on seeing which attack happens even if it is agitating when the game thinks that you didn't roll in time and you get hit after rolling.
 
 ## Trivia & Notes
 

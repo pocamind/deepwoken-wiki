@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 13111
+revid: 13310
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -36,3 +36,4 @@ The Shattered Katana is an endgame Medium Weapon and is the go-to weapon to use 
 ## Notes
 
 -   The sword hitbox on Shattered Katanas are deceptively big. It might be Placebo Effect, but it just feels longer than most swords.
+-   The sword could be referencing the game Sekiro. The dark mortal blade that was used by Genichiro was very identical to Shattered Katana.

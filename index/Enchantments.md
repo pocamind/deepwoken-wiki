@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 13219
+revid: 13309
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-2x damage in depths and grants a lot more sanity.
+swim faster in water or not drowned in water (never have something such as x2 damage in the depths).
 
   
 
@@ -332,3 +332,4 @@ Credits to the people who made this page better:
 -   flutternative
 -   SyntexLP
 -   MacShaino
+-   nonliams

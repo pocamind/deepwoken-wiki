@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 13230
+revid: 13288
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -174,16 +174,6 @@ These mantras have no prequisites.
 -   Leaves ice where the Mantra is casted.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Tower
-
-(???) \[Legendary Mantra\]
-
- | Placeholder | Creates a large ice platform similar to ice spikes (but much larger).
-
--   Can launch opponents into the air
--   Leaves ice where the Mantra is casted.
-
- |
 
 ### **Support Mantras**
 
@@ -269,7 +259,7 @@ These talents can be found in the _Ice Age_ category.
 +6 Sanity |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Bottom Freeze | Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. | +5 Elemental Intensity  
 +2 Health |
-| File:Saint Jay.png | Ice Age | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity  
+| File:Saint Jay.png | Saint Jay | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity  
 +2 Health |
 | [Frozone](https://deepwoken.fandom.com/wiki/File:Frozone.png) | Frozone | You are no longer required to be over water to use Ice Skate. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
 +3 Health |

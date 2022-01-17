@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13255
+revid: 13296
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -92,15 +92,15 @@ File:Screenshot 2021-12-28 152413.png
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
--   Crafted with Crystal Lens and a Cloudstone.
--   May also mod the spell with both Crystal Lens and Cloudstone _(Testing required)._
+-   Crafted with Amnesic Driftwood and Drift shard.
+-   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
  |
 | 
 
  | Magnifying Stone | Likely same as Glass Stone.
 
--   Crafted with a Stratus Stone and a Perfect lens.
+-   Crafted with a Amnesic Driftwood and a Rush Shard
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
@@ -254,6 +254,7 @@ also looks identical to falseflame.
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
 -   This modifier is compatible with the _Spark Swap_ Mantra, but has no effect.
+-   This modifier is compatible with Strong Leap Strength mantra (please add the effect here).
 
 #### Round Spark
 
@@ -294,22 +295,7 @@ also looks identical to falseflame.
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
-    -   Glass Stone is made by crafting a **Cloud Stone** and **Crystal Lens** together. If their improved variants (**Status Stone** and **Perfect Lens**) are combined, you get a Magnifying Stone.
+    -   Glass Stone is made by crafting a **Amnesic Driftwood** and **Drift Shard** together. If their improved variants (**Amnesic Driftwood** and R**ush Shard**) are combined, you get a Magnifying Stone.
 -   The 5 blue Disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
 -   **1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.
-
-### Modifier Hitlist
-
-There are currently a number of Mantra Mods that can be crafted, but are unsure of how it can be. Currently, we need to find out whether or not the following mods can be crafted, the recipe of the mod if it can be crafted, and also its effects.
-
-Currently, there are:
-
--   _Glass Stone_, made from a **Cloud Stone** and a **Crystal Lens**.
--   _Magnifying Stone_, made from a **Stratus Stone** and a **Perfect Lens**.
-
-Just tested you can't combine:
-
--   Aeon + Cloudstone
--   Aeon + Driftshard
--   Driftshard + Cloudstone

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13247
+revid: 13261
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -319,6 +319,10 @@ Hand of Mantra Cards
 -   Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
     -   Applying slow or freeze now applies ice crystals on the enemy, these are used for other effects related to crystallization.
 
+### Great Wall
+
+-   Fortitude Unbounded \[Generic Talent, Common Talent\] - You have gained the Ability to Surpass your limits and train your fortitude to its fullest.
+
 ### Gunslinger
 
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
@@ -428,6 +432,10 @@ Hand of Mantra Cards
 -   Oath: Blindseer \[Oath Talent\] - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold. (Requires all 5 Mental Fortress cards)
         -   You can only take one Oath per Character.
+
+### One Eyed King
+
+-   Strength Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
 
 ### Public Figure
 

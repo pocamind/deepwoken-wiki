@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 13220
+revid: 13267
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -182,7 +182,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
     
 
-### The 11th Legion
+### The Cloudjumper Legion
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
@@ -190,9 +190,9 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Enemies:** _The Central Authority_
 -   **Lore Sources:** _Amara_, _Vohxus_
 
--   A legion of the Cloudjumper Empire, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
+-   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
--   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
+-   They have ranks such as Legionnares and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
 
 Amara, a Member of The Legion.
 
