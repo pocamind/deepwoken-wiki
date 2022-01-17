@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 13033
+revid: 13220
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,17 +22,17 @@ This Page is for LORE only. If you want to see which Faction can be reputable or
 
 ### The Lord Regent of Etrea
 
-_"Ah! Well if it isn't \[Your full name here\]. I've been expecting you. How have your travels been?"_
+_"Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me." - Lord Regent, before killing the Player_
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The Lord Regent is a mysterious individiual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best intrests of Etris.
+The Lord Regent is a mysterious individual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
 
--   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission (although he dons a blindfold).
+-   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission.
 -   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
--   Talking to the Bookworm in Etris about him (as required for the Lord Regent Quest) reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
--   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city.
+-   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
+-   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
 
@@ -182,21 +182,19 @@ An Etrean Guard, part of the Nation of Etrea
 -   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
     
 
-### The Legion
+### The 11th Legion
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_
 -   **Enemies:** _The Central Authority_
--   **Lore Sources:** _Amara_
+-   **Lore Sources:** _Amara_, _Vohxus_
 
--   A Military Organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
+-   A legion of the Cloudjumper Empire, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Centurions, described by [Amara](Amara.md) in The Viper's Jaw.
--   Their are regiments within The Legion; like the 11th Legion Armor players can obtain.
-    
-    Amara, a Member of The Legion.
-    
+
+Amara, a Member of The Legion.
 
 ### Songseekers
 
@@ -278,12 +276,11 @@ A Dark Mage, located in Minityrsa.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly Adrets, but can vary with other races too.
+-   The Gideshu March is a popular marching song of the Adretian Authority - the iron-fisted remnants of the Adretian Empire of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.File:The Gideshu March.mp3
 
 A Peacekeeper Grunt, part of The Authority
 
-#### Music
-
--   The Gideshu March is a popular marching song of the Adretian Authority - the iron-fisted remnants of the Adretian Empire of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.File:The Gideshu March.mp3
+  
 
 ### The Hive
 

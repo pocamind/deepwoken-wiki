@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 12876
+revid: 13230
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -174,6 +174,16 @@ These mantras have no prequisites.
 -   Leaves ice where the Mantra is casted.
 
  |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Tower
+
+(???) \[Legendary Mantra\]
+
+ | Placeholder | Creates a large ice platform similar to ice spikes (but much larger).
+
+-   Can launch opponents into the air
+-   Leaves ice where the Mantra is casted.
+
+ |
 
 ### **Support Mantras**
 
@@ -183,11 +193,13 @@ These mantras have no prequisites.
 
 **Crystal:**
 
-These mantras require Glasspath:Crystalization ability to have them appear in your deck.
+These mantras require Glasspath:Crystalization ability (25 intelligence) to have them appear in your deck.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal
+| 
+ | Crystal
+
 Impale/Impact
 
   

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 12659
+revid: 13231
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -37,7 +37,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
 -   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn.
--   **Luck** - You receive a boatload of luck (get it?) for your card draws.
+-   **Luck** - You receive a boatload of luck (get it?) for your card draws. (In spring, it gives extra luck on top of the luck you get from killing ferryman itself, like ALOT of extra luck)
 -   **A Chest -** Might just be earrings. Does not drop on subsequent attempts. Received only during summer.
 
 ### Battle Strategies

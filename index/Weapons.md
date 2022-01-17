@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13201
+revid: 13215
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -539,7 +539,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td>Canorian Axe</td>
   <td>45 HVY</td>
-  <td>21</td>
+  <td>23.5</td>
   <td>N/A</td>
   <td>HVY: 7</td>
   <td>4</td>
@@ -818,7 +818,7 @@ Accessories you can use in your off-hand.
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>1</td>
+  <td>1.85</td>
   <td>N/A</td>
   <td>N/A</td>
 </tr>

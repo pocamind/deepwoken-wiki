@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 12979
+revid: 13235
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,4 +43,4 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 
 -   Real Name: King Gigamed
     -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot.
--   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants
+-   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They can also spawn with a [Cowboy Hat](https://www.youtube.com/watch?v=v1hGCtrfSQs) too.

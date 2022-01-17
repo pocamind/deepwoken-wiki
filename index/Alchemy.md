@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 12833
+revid: 13258
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -286,7 +286,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Alestrian Coral<br>
   Sap(?)</td>
   <td>Applies a 15 second speed boost.</td>
-  <td>Opposite effect is unknown, but can be found on Beeswax.</td>
+  <td>We currently don't know how to find the name of the opposite effect, but can be found on Beeswax.</td>
 </tr>
 <tr>
   <td><b>Unknown Name</b></td>
@@ -294,7 +294,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Beeswax</td>
   <td>Reduces speed temporarily.</td>
   <td>Opposite effect is <b>Hastening</b>.<br>
-  We can see that this effect exists and cancels Hastening, though the name is unknown as there is no known way to brew a potion with this effect as the prefix.</td>
+  We can see that this effect exists and cancels Hastening, though the name is unknown as there is no known way to brew a potion where it is the strongest effect.</td>
 </tr>
 <tr>
   <td><b>Staggering</b></td>

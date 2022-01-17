@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 12529
+revid: 13207
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,6 +21,8 @@ _"NOTHING BAD. EVER HAPPENS. IN THE VOID SEA!!!" - John Kennedy (Not to be confu
 File:Sea Dragon.png
 
 Long, Cyan-Gray sea monster of Eastern origin that appears in the Voidsea. Utilises the power of Frostdraw to stop boats in their tracks.
+
+it is speculated how much life he has. it's probably more than the ferryman(35.000) around 50.000
 
 ## Attacks
 

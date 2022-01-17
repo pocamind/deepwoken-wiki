@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 13135
+revid: 13248
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -29,7 +29,7 @@ File:Gui.png
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not you can use certain moves. The first being for feints/roll cancels, second for rolls, and the 3th being a potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
+  <td>Icons that indicate whether or not you can use certain moves. The first being for feints/roll cancels, second for rolls, and the 3rd being a potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -95,7 +95,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>pressing f enables a parry, if done at the right time, it will enable you to throw your opponent off of balance stunning them for a short while, this will not cost posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
+  <td>Pressing f enables a parry, if done at the right time, it will enable you to throw your opponent off balance stunning them for a short while, this will not use posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
   <th></th>
 </tr>
 <tr>

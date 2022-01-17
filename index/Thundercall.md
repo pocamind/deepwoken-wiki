@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 12958
+revid: 13234
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -113,8 +113,8 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
  |
 
-  
-**MOBILITY**
+###   
+**Mobility Mantras**
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |

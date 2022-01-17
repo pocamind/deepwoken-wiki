@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 13047
+revid: 13250
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,6 +35,7 @@ The Main OST for Deepwoken.
 -   **[Aratel & Etrean Sea](https://soundcloud.com/naktigonis/to-shores-distant?in=naktigonis/sets/deepwoken-ost-1) File:Aratel Sea - Deepwoken OST.mp3**
 -   **[Erisia](https://soundcloud.com/naktigonis/the-trappings-of-a-lord?in=naktigonis/sets/deepwoken-ost-1) File:Erisia - Deepwoken OST.mp3**
 -   **[Erisia Combat](https://soundcloud.com/naktigonis/cry-havoc) File:Erisia (Combat) - Deepwoken OST.mp3**
+-   **[Fragments of Self](https://soundcloud.com/naktigonis/the-end?in=naktigonis/sets/deepwoken-ost-1) File:The End..mp3**
 -   **[Greathive Aratel](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin?in=naktigonis/sets/deepwoken-ost-1) File:Greathive Aratel - Deepwoken OST.mp3**
 -   **[Greathive Aratel Combat](https://soundcloud.com/naktigonis/a-symphony-of-strife?in=naktigonis/sets/deepwoken-ost-1) File:Greathive Aratel (Combat) - Deepwoken OST.mp3**
 -   **[Isle of Vigils](https://soundcloud.com/naktigonis/peregrine?in=naktigonis/sets/deepwoken-ost-1) File:Isle of Vigils - Deepwoken OST.mp3**
@@ -180,7 +181,7 @@ These songs were made for other purposes.
 ### **Notes/Trivia**
 
 -   The Voidheart music was the music for Corvus Manor on the Isle of Crows.
--   The "A Memory of Tides" song is called something along the terms of "Phonograph Song" in-game.
+-   The "A Memory of Tides" song is called "Accordion Vinyl" in-game.
 
 <table>
 <tbody>

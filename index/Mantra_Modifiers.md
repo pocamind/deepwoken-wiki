@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13190
+revid: 13255
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -22,7 +22,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This me
 
 The previous upgrades will only disappear if an Amnesiac Driftwood is added to the mantra. Upgrading an already upgraded mantra further will add onto the previous upgrades.
 
-Modifying a Mantra can fail if you lack the _"Knowledge"_ required. This isdue in part to _Power Level_ and _Mantra Attunement (_it does not relate to the actual Intelligence stat) with discs illuminating with each requirement. The specific meanings of these discs are unknown currently.
+Heavily modified mantras will require Notes offering to be made.
 
 ## Mantra Modifiers
 
@@ -124,25 +124,25 @@ Deep Gems are obtained by killing **Primadon** (Isn't 100% but still has a small
 | --- | --- | --- |
 |  | Insignia Gem | The next Mantra you cast within a short timeframe will have a 25% windup reduction. |
 | 
- | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra
+ | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra.
 
-Reduces damage of mantra for 30%
+Reduces damage of mantra for 20%.
 
  |
 | 
 
 File:Blessedgem.png
 
- | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped |
+ | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped. |
 | 
 
- | Blue Gem | Reduces Mantra ether cost by half |
+ | Blue Gem | Reduces Mantra ether cost by half. |
 | 
 
 File:Screenshot 59.png
 
- | Wayward Gem | You will teleport to the first enemy hit by the mantra |
-|  | Wind Gem | Hitting an enemy with the mantra will increase your speed for a short time |
+ | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
+|  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
 ## Sparks
 
@@ -285,7 +285,7 @@ also looks identical to falseflame.
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
--   This modifier is compatible with the _Fire Blade_ Mantra, but has no effect.
+-   This modifier makes the _Fire Blade_ Mantra break destructible objects.
 
 #### Spring Spark
 

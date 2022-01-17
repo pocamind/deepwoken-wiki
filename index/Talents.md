@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13192
+revid: 13247
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -330,7 +330,7 @@ Hand of Mantra Cards
 -   Pleeksty's Will \[Generic Talent, Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: Complete "Flamecharmer Ploom" Quest in Etris **OR** ~40 Flamecharm
 -   Agitating Spark \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
--   All - Consuming Flame \[Generic Talent, Common Talent\] - Your flames will incinerate unconscious Targets much faster.
+-   All-Consuming Flame \[Generic Talent, Common Talent\] - Your flames will incinerate unconscious Targets much faster.
 -   Corpse Explosion \[Generic Talent, Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
 
 ### Javelin Lord
@@ -596,7 +596,7 @@ Hand of Mantra Cards
 
 -   Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
-    -   Effect: Will fully heal you servant, and revive them, if they are knocked
+    -   Effect: Will fully heal your servant, and revive them, if they are knocked
 
 ### Vigil Swordsman
 
