@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 13183
+revid: 13352
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,7 +18,7 @@ For more information about Food, go [here](Food.md).
 
 These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 
-### _Non-Tool Recipes_
+### _Non-Station Recipes_
 
 -   **Wood** - _3 Sticks_
 -   **Sticks (3x)** - _1 Wood_
@@ -75,7 +75,6 @@ Certain foods, usually the more complicated one/which require more work to obtai
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **Sauteed Scallops** - 2 Scallops
 -   **Cake** - 1 _Egg_, 1 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility)
--   Fish Omelette - 1 Fish Meat, 2 eggs (increases magic damage)
 
 ## Alchemy
 
@@ -134,8 +133,9 @@ _**Negative**_
 
  | _**Positive**_
 
--   Rapidly regenerates Ether over time.(Due to the wheat)
--   Please find out if theres a secondary effect
+-   Rapidly regenerates Ether over time.(Due to the wheat)  
+    _**Negative**_
+    -   Deals a bit of damage instantly. (Because of the browncaps)
 
  | 
 

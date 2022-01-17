@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13317
+revid: 13347
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1038,7 +1038,7 @@ File:Flameguard.png
  | Flameguard Pauldrons | 1 buff | Chests |
 | 
 
- | Hunter's Brace | Placeholder | Chests |
+ | Hunter's Brace | Placeholder | Chests, [Summer Isle](Summer_Isle.md) |
 | 
 
  | Leather Pauldrons | +2 Health | Chests |
@@ -1053,7 +1053,7 @@ usually from 6-12
 
 File:Simple Pauldrons.png
 
- | Simple Pauldrons
+ | Simple Pauldrons?
 
 (I forgot the name of it)
 

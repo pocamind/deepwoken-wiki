@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 13234
+revid: 13338
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -107,7 +107,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 (☆☆☆)
 
- | (fill card description here) | Swap positions with another humanoid.
+ | Instant swap of location with whoever your cursor is on. | Swap positions with another humanoid.
 
 -   This can be used on NPCs or players.
 
@@ -124,7 +124,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
  |
 | 
 
- | Lightning Cloak (☆☆☆) | TBA. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | Lightning Cloak (☆☆☆) | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
 

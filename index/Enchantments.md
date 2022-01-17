@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 13309
+revid: 13343
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -144,7 +144,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks deal damage-over-time instead of instantly.</p>
+  <td><div><p>All attacks with that weapon do 2x damage, BUT the attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-swim faster in water or not drowned in water (never have something such as x2 damage in the depths).
+swim faster in water
 
   
 

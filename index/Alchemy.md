@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 13304
+revid: 13350
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ The Crafting Recipes & Alchemy page contains some simple potion recipes, though 
 
 A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and some of the potion effects. Some of the information is incorrect, though it's mostly accurate, and a useful tool for inferring the exact effects of ingredients.
 
-Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/File:Alchemy_Guide_Jan_10th.pdf) (updated as of 1/10/2022) which may have some different information than what is listed here. You can also check that out.
+Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/File:Alchemy_Guide_Jan_10th.pdf) (updated as of 1/10/2022) which has slightly different information than what is listed here. You can also check that out.
 
 ## Basics
 
@@ -76,7 +76,7 @@ It's unknown if this is a bug or if there are factors we don't yet understand. M
 
 There are 24 (known) potion ingredients, though only 15 have an effect strong enough to brew named potions by themselves.
 
-Almost all ingredients have two effects - a strong Primary effect, which will name the potion if used alone, and a weaker Secondary effect, which is always present, but will only name the potion if the Primary effect is weakened by another ingredient.
+Almost all ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient.
 
 -   Alestrian Coral - Primary effect is **Dulling**; Decreases mantra damage. Secondary effect is **Hastening**; Increases speed for 15 seconds.
 
@@ -308,12 +308,40 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 </tbody>
 </table>
 
-## Optimal potion
+## Optimal Potions
 
-**Soothing tincture (3 Redd + 2 Gobletto) - Reservoir + Health Regen:** Restore a good amount of reservoir. The Redd's in the potions will deal damage, but the Gobletto's will heal that damage right away and leave you with an extra health regen.
+When brewing potions for use, they should always have 5 ingredients. Even when the ingredients aren't available to make an optimal potion, you can always add a second useful effect to a potion by adding more ingredients.
 
-**Mindbreaker Bane (3 Urchin) - Insanity:** Purely offensive potion, designed to cripple your enemy. At 50 Intelligence, people with low willpower will reach the first tier of insanity with just 1 potion. Can be used aggressively in The Depths to kill people prematurely.
+The best potions for a timed effect (like Grueling or Hastening) either use three of its strongest ingredient and two spider eggs (for a 30 second effect), or three of the strongest ingredient and two of the second strongest ingredient (for a slightly stronger 15 second effect).
 
-**Invigorating Elixir (3 Gobletto) - Heath Regen:** Super easy to make and can provide some good healing with Apothecary and a good chunk of intelligence.
+When brewing potions for an instant effect (like Rejuvenation or Soothing), potions should use three of the strongest ingredient and two of the second strongest ingredient. Sometimes this isn't possible, so the last two ingredients should be used to add a second useful effect.
 
-**Heartening Salve (3 Bluecap + 2 Gobletto) - Sanity + Health Regen:** Recover a decent chunk of sanity. The Gobletto are used to heal the bit of hp lost by drinking the Bluecaps.
+-   **Sanity** (Heartening) - 3 Bluecaps
+    -   Also deals a small amount of damage and instantly restores reservoir.
+    -   Unknown if spider eggs improve this potion - if they don't, the last two ingredient slots should be used for a second effect. Any positive effect is good here, though invigorating (from goblettos and beeswax) will help restore the small amount of lost health.
+-   **Insanity** (Mindbreaker) - 3 Urchin
+    -   With the Exterminator talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
+    -   Unknown if spider eggs improve this potion - if they don't, the last two ingredient slots should be used for a second effect. Good options are Icky (from calabash, disabling their mantras) or the unnamed slowing effect (from beeswax).
+-   **Ether Restoration** (Focus-Enhancing) - 1 (2) Gathered Wheat + 2 (1) Plumfruit + 2 Spider Eggs
+    -   The Focus Enhancing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
+-   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Redd
+    -   Rapidly drains ether and prevents reservoir draw for 15 seconds. Will almost immediately drain target's entire ether bar.
+-   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Egg
+    -   Even a small icky effect is enough to completely prevent ether from being drawn from the reservoir. Compared to Fast Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained, but will keep them empty for much longer.
+    -   Particularly fun against gun users, who need ether to use their M1.
+-   **Instant Reservoir** (Soothing) - 3 Dentifilo + 2 Bluecap
+    -   Almost a full reservoir restore - deals ~5% of your health in damage.
+-   **Instant Reservoir Drain** (Appalling) - 3 Bamboo Bundle
+    -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
+-   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
+    -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.
+-   **Long Regeneration** (Invigorating) - 3 Beeswax + 2 Spider Egg
+    -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
+-   **Fast Regeneration** (Invigorating) - 3 Beeswax + 2 Gobletto
+    -   Heals faster than long regeneration, but less total HP.
+-   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
+    -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
+-   **Long Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
+    -   Less pathetic than instant damage, but still pretty bad.
+-   **Fast Poison** (Grueling) - 3 Plumfruit + 2 Bluecap
+    -   Subsituting some of the total damage for speed.

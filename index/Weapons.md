@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13318
+revid: 13335
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -689,7 +689,7 @@ Heavy Weapons are two-handed weapons. They are slow, but have superior range and
   <td>0.6x</td>
 </tr>
 <tr>
-  <td>Crypt Blade*</td>
+  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
   <td></td>
   <td>26</td>
   <td>N/A</td>

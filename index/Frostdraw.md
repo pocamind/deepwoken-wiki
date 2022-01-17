@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 13288
+revid: 13351
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells]
@@ -266,7 +266,7 @@ These talents can be found in the _Ice Age_ category.
 | 
 [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png)
 
- | Frozen Pin-Cushion | Ice Daggers now freeze opponents. (Requires Ice Daggers 1 Star combat mantra) | +3 Elemental Intensity  
+ | Frozen Pin-Cushion | Ice Daggers now freeze opponents. (Requires Ice Daggers 1 Star combat mantra \*\*I was able to get this without having Ice Daggers, however I had Ice Forge.) | +3 Elemental Intensity  
 +1 Health |
 
 **Glassdancer:**
