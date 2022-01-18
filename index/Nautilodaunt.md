@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 13328
+revid: 13543
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,8 +11,6 @@ categories: [Monsters]
 ## Description
 
 A player getting turned into a Mudskipper
-
-> _"AGH, STOP! CUT THE BREAKS! AGH~"_ - ~Unfortunate Diver~ Mudskipper.
 
 Sometimes referred to as Squid Hoss or Squibbo. Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md). It can spawn in City of the Drowned.
 
@@ -25,7 +23,7 @@ Drops "Odd Tentacles".
 -   **Flip kick** - Frontflips into the air and kicks you from above, usually only does this after a flourish.
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 -   **Feint** - Feints an attack to throw you off.
--   **Drop kick - A running attack**
+-   **Drop kick -** A running attack
 
 ### Finisher
 

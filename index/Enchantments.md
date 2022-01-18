@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 13411
+revid: 13497
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -156,9 +156,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (not true, needs to be worked on. Would appreciate if someone knew what it did) (i got a stone and its definitely not this. from my testing it doesn't increase posture dmg and its not what the wiki says )</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (Is currently only working on certain weapons like cestus)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>

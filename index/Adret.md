@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 12968
+revid: 13549
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,7 +60,7 @@ Adrets can easily level up their attributes faster than the normal player, makin
 **Weaknesses:**
 
   
-N/A
+The passive Autodidact Boon can lead into you being put into EXP debt and requiring more exp for you to level up than expected at higher levels.
 
 **Surnames:**
 

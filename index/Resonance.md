@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13440
+revid: 13483
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -242,3 +242,12 @@ The grey circle represents a placed marker.
 -   Notes:
     -   I do not have this resonance. All information listed here is from [this video](https://youtu.be/aZ2W-L4QazA), all credit goes to Jenkz and Juniorr, who made the video, and who has the bell, respectively.
     -   This bell is likely very rare, as we have seen few clips of people with it.
+
+## Unconfirmed bells.
+
+### ??? (Legendary Bell)
+
+-   Currently unfinished.
+-   Documented in [this video](https://www.youtube.com/watch?v=FRsQc1a4ZDY).
+-   Makes a different ring noise, along with shining golden when activated.
+-   _Apparently_ the rarest bell, as it is currently unfinished. (whys it in the roll pool?)

@@ -1,12 +1,16 @@
 ---
 title: Stone Knight
-revid: 13122
+revid: 13531
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Stone Knight
+
+**Blizzard Knight:**
+
+Template:Creature Info Box v2
 
 ## Blizzard Knight
 
@@ -16,7 +20,7 @@ Killing two of these monsters in the winter will spawn a chest that has a guaran
 
 -   To make it easier to kill these, you can lure them to the [Rogue Construct](Rogue_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight.
 
-Template:Creature Info Box v2
+  
 
 ## Description
 
@@ -31,7 +35,7 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
 </tr>
 <tr>
   <th><figure>File:Ice knight kick.gif<figcaption></figcaption></figure></th>
-  <th>Watch Yo Tone<p>(Winter Exclusive.)</p></th>
+  <th>Kick</th>
   <th>The player is kicked into the air (and probably slammed into a wall)<p>If both the Snow Knight and player are close enough to a wall, the Snow Knight is near guaranted to get a free Slash or Rock Pillar.</p></th>
 </tr>
 <tr>
@@ -51,3 +55,14 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
 </tr>
 </tbody>
 </table>
+
+**Sand Knight:**
+
+A tankier version of the [Blizzard Knight](Stone_Knight.md#blizzard-knight) that spawns near the large gate at [Starswept Valley](The_Starswept_Valley.md). This monster falls from the sky in a meteor similar to the Blizzard Knights except he is alone. He much more tankier than the Blizzard Knights since he is alone.
+
+  
+Some pictures of the Rock Knight after the meteor lands:
+
+File:Stone knight top.png
+
+File:Stone knight front.png

@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 13196
+revid: 13525
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,15 +8,13 @@ categories: [Pages with broken file links, Monsters]
 
 # Deep Widow
 
-_"Bro, IT GAVE BIRTH. IT GAVE BIRTH!" - Childish Adret_
-
 ## Description
 
 File:Dumb fucking spider.png
 
 _**Bugcatcher Joey challenges you to a battle!!!**_
 
-A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Valley](The_Starswept_Valley.md).
+A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Valley](The_Starswept_Valley.md), along with **possibly** being in [The Depths](The_Depths.md).
 
 ## Moves
 
@@ -44,7 +42,7 @@ A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Va
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
 -   Try to deal only two attacks and always be ready for the bite.
 -   You can identify combos by their slower charging and faster swiping.
--   It is confirmed by Agamatsu that this creature also spawns in the depths, in a very specific location. (He did not disclose where specifically)
+-   It is confirmed by Agamatsu that this creature also spawns in the depths, in a very specific location.
 -   You can cheese the Widow by going atop a ledge in the cave, this will cause her not to damage you and your m1s will connect.
 -   The Widows poison goes through armor.
 -   Can easily be run past/cheesed(?) as she is not the brightest when it comes to getting stuck between 2 rock pillars in her own home

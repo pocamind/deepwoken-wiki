@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 13378
+revid: 13484
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Boons
 
-Boons are modifiers that you get to pick when you create your character alongside [Flaws](Boons_and_Flaws.md). These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character. Your choice of Flaws affect how many Boons you are allowed to have.
+Boons are modifiers that you get to pick when you create your character alongside Flaws. These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character. Your choice of Flaws affect how many Boons you are allowed to have.
 
 ## List of Boons
 

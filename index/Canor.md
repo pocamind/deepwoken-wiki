@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 12970
+revid: 13550
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -62,7 +62,7 @@ Inflicts less damage to their own allies.
 
 ## Weaknesses
 
-N/A
+Said passive of dealing less damage to allies can lead to one-sided spars
 
 **Surnames:**
 

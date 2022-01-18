@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 12983
+revid: 13517
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,27 +8,20 @@ categories: [Pages with broken file links, Monsters]
 
 # Lionfish
 
-> _"I can take out this big fish, no sweat!... Why is it looking up?"_
-
-> _\- Depth Fighter._
-
-  
-
 ## Appearance
 
 Template:Creature Infobox V3
 
 Half-fish, half-lion. A large brown fish with a black mane of a Lion, thus it's name. It has white blank eyes, with it's teeth visible.
 
-Seams to be based off the Underwater panther or ''_**[Mishipeshu](https://en.wikipedia.org/wiki/Underwater_panther)''**_ from Native American mythology (Or Arch got it off from ark's Shadowmane which is what I know the myth from). Considering that Deep's landscape seems to take inspiration from early American settlers (especially seen in the Summer Company's teritories) and Chinese/Japanese architecture in other areas this is possible.
-
+  
 It drops a Lionfish Scale, which is used for crafting armor sets.
 
 ## Moves
 
 **Bite** - Bites three times. Each bite does _**25 damage**_. Can be parried.
 
-**Dive (Only in Etrean Luminant)** - Although non-offensive, I am putting this here. Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
+**Dive (Only in Etrean Luminant)** - The Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
 
 **Cero** (**Only in Depths and Hive/Under Lordsgrove**)- Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
 
@@ -36,11 +29,11 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 -   [The Depths](The_Depths.md)
 -   Aratel Sea (Spawns naturally but can also be fished up)
--   void sea
+-   Voidsea
 
 ## Notes
 
--   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish. **(not really you can solo it at power 1, just dash the laser beam and stand under it so it doesnt bite you)**
+-   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish.
 -   Lionfishes do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
 -   Corrupted Health: 6000
@@ -50,3 +43,8 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
     File:Big ass fish.jpg
     
     Lionfish on Land
+    
+
+## Trivia
+
+Seems to be based off the Underwater panther or ''_**[Mishipeshu](https://en.wikipedia.org/wiki/Underwater_panther)''**_ from Native American mythology (Or Arch got it off from ark's Shadowmane which is what I know the myth from). Considering that Deep's landscape seems to take inspiration from early American settlers (especially seen in the Summer Company's teritories) and Chinese/Japanese architecture in other areas this is possible.

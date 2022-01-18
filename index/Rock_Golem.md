@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 13476
+revid: 13526
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,7 @@ categories: [Monsters]
 
 # Rock Golem
 
-“ Ive fought Golems from Rogue! This will be easy! ”
-
-― Perished Foreigner.
-
-Template:Creature Infobox V3_Also known as Golems, Spinners, and Hugo._
+Template:Creature Infobox V3_Also known as Golems_
 
 _Entities apart of The Duke's Creations, meant to protect Erisia Island._
 
@@ -24,13 +20,13 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 
 ## Moves
 
--   **Beyblade** - The Golem will start charging up his torso in a spinning matter and walk towards a player.
+-   **Rapid Spin** - The Golem will start charging up his torso in a spinning matter and walk towards a player.
 -   **Laser Beam** - The Golem charges up a white beam; and discharges upon their target. Can be dodged or parried.
     -   **Red Beam (Black Variant)** - The Black Golem charges up a red-hot beam, and discharges at the target multiple times.
 -   **Rock Uppercut** - Similar to Sharko's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away.
 -   **Foot Stomp** - The Golem will slam down his foot and attack. This move is blockable and parryable.
 -   **Angered Scream** - The Golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)
--   **Rock Sledgemhammer** -The Golem puts their 2 arms together and swing them into the ground as an alternate melee move; Parriable.
+-   **Rock Sledgehammer** -The Golem puts their 2 arms together and swing them into the ground as an alternate melee move; Parriable.
 
 ### Finisher
 
@@ -43,5 +39,5 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 ## Tips
 
 -   Occasionally a Sharko and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
--   Do not block it's Beyblade attack, as it will shred your posture quickly (You can spam parry and it will parry the hits but this is not recommended unless you are too close to run) Parrying the beyblade gives a shit load of weapon exp tho so. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
+-   Do not block it's Spinning attack, as it will shred your posture quickly. However, parrying said move gives a lot of exp, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   Its consecutive shots are not hard to dodge as long as you spam jump

@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 12908
+revid: 13552
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -54,12 +54,6 @@ Monke
 ## Strengths
 
 +2 Strength, +2 Charisma, Has the ability to use some equipment like armor and shields earlier By 3 points. Ex. 57 fortitude would allow you to equip the khan shield instead of needing 60 fortitude
-
-**Weaknesses:**
-
-## Weaknesses
-
-N/A
 
 ## Notes/Trivia
 

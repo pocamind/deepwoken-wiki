@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 13276
+revid: 13524
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,11 @@ categories: [Monsters]
 
 # Thresher
 
-_Also known as Crocodiles, Croccos, Crocs, Lil' Crocs, Dinosaurs, my lil' bitch, Dogs, Kapros/Swamp-Roadrunners, Alligators, and Lizards._
+**Thresher:**
+
+# Thresher
+
+_Also known as Crocodiles, Crocs, and many other Lizard names'_
 
 ## Description
 
@@ -27,10 +31,13 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 -   The go-to mob to farm for high leveled players.
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range, and can be easily kited.
+    
+
+**King Thresher:**
 
 # King Thresher
 
-_Also known as Big Mom, Big Dog, Big Lizard, Big Croc, Big Crocodile, Mama Crocodile, Mama Lizard, King K. Rool, Queen Crocodile, Queen Lizard, King Croc, Yung Croc God (name added by kyro), Dilf Thresher._
+_Also known as Big Mom, Big Croc, and many other names_
 
 ## Description
 

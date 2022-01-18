@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13421
+revid: 13560
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -50,24 +50,14 @@ You can repair your Outfit at the Blacksmith in Etris or Isle of Vigils. This wi
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
-| 
- | Stranded | Spawn | None | None |
-| 
-
-File:Merchant Robes.PNG
-
- | Merchant Robes | 5x Cloth
-
+|  | Stranded | Spawn | None | None |
+| File:Merchant Robes.PNG | Merchant Robes | 5x Cloth
 5x Fiber
 
 25 Notes
 
  | None | _Talent: Mates' Rates_ |
-| 
-
-File:SkepticPioneerEdit1.png
-
- | 
+| File:SkepticPioneerEdit1.png | 
 
 Skeptic Pioneer
 
@@ -88,9 +78,7 @@ Skeptic Pioneer
 _Talent: Apothecary (beneficial effect of potions you drink are more potent)_
 
  |
-| 
-
- | White Traveler Cloak | x1 Cloth
+|  | White Traveler Cloak | x1 Cloth
 
 10 Notes
 
@@ -99,9 +87,7 @@ _Talent: Apothecary (beneficial effect of potions you drink are more potent)_
 +12% Physical Armor
 
  |
-| 
-
- | Grey Traveler Cloak | x1 Cloth
+|  | Grey Traveler Cloak | x1 Cloth
 
 10 Notes
 
@@ -110,11 +96,7 @@ _Talent: Apothecary (beneficial effect of potions you drink are more potent)_
 +12% Physical Armor
 
  |
-| 
-
-File:Bluetravelercloak.png
-
- | Blue Traveler Cloak | x1 Cloth
+| File:Bluetravelercloak.png | Blue Traveler Cloak | x1 Cloth
 
 10 Notes
 
@@ -123,9 +105,7 @@ File:Bluetravelercloak.png
 +12% Physical Armor
 
  |
-| 
-
- | Purple Traveler Cloak | x1 Cloth
+|  | Purple Traveler Cloak | x1 Cloth
 
 10 Notes
 
@@ -134,9 +114,7 @@ File:Bluetravelercloak.png
 +12% Physical Armor
 
  |
-| 
-
- | Red Traveler Cloak | x1 Cloth
+|  | Red Traveler Cloak | x1 Cloth
 
 10 Notes
 
@@ -145,9 +123,7 @@ File:Bluetravelercloak.png
 +12% Physical Armor
 
  |
-| 
-
- | Hired Mercenary | x5 Cloth
+|  | Hired Mercenary | x5 Cloth
 
 x5 Fiber
 
@@ -163,17 +139,11 @@ x1 Iron
 
  |
 
-  
-
 ### Adept
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
-| 
-File:Eggspi.jpg
-
- | Experienced Adventurer | x3 Cloth
-
+| File:Eggspi.jpg | Experienced Adventurer | x3 Cloth
 x3 Fiber x2 Irithine
 
  | Power Level 15 | +1000 Durability
@@ -185,11 +155,7 @@ x3 Fiber x2 Irithine
 _Talent: Looter_
 
  |
-| 
-
-File:Pe of shit.jpg
-
- | Pathfinder Cloak | x4 Cloth
+| File:Pe of shit.jpg | Pathfinder Cloak | x4 Cloth
 
 x4 Fiber
 
@@ -206,11 +172,7 @@ x6 Iron
 _Talent: Environmentalist (Resist the effects of some weather events.)_
 
  |
-| 
-
-File:Shadow Hunter Preview.png
-
- | Shadow Hunter | x5 Cloth
+| File:Shadow Hunter Preview.png | Shadow Hunter | x5 Cloth
 
 x5 Fiber
 
@@ -229,11 +191,7 @@ x10 Iron
 _Talent: Now You See Me (increased stealth while crouching)_
 
  |
-| 
-
-File:11thlegionplate.png
-
- | 11th Legion Plate | Cloth x5
+| File:11thlegionplate.png | 11th Legion Plate | Cloth x5
 
 Fiber x5
 
@@ -254,11 +212,7 @@ Iron x10
 +10% Physical Armor
 
  |
-| 
-
-File:CutthroatLightArmor.png
-
- | Cutthroat Light Armor | x4 Cloth
+| File:CutthroatLightArmor.png | Cutthroat Light Armor | x4 Cloth
 
 x1 Crystal Lens
 
@@ -277,11 +231,7 @@ x5 Iron
 _Talent: Hunter (improve [Monsters](Monsters.md) loot table)_
 
  |
-| 
-
-File:VigilInitiate.png
-
- | Vigil Initiate | x5 Cloth
+| File:VigilInitiate.png | Vigil Initiate | x5 Cloth
 
 x5 Fiber
 
@@ -296,14 +246,8 @@ x4 Iron
 _Talent: Paired Soul (increase damage dealt by the katana and shaterred katana)_
 
  |
-| 
-
- | Firekeeper's Armor | Unknown | Unknown | Unknown |
-| 
-
-File:Naval.jpg
-
- | Navaen Nomad Robes | x5 Cloth
+|  | Firekeeper's Armor | Unknown | Unknown | Unknown |
+| File:Naval.jpg | Navaen Nomad Robes | x5 Cloth
 
 x8 Erisore
 
@@ -330,11 +274,7 @@ x2 Frigid Prism
 _Talent: Fists of Navae_
 
  |
-| 
-
-File:Earworm.jpg
-
- | Ignition Union Uniform | x5 Cloth
+| File:Earworm.jpg | Ignition Union Uniform | x5 Cloth
 
 x5 Fiber
 
@@ -349,11 +289,7 @@ x1 Lionfish Scale
 +22% Elemental Armor
 
  |
-| 
-
-File:FlameWorshipperArmorproper.png
-
- | Flame Worshipper Armor | x4 Cloth
+| File:FlameWorshipperArmorproper.png | Flame Worshipper Armor | x4 Cloth
 
 x4 Fiber
 
@@ -372,11 +308,7 @@ x2 Iron
 _Talent: Intrepid Flame (fire last half as long on yourself)_
 
  |
-| 
-
-File:Summercompanyuniform.png
-
- | Summer Company Uniform | x5 Cloth
+| File:Summercompanyuniform.png | Summer Company Uniform | x5 Cloth
 
 x5 Fiber
 
@@ -397,11 +329,7 @@ x10 Iron
 _Talent: Armor Piercing (guns have 50% PENetration)_
 
  |
-| 
-
-File:Authority Peacekeeper.png
-
- | Authority Peacekeeper Armour | x5 Cloth
+| File:Authority Peacekeeper.png | Authority Peacekeeper Armour | x5 Cloth
 
 x5 Fiber
 
@@ -426,22 +354,14 @@ Power Level 15
 _Talent: Now You See Me (increased stealth while crouching)_
 
  |
-| 
-
-File:Duelist's Atture.png
-
- | Duelist's Attire | x5 Glass Stone | Power Level 15 | +20% Physical Armor
+| File:Duelist's Atture.png | Duelist's Attire | x5 Glass Stone | Power Level 15 | +20% Physical Armor
 
 +1200 Durability
 
 +10% Slash Armor
 
  |
-| 
-
-File:Diverapprentice.png
-
- | Diver Apprentice | x4 Cloth
+| File:Diverapprentice.png | Diver Apprentice | x4 Cloth
 
 x3 Crystal Lens
 
@@ -463,15 +383,11 @@ Intelligence 10
 
  |
 
-  
-
 ### Expert
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
-| 
- | Grandmaster Pathfinder Cloak | x5 Cloth
-
+|  | Grandmaster Pathfinder Cloak | x5 Cloth
 x2 Dark Feather
 
 x5 Erisore
@@ -497,11 +413,7 @@ x6 Iron
 _Talent: Legendary (Parrying and landing hits with your weapon gives you ether back.)_
 
  |
-| 
-
-File:Darksteel Plate.png
-
- | Darksteel Plate | x5 Cloth
+| File:Darksteel Plate.png | Darksteel Plate | x5 Cloth
 
 x1 Dark Feather
 
@@ -526,11 +438,7 @@ x1 Strange Claw
 _Talent: Unbreakable (disable the stun of getting block broken)_
 
  |
-| 
-
-File:Authorian.png
-
- | Authority Commander Uniform | x5 Cloth
+| File:Authorian.png | Authority Commander Uniform | x5 Cloth
 
 x1 Dark Feather
 
@@ -551,11 +459,7 @@ Power 30
 +25% Elemental Armor
 
  |
-| 
-
-File:Verdantsniper.png
-
- | Verdant Sniper | x10 Cloth
+| File:Verdantsniper.png | Verdant Sniper | x10 Cloth
 
 x2 Megalodaunt Hide
 
@@ -572,11 +476,7 @@ x5 Vibrant Gem
 +20% Elemental Armor
 
  |
-| 
-
-File:Arsehole.jpg
-
- | Pathfinder Arch-Sorcerer | x5 Cloth
+| File:Arsehole.jpg | Pathfinder Arch-Sorcerer | x5 Cloth
 
 x5 Fiber
 
@@ -607,11 +507,7 @@ Power Level 30
 _Talent: Devastating Power (Gain Extra Ether for every Mantra in your arsenal)_
 
  |
-| 
-
-File:Hive Tactician Armor.png
-
- | Hive Tactician Armor | x5 Cloth
+| File:Hive Tactician Armor.png | Hive Tactician Armor | x5 Cloth
 
 x2 Dark Feather
 
@@ -634,11 +530,7 @@ Power Level 30
 _Talent: Brunt_
 
  |
-| 
-
-File:HIVE DRONE.png
-
- | Hive Drone | x5 Cloth
+| File:HIVE DRONE.png | Hive Drone | x5 Cloth
 
 x5 Fiber
 
@@ -659,11 +551,7 @@ x1 Rock
 _Talent: Now You See Me (increased stealth while crouching)_
 
  |
-| 
-
-File:Whaler Coat.png
-
- | Whaler Coat | x5 Cloth
+| File:Whaler Coat.png | Whaler Coat | x5 Cloth
 
 x5 Fiber
 
@@ -684,11 +572,7 @@ x2 Lionfish Scale
 +50% Stealth
 
  |
-| 
-
-File:Cloak of winds .png
-
- | Cloak of Winds | x5 Cloth
+| File:Cloak of winds .png | Cloak of Winds | x5 Cloth
 
 x10 Erisore
 
@@ -712,11 +596,7 @@ _Talent: Paired Soul (increase damage dealt by Katana and Shattered Katana)_
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
-| 
-File:Legion centurion.png
-
- | Legion Centurion | x1 Blue gem
-
+| File:Legion centurion.png | Legion Centurion | x1 Blue gem
 x5 Cloth
 
 x5 Fiber
@@ -748,11 +628,7 @@ x1000 Notes
 _Talent: Centurion's Resolve (Legion kata deal 15% more damage)_
 
  |
-| 
-
-File:Prophet's Cloak.png
-
- | Prophet's Cloak | x1 Bloodless Gem
+| File:Prophet's Cloak.png | Prophet's Cloak | x1 Bloodless Gem
 
 x5 Cloth
 
@@ -783,11 +659,7 @@ x1000 Notes
 Talent: Crippling Darkness
 
  |
-| 
-
-File:BlackDiverPNG.png
-
- | Black Diver | x1 Blessed Gem
+| File:BlackDiverPNG.png | Black Diver | x1 Blessed Gem
 
 x5 Cloth
 
@@ -850,262 +722,146 @@ x500 Notes
 
 Armor Pieces come in different rarities: Ascended, Enlightened or Celestial, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
 
-### Head
+**Head:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
-File:Herbalist's Hat.png
-
- | Big Herbalist's Hat | Grants a random buff.
-
+| File:Herbalist's Hat.png | Big Herbalist's Hat | Grants a random buff.
 _\+ Talent: Iron Gut_
 
 _\+ Talent: Herbivore_
 
  | Hive Chests |
-| 
-
-File:Alchemist Hat.png
-
- | Alchemist's Hat | Grants a random buff.
+| File:Alchemist Hat.png | Alchemist's Hat | Grants a random buff.
 
 _\+ Talent: Apothecary_
 
 _\+ Talent: Pitcher_
 
  |  |
-| 
-
-File:Authorityhelm.png
-
- | Authority Helm | Grants two or three random buffs.
+| File:Authorityhelm.png | Authority Helm | Grants two or three random buffs.
 
 _Requires Fortitude 10_
 
  | Authority Enemies and Hive Chests |
-| 
+| File:KnightHelm.png | Knight's Helm | Grants three random buffs. |  |
+| File:GreyGumshoeHat.png | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+|  | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
+|  | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
+|  | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
+|  | Vigil Hood |  |  |
 
-File:KnightHelm.png
-
- | Knight's Helm | Grants three random buffs. |  |
-| 
-
-File:GreyGumshoeHat.png
-
- | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| 
-
-File:White gumcumshoe.jpg
-
- | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| 
-
- | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
-| 
-
- | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
-| 
-
- | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| 
-
-File:Deepwoken hood.jpg
-
- | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
-| 
-
- | Vigil Hood |  |  |
-
-### Face
-
-Many face acessories do not come with stats and using them will not improve your character other than drip. If youre looking to get Ascended versions which tend to have 2-3 buffs, they're much less common but the grinding method is the same.
+**Face:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
- | Iron Mask | Cosmetic | Erisia Chests |
-| 
-
-File:Demonmask.png
-
- | Demon Mask | Cosmetic | The Duke Chest and Depths Chests |
-| 
-
-File:Hairband.jpg
-
- | Headband | Cosmetic | Erisia Chests |
-| 
-
-File:Bandana.png
-
-155.997x155.997px
-
- | Bandana | Cosmetic | Chests |
-| 
-
- | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Erisia Chests |
-| 
-
- | Crimson Blindfold | Grants the "Blinded" talent and a random buff | Minityrsa Chests |
-| 
-
- | Eyeglasses | Grants a random buff. | Minityrsa and
-
+|  | Iron Mask | Cosmetic | Erisia Chests |
+| File:Demonmask.png | Demon Mask | Cosmetic | The Duke Chest and Depths Chests |
+| File:Hairband.jpg | Headband | Cosmetic | Erisia Chests |
+| File:Bandana.png | Bandana | Cosmetic | Chests |
+|  | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Erisia Chests |
+|  | Crimson Blindfold | Grants the "Blinded" talent and a random buff | Minityrsa Chests |
+|  | Eyeglasses | Grants a random buff. | Minityrsa and
 Songseeker Chests
 
  |
-| 
-
- | Polarized Eyeglasses | Cosmetic | Minityrsa and
+|  | Polarized Eyeglasses | Cosmetic | Minityrsa and
 
 Songseeker Chests
 
  |
 
-### Ears
+**Ears:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
- | Dewdrop Earrings | +16 Reservoir
-
+|  | Dewdrop Earrings | +16 Reservoir
 +6 Sanity
 
  | Hive Chests |
-| 
-
- | Rubydrop Earrings | Placeholder | Hive Chests |
-| 
-
-File:MasterThief.png
-
- | Master Thief Earrings | Grants ether and
+|  | Rubydrop Earrings | Placeholder | Hive Chests |
+| File:MasterThief.png | Master Thief Earrings | Grants ether and
 
 a Damage Vs. Sea
 
 or Damage Vs. Deep
 
  | Fort merit Chests |
+| 
 
-### Neck
+File:Screenshot 2.png
+
+ | Practicioner's Earrings | Grants:
+
+Ether
+
+Sanity
+
+Damage Vs. Deep
+
+ | Summer Island |
+
+**Back:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
-File:Golden Cape.png
+| File:Golden Cape.png | Golden Cape | Grants a random buff. | Minityrsa Chests |
+|  | Dawn Scarf |  | Hive Chests |
+|  | Adventurer's Scarf |  | Hive Chests |
+|  | Black Scarf |  | Hive Chests |
+|  | Tundra Scarf | Grants a random buff | Hive Chests |
+|  | White Scarf |  | Hive Chests |
+|  | There's a lotta scarves, someone add them |  |  |
 
- | Golden Cape | Grants a random buff. | Minityrsa Chests |
-| 
-
- | Dawn Scarf |  | Hive Chests |
-| 
-
- | Adventurer's Scarf |  | Hive Chests |
-| 
-
- | Black Scarf |  | Hive Chests |
-| 
-
- | Tundra Scarf | Grants a random buff | Hive Chests |
-| 
-
- | White Scarf |  | Hive Chests |
-| 
-
- | There's a lotta scarves, someone add them |  |  |
-
-### Arms
+**Arms:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
-File:Autumn pauldrons.png
-
- | Autumn Pauldrons | +20 Ether
-
+| File:Autumn pauldrons.png | Autumn Pauldrons | +20 Ether
 +6 Health
 
  | Chests |
 |   
-
-File:Black Fur Pauldrons.png
-
- | Black Fur Pauldrons | Placeholder | Chests |
-| 
-
-File:Blacksteel Pauldron.png
-
- | Blacksteel Pauldrons | 1-2 buffs | Chests |
-| 
-
-File:Flameguard.png
-
- | Flameguard Pauldrons | 1 buff | Chests |
-| 
-
- | Hunter's Brace | Placeholder | Chests, [Summer Isle](Summer_Isle.md) |
-| 
-
- | Leather Pauldrons | +2 Health | Chests |
-| 
-
- | Steel Pauldrons | Grants buff for health
+File:Black Fur Pauldrons.png | Black Fur Pauldrons | Placeholder | Chests |
+| File:Blacksteel Pauldron.png | Blacksteel Pauldrons | 1-2 buffs | Chests |
+| File:Flameguard.png | Flameguard Pauldrons | 1 buff | Chests |
+|  | Hunter's Brace | Placeholder | Chests, [Summer Isle](Summer_Isle.md) |
+|  | Leather Pauldrons | +2 Health | Chests |
+|  | Steel Pauldrons | Grants buff for health
 
 usually from 6-12
 
  | Chests |
-| 
-
-File:Simple Pauldrons.png
-
- | Simple Pauldrons?
+| File:Simple Pauldrons.png | Simple Pauldrons?
 
 (I forgot the name of it)
 
  | 1-2 Buffs | Chests |
 |   
-
  | Tracker's Brace | 2-3 buffs | Chests |
-| 
-
-File:Vanguardbrace.png
-
- | Vanguard Brace | +20 Reservoir
+| File:Vanguardbrace.png | Vanguard Brace | +20 Reservoir
 
 +9 Health
 
 +1 Posture
 
  | Chests |
-| 
-
-File:Glassdancer wraps.jpg
-
- | Glassdancer Wraps | 1-3 buffs. | Minityrsa and
+| File:Glassdancer wraps.jpg | Glassdancer Wraps | 1-3 buffs. | Minityrsa and
 
 Songseeker Chests
 
  |
-| 
-
-File:Warden pauldrons.jpg
-
- | Warden's Pauldrons | Guaranteed to give
+| File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
 
 +10 health
 
 +2 posture
 
  | Fort merit Chests |
-| 
-
-File:Aristocrat Coat.png
-
- | Aristocrat Coat | Placeholder | Chests |
-| 
-
- | Ranger's Brace | +10 Ether
+| File:Aristocrat Coat.png | Aristocrat Coat | Placeholder | Chests |
+|  | Ranger's Brace | +10 Ether
 
 +20 Reservoir
 
@@ -1114,9 +870,7 @@ File:Aristocrat Coat.png
 +1 Posture
 
  | Unknown |
-| 
-
- | Star Duster | Health
+|  | Star Duster | Health
 
 Ether
 
@@ -1129,9 +883,7 @@ Posture
 Depths chests
 
  |
-| 
-
- | Royal Pathfinder | 2-4 buffs | [Starswept Valley](The_Starswept_Valley.md)
+|  | Royal Pathfinder | 2-4 buffs | [Starswept Valley](The_Starswept_Valley.md)
 
 Duke chests
 
@@ -1139,58 +891,30 @@ Duke chests
 
   
 
-### Rings
+**Rings:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
-"Ring of a wandering Swordman."
-
-"Ring of a wandering Swordman."
-
-"Ring of a wandering
-
-Swordsman."
-
- | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
-
+| File:Isshin.png | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
 _Requires Power Level 15_
 
  | Pirate Event at Aratel Sea |
-| 
-
-"Ring of the infamous theif Emiya Konga."
-
-"Ring of the infamous
-
-thief Emiya Konga."
-
- | Konga's Clutch Ring | Allows the user to slide without delay.
+|  | Konga's Clutch Ring | Allows the user to slide without delay.
 
 _Requires Power Level 10_
 
- | Mudskipper cave event chest |
-| 
-
-File:Freestyler's Band.png
-
- | Freestyler's Band | Gives the user a massive increase in swimming speed.
+ | Mudskipper Mission in Pathfinder's Respite |
+| File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed.
 
 _Requires Power Level 10_
 
  | Depths Chests |
-| 
-
- | Gold Ring | Grants a random buff.
+|  | Gold Ring | Grants a random buff.
 
 Can be sold for 25 Notes.
 
  | Mudskipper cave event chest |
-| 
-
-File:Light eater ring.jpg
-
- | Light eater ring | Getting hit by a Lightning or Fire mantra recovers ether.
+| File:Light eater ring.jpg | Light eater ring | Getting hit by a Lightning or Fire mantra recovers ether.
 
 Grants one random buff
 
@@ -1201,38 +925,25 @@ _Requires Power Level 10_
 Depths Chests
 
  |
-| 
-
- | Silver Ring | Grants a small random buff.
+|  | Silver Ring | Grants a small random buff.
 
 Can be sold for 10 Notes.
 
  | Mudskipper cave event chest |
-| 
-
- | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
+|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
 
 _No Power Level Required_
 
  | Depths Chests (I got one of these from the pirate event too) |
 | File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests (I got a ring of wisps from the pirate event in the aratel sea) |
-| 
-
- | Old Ring | Placeholder |  |
-|   
-File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
-| 
-
- | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
+|  | Old Ring | Placeholder |  |
+| File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
+|  | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
 
 _No Power Level Required_
 
  | Depths Chests |
-| 
-
-File:Dazedband.PNG
-
- | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
+| File:Dazedband.PNG | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
 
 _Requires Power Level 10_
 
@@ -1246,41 +957,18 @@ know)
 
   
 
-### Boots
+**Boots:**
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| 
-File:Leather boots.png
-
- | Leather Boots | Placeholder | Chests |
-| 
-
-File:White fur boots.png
-
- | White Fur Boots | Placeholder | Chests |
-| 
-
-File:Black fur boots 1.png
-
- | Black Fur Boots | Placeholder | Chests |
+| File:Leather boots.png | Leather Boots | Placeholder | Chests |
+| File:White fur boots.png | White Fur Boots | Placeholder | Chests |
+| File:Black fur boots 1.png | Black Fur Boots | Placeholder | Chests |
 |   
-
  | Autumn Boots | Placeholder | Chests |
-| 
-
-File:Khanboots.png
-
- | Khan Boots | Placeholder | Chests |
-| 
-
-File:Imperial Boots.png
-
- | Imperial Boots | Placeholder |  |
-| 
-
- | Star Boots | Placeholder
-
+| File:Khanboots.png | Khan Boots | Placeholder | Chests |
+| File:Imperial Boots.png | Imperial Boots | Placeholder |  |
+|  | Star Boots | Placeholder
 _Requires Power Level 30_
 
  | Depths Chests |

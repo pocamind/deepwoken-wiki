@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 13338
+revid: 13500
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Magic, Spells]
@@ -110,6 +110,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
  | Instant swap of location with whoever your cursor is on. | Swap positions with another humanoid.
 
 -   This can be used on NPCs or players.
+-   Estimated 300 - 350 Stud Range
 
  |
 

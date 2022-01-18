@@ -1,9 +1,14 @@
 ---
 title: Gigamed
-revid: 13336
+revid: 13541
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters]
 ---
+
+# Gigamed
+
+**Gigamed:**
 
 # Gigamed
 
@@ -24,7 +29,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 
-  
+**King Gigamed:**
 
 # Mother Jellyfish
 

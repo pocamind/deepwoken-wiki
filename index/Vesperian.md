@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 13446
+revid: 13553
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -68,6 +68,7 @@ Beatle
 
 -   Facial accessories are not visible (they still grant their buffs, however)
 -   Dichlorvos
+-   While not necessarily a weakness of the race itself, the **Chitin** armor can lead to becoming a crutch in combat, making other [Races](Aspects.md) feel lackluster and "squishy"
     
 
 **Surnames:**

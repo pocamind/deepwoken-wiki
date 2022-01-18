@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 13454
+revid: 13554
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -56,13 +56,6 @@ Theory: Vesperians and Ganymedes are different versions of the same species, wit
 ## Strengths
 
 -   Insanity Resistance
-    
-
-**Weaknesses:**
-
-## Weaknesses
-
--   Either undiscovered or none.
     
 
 **Surnames:**

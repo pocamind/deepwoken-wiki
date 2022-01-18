@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 12868
+revid: 13547
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -89,8 +89,8 @@ Seeing as how **Molt** reduces the duration of positive effects as well as negat
 
 ## Notes/Trivia
 
--   Suprisingly they're not that racist in Etris. In fact they're equal to all races but I can't say the same in Summer isle.
--   Fact above is not true. They kicked the merchant out for being beastly. (Aren't that Lord Raegen order not the people of Etrean? They're pretty accepting to Canor, Adret, Capra, Ganymede, and Vesperian)
+-   Suprisingly not that racist in Etris.
+-   Despite the previous trivia, they kicked the merchant out for being beastly.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 
   

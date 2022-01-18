@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 13176
+revid: 13571
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Monsters]
 
 # Enforcer
 
-“ Is this _**too**_ easy for you? ”
+“ I shall relish in scraping their remains off the floor. ”
 
-― The ~Pursuer~ Enforcer
+― The Voice of Enmity
 
 Template:Creature Info Box v2
 
@@ -18,9 +18,9 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Power 45+)
+An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Trial Power 50+)
 
-Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (Power 45+) and fail the trial you'll turn into an enforcer.
+Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (Power 50+) and fail the trial you'll turn into an enforcer.
 
 Drops the Enforcer's Axe weapon, perfect lenses, and vibrant gems.
 
@@ -42,7 +42,7 @@ Has 4000 HP. (This can seem to be a lot but the Primadon has 60000HP.)
 ## **Trivia**
 
 -   A common combo that The Enforcer will use is two high swings in quick succession before going for a low swing.
--   All of The Enforcer's attacks are blockable, and sometimes it may stand still, allowing for a few hits.
+-   All of The Enforcer's attacks are blockable.
 -   Due to its very limited apperance, it is hard to train against it without putting a high level character at risk.
 -   Is sometime regarded as easier to fight than the [Angels](Hollow_Angel.md) or [Megalodaunts](Megalodaunt.md), however, its near human intelligence, involving feints, can prove difficult to newer players and still catch veterans off guards.
 -   The Enforcer can and will feint from time to time, so be sure to listen for the clink sound of a feint to parry/roll its next attack quickly.

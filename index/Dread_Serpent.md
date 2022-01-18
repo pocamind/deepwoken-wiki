@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 13207
+revid: 13540
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,13 +8,7 @@ categories: [Pages with broken file links]
 
 # Dread Serpent
 
-_Also known as Kaido, Sea Serpent, Dragon, Ice Leviathan and Shenron._
-
-_"NOTHING BAD. EVER HAPPENS. IN THE VOID SEA!!!" - John Kennedy (Not to be confused with the late president; JFK)._
-
-"oh boy i just got a new boat with increased hp! i wonder if theres anything in the voidsea?" - Unknown Celtor
-
-"Hey (unspecific), I heard there was a cool monster that spawns here! They said it was super easy so hopefully we get-" - Last words of an un-assuming Adret
+_Also known as Kaido, Sea Serpent, and Dragon._
 
 ## Description
 
@@ -32,7 +26,7 @@ it is speculated how much life he has. it's probably more than the ferryman(35.0
 
 #### Finisher
 
--   **Claw Swipe EX** - Same as claw swipe but it kills you
+-   '_Claw Swipe_ - Same as claw swipe but it kills you
 
 ## Notes/Tips
 

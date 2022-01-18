@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 11390
+revid: 13482
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,7 +26,7 @@ _Purchased from Etris and Isle of Vigils Training Shops._
 
 ### Strength
 
--   Dumbell - **25 Notes** / 200 Durability
+-   Dumbell - Template:Cost / **200 Durability**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils. Isle of Vigils does not have the boulder.
 
@@ -34,8 +34,8 @@ A training vest hanging in the Antiquarian shop at Etris.
 
 ### Fortitude
 
--   Training Vest - **25 Notes** / 50 Durability (On the white and black armor)
--   Boulder - **25 Notes** / 200 Durability
+-   Training Vest - Template:Cost / **50 Durability** (On the white and black armor)
+-   Boulder - Template:Cost / **200 Durability**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -46,7 +46,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
 ### Agility
 
--   Ankle Weights - **25 Notes** / 200 Durability (On the legs of the grey armor w/ gold belt)
+-   Ankle Weights - Template:Cost / **200 Durability** (On the legs of the grey armor w/ gold belt)
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -58,8 +58,8 @@ A question from the math textbook
 
 ### Intelligence
 
--   Encylcopedia - **25 Notes** / 200 Durability
--   Math Book - **30 Notes** / 200 Durability
+-   Encylcopedia - Template:Cost / **200 Durability**
+-   Math Book - Template:Cost / **200 Durability**
 
 Located at the bookstore.
 
@@ -69,7 +69,7 @@ Prayer beads in the Antiquarian shop at Etris
 
 ### Willpower
 
--   Prayer Beads - **25 Notes** / 100 Durability
+-   Prayer Beads - Template:Cost / **100 Durability**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -81,7 +81,7 @@ File:Image (6).png
 
 ### Charisma
 
--   How to Make Friends - **25 Notes** / 200 Durability
+-   How to Make Friends - Template:Cost / **200 Durability**
 
 Located at the bookstore and also in the Isle of Vigils library.
 
@@ -99,7 +99,7 @@ _Purchased at Etris and Isle of Vigils library._
 
 ### Light/Medium/Heavy
 
--   Weapon Manual - **25 Notes** / 250 Durability
+-   Weapon Manual - Template:Cost / **250 Durability**
 
 ## [Attunement](Attunements.md) Training
 
@@ -111,23 +111,23 @@ _Purchased from Mantra Shops at any area._
 
 ### [Thundercall](Thundercall.md)
 
--   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) - **25 Notes** / 200 Durability
+-   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 Durability**
 
 ### Frostdrawer
 
--   [Hemafrost](Training_Gear.md#attunement-training-gears) - **25 Notes** / 200 Durability
+-   [Hemafrost](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 Durability**
 
 ### [Flamecharm](Flamecharm.md)
 
--   [Heartgem](Training_Gear.md#attunement-training-gears) - **25 Notes** / 200 Durability
+-   [Heartgem](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 Durability**
 
 ### Shadowcaster
 
--   Pure Heart - **25 Notes** / 200 Durability
+-   Pure Heart - Template:Cost / **200 Durability**
 
 ### Galebreath
 
--   [Gale Kata](Training_Gear.md#attunement-training-gears) - **25 Notes** / 200 Durability
+-   [Gale Kata](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 Durability**
 
 ## Trivia
 

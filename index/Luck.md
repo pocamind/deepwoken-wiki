@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 13380
+revid: 13489
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,7 @@ Killing something that provides you with Luck will cause "shining" noise and has
 
 ### From Players
 
-Gripping a player will steal their luck (roughly ~50% of their own luck + base amount), if:
+Gripping a player will steal their luck (Luck/2 + 1), if:
 
 -   The victim is at least Power 10. _(if above power 10)_
 -   The victim is outside of a town.(_if below Power 30)_
@@ -46,7 +46,7 @@ Killing the following Boss NPCs will provide you with luck:
 
 -   Snow Knights
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Sea Dragon](Murmur%253A_Ardour.md)
+-   [Dread Serpent](Murmur%253A_Ardour.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 
@@ -69,4 +69,5 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
--   Luck doesnt affect Chest drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
+-   Luck does **NOT** affect Chest drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
+-   Gripping a player for luck can be a viable strategy in the short term, but because corrupted monsters and bosses have set patterns, can drop chests with lots of items, and can be easily found with practice and experience, it is more viable to farm luck off them in the long term.

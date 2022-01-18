@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 13373
+revid: 13515
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters]
 
 # Deep Owl
 
-_Also known as Black Owls, Giant Owls, Owls, Tyrone, and The Lineage Destroyer._
+_Also known as Black Owls, Giant Owls, Owls_
 
 ## Description
 
@@ -47,7 +47,7 @@ Even though the dialogue ended, the owl will not attack you unless you attack th
 
 **Finisher**
 
--   **Literal Grip** - One quick crush to the torso.
+-   **Claw Crush** - One quick crush to the torso.
 
 ## Strategy
 

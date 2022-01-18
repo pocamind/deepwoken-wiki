@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 12993
+revid: 13516
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,24 +8,20 @@ categories: [Monsters]
 
 # Terrapod
 
-Template:Creature Infobox V3
-
-> _"It's your pet- the frickin' HEADHUMPER!" - Barney Dusselden_
-
-_Also known as Crabs, Small Crabs, Headcrabs, and Turtles._
+Template:Creature Infobox V3 _Also known as Crabs, and Small Crabs._
 
 The Terrapod is a monster in Deepwoken notorious for shredding health quickly and for having very high mobility.
 
 ## Description
 
-Terrapods are purple and have 4 legs with sharp claws on each leg. They have a hard shell on top, with a mouth on the bottom for eating victims. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. It has the resemblance to a headcrab from the Half-Life series.
+Terrapods are purple and have 4 legs with sharp claws on each leg. They have a hard shell on top, with a mouth on the bottom for eating victims. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation.
 
   
 
 ## Moves
 
 -   **Relentless Strikes** - The Terrapod rapidly attacks anything in its path, including the air, until it gets tired.
--   **Quick Slice** - The Terrapod does a singular slice at it's opponent and retreats to recover. (Rare)
+-   **Quick Slice** - The Terrapod does a singular slice at it's opponent and retreats to recover.
 
   
 
@@ -35,6 +31,6 @@ Terrapods are pretty mindless as they follow the same pattern and repeat the sam
 
 ## Notes
 
--   Strange Claw is used in some armors, and can be sold for a decent amount of notes.
--   Terrapods can be recognized by the slashing sound they make each time they attack.
--   You **can't** sneak up on Terrapods
+-   Strange Claw is used in armors, and can be sold for a decent amount of notes.
+-   Terrapods can be recognized by the loud slashing sound they make each time they attack.
+-   You **can't** sneak up on Terrapods.
