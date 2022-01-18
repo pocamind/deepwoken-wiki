@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 12628
+revid: 13380
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -68,5 +68,5 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 ## Notes
 
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
--   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players when you're significantly higher level unless you are just that toxic, or are acting in self defense.
+-   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
 -   Luck doesnt affect Chest drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch

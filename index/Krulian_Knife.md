@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 13332
+revid: 13369
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons]
 | scaling | 10 LHT |
 | range | 6.5 |
 | swing speed | 1.05x |
-| penetration | N/A |
+| penetration | 25% |
 | stances | 1 Handed |
 | selling price | 150 Notes |
 | weight | 3 |

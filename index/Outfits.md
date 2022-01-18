@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13347
+revid: 13389
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -33,6 +33,8 @@ Armor items can have their stats and appearance combined at the Underground Aren
 Armors cannot be purchased, and must be obtained in enemy drops or chests. Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
 
 Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
+
+Armors can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats.
 
 ## Repairing your Outfit
 
@@ -1020,7 +1022,11 @@ File:Golden Cape.png
 | 
 File:Autumn pauldrons.png
 
- | Autumn Pauldrons | Placeholder | Chests |
+ | Autumn Pauldrons | +20 Ether
+
++6 Health
+
+ | Chests |
 |   
 
 File:Black Fur Pauldrons.png
@@ -1065,7 +1071,13 @@ File:Simple Pauldrons.png
 
 File:Vanguardbrace.png
 
- | Vanguard Brace | Placeholder | Chests |
+ | Vanguard Brace | +20 Reservoir
+
++9 Health
+
++1 Posture
+
+ | Chests |
 | 
 
 File:Glassdancer wraps.jpg
@@ -1212,7 +1224,11 @@ File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with n
 
 File:Dazedband.PNG
 
- | Dazed Band | Flourishing an opponent has a 50% chance to stun them. | Depths Chests (I got 1 from private event) |
+ | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
+
+_Requires Power Level 10_
+
+ | Depths Chests (I got 1 from private event) |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |  |
 |  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bed reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests (as far as i
 

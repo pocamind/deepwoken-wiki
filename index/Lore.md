@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 13267
+revid: 13386
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -240,10 +240,10 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 A Dark Mage, located in Minityrsa.
 
-### The Contractors
+### The Whalers
 
 -   **Territory:** _Unknown_
--   **Encountered In:** _Aratel Sea_
+-   **Encountered In:** _Aratel Sea, Erisia_
 -   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
@@ -332,8 +332,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Enemies:** _None_
 -   **Lore Sources:**
     -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
-    -   Claim to be a link between surface dwellers and "The Gods Below"
-    -   Also claims to be the next step in evolution
+    -   The Ferryman, the only confirmed Krulian, says that Krulians are the next step in the evolutionary chain and that they are the closest link between the people of the surface and the gods below.
 
 ## Attunement Lore
 

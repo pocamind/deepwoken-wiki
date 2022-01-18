@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 13329
+revid: 13365
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Overview
 
-Template:AreainfoboxThe Void Sea is one of the main areas in Deepwoken. It is speculated to be an ecological deadzone, where some vicious sea creatures reside. it is incredibly easy to stumble into during travelling. It covers a fairly large part of the sea and can appear out of no where so while going long distances be very careful. There is actually two different sections of Voidsea that has been discovered so far, a patch behind The Isle Of Vigils, and a patch to the side of Minitrisya.
+Template:AreainfoboxThe Void Sea is one of the main areas in Deepwoken. It is speculated to be an ecological deadzone, where some vicious sea creatures reside. it is incredibly easy to stumble into during travelling. It covers a fairly large part of the sea and can appear out of no where so while going long distances be very careful. There is actually two different sections of Voidsea that has been discovered so far, a patch behind The Isle Of Vigils, and a patch to the side of Minityrsa.
 
 ## Description
 

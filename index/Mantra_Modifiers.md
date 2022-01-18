@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13296
+revid: 13385
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -92,7 +92,8 @@ File:Screenshot 2021-12-28 152413.png
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
--   Crafted with Amnesic Driftwood and Drift shard.
+-   ~Crafted with Amnesic Driftwood and Drift shard.~
+-   Crafted with Cloudstone and Crystal lens.
 -   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
  |
@@ -100,7 +101,8 @@ File:Screenshot 2021-12-28 152413.png
 
  | Magnifying Stone | Likely same as Glass Stone.
 
--   Crafted with a Amnesic Driftwood and a Rush Shard
+-   ~Crafted with a Amnesic Driftwood and a Rush Shard~
+-   Crafted with a Stratus Stone and Perfect Lens
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
@@ -295,7 +297,6 @@ also looks identical to falseflame.
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
-    -   Glass Stone is made by crafting a **Amnesic Driftwood** and **Drift Shard** together. If their improved variants (**Amnesic Driftwood** and R**ush Shard**) are combined, you get a Magnifying Stone.
 -   The 5 blue Disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
 -   **1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.

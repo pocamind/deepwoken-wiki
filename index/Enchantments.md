@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 13343
+revid: 13411
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -57,7 +57,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>M1 connections have a small chance to deal three times damage to the opponent. However, it also has a five percent chance (?) to deal significant damage to the user. The weapon is invisible on the players back.</p></div></td>
+  <td><div><p>M1 connections have a good chance to deal three times damage to the opponent. However, it also has a 1 percent chance (?) to deal small damage to the user. The weapon is invisible on the players back.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -138,7 +138,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals their armor as well.</p>
+  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals their armor as well. Also does more damage to posture.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -156,7 +156,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (not true, needs to be worked on. Would appreciate if someone knew what it did)</p>
+  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (not true, needs to be worked on. Would appreciate if someone knew what it did) (i got a stone and its definitely not this. from my testing it doesn't increase posture dmg and its not what the wiki says )</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-swim faster in water
+2x dmg in depths and speed boost
 
   
 

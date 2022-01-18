@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 12321
+revid: 13412
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,10 @@ This page has the discovered quests in the game, how to complete them, and where
 
 Korin (Money/Wood Quest): Korin is an NPC within Etris that can be found by the entrance to the Etrean Wild.
 
+Korin, in Etris
+
 Drefa (Money/Wood Quest): Drefa is an NPC within Isle of Vigils that can be found by the Antiquarian/Bank near a fallen tree.
+
+Drefa, in Isle of Vigils
 
 Quest: Start the quest by talking to Korin/Drefa and selecting the "Yeah. \[Obtain Axe\]" dialogue option. They will give you a free Lumber Axe. You can then give them 10 Wood in exchange for 5 Notes. This quest can be repeated.

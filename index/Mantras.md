@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 13205
+revid: 13360
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -37,6 +37,16 @@ _**Attunement-less Mantras:**_ There are also Mantras that are based off of othe
 Mantras can be modified by recalling them at a campfire, and then placing them on a mantra table which are located in mantra shops. To modify a mantra, place the mantra onto the mantra table and add ingredients. Ingredients that can modify a mantra have a purple background in the inventory.
 
 Modification can fail when you have placed incompatible ingredients on the table. And when modification fails, the mantra placed will return to your inventory, however the ingredient(s) will be lost.
+
+## Upgrading your Mantras
+
+All Mantras can be upgraded from their respective element and trainer. Albeit Strength, Flamecharm or Willpower- As long as you have the points allocated into them.
+
+There are 5 Mantra Levels you can have, starting from Level 1 to Level 5.
+
+Level 1: Novice (~25) | Level 2: Adept (25+) | Level 3: Expert (50+) | Level 4: Master (75) | Level 5: Legendary (100)
+
+For every 25 points in the required Attribute, you are able to upgrade Mantras based on that Attribute.
 
 ## How can I get a Mantra?
 

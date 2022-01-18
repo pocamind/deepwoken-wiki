@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 12777
+revid: 13409
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -83,7 +83,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
 -   Unlocks Agility-related Talents, depending on the Character's Agility. Most of them also grant Passive Agility, which is not displayed on the attribute tab but grant improvemed movement normally.
 -   Gain Agility EXP via Parkour(such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
--   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 agility. (Might require an oath too?)
+-   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 agility. ~(Might require an oath too?)~ doesn't require an oath. However someone should get all agility related talents and try talking to him
 -   Possibly gonna give an agility oath in the future.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
 
@@ -91,7 +91,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 “ What's 9 + 10? ”
 
-― Etrean questioning a rather large-brained Felinor
+― Etrean questioning a rather inept Felinor
 
   
 
@@ -117,7 +117,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Willpower affects your Attunement's Damage slightly per Willpower.
--   Gain Willpower EXP via Foraging and fighting Monsters. It will also passively increase in [The Depths](The_Depths.md).
+-   Gain Willpower EXP via Foraging, fighting monsters, and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
 -   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength and 75 willpower.
 
 ### Charisma

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 13282
+revid: 13373
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -74,6 +74,8 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key.
   
 
 ## **Notes/ Tips**
+
+-   Feared by lower level player. Hunted by high level player
 
 -   Always parry its Talon Swipes.
 -   When it uses Flock of Feathers, you can get easy parries.

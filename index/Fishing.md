@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 12934
+revid: 13401
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -21,6 +21,8 @@ Another thing about fishing is bait. To equip bait, hold out your fishing rod an
 Fishing levels your willpower, fortitude and possibly intelligence? Though that might just be because you're getting new items.
 
 After you catch a fish once, you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line.
+
+There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. (i didnt have to successfully catch a fish to get this, just a couple failed attempts. -rexcks#5029)
 
 ## Fish
 

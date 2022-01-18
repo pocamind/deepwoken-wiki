@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13325
+revid: 13405
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -495,6 +495,9 @@ Hand of Mantra Cards
 -   Jumper Cables \[Generic Talent, Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
     -   Prerequisite: Static Link
 -   Link Conduction \[Generic Talent, Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
+    -   Prerequisite: Static Link
+
+-   Static Ace \[Generic Talent, Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link. (+4 Ether, +4 Reservoir)
     -   Prerequisite: Static Link
 
 ### Stormblade

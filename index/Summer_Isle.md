@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 13270
+revid: 13362
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -55,9 +55,7 @@ First, talk to Trig at a nondescript building (the inn/ guildhall):
 
 File:RobloxScreenShot20211227 094500945.png
 
-Asius will be here, and you have two quest dialogue options. One to go back and tell Trig you won't get money, in which case 3 guards with flintlocks will spawn and attack you whenever you talk to Trig. For the second dialogue, you take papers from Asius to deliever to Trig as payment. Upon delievering the papers to Trig he will thank you and give you a reward (reward untested, although by the dialogue it implies that he unlocks gun teachniques).
-
-There is also a chance for red crates to spawn around the island. You can turn in these crates to Scope, an NPC sitting in a tower near the blacksmith. Upon talking to Scope while holding a crate he will thank the player and a chest will spawn. The chest can contain low to mid tier loot, making this a great way to get good armor quickly.
+Asius will be here, and you have two quest dialogue options. One to go back and tell Trig you won't get money, in which case 3 guards with flintlocks will spawn and attack you whenever you talk to Trig. For the second dialogue, you take papers from Asius to deliever to Trig as payment. Upon delievering the papers to Trig he will thank you and give you a reward. The reward being the Gun Technique, which gives to your gun. (If it's in your main hand) The ability is to shoot critical shots by pressing R. There is also a chance for red crates to spawn around the island. You can turn in these crates to Scope, an NPC sitting in a tower near the blacksmith. Upon talking to Scope while holding a crate he will thank the player and a chest will spawn. The chest can contain low to mid tier loot, making this a great way to get good armor quickly.
 
 File:Red Crate.png
 

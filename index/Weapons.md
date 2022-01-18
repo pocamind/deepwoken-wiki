@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13335
+revid: 13397
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -63,7 +63,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Stiletto</td>
+  <td><a href="Stiletto.md">Stiletto</a></td>
   <td>0 LHT</td>
   <td>10</td>
   <td>LHT: 1</td>
@@ -441,7 +441,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>FIR: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td>Hero Blade of Lightning*</td>
@@ -451,7 +451,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>THD: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td>Hero Blade of Frost*</td>
@@ -461,7 +461,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>ICE: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td>Hero Blade of Wind*</td>
@@ -471,7 +471,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>WND: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td>Hero Blade of Shadow*</td>
@@ -481,7 +481,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>SHD: 6</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
