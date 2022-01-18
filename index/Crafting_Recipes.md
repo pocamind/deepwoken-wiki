@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 13382
+revid: 13472
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -78,7 +78,8 @@ Certain foods, usually the more complicated one/which require more work to obtai
 
 ## Alchemy
 
-**Main Article: [Alchemy](Alchemy.md)**  
+**Main Article - [Alchemy](Alchemy.md)**
+
 The potions listed in this section will all work, though there are some inaccuracies and not all effects are listed. For the most accurate known information, use the main page.
 
 Potions are made with the use of a cauldron. One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. As of currently, only the Etris one is functional.
@@ -87,7 +88,7 @@ Potions are made with the use of a cauldron. One can be found in Etris, right of
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
 -   Adding more of one ingredient to a single ingredient potion adds to it's strength. You can add up to 3.
 -   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, I've fixed this page up a lot)
--   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 2 talents: Apothecary (stronger beneficial potions) and Exterminator (stronger negative potions).
+-   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 3 talents: Apothecary (stronger beneficial potions), Exterminator (stronger negative potions) and Wild Alchemy (Has a chance to double the ingredients in a potion when mixing).
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
@@ -315,4 +316,5 @@ _**Negative**_
 -   Sadly, you cannot use the Graceful Flame Mantra (Flamecharm exclusive) to cook Food.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
--   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.
+-   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health. (Unless you have the Potion Quaffer talent)
+-   There are a few modifier ingredients you can add that are not listed here, such as redds, sticks, and beeswax. These can increase various effects. Making an invigorating elixer with 3 goblettos and 2 redds is excellent healing.

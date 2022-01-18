@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 12377
+revid: 13476
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,13 @@ categories: [Monsters]
 
 # Rock Golem
 
-Template:Creature Infobox V3
+“ Ive fought Golems from Rogue! This will be easy! ”
 
-_Also known as Golems, Spinners, and Hugo. Rock Golems are The Duke's Creations, meant to protect Erisia Island._
+― Perished Foreigner.
 
-_"Ive fought Golems from Rogue! This will be easy!" - Long dead person._
+Template:Creature Infobox V3_Also known as Golems, Spinners, and Hugo._
+
+_Entities apart of The Duke's Creations, meant to protect Erisia Island._
 
 ## Description
 

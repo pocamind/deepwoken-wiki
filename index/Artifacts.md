@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 8987
+revid: 13447
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -29,7 +29,7 @@ An Adret carrying a piece of The Forge.
   
 Rewards
 
--   400-1000 Notes
+-   \[[\[1\]](Tel:400-1000%7C400-1000)\] Notes
 -   10 Common to Rare Items, including:
     -   Armor Blueprints
     -   Weapons
@@ -40,7 +40,7 @@ Locations & Hints
 
 -   Erisia Island
     -   The Viper's Fangs
--   A loud, pulsating noise with large Purple Rings flying upwards away from the artifact's vacinity.
+-   A loud, pulsating noise with large Purple Rings flying upwards away from the artifact's vicinity.
 
 A Celtor finding the pulsating rings.
 
@@ -58,3 +58,4 @@ A Celtor finding the pulsating rings.
 
 -   The Piece of the Forge Artifact used to sell for 800 Notes.
 -   They despawn after 1 hour if not picked up
+-   Be careful when bringing this to the bank. Most of the time when players see you with this, they will try to kill you so they can get their hands on the Artifact, since it gives very good rewards. Stay out of sight, and stay safe.

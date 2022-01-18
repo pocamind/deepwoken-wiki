@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13385
+revid: 13478
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -288,7 +288,7 @@ also looks identical to falseflame.
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
--   This modifier makes the _Fire Blade_ Mantra break destructible objects.
+-   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. FIre Blade can destroy objects without Tornado Spark.
 
 #### Spring Spark
 

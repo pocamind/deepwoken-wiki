@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 13386
+revid: 13473
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -231,7 +231,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _Minityrsa, Summer Isles_
 -   **Attunements:** _Shadowcast_
 -   **Alliances:** _The Contractors (Neutral)_
--   **Enemies:** _The Navaen Nomads_
+-   **Enemies:** _The Navaen Nomads, Summer Company_
 -   **Lore Sources:**
 
 -   A group of dark mages with unknown motives. Further research is required.

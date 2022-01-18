@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 13409
+revid: 13477
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -46,15 +46,9 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ### Fortitude
 
-“ This Gobletto bussin'! \*Pukes everywhere\* ”
+“ Nanomachines, son. They harden in response to physical trauma. You can't hurt me, Jack! ”
 
-― Nameless Khan
-
-“ I AM BULLET PROOF! ”
-
-― -Chunky Vesparian about to A-pose on a Felinor
-
-  
+― MGR Armstrong
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly per Fortitude.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
@@ -192,9 +186,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-“ Mmmph hrmhph umpph? ”
+“ KILL IT! KILL IT! KILL IT WITH FIRE! ”
 
-― Adret Pyromancer with an Iron Mask
+― Ganymede Pyromancer, fighting a [Deep Widow](Deep_Widow.md).
 
   
 

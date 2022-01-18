@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 10902
+revid: 13468
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -117,6 +117,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   The Navaen Nomads
 -   Summer Company (You can only have neutral and negative reputation)
 -   The 11th Legion/The Empire
+-   Greathive Aratel
 
 ### Non-Reputable Factions
 

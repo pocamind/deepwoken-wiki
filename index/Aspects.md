@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 13393
+revid: 13465
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,9 +38,8 @@ These races are owned by only a few specific people.
 ## Notes
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player.
-    -   **SOME** NPCs may also treat the player differently depending on their race; however, this cannot be solved by Charisma.
+    -   **SOME** players may also treat the player differently depending on their race; however, this cannot be solved by Charisma.
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
--   All races will only give the player a small number of boosts, or maybe a head-start at best, meaning that to survive, the player _must_ be skilled, and cannot simply rely on their race's abilities to carry them through the game.
+-   All races will only give the player a small amount of boosts, or maybe a head-start at best, meaning that to survive, the player _must_ be skilled, and cannot simply rely on their race's abilities to carry them through the game.
     -   Most races does not even give the player any combative boosts, the boosts exist mainly for utility.
-
--   A new character slot for 200 will randomize the race on that character, your previous race does not carry over.
+-   Purchasing a new character slot for 200 will randomize the race on that character. The player's previous race on another character does not carry over.

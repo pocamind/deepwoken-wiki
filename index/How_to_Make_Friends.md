@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 13275
+revid: 13462
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,38 +8,47 @@ categories: [Pages with broken file links]
 
 # How to Make Friends
 
-**Overview**
+## Overview
 
-How to Make Friends is a training tool used to increase your **charisma**. It can be found in bookstores, and costs 25 Notes. In order to train your Charisma, you must recite the provided dialogue that appears at the top of your screen.
+[How to Make Friends](https://deepwoken.fandom.com/wiki/How_To_Make_Friends) is Training Gear used to increase your **charisma**. It can be found in bookstores, and costs 25 Notes. In order to train your Charisma, you must recite the provided phrase that appears at the top of your screen.
 
-**Usage**
+At around **10-20 points of Charisma**, you may start getting Charisma talents. Starting at **40 Charisma**, you can get Vow of Mastery. At **40 Charisma** and beyond, you can get Charisma mantras, such as Sing or Taunt.
 
-In order to succesfully use How to Make Friends, select the item in your inventory and click. You must then type out the sentence provided word for word, ~including punctuation and capitalization.~ You do NOT need to capatalize or use punctuation. It's recommended to do it around NPCs or other players in order to increase your charisma faster.  
+## Usage
+
+In order to successfully use [How to Make Friends](https://deepwoken.fandom.com/wiki/How_To_Make_Friends) and level up your Charisma, select the item in your inventory and click. A text will appear on your screen, saying: "Try some small talk with someone nearby, (Phrase)". You must then stand next to an NPC / Player and type out the **Phrase** provided, word for word. You do _not_ need to capitalize letters or use punctuation, _however_ if you mispronounce a word (Example: "Restuarant"), you will **not** gain your Charisma.  
 
 File:Tempsnip.png
 
 **LOCATION in Etris**
 
-**Phrases**
+## Phrases
 
-Me-wow, is that the latest Felinor fashion?
+The phrases you need to recite near an NPC or player are listed below.
 
-So, what's keeping you busy these days?
-
-Hey hivekin, can I bug you for a moment?
-
-So, how's work?
-
-Wow, this breeze is great, right?
-
-Sometimes I have really deep thoughts about life and stuff.
-
-Some weather we're having, huh?
-
-You ever been to a Canor restaurant? The food's pretty howlright.
+-   Me-wow, is that the latest Felinor fashion?
+-   So, what's keeping you busy these days?
+-   Hey hivekin, can I bug you for a moment?
+-   So, how's work?
+-   Wow, this breeze is great, right?
+-   Sometimes I have really deep thoughts about life and stuff.
+-   Some weather we're having, huh?
+-   You ever been to a Canor restaurant? The food's pretty howlright.
 
   
 
 ## Notes/Trivia
 
--   There were some quotes that gotten Player's accounts deleted from ROBLOX because it thought they were Online Dating or attempting to get Personal Information. As of 12/27/2021, some of the lines in the "How to Make Friends" Book are removed.
+-   Many of the phrases in How To Make Friends are really corny and often reference a race.
+-   For example, Hivekin refers to the [Vesperian](Vesperian.md) race (as they are beetles.)
+-   You may get **Charisma** faster when reciting phrases next to an NPC, not a player. (Not tested)
+-   It is not usually recommended to type out the phrases yourself, you may simply open up Notepad and put the phrases in, then CTRL + C CTRL + V them when needed.
+-   Farming **Charisma** is a lot faster than levelling up with the Instructor or at [Lower Erisia](Lower_Erisia.md).
+-   Unlike **many other stats**, **Charisma** can be trained to max very fast, due to the method of farming Charisma which is significantly easier than chopping down trees or solving math problems, for example.
+-   There were some phrases that got people's accounts deleted from ROBLOX, because the moderation thought they were _Online Dating_ or attempting to get _Personal Information_. As of 12/27/2021, some of the lines in the "How to Make Friends" book are removed. Some removed phrases will be listed **below** Notes/Trivia.
+-   The [Gremor](Gremor.md) race was once mentioned in a phrase of How To Make Friends, but it is now removed.
+
+## Removed Phrases
+
+-   You doing anything next week? Because I'd like to see you greMORE.
+-   So, you doing anything on the weekend?
