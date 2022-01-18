@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 12432
+revid: 13434
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,10 +16,6 @@ The Voidheart is a location that is rumored to be a dev area, but, as of now, it
 
 ## Rumors
 
-The World Serpent is a sea beast rumored to spawn in the Voidheart, but this hasn't been proven or disproven
+_The World Serpent_ is a boss rumored to spawn in Voidheart. There is no evidence pointing towards this, nor any denying its existence.
 
-  
-
-In the potential dev area of the old map, bringing a black feather there gives lore?? (Please prove this)
-
-Bringing a void feather. You need it in your hot bar slot 1, doing this will show the people in the trails talk about you going far out in search of their power. You will be granted a talent called "endless" it's unknown what comes next though (Also please prove this)
+Bringing a void feather to Voidheart will reveal some lore, with the Depths Trials voices talking and a talent called endless unlocked. This has been proven false by many people.

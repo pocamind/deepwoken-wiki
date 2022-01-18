@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 12464
+revid: 13439
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,26 +14,18 @@ An adert using Ardour: Murmur
 
 ## Description
 
-Murmur is a channeling of song into various abilities, called Murmurs only two are known of "Tacet" and "Ardour" gained from killing or doing
-
-the respective quests.
+Murmur is a channeling of song into various abilities, called Murmurs only two are known of "Tacet" and "Ardour" gained from killing or doing the respective quests.
 
 **You can hear whispers while the Murmur is active.**
 
-## Murmurs & obtaining
+## Murmurs & Obtaining Them
 
 -   Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
--   Tacet: currently unknown (THIS IS A MURMUR NOT A MYTH)
+-   Tacet: Obtained by talking to a very rare NPC
 -   Rythm: Speculated _(Someone said it was confirmed by a mod unknown if fact)_
 -   Ardour Scream dropped as a talent card after unlocking Murmur: Ardour
 
-File:Tacet.png
-
-**proof of tacet, (devconsole warning/error)**
-
-  
-
-  
+The Tacet NPC  
 
 ## Murmur Talents
 
@@ -58,6 +50,13 @@ File:Tacet.png
   <td>Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)<p><br>
   [Provides +9 Sanity, +1 Posture, +3 Health]</p></td>
   <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether. It also acts similar to Megalodaunt Roar, inflicting Insanity and a Combat Tag on nearby players.</td>
+</tr>
+<tr>
+  <td><figure><figcaption><p>Murmur: Tacet</p></figcaption></figure></td>
+  <td>Tacet</td>
+  <td>An application of the Song that enables the user to suppress their own Murmur. Press T while crouched.<p><br>
+  [Provides +4 Ether, +2 Passive Agility, +1 Health]</p></td>
+  <td>Turns the user invisible, similar to the <a href="https://deepwoken.fandom.com/wiki/Resonance#Portal_Travel">Portal Travel Resonance</a>.</td>
 </tr>
 </tbody>
 </table>

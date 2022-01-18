@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13405
+revid: 13432
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -120,7 +120,6 @@ Hand of Mantra Cards
 ### Athlete
 
 -   Triathlete \[Generic Talent, Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
-    -   Prerequisites: Agility
 -   Heavy Lifting \[Generic Talent, Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   Prerequisites: Strength
 -   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+1 Carry Load, +1 Passive Agility, +3 Health)
@@ -841,6 +840,12 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Alchemist
 
 -   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the Sceptic Pioneer Outfit)
+
+**Prophet's Cloak**
+
+-   Crippling Darkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
+
+  
 
 ## Notes/Trivia
 

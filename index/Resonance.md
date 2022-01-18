@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13327
+revid: 13440
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -51,7 +51,7 @@ TLDR:
 
 ### Corrupted Resonance
 
-Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhance a Resonance's ability, said to be **4x** stronger than the original, but it has a downside as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
+Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhance a Resonance's ability, said to be **?x** (used to be 4x) stronger than the original, but it has a downside as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
 
 Currently known debuffs - Insanity on use, health loss on use, set on fire when used.
 
@@ -216,7 +216,7 @@ Reaper Variation 2.
 
 ### **Jar of Souls**
 
--   Upon killing a player or NPC around your level, you absorb their soul.
+-   Upon killing a player or NPC, you absorb their soul.
 -   Having a soul allows you to hold a beam which deals high damage over time.
 -   Notes:
     -   This bell is pretty common and requires you to farm NPCs to be used, so rerolling it should be considered.

@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 12543
+revid: 13416
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,7 +36,7 @@ Main Page: [Quests](Quests.md)
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
 -   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
 -   Stratos is located near the water fountain in the Temple of the Blades.
--   Gives 25 [Notes.](Notes.md)
+-   Upon completion he gives you 25 [Notes.](Notes.md)
 
 ### Etrean Swordsman Quest
 
@@ -46,14 +46,14 @@ Main Page: [Quests](Quests.md)
 
 ### A Lost Sibling Quest
 
-_You must have a galestone in order to complete the quest._
+_You must have a galestone in order to complete the quest (a glider can also be useful for going down from high heights, just be careful for acid rain as it is common in Upper Erisia and that it can destroy your glider while in the air ) ._
 
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the right corridor room; sitting down sobbing.
 -   He asks you to rescue, or find his sibling in Erisia.
 -   His sibling is found in an Abandoned Wood Lodge in Burning Stone Gardens, near a cliff where the Glowing Trees are.
 -   Give the Galestone to the sibling, healing his wounds. He asks you to head back to Isle of Vigils and talk to Kj about his status.
 -   Talking to Apprentice Kj after giving the galestone finishes the quest.
--   Rewards of this quest allows you to talk to Maestro, an NPC to unbound your Weapon Proficiencies, if their 75.
+-   Rewards of this quest allows you to talk to Maestro, an NPC to unbound/uncap your Weapon Proficiencies, if their 75.
 
 ### Lumberjack Quest
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13389
+revid: 13421
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -1210,7 +1210,11 @@ Can be sold for 10 Notes.
  | Mudskipper cave event chest |
 | 
 
- | Bloodiron Ring | Grants the ability to recover Armor durability per kill. | Depths Chests (I got one of these from the pirate event too) |
+ | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
+
+_No Power Level Required_
+
+ | Depths Chests (I got one of these from the pirate event too) |
 | File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests (I got a ring of wisps from the pirate event in the aratel sea) |
 | 
 
@@ -1219,7 +1223,11 @@ Can be sold for 10 Notes.
 File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
 | 
 
- | Heavy Hands Ring | Reduces M1 speed for increased posture damage. | Depths Chests |
+ | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
+
+_No Power Level Required_
+
+ | Depths Chests |
 | 
 
 File:Dazedband.PNG

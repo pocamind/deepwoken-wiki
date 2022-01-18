@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 13263
+revid: 13425
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,7 +31,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Moves
 
 -   **Slash** - A short range slash. Blockable and parriable. Heavy posture damage.
--   **Kick** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block, but can be dodged.
+-   **Watch Yo Tone** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block, but can be dodged.
 -   **Jump** - If the target is above it, the Meglodaunt can jump, which incurs a multi-hit attack in a wide radius in front of it. Blockable and parriable (this attack may be used after a kick unintentionally since you will be above it at some point while flying through the sky).
 -   **Spit** - A multi-hit projectile targeted at a single target. Blockable and parriable.
 -   **Roar** - Can roar at nearby targets, placing them in combat and inflicting a generous amount of insanity. A poor move in the etrean luminant but especially deadly in [The Depths](The_Depths.md), as an unaware player might suffer from insanities effect much earlier than expected, or worse, mid fight.
@@ -52,7 +52,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 
 ## Tips to Defeat
 
--   Megalodaunts don't always do the same attack patterns in a certain order so you cannot always predict what move it will through out next
+-   Megalodaunts don't always do the same attack patterns in a certain order so you cannot always predict what move it will throw out next
 -   Attack patterns/combos
     -   Slash + Slash consecutively. Easily parried. 90% of the time will throw out a kick about 3 seconds after but rarely it will do another slash then a kick right after. Be wary because if you dodge the swipe you won't because to dodge the kick after. After the beginning two slashes, you have time to late two hits with any weapon and possibly 3 before you have to dodge or parry.
     -   Slash + a move. 50% of the time the megolodaunt will kick a second after doing a single slash, but the other 50% of the time it will do a slash a second after doing the original slash. If it does a second slash it will always do a kick a second after. Be wary as if you dodge a slash expecting a kick then you will be kicked because your dash would be on cool down.
@@ -66,16 +66,16 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Trivia & Notes
 
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
--   Do **not** run from a Megalodaunt unless you find a house/cavern that is too small for it to enter. It will result in your demise, and is futile.
+-   Do **not** run from a Megalodaunt unless you find a house/cavern that is too small for it to enter. It will result in your demise, and is futile. (Even then, it can still keep you in combat by attacking you if you are close).
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.
 -   It is advised to get at least [Adept Armor](Outfits.md) and Power Level 15+ in order to fight one, unless the player is aware of the parry patterns.
 -   Common slang terms of Megalodaunt include Sharko, Megalodon, Gary, Jerry, Big Guy, Hugo, and Liam.
 -   If a Megalodaunt has the player as a target, it's best if the player blocks, dodges, or parries some of its moves, then try to roll away from it.
     -   Moves such as Thousand Needles and Spit is however semi-impossible to avoid, as it covers a good AoE.
--   The player's camera shakes more the closer a Megalodaunt is to them character, due to his footsteps.
+-   The player's camera shakes more the closer a Megalodaunt is to their character, due to his footsteps.
 -   It's always recommended to perfectly dodge the Kicks.
     -   However, the player may also parry them if they have the [Hunter's Brace](Outfits.md#arms) equipped.
--   After parrying its Palm Bust, block for a second, to see if it slaps again, and then react to its next move.
+-   After parrying its Palm Bust, block for a second to see if it slaps again, then react to its next move.
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant Type enemies, the Meglodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
 -   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xy](https://www.youtube.com/watch?v=IwVD8iw7Xy)
