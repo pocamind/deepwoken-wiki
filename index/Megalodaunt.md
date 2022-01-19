@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 13514
+revid: 13592
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Megalodaunt
 
-Template:Creature Infobox V3 _Also known as Shark(s) and Sharko(s)._
+Template:Creature Infobox V3 _Also known as Megalodaunt(s), Shark(s), Ugo(s) and Sharko(s)._
 
   
 
@@ -62,7 +62,7 @@ Upon being killed, it drops his Hide. (Use five of these to unlock a boss fight 
 ## Trivia & Notes
 
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
--   Do **not** run from a Megalodaunt unless you find a house/cavern that is too small for it to enter. It will result in your demise, and is futile. (Even then, it can still keep you in combat by attacking you if you are close).
+-   DO **NOT** RUN FROM ONE OF THESE UNLESS YOU FIND A PLACE IT IS TOO TALL TO ENTER, FOR IT IS **FUTILE** AND **WILL** RESULT IN YOUR DEMISE!
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.
 -   It is advised to get at least [Adept Armor](Outfits.md) and Power Level 15+ in order to fight one, unless the player is aware of the parry patterns.
 -   If a Megalodaunt has the player as a target, it's best if the player blocks, dodges, or parries some of its moves, then try to roll away from it.

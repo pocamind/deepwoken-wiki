@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 13509
+revid: 13702
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -26,7 +26,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be both parried and perfect dodged.
 -   **Punt**\- Primadon winds back it's **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's fling kick. Can only be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and perfect dodged.
--   **Posture Break** - During this time period, primadon gets staggered and **can** be hit by mantra attacks.
+-   **Posture Break** - During this time period, Primadon gets staggered and **can** be hit by mantra attacks.
 
 ## Rewards
 
@@ -41,6 +41,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
     -   They also make a whooshing sound every time they are raised, adding on to the _obvious_ factor of his attacks.
     -   These factors combined allow you to **completely autopilot** the fight with muscle memory.
 -   Primadon's health does **not** scale with the amount of players present on the island- you are instead given 10 minutes to kill this beast. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
+-   Primadon is extremely likely to use **Punt** when he follows up one or multiple **Triple Stomps** with a regular **Stomp**. Predicting **Punt** and readying to perfect roll greatly increases your chances of success.
 -   The footsteps of Primadon play a loud, noticeable noise that can be heard from very far, from the beach to even nearby islands. Use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the players (or _singular, solo_ _player_) fighting this fishy ape.
 -   It is recommended to stay completely still while fighting to avoid being confused by Primadon's walking animation, along with avoiding attacks like Grab and Punch from being triggered.
     -   If multiple players are attacking the Primadon at the same time, make sure that they're all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.

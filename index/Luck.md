@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 13489
+revid: 13655
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -71,3 +71,4 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower leveled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
 -   Luck does **NOT** affect Chest drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
 -   Gripping a player for luck can be a viable strategy in the short term, but because corrupted monsters and bosses have set patterns, can drop chests with lots of items, and can be easily found with practice and experience, it is more viable to farm luck off them in the long term.
+-   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses and corrupted monsters. Keep this in mind while progressing.

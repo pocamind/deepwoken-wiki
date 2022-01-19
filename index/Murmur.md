@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 13453
+revid: 13638
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,16 +14,16 @@ An adert using Ardour: Murmur
 
 ## Description
 
-Murmur is a channeling of song into various abilities. Only three known Murmurs are "Tacet", "Ardour" and "Scream". They are gained from killing or doing the respective quests.
+Murmur is a channeling of song into various abilities. The two known Murmurs are "Ardour" and "Tacet". They are gained from killing or doing the respective quests.
 
 **You can hear whispers while the Murmur is active.**
 
 ## Murmurs & Obtaining Them
 
 -   Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
+-   Ardour: Scream is obtained by a talent card after unlocking Murmur: Ardour
 -   Tacet: Obtained by talking to a very rare NPC
 -   Rhythm: Speculated _(Someone said it was confirmed by a mod. Unknown if true)_
--   Ardour: Scream is obtained by a talent card after unlocking Murmur: Ardour
 -   Adagio: Almost nothing is known about this Murmur. The speculated way to obtain this is by killing the World Serpent.
 
 The Tacet NPC  
@@ -44,7 +44,7 @@ Tacet NPC
   <td>Ardour</td>
   <td>An application of the Song that enables one to channel the Murmur into raw strength. Press H.<p><br>
   [Provides +5 Sanity, +9 Carry Load]</p></td>
-  <td>Provides a buff to your current weapon that boosts Posture Damage. Great for NPCs (due to the fact that if they dont parry they almost immediately get guardbroken.) and Bosses/Monsters (due to the fact that it deals more damage towards a posture break.)</td>
+  <td>Provides a 15% posture damage buff. Great for NPCs (due to the fact that if they dont parry they almost immediately get guardbroken.) and Bosses/Monsters (due to the fact that it deals more damage towards a posture break.)</td>
 </tr>
 <tr>
   <td><figure><figcaption><p>Murmur: Ardour Scream</p></figcaption></figure></td>

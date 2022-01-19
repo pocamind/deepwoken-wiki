@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13533
+revid: 13637
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -8,17 +8,11 @@ categories: [Pages with broken file links, Items]
 
 # Mantra Modifiers
 
-_This page is a list of all items that you can use in order to modify a Mantra._
-
-## Description
-
-[A foolish fool using quite a numerous amount of items to upgrade a mantra.](https://deepwoken.fandom.com/wiki/File:Many_items.png)
-
 A foolish fool using quite a numerous amount of items to upgrade a mantra.
 
-Mantra Modifiers are items that can be used to expand the potential of your [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the user's Mantra. These can be found easily by killing most [enemies](Enemies.md) and in chests. You must use a [Mantra Table](Mantra_Lectern.md) to add Mantra Modifiers.
+Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in chests. In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
-You can stack up to 3 of each modifier, including their weaker versions. This means a user can put 3 _Drift Shards_ and 3 _Rush Shards_ on one Mantra. _Be aware that adding more will increase [Ether](Combat_Mechanics.md) cost._
+The player can stack up to 3 of each Modifier, including the weaker versions of the Modifier. This means that, for example, 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra. _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra._
 
 The previous upgrades will only disappear if an Amnesiac Driftwood is added to the mantra. Upgrading an already upgraded mantra further will add onto the previous upgrades.
 

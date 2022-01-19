@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13560
+revid: 13636
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -20,13 +20,13 @@ Outfits are the very base of your Armor, and are the only part of your defense t
 
 Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
 
-Outfits can be purchased at the Blacksmiths in Etris or Isle of Vigils, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a Blacksmith to unlock an Outfit in their shop.
+Outfits can be purchased at the Blacksmiths in larger settlements, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a Blacksmith to unlock an Outfit in their shop.
 
 Outfits grant unique buffs and Talents to their wearer and can be easily found essential to many players on their journey.
 
 ### **Armors**
 
-Armor items are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
+Armor pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
 
 Armor items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
 
@@ -35,6 +35,22 @@ Armors cannot be purchased, and must be obtained in enemy drops or chests. Armor
 Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
 
 Armors can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats.
+
+## Outfit Stats
+
+-   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit no longer grant its benefits.
+
+-   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks additively with the following:
+    -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
+    -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
+-   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks additively with the following:
+    -   **Fire Armor:** Reduce damage taken from Flamecharm attacks.
+    -   **Ice Armor:** Reduce damage taken from Frostdraw attacks.
+    -   **Lightning Armor:** Reduce damage taken from Thundercall attacks.
+    -   **Wind Armor:** Reduce damage taken from Galebreath attacks.
+    -   **Shadow Armor:** Reduce damage taken from Shadowcast attacks.
+-   **Ether Regen:** Increase the conversion rate of Reservoir to Ether.
+-   **Talent:** A passive ability linked to the outfit.
 
 ## Repairing your Outfit
 
@@ -46,104 +62,11 @@ You can repair your Outfit at the Blacksmith in Etris or Isle of Vigils. This wi
 
 ## Outfit List
 
-### Starter
-
-| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
-| --- | --- | --- | --- | --- |
-|  | Stranded | Spawn | None | None |
-| File:Merchant Robes.PNG | Merchant Robes | 5x Cloth
-5x Fiber
-
-25 Notes
-
- | None | _Talent: Mates' Rates_ |
-| File:SkepticPioneerEdit1.png | 
-
-Skeptic Pioneer
-
- | 5x Cloth
-
-1x Crystal Lens
-
-5x Fiber
-
-25 Notes
-
- | None | +1200 Durability
-
-+8% Elemental Armor
-
-+8% Physical Armor
-
-_Talent: Apothecary (beneficial effect of potions you drink are more potent)_
-
- |
-|  | White Traveler Cloak | x1 Cloth
-
-10 Notes
-
- | None | +1000 Durability
-
-+12% Physical Armor
-
- |
-|  | Grey Traveler Cloak | x1 Cloth
-
-10 Notes
-
- | None | +1000 Durability
-
-+12% Physical Armor
-
- |
-| File:Bluetravelercloak.png | Blue Traveler Cloak | x1 Cloth
-
-10 Notes
-
- | None | +1000 Durability
-
-+12% Physical Armor
-
- |
-|  | Purple Traveler Cloak | x1 Cloth
-
-10 Notes
-
- | None | +1000 Durability
-
-+12% Physical Armor
-
- |
-|  | Red Traveler Cloak | x1 Cloth
-
-10 Notes
-
- | None | +1000 Durability
-
-+12% Physical Armor
-
- |
-|  | Hired Mercenary | x5 Cloth
-
-x5 Fiber
-
-x1 Iron
-
-25 Notes
-
- | None | +1000 Durability
-
-+15% Physical Armor
-
-+10% Elemental Armor
-
- |
-
 ### Adept
 
 | Image | Armor | Craft Req. | Stat Req. | Armor Stats |
 | --- | --- | --- | --- | --- |
-| File:Eggspi.jpg | Experienced Adventurer | x3 Cloth
+| File:Experiencedadventureredit1.png | Experienced Adventurer | x3 Cloth
 x3 Fiber x2 Irithine
 
  | Power Level 15 | +1000 Durability
@@ -155,7 +78,7 @@ x3 Fiber x2 Irithine
 _Talent: Looter_
 
  |
-| File:Pe of shit.jpg | Pathfinder Cloak | x4 Cloth
+| File:Pathfindercloakedit1.png | Pathfinder Cloak | x4 Cloth
 
 x4 Fiber
 
@@ -243,11 +166,11 @@ x4 Iron
 
 +10% Blunt Armor
 
-_Talent: Paired Soul (increase damage dealt by the katana and shaterred katana)_
+_Talent: Paired Soul (Katana deal +20% damage, Shaterred Katana deal +10(?)% damage.)_
 
  |
 |  | Firekeeper's Armor | Unknown | Unknown | Unknown |
-| File:Naval.jpg | Navaen Nomad Robes | x5 Cloth
+| File:NavaenNomadRobesPNG.png | Navaen Nomad Robes | x5 Cloth
 
 x8 Erisore
 
@@ -274,7 +197,7 @@ x2 Frigid Prism
 _Talent: Fists of Navae_
 
  |
-| File:Earworm.jpg | Ignition Union Uniform | x5 Cloth
+| File:IgnitionUnionUniformPNG.png | Ignition Union Uniform | x5 Cloth
 
 x5 Fiber
 
@@ -588,7 +511,7 @@ x1 Vibrant Gem
 
 +25% Shadow Armour
 
-_Talent: Paired Soul (increase damage dealt by Katana and Shattered Katana)_
+_Talent: Paired Soul (Katana deal +20% damage, Shaterred Katana deal +10(?)% damage.)_
 
  |
 
@@ -708,13 +631,12 @@ x500 Notes
 
  | Power 25 | +20% Lightning Armor
 
-+Talent: Ferryman's Curse
-
 +1000 Durability
 
 +25% Physical Armor
 
 +25% Elemental Armor  
+_+Talent: Ferryman's Curse (taking damage from Thundercall mantras teleport you)_
 
  |
 

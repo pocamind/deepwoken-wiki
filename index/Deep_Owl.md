@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 13515
+revid: 13591
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,17 +12,15 @@ _Also known as Black Owls, Giant Owls, Owls_
 
 ## Description
 
-File:FUCKFUCKFUCKFUCKFUCK.png
+File:Owlloawdad.png
 
-_"DOOR STUCK, **DOOR STUCK**, PLEASE! **I BEG YOU!** W-we're dead! You're a genuine d-"_
+Deep Owl
 
 > "Drop that dove...so I can give you love.." - Owl.
 
-  
-
 > P1: _"Hey guys look! Black feathers! I need those for this new armour set! C'mon!"_ _\- Hapless Adventurer._
 
-A large and extremely uncommon monster with juggernaut-like traits. Said to appear most frequently across Upper Erisia, its presence will be highlighted by a shallow cloud of black feathers in the air.
+A large and extremely uncomm on monster with juggernaut-like traits. Said to appear most frequently across Upper Erisia, its presence will be highlighted by a shallow cloud of black feathers in the air.
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 

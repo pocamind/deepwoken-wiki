@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13483
+revid: 13639
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -16,56 +16,79 @@ categories: [Pages with broken file links, Resonance]
 </tbody>
 </table>
 
-Resonance, or Bells, are obtained from the Depths. Bells have been stated to have strong powers such as swapping weapons and hiding inside a pocket dimension. Gaining a resonance will heal you all the way similar to powering up. (Someone may need to fact check but I'm pretty sure your bell depends on your weapon)
+Resonance, more commonly known as Bells, are incredibly unique abilities obtained from the Depths. Resonances have quite powerful effects, such as Invincibility, Damage Reflection, or map-wide fast travel. Getting a Resonance is quite a timely, dangerous, and frustrating process, but their powers are unrivaled.
 
-_**Pressing C triggers resonance**_
+_**Pressing C triggers a Resonance.**_
 
 ## How To Get a Resonance
 
-After a confirmation by Arch, we have learned that progress toward resonance is most likely based on the amount of monsters you have killed.
-
 File:Arch2.png
 
-It is true that the method requires killing Enhanced Monsters and Players, but the luck you get from that is simply a byproduct. The REAL stat is something different, let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, being another invisible stat, notably, progress is obtainable in The Overworld.
+**The exact requirements to get a Resonance are random across players, meaning any definite number/method given will not be correct, either requiring more, or less.**
+
+While an exact number/method cannot be given, there are still steps you can take to understand it better.
+
+Resonances are obtained by achieving the maximum of an invisible stat, similar to Luck. Let's just call it, "Progress". Progress is obtained identically, but parallel to Luck, with the stats having no bearing or relation to eachother besides being obtained the same ways. Notably, progress is obtainable in The Overworld.
 
 You gain Progress by doing all the same things to obtain Luck, but as opposed to Luck, there is zero way to lose Progress. Leaving The Depths, Leveling, dying in the Overworld, etc, all of that will not lose your Progress. The only way to lose Progress is by wiping. In addition, you will continue obtaining Progress even when your Luck is maxed. Just because you see the Luck effect stop happening, does **NOT** mean you stopped getting Progress, or that your Progress is maxed.
 
-While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally associated with things like hours in The Depths or max luck or a higher level.
+While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally associated with things like hours in The Depths or max luck or a higher power.
 
-Theorized that to get max progression, you have to solo kill [Primadon](Primadon,_Titan_of_the_East.md) 5-10 times.
-
-"A theory that I've made is that the max progression to get resonance is different for every player as there's people who did a lot and didn't get it but there's people who did less than them that did get it."
-
-Bell obtainment method **might be random** between players, "I solo'd prima 6 times ferryman 5 with a bunch of regular kills + player kills and did not obtain."
+The best known ways to get Progress are farming bosses, like Kaido, Primadon, The Duke, and The Ferryman. Enhanced Mobs and Snow Knights are generally advised against, requiring triple digits to get somewhere as Bosses take about double digits.
 
 TLDR:
 
--   Resonances are dependent on a sepearate stat from Luck, known as Progress.
+-   Resonances are dependent on a hidden stat, similar to Luck, known as Progress.
+-   Progress is obtained in all the ways Luck is.
 -   Progress can never be lost or reset, besides wiping.
 -   Progress can be obtained in The Overworld and carry over to The Depths.
 -   Max progress takes significantly longer than max Luck.
+-   The best way to get max progress is from farming, preferably solo, bosses.
+-   Max progress is random, with each player having a different cap for it.
 
-## How To Change a Resonance
+## Corrupted Resonance
 
--   Go to The Depths, find the doors that require resonance to open, and talk to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). He gives you 2 other options besides changing Resonance, which are to escape depths instantly and wipe your Oath. You can choose a wish every 10 levels.
+In addition to normal Resonances, there exists a further sub-catrgory known as Corrupted Resonances. Corrupted Resonances are obtained near identically, but with an incredibly small chance when gaining a normal Resonance. Similarly to Cursed Items, Corrupted Resonances are league's stronger than their normal versions, being multiple times more effective and even gaining new abilities. However, like Cursed items, Corrupted Resonances also are struck with a debuff.
 
-### Corrupted Resonance
+Upon usage of a Corrupted Resonance, a set debuff will happen. The debuff is chosen randomly when obtaining a Corrupted Bell, and is not random. Truthfully, the debuffs are so small and some are even nullified by the effect of the Resonance so they are just a non-issue.
 
-Upon obtaining or rerolling a Resonance, there is a MINISCULE chance that it will become **Corrupted.** Working somewhat like Cursed items, Corrupted bells greatly enhance a Resonance's ability, said to be **?x** (used to be 4x) stronger than the original, but it has a downside as well. The ability itself is unchanged, its just the function is greatly buffed, an example being Phoenix gaining 20 seconds of immunity, as opposed to the original 5 seconds.
+Known debuffs include:
 
-Currently known debuffs - Insanity on use, health loss on use, set on fire when used.
+Being set on fire
 
-Unique Interactions:
+Gaining Insanity
 
-\-Phoenix bell does not take damage from any sources when corrupted, meaning **only** the insanity bell can take effect, thus making 2/3 downsides entirely useless.
+Taking instant damage
 
-**NOTE: You will know if you got a Corrupted Resonance if once you got the Resonance the particles will be Blue.**
+### Unique Corrupted Effects
 
-## Known Resonances
+In addition to being multiple times stronger than the original effect, some Corrupted Resonances also gain new and unique abilities ontop of their effect.
+
+Run It back: The user gains complete invincibility for the entire duration of the Resonance.
+
+Distortion Portal: The user can use the Resonance during combat.
+
+## Resonance Versions
+
+Some Resonances, additionally, have different versions. The overall effect is USUALLY the same, but how the effect is executed will be different, such as Reaper's "common" version throwing a projectile that does the instagrip area, while it's rare version does the aoe around themselves.
+
+## Resonance Rarities
+
+Furthermore, Resonances, Corrupted Resonances, and their versions all have different rarities, even though they're all classified as Resonances. A good indicator is that the more "simple" Resonances are common, and so are their Corrupted versions, as in, "common" Resonance has a higher chance of getting its Corrupted version than a rarer one, along with the "primary" variant being more common than the secondary one.
+
+Examples include:
+
+Damage Reflection being much more common than Transmission
+
+Reapers projectile version being much more common than its self-aoe version.
+
+Corrupted Wind-Up being the most common Corrupted Resonance.
+
+## Known Resonances/Versions
 
 Damage Reflection showcased by Bracting.
 
-### **Damage Reflection (aka. Full Counter)**
+### **Damage Reflection (Counter, Reflect)**
 
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
@@ -76,9 +99,7 @@ File:Beambell.png
 
 The laser shot created by Version 2.
 
-  
-
-### **Run it Back**
+### **Run It Back (Phoenix)**
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
@@ -88,16 +109,14 @@ File:Phoenix Fire.jpg
 
 Phoenix fire effect
 
-  
-
-### **Wind-up**
+**Wind-Up**
 
 -   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
 -   Based on Hunter X Hunter character Phinks' Hatsu, "Ripper Cyclotron".
 
-### **Distortion Portal**
+### **Distortion Realm (Kamui, Gate)**
 
 -   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside the user.
 -   Activating the ability while in The Distortion Realm let you visualize where you will appear in the game world. Activating the ability while the visualization is on transports the player and create another portal for people to follow them.
@@ -113,9 +132,7 @@ Phoenix fire effect
 
 File:God's Will Showcase.mp4
 
-  
-
-### **Blood Scourge**
+### Reaper (Blood Scourge, Instagrip)
 
 Reaper Variation 1.
 
@@ -125,12 +142,11 @@ Reaper Variation 2.
 
 -   Quickly grips every knocked entity within a certain radius on use.
 -   Creates an large red effect similar to full counter, that expands and retracts from a certain point.
+-   Cooldown is 20 seconds.
     -   Version 1: The radius is created around the user.
     -   Version 2: The user throws a ball forward, that shortly after creates the radius around itself.
 
-  
-
-### **Soul Weapon Summoning (aka. Crazy Slot)**
+**Soul Weapons (Crazy Slots, Weapon Switching)**
 
 -   On activation, call forth a randomly chosen weapon.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
@@ -200,9 +216,7 @@ Reaper Variation 2.
 
   
 
-### **Portal Travel**
-
-  
+### **Portal**
 
 -   Upon activation, the player enters a white portal that only they can go through.
 -   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
@@ -214,7 +228,7 @@ Reaper Variation 2.
 
   
 
-### **Jar of Souls**
+### **Jar of Souls (Soul Laser)**
 
 -   Upon killing a player or NPC, you absorb their soul.
 -   Having a soul allows you to hold a beam which deals high damage over time.
@@ -228,7 +242,7 @@ File:TravelMedalRing.png
 
 A group of players standing within the travel radius.
 
-### **Waypoint Transmission (aka. Travel Medallion)**
+### **Waypoint Transmission (Travel Medallion, Instant Transmission)**
 
 File:TravelMedalMarker.png
 
@@ -243,11 +257,23 @@ The grey circle represents a placed marker.
     -   I do not have this resonance. All information listed here is from [this video](https://youtu.be/aZ2W-L4QazA), all credit goes to Jenkz and Juniorr, who made the video, and who has the bell, respectively.
     -   This bell is likely very rare, as we have seen few clips of people with it.
 
-## Unconfirmed bells.
+## Unconfirmed Resonances
 
-### ??? (Legendary Bell)
+### ???
 
 -   Currently unfinished.
 -   Documented in [this video](https://www.youtube.com/watch?v=FRsQc1a4ZDY).
 -   Makes a different ring noise, along with shining golden when activated.
 -   _Apparently_ the rarest bell, as it is currently unfinished. (whys it in the roll pool?)
+
+## How To Change a Resonance
+
+You are most likely to not get the exact Resonance combination you want when you're having to cope with like four different layers of RNG at the same time. Luckily, there is a way to remedy this.
+
+Around The Depths are Resonance Doors, which, self explanatory, require a Resonance to open. Past them resides Yun'Shul, who presents the players with "Wishes".
+
+Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance An optimal level to get a Resonance at would be 40, allowing you to reroll three times.
+
+The caveat is that upon rerolling your Resonance, you have a new flaw which increases the windup/cooldown of your Resonance. Beggars cant be choosers.
+
+**If you somehow reach Yun'Shul without a Resonance, he will instantly wipe you.**

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 13473
+revid: 13586
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -247,7 +247,7 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
--   **Lore Sources:**
+-   **Lore Sources: Whalers dagger description and armor**
 
 (Placeholder)  
 

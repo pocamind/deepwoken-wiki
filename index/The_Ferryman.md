@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 13433
+revid: 13600
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -32,7 +32,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 ### Rewards
 
 -   **Luck** - During all seasons, you recieve a fixed amount of luck.
--   **Crystal Pendant Earrings** - Grants +8 Ether and +6 Sanity, and does not drop on subsequent attempts. Received only during summer.
+-   **Amythest Pendant Earrings** - Grants +8 Ether and +6 Sanity, and does not drop on subsequent attempts. Received only during summer.
 -   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armour compared to higher level armour. It basically gives you displacement enchant for every lightning mantra you're hit with, and reduces the damage from lightning significantly. Applies to both player mantras, the Ferryman's own moves and King Gigameds/Jellyfish moves.
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
 -   Defeating the Ferryman during spring "awards" unique dialogue.
