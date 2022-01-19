@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 13772
+revid: 13846
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,11 +12,13 @@ _Also known as Black Owls, Owls_
 
 ## Description
 
+“ Hey guys look! Black feathers! I need that for this Adept armour set, c'mon! ”
+
+― Hapless adventurer.
+
 File:Owlloawdad.png
 
 Deep Owl
-
-> P1: _"Hey guys look! Black feathers! I need those for this new armor set! C'mon!"_ _\- Hapless Adventurer._
 
 A large and extremely uncommon monster with juggernaut-like traits. Said to appear most frequently across Upper Erisia, its presence will be highlighted by a shallow cloud of black feathers in the air.
 

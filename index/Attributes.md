@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 13823
+revid: 13860
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -222,7 +222,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Shadowcast
 
-“ Hoo boy, for some reason I want to grip freshspawns!". ”
+“ Hoo boy, sure do feel like gripping freshspawns! ”
 
 ― A random Shadowcaster
 

@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 12607
+revid: 13853
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,3 +26,4 @@ Their arsenal consists of a different Starter Weapon, nothing else special.
 ## Tips
 
 -   You can assassinate them, do an M1 combo and grip.
+    -   Assassinations will one shot if you have the "Assassin" talent.

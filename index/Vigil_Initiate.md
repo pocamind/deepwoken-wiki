@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 13809
+revid: 13852
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -20,7 +20,7 @@ This Outfit has no cost and requires five (5) Cloth and Fiber and four (4) piece
 
 This Outfit has 1200 durability and grants +20% Physical resistance and +10% Blunt resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases damage for Katanas, shattered or not.
+This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the Katana by 20% and the damage of the Shattered Katana by +10(?)%
 
 ## Location
 

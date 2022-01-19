@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 13750
+revid: 13869
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ This Outfit has 2000 durability and grants +22% Physical resistance and +22% Ele
 
 This Outfit's Schematic can be found:
 
--   Locations here
+-   Bandit chests in Lower Erisia
 
 ## Trivia/Notes
 

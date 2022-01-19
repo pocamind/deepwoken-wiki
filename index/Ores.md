@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 10963
+revid: 13861
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,4 @@ Erisore and Irithine have their own caves.
 ## Trivia
 
 -   While every ore has its own color, they are gain a dark tone when held as an item, the only exception being the rock.
--   Rocks can be thrown. (used for stoning felinors)
+-   Rocks can be thrown.

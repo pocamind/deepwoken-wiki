@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 13842
+revid: 13848
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -29,12 +29,12 @@ An Adret carrying a piece of The Forge.
   
 Rewards
 
--   \[[\[1\]](Tel:400-1000%7C400-1000)\] Notes
+-   Notes
+
 -   10 Common to Rare Items, including:
     -   Armor Blueprints
     -   Weapons
     -   Equipments
--   **Only the first time:** 1 free point to spend on your [Attributes](Attributes.md) (uses an investement point)
 
 Locations & Hints
 

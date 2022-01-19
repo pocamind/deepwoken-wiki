@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 11878
+revid: 13878
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ High-tier enemies that drop high-tier loot spawn here, making this an alternativ
 
 Starswept Valley is a desert-like area containing a massive gate that leads to the [Lordsgrove](The_Lordsgrove.md), Bluster Rift.
 
-Upon washing your face at the Lightkeeper Temple, the giant green door to the [Lordsgrove](The_Lordsgrove.md) will be removed, allowing you to enter.
+Upon washing your face at the [Lightkeeper Temple](Lightkeeper_Temple.md), the giant green door to the [Lordsgrove](The_Lordsgrove.md) will be removed, allowing you to enter.
 
 ## Enemies
 

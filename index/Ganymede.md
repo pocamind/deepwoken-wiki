@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 13554
+revid: 13866
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -81,5 +81,4 @@ Theory: Vesperians and Ganymedes are different versions of the same species, wit
 -   Ganymede looks similar to Cypher from the game _Valorant_.
 -   Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.
--   Killing the ferryman under power 15 rewards the floydian beam.
 -   Most likely the slug inspired race.

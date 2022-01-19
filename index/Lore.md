@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 13784
+revid: 13862
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -359,7 +359,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
-## Before the Tides
+## Before the Tides (Old World)
 
 ### City of Celtor
 
@@ -388,7 +388,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
 -   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
 
-## Deepwoken: ~1271
+## Deepwoken: ~1271 (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to Year 1271.
 
