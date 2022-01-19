@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 13447
+revid: 13842
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,7 +16,7 @@ _"Is that...Rock Johnson?!" - Bank Teller_
 
 Artifacts in Deepwoken are valuable pieces of technology or objects that can be sold to Bankers for high rewards such as Rare Armor and Mantra Ingredients.
 
-Deepwoken Artifacts are not Rogue Lineage Artifacts.
+Deepwoken Artifacts **are not Rogue Lineage Artifacts.**
 
 Artifacts usually are guarded by Monsters or Enemies, but rarely it can be completely unguarded.  
 

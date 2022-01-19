@@ -1,14 +1,18 @@
 ---
 title: Lore
-revid: 13586
+revid: 13784
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Stub pages without reason, StubPages, Pages with broken file links]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Lore
 
-_"Who would've thought, that they will forget us so easily?" - Voice of the Deep_
+“ Who would've thought, that they will forget us so easily? ”
+
+― Voice of the Deep
 
 ## Description
 

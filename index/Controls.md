@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 12107
+revid: 13824
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Of course, this Page is useless because we have the Controls in the Game. But th
 During a dodge, cancel the dodge to negate the endlag.
 
  |
-| M3/R | Critical Attack | Varies on the weapon, but always involve a windup followed by a strike that deal a lot of posture damage. |
+| M3/R | Critical Attack | Varies on the weapon, but usually involves a windup followed by a strike that deals large posture damage. |
 | E | Interact | To talk/carry/interact with different things. |
 | F | Parry | If hit right after pressing F, deflect the attack, dealing posture damage and giving you an opening to attack. |
 | F (hold) | Block | Block attacks. Taking hits while blocking fills the posture bar, if it reach 100%, you are guard broken and open to attacks. |

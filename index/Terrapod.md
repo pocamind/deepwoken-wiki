@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 13516
+revid: 13724
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Terrapod
 
-Template:Creature Infobox V3 _Also known as Crabs, and Small Crabs._
+Template:Creature Infobox V3 _Also known as Crabs._
 
-The Terrapod is a monster in Deepwoken notorious for shredding health quickly and for having very high mobility.
+The Terrapod is a monster notorious for shredding health quickly and having very high mobility.
 
 ## Description
 
@@ -21,7 +21,7 @@ Terrapods are purple and have 4 legs with sharp claws on each leg. They have a h
 ## Moves
 
 -   **Relentless Strikes** - The Terrapod rapidly attacks anything in its path, including the air, until it gets tired.
--   **Quick Slice** - The Terrapod does a singular slice at it's opponent and retreats to recover.
+-   **Quick Slice** - The Terrapod does a singular slice at its opponent and retreats to recover.
 
   
 

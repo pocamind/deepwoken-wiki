@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 13477
+revid: 13823
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -63,14 +63,6 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ― Last words of a Ganymede
 
-“ Gotta go Fast! ”
-
-― A friend of a Felinor that tried to outrun a Sharko
-
-“ I'M RUNNIN' CIRCLES AROUND YA! ”
-
-― Etrean Pitcher to a beefy Canorian
-
   
 
 -   Slight of hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
@@ -102,10 +94,6 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
 ― 'Enlightened' Etrean
 
-“ Do not look at the deepwoken discord art channel or canor page comments, I suffer from Insanity now. ”
-
-― Unfortunate female Canor
-
   
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
@@ -115,10 +103,6 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength and 75 willpower.
 
 ### Charisma
-
-“ Y'all see the shoes, y'all see the money... \*proceeds to scam the Antiquarian\* ”
-
-― A charismatic Capra
 
 “ Say, I know a way to get stronger. Called a Vow of Mastery, want to make one? ”
 
@@ -154,9 +138,9 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 ### Medium Weapons
 
-“ All for The Prince ”
+“ Shattered Katana Royal Pathfinder User #48291 ”
 
-― A Gremor repeatedly using the Gremorian Longspear's Critical Attack
+― Random freshie talking about how he got ganked in Erisia
 
   
 
@@ -170,7 +154,7 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 “ Yew got a loicense for that knoif mate?" "You're callin' **THIS** a knoife mate? ”
 
-― British' Adret to an 'Aussie' Capra fistfighter
+― 'Aussie' Capra fistfighter to a British' Adret
 
   
 
@@ -241,10 +225,6 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 “ Hoo boy, for some reason I want to grip freshspawns!". ”
 
 ― A random Shadowcaster
-
-“ You must be an Uber Oni! ”
-
-― His foreign friend
 
   
 

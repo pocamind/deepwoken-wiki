@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13432
+revid: 13834
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -260,6 +260,7 @@ Hand of Mantra Cards
 ### **Freak Of Nature**
 
 -   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you - this makes it impossible to die unless struck 20 times after entering combat. This also includes fall damage and other natural damage.
+-   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. (Might increase the speed at which you drink potions, I just got it so I still need to test it.)
 
 ### The Emperor's Blade
 

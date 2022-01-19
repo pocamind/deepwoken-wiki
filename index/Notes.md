@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 13651
+revid: 13816
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ Players can only drop a maximum of 500 Notes at a time. You are also restricted 
 
 Currently, there are only a few known ways to obtain Notes. Some of those are:
 
--   Asking the Helper at Etris or Isle of Vigils will give you, but this can only be done once.
+-   Asking the helper at Etris or Isle of Vigils will give you, but this can only be done once.
 -   Selling various things to an Antiquarian.
 -   Completing various [quests](Quests.md).
 

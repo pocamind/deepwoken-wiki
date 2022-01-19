@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13636
+revid: 13822
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -62,249 +62,13 @@ You can repair your Outfit at the Blacksmith in Etris or Isle of Vigils. This wi
 
 ## Outfit List
 
+### Starter
+
+_Deepwoken_ currently has 9 Starter Outfits in the game.
+
 ### Adept
 
-| Image | Armor | Craft Req. | Stat Req. | Armor Stats |
-| --- | --- | --- | --- | --- |
-| File:Experiencedadventureredit1.png | Experienced Adventurer | x3 Cloth
-x3 Fiber x2 Irithine
-
- | Power Level 15 | +1000 Durability
-
-+10% Physical Armor
-
-+10% Blunt Armor
-
-_Talent: Looter_
-
- |
-| File:Pathfindercloakedit1.png | Pathfinder Cloak | x4 Cloth
-
-x4 Fiber
-
-x6 Iron
-
-30 notes
-
- | Power Level 15 | +1200 Durability
-
-+20% Physical Armor
-
-+5% Slash Armor
-
-_Talent: Environmentalist (Resist the effects of some weather events.)_
-
- |
-| File:Shadow Hunter Preview.png | Shadow Hunter | x5 Cloth
-
-x5 Fiber
-
-x2 Gold
-
-x10 Iron
-
- | 10 Agility | +1500 Durability
-
-+10% Physical Armor
-
-+5% Elemental Armor
-
-+10% Shadow Armor
-
-_Talent: Now You See Me (increased stealth while crouching)_
-
- |
-| File:11thlegionplate.png | 11th Legion Plate | Cloth x5
-
-Fiber x5
-
-Gold x2
-
-Iron x10
-
-100 Notes
-
- | Power 15
-
-10 Fortitude
-
- | +1500 Durability
-
-+30% Blunt Armor
-
-+10% Physical Armor
-
- |
-| File:CutthroatLightArmor.png | Cutthroat Light Armor | x4 Cloth
-
-x1 Crystal Lens
-
-x4 Fiber
-
-x5 Iron
-
-30 Notes
-
- | Power Level 15 | +1000 Durability
-
-+10% Physical Armor
-
-+10% Slash Armor
-
-_Talent: Hunter (improve [Monsters](Monsters.md) loot table)_
-
- |
-| File:VigilInitiate.png | Vigil Initiate | x5 Cloth
-
-x5 Fiber
-
-x4 Iron
-
- | Power Level 15 | +1200 Durability
-
-+20% Physical Armor
-
-+10% Blunt Armor
-
-_Talent: Paired Soul (Katana deal +20% damage, Shaterred Katana deal +10(?)% damage.)_
-
- |
-|  | Firekeeper's Armor | Unknown | Unknown | Unknown |
-| File:NavaenNomadRobesPNG.png | Navaen Nomad Robes | x5 Cloth
-
-x8 Erisore
-
-x5 Fiber
-
-x2 Frigid Prism
-
-100 Notes
-
- | Power Level 15 | +1800 Durability
-
-+10% Physical Armor
-
-+10% Elemental Armor
-
-+10% Blunt Armor
-
-+15% Ice Armor
-
-+15% Shadow Armor
-
-+50% Stealth
-
-_Talent: Fists of Navae_
-
- |
-| File:IgnitionUnionUniformPNG.png | Ignition Union Uniform | x5 Cloth
-
-x5 Fiber
-
-x3 Irithine
-
-x1 Lionfish Scale
-
- | Power Level 20 | +2000 Durability
-
-+22% Physical Armor
-
-+22% Elemental Armor
-
- |
-| File:FlameWorshipperArmorproper.png | Flame Worshipper Armor | x4 Cloth
-
-x4 Fiber
-
-x2 Iron
-
-30 Notes
-
- | Power Level 15 | +1000 Durability
-
-+10% Physical Armor
-
-+5% Elemental Armor
-
-+25% Fire Armor
-
-_Talent: Intrepid Flame (fire last half as long on yourself)_
-
- |
-| File:Summercompanyuniform.png | Summer Company Uniform | x5 Cloth
-
-x5 Fiber
-
-x10 Iron
-
-100 Notes
-
- | Power Level 15 | +1500 Durability
-
-+10% Physical Armor
-
-+5% Elemental Armor
-
-+10% Slash Armor
-
-+25% Shadow Armor
-
-_Talent: Armor Piercing (guns have 50% PENetration)_
-
- |
-| File:Authority Peacekeeper.png | Authority Peacekeeper Armour | x5 Cloth
-
-x5 Fiber
-
-x1 Iron
-
-30 Notes
-
- | 5 Fortitude
-
-Power Level 15
-
- | +10% Elemental Armor
-
-+1600 Durability
-
-+15% Physical Armor
-
-+10% Slash Armor
-
-+15% Fire Armor
-
-_Talent: Now You See Me (increased stealth while crouching)_
-
- |
-| File:Duelist's Atture.png | Duelist's Attire | x5 Glass Stone | Power Level 15 | +20% Physical Armor
-
-+1200 Durability
-
-+10% Slash Armor
-
- |
-| File:Diverapprentice.png | Diver Apprentice | x4 Cloth
-
-x3 Crystal Lens
-
-x4 Fiber
-
-50 Notes
-
- | Power 15
-
-Intelligence 10
-
- | +100% Ether Regen
-
-+20% Elemental Armor
-
-+1000 Durability
-
-+5% Physical Armor
-
- |
+_Deepwoken_ currently has 16 Adept Outfits in the game.
 
 ### Expert
 
@@ -792,20 +556,13 @@ Songseeker Chests
 +1 Posture
 
  | Unknown |
-|  | Star Duster | Health
-
-Ether
-
-Posture
-
-% vs. (sea, depths, giant)
-
- | [The Duke](Duke_Ishamon_Erisia.md)
+|  | Star Duster |1-20 Health +4-20 Ether +4-50 Resevoir +1-4 Posture +2-7% vs. (sea, depths, giant)
+| [The Duke](Duke_Ishamon_Erisia.md)
 
 Depths chests
 
  |
-|  | Royal Pathfinder | 2-4 buffs | [Starswept Valley](The_Starswept_Valley.md)
+|  | Royal Pathfinder | 2-4 moderate-high tier buffs | [Starswept Valley](The_Starswept_Valley.md)
 
 Duke chests
 

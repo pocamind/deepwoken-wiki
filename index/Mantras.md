@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 13360
+revid: 13836
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -16,7 +16,7 @@ Mantras are internalized passages of the Song that practitioners use to conjure 
 
 [Flamecharm](Flamecharm.md): Large and threatening damage-over-time fire based spells. Excels in crowd control and area denial as many spells have large range. Not recommended to use in close proximity to allies. Can be upgraded through Willpower for the "Azure Flames" Talent.
 
-[Thundercall](Thundercall.md): Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with extremely small start up for closing distance, or keeping a opponent on edge. Lightning is the best at controlling a fight in PvP, and has a wide variety of useful spells for PvE and exploring the world.
+[Thundercall](Thundercall.md): Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with somewhat small start up for closing distance, or keeping a opponent on edge. Lightning has a wide variety of useful spells for PvE and exploring the world.
 
 _Typically used mid/long range._
 

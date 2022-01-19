@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 13600
+revid: 13758
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -16,6 +16,8 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious Krulian referenced
 
 He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. If the ferryman has already been summoned in the server, the campfires must be replaced. After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
 
+The Ferryman immediately begins in his second phase behavior when multiple players are fighting him. Be mindful of this when initiating multi-player fights.
+
 ### Attacks
 
 -   **Displacement** - The Ferryman teleports to a different location on the battlefield and immediately uses another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
@@ -23,7 +25,7 @@ He can be summoned by lighting four campfires at the indicated points within a s
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping.
 -   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack when below half health.
--   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools.
+-   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack when below half health.
 
 ### Finishers
 
@@ -50,8 +52,8 @@ He can be summoned by lighting four campfires at the indicated points within a s
 The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
 
 -   "Well done, Well done! Here are your rewards." (or similar) - You killed the Ferryman within the time limit and received a reward.
--   "Look into the flames..." - The ellipsis or "..." signifies the rest of the dialogue being unknown (i forgot what it was). If the Ferryman gives you this dialogue after asking for rewards, you took too long and will only get luck.
--   \[SECRET DIALOGUE SPOILER\]: "I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always." - You get this dialogue after killing the Ferryman 3 times successfully, within the time limit or not. Getting this dialogue does not mean you get a reward or killed him within the time limit.
+-   "Look into the flames..." - The ellipsis or "..." signifies the rest of the dialogue being unknown (i forgot what it was). This dialogue only appears the first time defeating the ferryman on that slot or wipe.
+-   \[SECRET DIALOGUE SPOILER\]: "I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always." - You get this dialogue after killing the ferryman for the second time or more.
 
 ## Trivia/Notes
 

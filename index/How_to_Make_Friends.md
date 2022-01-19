@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 13481
+revid: 13829
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ At around **10-20 points of Charisma**, you may start getting Charisma talents. 
 
 ## Usage
 
-In order to successfully use [How to Make Friends](https://deepwoken.fandom.com/wiki/How_To_Make_Friends) and level up your Charisma, select the item in your inventory and click. A text will appear on your screen, saying: "Try some small talk with someone nearby, (Phrase)". You must then stand next to an NPC / Player and type out the **Phrase** provided, word for word. You do _not_ need to capitalize letters or use punctuation, _however_ if you mispronounce a word (Example: "Restuarant"), you will **not** gain your Charisma.  
+In order to successfully use [How to Make Friends](https://deepwoken.fandom.com/wiki/How_To_Make_Friends) and level up your Charisma, select the item in your inventory and click. A text will appear on your screen, saying: "Try some small talk with someone nearby, (Phrase)". You must then stand next to an NPC / Player and type out the **Phrase** provided, word for word. You do _not_ need to capitalize letters or use punctuation (Including spaces!), _however_ if you mispronounce a word (Example: "Restuarant"), you will **not** gain your Charisma.  
 
 File:Tempsnip.png
 

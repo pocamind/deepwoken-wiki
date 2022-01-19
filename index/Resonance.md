@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13639
+revid: 13833
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -50,23 +50,20 @@ TLDR:
 
 In addition to normal Resonances, there exists a further sub-catrgory known as Corrupted Resonances. Corrupted Resonances are obtained near identically, but with an incredibly small chance when gaining a normal Resonance. Similarly to Cursed Items, Corrupted Resonances are league's stronger than their normal versions, being multiple times more effective and even gaining new abilities. However, like Cursed items, Corrupted Resonances also are struck with a debuff.
 
-Upon usage of a Corrupted Resonance, a set debuff will happen. The debuff is chosen randomly when obtaining a Corrupted Bell, and is not random. Truthfully, the debuffs are so small and some are even nullified by the effect of the Resonance so they are just a non-issue.
+Upon usage of a Corrupted Resonance, a set debuff will happen. The debuff is chosen randomly when obtaining a Corrupted Bell. Truthfully, the debuffs are so small and some are even nullified by the effect of the Resonance so they are just a non-issue.
 
 Known debuffs include:
 
-Being set on fire
-
-Gaining Insanity
-
-Taking instant damage
+-   Being set on fire
+-   Gaining Insanity
+-   Taking instant damage
 
 ### Unique Corrupted Effects
 
-In addition to being multiple times stronger than the original effect, some Corrupted Resonances also gain new and unique abilities ontop of their effect.
+In addition to being multiple times stronger than the original effect, some Corrupted Resonances also gain new and unique abilities ontop of their effect. Known effects include:
 
-Run It back: The user gains complete invincibility for the entire duration of the Resonance.
-
-Distortion Portal: The user can use the Resonance during combat.
+-   Run It Back: The user gains complete invincibility for the entire duration of the Resonance.
+-   Distortion Realm: The user can use the Resonance during combat.
 
 ## Resonance Versions
 
@@ -109,7 +106,7 @@ File:Phoenix Fire.jpg
 
 Phoenix fire effect
 
-**Wind-Up**
+### **Wind-Up**
 
 -   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
@@ -135,8 +132,6 @@ File:God's Will Showcase.mp4
 ### Reaper (Blood Scourge, Instagrip)
 
 Reaper Variation 1.
-
-  
 
 Reaper Variation 2.
 

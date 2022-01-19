@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 13500
+revid: 13791
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Magic, Spells]
+categories: [Pages with broken file links, Magic, Spells]
 ---
 
 # Thundercall
@@ -169,7 +169,7 @@ Certain talents have no category or their category is unknown.
 |  | Authority Intimidation | All moves that apply electricity slow the opponent more. | +Buff Placeholder | Authority Interrogator |
 |  | Shocking Finish | Following a flourish up with a lightning beam causes it to be casted instantly. | +3 Elemental Intensity  
 +2 Health | Thundercaller |
-|  | Rain of Static | After successfully casting lightning impact strike down countless thunder at those below. In return your lightning impact will require more time to cast. | +7 Carry Load  
+| File:Static-assets-upload2268134233810269473.png | Rain of Static | After successfully casting lightning impact strike down countless thunder at those below. In return your lightning impact will require more time to cast. | +7 Carry Load  
 +2 Elemental Intensity | Thunder Caster |
 |  | Static Allure | Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increasees the dureaction of tethers by 15 seconds |   
 +1 Ether  

@@ -1,9 +1,9 @@
 ---
 title: Frostdraw
-revid: 13513
+revid: 13819
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells]
+categories: [Pages with broken file links, Spells, Magic]
 ---
 
 # Frostdraw
@@ -56,7 +56,7 @@ These mantras have no prequisites.
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | Warden's Blades | Revolving blades of ice. | 4 ice swords spawn around the player. They stop moving and shoot out. |
-| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Soldiers | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
+| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Servants | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
 
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 13701
+revid: 13841
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -126,7 +126,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>Every M1 connection will apply a "fear stack" on your opponent. Hitting an opponent with a fear stack will increase M1 damage inflicted to them. Basically curse stacks from Rogue Lineage.</p>
+  <td><div><p>Every M1 connection will apply a "fear stack" on your opponent. Hitting an opponent with a fear stack will increase M1 damage inflicted to them.</p>
   <p><br>
   </p></div></td>
 </tr>

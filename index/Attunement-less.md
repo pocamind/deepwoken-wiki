@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 13323
+revid: 13771
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -78,9 +78,9 @@ Mantras that are cast with Charisma. So far, there are no Mantras that deal dama
 
 ### _**Light Weapon Mantras**_
 
-**Rapid Slashes** - Rush down your opponent cutting them apart (Mobility mantra, despite it being unable to be used for mobility at all. May be a mistake and may be fixed already)
+**Rapid Slashes** - Rush down your opponent cutting them apart (Listed as a Mobility Mantra).
 
-It's considered a mobility mantra because it teleports you a short distance to your target if it is not blocked or parried.
+`The mantra is cancelled if the target is too far away from the player, or the player has not targeted an enemy with their crosshair. It functions similarly to Thunder Grab with a Magnet Spark on it. _Blockable & Parriable._`
 
   
 
@@ -94,4 +94,4 @@ It's considered a mobility mantra because it teleports you a short distance to y
 
 **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
 
-`Has wind up before releasing a stream of AoE whirls, each dealing damage and knocking the enemy away, ragdolling them. _Parriable. btw ratio_`
+`Has wind up before releasing a stream of AoE whirls, each dealing damage and knocking the enemy away, ragdolling them. _Parriable._`

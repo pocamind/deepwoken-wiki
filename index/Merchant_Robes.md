@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 13676
+revid: 13730
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]

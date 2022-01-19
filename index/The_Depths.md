@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 13410
+revid: 13828
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -98,7 +98,7 @@ Just a bag of information to keep in mind and remember
 
 ### Finding Morning
 
--   An NPC (insert name here) asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he says something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
+-   An NPC Raphael asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he says something like "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
 
 ### Joining The Divers
 
