@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13834
+revid: 13893
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -670,6 +670,8 @@ Hand of Mantra Cards
 Occasionally, instead of receiving a selection of cards, you receive a Whisper - a selection of Mantras.
 
 ### Physical Mantras
+
+_You can find a more detailed list of Physical Mantras [here.](Attunement-less.md)_
 
 #### Fortitude Combat (Around 30-35 Fortitude Needed)
 

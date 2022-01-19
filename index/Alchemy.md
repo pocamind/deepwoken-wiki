@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 13544
+revid: 13905
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,12 +34,14 @@ Potions are given two-word names based on their most powerful effect, and the st
 
 Potions can have many different effects, but the potion's most powerful effect is shown by the prefix (first word) of their name. For example, all _Invigorating_ potions will apply a regeneration effect, though if brewed with a Browncap, they will also deal a small amount of damage when drunk.
 
-The suffix (second word) of a potions name indicates the strength of the prefix's effect, with more stronger effects getting a higher tier suffix. However, each prefix has its own tiering hierarchy for suffixes.
+The suffix (second word) of a potions name indicates the strength of the prefix's effect, with more powerful potions getting a higher tier suffix. However, each prefix has its own tiering hierarchy for suffixes.
 
--   Negative prefixes are very consistent - they almost all have two tiers, Blight and Bane (with Bane always being stronger).
-    -   Some negative prefixes have a third tier, Potion, which is usually the strongest.
+-   Most negative effects have two suffixes, Blight and Bane, with Bane being stronger.
+    -   Some negative effects also have the Potion suffix, which is stronger than Bane.
+    -   Appalling is unique as the only (known) effect to use the same suffix for two different tiers - both the strongest and weakest potions use the Blight suffix, with Bane being the middle tier.
 -   Most positive prefixes have three tiers - Salve, Elixir and Tincture (most commonly in that order). The hierarchy depends on the prefix.
--   Some positive prefixes have Elixir, Potion and Remedy tiers instead. Again, the hierarchy depends on the prefix.
+    -   Some positive prefixes (such as Heartening) can have as many as 5 different suffixes.
+-   Wild Alchemy can change the suffix, though it does so in unusual ways and isn't fully understood.
 
 ### Using Potions
 

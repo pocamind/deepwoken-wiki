@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 13771
+revid: 13894
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -8,90 +8,106 @@ categories: [Physical Mantras]
 
 # Attunement-less
 
-## Description
+Attunement-less mantras consist of mantras that are chosen based of your attributes, similar to talents, rather than your attunements.
 
-Attunement-less mantras so far consist of mantras that are chosen based of your stats, similar to talents, rather than your attunements.
+NOTE: Attunement-less mantras are way more rarer if you have an attunement.  
 
-**Please note** that many of these Mantras have been recorded with the use of the Attunementless Mantra.
+## Attribute Mantras
 
-  
+-   These mantras are based on your attributes, not your attunements.
+-   Their damage/efficiency scales with the attribute's level.
 
 ### _**Strength Mantras**_
 
-**Strong Left** - A powerful, flinging punch that shatters the air. (Requirement: 5 Strength, Combat Mantra)
+Strength mantras are mainly based on combat and slightly on mobility. To increase the damage output and level cap, invest points in Strength.
 
-**Rapid Punches** - Unleash a barrage of blows against your foes. (Requirement: ~7 Strength, Combat Mantra)
+-   **Strong Left** - A powerful, flinging punch that shatters the air.
+-   Requirement: 5 Strength, _Strength Combat Mantra_
 
-**Strong Leap** - Kick off of the ground with your strength, sending you into the air. (Requirement: ~50 Strength, Mobility Mantra)  
+-   **Rapid Punches** - Unleash a barrage of blows against your foes.
+-   Requirement: ~7 Strength, _Strength Combat Mantra_
+
+-   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
+-   Requirement: ~50 Strength, _Strength Mobility Mantra_  
+    
 
 ### _**Fortitude Mantras**_
 
-**Rally** - Strike your shield a few times to absorb some of the posture received by nearby guildmates for a short duration. (Requirements: Fortitude + Any Shield, Support Mantra) (also can be upgraded with aeon longstone or eternal logstone to extend the duration)
+Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, invest points in Fortitude.
 
-**Reinforce** - Buff those around you with extra defense. (Requirements: Fortitude, Support Mantra) (also can be upgraded with aeon longstone or eternal logstone to extend the duration)
+-   **Rally** - Strike your shield a few times to absorb some of the posture received by nearby guildmates for a short duration.
+-   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
-**Brace** - Brace yourself against attacks and gain hyperarmour. (Requirements: Fortitude, Support Mantra)
+-   **Reinforce** - Buff those around you with extra defense.
+-   Requirements: Fortitude, _Fortitude Support Mantra_
 
-  
+-   **Brace** - Brace yourself against attacks and gain hyperarmour.
+-   Requirements: Fortitude, _Fortitude Support Mantra_  
+    
 
 ### _**Agility Mantras**_
 
-**Dash** - An agile Dash. (Requirement: 10 Agility, Mobility Mantra)
+Agility mantras are mainly based on enhancing the user's movement speed. To increase the distance travelled(dash moves)/duration and level cap, invest points in Agility.
 
-**Adrenaline Surge** - An adrenaline rush of agility. (Requirement: 20 Agility, Support Mantra)
+-   **Dash** - An agile Dash.
+-   Requirement: 10 Agility, _Agility Mobility Mantra_
 
-**Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Damage significantly increases as the user loses health. (Requirement: 10 Agility, Combat Mantra)
+-   **Adrenaline Surge** - An adrenaline rush of agility.
+-   Requirement: 20 Agility, _Agility Support Mantra_
 
-  
+-   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Damage significantly increases as the user loses health.
+-   Requirement: 10 Agility, _Agility Combat Mantra_  
+    
 
 ### _**Intelligence Mantras**_
 
-**Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. (Requirement: 20 Intelligence, Support Mantra)
+Intelligence mantras act as "_wildcards_" in the user's arsenal. To increase the level cap, invest points in Intelligence.
 
-**Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source. (Requirement: 50 Intelligence, Combat Mantra)
+-   **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients.
+-   Requirement: 20 Intelligence, _Intelligence Support Mantra_
 
-  
+-   **Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source.
+-   Requirement: 50 Intelligence, _Intelligence Combat Mantra_
 
 ### _**Willpower Mantras**_
 
-**Gaze -** An ability where you stare at them and make them go insane (Requirement: 25 Willpower, Support Mantra)
+Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, invest points in Willpower.
 
-**Exhaustion Strike-** A melee strike that once performed removes your posture's damage (Requirement: 40 Willpower, Combat Mantra)
+-   **~Sigma Stare~ Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
+-   Requirement: 25 Willpower, _Willpower Support Mantra_
 
-  
+-   **Exhaustion Strike-** A melee strike that once performed removes your posture's damage.
+-   Requirement: 40 Willpower, _Willpower Combat Mantra_
 
 ### _**Charisma Mantras**_
 
-**Stat Unlock**: **25 Charisma**
+Charisma mantras are mainly based on support: immobilizing and debuffing enemies. To increase the duration/level cap, invest points in Charisma.
 
-**Level Unlock: Power Level 10 (Tested with Attunement-less)**
+-   **Sing** - _Charm_ those around you with your powerful voice.
+-   Requirement: 25 Charisma, _Charisma Support Mantra_
 
-Mantras that are cast with Charisma. So far, there are no Mantras that deal damage for Charisma, but many prioritise immobilization of enemies, and the application of buffs and debuffs onto enemies.
+-   **Glare -** Opponents facing you are briefly stunned.
+-   Requirement: 25 Charisma, _Charisma Support Mantra_
 
-**Sing** - _Charm_ those around you with your powerful voice. (Requirement: Charisma. Support Mantra)
+-   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
+-   Requirement: 25 Charisma, _Charisma Support Mantra_
 
-**Glare -** Opponents facing you are briefly stunned. (Requirement: 10 Charisma. Support Mantra)
+## Weapon Mantras
 
-**Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage. (Requirement: Charisma, Support Mantra)
-
-  
+-   These mantras are based on your weapon's level.
+-   Their damage/efficiency scales with the weapon's level.
 
 ### _**Light Weapon Mantras**_
 
-**Rapid Slashes** - Rush down your opponent cutting them apart (Listed as a Mobility Mantra).
-
-`The mantra is cancelled if the target is too far away from the player, or the player has not targeted an enemy with their crosshair. It functions similarly to Thunder Grab with a Magnet Spark on it. _Blockable & Parriable._`
-
-  
+-   **Rapid Slashes** - Rush down your opponent cutting them apart.
+-   Requirement: 10 Light Wep., _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
-**Master's Flourish** - A spinning slice with your sword that hits twice. Does a good amount of damage, even through block.
-
-  
+-   **Master's Flourish** - A spinning slice with your sword. Chips through block and builds posture.
+-   Requirement: 10 Medium Wep., _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
-**Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
-
-`Has wind up before releasing a stream of AoE whirls, each dealing damage and knocking the enemy away, ragdolling them. _Parriable._`
+-   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
+-   Requirement: 10 Heavy Wep., _Heavy_ _Weapons Combat Mantra_

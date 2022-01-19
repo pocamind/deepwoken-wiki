@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 13553
+revid: 13891
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -98,7 +98,7 @@ Beatle
 
 ## Race progression
 
-As Vesperians grow older their masks become more intricate with markings and drawings and their horns grow.
+As Vesperians grow older their masks become more intricate with markings and drawings ~and their horns grow.~ It has been confirmed that Vesperian Horns are a spec, and you do not gain them from aging.
 
 ## Trivia
 

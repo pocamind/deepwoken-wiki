@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 13774
+revid: 13911
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -21,6 +21,8 @@ While each creature has customized attacks and their own attack patterns, they a
 Generally, a good rule to follow is to NEVER run away from any creature unless you're SEVERELY losing, and also outclassed. If you have even a chance at victory, grab it. Running will only leave you to being chased, and in most cases, you'll be caught. Besides, you'll have to learn their pattern eventually either way.
 
 It is advised you learn how each creature acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of leveling, gear, or experience will do you good if you can't parry, block or dodge attacks.
+
+While most non humanoid monsters cant block, a large quantity of them can be Posture Breaked, meaning that along with taking damage, they also take posture damage. If they get posture broken, they become open to attacks for 3 seconds.
 
 Stay ready and prepared. No creature is impossible to beat.
 

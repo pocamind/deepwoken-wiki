@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 13868
+revid: 13907
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -29,8 +29,9 @@ The outfits Schematic can be found in
 
 1.Lower Erisia
 
-2.(if theres anymore please add)
+2\. On top of the Palace in Etris
 
 Trivia/Notes
 
-(put some trivia here)
+-   Being block broken will still damage you
+-   If your posture still resets after a block break (I never had this armor), it should be theoretically possible to infinite block [Rock Golem](Rock_Golem.md) and [Enforcer](Enforcer.md) spin attacks

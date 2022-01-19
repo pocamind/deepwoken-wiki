@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 13844
+revid: 13901
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -27,7 +27,7 @@ Drops "Odd Tentacles".
 
 ### Finisher
 
--   **Mudskipped** - Get turned into a Mudskipper.
+-   **"So I heard you like Mudskip?"** - Get turned into a Mudskipper.
 
 ## **Notes/Tips**
 

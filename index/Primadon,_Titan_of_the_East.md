@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 13832
+revid: 13890
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -27,7 +27,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   **Stomp** - Primadon raises its **right** foot and stomps once. Can be parried.
 -   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **left** leg. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **Punt**\- Primadon winds back it's **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's kick. Can only be dodged.
+-   I SAID WATCH YO TONE - Primadon winds back it's **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's kick. Can only be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 -   **Posture Break** - During this time period, Primadon is staggered and **can** be hit by mantra attacks.
 

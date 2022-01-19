@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13833
+revid: 13903
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -18,7 +18,7 @@ categories: [Pages with broken file links, Resonance]
 
 Resonance, more commonly known as Bells, are incredibly unique abilities obtained from the Depths. Resonances have quite powerful effects, such as Invincibility, Damage Reflection, or map-wide fast travel. Getting a Resonance is quite a timely, dangerous, and frustrating process, but their powers are unrivaled.
 
-_**Pressing C triggers a Resonance.**_
+_**Pressing C triggers your Resonance.**_
 
 ## How To Get a Resonance
 

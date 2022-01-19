@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 13482
+revid: 13898
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -135,3 +135,4 @@ _Purchased from Mantra Shops at any area._
 -   All Training Items, besides the one you spawn with, will require [notes](Notes.md) to purchase.
 -   When using "How to Make Friends," players nearby will be forced to respond with various phrases such as 'Err...' or 'I dont have time for this...'
     -   If your charisma is higher than 33, players around you will say different, less negative phrases such as 'Mhm.' or 'Oh, sure.'
+    -   If your charisma is higher than about 60-70 they will say things like: "Yeah! Sure! Mhm!"
