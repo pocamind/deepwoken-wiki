@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 13893
+revid: 14007
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -192,6 +192,8 @@ Hand of Mantra Cards
 
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
     -   Prerequisite: Reinforce
+-   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
+    -   Prerequisite: Reinforce(?)
 
 ### Cryomancer
 
@@ -472,7 +474,7 @@ Hand of Mantra Cards
 
 ### Shade
 
--   Now you see me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
+-   Now You See Me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
 
 ### Silvertongue
 

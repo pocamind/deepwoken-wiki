@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 13248
+revid: 13997
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -8,63 +8,96 @@ categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
 
 # Combat Mechanics
 
-_Basic information about **combat** to give any voyager a fighting chance._
+This page contains basic information about **combat** and its mechanics/bars to give any voyager a fighting chance.
 
 ## GUI
 
 File:Gui.png
 
+_There's a lot of aspects to the GUI, each one playing their own part. In order to get a chance at surviving, learning these are essential._
+
 <table>
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of your health. Upon reaching 0 health, you will get knocked out and be at mercy to anyone around you.<p>Fastened regeneration at a <a href="Campfire_Pit.md">campfire</a> and slowed regeneration while in combat.</p>
-  <p><br>
-  </p><br>
-  <figure><figcaption></figcaption></figure></td>
+  <td>A visual representation of the player's health. Upon reaching 0 health, the player gets knocked out and is at mercy to anyone around them.
+  <ul>
+    <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
-  <td>Shows the stamina you have left to block. When the bar is full you will be stunned but your exhaustion will go down. The exhaustion bar also decreases if you land parries or stop blocking.<figure><a href="https://project-deepwoken.fandom.com/wiki/File:BottomGUI.png">Block Exhaust bar</a><figcaption></figcaption></figure></td>
+  <td>A visual representation of the player's posture and stamina. It shows the stamina that the player has left to block.
+  <ul>
+    <li>When the bar is full, getting hit will stun the player, and their stamina will decrease.
+  <ul>
+    <li>Stuns when hit become longer the less Posture a player has.</li>
+  </ul></li>
+    <li>Stamina also decreases if the player lands parries or stops blocking.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not you can use certain moves. The first being for feints/roll cancels, second for rolls, and the 3rd being a potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
+  <td>Icons that indicate whether or not the player can use certain moves.
+  <ul>
+    <li>The first icon shows the cooldown of feints/roll cancels, the second shows the rolling cooldown, and the third shows the potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></li>
+  </ul></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
-  <td>Ether allows you to use spells, without it you can't use magic. Different spells use certain amount of ether. Ether will regenerate normally when not using any magic.<figure><figcaption></figcaption></figure></td>
+  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and without Ether, the player cannot use spells or magic.
+  <ul>
+    <li>Different spells use a different amount of Ether, and varies often.</li>
+    <li>Ether will regenerate while not using any type of magic.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Reservoir</th>
-  <td>Regenerates Ether while slowly depleting. regenerates over time very slowly when ether if full. Fast regeneration at campfire no matter if you have full ether or not<figure><figcaption></figcaption></figure></td>
+  <td>A bar that contains unusable Ether. This bar will regenerate the player's Ether over time, depleting the Reservoir.
+  <ul>
+    <li>The lower Ether a player has, the faster the regeneration will be.</li>
+    <li>Ether will regenerate fast while at a Campfire, regardless of the player's current Ether amount.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
-  <th>Armour<p>Durability</p></th>
-  <td>Bar under the health. Represents durability of the armour that you're currently wearing. When the bar is depleted, your armor is considered to be "broken," and you will lose its effects. Can be repaired at a blacksmith, using talents, or with the Bloodiron ring.<figure><figcaption></figcaption></figure></td>
+  <th>Armor Durability</th>
+  <td>A visual representation of the player's worn armour durability. When this bar is depleted, the player's armour is considered "broken", and the buffs will disappear.
+  <ul>
+    <li>Armour can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
 
 ## Survival Basics
 
-These are required to maintain to survive in the world of Deepwoken. The most common way for these to get depleted is by simply waiting it out, but the process can be sped up, usually from the environment, creatures, or other players. In order to survive, you will need to eat food to replenish stomach, and drink water to replenish thirst.
+These are stats that are required to maintain, in order to survive in the world of Deepwoken. The most common way for any of these to get depleted is by simply waiting, but the process can be sped up, usually from the environment the player is in, creatures, or other players.
 
-File:HDSurvival.png
+-   For example, in order to survive, the player will need to eat food to replenish their Stomach, and drink Water to replenish thirst.
+
+If every bar reaches zero, the player will start to quickly lose health.
 
 <table>
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>Blood is vital for survival. You will lose it upon being attacked and some other forms of damage. Upon reaching 0 blood, you will be combat tagged, lose around 10% hp/0.15 seconds. The thirst and hunger bar will rapidly decrease in an attempt to refill your blood bar. Upon all of the bars reaching 0, you will start to lose health quickly.<figure><figcaption></figcaption></figure></td>
+  <td>A visual representation of how much Blood that is currently in the player's body. Blood is vital for survival, being attacked or taking damage in some form will cause the player to lose Blood. Upon reaching zero Blood, some things happen.
+  <ol>
+    <li>The player will always be combat tagged.</li>
+    <li>The player will lose ~10% HP per 0.15 seconds.</li>
+    <li>The player's Water and Stomach bar will rapidly decrease.</li>
+  </ol></td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>If you reach 0 water your screen gets blurry. Lose 50% of bar upon vomitting<figure><figcaption></figcaption></figure></td>
+  <td>A visual representation of how much Water that is currently in the player's body. Water isn't too vital for survival, and will deplete over time. If you reach 0 water your screen gets blurry. Lose 50% of bar upon vomitting.</td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you will lose blood and health. Lose 50% of bar upon vomitting<figure><figcaption></figcaption></figure></td>
+  <td>Essentially your hunger bar, if it reaches zero you will lose blood and health. Lose 50% of bar upon vomitting.</td>
+  <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

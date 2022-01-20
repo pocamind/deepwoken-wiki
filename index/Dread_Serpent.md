@@ -1,14 +1,12 @@
 ---
 title: Dread Serpent
-revid: 13996
+revid: 14011
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Dread Serpent
-
-yo i found a place called void sea, also what is that sound? - _**Unkown freshie**_
 
 _Also known as Kaido, Sea Serpent, and Dragon._
 
@@ -28,7 +26,7 @@ it is speculated how much life he has. it's probably more than the ferryman(35.0
 
 #### Finisher
 
--   '_Claw Swipe_ - Same as claw swipe but it kills you
+-   **Claw Swipe** - Same as claw swipe but it kills you
 
 ## Notes/Tips
 

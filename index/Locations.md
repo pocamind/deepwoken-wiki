@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 10961
+revid: 14021
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -69,6 +69,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 -   Bluster Rift
 -   Merit's Reach
 -   [Fort Merit](Fort_Merit.md)
+-   [Greathive Aratel](Greathive_Aratel.md)
 
 ### Other
 

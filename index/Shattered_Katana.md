@@ -1,9 +1,9 @@
 ---
 title: Shattered Katana
-revid: 13910
+revid: 14014
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Assdafsdf, Sg, Gss, Sgs, Gs, Dgs, D, Sfd, Sfsdf, Dsf, S, Fsd, Fs, Fds, Fsdf, Dsfs, Df, Sdff, Sf, Shattrer katana is drop yessir]
 ---
 
 # Shattered Katana

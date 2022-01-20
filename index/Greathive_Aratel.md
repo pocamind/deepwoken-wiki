@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 13886
+revid: 14023
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -98,3 +98,7 @@ The portal locations.
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "temple of the forgotten flame" portal can take you to different locations in Upper Erisia. I, personally, was taken to Lord Erisia's Manor.
+
+## Reputation
+
+In order to summon boats at the docks you will need positive reputation which can be done by farming the adret event at hive, as well as this you will need to be around level ~45 for him to recognise you

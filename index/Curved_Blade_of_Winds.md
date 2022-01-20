@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 13918
+revid: 14016
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons]
 | penetration | 35% |
 | special effect | Aftercut is applied to all attacks. |
 | stances | 2 Handed, 1 Handed |
-| selling price | 25 Notes (DON'T SELL IT) |
+| selling price | 25 Notes |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 13359
+revid: 14040
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,6 +26,7 @@ There are several different style and all share the common ability of being able
     **CRITICAL:** perform a grab and slam your enemy into the ground
     
     After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed. Your critical attack becomes a grab where you body slam the target into the ground.
+-   You need good rep with the legion to get the recommendation from the captain.
 
 ### Way of Navae
 

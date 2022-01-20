@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 13824
+revid: 14036
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,7 +29,7 @@ During a dodge, cancel the dodge to negate the endlag.
 | F | Parry | If hit right after pressing F, deflect the attack, dealing posture damage and giving you an opening to attack. |
 | F (hold) | Block | Block attacks. Taking hits while blocking fills the posture bar, if it reach 100%, you are guard broken and open to attacks. |
 | Y | Switch Stance | Toggle between holding your weapon with 1 hand or 2 hands. Available to all Medium Weapon by default and Heavy Weapons if they get the required talent. |
-| T | Taunt | Spit. No mechanical value, besides the ability to anger guards to have them chase you. (Pretty sure it also heals you a little if you land the spit.) |
+| T | Taunt | Spit. No mechanical value, besides the ability to anger npcs to have them chase you. Heals you around 7% hp. |
 | V | Carry KO'd Enemy | Carry a KO'd humanoid on your back. Can be used to save people, or move away from the fight to kill. Can be used on Hostage type NPC without KO'ing them. |
 | B | Execute KO'd Enemy | Grip a KO'd humanoid. This puts an end to their current life. |
 | W x2 | Sprint | Run faster. Posture does not decrease while running. |
@@ -57,6 +57,8 @@ During a dodge, cancel the dodge to negate the endlag.
 **M1 (while crouching and behind an humanoid) - Assassinate -** Swift attack that does large amounts of damage to [NPCs](Enemies.md), reduced against players. Can execute. If the enemy survives, they are left on the ground for a while, the duration of this is longer on [NPCs](Enemies.md). Can only be done when both the attacking player and the receiving enemy are not in combat. There are talents that can increase the damage and knockdown duration.
 
 **Space (airborn and facing a wall) - Wall Kick -** Performs a Wall Kick, sending upward while slightly pushing away from the wall. This is an alternative to wall climbing and is useful to go over ledges that slightly hangs to the side.
+
+**Z, X, C, V - Ritual Cast Inputs -** Press the keys in the correct order, displayed during a ritual cast, to cast the mantra.
 
 **N - Pickpocket (talent required) - Requires a knocked player -** Check the pockets of your target, taking notes from them.
 

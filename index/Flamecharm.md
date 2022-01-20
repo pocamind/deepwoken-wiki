@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 13840
+revid: 14025
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -43,7 +43,6 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Knocks enemies back.
 -   User takes reduced damage and has hyper-armor during casting.
 -   Can be improved with talent _Thorns of Fire_.
--   Size can become insanely huge (About 2x the size of the general store in Etris) if 3 Stratus and Cloud stones are added, and damage can be increased to ~50 if levelled up to level 5. However this will cause it to use ~180 ether to cast.
 
  |
 | File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons six burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
@@ -60,8 +59,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Burns target(s).
 -   Can destroy certain parts.
 -   Can propel the caster backwards if it is casted while jumping/walking backwards or in water.
--   Improved by [Multiplying Spark](Mantra_Modifiers.md#multiplying-spark).
--   Medium to long range
+-   Compatible with Multiplying Spark (For a Shotgun Effect) and Speed Buffs.
 
  |
 |  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
@@ -109,6 +107,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Can block break some targets at mantra level 1, and almost all targets at higher levels.
 -   Caster can walk (although slowed) while casting.
 -   Can break certain parts.
+-   Compatible with Size, Duration and Intensity Buffs.
 
  |
 |  | Rising Flame (☆☆) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
@@ -153,7 +152,8 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 |  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
 
 -   Acts as a mobile campfire with restrictions.
--   Lasts one minute.
+-   Lasts one minute without Duration Modifiers.
+-   Compatible with Duration, Intensity and Size Buffs.
 -   Cannot use to cook items.
 -   Ritual casting.
 -   Does not go out in rain

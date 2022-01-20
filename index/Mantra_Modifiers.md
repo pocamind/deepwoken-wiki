@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 13952
+revid: 14042
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -22,8 +22,8 @@ Heavily modified mantras will require Notes offering to be made.
 
 You can stack up to 3 of each modifier, including their weaker versions. This increases Ether cost though. The upgraded versions of modifiers (i.e. Cloudstone -> Stratus Stone) increase the ether cost further than their weaker counterparts.
 
-| Image | Modifier | Effect |
-| --- | --- | --- |
+| Image | Modifier | Effect | Note |
+| --- | --- | --- | --- |
 | 
 File:Cloudstonebigger.png
 
@@ -31,12 +31,12 @@ File:Cloudstonebigger.png
 
 \-1 Speed
 
- |
+ |  |
 | 
 
 File:Stratus.png
 
- | Stratus Stone | +3 Size |
+ | Stratus Stone | +3 Size |  |
 | 
 
 File:Screenshot 2021-12-28 151959.png
@@ -45,10 +45,14 @@ File:Screenshot 2021-12-28 151959.png
 
 \-1 Size
 
+ | 
+
+-   If the mantra is not a projectile, the hitbox size is reduced instead.
+
  |
 | 
 
- | Perfect Lens | +2 Range |
+ | Perfect Lens | +2 Range |  |
 | 
 
 File:Screenshot 2021-12-28 152201.png
@@ -57,10 +61,18 @@ File:Screenshot 2021-12-28 152201.png
 
 \-1 Range
 
+ | 
+
+-   Add 1 key to Ritual Casts
+
  |
 | 
 
- | Eternal Logstone | +3 Duration |
+ | Eternal Logstone | +3 Duration | 
+
+-   Add 3 keys to Ritual Casts
+
+ |
 | 
 
 File:Screenshot 2021-12-28 152259.png
@@ -69,17 +81,25 @@ File:Screenshot 2021-12-28 152259.png
 
 \-1 Duration
 
+ | 
+
+-   Improve the speed at which projectiles moves/events happens. Does not speed up casting.
+
  |
 | 
 
 File:Rush Shard.png
 
- | Rush Shard | +3 Speed |
+ | Rush Shard | +3 Speed | 
+
+-   Improve the speed at which projectiles moves/events happens. Does not speed up casting.
+
+ |
 | 
 
 File:Screenshot 2021-12-28 152413.png
 
- | Amnesic Driftwood | Removes all Modifiers on a Mantra |
+ | Amnesic Driftwood | Removes all Modifiers on a Mantra |  |
 | 
 
  | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
@@ -90,7 +110,7 @@ File:Screenshot 2021-12-28 152413.png
 -   Crafted with Cloudstone and Crystal lens.
 -   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
- |
+ |  |
 | 
 
  | Magnifying Stone | Likely same as Glass Stone.
@@ -100,11 +120,20 @@ File:Screenshot 2021-12-28 152413.png
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
- |
+ |  |
 | 
 
- | Vibrant Gem | +2 Intensity |
-| [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |
+ | Vibrant Gem | +2 Intensity | 
+
+-   Fire burns more
+-   Ice slows more
+-   Thunder stuns more
+-   Shadow steals more ether
+-   Wind ???
+-   No effect(?) on physical mantras (more testing required)
+
+ |
+| [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |  |
 
 ## Deep Gems
 
@@ -266,6 +295,7 @@ also looks identical to falseflame.
 #### Reversal Spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
+-   This modifier causes the _Adrenaline Surge_ Mantra to be generally buffed with a less duration (?)
 -   This modifier allow the _Tornado_ Mantra to pull enemies to its center.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
 -   This modifier reverses the _Flame Leap_ Mantra causing the caster to slam the ground, throwing those around them into the air.

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 13995
+revid: 14009
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-_Sometimes referred to as **Squidward**, Squid Hoss, and Squibbo._
+_Sometimes referred to as **Squidward**, Squid Hoss, Michael Phelps, and Squibbo._
 
 ## Description
 
@@ -28,7 +28,7 @@ Drops "Odd Tentacles".
 
 ### Finisher
 
--   **"So, I heard you like Mudskipp?"** - Get turned into a Mudskipper.
+-   **"Mudskipperification"** - Get turned into a Mudskipper.
 
 ## **Notes/Tips**
 
