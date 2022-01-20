@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 13911
+revid: 14137
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,7 +22,7 @@ Generally, a good rule to follow is to NEVER run away from any creature unless y
 
 It is advised you learn how each creature acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of leveling, gear, or experience will do you good if you can't parry, block or dodge attacks.
 
-While most non humanoid monsters cant block, a large quantity of them can be Posture Breaked, meaning that along with taking damage, they also take posture damage. If they get posture broken, they become open to attacks for 3 seconds.
+While most non-humanoid monsters can't block, a large quantity of them can have their posture broken, meaning that along with taking damage, they also take posture damage. If they get posture broken, they become open to attacks for 3 seconds.
 
 Stay ready and prepared. No creature is impossible to beat.
 
@@ -33,7 +33,7 @@ Stay ready and prepared. No creature is impossible to beat.
 In The Depths, creatures are noticeably different compared to the Etrean Luminant. Despite some creatures carrying over, notable changes include:
 
 -   Having slightly higher stats.
--   Creatures of differing species will no longer attack eachother, and instead completely focus on players.
+-   Creatures of differing species will no longer attack each other, and instead completely focus on players.
 -   Benefitting from the lower gravity of The Depths, being able to jump much higher to pursue players.
 -   Being much more aware, noticing players more easily.
 -   Some gaining new behaviors/abilities, such as Lionfish's Beam.
@@ -41,7 +41,7 @@ In The Depths, creatures are noticeably different compared to the Etrean Luminan
 
 And:
 
--   **Enhanced Creatures, signified by a purple aura, with roughly twice the damage and thrice the health of their normal versions, being able to spawn anywhere.**
+-   **Enhanced Creatures, signified by a purple aura, with roughly twice (2x) the damage and thrice (3x) the health of their normal versions, being able to spawn anywhere.**
 
 # Creatures
 
@@ -61,12 +61,64 @@ And:
 
 **Removed**
 
+<table><caption><b>Monster Families</b></caption>
+<tbody>
+<tr>
+  <th>Giants</th>
+  <th>Sea</th>
+  <th>Depths</th>
+</tr>
+<tr>
+  <td>Megalodaunt</td>
+  <td>Lionfish</td>
+  <td>(King) Gigamed</td>
+</tr>
+<tr>
+  <td>Deep Owl</td>
+  <td>Brainsucker</td>
+  <td>Crustaceous Rex</td>
+</tr>
+<tr>
+  <td>Terrapod</td>
+  <td>Dread Serpent</td>
+  <td>Nautilodaunt</td>
+</tr>
+<tr>
+  <td>(King) Thresher</td>
+  <td></td>
+  <td>Enforcer</td>
+</tr>
+<tr>
+  <td>Black Widow</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Rock Golem</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Knights</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Construct</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+  
+
 # Notes/Trivia
 
 -   No matter how intimidating the creatures of Deepwoken are, you must overcome your fears, there is always a chance, as they have (almost) always an attack pattern that can be parried/dodged while taking no damage if the one fighting is skilled enough.
--   Most monsters are categorized in one of three categories: Giant, Sea and Depths, which have an according +X% damage to Y stat in certain equipment. Monsters can only be of one category, which can be idenitfied by their intended fighting location. Anything that is fought in the open sea count as Sea, anything that is a giant count as Giant, and anything that only exist in the depths count as Depths.
+-   Most monsters are categorized in one of three categories: Giant, Sea and Depths, which have an according +X% damage to Y stat in certain equipment. Monsters can only be of one category, which can be identified by their intended fighting location. Anything that is fought in the open sea count as Sea, anything that is a giant count as Giant, and anything that only exist in the depths count as Depths.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
--   NOT all attacks are parriable; Buy a Hunter Brace at the Summer Island to be able to.
--   Some creatures will fight each other. Multiple are able to fight at the same time. Example-[Here](https://youtu.be/01uQchtfUvw)\-
+-   NOT all attacks can be parried; Buy a Hunter Brace at the Summer Island to be able to.
+-   Some creatures will fight each other; Multiple can fight at the same time. Example [here](https://youtu.be/01uQchtfUvw)
 -   Some variants of some creatures are limited to The Depths.

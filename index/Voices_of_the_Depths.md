@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 8485
+revid: 14079
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -16,7 +16,7 @@ The Voices of the Depths are the numerous Voices that have dialogue when a playe
 
 _"General or widespread hatred or disgust directed toward someone as a result of their actions."_
 
-The Voice of Odium is the first voice to talk when the player enters the elevator. This Voice objects that all of the players are uglier than the previous one. It calls the players "fetid lumps of waste," showing obvious distaste and hatred towards the players. The Voice of Odium also hates the player's stench, or odor, calling them nasuaeting and wanting them to be gone.
+The Voice of Odium is the first voice to talk when the player enters the elevator. This Voice objects that all of the players are uglier than the previous one. It calls the players "fetid lumps of waste," showing obvious distaste and hatred towards the players. The Voice of Odium also hates the player's stench, or odor, calling them nauseating and wanting them to be gone.
 
 ### Voice of Sequestration
 

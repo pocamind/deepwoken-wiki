@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14046
+revid: 14119
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -31,12 +31,20 @@ File:Cloudstonebigger.png
 
 \-1 Speed
 
- |  |
+ | 
+
+-   If the mantra is not a projectile, the hitbox size is increased instead.
+
+ |
 | 
 
 File:Stratus.png
 
- | Stratus Stone | +3 Size |  |
+ | Stratus Stone | +3 Size | 
+
+-   If the mantra is not a projectile, the hitbox size is increased instead.
+
+ |
 | 
 
 File:Screenshot 2021-12-28 151959.png
@@ -64,6 +72,7 @@ File:Screenshot 2021-12-28 152201.png
  | 
 
 -   Add 1 key to Ritual Casts
+-   Doesn't increase the duration of Adrealine Rush
 
  |
 | 
@@ -99,7 +108,11 @@ File:Rush Shard.png
 
 File:Screenshot 2021-12-28 152413.png
 
- | Amnesic Driftwood | Removes all Modifiers on a Mantra |  |
+ | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
+
+-   Remove every single modifier previously added to the mantra, including sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
+
+ |
 | 
 
  | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
@@ -131,6 +144,7 @@ File:Screenshot 2021-12-28 152413.png
 -   Shadow steals more ether
 -   Wind ???
 -   No effect(?) on physical mantras (more testing required)
+-   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
 
  |
 | [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |  |
@@ -232,11 +246,7 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun
-
-Shadow Gun
-
- | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
  | Spring Spark | Strong Leap | Applies "Fire Trap" to compatible Mantra. |
@@ -302,12 +312,11 @@ also looks identical to falseflame.
     -   If you fall before the animation completes, all fall damage is negated.
     -   When casted in water, user dives into the water and floats back up. Creates a flaming AoE when/if user reaches land.
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)
--   Using this modifier on "Ice chains" will make it so it will pull whoever you hit towards you. (Basically Mortal Kombat Scorpion's "Get over here! "move lol)
+-   Using this modifier on "Ice chains" will make it so it will pull whoever you hit towards you.
 
 #### Multiplying Spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
--   This modifier turns the Shadow Gun Mantra into a multiple shots.
 
 #### Tornado Spark
 

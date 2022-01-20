@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 14058
+revid: 14097
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]

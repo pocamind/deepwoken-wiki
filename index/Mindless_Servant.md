@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 8499
+revid: 14088
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Monsters]
 
 ## Description
 
-An unfortunate group of individuals that became victims from [The Duke's](Duke_Ishamon_Erisia.md) grasp. They have been experimented to the point where their soul departed from their bodies, leaving only a husk of one's self.
+An unfortunate group of individuals that became victims of [The Duke](Duke_Ishamon_Erisia.md). They have been experimented on to the point where their soul departed from their bodies, leaving only a husk of oneself.
 
 File:Constructs.png
 
@@ -24,16 +24,15 @@ Mindless Servants, incapacitated and about to be executed
 
 -   **Smack -** The Mindless Servant smacks their enemy, dealing minor damage.
 
-  
-
 ### Finisher
 
--   **Jugula Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
+-   **Jugular Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
 
 ### Intelligence
 
-Mindless Servants only knows how to parry.  
+Mindless Servants can only parry.  
 
 ## Notes/Trivia
 
--   Mindless Servants' behaves similar to [Mudskippers](Mudskipper.md), except smarter.
+-   Mindless Servants behave similarly to [Mudskippers](Mudskipper.md).
+-   May become extremely difficult to fend off if you have no block breaking mantra's, and have 5-6 of them on you, as they have no anti-npc teaming ai, so they will all hit you relentlessly.

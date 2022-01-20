@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14028
+revid: 14121
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -29,7 +29,11 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
 -   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's kick. Can only be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
--   **Posture Break** - During this time period, Primadon is staggered and **can** be hit by mantra attacks.
+
+## Passives
+
+-   **Mantra Immunity** - Primadon have total immunity to mantras, both Elemental and Physical. Only weapons can damage it.
+    -   Deep gems will still activate however.
 
 ## Rewards
 
@@ -58,3 +62,4 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem chests were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes
 -   In the game files, it is called "Monky"
+-   Adret's don't get wiped and sent to depths if they die from Primadon. (Source: Trust me bro)

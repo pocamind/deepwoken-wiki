@@ -1,12 +1,18 @@
 ---
 title: Lionfish
-revid: 13517
+revid: 14111
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Lionfish
+
+“ This is the power of a released Espada... Cero Oscuras ”
+
+― Lionfish before instakilling a freshspawn in the depths
+
+  
 
 ## Appearance
 
@@ -19,11 +25,11 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 
 ## Moves
 
-**Bite** - Bites three times. Each bite does _**25 damage**_. Can be parried.
+**Bite** - Bites three times. Each bite does _**25 damage**_. (More than 40 damage if corrupted) Can be parried.
 
 **Dive (Only in Etrean Luminant)** - The Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
 
-**Cero** (**Only in Depths and Hive/Under Lordsgrove**)- Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
+**Cero** (**Only in Depths and Hive/Under Lordsgrove**)- Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. (More than 120 damage if corrupted) Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
 
 ## Located
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 13828
+revid: 14140
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -53,19 +53,19 @@ The [Voices of the Depths](Voices_of_the_Depths.md) sentence you to a fight agai
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
-_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases by going to the depths._
+_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 40 players may fight The Enforcer). Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases by being sent to the Depths via dying._
 
 | Trial Power | Possible Enemies |
 | --- | --- |
 | 1-9 | N/A - You escape without fighting a monster |
 | 10-19 | Deepknight (Bandit Leader) |
 | 20-29 | [Angels](Hollow_Angel.md) |
-| 30-49 | [Megalodaunt](Megalodaunt.md) (Corrupted after power 40) |
+| 30-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
 | 50+ | [Enforcer](Enforcer.md) |
 
-**Note:** If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
-
-_**Note: Being sent to the depths by a mob or player will add a count to "times drowned". This count is added to your level when factoring what mob you fight in the trial**_  
+-   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
+-   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.  
+    
 
 ## Farming in The Depths
 
@@ -73,7 +73,7 @@ _**Note: Being sent to the depths by a mob or player will add a count to "times 
 
 The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are Talents you may want to consider acquiring before heading down to The Depths that will aid in your sustained survival in one of the most trecharous areas in Deepwoken:
 
--   _**Carnivore**_, the Talent apart of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up appears to either be **Strength** or **Fortitude** (most likely Strength).
+-   _**Carnivore**_, the Talent apart of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (so if you took Vegetarian, you're screwed,) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up is **Strength.**
 
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 
@@ -88,11 +88,14 @@ Just a bag of information to keep in mind and remember
 
 -   **_[Insanities](Insanity.md)_** will be your artificial timer for how long you can stay in the depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before dying. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). Those basically allow you to stay forever in The Depths, as sitting near a campfire restore sanity. Remember that Lockers in the Diver Camp and Castle Light do not restore sanity.
-    -   Hearthening potions, made with Bluecaps, restore sanity. They are easy to make and even with low intelligence stat, still provide a decent amount of sanity.
 -   _**Corrupted Monsters**_ are where the juiciest part of Depths Farming gets. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterpart but have 3x HP and 2x damage. These grant chest with super high tier loot, possibly endgame tier and [Luck](Luck.md) when defeated
 -   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfire means that healing methods are limited. Beside killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to bring _**healing potions**_.
 -   Consider bringing _**elemental stones**_. The lack of campfire mean that you will often be low on reservoir.
+
+-   **_Heartening Salves_** are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 bluecaps to make the max version of the potion.
+
+  
 
 ## Quests (incomplete)
 

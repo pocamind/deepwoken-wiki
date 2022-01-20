@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 13734
+revid: 14130
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -29,6 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you 
 This Outfit's schematic can be found:
 
 -   It can be found in chests in [Lower Erisia](Lower_Erisia.md).
+-   It can also be purchased for 80 notes if you go up the ladder in the Weapon's Shop in Etris.
 
 ## Trivia/Notes
 
