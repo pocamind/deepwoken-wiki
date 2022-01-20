@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14042
+revid: 14046
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -180,7 +180,7 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | 
 File:Magnet Spark PNG.png
 
- | Magnet Spark | Electric Blade
+ | Magnet Spark | Lightning blade
 
 Jolt Grab
 

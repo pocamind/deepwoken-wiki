@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14007
+revid: 14064
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -389,7 +389,7 @@ Hand of Mantra Cards
 
 ### Meditative Trance
 
--   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health, healing stops when reaching 55% HP)
+-   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health, ~healing stops when reaching 55% HP~ now heals to full, can be abused by not pressing any movement keys, allowing the regen buff even when knocked back or ragdolled)
 
 ### Mental Fortress
 
@@ -550,6 +550,7 @@ Hand of Mantra Cards
 -   Pickpocket \[Generic Talent, Common Talent\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
 -   Cap Artist \[Generic Talent, Common Talent\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Generic Talent, Common Talent\] - Gain more notes when mugging a player. (+2 Ether)
+-   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
 
 ### Thunder Brawler
 

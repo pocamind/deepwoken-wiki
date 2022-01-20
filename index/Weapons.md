@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 13986
+revid: 14048
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -207,7 +207,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead. Using ether as ammo however, will not work with your critical.
+Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead.
 
 Each gun has a Main Hand and Off Hand version. To use your off-hand gun while you're not dual-wielding, you must press M2.
 
@@ -399,12 +399,12 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Cavalry Saber</td>
   <td>40 MED</td>
-  <td>22</td>
+  <td>21</td>
   <td>N/A</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>MED: 5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td>Shotel</td>

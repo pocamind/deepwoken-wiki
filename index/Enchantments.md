@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14015
+revid: 14045
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -281,7 +281,7 @@ Drowned
 
  | 
 
-make u swim faster in water. ( stop giving fake information. )
+we really need to figure out what in the world this does does it give multiple buffs? is it the multiplied attack damage in depths or water like we originally thought?? is it faster swimming speed?? WHAT IS THIS DAMN THING.
 
   
 
@@ -332,3 +332,4 @@ Credits to the people who made this page better:
 -   SyntexLP
 -   MacShaino
 -   nonliams
+-   AstridgamingAG

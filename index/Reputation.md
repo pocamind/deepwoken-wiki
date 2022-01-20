@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 13468
+revid: 14055
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -115,7 +115,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   The Central Authority
 -   The Kingdom of Etrea
 -   The Navaen Nomads
--   Summer Company (You can only have neutral and negative reputation)
+-   Summer Company
 -   The 11th Legion/The Empire
 -   Greathive Aratel
 

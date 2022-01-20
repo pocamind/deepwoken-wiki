@@ -1,13 +1,23 @@
 ---
 title: Dying Embers
-revid: 12058
+revid: 14053
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Dying Embers
 
-Dying Embers are used to get Flamecharm. Flamecharm is one of the five attunements (elements) which is known for it's solo progression perks. Dying embers drop from anything that uses the magic of Flamecharm. One simple way to find these are from the Exploding Mudskippers from the Mudskipper event in Erisia (not to be confused by the Mudskippers inside the Pathfinder's Respite cave). This is a uncommon event and they will attack bandits if they are close-by. They also drop from golems and Flamecharm users at Songseeker wilds.
+Dying Embers are used to get [Flamecharm](Flamecharm.md), one of the five attunements (elements) which is known for it's solo progression perks.
+
+Dying embers drop from any NPC that uses the magic of [Flamecharm](Flamecharm.md).
 
   
-NOTE: this page literally was just edited by me and we need to fix this in the future.
+**Picture of a Dying Ember**
+
+  
+
+  
+
+One simple way to find these are from the **Exploding Mudskippers** from the [Mudskipper](Mudskipper.md) event in [Erisia](Erisia.md) (not to be confused by the Mudskippers inside the Pathfinder's Respite cave). This is a uncommon event and they will attack bandits if they are close-by.
+
+They also drop from [Golems](Rock_Golem.md) and [Flamecharm](Flamecharm.md) users at Songseeker Wilds.

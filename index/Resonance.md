@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 13903
+revid: 14062
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -64,6 +64,7 @@ In addition to being multiple times stronger than the original effect, some Corr
 
 -   Run It Back: The user gains complete invincibility for the entire duration of the Resonance.
 -   Distortion Realm: The user can use the Resonance during combat.
+-   Sacred Field: The field is significantly larger and lasts longer.
 
 ## Resonance Versions
 
@@ -267,7 +268,7 @@ You are most likely to not get the exact Resonance combination you want when you
 
 Around The Depths are Resonance Doors, which, self explanatory, require a Resonance to open. Past them resides Yun'Shul, who presents the players with "Wishes".
 
-Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance An optimal level to get a Resonance at would be 40, allowing you to reroll three times.
+Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance ~An optimal level to get a Resonance at would be 40, allowing you to reroll three times.~ You can only reroll your Resonance once.
 
 The caveat is that upon rerolling your Resonance, you have a new flaw which increases the windup/cooldown of your Resonance. Beggars cant be choosers.
 

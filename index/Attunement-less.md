@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 13894
+revid: 14058
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Physical Mantras]
@@ -19,10 +19,11 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 
 ### _**Strength Mantras**_
 
-Strength mantras are mainly based on combat and slightly on mobility. To increase the damage output and level cap, invest points in Strength.
+`Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with _Dumbells_, or chop trees with a _Lumber Axe_.`
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
 -   Requirement: 5 Strength, _Strength Combat Mantra_
+-   Upgradeable with the talent _Tree Felling Blow_.
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes.
 -   Requirement: ~7 Strength, _Strength Combat Mantra_
@@ -33,7 +34,7 @@ Strength mantras are mainly based on combat and slightly on mobility. To increas
 
 ### _**Fortitude Mantras**_
 
-Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, invest points in Fortitude.
+`Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a _Training Vest,_ or feel the crushing weight of a _Boulder_.`
 
 -   **Rally** - Strike your shield a few times to absorb some of the posture received by nearby guildmates for a short duration.
 -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
@@ -47,7 +48,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 ### _**Agility Mantras**_
 
-Agility mantras are mainly based on enhancing the user's movement speed. To increase the distance travelled(dash moves)/duration and level cap, invest points in Agility.
+`Agility mantras are mainly based on enhancing the user's movement speed, and movement options. To increase the distance travelled of dash moves/duration and level cap, strengthen your legs with _Ankle Weights_.`
 
 -   **Dash** - An agile Dash.
 -   Requirement: 10 Agility, _Agility Mobility Mantra_
@@ -61,7 +62,7 @@ Agility mantras are mainly based on enhancing the user's movement speed. To incr
 
 ### _**Intelligence Mantras**_
 
-Intelligence mantras act as "_wildcards_" in the user's arsenal. To increase the level cap, invest points in Intelligence.
+`Intelligence mantras act as "_wildcards_" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an _Encyclopedia,_ or _Math Textbook_.`
 
 -   **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients.
 -   Requirement: 20 Intelligence, _Intelligence Support Mantra_
@@ -71,7 +72,7 @@ Intelligence mantras act as "_wildcards_" in the user's arsenal. To increase the
 
 ### _**Willpower Mantras**_
 
-Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, invest points in Willpower.
+`Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, bolster your sanity and wisdom with _Prayer Beads_.`
 
 -   **~Sigma Stare~ Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
 -   Requirement: 25 Willpower, _Willpower Support Mantra_
@@ -81,7 +82,7 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 
 ### _**Charisma Mantras**_
 
-Charisma mantras are mainly based on support: immobilizing and debuffing enemies. To increase the duration/level cap, invest points in Charisma.
+`Charisma mantras are mainly based on support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on _'How to Make Friends'._`
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
 -   Requirement: 25 Charisma, _Charisma Support Mantra_
