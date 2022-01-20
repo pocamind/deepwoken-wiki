@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 13871
+revid: 13967
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -25,7 +25,7 @@ Upon being killed, it drops his hide, but may also grant a chest with decent gea
 ## Moves
 
 -   **Slash** - A short range slash. Can be blocked and parried. Heavy posture damage.
--   **WATCH YOUR TONE** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if hit into a wall within a second of being kicked.
+-   **Kick** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if hit into a wall within a second of being kicked.
 -   **Jump** - If the target is above it, the Megalodaunt will jump, causing a multi-hit attack in a wide radius in front of it. Can be blocked and parried (this attack may be used after a kick).
 -   **Spit** - A multi-hit projectile targeted at a single target. Can be blocked and parried.
 -   **Roar** - Roars at nearby targets, putting them in combat and inflicting a generous amount of insanity. A poor move in the Etrean Luminant but especially deadly in [The Depths](The_Depths.md), as it can cause a player to suffer from the effect of Insanity much earlier than expected, or worse, mid fight.

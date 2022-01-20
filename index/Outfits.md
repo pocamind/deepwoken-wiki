@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13885
+revid: 13982
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -656,3 +656,4 @@ _Requires Power Level 30_
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
 -   Some Accessories can be Ascended, Enlightened, Celestial and have buffed stats.
+-   Arch confirmed that there are **5** master armors.

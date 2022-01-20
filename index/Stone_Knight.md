@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 13531
+revid: 13954
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,7 +18,7 @@ Exclusive to the Winter season.
 
 Killing two of these monsters in the winter will spawn a chest that has a guarantee drop of a [Hero's Blade](Hero_Blades.md). The element of the blade is random.
 
--   To make it easier to kill these, you can lure them to the [Rogue Construct](Rogue_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight.
+-   To make it easier to kill these, you can lure them to the [Forest Golem](Hive_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight.
 
   
 
@@ -58,7 +58,7 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
 
 **Sand Knight:**
 
-A tankier version of the [Blizzard Knight](Stone_Knight.md#blizzard-knight) that spawns near the large gate at [Starswept Valley](The_Starswept_Valley.md). This monster falls from the sky in a meteor similar to the Blizzard Knights except he is alone. He much more tankier than the Blizzard Knights since he is alone.
+A weaker version of the [Blizzard Knight](Stone_Knight.md#blizzard-knight) that spawns near the large gate at [Starswept Valley](The_Starswept_Valley.md). This monster falls from the sky in a meteor similar to the Blizzard Knights except he is alone. Sand Knights have less HP than Blizzard Knights, but do the same amount of damage (I'm able to solo Sand Knights but not Blizzard Knights). Sand Knights can not drop hero swords.
 
   
 Some pictures of the Rock Knight after the meteor lands:

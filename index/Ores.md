@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 13861
+revid: 13937
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,9 +24,11 @@ Ores are materials found all around the map, especially in caves. It is used for
 
 Iron, Coal and Rock can be found in pretty much any cave, Gold can be found in Song Seeker Isle Mines.
 
-Erisore and Irithine have their own caves.
+Erisore (From what I've heard) Spawns mostly in 'The Hidden Village'. \[There's another spot, if someone knows please edit this\]
+
+Irithine spawns in the Reservoir Cave in Towerstruck Lands. Its fairly common there
 
 ## Trivia
 
--   While every ore has its own color, they are gain a dark tone when held as an item, the only exception being the rock.
--   Rocks can be thrown.
+-   While every ore has its own color, they become black when held as an item, with the only exception being the rock.
+-   Rocks can be thrown, it's distance can be upgradable by the Pitcher talent.

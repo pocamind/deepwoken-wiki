@@ -1,20 +1,16 @@
 ---
 title: Deep Widow
-revid: 13525
+revid: 13963
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Deep Widow
 
 ## Description
 
-File:Dumb fucking spider.png
-
-_**Bugcatcher Joey challenges you to a battle!!!**_
-
-A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Valley](The_Starswept_Valley.md), along with **possibly** being in [The Depths](The_Depths.md).
+Template:Creature Infobox V3 A Giant Spider, presumably female, that lurks in Widow's Hollow in [Starswept Valley](The_Starswept_Valley.md), along with **possibly** being in [The Depths](The_Depths.md).
 
 ## Moves
 

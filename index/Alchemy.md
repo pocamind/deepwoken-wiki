@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 13905
+revid: 13919
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -66,12 +66,14 @@ Finally, potions have a greater effect when brewed by a character with high inte
 
 ### Talents
 
-The Apothecary and Exterminator talents both increase the effects of potions when drunk/thrown (respectively), by an unknown amount (perhaps 50%?). This does not change the suffix of the potion, but it can change the prefix. For example, if you have the Apothecary talent but not the Exterminator talent, potions brewed with Plumfruit will have the Strengthening prefix, as Apothecary increases that effect but not the negative Grueling effect which is otherwise stronger.
+The Apothecary and Exterminator talents both increase the effects of potions by an unknown amount (perhaps 50%?). While the talents claim this only applies when the potion is drunk or thrown for Apothecary and Exterminator respectively, this is not true - potions brewed with these talents will **always** have stronger effects, regardless of if they are thrown or drunk.
+
+These talents do not change the suffix of the potion, but it can change the prefix. For example, if you have the Apothecary talent but not the Exterminator talent, potions brewed with Plumfruit will have the Strengthening prefix, as Apothecary increases that effect but not the negative Grueling effect which is otherwise stronger.
 
 The Wild Alchemy talent has the description:  
 _"Potions you prepare will have a chance to have doubled ingredients when mixed."_
 
-This doesn't seem to be accurate. When a potion is brewed with Wild Alchemy, it gains a small increase in strength to all its effects, which is sometimes enough to change the suffix of the potion's name. When tested with both Apothecary and Exterminator talents on a character with 40 INT, potions affected by Wild Alchemy saw an increase of slightly less than 20% to the effect strength - this was consistent across all potions tested.  
+This doesn't seem to be accurate. When Wild Alchemy affects a potion, it gains a small increase in strength to all its effects, and sometimes changes the suffix of the potion's name. When tested with both Apothecary and Exterminator talents on a character with 40 INT, potions affected by Wild Alchemy saw an increase of slightly less than 20% to the effect strength - this was consistent across all potions tested.  
 It's unknown if this is a bug or if there are factors we don't yet understand. More testing is needed.
 
 ## Ingredients
@@ -80,7 +82,7 @@ There are 24 (known) potion ingredients, though only 15 have an effect strong en
 
 Almost all ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient.
 
--   Alestrian Coral - Primary effect is **Dulling**; Decreases mantra damage. Secondary effect is **Hastening**; Increases speed for 15 seconds.
+-   Alestrian Coral - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Hastening**; Increases speed for 15 seconds.
 
 -   Bamboo Bundle - Primary effect is **Appalling**; Instantly drains Reservoir. Secondary effect is **Steadfast**; Increases maximum Posture.
 
@@ -99,7 +101,7 @@ Almost all ingredients have a positive and a negative effect - one of these effe
 
 -   Dentifilo - Primary effect is **Soothing**; Instantly restores reservoir. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
--   Gathered Wheat - Primary effect is **Dulling**; Decreases mantra damage. Secondary effect is **Focus-Enhancing**; Drastically increases the rate that Reservoir is turned into Ether for 15 seconds.
+-   Gathered Wheat - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Focus-Enhancing**; Drastically increases the rate that Reservoir is turned into Ether for 15 seconds.
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
     -   Even after running out of reservoir, the Focus-Enhancing effect will still increase ether regeneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
 
@@ -188,7 +190,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Blight</td>
   <td>Gathered Wheat<br>
   Alestrian Coral</td>
-  <td>Reduces damage dealt by mantras.</td>
+  <td>Reduces damage dealt.<br>
+  Appears to have a reduced effect on low damage attacks (like daggers).</td>
   <td>Opposite effect to <b>Strengthening</b>.</td>
 </tr>
 <tr>
@@ -323,6 +326,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Unknown if spider eggs improve this potion - if they don't, the last two ingredient slots should be used for a second effect. Any positive effect is good here, though invigorating (from goblettos and beeswax) will help restore the small amount of lost health.
 -   **Insanity** (Mindbreaker) - 3 Urchin + 2 Spider Egg
     -   With the Exterminator talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
+    -   This potion reduces sanity over time and doesn't stack - replacing the spider eggs with a second effect (like ether drain) still allows you to drain sanity at the same speed, though you'll need to land more potions to kill someone.
 -   **Ether Restoration** (Focus-Enhancing) - 1 (2) Gathered Wheat + 2 (1) Plumfruit + 2 Spider Eggs
     -   The Focus Enhancing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
 -   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Redd

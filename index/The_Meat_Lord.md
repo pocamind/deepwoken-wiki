@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 11559
+revid: 13932
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -13,13 +13,14 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 ## Wares
 
 -   Calamari
--   Sushi
--   Seafood Boil
 -   Fish Omelette
+-   Glazed FIsh
+-   Seafood Boil
+-   Sushi
 
-## Notes
+## Notes/Trivia
 
 -   Choosing the "Hey" option when speaking to him will make him stop selling to you
 -   Hostile NPCs do not attack him
 -   You are able to bow to The Meat Lord
--   Talking to The Meat Lord while posesing the vegetarianbane will give you the dialog option to tell him that you are a vegetarian, the meat lord will respond with "did I ask".
+-   Talking to The Meat Lord while possessing the vegetarian flaw will give you the dialogue option to tell him that you are a vegetarian, to which the meat lord will respond with "Did I ask?"

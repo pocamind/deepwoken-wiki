@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 13758
+revid: 13983
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -8,11 +8,19 @@ categories: [Pages with broken file links, Boss]
 
 # The Ferryman
 
-_"Flames will call The Ferryman..."_
+_You measured risk, you took the chance,_
+
+_Now what awaits, guess, in advance -_
+
+_DANCE, puppet, dance! Dance if you can!_
+
+_The flames have called the Ferryman!_
+
+_( - Naktigonis)_
 
 ## Description
 
-Template:Creature Infobox V3 **The Ferryman** is a mysterious Krulian referenced in some old folklore of the surface world, able to be encountered on the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanour shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
+Template:Creature Infobox V3 **The Ferryman** is a mysterious Krulian referenced in some old folklore of the surface world, able to be encountered on the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
 
 He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. If the ferryman has already been summoned in the server, the campfires must be replaced. After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
 
@@ -33,16 +41,16 @@ The Ferryman immediately begins in his second phase behavior when multiple playe
 
 ### Rewards
 
--   **Luck** - During all seasons, you recieve a fixed amount of luck.
--   **Amythest Pendant Earrings** - Grants +8 Ether and +6 Sanity, and does not drop on subsequent attempts. Received only during summer.
--   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armour compared to higher level armour. It basically gives you displacement enchant for every lightning mantra you're hit with, and reduces the damage from lightning significantly. Applies to both player mantras, the Ferryman's own moves and King Gigameds/Jellyfish moves.
+-   **Luck** - During all seasons, you receive a fixed amount of luck.
+-   **Amethyst Pendant Earrings** - Grants +8 Ether and +6 Sanity, and does not drop on subsequent attempts. Received only during summer.
+-   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It basically gives you displacement enchant for every lightning mantra you're hit with, and reduces the damage from lightning significantly. Applies to both player mantras, the Ferryman's own moves and King Gigameds/Jellyfish moves.
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
 -   Defeating the Ferryman during spring "awards" unique dialogue.
 
 ### Battle Strategies
 
 -   Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works; when you get close, he is programmed to stop attacking (as he is unable to teleport during an attack), that way you can't get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
-    -   This may be patched in future updates, but still works as of 1/16/2022.
+    -   This may be patched in future updates, but still works as of 1/19/2022.
 -   The Ferryman usually teleports away when you attempt to attack him with your weapon after his attacks, but he becomes vulnerable while using Lightning Strike and Lightning Clone.
     -   The Ferryman also has a window of time where you can attack him after he uses Lightning Strike, which becomes larger in his second phase.
 -   If you parry the Ferryman's three strikes during Lightning Assault, he will give you a window of time to hit him once or twice before he teleports. This window of time is extended if you parry his Lightning Assault during the 2nd phase.

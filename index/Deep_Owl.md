@@ -1,37 +1,24 @@
 ---
 title: Deep Owl
-revid: 13846
+revid: 13991
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Deep Owl
 
-_Also known as Black Owls, Owls_
+_Also known as Owls._
 
 ## Description
 
-“ Hey guys look! Black feathers! I need that for this Adept armour set, c'mon! ”
-
-― Hapless adventurer.
-
-File:Owlloawdad.png
-
-Deep Owl
-
-A large and extremely uncommon monster with juggernaut-like traits. Said to appear most frequently across Upper Erisia, its presence will be highlighted by a shallow cloud of black feathers in the air.
+Template:Creature Infobox V3 A large and extremely uncommon monster with juggernaut-like traits. Its presence will be highlighted by a shallow cloud of black feathers in the air.
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-Owl drops Black Feathers. **It is not recommended to fight Owl alone below level 40, as each attack is devastating.** Appears across most places, especially Upper Erisia. It does not spawn on Lower Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore, it's good time to log if you aren't strong enough to kill it.
+I**t is not recommended to fight Owl alone below level 40, as each attack is devastating.** Appears at most places. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore, it's good time to log if you aren't strong enough to kill it.
 
 Even though the dialogue ended, the owl will not attack you unless you attack the owl first or **YOU SHOW YOUR BACK TO OWL.** Just like escaping from dangerous wildlife such as lion or bear in real life, if you stare at the owl and walk backward, it will not attack you and you will eventually get out from owl's detection range.
-
-### Drops
-
--   Dark Feathers
--   Void Feathers
 
 ## **Attacks**
 
@@ -72,10 +59,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key.
 ## **Notes/ Tips**
 
 -   Feared by lower-level player. Hunted by high level player
-
 -   Always parry its Talon Swipes.
 -   When it uses Flock of Feathers, you can get easy parries.
 -   Dodge or Parry the Whirling Dash.
     -   It normally does this after it strikes you with three talon swipes.
--   Roll a second before it grabs you, preventing you from getting half of your HP from depleting.
--   Log if it ever interrogates you.

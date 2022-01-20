@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 13767
+revid: 13939
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -24,7 +24,7 @@ This Outfit has 1200 durability and grants +20% Physical resistance and +10% Sla
 
 This Outfit's Schematic can be found:
 
--   Locations here
+-   It can be found in chests in [The Depths](The_Depths.md)
 
 ## Trivia/Notes
 

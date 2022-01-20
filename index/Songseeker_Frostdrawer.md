@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 12282
+revid: 13959
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Songseeker Frostdrawers are NPC enemies that have the "[Frostdraw](Frostdraw.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot.
+Songseeker Frostdrawers are NPC enemies that have the "[Frostdraw](Frostdraw.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot. They have 1000 HP.
 
 They can be found sitting on the ground wearing a mask and a pair of robes, their appearance is repetitive, the race not.
 

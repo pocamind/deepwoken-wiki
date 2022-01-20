@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 13875
+revid: 13993
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -55,6 +55,11 @@ Quest:
 
 -   Pick up the Etrean hostages within the prison and talk to the Guardmaster while carrying them.
 -   You will be rewarded with a chest containing decent gear and loot.
+
+  
+**Officer Note quest**
+
+There is a guy you can see through a window and you can bribe him with an officer note for key. The key will open the door to the forgotten temple.
 
 ## Tips
 

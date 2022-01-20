@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 12280
+revid: 13957
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Songseeker Thundercallers are NPC enemies that have the "[Thundercall](Thundercall.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot.
+Songseeker Thundercallers are NPC enemies that have the "[Thundercall](Thundercall.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot. They have 1000 HP.
 
 They can be found sitting/standing on the ground wearing a mask and a pair of robes, their appearance is repetitive, the race not.
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 13529
+revid: 13955
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,19 +8,17 @@ categories: [Pages with broken file links]
 
 # Hive Construct
 
+Template:Creature Infobox V3
+
+  
+
 Forest Golems, also known as Hive Mech, Hive Construct, or Obsidian Golems (given their black appearance), spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md) (To be combined with Ice Golems)
-
-File:Golem Grand Javelin.png
-
-Forest Golem being shot by a Grand Javelin (L bozo)
 
 Forest Golem at Starswept Valley/Bluster Canyon
 
 ## Description
 
 They have a black obsidian-like appearance, with foliage around its legs. Shorter and smaller than a [Sharko](Megalodaunt.md), but is garaunteed to whoop your ass if you fight it solo. The ones that spawn at [Minityrsa](Minityrsa.md) have red rings around their arms, and the ones that spawn at Hive Island/[Starswept Valley](The_Starswept_Valley.md) have green rings around their arms. Does insane damage, easily doing 50% hp to most people level 40-50 in one hit. They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
-
-Forest Golem at Minityrsa
 
 ## Moves
 
