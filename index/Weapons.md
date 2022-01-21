@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14228
+revid: 14287
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -74,7 +74,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.05x</td>
 </tr>
 <tr>
-  <td>Parrying Dagger (Side Weapon)</td>
+  <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
   <td>10 LHT</td>
   <td>N/A</td>
   <td>N/A</td>
@@ -277,7 +277,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Sword</td>
+  <td><a href="Sword_(weapon).md">Sword</a></td>
   <td>0 MED</td>
   <td>18</td>
   <td>N/A</td>
@@ -367,7 +367,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Vigil Longsword</td>
+  <td><a href="Vigil_Longsword.md">Vigil Longsword</a></td>
   <td>40 MED</td>
   <td>20</td>
   <td>N/A</td>
@@ -377,7 +377,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Champion Sword</td>
+  <td><a href="Champion's_Sword.md">Champion's Sword</a></td>
   <td>40 MED</td>
   <td>19</td>
   <td>N/A</td>

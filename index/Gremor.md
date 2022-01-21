@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 13557
+revid: 14270
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -93,6 +93,7 @@ Compass is unusable in [The Depths](The_Depths.md) and inside of the [Voidsea](V
 -   While in The Depths, the compass is angled in a broken fashion, making it near impossible to use.
     -   Also applies to Void Sea
     -   Almost always good at pvp, regardless of progression.
+    -   Absolute chad race
 
 <table>
 <tbody>

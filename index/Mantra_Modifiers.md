@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14240
+revid: 14293
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -131,8 +131,6 @@ Reduces damage of mantra for 20%.
  |
 | 
 
-File:Blessedgem.png
-
  | Blessed Gem | Removes cooldowns for mantras with the Blessed Gem equipped. |
 | 
 
@@ -144,9 +142,9 @@ File:Screenshot 59.png
  | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
-## Sparks
+## Sporks
 
-Sparks are modifiers that are only able to be used on specific mantras.
+Sporks are modifiers that are only able to be used on specific mantras.
 
 If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
 

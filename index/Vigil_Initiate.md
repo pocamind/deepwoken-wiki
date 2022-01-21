@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 13852
+revid: 14286
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -35,3 +35,4 @@ This Outfit's Schematic can be found:
 -   The better version of this armor is the Cloak Of Winds which gives the same talent with much better stats
 -   This armor is worn by the starting guide on Isle of Vigils
 -   Relatively good for early game to mid game when used with the Katana
+-   The schematic is called "Wandering Swordsman" instead of Vigil Initiate before giving it to a blacksmith.

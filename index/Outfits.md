@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 14256
+revid: 14265
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -238,7 +238,7 @@ x1 Rock
 _+Talent: Now You See Me (increased stealth while crouching)_
 
  |
-| File:Whaler Coat.png | Whaler Coat | x5 Cloth
+| File:Whaler Coat.png | [Whaler Coat](Whaler_Coat.md) | x5 Cloth
 
 x5 Fiber
 

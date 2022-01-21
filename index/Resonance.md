@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14062
+revid: 14275
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -147,7 +147,9 @@ Reaper Variation 2.
 -   On activation, call forth a randomly chosen weapon.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
 
-#### Known Weapons:
+"A weapon brought from your soul"
+
+Known Weapons:
 
 -   **Divine Axe**
     -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.
@@ -255,7 +257,7 @@ The grey circle represents a placed marker.
 
 ## Unconfirmed Resonances
 
-### ???
+### Resurrection???
 
 -   Currently unfinished.
 -   Documented in [this video](https://www.youtube.com/watch?v=FRsQc1a4ZDY).
