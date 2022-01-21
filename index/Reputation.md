@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 14055
+revid: 14218
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -55,7 +55,7 @@ File:Reputation Indicator.png
 
 Icon indicating changes to the player's reputation. Image provided by: Batter boi
 
-The main indicator for changes in a player's reputation will be shown by an 'eye' icon appearing at the top-center of the player's screen
+The main indicator for changes in a player's reputation will be shown by an 'eye' icon appearing at the top-center of the player's screen. The Eye icon at the top of your screen is only an indicator of reputation LOSS, not GAIN. It shows up when you grip members of a faction or contribute to their death, or if you're attacking a player in a faction's territory. Hitting members of that faction will not drain your reputation, unless you aggro someone who wasn't already aggravated.
 
   
 
@@ -104,9 +104,7 @@ Battles between factions can randomly occur at anytime, and they usually take pl
 
 For example, in Erisia Island players may find Etrean Guards fighting off a group of enemies, such as bandits. Assisting with the Etrean Guards by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
 
-However, depending on who you attack and grip/finish will result in **losing** reputation from that faction.
-
-  
+~However, depending on who you attack and grip/finish will result in **losing** reputation from that faction.~ You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Guards for reputation THEN grip the guards for exp.  
 
 ## Factions/Entities
 
@@ -125,3 +123,11 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   The Ministry
 -   The Contractors
 -   Songseeker Tribesmen
+
+  
+**Notes**
+
+-   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
+-   The Lord Regent quest in Etrea is the only confirmed quest that requires good reputation.
+
+-   having no attunement makes it so the ministry npcs/ shadow cultists dont attack you unless you provoke them, and yes i tested it you can try it to if you dont believe me.

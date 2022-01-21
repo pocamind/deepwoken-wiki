@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14153
+revid: 14193
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -72,7 +72,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>The more HP you have, the more damage you do. At max HP, your M1s will deal 25% more damage. Conversely, the less HP you have, the less damage you do. Being at low HP will reduce your M1 damage significantly.</p>
+  <td><div><p>The more HP you have, the more damage you do. At max HP, your M1s will deal 25% more damage. Conversely, the less HP you have, the less damage you do. Being at low HP will reduce your M1 damage significantly. Petition to move this to Cursed Enchantments due to the fact it has the exact effects as a curse with a very strong buff.</p>
   <p><br>
   </p></div></td>
 </tr>

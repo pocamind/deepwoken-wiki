@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 13638
+revid: 14220
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,7 +24,6 @@ Murmur is a channeling of song into various abilities. The two known Murmurs are
 -   Ardour: Scream is obtained by a talent card after unlocking Murmur: Ardour
 -   Tacet: Obtained by talking to a very rare NPC
 -   Rhythm: Speculated _(Someone said it was confirmed by a mod. Unknown if true)_
--   Adagio: Almost nothing is known about this Murmur. The speculated way to obtain this is by killing the World Serpent.
 
 The Tacet NPC  
 Tacet NPC
@@ -58,7 +57,7 @@ Tacet NPC
   <td>Tacet</td>
   <td>An application of the Song that enables the user to suppress their own Murmur. Press T while crouched.<p><br>
   [Provides +4 Ether, +2 Passive Agility, +1 Health]</p></td>
-  <td>Turns the user invisible, similar to the <a href="https://deepwoken.fandom.com/wiki/Resonance#Portal_Travel">Portal Travel Resonance</a>.</td>
+  <td>Turns the user invisible, similar to the <a href="https://deepwoken.fandom.com/wiki/Resonance#Portal">Portal Resonance</a>.</td>
 </tr>
 </tbody>
 </table>

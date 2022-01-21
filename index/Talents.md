@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14167
+revid: 14226
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -294,6 +294,8 @@ Hand of Mantra Cards
     -   Prerequisites: Flamecharm
 -   Unyielding Inferno \[Generic Talent, Common Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
     -   Prerequisites: Flamecharm
+-   Wildfire \[Generic Talent, Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
+    -   Prerequisites: Fire Palm (Flamecharm Mantra)
 
 ### Galebreather
 

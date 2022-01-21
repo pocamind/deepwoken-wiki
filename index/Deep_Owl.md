@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 14115
+revid: 14217
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3 A large and extremely uncommon monster with juggern
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-I**t is not recommended to fight Owl alone below level 40, as each attack is devastating.** Appears at most places. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore, it's good time to log if you aren't strong enough to kill it.
+**It is not recommended to fight Owl alone below level 40, as each attack is devastating.** Appears at most places, mostly at Upper Erisia. Its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore, it's good time to log if you aren't strong enough to kill it.
 
 Even though the dialogue ended, the owl will not attack you unless you attack the owl first or **YOU SHOW YOUR BACK TO OWL.** Just like escaping from dangerous wildlife such as lion or bear in real life, if you stare at the owl and walk backward, it will not attack you and you will eventually get out from owl's detection range.
 
@@ -62,4 +62,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key.
 -   Always parry its Talon Swipes.
 -   When it uses Flock of Feathers, you can get easy parries.
 -   Dodge or Parry the Whirling Dash.
-    -   It normally does this after it strikes you with three talon swipes.
+
+-   It normally does this after it strikes you with three talon swipes.
+
+-   while it is tanky, it has little armor meaning you can deal almost full dmg to it, thus why some people call is squishy.

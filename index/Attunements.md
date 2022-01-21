@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 13779
+revid: 14223
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -19,7 +19,6 @@ Other than the base elements, there are other unlockable elements that can be ta
 When creating your character, you may choose to start with no Attunement, which will start the player with no element, 10 additional points to invest into attributes, and a lower attribute qualification to obtain Physical Mantras. Attunements can still be acquired through their respective trainers.
 
 -   You can only have 2 Attunements per Character, 1 if you started with no attunements.
-    -   After unlocking all Attunements, you must receive the remaining Attunement items _(nightblood, skyblood, etc)_ from other players if you want more Attunements. (Might need testing)
 
 Though it should **not** be expected, it is entirely possible new Attunements may be added to the game in the future _(Archmage stated that he would like to see an Earth element added to the game)_:
 

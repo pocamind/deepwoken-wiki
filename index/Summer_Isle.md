@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 14185
+revid: 14198
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -110,6 +110,7 @@ If you already have thundercall, he can upgrade your moves for 100 notes each. Y
 
 Possible items found after completing Scope's quest
 
+-   Trident Spear (0-1 star)
 -   Cavalry Saber(0-1 star)
 -   Forge Greathammer
 -   Darksteel Greatsword
@@ -118,6 +119,8 @@ Possible items found after completing Scope's quest
 -   Slate Tophat
 -   Slate Aristocrat Coat
 -   Novice Boots
+-   Amethyst(4-5)
 -   Ruby(3-4)
 -   Saphire(3-4)
 -   Emerald(3)
+-   Gold Bar(4)

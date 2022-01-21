@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 13526
+revid: 14230
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,15 +14,17 @@ _Entities apart of The Duke's Creations, meant to protect Erisia Island._
 
 ## Description
 
-Rock Golems spawn naturally in Erisia Island, mostly in Upper Erisia, Burning Stone Gardens and Garden Reservoir. The black variant of Rock Golems are exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
+Rock Golems spawn naturally in Erisia Island, mostly in Upper Erisia, Burning Stone Gardens and Garden Reservoir. The black variant of Rock Golems are exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), whom are more deadly than their original counterparts.
 
 They generally can tank a lot of damage while dealing it, The best strategy is to stay at a bit of distance and constantly parry the spin while dodging the big punch, parrying the other moves it throws at you.
 
 ## Moves
 
 -   **Rapid Spin** - The Golem will start charging up his torso in a spinning matter and walk towards a player.
+    -   **Lethal Spin (Black Variant) -** Similar to Rapid Spin, except its faster and hits harder.
 -   **Laser Beam** - The Golem charges up a white beam; and discharges upon their target. Can be dodged or parried.
-    -   **Red Beam (Black Variant)** - The Black Golem charges up a red-hot beam, and discharges at the target multiple times.
+    -   **Red Beam (Black Variant)** - Similar to Laser Beam, except it hits much harder.
+-   **Chain Laser (Black Variant)** - The Black Golem charges up a red-hot beam, before discharging and lasering the target 7 times.
 -   **Rock Uppercut** - Similar to Sharko's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away.
 -   **Foot Stomp** - The Golem will slam down his foot and attack. This move is blockable and parryable.
 -   **Angered Scream** - The Golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)

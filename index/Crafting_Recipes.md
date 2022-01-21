@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 13472
+revid: 14225
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -318,3 +318,4 @@ _**Negative**_
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
 -   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health. (Unless you have the Potion Quaffer talent)
 -   There are a few modifier ingredients you can add that are not listed here, such as redds, sticks, and beeswax. These can increase various effects. Making an invigorating elixer with 3 goblettos and 2 redds is excellent healing.
+-   Due to being a generally useless item, the recipe and item _**Sack**_, has been removed from the game as of Jan 10, 2022. It's recipe used to be 3 Cloth.

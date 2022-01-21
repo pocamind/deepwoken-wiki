@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 13106
+revid: 14229
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons]
 | endlag | 0.1s |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | (DON'T SELL) |
-| weight | 9 |
+| weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
