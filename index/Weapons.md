@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14133
+revid: 14172
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -720,7 +720,7 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
   <td>75 FIR, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>FIR: 6</td>
+  <td>FIR: 6.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
@@ -730,7 +730,7 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
   <td>75 THD, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>THD: 6</td>
+  <td>THD: 6.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
@@ -740,7 +740,7 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
   <td>75 ICE, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>ICE: 6</td>
+  <td>ICE: 6.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
@@ -750,7 +750,7 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
   <td>75 WND, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>WND: 6</td>
+  <td>WND: 6.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
@@ -760,7 +760,7 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
   <td>75 SHD, LVL 35</td>
   <td>22</td>
   <td>N/A</td>
-  <td>SHD: 6</td>
+  <td>SHD: 6.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>

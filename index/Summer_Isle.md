@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 14061
+revid: 14185
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -78,9 +78,7 @@ There are guards on this island that wield flintlocks, and some nomads on the ou
 
 ### TRIG'S QUEST
 
-First, talk to Trig at a nondescript building (the inn/ guildhall):
-
-. Say that you'll get the money, and then head down on a path to an overhang by the ocean.
+First, talk to Trig at a nondescript building (the inn/ guildhall). Say that you'll get the money, and then head down on a path to an overhang by the ocean.
 
 File:RobloxScreenShot20211227 094500945.png
 
@@ -88,11 +86,9 @@ Asius will be here, and you have two quest dialogue options. One to go back and 
 
 ### SCOPE'S QUEST
 
-There is a chance for red crates to spawn around the island. You can turn in these crates to Scope, an NPC sitting in a tower near the blacksmith. Upon talking to Scope while holding a crate he will thank the player and a chest will spawn. The chest can contain low to mid tier loot, making this a great way to get good armor quickly.
+There is a chance for red crates to spawn around the island. You can turn in these crates to Scope, an NPC sitting in a tower near the blacksmith. Upon talking to Scope while holding a crate he will thank the player and a chest will spawn. The chest can contain low to high tier loot, making this a great way to get good armor quickly.
 
 File:Red Crate.png
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### THUNDERCALLER QUEST
 
@@ -110,4 +106,18 @@ Once you get up, you will have unlocked Thundercall and can now learn it's mantr
 
 If you already have thundercall, he can upgrade your moves for 100 notes each. You can upgrade the same move multiple times. (this works if you got thundercall from him and now have a mantra too)
 
-(Update here) Trige is a gremor who is infront of the Summer Company Inn. He will give you a quest to talk to someone who owns him money. Finsih it and he will give you the second quest
+## Loots
+
+Possible items found after completing Scope's quest
+
+-   Cavalry Saber(0-1 star)
+-   Forge Greathammer
+-   Darksteel Greatsword
+-   Iron Cestus
+-   Practitioner's Earrings
+-   Slate Tophat
+-   Slate Aristocrat Coat
+-   Novice Boots
+-   Ruby(3-4)
+-   Saphire(3-4)
+-   Emerald(3)

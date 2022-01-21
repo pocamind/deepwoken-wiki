@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 13791
+revid: 14190
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells]
@@ -125,11 +125,19 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
  |
 | 
 
- | Lightning Cloak (☆☆☆) | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | Lightning Cloak
+
+(☆☆☆)
+
+(Legendary)
+
+ | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
 
-Contrary to popular belief, Lightning Cloak is as rare as spark swap, you are as likely to get spark swap as you are lightning cloak after being able to obtain 3-star mantras.
+You need Luck for this move. It is a legendary card obtained when the whispers of the deep beckon you.
+
+  
 
  |
 

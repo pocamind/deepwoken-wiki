@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 12174
+revid: 14164
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -55,7 +55,7 @@ Command: Live - Can be only used once per hour. Revives and fully heals the subj
 
 ## Notes
 
-Vow of mastery is obtainable through talent card at atleast charisma level 25. (tested)
+Vow of Mastery is obtainable at 20 Charisma.
 
 You start with three commands when you obtain [Vow of Mastery,](Vow_of_Mastery.md) Say, Sleep, and Drop.
 

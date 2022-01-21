@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 11983
+revid: 14159
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -44,7 +44,7 @@ Possible items from chests in Minityrsa
 -   Tactician
 -   Canorian Axe
 -   Crescent Cleaver(0-1 star)
--   Razor Cutlass(0-1 star)
+-   Razor Cutlass(0-2 star)
 -   Katana(0-1 star)
 -   Iron Cestus(0-2 star)
 -   Brilliant Boots

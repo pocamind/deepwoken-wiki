@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 14137
+revid: 14169
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -105,6 +105,11 @@ And:
 </tr>
 <tr>
   <td>Construct</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Primadon</td>
   <td></td>
   <td></td>
 </tr>

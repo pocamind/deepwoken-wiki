@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 13982
+revid: 14147
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -97,7 +97,7 @@ x6 Iron
 
 +40% Stealth
 
-_Talent: Legendary (Parrying and landing hits with your weapon gives you ether back.)_
++_Talent: Legendary (Parrying and landing hits with your weapon gives you ether back.)_
 
  |
 | File:Darksteel Plate.png | Darksteel Plate | x5 Cloth
@@ -122,7 +122,7 @@ x1 Strange Claw
 
 +25% Elemental Armor
 
-_Talent: Unbreakable (disable the stun of getting block broken)_
++_Talent: Unbreakable (disable the stun of getting block broken)_
 
  |
 | File:Authorian.png | Authority Commander Uniform | x5 Cloth
@@ -191,7 +191,7 @@ Power Level 30
 
 +200% Ether Regen
 
-_Talent: Devastating Power (Gain Extra Ether for every Mantra in your arsenal)_
+_+Talent: Devastating Power (Gain Extra Ether for every Mantra in your arsenal)_
 
  |
 | File:Hive Tactician Armor.png | Hive Tactician Armor | x5 Cloth
@@ -214,7 +214,7 @@ Power Level 30
 
 +10% Wind Armor
 
-_Talent: Brunt_
+_+Talent: Brunt_
 
  |
 | File:HIVE DRONE.png | Hive Drone | x5 Cloth
@@ -235,7 +235,7 @@ x1 Rock
 
 +5% Blunt Armor
 
-_Talent: Now You See Me (increased stealth while crouching)_
+_+Talent: Now You See Me (increased stealth while crouching)_
 
  |
 | File:Whaler Coat.png | Whaler Coat | x5 Cloth
@@ -275,7 +275,7 @@ x1 Vibrant Gem
 
 +25% Shadow Armour
 
-_Talent: Paired Soul (Katana deal +20% damage, Shaterred Katana deal +10(?)% damage.)_
++_Talent: Paired Soul (Katana deal +20% damage, Shaterred Katana deal +10(?)% damage.)_
 
  |
 
@@ -312,7 +312,7 @@ x1000 Notes
 
 +100% Ether Regen
 
-_Talent: Centurion's Resolve (Legion kata deal 15% more damage)_
++_Talent: Centurion's Resolve (Legion kata deal 15% more damage)_
 
  |
 | File:Prophet's Cloak.png | Prophet's Cloak | x1 Bloodless Gem
@@ -343,7 +343,9 @@ x1000 Notes
 
 +25% Elemental Armor
 
-Talent: Crippling Darkness
++_Talent: Crippling Darkness (All non-basic attacks have +25% PEN)_
+
+-   Assuming non-basic means mantras, needs testing
 
  |
 | File:BlackDiverPNG.png | Black Diver | x1 Blessed Gem
@@ -400,7 +402,7 @@ x500 Notes
 +25% Physical Armor
 
 +25% Elemental Armor  
-_+Talent: Ferryman's Curse (taking damage from Thundercall mantras teleport you)_
++_Talent: Ferryman's Curse (taking damage from Thundercall mantras teleport you)_
 
  |
 

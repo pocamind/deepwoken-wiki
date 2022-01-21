@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 13571
+revid: 14151
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -18,7 +18,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Trial Power 50+)
+An armored beast with an oversized axe that you must face in [The Depths](The_Depths.md) after you try to ascend to the surface at a very high level (Trial Power 50-59) (As of 2022-01-18(?) the final boss of the depths is now the [Squibbo](Nautilodaunt.md).) (Not 100% confirmed)
 
 Enforcers are said to be tortured souls that failed the trial turned into the pawns of the voices so lore-wise if you are "strong enough" (Power 50+) and fail the trial you'll turn into an enforcer.
 

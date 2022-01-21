@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14121
+revid: 14188
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -10,7 +10,7 @@ categories: [Boss]
 
 “ You shrink like an ant in the face of a true predator. ”
 
-― Monkey Paw area flavor text
+― Primadon's Hunting Grounds flavor text
 
 Template:Creature Infobox V3
 
@@ -33,7 +33,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 ## Passives
 
 -   **Mantra Immunity** - Primadon have total immunity to mantras, both Elemental and Physical. Only weapons can damage it.
-    -   Deep gems will still activate however.
+    -   Deep gems will still activate, however.
 
 ## Rewards
 
@@ -62,4 +62,5 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem chests were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes
 -   In the game files, it is called "Monky"
--   Adret's don't get wiped and sent to depths if they die from Primadon. (Source: Trust me bro)
+-   Primadon will not instantly follow up with an instant gripping attack if you are knocked if you are a low level. (no level is confirmed, but level 1 wont get killed right after being knocked)
+-   Block, parry, dodge

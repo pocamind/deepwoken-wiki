@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 13954
+revid: 14181
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 Exclusive to the Winter season.
 
-Killing two of these monsters in the winter will spawn a chest that has a guarantee drop of a [Hero's Blade](Hero_Blades.md). The element of the blade is random.
+Killing all of these monsters in the winter will spawn a chest that has a guarantee drop of a [Hero's Blade](Hero_Blades.md). The element of the blade is random.
 
 -   To make it easier to kill these, you can lure them to the [Forest Golem](Hive_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight.
 

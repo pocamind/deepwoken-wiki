@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14094
+revid: 14153
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -108,7 +108,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Attacks will greatly drain the opponent's thirst. (2 hits will already drain all thirst)</p>
+  <td><div><p>Attacks will greatly drain the opponent's thirst. After 2 hits all thirst is drained from the target (possibly a reference to the ability of the one piece character "crocodile" which allows him to control sand and suck water out of his opponents).</p>
   <p><br>
   </p></div></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 14142
+revid: 14146
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -47,7 +47,7 @@ Upon being killed, it drops his hide, but may also grant a chest with decent gea
 ## Tips to Defeat
 
 -   The attack pattern of the Megalodaunt is **unpredictable**, always be wary when fighting it.
--   Attacks/Combos
+-   **Attacks/Combos**
     -   Slash + Slash consecutively: Easily parried. 90% of the time will throw out a kick about 3 seconds after but rarely it will do another slash then a kick right after. Be wary, because if you dodge the swipe, you won't because to dodge the kick after. After the first two slashes, you have time to land two hits, possibly 3, before you have to dodge or parry.
     -   Slash + ???: 50% of the time, the Megalodaunt will kick after doing a single slash, but sometimes it will do a slash after the slash. If it does a second slash, it will usually do a kick after. Be wary, as if you dodge a slash expecting a kick, then you will be kicked, because your roll is on cooldown.
     -   A single kick: 30% of the time, if you walk up to a Megalodaunt it will do a kick right off the bat.
@@ -56,6 +56,10 @@ Upon being killed, it drops his hide, but may also grant a chest with decent gea
     -   When you see the Megalodaunt lean down, parry.
     -   The trick to the Megalodaunt is to practice getting ready to dodge or parry. Again, **you cannot always predict when to parry or dodge**, so try to get the muscle memory down.
         -   When you see the red flash on the leg, press Q to roll-dodge. When you see the arm rising, press F to parry. It is difficult to get it down because you are under pressure when fighting, but with practice, you can get it down. It is important to try to stay calm and focus on seeing which attack will happen next, even if you are hit.
+    -   **For Lower Level Players/Freshspawns**
+    -   If you don't feel confident in your ability to fight a Megalodaunt, you can try and enter a place its to tall to get into and you can attack it from in there.
+    -   You can lead a Megalodaunt into the water and its attacks wont hit you as long as you are close to it.
+    -   Megalodaunts will fight other NPCs such as Bandits and Golems. Use this to your advantage if you are trying to escape.
 
 ## Trivia & Notes
 

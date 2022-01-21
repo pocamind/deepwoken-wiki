@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 4722
+revid: 14170
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ Requirements:
 
 Type: sword
 
-Damage:19(26.8)
+Damage:19
 
 Pen: 25%
 

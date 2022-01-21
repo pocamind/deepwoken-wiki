@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14064
+revid: 14167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -77,6 +77,7 @@ Hand of Mantra Cards
 -   Apothecary \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
 -   Exterminator \[ Common Talent\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
 -   Wild Alchemy \[Common Talent\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
+-   Prerequisites: Intelligence (10 - 40 int needed?)
 
 ### Alley Cat
 
