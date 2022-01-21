@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 14174
+revid: 14257
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -50,7 +50,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 
 ### **The Duke of Erisia**
 
-_\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're what— Let me guess, an Etrean Adventurer or something? ...That Island's prospects are certainly grim." - The Duke of Erisia, talking to the Player_
+_"How much wood could a woodchuck chuck if a woodchuck could chuck wood?" - The Duke of Erisia, talking to the Player_
 
 The Duke
 
@@ -244,6 +244,17 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 A Dark Mage, located in Minityrsa.
 
+### The Contractors
+
+-   **Territory:** _Unknown_
+-   **Encountered In:** _Aratel Sea, Erisia_
+-   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
+-   **Alliances:** _The Ministry (Neutral)_
+-   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+-   **Lore Sources:** Warden Jericho's Journal
+
+-   (Placeholder)
+
 ### The Whalers
 
 -   **Territory:** _Unknown_
@@ -251,9 +262,11 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
--   **Lore Sources: Whalers dagger description and armor**
+-   **Lore Sources: Whalers dagger description and Armor**
 
-(Placeholder)  
+-   A Gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
+-   As of 1/21/2022, there is not much information about the Whalers.  
+    
 
 ### The Ignition Union
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14226
+revid: 14252
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -186,8 +186,8 @@ Hand of Mantra Cards
 -   Morale Booster \[Generic Talent, Common Talent\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
 -   Tough Love \[Generic Talent, Common Talent\] - Deal more damage to player charmed by you. (+ 4 Ether)
 -   Familiar Sight \[Generic Talent, Rare Talent\] - Being hit by someone of the same race causes them to be charmed for a short duration.
--   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prerequisite For All: Charm
+-   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)
+    -   Prerequisite For All: Charm + Charismatic Cast (You'll need it for unlocking all the other cards in the category)
 
 ### Comrade
 

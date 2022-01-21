@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 14147
+revid: 14256
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -426,7 +426,7 @@ _\+ Talent: Apothecary_
 
 _\+ Talent: Pitcher_
 
- |  |
+ | Hive Chests |
 | File:Authorityhelm.png | Authority Helm | Grants two or three random buffs.
 
 _Requires Fortitude 10_
@@ -439,7 +439,8 @@ _Requires Fortitude 10_
 |  | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
 |  | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
-|  | Vigil Hood |  |  |
+| File:VigilHood.png | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
+|  | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
 
 **Face:**
 
@@ -477,11 +478,7 @@ a Damage Vs. Sea
 or Damage Vs. Deep
 
  | Fort merit Chests |
-| 
-
-File:Screenshot 2.png
-
- | Practicioner's Earrings | Grants:
+| File:Screenshot 2.png | Practicioner's Earrings | Grants:
 
 Ether
 
@@ -654,8 +651,13 @@ _Requires Power Level 30_
 
  | Depths Chests |
 
+<nowiki>
+
+</nowiki>
+
 ## Trivia/Notes
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
 -   Some Accessories can be Ascended, Enlightened, Celestial and have buffed stats.
 -   Arch confirmed that there are **5** master armors.
+-   If you have crafted the Armor, you can swap back to it again. This can be done with all armor- as long as you've crafted it as your character.

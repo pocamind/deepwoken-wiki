@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 14220
+revid: 14232
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ Murmur is a channeling of song into various abilities. The two known Murmurs are
 
 ## Murmurs & Obtaining Them
 
--   Murmur: Ardour is obtained by slaying [Ardour](Murmur%253A_Ardour.md) (Kaido) within the waters of the [Void Sea](Voidsea.md).
+-   Murmur: Ardour is obtained by slaying [Dread Serpent](Dread_Serpent.md) (Kaido/Ardour) within the waters of the [Void Sea](Voidsea.md).
 -   Ardour: Scream is obtained by a talent card after unlocking Murmur: Ardour
 -   Tacet: Obtained by talking to a very rare NPC
 -   Rhythm: Speculated _(Someone said it was confirmed by a mod. Unknown if true)_

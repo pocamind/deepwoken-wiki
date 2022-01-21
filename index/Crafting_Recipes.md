@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 14225
+revid: 14250
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
 -   **Flint** - _1 Coal, 1 Rock_
--   **Bullets (5x)** - _1 Iron_
+-   **Bullets (5x)** - _1 Iron (Better Than Buying Bullets One By One)_
 
 Picture of a Crafting Bench
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14119
+revid: 14240
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -14,9 +14,9 @@ Mantra Modifiers are items that can be used to expand the potential of the playe
 
 The player can stack up to 3 of each Modifier, including the weaker versions of the Modifier. This means that, for example, 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra. _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra._
 
-The previous upgrades will only disappear if an Amnesiac Driftwood is added to the mantra. Upgrading an already upgraded mantra further will add onto the previous upgrades.
+The previous upgrades will only disappear if an _Amnesiac Driftwood_ is added to the mantra. Upgrading an already upgraded Mantra further will add onto the previous upgrades.
 
-Heavily modified mantras will require Notes offering to be made.
+Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
 
 ## Mantra Modifiers
 
@@ -24,11 +24,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
 | Image | Modifier | Effect | Note |
 | --- | --- | --- | --- |
-| 
-File:Cloudstonebigger.png
-
- | Cloudstone | +2 Size
-
+| File:Cloudstonebigger.png | Cloudstone | +2 Size
 \-1 Speed
 
  | 
@@ -36,20 +32,12 @@ File:Cloudstonebigger.png
 -   If the mantra is not a projectile, the hitbox size is increased instead.
 
  |
-| 
-
-File:Stratus.png
-
- | Stratus Stone | +3 Size | 
+| File:Stratus.png | Stratus Stone | +3 Size | 
 
 -   If the mantra is not a projectile, the hitbox size is increased instead.
 
  |
-| 
-
-File:Screenshot 2021-12-28 151959.png
-
- | Crystal Lens | +2 Range
+| File:Screenshot 2021-12-28 151959.png | Crystal Lens | +2 Range
 
 \-1 Size
 
@@ -58,14 +46,8 @@ File:Screenshot 2021-12-28 151959.png
 -   If the mantra is not a projectile, the hitbox size is reduced instead.
 
  |
-| 
-
- | Perfect Lens | +2 Range |  |
-| 
-
-File:Screenshot 2021-12-28 152201.png
-
- | Aeon Logstone | +2 Duration
+|  | Perfect Lens | +2 Range |  |
+| File:Screenshot 2021-12-28 152201.png | Aeon Logstone | +2 Duration
 
 \-1 Range
 
@@ -75,18 +57,12 @@ File:Screenshot 2021-12-28 152201.png
 -   Doesn't increase the duration of Adrealine Rush
 
  |
-| 
-
- | Eternal Logstone | +3 Duration | 
+|  | Eternal Logstone | +3 Duration | 
 
 -   Add 3 keys to Ritual Casts
 
  |
-| 
-
-File:Screenshot 2021-12-28 152259.png
-
- | Drift Shard | +2 Speed
+| File:Screenshot 2021-12-28 152259.png | Drift Shard | +2 Speed
 
 \-1 Duration
 
@@ -95,27 +71,17 @@ File:Screenshot 2021-12-28 152259.png
 -   Improve the speed at which projectiles moves/events happens. Does not speed up casting.
 
  |
-| 
-
-File:Rush Shard.png
-
- | Rush Shard | +3 Speed | 
+| File:Rush Shard.png | Rush Shard | +3 Speed | 
 
 -   Improve the speed at which projectiles moves/events happens. Does not speed up casting.
 
  |
-| 
-
-File:Screenshot 2021-12-28 152413.png
-
- | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
+| File:Screenshot 2021-12-28 152413.png | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
 
 -   Remove every single modifier previously added to the mantra, including sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
 
  |
-| 
-
- | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
+|  | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
@@ -124,9 +90,7 @@ File:Screenshot 2021-12-28 152413.png
 -   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
  |  |
-| 
-
- | Magnifying Stone | Likely same as Glass Stone.
+|  | Magnifying Stone | Likely same as Glass Stone.
 
 -   ~Crafted with a Amnesic Driftwood and a Rush Shard~
 -   Crafted with a Stratus Stone and Perfect Lens
@@ -134,9 +98,7 @@ File:Screenshot 2021-12-28 152413.png
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
  |  |
-| 
-
- | Vibrant Gem | +2 Intensity | 
+|  | Vibrant Gem | +2 Intensity | 
 
 -   Fire burns more
 -   Ice slows more
@@ -147,7 +109,6 @@ File:Screenshot 2021-12-28 152413.png
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
 
  |
-| [\[1\]](https://gyazo.com/6a69cf252d2230e19f8a551d521d15cd)[\[2\]](https://gyazo.com/a3665a0e422b06d5fff55e42d74c10aa) |  |  |  |
 
 ## Deep Gems
 
@@ -157,7 +118,7 @@ Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that 
 
 **Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.**
 
-Deep Gems are obtained by killing **Primadon** (Isn't 100% but still has a small chance of dropping) (as of 1/11/2022 deep gems can no longer be dropped by primadon) or by killing **Depths monsters** (low drop rate %)
+Deep Gems are obtained by **Deep Monsters**. (low drop rate %)
 
 | Image | Modifier | Effect |
 | --- | --- | --- |

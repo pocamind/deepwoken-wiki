@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 13306
+revid: 14248
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,7 +34,7 @@ The player must respond with "yes." Once accepted an animation will play and the
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
 | Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
-| Return | Yes, 70
+| Return | Yes, 60
 
 Charisma, Rare
 
