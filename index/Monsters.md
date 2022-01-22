@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 14421
+revid: 14449
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,13 +31,12 @@ While most of the way to fight a Monster is specific to what kind it is, there's
 
 In The Depths, creatures are noticeably different compared to the Etrean Luminant. Despite some creatures carrying over, notable changes include:
 
--   Having slightly higher stats.
 -   Creatures of differing species will no longer attack each other, and instead completely focus on players.
 -   Benefitting from the lower gravity of The Depths, being able to jump much higher to pursue players.
 -   Being much more aware, noticing players more easily.
 -   Some gaining new behaviors/abilities, such as Lionfish's Beam.
 -   Becoming much more persistent in their chase unless major distance is made, or the death of them or the victim.
--   **Being able to be Enhanced, signified by a purple aura, with roughly twice (2x) the damage and thrice (3x) the health of their normal versions.**
+-   **Being able to be Enhanced (commonly known as Corrupted), signified by a purple aura, with roughly twice (2x) the damage and thrice (3x) the health of their normal versions.**
 
 ## Monster List
 
@@ -61,7 +60,7 @@ In The Depths, creatures are noticeably different compared to the Etrean Luminan
 
 ## Monster Families
 
-Every single Monster in the game is part of a single family. Families deal with what type of bonus damage a Monster will take damage from, either being Giant, Sea or Depths. Besides this, families literally deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
+Every single Monster in the game is part of a single family. Families deal with what what monster will take extra damage from the "+X% damage VS familly" stats on equipments, either being Giant, Sea or Depths. Besides this, families literally deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
 
 -   Any Monster native to islands is a Giant Monster
 -   Any Monster native to oceans is a Sea Monster
@@ -105,22 +104,12 @@ Every single Monster in the game is part of a single family. Families deal with 
   <td></td>
 </tr>
 <tr>
-  <td>Hive Construct</td>
+  <td>(Rogue/Hive) Construct</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>Sand Knight</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Rogue Construct</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td>Blizzard Knight</td>
+  <td>(Sand/Snow) Knight</td>
   <td></td>
   <td></td>
 </tr>
@@ -134,7 +123,7 @@ Every single Monster in the game is part of a single family. Families deal with 
 
 One thing you might notice is that some of these types might layer over with each other, like Lionfish and Megalodaunts able to spawn in The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is still ONLY Giant, and a Lionfish in The Depths is still ONLY Sea, so keep that in mind when using accessories.
 
-## PVE Scaling/Monster Health Calculations
+## PVE Scaling
 
 If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 fifty hits to kill one? Well, no.
 

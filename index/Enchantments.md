@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14350
+revid: 14459
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -57,7 +57,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>M1 connections have a good chance to deal three times damage to the opponent. However, it also has a 1 percent chance (?) to deal small damage to the user. The weapon is invisible on the players back.</p></div></td>
+  <td><div><p>Every swing you hit on somebody you have a 10% of insta-killing them, every hit on you has a 5% chance to insta-kill you. (Confirmed)</p></div></td>
 </tr>
 </tbody>
 </table>

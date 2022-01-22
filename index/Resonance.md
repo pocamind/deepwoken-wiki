@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14431
+revid: 14446
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -66,6 +66,10 @@ In addition to being multiple times stronger than the original effect, some Corr
 -   Distortion Realm: The user can use the Resonance during combat.
 -   Sacred Field: The field is significantly larger and lasts longer.
 
+## Legendary Bells
+
+Another sub-variant of bells, which upon gaining, shine with a **GOLD** aura. There aren't many documented because they're about the same rarity of corrupt bells.
+
 ## Resonance Versions
 
 Some Resonances, additionally, have different versions. The overall effect is USUALLY the same, but how the effect is executed will be different, such as Reaper's "common" version throwing a projectile that does the instagrip area, while it's rare version does the aoe around themselves.
@@ -90,7 +94,7 @@ Full Counter showcased by Bracting.
 
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
-    -   Version 1: The ability is activated when using the Resonance.
+    -   Version 1: Regular effect, reflect damages received on hit.
     -   Version 2: After the counter duration ends, the damage taken will be multiplied and shot out as a thin beam.
 
 File:Beambell.png
@@ -101,7 +105,8 @@ The laser shot created by Counter Beam.
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
--   Based on the Valorant character Phoenix's ultimate, with the same name.
+    -   Version 1: Regular effect, return to your starting position.
+    -   Version 2: Shadow (possibly lightning) variant, where damage is dealt to players standing around the starting point when the user return.
 
 File:Phoenix Fire.jpg
 
@@ -120,6 +125,7 @@ Run It Back's particle effects.
 -   Activating the ability while in The Distortion Realm let you visualize where you will appear in the game world. Activating the ability while the visualization is on transports the player and create another portal for people to follow them.
     -   Players can also walk of the plates and fall into the void to leave the area in the equivalent game map location. Both the bell user and people who do not have the bell can do it.
 -   Each steps in The Distortion Realm is roughly 5 steps in the game map.
+-   This resonance **CANNOT** be used in combat unless corrupted
 -   Based on Naruto character Tobi/Obito's Sharingan Ninjutsu, "Kamui"
 
 ### **Sacred Field**
@@ -213,6 +219,69 @@ Known Weapons:
         -   5 Weight
         -   12 Range
 
+Known (Corrupted) Weapons:
+
+-   **Corrupt Divine Axe**
+    -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.
+        -   Greataxe Weapon
+        -   (56?) Base Damage
+        -   10% Armor Penetration
+        -   6 Heavy Weapon Scaling
+        -   8 Weight
+        -   10.1 Range
+        -   0.6x Swing Speed
+
+-   **Corrupt Divine Greatsword**
+    -   Special skill will boost the user's speed and propel them into the air, crashing down seconds later at the location they decide to move to.
+    -   **The difference between the Greatsword's special skill and the Greataxe's is that you are locked in place during the Axe's skill, while with the Greatsword's skill you get full control of where you're going.**
+        -   Greatsword Weapon
+        -   (60?) Base Damage
+        -   10% Armor Penetration
+        -   15 Heavy Weapon Scaling
+        -   8.5 Weight
+        -   9.2 Range
+        -   0.67x Swing Speed
+        -   0.25s Endlag
+
+-   **Corrupt Divine Spear**
+    -   Special skill will send the user up into the air, shooting down 3 divine beams, similiar to the [Angel's](Hollow_Angel.md) technique.
+        -   Spear Weapon
+        -   (50?) Base Damage
+        -   10% Armor Penetration
+        -   10 Medium Weapon Scaling
+        -   5 Weight
+        -   10 Range
+        -   0.6x Swing Speed
+
+-   **Corrupt Divine Longsword**
+    -   Special skill will cause the user to strike their target with their elbow, following into 3 divine sword slashes.
+        -   Sword Weapon
+        -   (50?) Base Damage
+        -   10% Armor Penetration
+        -   9 Medium Weapon Scaling
+        -   5.5 Weight
+        -   8.5 Range
+        -   0.8x Swing Speed
+
+-   **Corrupt Divine Dagger**
+    -   Special skill will thrust the user forward and strike anyone in the way with a flurry of divine slashes.
+        -   Dagger Weapon
+        -   (36?) Base Damage
+        -   10% Armor Penetration
+        -   4 Light Weapon Scaling
+        -   4 Weight
+        -   6.5 Range
+        -   1.15x Swing Speed
+
+-   **Corrupt Divine Flintlocks**
+    -   Special skill will cause the user to flip up-side down, rapidly shooting their target 5-6 times, finishing with a backdash into a final shot.
+        -   Flintlock Weapon
+        -   (30?) Base Damage
+        -   10% Armor Penetration
+        -   12 Light Weapon Scaling
+        -   5 Weight
+        -   12 Range
+
   
 
 ### **Portals**
@@ -256,7 +325,7 @@ The grey circle represents a placed marker.
     -   I do not have this resonance. All information listed here is from [this video](https://youtu.be/aZ2W-L4QazA), all credit goes to Jenkz and Juniorr, who made the video, and who has the bell, respectively.
     -   This bell is likely very rare, as we have seen few clips of people with it.
 
-## Unconfirmed Resonances
+## Unconfirmed/Unfinished Resonances
 
 ### Resurrection
 
@@ -274,5 +343,16 @@ Around The Depths are Resonance Doors, which, self explanatory, require a Resona
 Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance ~An optimal level to get a Resonance at would be 40, allowing you to reroll three times.~ You can only reroll your Resonance once.
 
 The caveat is that upon rerolling your Resonance, you have a new flaw which increases the windup/cooldown of your Resonance. Beggars cant be choosers.
+
+Tarnished Bell Effects:
+
+Full Counter: 2 Second windup, nothing can be done during the windup including using moves, cooldown increased.  
+Run it back: Windup increased  
+Distortion:  
+Portal:  
+Crazy Slots: \*apparently removes one of the weapons from the pool. (wouldnt this be a buff though??)  
+Reaper:  
+Soul Jar: (how will this be effected if the instagrip is passive and the beam is movestackable?)  
+Flying Raijin:  
 
 **If you somehow reach Yun'Shul without a Resonance, he will instantly wipe you.**

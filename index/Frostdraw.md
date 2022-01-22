@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 14108
+revid: 14444
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -148,6 +148,7 @@ These mantras have no prequisites.
  | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
 
 -   _Pillar pulsates a blue aura, possibly slows nearby targets._
+-   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
 
  |
 

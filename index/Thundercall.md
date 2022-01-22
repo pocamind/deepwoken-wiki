@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 14388
+revid: 14457
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells]
@@ -87,7 +87,13 @@ Strike (☆)
 -   Shocks opponents inside of it while dealing damage.
 
  |
-|  | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor. |
+|  | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor.
+
+-   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)
+
+  
+
+ |
 
 _It is currently unknown if there are any 3-star combat Mantras for Thundercall._
 
@@ -190,3 +196,8 @@ Certain talents have no category or their category is unknown.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissapating after being hit by friend, foe and self.
 -   The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.
+    -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
+        
+        Virudhaka's Sword
+        
+        Sound from Occult A+B

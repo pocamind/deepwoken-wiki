@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14374
+revid: 14458
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -33,11 +33,11 @@ Press Y to change your stance. Changing your stance will change the way you hold
 
 ### One-Handed
 
-Hold your weapon with your dominant hand, which allows the use of an off-hand accessory, such as shields.
+Hold your weapon with your main hand, which allows the use of an off-hand accessory, such as shields, daggers, guns.
 
 ### Two-Handed
 
-Hold your weapon with both hands.
+Hold your weapon with both hands, adding weight to your swings. Also triggers different buffs depending on weapon and talents.
 
   
 

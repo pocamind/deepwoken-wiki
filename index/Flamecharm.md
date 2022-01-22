@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 14389
+revid: 14442
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -74,6 +74,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
 -   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
+-   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 
  |
 |  | Fire Palm(☆) | A blast of flame. | Caster releases an eruption of fire in front of them.

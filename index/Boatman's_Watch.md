@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 11735
+revid: 14441
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 _**"A place remembered only by the waves."**_
 
-"It do go down." "No It dont, OH S-" -A conversation between two travellers before succumbing to the nearby whirlpools.
+“ It do go down!" "No it don't! Oh SHI- ”
+
+― Two Capras fishing, fast approaching a whirlpool.
 
 Template:Areainfobox
 

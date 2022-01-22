@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 11302
+revid: 14434
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

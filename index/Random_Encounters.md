@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 12565
+revid: 14452
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, World]
@@ -28,9 +28,17 @@ A campfire, circled by two to three NPCs. The strength of said NPCs is scaled ba
 
 While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in.
 
-#### **Shadow Bandits**
+#### **Thiefs**
 
-A group of 3 bandits, reconisable by their black armor and the lack of campfire. Those usually drop aeon logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before dissapearing in a puff of shadow, leaving the player alive.
+A group of 3 thiefs, reconisable by their black armor and the lack of campfire. Those usually drop aeon logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before dissapearing in a puff of shadow, leaving the player alive.
+
+**Whalers**
+
+Similar to bandits, with 3 enemies spawning. They are slightly stronger but the leader of the group have the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage.
+
+**Etrean VS Whalers**
+
+Exclusive to the Aratel Sea, it is a fight between a group of Etrean and Whalers, the Etrean Ship being attacked boarded. The whaler leader also appears here to slow down time. The chest that spawn from this event (inside the Etrean Ship once all whalers are dead) is popular for being very lucrative.
 
 #### **Mudskipper Emergence**
 
@@ -46,7 +54,7 @@ Authority NPCs of constant strength attack either a group of Legion, Pathfinder,
 
 #### **Golden Rat Fighter**
 
-A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest.
+A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. They may also drop a piece of their armor or their axe.
 
 #### **[Hobo](Hobo.md)**
 
@@ -94,4 +102,4 @@ After taking the right option, Akira can be found at [Castle Light](Castle_Light
 
 ### **The Meat Lord**
 
-The Meat Lord is a merchant NPC that can appear on Starswept Valley. He offers a selection of 3 of several meat based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else he will ignore you.
+The Meat Lord is a merchant NPC that can appear on Starswept Valley and more rarely in Upper Erisia. He offers a selection of 3 of several meat based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else he will ignore you.

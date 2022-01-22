@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 13997
+revid: 14432
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -133,7 +133,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, right click during a basic attack animation.</td>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, right click during a basic attack animation or hold right click and then attack.</td>
   <td></td>
 </tr>
 <tr>
