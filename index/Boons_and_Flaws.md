@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 13484
+revid: 14484
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Gourmet | "Foods are much more nutritional." | Food provides more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at slightly higher rate." | Gain more [luck](Luck.md) from gripping players or NPCs than normal. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Survivalist | "You are more resistant to environmental effects." | Grant immunity to Acid Rain. | 1 |
+| Survivalist | "You are more resistant to environmental effects." | Grant immunity to Acid Rain. Grant the ability to drink sea water. | 1 |
 
   
 

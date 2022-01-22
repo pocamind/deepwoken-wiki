@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 14060
+revid: 14487
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -45,7 +45,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 
 ### **Galebreath Mantras**
 
-Wind utilizes the best all-rounder kit amongst the elements for movement, defence, and offensive actions.
+Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
 -   It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world.
 -   Usually agreed on as the most "versatile" attunement.

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 13225
+revid: 14499
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Template:Races-Main New upcoming race, confirmed by exploits
+Template:Races-Main New upcoming race, confirmed by exploits (more likely to be a lightborn "copy" as it has the same description, "The starts call you back...", probably dev lightborn)
 
 **Race in Development, Not Added Yet**
 

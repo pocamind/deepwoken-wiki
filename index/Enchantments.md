@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14459
+revid: 14501
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -49,7 +49,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 2x damage and steal blood from your enemies. If you miss an M1, you will be damaged for around 10% health.</p></div></td>
+  <td><div><p>M1s deal 1.1x damage and steal blood from your enemies. If you miss an M1, you will be damaged for 2% health.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -57,7 +57,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every swing you hit on somebody you have a 10% of insta-killing them, every hit on you has a 5% chance to insta-kill you. (Confirmed)</p></div></td>
+  <td><div><p>Every swing you hit on somebody you have a 10% of insta-killing them, every hit on you has a 5% chance to deal double damage on you (confirmed)</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +90,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
-  <td><div><p>Every M1 connection will create a purple string that connects both you and the enemy, pulling them towards you.</p>
+  <td><div><p>M1 connections have a chance to create a purple string that connects both you and the enemy, pulling them towards you.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -102,13 +102,13 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Increases M1 speed. The hard visibility of the weapon can be used to your advantage, as the range will remain unknown to your opponent. (Most likely a reference to Saber from Fate.)</p>
+  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Makes your m1s 10% faster. The hard visibility of the weapon can be used to your advantage, as the range will remain unknown to your opponent. (Most likely a reference to Saber from Fate.)</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Attacks will greatly drain the opponent's thirst. After 2 hits all thirst is drained from the target (possibly a reference to the ability of the one piece character "crocodile" which allows him to control sand and suck water out of his opponents).</p>
+  <td><div><p>Steals thirst equal to 1/3rd of your damage</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -138,7 +138,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals their armor as well. Also does more damage to posture.</p>
+  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals 5% of their armor as well. Also does more damage to posture.</p>
   <p><br>
   </p></div></td>
 </tr>

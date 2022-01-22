@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14458
+revid: 14494
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -41,9 +41,7 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 
   
 
-## Types of Weapons
-
-**Light Weapons:**
+## Light Weapons
 
 Light weapons are one-handed weapons. They are fast and agile, with high attack speed, but they lack damage and range.
 
@@ -74,7 +72,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.05x</td>
 </tr>
 <tr>
-  <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
+  <td>Parrying Dagger (Side Weapon)</td>
   <td>10 LHT</td>
   <td>10</td>
   <td>N/A</td>
@@ -256,13 +254,13 @@ Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M
 </tbody>
 </table>
 
-**Medium Weapons:**
+## Medium Weapons
 
 Medium Weapons are both one-handed and two-handed weapons. They are a balance between speed and damage.
 
 **Swords:**
 
-Swords are weapons with a long metal blade and a hilt with a handguard used for striking opponents or creatures.
+Swords are weapons with a long metal blade and a hilt with a handguard used for striking opponents.
 
 <table>
 <tbody>
@@ -437,6 +435,66 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.7x</td>
 </tr>
 <tr>
+  <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
+  <td>25 MED, 75 WND</td>
+  <td>19</td>
+  <td>35%</td>
+  <td>MED: 5, WND: 4</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.8x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Flame*</td>
+  <td>75 FIR, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>FIR: 6.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.73x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Lightning*</td>
+  <td>75 THD, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>THD: 6.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.73x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Frost*</td>
+  <td>75 ICE, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>ICE: 6.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.73x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Wind*</td>
+  <td>75 WND, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>WND: 6.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.73x</td>
+</tr>
+<tr>
+  <td>Hero Blade of Shadow*</td>
+  <td>75 SHD, LVL 35</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>SHD: 6.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
   <td>100 MED</td>
   <td>20</td>
@@ -469,7 +527,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>Iron Spear</td>
   <td>0 MED</td>
   <td>17</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>MED: 2</td>
   <td>5</td>
   <td>9</td>
@@ -518,7 +576,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 </tbody>
 </table>
 
-**Heavy Weapons:**
+## Heavy Weapons
 
 Heavy Weapons are two-handed weapons. They are slow, but have superior range and pack quite a punch.
 
@@ -647,6 +705,16 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
 </tr>
+<tr>
+  <td><a href="Crypt_Blade.md">Crypt Blade</a>*</td>
+  <td></td>
+  <td>26</td>
+  <td>N/A</td>
+  <td>SHD: 20</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.7x</td>
+</tr>
 </tbody>
 </table>
 
@@ -699,96 +767,11 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
 </tbody>
 </table>
 
-**Legendary:**
+}}
 
-Weapons that have elemental scaling and cannot be passed down to the next character after wiping.
+## Shields
 
-<table>
-<tbody>
-<tr>
-  <td><b>Name</b></td>
-  <td><b>Requirements</b></td>
-  <td><b>Damage</b></td>
-  <td><b>Penetration</b></td>
-  <td><b>Scaling</b></td>
-  <td><b>Weight</b></td>
-  <td><b>Range</b></td>
-  <td><b>Swing Speed</b></td>
-</tr>
-<tr>
-  <td>Hero Blade of Flame</td>
-  <td>75 FIR, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>FIR: 6.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.73x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Lightning</td>
-  <td>75 THD, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>THD: 6.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.73x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Frost</td>
-  <td>75 ICE, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>ICE: 6.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.73x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Wind</td>
-  <td>75 WND, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>WND: 6.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.73x</td>
-</tr>
-<tr>
-  <td>Hero Blade of Shadow</td>
-  <td>75 SHD, LVL 35</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>SHD: 6.5</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
-  <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
-  <td>25 MED, 75 WND</td>
-  <td>19</td>
-  <td>35%</td>
-  <td>MED: 5, WND: 4</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.8x</td>
-</tr>
-<tr>
-  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td></td>
-  <td>26</td>
-  <td>N/A</td>
-  <td>SHD: 20</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.7x</td>
-</tr>
-</tbody>
-</table>
-
-**Shield:**
+**Shields:**
 
 <table>
 <tbody>
@@ -800,9 +783,6 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
 <tr>
   <td>Targe</td>
   <td>10 FTD</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>1.5</td>
   <td>1.5</td>
 </tr>
 <tr>
@@ -822,6 +802,10 @@ Weapons that have elemental scaling and cannot be passed down to the next charac
 </tr>
 </tbody>
 </table>
+
+## Legendary Weapons
+
+Weapons in the lists above that are marked with an asterisk are Legendary weapons. They have elemental scaling and cannot be passed down to a new character after wiping. Legendary weapons **do not have their own category** because they are placed under **the corresponding weapon type** (i.e. the Crypt Blade is a Greatsword, so it goes in the Greatsword list).
 
 ## Calculating Damage and Attack Speed
 

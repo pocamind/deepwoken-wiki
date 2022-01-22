@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14446
+revid: 14486
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -105,8 +105,10 @@ The laser shot created by Counter Beam.
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
-    -   Version 1: Regular effect, return to your starting position.
-    -   Version 2: Shadow (possibly lightning) variant, where damage is dealt to players standing around the starting point when the user return.
+    -   Has multiple variants depending on your [attunement](Attunements.md).
+        -   [Flamecharm](Flamecharm.md): Burns anyone near the activation spot of your Resonance.
+        -   [Thundercall](Thundercall.md): Shocks anyone near the activation spot of your Resonance.
+        -   [Shadowcast](Shadowcast.md): Engulf anyone in shadows near the activation spot of your Resonance.
 
 File:Phoenix Fire.jpg
 
@@ -116,7 +118,7 @@ Run It Back's particle effects.
 
 -   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
--   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (~can't break your posture/break your block.~ Does actually break guard, know it cuz i got the bell, dm @Black axolocat#7619 for proofs )
+-   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
 -   Based on Hunter X Hunter character Phinks' Hatsu, "Ripper Cyclotron".
 
 ### **Distortion Realm (Kamui, Gate)**
@@ -344,7 +346,7 @@ Yun'Shuls other wishes are unimportant, but all that needs to be known that you 
 
 The caveat is that upon rerolling your Resonance, you have a new flaw which increases the windup/cooldown of your Resonance. Beggars cant be choosers.
 
-Tarnished Bell Effects:
+Tarnished Bell Effects: (Tarnished flaw doesn't give any other effect than a 3 second windup on any bell, which makes most bells ass)
 
 Full Counter: 2 Second windup, nothing can be done during the windup including using moves, cooldown increased.  
 Run it back: Windup increased  

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 14390
+revid: 14481
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -60,11 +60,13 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 1-8 | N/A - You escape without fighting a monster |
 | 9-18 | Deepknight (Bandit Leader) |
 | 19-28 | [Angels](Hollow_Angel.md) |
-| 29-48 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
-| 49+ | [Enforcer](Enforcer.md) |
+| 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
+| 50+² | [Enforcer](Enforcer.md) |
+| ??? | ??? |
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
--   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.  
+-   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.
+-   ²: Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.  
     
 
 ## Farming in The Depths
@@ -94,7 +96,7 @@ Just a bag of information to keep in mind and remember
 -   Consider bringing _**elemental stones**_. The lack of campfire mean that you will often be low on reservoir.
 
 -   **_Heartening Salves_** are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 bluecaps to make the max version of the potion.
--   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regen ether without doing anything.
+-   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regen ether without doing anything. Another good card is **_Conditioned Runner_** which allows you to heal whilst running, and heals to full hp unlike Warrior's Respite. It is, however, a legendary card.
 
   
 

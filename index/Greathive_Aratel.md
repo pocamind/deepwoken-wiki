@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 14427
+revid: 14478
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,7 +50,9 @@ Upon turning the telescope counterclockwise (which I assume is up), the player w
 File:TelescopeCounterclockwise2.png
 
   
-Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows. File:Observatory.png.PNG
+Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows. small speculation here: it could be the celtorian city, the one that sunk after the celtorian horror
+
+File:Observatory.png.PNG
 
   
 
@@ -75,6 +77,15 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
     -   A white flower, located near the Blacksmith, facing in front of it.
     -   A white flower, hanging at the side of a tree root a level above the Blacksmith.
 -   Completing this quest gives a handful of EXP and access to upgrade Non-Attunement Mantras.
+
+## Reputation
+
+-   Reputation in this place can be obtained by farming the "Green Artifact Event" in [Starswept Valley](The_Starswept_Valley.md). (Just kill the ones that aren't Hive Guards)
+-   You can check how high your reputation is by talking to the guards.
+    -   \*They ignore you\*: Neutral (0) Reputaion
+    -   "Traveller": You got some reputation
+    -   "Friend of the Hive": You got nice reputation
+    -   "Player's first name": Max reputation
 
 ## Extra
 

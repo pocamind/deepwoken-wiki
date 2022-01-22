@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 14457
+revid: 14497
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells]
@@ -189,6 +189,9 @@ Certain talents have no category or their category is unknown.
 +1 Ether  
 +5 Reservior  
 +2 Health | Static Weaver |
+|  | Static Flash Clone | When using lightning clones you instead disappear leaving behind a static clone for a short duration. |   
++3 Elemental Intensity  
++1 Health | Thundercaller |
 
 ## Trivia/Notes
 

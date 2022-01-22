@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14415
+revid: 14491
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -106,7 +106,7 @@ Hand of Mantra Cards
 ### Apex Predator
 
 -   Carnivore \[Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: Fortitude, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
+    -   Prerequisites: 10 Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -799,7 +799,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Shadow Mobility
 
--   Shadow Assault (2 Star Mantra) - You turn into dork energy and speed forward. Used often to catch running enemies.
+-   Shadow Assault (2 Star Mantra) - You turn into dark energy and speed forward. Used often to catch running enemies.
 -   Shadow Travel \[Rare "Talent"\] - After a long wind-up, teleport to where your cursor was. The farther the teleport, the more it will damage you. (This is NOT a whisper. I put this here for confused people.)
 
 #### Mystery

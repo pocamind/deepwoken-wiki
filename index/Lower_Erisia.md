@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 13124
+revid: 14482
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,6 +44,10 @@ One [Sharko](Megalodaunt.md) will spawn and chase a freshie to the ends of the e
 ###### Hobo
 
 A [Hobo](Hobo.md) will spawn with 3 chests around him. Looting one of the chests will cause him to aggro and upon gripping them a fourth chest will appear. You can pass a Charisma check to claim one of the chests without aggro.
+
+###### Pathfinders
+
+Rarely 3 pathfinders (teachers) will spawn. Talking to one them will prompt you if you wish to hear stories of strength, fortitude (might not be fortitude could be something else), willpower, or agility. Picking a story will increase the respective stat. _Note: This uses 1 investment point_
 
 ### Possible Loot
 
