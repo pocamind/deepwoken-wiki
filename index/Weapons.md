@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14332
+revid: 14374
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -209,7 +209,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead.
 
-Each gun has a Main Hand and Off Hand version. To use your off-hand gun while you're not dual-wielding, you must press M2.
+Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M2.
 
 <table>
 <tbody>

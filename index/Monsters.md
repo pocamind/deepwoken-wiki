@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 14169
+revid: 14421
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,23 +12,22 @@ _For information on Human Enemies, go [here](Enemies.md)._
 
 # Introduction
 
-Deepwoken's finest, and arguably primary focus, are the hostile Creatures. They can tear down Players and NPCs apart if they are ill-equipped or inexperienced, along with sinking your ships into the ocean if you're unlucky...
+Deepwoken's finest, and arguably primary focus, are the Monsters. They can tear down Players apart if they're unprepared, unlucky, or just plain out unskilled.
 
-Creatures are embedded to the game as both a fundamentals-check for how well you are able to recognize patterns and being able to counter accordingly. While definitely not being a perfect balance, being able to defeat the enemy with confidence most surely means you'll be better off against other Players, and vice versa. In amorality, a large amount of loot is most easily or only obtainable from Creatures for things such as Armor and Mantra Modifiers.
+Monster are embedded to the game as a multi-purpose tool, being a roadblock to better gear, higher armor, mantra modifiers, new areas, but most importantly: a skill check. Monsters cannot be beaten without proper skill and technique, and if you can't even beat a Monster, what makes you think you can beat another player?
 
-While each creature has customized attacks and their own attack patterns, they all share one thing; They have learnable patterns. There is never a mob you cannot beat, even as a freshie. If you perfectly learn it's pattern to a T, you may even beat the legendary [Primadon](Primadon,_Titan_of_the_East.md).
+While each Monster has customized attacks, they all share one thing; They have learnable patterns. Every Monster, up to even the Dread Serpent and Primadon can be beaten as a fresh spawn if you are skilled enough.
 
-Generally, a good rule to follow is to NEVER run away from any creature unless you're SEVERELY losing, and also outclassed. If you have even a chance at victory, grab it. Running will only leave you to being chased, and in most cases, you'll be caught. Besides, you'll have to learn their pattern eventually either way.
+### Monster Hunting Advice
 
-It is advised you learn how each creature acts and behaves to read their attack repetency if you want to survive against these beasts. No amount of leveling, gear, or experience will do you good if you can't parry, block or dodge attacks.
+While most of the way to fight a Monster is specific to what kind it is, there's generally a few good rules that apply to most, if not all monsters.
 
-While most non-humanoid monsters can't block, a large quantity of them can have their posture broken, meaning that along with taking damage, they also take posture damage. If they get posture broken, they become open to attacks for 3 seconds.
+-   If an attack has a red aura/effect to it, it **CANNOT** be blocked normally, and must be dodged. They can only be blocked by using Ardour or the Hunter's Brace, but even then, red attacks are generally much faster and harder to parry correctly.
+-   Never run from any Monster, if you know you have a slimmer of a chance of beating them. Many Monsters have tools specifically designed to catch runners, such as Megalodaunt's longer range barnacle spray. Additionally, Monsters have MUCH bigger bark than their bite. Even if they LOOK scary, many Monsters have much lower stats than their reputation/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
+-   Practice makes perfect, try and fight Monsters in safe situations where you are most likely to live, such as the Megalodaunt cave where they physically cannot reach you if you stay in the first section of a cave. Unpreparedness is a bigger killer than the Monsters themselves. The absolute worst thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, seen before. While many Monsters are indeed weaker than they look, others are the opposite and are deceptively strong, for example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   Monsters, while not being players, still are affected by most things a player would. Potions can damage/debuff them, most debuffs work on them, they can be hit with DOT's (in the Megalodaunt's case, having a hilarious animation when set on fire). Most importantly, though, they can be stunned if hit fast enough in rapid succession.
 
-Stay ready and prepared. No creature is impossible to beat.
-
-**Important Note**: Entities such as the King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of the "Watcher" its information has been relocated to the Angel page since it is a unique entity and not truly a monster.
-
-# The Depths
+### The Depths
 
 In The Depths, creatures are noticeably different compared to the Etrean Luminant. Despite some creatures carrying over, notable changes include:
 
@@ -38,18 +37,15 @@ In The Depths, creatures are noticeably different compared to the Etrean Luminan
 -   Being much more aware, noticing players more easily.
 -   Some gaining new behaviors/abilities, such as Lionfish's Beam.
 -   Becoming much more persistent in their chase unless major distance is made, or the death of them or the victim.
+-   **Being able to be Enhanced, signified by a purple aura, with roughly twice (2x) the damage and thrice (3x) the health of their normal versions.**
 
-And:
+## Monster List
 
--   **Enhanced Creatures, signified by a purple aura, with roughly twice (2x) the damage and thrice (3x) the health of their normal versions, being able to spawn anywhere.**
-
-# Creatures
-
-## Humanoid Creatures
+### Humanoid Monsters
 
 **Etrean Luminant & The Depths**
 
-## Monsters
+### Non-Humanoid Monsters
 
 **Etrean Luminant & The Depths**
 
@@ -60,6 +56,16 @@ And:
   
 
 **Removed**
+
+**Important Note**: Entities such as the King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster, and exist soley to summon Angels.
+
+## Monster Families
+
+Every single Monster in the game is part of a single family. Families deal with what type of bonus damage a Monster will take damage from, either being Giant, Sea or Depths. Besides this, families literally deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
+
+-   Any Monster native to islands is a Giant Monster
+-   Any Monster native to oceans is a Sea Monster
+-   Any Monster native to The Depths is a Depths Monster
 
 <table><caption><b>Monster Families</b></caption>
 <tbody>
@@ -99,12 +105,22 @@ And:
   <td></td>
 </tr>
 <tr>
-  <td>Knights</td>
+  <td>Hive Construct</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td>Construct</td>
+  <td>Sand Knight</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Rogue Construct</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Blizzard Knight</td>
   <td></td>
   <td></td>
 </tr>
@@ -116,14 +132,27 @@ And:
 </tbody>
 </table>
 
-  
+One thing you might notice is that some of these types might layer over with each other, like Lionfish and Megalodaunts able to spawn in The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is still ONLY Giant, and a Lionfish in The Depths is still ONLY Sea, so keep that in mind when using accessories.
+
+## PVE Scaling/Monster Health Calculations
+
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 fifty hits to kill one? Well, no.
+
+When you level up, you automatically gain a bonus damage against PVE, currently estimated to be 10%. This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill monsters much faster than a fresh spawn with the same damage. This scaling very quickly becomes crazy in its own right, (to cope with monster's crazy health, of course), and at Power 60, you can basically kill stuff like Megalodaunts or Lionfish in less than 5 hits.
+
+Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
+
+Let's say you have a weapon that deals 40 damage per swing, and you're power 50. This means that a Monsters health is basically reduced 500% when fighting you, or you could see it as you're dealing 500% more damage to Monsters.
+
+A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to a fresh spawn with a weapon that does 20 damage, having to hit it 50 times, just for how big of a reference the PVE scaling makes. In all actuality, your actual damage is less important than simply being a high power.
 
 # Notes/Trivia
 
 -   No matter how intimidating the creatures of Deepwoken are, you must overcome your fears, there is always a chance, as they have (almost) always an attack pattern that can be parried/dodged while taking no damage if the one fighting is skilled enough.
--   Most monsters are categorized in one of three categories: Giant, Sea and Depths, which have an according +X% damage to Y stat in certain equipment. Monsters can only be of one category, which can be identified by their intended fighting location. Anything that is fought in the open sea count as Sea, anything that is a giant count as Giant, and anything that only exist in the depths count as Depths.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
 -   NOT all attacks can be parried; Buy a Hunter Brace at the Summer Island to be able to.
 -   Some creatures will fight each other; Multiple can fight at the same time. Example [here](https://youtu.be/01uQchtfUvw)
--   Some variants of some creatures are limited to The Depths.
+-   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
+-   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap
+-   It's unknown what typing that Alpha Megalodaunts are, as they're a Megalodaunt variant, but only found in The Depths.

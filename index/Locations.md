@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 14021
+revid: 14426
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -9,6 +9,8 @@ categories: [Locations]
 # Locations
 
 A list of locations that can be found in _Deepwoken_.
+
+_If you want to see maps of the world, see [Maps](Maps.md)_
 
 ## The Etrean Luminant
 

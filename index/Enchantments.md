@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14279
+revid: 14350
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -45,7 +45,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them, dealing deadly damage. If you don't grip at least one person per day, the Umbral Knight will absorb you into the weapon and kill you. (Im pretty sure this is currently disabled due to lag issues.)</p></div></td>
+  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them, dealing little damage. If you don't grip at least one person per day, the Umbral Knight will absorb you into the weapon and kill you. (Im pretty sure this is currently disabled due to lag issues.)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
@@ -281,7 +281,7 @@ Drowned
 
  | 
 
-we really need to figure out what in the world this does does it give multiple buffs? is it the multiplied attack damage in depths or water like we originally thought?? is it faster swimming speed?? WHAT IS THIS DAMN THING.
+I was in water for a while with this enchant but didn't die but got gripped by somebody, so it potentially keeps you from drowning.
 
   
 

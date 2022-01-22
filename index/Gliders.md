@@ -1,23 +1,33 @@
 ---
 title: Gliders
-revid: 11497
+revid: 14399
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Gliders
 
--   Schematics are found in a cave in Lower Erisia(Pathfinder Respite - past mudskipper cave). (I dont recall exactly where, but if you go to the big gate at lower ersia and go left you should come across some parkour, where you will talk to a lady who gives you the schematics)
--   [Alastir](Alastir.md) gives you the schematic for a quest to give him lost villagers
-    -   Even though you give the schematic to the blacksmith, you can only craft the glider at a crafting table
-        
-        A crafting table where you can craft the glider.
-        
--   Allows you to glide. (indefinite glide duration)
--   Recipe = 2 sticks, 2 cloth (15 Uses)
--   Sharkscale Glider - 2 Megalodaunt Hide, and 2 Sticks (150 Uses)
--   Must be in the air to use it.
--   Has a cooldown
--   Gliders cannot be used in combat. If you take damage while gliding, you will be ragdolled out of the glider (This includes damage from sources such a
-    
-    Etrean adventurer starting his journey!
+| Gliders | |
+|---|---|
+| usage | Allows the user to glide across long distances. |
+| recipe | x2 Stick, x2 Cloth, x2 Stick, x2 Megalodaunt Hide |
+
+## Description
+
+**Gliders** are a tool that are obtained through a Schematic given in [Lower Erisia](Lower_Erisia.md). It gives the player the ability to glide, allowing easy travel through terrain.
+
+## Obtaining
+
+The _Glider Schematic_ can be found in [Lower Erisia](Lower_Erisia.md), making your way through the Mudskipper cave. Alastir can be found near a shrine above the Pathfinder's Respite. Talking to them will give you the respective schematic. The _Glider Schematic_ can be used to build both the **Glider** and the **Sharkscale Glider**.
+
+## Crafting
+
+The Glider can only be crafted at a [Crafting Station](Crafting_Station.md) or with the Master Craftsman Talent, and must be crafted with two Sticks and two Cloth.
+
+The Sharkscale Glider can also only be built at a Crafting Station or with the Master Craftsman Talent, and must be crafted with two Sticks and two Megalodaunt Hides.
+
+## Usage
+
+The Glider can only be used in the air, and cannot be used in Acid Rain. It's possible you're not able to use it in combat as well.
+
+There is no difference between the Sharkscale Glider and the normal Glider except for it's amount of uses. The Glider has 50 uses while the Sharkscale Glider has 150 uses.

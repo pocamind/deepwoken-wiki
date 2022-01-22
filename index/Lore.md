@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 14263
+revid: 14428
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -50,7 +50,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 
 ### **The Duke of Erisia**
 
-_"How much wood could a woodchuck chuck if a woodchuck could chuck wood?" - The Duke of Erisia, talking to the Player_
+_\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're what— Let me guess, an Etrean Adventurer or something? ...That Island's prospects are certainly grim." - The Duke of Erisia, talking to the Player_
 
 The Duke
 
@@ -87,7 +87,12 @@ _"Another one..? You've got to be kidding me." - Akira_
 _**Ey migi vuru?**_
 
 -   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplisments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
--   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
+-   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple areas at once
+-   The meat lord is theorized to have a meat above 10 inches in length and five in girth
+
+The one and only... MEAT LORD!
+
+  
 
 ## Locations
 

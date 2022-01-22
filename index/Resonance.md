@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14314
+revid: 14431
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -84,9 +84,9 @@ Corrupted Wind-Up being the most common Corrupted Resonance.
 
 ## Known Resonances/Versions
 
-Damage Reflection showcased by Bracting.
+Full Counter showcased by Bracting.
 
-### **Damage Reflection (Counter, Reflect)**
+### **Full Counter**
 
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
@@ -95,9 +95,9 @@ Damage Reflection showcased by Bracting.
 
 File:Beambell.png
 
-The laser shot created by Version 2.
+The laser shot created by Counter Beam.
 
-### **Run It Back (Phoenix)**
+### **Run It Back**
 
 -   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
@@ -105,7 +105,7 @@ The laser shot created by Version 2.
 
 File:Phoenix Fire.jpg
 
-Phoenix fire effect
+Run It Back's particle effects.
 
 ### **Wind-Up**
 
@@ -130,7 +130,7 @@ Phoenix fire effect
 
 File:God's Will Showcase.mp4
 
-### Reaper (Blood Scourge, Instagrip)
+### **Reaper/Blood Scourge**
 
 Reaper Variation 1.
 
@@ -142,10 +142,11 @@ Reaper Variation 2.
     -   Version 1: The radius is created around the user.
     -   Version 2: The user throws a ball forward, that shortly after creates the radius around itself.
 
-**Soul Weapons (Crazy Slots, Weapon Switching)**
+**Crazy Slots**
 
 -   On activation, call forth a randomly chosen weapon.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
+-   Still have to find out if this is just a rare version or the bell itself, but after using multiple enchanted weapons all the enchants stacked on my divine weapons, so I suppose that either the bell or this "version" makes you use all of your enchants on your divine weapons.
 
 "A weapon brought from your soul"
 
@@ -214,7 +215,7 @@ Known Weapons:
 
   
 
-### **Portal**
+### **Portals**
 
 -   Upon activation, the player enters a white portal that only they can go through.
 -   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
@@ -226,7 +227,7 @@ Known Weapons:
 
   
 
-### **Jar of Souls (Soul Laser)**
+### **Jar of Souls**
 
 -   Upon killing a player or NPC, you absorb their soul.
 -   Having a soul allows you to hold a beam which deals high damage over time.
@@ -240,7 +241,7 @@ File:TravelMedalRing.png
 
 A group of players standing within the travel radius.
 
-### **Waypoint Transmission (Travel Medallion, Instant Transmission)**
+### **Portal Travel**
 
 File:TravelMedalMarker.png
 
@@ -257,12 +258,12 @@ The grey circle represents a placed marker.
 
 ## Unconfirmed Resonances
 
-### Resurrection???
+### Resurrection
 
 -   Currently unfinished.
 -   Documented in [this video](https://www.youtube.com/watch?v=FRsQc1a4ZDY).
 -   Makes a different ring noise, along with shining golden when activated.
--   _Apparently_ the rarest bell, as it is currently unfinished. (whys it in the roll pool?)
+-   _Apparently_ the rarest bell, as it is currently unfinished. (Why' is it in the roll pool? We may never know.)
 
 ## How To Change a Resonance
 

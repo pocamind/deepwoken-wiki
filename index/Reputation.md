@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 14218
+revid: 14346
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -48,6 +48,7 @@ Players with negative reputation from factions **will be** attacked by NPCs from
 -   Guards will aggro you if you grip another player in their vicinity.
 -   Certain questlines will be disabled until reputation is restored to Neutral or Positive
 -   Innkeepers will not grant you stay, thus not allowing you to respawn at that inn.
+-   Blacksmiths will not allow you to access any of their services.
 
 ### Changes in Reputation
 

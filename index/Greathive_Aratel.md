@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 14343
+revid: 14427
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,8 +50,7 @@ Upon turning the telescope counterclockwise (which I assume is up), the player w
 File:TelescopeCounterclockwise2.png
 
   
-
-  
+Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows. File:Observatory.png.PNG
 
   
 
@@ -65,7 +64,7 @@ Suri the NPC
 
 Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement, though, so he suggests taking the safest route.
 
--   Rewards of completing this quest when you come back to Suri is a Vibrant Gem.
+-   If you come back to Suri after completing this quest, you get a Vibrant Gem.
 
   
 
@@ -73,9 +72,9 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
 
 -   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms.
     -   A red flower located outside near the observatory balcony. Mind your footing.
-    -   A white flower, located near the Blacksmith, facing infront of it.
+    -   A white flower, located near the Blacksmith, facing in front of it.
     -   A white flower, hanging at the side of a tree root a level above the Blacksmith.
--   Reward of completing this quest gives a handful of EXP, and access to upgrade Non-Attunement Mantras.
+-   Completing this quest gives a handful of EXP and access to upgrade Non-Attunement Mantras.
 
 ## Extra
 
@@ -97,8 +96,5 @@ The portal locations.
 -   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
--   The "temple of the forgotten flame" portal can take you to different locations in Upper Erisia. I, personally, was taken to Lord Erisia's Manor.
-
-## Reputation
-
-In order to summon boats at the docks you will need positive reputation which can be done by farming the adret event at hive, as well as this you will need to be around level ~45 for him to recognise you (Edit: Pretty sure you don't need no level requirement for reputation)
+-   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
+-   In order to summon boats here, you need positive reputation, which can farmed with the Adret event at Greathive.

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 14327
+revid: 14356
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -48,3 +48,4 @@ Drops "Odd Tentacles".
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
 -   DO NOT RUN IF YOU ARE LOW. If you attempt to run after engaging in a fight, he will wipe you.
 -   Sometimes you can log if he sees you.
+-   BEST COMBAT TIP (APPLIES TO HEAVY WEAPON USERS ONLY): Hold block, he barely does any posture damage. After you successfully block an attack, try to parry the next one. If you parry an attack, immediately use a critical. Its posture will ALWAYS be broken and you are able to land a single m1 attack. Rinse and repeat until it is dead (easy for freshies as well)

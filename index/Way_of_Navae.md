@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 8909
+revid: 14413
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]

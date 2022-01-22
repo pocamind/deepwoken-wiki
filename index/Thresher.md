@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 13964
+revid: 14429
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -37,7 +37,7 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 # King Thresher
 
-_Also known as Big Mom, Big Croc, and many other names_
+_Also known as Big Mom, Big Croc, Dilf Mom and many other names_
 
 ## Description
 
@@ -53,4 +53,4 @@ Template:Creature Info Box v2The King Thresher is a much bigger and more powerfu
 -   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried.
 -   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried.
 -   **Tail Swipe** - Turns around and smacks you with its tail, ragdolling those hit by this. This attack is able to be parried. Ignores block, able to be parried(?).
--   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
+-   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward then suck, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.

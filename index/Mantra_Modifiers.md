@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14342
+revid: 14407
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -151,7 +151,7 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | 
 File:Magnet spark PNG.png
 
- | Magnet spark | Lightning blade
+ | Magnet Spark | Lightning blade
 
 Jolt Grab
 
@@ -164,7 +164,7 @@ Flame Blind
 
 File:Round spark.png
 
- | Round spark | Ice Eruption
+ | Round Spark | Ice Eruption
 
 Fire Gun
 
@@ -173,7 +173,7 @@ Fire Gun
 
 File:Blast spark.png
 
- | Blast spark | Lightning Clones
+ | Blast Spark | Lightning Clones
 
 Shadow Gun
 
@@ -186,7 +186,7 @@ Ice Forge (unknown what it does but it works)
 
 File:Reversal spark.PNG
 
- | Reversal spark | Lightning Impact
+ | Reversal Spark | Lightning Impact
 
 Flame Leap
 
@@ -209,12 +209,12 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
 File:Spring spark.png
 
- | Spring spark | Strong Leap
+ | Spring Spark | Strong Leap
 
 Crystal Impale
 
@@ -223,7 +223,7 @@ Crystal Impale
 
 Tornado spark
 
- | Tornado spark | Dark Blade
+ | Tornado Spark | Dark Blade
 
 Fire Blade
 
@@ -253,27 +253,27 @@ also looks identical to falseflame.
 
  |
 
-### **Specific Effects of sparks**
+### **Specific Effects of Sparks**
 
-#### **Magnet spark**
+#### **Magnet Spark**
 
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
 -   This modifier is compatible with the _spark Swap_ Mantra, but has no effect.
 -   This modifier is compatible with Strong Leap Strength mantra (please add the effect here).
 
-#### Round spark
+#### Round Spark
 
 -   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the songseeker ice npc).
 -   This modifier makes Fire Gun bullets split into two.
 
-#### Blast spark
+#### Blast Spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 -   This modifier causes a trail of Ice to appear over the distance you dashed with the _Frost Grab_ Mantra
 
-#### Reversal spark
+#### Reversal Spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
 -   This modifier causes the _Adrenaline Surge_ Mantra to be generally buffed with a less duration (?)
@@ -285,16 +285,16 @@ also looks identical to falseflame.
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)
 -   Using this modifier on "Ice chains" will make it so it will pull whoever you hit towards you.
 
-#### Multiplying spark
+#### Multiplying Spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
 
-#### Tornado spark
+#### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
 -   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. FIre Blade can destroy objects without Tornado spark.
 
-#### Spring spark
+#### Spring Spark
 
 -   This modifier has no known compatibilities.
 

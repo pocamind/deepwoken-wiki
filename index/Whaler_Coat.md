@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 14269
+revid: 14422
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -15,6 +15,8 @@ The Whaler Coat is an Expert [Outfit](Outfits.md) in _Deepwoken._
 Location
 
 The Schematic can be found in:
+
+[Starswept Valley](The_Starswept_Valley.md) (Drop)
 
 [The Depths](The_Depths.md) (Drop)
 

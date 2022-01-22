@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14341
+revid: 14402
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-_Also known as Sea Monkey, Gorilla, NFT, and Monke._
+_Also known as Sea Monkey, He, It, Gorilla, and Monke._
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales and including Umbral Obsidian) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
@@ -27,7 +27,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   **Stomp** - Primadon raises its **right** foot and stomps once. Can be parried and dodged.
 -   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **left** foot. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **Punt** - Watch your tone. Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's kick. Typically not parriable, but can be with the Hunter's Brace.
+-   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's kick. Typically not parriable, but can be with the Hunter's Brace.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 
 ## Passives
