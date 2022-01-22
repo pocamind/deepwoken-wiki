@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14252
+revid: 14305
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -258,9 +258,9 @@ Hand of Mantra Cards
 
 ### Fish
 
--   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.
+-   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
 
-### **Freak Of Nature**
+### Freak Of Nature
 
 -   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you - this makes it impossible to die unless struck 20 times after entering combat. This also includes fall damage and other natural damage.
 -   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. (Might increase the speed at which you drink potions, I just got it so I still need to test it.)
@@ -274,6 +274,7 @@ Hand of Mantra Cards
 
 -   Dancing Steps \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
 -   Flaming Rebound \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
+-   The Final Act \[Generic (?) Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
 
 ### Flame Warden
 
@@ -547,6 +548,11 @@ Hand of Mantra Cards
 
 -   Hard Read \[Generic Talent, Common Talent\] - Hitting your opponent during a feint will cause them to be dazed. (+4 Ether)
 -   Target Switch \[Generic Talent, Common Talent\] - Parrying an Opponent then hitting someone else makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
+
+### The Demon Blade
+
+-   Explosive Finish \[Generic Talent, Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
+-   Flaming Flourish \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (2 Elemental Intensity, +2 Health)
 
 ### Thief
 

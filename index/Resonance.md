@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14275
+revid: 14314
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -111,7 +111,7 @@ Phoenix fire effect
 
 -   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
--   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
+-   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (~can't break your posture/break your block.~ Does actually break guard, know it cuz i got the bell, dm @Black axolocat#7619 for proofs )
 -   Based on Hunter X Hunter character Phinks' Hatsu, "Ripper Cyclotron".
 
 ### **Distortion Realm (Kamui, Gate)**

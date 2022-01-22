@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 14023
+revid: 14343
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -101,4 +101,4 @@ The portal locations.
 
 ## Reputation
 
-In order to summon boats at the docks you will need positive reputation which can be done by farming the adret event at hive, as well as this you will need to be around level ~45 for him to recognise you
+In order to summon boats at the docks you will need positive reputation which can be done by farming the adret event at hive, as well as this you will need to be around level ~45 for him to recognise you (Edit: Pretty sure you don't need no level requirement for reputation)

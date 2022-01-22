@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14293
+revid: 14342
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -85,14 +85,12 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
--   ~Crafted with Amnesic Driftwood and Drift shard.~
 -   Crafted with Cloudstone and Crystal lens.
 -   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
  |  |
-|  | Magnifying Stone | Likely same as Glass Stone.
+|  | Magnifying Stone | Likely same as Glass Stone, just better
 
--   ~Crafted with a Amnesic Driftwood and a Rush Shard~
 -   Crafted with a Stratus Stone and Perfect Lens
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
@@ -100,11 +98,11 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
  |  |
 |  | Vibrant Gem | +2 Intensity | 
 
--   Fire burns more
--   Ice slows more
--   Thunder stuns more
--   Shadow steals more ether
--   Wind ???
+-   Fire - burns more
+-   Ice - slows more
+-   Thunder - stuns more
+-   Shadow - steals more ether
+-   Wind - Slightly flings enemies (only tested astral wind)
 -   No effect(?) on physical mantras (more testing required)
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
 
@@ -114,11 +112,11 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
 (If anyone has these gems please update the wiki with their pictures)
 
-Deep Gems (not to be confused with the vibrant gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped at a time.
+Deep Gems (not to be confused with the Vibrant Gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped on a single mantra.
 
 **Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.**
 
-Deep Gems are obtained by **Deep Monsters**. (low drop rate %)
+Deep Gems are obtained by **Deep Monsters and Primadon**. (low drop rate %)
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
@@ -131,7 +129,7 @@ Reduces damage of mantra for 20%.
  |
 | 
 
- | Blessed Gem | Removes cooldowns for mantras with the Blessed Gem equipped. |
+ | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped. |
 | 
 
  | Blue Gem | Reduces Mantra ether cost by half. |
@@ -142,36 +140,40 @@ File:Screenshot 59.png
  | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
-## Sporks
+## sparks
 
-Sporks are modifiers that are only able to be used on specific mantras.
+sparks are modifiers that are only able to be used on specific mantras.
 
 If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
 
 | Image | Modifier | Applicable Mantras | Effect |
 | --- | --- | --- | --- |
 | 
-File:Magnet Spark PNG.png
+File:Magnet spark PNG.png
 
- | Magnet Spark | Lightning blade
+ | Magnet spark | Lightning blade
 
 Jolt Grab
 
-Spark Swap
+spark Swap
 
 Flame Blind
 
  | Applies "Magnet Shot" to compatible Mantra. |
 | 
 
- | Round Spark | Ice Eruption
+File:Round spark.png
+
+ | Round spark | Ice Eruption
 
 Fire Gun
 
  | Applies "Round Shot" to compatible Mantra. |
 | 
 
- | Blast Spark | Lightning Clones
+File:Blast spark.png
+
+ | Blast spark | Lightning Clones
 
 Shadow Gun
 
@@ -182,7 +184,9 @@ Ice Forge (unknown what it does but it works)
  | Applies "Explosion" to compatible Mantra. |
 | 
 
- | Reversal Spark | Lightning Impact
+File:Reversal spark.PNG
+
+ | Reversal spark | Lightning Impact
 
 Flame Leap
 
@@ -205,13 +209,21 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
- | Spring Spark | Strong Leap | Applies "Fire Trap" to compatible Mantra. |
+File:Spring spark.png
+
+ | Spring spark | Strong Leap
+
+Crystal Impale
+
+ | Applies "Fire Trap" to compatible Mantra. |
 | 
 
- | Tornado Spark | Dark Blade
+Tornado spark
+
+ | Tornado spark | Dark Blade
 
 Fire Blade
 
@@ -241,27 +253,27 @@ also looks identical to falseflame.
 
  |
 
-### **Specific Effects of Sparks**
+### **Specific Effects of sparks**
 
-#### **Magnet Spark**
+#### **Magnet spark**
 
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
--   This modifier is compatible with the _Spark Swap_ Mantra, but has no effect.
+-   This modifier is compatible with the _spark Swap_ Mantra, but has no effect.
 -   This modifier is compatible with Strong Leap Strength mantra (please add the effect here).
 
-#### Round Spark
+#### Round spark
 
 -   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the songseeker ice npc).
 -   This modifier makes Fire Gun bullets split into two.
 
-#### Blast Spark
+#### Blast spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 -   This modifier causes a trail of Ice to appear over the distance you dashed with the _Frost Grab_ Mantra
 
-#### Reversal Spark
+#### Reversal spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
 -   This modifier causes the _Adrenaline Surge_ Mantra to be generally buffed with a less duration (?)
@@ -273,16 +285,16 @@ also looks identical to falseflame.
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)
 -   Using this modifier on "Ice chains" will make it so it will pull whoever you hit towards you.
 
-#### Multiplying Spark
+#### Multiplying spark
 
 -   This modifier turns the _Wind Gun_ Mantra into a shotgun.
 
-#### Tornado Spark
+#### Tornado spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
--   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. FIre Blade can destroy objects without Tornado Spark.
+-   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. FIre Blade can destroy objects without Tornado spark.
 
-#### Spring Spark
+#### Spring spark
 
 -   This modifier has no known compatibilities.
 

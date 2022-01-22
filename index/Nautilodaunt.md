@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 14009
+revid: 14327
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,9 +10,13 @@ categories: [Monsters]
 
 _Sometimes referred to as **Squidward**, Squid Hoss, Michael Phelps, and Squibbo._
 
+> A monster created for one purpose only. Your demise. - An Unfortunate Khan seconds before wiping.
+
 ## Description
 
-Template:Creature Infobox V3 Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md). It can spawn in City of the Drowned.
+Template:Creature Infobox V3
+
+#### Considered the hardest enemy to solo, as it will parry almost every single attack. Resembles a humanoid squid, about twice the size of a player. Found in the Depths. It has health similar to a [Megalodaunt](Megalodaunt.md). It can spawn in City of the Drowned.
 
 Drops "Odd Tentacles".
 

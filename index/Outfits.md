@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 14265
+revid: 14329
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -34,7 +34,7 @@ Armors cannot be purchased, and must be obtained in enemy drops or chests. Armor
 
 Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
 
-Armors can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats.
+Armors can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats, and even rarer is Celestial.
 
 ## Outfit Stats
 
@@ -494,6 +494,7 @@ Damage Vs. Deep
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Minityrsa Chests |
 |  | Dawn Scarf |  | Hive Chests |
+|  | Crimson Scarf |  | Hive Chests |
 |  | Adventurer's Scarf |  | Hive Chests |
 |  | Black Scarf |  | Hive Chests |
 |  | Tundra Scarf | Grants a random buff | Hive Chests |

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14278
+revid: 14341
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-_Also known as Sea Monkey, Gorilla and Monke._
+_Also known as Sea Monkey, Gorilla, NFT, and Monke._
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales and including Umbral Obsidian) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
@@ -53,6 +53,7 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 -   The footsteps of Primadon play a loud, noticeable noise that can be heard from very far, from the beach to even nearby islands. Use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the players (or _singular, solo_ _player_) fighting this fishy ape.
 -   It is recommended to stay completely still while fighting to avoid being confused by Primadon's walking animation, along with avoiding attacks like Grab and Punch from being triggered.
     -   If multiple players are attacking the Primadon at the same time, make sure that they're all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
+    -   If you possess the talent **Warrior's Respite**, you may heal while fighting Primadon as long as you do not move. In order to make it safe to do so, you can purchase a Hunter's Brace from the shop at Summer Isle which allows you to parry all incoming attacks regardless of power (eg. Primadon Kicks), parrying all of Primadon's attacks while standing still will initiate healing allowing the boss to be killed relatively easily with little in the way of risk. This is a very easy strategy to incorporate and is extremely effective for players who are unable to consistently dodge/parry his attacks.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the **Scuba Drowner** talent or lived the fall.
 -   Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks. However, if you have a Bloodless gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself.

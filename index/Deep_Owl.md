@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 14277
+revid: 14325
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -66,3 +66,4 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key.
 -   It normally does this after it strikes you with three talon swipes.
 
 -   while it is tanky, it has little armor meaning you can deal almost full dmg to it, thus why some people call is squishy.
+-   In yet another bolt of 'game design' one of these can spawn ontop of you, trap you in dialogue, and become aggressive while speaking to you.

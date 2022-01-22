@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 14011
+revid: 14303
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Dread Serpent
 
-_Also known as Kaido, Sea Serpent, and Dragon._
+_Also known as Kaido, Sea Serpent, Murmur and Dragon._
 
 ## Description
 

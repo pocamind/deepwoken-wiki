@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 13878
+revid: 14335
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,3 +36,51 @@ Upon washing your face at the [Lightkeeper Temple](Lightkeeper_Temple.md), the g
 -   You don't need to wash your face at Lightkeeper Temple to gain access to the [Lordsgrove](The_Lordsgrove.md), as you can climb over the giant green door.
 -   The teleporter to [Greathive Aratel](Greathive_Aratel.md) will not work if you haven't washed your face at Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
+
+## Loot
+
+As with all areas in the hive, Starswept gives good mid-high tier loot. Below is a list of items you can find.
+
+-   Legion Centaurion
+-   Legion Cestus
+-   Tanto
+-   Champion's Sword
+-   Darksteel Greatsword (please check)
+-   Big Alchemist's Hat
+-   Big Herbalist's Hat
+-   Gladiator Helm
+-   Authority Helm
+-   Blackleaf Helm
+-   Khan Helmet
+-   Vigil Hood
+-   Blue Headband
+-   Red Headband
+-   Green Headband
+-   Warriors Eyepatch
+-   Ruby Drop Earrings
+-   Practitioner's Earrings
+-   Crystal Pendant Earrings
+-   Dawn Scarf
+-   Tundra Scarf
+-   Crimson Scarf
+-   Forest Scarf
+-   White Scarf
+-   Black Scarf
+-   Brown Parka
+-   Black Parka
+-   White Parka
+-   Silver Sabatons
+-   Silver Pauldrons
+-   Khan Pauldrons
+-   Woodland Pauldrons
+-   White Fur Pauldrons
+-   Royal Pathfinder
+-   Bluesteel Boots
+-   Tracker's Boots
+-   Vanguard Boots
+-   Imperial Boots
+-   Flameguard Boots
+-   Woodland Boots
+-   Khan Boots
+-   Platinum Bar(2-10)
+-   Diamond(4-8)

@@ -1,9 +1,8 @@
 ---
 title: "Attunement-less"
-revid: 14097
+revid: 14320
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Physical Mantras]
 ---
 
 # Attunement-less
@@ -53,7 +52,7 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 -   **Dash** - An agile Dash.
 -   Requirement: 10 Agility, _Agility Mobility Mantra_
 
--   **Adrenaline Surge** - An adrenaline rush of agility.
+-   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed.
 -   Requirement: 20 Agility, _Agility Support Mantra_
 
 -   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Damage significantly increases as the user loses health.
@@ -62,7 +61,7 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 
 ### _**Intelligence Mantras**_
 
-`Intelligence mantras act as "_wildcards_" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an _Encyclopedia,_ or _Math Textbook_.`
+`Intelligence mantras act as "_wildcards_" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an _Encyclopedia_ or a _Math Textbook_.`
 
 -   **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients.
 -   Requirement: 20 Intelligence, _Intelligence Support Mantra_
@@ -95,8 +94,9 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 
 ## Weapon Mantras
 
--   These mantras are based on your weapon's level.
--   Their damage/efficiency scales with the weapon's level.
+-   These mantras are based on the amount of weapons points you have, not your attribute or attunement.
+-   Their damage scales with the amount of weapon points you have.
+-   Read a 'Weapon Manual' in order to improve your damage with these mantras.
 
 ### _**Light Weapon Mantras**_
 
@@ -112,3 +112,8 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
 -   Requirement: 10 Heavy Wep., _Heavy_ _Weapons Combat Mantra_
+
+## Tips
+
+-   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
+-   Using dashes while free-falling will immediately stop or slow your descend, it will still deal fall damage however.

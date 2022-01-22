@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 13879
+revid: 14309
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 File:Eat .png
 
-Spark Gland being An consumed
+A Spark Gland being consumed
 
 _"An organ responsible for the production of electricity."_
 
@@ -27,4 +27,8 @@ A consumable item that fills up the ether reservoir for Thundercall and [Flamech
 
 Sells for 15 Notes. (prices vary depending on island and merchant)
 
-5 of these can be given to the [Thundercall trainer](Attunement_Trainers.md) at [Summer Isle](Summer_Isle.md) to obtain Sparkblood (gives Thundercall element)
+5 of these can be given to the [Thundercall trainer](Attunement_Trainers.md) at [Summer Isle](Summer_Isle.md) to obtain Sporkblood (gives Thundercall element)
+
+**Other:**
+
+it is unknown why it is consumable as it is a human organ, but cannibalism is a talent right?

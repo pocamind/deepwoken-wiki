@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14287
+revid: 14332
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -76,7 +76,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
   <td>10 LHT</td>
-  <td>N/A</td>
+  <td>10</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>2</td>
@@ -489,7 +489,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>Ritual Spear</td>
   <td>35 MED</td>
   <td>19</td>
-  <td>N/A</td>
+  <td>25%</td>
   <td>MED: 5</td>
   <td>5</td>
   <td>9</td>

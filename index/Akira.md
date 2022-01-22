@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 13582
+revid: 14317
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Encountered at Castle Light and in the Celtor Wastes.
 
-Has some sort of Resonance/Bell, looks similar to the bells you ring to increase the rates of corrupted enemies in the depths.
+He has a Resonance, which ability he used to kill the ignition union grunts in the event you first find him at.
 
 Can join the Divers after talking to him in the Celtor Wastes by going to Castle Light, however joining the Divers will make you leave your guild.
 
