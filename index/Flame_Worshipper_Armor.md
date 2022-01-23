@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 13850
+revid: 14790
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -16,6 +16,8 @@ Template:ArmorInfobox**Flame Worshipper Armor** is an Adept [Outfit](Outfits.md)
 
 This Outfit costs and requires four (4) Cloth and Fiber and two (2) pieces of Iron.
 
+This Outfit requires [Power Level](Power.md) 15.
+
 ### _Armor Stats_
 
 This Outfit has 1000 durability and grants +10% Physical resistance, +5% Elemental resistance and +25% Fire resistance.
@@ -24,10 +26,10 @@ This Outfit also grants the [Talent Card](Talents.md) _Intrepid Flame_, which ex
 
 ## Location
 
-This Outfit's Schematic can be found:
+This Outfit's Schematic can be found in:
 
--   Behind Lance's Food in Etris
--   In chest from low-medium quality areas
+-   Etris, behind the food shop.
+-   Beginner to mid-game chests.
 
 ## Trivia/Notes
 

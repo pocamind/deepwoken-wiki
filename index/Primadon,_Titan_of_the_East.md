@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14643
+revid: 14798
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-_Also known as Sea Monkey, He, It, Gorilla, Big Dilf, Papa Prima, and Monke._
+_Also known as Sea Monkey, Gorilla, and Monke._
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales and including Umbral Obsidian) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 

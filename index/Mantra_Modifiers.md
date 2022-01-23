@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14552
+revid: 14811
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -162,7 +162,7 @@ Flame Blind
  | Applies "Magnet Shot" to compatible Mantra. |
 | 
 
-File:Round spark.png
+Round Spark
 
  | Round Spark | Ice Eruption
 
@@ -171,7 +171,7 @@ Fire Gun
  | Applies "Round Shot" to compatible Mantra. |
 | 
 
-File:Blast spark.png
+Blast Spark
 
  | Blast Spark | Lightning Clones
 
@@ -184,7 +184,7 @@ Ice Forge (Adds More Shurikens to the Attack)
  | Applies "Explosion" to compatible Mantra. |
 | 
 
-File:Reversal spark.PNG
+Reversal Spark
 
  | Reversal Spark | Lightning Impact
 
@@ -212,7 +212,7 @@ File:Image 2021-12-31 211633.png
  | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
-File:Spring spark.png
+Spring Spark
 
  | Spring Spark | Strong Leap
 

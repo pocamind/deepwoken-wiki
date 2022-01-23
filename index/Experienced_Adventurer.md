@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 14130
+revid: 14791
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Experienced Adventurer** is an Adept [Outfit](Outfits.md)
 
 This Outfit requires three (3) Cloth and Fiber, and two (2) pieces of Irithine. It costs to finish crafting.
 
-You must be [Power Level](Power.md) 15 to equip this Outfit.
+This Outfit requires [Power Level](Power.md) 15.
 
 ### Effects
 
@@ -26,10 +26,10 @@ This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you 
 
 ## Location
 
-This Outfit's schematic can be found:
+This Outfit's schematic can be found in:
 
--   It can be found in chests in [Lower Erisia](Lower_Erisia.md).
--   It can also be purchased for 80 notes if you go up the ladder in the Weapon's Shop in Etris.
+-   [Lower Erisia](Lower_Erisia.md)
+-   the weapon shop in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Vigil Initiate](Vigil_Initiate.md) Outfit schematics.
 
 ## Trivia/Notes
 

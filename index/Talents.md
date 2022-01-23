@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14573
+revid: 14740
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -530,6 +530,8 @@ Hand of Mantra Cards
 ### Silencer
 
 -   A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+-   Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
+-   Silencer's Edge \[Generic Talent, Galebreath Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
 ### Sturdy Resolve
 
@@ -693,9 +695,12 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Agility Combat (25 Agility Needed)
 
--   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 -   Dash - Just a dash, nothing special. (Mobility)
--   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)
+-   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support) Agility Combat (18 Agility Needed)
+
+#### Agility Combat (18 Agility Needed)
+
+-   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 
 #### Charisma Combat (20~ Charisma Needed)
 

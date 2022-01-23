@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 14441
+revid: 14849
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,17 @@ Template:Areainfobox
 The Boatman's Watch is an island surrounded by whirlpools, located within the void sea.
 
 The [Ferryman](The_Ferryman.md) can be fought here.
+
+**How to summon [The Ferryman](The_Ferryman.md):**
+
+1.  Find the ritual looking place on this island.
+2.  Place 1 campfire on each circle surrounding the big circle (total 4 campfires)
+3.  Light them up using a flint (or use flamecharm/thundercall ignite skill).
+4.  [The Ferryman](The_Ferryman.md) will spawn in the middle.
+5.  Talk with him and the battle will start
+
+  
+**PS: Once you start the fight, there will be a big circle surrounding the fighting arena, which means you can't escape. Only way to escape is to die or defeat [The Ferryman](The_Ferryman.md).**
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 14135
+revid: 14778
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -16,6 +16,8 @@ Template:ArmorInfobox **Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _
 
 This Outfit costs and requires five (5) pieces of Cloth and Fiber and one (1) Crystal Lens to craft.
 
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
+
 ### _Armor Stats_
 
 This Outfit has 1200 durability and grants the user with +8% Physical resistance and +8% Elemental resistance.
@@ -24,10 +26,10 @@ This Outfit also grants the [Talent Card](Talents.md) _Apothecary_, which makes 
 
 ## Location
 
-This Outfit's Schematic can be found:
+This Outfit's Schematic can be found in:
 
--   It can be found in chests in [Lower Erisia](Lower_Erisia.md).
--   It is able to be purchased above the weapon shop in Etris along with the [Shadow Hunter](Shadow_Hunter.md) and [Experienced Adventurer](Experienced_Adventurer.md) armor schematics.
+-   [Lower Erisia](Lower_Erisia.md)
+-   the weapon shop in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Experienced Adventurer](Experienced_Adventurer.md) armor schematics.
 
 ## Trivia/Notes
 

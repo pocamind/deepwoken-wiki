@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 14474
+revid: 14838
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -56,7 +56,7 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 -   Requirement: 20 Agility, _Agility Support Mantra_
 
 -   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Damage significantly increases as the user loses health.
--   Requirement: 10 Agility, _Agility Combat Mantra_  
+-   Requirement: 6 Agility, _Agility Combat Mantra_  
     
 
 ### _**Intelligence Mantras**_
@@ -74,7 +74,7 @@ NOTE: Attunement-less mantras are way more rarer if you have an attunement.
 `Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, bolster your sanity and wisdom with _Prayer Beads_.`
 
 -   **~Sigma Stare~ Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
--   Requirement: ~25 Willpower~, _Willpower Support Mantra (I had 25 willpower on a no attunement build and gaze didnt show up twice, its higher then 25)_
+-   Requirement: 25 Willpower, _Willpower Support Mantra (I got it at 25)_
 
 -   **Exhaustion Strike-** A melee strike that once performed removes your posture's damage.
 -   Requirement: 40 Willpower, _Willpower Combat Mantra_

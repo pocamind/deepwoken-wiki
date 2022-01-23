@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14600
+revid: 14696
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -34,7 +34,7 @@ You gain Progress by doing all the same things to obtain Luck, but as opposed to
 
 While there is no requirement to get a Resonance besides max progress, max progress takes so much time of farming that it was unintentionally associated with things like hours in The Depths or max luck or a higher power.
 
-The best known ways to get Progress are farming bosses, like Kaido, Primadon, The Duke, and The Ferryman. Enhanced Mobs and Snow Knights are generally advised against, requiring triple digits to get somewhere as Bosses take about double digits.
+**The best known ways to get Progress are farming bosses, like Kaido, Primadon, The Duke, and The Ferryman. Enhanced Mobs and Snow Knights are generally advised against, requiring triple digits to get somewhere as Bosses take about double digits.**
 
 TLDR:
 

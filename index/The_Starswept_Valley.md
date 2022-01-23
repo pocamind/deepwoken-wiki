@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 14335
+revid: 14710
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -52,6 +52,7 @@ As with all areas in the hive, Starswept gives good mid-high tier loot. Below is
 -   Authority Helm
 -   Blackleaf Helm
 -   Khan Helmet
+-   Pale Assassin's Hood
 -   Vigil Hood
 -   Blue Headband
 -   Red Headband

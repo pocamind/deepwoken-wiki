@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 14607
+revid: 14714
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -23,9 +23,9 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 Like all other elements, users can see their Mantras become stronger with training:
 
 -   At Power 2, players receive the _Galebreather_ Talent.
--   At Gaybeat level 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
--   At Gaybeat level 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
--   Finally, at Gaybeat level 50, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
+-   At Power 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
+-   At Power 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
+-   Finally, at Power 40, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
 
 The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock galebreath.
 
@@ -184,6 +184,6 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 -   Guards can be found using Galebreath Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
 -   A few Talents require to Inhay mantras, which acts like a cancel but are performed differently:
-    -   Cast the mantra then press M1 and M2 together to Inhay.
+    -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and Ragdoll.
 -   Archmage stated that Galebreath is the "least cool" out of all the elements.

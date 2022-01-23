@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 14624
+revid: 14851
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,7 +50,11 @@ Upon turning the telescope counterclockwise (which I assume is up), the player w
 File:TelescopeCounterclockwise2.png
 
   
-Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows. File:Observatory.png.PNG
+Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows.
+
+It may represent the "Dying World" aspect of Deepwoken's universe, as there may be a terrible thing unfolding throughout the Luminants.
+
+File:Observatory.png.PNG
 
   
 
@@ -73,7 +77,7 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
 -   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms.
     -   A red flower located outside near the observatory balcony. Mind your footing.
     -   A white flower, located near the Blacksmith, facing in front of it.
-    -   A white flower, hanging at the side of a tree root a level above the Blacksmith.
+    -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
 -   Completing this quest gives a handful of EXP and access to upgrade Non-Attunement Mantras.
 
 ## Reputation
@@ -91,7 +95,7 @@ In order to reset your reputation to neutral, in the case of the guards hating y
 
 ## Extra
 
-There are green wells around the Hive that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). In the entrance, the left well goes to [Summer Isle](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
+There are green [fountains](Fountain_Gates.md) around the Hive that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). In the entrance, the left well goes to [Summer Isle](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
 
   
 

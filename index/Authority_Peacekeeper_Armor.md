@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 14522
+revid: 14784
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -16,6 +16,8 @@ Template:ArmorInfobox**Authority Peacekeeper Armour** is an Adept [Outfit](Outfi
 
 This Outfit costs and requires five (5) Cloth and Fiber and one (1) piece of Iron.
 
+This Outfit requires [Power Level](Power.md) 15 and [Fortitude](Attributes.md) 5.
+
 ### _Armor Stats_
 
 This Outfit has 1600 durability and grants +15% Physical resistance, +10% Elemental resistance, +10% Slash resistance and +15% Fire resistance.
@@ -24,10 +26,10 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 
 ## Location
 
-This Outfit's Schematic can be found:
+This Outfit's Schematic can be found in:
 
 -   Locations here
 
 ## Trivia/Notes
 
--   This is the same armour as the guards of Fort Merit
+-   The guards in Fort Merit can be found wearing this Outfit.

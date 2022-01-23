@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 14286
+revid: 14797
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -16,23 +16,25 @@ Template:ArmorInfobox**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Dee
 
 This Outfit has no cost and requires five (5) Cloth and Fiber and four (4) pieces of Iron.
 
+This Outfit requires [Power Level](Power.md) 15.
+
 ### _Armor Stats_
 
 This Outfit has 1200 durability and grants +20% Physical resistance and +10% Blunt resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the Katana by 20% and the damage of the Shattered Katana by +10(?)%
+This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the Katana by 20% and the damage of the Shattered Katana by possibly +10%.
 
 ## Location
 
-This Outfit's Schematic can be found:
+This Outfit's Schematic can be found in:
 
-1.  Mantra shop on Isle Of Vigils
-2.  Artifact trade ins
-3.  Chest drop in any area other than Hive Territory and Fort Merit (untested)
+-   Isle of Vigils, inside the Mantra shop.
+-   Artifact rewards.
+-   Chests.
 
 ## Trivia/Notes
 
--   The better version of this armor is the Cloak Of Winds which gives the same talent with much better stats
--   This armor is worn by the starting guide on Isle of Vigils
--   Relatively good for early game to mid game when used with the Katana
--   The schematic is called "Wandering Swordsman" instead of Vigil Initiate before giving it to a blacksmith.
+-   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card with much better stats.
+-   This Outfit can be found on the Helper in the Isle of Vigils.
+-   Relatively good for early to mid-game when used with the Katana.
+-   This Outfit's schematic is renamed as Wandering Swordsman.

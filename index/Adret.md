@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 13549
+revid: 14818
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -86,7 +86,7 @@ The passive Autodidact Boon can lead into you being put into EXP debt and requir
 ## Notes/Trivia
 
 -   An NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "old world", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
-    -   There is a lot of ways to interpret this, but it's generally believed that he's indicating that all of the other races are based off of animals, and Adrets are not.
+    -   There is a lot of ways to interpret this, but it's generally believed that he's indicating that all of the other races are based off of animals, and Adrets are not, as they came from the Sea. (Some speculation says that they came from the Depths- or perhaps they were former denizens of Celtor..?)
 -   Archmage did, however, confirm that the Adret are **not** fish either.
     
       

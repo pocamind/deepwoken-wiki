@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14580
+revid: 14839
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -95,7 +95,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>13.5</td>
   <td>N/A</td>
   <td>LHT: 8</td>
-  <td></td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.03x</td>
 </tr>
@@ -395,7 +395,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Serpent's Edge</td>
   <td>40 MED</td>
-  <td>21</td>
+  <td>22</td>
   <td>N/A</td>
   <td>MED: 6</td>
   <td>5</td>

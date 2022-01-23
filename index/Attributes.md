@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 14595
+revid: 14734
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -14,7 +14,7 @@ categories: [Attributes]
 
   
 
-## Description
+## Description This Tab is useless if you wanna know how to ACTULLY PUT IN THE SKILLPOINTS pls fix man
 
 Attributes are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain amount of points into it.
 

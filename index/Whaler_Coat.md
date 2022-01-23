@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 14422
+revid: 14763
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,18 +8,25 @@ categories: [Armors]
 
 # Whaler Coat
 
-Template:ArmorInfobox
+## Description
 
-The Whaler Coat is an Expert [Outfit](Outfits.md) in _Deepwoken._
+Template:ArmorInfobox**Whaler Coat** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
-Location
+### _Requirements_
 
-The Schematic can be found in:
+This Outfit costs and requires five (5) Cloth and Fiber, two (2) pieces of Gold, ten (10) pieces of Iron and two (2) Lionfish Scales.
 
-[Starswept Valley](The_Starswept_Valley.md) (Drop)
+### _Armor Stats_
 
-[The Depths](The_Depths.md) (Drop)
+This Outfit has 1500 durability and grants +25% Physical resistance, +15% Elemental resistance and +50% Stealth.
 
-Trivia/Notes
+## Location
 
--   Worn by Whalers.
+This Outfit's Schematic can be found in:
+
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [The Depths](The_Depths.md)
+
+## Trivia/Notes
+
+-   This Outfit can be found worn by Whalers.

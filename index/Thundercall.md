@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 14497
+revid: 14768
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells]
@@ -192,6 +192,102 @@ Certain talents have no category or their category is unknown.
 |  | Static Flash Clone | When using lightning clones you instead disappear leaving behind a static clone for a short duration. |   
 +3 Elemental Intensity  
 +1 Health | Thundercaller |
+
+**Thundercaller:**
+
+These talents are found in the _Thundercaller_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Thunderblade:**
+
+These talents are found in the _Thunderblade_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Self-Shocker:**
+
+These talents are found in the _Selfshocker_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Static Weaver:**
+
+These talents are found in the _Static Weaver_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Thunder Caster:**
+
+These talents are found in the _Thunder Caster_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Authority Interrogator:**
+
+These talents are found in the _Authority Interrogator_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Javelin Lord:**
+
+These talents are found in the _Javelin Lord_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+**Stormcaller:**
+
+These talents are found in the _Stormcaller_ category.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia/Notes
 

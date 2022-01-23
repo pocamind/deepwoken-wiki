@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14585
+revid: 14806
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -96,7 +96,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
-  <td><div><p>Increases M1 stun and damage by around 50%, visualized by a purple lightning after-shock. In the rain, every M1 connection will summon a bolt of lighting on the opponent, increasing damage by approximately 1.4% (?)</p>
+  <td><div><p>Increases M1 stun, visualized by a purple lightning after-shock. In the rain, every M1 connection will summon a bolt of lighting on the opponent, increasing damage by 50% (The +50% Damage only applies when its raining)</p>
   <p><br>
   </p></div></td>
 </tr>

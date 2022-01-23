@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 14198
+revid: 14820
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links]
 
   
 
-The Summer Isle is an island in the Aratel Sea. It is the only currently known area where there is access to firearms.
+The Summer Isle is an island in the Aratel Sea. It is the only currently known area where there is access to firearms and a Hunter's Brace.
 
 File:RobloxScreenShot20211227 093118226.png
 
@@ -31,6 +31,12 @@ Inside the main building of the island, there is a gunsmith who sells a variety 
 -   Dragoons - 500 Notes.
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks, and ammunition for these guns can be bought from the nearby Con for 5 notes each.
+
+#### Armor
+
+Only one blueprint can be found on this island that being the Summer Company Uniform found sitting on a table beside the gunsmith.
+
+This island also sells Hunter's Braces which can be equipped to parry red attacks. This is not a permanent acessory and you are unable to find it on your character when sitting by a campfire. You have to buy another Brace if you leave the server.
 
 #### Brawling Arena
 
@@ -55,10 +61,11 @@ Like the _**Island Of Vigils,**_ and _**Etrea**_, the Summer Isle has similar ve
 -   Modifier trader, who buys your mantra modifiers for notes.
 -   Con's Pawn, who sells not only Attribute training items, but also attunement training items alongside basic supplies such as wood, fiber and flint.
 -   A Blacksmith in one of the castle's outer Palisades.
+-   A Hunter's Brace is sold here, which allows you to parry normally unstoppable attacks such Primadon's kick.
 
 #### Inn
 
-The Inn is outside of the Summer Isle's castle on a seperate island, and will allow you to set your spawn at the Summer Isle. Additionally, next to the Innkeeper, is a guildmaster who will allow you to leave and create a new guild.
+The Inn is outside of the Summer Isle's castle on a seperate island and will allow you to set your spawn at the Summer Isle. Additionally, next to the Innkeeper, is a guildmaster who will allow you to leave and create a new guild.
 
 #### Thundercall Trainer
 
@@ -117,10 +124,13 @@ Possible items found after completing Scope's quest
 -   Iron Cestus
 -   Practitioner's Earrings
 -   Slate Tophat
+-   Burgundy Tophat
+-   Beige Tophat
 -   Slate Aristocrat Coat
+-   Burgundy Aristocrat Coat
 -   Novice Boots
 -   Amethyst(4-5)
 -   Ruby(3-4)
 -   Saphire(3-4)
--   Emerald(3)
+-   Emerald(3-4)
 -   Gold Bar(4)

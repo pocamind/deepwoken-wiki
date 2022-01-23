@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 14449
+revid: 14815
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -141,7 +141,7 @@ A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
 -   NOT all attacks can be parried; Buy a Hunter Brace at the Summer Island to be able to.
--   Some creatures will fight each other; Multiple can fight at the same time. Example [here](https://youtu.be/01uQchtfUvw)
+-   Some creatures will fight each other; Multiple can fight at the same time. Example [Here](https://youtu.be/01uQchtfUvw),[Also](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s)
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
 -   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap
 -   It's unknown what typing that Alpha Megalodaunts are, as they're a Megalodaunt variant, but only found in The Depths.

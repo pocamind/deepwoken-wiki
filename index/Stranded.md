@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 13695
+revid: 14770
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -14,7 +14,9 @@ Template:ArmorInfobox Stranded is a Starter [Outfit](Outfits.md) in _Deepwoken._
 
 ### _Requirements_
 
-Stranded has no cost and requires no materials or specific [Attributes](Attributes.md) to equip.
+This Outfit has no cost and requires no materials to craft.
+
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 

@@ -1,14 +1,35 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 13874
+revid: 14799
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Armors]
 ---
 
 # Pathfinder Arch-Sorcerer
 
-Template:ArmorInfobox
+## Description
 
-someone else put information here
+Template:ArmorInfobox**Pathfinder Arch-Sorcerer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
-( i accidently deleted my edit)
+### _Requirements_
+
+This Outfit costs and requires five (5) Cloth and Fiber, ten (10) pieces of Irithine, one (1) Lionfish Scale and one (1) Strange Claw.
+
+This Outfit requires [Power Level](Power.md) 30 and [Intelligence](Attributes.md) 40.
+
+### _Armor Stats_
+
+This Outfit has 1500 durability and grants +10% Physical resistance, +25% Elemental resistance, +10% Lightning resistance, +10% Ice resistance and +200% Ether Regen.
+
+This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which gives the player extra Ether for every Mantra Card they own.
+
+## Location
+
+This Outfit's Schematic can be found in:
+
+-   Locations here
+
+## Trivia/Notes
+
+-   Player notes here

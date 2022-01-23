@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 13725
+revid: 14771
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -15,6 +15,8 @@ Template:ArmorInfobox **White Traveler Cloak** is a Starter [Outfit](Outfits.md)
 ### _Requirements_
 
 This Outfit costs and requires one (1) Cloth.
+
+This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
