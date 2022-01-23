@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 14608
+revid: 15021
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -90,7 +90,7 @@ The deer folk of the land are among the few that still consider themselves free 
 
 -   While in [The Depths](The_Depths.md) and the [Void Sea](Voidsea.md), the compass is angled in a broken fashion, making it near impossible to use.
 -   Almost always good at PVP, regardless of progression.
--   Absolute chad race.
+-   Absolute chad race. (You name is probably kevin)
 
 <table>
 <tbody>

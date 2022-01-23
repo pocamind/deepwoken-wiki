@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14811
+revid: 15052
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -140,18 +140,18 @@ File:Screenshot 59.png
  | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
-## Sparks
+## Sporks
 
-sparks are modifiers that are only able to be used on specific mantras.
+sporks are modifiers that are only able to be used on specific mantras.
 
-If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
+If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spork and other modifiers involved.
 
 | Image | Modifier | Applicable Mantras | Effect |
 | --- | --- | --- | --- |
 | 
 File:Magnet spark PNG.png
 
- | Magnet Spark | Lightning blade
+ | Magnet Spork | Lightning blade
 
 Jolt Grab
 
@@ -164,7 +164,7 @@ Flame Blind
 
 Round Spark
 
- | Round Spark | Ice Eruption
+ | Round Spork | Ice Eruption
 
 Fire Gun
 
@@ -173,7 +173,7 @@ Fire Gun
 
 Blast Spark
 
- | Blast Spark | Lightning Clones
+ | Blast Spork | Lightning Clones
 
 Shadow Gun
 
@@ -186,7 +186,7 @@ Ice Forge (Adds More Shurikens to the Attack)
 
 Reversal Spark
 
- | Reversal Spark | Lightning Impact
+ | Reversal Spork | Lightning Impact
 
 Flame Leap
 
@@ -209,12 +209,12 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spork | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
 Spring Spark
 
- | Spring Spark | Strong Leap
+ | Spring Spork | Strong Leap
 
 Crystal Impale
 
@@ -223,7 +223,7 @@ Crystal Impale
 
 Tornado spark
 
- | Tornado Spark | Dark Blade
+ | Tornado Spork | Dark Blade
 
 Fire Blade
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 14858
+revid: 15040
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,10 +11,7 @@ categories: [Pages with broken file links]
 Template:Creature Infobox V3
 
   
-
-Forest Golems, also known as Hive Mech, Hive Construct, or Obsidian Golems (given their black appearance), spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md) (To be combined with Ice Golems)
-
-Forest Golem at Starswept Valley/Bluster Canyon
+Hive/Rogue Constructs, also known as Hive Mech, Forest Golems, or Obsidian Golems (given their black appearance), spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md)
 
 ## Description
 
@@ -81,13 +78,11 @@ The most reliable cheese spot at Starswept Valley in my experience.
 ## Tips/Trivia
 
 -   _**r u n**_
--   Forest Golems at Starswept Valley wont aggro you if your rep with hive (e.g Ganymedes and Vesperians). They will aggro on you if you have negative rep with the hive.
--   Attacking the Hive guards will have a chance of spawning these golems.
--   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and no known ones at Buster Valley.
--   Can absolutely booty blast you even at level 60 if youre solo
--   Not worth fighting. Even if you try, this Golem will obscure your vision with Trees all the time.
--   They talk if the ice mage that spawns with it at Starswept Valley is defeated (bug)
--   If the player is close enough to the adretian and the golem, the adretian will use one of his ice skills and hit the golem, causing the two to fight one another.
+-   Hive Constructs at Starswept Valley wont aggro you if your rep with Greathive Aratel is positive. Accordingly, they will aggro on you if you have negative rep.
+-   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and none known at Buster Valley.
+-   Can absolutely destroy you even at level 60 if youre solo and inexperienced
+-   Not worth fighting. Even if you try, this Golem will obscure your vision with trees all the time.
+-   They talk if the ice mage that spawns with it at Starswept Valley is defeated.
 -   [Snow Knights](Stone_Knight.md) can be lured next to them at Minityrsa, causing them to fight each other.
     
     File:VLGf7ZV.png

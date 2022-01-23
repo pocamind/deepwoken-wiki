@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 14460
+revid: 14929
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has an Ether Barrier preventing entry. Entry will only be granted if the player has ~cleaned their face in the Lightkeeper Temple.~ There is no reason to believe this is true. Accessing Castle Light simply asks that you reach the depths via Whirlpool, and Whirlpool alone.
+Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has an Ether Barrier preventing entry. Entry will only be granted if the player has entered The Depths throught a whirlpool.
 
 ## Contents
 

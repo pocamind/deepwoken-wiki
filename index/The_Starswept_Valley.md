@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 14710
+revid: 15042
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,8 +28,8 @@ Upon washing your face at the [Lightkeeper Temple](Lightkeeper_Temple.md), the g
 -   [Thresher (including King variant)](Thresher.md)
 -   [Hive Construct](Hive_Construct.md)
 -   [Deep Widow](Deep_Widow.md)
--   Rock Knight (Recolor of [Snow Knight](Stone_Knight.md))
--   Thundercall, Flamecharm and Frostdraw Human NPC's
+-   Sand Knight (Recolor of [Blizzard knight](Stone_Knight.md))
+-   Thundercall, Flamecharm, Galebreath, and Frostdraw Human NPC's
 
 ## Trivia
 
@@ -45,7 +45,8 @@ As with all areas in the hive, Starswept gives good mid-high tier loot. Below is
 -   Legion Cestus
 -   Tanto
 -   Champion's Sword
--   Darksteel Greatsword (please check)
+-   Darksteel Greatsword
+-   Shattered Katana
 -   Big Alchemist's Hat
 -   Big Herbalist's Hat
 -   Gladiator Helm

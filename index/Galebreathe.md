@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 14714
+revid: 14951
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -23,9 +23,9 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 Like all other elements, users can see their Mantras become stronger with training:
 
 -   At Power 2, players receive the _Galebreather_ Talent.
--   At Power 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
--   At Power 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
--   Finally, at Power 40, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
+-   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
+-   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
+-   Finally, at Galebreathe 45, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
 
 The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock galebreath.
 

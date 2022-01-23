@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 14915
+revid: 15047
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -251,62 +251,56 @@ Duke chests
 | File:Isshin.png | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
 _Requires Power Level 15_
 
- | Pirate Event at Aratel Sea |
+ | Pirate Event Chests and Primadon Chests |
 |  | Konga's Clutch Ring | Allows the user to slide without delay.
 
 _Requires Power Level 10_
 
- | Mudskipper Mission in Pathfinder's Respite |
+ | Mudskipper Chests and Primadon Chests |
 | File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed.
 
 _Requires Power Level 10_
 
- | Depths Chests |
+ | Depths Chests and Primadon Chests |
 |  | Gold Ring | Grants a random buff.
 
 Can be sold for 25 Notes.
 
- | Mudskipper cave event chest |
+ | Mudskipper Chests and Primadon Chests |
 | File:Light eater ring.jpg | Light eater ring | Getting hit by a Lightning or Fire mantra recovers ether.
 
 Grants one random buff
 
 _Requires Power Level 10_
 
- | [The Duke](Duke_Ishamon_Erisia.md)
-
-Depths Chests
-
- |
+ | Depths Chests, Duke Chests, and Primadon Chests |
 |  | Silver Ring | Grants a small random buff.
 
 Can be sold for 10 Notes.
 
- | Mudskipper cave event chest |
+ | Mudskipper Chests and Primadon Chests |
 |  | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
 
 _No Power Level Required_
 
- | Depths Chests (I got one of these from the pirate event too) |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests (I got a ring of wisps from the pirate event in the aratel sea) |
+ | Depths Chests, Duke Chests, and Primadon Chests |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Depths Chests, Duke Chests, and Primadon Chests |
 |  | Old Ring | Placeholder |  |
-| File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests |
+| File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests and Primadon Chests |
 |  | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
 
 _No Power Level Required_
 
- | Depths Chests |
+ | Depths Chests and Primadon Chests |
 | File:Dazedband.PNG | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
 
 _Requires Power Level 10_
 
- | Depths Chests (I got 1 from private event) |
-|  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. |  |
-|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bed reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests (as far as i
-
-know)
-
- |
+ | Depths Chests, Duke Chests, and Primadon Chests |
+|  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. | Unknown |
+|  | Ring of Pestilence | Enemies you hit have their healing reduced by 25% | Primadon Chests |
+|  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Unknown |
+|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bed reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests, Duke Chests, and Primadon Chests |
 
   
 
@@ -326,9 +320,7 @@ _Requires Power Level 30_
 
  | Depths Chests |
 
-<nowiki>
-
-</nowiki>
+  
 
 ## Trivia/Notes
 

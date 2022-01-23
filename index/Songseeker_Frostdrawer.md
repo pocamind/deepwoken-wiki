@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 13959
+revid: 14944
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,6 +33,7 @@ Their arsenal consists of only [Frostdraw](Frostdraw.md).
 -   **Apparently Unlimited Ether:** The Songseekers have an unlimited amount of Ether.
 -   **No Cooldowns:** The Frostdraw Songseekers have apparently no cooldowns on their mantras, allowing them to constantly spam them unless they are constantly damaged.
 -   **Third Eye:** Cannot be assassinated.
+-   **Cancellable:** All of their attacks can be cancelled, allowing them to be stunlocked against walls.
 
 ### **Flaws:**
 

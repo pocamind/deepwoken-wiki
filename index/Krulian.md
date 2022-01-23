@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 14875
+revid: 14949
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,4 +17,4 @@ According to The Ferryman, not many Krulians have been seen by the people of The
 
 It also says that they are the "next step in the evolutionary chain" which could mean they are a more advanced civilization, given that there is a Krulian Knife which is the best dagger in Deepwoken.
 
-Also, I have to add the fact that [Aelita](Aelita.md) could be a Krulian, as she uses Thundercall-like magic, her eyes are purple fitting the purple thunder color, and due to her making many clones of herself.
+It is also highly likely that [Aelita](https://deepwoken.fandom.com/wiki/Aelita), the felinor-like creature in the valley of heroes, is also a Krulian. Incredibly strong abilities, not giving a damn about peoples lives, and playing often deadly "games" with any mortal that they come across. Ticks all the boxes

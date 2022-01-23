@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 14160
+revid: 15007
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -34,7 +34,7 @@ Duke Boss Room
     -   Wind Prison - The Duke shoots a homing ball of rapid winds. Getting hit with this attack immobilizes your movement. Can be parried or rolled.
     -   Jetstream - The Duke warps to a nearby player that he's not targeting (unless there's only 1 person) throwing them up to the air and drop kicks them forward midair. The Duke can only teleport to someone who is stuck in his Wind Prison.
     -   Counter - The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflects back to the attacker- dealing significant damage. He laughs afterwards when something strikes his counter.
-    -   Wind Stomp - The Duke Kicks the Ground and sends a Big wave of wind at you. Can be parried or rolled. (Will Execute if it hits you while knocked or at low health)
+    -   Wind Stomp - The Duke kicks the ground, shooting a wave of wind up from the ground towards you. Can be rolled(?). (Will auto-grip if this move hits you while knocked or at low health)
     -   ~Spirit~ Wind Bomb - The Duke flies into the air, raising his hands above him to conjure a huge ball of wind, before throwing it down, hitting everyone in the room. Can be parried or rolled.  
         
 -   Fist Combat: Legion Kata - The Duke wields Iron Cestus, and will fight you using Martial Arts of the Legion.

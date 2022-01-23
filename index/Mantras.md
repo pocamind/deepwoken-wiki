@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 14487
+revid: 14982
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -59,7 +59,7 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Goes well when paired with other elements.
 -   Typically used mid range.
 
-### **Attunement-less Mantras**
+### **[Attunement-less Mantras](Attunement-less.md)**
 
 There are also Mantras that are based off of other character attributes. This includes Strength, Fortitude, intelligence, Agility, Willpower, and Charisma.
 

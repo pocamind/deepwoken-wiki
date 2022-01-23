@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 14813
+revid: 15064
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -58,7 +58,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | Trial Power | Possible Enemies |
 | --- | --- |
 | 1-8 | N/A - You escape without fighting a monster |
-| 9-18 | N/A - You escape without fighting a monster |
+| 9-18 | Two Swordsmen |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
 | 50+ | [Enforcer](Enforcer.md) |

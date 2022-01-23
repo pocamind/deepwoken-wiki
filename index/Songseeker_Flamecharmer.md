@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 13958
+revid: 14943
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,12 +25,15 @@ Their arsenal consists of only [Flamecharm](Flamecharm.md).
 
 -   **Flame Repulsion:** After a wind-up of ~2 seconds, The Songseeker explodes in a burst of flames. _Blockable, cannot be parried._
 -   **Flame Blade:** The Songseeker thrusts down with their blade coated in flame. _Blockable, can be parried_
+-   **Flame Rise:** The Songseeker rises up in a flurry of flames, dealing moderate damage. _Blockable, can be parried_
+-   **Flame Assault:** The songseeker spins around and dashes forward, dealing damage to opponents in it's way. _Parrieable_
 
 ### Boons:
 
 -   **Apparently Unlimited Ether:** The Songseekers have an unlimited amount of Ether.
 -   **No Cooldowns:** The Flamecharmer Songseekers have apparently no cooldowns on their mantras, allowing them to constantly spam them unless they are constantly damaged.
 -   **Third Eye:** Cannot be assassinated.
+-   **Hyper Armor:** Almost all of it's moves have hyperarmor, and can be used in M1 chains.
 
 ### **Flaws:**
 

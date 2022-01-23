@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 14778
+revid: 15044
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]

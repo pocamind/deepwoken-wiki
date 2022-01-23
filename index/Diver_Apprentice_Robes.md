@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 14786
+revid: 14933
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -26,7 +26,8 @@ This Outfit has 1000 durability and grants +5% Physical resistance, +20% Element
 
 This Outfit's Schematic can be found in:
 
--   Locations go here
+-   ???
+-   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 

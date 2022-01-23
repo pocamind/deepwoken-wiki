@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 12342
+revid: 14938
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -22,12 +22,13 @@ Members of a guild (including its leader) will stay in their guild after death. 
 
 ## Lore Guilds
 
-Lore Guilds are guilds that players can join throught certain means. They work similarly to regular player made guilds, with the exception that there are no player Leader or Officers, and that they may provide different benefits that player made guilds do not have.
+Lore Guilds are guilds that players can join throught certain means. They work similarly to regular player made guilds, with the exception that there are no player Leader or Officers.
+
+Since lore guilds are mostly made up of scattered players, nothing really link them together and they usually will not be seen together or even work together for that matter.
 
 Keep in mind that joining a Lore Guild **WILL KICK THE PLAYER FROM THEIR CURRENT GUILD.**
 
 ### The Divers
 
 -   **Leader:** Unknown
--   **Officer:** [Akira](Akira.md) (Is the one to enlist the player)
--   **Benefits:** Permanent access to [Castle Light](Castle_Light.md) without needing to wash your face at Lightkeeper Temple
+-   **Officer:** [Akira](Akira.md) (is the one to enlist the player)

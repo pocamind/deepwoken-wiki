@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 14181
+revid: 15011
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 Exclusive to the Winter season.
 
-Killing all of these monsters in the winter will spawn a chest that has a guarantee drop of a [Hero's Blade](Hero_Blades.md). The element of the blade is random.
+Killing 5 out of 6 of these monsters in the winter will despawn the last Blizzard Knight, and spawn a chest near the river that has a guarantee drop of 1-4 [Hero's Blade](Hero_Blades.md). The element of the blade(s) is random.
 
 -   To make it easier to kill these, you can lure them to the [Forest Golem](Hive_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight.
 
@@ -24,7 +24,7 @@ Killing all of these monsters in the winter will spawn a chest that has a guaran
 
 ## Description
 
-Tall white slender figures with red eyes who spawn from meteors in the Valley of Heroes on [Minityrsa](Minityrsa.md). You can tell if you are near their spawn as the walls of the valley will be littered with white glowing meteors. Once triggered white meteors will fall from the sky and do an AOE. Out of the meteors, 5 Snow Knights will spawn and attack on sight, Often beginning with a pillar attack. They carry a sword and use their legs to kick a unfortunate player into the air. They can also use their sword to slash the air and make an air projectile.
+Tall white slender figures with red eyes who spawn from meteors in the Valley of Heroes on [Minityrsa](Minityrsa.md). You can tell if you are near their spawn as the walls of the valley will be littered with white glowing meteors. Once triggered, five white meteors will fall from the sky and do an AOE. Out of the 5 meteors, 6 Snow Knights will spawn and attack on sight (Unsure if this is a bug), often beginning with a pillar attack. They carry a sword and use their legs to kick a unfortunate player into the air. They can also use their sword to slash the air and make an air projectile.
 
 <table><caption></caption>
 <tbody>
