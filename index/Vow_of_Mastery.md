@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 14248
+revid: 14633
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,13 +17,14 @@ You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You wi
 
 To become a Master, you must ask a player a question similar to: "wanna make a vow of mastery?"
 
-The player must respond with "yes." Once accepted an animation will play and the player will become your Subject. You can now use commands on them. However, you will need to improve your [Charisma](Attributes.md) and unlock the more essential commands as [Talents](Talents.md).
+The player must respond with "yes." after responding yes, you will have a menu appear on your screen which warns you and lets you accept or decline it. Once accepted an animation will play and the player will become your Subject. You can now use commands on them. However, you will need to improve your [Charisma](Attributes.md) and unlock the more essential commands as [Talents](Talents.md).
 
 ## Commands
 
 | Command | Requires Talent | Usage | Effect |
 | --- | --- | --- | --- |
 | Eat | No | "_\[Name\]_, eat _\[edible item\]_" | Forces the Subject to eat an edible item. |
+| Spit | No | "_\[Name\],_ spit." | Forces the subject to spit. |
 | Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped. |
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
 | Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |
@@ -52,9 +53,3 @@ Charisma, Rare
 -   ~You cant make a vow on the same person, even if you originally had a vow, and you got wiped, and they lived, you cant make a vow with them again.~ This is false.
 -   You can still get Vow of Mastery with the Oathless Talent.
 -   _Return_ can save someone from being gripped, but not from being carried.
-
-##### Techniques against idiots
-
-You can ask an obvious question, then Ctrl + V vow of mastery in tricking them into vowing with you. (Worked once)
-
-👆🏿 This doesnt work anymore, as of now, after responding yes, you will have a menu appear on your screen which warns you and lets you accept or decline it.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14494
+revid: 14580
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -39,7 +39,15 @@ Hold your weapon with your main hand, which allows the use of an off-hand access
 
 Hold your weapon with both hands, adding weight to your swings. Also triggers different buffs depending on weapon and talents.
 
-  
+## Key Terminology
+
+-   **Requirements:** How much of the required attribute(s) you need to wield that weapon.
+-   **Damage:** Base Damage.
+-   **Penetration:** Runs by percentage (%). Determines how much your attacks ignore through armor.
+-   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
+-   **Weight:** How much posture damage you deal when attacking blocks or parrying attacks.
+-   **Range:** How far your weapon can reach (Does not calculate by Studs)
+-   **Swing Speed:** How fast your weapon can strike per M1.
 
 ## Light Weapons
 
@@ -146,7 +154,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 
 **Fists:**
 
-Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes.
+Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. Way of Navae and Legion Kata are both called Fist in the campfire menu, and have the same stats; only the animations are different.
 
 <table>
 <tbody>
@@ -161,7 +169,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Fist (Way of Navae/Legion Kata)</td>
+  <td>Fist</td>
   <td>0 LHT</td>
   <td>12</td>
   <td>N/A</td>
@@ -447,7 +455,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Hero Blade of Flame*</td>
   <td>75 FIR, LVL 35</td>
-  <td>22</td>
+  <td>20</td>
   <td>N/A</td>
   <td>FIR: 6.5</td>
   <td>5</td>
@@ -457,7 +465,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Hero Blade of Lightning*</td>
   <td>75 THD, LVL 35</td>
-  <td>22</td>
+  <td>20</td>
   <td>N/A</td>
   <td>THD: 6.5</td>
   <td>5</td>
@@ -467,7 +475,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Hero Blade of Frost*</td>
   <td>75 ICE, LVL 35</td>
-  <td>22</td>
+  <td>20</td>
   <td>N/A</td>
   <td>ICE: 6.5</td>
   <td>5</td>
@@ -477,7 +485,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Hero Blade of Wind*</td>
   <td>75 WND, LVL 35</td>
-  <td>22</td>
+  <td>20</td>
   <td>N/A</td>
   <td>WND: 6.5</td>
   <td>5</td>
@@ -487,12 +495,12 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td>Hero Blade of Shadow*</td>
   <td>75 SHD, LVL 35</td>
-  <td>22</td>
+  <td>20</td>
   <td>N/A</td>
   <td>SHD: 6.5</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
@@ -688,7 +696,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 <tr>
   <td>Crescent Cleaver</td>
   <td>40 HVY, 10 STR</td>
-  <td>22.4</td>
+  <td>22</td>
   <td>N/A</td>
   <td>HVY: 8</td>
   <td>9</td>
@@ -773,6 +781,8 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
 
 **Shields:**
 
+Shields are off-hand weapons that reduces posture damage when blocking.
+
 <table>
 <tbody>
 <tr>
@@ -798,7 +808,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
 <tr>
   <td>Khan Shield</td>
   <td>60 FTD</td>
-  <td></td>
+  <td>2</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14501
+revid: 14585
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -45,7 +45,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them, dealing little damage. If you don't grip at least one person per day, the Umbral Knight will absorb you into the weapon and kill you. (Im pretty sure this is currently disabled due to lag issues.)</p></div></td>
+  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them, dealing little damage. However, to activate this you need to grip people to "feed" them into the sword, otherwise until its charged with enough grips it wont activate and will deal a very small portion of damage back to you.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
@@ -281,7 +281,7 @@ Drowned
 
  | 
 
-I was in water for a while with this enchant but didn't die but got gripped by somebody, so it potentially keeps you from drowning.
+Gain a strong buff to one stat on your armor with a downside (such as -2 posture).
 
   
 

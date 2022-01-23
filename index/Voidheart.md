@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 13876
+revid: 14592
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,4 +18,4 @@ The Voidheart is a location that is rumored to be a dev area, but, as of now, it
 
 _The World Serpent_ is a boss rumored to spawn in Voidheart. There is no evidence pointing towards this, nor any denying its existence.
 
-Bringing a void feather to Voidheart will reveal some lore, with the Depths Trials voices talking and a talent called endless unlocked. This has been proven false by many people.
+~Bringing a void feather to Voidheart will reveal some lore, with the Depths Trials voices talking and a talent called endless unlocked.~ Untrue, has been proven false.

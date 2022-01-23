@@ -1,14 +1,12 @@
 ---
 title: Outfits
-revid: 14329
+revid: 14622
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
 ---
 
 # Outfits
-
-(**Warning**: This is a RNK (1) Page. If any griefing occours please let an admin know.)
 
 ## Description
 
@@ -58,7 +56,7 @@ The Outfit is the only piece of armor that loses durability, which can be found 
 
 When Outfits reach zero durability, they will not be destroyed but they will no longer grant their set buffs until they are repaired.
 
-You can repair your Outfit at the Blacksmith in Etris or Isle of Vigils. This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
+You can repair your Outfit at a Blacksmith. This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
 
 ## Outfit List
 

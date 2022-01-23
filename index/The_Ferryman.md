@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 14008
+revid: 14652
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -24,8 +24,6 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious Krulian referenced
 
 He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. If the ferryman has already been summoned in the server, the campfires must be replaced. After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
 
-The Ferryman immediately begins in his second phase behavior when multiple players are fighting him. Be mindful of this when initiating multi-player fights.
-
 ### Attacks
 
 -   **Displacement** - The Ferryman teleports to a different location on the battlefield and immediately uses another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
@@ -33,7 +31,7 @@ The Ferryman immediately begins in his second phase behavior when multiple playe
 -   **Lightning Strike** - The Ferryman rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping.
 -   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack when below half health.
--   **Grand Javelin** - The most notorious attack in the Ferryman's moveset. He throws several Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack when below half health.
+-   **Grand Volley**\- The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack when below half health.
 
 ### Finishers
 
@@ -47,15 +45,37 @@ The Ferryman immediately begins in his second phase behavior when multiple playe
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
 -   Defeating the Ferryman during spring "awards" unique dialogue.
 
-### Battle Strategies
+## Battle
 
--   Standing just outside the Ferryman's teleport range causes him to hold still without attacking. This is due to how the Ferryman's AI works; when you get close, he is programmed to stop attacking (as he is unable to teleport during an attack), that way you can't get in free hits. But not going all the way close to him to trigger this teleport means he will stand there waiting until you come close or back away. At this point you can then spam medium+ ranged moves to kill him.
-    -   ~This may be patched in future updates, but still works as of 1/19/2022.~ It got patched. (1/19/2022 - 08:37PM EST)
--   The Ferryman usually teleports away when you attempt to attack him with your weapon after his attacks, but he becomes vulnerable while using Lightning Strike and Lightning Clone.
-    -   The Ferryman also has a window of time where you can attack him after he uses Lightning Strike, which becomes larger in his second phase.
--   If you parry the Ferryman's three strikes during Lightning Assault, he will give you a window of time to hit him once or twice before he teleports. This window of time is extended if you parry his Lightning Assault during the 2nd phase.
+Ferryman is the most "Bosslike" Boss in the entire game, not being something you can simply stand still and parry/dodge infinitely until one of you dies. He forces you to move around the battlefield, a battlefield which he has near total control of at all times, and forces you to keep track of where he is and what he's going to do. Very fast reaction's are required if you are to beat him in one piece.
 
-### Dialogues
+The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in just about every category, gaining more speed, attack, health, and reducing time between attacks and time to hit him. For reference, at four people, just about all of his attacks can kill a mid-level player instantly. **Additionally, he starts in phase two off the bat.**
+
+### In General
+
+-   A near necessity for the fight is using fires to heal, (which are thankfully already nearby due to the process of summoning him.) Ferryman used to be able to be cheesed by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will NOT guarantee your safety. Try to heal at most one bar before continuing the fight. If in dire need, try to go for two,
+-   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
+
+### Phase One
+
+Phase one is obviously the easier phase, more like a little training for the actual fight to come. Plenty of time to catch your breath and heal, and easy to dodge and parry attacks.
+
+-   **Displacement** - Never try to attack Ferryman with all you have if you've been delaying him, getting close to him after not attacking him for a while will cause him to immediately teleport. Run up close to him, and then instantly turn around and use a mobility mantra to get as close as possible during his next attack. As long as you don't stand on top of him, you can get pretty close without him teleporting. About a Medium weapon's reach away.
+-   **Lightning Clones** - The least threatening of Ferryman's moves, gives the most time to heal of any attack, and is generally just the least dangerous. Hitting him will disable the rest of the ability, so try to dive in with a aerial or dash attack to get in close. Clones are just like normal npcs, but die after attacking you or getting hit once.
+-   **Lighting Strike** - Another easy move, if lucky, you can straight up run at him while it's being used, although combining dashes, slides, and mobility mantras to close the gap safer/faster. Like Lightning Clones, hitting him once while disable the rest of the ability, letting you deal more damage safely. Relatively easy to parry and dodge.
+-   **Lightning Assault** - Ferryman's first move that can be tricky to deal with, and can deal relatively high damage. The dashes are in specific intervals, and can be easily reacted to. While being blockable, they take a significant amount of posture. The dashes happen close enough to be parried all at once by blocking the first one and holding it, but he sometimes gets a hit in. Parrying each one separately guarantees avoiding each one. Additionally, for every slash parried, Ferryman stays longer after the attack, letting you attack or heal longer. The window is long enough for 3 hits with a Medium weapon before he teleports. If any of the slashes are blocked, dodged, or hit you, he will teleport away if you try to hit him.
+
+### Phase Two
+
+Phase two is where shit gets real, the real fight. All of his previous attacks get upgraded, with him also ditching the easiest one, Lightning Clones, and replacing it with the hardest, Grand Volley. Overall, he teleports faster, gives less delay between attacks, and teleports much more aggressively. However, your attack window after his Assault and Strike moves is increased.
+
+-   **Displacement** - As said before, Ferryman begins to teleport with less delay and much closer to the player, and even doing more attacks before giving time to hit him, can be especially deadly if getting hit something like Electromagnetic Pulse and then Grand Volley.
+-   **Lighting Strike** - Lightning strike is somewhat of a threat now, becoming much faster and dealing many more AOE's, along with more damage. If unlucky, you can get hit with one and just be forced to eat all the other ones and take massive damage, although if lucky, you can parry all of them by parrying the first one and simply holding. If you are not damaged, Medium weapons can get about 3-4 hits in.
+-   **Lightning Assault** - Lightning Assault deals significantly more damage, and now has almost no delay between attacks, doing all three slashes one after the other: this, however, unexpectedly makes the move much easy by allowing you to parry the whole thing by parrying the first one and holding, something which the Phase One version punished you for. If all 3 are parried, Medium weapons can get about 5 hits in.
+-   **Electromagnetic Pulse** - Ferryman's most powerful and useless attack at the same time. In the unlucky case that Ferryman teleports next to you point blank, you will get obliterated not for its damage, but for its stun. The stun can easily lead to you being unable to avoid getting hit by his next attack, which he does instantly after Electromagnetic Pulse. Its recommended that you stay close to Ferryman, at least close enough when he teleports, as he is unlikely to teleport near his current location.
+-   **Grand Volley** - Ferryman's most reliably dangerous attack. He has a significant wind-up when throwing his Javelins, and they seem to be slower than normal Javelins, but they are still massive, infinite range projectiles that he locks onto you with. At the beginning of the move there is a sound cue to help with identifying the attack and direction. Each Javelin deals about 160 damage (solo), which while big, doesn't seem deadly, until you realize that **he throws four in quick succession,** and getting hit by one can easily lead to you being steamrolled by the next ones. It's very important to make distance if needing to heal, so he cannot just beam you with Grand Volley and you die because you have 0 time to react and you're not moving so all 4 just kill you instantly, but you also cant be far enough so that you're in Electromagnetic Pulse range. If brave enough, you can even use the abilities somewhat long duration to charge him, (while avoiding the javelins of course), to get some free licks in.
+
+## Dialogues
 
 The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
 

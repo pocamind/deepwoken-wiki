@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 14186
+revid: 14506
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -78,7 +78,7 @@ The Quest's loot table.
 -   Adretian axe
 -   Warden ceremonial sword
 -   Officer saber
--   Khan Shield
+-   Khan Shield (either removed or VERY rare)
 -   Iron cestus
 -   Warden pauldrons
 -   Imperial pauldrons

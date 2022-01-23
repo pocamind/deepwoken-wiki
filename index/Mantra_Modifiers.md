@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 14485
+revid: 14552
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -140,7 +140,7 @@ File:Screenshot 59.png
  | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
-## sporks
+## Sparks
 
 sparks are modifiers that are only able to be used on specific mantras.
 
@@ -151,7 +151,7 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | 
 File:Magnet spark PNG.png
 
- | Magnet Spork | Lightning blade
+ | Magnet Spark | Lightning blade
 
 Jolt Grab
 
@@ -164,7 +164,7 @@ Flame Blind
 
 File:Round spark.png
 
- | Round Spork | Ice Eruption
+ | Round Spark | Ice Eruption
 
 Fire Gun
 
@@ -173,20 +173,20 @@ Fire Gun
 
 File:Blast spark.png
 
- | Blast Spork | Lightning Clones
+ | Blast Spark | Lightning Clones
 
 Shadow Gun
 
 Frost Grab (Ice Trail)
 
-Ice Forge (unknown what it does but it works)
+Ice Forge (Adds More Shurikens to the Attack)
 
  | Applies "Explosion" to compatible Mantra. |
 | 
 
 File:Reversal spark.PNG
 
- | Reversal Spork | Lightning Impact
+ | Reversal Spark | Lightning Impact
 
 Flame Leap
 
@@ -209,12 +209,12 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spork | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
 File:Spring spark.png
 
- | Spring Spork | Strong Leap
+ | Spring Spark | Strong Leap
 
 Crystal Impale
 
@@ -223,7 +223,7 @@ Crystal Impale
 
 Tornado spark
 
- | Tornado Spork | Dark Blade
+ | Tornado Spark | Dark Blade
 
 Fire Blade
 
@@ -253,9 +253,9 @@ also looks identical to falseflame.
 
  |
 
-### **Specific Effects of Sporks**
+### **Specific Effects of Sparks**
 
-#### **Magnet Spork**
+#### **Magnet Spark**
 
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.

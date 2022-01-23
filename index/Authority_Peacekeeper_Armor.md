@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 13765
+revid: 14522
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,4 +30,4 @@ This Outfit's Schematic can be found:
 
 ## Trivia/Notes
 
--   Player notes here
+-   This is the same armour as the guards of Fort Merit

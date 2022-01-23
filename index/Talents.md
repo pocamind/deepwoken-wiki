@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14491
+revid: 14573
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -334,6 +334,7 @@ Hand of Mantra Cards
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
+-   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Inferno
 

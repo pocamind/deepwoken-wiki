@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 14428
+revid: 14594
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -87,8 +87,7 @@ _"Another one..? You've got to be kidding me." - Akira_
 _**Ey migi vuru?**_
 
 -   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplisments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
--   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple areas at once
--   The meat lord is theorized to have a meat above 10 inches in length and five in girth
+-   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 
 The one and only... MEAT LORD!
 
@@ -140,6 +139,7 @@ The one and only... MEAT LORD!
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
 -   They are not to be confused with The Authority.
 -   Their appearance can be distinguished by their white/green/purple armor.
+-   They have been ruled by their Kings for generations; until months before the year 1271, that the Lord Regent took over.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -151,16 +151,15 @@ An Etrean Guard, part of the Nation of Etrea
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 -   Presumably connected to the galebreathe attunement, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (galebreathe exclusive) make mention of the vigils.
 
-### The Navaen Nomads
+### The Children of Navae
 
 -   **Territory:** _N/A_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Ministry, The Contractors, Summer Company_
--   **Lore Sources:**
-
--   A Tribe that consists of Gremor, whom worship the goddess(?) Navae.
+-   **Lore Sources:** _Gremorian Longspear Description_
+-   A nomadic tribe of Gremor, whom worship the goddess(?) Navae.
 -   Not much more is known for the Navaen Tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
 
 ### Bandits

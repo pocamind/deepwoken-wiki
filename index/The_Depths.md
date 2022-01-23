@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 14481
+revid: 14568
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -61,7 +61,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 9-18 | Deepknight (Bandit Leader) |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
-| 50+² | [Enforcer](Enforcer.md) |
+| 45+ | [Enforcer](Enforcer.md) |
 | ??? | ??? |
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.

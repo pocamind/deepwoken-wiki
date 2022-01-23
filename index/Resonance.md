@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14486
+revid: 14600
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -50,6 +50,8 @@ TLDR:
 
 In addition to normal Resonances, there exists a further sub-catrgory known as Corrupted Resonances. Corrupted Resonances are obtained near identically, but with an incredibly small chance when gaining a normal Resonance. Similarly to Cursed Items, Corrupted Resonances are league's stronger than their normal versions, being multiple times more effective and even gaining new abilities. However, like Cursed items, Corrupted Resonances also are struck with a debuff.
 
+### Corrupted Resonance Debuffs
+
 Upon usage of a Corrupted Resonance, a set debuff will happen. The debuff is chosen randomly when obtaining a Corrupted Bell. Truthfully, the debuffs are so small and some are even nullified by the effect of the Resonance so they are just a non-issue.
 
 Known debuffs include:
@@ -80,11 +82,9 @@ Furthermore, Resonances, Corrupted Resonances, and their versions all have diffe
 
 Examples include:
 
-Damage Reflection being much more common than Transmission
-
-Reapers projectile version being much more common than its self-aoe version.
-
-Corrupted Wind-Up being the most common Corrupted Resonance.
+-   Damage Reflection being much more common than Transmission
+-   Reapers projectile version being much more common than its self-aoe version.
+-   Corrupted Wind-Up being the most common Corrupted Resonance.
 
 ## Known Resonances/Versions
 
@@ -95,7 +95,8 @@ Full Counter showcased by Bracting.
 -   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
     -   Version 1: Regular effect, reflect damages received on hit.
-    -   Version 2: After the counter duration ends, the damage taken will be multiplied and shot out as a thin beam.
+    -   Version 2.1: After the counter duration ends, the damage taken will be multiplied and shot out as a thin beam that deals a single damage-tick.
+    -   Version 2.2: Same effect than 2.1 version exept that the beam deals three damage-ticks instead of one but each tick does less damages.
 
 File:Beambell.png
 
@@ -340,13 +341,9 @@ The grey circle represents a placed marker.
 
 You are most likely to not get the exact Resonance combination you want when you're having to cope with like four different layers of RNG at the same time. Luckily, there is a way to remedy this.
 
-Around The Depths are Resonance Doors, which, self explanatory, require a Resonance to open. Past them resides Yun'Shul, who presents the players with "Wishes".
-
-Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance ~An optimal level to get a Resonance at would be 40, allowing you to reroll three times.~ You can only reroll your Resonance once.
+Around The Depths are Resonance Doors, which, self explanatory, require a Resonance to open. Past them resides Yun'Shul, who presents the players with "Wishes". Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance. If you are looking to just reroll your Resonance, and no other wishes, you can get a Resonance at even level 60 and be able to reroll.
 
 The caveat is that upon rerolling your Resonance, you have a new flaw which increases the windup/cooldown of your Resonance. Beggars cant be choosers.
-
-Tarnished Bell Effects: (Tarnished flaw doesn't give any other effect than a 3 second windup on any bell, which makes most bells ass)
 
 Full Counter: 2 Second windup, nothing can be done during the windup including using moves, cooldown increased.  
 Run it back: Windup increased  
