@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14798
+revid: 14910
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -20,7 +20,7 @@ _Also known as Sea Monkey, Gorilla, and Monke._
 
 Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales and including Umbral Obsidian) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
-Being killed/gripped by Primadon can, but will not always, directly send you to [The Depths](The_Depths.md), no matter your life count.
+Being Instant gripped (not downed) by Primadon **will** send you to the depths no matter what, avoid being low near him if you are above Power 30(?).
 
 ## Attacks
 
@@ -38,11 +38,12 @@ Being killed/gripped by Primadon can, but will not always, directly send you to 
 ## Rewards
 
 -   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-5 Umbral Obsidian in them.
--   **Small chest -** Has 1-4 Umbral Obsidian in it and a 10% chance of a deep gem in it.
+-   **Small chest -** Has 1-4 Umbral Obsidian in it and a ~10%~ STOP CHANGING IT TO 10%! I DID 12 PRIMADONS AND THERE WAS A 67% CHANCE OF THE CHEST HAVING A GEM! chance of a deep gem in it.
 -   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo Primadons is enough to get a resonance/bell)
 
 ## Strategies & Tips
 
+-   It is heavily advised to WATCH YO' TONE in the Primadon's presence.
 -   Level 50 is **highly** recommended if **soloing** the boss, due to level scaling damage done to NPCs.
 -   When between the Primadon's feet, he will only stomp and kick. This is a great way to solo him as his foot attacks are obvious and can be easily parried or rolled out of.
     -   They also make a whooshing sound every time they are raised, adding on to the _obvious_ factor of his attacks.

@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 13655
+revid: 14924
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -59,7 +59,7 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 ## Losing luck
 
 -   Getting gripped by a player within power range. Lose ~50% of your luck.
--   Drawing a rare card during the card selection after a Power Up. A portion of your luck is "spent" to make the card appear.
+-   Drawing a rare/legendary card during the card selection after a Power Up. A portion of your luck is "spent" to make the card appear.
     -   It is a common misconception that if you don't pick the rare card, you will not lose any luck. This is **entirely false** (confirmed by Archmage below).  
         
         File:Arch regarding luck and cards.png

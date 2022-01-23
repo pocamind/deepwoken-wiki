@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 14455
+revid: 14864
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -64,6 +64,7 @@ Upon being killed, it drops his hide, but may also grant a chest with decent gea
 ## Trivia & Notes
 
 -   It is the most common Giant Type enemy.
+-   Sharko's have swimming animations, as seen on the right.
 -   Corrupted Sharko is much more dangerous than [Enforcer.](Enforcer.md)
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
 -   DO **NOT** RUN FROM ONE OF THESE UNLESS YOU FIND A PLACE IT IS TOO TALL TO ENTER, FOR IT IS **FUTILE** AND **WILL** RESULT IN YOUR DEMISE!

@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 13891
+revid: 14876
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -46,7 +46,7 @@ Template:Races-Main
 
 ## Lore
 
-Beatle
+Overgrow Beatle
 
 **Variants:**
 

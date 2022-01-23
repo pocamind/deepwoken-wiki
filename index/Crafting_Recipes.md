@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 14250
+revid: 14857
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,26 +45,28 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 Certain foods, usually the more complicated one/which require more work to obtain, grant Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 
+Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
+
 ### _Non-Campfire Recipes_
 
--   **[Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
--   **[Redd Juice](Redd_Juice.md)** - _3 Redd_
+-   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
+-   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
--   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
--   **[Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
+-   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
+-   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_
 
--   **Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
--   **Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
--   **Mushroom Bisque** - Any Mushroom + Crustacean Meat
--   **[Bread](Bread.md)** - _3 Gathered Wheat_
+-   **\[V\] Mushroom Soup** - 2 _different mushrooms and 1 from each kind. (example: 1 Gobletto, 1 Browncap)_
+-   **\[V\] Mushroom Egg Soup** - _2 Egg, 1 Dentifillo_
+-   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
+-   **\[V\] \[C\] [Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs_
--   **[Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increases Weapon damage)
--   Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
--   **[Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
--   **Cooked Fishmeat** - _1 Fishmeat_
--   **[Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
+-   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increases Weapon damage)
+-   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
+-   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
+-   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
+-   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_

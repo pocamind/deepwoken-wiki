@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 14853
+revid: 14915
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -187,7 +187,7 @@ Damage Vs. Deep
 File:Black Fur Pauldrons.png | Black Fur Pauldrons | Placeholder | Chests |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | 1-2 buffs | Chests |
 | File:Flameguard.png | Flameguard Pauldrons | 1 buff | Chests |
-|  | Hunter's Brace | Placeholder | Chests, [Summer Isle](Summer_Isle.md) |
+|  | Hunter's Brace | Makes usually parry breaking moves parriable. (e.g. sharko kick, golem throw) | Chests, [Summer Isle](Summer_Isle.md) |
 |  | Leather Pauldrons | +2 Health | Chests |
 |  | Steel Pauldrons | Grants buff for health
 

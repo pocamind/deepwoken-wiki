@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14740
+revid: 14926
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -209,12 +209,12 @@ Hand of Mantra Cards
 
 -   Gale Leap \[Generic Talent, Galebreath Exclusive, Common Talent\] - Jumping while sliding down a slope or off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
 
-### Dorksiphon
+### Darksiphon
 
--   Dork God \[Generic Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their resevoir. (+1 Elemental Intensity, 3+ Health)
--   Dork Rift \[Generic Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
+-   Dark God \[Generic Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their resevoir. (+1 Elemental Intensity, 3+ Health)
+-   Dark Rift \[Generic Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
     -   This ability last for 2 seconds and goes on a 5 second cooldown when it activates.
--   Dork Hours \[Generic Talent, Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
+-   Dark Hours \[Generic Talent, Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
     -   Shadowcast deal 20% more damage at night.
 -   Devour \[Generic Talent, Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves (+3 Elemental Intensity, +3 Health)
 
@@ -677,7 +677,7 @@ Hand of Mantra Cards
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
--   Return to the Dork Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
+-   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
 
 ## Whispers
@@ -750,7 +750,7 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
     -   Blind anyone within a short radius who caught a glimpse of the projectile. 2-3 second duration.
 -   Fire Forge (1 Star Mantra) \[Flamecharm Exclusive\] - Toss a nimble Dagger. (Projectile Combat Mantra)
     -   Throw a Dagger at moderate range. Does not ricochet off of Walls or objects.
--   Fire Blade (1 Star Mantra) \[Flamecharm Exclusive\] - Slicing blades of Flame. (Melee Combat Mantra)
+-   Fire Blade \[Flamecharm Exclusive\] - Slicing blades of Flame. (Melee Combat Mantra)
     -   Perform a cleave made of fire at close range.
 -   Flame Assault (2 Star Mantra) \[Flamecharm Exclusive\] - Burst forward in flames. (Lunging Combat Mantra)
     -   Torpedo through enemies and entities with a fiery blow.
@@ -775,7 +775,7 @@ _Main Source - Frostdrawer_
 
 #### Frost Combat
 
--   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage. This skill is **arguably** the worst frost skill.
+-   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage.
 -   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
 -   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
 -   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. It's parryable and blockable.
@@ -798,14 +798,14 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 #### Shadow Combat
 
 -   Clutching Shadow - You stand still and use a force like move (from Star Wars) and choke your enemy out, then slam them into the ground.
--   Dork Blade - After a short dash forward, you do 3 slashes of dork energy.
+-   Dark Blade - After a short dash forward, you do 3 slashes of Dark energy.
 -   Shadow Gun - After a short wind-up, you shoot a short blast of energy from your finger.
 -   Shadow Chains (1 Star Mantra) - Chains of shadow.
--   Shadow Roar (2 Star Mantra) - After a short wind-up, you scream out dork particles in a large AOE, dealing damage to opponents.
+-   Shadow Roar (2 Star Mantra) - After a short wind-up, you scream out Dark particles in a large AOE, dealing damage to opponents.
 
 ### Shadow Mobility
 
--   Shadow Assault (2 Star Mantra) - You turn into dark energy and speed forward. Used often to catch running enemies.
+-   Shadow Assault (2 Star Mantra) - You turn into Dark energy and speed forward. Used often to catch running enemies.
 -   Shadow Travel \[Rare "Talent"\] - After a long wind-up, teleport to where your cursor was. The farther the teleport, the more it will damage you. (This is NOT a whisper. I put this here for confused people.)
 
 #### Mystery
@@ -854,9 +854,9 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Obtained by wearing the Summer Company Uniform)
 
-### Dorksteel Plate
+### Darksteel Plate
 
--   Unbreakable - You do not get stunned when you are block broken. (Obtained by wearing the Dorksteel Plate)
+-   Unbreakable - You do not get stunned when you are block broken. (Obtained by wearing the Darksteel Plate)
 
 ### Alchemist
 
@@ -864,7 +864,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 **Prophet's Cloak**
 
--   Crippling Dorkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
+-   Crippling Darkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
 
   
 
@@ -872,7 +872,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   The "Fold" Card can be used if you are not satisfied with your current hand of cards.
 -   The Card, "The Sound from Below" is always granted on your first Power increase.
--   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dork Souls Series.
+-   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
 
   

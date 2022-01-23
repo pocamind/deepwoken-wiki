@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 14602
+revid: 14874
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,5 +60,3 @@ Monke
 -   Race based off Sun Wukong and Monkeys
 -   Khan means "ruler" in Mongolian, Chinese and Hindi
 -   In the novel "Journey to the west", The crown of Sun Wukong is actually a curse.
--   When rerolling the option that appears to change back to khan instead of "Switch to Khan" it says "Return to Khan" referencing the phrase "Return to Monke"
--   The white haired variant has two potential eye colors, red and cyan.

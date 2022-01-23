@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 14734
+revid: 14878
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -221,7 +221,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Hoo boy, sure do feel like gripping freshspawns! ”
 
-― A random Shadowcaster
+― A random Shadowcaster(Uber Oni)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 14767
+revid: 14866
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -26,8 +26,10 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 
 This Outfit's Schematic can be found in:
 
--   Location goes here
+-   [Aratel Island](https://deepwoken.fandom.com/wiki/Locations#The_Aratel_Sea) (rarely)
+-   [The Depths](The_Depths.md)
 
 ## Trivia/Notes
 
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md).
+-   This is the uniform worn by the Vigil guardsmen.

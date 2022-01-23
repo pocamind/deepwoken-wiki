@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 14768
+revid: 14856
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells]
@@ -87,13 +87,7 @@ Strike (☆)
 -   Shocks opponents inside of it while dealing damage.
 
  |
-|  | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor.
-
--   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)
-
-  
-
- |
+|  | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor. |
 
 _It is currently unknown if there are any 3-star combat Mantras for Thundercall._
 
@@ -135,15 +129,15 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 (☆☆☆)
 
-(Legendary)
-
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
 
-You need Luck for this move. It is a legendary card obtained when the whispers of the deep beckon you.
+You do NOT need luck for this card, to obtain this mantra you have to have thundercall mastery and must be able to obtain 3 star mantras - after which, every whisper from the deep will have a chance to include ‘Lightning Cloak’, it being a 3-star mantra does NOT mean that you need luck for it, and only signifies that you need at least 50 thundercall, that being the sole requirement.
 
-  
+If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during whispers from the deep card selections - as a level 60 you gain 12 total whispers from the deep, thundercall has 15 mantras, which means that should you pick every single mantra, you’d be left at a 1/5 chance of NOT receiving the mantra.
+
+Stop fucking misleading people regarding this mantra, I lose a bit of my sanity every time I see some retarded youtuber clickbait lightning cloak for views, don’t edit this move without my permission. - voidless#0042
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 14561
+revid: 14922
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -119,6 +119,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   Summer Company
 -   The 11th Legion/The Empire
 -   Greathive Aratel
+-   Ignition Union
 
 ### Non-Reputable Factions
 

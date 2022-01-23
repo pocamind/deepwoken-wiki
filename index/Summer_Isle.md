@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 14820
+revid: 14923
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -89,7 +89,7 @@ First, talk to Trig at a nondescript building (the inn/ guildhall). Say that you
 
 File:RobloxScreenShot20211227 094500945.png
 
-Asius will be here, and you have two quest dialogue options. One to go back and tell Trig you won't get money, in which case 3 guards with flintlocks will spawn and attack you whenever you talk to Trig. For the second dialogue, you take papers from Asius to deliever to Trig as payment. Upon delievering the papers to Trig he will thank you and give you a reward. The reward being the Gun Technique, which gives to your gun. (If it's in your main hand) The ability is to shoot critical shots by pressing R.
+Asius will be here, and you have two quest dialogue options. One to go back and tell Trig you won't get money, in which case 3 guards with flintlocks will spawn and attack you whenever you talk to Trig. For the second dialogue, you take papers from Asius to deliever to Trig as payment. Upon delievering the papers to Trig he will thank you and give you a reward. The reward being the Gun Technique, which currently does nothing.
 
 ### SCOPE'S QUEST
 
@@ -109,7 +109,7 @@ After giving him the spark glands, he will crush them into a bottle and add a dr
 
 Once you drink it, you will get ragdolled and have an electric aura around you, while also taking 10% of your max hp
 
-Once you get up, you will have unlocked Thundercall and can now learn it's mantras and select it in the character select screen for that character slot.
+Once you get up, you will unlock Thundercall and can learn it's mantras and select it in the character select screen for that character slot.
 
 If you already have thundercall, he can upgrade your moves for 100 notes each. You can upgrade the same move multiple times. (this works if you got thundercall from him and now have a mantra too)
 
