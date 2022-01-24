@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 14098
+revid: 15328
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Can be obtained in places like Hive or Summer Isle, as well as from the chests in the Depths. (As far as I know. Please edit this if anyone knows.) |
+| obtainment | Can be obtained in places like Song Seeker, Hive or Summer Isle, as well as from the chests in the Depths. (As far as I know. Please edit this if anyone knows.) |
 | description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
 
 ## Description
@@ -35,4 +35,4 @@ The Darksteel Greatsword is one of the many heavy weapons you can obtain in the 
 
 ## Notes
 
-The Darksteel Greatsword is better then the [Pale Morning](Pale_Morning.md), they both have the same stat but the damage on the Darksteel Greatsword is higher, yet you only need 40 HVY and 10 STR to use it, while the Pale Morning require you to have 75 HVY stats and 10 STR.
+̶T̶h̶e̶ ̶D̶a̶r̶k̶s̶t̶e̶e̶l̶ ̶G̶r̶e̶a̶t̶s̶w̶o̶r̶d̶ ̶i̶s̶ ̶b̶e̶t̶t̶e̶r̶ ̶t̶h̶e̶n̶ ̶t̶h̶e̶ ̶P̶a̶l̶e̶ ̶M̶o̶r̶n̶i̶n̶g̶,̶ ̶t̶h̶e̶y̶ ̶b̶o̶t̶h̶ ̶h̶a̶v̶e̶ ̶t̶h̶e̶ ̶s̶a̶m̶e̶ ̶s̶t̶a̶t̶ ̶b̶u̶t̶ ̶t̶h̶e̶ ̶d̶a̶m̶a̶g̶e̶ ̶o̶n̶ ̶t̶h̶e̶ ̶D̶a̶r̶k̶s̶t̶e̶e̶l̶ ̶G̶r̶e̶a̶t̶s̶w̶o̶r̶d̶ ̶i̶s̶ ̶h̶i̶g̶h̶e̶r̶,̶ ̶y̶e̶t̶ ̶y̶o̶u̶ ̶o̶n̶l̶y̶ ̶n̶e̶e̶d̶ ̶4̶0̶ ̶H̶V̶Y̶ ̶a̶n̶d̶ ̶1̶0̶ ̶S̶T̶R̶ ̶t̶o̶ ̶u̶s̶e̶ ̶i̶t̶,̶ ̶w̶h̶i̶l̶e̶ ̶t̶h̶e̶ ̶P̶a̶l̶e̶ ̶M̶o̶r̶n̶i̶n̶g̶ ̶r̶e̶q̶u̶i̶r̶e̶ ̶y̶o̶u̶ ̶t̶o̶ ̶h̶a̶v̶e̶ ̶7̶5̶ ̶H̶V̶Y̶ ̶s̶t̶a̶t̶s̶ ̶a̶n̶d̶ ̶1̶0̶ ̶S̶T̶R̶.̶ They don't have the same stats and it's silly to compare greatswords to hammers...

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 15128
+revid: 15309
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -207,9 +207,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
-“ Sorye ge ton! ”
+“ Fighting Technique: Divine Sandstorm! ”
 
-― Yasou, Wandering Galebreath Swordsman
+― Wammu, The pillar men
 
   
 

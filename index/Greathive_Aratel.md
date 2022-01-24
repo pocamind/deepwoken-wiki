@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 15132
+revid: 15318
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,6 +51,8 @@ File:TelescopeCounterclockwise2.png
 
   
 Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows.
+
+packrat7: I'm almost sure the image is a Celestial City
 
 It may represent the "Dying World" aspect of Deepwoken's universe, as there may be a terrible thing unfolding throughout the Luminants.
 

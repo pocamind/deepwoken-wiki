@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 14951
+revid: 15325
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -12,13 +12,13 @@ categories: [Pages with broken file links, Spells, Magic]
 
 A wind coated blade.
 
-Galebreath is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
 
 Galebreath also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
 ## Training
 
-Can be trained by using a combination of Gale Kata and usage of the user's Galebreath mantra.
+Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
 
 Like all other elements, users can see their Mantras become stronger with training:
 
@@ -27,7 +27,7 @@ Like all other elements, users can see their Mantras become stronger with traini
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
 -   Finally, at Galebreathe 45, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
 
-The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock galebreath.
+The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock Galebreathe.
 
 ### **Combat Mantras**
 
@@ -181,9 +181,9 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 
 ## **Trivia/Notes**
 
--   Guards can be found using Galebreath Mantras like _Gale Lunge_ commonly against bandits in Erisia.
+-   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
--   A few Talents require to Inhay mantras, which acts like a cancel but are performed differently:
+-   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and Ragdoll.
--   Archmage stated that Galebreath is the "least cool" out of all the elements.
+-   Archmage stated that Galebreathe is the "least cool" out of all the elements.

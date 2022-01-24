@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 11147
+revid: 15307
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 ### The Legion
 
 -   Affiliations - Unknown
--   Locations - ???
+-   Locations - Lower Erisia, Viper jaws
 -   Hostile against - The Authority, Monsters, Bandits, The Legion, Players (Negative Reputation)
 -   Appearance - Roman-like Armor, Golden Helmets
 -   Equipment - Swords, Spears, Fists, Thundercall Spells, Galebreath Spells, Strength Mantras
@@ -69,7 +69,7 @@ An organization that preserves whats left before the tides came. Historians that
 ### **Vigils of the Blades**
 
 -   Affiliations - Etris
--   Hostile against - Bandits
+-   Hostile against - Bandits, Negative rep player
 -   Appearance - White Robes/Armor
 -   Equipment - Katanas, Galebreathe Spells
 -   Player Reputable? - Possibly

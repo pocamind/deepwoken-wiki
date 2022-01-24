@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 15107
+revid: 15314
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,13 +15,13 @@ Template:NPC name
 
 ## Description
 
-Nyanna is a seller NPC located in [Castle Light](Castle_Light.md), at the ground floor. She as the unique mechanic of selling a few items that change every hour.
+Nyanna is a seller NPC located in [Castle Light](Castle_Light.md), at the ground floor. She as the unique mechanic of selling a few items that change every hour. Why she doesn't set up shop on the surface instead of being a stupid prat is beyond anyone but your just gonna have to deal with it.
 
 ## Shop rotation
 
 Nyanna's shop run on an hourly rotation. She posses a list of items and every hour, she sells 4 items chosen at random from the list. She can sell the same item multiple time across multiple rotations. Most of her shop consist of hard to find weapon and schematics.
 
 -   **Weapons:** Trident Spear, Whaling Knife
--   **Armor Schematic:** [Mercenary Armor](Hired_Mercenary.md), [Merchant Robe](Merchant_Robes.md), Authority Uniform, [Authority Commander Uniform](Authority_Captain_Uniform.md), [Diver Apprentice](Diver_Apprentice_Robes.md), [Hive Drone](Hive_Drone.md), Ignition Coat, Keeper
+-   **Armor Schematic:** [Mercenary Armor](Hired_Mercenary.md), [Merchant Robe](Merchant_Robes.md), Authority Uniform, [Authority Commander Uniform](Authority_Captain_Uniform.md), [Diver Apprentice](Diver_Apprentice_Robes.md), [Hive Drone](Hive_Drone.md), Ignition Coat, Keeper, Legion Centurion
 
 **Note that the list is imcomplete and requires more work done to find every item she sells.**

@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 15076
+revid: 15321
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -24,7 +24,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 
 ## Location
 
-This Outfit's Schematic can be found on Hive Island.
+This Outfit's Schematic can be found on Hive Island, or a rare drop from [Treshers](Thresher.md)
 
 ## Trivia/Notes
 

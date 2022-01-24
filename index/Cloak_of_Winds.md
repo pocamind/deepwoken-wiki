@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 15118
+revid: 15317
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,6 +28,7 @@ This Outfit's Schematic can be found in:
 
 -   [Aratel Island](https://deepwoken.fandom.com/wiki/Locations#The_Aratel_Sea) (rarely)
 -   [The Depths](The_Depths.md)
+-   Primadon's Chests
 
 ## Trivia/Notes
 

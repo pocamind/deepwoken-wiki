@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 15155
+revid: 15311
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -71,3 +71,4 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   The Enforcer's scaling quickly becomes insane. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally), or use consumables.
 -   When doing an emote (such as Pride), the Enforcer cannot pull you.
+-   The axe has a hurtbox for some unknown reason, allowing for easy hits by outranging the enforcer during it's whirlwind.

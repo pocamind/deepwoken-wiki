@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 15269
+revid: 15316
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -57,4 +57,4 @@ Flaws are modifiers that you get to pick when you create your character alongsid
     -   Gourmet is a good all rounder talent that even stacks with its Talent variant. You spend less time making food overall and is great for extended adventures with limited supplies.
     -   Marauder is great to obtain rare/legendary card faster, but is usually a waste of a boon, as the improved luck gain is negligeable and would only need an extra player or two to make up for the difference. Also becomes useless once you reach power 60.
     -   Maverick's exp boost is nice, but is too poor to be viable and is negated by playing with some friends. Also become useless once you reach power 60.
-    -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rains only happens in Upper Erisia, but being an ability limited to a single armor and race by default, it can proves invaluable for spending time here. It also avoid the dangerous event of gliding into an acid rain only for the glider to stop working as you take damage due to the acid rain.
+    -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working.

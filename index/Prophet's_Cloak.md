@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 15115
+revid: 15323
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,7 +28,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Crippling Darkness_, whic
 
 This Outfit's Schematic can be found in:
 
--   Erisia bandit chests (no cap)
+-   Stardew Vally, drop from [Thresher](Thresher.md)
 
 ## Trivia/Notes
 
