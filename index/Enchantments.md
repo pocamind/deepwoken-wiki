@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 15263
+revid: 15352
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -268,7 +268,7 @@ Viscosity
 
  | 
 
-Damage dealt to the user is reduced and dealt over time. Recommended to use potions to more-or-less negate the DOT.
+Damage dealt to the user is reduced and dealt over time. Recommended to use potions to more-or-less negate the DOT. (CAN EXECUTE YOU.)
 
   
 

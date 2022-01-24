@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 15304
+revid: 15358
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,8 @@ Pressing "C" will activate the **Jar of Souls** Resonance.
 
 ### _Variants_
 
-**Jar of Souls** has no separate versions, but has factors unique to it.
+-   **Version 1** release a continuous that beam that rapidly deal damage.
+-   **Version 2** release a single beam that deal heavy damage.
 
 #### _Jar of Souls_
 

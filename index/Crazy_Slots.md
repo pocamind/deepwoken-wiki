@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 15291
+revid: 15363
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -92,4 +92,4 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 
 ## Trivia/Notes
 
--   Notes go here
+-   This bell is VERY overpowered. For example, a non-corrupted version of its spear with 100 medium will do slightly over 1 bar of your health. (This damage was observed with 320 HP)

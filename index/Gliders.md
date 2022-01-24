@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 14399
+revid: 15333
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,6 +28,6 @@ The Sharkscale Glider can also only be built at a Crafting Station or with the M
 
 ## Usage
 
-The Glider can only be used in the air, and cannot be used in Acid Rain. It's possible you're not able to use it in combat as well.
+The Glider can only be used in the air, and cannot be used in Acid Rain. It cannot be used in combat.
 
-There is no difference between the Sharkscale Glider and the normal Glider except for it's amount of uses. The Glider has 50 uses while the Sharkscale Glider has 150 uses.
+There is no difference between the Sharkscale Glider and the normal Glider except for it's amount of uses. The Glider has 15 uses while the Sharkscale Glider has 150 uses.

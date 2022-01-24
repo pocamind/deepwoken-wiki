@@ -1,36 +1,32 @@
 ---
 title: Dread Serpent
-revid: 15163
+revid: 15343
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss]
+categories: [Boss]
 ---
 
 # Dread Serpent
 
-_Also known as Kaido, Sea Serpent, Murmur and Dragon._
+_Also known as Kaido, Sea Serpent, Drago and Dragon._
 
 ## Description
 
-File:Sea Dragon.png
-
-Long, Cyan-Gray sea monster of Eastern origin that appears in the Voidsea. Utilises the power of Frostdraw to stop boats in their tracks.
-
-it is speculated how much life he has. it's probably more than the ferryman(35.000) around 50.000
+Template:Creature Info Box v2Long, Cyan-Gray Sea monster of Eastern origin that appears in the Voidsea. Utilizes the power of Frostdraw to stop boats in their tracks.
 
 ## Attacks
 
 -   **Ice Beam** - The Sea Dragon opens its mouth and releases a light blue to white ice beam, dealing massive damage to those around it while freezing the water
 -   **Claw Swipe** - Dinky little swipe with its short arms.
--   **Tail Swipe** - An attack with the tail. Parryable, and is often used after two claw swipes or randomly
+-   **Tail Swipe** - An attack with the tail. Can be parried, and is often used after two claw swipes or randomly
 
 #### Finisher
 
--   **Claw Swipe** - Same as claw swipe but it kills you
+-   **Claw Swipe** - Swipes your body with its claw, killing you.
 
 ## Notes/Tips
 
-Just stay behind him and he is unable to hit you ~<- False. You still can get hit with claws and tail if you stay behind.~ Will only get hit if you are close to him so keep your distance while behind him.
+You will only get hit if you are close to him, so keep your distance while behind him.
 
 -   Gives you a [Murmur](Murmur.md) when he dies if you did enough damage
 -   A [Clip](https://www.youtube.com/watch?v=qQkcqw64wi4) of a player soloing it

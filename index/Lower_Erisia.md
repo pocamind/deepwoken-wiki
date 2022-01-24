@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 14482
+revid: 15361
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -66,8 +66,9 @@ All mobs above have a chance to drop common mantra ingredients other than the sh
 -   Orange Headband
 -   Yellow Headband
 -   Iron Mask
+-   Smith's Goggles
 -   Leather Pauldrons
--   Iron Pauldrons(maybe)
+-   Iron Pauldrons
 -   Black Fur Pauldrons
 -   Leather Boots
 -   Black Fur Boots

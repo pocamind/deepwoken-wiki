@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15312
+revid: 15362
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -30,6 +30,8 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
  | 
 
 -   If the mantra is not a projectile, the hitbox size is increased instead.
+-   Projectiles lose distance
+-   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) lose distance
 
  |
 | File:Stratus.png | Stratus Stone | +3 Size | 
@@ -43,10 +45,15 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
  | 
 
+-   The projectile/hitbox have a farther reaching hitbox.
 -   If the mantra is not a projectile, the hitbox size is reduced instead.
 
  |
-|  | Perfect Lens | +2 Range |  |
+|  | Perfect Lens | +2 Range | 
+
+-   The projectile/hitbox have a farther reaching hitbox.
+
+ |
 | File:Screenshot 2021-12-28 152201.png | Aeon Logstone | +2 Duration
 
 \-1 Range
@@ -68,12 +75,14 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
  | 
 
--   Improve the speed at which projectiles moves/events happens. Does not speed up casting.
+-   Projectiles go further
+-   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
 
  |
 | File:Rush Shard.png | Rush Shard | +3 Speed | 
 
--   Improve the speed at which projectiles moves/events happens. Does not speed up casting.
+-   Projectiles go further
+-   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
 
  |
 | File:Screenshot 2021-12-28 152413.png | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
@@ -142,7 +151,7 @@ File:Screenshot 59.png
 
 ## Sparks
 
-sporks are modifiers that are only able to be used on specific mantras.
+Sparks are modifiers that are only able to be used on specific mantras.
 
 If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
 

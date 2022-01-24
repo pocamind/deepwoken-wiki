@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15230
+revid: 15354
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -296,7 +296,7 @@ Hand of Mantra Cards
 -   Expert Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
 -   Master Flamecharmer \[Generic Talent, Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras.
     -   Prerequisites: Flamecharm | 50 Flamecharm
--   Produce Spork \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
+-   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: Flamecharm
 -   Unyielding Inferno \[Generic Talent, Common Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
     -   Prerequisites: Flamecharm
@@ -305,10 +305,10 @@ Hand of Mantra Cards
 
 ### Galebreather
 
--   Galebreather \[Generic Talent, Galebreath Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intesity, +3 Health)
--   Adept Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 1-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
+-   Galebreather \[Generic Talent, Galebreath Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity, +3 Health)
+-   Adept Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 1-Star Leveled Galebreath mantras. (+3 Elemental Intensity, +1 Health)
 -   Expert Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 2-Star Leveled Galebreath mantras. (+5 Elemental Intensity)
--   Master Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 3-Star Leveled Galebreath mantras. (+3 Elemental Intesity, +1 Health)
+-   Master Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 3-Star Leveled Galebreath mantras. (+3 Elemental Intensity, +1 Health)
 -   The Old Wind \[Generic Talent, Galebreath Exclusive\] - Glide straight with the power of Gales.
     -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
@@ -345,7 +345,7 @@ Hand of Mantra Cards
 
 -   Pleeksty's Will \[Generic Talent, Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: Complete "Flamecharmer Ploom" Quest in Etris **OR** ~40 Flamecharm
--   Agitating Spork \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+-   Agitating Spark \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
 -   All-Consuming Flame \[Generic Talent, Common Talent\] - Your flames will incinerate unconscious Targets much faster.
 -   Corpse Explosion \[Generic Talent, Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
 

@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 15284
+revid: 15329
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,8 +33,8 @@ Pressing "C" will activate the **Sacred Field** Resonance.
 
 #### _Versions_
 
--   **Version 1** will grant players inside 300%+ defense against _physical_ damage and 300% defense against elemental damage.
--   **Version 2** will grant players inside 300%+ defense against _elemental_ damage and 300% defense against physical damage. This version also lasts longer.
+-   **Version 1** will grant players inside 3-4x defense against _physical_ damage and halved elemental damage.
+-   **Version 2** will grant players inside 3-4x defense against _elemental_ damage and halved damage from physical. This version also lasts longer.
 
 #### _Corrupted_
 
@@ -43,3 +43,4 @@ If **Sacred Field** is found to be Corrupted, the Resonance's range becomes larg
 ## Trivia/Notes
 
 -   It's practically safe to say you are nearly immune inside **Sacred Field**.
+-   Be warned, if someone figures out which variant of Sacred Field you have, they may choose to do what the field only **half** resists.

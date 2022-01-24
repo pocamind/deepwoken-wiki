@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 15241
+revid: 15334
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -63,7 +63,9 @@ Like the _**Island Of Vigils,**_ and _**Etrea**_, the Summer Isle has similar ve
 -   A Blacksmith in one of the castle's outer Palisades.
 -   A Hunter's Brace is sold here, which allows you to parry normally unstoppable attacks such Primadon's kick.
 
-#### Inn
+The location of Scope & The Blacksmith.
+
+Inn
 
 The Inn is outside of the Summer Isle's castle on a seperate island and will allow you to set your spawn at the Summer Isle. Additionally, next to the Innkeeper, is a guildmaster who will allow you to leave and create a new guild.
 
@@ -83,19 +85,47 @@ There are guards on this island that wield flintlocks, and some nomads on the ou
 
 ## Quests
 
-### TRIG'S QUEST
+### Trig's Quest
 
-First, talk to Trig at a nondescript building (the inn/ guildhall). Say that you'll get the money, and then head down on a path to an overhang by the ocean.
+Trig is an NPC that can be talked to who stands at the entrance of the Inn. His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
 
 File:RobloxScreenShot20211227 094500945.png
 
-Asius will be here, and you have two quest dialogue options. One to go back and tell Trig you won't get money, in which case 3 guards with flintlocks will spawn and attack you whenever you talk to Trig. For the second dialogue, you take papers from Asius to deliever to Trig as payment. Upon delievering the papers to Trig he will thank you and give you a reward. The reward being the Gun Technique, which currently does nothing.
+Asius can be found in the circular structure found behind the Inn if you follow the path leading away from the Inn in an alcove. You will be given two quest dialogue options after answering why you're meeting him.
 
-### SCOPE'S QUEST
+1.  I'll see what I can do.
+2.  No, pay up, or I'll send you to the 3rd Layer.
+3.  \[ End Dialogue \]
 
-There is a chance for red crates to spawn around the island. You can turn in these crates to Scope, an NPC sitting in a tower near the blacksmith. Upon talking to Scope while holding a crate he will thank the player and a chest will spawn. The chest can contain low to high tier loot, making this a great way to get good armor quickly.
+Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
+
+Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but also a new Gun Technique that will allow you to use the critical attack of guns without the use of bullets.
+
+### Scope's Fetch Quest
+
+Scope can be found in a building opposite to the blacksmith in the above image mentioning the Blacksmith. He needs you to recover boxes of explosives that Summer Company guards cannot deliver at the time, due to being too busy fighting off the Ignition Union.
+
+These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post battle. Returning to Scope with one of these big boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
+
+Please note, that fighting the Ignition Union with the Summer Company will not net you positive reputation for them.
 
 File:Red Crate.png
+
+_Red Crate, & Summer Company Guards after dunking on the Ignition Union._
+
+File:Summer Company Postives.png
+
+_Positive rep with the Summer Company, after delivering a box of explosives._
+
+  
+
+  
+
+  
+
+  
+
+  
 
 ### THUNDERCALLER QUEST
 
@@ -121,6 +151,7 @@ Possible items found after completing Scope's quest
 -   Cavalry Saber(0-1 star)
 -   Forge Greathammer
 -   Darksteel Greatsword
+-   Serpant's Edge
 -   Iron Cestus
 -   Practitioner's Earrings
 -   Slate Tophat
@@ -134,3 +165,5 @@ Possible items found after completing Scope's quest
 -   Saphire(3-4)
 -   Emerald(3-4)
 -   Gold Bar(4)
+-   Summer Company Uniform (Blueprint)
+-   Verdant Sniper (Blueprint)
