@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 14864
+revid: 15266
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3 _Also known as Shark(s) and Sharko(s)._
 
 ## Description
 
-The Megalodaunt is a shark-like Giant-Type enemy (not to be confused with [Lionfish](Lionfish.md)) which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+The Megalodaunt is a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
 This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, red variant.
 
@@ -65,7 +65,7 @@ Upon being killed, it drops his hide, but may also grant a chest with decent gea
 
 -   It is the most common Giant Type enemy.
 -   Sharko's have swimming animations, as seen on the right.
--   Corrupted Sharko is much more dangerous than [Enforcer.](Enforcer.md)
+-   Corrupted Sharko is much more dangerous than [The Enforcer.](Enforcer.md)
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
 -   DO **NOT** RUN FROM ONE OF THESE UNLESS YOU FIND A PLACE IT IS TOO TALL TO ENTER, FOR IT IS **FUTILE** AND **WILL** RESULT IN YOUR DEMISE!
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.

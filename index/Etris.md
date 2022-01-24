@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 13102
+revid: 15216
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -244,8 +244,8 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 
 ### Navaen Tribe Rescue Quest
 
--   Talk to the Eastern Camp Master in the encampment, near the City. (Optional)
-    -   He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).
+-   ~Talk to the Eastern Camp Master in the encampment, near the City. (Optional)~ To my knowledge this isn't something he says, he'll only tell you to go away, nothing else.
+    -   ~He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).~
 
 -   Find and rescue a Navaen Tribe Member in Erisia Island in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn. (Be ready to fight guards if you have bad reputation with Fort Merit Guards and Lionfish as you will have to sail through Aratel Sea.)
 -   Upon finding a Navaen Tribe Member, head back to the Camp Master and recieve your Reward.

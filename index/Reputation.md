@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 14922
+revid: 15275
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -62,7 +62,13 @@ It shows up when you grip members of a faction or contribute to their death, or 
 
 Hitting members of that faction will not drain your reputation, unless you aggro someone who wasn't already aggravated.
 
-  
+_**Rejoice! There is a new indicator for reputation!**_
+
+File:Summer Company Postives.png
+
+The Summer Company Logo, w/ Indication of positive rep.
+
+Major factions such as the Summer Company and Etrea, will have an indicator with their emblem or logo show up briefly to tell you that you are developing a positive reputation with that faction. This is in effect as of 24/1/2022.
 
   
 
@@ -119,7 +125,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   Summer Company
 -   The 11th Legion/The Empire
 -   Greathive Aratel
--   Ignition Union
+-   Knives of Eylis
 
 ### Non-Reputable Factions
 
@@ -127,6 +133,7 @@ However, depending on who you attack and grip/finish will result in **losing** r
 -   The Ministry
 -   The Contractors
 -   Songseeker Tribesmen
+-   Ignition Union
 
   
 **Notes**

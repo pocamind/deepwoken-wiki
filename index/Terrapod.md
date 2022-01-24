@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 13724
+revid: 15303
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,8 @@ Terrapods are purple and have 4 legs with sharp claws on each leg. They have a h
 
 ## Moves
 
--   **Relentless Strikes** - The Terrapod rapidly attacks anything in its path, including the air, until it gets tired.
+-   **Relentless Strikes** - The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim.
+-   **Triple Slash** - The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter.
 -   **Quick Slice** - The Terrapod does a singular slice at its opponent and retreats to recover.
 
   

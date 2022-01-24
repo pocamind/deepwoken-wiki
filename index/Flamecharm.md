@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 15114
+revid: 15242
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -45,7 +45,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Can be improved with talent _Thorns of Fire_.
 
  |
-| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons six burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
+| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons seven burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).

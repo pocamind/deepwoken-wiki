@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 14923
+revid: 15241
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,7 +46,7 @@ The same gunsmith that offers firearms who can allows you to 1v1 players in a mo
 
 Towards the bottom of the castle, right outside the the Brawling Arena, an NPC named Jarvis will allow you to smelt two items into one for you, transferring the stats of one item into the other.
 
--   It costs 1000 Notes per smelt, irregardless of the items being smelted.
+-   It costs 1000 Notes per smelt, regardless of the items being smelted.
 -   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
 -   If you try to give an item the "stat item" stats without the same amount of stats on the "appearance item," it will only transfer one of the stats. This is presumed to be random.
     -   Confirmed; gave Jarvis a glassdancer wrap with 3 stats (health, ether, posture) and kept the appearance of a dark gumshoe coat (which rolls with no stats) and only the ether was transferred over.

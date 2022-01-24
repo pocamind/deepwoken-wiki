@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 15157
+revid: 15210
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -22,8 +22,8 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 -   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
 -   **Feint** - Feints an attack to throw you off.
 -   **Dropkick -** Runs at the player, jumps and dropkicks them.
--   **Slide -** Whilst running if he gets close to you he'll slide into you, doing decent damage
--   **Vent -**
+-   **Slide -** Whilst running if he gets close to you he'll slide into you,
+-   **Vent -** Emits out blue smoke-like particles that let him dodge magic attacks, based on the old Deepwoken feature of the same name
 
 ### Finisher
 

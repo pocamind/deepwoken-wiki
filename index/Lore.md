@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 15152
+revid: 15229
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -36,17 +36,20 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 -   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.
 -   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
 -   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
--   The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
+-   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
 
 ### The King of Etrea
 
 -   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent.
--   Not much is known for The King of Etrea, but Theadre, the Old Etrean infront of the Statue in the Palace speaks of him.
-    -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the asperations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
+-   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
+    -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the aspirations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
+    -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Ardour being able to "cut the seas themselves".
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
--   The King of Etrea wields the legendary "Splinterblade", the Shattered Katana.
+-   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
+
+  
 
 ### **The Duke of Erisia**
 
@@ -58,7 +61,7 @@ The Duke
 
 -   The Duke, known for his creation of the Golems that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems and [Mindless Servants](Mindless_Servant.md).
--   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, whom wants the Forge of Sin from his hands.
+-   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, who wants the Forge of Sin from his hands.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
@@ -67,10 +70,10 @@ The Duke
 
 ### Maestro Evengarde Rest
 
-"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard, and is highly respected by all of them. He resides within the Isle of Vigils and is found in their temple's dojo, watching people train under the instructors. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that he is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon masterys even if they don't specialize in Medium Weapons. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+"Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
--   Presumably a galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's blade" talent which infuses galebreath upon inhaling a spell.
+-   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreath upon inhaling a spell.
 
 ### Akira, The Black Diver
 
@@ -86,7 +89,7 @@ _"Another one..? You've got to be kidding me." - Akira_
 
 _**Ey migi vuru?**_
 
--   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplisments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 
 The one and only... MEAT LORD!
@@ -110,12 +113,12 @@ The one and only... MEAT LORD!
   
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
--   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, whom are encountered ontop of the Tower, are the reason why its here.
+-   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
 -   Many theories, based on the City District's description, that the City mayhap sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
 
 ### Songseeker Wilds (Etrean Luminant)
 
--   A place which the "Songseekers" migrate to in order to enchance their mantra abilities.
+-   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song (Mantra).
 -   The trainer for Fire Mantra owns a dojo on the island.
 
@@ -146,10 +149,10 @@ An Etrean Guard, part of the Nation of Etrea
 #### The Vigils of Wind
 
 -   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
-    -   They have a history branch organization called "Scholars of the Cloud", whom records the history and knowledge of the Vigils.
+    -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
--   Presumably connected to the galebreathe attunement, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (galebreathe exclusive) make mention of the vigils.
+-   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (Galebreathe exclusive) make mention of the vigils.
 
 ### The Children of Navae
 
@@ -159,8 +162,8 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Ministry, The Contractors, Summer Company_
 -   **Lore Sources:** _Gremorian Longspear Description_
--   A nomadic tribe of Gremor, whom worship the goddess(?) Navae.
--   Not much more is known for the Navaen Tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
+-   A nomadic tribe of Gremor, who worship the goddess(?) Navae.
+-   Not much more is known for the Navaen tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
 
 ### Bandits
 
@@ -182,11 +185,11 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Enemies:** N/A
 -   **Lore Sources:** _Neero (Temple of the Forgotten Flame)_
 
--   An organization consisting mostly Explorers and Historians alike. The Pathfinder varies in the individual; either focused more in combat or exploration.
-    -   The Pathfinders consists of Historians, Scavengers, Bounter Hunters, and Explorers. _(Source - Neero)_
--   The Pathfinder's goal are to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
+-   An organization consisting mostly of explorers and historians alike. The Pathfinder varies in the individual; either focused more on combat or exploration.
+    -   The Pathfinders consists of Historians, Scavengers, Bounty Hunters, and Explorers. _(Source - Neero)_
+-   The Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
 -   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
--   Pathfinders can share tales of stories to others, such as the inspiration of a warrior whom slain a great beast.
+-   Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
 -   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
     
 
@@ -200,7 +203,7 @@ An Etrean Guard, part of the Nation of Etrea
 
 -   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
--   They have ranks such as Legionnares and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
+-   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
 
 Amara, a Member of The Legion.
 
@@ -223,7 +226,7 @@ Amara, a Member of The Legion.
 -   **Lore Sources:**
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
--   They are affiliated with The Adretian Authority, supplying them weapons; most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
+-   They are affiliated with The Adretian Authority, supplying them weapons, most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
 -   Allying with the Summer Company is possible (friendly dialogue) by assisting them in large amounts in events.
 
@@ -259,7 +262,7 @@ A Dark Mage, located in Minityrsa.
 
 -   (Placeholder)
 
-### The Whalers
+### The Knives of Eylis
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia_
@@ -268,8 +271,8 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
 -   **Lore Sources: Whaling Knife description and Whaler Armor**
 
--   A Gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
--   As of 1/21/2022, there is not much information about the Whalers.  
+-   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
+-   As of 1/23/2022, there is not much information about them.  
     
 
 ### The Ignition Union
@@ -282,7 +285,7 @@ A Dark Mage, located in Minityrsa.
 -   **Lore Sources:**
 
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company
--   They've been spotted attempting to take over Diver terriotry, however their efforts have been less than successful.
+-   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 
 ### The Central Authority
 
@@ -296,7 +299,7 @@ A Dark Mage, located in Minityrsa.
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
--   Consists mostly Adrets, but can vary with other races too.
+-   Consists mostly of Adrets, but can vary with other races too.
 
 A Peacekeeper Grunt, part of The Authority
 
@@ -310,18 +313,18 @@ A Peacekeeper Grunt, part of The Authority
 -   **Enemies:** _The Kingdom of Etrea_
 -   **Lore Sources:** _Regek_
 
--   A group of Individuals; mostly Vesperian and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
+-   A group of Individuals; mostly Vesperians and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
     -   Their previous home was located in Erisia Island, by the names of [The Hidden Village](The_Hidden_Village.md).
 -   Their level of technology is far better than Summer Company, such as the makings of Hive Constructs, Laboratories, and the invocation of green fountains.
 -   The Hive protects green artifacts, similar to [The Forge](Artifacts.md), against the Kingdom of Etrea.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
--   The Hive have Lifeweavers within their ranks, individuals who utilized the song to create life.
+-   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
 
 ### The Divers
 
 -   An Organization that specialize in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
--   The Divers are outsourced by The Adretian Authority (Recieve funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
+-   The Divers are outsourced by The Adretian Authority (Recieves funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
 -   The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
@@ -358,14 +361,14 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### Flamecharm
 
-_"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharmer Historian_
+_"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharmer Historian_
 
 -   Flamecharmers, originated from the Far West of the Luminant Sea...  
     
 
 ### Frostdraw
 
--   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is apart of the Frostdraw talent tree.
+-   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
 -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
     
 
@@ -382,7 +385,7 @@ _"Pleetksy, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:**
 
 -   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
--   It is unknown what purpose the cathedrel would have served in a time before the tides, or if it even existed.
+-   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed.
 
 ### Life before the Tides
 
@@ -427,19 +430,19 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _Nimea_
 
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants; at the cost of their own wellbeing.
-    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light; using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
--   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary, and will eventually fade away.
+    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
 -   Some time before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
-    -   As of the Year 1271, it has been buried by the sands of the Valley, and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
+    -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
 
 ### Lifeweavers
 
 **Lore Sources:** _Regek (Mentioned)_
 
--   Individuals of The Hive whom utilized the Song to manipulate life itself; leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, eventually drown to the Tides, when the time comes.
 -   It's unsure how much a Lifeweaver's life is precious to the world of Deepwoken, unlike Lightkeepers.
@@ -460,7 +463,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _Etris_
 
 -   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
--   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However during The Lord Regent's ruling the Office was suspended.
+-   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However, during The Lord Regent's ruling the Office was suspended.
 -   The pillar that house 4 statues near Etris, are presumably the Past Rulers.
 -   There were 6 Total Rulers of Etrea; the 4 past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
 
@@ -494,18 +497,18 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 -   Your health bar depicts your soul's wellbeing. One death in the Luminant coils your soul a step closer to the depths, leaving a tainted stain onto your health. One more death in the Luminant and your soul drowns to The Depths; waking up in the Celtor Wastes.
     -   Increasing your power while your health is tainted bolsters your soul, escaping the grasps of The Depths and reverting your health bar back to normal.
--   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of whats left of your collective consciousness before it all drowns.
--   The Hippocampal Pool allows your current character to pass down 2 of their items to another soul; your character's legacy, transfered to a different character.
+-   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of what's left of your collective consciousness before it all drowns.
+-   The Hippocampal Pool allows your current character to pass down 2 of their items to another soul; your character's legacy, transferred to a different character.
 
 ### Character Slots
 
 -   Each Character Slot has their own legacy; not just shared. Because of this, if one of your character slots has all attunements and wiped, they unlock it for themselves but not for others.
-    -   For the confused folk, each Character Slot acts like a different Account.  
+    -   For the confused folk, each Character Slot acts like a different account.  
         
 
 ### Mudskippers
 
--   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Squibbo or time within The Depths itself, they will eventually turn into mindless monsters.
+-   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
 
 <table>
 <tbody>
@@ -521,27 +524,27 @@ The Music of Deepwoken, made solely by the composer, Naktigonis, has lore inscri
 
 #### The Gideshu March
 
-**Lore Sources:** _The Gideshu March Sound Track_
+**Lore Sources:** _The Gideshu March Soundtrack_
 
 _**Theme of the Central Authority**_
 
-_"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
+_"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank-and-file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
 
 #### Masters of the House
 
-**Lore Sources:** _Masters of the House Sound Track, Naktigonis_
+**Lore Sources:** _Masters of the House Soundtrack, Naktigonis_
 
 _**Theme of the Ministry**_
 
 _"An old, semi-scratched record plate rests inside a black leather sleeve, the latter still in solid condition - although the opening flap is a little worn at the folded edge._ _There is no visible text on this packaging - neither outside it, nor within it. Instead, at the front of the sleeve, a singular symbol of sorts stands out, etched into the leather in gold. The significance of the symbol - and, indeed, its meaning, - escape you._ _Upon closer inspection, the sleeve's flap hides a cut in it - a pouch, it seems. Within it is contained a small piece of paper. It looks as if it was torn from a book of some kind, its appearance weathered, the paper itself now bearing a rich sepia tone. There is some sort of writing on it, artfully calligraphed onto the insignificant-looking paper scrap: "Defy the hush-makers. Let the glorious song ring on. We shall sing with the tide, 'til a new Celtor sinks!"_
 
--   It is given that both the dialogue of "Masters of the House" has Ministry written all over it; as they mentioned the new Celtor; presumably the New World Celtor.
--   As of 1/22/22, it is unknown when the record was composed in, but its speculated that it was created during the first century of the New World.
+-   It is given that the dialogue of "Masters of the House" has Ministry written all over it; as they mentioned the new Celtor; presumably the New World Celtor.
+-   As of 1/22/22, it is unknown when the record was composed in, but it's speculated that it was created during the first century of the New World.
 -   Based on Naktigonis, there is a gramophone in an area that is currently cut in the game.
 
 #### Ascension (Interlude)
 
-**Lore Sources:** _Ascension (Interlude) Sound Track_
+**Lore Sources:** _Ascension (Interlude) Soundtrack_
 
 _**Words of the Bloodhound**_
 
@@ -551,9 +554,9 @@ _"When the tide rolled in there was nothing left,_ _But an albatross hanging fro
 
 #### A Memory of Tides
 
-**Lore Sources:** _A Memory of Tides Sound Track, Greathive Aratel_
+**Lore Sources:** _A Memory of Tides Soundtrack, Greathive Aratel_
 
-_"A scratched and worn record plate from the Old World - the world as it was before the Cantaclysm, and the rising of the tides. It is hard to estimate the plate's age at a glance. The plate is packed in a burgundy-shade sheet of paper, a sleeve of sorts. Its borders are decorated with nautical-themed motifs and curves. On the outside, faded golden print letters in the middle of the sleeve note, "A MEMORY OF TIDES". Underneath, in beautiful cursive, is supposedly the author's name, although the writing's colour has been worn away by time to the point of indecipherability. On the inner side of its dog-eared paper sleeve, there are tenuously-scrawled writings etched in an aged script:"_
+_"A scratched and worn record plate from the Old World - the world as it was before the Canticlysm, and the rising of the tides. It is hard to estimate the plate's age at a glance. The plate is packed in a burgundy-shade sheet of paper, a sleeve of sorts. Its borders are decorated with nautical-themed motifs and curves. On the outside, faded golden print letters in the middle of the sleeve note, "A MEMORY OF TIDES". Underneath, in beautiful cursive, is supposedly the author's name, although the writing's color has been worn away by time to the point of indecipherability. On the inner side of its dog-eared paper sleeve, there are tenuously-scrawled writings etched in an aged script:"_
 
 _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND AND THE SKY FROM THE OCEAN. WATERS BELOW FOAM AND ROAR, AND BELLOW. WHAT SHALL WE DO WITH OUR HEARTS SO MELLOW? FEEL NO DESPAIR, MY FRIENDS! TOMORROW, DAY DAWNS ANEW!" -----_
 
@@ -565,7 +568,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 ## Notes/Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
--   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus the makings of "Ancestors of Ganymedes & Vesperians".
--   Mudskippers _used_ _to_ talk to eachother, but it was declared that it was a Dialogue bug.
+-   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
+-   Mudskippers _used_ _to_ talk to each other, but it was declared that it was a Dialogue bug.
 
 Talking Mudskippers

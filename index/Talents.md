@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15170
+revid: 15230
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -260,6 +260,10 @@ Hand of Mantra Cards
 ### Fish
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
+
+###### Neuroplasticity
+
+-   Genius Intellect \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a has a reduced Ether cost.
 
 ### Freak Of Nature
 
@@ -867,8 +871,6 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 **Prophet's Cloak**
 
 -   Crippling Darkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
-
-  
 
 ## Notes/Trivia
 

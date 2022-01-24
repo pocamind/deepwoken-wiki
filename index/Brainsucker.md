@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 13921
+revid: 15200
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 Template:Creature Infobox V3
 
-_Also known as Bats, and Gargoyles._
+_Also known as Bats, Alegators and Gargoyles._
 
 ## Description
 

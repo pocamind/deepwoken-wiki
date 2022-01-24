@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 14809
+revid: 15234
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,7 +28,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Centurion's Resolve_, whi
 
 This Outfit's Schematic can be found in:
 
--   Locations here
+-   Starswept Valley
 
 ## Trivia/Notes
 

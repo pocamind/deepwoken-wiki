@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 14806
+revid: 15263
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -216,7 +216,7 @@ Multiplicity
 
  | 
 
-Upon getting hit, it has a chance of summoning a clone of the attacker. The clone will defend you and attack the opponent. This enchantment is currenty disabled and will be replaced.
+Upon getting hit, your armor has a chance to reduce the damage of an incoming attack while showing your body separating with a green effect (Apparently Only works against players, needs further testing).
 
   
 
@@ -302,6 +302,7 @@ Upon getting hit, the user has a chance of getting teleported a short distance.
 
 Credits to the people who made this page better:
 
+-   Erik\_Lazy
 -   Noobuh
 -   ZoeBoi
 -   Xolariz
