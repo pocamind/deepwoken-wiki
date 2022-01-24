@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 14878
+revid: 15128
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes]
@@ -14,9 +14,9 @@ categories: [Attributes]
 
   
 
-## Description This Tab is useless if you wanna know how to ACTULLY PUT IN THE SKILLPOINTS pls fix man
+## Description
 
-Attributes are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain amount of points into it.
+Attributes are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain number of points into it.
 
 Each Power level, you get 5 Investment Points to spend on attributes. To Power up, spend all of the investment points.
 
@@ -24,9 +24,9 @@ Character Sheet of Helena Dusselden
 
 ## Physical/Mental Attributes
 
-All Attributes can be improved up to 75 points, but may be uncapped to 100 once you do a specific task to unlock an Attribute's full potential.
+All Attributes can be improved up to 75 points but may be uncapped to 100 once you do a specific task to unlock an Attribute's full potential.
 
-If your race happen to start with +2 in a given stat, the limits are 77 and 102 instead.
+If your race happens to start with +2 in a given stat, the limits are 77 and 102 instead.
 
 ### Strength
 
@@ -42,7 +42,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Strength Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras, depending on the Character's Strength.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
--   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength.
+-   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 Strength.
 
 ### Fortitude
 
@@ -54,8 +54,8 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
--   Gain Fortitude EXP via taking fall damage, taking damage, or vomitting foods/ingredients.
--   Can be unbounded by talking to Brutus in Fort Merit (Must have 75 fortitude or else you wont gain nothing). You won't gain a talent card but you still unbounded it.
+-   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
+-   Can be unbounded by talking to Brutus in Fort Merit (Must have 75 fortitude or else you won't gain nothing). You won't gain a talent card but you still unbounded it.
 
 ### Agility
 
@@ -65,11 +65,11 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 
   
 
--   Slight of hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
--   Agility affects the duration of speed boosts from Parkour, wall climb and wall jump height. The higher your Agility, the longer and higher they get.
--   Unlocks Agility-related Talents, depending on the Character's Agility. Most of them also grant Passive Agility, which is not displayed on the attribute tab but grant improvemed movement normally.
+-   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
+-   Agility affects the duration of speed boosts from Parkour, wall-climb, and wall jump height. The higher your Agility, the longer and higher they get.
+-   Unlocks Agility-related Talents, depending on the Character's Agility. Most of them also grant Passive Agility, which is not displayed on the attribute tab but grant improved movement normally.
 -   Gain Agility EXP via Parkour(such as running, jumping and wall climbing) and Sneak Attacks with the Ankle Weights.
--   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 agility. ~(Might require an oath too?)~ doesn't require an oath. However someone should get all agility related talents and try talking to him.
+-   Can be unbound by talking to the Windrunner, located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa, with 75 Agility. ~(Might require an oath too?)~ doesn't require an oath. However, someone should get all agility related talents and try talking to him.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
 
 ### Intelligence
@@ -83,8 +83,8 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Logical processing and Problem-Solving skills. Increases Ether and Resevoir slightly per Intelligence.
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
--   Gain Intelligence EXP via foraging, brewing potions, completing questions in the [Math Textbook](Training_Gear.md#attribute-training-gears), discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
--   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving the [Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
+-   Gain Intelligence EXP via foraging, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
+-   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving [The Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
 -   Allows you to pass certain _Intelligence_ skill checks.
 
 ### Willpower
@@ -99,7 +99,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Willpower affects your Attunement's Damage slightly per Willpower.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
--   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 strength and 75 willpower.
+-   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 Strength and 75 Willpower.
 
 ### Charisma
 
@@ -113,7 +113,7 @@ If your race happen to start with +2 in a given stat, the limits are 77 and 102 
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items.
 -   Increases Ether.
--   Can be unbounded by completing the 3rd option in Karliah's quest and talking to her back in Etris.
+-   Can be unbounded by [completing the 3rd option in Karliah's quest](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Ending_3:_Snap_Back_to_Reality>) and talking to her back in Etris.
 
 ## Weapon Proficiency Attributes
 

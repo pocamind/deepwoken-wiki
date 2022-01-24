@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 14989
+revid: 15170
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -204,6 +204,7 @@ Hand of Mantra Cards
 
 -   Assassin \[Generic Talent, Common Talent\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
 -   Hidden Blade \[Generic Talent, Common Talent\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
+-   In a Hurry \[Generic Talent, Common Talent\] You grip faster with a movement speed boost.
 
 ### Cloudwalker
 
@@ -480,6 +481,7 @@ Hand of Mantra Cards
 ### Shade
 
 -   Now You See Me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
+-   N/A \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
 
 ### Silvertongue
 
@@ -696,13 +698,13 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Agility Combat (25 Agility Needed)
 
 -   Dash - Just a dash, nothing special. (Mobility)
--   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support) Agility Combat (18 Agility Needed)
+-   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)
 
-#### Agility Combat (7 Agility Needed)
+#### Agility Combat (10 Agility Needed)
 
 -   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 
-#### Charisma Combat (20~ Charisma Needed)
+#### Charisma Combat (25~ Charisma Needed)
 
 -   Glare - Opponents facing you are briefly stunned.
 -   Sing - Charm those around you with your powerful voice.

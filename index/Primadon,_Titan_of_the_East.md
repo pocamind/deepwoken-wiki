@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 14910
+revid: 15153
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -38,12 +38,11 @@ Being Instant gripped (not downed) by Primadon **will** send you to the depths n
 ## Rewards
 
 -   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-5 Umbral Obsidian in them.
--   **Small chest -** Has 1-4 Umbral Obsidian in it and a ~10%~ STOP CHANGING IT TO 10%! I DID 12 PRIMADONS AND THERE WAS A 67% CHANCE OF THE CHEST HAVING A GEM! chance of a deep gem in it.
+-   **Small chest -** Has 1-4 Umbral Obsidian in it and a 50% chance of 1-2 Deep Gems.
 -   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo Primadons is enough to get a resonance/bell)
 
 ## Strategies & Tips
 
--   It is heavily advised to WATCH YO' TONE in the Primadon's presence.
 -   Level 50 is **highly** recommended if **soloing** the boss, due to level scaling damage done to NPCs.
 -   When between the Primadon's feet, he will only stomp and kick. This is a great way to solo him as his foot attacks are obvious and can be easily parried or rolled out of.
     -   They also make a whooshing sound every time they are raised, adding on to the _obvious_ factor of his attacks.
@@ -57,7 +56,7 @@ Being Instant gripped (not downed) by Primadon **will** send you to the depths n
     -   If you possess the talent **Warrior's Respite**, you may heal while fighting Primadon as long as you do not move. In order to make it safe to do so, you can purchase a Hunter's Brace from the shop at Summer Isle which allows you to parry all incoming attacks regardless of power (eg. Primadon Kicks), parrying all of Primadon's attacks while standing still will initiate healing allowing the boss to be killed relatively easily with little in the way of risk. This is a very easy strategy to incorporate and is extremely effective for players who are unable to consistently dodge/parry his attacks.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the **Scuba Drowner** talent or lived the fall.
--   Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks. However, if you have a Bloodless gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself.
+-   Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks. ~However, if you have a Bloodless Gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself.~ This does not work, as Bloodless Gem's healing scales off of damage dealt, so since you deal no damage, you don't heal.
 -   Debuffs from Mantras such as: Charm, Freeze, Shock, etc. do affect Primadon.
 
 ## Trivia
@@ -66,4 +65,3 @@ Being Instant gripped (not downed) by Primadon **will** send you to the depths n
 -   Primadon's respawn time is around 30 minutes
 -   In the game files, it is called "Monky"
 -   Primadon will not instantly follow up with an instant gripping attack if you are knocked if you are a low level. (no level is confirmed, but level 1 wont get killed right after being knocked)
--   Block, parry, dodge

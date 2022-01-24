@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 13708
+revid: 15169
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -96,38 +96,3 @@ Blindseer vesp
 </table>
 
 This section is for oaths that are speculated to be real and are being investigated, feel free to add oaths that you speculate to be real. _(If it looks fake please don't post it things like Celestial or Paladin that have been debunked)_ any oaths that are debunked already will be removed. Also please follow the format that the oaths above have.
-
-  
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Visionshaper</td>
-</tr>
-</tbody>
-</table>
-
-Image of the card
-
-### Pre-Requisites:
-
--   Intelligence - Most Intelligence Cards/Unknown
-
-### How to obtain:
-
--   Unknown
-
-### Oath Effects:
-
--   Illusionary Abilities/Unknown
-
-### Oath Description:
-
-"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."
-
-## Notes (Visionshaper)
-
--   Card originated from a tweet by Infernasu. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
--   Theorized to be an Intelligence Oath.
--   Illusionary Abilities possibly hinted due to the description and GIF from the Infernasu's tweet. ([here](https://twitter.com/infernasu/status/1478355225392132097?s=21))
--   This Oath may potentially not be in the game. There has been no in-game footage proving of its existence yet.

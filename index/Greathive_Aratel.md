@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 14851
+revid: 15132
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -91,6 +91,8 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
 
 In order to reset your reputation to neutral, in the case of the guards hating you, talk to the NPC "Zirik" located in the Lordsgrove.
 
+(Once you reach max reputation, the Boatman of the Hive will recognize you and finally he will talk to you, allowing to spawn boats in the Hive.)
+
   
 
 ## Extra
@@ -115,3 +117,5 @@ The portal locations.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here, you need positive reputation, which can farmed with the Adret event at Greathive.
+-   There is a secret room located within the Hive Laboratory behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
+-   Certain spots of the Hive have been spotted to be "Rotting" away with creatures of the Depths appearing nearby aswell such as Megalodaunts and Lionfish being spotted near the Hive with it being theorized that the Depths are attempting to pull the Hive down or slowly attempting to Rot the Greathive with other theories suggesting that the Hive exists above a entrance to the Depths that allow the creatures to leak out.

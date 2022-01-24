@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 14758
+revid: 15084
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -27,6 +27,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Brunt_, brief description
 This Outfit's Schematic can be found in:
 
 -   Songseeker Wilds
+-   Aratel/Hive Island
 
 ## Trivia/Notes
 

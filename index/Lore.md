@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 14594
+revid: 15152
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links]
+categories: [Stub pages without reason, StubPages]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -297,7 +297,6 @@ A Dark Mage, located in Minityrsa.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly Adrets, but can vary with other races too.
--   The Gideshu March is a popular marching song of the Adretian Authority - the iron-fisted remnants of the Adretian Empire of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.File:The Gideshu March.mp3
 
 A Peacekeeper Grunt, part of The Authority
 
@@ -508,7 +507,60 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Squibbo or time within The Depths itself, they will eventually turn into mindless monsters.
 
-  
+<table>
+<tbody>
+<tr>
+  <td>ㅤ</td>
+</tr>
+</tbody>
+</table>
+
+### Music
+
+The Music of Deepwoken, made solely by the composer, Naktigonis, has lore inscribed into their descriptions.
+
+#### The Gideshu March
+
+**Lore Sources:** _The Gideshu March Sound Track_
+
+_**Theme of the Central Authority**_
+
+_"The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear."_
+
+#### Masters of the House
+
+**Lore Sources:** _Masters of the House Sound Track, Naktigonis_
+
+_**Theme of the Ministry**_
+
+_"An old, semi-scratched record plate rests inside a black leather sleeve, the latter still in solid condition - although the opening flap is a little worn at the folded edge._ _There is no visible text on this packaging - neither outside it, nor within it. Instead, at the front of the sleeve, a singular symbol of sorts stands out, etched into the leather in gold. The significance of the symbol - and, indeed, its meaning, - escape you._ _Upon closer inspection, the sleeve's flap hides a cut in it - a pouch, it seems. Within it is contained a small piece of paper. It looks as if it was torn from a book of some kind, its appearance weathered, the paper itself now bearing a rich sepia tone. There is some sort of writing on it, artfully calligraphed onto the insignificant-looking paper scrap: "Defy the hush-makers. Let the glorious song ring on. We shall sing with the tide, 'til a new Celtor sinks!"_
+
+-   It is given that both the dialogue of "Masters of the House" has Ministry written all over it; as they mentioned the new Celtor; presumably the New World Celtor.
+-   As of 1/22/22, it is unknown when the record was composed in, but its speculated that it was created during the first century of the New World.
+-   Based on Naktigonis, there is a gramophone in an area that is currently cut in the game.
+
+#### Ascension (Interlude)
+
+**Lore Sources:** _Ascension (Interlude) Sound Track_
+
+_**Words of the Bloodhound**_
+
+_"When the tide rolled in there was nothing left,_ _But an albatross hanging from my neck. And just as you could not contain the sea, You could not contain me."_ _( - Foxing, 'Bloodhound')_
+
+-   Albatross, a bird seen over the seas, is described by sailors that these birds held the souls of lost sailors. It's quite fitting, as the world of Deepwoken is mostly sea.
+
+#### A Memory of Tides
+
+**Lore Sources:** _A Memory of Tides Sound Track, Greathive Aratel_
+
+_"A scratched and worn record plate from the Old World - the world as it was before the Cantaclysm, and the rising of the tides. It is hard to estimate the plate's age at a glance. The plate is packed in a burgundy-shade sheet of paper, a sleeve of sorts. Its borders are decorated with nautical-themed motifs and curves. On the outside, faded golden print letters in the middle of the sleeve note, "A MEMORY OF TIDES". Underneath, in beautiful cursive, is supposedly the author's name, although the writing's colour has been worn away by time to the point of indecipherability. On the inner side of its dog-eared paper sleeve, there are tenuously-scrawled writings etched in an aged script:"_
+
+_\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND AND THE SKY FROM THE OCEAN. WATERS BELOW FOAM AND ROAR, AND BELLOW. WHAT SHALL WE DO WITH OUR HEARTS SO MELLOW? FEEL NO DESPAIR, MY FRIENDS! TOMORROW, DAY DAWNS ANEW!" -----_
+
+-   Just like what the description says, Memory of Tides was composed in the Old World.
+-   The script was presumably written by a member of The Hive; due to a fact that the record can be found within a secret room in Greathive Aratel.
+    -   It is unknown what year the writing was written.
+-   The script talks of the Depths creating a ripple effect across both the land and sky from the ocean. It's a possibility that the Tides managed to eradicate a majority of the Celestials from ocean to space.
 
 ## Notes/Trivia
 

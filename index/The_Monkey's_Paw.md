@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 12302
+revid: 15120
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:AreainfoboxNorth East of Songseeker Wilds, There's a gate, and you want
 
 Once you enter the Island (from the front), there is a ridge which overlooks a massive flat ground. To the left and to the right of the ridge, there's 2 ropes that lead down into it. The ropes don't work. (What a shame)
 
-On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, all of the purple items, and all of the green items. This fire is used to summon the Primadon, a massive aquatic ape. To summon the Primadon, you need to sacrifice a Megalodaunt hide (I've seen people say 5, but I've also seen it summoned with only 1 megalodaunt hide. Try 1 and if that doesn't work keep putting Megalodaunt hides into the fire until the Primadon spawns.)
+On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, all of the purple items, and all of the green items. This fire is used to summon the Primadon, a massive aquatic ape. To summon the Primadon, you need to sacrifice a Megalodaunt hide (I've seen people say 5, but I've also seen it summoned with only 1 megalodaunt hide. Try 1 and if that doesn't work keep putting Megalodaunt hides into the fire until the Primadon spawns.) Once the Primadon is successfully summoned, the island's name changes to the Primadon's Hunting Grounds.
 
   
 

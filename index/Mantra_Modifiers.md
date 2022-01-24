@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15052
+revid: 15127
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -140,18 +140,18 @@ File:Screenshot 59.png
  | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
-## Sporks
+## Sparks
 
 sporks are modifiers that are only able to be used on specific mantras.
 
-If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spork and other modifiers involved.
+If the modifier cannot be applied to the specific Mantra you use it on, a message appears reading **Incompatible Ingredients,** and you will lose the spark and other modifiers involved.
 
 | Image | Modifier | Applicable Mantras | Effect |
 | --- | --- | --- | --- |
 | 
 File:Magnet spark PNG.png
 
- | Magnet Spork | Lightning blade
+ | Magnet Spark | Lightning blade
 
 Jolt Grab
 
@@ -164,7 +164,7 @@ Flame Blind
 
 Round Spark
 
- | Round Spork | Ice Eruption
+ | Round Spark | Ice Eruption
 
 Fire Gun
 
@@ -173,7 +173,7 @@ Fire Gun
 
 Blast Spark
 
- | Blast Spork | Lightning Clones
+ | Blast Spark | Lightning Clones
 
 Shadow Gun
 
@@ -186,7 +186,7 @@ Ice Forge (Adds More Shurikens to the Attack)
 
 Reversal Spark
 
- | Reversal Spork | Lightning Impact
+ | Reversal Spark | Lightning Impact
 
 Flame Leap
 
@@ -209,12 +209,12 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spork | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
 | 
 
 Spring Spark
 
- | Spring Spork | Strong Leap
+ | Spring Spark | Strong Leap
 
 Crystal Impale
 
@@ -223,7 +223,7 @@ Crystal Impale
 
 Tornado spark
 
- | Tornado Spork | Dark Blade
+ | Tornado Spark | Dark Blade
 
 Fire Blade
 
@@ -264,7 +264,7 @@ also looks identical to falseflame.
 
 #### Round Spark
 
--   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the songseeker ice npc).
+-   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the Song Seeker ice NPC).
 -   This modifier makes Fire Gun bullets split into two.
 
 #### Blast Spark
@@ -292,7 +292,7 @@ also looks identical to falseflame.
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
--   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. FIre Blade can destroy objects without Tornado spark.
+-   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. Fire Blade can destroy objects without Tornado spark.
 
 #### Spring Spark
 

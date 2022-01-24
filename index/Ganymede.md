@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 14877
+revid: 15130
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -71,7 +71,6 @@ It just overweight snail
 -   Galvige
 -   Rethige
 -   Trige
--   Floyd
     
 
 ## Trivia
@@ -80,6 +79,5 @@ It just overweight snail
 -   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Ganymede looks similar to Cypher from the game _Valorant_.
 -   Ganymede is one of the many moons of Jupiter.
--   Snailbeam can be really good for freshspawns, but isnt that viable in late game due to its lack of range and damage output.
 -   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.
--   Most likely the slug inspired race.
+-   Most likely the snail inspired race.

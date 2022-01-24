@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 15042
+revid: 15080
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,11 +47,14 @@ As with all areas in the hive, Starswept gives good mid-high tier loot. Below is
 -   Champion's Sword
 -   Darksteel Greatsword
 -   Shattered Katana
+-   Pale Morning
+-   Khan Shield
 -   Big Alchemist's Hat
 -   Big Herbalist's Hat
 -   Gladiator Helm
 -   Authority Helm
 -   Blackleaf Helm
+-   Knight's Helm
 -   Khan Helmet
 -   Pale Assassin's Hood
 -   Vigil Hood
@@ -62,6 +65,7 @@ As with all areas in the hive, Starswept gives good mid-high tier loot. Below is
 -   Ruby Drop Earrings
 -   Practitioner's Earrings
 -   Crystal Pendant Earrings
+-   Adventurer's Scarf
 -   Dawn Scarf
 -   Tundra Scarf
 -   Crimson Scarf

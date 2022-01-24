@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 10702
+revid: 15093
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,11 +9,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Stealth mechanics
 
-This [mechanic](Combat_Mechanics.md) allows the player to make hidden attacks on humanoids, allowing him to inflict damage directly and "stun" the enemy by regdolling them. To perform a hidden attack, the player needs to approach a target from behind, crouching down and left-click on it while holding a weapon. Stealth attack can only be initiated if both players are NOT in combat.
+This [mechanic](Combat_Mechanics.md) allows the player to make hidden attacks on humanoids, allowing them to inflict damage directly and "stun" the enemy by ragdolling them. To perform a hidden attack, the player needs to approach a target from behind, crouching down and left-click on it while holding a weapon. Stealth attack can only be initiated if both players are NOT in combat.
 
 ## Stealth upgrade
 
-To improve stealth, you need to upgrade [agility](Attributes.md), also some elements of armor and talents will help you to improve stealth. The damage of a stealth attack is scaled from (not scaled?) unknown characteristic. Common talent will make your damage scale to power. Also you can possible length of ragdoll by some talents.
+To improve stealth, you need to upgrade [agility](Attributes.md), also, some elements of armor and talents will help you to improve stealth. The damage of a stealth attack is scaled from (not scaled?) an unknown characteristic. Common talent will make your damage scale to power. Also you can possible length of ragdoll by some talents.
 
 ## PVE/PVP
 

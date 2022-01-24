@@ -1,9 +1,9 @@
 ---
 title: Dread Serpent
-revid: 14303
+revid: 15163
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Boss]
 ---
 
 # Dread Serpent
@@ -34,3 +34,4 @@ Just stay behind him and he is unable to hit you ~<- False. You still can get hi
 
 -   Gives you a [Murmur](Murmur.md) when he dies if you did enough damage
 -   A [Clip](https://www.youtube.com/watch?v=qQkcqw64wi4) of a player soloing it
+-   Spawns in large patches of floating bubbles

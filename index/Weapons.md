@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 14977
+revid: 15097
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -797,7 +797,7 @@ Weapons that do not fit any particular criteria
   <td></td>
   <td>26</td>
   <td>N/A</td>
-  <td>SHD: 20</td>
+  <td>SHD: 10</td>
   <td>9</td>
   <td>9</td>
   <td>0.7x</td>

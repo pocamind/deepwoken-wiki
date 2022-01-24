@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 14764
+revid: 15134
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,7 +48,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.
     -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like Songseeker.
     -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is the only flaw that essentially have no downside at power 60.
-    -   Squeamish will cause you to lose food-based buffs more quickly; other than that, you typically won't eat too much more than other characters. Regardless, carry ample food.
+    -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat too much more than other characters. Regardless, carry ample food.
     -   Vegetarian is practically a free Boon in the Etrean Luminant, as a massive mount of vegetarian harvestables can be found. It can be a problem in [The Depths](The_Depths.md), however, as harvestable food there is meat. Also note you'll miss out on meat-based foods that provide buffs.
 
 -   Some boons are more worth taking than others:

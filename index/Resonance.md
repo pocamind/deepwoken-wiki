@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 14696
+revid: 15167
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance]
@@ -46,45 +46,9 @@ TLDR:
 -   The best way to get max progress is from farming, preferably solo, bosses.
 -   Max progress is random, with each player having a different cap for it.
 
-## Corrupted Resonance
-
-In addition to normal Resonances, there exists a further sub-catrgory known as Corrupted Resonances. Corrupted Resonances are obtained near identically, but with an incredibly small chance when gaining a normal Resonance. Similarly to Cursed Items, Corrupted Resonances are league's stronger than their normal versions, being multiple times more effective and even gaining new abilities. However, like Cursed items, Corrupted Resonances also are struck with a debuff.
-
-### Corrupted Resonance Debuffs
-
-Upon usage of a Corrupted Resonance, a set debuff will happen. The debuff is chosen randomly when obtaining a Corrupted Bell. Truthfully, the debuffs are so small and some are even nullified by the effect of the Resonance so they are just a non-issue.
-
-Known debuffs include:
-
--   Being set on fire
--   Gaining Insanity
--   Taking instant damage
-
-### Unique Corrupted Effects
-
-In addition to being multiple times stronger than the original effect, some Corrupted Resonances also gain new and unique abilities ontop of their effect. Known effects include:
-
--   Run It Back: The user gains complete invincibility for the entire duration of the Resonance.
--   Distortion Realm: The user can use the Resonance during combat.
--   Sacred Field: The field is significantly larger and lasts longer.
-
-## Legendary Bells
-
-Another sub-variant of bells, which upon gaining, shine with a **GOLD** aura. There aren't many documented because they're about the same rarity of corrupt bells.
-
 ## Resonance Versions
 
-Some Resonances, additionally, have different versions. The overall effect is USUALLY the same, but how the effect is executed will be different, such as Reaper's "common" version throwing a projectile that does the instagrip area, while it's rare version does the aoe around themselves.
-
-## Resonance Rarities
-
-Furthermore, Resonances, Corrupted Resonances, and their versions all have different rarities, even though they're all classified as Resonances. A good indicator is that the more "simple" Resonances are common, and so are their Corrupted versions, as in, "common" Resonance has a higher chance of getting its Corrupted version than a rarer one, along with the "primary" variant being more common than the secondary one.
-
-Examples include:
-
--   Damage Reflection being much more common than Transmission
--   Reapers projectile version being much more common than its self-aoe version.
--   Corrupted Wind-Up being the most common Corrupted Resonance.
+Some Resonances have different versions, with the overall effect/purpose being USUALLY the same, but HOW the effect is executed will be different, such as Reaper's "common" version throwing a projectile that does the instagrip area, while it's rare version does the aoe around themselves. The most versions currently known belongs to Full Counter, with three.
 
 ## Known Resonances/Versions
 
@@ -92,11 +56,11 @@ Full Counter showcased by Bracting.
 
 ### **Full Counter**
 
--   Reflects all and any incoming damage back to the sender for around 2 or so seconds.
+-   Reflects all and any incoming damage back to the sender for around two or so seconds.
 -   Creates an effect around the player's character that shrinks for the duration of the redirection, completely disappearing once the effect end.
-    -   Version 1: Regular effect, reflect damages received on hit.
-    -   Version 2.1: After the counter duration ends, the damage taken will be multiplied and shot out as a thin beam that deals a single damage-tick.
-    -   Version 2.2: Same effect than 2.1 version exept that the beam deals three damage-ticks instead of one but each tick does less damages.
+    -   Version 1 - Regular effect, reflect damages received on hit.
+    -   Version 2 - After the counter duration ends, the damage taken will be multiplied and shot out as a thin beam that deals a single damage-tick.
+    -   Version 3 - Near identical to Version 2 except that the beam deals damage spread across three hits. The damage is the same, but each hit does 1/3rd the damage Version 2's does.
 
 File:Beambell.png
 
@@ -104,12 +68,13 @@ The laser shot created by Counter Beam.
 
 ### **Run It Back**
 
--   On activation, you gain full damage immunity for around 5 seconds, shown by flaming particles that appear below your feet.
+-   On activation, you gain full damage immunity for around five seconds, shown by flaming particles that appear below your feet.
 -   After the time period is over, you'll be teleported to the spot where you activated the Resonance.
-    -   Has multiple variants depending on your [attunement](Attunements.md).
+    -   Has multiple "versions" depending on your [attunement](Attunements.md).
         -   [Flamecharm](Flamecharm.md): Burns anyone near the activation spot of your Resonance.
         -   [Thundercall](Thundercall.md): Shocks anyone near the activation spot of your Resonance.
         -   [Shadowcast](Shadowcast.md): Engulf anyone in shadows near the activation spot of your Resonance.
+    -   While having a unique effect depending on attunement, the Resonance is still the same across each one, so it's basically all the same version.
 
 File:Phoenix Fire.jpg
 
@@ -117,7 +82,7 @@ Run It Back's particle effects.
 
 ### **Wind-Up**
 
--   Activating the resonances charges the ability, 1 level at a time. Can be activated up to 5 times.
+-   Activating the resonances charges the ability, one level at a time. Can be activated up to five times.
 -   Landing a hit (must deal damage) unleashes a blast that deals additional damage, scaling with your current charges.
 -   Getting your charged hit parried cancels the charge and gives you a insane amount of posture damage (can't break your posture/break your block.)
 -   Based on Hunter X Hunter character Phinks' Hatsu, "Ripper Cyclotron".
@@ -127,15 +92,16 @@ Run It Back's particle effects.
 -   Enter an area called The Distortion Realm while leaving a lingering portal that other players in the area can walk in, which will send them to The Distortion Realm alongside the user.
 -   Activating the ability while in The Distortion Realm let you visualize where you will appear in the game world. Activating the ability while the visualization is on transports the player and create another portal for people to follow them.
     -   Players can also walk of the plates and fall into the void to leave the area in the equivalent game map location. Both the bell user and people who do not have the bell can do it.
--   Each steps in The Distortion Realm is roughly 5 steps in the game map.
+-   Each steps in The Distortion Realm is roughly five steps in the game map.
 -   This resonance **CANNOT** be used in combat unless corrupted
 -   Based on Naruto character Tobi/Obito's Sharingan Ninjutsu, "Kamui"
 
 ### **Sacred Field**
 
--   Activating your resonance will cause an orange area to appear for ~15 seconds, granting yourself and nearby allies increased defense.
-    -   Version 1: Grant high defense toward physical attacks.
-    -   Version 2: Grant high defense toward elemental attacks.
+-   Activating your resonance will cause an orange area to appear for ~15-20 seconds, granting yourself and nearby allies increased defense to both types of damage, but in varying amounts.
+    -   Version 1 - Grant very high defense toward physical damage, and high defense against elemental damage.
+    -   Version 2 - Grants very high defense toward elemental damage, and high defense against physical damage. Also lasts longer for some reason.
+-   Even though one of the defenses is lower than the other, the "weaker" one gives 300% resistance to said damage, so you can only imagine how much the stronger one does. Basically: you're immune to all damage while in the field.
 
 File:God's Will Showcase.mp4
 
@@ -148,18 +114,16 @@ Reaper Variation 2.
 -   Quickly grips every knocked entity within a certain radius on use.
 -   Creates an large red effect similar to full counter, that expands and retracts from a certain point.
 -   Cooldown is 20 seconds.
-    -   Version 1: The radius is created around the user.
-    -   Version 2: The user throws a ball forward, that shortly after creates the radius around itself.
+    -   Version 1 - The radius is created around the user.
+    -   Version 2 - The user throws a ball forward, that shortly after creates the radius around itself.
 
-**Crazy Slots**
+### **Crazy Slots**
 
--   On activation, call forth a randomly chosen weapon.
+-   On activation, call forth a randomly chosen weapon from the pool.
 -   The chosen weapon scales with it's respective stat, and has a unique skill activated with C. The player's current weapon will be returned to them upon activating the special skill.
--   Still have to find out if this is just a rare version or the bell itself, but after using multiple enchanted weapons all the enchants stacked on my divine weapons, so I suppose that either the bell or this "version" makes you use all of your enchants on your divine weapons.
+-   Enchants and curses from the users current weapon are transferred onto the pulled weapon.
 
-"A weapon brought from your soul"
-
-Known Weapons:
+Known list of weapons:
 
 -   **Divine Axe**
     -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.
@@ -222,7 +186,64 @@ Known Weapons:
         -   5 Weight
         -   12 Range
 
-Known (Corrupted) Weapons:
+### **Portal**
+
+-   Upon activation, the player enters a white portal that only they can go through.
+-   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
+-   You are forced out of the dimension after 4 seconds.
+-   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.[\[1\]](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
+-   Notes:
+    -   It's recommended that you don't chat before using it, as your text bubbles do not disappear when you are in the dimension.
+    -   You could think of it just like Yoru's ultimate from Valorant.
+
+  
+
+### **Jar of Souls**
+
+-   Shoots out a large and somewhat-thin beam straight ahead, and holds it there, while also being rotatable while in use.
+-   Any player or humanoid NPC that dies (not depthed) will spawn a soul, which can be collected by going near.
+-   The more souls the user collects, the stronger the beam becomes. At max damage, it can deal about 300 damage.
+
+  
+
+File:TravelMedalRing.png
+
+A group of players standing within the travel radius.
+
+### **Waypoint Travel**
+
+File:TravelMedalMarker.png
+
+The grey circle represents a placed marker.
+
+-   On first use, the user will place an invisible mark anywhere that they can see, including on another player.
+-   This mark will persist on that spot indefinitely, even between servers, & the user's death.
+    -   A marker placed on another player will expire if the marked player leaves the server.
+-   On second use, and when aiming their cursor at a location on the ground, a small glowing ring will be made around the user, visually similar to Sacred Field.
+-   After a windup decided by how far away the chosen mark is, all humanoid entities within the ring will begin to quickly fly towards the mark, in the same way the Hive Wells work.
+-   It is currently unknown how to change the marks location.
+
+## Corrupted Resonance
+
+In addition to normal Resonances and their versions, there exists a further sub-category known as Corrupted Resonances. Corrupted Resonances are obtained near identically, but with an incredibly small chance when gaining a normal Resonance. Similarly to Cursed Items, Corrupted Resonances are league's stronger than their normal versions.
+
+An important thing to note is "stronger" doesn't just mean damage, for example: Portal, Distortion Realm, and Waypoint Travel all deal with mobility, so when Corrupted, they become tremendously faster, (and longer in Portal's case).
+
+Corrupted Resonances do not just gain stronger effects, though. They have unique bonus effects based on their type.
+
+### Corrupted Resonance Unique Effects
+
+In addition to being multiple times stronger than the original effect, some Corrupted Resonances also gain new and unique abilities ontop of their effect, that usually just make it straight up better in ways besides flat stat boosts.
+
+Known effects include:
+
+-   Run It Back - The user gains complete invincibility for the entire duration of the Resonance.
+-   Distortion Realm - The user can use the Resonance during combat.
+-   Sacred Field - The field is significantly larger and lasts longer.
+-   Wind-Up - All wind-ups are done in a single usage, instead of five.
+-   Crazy Slots - All weapons gain tremendous buffs, varied depending on the weapon.
+
+List of known Corrupted weapons:
 
 -   **Corrupt Divine Axe**
     -   Special skill will send the user up into the air, sending them plummeting towards their cursor, dealing damage to anyone in that area.
@@ -287,71 +308,65 @@ Known (Corrupted) Weapons:
 
   
 
-### **Portals**
-
--   Upon activation, the player enters a white portal that only they can go through.
--   Once in the portal, the player turns invisible, gains highly increased walkspeed, and gains permanent iframes.
--   You are forced out of the dimension after 4 seconds.
--   Attacking, interacting with things, emoting, placing things, eating, etc. all will cancel the dimension as well.[\[1\]](https://gyazo.com/65e879d7d1a9c7d0bdb75392e3cfa068)
--   Notes:
-    -   It's recommended that you don't chat before using it, as your text bubbles do not disappear when you are in the dimension.
-    -   You could think of it just like Yoru's ultimate from Valorant.
-
   
+However, like Cursed items, the cost for its immense strength is a flaw.
 
-### **Jar of Souls**
+### Corrupted Resonance Flaws
 
--   Upon killing a player or NPC, you absorb their soul.
--   Having a soul allows you to hold a beam which deals high damage over time.
--   Notes:
-    -   This bell is pretty common and requires you to farm NPCs to be used, so rerolling it should be considered.
-    -   Should be noted that you do not gain souls from monsters or anything that is not a humanoid.
+Upon usage of a Corrupted Resonance, a set flaw will happen. The flaw is chosen randomly when obtaining a Corrupted Bell. Truthfully, the flaws are so small and some are even nullified by the effect of the Resonance so they are just a non-issue.
 
-  
+Known flaws include:
 
-File:TravelMedalRing.png
+-   Being set on fire
+-   Gaining Insanity
+-   Taking instant damage
 
-A group of players standing within the travel radius.
+## Legendary Resonances
 
-### **Portal Travel**
+Another sub-variant of Resonances, which upon gaining, shine with a **GOLD** aura. There aren't many documented, but its presumed they're rarer than Corrupted Resonances. Its unknown if they exist as their own rarity, or are a modifier like Corrupted Resonances are.
 
-File:TravelMedalMarker.png
+## Resonance Rarities
 
-The grey circle represents a placed marker.
+Furthermore, Resonances, Corrupted Resonances, Legendary Resonances and their versions all have different rarities, even though they're all classified as Resonances. A good indicator is that the more "simple" Resonances are common, and so are their Corrupted versions, as in, "common" Resonance has a higher chance of getting its Corrupted version than a rarer one, along with the "primary" variant being more common than the secondary one.
 
--   On first use, the user will place an invisible mark anywhere that they can see, including on another player.
--   This mark will persist on that spot indefinitely, even between servers, & the user's death.
-    -   A marker placed on another player will expire if the marked player leaves the server.
--   On second use, and when aiming their cursor at a mark, a small glowing ring will be made around the user, visually similar to Sacred Field.
--   After a windup decided by how far away the chosen mark is, all humanoid entities within the ring will begin to quickly fly towards the mark, in the same way the Hive Wells work.
--   Notes:
-    -   I do not have this resonance. All information listed here is from [this video](https://youtu.be/aZ2W-L4QazA), all credit goes to Jenkz and Juniorr, who made the video, and who has the bell, respectively.
-    -   This bell is likely very rare, as we have seen few clips of people with it.
+Examples include:
 
-## Unconfirmed/Unfinished Resonances
+-   Damage Reflection being much more common than Transmission
+-   Reapers projectile version being much more common than its self-aoe version.
+-   Corrupted Wind-Up being the most common Corrupted Resonance.
+
+Rarities for Resonances seem to go as follow:
+
+-   Common - Full Counter, Windup, Run It Back
+-   Uncommon - Crazy Slots, Reaper, Crazy Slots, Portal
+-   Rare - Distortion Realm, Waypoint Travel, Jar Of Souls
+-   ??? - Resurrection
+
+Trying to classify rarities for specific versions seems to be impossible, but just assume their first listed version is the most common one, and if it seems' like it'd be the more common one, it probably is, like Full Counter's straight-up reflection is the common one compared to either of its beam versions.
+
+## Unfinished/Broken Resonances(?)
 
 ### Resurrection
 
 -   Currently unfinished.
 -   Documented in [this video](https://www.youtube.com/watch?v=FRsQc1a4ZDY).
 -   Makes a different ring noise, along with shining golden when activated.
--   _Apparently_ the rarest bell, as it is currently unfinished. (Why' is it in the roll pool? We may never know.)
+-   Presumed to be a Legendary Resonance, and the rarest one at that.
 
-## How To Change a Resonance
+## Rerolling Resonances
 
-You are most likely to not get the exact Resonance combination you want when you're having to cope with like four different layers of RNG at the same time. Luckily, there is a way to remedy this.
+You are most likely to not get the exact Resonance combination you want when you're having to cope with like, five different layers of RNG at the same time. Luckily, there is a way to remedy this.
 
-Around The Depths are Resonance Doors, which, self explanatory, require a Resonance to open. Past them resides Yun'Shul, who presents the players with "Wishes". Yun'Shuls other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance. If you are looking to just reroll your Resonance, and no other wishes, you can get a Resonance at even level 60 and be able to reroll.
+Around The Depths are Resonance Doors, which, self explanatory, require a Resonance to open. Past them resides Yun'Shul, who presents the players with "Wishes". Yun'Shul's other wishes are unimportant, but all that needs to be known that you can reroll your bell at him every 10 levels, and one free wish from the level you get your Resonance. If you are looking to just reroll your Resonance, and no other wishes, you can get a Resonance at even level 60 and be able to reroll. **If you somehow reach Yun'Shul without a Resonance, he will instantly wipe you.**
 
-The caveat is that upon rerolling your Resonance, you have a new flaw which increases the windup/cooldown of your Resonance. Beggars cant be choosers.
+However, beggars cannot be choosers. Rerolling your Resonance causes it to become tarnished.
 
-Full Counter: 2 Second windup, nothing can be done during the windup including using moves, cooldown increased.  
-Run it back: Windup increased  
-Distortion:  
-Portal:  
-Crazy Slots: \*apparently removes one of the weapons from the pool. (wouldnt this be a buff though??)  
-Reaper:  
-Soul Jar: (how will this be effected if the instagrip is passive and the beam is movestackable?)  
-Flying Raijin:  
+## Tarnished Resonances
 
-**If you somehow reach Yun'Shul without a Resonance, he will instantly wipe you.**
+Tarnished Resonances are like a reversal of Corrupted Resonances, having the same overall effect, but being downgraded in some way. A universal flaw is that the cool down becomes longer, but like Corrupted Resonances, has unique flaw depending on the Resonance. **Flaws cannot be removed, are permanent, and are 100% on a rerolled Resonance. Additionally, if said rerolled bell is Corrupted, it will become Tarnished aswell, and both effects will stack.**
+
+Known flaws include:
+
+-   Full Counter - Has a windup of two seconds in which nothing can be done, and the move can easily be interrupted.
+-   Run It Back - Gains a lengthy windup, like Full Counter.
+-   Crazy Slots - Removes a single weapon from the pool. Ironically, could make the Resonance much better compared to the normal version if a bad/unlikable weapon gets removed, but if it removes one of your best weapons, then its basically ruined.

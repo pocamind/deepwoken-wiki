@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 13717
+revid: 15116
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper
 
-Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mushrooms and Goblettoes._
+[https://cdn.discordapp.com/attachments/690343269955010560/934515300748124250/unknown.png](https://cdn.discordapp.com/attachments/690343269955010560/934515300748124250/unknown.png)Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mushrooms and Goblettoes._
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 14842
+revid: 15138
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,7 +50,7 @@ The Main OST for Deepwoken.
 -   **[Starswept Valley Combat](https://soundcloud.com/naktigonis/pyres-of-glass?in=naktigonis/sets/deepwoken-ost-1) File:Starswept Valley (Combat) - Deepwoken OST.mp3**
 -   **[Summer Isle](https://soundcloud.com/naktigonis/of-smoke-and-steel?in=naktigonis/sets/deepwoken-ost-1) File:Summer Isle - Deepwoken OST.mp3**
 -   **[Summer Isle Combat](https://soundcloud.com/naktigonis/one-for-all-all-for-gun?in=naktigonis/sets/deepwoken-ost-1) File:Summer Isle (Combat) - Deepwoken OST.mp3**
--   **[Temple Of Blades](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights?in=naktigonis/sets/deepwoken-ost-1) File:Temple Of Blades - Deepwoken OST.mp3**
+-   **[Temple Of Blades](https://soundcloud.com/naktigonis/dancing-steps-of-war?in=naktigonis/sets/deepwoken-ost-1) File:Temple Of Blades - Deepwoken OST.mp3**
 -   **[The Depths](https://soundcloud.com/naktigonis/oscillation?in=naktigonis/sets/deepwoken-ost-1) File:Drowned City - 7394909817.ogg**
 -   **[The Depths Combat](https://soundcloud.com/naktigonis/lacrimosa-dies-illa-1?in=naktigonis/sets/deepwoken-ost-1) File:DepthsCombatLoop.ogg**
 -   **[The Ferryman (Phase 1?)](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1) File:A Sarabande Of Thunder.mp3**
