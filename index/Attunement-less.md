@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 15209
+revid: 15532
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   Requirement: ~7 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
--   Requirement: ~50 Strength, _Strength Mobility Mantra_  
+-   Requirement: 50 Strength, _Strength Mobility Mantra_  
     
 
 ### _**Fortitude Mantras**_
@@ -39,7 +39,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
 -   **Reinforce** - Buff those around you with extra defense.
--   Requirements: Fortitude, _Fortitude Support Mantra_
+-   Requirements: 50 Fortitude, _Fortitude Support Mantra_
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour.
 -   Requirements: Fortitude, _Fortitude Support Mantra_  

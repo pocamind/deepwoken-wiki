@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 15511
+revid: 15530
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry]
@@ -394,16 +394,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.77x</td>
 </tr>
 <tr>
-  <td>Serpent's Edge</td>
-  <td>70 MED</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
-  <td>5</td>
-  <td>8.5</td>
-  <td>0.75x</td>
-</tr>
-<tr>
   <td>Cavalry Saber</td>
   <td>40 MED</td>
   <td>21</td>
@@ -442,6 +432,16 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.7x</td>
+</tr>
+<tr>
+  <td>Serpent's Edge</td>
+  <td>70 MED</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
+  <td>5</td>
+  <td>8.5</td>
+  <td>0.75x</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>

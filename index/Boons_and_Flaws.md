@@ -1,9 +1,9 @@
 ---
 title: Boons and Flaws
-revid: 15316
+revid: 15565
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Mechanics, Character]
 ---
 
 # Boons and Flaws

@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 15065
+revid: 15557
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Magic, Spells]
+categories: [Pages with broken file links, Magic, Spells, Mantras]
 ---
 
 # Thundercall
@@ -44,25 +44,25 @@ The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgra
 -   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. Without a target, the cast will fail to activate.
 
  |
-|  | Lightning Impact (☆) | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
+|  | Lightning Impact (★) | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
 -   Can be upgraded with a Talent.
 
  |
-|  | Lightning Clones (☆) | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before disappearing.
+|  | Lightning Clones (★) | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before disappearing.
 
 -   This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
 -   Modifying the Mantra with a Cloudstone does not produce more clones.
 
  |
-|  | Lightning Beam (☆) | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
+|  | Lightning Beam (★) | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
 
 -   Appears after a second of casting.
 
  |
 |  | Lightning
 
-Strike (☆)
+Strike (★)
 
  | A strike of thunder at your desired location. | Caster waves their arm, summoning bolts of lightning.
 
@@ -71,23 +71,23 @@ Strike (☆)
 -   Strikes a total of 7 times, but can be cancelled by cursor movement or user damage.
 
  |
-|  | Lightning Kick (☆) | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
+|  | Lightning Kick (★) | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
 
 -   This can be upgraded with a Talent card.
 
  |
-|  | Grand Javelin (☆☆) | A javelin of lightning. | User throws a spear of lightning in front of them.
+|  | Grand Javelin (★★) | A javelin of lightning. | User throws a spear of lightning in front of them.
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
 
  |
-|  | Electro Carve (☆☆) | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
+|  | Electro Carve (★★) | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
 
 -   Shocks opponents inside of it while dealing damage.
 
  |
-|  | Bolt Piercer (☆☆) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor. |
+|  | Bolt Piercer (★★) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor. |
 
 _It is currently unknown if there are any 3-star combat Mantras for Thundercall._
 
@@ -96,7 +96,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Lightning Stream
-(☆)
+(★)
 
  | A stream of lightning. | Grapples onto an enemy and pulls them in.
 
@@ -105,7 +105,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
  |
 |  | Spark Swap
 
-(☆☆☆)
+(★★★)
 
  | Instant swap of location with whoever your cursor is on. | Swap positions with another humanoid.
 
@@ -119,7 +119,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Lightning Assault (☆☆) | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
+|  | Lightning Assault (★★) | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 
  |
@@ -127,7 +127,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
  | Lightning Cloak
 
-(☆☆☆)
+(★★★)
 
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 

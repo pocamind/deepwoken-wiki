@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 15468
+revid: 15586
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 # Introduction
 
-Deepwoken's finest, and arguably primary focus, are the Monsters. They can tear down Players apart if they're unprepared, unlucky, or just plain out unskilled.
+Deepwoken's finest, and arguably primary focus, are the Monsters. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled.
 
 Monster are embedded to the game as a multi-purpose tool, being a roadblock to better gear, higher armor, mantra modifiers, new areas, but most importantly: a skill check. Monsters cannot be beaten without proper skill and technique, and if you can't even beat a Monster, what makes you think you can beat another player?
 

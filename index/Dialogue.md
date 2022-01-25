@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 8733
+revid: 15542
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -57,4 +57,4 @@ Talking to Guards
 
 ## Notes/Trivia
 
--   Some NPCs react to your Character's Age, such as the old Etrean in Etrea calling you a Youngster if your 18 or above.
+-   Some NPCs react to your Character's Age, such as the old Etrean in Etrea calling you a Youngster if you're 18 or above.

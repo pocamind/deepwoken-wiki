@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 15319
+revid: 15596
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -67,7 +67,7 @@ There are also Mantras that are based off of other character attributes. This in
 -   Combining them with Attunement Mantras can result in some good combos.
 -   Typically used close range.
 
-## Mantra Modification
+## Modifying Mantras
 
 To modify a mantra, they need to be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere, these can be placed on a mantra table, located within populated islands.
 
@@ -81,14 +81,14 @@ For more detailed information on mantra modification, [click here.](Mantra_Modif
 
 All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them.
 
+Each 20 points allocated in your element will allow you to upgrade your mantra(s).
+
 There are 5 Mantra Levels you can have, starting from Level 1 to Level 5.
 
--   Level 1: Novice (~25)
--   Level 2: Adept (25+) \[Upgrade Cost: 100 Notes\]
+-   Level 1: Novice
+-   Level 2: Adept (20+) \[Upgrade Cost: 100 Notes\]
 -   Level 3: Expert (50+) \[Upgrade Cost: 200 Notes\]
--   Level 4: Master (~75) \[Upgrade Cost: 300 Notes\]
--   Level 5: Legendary (80+)
-
-By surpassing/reaching the requirement for the certain attribute, the user can upgrade the mantras belonging to that attribute.
+-   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
+-   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
 
 For more detailed information on trainers/upgrading mantras, [click here.](Attunement_Trainers.md)

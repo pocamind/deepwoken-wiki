@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 15488
+revid: 15573
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Talents]
+categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
 ---
 
 # Talents
@@ -19,6 +19,8 @@ categories: [Talents]
 </tr>
 </tbody>
 </table>
+
+File:Screenshot 2022-01-25 11.06.32 AM.png
 
 Talents are the main aspect of your character's build. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
 
@@ -37,6 +39,8 @@ Power Icon (Located at the top center of the screen)
 [Hand of Talent Cards](https://deepwoken.fandom.com/wiki/File:Power_Card_example.png)
 
 Hand of Talent Cards
+
+File:Screenshot 2022-01-25 11.06.40 AM.png
 
   
 
@@ -789,7 +793,7 @@ _Main Source - Frostdrawer_
 -   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
 -   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. It's parryable and blockable.
 -   Crystal Impale (Requires Glass Path) - Jumps up and then smashes into the ground dealing multiple hits
--   Crystal Kick (Requires Glass Path) -Kicks infront of you launching up your opponent into the air.
+-   Crystal Kick (Requires Glass Path) -Kicks in front of you launching up your opponent into the air.
 -   Ice Eruption (1 Star Mantra) - Stomp the ground, releasing a barrage of ice spikes that block breaks.
 -   Ice Blade (1 Star Mantra) - Summon an ice sword that you dual wield with your current weapon for a 4-hit slash combo.
 -   Ice Smash (1 Star Mantra) - Ready a mace made of ice, and smash it onto the ground in front of you.

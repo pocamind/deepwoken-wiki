@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 15325
+revid: 15559
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells, Magic]
+categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Galebreathe
@@ -50,14 +50,14 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
  |
 | File:Tornado.png | Tornado  
-(☆) | A rushing current of wind. | AOE attack that rapidly damages all opponents inside.
+(★) | A rushing current of wind. | AOE attack that rapidly damages all opponents inside.
 
 -   Deals light damage.
 -   User cannot use weapons or spells during this spell.
 
  |
 |  | Heavenly Wind  
-(☆) | A strike from the heavens. | User jumps into the air and strikes down.
+(★) | A strike from the heavens. | User jumps into the air and strikes down.
 
 -   Deals moderate damage.
 -   User moves towards the cursor (turn shiftlock off to do this)
@@ -65,20 +65,20 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
  |
 |  | Galetrap  
-(☆) | Toss a wind landmine. | Deploy a small, green landmine at your cursor location.
+(★) | Toss a wind landmine. | Deploy a small, green landmine at your cursor location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 
  |
 |  | Gale Punch  
-(☆) |  | AOE punch that deals damage and knocks opponents away.
+(★) |  | AOE punch that deals damage and knocks opponents away.
 
 -   Can be upgraded with the _Vacuum Punch_ Talent.
 
  |
 |  | Rising Wind  
-(☆☆) | Use wind to uppercut and propel yourself into the air. | Caster uppercuts their opponent, rapidly damaging them.
+(★★) | Use wind to uppercut and propel yourself into the air. | Caster uppercuts their opponent, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to opponent while rising.
@@ -88,21 +88,21 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
  |
 |  | Wind Gun  
-(☆☆) | A powerful wind blast. | Fires a penetrating bullet of wind.
+(★★) | A powerful wind blast. | Fires a penetrating bullet of wind.
 
 -   Damages and flings opponents.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
 
  |
 |  | Wind Carve  
-(☆☆) | A quick swirl of sharp winds. | Summons many small wind projectiles.
+(★★) | A quick swirl of sharp winds. | Summons many small wind projectiles.
 
 -   Rapidly damages opponent.
 -   Deals _possibly light_ damage.
 
  |
 |  | Astral Wind  
-(☆☆☆) | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
+(★★★) | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
 
 -   User is invincibile during casting.
 -   Deals _possibly moderate-heavy_ damage.
@@ -118,7 +118,7 @@ There are no known Mobilty Mantras for Galebreathers, though there is a talent t
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Gale Wisp  
-(☆☆) | A servant of wind. | Spawns a wisp of wind. Must use ritual casting.
+(★★) | A servant of wind. | Spawns a wisp of wind. Must use ritual casting.
 -   Protects against fall damage.
 -   Heals 1% every few seconds (about 10~15 seconds).
 -   Slight speed boost when active.
@@ -185,5 +185,5 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
--   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and Ragdoll.
+-   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   Archmage stated that Galebreathe is the "least cool" out of all the elements.

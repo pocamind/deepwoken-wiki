@@ -1,8 +1,9 @@
 ---
 title: Fragments of Self
-revid: 11547
+revid: 15593
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Fragments of Self

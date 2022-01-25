@@ -1,9 +1,9 @@
 ---
 title: Flamecharm
-revid: 15503
+revid: 15558
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells, Magic]
+categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Flamecharm
@@ -77,7 +77,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 
  |
-|  | Fire Palm(☆) | A blast of flame. | Caster releases an eruption of fire in front of them.
+|  | Fire Palm(★) | A blast of flame. | Caster releases an eruption of fire in front of them.
 
 -   Cone hitbox.
 -   Deals moderate damage.
@@ -85,14 +85,14 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Can be improved with Cloud/Stratus stones.
 
  |
-|  | Flame Eruption (☆) | A pyroclastic eruption. | Caster summons two pillars of flame at the cursor's location.
+|  | Flame Eruption (★) | A pyroclastic eruption. | Caster summons two pillars of flame at the cursor's location.
 
 -   Pillars are briefly persistent.
--   Deals damage.
+-   Deals moderate-high damage.
 -   Second pillar knocks enemies and ragdolls them briefly.
 
  |
-|  | Fire Forge (☆) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
+|  | Fire Forge (★) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
 
 -   Deal light damage.
 -   Burns target(s).
@@ -103,7 +103,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
  |
 |  | Fire Blade | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
 
--   Deals light-moderate damage.
+-   Deals moderate damage.
 -   Burns target(s).
 -   Can block break some targets at mantra level 1, and almost all targets at higher levels.
 -   Caster can walk (although slowed) while casting.
@@ -111,14 +111,14 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Compatible with Size, Duration and Intensity Buffs.
 
  |
-|  | Rising Flame (☆☆) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
+|  | Rising Flame (★★) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
 
--   Deals moderate damage.
--   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact_.
+-   Deals moderate to high damage.
+-   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact, dealing immense damage._
 -   Initial slashes are blockable.
 
  |
-|  | Flame Assault (☆☆) | Burst foward in flames. | User dashes forward attacking anything in their path.
+|  | Flame Assault (★★) | Burst foward in flames. | User dashes forward attacking anything in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
@@ -133,9 +133,10 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Flame Leap (☆☆) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
+|  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 -   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
+-   With the talent _Meteor Impact_ you can still damage enemies with it as long as the initial leap hits and the opponent(s) are sent upwards with you.
 
  |
 
@@ -143,11 +144,12 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Flame Wisp (☆☆) | A servant of flames. | Caster summons a wisp of magma.
+|  | Flame Wisp (★★) | A servant of flames. | Caster summons a wisp of magma.
 -   Heals the caster 5% hp over 5 seconds every 10 seconds.
 -   Ignites nearby campfire pits if not busy healing you (does not use up the wisp).
 -   Ritual casting (Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether).
 -   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses (requires confirmation).
+-   The hp given from the wisp will go lower every time its used, eventually ending up at 3% at around the 5-6th use and continuing to be 3% until it dissipates.
 
  |
 |  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.

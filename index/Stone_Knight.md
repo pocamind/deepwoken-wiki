@@ -1,9 +1,9 @@
 ---
 title: Stone Knight
-revid: 15011
+revid: 15551
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Pages with broken file links, Monsters, Luck]
 ---
 
 # Stone Knight

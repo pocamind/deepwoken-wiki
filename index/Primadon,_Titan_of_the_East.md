@@ -1,9 +1,9 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 15499
+revid: 15545
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss]
+categories: [Boss, Luck]
 ---
 
 # Primadon, Titan of the East

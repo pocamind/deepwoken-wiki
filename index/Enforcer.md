@@ -1,9 +1,9 @@
 ---
 title: Enforcer
-revid: 15311
+revid: 15566
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss]
+categories: [Pages with broken file links, Boss, Monsters, Enemies]
 ---
 
 # Enforcer
@@ -23,7 +23,7 @@ Template:Creature Info Box v2
 -   **High Swing -** The Enforcer lifts his axe high and swings it down. While being slower than Low Swing, does much more damage and posture break.
 -   **Low Swing -** The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. While being faster than High Swing, does less damage and posture break.
 -   **Kick -** The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard.
--   **Whirlwind-** The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range.
+-   **Whirlwind -** The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range.
 -   **Space Pull** - The Enforcer holds his hand out and pulls the nearest person to him, regardless of distance, range, or altitude, and hanging them there for a moment, allowing him to attack freely.
 -   **Feint** - Its a feint for a monster. Enough said
 
@@ -55,6 +55,7 @@ The Enforcer, though? It is a complete shock to the formula. All things consider
 -   While you SHOULDN'T stand in place, you also shouldn't move away. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal damage. Make distance if needed, but not too far that he'll use Pull, or too close that he'll use Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even blockbreak it, allowing you to wail on it freely.
 -   While not being recommended, beating The Enforcer on a level 45, or even earlier (If that situation somehow arises) Is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check like other Monsters and NPCs sometimes are.
+-   When it uses Whirlwind, do not attempt to challenge it at close range. It will shred your health. Fortunately, it is very easy to run away from.
 
 All in all, keep your nerves hardened, don't be fooled by it's intimidating situation and appearance, and most of all, do not be afraid to encounter it. If you intentionally avoid getting Depthed and fighting him, when you DO get Depthed, you'll be a fish out of water when the time comes. Beating it, even once will give you closure for the rest of your gameplay experience.
 

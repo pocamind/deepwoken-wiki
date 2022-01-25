@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 15509
+revid: 15587
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,7 +8,7 @@ categories: [NPCs]
 
 # NPCs
 
-_"Welcome, friend of Etrea." - Etrean Guard of Etris_
+_"Welcome, friend of Etrea." - Etrean Guard_
 
 ## Description
 
@@ -52,7 +52,7 @@ _"Welcome, friend of Etrea." - Etrean Guard of Etris_
 
 #### Lore
 
-Main government of Etris. The "King", Lord Regent, holds a reputation of incredible power.
+Main government of Etris. The Lord Regent, holds a reputation of incredible power.
 
 ### The Pathfinders
 
@@ -128,4 +128,4 @@ An organization that preserves whats left before the tides came. Historians that
 
 #### **Lore**
 
-You can get a lot of the lore from travelling to the Castle of Light (Diver HQ in the depths), after meeting Akira elsewhere in the depths. There you will learn a lot more about what the divers do. They apparently have different groups within them (Akira is part of the research group, and he explains he was securing a area from any other threats before the group arrived.) Another fact we learn from Akira is that 2% of Divers survive.
+You can get a lot of the lore from travelling to the Castle of Light (Diver HQ in the depths), after meeting Akira elsewhere in the depths. There you will learn a lot more about what the divers do. They apparently have different groups within them. (Akira is part of the research group, and he explains he was securing a area from any other threats before the group arrived.) Another fact we learn from Akira is that 2% of Divers survive.

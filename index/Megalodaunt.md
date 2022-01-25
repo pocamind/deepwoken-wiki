@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 15493
+revid: 15540
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -65,7 +65,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 
 -   It is the most common Giant Type enemy.
 -   Sharko's have swimming animations, as seen on the right.
--   Corrupted Sharko is much more dangerous than [The Enforcer.](Enforcer.md)
+-   Corrupted Sharko is much more dangerous than [The Enforcer.](Enforcer.md) (honestly depends what you are better at)
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
 -   DO **NOT** RUN FROM ONE OF THESE UNLESS YOU FIND A PLACE IT IS TOO TALL TO ENTER, FOR IT IS **FUTILE** AND **WILL** RESULT IN YOUR DEMISE!
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.

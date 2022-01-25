@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 15318
+revid: 15525
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -59,6 +59,11 @@ It may represent the "Dying World" aspect of Deepwoken's universe, as there may 
 File:Observatory.png.PNG
 
   
+If you go into the R&D, there is a secret second lab with nothing in it
+
+  
+
+586.962x586.962px
 
 ## Quests
 

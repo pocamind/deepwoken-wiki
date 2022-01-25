@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 15520
+revid: 15523
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ The Hero Blades are obtainable in the Valley of Heroes, as a guaranteed drop (el
 
 There are 5 different Hero Blades, each one representing a given [Attunement](Attunements.md): (All Require Level 35+)
 
--   Hero Blade of Flames, requiring 75 Flamecharm to wield
+-   Hero's Blade of Flame, requiring 75 Flamecharm to wield
 
 File:Fire blade.png
 
@@ -28,14 +28,14 @@ File:Fire blade.png
 
   
 
--   Hero Blade of Frost, requiring 75 Frostdraw to wield
+-   Hero's Blade of Frost, requiring 75 Frostdraw to wield
     
     File:Frost Blade.png
     
 
   
 
--   Hero Blade of Lightning, requiring 75 Thundercall to wield
+-   Hero's Blade of Lightning, requiring 75 Thundercall to wield
     
     File:Lightning Blade.png
     
@@ -44,7 +44,7 @@ File:Fire blade.png
 
   
 
--   Hero Blade of Wind, requiring 75 Galebreath to wield
+-   Hero's Blade of Wind, requiring 75 Galebreath to wield
     
     File:Wind Blade.png
     
@@ -52,7 +52,7 @@ File:Fire blade.png
   
   
 
--   Hero Blade of Shadow, requiring 75 Shadowcast to wield
+-   Hero's Blade of Shadow, requiring 75 Shadowcast to wield
 
 File:Shadow Blade.png
 

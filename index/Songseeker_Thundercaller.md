@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 13957
+revid: 15541
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,3 +37,4 @@ Their arsenal consists of [Thundercall](Thundercall.md) and [Way Of Navae:](Way_
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
 -   So far the most intelligent Songseeker type as they have a fighting style.
+-   Don't fight these below power 30, they're like squid hoss in the etrean luminant

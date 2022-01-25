@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 14801
+revid: 15539
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,4 +30,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   One of the only Outfitss in the game named after a guild.
+-   One of the only Outfits in the game named after a faction.

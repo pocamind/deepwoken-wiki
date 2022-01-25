@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 15139
+revid: 15531
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,4 +18,4 @@ The Crypt Blade is a Legendary weapon only obtainable in the depths. It scales w
 
 \- It procs every shadowcast passive/talent.
 
-\- Highest damaging weapon in the game
+\- Highest damaging weapon in the game(besides for kites op af bell)

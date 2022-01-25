@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 15412
+revid: 15550
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -71,7 +71,7 @@ These mantras have no prequisites.
  |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Dagger
 
-(☆)
+(★)
 
  | Placeholder | User throws three daggers of ice toward the nearest person.
 
@@ -81,7 +81,7 @@ These mantras have no prequisites.
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | Ice Blade
 
-(☆)
+(★)
 
  | A barrage of freezing blades. | User slashes forward rapidly with five or six swings.
 
@@ -91,7 +91,7 @@ These mantras have no prequisites.
  |
 | File:Icechain.gif | Ice Chain
 
-(☆)
+(★)
 
  | Freezing chains of ice. | Launches a narrow chain at the cursor's location.
 
@@ -101,7 +101,7 @@ These mantras have no prequisites.
  |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | Ice Forge
 
-(☆)
+(★)
 
  | Conjure and throw weapons of ice. | Forms ice shurikens and launches them at the cursor's location.
 
@@ -111,7 +111,7 @@ These mantras have no prequisites.
  |
 | [Iceeruption](https://deepwoken.fandom.com/wiki/File:Iceeruption.gif) | Ice Eruption
 
-(☆)
+(★)
 
  | A flurry of ice spikes. | Forms a path of ice spikes in front of user.
 
@@ -122,7 +122,7 @@ These mantras have no prequisites.
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | Ice Smash
 
-(☆)
+(★)
 
  | A colossal mace of ice. | User winds up and bashes a club into the floor.
 
@@ -133,7 +133,7 @@ These mantras have no prequisites.
  |
 | File:Icelance.gif | Ice Lance
 
-(☆☆)
+(★★)
 
  | Form an ice spear and lunge forward. | Creates an ice spear and dashes forward.
 
@@ -143,7 +143,7 @@ These mantras have no prequisites.
  |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | Ice Fissure
 
-(☆☆☆)
+(★★★)
 
  | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
 
@@ -157,7 +157,7 @@ These mantras have no prequisites.
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 | [Glacialarc](https://deepwoken.fandom.com/wiki/File:Glacialarc.gif) | Glacial Arc
-(☆)
+(★)
 
  | An arc of ice. | Launches an ice pillar that impacts where the cursor is.
 
@@ -167,7 +167,7 @@ These mantras have no prequisites.
  |
 | File:Ice Skate.png | Ice Skates
 
-(☆☆☆)
+(★★★)
 
  | Placeholder | Creates a large ice platform and slides them quickly forward.
 
