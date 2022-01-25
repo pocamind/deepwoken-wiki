@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 15229
+revid: 15427
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -278,7 +278,7 @@ A Dark Mage, located in Minityrsa.
 ### The Ignition Union
 
 -   **Territory:** _Unknown_
--   **Encountered In:** _Summer Isles_
+-   **Encountered In:** _Summer Isles, The Depths(Akira's rare event)_
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _Summer Company_
@@ -291,7 +291,7 @@ A Dark Mage, located in Minityrsa.
 
 -   **Territory:** _Fort Merit_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
--   **Attunements:** _Flamecharm, Thundercall_
+-   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Depth Divers (Mixed), Summer Company (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
 -   **Lore Sources:**

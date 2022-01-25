@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 15417
+revid: 15452
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Template:Areainfobox Starswept Valley is a location on Aratel Island.
 
   
 
-High-tier enemies that drop high-tier loot spawn here, making this an alternative to The Depths to get items like Royal Pathfinder and Star Duster.  
+High-tier enemies that drop high-tier loot spawn here, making this an alternative to The Depths to get items like Royal Pathfinder and Shattered Katana.  
 
 ## Appearance
 
@@ -35,11 +35,11 @@ Upon washing your face at the [Lightkeeper Temple](Lightkeeper_Temple.md), the g
 
 -   You can climb over the mountians to the [Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
--   Fighting the hive bots is a bad idea. If you get close when they sprout trees, it can cover your vision can you won't be able to tell when to dodge its 200 damage moves.
+-   Fighting the hive constructs is a bad idea. If you get close when they sprout trees, it can cover your vision can you won't be able to tell when to dodge its 200 damage moves.
 
 ## Loot
 
-As with all areas in the hive, Starswept gives good mid-high tier loot. Below is a list of items you can find.
+As with all areas in the hive, Starswept Valley gives good mid-high tier loot. Below is a list of items you can find.
 
 -   Legion Centaurion
 -   Legion Cestus

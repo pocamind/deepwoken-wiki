@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 15019
+revid: 15468
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Monsters
 
-_For information on Human Enemies, go [here](Enemies.md)._
+**For information on Human Enemies, go [here](Enemies.md).**
 
 # Introduction
 

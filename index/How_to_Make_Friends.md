@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 14041
+revid: 15463
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -34,6 +34,17 @@ The phrases you need to recite near an NPC or player are listed below.
 -   Sometimes I have really deep thoughts about life and stuff.
 -   Some weather we're having, huh?
 -   You ever been to a Canor restaurant? The food's pretty howlright.
+
+  
+
+When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines.
+
+-   I don't have time for this...
+-   Ahah...
+-   Huh?...
+-   Er...
+-   What?...
+-   Please leave me alone...
 
   
 

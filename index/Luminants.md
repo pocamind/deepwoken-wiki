@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 15286
+revid: 15429
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,4 +25,12 @@ A Luminant that is under the rule by the mighty Central Authority. This Luminant
 
 ## Western Luminant
 
-Mostly nothing is known about the Western Luminant, but it is home to the Legion and might be ruled over by the Khans.
+Mostly nothing is known about the Western Luminant, but it is home to the Legion and might be ruled over by the Khans. This is hinted at by gaius(a khan) in the viper's jaw mentioning how he doesn't deserve to be in the Eastern Luminant, and that he comes from out West.
+
+## Southern Luminant
+
+the devs never talked about southern luminant and there is no npcs that talk about it
+
+## Northern Luminant
+
+it is not even known if the name is really nothern luminant. no npcs talk about northern luminant, so far nothing is known about northern luminant

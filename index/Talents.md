@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15410
+revid: 15488
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -231,6 +231,7 @@ Hand of Mantra Cards
 -   Concussive Force \[Generic Talent, Common Talent\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
 -   Concussion \[Generic Talent, Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
 -   Duelist Dance \[Generic Talent, Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
+-   Last Resort \[Generic Talent, Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
 -   Precise Swing \[Generic Talent, Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
@@ -274,6 +275,7 @@ Hand of Mantra Cards
 
 -   Emperor Flame \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
 -   Mirage Clone \[Generic Talent(?), Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.
+-   Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
 
 ### Flame Dancer
 
@@ -581,6 +583,7 @@ Hand of Mantra Cards
 ### Thunderblade
 
 -   Static Blade \[Generic Talent, Common Talent, Thundercall Exclusive\] - \[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. (+2 Elemental Intensity, +1 Health)
+-   Overcharge \[Generic Talent, Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity, +3 Health)
 
 ### Thundercaller
 
@@ -878,6 +881,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 -   The Card, "The Sound from Below" is always granted on your first Power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
+-   The Card, "Exploding Mirage Clones" explode with the original yellow/red flames instead of blue flames, if you've obtained the Azure Flames card. This is also true for the card Meteor Impact.
 
   
 Template:Navbox:Talents

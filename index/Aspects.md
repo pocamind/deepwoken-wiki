@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 14645
+revid: 15487
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -33,7 +33,7 @@ _These rates are not 100% accurate, and may vary. Do not take this as a concrete
 
 ## Exclusive Races
 
-These races are owned by only a few specific people.
+These races are either owned by testers/devs, or are planned to be added to the game in future developments.
 
 ## Notes
 

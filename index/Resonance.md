@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 15401
+revid: 15436
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -51,15 +51,6 @@ Re-rolling your Resonance**,** however, makes whatever Resonance you do recieve 
 ### _Tarnished Resonances_
 
 Tarnished Resonances are Resonances that have unique effects if the user has been afflicted with the [Flaw](Boons_and_Flaws.md) _Tarnished,_ which acts like a reversal of Corrupted Resonances, making the Resonance weaker by inflicting it with a longer cooldown, but also having a unique negative effect depending on the specific Resonance, which, like Corrupted Resonance's unique buffs, will be listed on their specific page. Tarnished Resonances can overlap with Corrupted Resonances, and be any Resonance Version, with the effects stacking with each other.
-
-## Unfinished/Broken Resonances(?)
-
-### Resurrection
-
--   Currently unfinished.
--   Documented in [this video](https://www.youtube.com/watch?v=FRsQc1a4ZDY).
--   Makes a different ring noise, along with shining golden when activated.
--   Presumed to be a Legendary Resonance, and the rarest one at that.
 
 ## Notes/Trivia
 

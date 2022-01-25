@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 15411
+revid: 15466
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -59,7 +59,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every swing you hit on somebody you have a 10% of insta-killing them(not true its 3x m1 dmg but okay, and its not a 10% chance I fr did like 50 m1s on 2 people only for it to proc once on me and once on them), every hit on you has a 5% chance to deal double damage on you (confirmed)</p></div></td>
+  <td><div><p>Every hit on you has a 5% chance of insta-gripping you and every hit on the other player has a 10% chance to instakill them.</p></div></td>
 </tr>
 </tbody>
 </table>

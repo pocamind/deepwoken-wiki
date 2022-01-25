@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 15334
+revid: 15432
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -40,7 +40,7 @@ This island also sells Hunter's Braces which can be equipped to parry red attack
 
 #### Brawling Arena
 
-The same gunsmith that offers firearms who can allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle. Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the Arena.
+The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle. Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the Arena.
 
 #### Forge
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 15315
+revid: 15489
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -38,10 +38,10 @@ Armors can also have a chance of being Ascended granting them slightly better st
 
 -   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit no longer grant its benefits.
 
--   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks additively with the following:
+-   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
     -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
--   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks additively with the following:
+-   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
     -   **Fire Armor:** Reduce damage taken from Flamecharm attacks.
     -   **Ice Armor:** Reduce damage taken from Frostdraw attacks.
     -   **Lightning Armor:** Reduce damage taken from Thundercall attacks.

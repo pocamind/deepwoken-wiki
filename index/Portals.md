@@ -1,8 +1,9 @@
 ---
 title: Portals
-revid: 15293
+revid: 15478
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Resonance]
 ---
 
 # Portals
@@ -28,7 +29,9 @@ Pressing "C" will activate the **Portal** Resonance.
 
 ### _Variants_
 
-**Portal** has no unique variants or versions.
+Pressing "C" while the Resonance is activating will perform **Portal Strike**.
+
+Instead of opening a gateway Infront of them and disappearing, the user will instead dive into the ground like a fish and gain the same effects as normal **Portal**. When the time is up the user will jump out of the ground in a upwards drop kick hitting the enemies into the air. Everything else with this Variant is the exact same as the normal usage.
 
 ## Trivia/Notes
 
