@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15354
+revid: 15410
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -485,7 +485,7 @@ Hand of Mantra Cards
 ### Shade
 
 -   Now You See Me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
--   N/A \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
+-   Vanishing Follow-up \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
 
 ### Silvertongue
 

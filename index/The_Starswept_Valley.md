@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 15080
+revid: 15417
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,9 +33,9 @@ Upon washing your face at the [Lightkeeper Temple](Lightkeeper_Temple.md), the g
 
 ## Trivia
 
--   You don't need to wash your face at Lightkeeper Temple to gain access to the [Lordsgrove](The_Lordsgrove.md), as you can climb over the giant green door.
--   The teleporter to [Greathive Aratel](Greathive_Aratel.md) will not work if you haven't washed your face at Lightkeeper Temple.
+-   You can climb over the mountians to the [Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
+-   Fighting the hive bots is a bad idea. If you get close when they sprout trees, it can cover your vision can you won't be able to tell when to dodge its 200 damage moves.
 
 ## Loot
 

@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 15363
+revid: 15397
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,19 +38,19 @@ If **Crazy Slots** is found to be Corrupted, all weapons pulled will gain tremen
 
 #### _Tarnished_
 
-If the owner of **Crazy Slots** is Tarnished, one weapon is removed weapon pool.
+If the owner of **Crazy Slots** is Tarnished, one weapon is removed from the weapon pool. (Or it may just increase weapon summon cooldowns, as I have a tarnished Crazy Slots with all the weapons)
 
 ## Weapons
 
 These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corrupted Base Damages are estimated currently.
 
-### _Uncorrupted_
+### _Normal_
 
 **Heavy:**
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Axe | Greataxe | 28 | 10% | HVY: 6 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. |
+| Divine Axe | Greataxe | 28 | 10% | HVY: 13 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. |
 | Divine Greatsword | Greatsword | 30 | 10% | HVY: 15 | 8.5 | 9.2 | 0.67x | Boosts speed and propels you into the air, crashing down at your cursor. |
 
 **Medium:**
@@ -64,8 +64,8 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Dagger | Dagger | 8 | 10% | LHT: 4 | 4 | 6.5 | 1.15x | Rush forward in a flurry of divine slashes. |
-| Divine Flintlock | Flintlock | 15 | 10% | LHT: 12 | 5 | 12 | N/A | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. |
+| Divine Dagger | Dagger | 18.7 | 10% | LHT: 4 | 4 | 6.5 | 1.15x | Rush forward in a flurry of divine slashes. |
+| Divine Flintlock | Flintlock | 15 | 10% | LHT: 15 | 5 | 12 | 1.3x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. |
 
 ### _Corrupted_
 
@@ -93,3 +93,8 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 ## Trivia/Notes
 
 -   This bell is VERY overpowered. For example, a non-corrupted version of its spear with 100 medium will do slightly over 1 bar of your health. (This damage was observed with 320 HP)
+-   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use the abilities, as well as possessing quite high base stats.
+-   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, my friend has a storm enchanted weapon and it shows blue light.)
+-   If your weapon as stars, their effect will also apply to your Crazy Slots weapons.
+-   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
+-   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".

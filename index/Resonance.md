@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 15344
+revid: 15401
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -10,13 +10,19 @@ categories: [Resonance]
 
 ## Description
 
-**Resonances**, more commonly known as **Bells**, are incredibly unique abilities obtained from [The Depths](The_Depths.md). Resonances can have quite powerful effects, such as invincibility, world-wide travel, instant gripping, so on so forth. Some **Resonances** have different versions that ultimately result in the same effect, these versions can be found on their respective page. Getting a Resonance is quite a timely, dangerous and frustrating process, but their powers are unrivaled. Some Resonances seem to be obtained more commonly than others, and has been deemed a rarity that can be found on their page.
+**Resonances**, more commonly known as **Bells**, are incredibly unique abilities obtained from [The Depths](The_Depths.md). Resonances can have quite powerful effects, such as invincibility, world-wide fast travel, instant gripping, etc. Getting a Resonance is quite a timely, random, dangerous and frustrating process, but the powers they bring are unrivaled, and unlike anything else in the game.
+
+Some Resonances have different **Versions,** which usually have an identical effect, but simply execute or perform the move differently. These will be listed on the Resonances respective pages if they have one.
+
+Additionally, Resonances appear to have some sort of **Rarity** tiers within themselves, with some appearing much more commonly than others. These have also been listed on Resonances respective pages.
 
 ### _Corrupted Resonances_
 
 **Cursed Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances. Similarly to Cursed Items, they are tremendously stronger, but much more rare. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
 
-Every Corrupted Resonance gets a downside upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside alltogether.
+Every Corrupted Resonance gets a downside that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside alltogether.
+
+Known downside include:
 
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
@@ -24,27 +30,27 @@ Every Corrupted Resonance gets a downside upon usage. These downsides do not see
 
 ### _Legendary Resonances_
 
-A step up from Normal Resonances and Corrupted Resonances, **Legendary Resonances** can be obtained as well. These are easily identifiable as such, shining with a gold aura, and having golden particles when used. Many of these are not documented extensively, and is unknown if they are another level of rarity, or another sub-category like Corrupted Resonances. It is presumed that Legendary Resonances are the strongest/most powerful type.
+A step up from Normal Resonances and Corrupted Resonances, **Legendary Resonances** can be obtained as well, being easily identifiable compared to normal Resonances by shining with a gold aura, and having golden particles when used. Many of these are not documented extensively, and it is unknown if they are another level of rarity, or another sub-category like Corrupted Resonances. It is presumed that Legendary Resonances are the strongest/most powerful type.
 
 ## Obtainment
 
-Requirements for a Resonance is unique to all players, meaning obtaining one cannot be set in stone. Yet, their progress can be explained so you can understand it clearly.
+The specific requirements for obtaining a Resonance are unique to all players, meaning quantifying an exact amount of things to do is impossible. However, the method and mechanics can be explained, as to understand it clearly.
 
-**Resonances** are obtained by maxing an invisible stat we'll name **Progress**. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity, besides wiping, meaning that you will forever keep any Progress that you obtain. While obtaining Progress is easily signified whenever the Luck effect appears, Luck maxes out long before Progress does, meaning after a while you will not really know if you are obtaining Progress anymore.
+Resonances are obtained by maxing an invisible stat known as **Progress**. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches it's cap.
 
-The easiest way to increase your Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Ferryman](The_Ferryman.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding.
+The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Ferryman](The_Ferryman.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficent, as the amount of Progress is split across every player present.
 
 ## Re-rolling
 
-Players are given the option to re-roll their **Resonance** once if they desire.
+Players are given the option to **re-roll** their Resonance once if they desire.
 
-Around [The Depths](The_Depths.md), **Resonance** Doors can be found. These doors require **Resonances** to open, within their room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which being the ability to re-roll your **Resonance** for another, random one.
+Around [The Depths](The_Depths.md), **Resonance** **Doors** can be found. These doors require Resonances to open, within their room resides **[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)**. Yun'Shul provides many different "wishes", one of which being the ability to re-roll your Resonance for another, random one.
 
-Re-rolling your **Resonance,** however, gives you a Tarnished Resonance, regardless of what **Resonance** it actually is.
+Re-rolling your Resonance**,** however, makes whatever Resonance you do recieve become a **Tarnished Resonance**,
 
 ### _Tarnished Resonances_
 
-Tarnished Resonances are **Resonances** that have unique effects if the user has been afflicted with the [Flaw](Boons_and_Flaws.md) _Tarnished,_ which acts like a reversal of Corrupted Resonances, making the Resonance weaker via a longer cooldown, but also having a negative effect depending on the Resonance, which, like Corrupted Resonance's unique buffs, will be listed on their specific page. Tarnished Resonances can overlap with Corrupted Resonances, and be any Resonance Version, with the effects stacking with each other.
+Tarnished Resonances are Resonances that have unique effects if the user has been afflicted with the [Flaw](Boons_and_Flaws.md) _Tarnished,_ which acts like a reversal of Corrupted Resonances, making the Resonance weaker by inflicting it with a longer cooldown, but also having a unique negative effect depending on the specific Resonance, which, like Corrupted Resonance's unique buffs, will be listed on their specific page. Tarnished Resonances can overlap with Corrupted Resonances, and be any Resonance Version, with the effects stacking with each other.
 
 ## Unfinished/Broken Resonances(?)
 

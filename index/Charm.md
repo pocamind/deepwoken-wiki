@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 14164
+revid: 15402
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ Charm talents can be split into two categories; those that give enemies charm an
 
 ### Charm Augmenting Talents
 
-**Lasting Charisma** - Enemies charmed by your mantras are charmed longer. (Once again enemies and allies, unclear because player can both enemies and allies.)
+**Lasting Charisma** - Enemies charmed by your mantras are charmed longer. (Once again enemies and allies, unclear because player can charm both enemies and allies.)
 
 **Morale Booster** - Allies recover from being knocked twice as quickly when charmed by you. (Allies might just equal any player, while enemies might just mean NPCs.)
 

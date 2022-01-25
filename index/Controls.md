@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 14036
+revid: 15415
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,8 @@ Of course, this Page is useless because we have the Controls in the Game. But th
 | M1 | Light Attack | Your main attack. |
 | M2 | Feint/Cancel | During an M1, cancel your attack to trick your opponent into blocking/parrying.
 During a dodge, cancel the dodge to negate the endlag.
+
+Before the actual cast of the Mantra, you can "Inhale" the Mantra; acting as a form of faint.
 
  |
 | M3/R | Critical Attack | Varies on the weapon, but usually involves a windup followed by a strike that deals large posture damage. |

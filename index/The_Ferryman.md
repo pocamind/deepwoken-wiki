@@ -1,22 +1,12 @@
 ---
 title: The Ferryman
-revid: 14871
+revid: 15398
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
 ---
 
 # The Ferryman
-
-_You measured risk, you took the chance,_
-
-_Now what awaits, guess, in advance -_
-
-_DANCE, puppet, dance! Dance if you can!_
-
-_The flames have called the Ferryman!_
-
-_( - Naktigonis)_
 
 ## Description
 
@@ -88,7 +78,6 @@ The Ferryman has 3 different dialogues for after you kill him. They all have uni
 -   The music that plays as you fight the Ferryman will vary depending on his current phase.
     -   If the Ferryman is in phase 1, "A Sarabande of Thunder" will play in the background.
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
--   Under half health, Lightning Assault and Lightning Strike become much faster.
 -   The Ferryman takes about 25 minutes to respawn.
     -   Sometimes, he won't spawn even if the timer is off and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires to solve the issue.
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).

@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 14469
+revid: 15407
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,10 +13,11 @@ You can equip a Deep Gem by going to a campfire, holding out the Gem and finding
 
 To remove a Deep Gem from your mantra, you need to **Recall** the mantra. **Clicking destroy gets rid of the Gem entirely**.
 
-There are five Deep Gems, including:
+There are six Deep Gems, including:
 
 -   **Bloodless Gem** - Your mantra does 20% less damage but has a life steal effect - you heal depending on how much damage you do.
 -   **Wind Gem -** Gives you a small speed boost when you hit a player/NPC with your mantra.
 -   **Wayward Gem -** When you hit a player/NPC with your mantra, you are teleported to the player/NPC.
 -   **Blue Gem -** Reduces Ether Cost of a mantra significantly. (?) Steals ether from your opponent and gives it to you if you hit someone with your mantra.
 -   **Blessed Gem -** Removes cooldown on all other mantras if you hit a player/NPC with the mantra that has a Blessed Gem on it (?).
+-   **Insignia Gem -** Removes the windup on your next mantra (removes the windup of the mantra you use after hitting the mantra with the gem on it)

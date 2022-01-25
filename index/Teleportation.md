@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 15296
+revid: 15390
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,5 +40,5 @@ Pressing "C" will activate the **Teleportation** Resonance.
 
 ## Trivia/Notes
 
--   It is unknown if entities teleport along with players.
--   It is unknown how to change waypoints after first use.
+-   You can Teleport entities through the waypoints if they are placed correctly.
+-   You can place down 2 waypoints, and if you try to place another then the first waypoint you placed will get removed.

@@ -1,16 +1,16 @@
 ---
 title: Oaths
-revid: 15300
+revid: 15420
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oaths
 
 ## Description
 
-You may only have one Oath per character slot, so it is best to pick what Oath you're trying to get at the start of your journey as you will be locked into it forever. Oaths do not carry over if a character gets wiped.
+You may only have one Oath per character slot, so it is best to pick what Oath you're trying to get at the start of your journey as you will be locked into it forever. Oaths do not carry over if a character gets wiped. (You may remove your Oath at Yun'Shul in the Depths if you have a Resonance, though you will no longer be able to instantly go up to the surface or reroll your Resonance. Choose wisely.)
 
 <table>
 <tbody>
@@ -50,7 +50,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 40
+-   Willpower 50
 -   Any Blindfold (Chest Item)
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
 
@@ -95,37 +95,8 @@ Blindseer vesp
 </tbody>
 </table>
 
-This section is for oaths that are speculated to be real and are being investigated, feel free to add oaths that you speculate to be real. _(If it looks fake, please don't post it things like Celestial or Paladin that have been debunked)_ Any oaths that are debunked already will be removed. Also please follow the format that the Oaths above have. 
+It has been confirmed there are only two oaths. Consider all oaths besides these as false until developer confirmation.
 
-<table>
-<tbody>
-<tr>
-  <td>Oath: Visionshaper</td>
-</tr>
-</tbody>
-</table>
+File:Oath patchnotes.png
 
-Close up of card
-
-### Pre-Requisites:
-
--   Intelligence - Most Intelligence Cards/Unknown
-
-### How to obtain:
-
--   Unknown
-
-### Oath Effects:
-
--   Illusionary Abilities/Unknown
-
-### Oath Description:
-
-"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."
-
-### Notes (Visionshaper)
-
--   Card originated from a tweet by Infernasu. [(here)](https://twitter.com/infernasu/status/1478355225392132097?s=21)
--   Theorized to be an Intelligence Oath.
--   Illusionary Abilities possibly hinted due to the description and GIF from the Infernasu's tweet.
--   This Oath may potentially not be in the game. There has been no in-game footage proving of its existence yet.
+In the patchnotes, the developers have confirmed they are working on 3-4 new oaths along with progression for current oaths to obtain more abilities. No ideas for what they are have been confirmed, so the message above should still act as a guide to what you should believe.

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15362
+revid: 15404
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -126,6 +126,8 @@ Deep Gems (not to be confused with the Vibrant Gem) are powerful modifiers that 
 **Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.**
 
 Deep Gems are obtained by **Deep Monsters and Primadon**. (low drop rate %)
+
+For more information on Deep Gems, [click here](Deep_Gems.md)
 
 | Image | Modifier | Effect |
 | --- | --- | --- |

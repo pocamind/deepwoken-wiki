@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 14232
+revid: 15414
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,7 +30,7 @@ Tacet NPC
 
 ## Murmur Talents
 
-<table><caption>Note: The amount of ether these Murmur talents consume is immense, so you will need a lot of Intelligence and or Charisma. Having high Ether stats on your armor pieces will also help.</caption>
+<table><caption>Notes: Murmurs take a lot of ether so you should train it before attempting to use it in combat.</caption>
 <tbody>
 <tr>
   <th>Image</th>

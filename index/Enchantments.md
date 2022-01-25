@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 15352
+revid: 15411
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,6 +23,8 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 -   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it. You can still switch weapons though.
     -   **Enchanted armors do not get soulbounded however.**
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
+
+-   Entchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
 
 There are two variants that enchantments come in:
 
@@ -57,7 +59,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every swing you hit on somebody you have a 10% of insta-killing them, every hit on you has a 5% chance to deal double damage on you (confirmed)</p></div></td>
+  <td><div><p>Every swing you hit on somebody you have a 10% of insta-killing them(not true its 3x m1 dmg but okay, and its not a 10% chance I fr did like 50 m1s on 2 people only for it to proc once on me and once on them), every hit on you has a 5% chance to deal double damage on you (confirmed)</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -299,41 +301,3 @@ Upon getting hit, the user has a chance of getting teleported a short distance.
   
 
  |
-
-Credits to the people who made this page better:
-
--   Erik\_Lazy
--   Noobuh
--   ZoeBoi
--   Xolariz
--   Phantomlayen
--   BlackSquidInk
--   PikaNubby
--   Xero
--   Sawtoly
--   Cyro
--   Kendu378
--   nevergiveup
--   xer101
--   SkipperFalconeer
--   NoirCard
--   marquise
--   flank
--   berebot
--   Kabeee
--   Cosmicessence
--   Cinder
--   bartyfarty
--   DeathAuRaX
--   Auzsxz
--   TotallyADuck
--   Moixme
--   PlxlPug
--   flutternative
--   SyntexLP
--   MacShaino
--   nonliams
--   AstridgamingAG
--   YogaGone
--   Dreadnomi
--   Unlucky\_Potato

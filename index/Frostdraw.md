@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 14554
+revid: 15412
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -39,7 +39,7 @@ These mantras have no prequisites.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location.
+| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location. :)
 -   Deals moderate damage and sends target into the air.
 -   Leaves ice where the Mantra is casted.
 

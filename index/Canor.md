@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 14113
+revid: 15421
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -84,4 +84,4 @@ Said passive of dealing less damage to allies can lead to one-sided spars
 
 ## Notes/Trivia
 
--   The surnames of the Canorian are noticeably German, or German inspired.
+-   The surnames of the Canor are noticeably German, or German inspired.
