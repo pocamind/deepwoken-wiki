@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 15153
+revid: 15499
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -18,22 +18,22 @@ Template:Creature Infobox V3
 
 _Also known as Sea Monkey, Gorilla, and Monke._
 
-Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 monster parts (excluding Lionfish Scales and including Umbral Obsidian) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
-
-Being Instant gripped (not downed) by Primadon **will** send you to the depths no matter what, avoid being low near him if you are above Power 30(?).
+Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 excluding Lionfish Scales or Umbral Obsidians to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Attacks
 
 -   **Stomp** - Primadon raises its **right** foot and stomps once. Can be parried and dodged.
 -   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **left** foot. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting an incredibly large and painful amount of damage to your flying body, with the initial trauma being accompanied with the inevitable fall damage you'll receive. This move is very similar to the Megalodaunt's kick. Typically not parriable, but can be with the Hunter's Brace.
+-   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Dodgeable.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 
 ## Passives
 
 -   **Mantra Immunity** - Primadon has total immunity to mantras, both Elemental and Physical. Only weapons can damage it.
     -   Deep gems will still activate, however.
+-   **The Depths Calls** - If Primadon executes its victim, it is automatically sent to [The Depths](The_Depths.md).
+    -   A knocked player that is then gripped by Primadon will not be sent The Depths.
 
 ## Rewards
 

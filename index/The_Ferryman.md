@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 15398
+revid: 15521
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss]
@@ -70,7 +70,7 @@ Phase two is where shit gets real, the real fight. All of his previous attacks g
 The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
 
 -   "Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!" - You killed the Ferryman within the time limit and received a reward. (Only available in Summer (only once), Autumn and Winter)
--   "Look into the flames..." - The ellipsis or "..." signifies the rest of the dialogue being unknown (i forgot what it was). This dialogue only appears the first time defeating the Ferryman on that slot or wipe. (Only available in Spring)
+-   "Look into the flames, and you shall see my gift... If you have the strength to take it that is. (Only available in Spring)
 -   \[SECRET DIALOGUE SPOILER\]: "I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always." - You get this dialogue after killing the Ferryman for the second time or more. (Only available in Summer (subsequent attempts after beating him once in Summer))
 
 ## Trivia/Notes

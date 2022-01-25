@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 15466
+revid: 15510
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -212,7 +212,7 @@ Upon getting hit, it will apply a Tough Love charm effect on the opponent. Charm
  |
 | 
 
-File:Multiplicity.png
+File:MultiplicityEnchant.png
 
 Multiplicity
 

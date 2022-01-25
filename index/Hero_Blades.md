@@ -1,8 +1,9 @@
 ---
 title: Hero Blades
-revid: 14120
+revid: 15520
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Hero Blades
@@ -11,19 +12,52 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Unlike most weapons, Hero Blades deal Elemental Damage based on their associated attunement. They do not deal Slash Damage.
 
-## Obtention
+## How to Obtain
 
-The Hero Blades are obtainable in the Valley of Heroes, as a guaranted drop (element is random) in the chest spawned by defeating the [Snow Knights](Stone_Knight.md).
+The Hero Blades are obtainable in the Valley of Heroes, as a guaranteed drop (element is random) in the chest spawned by defeating the [Blizzard Knights](https://deepwoken.fandom.com/wiki/Stone_Knights#Blizzard_Knight).
 
 ## Elemental blades
 
 There are 5 different Hero Blades, each one representing a given [Attunement](Attunements.md): (All Require Level 35+)
 
 -   Hero Blade of Flames, requiring 75 Flamecharm to wield
+
+File:Fire blade.png
+
+  
+
+  
+
 -   Hero Blade of Frost, requiring 75 Frostdraw to wield
+    
+    File:Frost Blade.png
+    
+
+  
+
 -   Hero Blade of Lightning, requiring 75 Thundercall to wield
+    
+    File:Lightning Blade.png
+    
+
+  
+
+  
+
 -   Hero Blade of Wind, requiring 75 Galebreath to wield
+    
+    File:Wind Blade.png
+    
+
+  
+  
+
 -   Hero Blade of Shadow, requiring 75 Shadowcast to wield
+
+File:Shadow Blade.png
+
+  
+  
 
 ## Builds
 

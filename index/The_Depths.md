@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 15064
+revid: 15504
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -177,7 +177,7 @@ Almost everything in the game drops in the depths. The Depths is the best place 
 ## Trivia
 
 -   It is still possible to gain card luck (potentially even more than usual?) by killing players (or NPCs) in the depths.
--   [Resonance](Resonance.md)/bells can be unlocked by gaining very high amounts of luck while grinding within The Depths, followed by becoming knocked. Read the Resonance page for more information.
+-   [Resonance](Resonance.md)/bells can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the Resonance page for more information.
 -   You can use 5 Umbral Obsidian to gain Shadowcaster by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future slots.
 -   Staying in the depths for prolongued periods of time (upwards of 20 minutes with very low Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity, you rip your eyes out and die.
 -   A easy way to get out of the depths known as the barrel method is commonly used to surface. Example-[here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-

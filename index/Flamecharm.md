@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 15464
+revid: 15503
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -155,7 +155,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
 -   Compatible with Duration, Intensity and Size Buffs.
--   Can be modified to cook items if you use a Vibrant Gem, however it requires more input (Z, X, C, V) to cast.
+-   ~Can be modified to cook items if you use a Vibrant Gem, however it requires more input (Z, X, C, V) to cast.~
 -   Ritual casting.
 -   Does not go out in rain
 

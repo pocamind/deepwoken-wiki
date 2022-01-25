@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 15043
+revid: 15502
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -103,8 +103,6 @@ As Vesperians grow older their masks become more intricate with markings and dra
 ## Trivia
 
 Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
-
-A Vesperian's Eyes
 
 This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
 
