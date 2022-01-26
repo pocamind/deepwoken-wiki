@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 15655
+revid: 15765
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -31,6 +31,7 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 
 ## **Notes/Tips**
 
+-   **Give up.**
 -   STAY CALM AND FEEL THE RHYTHM. If you don't, your parry timings will be broken.
 -   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder than [Primadon](Primadon,_Titan_of_the_East.md) or the [Enforcer](Enforcer.md).
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.

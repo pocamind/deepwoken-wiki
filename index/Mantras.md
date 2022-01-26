@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 15610
+revid: 15796
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -27,6 +27,8 @@ Large and threatening damage-over-time fire based spells. Excels in crowd contro
 -   Not recommended to use in close proximity to allies.
 -   Can be upgraded through Willpower for the "Azure Flames" Talent.
 -   Typically used close/mid range.
+-   Great for support.
+-   Good pressure.
 
 ### [**Thundercall Mantras**](Thundercall.md)
 
@@ -49,6 +51,7 @@ Wind utilizes the best all-rounder kit amongst the elements for movement, defens
 
 -   It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world.
 -   Usually agreed on as the most "versatile" attunement.
+-   Focuses mainly on movement.
 -   Typically used in any range.
 
 ### [**Shadowcast Mantras**](Shadowcast.md)

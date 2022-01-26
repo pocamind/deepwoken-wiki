@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 15683
+revid: 15788
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links]
 Most links will take you to SoundCloud.
 
 ONLY EDIT IF YOU SERIOUSLY KNOW FOR A FACT THAT THE MUSIC HAS A CLEAR RELEVENCE TO DEEPWOKEN.
+
+**Please support Naktigonis on any platforms, All links will lead to their official sound cloud, however you can support them through other programs like spotify.**
 
 _If you are interested about the descriptions of the Soundcloud songs, see [Deepwoken Song Descriptions](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)_
 
@@ -30,34 +32,33 @@ The Main OST for Deepwoken.
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-2?in=naktigonis/sets/deepwoken) Contour 2** (Plays in the continue screen after selecting your character)File:To Sleep, Dreaming (Contour 2).mp3
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) Contour 3** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 3).mp3
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) Contour 4** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 4).mp3
--   **[Solivgant](https://soundcloud.com/naktigonis/solivgant)** (ambience ig)File:Solivagant.mp3
--   **[To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine)** (fighting music)File:To Fight, Sanguine.mp3
+-   **[To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine)** (General Combat Music(?))File:To Fight, Sanguine.mp3
 -   **[On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants)** (A combination of all 4 Countours of To Sleep Dreaming)File:On The Shoulders Of Giants.mp3
-
--   **[Aratel & Etrean Sea](https://soundcloud.com/naktigonis/to-shores-distant?in=naktigonis/sets/deepwoken-ost-1) File:Aratel Sea - Deepwoken OST.mp3**
--   **[Erisia](https://soundcloud.com/naktigonis/the-trappings-of-a-lord?in=naktigonis/sets/deepwoken-ost-1) File:Erisia - Deepwoken OST.mp3**
--   **[Erisia Combat](https://soundcloud.com/naktigonis/cry-havoc) File:Erisia (Combat) - Deepwoken OST.mp3**
--   **[Fragments of Self](https://soundcloud.com/naktigonis/the-end?in=naktigonis/sets/deepwoken-ost-1) File:The End..mp3**
--   **[Greathive Aratel](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin?in=naktigonis/sets/deepwoken-ost-1) File:Greathive Aratel - Deepwoken OST.mp3**
--   **[Greathive Aratel Combat](https://soundcloud.com/naktigonis/a-symphony-of-strife?in=naktigonis/sets/deepwoken-ost-1) File:Greathive Aratel (Combat) - Deepwoken OST.mp3**
--   **[Isle of Vigils](https://soundcloud.com/naktigonis/peregrine?in=naktigonis/sets/deepwoken-ost-1) File:Isle of Vigils - Deepwoken OST.mp3**
--   **[Lightkeeper's Temple](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) File:Lightkeeper's Temple - Deepwoken OST.mp3**
--   **[Lord Erisia's Manor](https://soundcloud.com/naktigonis/of-labours-veiled?in=naktigonis/sets/deepwoken-ost-1) File:Lord Erisia's Manor - Deepwoken OST.mp3**
--   **[Minityrsa](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights?in=naktigonis/sets/deepwoken-ost-1) File:Minityrsa - Deepwoken OST.mp3**
--   **[Songseeker Wilds](https://soundcloud.com/naktigonis/the-sun-gleaming?in=naktigonis/sets/deepwoken-ost-1) File:Songseeker Wilds - Deepwoken OST.mp3**
--   **[Songseeker Wilds Combat](https://soundcloud.com/naktigonis/thrill-of-the-hunt?in=naktigonis/sets/deepwoken-ost-1) File:Songseeker Wilds (Combat) - Deepwoken OST.mp3**
--   **[Starswept Valley](https://soundcloud.com/naktigonis/in-starstruck-sands?in=naktigonis/sets/deepwoken-ost-1) File:Starswept Valley - Deepwoken OST.mp3**
--   **[Starswept Valley Combat](https://soundcloud.com/naktigonis/pyres-of-glass?in=naktigonis/sets/deepwoken-ost-1) File:Starswept Valley (Combat) - Deepwoken OST.mp3**
--   **[Summer Isle](https://soundcloud.com/naktigonis/of-smoke-and-steel?in=naktigonis/sets/deepwoken-ost-1) File:Summer Isle - Deepwoken OST.mp3**
--   **[Summer Isle Combat](https://soundcloud.com/naktigonis/one-for-all-all-for-gun?in=naktigonis/sets/deepwoken-ost-1) File:Summer Isle (Combat) - Deepwoken OST.mp3**
--   **[Temple Of Blades](https://soundcloud.com/naktigonis/dancing-steps-of-war?in=naktigonis/sets/deepwoken-ost-1) File:Temple Of Blades - Deepwoken OST.mp3**
--   **[The Depths](https://soundcloud.com/naktigonis/oscillation?in=naktigonis/sets/deepwoken-ost-1) File:Drowned City - 7394909817.ogg**
--   **[The Depths Combat](https://soundcloud.com/naktigonis/lacrimosa-dies-illa-1?in=naktigonis/sets/deepwoken-ost-1) File:DepthsCombatLoop.ogg**
--   **[The Ferryman (Phase 1?)](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1) File:A Sarabande Of Thunder.mp3**
--   **[The Ferryman (Phase 2?)](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1) File:Dance, If You Can!.mp3**
--   **[The Garden Reservoir](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) File:The Garden Reservoir - Deepwoken OST.mp3**
--   **Voidheart File:CorvusManorMain.ogg**
--   **[Voidsea](https://soundcloud.com/naktigonis/what-mends-shall-fray?in=naktigonis/sets/deepwoken-ost-1) File:Voidsea - Deepwoken OST.mp3**
+-   **[To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant?in=naktigonis/sets/deepwoken-ost-1)** (Aratel & Etrean Sea) **File:Aratel Sea - Deepwoken OST.mp3**
+-   **[The Trappings Of A Lord](https://soundcloud.com/naktigonis/the-trappings-of-a-lord?in=naktigonis/sets/deepwoken-ost-1)** (Erisia) **File:Erisia - Deepwoken OST.mp3**
+-   **[Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc)** (Erisia Combat**) File:Erisia (Combat) - Deepwoken OST.mp3**
+-   **[Solivgant](https://soundcloud.com/naktigonis/solivgant)** (Etrean Wilds)File:Solivagant.mp3
+-   **[The End](https://soundcloud.com/naktigonis/the-end?in=naktigonis/sets/deepwoken-ost-1)** (Fragments of Self) **File:The End..mp3**
+-   **[Of Chitin, Kith And Kin](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin?in=naktigonis/sets/deepwoken-ost-1)** (Greathive Aratel) **File:Greathive Aratel - Deepwoken OST.mp3**
+-   [**A Symphony Of Strife**](https://soundcloud.com/naktigonis/a-symphony-of-strife?in=naktigonis/sets/deepwoken-ost-1) (Greathive Aratel Combat) **File:Greathive Aratel (Combat) - Deepwoken OST.mp3**
+-   [**Peregrine**](https://soundcloud.com/naktigonis/peregrine?in=naktigonis/sets/deepwoken-ost-1) (Isle of Vigils) **File:Isle of Vigils - Deepwoken OST.mp3**
+-   [**In Shade, Hollow**](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) (Lightkeeper's Temple) **File:Lightkeeper's Temple - Deepwoken OST.mp3**
+-   **[Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled?in=naktigonis/sets/deepwoken-ost-1)** (Lord Erisia's Manor) **File:Lord Erisia's Manor - Deepwoken OST.mp3**
+-   **[A Waltz Of Snow And Knights](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights?in=naktigonis/sets/deepwoken-ost-1)** (Minityrsa) **File:Minityrsa - Deepwoken OST.mp3**
+-   **[The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming?in=naktigonis/sets/deepwoken-ost-1)** (Songseeker Wilds) **File:Songseeker Wilds - Deepwoken OST.mp3**
+-   **[Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt?in=naktigonis/sets/deepwoken-ost-1)** (Songseeker Wilds Combat) **File:Songseeker Wilds (Combat) - Deepwoken OST.mp3**
+-   **[In Starstruck Sands](https://soundcloud.com/naktigonis/in-starstruck-sands?in=naktigonis/sets/deepwoken-ost-1)** (Starswept Valley) **File:Starswept Valley - Deepwoken OST.mp3**
+-   **[Pyres Of Glass](https://soundcloud.com/naktigonis/pyres-of-glass?in=naktigonis/sets/deepwoken-ost-1)** (Starswept Valley Combat) **File:Starswept Valley (Combat) - Deepwoken OST.mp3**
+-   **[Of Smoke And Steel](https://soundcloud.com/naktigonis/of-smoke-and-steel?in=naktigonis/sets/deepwoken-ost-1)** (Summer Isle) **File:Summer Isle - Deepwoken OST.mp3**
+-   [**One For All, All For Gun**](https://soundcloud.com/naktigonis/one-for-all-all-for-gun?in=naktigonis/sets/deepwoken-ost-1) (Summer Isle Combat) **File:Summer Isle (Combat) - Deepwoken OST.mp3**
+-   **[Dancing Steps Of War](https://soundcloud.com/naktigonis/dancing-steps-of-war?in=naktigonis/sets/deepwoken-ost-1)** (Temple Of Blades) **File:Temple Of Blades - Deepwoken OST.mp3**
+-   **[Oscillation](https://soundcloud.com/naktigonis/oscillation?in=naktigonis/sets/deepwoken-ost-1)** (The Depths) **File:Drowned City - 7394909817.ogg**
+-   **[Lacrimosa Dies Illa](https://soundcloud.com/naktigonis/lacrimosa-dies-illa?in=naktigonis/sets/deepwoken-ost-1&si=a5fc32b0388e457caef931b101b47e33&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)** (The Depths Combat) **File:DepthsCombatLoop.ogg**
+-   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
+-   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
+-   [**In Shade, Hollow**](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) (The Garden Reservoir) **File:The Garden Reservoir - Deepwoken OST.mp3**
+-   **?????(Unknown?)** (Voidheart) **File:CorvusManorMain.ogg**
+-   [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray?in=naktigonis/sets/deepwoken-ost-1) (Voidsea) **File:Voidsea - Deepwoken OST.mp3**
 
   
 (IF ANY OF THIS IS WRONG, OR IF YOU HAVE MORE MUSIC, PLEASE LEAVE A COMMENT) 
@@ -74,7 +75,7 @@ The Main OST for Deepwoken.
 
 Ambience that can be found in different areas.
 
--   **[The Depths](https://soundcloud.com/naktigonis/pelagic-slumber?in=naktigonis/sets/deepwoken-ost-1) File:DepthsAmbience.ogg**
+-   **[Pelagic Slumber](https://soundcloud.com/naktigonis/pelagic-slumber?in=naktigonis/sets/deepwoken-ost-1)** (The Depths) **File:DepthsAmbience.ogg**
 
 <table>
 <tbody>

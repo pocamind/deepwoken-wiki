@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 15361
+revid: 15805
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,9 +29,13 @@ Similar to the camp event, but 3 Bandits will spawn on top of you. Killing these
 
 3 Etrean Knights and 3 Adretian Footsoldiers will start fighting using basic Galebreath and Thundercall Mantras. Authority members will always be hostile to you, unless you have unlocked the charisma talent that makes people think more highly of you. Each side has a small chance to drop a Galestone or a Spark Gland respectively, and Officer Notes can drop from the Adrets.
 
+###### Bandit Leader Village
+
+Going a bit further up you'll find a village guarded by around 6 bandit leaders. In the village you'll find a [well](Water_Well.md), a [lumber axe](Lumber_Axe.md) (3 notes), a pickaxe (0 notes/free) and a campfire. The village itself consists of some houses with barrels and a watch tower at the entrance. Going deeper through the back of the village you can find an exit. If you take a right at the cave at the back of the village, there's one bandit leader facing opposite of the door entrance. Events and such can spawn at this village but be careful as this is a popular farming spot of many players.
+
 ###### [Mudskippers](Mudskipper.md)
 
-On the way to Pathfinders Sanctuary there is a chance of an event occuring that spawns 9 mudskippers on the ledges of the cave.
+On the way to Pathfinders Sanctuary there is a ~chance~ (has 5 minute cooldown) of an event occuring that spawns 9 mudskippers on the ledges of the cave.
 
 ###### Magical [Mudskippers](Mudskipper.md)
 
@@ -62,6 +66,7 @@ All mobs above have a chance to drop common mantra ingredients other than the sh
 -   Shadow Hunter
 -   Cutthroat Light Armor
 -   Vigil Initiate
+-   Ignition Union Uniform
 -   Black Headband
 -   Orange Headband
 -   Yellow Headband
@@ -83,5 +88,5 @@ All mobs above have a chance to drop common mantra ingredients other than the sh
 -   Steel Maul(0-1 star)
 -   Scimitar(0-1 star)
 -   Iron Cestus(0-1 star)
--   Legion Cestus(0-1 star)
+-   Legion Cestus(0-3 star) (Found a 3 star Legion Cestus in a bandit camp event)
 -   Common Mantra Ingredients(1-4)

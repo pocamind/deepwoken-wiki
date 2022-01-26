@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15671
+revid: 15812
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -424,10 +424,9 @@ Hand of Mantra Cards
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
 
-Ministry Operative
+### Ministry Operative
 
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)
--   Note: this is the only talent in the tree if u want proof if u think I'm trolling about it's existence dm me at chancito#8607
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) Note: this is the only talent in the tree if u want proof if u think I'm trolling about it's existence dm me at chancito#8607
 
 ### [Murmur](Murmur.md)
 
@@ -617,6 +616,9 @@ Ministry Operative
 
 -   Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
     -   Prerequisites: Flamecharm
+
+-   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
+
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: Flamecharm
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.

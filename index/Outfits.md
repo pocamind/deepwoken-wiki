@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 15717
+revid: 15809
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -42,11 +42,11 @@ Armors can also have a chance of being Ascended granting them slightly better st
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
     -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
-    -   **Fire Armor:** Reduce damage taken from Flamecharm attacks.
-    -   **Ice Armor:** Reduce damage taken from Frostdraw attacks.
-    -   **Lightning Armor:** Reduce damage taken from Thundercall attacks.
-    -   **Wind Armor:** Reduce damage taken from Galebreath attacks.
-    -   **Shadow Armor:** Reduce damage taken from Shadowcast attacks.
+    -   **Fire Armor:** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks.
+    -   **Ice Armor:** Reduce damage taken from [Frostdraw](Frostdraw.md) attacks.
+    -   **Lightning Armor:** Reduce damage taken from [Thundercall](Thundercall.md) attacks.
+    -   **Wind Armor:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
+    -   **Shadow Armor:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
 -   **Ether Regen:** Increase the conversion rate of Reservoir to Ether.
 -   **Talent:** A passive ability linked to the outfit.
 
@@ -113,8 +113,8 @@ _Requires Fortitude 10_
 |  | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
 |  | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
-| File:VigilHood.png | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
-|  | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
+|  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
+| File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
 
 **Face:**
 
@@ -325,11 +325,9 @@ _Requires Power Level 30_
 
  | Depths Chests |
 
-  
-
 ## Trivia/Notes
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
--   Some Accessories can be Ascended, Enlightened, Celestial and have buffed stats.
+-   Some accessories can be Ascended, Enlightened or Celestial and have buffed stats.
 -   Arch confirmed that there are **5** master armors.
--   If you have crafted the Armor, you can swap back to it again. This can be done with all armor- as long as you've crafted it as your character.
+-   If you have crafted the armor, you can swap back to it again. This can be done with all armor sets—as long as you've crafted it on that character.

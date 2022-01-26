@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 15530
+revid: 15807
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weaponry]
+categories: [Pages with broken file links, Weaponry]
 ---
 
 # Weapons
@@ -23,6 +23,10 @@ _Tools_ _constructed with the intent to harm others, polished to be efficient ki
 Weapons can be bought from shops, or obtained from chests. Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your invesment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils. This is a guide that could help: [https://www.youtube.com/watch?v=x-2wgmt4ZLM&t=33s](https://www.youtube.com/watch?v=7VEvgUTxPI4)
 
 When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which provide special effects to your weapon. They are **extremely** rare however.
+
+File:30 zweihanders.png
+
+When buying a weapon, it cannot have a star, enchant, or curse (or the chance is extremely low). Pictured here is 30 zweihanders
 
 To increase your damage with a weapon, you must invest in the corresponding stat, which are Light Weapons (LHT), Medium Weapons (MED), or Heavy Weapons (HVY). In addition, some weapons have additional requirements, such as Fortitude (FTD) for shields and Strength (STR) for some heavy weapons. All weapons have a Scaling stat that, depending on it's value, will determine how much of an increase in damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
 
@@ -473,7 +477,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Iron Spear</td>
+  <td><a href="Iron_Spear.md">Iron Spear</a></td>
   <td>0 MED</td>
   <td>17</td>
   <td>N/A</td>
@@ -503,7 +507,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td>Trident</td>
+  <td><a href="Trident_Spear.md">Trident Spear</a></td>
   <td>50 MED</td>
   <td>19</td>
   <td>25%</td>
@@ -674,7 +678,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Steel Maul</td>
+  <td><a href="Steel_Maul.md">Steel Maul</a></td>
   <td>20 HVY, 10 STR</td>
   <td>22</td>
   <td>N/A</td>
@@ -706,9 +710,9 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
 </tbody>
 </table>
 
-**Miscellaneous:**
+**Elemental:**
 
-Weapons that do not fit any particular criteria
+Weapons that scale with a certain element
 
 <table>
 <tbody>
@@ -721,16 +725,6 @@ Weapons that do not fit any particular criteria
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-</tr>
-<tr>
-  <td>Mace</td>
-  <td>MED: 10</td>
-  <td>20</td>
-  <td>N/A</td>
-  <td>5</td>
-  <td>6</td>
-  <td>7.5</td>
-  <td>0.7x</td>
 </tr>
 <tr>
   <td>Hero Blade of Flame</td>
@@ -794,7 +788,7 @@ Weapons that do not fit any particular criteria
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td></td>
+  <td>100 SHD, 10 STR, 45 HVY</td>
   <td>26</td>
   <td>N/A</td>
   <td>SHD: 10</td>
@@ -825,7 +819,7 @@ Weapons that do not fit any particular criteria
   <td>1.25</td>
 </tr>
 <tr>
-  <td>Worshipper's Shield</td>
+  <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>
   <td>45 FTD</td>
   <td>1.85</td>
 </tr>

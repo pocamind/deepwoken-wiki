@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 15540
+revid: 15738
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,13 +8,13 @@ categories: [Monsters]
 
 # Megalodaunt
 
-Template:Creature Infobox V3 _Also known as Shark(s) and Sharko(s)._
+Template:Creature Infobox V3 “_**Watch Your Tone**_” - _A Sharko To Some Poor Canor right before he kicks him_
 
   
 
 ## Description
 
-The Megalodaunt is a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+The Megalodauns,Also Commonly Called Shark(s) or Sharko(s), are a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
 This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, red variant.
 
@@ -56,6 +56,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
     -   When you see the Megalodaunt lean down, parry.
     -   The trick to the Megalodaunt is to practice getting ready to dodge or parry. Again, **you cannot always predict when to parry or dodge**, so try to get the muscle memory down.
         -   When you see the red flash on the leg, press Q to roll-dodge. When you see the arm rising, press F to parry. It is difficult to get it down because you are under pressure when fighting, but with practice, you can get it down. It is important to try to stay calm and focus on seeing which attack will happen next, even if you are hit.
+    -   **IF YOU SEE RED, PRESS Q**
     -   **For Lower Level Players/Freshspawns**
     -   If you don't feel confident in your ability to fight a Megalodaunt, you can try and enter a place its to tall to get into and you can attack it from in there.
     -   You can lead a Megalodaunt into the water and its attacks wont hit you as long as you are close to it.

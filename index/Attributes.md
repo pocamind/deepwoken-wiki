@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 15710
+revid: 15739
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -236,4 +236,4 @@ Each Attribute has a hidden EXP Value. Performing certain actions (such as takin
 
 ## Tips
 
--   You may sometimes spend all your Investment Points yet still not Power up. This usually happens to characters with the Autodidact Boon. It just means you need more EXP to Power up.
+-   You may sometimes spend all your Investment Points yet still not Power up. This usually happens to characters with the Autodidact Boon. It just means you need more EXP to Power up. (This usually means you need more of the gold particles; you get them from fighting mobs that are as strong as you, or stronger than you)

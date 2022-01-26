@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 15532
+revid: 15758
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,9 +22,9 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
 -   Requirement: 5 Strength, _Strength Combat Mantra_
--   Upgradeable with the talent _Tree Felling Blow_.
+-   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they FISTED._
 
--   **Rapid Punches** - Unleash a barrage of blows against your foes.
+-   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
 -   Requirement: ~7 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
@@ -35,13 +35,14 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 `Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a _Training Vest,_ or feel the crushing weight of a _Boulder_.`
 
--   **Rally** - Strike your shield a few times to absorb some of the posture received by nearby guildmates for a short duration.
+-   **Rally** - Strike your shield a few times to absorb some of the posture received by people that received the buff.
 -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
--   **Reinforce** - Buff those around you with extra defense.
+-   **Reinforce** - Buff those around you with extra defense. Reduces incoming damage and greatly reduces armor damage. (_may completely reduce armor damage, needs more testing)_
 -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
+-   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person\[the actual description says otherwise\]) for every player/NPC buffed._
 
--   **Brace** - Brace yourself against attacks and gain hyperarmour.
+-   **Brace** - Brace yourself against attacks and gain hyperarmour. Prevents your attacks/mantras from getting cancelled.
 -   Requirements: Fortitude, _Fortitude Support Mantra_  
     
 
@@ -49,13 +50,13 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 `Agility mantras are mainly based on enhancing the user's movement speed, and movement options. To increase the distance travelled of dash moves/duration and level cap, strengthen your legs with _Ankle Weights_.`
 
--   **Dash** - An agile Dash.
+-   **Dash** - An agile dash, sends the user a considerable distance forward.
 -   Requirement: 10 Agility, _Agility Mobility Mantra_
 
--   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed.
+-   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed and parkour.
 -   Requirement: 20 Agility, _Agility Support Mantra_
 
--   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Damage significantly increases as the user loses health.
+-   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Teleports the user a considerable distance forward. Damage significantly increases as the user loses health.
 -   Requirement: 6 Agility, _Agility Combat Mantra_  
     
 
@@ -63,10 +64,10 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 `Intelligence mantras act as "_wildcards_" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an _Encyclopedia_ or a _Math Textbook_.`
 
--   **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients.
+-   **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
 -   Requirement: 20 Intelligence, _Intelligence Support Mantra_
 
--   **Prediction** - Spawns a white flooring pattern around the user and during it's duration, damage taken will be dealt back to it's source.
+-   **Prediction** - Spawns a white flooring pattern around the user. Any form of damage will be reflected back to it's source.
 -   Requirement: 50 Intelligence, _Intelligence Combat Mantra_
 
 ### _**Willpower Mantras**_
@@ -86,7 +87,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   **Sing** - _Charm_ those around you with your powerful voice.
 -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
--   **Glare -** Opponents facing you are briefly stunned.
+-   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned.
 -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 -   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
@@ -100,20 +101,25 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 ### _**Light Weapon Mantras**_
 
--   **Rapid Slashes** - Rush down your opponent cutting them apart.
+-   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
 -   Requirement: 10 Light Wep., _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
--   **Master's Flourish** - A spinning slice with your sword. Chips through block and builds posture.
--   Requirement: 10 Medium Wep., _Medium Weapons Combat Mantra_
+-   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
+-   Requirement: 8 Medium Wep., _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
 -   Requirement: 10 Heavy Wep., _Heavy_ _Weapons Combat Mantra_
 
-## Tips
+## Tips/Trivia
 
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
--   Using dashes while free-falling will immediately stop or slow your descend, it will still deal fall damage however.
+-   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
+-   Your agility mantras scale with your health (excluding Revenge and Adrenaline Surge).
+-   Charisma mantras are a very good choice for gunslinger related builds.
+
+1.  Rapid Punches is the single Attunement-less 1 Star mantra.
+2.  Exhaustion Strike is glorified spit (fr).

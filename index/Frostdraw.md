@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 15699
+revid: 15733
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -63,7 +63,7 @@ These mantras have no prequisites.
 -   Similar to Flamecharm's [Burning Servants](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Placeholder | Fires a penetrating bullet of ice.
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Swift bolts of frozen air. | Fires a penetrating bullet of ice.
 
 -   Damages opponents, _possibly slows them down._
 -   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
