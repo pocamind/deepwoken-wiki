@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 15278
+revid: 15619
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -11,7 +11,7 @@ categories: [Resonance]
 | Run It Back | |
 |---|---|
 | effect | Full immunity, teleports user back to position when used |
-| appearance | Orange particles of fire below user's feet |
+| appearance | Orange, yellow. or black particles at the area of activation |
 
 ## Description
 

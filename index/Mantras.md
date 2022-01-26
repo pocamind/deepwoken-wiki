@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 15596
+revid: 15610
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -81,13 +81,13 @@ For more detailed information on mantra modification, [click here.](Mantra_Modif
 
 All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them.
 
-Each 20 points allocated in your element will allow you to upgrade your mantra(s).
+Each 20 points allocated in your element/attribute will allow you to upgrade your mantra(s).
 
 There are 5 Mantra Levels you can have, starting from Level 1 to Level 5.
 
 -   Level 1: Novice
 -   Level 2: Adept (20+) \[Upgrade Cost: 100 Notes\]
--   Level 3: Expert (50+) \[Upgrade Cost: 200 Notes\]
+-   Level 3: Expert (40+) \[Upgrade Cost: 200 Notes\]
 -   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
 -   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
 

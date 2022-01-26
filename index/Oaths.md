@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 15458
+revid: 15659
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oaths
@@ -95,7 +95,7 @@ Blindseer vesp
 </tbody>
 </table>
 
-This section is for oaths that are speculated to be real and are being investigated, feel free to add oaths that you speculate to be real. _(If it looks fake, please don't post it things like Celestial or Paladin that have been debunked)_ Any oaths that are debunked already will be removed. Also please follow the format that the Oaths above have. 
+This section is for Oaths that may have been, or is speculated to be in the game. Most oaths here have some bit of validity but ones like Celestial, Paladin, and Yun' Shul have been debunked, so please do not add already debunked Oaths.  
 
 <table>
 <tbody>
@@ -111,11 +111,11 @@ Close up of card
 
 ### Pre-Requisites:
 
--   Unknown, however a darkfeather is needed.
+-   Defeat an Corrupted Owl for its feather. Intelligence Is theorized to be needed, but unconfirmed.
 
 ### How to obtain:
 
--   Give a darkfeather to some depths NPC, however has either been deleted or disabled.
+-   Give the feather to some depths NPC, however has either been deleted or disabled.
 
 ### Oath Effects:
 
@@ -123,12 +123,17 @@ Close up of card
 
 ### Oath Description:
 
+File:Visionshaper from Infernasu .png
+
+Image from Infernasu showing Visionshaper
+
 "You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."
 
 ### Notes (Visionshaper)
 
 -   Card originated from a tweet by Infernasu. [(here)](https://twitter.com/infernasu/status/1478355225392132097?s=21)
--   Theorized to be an Intelligence Oath.
--   Illusionary Abilities possibly hinted due to the description and GIF from the Infernasu's tweet.
--   This oath seems to be disabled at the moment.
--   The lack of verifiable evidence and developer statements on oaths hint to it being a hoax or deleted, not something to return soon.
+-   Illusionary Abilities possibly hinted due to the description
+-   This oath seems to be disabled at the moment, or at one point in time in the game.
+-   It seems to have been in the game at one point, maybe making a return in later updates, or may just be disabled for now.
+-   There seems to be a glowing purple eye similar to the one in the image from this [video](https://youtu.be/NJVwA_B2XJI?t=87).
+-   Although lack of substantial evidence this seems to have been an oath at one point in development.

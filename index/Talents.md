@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15573
+revid: 15644
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -146,6 +146,7 @@ Hand of Mantra Cards
 -   Berserker \[Generic Talent, Common Talent\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
 -   Battle Tendency \[Generic Talent, Common Talent\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
 -   Firmly Planted \[Generic Talent, Common Talent\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
+-   Perseverance \[Common Talent\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
 -   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
 
 ### Beast Slayer
@@ -254,7 +255,8 @@ Hand of Mantra Cards
 ### Ether Adept
 
 -   Nullifying Clarity \[Generic talent, Common Talent\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
--   Ether Blade \[Generic Talent\] Draw your foes into your weapon when you parry ether-based attacks.
+-   Ether Blade \[Generic Talent\] - Draw your foes into your weapon when you parry ether-based attacks.
+-   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
 
 ### Falling Star Guard
 
@@ -469,7 +471,7 @@ Hand of Mantra Cards
 
 ### Raging Bull
 
--   Harsh Response \[Generic Talent, Common Talent\] - Enemies recieve less posture back when they parry your attacks.
+-   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
 -   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not? (this is literally what it says on the card)
     -   Prerequisite: Strong Left Strength Mantra
@@ -509,7 +511,7 @@ Hand of Mantra Cards
 
 -   Static Link \[Generic Talent, Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
 
--   Static Allure \[Generic Talent, Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered ennemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Resevoir, +2 Health)
+-   Static Allure \[Generic Talent, Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Generic Talent, Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
     -   Prerequisite: Static Link
@@ -664,10 +666,10 @@ Hand of Mantra Cards
     -   Prerequisites
 -   Aerial Stab \[Generic Talent, Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: High Medium Weapons (35+?)
--   Aeriel Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+-   Aerial Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
 -   Successive Throw \[Generic Talent, Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
     -   Prerequisites: High Light Weapon (~40)
--   Lethal Force \[Genertic Talent, Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
+-   Lethal Force \[Generic Talent, Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: ~10 Strength~ & 25 Heavy Weapon (might require less for either)
@@ -705,15 +707,16 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Reinforce - Up defense for you and allies around you
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
+-   Brace - Gain hyperarmor on your attacks for a short duration
+
+#### Agility Combat (10 Agility Needed)
+
+-   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 
 #### Agility Combat (25 Agility Needed)
 
 -   Dash - Just a dash, nothing special. (Mobility)
 -   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)
-
-#### Agility Combat (10 Agility Needed)
-
--   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 
 #### Charisma Combat (25~ Charisma Needed)
 
@@ -730,6 +733,9 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
+
+#### Strength Combat (40 Strength Needed)
+
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 
 #### Willpower Combat (Around 40 Willpower Needed)
@@ -737,15 +743,15 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Gaze - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
-#### Light Weapon Combat
+#### Light Weapon Combat (10 stat needed)
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
 
-#### Medium Weapon Combat
+#### Medium Weapon Combat (10 stat needed)
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
 
-#### Heavy Weapon Combat
+#### Heavy Weapon Combat (10 stat needed)
 
 -   Pressure Blast - Unleash a powerful pressure blast from the weight of your weapon.
 

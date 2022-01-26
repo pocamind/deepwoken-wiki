@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 15586
+revid: 15651
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,15 +8,13 @@ categories: [Monsters]
 
 # Monsters
 
-**For information on Human Enemies, go [here](Enemies.md).**
+**This page is about enemy Beasts/Monsters. For information on enemy NPCs, go [here](Enemies.md).**
 
 # Introduction
 
-Deepwoken's finest, and arguably primary focus, are the Monsters. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled.
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, higher armor, mantra modifiers, new areas, but most importantly: a fundamentals check. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills, either intentionally or unintentionally. If a player can't even beat a Monster, what makes them think they can beat another player?
 
-Monster are embedded to the game as a multi-purpose tool, being a roadblock to better gear, higher armor, mantra modifiers, new areas, but most importantly: a skill check. Monsters cannot be beaten without proper skill and technique, and if you can't even beat a Monster, what makes you think you can beat another player?
-
-While each Monster has customized attacks, they all share one thing; They have learnable patterns. Every Monster, up to even the Dread Serpent and Primadon can be beaten as a fresh spawn if you are skilled enough.
+While each Monster has unique attacks and patterns they all share one thing; They can be learnt. Every Monster, up to even the Dread Serpent and Primadon can be beaten as a fresh spawn if you are skilled enough.
 
 ### Monster Hunting Advice
 

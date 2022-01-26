@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 15452
+revid: 15612
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,6 +46,9 @@ As with all areas in the hive, Starswept Valley gives good mid-high tier loot. B
 -   Tanto
 -   Champion's Sword
 -   Darksteel Greatsword
+-   Royal Pathfinder
+-   Star Duster
+-   Star Boots
 -   Shattered Katana
 -   Pale Morning
 -   Khan Shield

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15537
+revid: 15652
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items]
 
 # Mantra Modifiers
 
-A foolish fool using far too many mantra modifiers to upgrade a mantra.
+A dumbass who either A: Has a lot of Ether or B: Wants to die in every situation by using this mantra
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in chests. In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -17,6 +17,9 @@ The player can stack up to 3 of each Modifier, including the weaker versions of 
 The previous upgrades will only disappear if an _Amnesiac Driftwood_ is added to the mantra. Upgrading an already upgraded Mantra further will add onto the previous upgrades.
 
 Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
+
+  
+Keep in Mind not all mantra modifiers are obvious and may \*not\* work correctly even if A Mantra is compatible. (1: Revenge needing Drift/Rush Shards to reach further instead of Lens.) (2: Shadow Gun Not doing anything different after adding Blast Spark.)
 
 ## Mantra Modifiers
 
@@ -247,7 +250,10 @@ _"You feel dizzy when you hold it."_
 
  | Mirage Stone | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
 
-Possible sanity recover if you hit the attack.
+Possible sanity recover if you hit the attack.(?)
+
+  
+Tested with multiple Mantras, Either the sanity recover is very slightly or does something else.
 
  |
 | 
@@ -271,7 +277,7 @@ also looks identical to falseflame.
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
 -   This modifier is compatible with the _spark Swap_ Mantra, but has no effect.
--   This modifier is compatible with Strong Leap Strength mantra (please add the effect here).
+-   This modifier is compatible with Strong Leap Strength mantra (please add the effect here). <--(Appears to jump slightly more in the direction of an ally.)
 
 #### Round Spark
 

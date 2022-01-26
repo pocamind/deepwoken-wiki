@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 15559
+revid: 15630
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -136,6 +136,9 @@ These talents are found in the _Aeromancy_ category.
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | Drifting Winds | Enemies hit by your wind mantra are winded, having their attack speed lowered for a short duration. | +2 Passive Agility  
 +5 Elemental Intensity |
+| File:Galebreathe Talent Placeholder.png | Aerogliding | When falling from a high place, hold spacebar to generate wind currents until you hit the floor | +2 Passive Agility  
++5 Elemental Intensity  
++2 Health |
 
 **Cloudwalker:**
 

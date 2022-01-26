@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 14156
+revid: 15618
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -39,7 +39,7 @@ Template:Creature Infobox V3 A Giant Spider, presumably female, that lurks in Wi
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
 -   Try to deal only two attacks and always be ready for the bite.
 -   You can identify combos by their slower charging and faster swiping.
--   It is confirmed by Agamatsu that this creature also spawns in the depths, in a very specific location.
+-   It is confirmed by Agamatsu that this creature also spawns in the depths, in a very specific location (This specific location is near one of the columned teleporters or the spawns. Next to this spawn there is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door that you need to break and beyond that is the Widow) More info in comments.
 -   You can cheese the Widow by going atop a ledge in the cave, this will cause her not to damage you and your m1s will connect.
 -   The Widows poison goes through armor.
 -   Can easily be run past/cheesed(?) as she is not the brightest when it comes to getting stuck between 2 rock pillars in her own home

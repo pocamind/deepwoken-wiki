@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 15566
+revid: 15658
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -39,8 +39,9 @@ Enforcer's Axe
 ### Rewards
 
 -   **Mob Drops:** The Enforcer can drop any mob drop, like modifiers.
--   **Enforcers Axe:** One of the strongest heavy weapons in the game, the one The Enforcer uses itself.
+-   **(RARE) Enforcers Axe:** One of the strongest heavy weapons in the game, the one The Enforcer uses itself.
 -   **Your Life:** You don't die.
+-   **Heart Attack:** Due to all the adrenaline surging through your body you die of a heart attack irl immediately after. (only happens if ur bad doe)
 
 ## **Battle**
 
@@ -73,3 +74,4 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally), or use consumables.
 -   When doing an emote (such as Pride), the Enforcer cannot pull you.
 -   The axe has a hurtbox for some unknown reason, allowing for easy hits by outranging the enforcer during it's whirlwind.
+-   The Enforcer has one of the most player-like movesets of all monsters in-game.

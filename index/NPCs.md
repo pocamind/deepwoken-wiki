@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 15587
+revid: 15638
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -32,7 +32,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 ### **The Authority**
 
 -   Affiliations - Unknown
--   Locations - Fort Merit, ???
+-   Locations - Fort Merit, Central Luminant,
 -   Hostile against - Monsters, Bandits, The Legion, Etris, Players (Negative Reputation)
 -   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, Adretians
 -   Equipment - Swords, Spears, Greataxes, Flamecharm Spells, Frostdraw Spells

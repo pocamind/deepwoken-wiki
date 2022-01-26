@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 15571
+revid: 15642
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -55,7 +55,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Fortitude Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
--   Can be unbounded by talking to Brutus in Fort Merit (Must have 75 fortitude or else you won't gain nothing). You won't gain a talent card but you still unbounded it.
+-   Can be unbounded by talking to Brutus in Fort Merit (Must have 75 fortitude or else you won't gain nothing). You gain the talent card "Fortitude Unbounded". Gives 9 Health and 10 ether.
 
 ### Agility
 

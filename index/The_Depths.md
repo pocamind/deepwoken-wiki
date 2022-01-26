@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 15591
+revid: 15654
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -19,7 +19,7 @@ _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dott
 
 ## Layers of the Depths
 
-After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down.
+After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. This could also be a reference to the anime "Made in Abyss" in which there are many layers in a pit that goes deep into the earth with increasing dangers as one delves down.
 
 (Need more info)
 
@@ -58,7 +58,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | Trial Power | Possible Enemies |
 | --- | --- |
 | 1-8 | N/A - You escape without fighting a monster |
-| 9-18 | Two Swordsmen |
+| 9-18 | Two Swordsmen (Chance for one) |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
 | 50+ | [Enforcer](Enforcer.md) |
