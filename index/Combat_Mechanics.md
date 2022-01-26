@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 15091
+revid: 15691
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -84,7 +84,7 @@ If every bar reaches zero, the player will start to quickly lose health.
   <td>A visual representation of how much Blood that is currently in the player's body. Blood is vital for survival, being attacked or taking damage in some form will cause the player to lose Blood. Upon reaching zero Blood, some things happen.
   <ol>
     <li>The player will always be combat tagged.</li>
-    <li>The player will lose ~10% HP per 0.15 seconds.</li>
+    <li><s>The player will lose ~10% HP per 0.15 seconds.</s> it actually wont that's just what happens when you run out of food and water</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
   </ol></td>
   <td><figure><figcaption></figcaption></figure></td>
@@ -96,7 +96,7 @@ If every bar reaches zero, the player will start to quickly lose health.
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you will lose blood and health. Lose 50% of bar upon vomitting.</td>
+  <td>Essentially your hunger bar, if it reaches zero you will lose blood and your max health will be reduced. Lose 50% of bar upon vomitting.</td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

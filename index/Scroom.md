@@ -1,6 +1,6 @@
 ---
 title: Scroom
-revid: 15649
+revid: 15664
 source: https://deepwoken.fandom.com/wiki/Scroom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Candidates for deletion]
@@ -10,4 +10,4 @@ notices:
 
 # Scroom
 
-
+This race is fake, stop spreading false info you idiots.

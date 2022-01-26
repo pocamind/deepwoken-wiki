@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 15630
+revid: 15665
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -102,9 +102,9 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
  |
 |  | Astral Wind  
-(★★★) | A rapid delivery of consecutive attacks. | Several fast slashes that form a star.
+(★★★) | A rapid delivery of consecutive attacks. | Several fast, wind-enchanced slashes that form a star and release winds in all directions in front.
 
--   User is invincibile during casting.
+-   The user is invincibile during casting.
 -   Deals _possibly moderate-heavy_ damage.
 
  |

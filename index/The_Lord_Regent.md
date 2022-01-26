@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 13916
+revid: 15705
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,6 +21,7 @@ He does not leave his throne under any circumstances. It is unclear whether this
 
 -   **Thousand Threads:** The Lord Regent suspends his target in the air using strings made of [Shadowcast](Shadowcast.md) magic before instantly executing them.
     -   This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape.
+        -   The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is reenabled when the player complete the quest by killing The Duke and returning to the Lord Regent to report.
 
 ## Notes/Trivia
 

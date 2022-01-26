@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 10525
+revid: 15669
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,3 +19,4 @@ Upper Erisia is the second part of Erisia's territory. It is a very unique area 
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
 -   The Garden Reservoir
+-   [The Birdcage](https://deepwoken.fandom.com/wiki/The_Birdcage)

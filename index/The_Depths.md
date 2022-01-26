@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 15654
+revid: 15693
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -47,6 +47,22 @@ Alternatively, you can attempt to climb one of the inner walls by jumping up fro
 
 This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you.
 
+### _Hands down the easiest method_
+
+Change if you dont agree\*\* **100% guaranteed escape in like 3 minutes (trial isn't counted)**
+
+This [video](https://www.youtube.com/watch?v=6VHvuVaj9eU) also explains the method below extremely well, follow it
+
+If you cannot find a barrel, there is a lower area leading to that part to the left when the person climbs the barrel. The goal is to get on that gate which leads to the building with the elevator.
+
+If the entrance you're going through does not resemble the one like in the video, _you are going the wrong way_. Circle the outside walls until you hit another entrance which should be the right one. Then follow the video again.
+
+If the gate is closed, relog. It barely takes any effort to find a server with the gate open
+
+The method **requires no encounters with watchers and squibbo**
+
+**But I cannot guarantee you escaping with someone or something gripping you along the way**
+
 ## The Trial
 
 The [Voices of the Depths](Voices_of_the_Depths.md) sentence you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some pals along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them.
@@ -58,7 +74,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | Trial Power | Possible Enemies |
 | --- | --- |
 | 1-8 | N/A - You escape without fighting a monster |
-| 9-18 | Two Swordsmen (Chance for one) |
+| 9-18 | One or two Swordsmen [Mudskippers](Mudskipper.md) |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
 | 50+ | [Enforcer](Enforcer.md) |
@@ -128,6 +144,7 @@ Just a bag of information to keep in mind and remember
 -   [The Enforcer](Enforcer.md)
 -   The City Guards
 -   [Deep Widow](Deep_Widow.md) (Confirmed by Agamatsu)
+-   [Threshers/King Threshers](Thresher.md)
 
 ## Loot Table
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15652
+revid: 15694
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -195,6 +195,10 @@ Frost Grab (Ice Trail)
 
 Ice Forge (Adds More Shurikens to the Attack)
 
+Lightning Stream
+
+Fire Eruption
+
  | Applies "Explosion" to compatible Mantra. |
 | 
 
@@ -289,6 +293,7 @@ also looks identical to falseflame.
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 -   This modifier causes a trail of Ice to appear over the distance you dashed with the _Frost Grab_ Mantra
+-   This modifier changes _Lightning Stream_'s behavior, attaching to the target and shocking them instead of pulling them in.
 
 #### Reversal Spark
 

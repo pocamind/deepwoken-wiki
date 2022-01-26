@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 15292
+revid: 15673
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -12,6 +12,12 @@ categories: [Resonance]
 |---|---|
 | effect | Teleports the player into another realm which scales with the map |
 | appearance | Realm of dark matter and fog |
+
+“ It's Over. ”
+
+― The Noble Etrean
+
+  
 
 ## Description
 

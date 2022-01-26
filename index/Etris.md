@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 15216
+revid: 15708
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -152,11 +152,14 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
--   Kennith's corpse accompanied by a King's Guard
-    
-    After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
-    -   Make sure you talk to the Royal Guards that the Lord Regent is expecting you, making them docile unless provoked.
--   Heading upstairs, the Lord Regent hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+
+Kennith's corpse accompanied by a King's Guard
+
+-   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
+
+-   Make sure you talk to the Royal Guards that the Lord Regent is expecting you, making them docile unless provoked.
+
+-   Heading upstairs, talk to the Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
 -   To use the Key to unlock the black iron gate, the Key must be glowing White this only happens at night.
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.

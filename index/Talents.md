@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15644
+revid: 15671
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -423,6 +423,11 @@ Hand of Mantra Cards
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
+
+Ministry Operative
+
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)
+-   Note: this is the only talent in the tree if u want proof if u think I'm trolling about it's existence dm me at chancito#8607
 
 ### [Murmur](Murmur.md)
 

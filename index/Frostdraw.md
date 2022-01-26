@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 15550
+revid: 15699
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -239,7 +239,8 @@ These talents can be found in the _Cryomancer_ category.
 +2 Health |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Chilling Flourish | When flourishing an enemy, send them off with a trail of ice. | +4 Elemental Intensity  
 +2 Health |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cool Head | (you cannot be put on fire while on ice. I think flamecharmer spells were lessened or something aswell) | (placeholder) |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cool Head | If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. | +2 Elemental Intensity  
++2 Health |
 | File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. | +4 Ether  
 +2 Elemental Intensity  
 +1 Health |

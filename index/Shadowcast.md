@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 15546
+revid: 15666
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -295,5 +295,3 @@ File:Blackhole.png
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
 -   Shadowcast is the first and the only element that player has to train for it and it is also the first and the only element that player can't choose it from the attunement menu in the character customization page.
 -   Shadowcast currently has no 3-stars move same as Flamecharm.
-
-|}

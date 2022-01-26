@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 15653
+revid: 15677
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -27,7 +27,7 @@ For information of Monsters, go [here](Monsters.md).
 ### Bandits
 
 -   [Bandit](https://deepwoken.fandom.com/wiki/Bandit#Tips)
--   [Bandit Leader](https://deepwoken.fandom.com/wiki/Bandit_Captain)
+-   [Bandit Captain](https://deepwoken.fandom.com/wiki/Bandit_Captain)
 -   [Bandit Assassin](https://deepwoken.fandom.com/wiki/Bandit_Assassin)
 
 ### Songseeker Cultists
@@ -57,6 +57,7 @@ For information of Monsters, go [here](Monsters.md).
 ### Kingdom of Etrea
 
 -   Etrean Guard
+-   King Of Etrea
 
 ### The Central Authority
 
@@ -66,20 +67,22 @@ For information of Monsters, go [here](Monsters.md).
 
 ### The Hive
 
-(Placeholder)
+-   Hive Footsoldier
 
 ### The Legion
 
 -   Legion Captain
+-   Legion Footsoldier
 
 ### Navaen Nomads
 
 -   Nomad Tribesman
 -   Nomad Leader
 
-### Golden Warriors
+### Golden Rats
 
--   Golden Warrior
+-   Golden Rat
+-   Golden Rat Bouncer
 
 ### Miscellaneous
 
