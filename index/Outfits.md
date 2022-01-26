@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 15489
+revid: 15717
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Armors]
@@ -239,6 +239,11 @@ Depths chests
 |  | Royal Pathfinder | 2-4 moderate-high tier buffs | [Starswept Valley](The_Starswept_Valley.md)
 
 Duke chests
+
+ |
+| File:Pale Assassins Cloak.png | Pale Assassins Cloak | 2-4 Stats | [The Depths](The_Depths.md)
+
+Depths chests
 
  |
 

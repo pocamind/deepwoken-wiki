@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 15510
+revid: 15718
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,7 +24,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
     -   **Enchanted armors do not get soulbounded however.**
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 
--   Entchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
+-   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
 
 There are two variants that enchantments come in:
 
@@ -59,7 +59,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every hit on you has a 5% chance of insta-gripping you and every hit on the other player has a 10% chance to instakill them.</p></div></td>
+  <td><div><p>Every hit has a chance to deal 3x damage, or deal small damage to yourself.</p></div></td>
 </tr>
 </tbody>
 </table>

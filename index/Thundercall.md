@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 15557
+revid: 15724
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -136,8 +136,6 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 You do NOT need luck for this card, to obtain this mantra you have to have thundercall mastery and must be able to obtain 3 star mantras - after which, every whisper from the deep will have a chance to include ‘Lightning Cloak’, it being a 3-star mantra does NOT mean that you need luck for it, and only signifies that you need at least 50 thundercall, that being the sole requirement.
 
 If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during whispers from the deep card selections - as a level 60 you gain 12 total whispers from the deep, thundercall has 15 mantras, which means that should you pick every single mantra, you’d be left at a 1/5 chance of NOT receiving the mantra.
-
-Stop fucking misleading people regarding this mantra, I lose a bit of my sanity every time I see some retarded youtuber clickbait lightning cloak for views, don’t edit this move without my permission. - voidless#0042
 
  |
 
@@ -369,7 +367,7 @@ Stop fucking misleading people regarding this mantra, I lose a bit of my sanity 
 -   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invingorating Salves with 3x gobletto and 1x wheat that make your ether regen skyrocket.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissapating after being hit by friend, foe and self.
--   The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.
+-   ~The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.~ It does not, at all. The only similar thing about it is the shared sound effect and casting animation. The actual function is completely different then any of the Lightning Miracles from the Dark Souls series.
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
         
         Virudhaka's Sword

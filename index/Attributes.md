@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 15702
+revid: 15710
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -91,7 +91,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 “ Grant us eyes, **GRANT US EYES!** Grant us eyes on the inside! ”
 
-― 'Enlightened' Etrean
+― 'Enlightened' Celtor
 
   
 
@@ -123,7 +123,7 @@ These attributes can be improved up to 75, but completion of the A Lost Sibling 
 
 “ It was too big to be called a sword. Massive, heavy, and far too rough. Indeed, it was a heap of raw iron. ”
 
-― A canorian with his Blacksteel Greatsword
+― A canorian with his Crypt Blade
 
   
 
@@ -196,7 +196,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Strike me down Yun'shul, YOU DON'T HAVE THE BA- ”
 
-― Unlucky celtor
+― Ballsy Celtor
 
   
 
@@ -209,7 +209,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Fighting Technique: Divine Sandstorm! ”
 
-― Wammu, The pillar men
+― Column Fellow Whammu
 
   
 
@@ -221,7 +221,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Hoo boy, sure do feel like gripping freshspawns! ”
 
-― A random Shadowcaster(Uber Oni)
+― 'Uber' Shadowcaster
 
   
 

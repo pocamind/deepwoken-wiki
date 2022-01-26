@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 15693
+revid: 15722
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -16,6 +16,18 @@ categories: [Pages with broken file links, Death, Mantras, Locations]
 ― In-combat flavour text.
 
 _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will wipe your character and force you to start the game from Power 1 again._
+
+## Landmarks
+
+File:Depth Marauder Base.png
+
+_Depth Marauder Base? (Need clarification of what it is._
+
+**Depth Marauder Base**
+
+Near the Coral Forest, at the end of some pillars that jut out from the murky blackness below. There's a Resonance door at the end of the entrance hallway.
+
+(I need some help finding out what this place is because I'm too much of a weakling to get progression for a resonance, if someone can get behind the Yun'shul door and figure out whats behind it, it would be appreciated.)  
 
 ## Layers of the Depths
 
@@ -77,7 +89,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 9-18 | One or two Swordsmen [Mudskippers](Mudskipper.md) |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
-| 50+ | [Enforcer](Enforcer.md) |
+| 44+ | [Enforcer](Enforcer.md) |
 | ??? | ??? |
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
@@ -87,9 +99,9 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 
 ## Farming in The Depths
 
-**Talents**
+The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down to The Depths that will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
-The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters, to the nutrition drain, and the slow, ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are Talents you may want to consider acquiring before heading down to The Depths that will aid in your sustained survival in one of the most trecharous areas in Deepwoken:
+**Talents & Equipment**
 
 -   _**Carnivore**_, the Talent apart of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up is **Strength.**
 

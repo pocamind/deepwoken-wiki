@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 15096
+revid: 15723
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,11 @@ The player must respond with "yes." after responding yes, you will have a menu a
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
-| Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full. |
+| Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
+
+_Can only be used when your close to the subject you want to sacrifice._
+
+ |
 | Return | Yes, 60
 
 Charisma, Rare

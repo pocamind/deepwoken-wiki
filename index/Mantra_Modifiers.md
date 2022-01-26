@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15694
+revid: 15725
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -232,11 +232,7 @@ File:Image 2021-12-31 211633.png
 
 Spring Spark
 
- | Spring Spark | Strong Leap
-
-Crystal Impale
-
- | Applies "Fire Trap" to compatible Mantra. |
+ | Spring Spark | Crystal Impale | Applies "Fire Trap" to compatible Mantra. |
 | 
 
 Tornado spark

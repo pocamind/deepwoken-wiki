@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 15706
+revid: 15709
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,7 +35,7 @@ Template:Creature Infobox V3 A Giant Spider, presumably female, that lurks in Wi
 ## **Notes/Tips**
 
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides; as failure to avoid her attack will lead to peril.
--   Despite looking intimidating, it is a lot weaker than it looks.
+-   Despite looking intimidating, it is a lot weaker than it looks.(Easily cheesable, has low health, however do not underestimate it, it is still stronger than a croco)
 -   It's loot is not very good, you'd be better off fighting normal hive monsters. It does give good xp, though.
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
 -   Try to deal only two attacks and always be ready for the bite.
