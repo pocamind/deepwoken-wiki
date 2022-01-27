@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15954
+revid: 16050
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -102,7 +102,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
  | 
 
--   Compatible with Glacial Arc for a unique effect.
+-   Compatible with Glacial Arc for a unique effect. Effect: Makes the impact of Glacial Arc summon ice spikes around it the way a round spark modified Ice Eruption does, only smaller.
 
  |
 |  | Magnifying Stone | Likely same as Glass Stone, just better

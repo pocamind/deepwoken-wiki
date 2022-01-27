@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16010
+revid: 16039
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -109,10 +109,30 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
 -   Requirement: 8 Medium Wep., _Medium Weapons Combat Mantra_
 
-### _**Heavy Weapon Mantras**_
+-   _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
 -   Requirement: 10 Heavy Wep., _Heavy_ _Weapons Combat Mantra_
+
+## Upgrading Mantras
+
+The Attunement-less mantra trainer can be found at Greathive Aratel in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
+
+1.  The user must have a good reputation with Hive.
+2.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms.
+
+-   All of the Soulblooms can be found at the top of the tree.
+-   2 of them are located in the blacksmith's area.
+-   1 is located outside of the observatory.
+
+Once completed, the user can upgrade their attunement-less mantras. NOTE:
+
+-   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the amount of points** you have in the **respective attribute!**
+-   For example :
+
+1.  60+ points in Strength => Level 4.
+2.  20+ points in Agility => Level 2.
+3.  80+ points in Willpower=> Level 5.
 
 ## Tips/Trivia
 

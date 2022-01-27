@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 15968
+revid: 16047
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -87,12 +87,12 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
 </tr>
 <tr>
   <td>File:Screenshot 2021-12-24 222420.jpg</td>
-  <td>Etris</td>
+  <td>File:EtreaSymbol.png<p>Etris</p></td>
   <td><b>Nerin</b>: Removes hostilities with Etrean and Vigil guards</td>
 </tr>
 <tr>
   <td>File:Screenshot 2021-12-24 221619.jpg</td>
-  <td><a href="Summer_Isle.md">Summer Isle</a></td>
+  <td>File:SummerCompanySymbol.png<p><a href="Summer_Isle.md">Summer Isle</a></p></td>
   <td><b>Nepo</b>: Removes hostilities with the Summer Company.</td>
 </tr>
 <tr>
@@ -126,6 +126,7 @@ For example, in Erisia Island players may find Etrean Guards fighting off a grou
 -   The 11th Legion/The Empire
 -   Greathive Aratel
 -   Knives of Eylis
+-   Ignition Union
 
 ### Non-Reputable Factions
 
@@ -133,7 +134,6 @@ For example, in Erisia Island players may find Etrean Guards fighting off a grou
 -   The Ministry
 -   The Contractors
 -   Songseeker Tribesmen
--   Ignition Union
 
   
 **Notes**

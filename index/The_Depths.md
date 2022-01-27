@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 16012
+revid: 16034
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -29,38 +29,15 @@ Near the Coral Forest, at the end of some pillars that jut out from the murky bl
 
 **(We need some help finding out what this place is because we're too weak to get progression for a resonance, if someone can get behind the Yun'shul door and figure out what's behind it, it would be appreciated.)**
 
-here's where it is on a map
-
-(be careful as the parkour is easy but the void is 2 inches from where you land so be careful)
+here's where it is on a map (be careful as the parkour is easy but the void is 2 inches from where you land so be careful). There are ways on entering Resonance doors without using a resonance such as using mantras that destroy the environment like Lightning Beam and your weapon imbued with Stormcall Slash (not the arcs).
 
 File:800 cb=20220113102951(1).png
 
-  
-  
-
 ## Layers of the Depths
 
-After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. This could also be a reference to the anime "Made in Abyss" in which there are many layers in a pit that goes deep into the earth with increasing dangers as one delves down.
+After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. This could also be a reference to the anime "Made in Abyss" in which there are many layers in a pit that goes deep into the earth with increasing dangers as one delves down. Though as of now, we don't have any layers until a future update about them is released.
 
-[Layer 2](Second_Layer.md) Leak
-
-May you explain why in the hell pieces of the hive are inside of the depths layer 2 then?
-
-^ I explored this place a bit and found
-
-Corvis manor, and "The Crow's Laboratory" Area is named itself like this.
-
-Some cloning machine inside the laboratory, guarded by adretian authority. (Are adrets cloned? Thats why we dont know where they came from)
-
-Ignition Union base
-
-Alpha Megalodaunt and Primadon spawns.
-
-A NPC that is the brother from the etris guy's quests.
-
-File:Layer2.png
-
-[https://www.roblox.com/games/6903873994/Place](https://www.roblox.com/games/6903873994/Place)
+Further information on the Layers of the Depths is that Pleetsky, renowned Flamecharmer and Depth Diver was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace from the face of the planet, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
 ## Escaping The Depths
 
@@ -124,7 +101,7 @@ with drowned
 
 stat)
 
- | [Squid-Hoss](Nautilodaunt.md) |
+ | Enforcer (As of now) |
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.

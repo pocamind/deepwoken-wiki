@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 16007
+revid: 16035
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -58,3 +58,4 @@ There is no any information further than this
 -   The 2nd and 3rd variations can be either parried, blocked or dodged while the 1st one can not.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Credit to N1R#3083 for helping me research corrupted part
+-   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime 'Seven Deadly Sins'

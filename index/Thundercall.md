@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 15724
+revid: 16061
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -68,7 +68,8 @@ Strike (★)
 
 -   Lightning strikes where the user's cursor is pointing.
 -   Deals _possibly light_ damage.
--   Strikes a total of 7 times, but can be cancelled by cursor movement or user damage.
+-   Can strike a total of 1-7 times, but can be cancelled by user damage.
+-   Spell can hit you, causing the spell to cancel itself midway.
 
  |
 |  | Lightning Kick (★) | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
@@ -87,7 +88,11 @@ Strike (★)
 -   Shocks opponents inside of it while dealing damage.
 
  |
-|  | Bolt Piercer (★★) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing bolts of thunder to rain at the location of the user's cursor. |
+|  | Bolt Piercer (★★) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
+
+-   **HEAVY DAMAGE**. At Level 1, it can depletemore than half a healthbar.
+
+ |
 
 _It is currently unknown if there are any 3-star combat Mantras for Thundercall._
 
@@ -114,8 +119,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
  |
 
-###   
-**Mobility Mantras**
+### **Mobility Mantras**
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -143,7 +147,7 @@ If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during 
 
   
 
-<table><caption><big><b><u>Thundercall</u> <u>Talents</u></b></big></caption>
+<table><caption><big><b><u>Thundercall Talents</u></b></big></caption>
 <tbody>
 <tr>
   <th>Image</th>
@@ -155,8 +159,7 @@ If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Stormcaller Slash</td>
-  <td>Call forth the fury of the storms<p>by pressing F at the end of</p>
-  <p>mantra Lightning Blade.</p></td>
+  <td>Call forth the fury of the storms<p>by pressing F at the end of the mantra Lightning Blade.</p></td>
   <td>???</td>
   <td>Stormblade</td>
 </tr>
@@ -171,166 +174,132 @@ If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during 
   <td></td>
   <td>Stratoshock</td>
   <td>You lightning does more damage<p>in the rain.</p></td>
-  <td>+4 Elemental Intensity<p>+3 Health</p></td>
+  <td>+4 Elemental Intensity<br>
+  +3 Health</td>
   <td>Thundercaller</td>
 </tr>
 <tr>
   <td></td>
   <td>Shocking Finish</td>
-  <td>Following a flourish up with a<p>lightning beam causes it to</p>
-  <p>be casted instantly.</p></td>
-  <td>+3 Elemental Intensity<p>+2 Health</p></td>
+  <td>Following a flourish up with a<p>lightning beam causes it to be casted instantly.</p></td>
+  <td>+3 Elemental Intensity<br>
+  +2 Health</td>
   <td>Thundercaller</td>
 </tr>
 <tr>
   <td></td>
   <td>Static Flash Clone</td>
-  <td>When using lightning clones<p>you disappear leaving behind</p>
-  <p>a static clone for a short</p>
-  <p>duration</p></td>
-  <td>+3 Elemental Intensity<p>+1 Health</p></td>
+  <td>When using lightning clones<p>you disappear leaving behind a static clone for a short duration</p></td>
+  <td>+3 Elemental Intensity<br>
+  +1 Health</td>
   <td>Thundercaller</td>
 </tr>
 <tr>
   <td></td>
   <td>Jolt Cast</td>
-  <td>Every 3 perfectly casted thunder<p>mantras builds a stack. At 3 stacks</p>
-  <p>your next thunder mantra is an</p>
-  <p>instant cast.</p></td>
-  <td>+7 Carry Load<p>+2 Elemental Intensity</p></td>
+  <td>Every 3 perfectly casted thunder<p>mantras builds a stack. At 3 stacks your next thunder mantra is an instant cast.</p></td>
+  <td>+7 Carry Load<br>
+  +2 Elemental Intensity</td>
   <td>???</td>
 </tr>
 <tr>
   <td></td>
   <td>Volt Kick</td>
-  <td>After landing a lightning kick<p>press F to followup with a less</p>
-  <p>potent kick.</p>
-  <p><br>
-  (MANTRA UPGRADE)</p></td>
+  <td>After landing a lightning kick<p>press F to followup with a less potent kick. (MANTRA UPGRADE)</p></td>
   <td>???</td>
   <td>???</td>
 </tr>
 <tr>
   <td></td>
   <td>Static Blade</td>
-  <td>[Medium Weapons]<p>Hitting blocks or</p>
-  <p>blocking/parrying hits will now</p>
-  <p>generate an electric charge</p>
-  <p>in your blade, granting a small</p>
-  <p>speed buff. can stack up to</p>
-  <p>10 times.</p></td>
+  <td>[Medium Weapons] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times.</td>
   <td>???</td>
   <td>Thunderblade</td>
 </tr>
 <tr>
   <td></td>
   <td>Gathering Electricity</td>
-  <td>[Medium Weapons]<p>Reaching 10 Static Blade</p>
-  <p>charges will now consume the</p>
-  <p>stacks and apply a lightning buff</p>
-  <p>to your blade. This effect has a 60</p>
-  <p>second cooldown.</p>
-  <p>(STATIC BLADE UPGRADE)</p></td>
-  <td>+10 Carry Load<p>+1 Passive Agility</p>
-  <p>+2 Health</p></td>
+  <td>[Medium Weapons] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE)</td>
+  <td>+10 Carry Load<br>
+  +1 Passive Agility<br>
+  +2 Health</td>
   <td>???</td>
 </tr>
 <tr>
   <td></td>
   <td>Grand Skewer</td>
-  <td>Grand Javelin now carries<p>opponents with it through the</p>
-  <p>skies.</p>
-  <p><br>
-  (MANTRA UPGRADE)</p></td>
-  <td>+3 Elemental Intensity<p>+1 Health</p></td>
-  <td>Javelin<p>Lord</p></td>
+  <td>Grand Javelin now carries opponents with it through the skies.<br>
+  (MANTRA UPGRADE)</td>
+  <td>+3 Elemental Intensity<br>
+  +1 Health</td>
+  <td>Javelin Lord</td>
 </tr>
 <tr>
   <td></td>
   <td>Static Withdraw</td>
-  <td>When knocked, if someone tries<p>to carry you for the first time</p>
-  <p>after being knocked you may</p>
-  <p>release a static charge to stun</p>
-  <p>them.</p></td>
+  <td>When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them.</td>
   <td>???</td>
   <td>Self-Shocker</td>
 </tr>
 <tr>
   <td></td>
   <td>Jumpstart</td>
-  <td>when not being carried<p>Static Withdraw now increases</p>
-  <p>movement speed, and wall</p>
-  <p>scaling speed, you also now</p>
-  <p>apply shock to everything you</p>
-  <p>hit.</p></td>
+  <td>when not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit.</td>
   <td>???</td>
   <td>Self-Shocker</td>
 </tr>
 <tr>
   <td></td>
   <td>Raging Static</td>
-  <td>Static Withdraw no longer gives<p>the movement buff from</p>
-  <p>Jumpstart, your physical</p>
-  <p>damage is increased and the</p>
-  <p>Static Withdraw damage is</p>
-  <p>decreased.</p>
-  <p>(STATIC WITHDRAW UPGRADE)</p>
-  <p>(JUMPSTART UPGRADE)</p></td>
+  <td>Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.<br>
+  (STATIC WITHDRAW UPGRADE)<br>
+  (JUMPSTART UPGRADE)</td>
   <td>???</td>
   <td>Self-Shocker</td>
 </tr>
 <tr>
   <td></td>
   <td>Static Link</td>
-  <td>Flourishing and enemy crates a<p>Static Link between you and</p>
-  <p>your enemy, you lightning</p>
-  <p>stuns for 1.5x as long.</p></td>
-  <td>+8 Reservoir<p>+4 Elemental Intensity</p>
-  <p>+1 Health</p></td>
-  <td>Static<p>Weaver</p></td>
+  <td>Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long.</td>
+  <td>+8 Reservoir<br>
+  +4 Elemental Intensity<br>
+  +1 Health</td>
+  <td>Static Weaver</td>
 </tr>
 <tr>
   <td></td>
   <td>Jumper Cables</td>
-  <td>Getting knocked with an active<p>Static Link allows you to steal</p>
-  <p>health from the linked target</p>
-  <p>and avoid death.</p>
-  <p><br>
-  (STATIC LINK UPGRADE)</p></td>
-  <td>+1 Ether<p>+5 Reservoir</p>
-  <p>+2 Health</p></td>
-  <td>Static<p>Weaver</p></td>
+  <td>Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.<br>
+  (STATIC LINK UPGRADE)</td>
+  <td>+1 Ether<br>
+  +5 Reservoir<br>
+  +2 Health</td>
+  <td>Static Weaver</td>
 </tr>
 <tr>
   <td>File:Static Allure.png</td>
   <td>Static Allure</td>
-  <td>Having two active Static Link's<p>will cause the previous linked</p>
-  <p>enemy to be pulled towards</p>
-  <p>your newest linked enemy.</p>
-  <p><br>
-  (STATIC LINK UPGRADE)</p></td>
-  <td>15 second Static Link<p>Duration.</p>
-  <p><br>
-  +1 Ether</p>
-  <p>+5 Resrvoir</p>
-  <p>+2 Health</p></td>
-  <td>Static<p>Weaver</p></td>
+  <td>Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.<br>
+  (STATIC LINK UPGRADE)</td>
+  <td>15 second Static Link Duration.<br>
+  +1 Ether<br>
+  +5 Resrvoir<br>
+  +2 Health</td>
+  <td>Static Weaver</td>
 </tr>
 <tr>
   <td>File:Static Ace.png</td>
   <td>Static Ace</td>
-  <td>Using stream core with<p>an active Static Link targets</p>
-  <p>your closest active link.</p>
-  <p><br>
-  (STATIC LINK UPGRADE)</p></td>
-  <td>+4 Ether<p>+7 Reservoir</p></td>
-  <td>Static<p>Weaver</p></td>
+  <td>Using stream core with an active Static Link targets your closest active link.<br>
+  (STATIC LINK UPGRADE)</td>
+  <td>+4 Ether<br>
+  +7 Reservoir</td>
+  <td>Static Weaver</td>
 </tr>
 <tr>
   <td></td>
   <td>Kickstart</td>
-  <td>Use your lightning to resurrect<p>a knocked player, they wake</p>
-  <p>up with about 15% hp.</p></td>
+  <td>Use your lightning to resurrect a knocked player, they wake up with about 15% hp.</td>
   <td>???</td>
   <td>???</td>
 </tr>
@@ -344,23 +313,129 @@ If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during 
 <tr>
   <td>File:Static-assets-upload2268134233810269473.png</td>
   <td>Rain of Static</td>
-  <td>After successfully casting<p>lightning impact, strike down</p>
-  <p>countless thunder at those</p>
-  <p>below. In return your lightning</p>
-  <p>impact will require more time</p>
-  <p>to cast.</p></td>
-  <td>+7 Carry Load<p>+2 Elemental Intensity</p></td>
-  <td>Thunder<p>Caster</p></td>
+  <td>After successfully casting lightning impact, strike down countless thunder at those below. In return your lightning impact will require more time to cast.</td>
+  <td>+7 Carry Load<br>
+  +2 Elemental Intensity</td>
+  <td>Thunder Caster</td>
 </tr>
 <tr>
   <td>File:Resolve crusher.png</td>
   <td>Resolve Crusher</td>
-  <td>Lightning moves now have a<p>chance to apply "Electrify".</p></td>
+  <td>Lightning moves now have a chance to apply "Electrify".</td>
   <td>???</td>
-  <td>Authority<p>Interrogator</p></td>
+  <td>Authority Interrogator</td>
 </tr>
 </tbody>
 </table>
+
+**Uncategorised:**
+
+These are talents that we could not place a category. If you do know the category of the following Talents, please help this page by adding the category so that source editors can later, put a category to it.
+
+| Image | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | Volt Kick | After landing a lightning kick press F to followup with a less potent kick. (MANTRA UPGRADE) | ??? |
+|  | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE) | +10 Carry Load  
++1 Passive Agility  
++2 Health |
+|  | Kickstart | Use your lightning to resurrect a knocked player, they wake up with about 15% hp. | ??? |
+
+**Thundercaller:**
+
+These talents are found in the _Thundercaller_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Discovery of Fire | Light all campfires in a large radius for a little ether. | ??? |
+|  | Stratoshock | You lightning does more damage in the rain. | +4 Elemental Intensity  
++3 Health |
+|  | Shocking Finish | Following a flourish up with a lightning beam causes it to be casted instantly. | +3 Elemental Intensity  
++2 Health |
+|  | Static Flash Clone | When using lightning clones you disappear leaving behind a static clone for a short duration | +3 Elemental Intensity  
++1 Health |
+
+**Thunderblade:**
+
+These talents are found in the _Thunderblade_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times. | ??? |
+
+**Self-Shocker:**
+
+These talents are found in the _Selfshocker_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Static Withdraw | When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them. | ??? |
+|  | Jumpstart | when not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit. | ??? |
+|  | Raging Static | Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.  
+(STATIC WITHDRAW UPGRADE)  
+(JUMPSTART UPGRADE) | ??? |
+
+**Static Weaver:**
+
+These talents are found in the _Static Weaver_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Static Link | Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long. | +8 Reservoir  
++4 Elemental Intensity  
++1 Health |
+|  | Jumper Cables | Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.  
+(STATIC LINK UPGRADE) | +1 Ether  
++5 Reservoir  
++2 Health |
+| File:Static Allure.png | Static Allure | Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.  
+(STATIC LINK UPGRADE) | 15 second Static Link Duration.  
++1 Ether  
++5 Resrvoir  
++2 Health |
+| File:Static Ace.png | Static Ace | Using stream core with an active Static Link targets your closest active link.  
+(STATIC LINK UPGRADE) | +4 Ether  
++7 Reservoir |
+
+**Thunder Caster:**
+
+These talents are found in the _Thunder Caster_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:Static-assets-upload2268134233810269473.png | Rain of Static | After successfully casting lightning impact, strike down countless thunder at those below. In return your lightning impact will require more time to cast. | +7 Carry Load  
++2 Elemental Intensity | Thunder Caster |
+
+**Authority Interrogator:**
+
+These talents are found in the _Authority Interrogator_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Authority Intimidation | All moves that apply electricity slow the opponent more. | ??? |
+| File:Resolve crusher.png | Resolve Crusher | Lightning moves now have a chance to apply "Electrify". | ??? |
+
+**Javelin Lord:**
+
+These talents are found in the _Javelin Lord_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Grand Skewer | Grand Javelin now carries opponents with it through the skies.  
+(MANTRA UPGRADE) | +3 Elemental Intensity  
++1 Health | Javelin Lord |
+
+**Stormblade:**
+
+These talents are found in the _Stormblade_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Stormcaller Slash | Call forth the fury of the storms
+
+by pressing F at the end of the mantra Lightning Blade.
+
+ | ??? | Stormblade |
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 15935
+revid: 16036
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -146,7 +146,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>All attacks with that weapon do 2x damage, BUT the attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).</p>
+  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). No damage buff given (Tested)</p>
   <p><br>
   </p></div></td>
 </tr>

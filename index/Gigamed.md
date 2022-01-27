@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 15270
+revid: 16038
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,6 +29,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
+-   If you get hit by 2 Gigameds then you are dead, for some reason, if you get hit once and then get hit another one, it will cancel the cooldown attack for the others gigamed and infinite combo you. (tested, because I wiped because of that.)
     
 
 **King Gigamed:**

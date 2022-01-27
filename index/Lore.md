@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 15879
+revid: 16064
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -187,7 +187,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
     
 
-### The Cloudjumper Legion
+### The Hundreds Legion
 
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
