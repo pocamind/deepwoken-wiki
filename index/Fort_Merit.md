@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 14506
+revid: 16101
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -36,7 +36,7 @@ NPCs:
 -   The actual Authority Commander is inside the prison, being the most intelligent, deadly and durable NPC in Fort Merit.
 -   There are 5 Etrean hostages and 1 Nomad hostage within the prison, tied up.
 -   Some Legion Soldier named "Brutus", trying to have a dialogue with him will result in the player getting knocked.
-    -   If the player interacting with Brutus has 75 fortitude, after being knocked, their fortitude will be unbounded (if it wasn't already).
+    -   If the player interacting with Brutus has 75 fortitude, after being knocked, their [fortitude will be unbounded](Attributes_Unbound.md) (if it wasn't already).
 
 Structure:
 

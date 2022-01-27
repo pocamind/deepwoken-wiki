@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16018
+revid: 16111
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -158,7 +158,7 @@ Hand of Mantra Cards
 -   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus. (+7 Health)
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
 
-### Bulwork
+### Bulwark
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
 
@@ -181,7 +181,7 @@ Hand of Mantra Cards
 
 ### Charismatic Cast
 
--   Lasting Charmisma \[Generic Talent, Common Talent\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
+-   Lasting Charisma \[Generic Talent, Common Talent\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
     -   Prerequisite: Charm, Charismatic Cast \[Generic Talent\]
 
 ### Charm Caster
@@ -217,7 +217,7 @@ Hand of Mantra Cards
 
 ### Darksiphon
 
--   Dark God \[Generic Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their resevoir. (+1 Elemental Intensity, 3+ Health)
+-   Dark God \[Generic Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their reservoir. (+1 Elemental Intensity, 3+ Health)
 -   Dark Rift \[Generic Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
     -   This ability last for 2 seconds and goes on a 5 second cooldown when it activates.
 -   Dark Hours \[Generic Talent, Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
@@ -228,7 +228,7 @@ Hand of Mantra Cards
 
 -   The Sounds from Below \[Generic Talent, Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
     -   Prerequisites: Power Level 2
--   Depths Connection \[Generic Talent, Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Resevoir. (Better Reservoir Regeneration)
+-   Depths Connection \[Generic Talent, Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Reservoir. (Better Reservoir Regeneration)
     -   Prerequisite: Escape from The Depths once.
 
 ### Duelist
@@ -255,7 +255,7 @@ Hand of Mantra Cards
 ### Ether Adept
 
 -   Nullifying Clarity \[Generic talent, Common Talent\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
--   Ether Blade \[Generic Talent\] - Draw your foes into your weapon when you parry ether-based attacks.
+-   Ether Blade \[Generic Talent\] - Draw your foes ether into your weapon when you parry ether-based attacks.
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
 
 ### Falling Star Guard
@@ -411,8 +411,9 @@ Hand of Mantra Cards
 
 ### Mental Fortress
 
+Prerequisite: Willpower 5~
+
 -   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
-    -   Prerequisite: Willpower 5~
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
 -   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+3 Health, +7 Sanity)
 -   Encouraging Presence \[Generic Talent, Common Talent\] - Allies that grip enemies near you recover Sanity. (+3 Health, +6 Sanity)

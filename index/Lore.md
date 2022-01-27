@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 16064
+revid: 16084
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -423,7 +423,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ## Deepwoken: ~1271 (New World)
 
-This category lists all the Lore of Deepwoken, taking events after the Tides, up to Year 1271.
+This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
 
 ### The Great Drowning
 
@@ -493,7 +493,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _The Depths_
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
-    -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when they're flame is about to snuff out- will rekindle once again to the bells of the deep.
+    -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when their flame is about to snuff out- will rekindle once again to the bells of the deep.
 -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 

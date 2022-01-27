@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 14191
+revid: 16079
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,5 @@ If you have the Autodidact Boon, for every Power Level after Power 1, gain a Fre
 -   At Power Level 9 and above, if you ever get to the part to leave the Depths, you are forced to partake in a Trial (Most likely a boss) in order to return to the Overworld.
 -   At Power Level 15, your character is eligible to create Guilds.
 -   Each Power Level increase stabalizes your Health Bar if its tainted. Does not work while in The Depths.
--   if you have left the depths a certain amount of time (times drowned in the statistics area in a campfire) it adds that to your level when leaving, i speak from experience cause i had a trial at level 10 after leaving several times
+-   The amount of times you have been forcibly sent to the depths increases a counter called Times Drowned in the summary which adds the number of Drowns to your Power Level when calculating which trial you must face.
+-   Autodidact is not that useful at higher levels. However, it will make leveling from 1-30 much easier and quicker.

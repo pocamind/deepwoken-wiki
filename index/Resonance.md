@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 15570
+revid: 16076
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -44,7 +44,7 @@ The easiest way to achieve max Progress is to grind bosses such as [Dread Serpen
 
 Players are given the option to **re-roll** their Resonance once if they desire.
 
-Around [The Depths](The_Depths.md), **Resonance** **Doors** can be found. These doors require Resonances to open, within their room resides **[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)**. Yun'Shul provides many different "wishes", one of which being the ability to re-roll your Resonance for another, random one.
+Around [The Depths](The_Depths.md), **Resonance** **Doors** can be found. These doors require Resonances to open, within their room resides **[Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)**. Yun'Shul provides many different "wishes", one of which being the ability to reroll your Resonance for another, random one.
 
 Re-rolling your Resonance**,** however, makes whatever Resonance you do recieve become a **Tarnished Resonance**,
 

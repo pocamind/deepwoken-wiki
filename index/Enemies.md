@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 15677
+revid: 16085
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -52,18 +52,19 @@ For information of Monsters, go [here](Monsters.md).
 
 ### Vigils of Winds
 
--   Bladetemple Vigil Guard
+-   [Bladetemple Vigil Guard](https://deepwoken.fandom.com/wiki/Bladetemple_Vigil_Guard)
 
 ### Kingdom of Etrea
 
--   Etrean Guard
--   King Of Etrea
+-   [Etrean Guard](Etrean_Guardsmen.md)
+-   [King Of Etrea](The_Lord_Regent.md)
+-   Etrean Footsoldier
 
 ### The Central Authority
 
 -   Authority Warden/Commander
 -   Authority Peacekeeper/Prison Guard
--   Authority Footsoldier
+-   [Authority Footsoldier](https://deepwoken.fandom.com/wiki/Authority_Footsoldier#Tips)
 
 ### The Hive
 
@@ -71,7 +72,7 @@ For information of Monsters, go [here](Monsters.md).
 
 ### The Legion
 
--   Legion Captain
+-   [Legion Captain](https://deepwoken.fandom.com/wiki/Legion_Captain)
 -   Legion Footsoldier
 
 ### Navaen Nomads
@@ -82,11 +83,11 @@ For information of Monsters, go [here](Monsters.md).
 ### Golden Rats
 
 -   Golden Rat
--   Golden Rat Bouncer
+-   [Golden Rat Bouncer](<Rat's_Den.md>)
 
 ### Miscellaneous
 
--   Hobo (Crazed Stranded)
+-   [Hobo (Crazed Stranded)](Hobo.md)
 -   [Mindless Servant](Mindless_Servant.md)
 
 ## Bosses

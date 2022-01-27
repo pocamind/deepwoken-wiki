@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 15967
+revid: 16115
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -192,6 +192,7 @@ These are talents relating to combat.
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Makes Fire Palm's hitbox wider but shorter. (Possibly broken right now.) |
+|  | Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. | When dodging an attack, you leave behind a fire clone that burns the attacking enemy. |
 
 **Special:**
 

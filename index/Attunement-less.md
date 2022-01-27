@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16039
+revid: 16099
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 ### _**Strength Mantras**_
 
-`Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with _Dumbells_, or chop trees with a _Lumber Axe_.`
+`Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with _Dumbells,_ chop trees with a _Lumber Axe or hit enemies with your weapon_.`
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
 -   Requirement: 5 Strength, _Strength Combat Mantra_
@@ -99,24 +99,26 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   Their damage scales with the amount of weapon points you have.
 -   Read a 'Weapon Manual' in order to improve your damage with these mantras.
 
+**It is currently unknown what specific requirement is needed to get these mantras. (However, it is guaranteed you can get these early power level if going Attunement-less.)**
+
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
--   Requirement: 10 Light Wep., _Light Weapons Agility Mantra_
+-   Requirement: ?, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
 -   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
--   Requirement: 8 Medium Wep., _Medium Weapons Combat Mantra_
+-   Requirement: ?, _Medium Weapons Combat Mantra_
 
--   _**Heavy Weapon Mantras**_
+### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
--   Requirement: 10 Heavy Wep., _Heavy_ _Weapons Combat Mantra_
+-   Requirement: ?, _Heavy_ _Weapons Combat Mantra_
 
 ## Upgrading Mantras
 
-The Attunement-less mantra trainer can be found at Greathive Aratel in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
+The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
 
 1.  The user must have a good reputation with Hive.
 2.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms.
@@ -128,7 +130,8 @@ The Attunement-less mantra trainer can be found at Greathive Aratel in the Archi
 Once completed, the user can upgrade their attunement-less mantras. NOTE:
 
 -   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the amount of points** you have in the **respective attribute!**
--   For example :
+
+For example:
 
 1.  60+ points in Strength => Level 4.
 2.  20+ points in Agility => Level 2.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 15952
+revid: 16108
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -297,7 +297,8 @@ _No Power Level Required_
 | File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Depths Chests and Primadon Chests |
 |  | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
 
-_No Power Level Required_
+\-15% swing speed  
++30% posture damage
 
  | Depths Chests and Primadon Chests |
 | File:Dazedband.PNG | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
