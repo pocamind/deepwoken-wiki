@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 14192
+revid: 15950
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons]
 
 ## Description
 
-The Krulian Knife is a dagger weapon that drops by defeating the Ferryman during Winter season. This weapon has a base damage of 14 and requires 60 Light Weapon to equip. This weapon has no special effects or passives.  
+The Krulian Knife is a dagger weapon that drops by defeating the Ferryman during Winter season. This weapon has a base damage of 14 and requires 60 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 25% penetration against armor and extremely high swing speed.  
 
 ## Notes
 

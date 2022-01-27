@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 15552
+revid: 15948
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Luck]
@@ -44,7 +44,7 @@ Gripping a player will steal their luck (Luck/2 + 1), if:
 
 Killing the following Boss NPCs will provide you with luck:
 
--   Snow Knights
+-   [Stone Knights](Stone_Knight.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Murmur%253A_Ardour.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)

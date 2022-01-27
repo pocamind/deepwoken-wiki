@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 10710
+revid: 15815
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ NPCs hidden around the map that level up spells for money. Each trainer will inc
 
 A spell trainer **WILL NOT** train you if you do not have the element learned (An ice trainer needs some amount of points put into frostdrawer) or a mantra of the same elemental type as the trainer to upgrade (an ice trainer needs an ice mantra to level). If your character does not have any points into the element of the trainer, talking to them (assuming you have good karma) will result in quotes such as "you do not know of the wind". This means you need to find a way to unlock that element.
 
-You can also learn different attunments in a cost of 5 elemental ingredients (ex- 5 Spark Gland for Thundercall) Unlocking said attunement is permanently unlocked and can be chosen when you get wiped. Trying to learn more than 2 elements will cause the trainers to deny you as you have picked another trainer, although, people have gotten 3 elements before but we aren't sure how the trainer accepted them as they already had 2 elements. (I will try to get more info as I am trying to get my fourth element - mohammed1336)
+You can also learn different attunments in a cost of 5 elemental ingredients (ex- 5 Spark Gland for Thundercall) Unlocking said attunement is permanently unlocked and can be chosen when you get wiped. Trying to learn more than 2 elements will cause the trainers to deny you as you have picked another trainer, although, people have gotten 3 elements before or more by getting the blood potions all at once then drinking them.
 
 ## List of Trainers
 

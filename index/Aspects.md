@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 15609
+revid: 15937
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -8,11 +8,13 @@ categories: [Races, Character]
 
 # Aspects
 
+## Description
+
 There are many races within the world of Deepwoken, each player starting out with a race at random per character slot. Currently, there are 10 obtainable races in Deepwoken, each providing various utility abilities and skills to the player.
 
   
 
-### Rollable Races
+## Rollable Races
 
 These races are obtainable by any player. One of these races will be given to the player when they first purchase the game. A new race can be obtained by rerolling a race for 150 Robux, or buying a new character slot.
 
@@ -29,7 +31,7 @@ The rates of rolling these races can be found below.
 | **[Felinor](Felinor.md)** | 7.27% |
 
   
-_These rates are not 100% accurate, and may vary. Do not take this as a concrete source of information._
+If you choose to reroll your race, your current race's percentage will not be considered. This means you cannot reroll into the same race and may get higher chances at rarer races.
 
 ## Exclusive Races
 

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 15612
+revid: 15953
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,16 +42,16 @@ Upon washing your face at the [Lightkeeper Temple](Lightkeeper_Temple.md), the g
 As with all areas in the hive, Starswept Valley gives good mid-high tier loot. Below is a list of items you can find.
 
 -   Legion Centaurion
--   Legion Cestus
--   Tanto
--   Champion's Sword
+-   Legion Cestus(0-1 star)
+-   Tanto(0-1 star)
+-   Champion's Sword(0-1 star)
 -   Darksteel Greatsword
 -   Royal Pathfinder
 -   Star Duster
 -   Star Boots
 -   Shattered Katana
 -   Pale Morning
--   Khan Shield
+-   Khan Shield(0-2 star)
 -   Big Alchemist's Hat
 -   Big Herbalist's Hat
 -   Gladiator Helm
@@ -64,6 +64,7 @@ As with all areas in the hive, Starswept Valley gives good mid-high tier loot. B
 -   Blue Headband
 -   Red Headband
 -   Green Headband
+-   White Headband
 -   Warriors Eyepatch
 -   Ruby Drop Earrings
 -   Practitioner's Earrings
@@ -81,6 +82,7 @@ As with all areas in the hive, Starswept Valley gives good mid-high tier loot. B
 -   Silver Sabatons
 -   Silver Pauldrons
 -   Khan Pauldrons
+-   Pale Assassins Cloak
 -   Woodland Pauldrons
 -   White Fur Pauldrons
 -   Royal Pathfinder

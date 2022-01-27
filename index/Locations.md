@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 15647
+revid: 15832
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -108,6 +108,7 @@ The City of the Drowned
 ### More
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
+-   [Layer 2](Second_Layer.md)
 
 ## Other
 

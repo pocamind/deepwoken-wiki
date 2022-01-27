@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 15583
+revid: 15933
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -45,22 +45,20 @@ Template:Races-Main
 
 **Lore:**
 
-## Lore
+  
 
-to be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have very similar last names. Theory: Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above the water and the Ganymede's going into the depths. This would fit with the lore of the game and explain why they can be cousins, along with the vesperians having the same cross eyes underneath their masks that Ganymedes can have
+To be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have very similar last names. Theory: Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above the water and the Ganymede's going into the depths. This would fit with the lore of the game and explain why they can be cousins, along with the vesperians having the same cross eyes underneath their masks that Ganymedes can have
 
 It just overweight snail
 
 **Strengths:**
 
-## Strengths
-
--   Insanity Resistance
-    
+  
+Insanity Resistance  
 
 **Surnames:**
 
-## Surnames
+  
 
 -   Dise
 -   Etude

@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 15661
+revid: 15818
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -34,8 +34,8 @@ Flintlock user using the Summer Gun technique
 
 _Stats:_
 
-**Flintlock:** **10** damage, **12** range, **1.3x** attack speed, **100** notes (1).
+**Flintlock:** **10** damage, **12** range, **1.3x** attack speed, **100** notes (1).(20 Light req)
 
-**Revolver:** **13** damage, **12** range, **1.3x** attack speed, **200** notes (1).
+**Revolver:** **13** damage, **12** range, **1.3x** attack speed, **200** notes (1).(65 LHGT req)
 
-**Dragoon:** **20** damage, **12** range, **1.3x** attack speed, **500** notes (1).
+**Dragoon:** **20** damage, **12** range, **1.3x** attack speed, **500** notes (1). (65 LHGT req)

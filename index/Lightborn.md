@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 13555
+revid: 15941
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -45,26 +45,23 @@ _"The stars call you back..."_
 
 **Lore:**
 
-## Lore
-
+  
 Children of the Celestials, the Lightborn are considered to be fragments of these once great gods up above. However, in recent times, a family of these people known as the Spellhardt's had come forth within the Eastern Luminant. Rumored to be housing themselves within a mighty castle in the sky. Although they are of celestial origin, their reputation among the people is questioned quite often due to their less than favorable actions.
 
 **Strengths:**
 
-## Strengths
+  
 
--   +2 points in every attribute (except charisma)
--   +5 Points at character creation (untested, needs some proof)
--   Easier to play the game, because obviously you played it too much.
-    
++2 points in every attribute (except charisma) +5 Points at character creation (untested, needs some proof)
+
+Easier to play the game, because obviously you played it too much.
 
 **Weaknesses:**
 
-## Weaknesses
-
--   "Degenerates like you should belong on a cross."
-    
+  
+oh my god is that a developer no way
 
 ## Notes
 
 -   Only obtainable from admins
+-   While considered a developer race, the increase in stats is not significantly stronger than any other race

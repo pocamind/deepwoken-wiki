@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 15525
+revid: 15949
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,18 +50,7 @@ Upon turning the telescope counterclockwise (which I assume is up), the player w
 File:TelescopeCounterclockwise2.png
 
   
-Xenoficyphe: The image that has crystal like cities probably represents the depths, no. **IT SHOULD BE REPRESENTING THE DEPTHS** or is it? there's probably more into it, no one knows.
-
-packrat7: I'm almost sure the image is a Celestial City
-
-It may represent the "Dying World" aspect of Deepwoken's universe, as there may be a terrible thing unfolding throughout the Luminants.
-
-File:Observatory.png.PNG
-
-  
 If you go into the R&D, there is a secret second lab with nothing in it
-
-  
 
 586.962x586.962px
 
@@ -89,18 +78,21 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
 
 ## Reputation
 
--   Reputation in this place can be obtained by farming the "Green Artifact Event" in [Starswept Valley](The_Starswept_Valley.md). (Just kill the ones that aren't Hive Guards)
+It is very dangerous to enter Greathive Aratel with negative reputation, as not only will you be stuck in an enclosed space surrounded by cliffs, but guards will also attack you and entering the inside will allow Mechs (or constructs) to spawn. These are incredibly dangerous enemies that can take out nearly half of a max players HP bar in one attack.
+
+Negative reputation can be removed or reset by talking to the NPC named "Zirik" in the [Lordsgrove](The_Lordsgrove.md)
+
+-   Reputation in Greathive Aratel can be obtained in two ways.
+    -   Killing the Adretian Commander in the Commander vs. Mech event
+    -   Killing the Etris/Vigils swordsman in the Vigils vs. Hive Scout event
 -   You can check how high your reputation is by talking to the guards.
+    -   \*They attack you\*: Negative Reputation
     -   \*They ignore you\*: Neutral (0) Reputaion
-    -   "Traveller": You got some reputation
-    -   "Friend of the Hive": You got nice reputation
-    -   "Player's first name": Max reputation
+    -   "Traveller": Some Reputation
+    -   "Friend of the Hive": High Reputation
+    -   "Player's first name": Max Reputation
 
-In order to reset your reputation to neutral, in the case of the guards hating you, talk to the NPC "Zirik" located in the Lordsgrove.
-
-(Once you reach max reputation, the Boatman of the Hive will recognize you and finally he will talk to you, allowing to spawn boats in the Hive.)
-
-  
+Obtaining max reputation in Greathive Aratel will allow you to talk to the Shipwright.
 
 ## Extra
 
@@ -117,12 +109,12 @@ The portal locations.
 ## Trivia
 
 -   Ganymedes and Vesperians are related, each race had the same ancestor, but they had to make a decision to survive as a people when the tides came. Vesperians and Ganymedes are the two results of that decision.
--   There is nothing special about this place other than the fast travel system. It is just another town.
+-   There is _currently_ nothing special about this place other than the fast travel system. It is just another town.
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
 -   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
--   In order to summon boats here, you need positive reputation, which can farmed with the Adret event at Greathive.
+-   In order to summon boats here you need [positive reputation](Reputation.md).
 -   There is a secret room located within the Hive Laboratory behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
--   Certain spots of the Hive have been spotted to be "Rotting" away with creatures of the Depths appearing nearby aswell such as Megalodaunts and Lionfish being spotted near the Hive with it being theorized that the Depths are attempting to pull the Hive down or slowly attempting to Rot the Greathive with other theories suggesting that the Hive exists above a entrance to the Depths that allow the creatures to leak out.
+-   Certain spots of the Hive have been spotted to be "Rotting" away. Creatures of the depths, such as Megalodaunts and Lionfish can be spotted near these areas. It is possible Greathive is sinking, although it is unlikely as (according to Regek) the four Greathives were created to sustain a world above the tides.

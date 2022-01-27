@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 15427
+revid: 15879
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, Pages with broken file links]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -165,12 +165,6 @@ An Etrean Guard, part of the Nation of Etrea
 -   A nomadic tribe of Gremor, who worship the goddess(?) Navae.
 -   Not much more is known for the Navaen tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
 
-### Bandits
-
--   **Encounter In:** _Anywhere_
--   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
--   Hostile to all players. Reputation cannot be gained with the bandits.
-
 ### The Old Stewards
 
 -   An organization that preserves what's left before the tides came; practically Historians. They are not to be confused by The Pathfinders.
@@ -203,18 +197,11 @@ An Etrean Guard, part of the Nation of Etrea
 
 -   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
--   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
+-   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw
 
 Amara, a Member of The Legion.
 
-### Songseekers
-
--   **Territory:** _Unknown (Presumably Aratel Island)_
--   **Encountered In**: _Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)_
--   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
-
--   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
--   Strangely, there seem to be no Galebreathe Songseekers.
+  
 
 ### Summer Company
 
@@ -307,6 +294,10 @@ A Peacekeeper Grunt, part of The Authority
 
 ### The Hive
 
+File:Hive Icon.png
+
+  
+
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _Lightkeepers (???)_
@@ -322,12 +313,30 @@ A Peacekeeper Grunt, part of The Authority
 
 ### The Divers
 
+File:Divers Icon.png
+
+  
+
 -   An Organization that specialize in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
 -   The Divers are outsourced by The Adretian Authority (Recieves funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
 -   The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
+
+## Groups
+
+  
+
+### [Krulians](Krulian.md)
+
+-   **Territory:** _???_
+-   **Attunements:** _Thundercall?_
+-   **Alliances:** None
+-   **Enemies:** _None_
+-   **Lore Sources:**
+    -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
+    -   The Ferryman, the only confirmed Krulian, says that Krulians are the next step in the evolutionary chain and that they are the closest link between the people of the surface and the gods below.
 
 ### The Golden Warriors
 
@@ -347,15 +356,20 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
   
 
-### [Krulians](Krulian.md)
+### Songseekers
 
--   **Territory:** _???_
--   **Attunements:** _Thundercall?_
--   **Alliances:** None
--   **Enemies:** _None_
--   **Lore Sources:**
-    -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
-    -   The Ferryman, the only confirmed Krulian, says that Krulians are the next step in the evolutionary chain and that they are the closest link between the people of the surface and the gods below.
+-   **Territory:** _Unknown (Presumably Aratel Island)_
+-   **Encountered In**: _Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)_
+-   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
+
+-   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
+-   Strangely, there seem to be no Galebreathe Songseekers.
+
+### Bandits
+
+-   **Encounter In:** _Anywhere_
+-   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
+-   Hostile to all players. Reputation cannot be gained with the bandits.
 
 ## Attunement Lore
 

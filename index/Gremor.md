@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 15579
+revid: 15919
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -47,27 +47,20 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
 
 **Lore:**
 
-## Lore
-
+  
 The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow.
 
 **Strengths:**
 
-## Strengths
+  
 
-\- Has a built-in compass (Really quite lackluster, not very useful).
+Has a built-in compass (Really quite lackluster, not very useful).  
 
-\- Less prone to starvation.
-
-**Weaknesses:**
-
-## Weaknesses
-
-\- Compass in [The Depths](The_Depths.md) and inside of the [Voidsea](Voidsea.md) is positioned in a way where it is difficult to use.
+Less prone to starvation.  
 
 **Surnames:**
 
-## Surnames
+  
 
 -   Adra
 -   Cassatra
@@ -88,9 +81,8 @@ The deer folk of the land are among the few that still consider themselves free 
 
 ## Notes/Trivia
 
--   While in [The Depths](The_Depths.md) and the [Void Sea](Voidsea.md), the compass is angled in a broken fashion, making it near impossible to use.
 -   Almost always good at PVP, regardless of progression.
--   Absolute chad race. (You name is probably kevin)
+-   Absolute chad race.
 
 <table>
 <tbody>

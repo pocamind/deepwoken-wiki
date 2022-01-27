@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 15658
+revid: 15944
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -38,10 +38,7 @@ Enforcer's Axe
 
 ### Rewards
 
--   **Mob Drops:** The Enforcer can drop any mob drop, like modifiers.
--   **(RARE) Enforcers Axe:** One of the strongest heavy weapons in the game, the one The Enforcer uses itself.
--   **Your Life:** You don't die.
--   **Heart Attack:** Due to all the adrenaline surging through your body you die of a heart attack irl immediately after. (only happens if ur bad doe)
+-   **Enforcers Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
 
 ## **Battle**
 

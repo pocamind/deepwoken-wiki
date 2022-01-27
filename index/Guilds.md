@@ -1,9 +1,9 @@
 ---
 title: Guilds
-revid: 15806
+revid: 15895
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Guilds, Mechanics]
+categories: [Guilds, Mechanics, Character, World]
 ---
 
 # Guilds
@@ -28,7 +28,7 @@ Since lore guilds are mostly made up of scattered players, nothing really link t
 
 Keep in mind that joining a Lore Guild **WILL KICK THE PLAYER FROM THEIR CURRENT GUILD.**
 
-### The Divers
+### [The Divers](The_Divers.md)
 
 -   **Leader:** Unknown
 -   **Officer:** [Akira](Akira.md) (is the one to enlist the player)

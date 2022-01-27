@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 15725
+revid: 15954
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -19,7 +19,7 @@ The previous upgrades will only disappear if an _Amnesiac Driftwood_ is added to
 Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
 
   
-Keep in Mind not all mantra modifiers are obvious and may \*not\* work correctly even if A Mantra is compatible. (1: Revenge needing Drift/Rush Shards to reach further instead of Lens.) (2: Shadow Gun Not doing anything different after adding Blast Spark.)
+Keep in Mind not all mantra modifiers are obvious and may \*not\* work correctly even if a Mantra is compatible. (1: Revenge needing Drift/Rush Shards to reach further instead of Lens.) (2: Shadow Gun Not doing anything different after adding Blast Spark.)
 
 ## Mantra Modifiers
 
@@ -100,7 +100,11 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   Crafted with Cloudstone and Crystal lens.
 -   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
- |  |
+ | 
+
+-   Compatible with Glacial Arc for a unique effect.
+
+ |
 |  | Magnifying Stone | Likely same as Glass Stone, just better
 
 -   Crafted with a Stratus Stone and Perfect Lens
@@ -117,8 +121,17 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   Wind - Slightly flings enemies (only tested astral wind)
 -   No effect(?) on physical mantras (more testing required)
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
+-   TEST TORNADOE (GALEBREATH)
 
  |
+
+  
+
+### **Specific Effects of Modifiers**
+
+#### Glass Stone
+
+-   This modifier adds a massive A.O.E. explosion of ice spikes for _Glacial Arc,_ and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
 
 ## Deep Gems
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 15730
+revid: 15851
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -91,11 +91,11 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Can be improved with Cloud/Stratus stones.
 
  |
-|  | Flame Eruption (★) | A pyroclastic eruption. | Caster summons two pillars of flame at the cursor's location.
+|  | Flame Eruption (★) | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
 
--   Pillars are briefly persistent.
 -   Deals moderate-high damage.
--   Second pillar knocks enemies and ragdolls them briefly.
+-   The second explosion ragdolls enemies.
+-   NPCs have trouble blocking the second explosion.
 
  |
 |  | Fire Forge (★) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.

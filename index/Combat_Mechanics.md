@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 15691
+revid: 15956
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -23,6 +23,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's health. Upon reaching 0 health, the player gets knocked out and is at mercy to anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
+    <li>The player cannot regenerate the full health if their hunger bar is below 50%</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -223,7 +224,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Roll Cancel</th>
-  <td>When you roll, you can right click similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to get back into the fight or to fake out your opponent.</td>
+  <td>When you roll, you can right click similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent.</td>
   <td></td>
 </tr>
 </tbody>

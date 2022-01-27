@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 15597
+revid: 15924
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -44,9 +44,8 @@ Template:Races-Main
 
 **Lore:**
 
-## Lore
-
-Overgrown Beetle
+  
+Little is known about the great hive
 
 **Variants:**
 
@@ -56,24 +55,26 @@ Overgrown Beetle
 
 **Strengths:**
 
-## Strengths
+  
 
--   +2 Health, +2 Fortitude, 2+ Willpower
--   Starts with slightly better armor than the starter set.
-    
++2 Health  
++2 Fortitude  
++2 Willpower  
+
+A layer of protective armor that regenerates at rest.  
 
 **Weaknesses:**
 
-## Weaknesses
-
--   Facial accessories are not visible (they still grant their buffs, however)
--   Dichlorvos
--   While not necessarily a weakness of the race itself, the **Chitin** armor can lead to becoming a crutch in combat, making other [Races](Aspects.md) feel lackluster and "squishy"
+-   Facial accessories are not visible  
+    
+-   Dichlorvos  
+    
+-   When relying too much of the added protection from the **Chitin** armor, players may feel as other races are weak, or become too defensive in protecting their armor.
     
 
 **Surnames:**
 
-## Surnames
+  
 
 -   Disii
 -   Etudi

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 15582
+revid: 15957
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races, Character]
 
 Template:Races-Main
 
-_"Keepers of old knowlege, they wonder the lands offering their experience to those in need of it."_
+_"Keepers of old knowledge, they wonder the lands offering their experience to those in need of it."_
 
 ## Racial Traits
 
@@ -50,26 +50,27 @@ _"Keepers of old knowlege, they wonder the lands offering their experience to th
 
 **Lore:**
 
-## Lore
-
+  
 They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it.
 
 **Strengths:**
 
-## Strengths
+  
 
--   +2 Intelligence
++2 Intelligence  
++2 Willpower  
 
--   +2 Willpower
-    
+The ability to buff allies around them
 
 **Weaknesses:**
 
-## Weaknesses
+  
 
-This isn't a good race to play as for solo progression, as its racial abilities solely apply to other players.
+Poor race for solo progression, try to find a group to best utilize your abilities.
+
+^ This is absolutely false. You obviously keep the knowledge passed down trough the lineage, and as such gain certain buffs such as faster regen, really high insanity resistance or starvation reduction.
 
 ## Notes
 
--   Each of the marks appear to originate from a different real world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
+-   Each of the marks appear to originate from a different real-world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
 -   This race is likely a reference to the Capra Demon, a boss in Dark Souls.

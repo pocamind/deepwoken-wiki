@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 15024
+revid: 15903
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,7 +25,7 @@ Upon character customization, you can choose from 5 different attunements. You c
 
 Choosing Random gives you any of the 4 attunements even if you already picked one. However, the next time you create your character in that slot it will not save.
 
-[Shadowcast](Shadowcast.md) can only be unlocked, after you unlock it you will be able to choose it when creating your character
+[Shadowcast](Shadowcast.md) can only be unlocked, after you unlock it you will be able to choose it when creating your character. Other attunements can be unlocked during gameplay, up to a maximum of 2 attunements per character. However your base and any unlocked attunements will become selectable during character selection, becoming permanent progression.
 
 More info can be found on the [Attunement](Attunements.md) page
 
@@ -71,4 +71,4 @@ Here is what makes the Isle of Vigils unique:
 -   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who (most people don't know) will request you to bring a crate of food up to Stratos at the Temple of Blades. This will reward you 50 notes, equaling the starting notes you would receive at Etris, without having to risk selling a gold ring with good stats.
 -   A trainer to fight against with no consequences for losing all your HP.
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
--   to be continued
+-   More dense in food materials, however has less overall.

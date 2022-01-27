@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 15673
+revid: 15862
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -12,12 +12,6 @@ categories: [Resonance]
 |---|---|
 | effect | Teleports the player into another realm which scales with the map |
 | appearance | Realm of dark matter and fog |
-
-“ It's Over. ”
-
-― The Noble Etrean
-
-  
 
 ## Description
 
@@ -31,7 +25,7 @@ When used, the user will leave a portal and be transported into the Distortion R
 
 Pressing "C" will activate the **Distortion Realm** Resonance.
 
-**Distortion Realm** will transport the user into the Distortion Realm and will leave a lingering portal to allow other players to enter. This cannot be used while in combat.
+**Distortion Realm** will transport the user into the Distortion Realm and will leave a lingering portal to allow other players to enter. This cannot be used while in combat. Each step taken in the Distortion Realm equals around five steps taken in the overworld.
 
 ### _Variants_
 

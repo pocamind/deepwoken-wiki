@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 15577
+revid: 15916
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -57,11 +57,6 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
   
 Adrets can easily level up their attributes faster than the normal player, making them progress faster. They also have a built-in autodidact which can be stacked with the boon.
 
-**Weaknesses:**
-
-  
-Due to the autodictat buff, there are no weaknesses to using the Adret's natural autodictat
-
 **Surnames:**
 
   
@@ -86,7 +81,7 @@ Due to the autodictat buff, there are no weaknesses to using the Adret's natural
 ## Notes/Trivia
 
 -   An NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "old world", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
-    -   There is a lot of ways to interpret this, but it's generally believed that he's indicating that all of the other races are based off of animals, and Adrets are not, as they came from the Sea. (Some speculation says that they came from the Depths- or perhaps they were former denizens of Celtor..?)
+    -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However without the keepers of the lighthouse it becomes impossible to traverse the voidsea, stalemating a losing war.
 -   Archmage did, however, confirm that the Adret are **not** fish either.
     
       

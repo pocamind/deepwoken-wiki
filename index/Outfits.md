@@ -1,9 +1,11 @@
 ---
 title: Outfits
-revid: 15809
+revid: 15952
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Armors]
+categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
+notices:
+  - This page is currently being separated. Some things may look out of place.
 ---
 
 # Outfits
@@ -62,15 +64,15 @@ You can repair your Outfit at a Blacksmith. This will cost Notes, ranging from 1
 
 ### Starter
 
-_Deepwoken_ currently has 9 Starter Outfits in the game.
+_Deepwoken_ currently has 9 Starter Outfits that have been discovered.
 
 ### Adept
 
-_Deepwoken_ currently has 13 Adept Outfits in the game.
+_Deepwoken_ currently has 14 Adept Outfits that have been discovered.
 
 ### Expert
 
-_Deepwoken_ currently has 9 Expert Outfits in the game.
+_Deepwoken_ currently has 9 Expert Outfits that have been discovered.
 
 ### Master
 
@@ -173,7 +175,8 @@ Damage Vs. Deep
 |  | Black Scarf |  | Hive Chests |
 |  | Tundra Scarf | Grants a random buff | Hive Chests |
 |  | White Scarf |  | Hive Chests |
-|  | There's a lotta scarves, someone add them |  |  |
+|  | Desert Scarf |  | Hive Chests |
+|  | There's a lot more scarves out there, someone add them |
 
 **Arms:**
 
@@ -220,7 +223,7 @@ Songseeker Chests
 +2 posture
 
  | Fort merit Chests |
-| File:Aristocrat Coat.png | Aristocrat Coat | Placeholder | Chests |
+| File:Aristocrat Coat.png | Aristocrat Coat | Grants a random stat boost. | Starswept Valley chests |
 |  | Ranger's Brace | +10 Ether
 
 +20 Reservoir
@@ -241,7 +244,7 @@ Depths chests
 Duke chests
 
  |
-| File:Pale Assassins Cloak.png | Pale Assassins Cloak | 2-4 Stats | [The Depths](The_Depths.md)
+| File:Pale Assassins Cloak.png | Pale Assassins Cloak | 2-4 Stats | [Starswept Valley](The_Starswept_Valley.md)
 
 Depths chests
 

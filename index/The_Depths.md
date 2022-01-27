@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 15722
+revid: 15930
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -27,13 +27,40 @@ _Depth Marauder Base? (Need clarification of what it is._
 
 Near the Coral Forest, at the end of some pillars that jut out from the murky blackness below. There's a Resonance door at the end of the entrance hallway.
 
-(I need some help finding out what this place is because I'm too much of a weakling to get progression for a resonance, if someone can get behind the Yun'shul door and figure out whats behind it, it would be appreciated.)  
+**(We need some help finding out what this place is because we're too weak to get progression for a resonance, if someone can get behind the Yun'shul door and figure out what's behind it, it would be appreciated.)**
+
+here's where it is on a map
+
+(be carful the parkour is easy but the void is 2 inches from where you land so be careful)
+
+File:800 cb=20220113102951(1).png
+
+  
+  
 
 ## Layers of the Depths
 
 After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. This could also be a reference to the anime "Made in Abyss" in which there are many layers in a pit that goes deep into the earth with increasing dangers as one delves down.
 
-(Need more info)
+[Layer 2](Second_Layer.md) Leak
+
+May you explain why in the hell pieces of the hive are inside of the depths layer 2 then?
+
+^ I explored this place a bit and found
+
+Corvis manor, and "The Crow's Laboratory" Area is named itself like this.
+
+Some cloning machine inside the laboratory, guarded by adretian authority. (Are adrets cloned? Thats why we dont know where they came from)
+
+Ignition Union base
+
+Alpha Megalodaunt and Primadon spawns.
+
+A NPC that is the brother from the etris guy's quests.
+
+File:Layer2.png
+
+[https://www.roblox.com/games/6903873994/Place](https://www.roblox.com/games/6903873994/Place)
 
 ## Escaping The Depths
 
@@ -85,16 +112,23 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 
 | Trial Power | Possible Enemies |
 | --- | --- |
-| 1-8 | N/A - You escape without fighting a monster |
-| 9-18 | One or two Swordsmen [Mudskippers](Mudskipper.md) |
+| 1-7 | N/A - You escape without fighting a monster |
+| 8-18 | One or two Swordsmen [Mudskippers](Mudskipper.md) |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
 | 44+ | [Enforcer](Enforcer.md) |
-| ??? | ??? |
+| \>60
+(obtained
+
+with drowned
+
+stat)
+
+ | Squid-Hoss |
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.
--   ²: Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.  
+-   ²: ~Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.~(this is most likely caused by the drowned stat not chance)  
     
 
 ## Farming in The Depths
@@ -155,7 +189,7 @@ Just a bag of information to keep in mind and remember
 -   [Squibbo](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
 -   The City Guards
--   [Deep Widow](Deep_Widow.md) (Confirmed by Agamatsu)
+-   [Deep Widow](Deep_Widow.md)
 -   [Threshers/King Threshers](Thresher.md)
 
 ## Loot Table
@@ -166,15 +200,15 @@ Almost everything in the game drops in the depths. The Depths is the best place 
 <tbody>
 <tr>
   <td>Demon Mask</td>
-  <th>Dazed Band</th>
-  <th>Shattered Katana</th>
-  <th>Iron Cestus</th>
+  <td>Dazed Band</td>
+  <td>Shattered Katana</td>
+  <td>Iron Cestus</td>
 </tr>
 <tr>
-  <td>Shrouded Cape</td>
-  <th>Ring of Wisps</th>
-  <th>Officer's Saber</th>
-  <th>Curved Blade of Winds</th>
+  <td>[Midnight, Pale, Crimson] Shrouded Cape</td>
+  <td>Ring of Wisps</td>
+  <td>Officer's Saber</td>
+  <td>Curved Blade of Winds</td>
 </tr>
 <tr>
   <td>Star Duster</td>
@@ -199,6 +233,12 @@ Almost everything in the game drops in the depths. The Depths is the best place 
   <td>Iron Birch</td>
   <td>Serpent's Edge</td>
   <td>Pariah's Keepsake</td>
+</tr>
+<tr>
+  <td>Pale Assassin Cloak</td>
+  <td>[Pale, Crimson] Assassin Hood</td>
+  <td>Diver Apprentence</td>
+  <td>Legate Helm</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 15811
+revid: 15891
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -12,9 +12,19 @@ categories: [Pages with broken file links, Boss, Luck]
 
 Template:Creature Infobox V3 **The Ferryman** is a mysterious Krulian referenced in some old folklore of the surface world, able to be encountered on the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
 
-He can be summoned by lighting four campfires at the indicated points within a sacrificial circle. If the Ferryman has already been summoned in the server, the campfires must be replaced. After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element, with violet lightning and a far wider span of effect. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him.
+**How to summon **The Ferryman**:**
 
-### Attacks
+1.  Find the ritual looking place on this island.
+2.  Place 1 campfire on each circle surrounding the big circle (total 4 campfires)
+3.  Light them up using a flint (or use Flamecharm's/Thundercall's respective ignite skill).
+4.  **The Ferryman** will spawn in the middle.
+5.  Talk with him and the battle will start.
+
+_After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful, and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element that is colored violet, which boasts a far greater destructive power, intensity, and area of effect compared to the ordinary variant. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him._
+
+**Once you start the fight, there will be a large ether barrier circled around the fighting arena, with no means of escape or entry. The only way to escape is to die or defeat **The Ferryman**.**
+
+### Attack Descriptions
 
 -   **Displacement** - The Ferryman teleports to a different location on the battlefield and immediately uses another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
 -   **Lightning Clones** - The Ferryman will spin around and summon two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing. He only uses Lightning Clones in Phase 1.
@@ -31,29 +41,31 @@ He can be summoned by lighting four campfires at the indicated points within a s
 
 -   **Luck** - During all seasons, you receive a fixed amount of luck.
 -   **Amethyst Pendant Earrings** - Grants +8 Ether and +6 Sanity, and does not drop on subsequent attempts. Received only during summer.
--   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It basically gives you displacement enchant for every lightning mantra you're hit with, and reduces the damage from lightning significantly. Applies to both player mantras, the Ferryman's own moves and King Gigameds/Jellyfish moves.
--   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. Received only during winter.
--   Defeating the Ferryman during spring "awards" unique dialogue.
+-   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It basically gives you displacement enchant for every lightning mantra you're hit with, and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigameds/Jellyfish moves.
+-   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during winter.
+-   Defeating the Ferryman during spring or summer (after receiving the **Amethyst Pendant Earrings**) "awards" unique dialogue.
 
 ## Battle
 
-Ferryman is the most "Bosslike" Boss in the entire game, not being something you can simply stand still and parry/dodge infinitely until one of you dies. He forces you to move around the battlefield, a battlefield which he has near total control of at all times, and forces you to keep track of where he is and what he's going to do. Very fast reactions are required if you are to beat him in one piece.
+Ferryman is the most "Bosslike" Boss in the entire game, not being something you can simply stand still and parry/dodge infinitely until one of you dies. He forces you to move around the battlefield, a battlefield which he has near total control of at all times, and forces you to keep track of where he is and what he's going to do. Acute awareness and quick reaction times are required to survive this battle in one piece.
 
-The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in just about every category, gaining more speed, attack, health, and reducing time between attacks and time to hit him. For reference, at four people, just about all of his attacks can kill a mid-level player instantly. **Additionally, he starts in phase two off the bat.**
+The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in just about every category, gaining more speed, attack, health, and reducing time between attacks and time to hit him. For reference, at four people, just about all of his attacks can kill a mid-level player instantly. **Additionally, he immediately starts in phase two when multiple people are within it's barrier.**
+
+Each section describing the phases describes how to deal with his moves in each respective phase.
 
 ### In General
 
--   A near necessity for the fight is using fires to heal, (which are thankfully already nearby due to the process of summoning him.) Ferryman used to be able to be cheesed by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will NOT guarantee your safety. Try to heal at most one bar before continuing the fight. If in dire need, try to go for two.
+-   A near necessity for the fight is using fires to heal, which are thankfully already nearby due to the process of summoning him. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will NOT guarantee your safety. Try to heal at most one bar before continuing the fight. If in dire need, try to go for two.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to four specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
 
 ### Phase One
 
-Phase one is obviously the easier phase, more like a little training for the actual fight to come. Plenty of time to catch your breath and heal, and easy to dodge and parry attacks.
+Phase one is obviously the easier phase, a way to ease you into the battle before the real fight comes. There is plenty of time to catch your breath and heal, and the attacks are easy to parry or dodge.
 
 -   **Displacement** - Never try to attack Ferryman with all you have if you've been delaying him, getting close to him after not attacking him for a while will cause him to immediately teleport. Run up close to him, and then instantly turn around and use a mobility mantra to get as close as possible during his next attack. As long as you don't stand on top of him, you can get pretty close without him teleporting. About a Medium weapon's reach away.
--   **Lightning Clones** - The least threatening of Ferryman's moves, gives the most time to heal of any attack, and is generally just the least dangerous. Hitting him will disable the rest of the ability, so try to dive in with a aerial or dash attack to get in close. Clones are just like normal NPCs, but die after attacking you or getting hit once.
--   **Lighting Strike** - Another easy move, if lucky, you can straight up run at him while it's being used, although combining dashes, slides, and mobility mantras to close the gap safer/faster. Like Lightning Clones, hitting him once while disable the rest of the ability, letting you deal more damage safely. Relatively easy to parry and dodge.
+-   **Lightning Clones** - The least threatening of Ferryman's moves, and gives the most time to heal of any attack. You cannot punish this move after it is performed, however, so try to dive in with an aerial or dash attack. Clones function like normal NPCs but die after attacking you or getting hit once.
+-   **Lighting Strike** - This, if lucky, you can straight up run at him while it's being used, although combining dashes, slides, and mobility mantras to close the gap safer/faster. Like Lightning Clones, hitting him once while disable the rest of the ability, letting you deal more damage safely. Relatively easy to parry and dodge.
 -   **Lightning Assault** - Ferryman's first move that can be tricky to deal with, and can deal relatively high damage. The dashes are in specific intervals, and can be easily reacted to. While being blockable, they take a significant amount of posture. The dashes happen close enough to be parried all at once by blocking the first one and holding it, but he sometimes gets a hit in. Parrying each one separately guarantees avoiding each one. Additionally, for every slash parried, Ferryman stays longer after the attack, letting you attack or heal longer. The window is long enough for 3 hits with a Medium weapon before he teleports. If any of the slashes are not parried, he will not give you a moment to attack him and will instead teleport away if you try to hit him.
 
 ### Phase Two
@@ -71,7 +83,7 @@ Phase two is where shit gets real, the real fight. All of his previous attacks g
 The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
 
 -   "Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!" - You killed the Ferryman within the time limit and received a reward. (Only available in Summer (only once), Autumn and Winter)
--   "Look into the flames, and you shall see my gift... If you have the strength to take it that is. - Could be related to purple flame from 'the Forge of Sin' in the [Temple of the Forgotten Flame](https://deepwoken.fandom.com/wiki/Temple_Of_The_Forgotten_Flame) (Only available in Spring)
+-   "Look into the flames, and you shall see my gift... If you have the strength to take it that is. - (likely explanation) You took too long doing it and received no reward, The Ferryman is timed like Primadon is (you still get luck). Could be related to purple flame from 'the Forge of Sin' in the [Temple of the Forgotten Flame](https://deepwoken.fandom.com/wiki/Temple_Of_The_Forgotten_Flame) (Only available in Spring)
 -   \[SECRET DIALOGUE SPOILER\]: "I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always." - You get this dialogue after killing the Ferryman for the second time or more. (subsequent attempts after beating him once)
 
 ## Trivia/Notes

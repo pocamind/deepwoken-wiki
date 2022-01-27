@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 15788
+revid: 15881
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ Most links will take you to SoundCloud.
 
 ONLY EDIT IF YOU SERIOUSLY KNOW FOR A FACT THAT THE MUSIC HAS A CLEAR RELEVENCE TO DEEPWOKEN.
 
-**Please support Naktigonis on any platforms, All links will lead to their official sound cloud, however you can support them through other programs like spotify.**
+**Please support Naktigonis on any platforms. All links will lead to their official SoundCloud; however, you can support them through other programs like Spotify.**
 
 _If you are interested about the descriptions of the Soundcloud songs, see [Deepwoken Song Descriptions](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)_
 
@@ -33,7 +33,7 @@ The Main OST for Deepwoken.
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) Contour 3** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 3).mp3
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) Contour 4** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 4).mp3
 -   **[To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine)** (General Combat Music(?))File:To Fight, Sanguine.mp3
--   **[On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants)** (A combination of all 4 Countours of To Sleep Dreaming)File:On The Shoulders Of Giants.mp3
+-   **[On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants)** (A combination of all 4 Contours of To Sleep Dreaming)File:On The Shoulders Of Giants.mp3
 -   **[To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant?in=naktigonis/sets/deepwoken-ost-1)** (Aratel & Etrean Sea) **File:Aratel Sea - Deepwoken OST.mp3**
 -   **[The Trappings Of A Lord](https://soundcloud.com/naktigonis/the-trappings-of-a-lord?in=naktigonis/sets/deepwoken-ost-1)** (Erisia) **File:Erisia - Deepwoken OST.mp3**
 -   **[Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc)** (Erisia Combat**) File:Erisia (Combat) - Deepwoken OST.mp3**
@@ -57,7 +57,7 @@ The Main OST for Deepwoken.
 -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
 -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   [**In Shade, Hollow**](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) (The Garden Reservoir) **File:The Garden Reservoir - Deepwoken OST.mp3**
--   **?????(Unknown?)** (Voidheart) **File:CorvusManorMain.ogg**
+-   ??? (Voidheart) File:CorvusManorMain.ogg
 -   [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray?in=naktigonis/sets/deepwoken-ost-1) (Voidsea) **File:Voidsea - Deepwoken OST.mp3**
 
   

@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 12742
+revid: 15938
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics]
@@ -22,4 +22,4 @@ See the [Escaping The Depths](https://deepwoken.fandom.com/wiki/The_Depths#Escap
 
 ## Notes
 
-It is very unwise to kill people at a low level as guards in Viglis and Etris will hunt you down. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 at a city, and impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 10 anywhere.
+It is very unwise to kill people at a low level as guards in Viglis and Etris will hunt you down. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 at a city, ~and impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 10 anywhere.~(this is false they usually don't have luck to give you, but they can still give luck)

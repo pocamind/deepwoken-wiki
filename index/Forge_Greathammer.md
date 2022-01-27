@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 14339
+revid: 15850
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons]
 |---|---|
 | type | Greathammer |
 | requirements | 55 HVY, 10 STR |
-| damage | 26 |
+| damage | 24 |
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.6x |

@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 15578
+revid: 15918
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -44,29 +44,26 @@ _Chance of obtaining race: **15.2%**_
 
 **Lore:**
 
-## Lore
-
-Wolf/lion people, blue haired/black haired are wolf-people, orange/golden haired are lion-people.
-
-Most human-like race in Deepwoken from a visual standpoint.
+  
+The race of canids, little is currently known about their origins.
 
 **Strengths:**
 
-## Strengths
+  
 
-+2 Strength, +2 Charisma.
++2 Strength  
++2 Charisma.  
 
-Inflicts less damage to their own allies.
+Inflicts less damage to their own allies.  
 
 **Weaknesses:**
 
-## Weaknesses
-
-Said passive of dealing less damage to allies can lead to one-sided spars
+  
+Loyalty makes combat practice and spars with housemates difficult
 
 **Surnames:**
 
-## Surnames
+  
 
 -   Bren
 -   Dardren
