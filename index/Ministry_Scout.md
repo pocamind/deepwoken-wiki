@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 14323
+revid: 16017
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Ministry Scouts are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave.
 
-Their appearance is repetitive and consists of a hat, a blindfold, a Prophet's Cloak, but not the race.
+Their appearance is repetitive and consists of a Vagabond's Bicorn, a Blindfold, and a Prophet's Cloak, but not the race.
 
 ## Moves
 

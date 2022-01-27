@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 15651
+revid: 15961
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -135,7 +135,7 @@ A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to
 
 # Notes/Trivia
 
--   No matter how intimidating the creatures of Deepwoken are, you must overcome your fears, there is always a chance, as they have (almost) always an attack pattern that can be parried/dodged while taking no damage if the one fighting is skilled enough.
+-   Creatures have predictable and easy to learn attack patterns.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
 -   NOT all attacks can be parried; Buy a Hunter Brace at the Summer Island to be able to.

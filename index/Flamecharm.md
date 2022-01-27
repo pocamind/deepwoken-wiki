@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 15851
+revid: 15967
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -124,7 +124,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Initial slashes are blockable.
 
  |
-|  | Flame Assault (★★) | Burst foward in flames. | User dashes forward attacking anything in their path.
+|  | Flame Assault (★★) | Burst forward in flames. | User dashes forward attacking anything in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
@@ -183,7 +183,15 @@ These talents have no category or their category is unknown.
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
-|  | Flame Within | Set yourself ablaze. | Sets the castar ablaze until they die, increasing stength and speed but dealing burn damage. Can be cancelled by rolling. |
+|  | Flame Within | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
+
+**Combat:**
+
+These are talents relating to combat.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Makes Fire Palm's hitbox wider but shorter. (Possibly broken right now.) |
 
 **Special:**
 
@@ -193,7 +201,7 @@ These talents are unique to their element and _may_ have no category.
 
 Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
 
-Obtaing Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance (usually around Power 25+).
+Obtaining Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance (usually around Power 25+).
 
 Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
 

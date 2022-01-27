@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 15290
+revid: 16007
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,7 +41,20 @@ Pressing "C" will activate the **Full Counter** Resonance.
 
 If the owner of this Resonance is Tarnished, **Full Counter** will be given a two second start-up. During this time, **Full Counter** can be easily interrupted.
 
+**Corrupted**
+
+If **Full-Counter** is found to be Corrupted,
+
+**Version 1**
+
+The user will use It like normal one but user will set on effect(Include burning,will take damage,gain insanity)
+
+There is no any information further than this
+
+  
+
 ## Trivia/Notes
 
 -   The 2nd and 3rd variations can be either parried, blocked or dodged while the 1st one can not.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
+-   Credit to N1R#3083 for helping me research corrupted part

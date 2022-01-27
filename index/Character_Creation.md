@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 15903
+revid: 15993
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

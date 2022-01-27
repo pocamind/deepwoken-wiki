@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 15812
+revid: 16018
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -270,7 +270,7 @@ Hand of Mantra Cards
 
 ###### Neuroplasticity
 
--   Genius Intellect \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a has a reduced Ether cost.
+-   Genius Intellect \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a mantra has a reduced Ether cost.
 
 ### Freak Of Nature
 

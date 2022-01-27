@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 15275
+revid: 15968
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -113,7 +113,7 @@ Battles between factions can randomly occur at anytime, and they usually take pl
 
 For example, in Erisia Island players may find Etrean Guards fighting off a group of enemies, such as bandits. Assisting with the Etrean Guards by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
 
-However, depending on who you attack and grip/finish will result in **losing** reputation from that faction~.~ You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Guards for reputation THEN grip the guards for exp.  
+~However, depending on who you attack and grip/finish will result in **losing** reputation from that faction.~ You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Guards for reputation THEN grip the guards for exp.  
 
 ## Factions/Entities
 

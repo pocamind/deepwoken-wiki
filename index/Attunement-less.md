@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 15758
+revid: 16010
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
 -   Requirement: 5 Strength, _Strength Combat Mantra_
--   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they FISTED._
+-   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they ~FISTED~ hit with this mantra._
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
 -   Requirement: ~7 Strength, _Strength Combat Mantra_
@@ -56,7 +56,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed and parkour.
 -   Requirement: 20 Agility, _Agility Support Mantra_
 
--   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Teleports the user a considerable distance forward. Damage significantly increases as the user loses health.
+-   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Teleports the user a considerable distance forward. Damage significantly increases as the user loses health. Reduces all fall damage if timed correctly.
 -   Requirement: 6 Agility, _Agility Combat Mantra_  
     
 
@@ -75,7 +75,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 `Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, bolster your sanity and wisdom with _Prayer Beads_.`
 
 -   **~Sigma Stare~ Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
--   Requirement: 25 Willpower, _Willpower Support Mantra (I got it at 25)_
+-   Requirement: 25
 
 -   **Exhaustion Strike-** A melee strike that once performed removes your posture's damage.
 -   Requirement: 40 Willpower, _Willpower Combat Mantra_

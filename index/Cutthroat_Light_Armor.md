@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 14785
+revid: 15974
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,7 +28,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Hunter_, which improves l
 
 This Outfit's Schematic can be found in:
 
--   Locations here
+-   Outside the Mantra shop in Vigil island.
 
 ## Trivia/Notes
 

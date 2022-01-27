@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 15957
+revid: 15960
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -68,7 +68,12 @@ The ability to buff allies around them
 
 Poor race for solo progression, try to find a group to best utilize your abilities.
 
-^ This is absolutely false. You obviously keep the knowledge passed down trough the lineage, and as such gain certain buffs such as faster regen, really high insanity resistance or starvation reduction.
+-   This is absolutely false. You obviously keep the knowledge passed down trough the lineage, and as such gain certain buffs such
+
+as faster regen, really high insanity resistance or starvation reduction.
+
+-   -   Ok so upon further testing on my capra they all share all of the passives: Insanity resistance, faster regen and less prone to starvation. Meaning this is, unironically one of the best races for solo and multi progressions alike.
+        
 
 ## Notes
 

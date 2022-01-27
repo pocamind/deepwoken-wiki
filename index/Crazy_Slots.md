@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 15477
+revid: 16016
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -96,6 +96,6 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 -   This bell is VERY overpowered. For example, a non-corrupted version of its spear with 100 medium will do slightly over 1 bar of your health. (This damage was observed with 320 HP)
 -   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use the abilities, as well as possessing quite high base stats.
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, my friend has a storm enchanted weapon and it shows blue light.)
--   If your weapon as stars, their effect will also apply to your Crazy Slots weapons.
+-   If your weapon has stars, their effect will also apply to your Crazy Slots weapons.
 -   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
 -   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
