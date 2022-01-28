@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 15909
+revid: 16310
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -55,6 +55,8 @@ _A prideful and greedy race, The Celtors had a city of great renown--known for t
 _Legends speak of the few survivors of the city recalling maddening tales of that fateful day. The creature known only as the Celtorian Horror, had been a beast of eldritch connotations, sporting a mass of tentacles and a beak. It has essentially erased the presence of the Celtorian city from our world._
 
 **Strengths:**
+
+Drippy asf
 
 Seaborne
 

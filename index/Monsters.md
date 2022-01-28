@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 15961
+revid: 16341
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ While each Monster has unique attacks and patterns they all share one thing; The
 
 While most of the way to fight a Monster is specific to what kind it is, there's generally a few good rules that apply to most, if not all monsters.
 
--   If an attack has a red aura/effect to it, it **CANNOT** be blocked normally, and must be dodged. They can only be blocked by using Ardour or the Hunter's Brace, but even then, red attacks are generally much faster and harder to parry correctly.
+-   If an attack has a red aura/effect to it, it **CANNOT** be blocked normally, and must be dodged. They can only be blocked by ~using Ardour or~ (I tested with mastered Ardour, you still get block broken) the Hunter's Brace, but even then, red attacks are generally much faster and harder to parry correctly.
 -   Never run from any Monster, if you know you have a slimmer of a chance of beating them. Many Monsters have tools specifically designed to catch runners, such as Megalodaunt's longer range barnacle spray. Additionally, Monsters have MUCH bigger bark than their bite. Even if they LOOK scary, many Monsters have much lower stats than their reputation/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
 -   Practice makes perfect, try and fight Monsters in safe situations where you are most likely to live, such as the Megalodaunt cave where they physically cannot reach you if you stay in the first section of a cave. Unpreparedness is a bigger killer than the Monsters themselves. The absolute worst thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, seen before. While many Monsters are indeed weaker than they look, others are the opposite and are deceptively strong, for example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   Monsters, while not being players, still are affected by most things a player would. Potions can damage/debuff them, most debuffs work on them, they can be hit with DOT's (in the Megalodaunt's case, having a hilarious animation when set on fire). Most importantly, though, they can be stunned if hit fast enough in rapid succession.

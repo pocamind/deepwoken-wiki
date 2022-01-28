@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 16159
+revid: 16319
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -137,9 +137,14 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 -   Your dashes become teleports, increasing your i-frames.
 
-You do NOT need luck for this card, to obtain this mantra you have to have thundercall mastery and must be able to obtain 3 star mantras - after which, every whisper from the deep will have a chance to include ‘Lightning Cloak’, it being a 3-star mantra does NOT mean that you need luck for it, and only signifies that you need at least 50 thundercall, that being the sole requirement.
+~You do NOT need luck for this card, to obtain this mantra you have to have thundercall mastery and must be able to obtain 3 star mantras - after which, every whisper from the deep will have a chance to include ‘Lightning Cloak’, it being a 3-star mantra does NOT mean that you need luck for it~, and only signifies that you need at least 50 thundercall, that being the sole requirement.
 
 If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during whispers from the deep card selections - as a level 60 you gain 12 total whispers from the deep, thundercall has 15 mantras, which means that should you pick every single mantra, you’d be left at a 1/5 chance of NOT receiving the mantra.
+
+File:Image 2022-01-28 072529.png
+
+  
+The claims about lightning cloak not being legendary are false, as shown in this screenshot it is a legendary mantra card meaning it will be incredibly rare to pull without luck.  
 
  |
 

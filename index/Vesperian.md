@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 16153
+revid: 16342
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -92,10 +92,6 @@ A layer of protective armor that regenerates at rest.
 -   Some of the mask designs that you can choose as a face may be based on designs found in the Kung-fu Soulslike _**Absolver**_.
 -   ragoozer and archmage are coming, i don't have much time left but... The blue vesperian, is REAL
 
-## Race progression
-
-As Vesperians grow older their masks become more intricate with markings and drawings ~and their horns grow.~ It has been confirmed that Vesperian Horns are a spec, and you do not gain them from aging.
-
 ## Trivia
 
 Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
@@ -103,3 +99,7 @@ Vesperians have Ganymede eyes underneath the mask, as in the lore they came from
 This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
 
 File:Similar Last Names.png
+
+Primal Vesperians _also known as Vesperian with horns_ are a spec made for a deepwoken player as a prize to winning an art contest.
+
+Vesperian Horns are unobtainable contrary to popular belief of getting them with age.

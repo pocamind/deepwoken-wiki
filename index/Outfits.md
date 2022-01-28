@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 16108
+revid: 16329
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -233,12 +233,8 @@ Songseeker Chests
 +1 Posture
 
  | Unknown |
-|  | Star Duster |1-20 Health +4-20 Ether +4-50 Resevoir +1-4 Posture +2-7% vs. (sea, depths, giant)
-| [The Duke](Duke_Ishamon_Erisia.md)
-
-Depths chests
-
- |
+|  | Providence Coat | Regular Stat Buffs | Depths Chests, Primadon Chests |
+|  | Star Duster | Regular Stat Buffs | Depths Chests, Primadon Chests |
 |  | Royal Pathfinder | 2-4 moderate-high tier buffs | [Starswept Valley](The_Starswept_Valley.md)
 
 Duke chests

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16263
+revid: 16325
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,14 +21,14 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 `Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with _Dumbells,_ chop trees with a _Lumber Axe or hit enemies with your weapon_.`
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
--   Requirement: 5 Strength, _Strength Combat Mantra_
+-   Requirement: 15 Strength, _Strength Combat Mantra_
 -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they ~FISTED~ hit with this mantra._
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
--   Requirement: ~7 Strength, _Strength Combat Mantra_
+-   Requirement: ~25 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
--   Requirement: 50 Strength, _Strength Mobility Mantra_  
+-   Requirement: 40-50 Strength, _Strength Mobility Mantra_  
     
 
 ### _**Fortitude Mantras**_
@@ -74,7 +74,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 `Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, bolster your sanity and wisdom with _Prayer Beads_.`
 
--   **~Glare~ Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
+-   **Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
 -   Requirement: 25 Willpower, _Willpower Support Mantra_
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
@@ -82,7 +82,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 ### _**Charisma Mantras**_
 
-`Charisma mantras are mainly based on support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on _'How to Make Friends'._`
+`Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on _'How to Make Friends'._`
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
 -   Requirement: 25 Charisma, _Charisma Support Mantra_
@@ -104,17 +104,17 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
--   Requirement: ?, _Light Weapons Agility Mantra (I got it at 20 LHT, unsure if you need more.)_
+-   Requirement: 10 ≥ Light Weapon, _Light Weapons Agility Mantra (I got it at 20 LHT, unsure if you need more.)_
 
 ### _**Medium Weapon Mantras**_
 
 -   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
--   Requirement: ?, _Medium Weapons Combat Mantra_
+-   Requirement: 10 ≥ Medium Weapon, _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
--   Requirement: ?, _Heavy_ _Weapons Combat Mantra_
+-   Requirement: 10 ≥ Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
 
 ## Upgrading Mantras
 
@@ -141,7 +141,7 @@ For example:
 
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
 -   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
--   Your agility mantras scale with your health (excluding Revenge and Adrenaline Surge).
+-   The only agility mantra that scales with your health is Strong Leap, we don't know why.
 -   Charisma mantras are a very good choice for gunslinger related builds.
 
 1.  Rapid Punches is the single Attunement-less 1 Star mantra.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 16284
+revid: 16308
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -10,7 +10,7 @@ categories: [Attributes, Character]
 
 “ It's a simple method, beat people up and get better equipment. It's like a Bandit-Beater! ”
 
-― A naive Celtor, moments before a Megalodaunt shot barnacles at him.
+― A naive Celtor, moments before a Megalodaunt football kicked him.
 
   
 
@@ -30,9 +30,13 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
-“ My right arm is a lot stronger than my left arm! ”
+“ Wow! How’d you get like that?
 
-― Tryndamere
+Every time I get gripped by a Shadowcaster…I do **ONE** push-up
+
+Jesus Christ! ”
+
+― An Exchange Between A Freshie Adret and a Buff Canor
 
   
 

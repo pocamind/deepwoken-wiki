@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 15734
+revid: 16333
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -39,7 +39,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Bell Startup. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. | 0 |
-| Vacant | "Something's missing." | ??? | 0 |
+| Vacant | "Something's missing." | Lose your face decal. Possibility to obtain when rerolling flaws at Yun-Shul. | 0 |
 
 ## Trivia/Notes
 

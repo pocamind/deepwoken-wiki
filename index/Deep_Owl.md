@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 16117
+revid: 16328
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Deep Owl
 
-_Black Owls, Giant Owls, Owls, Tyrone, The Lineage Destroyer_
+_Black Owls, Giant Owls, Owls, Tyrone, The Lineage Destroyer, Big Black Man_
 
 ## Description
 
@@ -42,7 +42,10 @@ Log or run away. Since the Deep Owl can be seen before it is physically spawned,
 
 In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the End Dialogue Option). _All of these options_ have same result where the owl will stare at you until you attack it first or show your back, at which it will turn hostile and attacks you. There isn't any time limit for owl to stare at you, meaning that if you encounter the owl, you can hold it at that position forever until you find someone to help, escape its detection range or until you log. Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state.
 
+If you don't want to log, there is another way. Click the "I'm just passing through" dialogue option while facing the owl. **KEEP YOUR EYES ON THE OWL AT ALL TIMES.** If there are any players with you they have to do the same. At this point just hold S and walk away from it slowly. You can go behind a wall but you have to still be facing in the direction of the owl. Once you've gone far enough you'll be free to look wherever now as it won't aggro on to you.
+
   
+
 **Fight**
 
 Typically, the Owl becomes reasonable to kill from level 30 onwards. It is recommended to bring a shield if unfamiliar with the Owl in order to learn its patterns. ~On the first encounter, the Owl will give the player a grace period to think of the upcoming moment.~ It will not turn hostile until you attack it, giving you a chance to land a single hit before it starts attacking you.

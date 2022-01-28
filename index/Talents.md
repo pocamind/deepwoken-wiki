@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16295
+revid: 16340
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -444,7 +444,7 @@ Prerequisite: Willpower 5~
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%.
+-   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: A fist style.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)

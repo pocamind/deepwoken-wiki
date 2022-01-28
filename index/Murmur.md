@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 16283
+revid: 16322
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -18,7 +18,9 @@ Currently, there are only two known Murmurs, Ardour and Tacet. It is possible th
 
 _"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-Murmur Ardour is a Murmur that, when active, doubles all outgoing posture damage. This Murmur is unusable until trained, instead instantly draining your entire ether bar.
+Murmur Ardour is a Murmur that, when active, doubles all outgoing posture damage.
+
+The ability normally cost a large amount of ether, but using it over and over again reduces the ether cost, up to 0.
 
 Murmur Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
@@ -39,13 +41,16 @@ Ardour Scream is a talent that can be obtained when the user has Murmur: Ardour 
 
 _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This murmur also requires to be trained.
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them.
 
-Murmur Tacet can be obtained by completing assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
+The ability normally has a large spotting radius, but using it over and over again reduces that range, up to about 3x melee range.
 
-This Murmur requires 75 Agility and 25 Charisma to obtain.
+Murmur Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
+
+This Murmur requires 20 Charisma to obtain.
 
   
+
   
 
 ## Training Murmurs

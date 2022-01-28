@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 16274
+revid: 16315
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -95,7 +95,7 @@ These mantras have no prequisites.
 
  | Freezing chains of ice. | Launches a narrow chain at the cursor's location.
 
--   Pull target toward user and deals light damage.
+-   When landed, slows the opponent and prevents them from attacking.
 -   Best used to start a combo or intervene with someone fleeing.
 
  |
@@ -169,7 +169,7 @@ These mantras have no prequisites.
 
 (★★★)
 
- | Placeholder | Creates a large ice platform and slides them quickly forward.
+ | Skate freely on paths of ice. | Creates a large ice platform and slides them quickly forward.
 
 -   _Can only be used in or on top of water._
 -   Leaves ice where the Mantra is casted.

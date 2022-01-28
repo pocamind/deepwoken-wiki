@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 16083
+revid: 16305
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ Legion Captain are found all around Hive in different locations usually fighting
 
 -   **Different Weapons:** Fast Normal M1 hits with Swords, Spears and Fists.
 
--   **Between Thundercall, Galebreath, Attunement-less mantras:** Rising Wind, Heavenly Wind, Gale lunge. Lightning impact. Strong left, Rapid punches.
+-   **Between ~Thundercall~, Galebreath, Attunement-less mantras:** Rising Wind, Heavenly Wind, Gale lunge. ~Lightning impact~. Strong left, Rapid punches. (they dont use thundercall)
 
 ### Tips
 

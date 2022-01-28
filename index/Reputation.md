@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 16047
+revid: 16303
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -36,7 +36,7 @@ Players can talk to the NPC guards posted within villages and islands. Depending
 
 Tip: [Officers Note](Cut_Content.md) can be used to increase reputation in Etrea
 
-Finally, at max positive reputation guards will fully acknowledge you and will even say your first name upon greeting you.
+Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
 Etrean Guard saying the player's name on max positive reputation
 
@@ -122,6 +122,7 @@ For example, in Erisia Island players may find Etrean Guards fighting off a grou
 -   The Central Authority
 -   The Kingdom of Etrea
 -   The Navaen Nomads
+-   Isle of Vigils/The Vigils of Wind
 -   Summer Company
 -   The 11th Legion/The Empire
 -   Greathive Aratel

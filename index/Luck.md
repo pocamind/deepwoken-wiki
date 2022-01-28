@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 16088
+revid: 16326
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Luck]
@@ -21,6 +21,8 @@ Luck is a hidden value that affects your Character's learning of rare Talents.
 Players have a "Luck wallet" that can hold a certain amount of luck. The size of this "wallet" slightly increases after each Power Up.
 
 ## Effects of Luck
+
+File:3starthundercloakluck.png
 
 -   Luck increases the likelihood of Rare/Legendary Talents (Indicated by their color backgrounds (Red or Green/Teal) and particle effects. Not to be confused with the Oathless card, which is Dark Blue) per [Power Level](Leveling.md) Increase.
     -   Note that Luck does not affect Mantra drawing. 1/2/3 stars mantras are locked behind Attunement requirements and share the same odds between each other to be drawn.
