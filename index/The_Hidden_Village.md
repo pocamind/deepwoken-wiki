@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 15595
+revid: 16255
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -34,6 +34,10 @@ Nimea's dialog prompt upon interaction with the player.
 -   When interacting with him he talks about his benefactors from the West and asks you if you know what benefactors he's talking about, forcing you to take a charisma check to proceed.
 -   If you passed the Charisma Check he will then tell you to kill another player in the server while also telling you their race.
 -   Kill the player he tells you to and come back and talk to him to claim your reward.
+
+  
+
+Upon completing 35 assassinations with 75 agility, you will obtain [Murmur](Murmur.md) Tacet
 
 File:Cestis.png.png
 

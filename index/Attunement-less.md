@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16149
+revid: 16263
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -104,7 +104,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
--   Requirement: ?, _Light Weapons Agility Mantra_
+-   Requirement: ?, _Light Weapons Agility Mantra (I got it at 20 LHT, unsure if you need more.)_
 
 ### _**Medium Weapon Mantras**_
 

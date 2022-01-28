@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 16034
+revid: 16271
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -93,7 +93,7 @@ _**Note:** The below values are only an estimate of what you will most likely fi
 | 8-18 | One or two Swordsmen [Mudskippers](Mudskipper.md) |
 | 19-28 | [Angels](Hollow_Angel.md) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
-| 44+ | [Enforcer](Enforcer.md) (guaranteed from Power 50 onwards) |
+| 43+ | [Enforcer](Enforcer.md) (guaranteed from Power 50 onwards) |
 | \>60
 (obtained
 

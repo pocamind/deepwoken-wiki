@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 15881
+revid: 16270
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,7 +32,7 @@ The Main OST for Deepwoken.
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-2?in=naktigonis/sets/deepwoken) Contour 2** (Plays in the continue screen after selecting your character)File:To Sleep, Dreaming (Contour 2).mp3
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) Contour 3** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 3).mp3
 -   **[To Sleep Dreaming](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) Contour 4** (Plays somewhere, unknown)File:To Sleep, Dreaming (Contour 4).mp3
--   **[To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine)** (General Combat Music(?))File:To Fight, Sanguine.mp3
+-   **[To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine)** (General Combat Music(Mainly Seas))File:To Fight, Sanguine.mp3
 -   **[On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants)** (A combination of all 4 Contours of To Sleep Dreaming)File:On The Shoulders Of Giants.mp3
 -   **[To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant?in=naktigonis/sets/deepwoken-ost-1)** (Aratel & Etrean Sea) **File:Aratel Sea - Deepwoken OST.mp3**
 -   **[The Trappings Of A Lord](https://soundcloud.com/naktigonis/the-trappings-of-a-lord?in=naktigonis/sets/deepwoken-ost-1)** (Erisia) **File:Erisia - Deepwoken OST.mp3**

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 15739
+revid: 16284
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -194,7 +194,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Thundercall
 
-“ Strike me down Yun'shul, YOU DON'T HAVE THE BA- ”
+“ Strike me down ferryman, YOU DON'T HAVE THE BA- ”
 
 ― Ballsy Celtor
 

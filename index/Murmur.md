@@ -1,63 +1,55 @@
 ---
 title: Murmur
-revid: 15569
+revid: 16283
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents, Character]
+categories: [Talents, Character]
 ---
 
 # Murmur
 
-File:Murmur-Ardour FerrymanEffect.png
-
-An adert using Ardour: Murmur
-
 ## Description
 
-Murmur is a channeling of song into various abilities. The two known Murmurs are "Ardour" and "Tacet". They are gained from killing or doing the respective quests.
+Murmurs are talents obtained by completing an objective that allow the user to channel the song and buff them in various ways.
 
-**You can hear whispers while the Murmur is active.**
+Currently, there are only two known Murmurs, Ardour and Tacet. It is possible there are more however there is no proof of others existing.
 
-## Murmurs & Obtaining Them
+## Murmur: Ardour
 
--   Murmur: Ardour is obtained by slaying [Dread Serpent](Dread_Serpent.md) (Kaido/Ardour) within the waters of the [Void Sea](Voidsea.md).
--   Ardour: Scream is obtained by a talent card after unlocking Murmur: Ardour
--   Tacet: Obtained by talking to a very rare NPC
--   Rhythm: Speculated _(Someone said it was confirmed by a mod. Unknown if true)_
+_"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-The Tacet NPC  
-Tacet NPC
+Murmur Ardour is a Murmur that, when active, doubles all outgoing posture damage. This Murmur is unusable until trained, instead instantly draining your entire ether bar.
 
-## Murmur Talents
+Murmur Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
-<table><caption>Notes: Murmurs take a lot of ether so you should train it before attempting to use it in combat.</caption>
-<tbody>
-<tr>
-  <th>Image</th>
-  <th>Name</th>
-  <th>Description</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption><p>Murmur: Ardour</p></figcaption></figure></td>
-  <td>Ardour</td>
-  <td>An application of the Song that enables one to channel the Murmur into raw strength. Press H.<p><br>
-  [Provides +5 Sanity, +9 Carry Load]</p></td>
-  <td>Provides a 15% posture damage buff. Great for NPCs (due to the fact that if they dont parry they almost immediately get guardbroken.) and Bosses/Monsters (due to the fact that it deals more damage towards a posture break.)</td>
-</tr>
-<tr>
-  <td><figure><figcaption><p>Murmur: Ardour Scream</p></figcaption></figure></td>
-  <td>Ardour Scream</td>
-  <td>Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)<p><br>
-  [Provides +9 Sanity, +1 Posture, +3 Health]</p></td>
-  <td>Stuns nearby enemies/players in close proximity for a couple of seconds at the cost of your ether. It also acts similar to Megalodaunt Roar, inflicting Insanity and a Combat Tag on nearby players.</td>
-</tr>
-<tr>
-  <td><figure><figcaption><p>Murmur: Tacet</p></figcaption></figure></td>
-  <td>Tacet</td>
-  <td>An application of the Song that enables the user to suppress their own Murmur. Press T while crouched.<p><br>
-  [Provides +4 Ether, +2 Passive Agility, +1 Health]</p></td>
-  <td>Turns the user invisible, similar to the <a href="https://deepwoken.fandom.com/wiki/Resonance#Portal">Portal Resonance</a>.</td>
-</tr>
-</tbody>
-</table>
+### Ardour Scream
+
+_"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
+
+Ardour Scream is a talent that can be obtained when the user has Murmur: Ardour and 40 willpower. Your murmur does not have to be trained.
+
+  
+
+  
+
+  
+  
+
+## Murmur: Tacet
+
+_"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
+
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This murmur also requires to be trained.
+
+Murmur Tacet can be obtained by completing assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
+
+This Murmur requires 75 Agility and 25 Charisma to obtain.
+
+  
+  
+
+## Training Murmurs
+
+A Murmur will be nearly unusable until it is fully trained, either having too short of a duration to be useful or draining your entire ether bar in seconds.
+
+A Murmur can be trained simply by using it, over and over. This process can take hours, and it is recommended you are at a campfire and have armor such as the [Pathfinder-Arch Sorcerer](Pathfinder_Arch-Sorcerer.md) or the [Prophets Cloak](<Prophet's_Cloak.md>) equipped.

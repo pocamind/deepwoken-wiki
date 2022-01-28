@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 16102
+revid: 16288
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -95,6 +95,11 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
  |
 |  | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
 
+  
++1 Size
+
++1 Range  
+
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
 -   Crafted with Cloudstone and Crystal lens.
@@ -106,6 +111,11 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
  |
 |  | Magnifying Stone | Likely same as Glass Stone, just better
+
+  
++2 Size
+
++2 Range  
 
 -   Crafted with a Stratus Stone and Perfect Lens
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 16157
+revid: 16267
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -183,7 +183,7 @@ These talents are found in the _Flamecharmer_ category.
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
-|  | Flame Within | Set your balls ablaze. | Sets the casters balls ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
+|  | Flame Within | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
 |  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Makes Fire Palm's hitbox wider but shorter. (Possibly broken right now.) |
 
 **The Emperor's Blade:**
