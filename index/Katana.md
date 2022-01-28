@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 13576
+revid: 16227
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,14 +10,13 @@ categories: [Weapons]
 
 | Katana | |
 |---|---|
-| type | Sword |
+| type | Medium Sword |
 | requirements | 25 MED |
 | damage | 18 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.75x |
 | penetration | 0% |
-| stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,6 +31,5 @@ The Katana is a Medium type weapon that can be obtained from chests found in [Mi
 
 ## Notes
 
--   This weapon can be found with an [Enchantment](Enchantments.md) on it, but that is extremely rare.
 -   The Vigil Guards on The Isle of Vigils use Katanas.
--   Katana damage is increased when wearing Vigil Initiate or Cloak of Winds armor (Paired Soul talent).
+-   Katana damage is increased by 20% when wearing Vigil Initiate or Cloak of Winds armor (Paired Soul talent).

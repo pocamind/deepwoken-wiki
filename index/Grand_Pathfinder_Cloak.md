@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 15985
+revid: 16147
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,7 +28,7 @@ This Outfit's Schematic can be found:
 
 -   The Depths
 -   The Hive
--   Upper Erisia
+-   Upper Erisia(Can also be found at lower erisia, very low chance though)
 
 ## Trivia/Notes
 

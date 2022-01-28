@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 16041
+revid: 16234
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,13 +10,12 @@ categories: [Weapons]
 
 | Adretian Axe | |
 |---|---|
-| type | Greataxe |
+| type | Heavy Greataxe |
 | requirements | 40 HVY |
 | damage | 26 |
 | scaling | 8 |
 | range | 8 |
 | swing speed | 0.61x |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | ? |
 | weight | 6 |
 | bankable | Yes |

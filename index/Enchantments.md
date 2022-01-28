@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 16036
+revid: 16224
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-You will no longer drown you also gain a strong buff to one stat on your armor with a downside (such as -2 posture).
+Currently unknown.
 
   
 

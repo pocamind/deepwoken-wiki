@@ -1,24 +1,31 @@
 ---
 title: Vigil Longsword
-revid: 11370
+revid: 16239
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Weapons, Items]
 ---
 
 # Vigil Longsword
 
-Template:Weapon Template V2
+| Vigil Longsowrd | |
+|---|---|
+| type | Medium Sword |
+| requirements | 40 MED |
+| damage | N/A |
+| scaling | N/A |
+| range | N/A |
+| swing speed | N/A |
+| penetration | N/A |
+| selling price | N/A |
+| weight | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | ??? |
+| description | N/A |
 
-## Vigil Longsword
+## Description
 
-Part of a series on [weaponry](Weapons.md).
-
-## Effects
-
-+Type: [Sword](<Sword_(weapon).md>)  
-+Damage: 20  
-+Medium Weapons Scaling: 6  
-+Weight: 5  
-+Range: 8  
-+Swing Speed: 0.75x
+The Vigil Longsword is a 40 MED weapon, it has fair range and is balanced across all attributes, becoming a very effective mid-tier weapon.

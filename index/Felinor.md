@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 11876
+revid: 16249
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -23,7 +23,7 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
   <td><b>Nightchild</b>
   <ul>
     <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nible on wooden surfaces</i>"</li>
-    <li><s>Bonus agility when climbing wooden surfaces</s> Bonus Stealth when walking on wooden surfaces, Bonus agility when climbing. (Tested)</li>
+    <li>Bonus Stealth when walking on wooden surfaces, Bonus agility when climbing.</li>
     <li>Improved Stealth</li>
   </ul></td>
 </tr>
@@ -42,26 +42,23 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
 
 **Lore:**
 
-## Lore
-
+  
 None yet.
 
 **Strengths:**
 
-## Strengths
+  
 
--   +2 Agility
--   +2 Charisma
--   Climbs faster and higher, especially against wood surfaces including trees.
--   Partically not affected by "Obvious" Flaw.
-    
++2 Agility  
++2 Charisma  
+Climbs faster and higher, especially against wood surfaces including trees.  
+
+Partically not affected by "Obvious" Flaw.  
 
 **Weaknesses:**
 
-## Weaknesses
-
--   Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
-    
+  
+Apart from problems with other players, Felinors do not have game stats-wise weaknesses.
 
 ## Notes
 

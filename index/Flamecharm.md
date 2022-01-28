@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 16115
+revid: 16157
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -16,7 +16,7 @@ Flamecharm icon
 
 Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning, damage per second and AoE effects.
 
-Flamecharm also has Talents attributed to it as well, allowing the user to fully expand their captivating flame abilities.
+While flamecharm lacks the level of damage other attunements, it makes up for this apparent weakness in utility and survivability.
 
 ## Training
 
@@ -29,7 +29,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
 
-The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain. The base cost is 100 notes to upgrade a mantra, but increases by 100 each time. You can level up a spell once every 25 (tested) attunement mastery. (e. g. level 2 at 25 flamecharm, level 3 at 50 flamecharm, level 4 at 75 flamecharm, etc.)
+The spelltrainer can be found in Songseeker Wilds in the temple on top of the mountain. The base cost is 100 notes to upgrade a mantra, but increases by 100 each time. You can level up a spell once every 25 attunement mastery. (e. g. level 2 at 25 flamecharm, level 3 at 50 flamecharm, etc.) up to a total of level 5.
 
 ## Mantras
 
@@ -176,23 +176,24 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 
 ## **Talents**
 
-**Uncategorized:**
+**Flamecharmer:**
 
-These talents have no category or their category is unknown.
+These talents are found in the _Flamecharmer_ category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
-|  | Flame Within | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
+|  | Flame Within | Set your balls ablaze. | Sets the casters balls ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
+|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Makes Fire Palm's hitbox wider but shorter. (Possibly broken right now.) |
 
-**Combat:**
+**The Emperor's Blade:**
 
-These are talents relating to combat.
+These are talents found in _The Emperor's Blade_ category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Makes Fire Palm's hitbox wider but shorter. (Possibly broken right now.) |
-|  | Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. | When dodging an attack, you leave behind a fire clone that burns the attacking enemy. |
+|  | Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) | When dodging an attack, you leave behind a fire clone that burns the attacking enemy. |
+|  | Exploding Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) |  |
 
 **Special:**
 

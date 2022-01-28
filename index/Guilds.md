@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 15895
+revid: 16122
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World]
@@ -20,15 +20,6 @@ Once you've founded your guild, you are given the Guild Officer tool. This tool 
 
 Members of a guild (including its leader) will stay in their guild after death. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. Being in the same guild as someone with a Merchant Schooner, Frigate, or Ironclad will allow you to spawn on their boat upon dying or resetting your character. Other benefits/changes from being in a guild are unknown currently, but being in the same guild would help seperate enemies from allies for support [Mantras](Mantras.md) such as [Rally](Attunement-less.md), [Canor](Canor.md) also might have a damage reduction buff for their allies within the same guild.
 
-## Lore Guilds
+## Notes
 
-Lore Guilds are guilds that players can join throught certain means. They work similarly to regular player made guilds, with the exception that there are no player Leader or Officers.
-
-Since lore guilds are mostly made up of scattered players, nothing really link them together and they usually will not be seen together or even work together for that matter.
-
-Keep in mind that joining a Lore Guild **WILL KICK THE PLAYER FROM THEIR CURRENT GUILD.**
-
-### [The Divers](The_Divers.md)
-
--   **Leader:** Unknown
--   **Officer:** [Akira](Akira.md) (is the one to enlist the player)
+-   There is a guild that the players can join in game: [The Divers](The_Divers.md).

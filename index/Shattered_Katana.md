@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 16042
+revid: 16236
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,14 +10,13 @@ categories: [Weapons]
 
 | Shattered Katana | |
 |---|---|
-| type | Sword |
+| type | Medium Sword |
 | requirements | 100 MED |
 | damage | 20 |
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.75x |
 | penetration | 25% |
-| stances | 2 Handed, 1 Handed |
 | selling price | ? |
 | weight | 5 |
 | bankable | Yes |

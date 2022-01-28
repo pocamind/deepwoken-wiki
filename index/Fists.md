@@ -1,16 +1,29 @@
 ---
 title: Fists
-revid: 15995
+revid: 16137
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Weapons, Pages with broken file links]
 ---
 
 # Fists
 
+| Fists | |
+|---|---|
+| type | Light Weapon |
+| requirements | 0 LHT (Way of Navae/Legion Kata)40 LHT (Jus Karita) |
+| damage | 12 (Way of Navae/Legion Kata)13 (Jus Karita) |
+| selling price | ??? |
+| weight | 3 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | ??? |
+
 ## Description
 
-**Fist Fighting Styles** or Fists are another type of weapon the player can use in Deepwoken. This weapon is scaled by the Light Weapons attribute.
+Fists are another type of scaled light weapon attribute the player can use in Deepwoken.
 
 Switching to fist stance while using another weapon. Note that the weapon being thrown at the ground is purely visual and does not remove it from the inventory.
 

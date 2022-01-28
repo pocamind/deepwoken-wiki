@@ -1,32 +1,29 @@
 ---
 title: "Champion's Sword"
-revid: 13870
+revid: 16238
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Weapons]
+categories: [Weapons, Items]
 ---
 
 # Champion's Sword
 
-Template:Weapon Template V2
+| Champion's Sword | |
+|---|---|
+| type | Medium Sword |
+| requirements | 40 MED |
+| damage | N/A |
+| scaling | N/A |
+| range | N/A |
+| swing speed | N/A |
+| penetration | N/A |
+| selling price | N/A |
+| weight | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | ??? |
+| description | N/A |
 
-## Effects
 
-+Type: [Sword](<Sword_(weapon).md>)  
-+Damage: 19  
-+Medium Weapons Scaling: 6  
-+Weight: 4  
-+Range: 8  
-+Swing Speed: 0.77x
-
-## Requirements
-
--   40 MED
-
-## How to obtain
-
--   Can be found on "Hive Island" - obtainable as a drop from chests after defeating mobs.
-
-## Notes
-
--   This sword can also be obtained as a one/two star weapon.

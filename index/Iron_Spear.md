@@ -1,19 +1,32 @@
 ---
 title: Iron Spear
-revid: 7836
+revid: 16235
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons]
 ---
 
 # Iron Spear
 
-## **Description**
+| Iron Spear | |
+|---|---|
+| type | Medium Spear |
+| requirements | N/A |
+| damage | N/A |
+| scaling | N/A |
+| range | N/A |
+| swing speed | N/A |
+| penetration | N/A |
+| selling price | N/A |
+| weight | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Etris Weapon Store |
+| description | "A staff with a point of iron, built to pierce enemies at far ranges. A great cheap and effective starting weapon." |
 
-Template:WeaponInfoBox_"A staff with a point of iron, built to pierce enemies at far ranges. A great cheap and effective starting weapon."_
-
-_Etris Weaponry_ - 25 Notes
-
-## **Trivia**
+## Notes
 
 -   The spear stances can be switched between two and one hand with Y.
 -   Spears are the lowest attack speed medium weapons, but also the highest damage.

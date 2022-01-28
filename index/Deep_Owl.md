@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 15713
+revid: 16117
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,7 +38,7 @@ The options one should consider when encountering the Owl is the **Fight** or **
 
 **Flight**
 
-Log or run away. Since the Deep Owl can be seen before it is physically spawned, as signified by the cascading feathers, it is almost guaranteed one can get away by turning back and returning the way they came.
+Log or run away. Since the Deep Owl can be seen before it is physically spawned, as signified by the cascading feathers, it is almost guaranteed one can get away by turning back and returning the way they came (if you just randomly get jumped by one, this won't work. Sometimes owls will just be standing somewhere random after they kill an enemy)
 
 In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the End Dialogue Option). _All of these options_ have same result where the owl will stare at you until you attack it first or show your back, at which it will turn hostile and attacks you. There isn't any time limit for owl to stare at you, meaning that if you encounter the owl, you can hold it at that position forever until you find someone to help, escape its detection range or until you log. Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state.
 

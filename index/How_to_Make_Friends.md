@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 15463
+revid: 16156
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,7 +37,9 @@ The phrases you need to recite near an NPC or player are listed below.
 
   
 
-When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines.
+When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines depending on the charisma of the player who spoke the line.
+
+Charisma 1-34
 
 -   I don't have time for this...
 -   Ahah...
@@ -46,7 +48,12 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   What?...
 -   Please leave me alone...
 
-  
+Charisma 35<
+
+-   Uh huh.
+-   Oh, sure.
+-   Mhm.
+-   Yeah.
 
 ## Notes/Trivia
 

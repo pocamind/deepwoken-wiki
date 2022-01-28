@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 13396
+revid: 16244
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,21 +10,42 @@ categories: [Weapons]
 
 | Stiletto | |
 |---|---|
-| type | Dagger |
+| type | Light Dagger |
 | requirements | 0 LHT |
 | damage | 10 |
 | scaling | 1 LHT |
 | range | 6.5 |
 | swing speed | 1.05x |
 | penetration | N/A |
-| stances | 1 Handed |
 | selling price | 10 Notes |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starting weapon for light weapon users.Also obtained from Etris store. |
+| obtainment | Main Menu Selection Etris store. |
 | description | "A remarkably thin blade often likened to (and used as) a toothpick." |
 
-The Stiletto is a dagger that light weapon users start with beginning the game. The weapon has a base damage of 10. This weapon can be obtained by starting with it by choosing light weapon, buying it at Etris, or getting it from a drop at Erisia.
+| Parry Dagger | |
+|---|---|
+| type | Offhand Weapon (dagger) |
+| requirements | 10 LHT |
+| damage | N/A |
+| scaling | 8 (?) |
+| range | N/A |
+| swing speed | N/A |
+| endlag | N/A |
+| penetration | N/A |
+| special effect | Decreases self posture gain (from opponent parry), increases opponent posture gain (upon successful parry). Slight damage increase. |
+| selling price | 25 notes |
+| weight | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Obtained from Etris Store, Erisia, Depths. |
+| description | (Gonna fill when acquiring another) |
+
+## Description
+
+The Stiletto is a dagger that light weapon users start with beginning the game. The weapon has a base damage of 10. This weapon can be obtained by starting with it by choosing light weapon, buying it at Etris, or getting it from a drop at [Erisia](Erisia.md).

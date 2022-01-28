@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 15374
+revid: 16233
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,7 +10,7 @@ categories: [Weapons]
 
 | Darksteel Greatsword | |
 |---|---|
-| type | Greatsword |
+| type | Heavy Greatsword |
 | requirements | 40 HVY, 10 STR |
 | damage | 26 |
 | scaling | 8 |
@@ -19,7 +19,6 @@ categories: [Weapons]
 | endlag | 0.1s |
 | penetration | 0% |
 | special effect | N/A |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
 | weight | 9 |
 | bankable | Yes |

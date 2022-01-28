@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 15365
+revid: 16229
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
