@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16281
+revid: 16295
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -29,8 +29,6 @@ There are many Talents in Deepwoken, all of which are under certain categories, 
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are some examples of this.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements.
-
-(Note: This is speculative information, however after getting a total of 20 good talents (17 rare and 3 legendaries) for some reason I never got another rare or legendary talent, even though I only level up after killing the ferryman once, there might be a limit to how many good talents you can get, for information, my build is 100 INTELLIGENCE, 100 CHARISMA, 100 FROSTDRAW, I still haven't gotten frozone, live and saint jay, yet even with the hefty amount of luck after killing alot of ferrymans, but take this with a grain of salt as once again this is only speculative information)
 
 **ABOUT WILDCARDS (IMPORTANT)** - The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 

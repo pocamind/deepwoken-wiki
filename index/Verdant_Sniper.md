@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 14751
+revid: 16296
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -22,9 +22,10 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +20% Elemen
 
 ## Location
 
-This Outfit's Schematic can be found:
+This Outfit's Schematic can be found at:
 
--   Locations here
+-   Scope's Quest in Summer Isle
+-   Chests in Summer Isle
 
 ## Trivia/Notes
 
