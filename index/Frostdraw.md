@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 16315
+revid: 16406
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -73,7 +73,7 @@ These mantras have no prequisites.
 
 (★)
 
- | Placeholder | User throws three daggers of ice toward the nearest person.
+ | Placeholder | User throws three daggers of ice toward the nearest person. | Likely requires luck to obtain
 
 -   Homing attack.
 -   Can be upgraded with Frozen Pin-Cushion (freezes opponents for a long period of time)

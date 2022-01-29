@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 16351
+revid: 16400
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -29,10 +29,10 @@ The phrases you need to recite near an NPC or player are listed below.
 -   Me-wow, is that the latest Felinor fashion?
 -   So, what's keeping you busy these days?
 -   Hey hivekin, can I bug you for a moment?
--   So, how's work?'
--   Wow, this breeze is great, right?'
+-   So, how's work?
+-   Wow, this breeze is great, right?
 -   Sometimes I have really deep thoughts about life and stuff.
--   Some weather we're having, huh?'
+-   Some weather we're having, huh?
 -   You ever been to a Canor restaurant? The food's pretty howlright.
 
   
@@ -48,12 +48,20 @@ Charisma 1-34
 -   What?...
 -   Please leave me alone...
 
-Charisma 35<
+Charisma 35-70
 
 -   Uh huh.
 -   Oh, sure.
 -   Mhm.
 -   Yeah.
+
+Charisma 70+
+
+-   Oh! I see!
+-   Wow!
+-   Of course!
+-   No way!
+-   Alright!
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 16063
+revid: 16388
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,7 +8,7 @@ categories: [Boss]
 
 # Nautilodaunt
 
-_Sometimes referred to as **Squidward**, Squid Hoss, Niglodaunt, and Squibbo._
+_Sometimes referred to as **Squidward**, Squid Hoss, Niglodaunt, Squidgames(NubMan101 outscales him in speed), and Squibbo._
 
 ## Description
 

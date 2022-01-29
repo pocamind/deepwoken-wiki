@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 16319
+revid: 16395
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -91,6 +91,7 @@ Strike (★)
 |  | Bolt Piercer (★★) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
 
 -   **HEAVY DAMAGE**. At Level 1, it can depletemore than half a healthbar.
+-   May be a mantra card which requires luck
 
  |
 

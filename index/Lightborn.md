@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 15941
+revid: 16393
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -63,5 +63,5 @@ oh my god is that a developer no way
 
 ## Notes
 
--   Only obtainable from admins
+-   Only obtainable from developers
 -   While considered a developer race, the increase in stats is not significantly stronger than any other race

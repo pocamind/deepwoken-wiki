@@ -1,12 +1,14 @@
 ---
 title: Enforcer
-revid: 15944
+revid: 16387
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
 ---
 
 # Enforcer
+
+Nicknames: The feinting Menance. (The enforcer gets this nickname from being a feinting god). ~ NubMan101
 
 “ I shall relish in scraping their remains off the floor. ”
 

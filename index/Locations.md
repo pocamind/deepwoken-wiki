@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 15965
+revid: 16409
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -109,8 +109,4 @@ The City of the Drowned
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
-## Other
-
-A list of locations that can be found elsewhere.
-
--   [Fragments of Self](Fragments_of_Self.md)
+-   [Fragments of Self](Fragments_of_Self.md) (While technically not \*in\* the Depths it is still part of the Depths, as shown by the character selection screen.)
