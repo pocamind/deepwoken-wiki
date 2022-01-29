@@ -1,14 +1,12 @@
 ---
 title: Food
-revid: 15887
+revid: 16485
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Food
-
-_"Finally, some good fucking food." - Morgan Rhansey_
 
 ## Description
 

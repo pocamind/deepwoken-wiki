@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 16393
+revid: 16466
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -59,7 +59,7 @@ Easier to play the game, because obviously you played it too much.
 **Weaknesses:**
 
   
-oh my god is that a developer no way
+\[NONE KNOWN\]
 
 ## Notes
 

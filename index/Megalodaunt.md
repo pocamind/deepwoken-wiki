@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 16330
+revid: 16507
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Megalodaunt
 
-Commonly referred to as Shark, Sharko, Tyrone, Jamaal.
+Commonly referred to as Shark, Sharko.
 
   
 Template:Creature Infobox V3

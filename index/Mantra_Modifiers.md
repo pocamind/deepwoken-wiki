@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 16427
+revid: 16483
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -343,3 +343,4 @@ also looks identical to falseflame.
 -   The 5 blue Disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
 -   **1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.
+-   Falseflame stone, haunting stone and mirage stone are not meant to be in the game and do not do anything. (Arch said he didn't know how people got them as they are unreleased material)

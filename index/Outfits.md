@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 16329
+revid: 16478
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -329,5 +329,6 @@ _Requires Power Level 30_
 
 -   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
 -   Some accessories can be Ascended, Enlightened or Celestial and have buffed stats.
--   Arch confirmed that there are **5** master armors.
+-   Arch confirmed that there are **5** master armors. (?)
 -   If you have crafted the armor, you can swap back to it again. This can be done with all armor sets—as long as you've crafted it on that character.
+-   **Royal Bodyguard** is currently bugged - you cannot hand it in to the blacksmith.

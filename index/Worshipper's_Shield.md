@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 16228
+revid: 16444
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -34,4 +34,4 @@ The Worshipper's Shield can be obtained by buying it from Lance's Food in Etris 
 
 ## Notes
 
--   This weapon is very good for no reason. It has a low stat requirement for how good it is, and outclasses most of the endgame Heavy Weapons in every way possible despite this. The Adretian Axe is literally better than a [Pale Morning](Pale_Morning.md).
+-

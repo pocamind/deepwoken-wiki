@@ -1,9 +1,11 @@
 ---
 title: Vigil Longsword
-revid: 16239
+revid: 16488
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items]
+categories: [Weapons, In progress with reason, InProgressPages, Items]
+notices:
+  - This page is currently being worked on. Some things may still be incomplete.
 ---
 
 # Vigil Longsword

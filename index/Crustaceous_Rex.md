@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 15986
+revid: 16504
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 16045
+revid: 16467
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -33,7 +33,7 @@ For anyone who has played any seafaring games before, you may realize that the w
 
 -   Rotate your sails to be perpendicular of the flag/the wind (seen below) increases your speed.
 -   The flag at the top of your boat points the opposite direction of the wind.
--   You can hyperdrive if you have the hidden talent for it unlocked (whatever that means...)
+-   You can hyperdrive if you have the hidden talent for it unlocked (?)
 
 ## Notes/Trivia
 

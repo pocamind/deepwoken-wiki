@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16424
+revid: 16445
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -166,14 +166,14 @@ Hand of Mantra Cards
 
 ### Butterfly
 
--   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after successfully dodging an attack (+1 Passive Agility)
--   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediately (+1 Passive Agility)
+-   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+-   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
 -   Acrobat \[Generic Talent, Common Talent\] - Move faster when doing a Walljump. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. ~(Not in description: Also halves the invincibility frames of your dodges)~ The downside was removed as of 01/01/2022. (+1 Passive Agility)
+-   Risky Moves \[Generic Talent, Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
 
 ### Caster
 
--   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage(15% dmg buff).
+-   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage. (15% dmg buff).
     -   Prerequisite: 40 Intelligence
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having full health causes your mantras do 1.25x damage.
     -   Prerequisite: Intelligence (confirmed, only ever got this when I had over 20 intelligence)

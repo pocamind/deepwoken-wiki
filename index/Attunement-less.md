@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16325
+revid: 16464
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,11 +21,11 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 `Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with _Dumbells,_ chop trees with a _Lumber Axe or hit enemies with your weapon_.`
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
--   Requirement: 15 Strength, _Strength Combat Mantra_
+-   Requirement: 5~ Strength, _Strength Combat Mantra_
 -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they ~FISTED~ hit with this mantra._
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
--   Requirement: ~25 Strength, _Strength Combat Mantra_
+-   Requirement: 5~ Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
 -   Requirement: 40-50 Strength, _Strength Mobility Mantra_  
@@ -104,17 +104,17 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
--   Requirement: 10 ≥ Light Weapon, _Light Weapons Agility Mantra (I got it at 20 LHT, unsure if you need more.)_
+-   Requirement: 5 Light Weapon, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
 -   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
--   Requirement: 10 ≥ Medium Weapon, _Medium Weapons Combat Mantra_
+-   Requirement: 5 Medium Weapon, _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
--   Requirement: 10 ≥ Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
+-   Requirement: 5 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
 
 ## Upgrading Mantras
 
