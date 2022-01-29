@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 15495
+revid: 16361
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   drip
+-   One of the best early/mid game armors, as it gives fairly high physical and elemental armor, which rivals some expert tier armors while remaining cheap to make.

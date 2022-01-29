@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 14429
+revid: 16379
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,11 @@ categories: [Monsters]
 
 # Thresher
 
-**Thresher:**
+**Crocco:**
 
-# Thresher
+# Crocco
 
-_Also known as Crocodiles, Crocs, and many other Lizard names'_
+_Also known as Crocodiles, Crocs, Threshers, and many other Lizard names'_
 
 ## Description
 

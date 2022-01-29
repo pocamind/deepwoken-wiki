@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 16335
+revid: 16365
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,5 +19,5 @@ There are six Deep Gems, including:
 -   **Wind Gem -** Gives you a small speed boost when you hit a player/NPC with your mantra.
 -   **Wayward Gem -** When you hit a player/NPC with your mantra, you are teleported to the player/NPC.
 -   **Blue Gem -** Reduces Ether Cost of a mantra significantly. (?) Steals reservoir from your opponent and gives it to you if you hit someone with your mantra.
--   **Blessed Gem -** Removes cooldown on all other mantras if you hit a player/NPC with the mantra that has a Blessed Gem on it (?).
+-   **Blessed Gem -** Removes cooldown on all other mantras if you hit a player/NPC with the mantra that has a Blessed Gem on it.
 -   **Insignia Gem -** Removes the windup on your next mantra (removes the windup of the mantra you use after hitting the mantra with the gem on it)

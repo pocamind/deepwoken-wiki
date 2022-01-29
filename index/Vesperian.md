@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 16342
+revid: 16363
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -84,7 +84,7 @@ A layer of protective armor that regenerates at rest.
 ## Notes
 
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it.
--   ~Judging by the Deep Owl, Large Eyes, "Chitin" armor, and the Hollow Knight references, it's hard to tell if Vesperian is based on some form of bug or an owl.~ Vesperians are confirmed to be based on bugs, and even if they weren't it would be easy to tell just going by clues given in game. They live in hives, they make strange sounds when attacked, and even the Vesperian joke in the charisma training book has "bug" as a punchline. Not to mention that owls don't have chitin.
+-   It's assumed that Vesperians are indeed bugs, but there is a possible relation to the Deep Owl, opening new theories.
 -   A Vesperian with Blindseer
     
     Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye.

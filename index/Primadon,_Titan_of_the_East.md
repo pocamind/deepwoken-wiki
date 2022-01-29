@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 15817
+revid: 16347
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -37,8 +37,8 @@ Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Pr
 
 ## Rewards
 
--   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-5 Umbral Obsidian in them.
--   **Small chest -** Has 1-4 Umbral Obsidian in it and a 50% chance of 1-2 Deep Gems.
+-   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-6 Umbral Obsidians in them.
+-   **Small chest -** Has 1-23 Umbral Obsidians in it and a 50% chance of 1-2 Deep Gems.
 -   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo Primadons is enough to get a resonance/bell)
 
 ## Strategies & Tips

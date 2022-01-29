@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 16225
+revid: 16359
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -10,23 +10,23 @@ categories: [Weapons]
 
 | Parry Dagger | |
 |---|---|
-| type | Offhand Weapon (dagger) |
+| type | Offhand Weapon (Dagger) |
 | requirements | 10 LHT |
-| damage | N/A |
-| scaling | 8 (?) |
-| range | N/A |
-| swing speed | N/A |
+| damage | 4 |
+| scaling | 0 |
+| range | 8 |
+| swing speed | 1.05x |
 | endlag | N/A |
 | penetration | N/A |
 | special effect | Decreases self posture gain (from opponent parry), increases opponent posture gain (upon successful parry). Slight damage increase. |
 | selling price | 25 notes |
-| weight | N/A |
+| weight | 1 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Obtained from Etris Store, Erisia, Depths. |
-| description | (Gonna fill when acquiring another) |
+| description | A dagfer that is used more as a pivot for parrying than as a weapon of its own right. |
 
 ## Description
 

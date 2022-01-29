@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 16224
+revid: 16382
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -283,7 +283,7 @@ Drowned
 
  | 
 
-Currently unknown.
+Drowned enchant makes it so 1 random stat buffed really high but in return it makes another random stat debuff, For example: +104% stealth but -4 health
 
   
 

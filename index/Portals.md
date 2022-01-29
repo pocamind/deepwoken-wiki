@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 15478
+revid: 16381
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,9 +29,20 @@ Pressing "C" will activate the **Portal** Resonance.
 
 ### _Variants_
 
-Pressing "C" while the Resonance is activating will perform **Portal Strike**.
+Portal have 2 versions
 
-Instead of opening a gateway Infront of them and disappearing, the user will instead dive into the ground like a fish and gain the same effects as normal **Portal**. When the time is up the user will jump out of the ground in a upwards drop kick hitting the enemies into the air. Everything else with this Variant is the exact same as the normal usage.
+#### **_Versions_**
+
+-   **Version 1** is the regular version with no difference
+-   **Version 2** provide the user with an offensive version of the resonance on top of the regular version, which can be activated by double tapping C. Doing so make the user dive in the ground via a portal, making them invisible and intangible. Cancelling/ending the ability make the user perform an upward rising kick, which send the target upward, along the user. Can be used to combo.
+
+#### _**Tarnished**_
+
+If the owner of this Resonance is Tarnished, there will be a 2 second wind up before the ability triggers. Can be interrupted via damage.
+
+#### _**Corrupted**_
+
+If Portal is found to be corrupted, the duration of the ability is tripled.
 
 ## Trivia/Notes
 

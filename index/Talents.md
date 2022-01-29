@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16340
+revid: 16369
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -553,6 +553,11 @@ Prerequisite: Willpower 5~
 -   Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
 -   Silencer's Edge \[Generic Talent, Galebreath Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
+### Singer
+
+-   Encore \[Generic Talent, Charisma Exclusive, Rare Talent\] - Your sing will stun opponents who are already charmed. (+4 Health)
+    -   Prerequisites: Sing (Charisma Mantra)
+
 ### Sturdy Resolve
 
 -   Grasp on Reality \[Generic Talent, Common Talent\] - Damage taken from insanity is reduced. (+2 Health)
@@ -621,6 +626,7 @@ Prerequisite: Willpower 5~
     -   Prerequisites: Flamecharm
 
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
+    -   Prerequisites: Flamecharm
 
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: Flamecharm
@@ -901,7 +907,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 -   The Card, "The Sound from Below" is always granted on your first Power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
--   The Card, "Exploding Mirage Clones" explode with the original yellow/red flames instead of blue flames, if you've obtained the Azure Flames card. This is also true for the card Meteor Impact.
+-   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 
   
 Template:Navbox:Talents

@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 15480
+revid: 16380
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -30,6 +30,8 @@ Pressing "C" will activate the **Teleportation** Resonance.
 **Teleportation** will set a waypoint and transport the user and players to that waypoint when used.
 
 ### _Variants_
+
+**Blessed Version** gives possibility to post 3 waypoints.
 
 **Teleportation** has no unique variants, but has variants unique to it.
 
