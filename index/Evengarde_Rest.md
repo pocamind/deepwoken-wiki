@@ -1,0 +1,19 @@
+---
+title: Evengarde Rest
+revid: 16442
+source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Evengarde Rest
+
+## Description
+
+Template:NPC name **"Maestro" Evengarde Rest** is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon proficiencies. He cannot be attacked and will not attack anyone.
+
+Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+
+## Notes/Trivia
+
+-   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
+-   Presumably a [Galebreather](Galebreathe.md), given that the other Vigils are. There is also a Galebreathe talent named "Maestro's Blade", which allows the user to enhance their weapon by inhaling their mantras.

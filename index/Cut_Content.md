@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 16331
+revid: 16426
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -9,6 +9,10 @@ notices:
 ---
 
 # Cut Content
+
+## Location
+
+-   **The Voidheart -** While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.
 
 ## Mantras
 

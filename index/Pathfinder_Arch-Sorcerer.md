@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 14799
+revid: 16433
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,7 +28,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which
 
 This Outfit's Schematic can be found in:
 
--   Locations here
+-   Lower Erisia
 
 ## Trivia/Notes
 

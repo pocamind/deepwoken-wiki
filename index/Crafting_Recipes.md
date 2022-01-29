@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 14857
+revid: 16441
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,6 +45,14 @@ Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the reci
 
 Certain foods, usually the more complicated one/which require more work to obtain, grant Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 
+### **Known Boosts:**
+
+-   _"You feel your wounds closing up..."_ This buff significantly increases the user's health regeneration speed.
+-   _"Slowed Stomach" =_ This buff significantly decreases the user's starvation speed.
+-   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
+-   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
+-   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
+
 Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
 
 ### _Non-Campfire Recipes_
@@ -62,9 +70,9 @@ Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
 -   **\[C\] Mushroom Bisque** - Any Mushroom + Crustacean Meat
 -   **\[V\] \[C\] [Bread](Bread.md)** - _3 Gathered Wheat_
 -   **Omelette/Cooked Egg** - _2 Eggs_
--   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increases Weapon damage)
+-   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increased weapon damage)
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
--   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (increased heal rate, makes you thirsty)
+-   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Increased heal rate, makes you thirsty)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
 -   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_

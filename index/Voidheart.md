@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 15750
+revid: 16425
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links]
 File:VoidheartV2.png
 
 ## Description
+
+\-Voidheart has been removed from the game due to it having no purpose-
 
 The Voidheart is a location that was completely unintentional, so far away that the devs didnt think anyone would find it, as of now, it acts like a world border, as its the edge of the sea.
 

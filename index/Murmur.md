@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 16422
+revid: 16428
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -42,7 +42,9 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them.
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. Note that it doesnt make the player appear invisible to themself, the activation is told via an inward ring. Manual deactivation is announced by an outward ring.
+
+The only doable actions are crouch walking and rolling. Performing anything else, such as attacking, pulling out a weapon or casting a mantra forces the ability to deactivate.
 
 The ability normally has a large spotting radius, but using it over and over again reduces that range, up to about 3x melee range.
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 16395
+revid: 16432
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -145,7 +145,14 @@ If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during 
 File:Image 2022-01-28 072529.png
 
   
-The claims about lightning cloak not being legendary are false, as shown in this screenshot it is a legendary mantra card meaning it will be incredibly rare to pull without luck.  
+
+~The claims about lightning cloak not being legendary are false, as shown in this screenshot it is a legendary mantra card meaning it will be incredibly rare to pull without luck.~
+
+File:Image 2022-01-29 033846.png
+
+Screenshot i ripped from Shinqz video "Deepwoken - Lighting Cloak Build!!!"
+
+No its not, its a mantra just like any other, legendary cards are easily distinguished by the color of the card and the literal title "Legendary card" on it, you can only pull it from when the deep beckons you, that wouldn't be the case if it was a legendary talent, however it is not an easy mantra to get and gaining luck will not help you pull lightning cloak.  
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 16288
+revid: 16427
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -124,7 +124,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
  |  |
 |  | Vibrant Gem | +2 Intensity | 
 
--   Fire - burns more
+-   Fire - burns more (Campfire-type mantras heal faster.)
 -   Ice - slows more
 -   Thunder - stuns more
 -   Shadow - steals more ether
@@ -144,8 +144,6 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   This modifier adds a massive A.O.E. explosion of ice spikes for _Glacial Arc,_ and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
 
 ## Deep Gems
-
-(If anyone has these gems please update the wiki with their pictures)
 
 Deep Gems (not to be confused with the Vibrant Gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped on a single mantra.
 

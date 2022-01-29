@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16369
+revid: 16424
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -31,6 +31,8 @@ There are certain cards that are handed to you automatically, free of charge. Ca
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements.
 
 **ABOUT WILDCARDS (IMPORTANT)** - The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
+
+It is confirmed that after getting a total of 20 rare and legendary talent cards (i.e. 12 rares, 8 legendaries/19 rares, 1 legendary/15 rares, 5 legendaries), you are unable to get any more rare and legendary cards anymore, no matter how much you level up or gain luck.
 
 [Power Icon (Located at the top center of the screen)](https://deepwoken.fandom.com/wiki/File:Power_Card_Icon.png)
 
