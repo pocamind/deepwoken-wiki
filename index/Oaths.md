@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 16408
+revid: 16628
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -52,7 +52,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 40
+-   Willpower 50
 -   Any Blindfold (Chest Item)
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
 

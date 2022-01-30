@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 16269
+revid: 16708
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -93,6 +93,14 @@ _**Ey migi vuru?**_
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 
 The one and only... MEAT LORD!
+
+File:Meatlordphoto.png
+
+A picture of the Meat Lord before his ascension.
+
+  
+
+  
 
   
 
@@ -334,9 +342,10 @@ File:Divers Icon.png
 -   **Attunements:** _Thundercall?_
 -   **Alliances:** None
 -   **Enemies:** _None_
--   **Lore Sources:**
+-   **Lore Sources:** _Ferryman_
     -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
     -   The Ferryman, the only confirmed Krulian, says that Krulians are the next step in the evolutionary chain and that they are the closest link between the people of the surface and the gods below.
+    -   It could be likely that due to Aelita's power and Krulian-like status, Krulians are not nearly as much as a race as they are an obtainable feat by any race. Evidence further backing this up includes the Ferryman having an Etrean appearance, and Aelita having a Felinor-like appearance.
 
 ### The Golden Warriors
 
@@ -424,6 +433,22 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 ## Deepwoken: ~1271 (New World)
 
 This category lists all the Lore of Deepwoken, taking events after the Tides, up to the Spring of Year 1271.
+
+### The Song
+
+**Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope_
+
+-   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
+-   The Song is assumed to be the formula of all things; such as Mantras, Ritual Casting and other things.
+
+### The Cantaclysm
+
+**Lore Sources:** _Celestial Telescope, Curved Blade of Winds_
+
+-   An event that occured ever since the arrival of Celestials.
+-   Cantaclysm, on its own terms, is a Catastrophe relevant to music.
+-   It is unknown what the Cantaclysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
+    -   It is theoretically assumed that the Cantaclysm introduced the magic of Deepwoken; called Attunements.
 
 ### The Great Drowning
 

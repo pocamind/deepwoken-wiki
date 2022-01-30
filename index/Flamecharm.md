@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 16537
+revid: 16705
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -59,6 +59,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Burns target(s).
 -   Can destroy certain parts.
 -   Can propel the caster backwards if it is casted while jumping/walking backwards or in water.
+-   Clicking again while firing will fire additional bullets, at the cost of more ether.
 
  |
 |  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.

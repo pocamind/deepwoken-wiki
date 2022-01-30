@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 16388
+revid: 16715
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,11 +8,11 @@ categories: [Boss]
 
 # Nautilodaunt
 
-_Sometimes referred to as **Squidward**, Squid Hoss, Niglodaunt, Squidgames(NubMan101 outscales him in speed), and Squibbo._
+_Sometimes referred to as **Squibbo**, Squid Hoss, Niglodaunt, Squidgames(NubMan101 outscales him in speed)_
 
 ## Description
 
-Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the Depths. Despite having health equal to a [Megalodaunt](Megalodaunt.md), it is considered the hardest enemy to solo, as it will parry almost every single attack. It spawns in City of the Drowned and drops Odd Tentacles.
+Template:Creature Infobox V3 Squidward (Official name in the game files) resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles.
 
 ### Attacks
 
@@ -31,13 +31,12 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 
 ## **Notes/Tips**
 
--   **Stay calm and feel the rhythm** when fighting. If you don't, your will miss your parries.
+-   **If you do not want to kill him with skill, get him stuck behind a thin wall (the wall of a building for example) and just spam your crit. You'll kill him in 2 seconds**
 -   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder than [Primadon](Primadon,_Titan_of_the_East.md) or the [Enforcer](Enforcer.md).
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective than the latter two.
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 -   If it is Corrupted **RUN,**. He will violate you in 10 seconds.
--   In the game files, its name is Squidward.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does an **INSANE** amount of damage.
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping

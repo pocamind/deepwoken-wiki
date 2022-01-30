@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 16402
+revid: 16566
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -83,7 +83,7 @@ Phase two is where shit gets real, the real fight. All of his previous attacks g
 The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
 
 -   "Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!" - You killed the Ferryman within the time limit and received a reward. (Only available in Summer (only once), Autumn and Winter)
--   "Look into the flames, and you shall see my gift... If you have the strength to take it that is. - (likely explanation: You took too long doing it and received no reward; The Ferryman is timed like Primadon is (you still get luck). Could be related to purple flame from 'the Forge of Sin' in the [Temple of the Forgotten Flame](https://deepwoken.fandom.com/wiki/Temple_Of_The_Forgotten_Flame) (Only available in Spring)
+-   "Look into the flames, and you shall see my gift... If you have the strength to take it that is. ~\- (likely explanation: You took too long doing it and received no reward; The Ferryman is timed like Primadon is (you still get luck). Could be related to purple flame from 'the Forge of Sin' in the [Temple of the Forgotten Flame](https://deepwoken.fandom.com/wiki/Temple_Of_The_Forgotten_Flame) (Only available in Spring)~ Not true, some chad tested it and if you don't have a murmur you'll get this text, however if you do have a murmur he says something like "It seems like another gift has been granted to you". (Only Spring)
 -   "I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always." - You get this dialogue after killing the Ferryman for the second time or more. (Subsequent attempts after beating him once)
 
 ## Trivia/Notes

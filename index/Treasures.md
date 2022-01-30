@@ -1,9 +1,9 @@
 ---
 title: Treasures
-revid: 15538
+revid: 16690
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gems]
+categories: [Pages with broken file links, Gems]
 ---
 
 # Treasures
@@ -48,3 +48,9 @@ There are also [Deep Gems](Deep_Gems.md) that are dropped from the Depths. These
 </tr>
 </tbody>
 </table>
+
+These Gems/Ores also come with Descriptions, Some being obvious or just jokes.
+
+File:Emerald.png
+
+\-Description Of an Emerald. \[Joke Regarding Sonic The Hedgehog's 'Chaos Emeralds'\]

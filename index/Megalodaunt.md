@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 16516
+revid: 16713
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -61,7 +61,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
     -   **For Lower Level Players/Freshies**
     -   If you don't feel confident in your ability to fight a Megalodaunt, you can try and enter a place its to tall to get into and you can attack it from in there.
     -   You can lead a Megalodaunt into the water and its attacks won't hit you as long as you are close to it.
-    -   Megalodaunts will fight other NPCs such as Bandits and Golems. Use this to your advantage if you are trying to escape.
+    -   Megalodaunts will fight other NPCs such as Bandits and Golems. Use this to your advantage if you are trying to escape. (Sharkos can be defeated at power one if the player knows how to defeat it)
 
 ## Trivia & Notes
 

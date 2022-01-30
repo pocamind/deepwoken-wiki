@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 16493
+revid: 16725
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,8 @@ There are two variants that enchantments come in:
 
 ## List of Enchantments/Curses
 
-**Weapons:**
+-   **Weapons:**
+    
 
 Will have an effect upon hitting something.
 
@@ -146,7 +147,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). No damage buff given (Tested)</p>
+  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). x3 damage buff given ( STOP CHANGING THIS, IVE TESTED IT 15 TIMES)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -180,8 +181,6 @@ Will have an effect upon hitting something.
 </tr>
 </tbody>
 </table>
-
-**Armors:**
 
 Will have an effect upon getting hit.
 
@@ -301,3 +300,11 @@ Upon getting hit, the user has a chance of getting teleported a short distance.
   
 
  |
+
+File:Image 2022-01-30 003449.png
+
+Curse of the Boody Bandit
+
+File:Snapchat.png
+
+File:Fasfa.png

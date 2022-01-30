@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 16155
+revid: 16686
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -12,9 +12,9 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 A wind coated blade.
 
-Gale breathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
 
-Gale breath also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
+Galebreath also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
 ## Training
 
@@ -22,8 +22,8 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 
 Like all other elements, users can see their Mantras become stronger with training:
 
--   At Power 2, players receive the _Gale breather_ Talent.
--   At Gale breathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
+-   At Power 2, players receive the _Galebreather_ Talent.
+-   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
 -   Finally, at Galebreathe 45, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
 
@@ -119,10 +119,8 @@ There are no known Mobilty Mantras for Galebreathers, though there is a talent t
 | --- | --- | --- | --- |
 |  | Gale Wisp  
 (★★) | A servant of wind. | Spawns a wisp of wind. Must use ritual casting.
--   Protects against fall damage.
--   Heals 1% every few seconds (about 10~15 seconds).
--   Slight speed boost when active.
--   Disappears after healing you enough.
+-   Gives the caster fall damage resistance
+-   Taking fall damage 2 times makes it disappear after short period of time (Logstones might increase how many times it takes to disappear, needs testing)
 
  |
 
