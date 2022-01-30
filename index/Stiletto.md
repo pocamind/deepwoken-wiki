@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 16244
+revid: 16855
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -23,28 +23,8 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Main Menu Selection Etris store. |
+| obtainment | Main Menu Selection Etris store. Erisia Bandit Chests |
 | description | "A remarkably thin blade often likened to (and used as) a toothpick." |
-
-| Parry Dagger | |
-|---|---|
-| type | Offhand Weapon (dagger) |
-| requirements | 10 LHT |
-| damage | N/A |
-| scaling | 8 (?) |
-| range | N/A |
-| swing speed | N/A |
-| endlag | N/A |
-| penetration | N/A |
-| special effect | Decreases self posture gain (from opponent parry), increases opponent posture gain (upon successful parry). Slight damage increase. |
-| selling price | 25 notes |
-| weight | N/A |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Obtained from Etris Store, Erisia, Depths. |
-| description | (Gonna fill when acquiring another) |
 
 ## Description
 

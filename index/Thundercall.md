@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 16817
+revid: 16834
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -155,6 +155,9 @@ The claims about lightning cloak not being legendary are false, as shown in this
 I said it's a legendary mantra card, not a legendary talent card, as shown in the screenshot again. I will not argue with you, as it is clear that it is a legendary card. You can look it up yourself, search "lightning cloak" in the deepwoken discord updates channel and the oldest result contains "Lightning Cloak (Legendary - Mantra)." If it wasn't legendary, the developers wouldn't have confirmed that it is a legendary mantra. There is nothing else to say here.
 
 Another person is saying that just because it says "Legendary - Mantra" in the screenshot doesn't mean its rarity is legendary. This is obviously not true, under lightning cloak in the screenshot you can see what talents were also added and their rarities are all "Rare - Talent." This obviously means that "Legendary" is the rarity for lightning cloak.  
+
+  
+To stop the irritating bantering on this page, I have devised a method to get it. Firstly, you probably shouldn't have picked lightning assault. if you did that's fine, just recall it at the mantra table. Secondly, take the vigils book quest. Go to Etris and complete it. I don't wanna go in specifics to reduce clutter on this page so go to Youtube and see a guide. After, go back to Vigils and talk to the guy there. My selection was Lightning Kick, Thunder Cloak and Roll 2. Can't wait for lightning cloak to be nerfed after this :)
 
  |
 

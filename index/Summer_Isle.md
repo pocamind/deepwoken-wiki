@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 15432
+revid: 16836
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -99,7 +99,7 @@ Asius can be found in the circular structure found behind the Inn if you follow 
 
 Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
 
-Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but also a new Gun Technique that will allow you to use the critical attack of guns without the use of bullets.
+Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but also a new Gun Technique, which is a talent called Armor Piercing. (Requires intelligence to obtain, gun critical is a myth which requires 20 intelligence to use.)
 
 ### Scope's Fetch Quest
 

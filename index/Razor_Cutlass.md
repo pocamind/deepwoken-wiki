@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 16800
+revid: 16830
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items]
@@ -22,7 +22,7 @@ categories: [Weapons, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Isles (Very Rare, Can take days.)Chance when handing in the Artifact from Erisia. |
+| obtainment | Chests from Songseeker Isles and MinityrsaChance when handing in the Artifact from Erisia. |
 | description | "A serrated cutlass fashioned after the famously brutal bite of a lionfish" |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16777
+revid: 16850
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -685,10 +685,10 @@ Prerequisite: Willpower 5~
 -   Matador \[Generic Talent, Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
     -   Prerequisites
 -   Aerial Stab \[Generic Talent, Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
-    -   Prerequisites: High Medium Weapons (35+?)
+    -   Prerequisites: Medium Weapons ~25
 -   Aerial Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
 -   Successive Throw \[Generic Talent, Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
-    -   Prerequisites: High Light Weapon (~40)
+    -   Prerequisites: Light Weapon ~25
 -   Lethal Force \[Generic Talent, Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)

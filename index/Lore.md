@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 16796
+revid: 16831
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -132,7 +132,7 @@ A picture of the Meat Lord before his ascension.
 
 ### Voidsea
 
--   A sea filled with nothing but null. The Voidsea is a gateway between Luminants and The Depths, either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [Ardour](Murmur%253A_Ardour.md), the Sea Serpent.
+-   A sea filled with nothing but null. The Voidsea is a gateway between Luminants and The Depths, either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
 -   There are little to no NPCs or texts that explains the lore of the Voidsea, as of 1/10/2022.
 -   Islands that resides within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 
@@ -464,6 +464,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present in Year 1271, they still work together as The Hive.
 -   It could be theorized that their ancestors is a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM). A vesperian with a black mask, white marks, and a horns
+-   Like Agamatsu said, they probably lost the horns in evolution.
 
 ### Lightkeepers
 

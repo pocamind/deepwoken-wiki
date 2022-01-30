@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 16233
+revid: 16854
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -25,8 +25,8 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Can be obtained in places like Song Seeker, Hive or Summer Isle, as well as from the chests in the Depths. (As far as I know. Please edit this if anyone knows.) |
-| description | "Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep." |
+| obtainment | Songseeker, Hive or Summer Isle, as well as from the chests in the Depths. (As far as I know.) |
+| description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 ## Description
 
@@ -34,4 +34,4 @@ The Darksteel Greatsword is one of the many heavy weapons you can obtain in the 
 
 ## Notes
 
-The Darksteel Greatsword is better than the [Pale Morning](Pale_Morning.md), having the same speed but possessing higher damage. Along with this, it requires less stats, with 40 HVY and 10 STR compared to 75 HVY and 10STR. While a point could be made for Greathammers dealing blunt damage, fighting anyone who uses the [11th Legion Plate](11th_Legion_Plate.md) or [Hive Drone](Hive_Drone.md) would prove to be a much harder challenge than a Greatsword against any other armor.
+The Darksteel Greatsword is better than the [Pale Morning](Pale_Morning.md), having the same speed but possessing 0.2 more damage. Along with this, it requires less stats, with 40 HVY and 10 STR compared to 75 HVY and 10STR. While a point could be made for Greathammers dealing blunt damage, fighting anyone who uses the [11th Legion Plate](11th_Legion_Plate.md) or [Hive Drone](Hive_Drone.md) would prove to be a much harder challenge than a Greatsword against any other armor.

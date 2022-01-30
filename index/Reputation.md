@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 16517
+revid: 16835
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -121,14 +121,14 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 
 ### Reputable Factions
 
--   The Kingdom of Etrea
--   Greathive Aratel
+-   Etrea
+-   The Hive
 -   The Divers
 -   The Ministry
 -   The Central Authority
 -   The Summer Company
 -   The 11th Legion/The Empire
--   The Navaen Nomads
+-   The Children of Navae
 -   Knives of Eylis
 -   Ignition Union
 

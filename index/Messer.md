@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 16463
+revid: 16858
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]

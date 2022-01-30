@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 16773
+revid: 16829
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -113,15 +113,15 @@ Close up of card
 
 ### Pre-Requisites:
 
--   Defeat a Corrupted Owl for its feather. Intelligence Is theorized to be needed, but unconfirmed.
+-   None known yet, as its not in the MF game
 
 ### How to obtain:
 
--   Give the feather to some depths NPC, however, has either been deleted or disabled.
+-   We dont know yet
 
 ### Oath Effects:
 
--   Illusionary Abilities/Unknown
+-   WE DONT KNOW YET
 
 ### Oath Description:
 
@@ -139,3 +139,4 @@ Image from Infernasu showing Visionshaper
 -   It seems to have been in the game at one point, maybe making a return in later updates, or may just be disabled for now.
 -   There seems to be a glowing purple eye similar to the one in the image from this [video](https://youtu.be/NJVwA_B2XJI?t=87).
 -   Although lack of substantial evidence this seems to have been an oath at one point in development.
+-   STOP TRYING TO ADD INFO TO THIS, ITS ALL SUBJECTIVE AND YOUR OWN OPINION AT THIS POINT, WE DONT KNOW ANYTHING
