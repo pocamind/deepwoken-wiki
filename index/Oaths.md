@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 16628
+revid: 16773
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -52,7 +52,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 ### Pre-requisites:
 
--   Willpower 50
+-   Willpower 40
 -   Any Blindfold (Chest Item)
 -   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
 
@@ -88,8 +88,6 @@ Blindseer vesp
 -   If you don't have any face accessory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
 -   You can equip other face accessories and still have the full effects of the oath, excluding increased brightness
 -   At 40 Willpower, with the blindfold, all the talents and the oath, you receive an extra 96 sanity, which, with base sanity, equals to 176 sanity, or 88 minutes in the depths before dying.
-
-## Speculated Oaths
 
 <table>
 <tbody>

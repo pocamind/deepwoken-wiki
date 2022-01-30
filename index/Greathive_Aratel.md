@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 15949
+revid: 16808
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -70,7 +70,7 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
 
 ### Blooming Souls Quest (Soul Flower Quest)
 
--   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms.
+-   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms. (You need to wash your face as the temple to be able to take the quest)
     -   A red flower located outside near the observatory balcony. Mind your footing.
     -   A white flower, located near the Blacksmith, facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.

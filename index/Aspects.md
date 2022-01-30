@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 16527
+revid: 16815
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -35,7 +35,7 @@ If you choose to reroll your race, your current race's percentage will not be co
 
 ## Exclusive Races
 
-These races are either owned by testers/devs, or are planned to be added to the game in future developments.
+These races are either owned by testers/devs, rewarded by devs or are planned to be added to the game in future developments.
 
 ## Notes
 

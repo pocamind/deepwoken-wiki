@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 16725
+revid: 16775
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -303,7 +303,7 @@ Upon getting hit, the user has a chance of getting teleported a short distance.
 
 File:Image 2022-01-30 003449.png
 
-Curse of the Boody Bandit
+**Curse of the Zonez**
 
 File:Snapchat.png
 

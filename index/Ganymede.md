@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 15933
+revid: 16798
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -79,3 +79,4 @@ Insanity Resistance
 -   Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.
 -   Most likely the snail inspired race.
+-   Vesperian and Ganymede ancestors could be a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) as they resembles greatly to their predecessor

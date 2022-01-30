@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 16513
+revid: 16810
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -35,8 +35,6 @@ Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
 
 **Ardour Scream** is a [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour and 40 [Willpower](Attributes.md#willpower). Your murmur does not have to be trained.
-
-  
 
 ## Murmur: Tacet
 

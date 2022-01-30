@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 16523
+revid: 16793
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -34,7 +34,7 @@ To increase your damage with a weapon, you must invest in the corresponding stat
 
 Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance, however you can one-hand a heavy weapon if you have 50 heavy weapon and get one-hand training talent. Using a weapon two-handed allows you to do more posture damage and swing slightly faster then using a weapon one-handed, but also makes you unable to equip side weapons and shields.
 
-Quick Tip: To get the talent of using a heavy weapon one handed, you need at least 15 strength and 60 heavy weapon
+Quick Tip: To get the talent of using a heavy weapon one handed, you need at least 10 strength and 50 heavy weapon
 
   
 
@@ -352,7 +352,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.8x</td>
 </tr>
 <tr>
-  <td>Scimitar</td>
+  <td><a href="Scimitar.md">Scimitar</a></td>
   <td>20 MED</td>
   <td>15</td>
   <td>N/A</td>

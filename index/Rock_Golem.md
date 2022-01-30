@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 14230
+revid: 16768
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,4 +42,5 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 
 -   Occasionally a Sharko and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 -   Do not block it's Spinning attack, as it will shred your posture quickly. However, parrying said move gives a lot of exp, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   Its consecutive shots are not hard to dodge as long as you spam jump
+-   Its consecutive shots are not hard to dodge as long as you spam jump.
+-   Has a "sad" variation without arms and legs, acting as a turret. ;-;

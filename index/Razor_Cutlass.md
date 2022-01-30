@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 16243
+revid: 16800
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items]
@@ -12,19 +12,18 @@ categories: [Weapons, Items]
 |---|---|
 | type | Medium Sword |
 | requirements | 60 MED |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| penetration | N/A |
-| selling price | N/A |
-| weight | N/A |
+| damage | 18 |
+| scaling | 7 |
+| range | 8 |
+| swing speed | 0.7x |
+| penetration | 20-25% |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ??? |
-| description | N/A |
+| obtainment | Songseeker Isles (Very Rare, Can take days.)Chance when handing in the Artifact from Erisia. |
+| description | "A serrated cutlass fashioned after the famously brutal bite of a lionfish" |
 
 ## Description
 

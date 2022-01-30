@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 14309
+revid: 16757
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -31,4 +31,4 @@ Sells for 15 Notes. (prices vary depending on island and merchant)
 
 **Other:**
 
-it is unknown why it is consumable as it is a human organ, but cannibalism is a talent right?
+It restores approximately 1/3 of reservoir

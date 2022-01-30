@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 16708
+revid: 16796
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -463,6 +463,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present in Year 1271, they still work together as The Hive.
+-   It could be theorized that their ancestors is a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM). A vesperian with a black mask, white marks, and a horns
 
 ### Lightkeepers
 

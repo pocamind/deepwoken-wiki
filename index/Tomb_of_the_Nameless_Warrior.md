@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 15308
+revid: 16764
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,4 +15,4 @@ This place is home to a unique [Mudskipper](Mudskipper.md), implied to be the Na
 
 Journal of Warden Jericho
 
-_Most of the pages are missing and some passages are smudged, but you can make out some of what is written._ I'm torn between my duty to the Authority and keeping my Oath..... The fake shrine outside seems to have been destroyed, probably by some local bandits or maybe the Etreans?..... I fear for the Etrean people that they are to become casualties in a war beyond their understanding. Being lead by that _thing_ they call a Lord Regent...... I thought the Contractors had been wiped out, but they have surely just been hiding within the Ministry....... It all makes sense now, but it seems far too late. I fear we may of fallen for his plan, the Authority peace expedition may soon become the sole reason for the largest Great Drowning since Celtor...
+_Most of the pages are missing and some passages are smudged, but you can make out some of what is written._ I'm torn between my duty to the Authority and keeping my Oath..... The fake shrine outside seems to have been destroyed, probably by some local bandits or maybe the Etreans?..... I fear for the Etrean people that they are to become casualties in a war beyond their understanding. Being lead by that _thing_ they call a Lord Regent...... I thought the Contractors had been wiped out, but they have surely just been hiding within the Ministry....... It all makes sense now, but it seems far too late. I fear we may of fallen for his plan, the Authority peace expedition may soon become the sole reason for the largest Great Drowning since Celtor... THIS JOURNAL IS USED TO UNCAP STRENGTH (75 Strength)

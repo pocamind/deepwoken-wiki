@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 16545
+revid: 16807
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -47,4 +47,4 @@ If the owner of **Run It Back** is Tarnished, this Resonance will be given a ~tw
 
 ## Trivia/Notes
 
--   This is likely a reference to Phoenix from Valorant, who's ultimate is also called "Run it Back".
+-   This is a reference to Phoenix from Valorant, who's ultimate is also called "Run it Back".
