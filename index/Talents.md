@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16445
+revid: 16547
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -26,13 +26,13 @@ Talents are the main aspect of your character's build. Each [Power Level](Leveli
 
 There are many Talents in Deepwoken, all of which are under certain categories, such as the Engage Warrior Talent that allows your character to gain ether for each M1 Attack.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are some examples of this.
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements.
 
 **ABOUT WILDCARDS (IMPORTANT)** - The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 
-It is confirmed that after getting a total of 20 rare and legendary talent cards (i.e. 12 rares, 8 legendaries/19 rares, 1 legendary/15 rares, 5 legendaries), you are unable to get any more rare and legendary cards anymore, no matter how much you level up or gain luck.
+It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.
 
 [Power Icon (Located at the top center of the screen)](https://deepwoken.fandom.com/wiki/File:Power_Card_Icon.png)
 
@@ -265,6 +265,7 @@ Hand of Mantra Cards
 -   Thorns of Fire \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity, +3 Health)
 -   Meteor Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
 -   Phoenix Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
+    -   Prerequisite: Meteor Impact
 
 ### Fish
 
@@ -568,7 +569,7 @@ Prerequisite: Willpower 5~
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
--   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible (Im not sure how this works but i only get this talent as i wipe, if anyone has info on it post in the comments, i believe its a form of talents that transfer to next life after meeting prerequisite)
+-   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible (Im not sure how this works but i only get this talent as i wipe[\[1\]](#cite-note-1), if anyone has info on it post in the comments, i believe its a form of talents that transfer to next life after meeting prerequisite. Potentally Herbivore and/or something else)
 
 ### Survivor
 
@@ -913,3 +914,5 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
   
 Template:Navbox:Talents
+
+1.  [↑](#cite-ref-1) [https://streamable.com/2867nv](https://streamable.com/2867nv)

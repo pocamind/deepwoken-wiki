@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 16504
+revid: 16515
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,7 @@ categories: [Monsters]
 
 # Crustaceous Rex
 
-Template:Creature Infobox V3
-
-_Also known as Purple Crab, King Crab, Crabbo._
+Template:Creature Infobox V3 _Also known as Purple Crab, King Crab, Crabbo._
 
 ## Description
 
@@ -18,8 +16,7 @@ Crustaceous Rex is a hostile Giant-type mob. They're recommended killing for exp
 
 ## Attacks
 
-**  
-Bubble Beam** - Shoots a barrage of bubbles at its foes.
+**Bubble Beam** - Shoots a barrage of bubbles at its foes.
 
 **Crushing Claw** - Grabs someone and drops them doing a good amount of damage.
 

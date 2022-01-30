@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 16304
+revid: 16541
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -99,7 +99,7 @@ Seeing as how **Molt** reduces the duration of positive effects as well as negat
 -   Suprisingly not that racist in Etris.
 -   Despite the previous trivia, they kicked the merchant out for being beastly.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
--   With the resistance from acid rain, it is recommended that you do not choose survivalist as one of your boons and pick something of more use.
+-   With the resistance from acid rain, it is recommended that you do not choose survivalist as one of your boons and pick something of more use. Shouldn't even be picking survivalist in the first place.
 
   
 

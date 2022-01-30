@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 16509
+revid: 16513
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -50,4 +50,4 @@ The ability normally has a large spotting radius, but using it over and over aga
 
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 
-This Murmur requires 20 [Charisma](Attributes.md#charisma), and Bad Reputation with Etrean Guards to obtain.
+This Murmur requires 15 [Charisma](Attributes.md#charisma), and Bad Reputation with Etrean Guards to obtain.

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 16432
+revid: 16549
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -136,23 +136,11 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
--   Your dashes become teleports, increasing your i-frames.
-
-~You do NOT need luck for this card, to obtain this mantra you have to have thundercall mastery and must be able to obtain 3 star mantras - after which, every whisper from the deep will have a chance to include ‘Lightning Cloak’, it being a 3-star mantra does NOT mean that you need luck for it~, and only signifies that you need at least 50 thundercall, that being the sole requirement.
-
-If you genuinely want this, you’ll want to pick ANY THUNDERCALL MANTRA during whispers from the deep card selections - as a level 60 you gain 12 total whispers from the deep, thundercall has 15 mantras, which means that should you pick every single mantra, you’d be left at a 1/5 chance of NOT receiving the mantra.
-
-File:Image 2022-01-28 072529.png
+-   Your dashes become teleports, increasing your i-frames.  
+    YOU DO NOT NEED LUCK FOR THIS CARD ITS CALLED A LEGENDARY LIGHTNING CLOAK, THAT DOES NOT MEAN ITS A LEGENDARY CARD.
 
   
-
-~The claims about lightning cloak not being legendary are false, as shown in this screenshot it is a legendary mantra card meaning it will be incredibly rare to pull without luck.~
-
-File:Image 2022-01-29 033846.png
-
-Screenshot i ripped from Shinqz video "Deepwoken - Lighting Cloak Build!!!"
-
-No its not, its a mantra just like any other, legendary cards are easily distinguished by the color of the card and the literal title "Legendary card" on it, you can only pull it from when the deep beckons you, that wouldn't be the case if it was a legendary talent, however it is not an easy mantra to get and gaining luck will not help you pull lightning cloak.  
+  
 
  |
 

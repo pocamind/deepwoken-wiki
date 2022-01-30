@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 15862
+revid: 16542
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -27,10 +27,6 @@ Pressing "C" will activate the **Distortion Realm** Resonance.
 
 **Distortion Realm** will transport the user into the Distortion Realm and will leave a lingering portal to allow other players to enter. This cannot be used while in combat. Each step taken in the Distortion Realm equals around five steps taken in the overworld.
 
-### _Variants_
-
-**Distortion Realm** does not have separate versions, but has unique phases and a unique Corrupted effect.
-
 #### _Distortion Realm_
 
 -   If **Distortion Realm** is used in the Etrean Luminant, the user will be transported into the Distortion Realm and will leave a portal for others to enter.
@@ -38,9 +34,14 @@ Pressing "C" will activate the **Distortion Realm** Resonance.
     -   If any players inside the **Distortion Realm** jump into the void, they will be teleported to the position relevant to the Etrean Luminant above said void.
 -   If **Distortion Realm** is used during the visual indicator, all players inside will be teleported back into the Etrean Luminant.
 
+### _Variants_
+
+-   **Version 1** is the default version with no change.
+-   **Version 2** can be used in combat.
+
 #### _Corrupted_
 
-If **Distortion Realm** is found to be Corrupted, the user will be able to use this Resonance while in combat.
+If **Distortion Realm** is found to be Corrupted, the distance the Distortion Realm to Etrean Luminant distances ratio is amplified, meaning you can travel further, faster.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 16222
+revid: 16523
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -200,7 +200,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td>Legion Cestus</td>
   <td>30 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>5%</td>
   <td>LHT: 9</td>
   <td>5</td>

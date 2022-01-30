@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 16441
+revid: 16536
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -60,7 +60,7 @@ Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
 -   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
--   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
+-   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_

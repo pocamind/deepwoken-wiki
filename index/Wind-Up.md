@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 16430
+revid: 16546
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,7 +33,7 @@ Pressing "C" will activate the **Wind-Up** Resonance.
 
 #### _Corrupted_
 
-If **Wind-Up** is found to be Corrupted, players will reach max level in three **Wind-Up**, rather than five.
+If **Wind-Up** is found to be Corrupted, players will reach max level in three **Wind-Up**, rather than five plus winding up speed is greatly faster than usual.
 
 ## Trivia/Notes
 

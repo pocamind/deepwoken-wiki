@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 16303
+revid: 16517
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -30,7 +30,7 @@ Players with positive reputation from factions **will not** be attacked by NPCs 
 
 Certain questlines will be unlocked with positive reputation.
 
-###### Guard Behavior
+##### Guard Behavior
 
 Players can talk to the NPC guards posted within villages and islands. Depending on your current reputation, guards will respond with [dialogue](Dialogue.md) that is established with that level of reputation. Guards will speak in a more friendly manner the higher your reputation is.
 
@@ -74,6 +74,8 @@ Major factions such as the Summer Company and Etrea, will have an indicator with
 
   
 
+  
+
 ### Resetting Enmity
 
 Players can reset their reputation of a faction to Neutral by **bribing** their respective NPCs.
@@ -109,37 +111,37 @@ File:Random PVE Event.png
 
 Etrean Guards vs. Authority Peacekeepers in Lower Erisia
 
-Battles between factions can randomly occur at anytime, and they usually take place at specific locations. Players can take part in these encounters as they see fit.
+Battles between factions can randomly occur at any time, and they usually take place at specific locations. Players can take part in these encounters as they see fit.
 
 For example, in Erisia Island players may find Etrean Guards fighting off a group of enemies, such as bandits. Assisting with the Etrean Guards by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
 
-~However, depending on who you attack and grip/finish will result in **losing** reputation from that faction.~ You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Guards for reputation THEN grip the guards for exp.  
+You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Guards for reputation THEN grip the guards for exp.  
 
 ## Factions/Entities
 
 ### Reputable Factions
 
--   The Central Authority
 -   The Kingdom of Etrea
--   The Navaen Nomads
--   Isle of Vigils/The Vigils of Wind
--   Summer Company
--   The 11th Legion/The Empire
 -   Greathive Aratel
+-   The Divers
+-   The Ministry
+-   The Central Authority
+-   The Summer Company
+-   The 11th Legion/The Empire
+-   The Navaen Nomads
 -   Knives of Eylis
 -   Ignition Union
 
 ### Non-Reputable Factions
 
 -   Bandits
--   The Ministry
 -   The Contractors
 -   Songseeker Tribesmen
 
   
 **Notes**
 
--   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
+-   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test, I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
 -   The Lord Regent quest in Etrea is the only confirmed quest that requires good reputation.
 
--   having no attunement makes it so the ministry npcs/ shadow cultists dont attack you unless you provoke them, and yes i tested it you can try it to if you dont believe me.
+-   Having no attunement causes the Ministry NPCs to not attack you unless you provoke them (and yes, I tested it you can try it to if you don't believe me.)

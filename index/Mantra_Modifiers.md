@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 16483
+revid: 16548
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -147,9 +147,9 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
 Deep Gems (not to be confused with the Vibrant Gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped on a single mantra.
 
-**Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.**
+Note: Once you put a gem in a mantra, you can just click recall mantra in a campfire and you have your gem in you inventory.
 
-Deep Gems are obtained by **Deep Monsters and Primadon**. (low drop rate %)
+Deep Gems are obtained by Depths Monsters with a low drop rate.
 
 For more information on Deep Gems, [click here](Deep_Gems.md)
 

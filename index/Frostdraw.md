@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 16406
+revid: 16535
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -83,7 +83,7 @@ These mantras have no prequisites.
 
 (★)
 
- | A barrage of freezing blades. | User slashes forward rapidly with five or six swings.
+ | A barrage of freezing blades. | User slashes forward rapidly with four swings.
 
 -   Deals light damage.
 -   _Can be parried on 1st and 2nd hits_.

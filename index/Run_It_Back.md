@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 16023
+revid: 16545
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,7 +39,7 @@ Pressing "C" will activate the **Run It Back** Resonance.
 
 #### _Corrupted_
 
-If **Run It Back** is found to be Corrupted, the user will gain complete invincibility during the entire Resonance.
+If **Run It Back** is found to be Corrupted, the user will gain complete invincibility during the entire Resonance and the duration is greatly amplified.
 
 #### _Tarnished_
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 16507
+revid: 16516
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Megalodaunt
 
-Commonly referred to as Shark, Sharko.
+_Commonly referred to as Shark, Sharko._
 
   
 Template:Creature Infobox V3
@@ -17,9 +17,9 @@ Template:Creature Infobox V3
 
 Megalodaunts are a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
-This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, red variant.
-
 Seen mostly around the island of Erisia, the Megalodaunt is one of the first monsters that new players will encounter. Players that are ill-equipped and lack insight of this creature are mostly likely going to experience a swift death.
+
+This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, red variant.
 
 Upon being killed, it drops his hide, with a low chance for umbral obsidian, but may also grant a chest with decent gear if it is encountered when the snarl is heard, usually better than the loot that the bandit camps yield.
 
@@ -60,7 +60,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
     -   **IF YOU SEE RED, PRESS Q**
     -   **For Lower Level Players/Freshies**
     -   If you don't feel confident in your ability to fight a Megalodaunt, you can try and enter a place its to tall to get into and you can attack it from in there.
-    -   You can lead a Megalodaunt into the water and its attacks wont hit you as long as you are close to it.
+    -   You can lead a Megalodaunt into the water and its attacks won't hit you as long as you are close to it.
     -   Megalodaunts will fight other NPCs such as Bandits and Golems. Use this to your advantage if you are trying to escape.
 
 ## Trivia & Notes
