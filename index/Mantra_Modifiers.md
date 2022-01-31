@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 16548
+revid: 16865
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -297,19 +297,19 @@ also looks identical to falseflame.
 
 -   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
--   This modifier is compatible with the _spark Swap_ Mantra, but has no effect.
--   This modifier is compatible with Strong Leap Strength mantra (please add the effect here). <--(Appears to jump slightly more in the direction of an ally.)
+-   This modifier is compatible with the _Spark Swap_ Mantra but has no effect.
+-   This modifier is compatible with _Strong Leap_ Strength mantra (please add the effect here). <--(Appears to jump slightly more in the direction of an ally.)
 
 #### Round Spark
 
 -   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the Song Seeker ice NPC).
--   This modifier makes Fire Gun bullets split into two.
+-   This modifier makes _Fire Gun_ bullets split into two.
 
 #### Blast Spark
 
 -   This modifier causes the clones in the _Lightning Clones_ Mantra to explode on death.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
--   This modifier causes a trail of Ice to appear over the distance you dashed with the _Frost Grab_ Mantra
+-   This modifier causes a trail of ice to appear over the distance you dashed with the _Frost Grab_ Mantra.
 -   This modifier changes _Lightning Stream_'s behavior, attaching to the target and shocking them instead of pulling them in.
 
 #### Reversal Spark
@@ -319,10 +319,8 @@ also looks identical to falseflame.
 -   This modifier allow the _Tornado_ Mantra to pull enemies to its center.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
 -   This modifier reverses the _Flame Leap_ Mantra causing the caster to slam the ground, throwing those around them into the air.
-    -   If you fall before the animation completes, all fall damage is negated.
-    -   When casted in water, user dives into the water and floats back up. Creates a flaming AoE when/if user reaches land.
--   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage (need further testing)
--   Using this modifier on "Ice chains" will make it so it will pull whoever you hit towards you.
+-   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage.
+-   This modifier is compatible with the _Ice Chains_ Mantra and will make it so it will pull whoever you hit towards you.
 
 #### Multiplying Spark
 
@@ -331,7 +329,6 @@ also looks identical to falseflame.
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
--   This modifier makes the _Fire Blade_ Mantra ~break destructible objects~. Fire Blade can destroy objects without Tornado spark.
 
 #### Spring Spark
 

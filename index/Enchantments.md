@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 16827
+revid: 16895
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -147,7 +147,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). x3 damage buff given ( STOP CHANGING THIS, IVE TESTED IT 15 TIMES)</p>
+  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). No damage buff given (Tested)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -282,7 +282,7 @@ Drowned
 
  | 
 
-Having the "Drowned" enchant makes it so stats can go past their limit (e.g 64 health instead of 32 health) and increases a stat heavily at the cost of a _relatively_ small downside (e.g -2 posture)
+Drowned enchant makes it so 1 random stat buffed really high but in return it makes another random stat debuff, For example: +104% stealth but -4 health
 
   
 

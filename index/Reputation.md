@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 16835
+revid: 16893
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -144,4 +144,4 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test, I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
 -   The Lord Regent quest in Etrea is the only confirmed quest that requires good reputation.
 
--   Having no attunement causes the Ministry NPCs to not attack you unless you provoke them (and yes, I tested it you can try it to if you don't believe me.)
+-   ~Having no attunement causes the Ministry NPCs to not attack you unless you provoke them (and yes, I tested it you can try it to if you don't believe me.)~ Unless i did it wrong,this does not work, went to the ministry fort as a level 1 magicless vasperian and they were hostile.

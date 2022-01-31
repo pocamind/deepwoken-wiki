@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 16347
+revid: 16898
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -18,21 +18,21 @@ Template:Creature Infobox V3
 
 _Also known as Sea Monkey, Gorilla, and Monke._
 
-Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Primadon can be summoned by offering 5 Megalodaunt hide to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summoned by offering 5 Megalodaunt Hide to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Attacks
 
 -   **Stomp** - Primadon raises its **right** foot and stomps once. Can be parried and dodged.
 -   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **left** foot. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Dodgeable.
+-   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 
 ## Passives
 
 -   **Mantra Immunity** - Primadon has total immunity to mantras, both Elemental and Physical. Only weapons can damage it.
     -   Deep gems will still activate, however.
--   **The Depths Calls** - If Primadon executes its victim, it is automatically sent to [The Depths](The_Depths.md).
+-   **The Deep Calls** - If Primadon executes its victim, it is automatically sent to [The Depths](The_Depths.md).
     -   A knocked player that is then gripped by Primadon will not be sent The Depths.
 
 ## Rewards
@@ -57,11 +57,10 @@ Loud and enormous, the Primadon is a giant monkey with fins on his sides. The Pr
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the **Scuba Drowner** talent or lived the fall.
 -   Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks. ~However, if you have a Bloodless Gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself.~ This does not work, as Bloodless Gem's healing scales off of damage dealt, so since you deal no damage, you don't heal.
--   Debuffs from Mantras such as: Charm, Freeze, Shock, etc. do affect Primadon.
+-   Debuffs from Mantras do affect Primadon.
 
 ## Trivia
 
 -   Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem chests were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes
 -   In the game files, it is called "Monky"
--   Primadon will not instantly follow up with an instant gripping attack if you are knocked if you are a low level. (no level is confirmed, but level 1 wont get killed right after being knocked)
