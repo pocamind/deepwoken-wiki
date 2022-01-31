@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 15956
+revid: 16925
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -173,7 +173,22 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td></td>
 </tr>
 <tr>
-  <th></th>
+  <th>Blinded</th>
+  <td>Your screen has a reduction in visibility.</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Charmed</th>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Enraged</th>
+  <td>Status effect applied by the Charisma mantra <i><u>Taunt</u></i>. Removes your ability to jump, and reduces your defences, but deal more damage against the person who applied the status effect.</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Chilled</th>
   <td></td>
   <td></td>
 </tr>
@@ -185,6 +200,11 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Paralysis</th>
   <td>You take a slight amount more stun for a moment, only enough stun for your opponent to just land one single hit (since you can parry/block the next one). This occurs when you have been hit with a lightning spell.</td>
+  <td></td>
+</tr>
+<tr>
+  <th>Stunned</th>
+  <td></td>
   <td></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 16404
+revid: 16945
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -45,7 +45,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
--   Can be unbounded by talking to Brutus in [Fort Merit](https://deepwoken.fandom.com/wiki/Fort_Merit) (Must have 75 fortitude or else you won't gain nothing). You gain the talent card "Fortitude Unbounded". Gives 9 Health and 10 Ether.
+-   Can be unbounded by talking to Brutus in [Fort Merit](https://deepwoken.fandom.com/wiki/Fort_Merit). You gain the talent card "Fortitude Unbounded". Gives 9 Health and 10 Ether.
+    -   Not having 75 Fortitude will result in your screen turning black and the sound of Brutus beating you as your HP bar depletes to the point of being knocked (Not tested whether this executes or not) instead of you obtaining the card.
 
 ### Agility
 
@@ -69,7 +70,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
--   Gain Willpower EXP via Foraging, fighting sea monsters, and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
+-   Gain Willpower EXP via Foraging, fighting sea monsters, gripping players, and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
 -   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 Strength and 75 Willpower.
 
 ### Charisma

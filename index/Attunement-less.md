@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16464
+revid: 16914
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 -   Requirement: 5~ Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
--   Requirement: 40-50 Strength, _Strength Mobility Mantra_  
+-   Requirement: 50 Strength, _Strength Mobility Mantra_  
     
 
 ### _**Fortitude Mantras**_
@@ -51,7 +51,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 `Agility mantras are mainly based on enhancing the user's movement speed, and movement options. To increase the distance travelled of dash moves/duration and level cap, strengthen your legs with _Ankle Weights_.`
 
 -   **Dash** - An agile dash, sends the user a considerable distance forward.
--   Requirement: 10 Agility, _Agility Mobility Mantra_
+-   Requirement: 12 Agility, _Agility Mobility Mantra_
 
 -   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed and parkour.
 -   Requirement: 20 Agility, _Agility Support Mantra_

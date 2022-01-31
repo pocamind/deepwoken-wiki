@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 16898
+revid: 16910
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -22,10 +22,10 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 
 ## Attacks
 
--   **Stomp** - Primadon raises its **right** foot and stomps once. Can be parried and dodged.
--   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **left** foot. Can be parried and dodged.
+-   **Stomp** - Primadon raises its **left** foot and stomps once. Can be parried and dodged.
+-   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **right** foot. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **Punt** - Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
+-   **Punt** - Primadon winds back its **left** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 
 ## Passives
@@ -38,7 +38,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 ## Rewards
 
 -   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-6 Umbral Obsidians in them.
--   **Small chest -** Has 1-23 Umbral Obsidians in it and a 50% chance of 1-2 Deep Gems.
+-   **Small chest -** Has 1-3 Umbral Obsidians in it and a 50% chance of 1-2 Deep Gems.
 -   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo Primadons is enough to get a resonance/bell)
 
 ## Strategies & Tips

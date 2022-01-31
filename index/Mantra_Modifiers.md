@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 16865
+revid: 16965
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -27,22 +27,22 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
 | Image | Modifier | Effect | Note |
 | --- | --- | --- | --- |
-| File:Cloudstonebigger.png | Cloudstone | +2 Size
+| File:Cloudstone HD.png | Cloudstone | +2 Size
 \-1 Speed
 
  | 
 
--   If the mantra is not a projectile, the hitbox size is increased instead.
--   Projectiles lose distance
--   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) lose distance
+-   Increases the hitbox size.
+-   Projectiles lose distance.
+-   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) lose distance.
 
  |
 | File:Stratus.png | Stratus Stone | +3 Size | 
 
--   If the mantra is not a projectile, the hitbox size is increased instead.
+-   Increases the hitbox size.
 
  |
-| File:Screenshot 2021-12-28 151959.png | Crystal Lens | +2 Range
+|  | Crystal Lens | +2 Range
 
 \-1 Size
 
@@ -57,7 +57,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   The projectile/hitbox have a farther reaching hitbox.
 
  |
-| File:Screenshot 2021-12-28 152201.png | Aeon Logstone | +2 Duration
+|  | Aeon Logstone | +2 Duration
 
 \-1 Range
 
@@ -72,7 +72,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   Add 3 keys to Ritual Casts
 
  |
-| File:Screenshot 2021-12-28 152259.png | Drift Shard | +2 Speed
+| File:Drift & Rush shard.png | Drift Shard | +2 Speed
 
 \-1 Duration
 
@@ -82,13 +82,13 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
 
  |
-| File:Rush Shard.png | Rush Shard | +3 Speed | 
+| File:Drift & Rush shard.png | Rush Shard | +3 Speed | 
 
 -   Projectiles go further
 -   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
 
  |
-| File:Screenshot 2021-12-28 152413.png | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
+|  | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
 
 -   Remove every single modifier previously added to the mantra, including sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
 

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 16798
+revid: 16946
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -75,7 +75,6 @@ Insanity Resistance
 
 -   Obtaining a [Resonance](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
--   Ganymede looks similar to Cypher from the game _Valorant_.
 -   Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPC's that are found at the Aratel Island posess Flamecharm magic.
 -   Most likely the snail inspired race.

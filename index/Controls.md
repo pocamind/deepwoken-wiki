@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 15415
+revid: 16926
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -51,6 +51,8 @@ Before the actual cast of the Mantra, you can "Inhale" the Mantra; acting as a f
 **B (near a campfire) - Clear campfire -** Kick a campfire pit to destroy it.
 
 **Space (while facing a waist level obstacle) - Vault -** Vault over the obstacle for a speed boost.
+
+**T - Spit (Yes, this is a real control)** - Spit on the enemy. If it lands, you regenerate 5% of your health, a moderate amount of posture, and applying something akin to blindness onto your enemy.
 
 **W + Space (airborn and facing a wall) - Wall Jump -** Perform two small hops on the wall, grabbing any ledge along the way if available. Some talents can improve this.
 

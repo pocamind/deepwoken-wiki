@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 16358
+revid: 16942
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -38,7 +38,7 @@ Pressing "C" will activate the **Blood Scourge** Resonance.
 
 #### _Corrupted_
 
-If **Blood Scourge** is found to be Corrupted, the Resonance has it's cooldown shortened and cannot be cancelled (unless the caster wishes to cancel it).
+It is currently unknown what the corrupted variant of Blood Scourge changes. The old benefits that were listed were tested and turned out to be false (Shorter CD/Non-Cancellable).
 
 ## Trivia/Notes
 

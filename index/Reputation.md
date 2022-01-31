@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 16893
+revid: 16933
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -124,24 +124,26 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   Etrea
 -   The Hive
 -   The Divers
--   The Ministry
 -   The Central Authority
 -   The Summer Company
 -   The 11th Legion/The Empire
 -   The Children of Navae
--   Knives of Eylis
--   Ignition Union
+-   Knives of Eylis File:Eylisiconfactoin.png
+-   The Ignition Union
+-   Celtor
 
 ### Non-Reputable Factions
 
 -   Bandits
 -   The Contractors
 -   Songseeker Tribesmen
+-   The Ministry
 
   
 **Notes**
 
 -   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test, I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
 -   The Lord Regent quest in Etrea is the only confirmed quest that requires good reputation.
-
--   ~Having no attunement causes the Ministry NPCs to not attack you unless you provoke them (and yes, I tested it you can try it to if you don't believe me.)~ Unless i did it wrong,this does not work, went to the ministry fort as a level 1 magicless vasperian and they were hostile.
+-   Brutus' dialogue varies depending on your Authority reputation.
+-   The "Diplomat" charisma talent significantly increases reputation gain.
+-   There is a minimum and maximum reputation for each faction, meaning that it may only take a few events to get back in a faction's good favour.
