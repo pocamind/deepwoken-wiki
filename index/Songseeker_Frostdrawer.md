@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 14944
+revid: 16997
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,9 +24,9 @@ Their arsenal consists of only [Frostdraw](Frostdraw.md).
 
 ### Moves:
 
--   **Ice Spike:** Thrusts a spike of ice from the ground at the player's location. Deals moderate damage and sends target into the air. Blockable, can be parried.
--   **Ice Dagger:** Throws three daggers of ice toward the nearest player. Homing attack. Blockable, can be parried.
--   **Ice Eruption:** Forms a circle of ice around the NPC. Deals moderate damage, slows target down. Blockable, can be parried.
+-   **Ice Spikes:** Thrusts a spike of ice from the ground at the player's location. Deals moderate damage and sends target into the air. Blockable, can be parried.
+-   **Ice Daggers:** Throws three daggers of ice toward the nearest player. Homing attack. Blockable, can be parried.
+-   **Ice Eruption (Modified):** Forms a circle of ice around the NPC. Deals moderate damage, slows target down. Blockable, can be parried.
 
 ### Boons:
 

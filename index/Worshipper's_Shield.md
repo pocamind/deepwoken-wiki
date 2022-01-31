@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 16444
+revid: 17034
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons]
 | Worshipper's Shield | |
 |---|---|
 | type | Shield |
-| requirements | N/A |
+| requirements | 45 fourtude |
 | damage | N/A |
 | scaling | N/A |
 | range | N/A |
@@ -34,4 +34,4 @@ The Worshipper's Shield can be obtained by buying it from Lance's Food in Etris 
 
 ## Notes
 
--
+-   Found inside the restaurant in Etris next to the man who can teach you Pleeksty's Will if you are not a Flamecharmer.

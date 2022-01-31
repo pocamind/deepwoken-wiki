@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 16232
+revid: 16992
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -32,4 +32,4 @@ The Pale Morning is a Greathammer that can be obtained from Chests in the [Stars
 
 ## Notes
 
--   Worst "Endgame" heavy, lowest damage and uses blunt type damage, which has a lot more armors with resistances to it than slash type.
+-   Pale Morning is currently the best weapon of the Greathammers (But not among other Heavy Weapons).

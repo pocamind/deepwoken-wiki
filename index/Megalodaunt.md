@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 16713
+revid: 17007
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,7 +43,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 -   **Red Megalodaunt** - A much more powerful, red version of the Megalodaunt with roughly 3x health. The red Megalodaunt appears exclusively at the Songseeker Wilds in the Megalodaunt vs Red Megalodaunt event.
     -   If the event is left by itself, the red one will always win, due to its larger health pool of 3000 HP.
     -   Has the ability to rain down fiery swords from the sky.
--   **Alpha (Black) Megalodaunt** - Appears exclusively in the Depths. Has 1600 HP with improved damage. Can spawn as a Corrupt version, further increasing attack power and health by 3x (4800 health).
+-   **Alpha (Grey) Megalodaunt** - Appears exclusively in the Depths. Has 1600 HP with improved damage. Can spawn as a Corrupt version, further increasing attack power and health by 3x (4800 health).
 
 ## Tips to Defeat
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 16311
+revid: 17043
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -29,7 +29,7 @@ Near the Coral Forest, at the end of some pillars that jut out from the murky bl
 
 **(We need some help finding out what this place is because we're too weak to get progression for a resonance, if someone can get behind the Yun'shul door and figure out what's behind it, it would be appreciated.)**
 
-here's where it is on a map (be careful as the parkour is easy but the void is 2 inches from where you land so be careful). There are ways on entering Resonance doors without using a resonance such as using mantras that destroy the environment like Lightning Beam and your weapon imbued with Stormcall Slash (not the arcs).
+here's where it is on a map (be careful as the parkour is easy but the void is 2 inches from where you land so be careful). There are ways on entering Resonance doors without using a resonance such as using mantras that destroy the environment like Lightning Beam and your weapon imbued with ~Lightning Blade.~
 
 File:800 cb=20220113102951(1).png
 
@@ -130,7 +130,7 @@ Just a bag of information to keep in mind and remember
 
 -   **_[Insanity](Insanity.md)_** will be your artificial timer for how long you can stay in the depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). Those basically allow you to stay forever in The Depths, as sitting near a campfire restore sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
--   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterpart but have 3x HP and 2x damage. These grant chests with super high tier/endgame loot and [Luck](Luck.md) when defeated.
+-   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterpart but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with super high tier/endgame loot and [Luck](Luck.md) when defeated.
 -   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to consider bringing _**healing potions**_.
 -   Consider bringing _**elemental stones**_. The lack of campfire mean that you will often be low on reservoir.

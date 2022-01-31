@@ -1,16 +1,16 @@
 ---
 title: Mantra Modifiers
-revid: 16965
+revid: 17051
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items]
+categories: [Pages with broken file links, Items, Mechanics, Mantras]
 ---
 
 # Mantra Modifiers
 
 A dumbass who either A: Has a lot of Ether or B: Wants to die in every situation by using this mantra
 
-Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in chests. In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
+Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
 The player can stack up to 3 of each Modifier, including the weaker versions of the Modifier. This means that, for example, 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra. _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra._
 
@@ -295,7 +295,7 @@ also looks identical to falseflame.
 
 #### **Magnet Spark**
 
--   This modifier adds an extra teleporting slash to the end of the _Electric Blade_ Mantra.
+-   This modifier adds an extra teleporting slash to the end of the _Lightning Blade_ Mantra.
 -   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
 -   This modifier is compatible with the _Spark Swap_ Mantra but has no effect.
 -   This modifier is compatible with _Strong Leap_ Strength mantra (please add the effect here). <--(Appears to jump slightly more in the direction of an ally.)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 16859
+revid: 17059
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -76,7 +76,11 @@ Hand of Mantra Cards
 ### Aeromancy
 
 -   Drifting Winds \[Generic Talent, Galebreath Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
--   Aerogliding \[Generic Talent, Rare Talent Galebreath Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
+-   Aerogliding \[Generic Talent, Rare Talent, Galebreath Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
+-   Stifled Jump \[Generic Talent, Rare Talent, Galebreath Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Suffocating Impact \[Generic Talent, Common Talent, Galebreath Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Gale Coil \[Generic Talent, Common Talent, Galebreath Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Aeronade \[Generic Talent, Common Talent, Galebreath Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
 
 ### Alchemist
 
@@ -112,7 +116,7 @@ Hand of Mantra Cards
 ### Apex Predator
 
 -   Carnivore \[Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: 10 Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
+    -   Prerequisites: ~10 Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -191,7 +195,7 @@ Hand of Mantra Cards
 -   Chaotic Charm \[Generic Talent, Common Talent\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
 -   Charismatic Cast \[Generic Talent, Common Talent\] - Landing mantras on enemies charms them reducing damage done to you. (+ 4 Ether)
 -   Morale Booster \[Generic Talent, Common Talent\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
--   Tough Love \[Generic Talent, Common Talent\] - Deal more damage to player charmed by you. (+ 4 Ether)
+-   Tough Love \[Generic Talent, Common Talent\] - Deal more damage to players charmed by you. (+ 4 Ether)
 -   Familiar Sight \[Generic Talent, Rare Talent\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)
     -   Prerequisite For All: Charm + Charismatic Cast (You'll need it for unlocking all the other cards in the category)
@@ -243,6 +247,7 @@ Hand of Mantra Cards
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
+-   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
 
 ### Empath
 
@@ -385,6 +390,9 @@ Hand of Mantra Cards
 -   Air Pressure \[Generic Talent, Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
 -   Hoplite \[Generic Talent, Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
 -   Wind Step \[Generic Talent, Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
+-   Gale Dash \[Generic Talent, Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
+-   Cyclone Blade \[Generic Talent, Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
+-   Pressure Break \[Generic Talent, Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility, +2 Health)
 
 ### Liberator
 
@@ -494,7 +502,7 @@ Prerequisite: Willpower 5~
 
 ### Self-Shocker
 
--   Jumpstart \[Generic Talent, Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies schock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity, +3 Health)
+-   Jumpstart \[Generic Talent, Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity, +3 Health)
     -   Prerequisites - Static Withdraw.
 -   Raging Static \[Generic Talent, Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
     -   Prerequisites - Jumpstart

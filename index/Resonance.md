@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 16712
+revid: 17037
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -40,6 +40,22 @@ Resonances are obtained by maxing an invisible stat known as **Progress**. The a
 
 The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present. Please note that humanoid bosses such as Duke, Ferryman, etc. do not give progress currently.
 
+How much "Progress" does each mob give?
+
+Ferryman: 5% - 10%
+
+Duke: Nothing
+
+Primadon: ~18%
+
+Cursed mobs: 0.5%-1%
+
+Nautilodaunt: ?
+
+Dread Serpeant: ?
+
+Gripping a person thats your level: ~5%
+
 ## Re-rolling
 
 Players are given the option to **re-roll** their Resonance once if they desire.
@@ -56,3 +72,4 @@ Tarnished Resonances are Resonances that have unique effects if the user has bee
 
 -   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
+-   Previously believed that you have to spend 7 hours in the depths to obtain

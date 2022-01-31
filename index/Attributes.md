@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 16980
+revid: 17009
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -40,7 +40,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
 -   Can be unbounded by talking to Brutus in [Fort Merit](https://deepwoken.fandom.com/wiki/Fort_Merit). You gain the talent card "Fortitude Unbounded". Gives 9 Health and 10 Ether.
-    -   Not having 75 Fortitude will result in your screen turning black and the sound of Brutus beating you as your HP bar depletes to the point of being knocked (Not tested whether this executes or not) instead of you obtaining the card.
+    -   Not having 75 Fortitude will result in your screen turning black and the sound of Brutus beating you as your HP bar depletes to the point of being knocked (~Not tested whether this executes or not~)(Tested, he depletes all of your armor, but does not knock you) instead of you obtaining the card.
 
 ### Agility
 

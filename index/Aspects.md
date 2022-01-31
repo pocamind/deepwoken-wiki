@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 16923
+revid: 17023
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -45,4 +45,6 @@ These races are either owned by testers/devs, rewarded by devs or are planned to
 -   All races will only give the player a small number of boosts, or maybe a head-start at best, meaning that to survive, the player _must_ be skilled, and cannot simply rely on their race's abilities to carry them through the game.
     -   Most races do not even give the player any combative boosts, the boosts exist mainly for utility.
 -   Purchasing a new character slot for 200 will randomize the race on that character. The player's previous race on another character does not carry over.
--   You might Find Other Players with a Tag as "Twin" or "Cousin", \[Which won't affect damage taken or dealt, as its purely Cosmetic\] This depends exclusively by race and last names, however, Twin is still quite confusing as last names do not seem to affect it.
+-   You might Find Other Players with a Tag as "Twin" or "Cousin", \[Which won't affect damage taken or dealt, as its purely Cosmetic\] ~This depends exclusively by race and last names, however, Twin is still quite confusing as last names do not seem to affect it.~
+-   Twins are caused by having the exact same physical features, cousins are caused by having similar features and/or name
+-   there are titles for wife and husband, locked by age requirement (believe its 25) and caused by same last name + both players being opposite genders

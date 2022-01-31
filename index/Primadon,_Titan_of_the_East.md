@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 16978
+revid: 17050
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-_Also known as Sea Monkey, Gorilla, and Monke._
+_Also known as Sea Monkey, Gorilla, Prima and Monke._
 
 Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summoned by offering 5 Megalodaunt Hide to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
@@ -37,9 +37,9 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 
 ## Rewards
 
--   **16 Chests -** Drops 16 chests with mediocre - high tier loot. Most chests have 1-6 Umbral Obsidians in them.
+-   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 [Chests](Chests_&_Sacks.md) with mediocre - high tier loot. Most [Chests](Chests_&_Sacks.md) have 1-6 Umbral Obsidians in them.
 -   **Small chest -** Has 1-3 Umbral Obsidians in it and a 50% chance of 1-2 Deep Gems.
--   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (3-5 solo Primadons is enough to get a resonance/bell(edit by dog: 3-5 solo prima's arent enough for resonance its random how much progress u need so this is false)
+-   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (5-7 solo Primadons is enough to get a resonance/bell) **Do note that this is random and could be more/less.**
 
 ## Strategies & Tips
 
@@ -60,6 +60,6 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 
 ## Trivia
 
--   Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem chests were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
+-   Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes
 -   In the game files, it is called "Monky"

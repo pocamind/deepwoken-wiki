@@ -1,9 +1,9 @@
 ---
 title: Oaths
-revid: 16987
+revid: 17019
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Pages with broken file links, Oaths, Character]
 ---
 
 # Oaths
@@ -60,7 +60,7 @@ You may only have one Oath per character slot, so it is best to pick what Oath y
 
 -   Head to Lower Erisia and make your way to the large bandit camp (just slightly past the bandit camp in the ran-down house),
 -   Climb up the wall on the right until you see a temple-like structure (Temple of The Forgotten Flame).
--   Head inside the structure but watch out for [Watchers](Watcher.md) that can also be found in The Depths, as they'll spawn an angel entity that uses spear combat if you're spotted by them.
+-   Head inside the structure but watch out for [Watchers](Watcher.md) that can also be found in The Depths, as they'll spawn an angel entity attacks with a spear, has high posture and attacks with a beam barrage.
 -   From there, head inside the temple and enter the opening on the left.
 -   All that remains from there is to equip the blindfold and read the text on the wall with the requirements and accept the Oath.
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 16535
+revid: 17010
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic]
@@ -184,7 +184,7 @@ These mantras have no prequisites.
 
 **Crystal:**
 
-These mantras require Glasspath:Crystalization ability (20 intelligence) to have them appear in your deck.
+These mantras require Glasspath: Crystalization ability (45 ≤ Frostdraw) to have them appear in your deck.
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |

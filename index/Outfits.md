@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 16478
+revid: 17041
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -30,7 +30,7 @@ Armor pieces are additional pieces of equipment the player can equip. They appea
 
 Armor items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
 
-Armors cannot be purchased, and must be obtained in enemy drops or chests. Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
+Armors cannot be purchased, and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
 
 Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
 

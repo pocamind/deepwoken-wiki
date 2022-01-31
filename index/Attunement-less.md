@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 16914
+revid: 17004
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,7 +35,7 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 `Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a _Training Vest,_ or feel the crushing weight of a _Boulder_.`
 
--   **Rally** - Strike your shield a few times to absorb some of the posture received by people that received the buff.
+-   **Rally** - Strike your shield a few times to absorb some of the posture received by your allies.
 -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
 -   **Reinforce** - Buff those around you with extra defense. Reduces incoming damage and greatly reduces armor damage. (_may completely reduce armor damage, needs more testing)_

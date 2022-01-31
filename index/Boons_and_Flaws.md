@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 16374
+revid: 17024
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -51,7 +51,7 @@ Count as 2 flaws, cannot be taken with another flaw.
     -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like Songseeker.
     -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is the only flaw that essentially have no downside at power 60.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat too much more than other characters. Regardless, carry ample food.
-    -   Vegetarian is practically a free Boon in the Etrean Luminant, as a massive mount of vegetarian harvestables can be found. It can be a problem in [The Depths](The_Depths.md), however, as harvestable food there is meat. Also note you'll miss out on meat-based foods that provide buffs.
+    -   Contrary to popular belief vegetarian is NOT a free boon, by not taking vegetarian you get access to the best food in the game, as well as foods that buff your stats considerably (ESPECIALLY WHEN YOU COMBINE DIFFERENT FOODS) for those who want to be as powerful as possible, DO NOT take vegetarian
 
 -   Some boons are more worth taking than others:
     -   Autodidact is useful to help level up certain stat quickers or level up stats that are annoying to do manually. However, a side effect of free investement point is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Also becomes useless once you reach power 60.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 16705
+revid: 16989
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -50,6 +50,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Deals moderate damage.
 -   Burns target(s).
 -   Similar to Frostdraw's [Frozen Servants](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
+-   Improved by [Cloudstone](Mantra_Modifiers.md#regular-modifiers)[\[1\]](https://deepwoken.fandom.com/wiki/Cloudstone)
 
  |
 |  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
@@ -80,7 +81,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
 -   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
--   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
+-   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
 
  |
 |  | Fire Palm(★) | A blast of flame. | Caster releases an eruption of fire in front of them.

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 16387
+revid: 17013
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Boss, Monsters, Enemies]
 
 # Enforcer
 
-Nicknames: The feinting Menance. (The enforcer gets this nickname from being a feinting god). ~ NubMan101
+Nicknames: The Feinting Menace. (The enforcer gets this nickname from being a feinting god). ~ NubMan101
 
 “ I shall relish in scraping their remains off the floor. ”
 
@@ -31,8 +31,8 @@ Template:Creature Info Box v2
 
 ### Finishers
 
--   **Crushing Pull -** The Enforcer holds his hand out and pulls the nearest knocked player to him, killing them instantly.
--   **Headsplitter** **\-** The Enforcer holds his axe up, and smashes it down on any player, killing them, akin to Axe's grip execution.
+-   **Crushing Pull -** The Enforcer holds his hand out and pulls the nearest knocked player to him.
+-   **Headsplitter** **\-** The Enforcer holds his axe up with one hand, and smashes it down on any player, killing them akin to Axe's grip execution. This animation is very fast, killing you in less than a second.
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 
@@ -51,8 +51,7 @@ The Enforcer, though? It is a complete shock to the formula. All things consider
 ### In General
 
 -   Get familiar with The Enforcer. Watch videos, watch guides, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a 45~ account, will surely lead to death. It's design and role is intentionally apart of the fight, with you knowing that if you lose, you'll die. Keep calm, and react accordingly.
--   Fight The Enforcer like you would a player. Use feints, use heavies, use mantras to combo, dodge. Do not just stand still and parry trade like you would with an NPC, or run in circles around like a monster. Treat it like you would a player.
--   While you SHOULDN'T stand in place, you also shouldn't move away. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal damage. Make distance if needed, but not too far that he'll use Pull, or too close that he'll use Whirlwind.
+-   You shouldn't move away. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal damage. Make distance if needed, but not too far that he'll use Pull, or too close that he'll use Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even blockbreak it, allowing you to wail on it freely.
 -   While not being recommended, beating The Enforcer on a level 45, or even earlier (If that situation somehow arises) Is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check like other Monsters and NPCs sometimes are.
 -   When it uses Whirlwind, do not attempt to challenge it at close range. It will shred your health. Fortunately, it is very easy to run away from.

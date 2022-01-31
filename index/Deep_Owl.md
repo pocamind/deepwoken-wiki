@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 16328
+revid: 16995
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,11 +40,7 @@ The options one should consider when encountering the Owl is the **Fight** or **
 
 Log or run away. Since the Deep Owl can be seen before it is physically spawned, as signified by the cascading feathers, it is almost guaranteed one can get away by turning back and returning the way they came (if you just randomly get jumped by one, this won't work. Sometimes owls will just be standing somewhere random after they kill an enemy)
 
-In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the End Dialogue Option). _All of these options_ have same result where the owl will stare at you until you attack it first or show your back, at which it will turn hostile and attacks you. There isn't any time limit for owl to stare at you, meaning that if you encounter the owl, you can hold it at that position forever until you find someone to help, escape its detection range or until you log. Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state.
-
-If you don't want to log, there is another way. Click the "I'm just passing through" dialogue option while facing the owl. **KEEP YOUR EYES ON THE OWL AT ALL TIMES.** If there are any players with you they have to do the same. At this point just hold S and walk away from it slowly. You can go behind a wall but you have to still be facing in the direction of the owl. Once you've gone far enough you'll be free to look wherever now as it won't aggro on to you.
-
-  
+In the event that the encounter is triggered, the Deep Owl will question the player and offer 3 different choices of dialogue (this includes the End Dialogue Option). _All of these options_ have same result where the owl will stare at you until you attack it first or show your back, at which it will turn hostile and attacks you. There isn't any time limit for owl to stare at you, meaning that if you encounter the owl, you can hold it at that position forever until you find someone to help, escape its detection range or until you can log. Closing the game during its dialogue and before it becomes hostile is the only guaranteed way to not fight the enemy in this state. Do remember that owl will turn their direction to see you whenever you move.
 
 **Fight**
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 16343
+revid: 16996
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,8 +24,8 @@ Their arsenal consists of [Thundercall](Thundercall.md) and [Way Of Navae:](Way_
 ### Moves:
 
 -   **Jolt Grab (Upgraded Version):** Teleports into the opponent and slams them into the ground, sending out a small AOE around them if it lands. _Blockable, can be parried._
--   **Lighting Kick:** The songseeker sends out a powerful kick forward. _Blockable, can be parried._
--   **Lighting Stream:** Grapples onto the player and pulls them in. _Blockable, can be parried._
+-   **Thunder Kick:** The songseeker sends out a powerful kick forward. _Blockable, can be parried._
+-   **Lightning Stream:** Grapples onto the player and pulls them in. _Blockable, can be parried._
 
 ### Boons:
 
@@ -38,3 +38,4 @@ Their arsenal consists of [Thundercall](Thundercall.md) and [Way Of Navae:](Way_
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
 -   So far the most intelligent Songseeker type as they have a fighting style.
 -   Don't fight these below power 30, they're like squid hoss in the etrean luminant
+-   Whenever they do Lightning Stream, there is a 99% chance they will do Thunder Kick right after. (Only if they land the lightning stream)

@@ -1,9 +1,9 @@
 ---
 title: Thresher
-revid: 16899
+revid: 17026
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Enemies]
 ---
 
 # Thresher
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 # Thresher
 
-_Also known as Crocodiles, Crocs, Crocco, and many other Lizard names. Note that the name that shows up when killed by a monster is the official name of that monster. (It can catch you pants down just like six.)_
+_Also known as Crocodiles, Crocs, Crocco, Doggy and many other Lizard names. Note that the name that shows up when killed by a monster is the official name of that monster. (It can catch you pants down just like six.)_
 
 ## Description
 
@@ -26,6 +26,10 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 -   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried. Deals slight damage per bite.
 -   **Tail Swipe** - Turns around and smacks you with its tail, ragdolling those hit by this. This attack is able to be parried. Can be blocked with a good enough shield/enough posture available (does ~50% posture with worshipper shield), able to be parried.
 -   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
+
+## Finishers
+
+-   **Rip Apart** - Holds you in its mouth full of teeth, then aggressively shakes its head for 4 seconds to brutally rip your limbs apart.
 
 ## Notes
 

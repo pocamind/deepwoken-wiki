@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 16832
+revid: 17058
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -20,7 +20,9 @@ This Outfit has no cost and requires five (5) Cloth, two (2) pieces of Iron, two
 
 This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance and +10% Wind resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Brunt_, brief description goes here.
+### _**Armor Talent**_
+
+While 2-handing, you take less posture damage.
 
 ## Location
 

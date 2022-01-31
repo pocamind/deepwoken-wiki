@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 16363
+revid: 17038
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -100,6 +100,8 @@ This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
 
 File:Similar Last Names.png
 
-Primal Vesperians _also known as Vesperian with horns_ are a spec made for a deepwoken player as a prize to winning an art contest.
+[Primal Vesperians](Primal_Vesperian.md) _also known as Vesperian with horns_ are a spec made for a deepwoken player as a prize to winning an art contest.
 
 Vesperian Horns are unobtainable contrary to popular belief of getting them with age.
+
+Vesperian and Ganymede ancestors could be [Primal Vesperian](Primal_Vesperian.md) as they greatly resemble their predecessor
