@@ -1,18 +1,12 @@
 ---
 title: Attributes
-revid: 16945
+revid: 16980
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
 ---
 
 # Attributes
-
-“ It's a simple method, beat people up and get better equipment. It's like a Bandit-Beater! ”
-
-― A naive Celtor, moments before a Megalodaunt football kicked him.
-
-  
 
 ## Description
 

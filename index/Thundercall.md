@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 16939
+revid: 16982
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -137,8 +137,6 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
-
-(Take this argument to the comment section gents, winner gets to post the correct information here.)
 
  |
 

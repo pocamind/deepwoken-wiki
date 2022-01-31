@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 16035
+revid: 16967
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,9 +33,9 @@ Pressing "C" will activate the **Full Counter** Resonance.
 
 #### _Versions_
 
--   **Version 1** will reflect any damage taken within one to two seconds to the user's opponents.
--   **Version 2** will multiply all damage taken within one to two seconds and fire a thin beam that damages the user's opponents.
--   **Version 3** will multiply all damage taken within one to two seconds and fire three thin beams that damage the user's opponents.
+-   **Version 1** will divide (1/4th) any damage taken within one to two seconds to the user's opponents.
+-   **Version 2** will multiply (3x) all damage taken within one to two seconds and fire a thin beam that damages the user's opponents.
+-   **Version 3** will multiply (3x) all damage taken within one to two seconds and fire three thin beams that damage the user's opponents.
 
 #### _Tarnished_
 

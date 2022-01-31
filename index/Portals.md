@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 16381
+revid: 16986
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -48,3 +48,4 @@ If Portal is found to be corrupted, the duration of the ability is tripled.
 
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
 -   This Resonance can be a great tool to ambush other players.
+-   Also called the "Yoru bell" as it's abilities are common with a Valorant character named Yoru.

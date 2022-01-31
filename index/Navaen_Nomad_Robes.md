@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 14793
+revid: 16970
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]

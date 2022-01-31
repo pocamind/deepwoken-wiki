@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 16831
+revid: 16984
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -18,7 +18,7 @@ notices:
 
 The lore of Deepwoken is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals.
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is entirely based on the game, and does not include information from third party services (Lore Discord Servers, etc.)
 
 This Page is for LORE only. If you want to see which Faction can be reputable or not, go [here](Reputation.md).
 
@@ -459,12 +459,12 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Ancestors of Ganymedes & Vesperians
 
-**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
+**Lore Sources:** _Arch\_Mage (One of his posts in Discord), Agamatsu_
 
 -   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present in Year 1271, they still work together as The Hive.
--   It could be theorized that their ancestors is a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM). A vesperian with a black mask, white marks, and a horns
--   Like Agamatsu said, they probably lost the horns in evolution.
+-   It could be theorized that their ancestors is a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM); Ancient Vesperians who have horns on their masks.
+    -   Based on Agamatsu, the Primal Vesperians lost their horns through Evolution.
 
 ### Lightkeepers
 
