@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17199
+revid: 17204
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -67,7 +67,7 @@ _icon credit to Tortaa#9000_
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, gripping players, and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
--   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 Strength and 75 Willpower.
+-   Can be unbounded by talking to [Akira](Akira.md) in [Castle Light](Castle_Light.md).
 
 ### Charisma
 

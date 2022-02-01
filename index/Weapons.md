@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 17180
+revid: 17220
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -835,20 +835,23 @@ Weapons that scale with a certain element
 
 ## Calculating Damage and Attack Speed
 
-Damage per hit = b a s e + I n v P t s ( ( b a s e / 1000 ) ∗ s c a l i n g ) {\\displaystyle base+InvPts((base/1000)\*scaling)} {\\displaystyle base+InvPts((base/1000)\*scaling)}
+Damage per hit = ~b a s e + I n v P t s ( ( b a s e / 1000 ) ∗ s c a l i n g ) {\\displaystyle base+InvPts((base/1000)\*scaling)} {\\displaystyle base+InvPts((base/1000)\*scaling)}~ this formula is harder to understand. Use this one instead for a easier time.= F u l l d a m a g e \= b a s e + s c a l i n g ( w e a p o n p t s / 5 ∗ .1 ) {\\displaystyle Fulldamage=base+scaling(weaponpts/5\*.1)} {\\displaystyle Fulldamage=base+scaling(weaponpts/5\*.1)}
+
+^ use this if you aren't a idiot (btw I would cross out the original if I could just to show how stupid it is but I have to go to this length)
 
   
+
 Take for example a Dragoon if the player has invested 65 light weapon points...
 
-D a m a g e \= 20 + 65 ( ( 20 / 1000 ) ∗ 12 ) {\\displaystyle Damage=20+65((20/1000)\*12)} {\\displaystyle Damage=20+65((20/1000)\*12)}
+F u l l D a m a g e \= 20 + 12 ( 65 / 5 ∗ .1 ) {\\displaystyle FullDamage=20+12(65/5\*.1)} {\\displaystyle FullDamage=20+12(65/5\*.1)}
 
-D a m a g e \= 20 + 65 ( 0.02 ∗ 12 ) {\\displaystyle Damage=20+65(0.02\*12)} {\\displaystyle Damage=20+65(0.02\*12)}
+F u l l D a m a g e \= 20 + 12 ( 13 ∗ .1 ) {\\displaystyle FullDamage=20+12(13\*.1)} {\\displaystyle FullDamage=20+12(13\*.1)}
 
-D a m a g e \= 20 + 65 ( 0.24 ) {\\displaystyle Damage=20+65(0.24)} {\\displaystyle Damage=20+65(0.24)}
+F u l l D a m a g e \= 20 + 12 ( 1.3 ) {\\displaystyle FullDamage=20+12(1.3)} {\\displaystyle FullDamage=20+12(1.3)}
 
-D a m a g e \= 20 + 15.6 {\\displaystyle Damage=20+15.6} {\\displaystyle Damage=20+15.6}
+F u l l D a m a g e \= 20 + 15.6 {\\displaystyle FullDamage=20+15.6} {\\displaystyle FullDamage=20+15.6}
 
-D a m a g e \= 35.6 {\\displaystyle Damage=35.6} {\\displaystyle Damage=35.6}
+F u l l D a m a g e \= 35.6 {\\displaystyle FullDamage=35.6} {\\displaystyle FullDamage=35.6}
 
   
 The equation below shows the true attack speed per second.

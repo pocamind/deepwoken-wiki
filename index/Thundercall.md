@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 17075
+revid: 17216
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -36,6 +36,7 @@ The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgra
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Lightning Blade | Arcing blades of electricity. | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
+-   Applying magnetic spark on it teleports you to your target. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 
  |
@@ -57,6 +58,7 @@ The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgra
  |
 |  | Lightning Beam (★) | Fire a beam of lightning. | Sends out a straight beam of lightning forwards from your chest.
 
+-   Has a talent that makes it cast instantly after flourishing an enemy, pretty much guaranteed hit after flourish.
 -   Appears after a second of casting.
 
  |

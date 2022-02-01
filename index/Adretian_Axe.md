@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 16837
+revid: 17223
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -31,4 +31,4 @@ The Adretian Axe is a Heavy Weapon Greataxe. It can be obtained through the Fort
 
 ## Notes
 
--   This weapon is very good for no reason. It has a low stat requirement for how good it is, and outclasses most of the endgame Heavy Weapons in every way possible despite this. The Adretian Axe is literally better than a [Pale Morning](Pale_Morning.md).
+-   This weapon is very good for no reason. It has a low stat requirement for how good it is, and outclasses most of the endgame Heavy Weapons in every way possible despite this.

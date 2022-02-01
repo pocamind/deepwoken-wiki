@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 17163
+revid: 17210
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -92,7 +92,7 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Can be improved with Cloud/Stratus stones.
 
  |
-|  | Flame Eruption (★) | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
+|  | Fire Eruption (★) | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
 
 -   Deals moderate-high damage.
 -   The second explosion ragdolls enemies.
@@ -171,11 +171,6 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 |  | Flame of Denial | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
 
 -   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon receiving lethal damage)
-
- |
-| Mantra Picture Needed | Gaze | Gaze into your enemies souls. | Gives insanity to players you look at. (Details like range are still unkown)
-
--   Good against players in depths.
 
  |
 

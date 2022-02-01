@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 17200
+revid: 17207
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character]
@@ -13,7 +13,7 @@ categories: [Oaths, Character]
 | oath_req | Power 30 |
 | effects | +2 Wildcard Mantra |
 
-| Oath: Oathless | |
+| Oath: Blindseer | |
 |---|---|
 | oath_req | Willpower 405 Mental Fortress Talents |
 | effects | +1 Support Mantra, +1 Wildcard Mantra, +3 Health, +10 Sanity |
