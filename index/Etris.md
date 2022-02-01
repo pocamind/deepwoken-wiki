@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 16389
+revid: 17252
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -247,11 +247,11 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 
 ### Navaen Tribe Rescue Quest
 
--   ~Talk to the Eastern Camp Master in the encampment, near the City. (Optional)~ To my knowledge this isn't something he says, he'll only tell you to go away, nothing else.
-    -   ~He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).~
+-   Talk to the Eastern Camp Master in the encampment, near the City. (Optional)
+    -   He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).
 
 -   Find and rescue a Navaen Tribe Member in Erisia Island in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn. (Be ready to fight guards if you have bad reputation with Fort Merit Guards and Lionfish as you will have to sail through Aratel Sea.)
--   Upon finding a Navaen Tribe Member, head back to the Camp Master and recieve your Reward.
+-   Upon finding a Navaen Tribe Member, head back to the Camp Master and recieve your Reward. (**Reward can only be collected if you are non hostile with the navae tribe if you are a declared enemy of navae the master will tell you to go away.)**
 -   The Reward for this Quest is the "Way of Navae" Fist Stance and Talent. In addition, unlocks a new dialogue option from Polis.
 -   If you know that you want fist style from the beginning you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, as the spawn chances for the Nomads seem to be higher than in Erisia as a random encounter.  
     

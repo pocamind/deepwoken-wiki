@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 16884
+revid: 17276
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -98,13 +98,15 @@ Obtaining max reputation in Greathive Aratel will allow you to talk to the Shipw
 
 There are green [fountains](Fountain_Gates.md) around the Hive that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). In the entrance, the left well goes to [Summer Isle](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
 
-The Shipwright has a second dialogue when you speak to him. He talks about ship modification, which is potentially an upcoming or undiscovered feature. Exact dialogue is unknown, if you know what it is please add it to the page (ill add it by tomorrow, just cant check rn)
+**Shipwright Information**
+
+The Shipwright has a second dialogue when you speak to him. You need High Reputation to speak to him. He talks about ship modification, which is potentially an upcoming or undiscovered feature: "What's so special about your ships?" "\*The Shipwright raises their hand, green lines of light swirling like vines around it.\* It's what makes the Hive itself special. I'm able to Liveweave modifications into your ship."
 
 File:Portals.png
 
 The portal locations.
 
-  
+Additionally, if you speak to the Shipwright with High Reputation and ask for a boat, he says "You? Hah. There is no weight to your name." In order to actually make a boat, you need max reputation at Hive.
 
 ## Trivia
 

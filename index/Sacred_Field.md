@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 16943
+revid: 17254
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -19,7 +19,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, an orange field will appear around the user for around fifteen to twenty seconds.
+When used, an orange or red field will appear around the user for around fifteen to twenty seconds.
 
 ## Usage
 

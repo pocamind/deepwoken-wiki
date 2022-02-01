@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 16686
+revid: 17253
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -187,4 +187,4 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
--   Archmage stated that Galebreathe is the "least cool" out of all the elements.
+-   Archmage stated that Galebreathe is the "least me" out of all the elements.

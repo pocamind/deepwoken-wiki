@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 12597
+revid: 17251
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,7 +27,7 @@ Atleast ONE Commander is located within [Fort Merit](Fort_Merit.md), in the pris
 Their arsenal is composed of "[Flamecharm](Flamecharm.md)" ,a medium or heavy weapon (Adretian Axe, Officer Saber, Shotel), and the [Strong Left](Attunement-less.md) mantra:
 
 -   **Flame Assault:** The Commander dashes forward hitting anything in their path. _Blockable, can be parried._
--   **Flame Repulsion:** After a wind-up of ~2 seconds, The Commander explodes in a burst of flames. _Blockable, cannot be parried._
+-   **Flame Repulsion:** After a wind-up of ~2 seconds, The Commander explodes in a burst of flames. _Blockable, cannot be parried. (Modified with what looks to be 3 cloudstones or 2 stratus stones)_
 -   **Flame Blade:** The Commander thrusts down with their blade coated in flame. _Blockable, can be parried_
 -   **Strong Left:** A powerful, flinging punch that shatters the air. _Cannot be blocked, can be parried._
 

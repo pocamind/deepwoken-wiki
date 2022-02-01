@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 16933
+revid: 17274
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -61,6 +61,8 @@ The main indicator for changes in a player's reputation will be shown by an 'eye
 It shows up when you grip members of a faction or contribute to their death, or if you're attacking a player in a faction's territory.
 
 Hitting members of that faction will not drain your reputation, unless you aggro someone who wasn't already aggravated.
+
+Being killed by members of the Central Authority will prompt a message saying something along the lines of "Your perceived threat by the central authority has been reduced". It is unknown if this is the only way to reduce negative reputation with the central authority, but this is the only thing close to it that has been found.
 
 _**Rejoice! There is a new indicator for reputation!**_
 
@@ -131,13 +133,13 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   Knives of Eylis File:Eylisiconfactoin.png
 -   The Ignition Union
 -   Celtor
+-   The Ministry
 
 ### Non-Reputable Factions
 
 -   Bandits
 -   The Contractors
 -   Songseeker Tribesmen
--   The Ministry
 
   
 **Notes**

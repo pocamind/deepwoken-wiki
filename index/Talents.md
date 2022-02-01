@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17230
+revid: 17272
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -202,7 +202,12 @@ Hand of Mantra Cards
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
     -   Prerequisite: Reinforce
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
-    -   Prerequisite: Reinforce(?)
+
+Prerequisite: Reinforce(?)
+
+-   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health)
+
+-   Prerequisite: Reinforce
 
 ### Cryomancer
 

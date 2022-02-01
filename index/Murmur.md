@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 17229
+revid: 17242
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -29,6 +29,8 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 The ability normally costs a large amount of [Ether](Combat_Mechanics.md), but training it will reduce the cost down to zero (will take hours to do so).
 
 Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
+
+This Murmur was once used by the Etrean King. It said that his Murmur was strong enough to cut the sea in half (Though it make no sense because why he was overthrown by Lord Regent even though he had such power)
 
 ### Ardour Scream
 
