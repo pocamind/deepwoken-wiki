@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 16685
+revid: 17091
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -172,6 +172,7 @@ These songs were made for other purposes.
 -   **[A Memory of Tides](https://soundcloud.com/naktigonis/a-memory-of-tides) File:A Memory Of Tides.mp3**
 -   **[Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) File:Masters of the House.mp3**
 -   **[The Gideshu March](https://soundcloud.com/naktigonis/the-gideshu-march) File:The Gideshu March.mp3**
+-   Monkey Paw Easter Egg - [https://www.youtube.com/watch?v=hHSZsSO54z0](https://www.youtube.com/watch?v=hHSZsSO54z0) - Seems to play this soundtrack [https://www.youtube.com/watch?v=y-f8pEX1Q1M&ab\_channel=LenaRaine-Topic](https://www.youtube.com/watch?v=y-f8pEX1Q1M&ab_channel=LenaRaine-Topic) also a Minecraft block replaces the ROBLOX logo halfway through (?)
 
 <table>
 <tbody>

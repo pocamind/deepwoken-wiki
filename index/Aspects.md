@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 17023
+revid: 17188
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -9,6 +9,8 @@ categories: [Races, Character]
 # Aspects
 
 ## Description
+
+_icon credit to Tortaa#9000_
 
 There are many races within the world of Deepwoken, each player starting out with a race at random per character slot. Currently, there are 10 obtainable races in Deepwoken, each providing various utility abilities and skills to the player.
 

@@ -1,11 +1,13 @@
 ---
 title: Lower Erisia
-revid: 15805
+revid: 17080
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Lower Erisia
+
+### The Oresfall of Deepwoken
 
 Lower Erisia is the first part of Erisia's territory. Lower Erisia consists of hills, beaches, caves and cliffs. It is recommended to grind Lower Erisia's Monsters until htiting a decent level, then heading to Upper Erisia.
 

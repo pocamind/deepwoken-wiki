@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 16892
+revid: 17131
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons]
 ### **Description**
 
   
-The Messer is a Medium Weapon that can be obtained by buying it at Etris, or from a chest in Lower Erisia. This weapon has no special effects or passives.
+The Messer is a Medium Weapon that can be obtained by buying it at Etris, or from chests in Lower Erisia. This weapon has no special effects or passives.
 
 ### Notes
 

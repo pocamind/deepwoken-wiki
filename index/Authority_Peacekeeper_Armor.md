@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 16792
+revid: 17085
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -29,6 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 This Outfit's Schematic can be found in:
 
 -   [The Depths](The_Depths.md)
+-   Sold by Nyanna in [Castle Light](Castle_Light.md)
 -   Probably fort merit (needs confirmation)
 
 ## Trivia/Notes

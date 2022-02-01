@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 16465
+revid: 17151
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,7 @@ There are six Deep Gems, including:
 <tr>
   <td></td>
   <td><b>Blue Gem</b><p><i>'It oozes Ether...'</i></p></td>
-  <td>Reduces Ether cost of a mantra significantly.</td>
+  <td>Reduces Ether Cost by 50%</td>
 </tr>
 <tr>
   <td></td>

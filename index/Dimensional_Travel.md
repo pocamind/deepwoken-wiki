@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 16542
+revid: 17158
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,7 +41,7 @@ Pressing "C" will activate the **Distortion Realm** Resonance.
 
 #### _Corrupted_
 
-If **Distortion Realm** is found to be Corrupted, the distance the Distortion Realm to Etrean Luminant distances ratio is amplified, meaning you can travel further, faster.
+If **Distortion Realm** is found to be Corrupted, the Distortion Realm to Etrean Luminant distances ratio is amplified, meaning you can travel further, faster.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 17036
+revid: 17069
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -10,7 +10,7 @@ categories: [Talents, Character]
 
 ## Description
 
-Murmurs are [Talents](Talents.md) obtained by completing an objective that allow the user to channel the song and buff them in various ways.
+Murmurs are [Talents](Talents.md) obtained by completing an objective that allow the user to channel the song and buff them in various ways. Players can only obtain one Murmur.
 
 Currently, there are only two known Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing.
 
@@ -35,6 +35,9 @@ Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
 
 **Ardour Scream** is a [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour and 40 [Willpower](Attributes.md#willpower). Your murmur does not have to be trained.
+
+  
+  
 
 ## Murmur: Tacet
 

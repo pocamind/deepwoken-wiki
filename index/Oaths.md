@@ -1,141 +1,85 @@
 ---
 title: Oaths
-revid: 17019
+revid: 17200
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, Character]
+categories: [Oaths, Character]
 ---
 
 # Oaths
 
+| Oath: Oathless | |
+|---|---|
+| oath_req | Power 30 |
+| effects | +2 Wildcard Mantra |
+
+| Oath: Oathless | |
+|---|---|
+| oath_req | Willpower 405 Mental Fortress Talents |
+| effects | +1 Support Mantra, +1 Wildcard Mantra, +3 Health, +10 Sanity |
+
 ## Description
 
-You may only have one Oath per character slot, so it is best to pick what Oath you're trying to get at the start of your journey as you will be locked into it forever. Oaths do not carry over if a character gets wiped.
+_icon credit to Tortaa#9000_
 
-## Oaths
+**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain. Like [Murmurs](Murmur.md), players can only obtain one Oath per character.
 
-<table>
-<tbody>
-<tr>
-  <td>Oath: Oathless</td>
-</tr>
-</tbody>
-</table>
+There are currently only two **Oaths** in _Deepwoken_.
 
-### Pre-requisites:
+## Oath: Oathless
 
--   Power 30
+_"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-### How to obtain:
+### _Description_
 
--   Chance to obtain at Power 30 as a talent from powering up
+**Oath: Oathless** is one of the easiest Oaths to obtain currently, only requiring [Power Level](Power.md) 30.
 
-### Oath Effects:
+### _Obtaining_
 
--   +2 Wildcard Mantra Slots
+Oathless is possible to roll in a hand of Talent Cards and does not require a task.
 
-### Oath Description:
+### _Effects_
 
-"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"
+This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
-### Notes
+### _Notes_
 
--   The easiest Oath to obtain, as it only requires the player to reach Power 30.
+-   A good Oath to obtain if you are not planning on obtaining a substantial amount of requirements.
 
-<table>
-<tbody>
-<tr>
-  <td>Oath: Blindseer</td>
-</tr>
-</tbody>
-</table>
+## Oath: Blindseer
 
-### Pre-requisites:
+_"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."_
 
--   Willpower 40
--   Any Blindfold (Chest Item)
--   All of the Mental Fortress [talents](Talents.md) (Breathing Exercise, Conquer your Fears, Disbelief, Encouraging Presence, Unyielding Focus)
+### _Description_
 
-### How to Obtain:
+**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath has no [Power](Power.md) requirement.
 
--   Head to Lower Erisia and make your way to the large bandit camp (just slightly past the bandit camp in the ran-down house),
--   Climb up the wall on the right until you see a temple-like structure (Temple of The Forgotten Flame).
--   Head inside the structure but watch out for [Watchers](Watcher.md) that can also be found in The Depths, as they'll spawn an angel entity attacks with a spear, has high posture and attacks with a beam barrage.
--   From there, head inside the temple and enter the opening on the left.
--   All that remains from there is to equip the blindfold and read the text on the wall with the requirements and accept the Oath.
+### _Obtaining_
+
+Obtaining Blindseer is harder than Oathless, and requires a Blindfold for the process.
+
+1.  Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
+2.  Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
+3.  Climb above the temple doors and proceed inside the temple.
+    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lower Angel](Monsters.md) if they catch sight of you.
+4.  Once inside the temple, proceed through a passage on the left.
+5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer._
+
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
+
+### _Effects_
+
+This Oath grants the player one (1) Support Mantra Card slot, one (1) Wildcard Mantra Slot, three (3) Health and ten (10) Sanity.
+
+This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye.
+
+### _Notes_
+
+-   This Oath, along with the Willower passives will grant you 96 Sanity, and will allow you to last 88 minutes in [The Depths](The_Depths.md).
+-   If you don't have any face accessory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
 
 Blindseer vesp  
 
-### Oath Effects:
+## Trivia/Notes
 
--   +3 Health
--   +10 Sanity
--   +1 Support Mantra Slot
--   +1 Wildcard Mantra Slot
--   Increased brightness
--   Full vision while wearing a blindfold
--   Visible symbol in front of your eyes
-    -   Black skin and new mask with a unique yellow design for [Vesperians](Vesperian.md)
-
-### Oath Description:
-
-"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."
-
-### Notes
-
--   According to a Blindseer user, with Willpower 40, all passives and Blindseer you are able to remain in The Depths for over an hour without going insane.
--   The Blindseer method video was published by Fear. You may watch the [video here](https://www.youtube.com/watch?v=7NfG6_JiFdQ) for a more in-depth guide on how to obtain it.
--   If you don't have any face accessory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
--   You can equip other face accessories and still have the full effects of the oath, excluding increased brightness
--   At 40 Willpower, with the blindfold, all the talents and the oath, you receive an extra 96 sanity, which, with base sanity, equals to 176 sanity, or 88 minutes in the depths before dying.
-
-<table>
-<tbody>
-<tr>
-  <td>Speculated Oaths</td>
-</tr>
-</tbody>
-</table>
-
-This section is for Oaths that may have been or is speculated to be in the game. Most oaths here have some bit of validity but ones like Celestial, Paladin, and Yun' Shul have been debunked, so please do not add already debunked Oaths.  
-
-<table>
-<tbody>
-<tr>
-  <td>Oath: Visionshaper</td>
-</tr>
-</tbody>
-</table>
-
-Close up of card
-
-**MOST LIKELY A WAVE 0 CONCEPT THAT WAS REMOVED ON OR SHORTLY AFTER RELEASE, NO PLANNED RETURN.**
-
-### Pre-Requisites:
-
--   Speculated High INT (?)
-
-### How to obtain:
-
--   Unknown
-
-### Oath Effects:
-
--   Unknown
-
-### Oath Description:
-
-File:Visionshaper from Infernasu .png
-
-Image from Infernasu showing Visionshaper
-
-"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."
-
-### Notes
-
--   Card originated from a tweet by Infernasu. [(here)](https://twitter.com/infernasu/status/1478355225392132097?s=21)
--   Illusionary Abilities possibly hinted due to the description
--   This oath seems to be disabled at the moment, or at one point in time in the game.
--   It seems to have been in the game at one point, maybe making a return in later updates, or may just be disabled for now.
--   There seems to be a glowing purple eye similar to the one in the image from this [video](https://youtu.be/NJVwA_B2XJI?t=87).
--   Although lack of substantial evidence this seems to have been an oath at one point in development.
+-   More Oaths are planned to added later, as stated in an update log.

@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 13283
+revid: 17168
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -54,13 +54,15 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
 6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up will obtaining Intelligence Unbound
 
+Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pick up some Bluecaps from the hidden library near [Lightkeeper Temple](Lightkeeper_Temple.md) (Requires a mantra that can destroy blocks, needed for gaining access to the room which opens the door to the library)
+
 ### **Willpower Unbound**
 
 1.  Reach 75 Willpower
-2.  Enter the Tomb of the Nameless Soldier.
-3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Approch the coffin the attempt to interact with the ladder bellow it to climb down.
-5.  Read the book in the room and pick the first dialogue option, you will obtain Willpower Unbound.
+2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md)
+3.  Take his first dialogue option then meet him at [Castle Light](Castle_Light.md)
+4.  Make sure that you entered The Depths throught a Whirlpool at [Boatman's Watch](<Boatman's_Watch.md>) to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
+5.  Talk to Akira and take the option "How do I brace myself against the monsters of the deep? How do I not succumb to their horror?". You will obtain Willpower Unbound.
 
 ### **Charisma Unbound**
 
@@ -75,7 +77,7 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 ### **Heavy/Medium/Light weapon Unbound**
 
 1.  Reach 75 Heavy/Medium/Light
-2.  Start the A lost sibling quest by talking to Apprentice Kj.
+2.  Start the A lost sibling quest by talking to Apprentice Kj. \[NOT NEEDED IN TO TALK TO KJ TO DO QUEST, YOU CAN JUST GRAB GALESTONE AND HEAD TO HIS BROTHER)
 3.  Obtain a Gale Stone.
 4.  Head on to Upper Erisia and to the Acid Garden's.
 5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))

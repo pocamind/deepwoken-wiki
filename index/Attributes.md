@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17009
+revid: 17199
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -23,6 +23,8 @@ All Attributes can be improved up to 75 points but may be uncapped to 100 once y
 If your race happens to start with +2 in a given stat, the limits are 77 and 102 instead.
 
 ### Strength
+
+_icon credit to Tortaa#9000_
 
 -   Overall Physical Strength. Increases Carry Load and Armor Penetration.
     -   Increases Carry Load by 1 per Strength.

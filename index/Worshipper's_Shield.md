@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 17034
+revid: 17078
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons]
 | Worshipper's Shield | |
 |---|---|
 | type | Shield |
-| requirements | 45 fourtude |
+| requirements | 45 Fortitude |
 | damage | N/A |
 | scaling | N/A |
 | range | N/A |

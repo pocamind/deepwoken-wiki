@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 17042
+revid: 17190
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -15,6 +15,8 @@ categories: [Pages with broken file links]
 </tr>
 </tbody>
 </table>
+
+_icon credit to Tortaa#9000_
 
 Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Chests](Chests_&_Sacks.md) in any location, on any piece of equipment.
 

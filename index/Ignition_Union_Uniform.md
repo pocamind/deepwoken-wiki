@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 16361
+revid: 17089
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,7 +25,8 @@ This Outfit has 2000 durability and grants +22% Physical resistance and +22% Ele
 
 This Outfit's Schematic can be found in:
 
--   bandit chests in [Lower Erisia](Lower_Erisia.md).
+-   [Lower Erisia](Lower_Erisia.md)
+-   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 

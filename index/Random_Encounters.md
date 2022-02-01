@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 15219
+revid: 17166
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, World]
@@ -26,7 +26,7 @@ A campfire, circled by two to three NPCs. The strength of said NPCs is scaled ba
 
 #### **Bandit Ambush**
 
-While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in. This is a glitch, Bandit Camps can sometimes spawn in the sky.
+While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in. ~This is a glitch, Bandit Camps can sometimes spawn in the sky.~ (It is likely that this is intended as the bandit leader will often say something akin to "Surprise!" when they jump you.)
 
 #### **Thieves**
 

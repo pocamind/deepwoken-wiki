@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 15974
+revid: 17073
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Cutthroat Light Armor** is an Adept [Outfit](Outfits.md) 
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber, two (5) pieces of Iron and one (1) Crystal Lens.
+This Outfit costs and requires four (4) Cloth and Fiber, five (5) pieces of Iron and one (1) Crystal Lens.
 
 This Outfit requires [Power Level](Power.md) 15.
 

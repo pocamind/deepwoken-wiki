@@ -1,12 +1,16 @@
 ---
 title: Mantras
-revid: 15796
+revid: 17192
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras]
+categories: [Pages with broken file links, Mantras]
 ---
 
 # Mantras
+
+File:Mantraicon.png
+
+_icon credit to Tortaa#9000_
 
 > _**Whispers from the deep beckon you...**_
 

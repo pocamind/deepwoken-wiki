@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 16360
+revid: 17160
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,6 +16,6 @@ The Crypt Blade is a Legendary weapon obtainable from Primadon and in the depths
 
 ## Abilities
 
-\- It procs every shadowcast passive/talent
+\- It procs every [Shadowcast](Shadowcast.md) passive/talent
 
-\- Highest damaging weapon in the game(besides Kite's bell)
+\- Highest damaging weapon in the game ( Besides [Crazy Slots](Crazy_Slots.md) )

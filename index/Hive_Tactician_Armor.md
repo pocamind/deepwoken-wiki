@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 17058
+revid: 17097
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -31,6 +31,7 @@ This Outfit's Schematic can be found in:
 -   Songseeker Wilds
 -   Aratel/Hive Island
 -   Minityrsa
+-   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 

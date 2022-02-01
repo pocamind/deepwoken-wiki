@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 17051
+revid: 17150
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras]
@@ -296,9 +296,9 @@ also looks identical to falseflame.
 #### **Magnet Spark**
 
 -   This modifier adds an extra teleporting slash to the end of the _Lightning Blade_ Mantra.
--   This modifier makes the _Jolt Grab_ Mantra a teleporting attack.
+-   This modifier change J_olt Grab_ Mantra so that: it no longer lunge, replace the hitbox with an aoe around the user with a blindspot behind, reduce the wind up, teleport to the target.
 -   This modifier is compatible with the _Spark Swap_ Mantra but has no effect.
--   This modifier is compatible with _Strong Leap_ Strength mantra (please add the effect here). <--(Appears to jump slightly more in the direction of an ally.)
+-   This modifier is compatible with _Strong Leap_ Strength mantra (Appears to jump slightly more in the direction of an ally.)
 
 #### Round Spark
 

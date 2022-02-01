@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17041
+revid: 17185
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -19,6 +19,10 @@ Armor is an essential part to _Deepwoken_, being the basis of most of your resis
 Outfits are the very base of your Armor, and are the only part of your defense that must be crafted and are given durability.
 
 Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
+
+File:Armoricon.png
+
+_icon credit to Tortaa#9000_
 
 Outfits can be purchased at the Blacksmiths in larger settlements, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a Blacksmith to unlock an Outfit in their shop.
 

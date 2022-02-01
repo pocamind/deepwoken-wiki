@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 17004
+revid: 17157
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -74,7 +74,8 @@ NOTE: Attunement-less mantras are rarer if you have an attunement.
 
 `Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "_steady footing_" during battle. To increase the duration/level cap, bolster your sanity and wisdom with _Prayer Beads_.`
 
--   **Gaze -** An ability where you stare at your enemy, combat tagging them and decreasing their sanity. Reduces defense.
+-   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defence.
+    -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
 -   Requirement: 25 Willpower, _Willpower Support Mantra_
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.

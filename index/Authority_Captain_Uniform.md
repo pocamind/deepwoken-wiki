@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 16702
+revid: 17086
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -25,7 +25,7 @@ This Outfit has 2000 durability and grants +30% Physical resistance and +25% Ele
 This Outfit's Schematic can be found:
 
 -   Fort Merit
--   Nyanna
+-   Sold by Nyanna in [Castle Light](Castle_Light.md)
 -   Depths (Needs to be confirmed) More to be added.
 
 ## Trivia/Notes

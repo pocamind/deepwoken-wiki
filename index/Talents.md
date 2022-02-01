@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17059
+revid: 17178
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -21,6 +21,8 @@ categories: [Pages with broken file links, Talents, Generic Talents, Rare Talent
 </table>
 
 File:Screenshot 2022-01-25 11.06.32 AM.png
+
+_icon credit to Tortaa#9000_
 
 Talents are the main aspect of your character's build. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
 
@@ -154,6 +156,7 @@ Hand of Mantra Cards
 -   Firmly Planted \[Generic Talent, Common Talent\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
 -   Perseverance \[Common Talent\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
 -   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
+    -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
 
 ### Beast Slayer
 
@@ -180,7 +183,7 @@ Hand of Mantra Cards
 -   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage. (15% dmg buff).
     -   Prerequisite: 40 Intelligence
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having full health causes your mantras do 1.25x damage.
-    -   Prerequisite: Intelligence (confirmed, only ever got this when I had over 20 intelligence)
+    -   Prerequisite: 20(?) Intelligence
 -   Ether Absorption \[Generic Talent, Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
@@ -225,7 +228,7 @@ Hand of Mantra Cards
 
 -   Dark God \[Generic Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their reservoir. (+1 Elemental Intensity, 3+ Health)
 -   Dark Rift \[Generic Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
-    -   This ability last for 2 seconds and goes on a 5 second cooldown when it activates.
+    -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Dark Hours \[Generic Talent, Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
     -   Shadowcast deal 20% more damage at night.
 -   Devour \[Generic Talent, Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves (+3 Elemental Intensity, +3 Health)
@@ -278,12 +281,16 @@ Hand of Mantra Cards
 
 ###### Neuroplasticity
 
--   Genius Intellect \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a mantra has a reduced Ether cost.
+-   Genius Intellect \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a mantra has a reduced Ether cost. (+1 wildcard slot)
+    -   Ether cost of modded mantras are reduced.
+        -   This applies retroactively to mantras modded before obtaining this talent.
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you - this makes it impossible to die unless struck 20 times after entering combat. This also includes fall damage and other natural damage.
--   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. (Might increase the speed at which you drink potions, I just got it so I still need to test it.)
+-   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
+    -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of invincibility everytime you take a hit.
+-   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
+    -   Drink potions faster.
 
 ### The Emperor's Blade
 
@@ -707,6 +714,10 @@ Prerequisite: Willpower 5~
 -   Boom, Headshot \[Generic Talent, Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
 
+### Whisper
+
+-   Haunted Gale \[Generic Talent, Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quicky struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
+
 ### **Miscellaneous**
 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
@@ -738,7 +749,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
 -   Brace - Gain hyperarmor on your attacks for a short duration
 
-#### Agility Combat (10 Agility Needed)
+#### Agility Combat (6 Agility Needed)
 
 -   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 
@@ -758,7 +769,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Prediction - Predict an opponents attack and reflect it.
 
-#### Strength Combat (10 Strength Needed)
+#### Strength Combat (5-10 Strength Needed)
 
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
@@ -921,6 +932,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
+-   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 
   
 Template:Navbox:Talents

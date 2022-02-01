@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 14817
+revid: 17084
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -29,6 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Mates' Rates_, which incr
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
+-   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 

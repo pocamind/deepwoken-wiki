@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 16426
+revid: 17070
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,7 +12,11 @@ notices:
 
 ## Location
 
--   **The Voidheart -** While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.
+-   **The Voidheart -** While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.\\
+
+## Talents
+
+-   **Oath: Visionshaper** - An Oath that was obtainable to testers before release. This Oath could return, but for now we're only left with the description: _"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."_
 
 ## Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 16989
+revid: 17163
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -164,7 +164,6 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
 -   Compatible with Duration, Intensity and Size Buffs.
--   Can be modified to cook items if and only if you upgrade the mantra to Level 5 and add 3 Vibrant Gems, however it requires more input (Z, X, C, V) to cast.
 -   Ritual casting.
 -   Does not go out in rain
 
@@ -172,6 +171,11 @@ The spelltrainer can be found in Songseeker Wilds in the temple on top of the mo
 |  | Flame of Denial | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
 
 -   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon receiving lethal damage)
+
+ |
+| Mantra Picture Needed | Gaze | Gaze into your enemies souls. | Gives insanity to players you look at. (Details like range are still unkown)
+
+-   Good against players in depths.
 
  |
 
