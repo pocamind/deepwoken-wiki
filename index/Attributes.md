@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17204
+revid: 17232
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -66,7 +66,7 @@ _icon credit to Tortaa#9000_
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
--   Gain Willpower EXP via Foraging, fighting sea monsters, gripping players, and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
+-   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
 -   Can be unbounded by talking to [Akira](Akira.md) in [Castle Light](Castle_Light.md).
 
 ### Charisma

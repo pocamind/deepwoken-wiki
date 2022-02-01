@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17185
+revid: 17239
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -132,7 +132,7 @@ _Requires Fortitude 10_
 | File:Bandana.png | Bandana | Cosmetic | Chests |
 |  | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Erisia Chests |
 |  | Crimson Blindfold | Grants the "Blinded" talent and a random buff | Minityrsa Chests |
-|  | Eyeglasses | Grants a random buff. | Minityrsa and
+|  | Ascended Eyeglasses | Grants a random buff. | Minityrsa and
 Songseeker Chests
 
  |

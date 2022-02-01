@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 17219
+revid: 17226
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -73,5 +73,7 @@ You also gain a large amount of Luck (Unknown value), and Bell Progress.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
 -   The Dukes respawn timer is around 25 minutes (tested)
 -   Players often call the duke the "thinker" because of the ai breaking and making him pause in combat "thinking" of his next move.
+-   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
+    -   (Confirmed with Exploits)
 
 Ongoing fight within the Boss Room

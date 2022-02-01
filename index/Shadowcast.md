@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 16160
+revid: 17233
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -293,5 +293,5 @@ File:Blackhole.png
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred as Lightkeepers are an "authority" within Deepwoken's world that this death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
--   Shadowcast is the first and the only element that player has to train for it and it is also the first and the only element that player can't choose it from the attunement menu in the character customization page.
+-   Shadowcast is the first and the only element that player has to train for it.
 -   Shadowcast currently has no 3-stars move same as Flamecharm.

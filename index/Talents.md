@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17202
+revid: 17230
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
@@ -583,7 +583,7 @@ Prerequisite: Willpower 5~
 ### Survivor
 
 -   Pack Mule \[Generic Talent, Common Talent\] - The max quantity of carrying food has increased. (+4 Health, +1 Carry Load)
-    -   Prerequisites: Fortitude ???
+    -   Prerequisites: 5 Fortitude
 
 ### Tactician
 
