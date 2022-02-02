@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17232
+revid: 17449
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -47,7 +47,8 @@ _icon credit to Tortaa#9000_
 ### Agility
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
--   Agility affects the duration of speed boosts from Parkour, wall-climb, and wall jump height. The higher your Agility, the longer and higher they get.
+    -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
+    -   Reduce the vision cone of NPCs and Monsters.
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour and Sneak Attacks with the Ankle Weights.
 -   Can be unbound by talking to the Windrunner located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa with 75 Agility.

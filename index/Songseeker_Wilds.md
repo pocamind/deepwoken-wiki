@@ -1,8 +1,9 @@
 ---
 title: Songseeker Wilds
-revid: 15890
+revid: 17460
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Songseeker Wilds

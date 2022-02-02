@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 17192
+revid: 17408
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -46,7 +46,7 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Can be upgraded through upgrading Frostdraw for the "Crystalization" Talent.
+-   Effects change be through upgrading Frostdraw for the "Crystalization" Talent. Crystallization comes with a whole new variety of Mantras.
 -   Typically used close/mid range.
 
 ### **Galebreath Mantras**

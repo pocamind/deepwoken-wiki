@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 17373
+revid: 17464
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,11 +21,11 @@ Attunement-less mantras consist of mantras that are chosen based of your attribu
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
--   Requirement: 7~ Strength, _Strength Combat Mantra_
+-   Requirement: 5 Strength, _Strength Combat Mantra_
     -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they ~FISTED~ hit with this mantra._
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
-    -   Requirement: 7~ Strength, _Strength Combat Mantra_
+    -   Requirement: 5 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
     -   Requirement: 50 Strength, _Strength Mobility Mantra_  
@@ -141,7 +141,7 @@ For example:
 
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
 -   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
--   The only agility mantra that scales with your health is Strong Leap, we don't know why.
+-   The only agility mantra that scales with your health is Strong Leap, ~we don't know why.~ It's to prevent runners. And while you may be saying "shouldn't the agility ones get a drawback too?", then again, that's what agility is useful for. That's the reason why there is a talent card that removes the speed penality when low, and one that lets you heal while running.
 -   Charisma mantras are a very good choice for gunslinger related builds.
 
 1.  Rapid Punches is the single Attunement-less 1 Star mantra.

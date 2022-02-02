@@ -1,8 +1,9 @@
 ---
 title: "Boatman's Watch"
-revid: 15079
+revid: 17463
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Boatman's Watch

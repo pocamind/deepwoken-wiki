@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 17043
+revid: 17445
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -16,6 +16,8 @@ categories: [Pages with broken file links, Death, Mantras, Locations]
 ― In-combat flavour text.
 
 _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again._
+
+**Remember boys, it's drip or drown at all times in this place.**
 
 ## Landmarks
 

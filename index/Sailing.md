@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 17205
+revid: 17419
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -40,3 +40,4 @@ If you stop steering your boat, the boat will automatically start to turn to a s
 ## Notes/Trivia
 
 -   It can be difficult when first sailing the boat.
+-   You can buy a repair hammer for 30 notes at etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright talents.

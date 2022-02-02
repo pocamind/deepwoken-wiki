@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 13898
+revid: 17440
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,6 +27,7 @@ _Purchased from Etris and Isle of Vigils Training Shops._
 ### Strength
 
 -   Dumbell - Template:Cost / **200 Durability**
+-   Chop down tree give strength experiece, using Boulder gives slightly strength exp
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils. Isle of Vigils does not have the boulder.
 

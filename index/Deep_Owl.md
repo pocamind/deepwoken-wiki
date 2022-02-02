@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 16995
+revid: 17436
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Deep Owl
 
-_Black Owls, Giant Owls, Owls, Tyrone, The Lineage Destroyer, Big Black Man_
+_Black Owls, Giant Owls, Owls, Tyrone, The Lineage Destroyer, Big Black Man, Birb,_
 
 ## Description
 
@@ -16,9 +16,9 @@ Template:Creature Infobox V3 A large and extremely uncommon monster with juggern
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 
-**It is not recommended to fight Owl alone below level 40, as each attack can do massive damage.** Appearing at most places, noticeably at Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore, it's a good time to log if you aren't strong or skilled enough to kill it.
+**It is not recommended to fight the Owl alone below level 40, as each attack can do massive damage.** Appearing at most places, noticeably at Upper Erisia, its appearance will be signified by a flurry of Black Feather that cascade in the way of your path. During the dialogue, it won't attack you and you won't be combat tagged. Therefore, it's a good time to log if you aren't strong or skilled enough to kill it.
 
-Even if the dialogue ends, the owl will not attack you unless you attack the owl first or **YOU SHOW YOUR BACK TO OWL.** Just like escaping from dangerous wildlife such as lions or bears in real life, if you maintain eye contact at the owl and walk backward, it will not attack you and you can get out of the owl's detection range.
+Even if the dialogue ends, the owl will not attack you unless you attack the owl first or **YOU SHOW YOUR BACK TO THE OWL.** Just like escaping from dangerous wildlife such as lions or bears in real life, if you maintain eye contact with the owl and walk backward, it will not attack you and you can get out of the owl's detection range.
 
 ## **Attacks**
 

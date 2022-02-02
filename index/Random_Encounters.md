@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 17376
+revid: 17437
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, World]
@@ -30,35 +30,42 @@ While in Erisia (or others?), there is a chance that three NPCs will fall from t
 
 A group of 3 thieves, recognizable by their black armor and the lack of campfire. Those usually drop Aeon Logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before disappearing in a puff of shadow, leaving the player alive.
 
+#### **Bandit Attack**
+
+In Etris or Vigils, 2 bandits can spawn in front of two guards near their respective area. In Etris they are located at the bridge where the entrance to the city is from the docks. In Vigils, they spawn in front of the Temple of Blade. The guards will usually win unless they are low on health, and helping them out will reward you. You will receive XP and reputation. This event does not spawn a chest.
+
 **Knives of Eylis**
 
 Similar to bandits, with 3 enemies spawning. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage.
 
-**Etreans VS Eylis**
-
-Exclusive to the Aratel Sea, it is a fight between a group of Etrean and the Knives of Eylis, the Etrean Ship being attacked boarded. The KoE leader also appears to slow down time. The chest that spawn from this event (inside the Etrean Ship) is popular for being very lucrative.
-
 #### **Mudskipper Emergence**
 
-An encounter limited to [Erisia](Erisia.md), a group of special mudskipper appears from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death. This encounter is made up of 3 waves.
+An encounter limited to [Erisia](Erisia.md), a group of special Mudskippers appears from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death (indicated by larger stomachs and a darker green coloration.) This encounter is made up of 3 waves.
 
 #### **Mudskipper-Mancer**
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that have the ability to become intangible to all damage and summon 3 Mudskippers: 2 using Flamecharm and 1 using Frostdraw.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that have the ability to become intangible to all damage and summon 3 Mudskippers: 2 using Flamecharm, and 1 using Frostdraw.
 
-#### **Authority vs X**
+#### **X vs X**
 
-Authority NPCs of constant strength attack either a group of Legion, Pathfinder, or Etrean soldiers. This or a Legion Captain will fight a Authority Commander in the Aratel Sea.
+Groups of NPCs from different factions will spawn and attack each other. Some of these events may include but are not limited to:
 
-#### **Golden Rat Fighter**
+-   Etrea vs Authority (Anywhere in Erisia)
+-   Legion vs Authority (Upper Erisia)
+-   Summer Company vs Ignition Union (Summer Isle)
+-   Etrea vs Knives of Eylis (Aratel Sea when you're in a boat)
+-   Etrea vs Hive (Hive Island)
+-   Legion Captain vs Authority Commander (Hive Island)
 
-A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. They may also drop a piece of their armor or their axe.
+#### **Golden Warrior**
+
+A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. They may also drop a piece of their armor (?).
 
 #### **[Hobo](Hobo.md)**
 
-The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him most likely not more. If you interact with the Hobo, they will brag of their wealth. With 60~70+ charisma you can take one of their chests.
+The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him, most likely not more. If you interact with the Hobo, they will brag of their wealth. With 60~70+ Charisma, you can take one of their chests.
 
-If you open one of their chests (don't have to take the loot) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra.
+If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra.
 
 #### **The Teacher**
 
@@ -66,11 +73,11 @@ The teacher is an NPC that is often found situated around a campfire. As per dia
 
 #### **Megalodaunt vs Golem**
 
-A [Megalodaunt](Megalodaunt.md) can be found fighting a Golem or two in Upper Erisia, the Golems will usually win.
+A [Megalodaunt](Megalodaunt.md) can be found fighting a Golem or two in Upper Erisia. In this encounter, Golems will usually win.
 
 #### **Megalodaunt vs Red Megalodaunt**
 
-Exclusive to the Songseeker Wilds, this is a rare event involving a regular Megalodaunt fighting its red variant. If left by themself, the red one will always win. Red Megalodaunt have roughly 2x more hp and can rain fire swords.
+Exclusive to the Songseeker Wilds, this is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x more hp, and can rain fire swords.
 
 ### Depth Encounters
 
@@ -78,7 +85,7 @@ Main Article - D.R.I.N (Depths Random Interactive NPC's)
 
 #### **Divers vs Monster**
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). ~With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.~ They always lose I've never seen them win.
 
   
 

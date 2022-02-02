@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 16062
+revid: 17430
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -15,9 +15,9 @@ notices:
 | territory | Etrean Luminant, Summer Isle |
 | goals | Profit. No matter who's the customer. |
 
-“ If I see you near any of the supply caches, you're done. ”
+“ If you're not here to buy something, then leave. ”
 
-― Summer Company Guards
+― Summer Company Guard
 
 ## Description
 
@@ -27,4 +27,12 @@ As their name implies, they are a merchant Company that provides firearms to The
 
 ## **Lore**
 
-As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.
+As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.  
+
+  
+
+  
+
+## NPCs
+
+They have guns... and guns.... and more guns.. (I dont like guns)

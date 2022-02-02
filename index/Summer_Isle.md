@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 17384
+revid: 17435
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links]
 
 “ The smell of gunpowder blankets this tropical paradise. ”
 
-― In-game description of the Summer Isle.
+― Summer Isle Flavour Text
 
   
 
@@ -71,7 +71,7 @@ The Inn is outside of the Summer Isle's castle on a seperate island and will all
 
 #### Thundercall Trainer
 
-On the second level of the Summer Company's castle, is the spelltrainer for Thundercall.
+On the second level of the Summer Company's castle, is the spelltrainer for Thundercall that cost 100 notes.
 
 There is a supply room which contains Scope, the NPC that you give the explosives crates to in return for a chest.
 

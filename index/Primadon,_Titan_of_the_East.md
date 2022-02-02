@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 17257
+revid: 17421
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 _Also known as Sea Monkey, Gorilla, Prima and Monke._
 
-Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summoned by offering 5 Megalodaunt Hide to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summoned by offering 3-5 Megalodaunt Hide or 3-5 Umbral Obsidian to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Attacks
 

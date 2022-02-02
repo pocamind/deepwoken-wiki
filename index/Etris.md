@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 17374
+revid: 17441
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -266,6 +266,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   In Ending 2 of Karlilah's Quest, ~she must've read something about [The Depths](The_Depths.md), and went too far deep into it.~ Nah, she realized she can't even kill a mudskipper, and decided to study how to kill
 -   For the Navaen Tribe Rescue Quest, it is probable that you can "kidnap" any member of the Navaen Tribe other than finding one in Erisia Island. Such places to find Navaen Tribesmen is commonly in [Summer Isle](Summer_Isle.md).
 -   **Etris guards can drop the Notes of players they have killed on death (needs further testing).**
+-   You can skip being killed by Lord Regent by not talking to him completely and instead killing the duke. If your attunement is already at 75, it will immediately uncap.
 
 File:Ezgif.com-gif-maker(6)(1).mp4
 

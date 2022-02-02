@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17400
+revid: 17448
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -48,7 +48,7 @@ Armors can also have a chance of being Ascended granting them slightly better st
 
 ## Outfit Stats
 
--   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit no longer grant its benefits.
+-   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit no longer grant its benefits/are reduced.
 
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
@@ -60,6 +60,7 @@ Armors can also have a chance of being Ascended granting them slightly better st
     -   **Wind Armor:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
     -   **Shadow Armor:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
 -   **Ether Regen:** Increase the conversion rate of Reservoir to Ether.
+-   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
 -   **Talent:** A passive ability linked to the outfit.
 
 ## Repairing your Outfit

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 17405
+revid: 17446
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -38,21 +38,9 @@ The specific requirements for obtaining a Resonance are unique to all players, m
 
 Resonances are obtained by maxing an invisible stat known as **Progress**. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches it's cap.
 
-The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present. How much "Progress" does each mob give?
+The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
 
-Ferryman: ~2.5%
-
-Duke: Nothing
-
-Primadon: ~17,5%
-
-Cursed mobs: 0.5%-1%
-
-Nautilodaunt: ?
-
-Dread Serpent: ?
-
-Gripping a person thats your level: ~5%
+Everybody have their own amount of progression needed to get a resonance. Some need more or less than other.
 
 ## Re-rolling
 

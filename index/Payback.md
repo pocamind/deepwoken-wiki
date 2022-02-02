@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 16967
+revid: 17433
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Full Counter** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Full Counter** (Ratio bell) is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### _Appearance_
 

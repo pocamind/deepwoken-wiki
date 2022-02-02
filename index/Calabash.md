@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 17347
+revid: 17454
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

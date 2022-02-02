@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 17276
+revid: 17426
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -120,3 +120,4 @@ Additionally, if you speak to the Shipwright with High Reputation and ask for a 
 -   In order to summon boats here you need [positive reputation](Reputation.md).
 -   There is a secret room located within the Hive Laboratory behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
 -   Certain spots of the Hive have been spotted to be "Rotting" away. Creatures of the depths, such as Megalodaunts and Lionfish can be spotted near these areas. It is possible Greathive is sinking, although it is unlikely as (according to Regek) the four Greathives were created to sustain a world above the tides.
+-   In front of the blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
