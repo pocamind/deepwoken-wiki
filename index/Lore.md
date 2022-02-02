@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 16984
+revid: 17375
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -249,13 +249,13 @@ A Dark Mage, located in Minityrsa.
 ### The Contractors
 
 -   **Territory:** _Unknown_
--   **Encountered In:** _Unknown_
+-   **Encountered In:** _Etris_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _The Ministry (Neutral)_
 -   **Enemies:** _Unknown_
--   **Lore Sources:** Warden Jericho's Journal
+-   **Lore Sources:** Warden Jericho's Journal, the Windrunner
 
--   (Placeholder)
+-   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
 
 ### The Knives of Eylis
 
@@ -408,7 +408,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:**
 
 -   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
--   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed.
+-   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
 
 ### Life before the Tides
 
@@ -455,7 +455,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
--   Its unknown how a 'Great Drowning' occur, either through time or a specific amount of things are met. (Climate Change?)
+-   Celtor was drowned by the Celtorian Horror due to its excessive greed.
 
 ### Ancestors of Ganymedes & Vesperians
 
@@ -493,7 +493,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _Celestial Telescope (Cities)_
 
--   The People of the Stars, so to speak. They are not to be confused with Lightborns.
+-   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
 -   Celestials came to the Luminants from the stars, and introduced the "Canticlysm"; an event that was drawn from the Heavens by the Song.
 -   The Cities of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
 -   As of the Year 1271, their civilization has undergo a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.

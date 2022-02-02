@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 16017
+revid: 17367
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ Their arsenal consists of a Ben's knife (Krulian Knife) and [Shadowcast](Shadowc
 
 ### **Moves:**
 
--   **Dagger Attack:** Common dagger M1's, can be easily parried.
+-   **Dagger Attack:** Common dagger M1's, can **not** be easily parried.
 -   **Shadow Assault**: Short windup before turning invisible and dashing forward, dealing very minor damage and applying black flames. Blockable, can be parried.
 -   **Shadow Spike:** Launches a shadow pillar that impacts where the player is, deals heavy damage and stuns for a decent amount of time while applying black flames. Blockable, builds a lot of posture, can be parried.
 

@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 16926
+revid: 17365
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -71,3 +71,5 @@ Before the actual cast of the Mantra, you can "Inhale" the Mantra; acting as a f
 **H - Murmur - Requires to have defeated [Ardour](Murmur%253A_Ardour.md) -** Activate your Murmur, enpowering your weapon with Ether.
 
 **C -Activate [Resonance](Resonance.md) - Requires a Resonance-** Activate your Resonance.
+
+**E - [Potion](Alchemy.md) Throw -** Requires you to have a potion in hand. Throws the potion at the enemy. Has an effect on the enemy depending on the potion.

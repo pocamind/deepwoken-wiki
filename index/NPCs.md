@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 15638
+revid: 17371
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -31,7 +31,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 ### **The Authority**
 
--   Affiliations - Unknown
+-   Affiliations - Summer Company. The Divers
 -   Locations - Fort Merit, Central Luminant,
 -   Hostile against - Monsters, Bandits, The Legion, Etris, Players (Negative Reputation)
 -   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, Adretians
@@ -92,7 +92,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 ### **Summer Company**
 
--   Affiliations - Unknown
+-   Affiliations - The Authority
 -   Locations - Summer Isle
 -   Hostile against - Bandits, Ignition Union, Players (Negative Reputation), Nomads of Navae
 -   Appearance - Black Clothing
@@ -118,7 +118,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 ### The Divers
 
--   Affiliations - Unknown
+-   Affiliations - The Authority
 -   Locations - The Depths / Void Sea
 -   Hostile against - Depths Monsters, Non-Divers (Negative Reputation), Players (Negative Reputation)
 -   Appearance - Blue/Green Clothing (Diver Apprentice, Diver), Black Clothing (Black Diver)
