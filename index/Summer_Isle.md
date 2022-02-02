@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 16836
+revid: 17384
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -159,6 +159,7 @@ Possible items found after completing Scope's quest
 -   Beige Tophat
 -   Slate Aristocrat Coat
 -   Burgundy Aristocrat Coat
+-   Beige Aristocrat Coat
 -   Novice Boots
 -   Amethyst(4-5)
 -   Ruby(3-4)

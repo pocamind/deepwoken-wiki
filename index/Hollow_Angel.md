@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 16824
+revid: 17386
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,9 @@ categories: [Pages with broken file links, Monsters]
 
 ## Appearance
 
-Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Thundercall attunements.
+Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wield vantablack spears and can be associated with Unknown divine light attunements.
+
+Could be considered Asuka's biggest enemy.
 
 ## Description
 

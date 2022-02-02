@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 16566
+revid: 17385
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -21,6 +21,8 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious Krulian referenced
 5.  Talk with him and the battle will start.
 
 _After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful, and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element that is colored violet, which boasts a far greater destructive power, intensity, and area of effect compared to the ordinary variant. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him._
+
+**It is just a dance, after all.**
 
 **Once you start the fight, there will be a large ether barrier circled around the fighting arena, with no means of escape or entry. The only way to escape is to die or defeat **The Ferryman**.**
 

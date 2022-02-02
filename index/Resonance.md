@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 17271
+revid: 17405
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -40,11 +40,11 @@ Resonances are obtained by maxing an invisible stat known as **Progress**. The a
 
 The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present. How much "Progress" does each mob give?
 
-Ferryman: ~5% - 10%~ It's definetely way lower than that
+Ferryman: ~2.5%
 
 Duke: Nothing
 
-Primadon: ~18%
+Primadon: ~17,5%
 
 Cursed mobs: 0.5%-1%
 

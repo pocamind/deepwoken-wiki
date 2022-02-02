@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 17354
+revid: 17398
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -489,7 +489,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td>Gremorian Longspear</td>
+  <td><a href="Gremorian_Longspear.md">Gremorian Longspear</a></td>
   <td>20 MED</td>
   <td>18</td>
   <td>N/A</td>

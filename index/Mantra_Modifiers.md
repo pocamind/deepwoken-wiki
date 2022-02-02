@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 17150
+revid: 17381
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras]
@@ -131,7 +131,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 -   Wind - Slightly flings enemies (only tested astral wind)
 -   No effect(?) on physical mantras (more testing required)
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
--   TEST TORNADOE (GALEBREATH)
+-   ~TEST TORNADOE (GALEBREATH)~ it does nothing on tornado
 
  |
 

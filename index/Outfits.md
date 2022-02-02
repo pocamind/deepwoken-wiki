@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17239
+revid: 17400
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -10,19 +10,25 @@ notices:
 
 # Outfits
 
-## Description
+<table>
+<tbody>
+<tr>
+  <td>Description</td>
+</tr>
+</tbody>
+</table>
 
 Armor is an essential part to _Deepwoken_, being the basis of most of your resistance against enemies. The entirety of your Armor is split into two categories, Outfits and Armor items.
+
+File:Armoricon.png
+
+_icon credit to Tortaa#9000_
 
 ### **Outfits**
 
 Outfits are the very base of your Armor, and are the only part of your defense that must be crafted and are given durability.
 
 Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
-
-File:Armoricon.png
-
-_icon credit to Tortaa#9000_
 
 Outfits can be purchased at the Blacksmiths in larger settlements, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a Blacksmith to unlock an Outfit in their shop.
 
@@ -228,6 +234,7 @@ Songseeker Chests
 
  | Fort merit Chests |
 | File:Aristocrat Coat.png | Aristocrat Coat | Grants a random stat boost. | Starswept Valley chests |
+| File:Gumshoe Long Coat.png | White/Grey Gumshoe Longcoat | Grants 20+ Reservoir | Songseeker Chests |
 |  | Ranger's Brace | +10 Ether
 
 +20 Reservoir
@@ -328,6 +335,7 @@ _Requires Power Level 10_
 _Requires Power Level 30_
 
  | Depths Chests |
+| File:Brilliant Boots.png | Brilliant Boots | Grants random stat buffs | Chests |
 
 ## Trivia/Notes
 

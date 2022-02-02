@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17353
+revid: 17403
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -317,7 +317,7 @@ Prerequisite: Reinforce(?)
 
 ### Genius Intellect
 
--   The Thinker \[Generic Talent, Common Talent\] - \[Guns\] Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+4 Ether, +2 Reservoir)
+-   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
 

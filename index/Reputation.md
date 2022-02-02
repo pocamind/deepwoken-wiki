@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 17274
+revid: 17406
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -62,7 +62,7 @@ It shows up when you grip members of a faction or contribute to their death, or 
 
 Hitting members of that faction will not drain your reputation, unless you aggro someone who wasn't already aggravated.
 
-Being killed by members of the Central Authority will prompt a message saying something along the lines of "Your perceived threat by the central authority has been reduced". It is unknown if this is the only way to reduce negative reputation with the central authority, but this is the only thing close to it that has been found.
+Being killed by members of the Central Authority will prompt a message saying something along the lines of "Your perceived threat by the central authority has been reduced". It is believed this is the prompt for going from negative to neutral reputation. Unknown if applies to other factions.
 
 _**Rejoice! There is a new indicator for reputation!**_
 
@@ -145,6 +145,7 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 **Notes**
 
 -   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test, I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
+-   For those who wish to gain positive reputation with the Central Authority, at [Starswept Valley](The_Starswept_Valley.md) you can encounter a 100 Legions Officer fighting a Central Authority officer. Killing the 100 Legions officer prompts a positive reputation gain with the Central Authority. (Easiest to knock both then grip the 100 Legions Officer as you will inevitably hit them both)
 -   The Lord Regent quest in Etrea is the only confirmed quest that requires good reputation.
 -   Brutus' dialogue varies depending on your Authority reputation.
 -   The "Diplomat" charisma talent significantly increases reputation gain.
