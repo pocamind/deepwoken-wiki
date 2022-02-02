@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 17249
+revid: 17354
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -835,25 +835,10 @@ Weapons that scale with a certain element
 
 ## Calculating Damage and Attack Speed
 
-Damage per hit = ~b a s e + I n v P t s ( ( b a s e / 1000 ) ∗ s c a l i n g ) {\\displaystyle base+InvPts((base/1000)\*scaling)} {\\displaystyle base+InvPts((base/1000)\*scaling)}~ this formula is harder to understand. Use this one instead for a easier time.= F u l l d a m a g e \= b a s e + s c a l i n g ( w e a p o n p t s / 5 ∗ .1 ) {\\displaystyle Fulldamage=base+scaling(weaponpts/5\*.1)} {\\displaystyle Fulldamage=base+scaling(weaponpts/5\*.1)}
+Players can use this formula to figure out their complete damage.
 
-^ use this if you aren't a idiot (btw I would cross out the original if I could just to show how stupid it is but I have to go to this length)
+D a m a g e \= B a s e + S c a l e ( W e a p o n P t s / 5 ∗ .1 ) {\\displaystyle Damage=Base+Scale(WeaponPts/5\*.1)} {\\displaystyle Damage=Base+Scale(WeaponPts/5\*.1)}
 
-  
-
-Take for example a Dragoon if the player has invested 65 light weapon points...
-
-F u l l D a m a g e \= 20 + 12 ( 65 / 5 ∗ .1 ) {\\displaystyle FullDamage=20+12(65/5\*.1)} {\\displaystyle FullDamage=20+12(65/5\*.1)}
-
-F u l l D a m a g e \= 20 + 12 ( 13 ∗ .1 ) {\\displaystyle FullDamage=20+12(13\*.1)} {\\displaystyle FullDamage=20+12(13\*.1)}
-
-F u l l D a m a g e \= 20 + 12 ( 1.3 ) {\\displaystyle FullDamage=20+12(1.3)} {\\displaystyle FullDamage=20+12(1.3)}
-
-F u l l D a m a g e \= 20 + 15.6 {\\displaystyle FullDamage=20+15.6} {\\displaystyle FullDamage=20+15.6}
-
-F u l l D a m a g e \= 35.6 {\\displaystyle FullDamage=35.6} {\\displaystyle FullDamage=35.6}
-
-  
 The equation below shows the true attack speed per second.
 
-A t S p \= S w i n g S p e e d / 2 {\\displaystyle AtSp=SwingSpeed/2} {\\displaystyle AtSp=SwingSpeed/2}
+A t t a c k S p e e d \= S w i n g S p e e d / 2 {\\displaystyle AttackSpeed = SwingSpeed / 2} {\\displaystyle AttackSpeed=SwingSpeed/2}

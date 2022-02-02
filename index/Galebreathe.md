@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 17253
+revid: 17295
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -134,7 +134,7 @@ These talents are found in the _Aeromancy_ category.
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | Drifting Winds | Enemies hit by your wind mantra are winded, having their attack speed lowered for a short duration. | +2 Passive Agility  
 +5 Elemental Intensity |
-| File:Galebreathe Talent Placeholder.png | Aerogliding | When falling from a high place, hold spacebar to generate wind currents until you hit the floor | +2 Passive Agility  
+|  | Aerogliding | When falling from a high place, hold spacebar to generate wind currents until you hit the floor | +2 Passive Agility  
 +5 Elemental Intensity  
 +2 Health |
 
@@ -162,7 +162,7 @@ These talents are found in the _Whisper_ category.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | Haunted Gale | Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. | +5 Elemental Intensity  
+|  | Haunted Gale | Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. | +5 Elemental Intensity  
 +2 Health |
 
 **Uncategorized:**
@@ -176,8 +176,8 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 | File:Galebreathe Talent Placeholder.png | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | +1 Elemental Intensity  
 +2 Health  
 Costs _[Ether](Combat_Mechanics.md)_. |
-| File:Galebreathe Talent Placeholder.png | The Old Wind | Glide straight with the power of Gales. | _Allows you to glide longer with a glider._ |
-| File:Galebreathe Talent Placeholder.png | After Cut | If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt. | _Enemy will receive 5% damage if they dealt damage with a physical wind attack._ |
+| File:Fixed The Old Wind.gif | The Old Wind | Glide straight with the power of Gales. | _Allows you to glide longer with a glider._ |
+|  | After Cut | If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt. | _Enemy will receive 5% damage if they dealt damage with a physical wind attack._ |
 | File:Galebreathe Talent Placeholder.png | Tailwind | Gain a speed boost after a successful inhale. | Costs _[Ether](Combat_Mechanics.md)_. |
 
 ## **Trivia/Notes**

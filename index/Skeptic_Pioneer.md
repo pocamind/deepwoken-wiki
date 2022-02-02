@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 15044
+revid: 17358
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -20,7 +20,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants the user with +8% Physical resistance and +8% Elemental resistance.
+This Outfit has 1200 durability and grants the user with +12% Physical resistance and +12% Elemental resistance.
 
 This Outfit also grants the [Talent Card](Talents.md) _Apothecary_, which makes potions that benefit the player more potent.
 

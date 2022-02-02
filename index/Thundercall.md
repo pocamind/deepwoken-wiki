@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 17266
+revid: 17344
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -27,7 +27,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent.
 -   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent.
 
-The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgrade spells for 100 Notes each.
+The element trainer can be found in [Summer Isle](Summer_Isle.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
 ## Spells
 

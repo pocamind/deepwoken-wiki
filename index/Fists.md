@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 16927
+revid: 17287
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -71,3 +71,4 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 -   Slide jumping with Way of Navae critical can make it easier to land. (You'll use your sliding momentum to dash forward)
 -   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled after all this game is very skill based. But most of the times they will having a hard time just trying to land you a hit
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
+-   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Jus Karita is probably the most easiest to get, but the time to get it outweighs the style itself.

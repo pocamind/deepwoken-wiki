@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 17272
+revid: 17353
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents, Generic Talents, Rare Talents]
+categories: [Talents, Generic Talents, Rare Talents]
 ---
 
 # Talents
@@ -12,13 +12,13 @@ categories: [Pages with broken file links, Talents, Generic Talents, Rare Talent
 
 ― Selection Flavour Text
 
+  
+
 ## Description
 
 _icon credit to Tortaa#9000_
 
-File:Screenshot 2022-01-25 11.06.32 AM.png
-
-Talents are the main aspect of your character's build. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
+**Talent Cards** or Talents are the main aspect of your character's build. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
 
 There are many Talents in Deepwoken, all of which are under certain categories, such as the Engage Warrior Talent that allows your character to gain ether for each M1 Attack.
 
@@ -29,32 +29,6 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 **ABOUT WILDCARDS (IMPORTANT)** - The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 
 It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.
-
-[Power Icon (Located at the top center of the screen)](https://deepwoken.fandom.com/wiki/File:Power_Card_Icon.png)
-
-Power Icon (Located at the top center of the screen)
-
-[Hand of Talent Cards](https://deepwoken.fandom.com/wiki/File:Power_Card_example.png)
-
-Hand of Talent Cards
-
-File:Screenshot 2022-01-25 11.06.40 AM.png
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-[Hand of Mantra Cards](https://deepwoken.fandom.com/wiki/File:Mantra_Card_example.png)
-
-Hand of Mantra Cards
 
 ## Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 17242
+revid: 17348
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -26,7 +26,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage.
 
-The ability normally costs a large amount of [Ether](Combat_Mechanics.md), but training it will reduce the cost down to zero (will take hours to do so).
+The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but training it will reduce the cost down to zero (will take hours to do so).
 
 Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
@@ -36,22 +36,19 @@ This Murmur was once used by the Etrean King. It said that his Murmur was strong
 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
 
-**Ardour Scream** is a [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour and 40 [Willpower](Attributes.md#willpower). ( This doesnt need 40 will power. I got it without 40 willpower though i dont know what I had that gave it to me but I sure as hell dint have 40 willpower)
+**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour.
 
-Your murmur does not have to be trained.
-
-  
-  
+Ardour Scream does not need to be trained.  
 
 ## Murmur: Tacet
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. Note that it doesnt make the player appear invisible to themself, the activation is told via an inward ring. Manual deactivation is announced by an outward ring.
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user, and will be signaled with either an inward ring for activation or an outward ring for deactivation.
 
-The only doable actions are crouch walking and rolling. Performing anything else, such as attacking, pulling out a weapon or casting a mantra forces the ability to deactivate.
+The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location.
 
-The ability normally has a large spotting radius, but using it over and over again reduces that range, up to about 3x melee range.
+Tacet has a very large "spotting radius," the area you can be seen during Tacet. This radius can be made smaller by training your Tacet or using it repeatedly.
 
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 

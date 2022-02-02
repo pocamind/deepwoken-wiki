@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 17190
+revid: 17349
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -61,7 +61,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every hit has a chance to deal 3x damage, or deal small damage to yourself.</p></div></td>
+  <td><div><p>Every hit has a chance to deal 3x DMG, when equipped has a chance of getting 3x DMG upon hit from your opponent.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -154,7 +154,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>Every parry you do deals a parryable light damage hit to the opponent you parried.</p>
+  <td><div><p>Every parry you do deals a parryable light damage hit worth 2% of their max hp to the opponent you parried.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -220,7 +220,7 @@ Multiplicity
 
  | 
 
-Upon getting hit, your armor has a chance to reduce the damage of an incoming attack while showing your body separating with a green effect (Apparently Only works against players, needs further testing).
+Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect. (Apparently Only works against players, needs further testing).
 
   
 
