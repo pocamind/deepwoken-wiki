@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 17156
+revid: 17534
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -8,11 +8,13 @@ categories: [Mechanics, Character]
 
 # Boons and Flaws
 
+**Boons and Flaws** are unique attributes players must choose when creating their character.
+
 ## Boons
 
 Boons are modifiers that you get to pick when you create your character alongside Flaws. These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character. Your choice of Flaws affect how many Boons you are allowed to have.
 
-## List of Boons
+### List of Boons
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
@@ -26,7 +28,7 @@ Boons are modifiers that you get to pick when you create your character alongsid
 
 Flaws are modifiers that you get to pick when you create your character alongside boons. It is possible to pick more than one flaw, this allows you to get more than one boon.
 
-## List of Flaws
+### List of Flaws
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
@@ -44,7 +46,7 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 ## Trivia/Notes
 
--   While Deepwoken is largely PvE, many players who use _Marauder_ will usually be hostile towards anyone to gain higher luck from gripping. Be cautious of [Lower Erisia](Lower_Erisia.md).
+-   While _Deepwoken_ is largely PvE, many players who use _Marauder_ will usually be more hostile towards anyone to gain higher luck from gripping. Be cautious of [Lower Erisia](Lower_Erisia.md).
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunementless builds, as you will suffer in long-term fights and when you use high cost mantras. Generally not worth taking.
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.

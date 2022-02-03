@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 14934
+revid: 17571
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Duelist's Attire
 
-## Description
-
 Template:ArmorInfobox**Duelist's Attire** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 17086
+revid: 17583
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,13 +8,15 @@ categories: [Armors]
 
 # Authority Captain Uniform
 
-## Description
-
 Template:ArmorInfobox**Authority Commander Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 
 This Outfit costs and requires five (5) Cloth and Fiber, one (1) Dark Feather and one (1) Lionfish Scale.
+
+This Outfit requires [Power Level](Power.md) 30 and [Strength](Attributes.md) 25.
 
 ### _Armor Stats_
 
@@ -24,9 +26,8 @@ This Outfit has 2000 durability and grants +30% Physical resistance and +25% Ele
 
 This Outfit's Schematic can be found:
 
--   Fort Merit
+-   [Fort Merit](Fort_Merit.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
--   Depths (Needs to be confirmed) More to be added.
 
 ## Trivia/Notes
 

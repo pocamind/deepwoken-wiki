@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17478
+revid: 17538
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -12,23 +12,35 @@ categories: [Talents, Generic Talents, Rare Talents]
 
 ― Selection Flavour Text
 
-  
+**Talent Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two or five Talent Cards.
 
-## Description
+## Overview
 
 _icon credit to Tortaa#9000_
 
-**Talent Cards** or Talents are the main aspect of your character's build. Each [Power Level](Leveling.md) you draw 4 random cards and must choose one.
-
-There are many Talents in Deepwoken, all of which are under certain categories, such as the Engage Warrior Talent that allows your character to gain ether for each M1 Attack.
-
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this.
 
-A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements.
+A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
-**ABOUT WILDCARDS (IMPORTANT)** - The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
+-   A high enough [Core Attribute](Attributes.md), whether it be INT, CHR, or AGI.
+    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
+-   A certain Talent in a certain category.
+    -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "Galeforce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
+-   Doing certain actions that may influence your rolls, such as [fishing](Fishing.md) and [alchemy](Alchemy.md).
+    -   For example: Making a lot of potions will include the Potion Quaffer Talent in your roll pool now.
+-   A high enough Power.
+    -   For example: A lot of the "Marauder" Category Talents require a Power of 40, before you are able to obtain them, such as Thresher Claws.
 
-It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.
+On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
+
+-   You cannot roll Neuroplasticity with Return to the Dark Ages.
+-   You cannot roll Return to the Dark Ages with Everchanging Aegis.
+-   You cannot roll Risky Moves with Safety Dance and Observation.
+-   This is off the top of my head so there're way more
+
+The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
+
+**It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.**
 
 ## Talents
 
@@ -583,7 +595,7 @@ Prerequisite: Willpower 5~
 -   Cap Artist \[Generic Talent, Common Talent\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Generic Talent, Common Talent\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
--   NOTE: No confirmation on Another Man's Trash. This talent was posted by a user who made this his only edit + there is no visual evidence that this actually exists. Make your joke builds with caution or you might be wasting a lot of time.
+-   ~NOTE: No confirmation on Another Man's Trash. This talent was posted by a user who made this his only edit + there is no visual evidence that this actually exists. Make your joke builds with caution or you might be wasting a lot of time.~ I have proof of its existence just go to the comments
 
 ### Thunder Brawler
 

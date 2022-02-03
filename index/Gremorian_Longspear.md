@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 17397
+revid: 17557
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons]
 
 ## Description
 
-The Gremorian Longspear is a Medium Weapon that is only obtainable from killing the Navae Nomads in Etris with a random chance of it being dropped. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling.
+The Gremorian Longspear is a Medium Weapon that is only obtainable from killing the Navae Nomads in Etris with a random chance of it being dropped. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling. This weapon feature a pull crit, where the user launch the spear and reel in target hit.
 
 ## Notes
 

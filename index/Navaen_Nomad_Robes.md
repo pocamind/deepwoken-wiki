@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 16970
+revid: 17581
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Navaen Nomad Robes
 
-## Description
-
 Template:ArmorInfobox**Navaen Nomad Robes** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 
@@ -29,7 +29,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Fists of Navae_, which in
 This Outfit's Schematic can be found in:
 
 -   the Navaen Nomad camp outside Etris.
+-   [Minityrsa](Minityrsa.md).
 
 ## Trivia/Notes
 
--   As you can guess, Navaen Nomads can be seen wearing this Outfit.
+-   Navaen Nomads can be seen wearing this Outfit.

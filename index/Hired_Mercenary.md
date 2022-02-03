@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 15859
+revid: 17566
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Hired Mercenary
 
-## Description
+Template:ArmorInfobox**Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
-Template:ArmorInfobox **Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+## Statistics
 
 ### _Requirements_
 

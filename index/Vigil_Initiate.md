@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 15119
+revid: 17580
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Vigil Initiate
 
-## Description
+Template:ArmorInfobox**Vigil Initiate** or Wandering Swordsman is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
-Template:ArmorInfobox**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+## Statistics
 
 ### _Requirements_
 
@@ -29,12 +29,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 This Outfit's Schematic can be found in:
 
 -   Isle of Vigils, inside the Mantra shop.
--   Artifact rewards.
--   Chests.
 
 ## Trivia/Notes
 
 -   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card with much better stats.
 -   This Outfit can be found on the Helper in the Isle of Vigils.
 -   Relatively good for early to mid-game when used with the Katana.
--   This Outfit's schematic is renamed as Wandering Swordsman.

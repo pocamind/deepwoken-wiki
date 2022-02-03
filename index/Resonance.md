@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 17471
+revid: 17509
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -30,7 +30,7 @@ Known downside include:
 
 ### _Legendary Resonances_
 
-A step up from Normal Resonances and Corrupted Resonances, **Legendary Resonances** can be obtained as well, being easily identifiable compared to normal Resonances by shining with a gold aura, and having golden particles when used. Many of these are not documented extensively, and it is unknown if they are another level of rarity, or another sub-category like Corrupted Resonances. It is presumed that Legendary Resonances are the strongest/most powerful type.
+A step up from Normal Resonances and Corrupted Resonances, **Legendary Resonances** can be obtained as well, being easily identifiable compared to normal Resonances by shining with a gold aura and having golden particles when used. Many of these are not documented extensively, and it is unknown if they are another level of rarity, or another sub-category like Corrupted Resonances. It is presumed that Legendary Resonances are the strongest/most powerful type. They seem to most likely indicate another level or rarity, as popularly documented instances of Legendary Resonances either have the unreleased Resurrection resonance or the Teleportation resonance, which is extremely uncommon to encounter.
 
 ## Obtainment
 
@@ -38,9 +38,9 @@ The specific requirements for obtaining a Resonance are unique to all players, m
 
 Resonances are obtained by maxing an invisible stat known as **Progress**. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches it's cap.
 
-The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
+The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Ferryman is also an additional way to gain Progress but is extremely inefficient as it gives less than a fifth of the Progress a singular Primadon will grant. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
 
-Everybody have their own amount of progression needed to get a resonance. Some need more or less than other.
+Everybody has their own amount of progression needed to get a resonance. Some need more or less than others.
 
 ## Re-rolling
 
@@ -58,4 +58,4 @@ Tarnished Resonances are Resonances that have unique effects if the user has bee
 
 -   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
--   Previously believed that you have to spend 7 hours in the depths to obtain
+-   It was previously believed that you have to spend 7 hours in the depths to obtain.

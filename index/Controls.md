@@ -1,75 +1,50 @@
 ---
 title: Controls
-revid: 17365
+revid: 17540
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Controls
 
-_"Sure. You know the basics of how to maneuver, but ever heard of eavesdropping?" - Felinor Tactician_
-
-  
-
-## Description
-
-Of course, this Page is useless because we have the Controls in the Game. But there are a few hidden Mechanics that are left out to everyone they probably don't know about.
+_This page lists the controls that can be used in Deepwoken._
 
 ## Main Controls
 
-| Key  | Action | Function |
+| **Key**  | **Description** | **Notes** |
 | --- | --- | --- |
 | M1 | Light Attack | Your main attack. |
-| M2 | Feint/Cancel | During an M1, cancel your attack to trick your opponent into blocking/parrying.
-During a dodge, cancel the dodge to negate the endlag.
+| M2 | Feint/Cancel | Player cancels event/animation in progress. (Light Attack, Roll, Casting) |
+| MMB or R | Critical Attack | Player deals heavy attack, typically to break block. |
+| E | Interact | Player interacts with NPCs, environment, etc. |
+| F | Parry | Player parries attacks if used right before impact. |
+| Hold F | Block | Player blocks incoming attacks. Increases posture. |
+| Y | Switch Stance | Players swap weapon stance if possible. |
+| T | Taunt | Player spits. Spitting on an entity will heal ~5% health. |
+| V | Carry KO'd Enemy | Player will pick up a downed entity nearby. |
+| B | Execute KO'd Enemy | Player will kill a downed entity nearby. |
+| W+W | Sprint | Player moves faster. |
+| Q | Roll | Player rolls. Allows attack dodging. |
+| Ctrl | Crouch | Player enables [Stealth](Stealth.md). |
+| Ctrl while sprinting | Slide | Player slides on the ground. Jump during the slide for a slight speed boost or slide down slopes for a large burst of speed. |
+| TAB | Journal/Backpack | Opens inventory and [Attributes](Attributes.md) window. |
+| Hold X | Gesture | Opens a menu to select gestures. Locks player to boat. |
+| P | Toggle Cosmetic | Player removes Head type equipment visually but keep the effects. Also allows [Ganymede](Ganymede.md) to remove their hat. |
 
-Before the actual cast of the Mantra, you can "Inhale" the Mantra; acting as a form of faint.
+## Miscellaneous Controls
 
- |
-| M3/R | Critical Attack | Varies on the weapon, but usually involves a windup followed by a strike that deals large posture damage. |
-| E | Interact | To talk/carry/interact with different things. |
-| F | Parry | If hit right after pressing F, deflect the attack, dealing posture damage and giving you an opening to attack. |
-| F (hold) | Block | Block attacks. Taking hits while blocking fills the posture bar, if it reach 100%, you are guard broken and open to attacks. |
-| Y | Switch Stance | Toggle between holding your weapon with 1 hand or 2 hands. Available to all Medium Weapon by default and Heavy Weapons if they get the required talent. |
-| T | Taunt | Spit. No mechanical value, besides the ability to anger npcs to have them chase you. Heals you around 7% hp. |
-| V | Carry KO'd Enemy | Carry a KO'd humanoid on your back. Can be used to save people, or move away from the fight to kill. Can be used on Hostage type NPC without KO'ing them. |
-| B | Execute KO'd Enemy | Grip a KO'd humanoid. This puts an end to their current life. |
-| W x2 | Sprint | Run faster. Posture does not decrease while running. |
-| Q | Roll | Dodge attacks. |
-| Ctrl | Crouch | Enemies have a harder time spotting crouching players. However, enemies already in a combat state will be aware of your presence no matter what. |
-| Ctrl (sprinting) | Slide | Slide on the ground. Jump during the slide for a slight speed boost or slide down slopes for a large burst of speed. |
-| TAB | Journal/Backpack | Open your inventory and your [Attributes](Attributes.md) window. |
-| X | Gesture | Different motions, such as leaning back, thinking, nodding, ect. Also used to stay put on moving boats. |
-| P | Toggle Cosmetic | Remove your Head type equipment visually but keep the effects. Also allows [Ganymede](Ganymede.md) to remove their hat. |
-
-  
-
-## Unlisted Controls
-
-**G (while crouching) - Eavesdrop -** Nullify the environment's background effects, and percieve Player Activity (such as movements, cooking, interaction, and combat).
-
-**B (near a campfire) - Clear campfire -** Kick a campfire pit to destroy it.
-
-**Space (while facing a waist level obstacle) - Vault -** Vault over the obstacle for a speed boost.
-
-**T - Spit (Yes, this is a real control)** - Spit on the enemy. If it lands, you regenerate 5% of your health, a moderate amount of posture, and applying something akin to blindness onto your enemy.
-
-**W + Space (airborn and facing a wall) - Wall Jump -** Perform two small hops on the wall, grabbing any ledge along the way if available. Some talents can improve this.
-
-**M1 + M1 + M1 (MUST connect, only works on humanoids) - Flourish -** Kick your opponent back, giving them breathing room but potentially stunning them if they hit a wall.
-
-**M1 (while crouching and behind an humanoid) - Assassinate -** Swift attack that does large amounts of damage to [NPCs](Enemies.md), reduced against players. Can execute. If the enemy survives, they are left on the ground for a while, the duration of this is longer on [NPCs](Enemies.md). Can only be done when both the attacking player and the receiving enemy are not in combat. There are talents that can increase the damage and knockdown duration.
-
-**Space (airborn and facing a wall) - Wall Kick -** Performs a Wall Kick, sending upward while slightly pushing away from the wall. This is an alternative to wall climbing and is useful to go over ledges that slightly hangs to the side.
-
-**Z, X, C, V - Ritual Cast Inputs -** Press the keys in the correct order, displayed during a ritual cast, to cast the mantra.
-
-**N - Pickpocket (talent required) - Requires a knocked player -** Check the pockets of your target, taking notes from them.
-
-**R (while crouching) - Fake death (talent required) -** Drop to the ground, mimicking the action of dropping to 0 hp. Is cancelled by pressing R again or taking damage.
-
-**H - Murmur - Requires to have defeated [Ardour](Murmur%253A_Ardour.md) -** Activate your Murmur, enpowering your weapon with Ether.
-
-**C -Activate [Resonance](Resonance.md) - Requires a Resonance-** Activate your Resonance.
-
-**E - [Potion](Alchemy.md) Throw -** Requires you to have a potion in hand. Throws the potion at the enemy. Has an effect on the enemy depending on the potion.
+| **Key**  | **Description** | **Notes** |
+| --- | --- | --- |
+| C | [Resonance](Resonance.md) | Activates Resonance if obtained. |
+| H | [Murmur](Murmur.md) | Activates Murmur if obtained. |
+| E | Throw | Player chucks throwable objects from their hand. |
+| N while in [Stealth](Stealth.md) | Pickpocket | Requires Pickpocket. Steals [Notes](Notes.md) from entity nearby. |
+| R while in [Stealth](Stealth.md) | Fake Dead | Requires Cap Artist. Ragdolls player until input pressed again or attacked. |
+| G while crouching | Eavesdrop | Hushes environmental ambience and sound. Music persists and emphasizes entity activity. |
+| B near Campfire | Extinguish | Player kicks campfire and destroys it. |
+| Space near small part | Vault | Parkour. Player quickly slides over obstacle, grants speed boost. |
+| W+Space while airborne and near wall | Wall Jump | Parkour. Player performs two small hops on a wall, automatically grabs ledges. |
+| Space while airborne and near wall | Wall Kick | Parkour. Player performs kick up and away from wall. |
+| M1, M1, M1 | Flourish | Player finishes combo by kicking opponent away. |
+| M1 while in [Stealth](Stealth.md) and behind entity | Assassinate | Player performs stealth attack that deals large PvE damage and moderate PvP damage. |
+| Z, X, C, V | Ritual Cast | Required inputs for Mantras with Ritual Casts. |

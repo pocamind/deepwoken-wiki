@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17449
+revid: 17532
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -8,23 +8,19 @@ categories: [Attributes, Character]
 
 # Attributes
 
-## Description
+_icon credit to Tortaa#9000_
 
-Attributes are the stat points of a character, each one increasing a certain ability. Each attribute will grant unique talents after you invest a certain number of points into it.
+**Attributes** are player stats that can be increased to a max of 100. Attributes can be increased with Investment Points.
 
-Each Power level, you get 5 Investment Points to spend on attributes. To Power up, spend all of the investment points.
+## Basic Attributes
 
 Character Sheet of Helena Dusselden
 
-## Physical/Mental Attributes
-
-All Attributes can be improved up to 75 points but may be uncapped to 100 once you do a specific task to unlock an Attribute's full potential.
+All Attributes can be improved up to 75 points but may be uncapped to 100 once you [do a specific task](Attributes_Unbound.md) to unlock an Attribute's full potential.
 
 If your race happens to start with +2 in a given stat, the limits are 77 and 102 instead.
 
 ### Strength
-
-_icon credit to Tortaa#9000_
 
 -   Overall Physical Strength. Increases Carry Load and Armor Penetration.
     -   Increases Carry Load by 1 per Strength.
@@ -32,7 +28,6 @@ _icon credit to Tortaa#9000_
 -   Some Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
--   Can be unbounded by opening the secret wall behind the fallen pylon in Tomb of the Nameless Soldier, breaking a second hidden wall below the coffin and interacting with the book in the room while at 75 Strength.
 
 ### Fortitude
 
@@ -41,8 +36,6 @@ _icon credit to Tortaa#9000_
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
--   Can be unbounded by talking to Brutus in [Fort Merit](https://deepwoken.fandom.com/wiki/Fort_Merit). You gain the talent card "Fortitude Unbounded". Gives 9 Health and 10 Ether.
-    -   Not having 75 Fortitude will result in your screen turning black and the sound of Brutus beating you as your HP bar depletes to the point of being knocked (~Not tested whether this executes or not~)(Tested, he depletes all of your armor, but does not knock you) instead of you obtaining the card.
 
 ### Agility
 
@@ -51,7 +44,6 @@ _icon credit to Tortaa#9000_
     -   Reduce the vision cone of NPCs and Monsters.
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour and Sneak Attacks with the Ankle Weights.
--   Can be unbound by talking to the Windrunner located in the tallest peak at the Gate between The Songseekers Wild and Minityrsa with 75 Agility.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
 
 ### Intelligence
@@ -60,27 +52,24 @@ _icon credit to Tortaa#9000_
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via foraging, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
--   Can be unbounded by using the Soul Hearthgem (found in the deep cave of [Upper Erisia](Upper_Erisia.md)) and solving [The Birdcage](The_Birdcage.md) Puzzle. Next, eat a Bluecap at Intelligence 75.
 
 ### Willpower
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
--   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using prayer beads. It will also passively increase in [The Depths](The_Depths.md).
--   Can be unbounded by talking to [Akira](Akira.md) in [Castle Light](Castle_Light.md).
+-   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md).
 
 ### Charisma
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
--   Gain Charisma EXP by selling items.
+-   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
 -   Increases Ether.
--   Can be unbounded by [completing the 3rd option in Karliah's quest](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Ending_3:_Snap_Back_to_Reality>) and talking to her back in Etris.
 
-## Weapon Proficiency Attributes
+## Weapon Mastery Attributes
 
-These attributes can be improved up to 75, but completion of the A Lost Sibling quest allow attributes that reached 75 to go up to 100.
+These attributes can be improved up to 75, but completion of the quest: A Lost Sibling, allows attributes that reached 75 to go up to 100.
 
 ### Heavy Weapons
 

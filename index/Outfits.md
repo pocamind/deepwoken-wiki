@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17484
+revid: 17523
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -10,21 +10,13 @@ notices:
 
 # Outfits
 
-<table>
-<tbody>
-<tr>
-  <td>Description</td>
-</tr>
-</tbody>
-</table>
-
-Armor is an essential part to _Deepwoken_, being the basis of most of your resistance against enemies. The entirety of your Armor is split into two categories, Outfits and Armor items.
-
 File:Armoricon.png
 
 _icon credit to Tortaa#9000_
 
-### **Outfits**
+**Armor** is an essential part to _Deepwoken_, being the basis of most of your resistance against enemies. The entirety of your Armor is split into two categories, Outfits and Armor items.
+
+### **[Outfits](Outfits.md#outfits)**
 
 Outfits are the very base of your Armor, and are the only part of your defense that must be crafted and are given durability.
 
@@ -34,7 +26,7 @@ Outfits can be purchased at the Blacksmiths in larger settlements, but most must
 
 Outfits grant unique buffs and Talents to their wearer and can be easily found essential to many players on their journey.
 
-### **Armors**
+### **[Armors](Outfits.md#armor)**
 
 Armor pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
 

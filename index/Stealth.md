@@ -1,30 +1,43 @@
 ---
 title: Stealth
-revid: 15093
+revid: 17564
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Stealth
 
-## Stealth mechanics
+Vesperian in Stealth
 
-This [mechanic](Combat_Mechanics.md) allows the player to make hidden attacks on humanoids, allowing them to inflict damage directly and "stun" the enemy by ragdolling them. To perform a hidden attack, the player needs to approach a target from behind, crouching down and left-click on it while holding a weapon. Stealth attack can only be initiated if both players are NOT in combat.
+**Stealth** is a Mechanic that allows the player to stay hidden from others.
 
-## Stealth upgrade
+NPCs and monsters alike have a cone of vision in which they can spot the player, resulting in them attacking. Improving stealth make that cone smaller, reducing from how far player can be seen.
 
-To improve stealth, you need to upgrade [agility](Attributes.md), also, some elements of armor and talents will help you to improve stealth. The damage of a stealth attack is scaled from (not scaled?) an unknown characteristic. Common talent will make your damage scale to power. Also you can possible length of ragdoll by some talents.
+## Modifications
 
-## PVE/PVP
+**Stealth** can be improved in several ways.
 
-### PVE
+-   Crouching.
+-   Improving your [Agility](Attributes.md) will improve your Stealth.
+-   The [Talent Card](Talents.md) _Now You See Me_ improves Stealth while crouched.
+-   Equipping specific outfits:
+    -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grants +50% Stealth.
+    -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
+    -   [Shadow Hunter](Shadow_Hunter.md) grants the [Talent Card](Talents.md) _Now You See Me_.
+    -   Authority Peacekeeper Armour grants the [Talent Card](Talents.md) _Now You See Me._
 
-Some opponents such as songseeker are immune to stealth attacks, however you can still sneak past them. All non-human enemies are immune to stealth attacks.
+## Usage
 
-### PVP
+**Crouching** is activated by pressing Ctrl.
 
-If you want to use a stealth attack on a player, you must assume that it will inflict extremely little damage, but the player will become ragdoll for a few seconds and you can do much more damage with attacks or abilities.
+When crouching:
 
-## Conclusion
+-   Players can Assassinate other humanoids by pressing M1 behind them.
+-   Players can activate [Murmur: Tacet](Murmur.md#murmur-tacet), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
+-   Parkour is restricted.
 
-Stealth could have a place to be in your build, it can help you a lot in PVP, or it can help you kill bandits in [lower Erisia](Lower_Erisia.md) while you are still too weak. But do not go too deep into stealth (as the author of this page) because it will not give you any special advantages and will only make you weaker compared to other players.
+Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage and ragdoll the target for about five seconds. During this ragdoll, you are still able to deal damage to the enemy.
+
+Some enemies such as the Monks at Songseeker Isle or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
+
+Against players, Stealth is not very useful. Assassinations deal little damage to players and only ragdolls for one second.

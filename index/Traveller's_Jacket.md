@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 17359
+revid: 17555
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Traveller's Jacket
 
-## Description
+Template:ArmorInfobox**White Traveler Cloak** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
-Template:ArmorInfobox **White Traveler Cloak** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+## Statistics
 
 ### _Requirements_
 

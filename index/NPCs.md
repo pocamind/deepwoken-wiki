@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 17371
+revid: 17514
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,7 +20,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 -   Affiliations - Unknown
 -   Locations - Lower Erisia, Viper jaws, Aratel
--   Hostile against - The Authority, Monsters, Bandits, The Legion, Players (Negative Reputation)
+-   Hostile against - The Authority, Monsters, Bandits, The Legion, Players (Negative Reputation), Etris
 -   Appearance - Roman-like Armor, Golden Helmets
 -   Equipment - Swords, Spears, Fists, Thundercall Spells, Galebreath Spells, Strength Mantras
 -   Player Reputable? - Yes, inflicts with The Authority
@@ -35,7 +35,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 -   Locations - Fort Merit, Central Luminant,
 -   Hostile against - Monsters, Bandits, The Legion, Etris, Players (Negative Reputation)
 -   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, Adretians
--   Equipment - Swords, Spears, Greataxes, Flamecharm Spells, Frostdraw Spells
+-   Equipment - Swords, Spears, Greataxes, Flamecharm Spells, Frostdraw Spells, Thundercall Spells
 -   Player Reputable? - Yes, inflicts with The Legion and Etris
 
 #### Lore
@@ -90,7 +90,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 (Placeholder)
 
-### **Summer Company**
+### **[Summer Company](The_Summer_Company.md)**
 
 -   Affiliations - The Authority
 -   Locations - Summer Isle

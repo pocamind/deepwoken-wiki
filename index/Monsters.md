@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 17269
+revid: 17524
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 # Introduction
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, higher armor, mantra modifiers, new areas, but most importantly: a fundamentals check. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills, either intentionally or unintentionally. If a player can't even beat a Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, method to obtain higher armor and mantra modifiers, reach new areas, but most importantly: be a fundamentals check. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills, either intentionally or unintentionally. If a player can't even beat a Monster, what makes them think they can beat another player?
 
 While each Monster has unique attacks and patterns they all share one thing; They can be learnt. Every Monster, up to even the Dread Serpent and Primadon can be beaten as a fresh spawn if you are skilled enough.
 
@@ -20,17 +20,17 @@ While each Monster has unique attacks and patterns they all share one thing; The
 
 While most of the way to fight a Monster is specific to what kind it is, there's generally a few good rules that apply to most, if not all monsters.
 
--   If an attack has a red aura/effect to it, it **CANNOT** be blocked normally, and must be dodged, besides with Hunter's Brace. Even then, red attacks are generally much faster and harder to parry correctly.
+-   If an attack has a red aura/effect to it, it **CANNOT** be blocked normally, and must be dodged. The only way to block them is using Hunters Brace, but even then, red attacks are generally much faster and harder to parry correctly.
 -   Never run from any Monster, if you know you have a slim of a chance of beating them. Many Monsters have tools specifically designed to catch runners, such as Megalodaunt's longer range barnacle spray, meaning you most likely wont get away if you're already damaged. Additionally, Monsters have MUCH bigger bark than their bite. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   Practice makes perfect, try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt. Unpreparedness is a bigger killer than the Monsters themselves. The absolute worst thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, others are the opposite and are deceptively strong, for example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
--   Monsters are affected by most things a player would be affected by, including Potions, Status Effects, Flinging, and can even be stunned if they get hit fast enough.
+-   Practice makes perfect, try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Unpreparedness is a bigger killer than the Monsters themselves. The absolute worst thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, others are the opposite and are deceptively strong, for example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   Monsters are affected by most things a player would be affected by, including Potions, Status Effects, Flinging, and can even be stunned if they get hit hard and fast enough.
 
 ### The Depths
 
-In The Depths, Monsters have signifcant differences, some easily noticable, and others, not so much. Some changes include:
+In The Depths, Monsters have significant differences, some easily noticeable, and others, not so much. Some changes include:
 
 -   No longer attack each other based on species, and instead, completely focusing on players.
--   Benefitting from the lower gravity of The Depths, being able to jump much higher to pursue players.
+-   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players.
 -   Being much more aware, noticing players from further away, or even behind them.
 -   Gaining new behaviors/abilities, such as Lionfish Cero.
 -   Becoming much more persistent in chasing, almost never stopping until the death of them, or the player

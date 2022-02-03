@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 14770
+revid: 17554
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Stranded
 
-## Description
+Template:ArmorInfobox**Stranded** is a Starter [Outfit](Outfits.md) in _Deepwoken._
 
-Template:ArmorInfobox Stranded is a Starter [Outfit](Outfits.md) in _Deepwoken._
+## Statistics
 
 ### _Requirements_
 

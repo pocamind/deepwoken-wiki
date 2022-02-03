@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 17240
+revid: 17579
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Shadow Hunter
 
-## Description
+Template:ArmorInfobox**Shadow Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
-Template:ArmorInfobox **Shadow Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+## Statistics
 
 ### _Requirements_
 
@@ -22,7 +22,7 @@ This Outfit requires [Agility](Attributes.md) 10.
 
 This Outfit has 1500 durability and grants +10% Physical resistance, +5% Elemental resistance and +10% Shadow resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your stealth while crouching.
+This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your [Stealth](Stealth.md) while crouching.
 
 ## Location
 
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   You can get it for 45 notes when you buy the schematic in the abandoned lodge instead of 50 notes when you buy it in the weapon shop.
+-   You can get it for 45 Notes when you buy the schematic in the abandoned lodge instead of 50 notes when you buy it in the weapon shop.

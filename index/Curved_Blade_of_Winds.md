@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 17062
+revid: 17503
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -37,3 +37,5 @@ The Curved Blade of Winds is a Legendary Weapon and is currently the best Medium
 ## Notes
 
 -   You can stack Maestro's Blade with the passive of the weapon, meaning there will be two after cuts on the opponent.
+-   36.1 damage with 100 MED and 100 WND
+-   2nd highest damaging medium weapon after Divine Longsword

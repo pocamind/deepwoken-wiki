@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 17381
+revid: 17577
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Items, Mechanics, Mantras]
 
 # Mantra Modifiers
 
-A dumbass who either A: Has a lot of Ether or B: Wants to die in every situation by using this mantra
+A foolish fool using quite a numerous amount of items to upgrade a mantra.
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -253,7 +253,12 @@ File:Image 2021-12-31 211633.png
 
 Spring Spark
 
- | Spring Spark | Crystal Impale | Applies "Fire Trap" to compatible Mantra. |
+ | Spring Spark | Crystal Impale
+
+  
+Ice lasers
+
+ | Applies "Fire Trap" to compatible Mantra. |
 | 
 
 Tornado spark
@@ -311,6 +316,7 @@ also looks identical to falseflame.
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 -   This modifier causes a trail of ice to appear over the distance you dashed with the _Frost Grab_ Mantra.
 -   This modifier changes _Lightning Stream_'s behavior, attaching to the target and shocking them instead of pulling them in.
+-   This modifier works with _Flame Repulsi__on_, but I honestly got no idea what it did- sorry. It changed the animation it does a little
 
 #### Reversal Spark
 
@@ -318,7 +324,7 @@ also looks identical to falseflame.
 -   This modifier causes the _Adrenaline Surge_ Mantra to be generally buffed with a less duration (?)
 -   This modifier allow the _Tornado_ Mantra to pull enemies to its center.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
--   This modifier reverses the _Flame Leap_ Mantra causing the caster to slam the ground, throwing those around them into the air.
+-   This modifier reverses the _Flame Leap_ Mantra causing the caster to slam the ground, throwing those around them into the air. (**Beware this has a very buggy hitbox**)
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage.
 -   This modifier is compatible with the _Ice Chains_ Mantra and will make it so it will pull whoever you hit towards you.
 
@@ -332,7 +338,8 @@ also looks identical to falseflame.
 
 #### Spring Spark
 
--   This modifier has no known compatibilities.
+-   This modifier makes ice lasers stop in place when shot for a brief amount of time, then goes forward (Think Knives in a certain stopping of time)
+-   Nobody has said What this does to Crystal Impale yet
 
 ## Trivia/Notes
 

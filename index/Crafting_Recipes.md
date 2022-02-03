@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 17194
+revid: 17539
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -124,7 +124,7 @@ _**Negative**_
  |
 | **Invigorating Elixir** | 
 
--   2-3x Goblettos
+-   2x Goblettos
 
  | 
 
@@ -139,10 +139,10 @@ _**Negative**_
 -   Overall best healing potion and easiest to make, recommended for all players.
 
  |
-| **Focus-Enhancing Elixir** | 
+| **Focus-Enhancing Elixir < Focus-Enhancing Potion** | 
 
 -   2x Browncap
--   2x Gathered Wheat
+-   2-3x Gathered Wheat
 
  | _**Positive**_
 
@@ -179,7 +179,7 @@ _**Negative**_
 -   You only need 2 to make the best verison of the potion.
 
  |
-| **Soothing Potion** | 
+| **Soothing Potion < Soothing Tincture** | 
 
 -   2-3x Dentifillos
 
@@ -208,7 +208,7 @@ _**Negative**_
 -   Primarily for chip and crowd damage; It does not do a lot nor has any secondary effect. In fact, does about twice the damage of the other potions noted to deal damage. But, it can't be blocked and can be used from angles that don't put the user at risk.
 
  |
-| **Dulling Potion** | 
+| **Dulling Blight < Dulling Potion** | 
 
 -   2-3x Gathered Wheat
 

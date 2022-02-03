@@ -1,6 +1,6 @@
 ---
 title: Scroom
-revid: 15910
+revid: 17533
 source: https://deepwoken.fandom.com/wiki/Scroom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

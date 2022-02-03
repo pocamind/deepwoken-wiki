@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 15539
+revid: 17567
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # 11th Legion Plate
 
-## Description
+Template:ArmorInfobox**11th Legion Plate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
-Template:ArmorInfobox **11th Legion Plate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+## Statistics
 
 ### _Requirements_
 

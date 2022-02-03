@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 17473
+revid: 17518
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -12,7 +12,7 @@ categories: [Talents, Character]
 
 Murmurs are [Talents](Talents.md) obtained by completing an objective that allow the user to channel the song and buff them in various ways. Players can only obtain one Murmur.
 
-Currently, there are only two known Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing.
+Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable.
 
 ## Training Murmurs
 
@@ -30,7 +30,7 @@ The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but tr
 
 Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
-This Murmur was once used by the Etrean King. It said that his Murmur was strong enough to cut the sea in half (Though it make no sense because why he was overthrown by Lord Regent even though he had such power)
+This Murmur was once used by the Etrean King. It said that his Murmur was strong enough to cut the sea in half (Though it make no sense because why he was overthrown by Lord Regent even though he had such power)(He wasn't overthrown he just went missing or something and Regent is filling in for him indefinitely)
 
 ### Ardour Scream
 

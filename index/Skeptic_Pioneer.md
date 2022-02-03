@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 17358
+revid: 17565
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Skeptic Pioneer
 
-## Description
+Template:ArmorInfobox**Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
-Template:ArmorInfobox **Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+## Statistics
 
 ### _Requirements_
 
