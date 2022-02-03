@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 17480
+revid: 17678
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -23,7 +23,7 @@ categories: [Weapons, Pages with broken file links]
 
 ## Description
 
-Fists are another type of scaled light weapon attribute the player can use in Deepwoken.
+Fists are another type of scaled light weapon attribute the player can use in Deepwoken
 
 Switching to fist stance while using another weapon. Note that the weapon being thrown at the ground is purely visual and does not remove it from the inventory.
 

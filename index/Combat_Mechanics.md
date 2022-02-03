@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 16925
+revid: 17629
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -24,6 +24,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
     <li>The player cannot regenerate the full health if their hunger bar is below 50%</li>
+    <li>At 35% and below, you become mortally injured- Reducing movement speed.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

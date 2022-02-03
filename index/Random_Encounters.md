@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 17482
+revid: 17673
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -14,7 +14,7 @@ notices:
 
 Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
 
-**Note:** This is not a comprehensive list of every single random encounter: more will be added.
+**Note:** This is not a comprehensive list of every single random encounter: more will be added
 
 ## Overworld Encounters
 
@@ -22,13 +22,15 @@ Random encounters are randomly spawning events that occur throughout target area
 
 #### **Bandit Camp**
 
-A campfire, circled by two to three NPCs. The strength of said NPCs is scaled based on the severity of the area they are in. Commonly, of the 3 bandits circling the campfire, one will be a Bandit Captain, who is roughly 2 times as strong as usual bandits. Loot from the chests after killing every bandit is mediocre.
+A campfire, circled by two to three NPCs. Commonly, of the 3 bandits circling the campfire, one will be a Bandit Captain, who is roughly 2 times as strong as usual bandits. Loot from the chests after killing every bandit is mediocre.
 
 #### **Bandit Ambush**
 
-While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The strength of the NPCs seems directly proportional to the area you are in. The bandit leader will usually yell "Surprise!" upon spawning.
+While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The bandit leader will usually yell "Surprise!" upon spawning. This is the same as the Bandit Camp event except you cannot assassinate them as they are automatically aggro'ed to you. Completing this event will reward you with XP and a chest at where they appeared from.
 
-A group of 3 thieves, recognizable by their black armor and the lack of campfire. Those usually drop Aeon Logstones. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before disappearing in a puff of shadow, leaving the player alive.
+#### **Thieves**
+
+A group of 3 thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before disappearing in a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest.
 
 #### **Bandit Attack**
 
@@ -36,11 +38,15 @@ In Etris or Vigils, 2 bandits can spawn in front of two guards near their respec
 
 **Knives of Eylis**
 
-Similar to bandits, with 3 enemies spawning. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage.
+Similar to bandits, with 3 enemies spawning. They will wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage.
+
+#### **Lost Villagers**
+
+In Upper Erisia, the player can encounter 2 hostage NPCs dressed in the [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir, the Royal Pathfinder, will give you new dialogue options. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
 
 #### **Mudskipper Emergence**
 
-An encounter limited to [Erisia](Erisia.md), a group of special Mudskippers appears from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death (indicated by larger stomachs and a darker green coloration.) This encounter is made up of 3 waves.
+An encounter limited to [Erisia](Erisia.md), a group of special Mudskippers will appear from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death (indicated by larger stomachs and a darker green coloration.) This encounter is made up of 3 waves.
 
 #### **Mudskipper-Mancer**
 
@@ -48,20 +54,19 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that hav
 
 #### **X vs X**
 
-Groups of NPCs from different factions will spawn and attack each other. Some of these events may include but are not limited to:
+Groups of NPCs from different factions will spawn and attack each other. Helping a side will reward you with their respective reputation. Some of these events may include but are not limited to:
 
 -   Etrea vs The Central Authority (Erisia)
 -   The Eleventh Legion vs The Central Authority (Upper Erisia)
 -   The Summer Company vs The Ignition Union (Summer Isle)
--   The Summer Company vs Children of Navae (Summer Isle)
--   Children of Navae vs The Ministry (Summer Isle)
--   Etrea vs Knives of Eylis File:Eylisiconfactoin.png (The Aratel Sea)
+-   Children of Navae vs The Ministry File:Eylisiconfactoin.png (Summer Isle)
+-   Etrea vs Knives of Eylis (The Aratel Sea)
 -   Etrea vs Hive (Starswept Valley)
 -   Legion Captain vs Authority Commander (StarSwept Valley)
 
 #### **Golden Warrior**
 
-A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. They may also drop a piece of their armor (?).
+A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest.
 
 #### **[Hobo](Hobo.md)**
 
@@ -69,9 +74,9 @@ The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of
 
 If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra.
 
-#### **The Teacher**
+#### **Pathfinders**
 
-The teacher is an NPC that is often found situated around a campfire. As per dialogue, a player can gain a skill level in one of the six categories.
+Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them.
 
 #### **Megalodaunt vs Golem**
 
@@ -107,6 +112,6 @@ The player can interact with Akira if they have neutral or good reputation with 
 
 After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md) The Divers.
 
-### **The Meat Lord**
+### **[The Meat Lord](The_Meat_Lord.md)**
 
 The Meat Lord is a merchant NPC that can appear on Starswept Valley and more rarely in Upper Erisia. He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.

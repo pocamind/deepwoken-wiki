@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 15402
+revid: 17692
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Charm is a system used by Charisma builds to buff and debuff both allies and ene
 
 ## Charm Mantras
 
-**Sing** - Charm those around you with your powerful voice.
+**Sing** - Charm those around you with your powerful voice
 
 ## Talents
 

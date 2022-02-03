@@ -1,8 +1,9 @@
 ---
 title: Controls
-revid: 17540
+revid: 17662
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Helpful]
 ---
 
 # Controls
@@ -14,7 +15,7 @@ _This page lists the controls that can be used in Deepwoken._
 | **Key**  | **Description** | **Notes** |
 | --- | --- | --- |
 | M1 | Light Attack | Your main attack. |
-| M2 | Feint/Cancel | Player cancels event/animation in progress. (Light Attack, Roll, Casting) |
+| M2 | Feint/Cancel | Player cancels event/animation in progress. (Light Attack, Roll, Casting). |
 | MMB or R | Critical Attack | Player deals heavy attack, typically to break block. |
 | E | Interact | Player interacts with NPCs, environment, etc. |
 | F | Parry | Player parries attacks if used right before impact. |
@@ -38,9 +39,9 @@ _This page lists the controls that can be used in Deepwoken._
 | C | [Resonance](Resonance.md) | Activates Resonance if obtained. |
 | H | [Murmur](Murmur.md) | Activates Murmur if obtained. |
 | E | Throw | Player chucks throwable objects from their hand. |
-| N while in [Stealth](Stealth.md) | Pickpocket | Requires Pickpocket. Steals [Notes](Notes.md) from entity nearby. |
+| N while in [Stealth](Stealth.md) | Pickpocket | Requires Pickpocket. Steals [Notes](Notes.md) from entity knocked players. |
 | R while in [Stealth](Stealth.md) | Fake Dead | Requires Cap Artist. Ragdolls player until input pressed again or attacked. |
-| G while crouching | Eavesdrop | Hushes environmental ambience and sound. Music persists and emphasizes entity activity. |
+| G while crouching | Eavesdrop | Hushes environmental ambience and sound. Emphasizes entity activity. |
 | B near Campfire | Extinguish | Player kicks campfire and destroys it. |
 | Space near small part | Vault | Parkour. Player quickly slides over obstacle, grants speed boost. |
 | W+Space while airborne and near wall | Wall Jump | Parkour. Player performs two small hops on a wall, automatically grabs ledges. |

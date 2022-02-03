@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 17502
+revid: 17687
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,11 @@ categories: [Monsters]
 
 # Deep Owl
 
-_Also Known As: Black Owls, Giant Owls, Owls_
+_Also Known As: Black Owls, Giant Owls, Owls, Tyrone, the Lineage Destroyer_
 
 ## Description
 
-Template:Creature Infobox V3 A large and extremely uncommon monster with juggernaut-like traits. Its presence will be highlighted by a shallow cloud of black feathers in the air.
+Template:Creature Infobox V3 A large and extremely uncommon monster with juggernaut-like traits. Its presence will be highlighted by a shallow cloud of black feathers in the air
 
 When walking into the aforementioned feathers, the owl will emerge and prompt the player with several dialogue options.
 

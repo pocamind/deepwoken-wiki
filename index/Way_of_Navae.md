@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 14413
+revid: 17681
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ Way of Navae is a Common Talent in Deepwoken. It is one of the [Navaen Nomad](Na
 
 ## Description & Effects
 
-_Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using [Ether](Ether.md)._
+_Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using [Ether](Ether.md)_
 
 ## Acquisition
 

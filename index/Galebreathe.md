@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 17295
+revid: 17661
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells, Magic, Mantras]
+categories: [Pages with broken file links, Magic, Mantras, Spells]
 ---
 
 # Galebreathe
@@ -25,7 +25,7 @@ Like all other elements, users can see their Mantras become stronger with traini
 -   At Power 2, players receive the _Galebreather_ Talent.
 -   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
--   Finally, at Galebreathe 45, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
+-   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
 
 The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock Galebreathe.
 
@@ -90,7 +90,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 |  | Wind Gun  
 (★★) | A powerful wind blast. | Fires a penetrating bullet of wind.
 
--   Damages and flings opponents.
+-   Deals heavy damage and flings opponents.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
 
  |
@@ -118,7 +118,7 @@ There are no known Mobilty Mantras for Galebreathers, though there is a talent t
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Gale Wisp  
-(★★) | A servant of wind. | Spawns a wisp of wind. Must use ritual casting.
+(★★) | _A servant of wind._ | Spawns a wisp of wind. Must use ritual casting.
 -   Gives the caster fall damage resistance
 -   Taking fall damage 2 times makes it disappear after short period of time (Logstones might increase how many times it takes to disappear, needs testing)
 

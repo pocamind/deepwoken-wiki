@@ -1,8 +1,9 @@
 ---
 title: Age
-revid: 15536
+revid: 17660
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Cool]
 ---
 
 # Age

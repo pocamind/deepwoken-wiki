@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17538
+revid: 17619
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -251,8 +251,9 @@ Prerequisite: Reinforce(?)
 ### Ether Adept
 
 -   Nullifying Clarity \[Generic talent, Common Talent\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
--   Ether Blade \[Generic Talent\] - Draw your foes ether into your weapon when you parry ether-based attacks.
+-   Ether Blade \[Common Talent\] - Draw your foes ether into your weapon when you parry ether-based attacks.
 -   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
+-   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 
 ### Falling Star Guard
 
@@ -264,12 +265,6 @@ Prerequisite: Reinforce(?)
 ### Fish
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
-
-###### Neuroplasticity
-
--   Genius Intellect \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a mantra has a reduced Ether cost. (+1 wildcard slot)
-    -   Ether cost of modded mantras are reduced.
-        -   This applies retroactively to mantras modded before obtaining this talent.
 
 ### Freak Of Nature
 
@@ -293,8 +288,10 @@ Prerequisite: Reinforce(?)
 ### Flame Warden
 
 -   Cauterized Wounds \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Blood Loss from all sources are reduced. (+1 Passive Agility, +3 Elemental Intensity, +2 Health)
--   Hell's Partisian \[Generic Talent, Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
+-   Hell's Partisan \[Generic Talent, Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
     -   Prerequisites: Fire Forge (Flamecharm Mantra)
+-   Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+    -   Prerequisite: Hell's Partisan
 
 ### Flamecharmer
 
@@ -431,7 +428,7 @@ Prerequisite: Willpower 5~
 
 ### Ministry Operative
 
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) Note: this is the only talent in the tree if u want proof if u think I'm trolling about it's existence dm me at chancito#8607
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)
 
 ### [Murmur](Murmur.md)
 
@@ -458,6 +455,7 @@ Prerequisite: Willpower 5~
 ### Oath
 
 -   Oath: Oathless \[Oath Talent\] - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
+    -   Prerequisites: Power 30 and Above
 -   Oath: Blindseer \[Oath Talent\] - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold. (Requires all 5 Mental Fortress cards)
         -   You can only take one Oath per Character.

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 17495
+revid: 17680
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -18,7 +18,7 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 ### Mechanics
 
-Reputation in Deepwoken is influenced by certain events and quests found throughout the world. There are various ways players can either **gain** or **lose** reputation within the territories of Etrean and [Aratel](The_Aratel_Sea.md) Seas.
+Reputation in Deepwoken is influenced by certain events and quests found throughout the world. There are various ways players can either **gain** or **lose** reputation within the territories of Etrean and [Aratel](The_Aratel_Sea.md) Seas
 
 ### Determining Reputation
 
@@ -26,7 +26,7 @@ Players can determine their reputation within a territory in many ways:
 
 #### _Positive Reputation_
 
-Players with positive reputation from factions **will not** be attacked by NPCs from that faction.
+Players with positive reputation from factions **will not** be attacked by NPCs from that faction
 
 Certain questlines will be unlocked with positive reputation.
 
@@ -130,15 +130,13 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   The Summer Company
 -   The 11th Legion/The Empire
 -   The Children of Navae
--   Knives of Eylis File:Eylisiconfactoin.png
+-   The Ministry File:Eylisiconfactoin.png
+-   Knives of Eylis
 -   The Ignition Union
 -   Celtor
 
 ### Non-Reputable Factions
 
-**PLEASE POST PROOF IF YOU BELIEVE THE MINISTRY IS A REPUTABLE FACTION, I HAVE TESTED THIS MYSELF AND NOT SEEN THE MINISTRY APPEAR ON THE REPUTATION GUI AT ALL DURING THEIR EVENTS**
-
--   The Ministry
 -   Bandits
 -   The Contractors
 -   Songseeker Tribesmen

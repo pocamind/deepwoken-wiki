@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 17594
+revid: 17637
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found in:
 
 -   Starswept Valley
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   Primadon Chests
 
 ## Trivia/Notes
 

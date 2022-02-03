@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 17460
+revid: 17614
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -49,6 +49,7 @@ The player from there will have to climb further up until they find a set of sta
 -   Follow the stairs, do not turn to the right, go foward
 -   Upon reaching the top, the temple will be easily spotted
 -   Inside is the [Flamecharmer Trainer](Attunement_Trainers.md).
+-   Note that there will be 2 songseekers sitting in front of the temple
 
 ## Enemies
 

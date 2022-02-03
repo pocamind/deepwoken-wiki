@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 15953
+revid: 17696
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,10 +11,11 @@ Template:Quote
 
 ## Description
 
-Template:Areainfobox Starswept Valley is a location on Aratel Island.
+Template:Areainfobox Starswept Valley is a location on Aratel Island
 
   
 
+  
 High-tier enemies that drop high-tier loot spawn here, making this an alternative to The Depths to get items like Royal Pathfinder and Shattered Katana.  
 
 ## Appearance

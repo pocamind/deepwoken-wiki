@@ -1,9 +1,9 @@
 ---
 title: Frostdraw
-revid: 17357
+revid: 17675
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells, Magic]
+categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Frostdraw
@@ -14,7 +14,7 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to draw ice magic from the atmosphere, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment.
+Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment
 
 ## Training
 

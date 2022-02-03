@@ -1,6 +1,6 @@
 ---
 title: The Canticlysm
-revid: 16364
+revid: 17694
 source: https://deepwoken.fandom.com/wiki/The_Canticlysm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Cantaclysm is the name of the Event where Celtor drowned and is the name of what drowned.
 
-It is referred to as "The Celtorian Horror".
+It is referred to as "The Celtorian Horror"
 
 Naktigonis referring to the Cantaclysm in the "The Sun, Gleaming" deepwoken OST youtube video
 

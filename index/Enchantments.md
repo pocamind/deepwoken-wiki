@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 17349
+revid: 17644
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -49,7 +49,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Every M1 connection will summon the Umbral Knight behind the opponent and attack them, dealing little damage. However, to activate this you need to grip people to "feed" them into the sword, otherwise until its charged with enough grips it wont activate and will deal a very small portion of damage back to you.</p></div></td>
+  <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This has a 5-second cooldown. However, the actual "curse" of it is not confirmed. ( just grip a freshie every few hours just to be safe)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>

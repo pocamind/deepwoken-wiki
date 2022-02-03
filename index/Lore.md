@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 17375
+revid: 17646
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -87,20 +87,12 @@ _"Another one..? You've got to be kidding me." - Akira_
 
 ### **The Meat Lord**
 
-_**Ey migi vuru?**_
+_"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
 -   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 
 The one and only... MEAT LORD!
-
-File:Meatlordphoto.png
-
-A picture of the Meat Lord before his ascension.
-
-  
-
-  
 
   
 
@@ -450,12 +442,30 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   It is unknown what the Cantaclysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
     -   It is theoretically assumed that the Cantaclysm introduced the magic of Deepwoken; called Attunements.
 
+### The Tides
+
+**Lore Sources:** _What Mends Shall Fray (Song)_
+
+-   The disaster that established the base of Deepwoken, by creating floods to devour both land and its inhabitants.
+    -   It is unknown where its origin comes from.
+-   The Tide brought upon The [Voidsea](Voidsea.md) to the Luminants, a gateway to both worlds between the surface and [The Depths](The_Depths.md).
+
 ### The Great Drowning
 
 **Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
 -   Celtor was drowned by the Celtorian Horror due to its excessive greed.
+
+### The Depths
+
+**Lore Sources:** _What Mends Shall Fray (Song), Gild, Lucy_
+
+-   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
+-   The Depths has multiple layers, starting from the top to bottom.
+    -   It is unknown how many layers are there.
+-   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
+    -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
 
 ### Ancestors of Ganymedes & Vesperians
 
