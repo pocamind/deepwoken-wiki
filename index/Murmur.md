@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 17348
+revid: 17473
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -48,7 +48,7 @@ Murmur: Tacet is a Murmur that, when active, makes the user completely invisible
 
 The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location.
 
-Tacet has a very large "spotting radius," the area you can be seen during Tacet. This radius can be made smaller by training your Tacet or using it repeatedly.
+When you first obtain Tacet you can still be spotted from very far away however you can reduce this "spotting range" by training it which is repeatedly using it. Once it is fully trained you can get very close to people without being spotted (4-5 Player lengths)
 
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 

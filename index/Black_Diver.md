@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 16701
+revid: 17485
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,4 +30,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Player notes here
+-   This outfit is the superior version of [Diver Apprentice](Diver_Apprentice_Robes.md)
+    -   Worn by [Akira](Akira.md) and some other divers in [Castle Light](Castle_Light.md)

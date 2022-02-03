@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 16291
+revid: 17490
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -13,6 +13,18 @@ categories: [Mechanics]
 There are 4 seasons in Deepwoken: Spring, Summer, Autumn and Winter. Each season lasts 1 real life day and transition between one another at midnight GMT+0.
 
 The difference between all seasons is the visuals and interactions to Items that grow in the environment. Such examples is Wheat not growing in the Winter, certain fruits unable to grow from trees, and certain mobs spawning, such as the [Stone Knights](Stone_Knight.md) at Minityrsa only spawning during the winter (if it is not winter the [Aelita](Aelita.md) event will spawn), or [The Ferryman](The_Ferryman.md) dropping different season exclusive items.  
+
+FEATURES :
+
+If one year passes (4 real life days), your character will get one year older, unless it wiped.
+
+If one year passes, the year is gonna change from, for example, 1273 to 1274. So years change in Deepwoken and probably the map will develop too over time, maybe old people like the old man in Etris will die in some years. Anything can happen...
+
+Rumours say that some races will visually change while getting older. For example, Gremors horns grow a little bit as they age, hair gets gray at old age and you gain some folds in your face, when you get old.
+
+  
+
+  
 
 ## Seasons
 

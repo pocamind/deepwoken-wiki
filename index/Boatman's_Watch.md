@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 17463
+revid: 17486
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -35,7 +35,7 @@ The [Ferryman](The_Ferryman.md) can be fought here.
 
 ## Notes
 
-Boatman's Watch can be found by going straight along the wall from Ministryia into the Void Sea, visible after about 20 seconds of sailing.
+Boatman's Watch can be found by going straight along the wall from Minityrsa into the Void Sea, visible after about 20 seconds of sailing.
 
 Two secret areas have been confirmed to exist on the island that being a Library and Mine respectively.
 

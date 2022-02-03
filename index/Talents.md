@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17455
+revid: 17478
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -86,7 +86,7 @@ It is confirmed that after getting a combined total of 20 rare and legendary tal
 ### Apex Predator
 
 -   Carnivore \[Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: ~10 Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
+    -   Prerequisites: ~5 Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -454,6 +454,8 @@ Prerequisite: Willpower 5~
 
 -   Strength Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
 
+-   Million Ton Piercer \[Generic Talent, Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health) (Requires an unknown amount of strength and prerequisites.)
+
 ### Public Figure
 
 -   Bodyguard Detail \[Generic Talent, Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
@@ -558,7 +560,7 @@ Prerequisite: Willpower 5~
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
--   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible (Im not sure how this works but i only get this talent as i wipe[\[1\]](#cite-note-1), if anyone has info on it post in the comments, i believe its a form of talents that transfer to next life after meeting prerequisite. Potentally Herbivore and/or something else)
+-   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible. (Potentally Herbivore and/or something else)
 
 ### Survivor
 
@@ -910,5 +912,3 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
   
 Template:Navbox:Talents
-
-1.  [↑](#cite-ref-1) [https://streamable.com/2867nv](https://streamable.com/2867nv)

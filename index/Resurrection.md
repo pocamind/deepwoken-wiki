@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 15475
+revid: 17470
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Resurrection** is presumably a [Resonance](Resonance.md) or "bell" that players can obtain that is rare _(Legendary)_ to roll.
+**Resurrection** is presumably a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare (Possibly the rarest) to roll.
 
 ### _Appearance_
 

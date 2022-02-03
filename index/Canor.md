@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 15918
+revid: 17475
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -82,3 +82,4 @@ Loyalty makes combat practice and spars with housemates difficult
 ## Notes/Trivia
 
 -   The surnames of the Canor are noticeably German, or German inspired.
+-   Canors also seem to be known for their heavy weaponry, as the Zweihander is known to be used by the Canor Borderwatchers, and the Pale Morning is a replica of a Battle Hammer wielded by a Canor Warlord.

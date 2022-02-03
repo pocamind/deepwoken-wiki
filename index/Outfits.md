@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17448
+revid: 17484
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -313,9 +313,13 @@ _No Power Level Required_
 
 _Requires Power Level 10_
 
- | Depths Chests, Duke Chests, and Primadon Chests |
+ | Pirate Event Chests, Depths Chests, Duke Chests, and Primadon Chests |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. | Unknown |
-|  | Ring of Pestilence | Enemies you hit have their healing reduced by 25% | Primadon Chests |
+|  | Ring of Pestilence | Enemies you hit have their healing reduced by 25%
+
+_Requires Power Level 40_
+
+ | Primadon Chests, Depths Chests |
 |  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests |
 |  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bad reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests, Duke Chests, and Primadon Chests |
 

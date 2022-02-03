@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 17406
+revid: 17495
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -70,7 +70,7 @@ File:Summer Company Postives.png
 
 The Summer Company Logo, w/ Indication of positive rep.
 
-Major factions such as the Summer Company and Etrea, will have an indicator with their emblem or logo show up briefly to tell you that you are developing a positive reputation with that faction. This is in effect as of 24/1/2022.
+Major factions such as the Summer Company and Etrea, will have an indicator with their emblem or logo show up briefly to tell you that you are developing a positive reputation with that faction. This is in effect as of 24/1/2022 (1/24/2022 if you live in America).
 
   
 
@@ -133,10 +133,12 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   Knives of Eylis File:Eylisiconfactoin.png
 -   The Ignition Union
 -   Celtor
--   The Ministry
 
 ### Non-Reputable Factions
 
+**PLEASE POST PROOF IF YOU BELIEVE THE MINISTRY IS A REPUTABLE FACTION, I HAVE TESTED THIS MYSELF AND NOT SEEN THE MINISTRY APPEAR ON THE REPUTATION GUI AT ALL DURING THEIR EVENTS**
+
+-   The Ministry
 -   Bandits
 -   The Contractors
 -   Songseeker Tribesmen

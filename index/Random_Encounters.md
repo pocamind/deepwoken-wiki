@@ -1,9 +1,9 @@
 ---
 title: Random Encounters
-revid: 17437
+revid: 17482
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, World]
+categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -50,12 +50,14 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that hav
 
 Groups of NPCs from different factions will spawn and attack each other. Some of these events may include but are not limited to:
 
--   Etrea vs Authority (Anywhere in Erisia)
--   Legion vs Authority (Upper Erisia)
--   Summer Company vs Ignition Union (Summer Isle)
--   Etrea vs Knives of Eylis (Aratel Sea when you're in a boat)
--   Etrea vs Hive (Hive Island)
--   Legion Captain vs Authority Commander (Hive Island)
+-   Etrea vs The Central Authority (Erisia)
+-   The Eleventh Legion vs The Central Authority (Upper Erisia)
+-   The Summer Company vs The Ignition Union (Summer Isle)
+-   The Summer Company vs Children of Navae (Summer Isle)
+-   Children of Navae vs The Ministry (Summer Isle)
+-   Etrea vs Knives of Eylis File:Eylisiconfactoin.png (The Aratel Sea)
+-   Etrea vs Hive (Starswept Valley)
+-   Legion Captain vs Authority Commander (StarSwept Valley)
 
 #### **Golden Warrior**
 
