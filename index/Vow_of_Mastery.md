@@ -1,11 +1,13 @@
 ---
 title: Vow of Mastery
-revid: 16878
+revid: 17605
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Vow of Mastery
+
+This is what pops up when saying yes to a Vow of Mastery
 
 ## Description
 

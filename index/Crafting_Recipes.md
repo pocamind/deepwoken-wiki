@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 17539
+revid: 17612
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -94,7 +94,7 @@ Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
 
 The potions listed in this section will all work, though there are some inaccuracies and not all effects are listed. For the most accurate known information, use the main page.
 
-Potions are made with the use of a cauldron. One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. As of currently, only the Etris one is functional.
+Potions are made with the use of a cauldron. One can be found in Etris, right of the guild house and up the mountain, one in the Summer Isles, and another in the Greathive in the archives. Both are working and the Greathive cauldron was fixed.
 
 -   Alchemy Chart created by bobbio76#2916 [https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV\_oNo2F-PBj1Co/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit?usp=sharing)
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.

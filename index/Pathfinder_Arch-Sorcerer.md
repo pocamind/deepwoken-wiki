@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 17542
+revid: 17602
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Pathfinder Arch-Sorcerer
 
-## Description
-
 Template:ArmorInfobox**Pathfinder Arch-Sorcerer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 
@@ -28,8 +28,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which
 
 This Outfit's Schematic can be found in:
 
--   Lower Erisia
--   Hive
+-   [Lower Erisia](Lower_Erisia.md)
+-   Can be purchased for 45 notes in the mantra store
 
 ## Trivia/Notes
 

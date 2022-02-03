@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 17485
+revid: 17593
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Black Diver
 
-## Description
-
 Template:ArmorInfobox**Black Diver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 
@@ -30,5 +30,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   This outfit is the superior version of [Diver Apprentice](Diver_Apprentice_Robes.md)
-    -   Worn by [Akira](Akira.md) and some other divers in [Castle Light](Castle_Light.md)
+-   This outfit is the superior version of [Diver Apprentice](Diver_Apprentice_Robes.md).
+-   Worn by [Akira](Akira.md) and some other divers in [Castle Light](Castle_Light.md)

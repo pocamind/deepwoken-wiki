@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 17093
+revid: 17595
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Prophet's Cloak
 
-## Description
-
 Template:ArmorInfoboxProphet's Cloak is a Master [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 

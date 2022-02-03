@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 17435
+revid: 17611
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -81,6 +81,8 @@ Some food items can be found, in addition to at least 1 treasure chest. In the t
 
 ## Island Denizens
 
+Main Faction - [Summer Company](The_Summer_Company.md)
+
 There are guards on this island that wield flintlocks, and some nomads on the outskirts. There is also an event in which the guards are fighting what seems to be the Ignition Union (They are wearing Ignition Union armor) Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. There is an npc reading a book on a bridge near the castle, which you can access by climbing down a ladder and following a path, this NPC clears your reputation. Necromancers will rarely spawn here aswell and will most of the time fight the guards.
 
 ## Quests
@@ -94,7 +96,7 @@ File:RobloxScreenShot20211227 094500945.png
 Asius can be found in the circular structure found behind the Inn if you follow the path leading away from the Inn in an alcove. You will be given two quest dialogue options after answering why you're meeting him.
 
 1.  I'll see what I can do.
-2.  No, pay up, or I'll send you to the 3rd Layer.
+2.  No you bottom feeding lowlife, pay up or I'll send you to the 3rd Layer.
 3.  \[ End Dialogue \]
 
 Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
@@ -151,20 +153,17 @@ Possible items found after completing Scope's quest
 -   Cavalry Saber(0-1 star)
 -   Forge Greathammer
 -   Darksteel Greatsword
--   Serpant's Edge
+-   Serpent's Edge
 -   Iron Cestus
 -   Practitioner's Earrings
--   Slate Tophat
--   Burgundy Tophat
--   Beige Tophat
--   Slate Aristocrat Coat
--   Burgundy Aristocrat Coat
--   Beige Aristocrat Coat
+-   Burgundy/Beige/Slate Tophat
+-   Burgundy/Beige/Slate Aristocrat Coat
 -   Novice Boots
 -   Amethyst(4-5)
 -   Ruby(3-4)
 -   Saphire(3-4)
 -   Emerald(3-4)
 -   Gold Bar(4)
--   Summer Company Uniform (Blueprint)
--   Verdant Sniper (Blueprint)
+-   [Summer Company Uniform](Summer_Company_Uniform.md)
+-   [Verdant Sniper](Verdant_Sniper.md)
+-   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)

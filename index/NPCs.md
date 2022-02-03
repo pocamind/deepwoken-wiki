@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 17514
+revid: 17610
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -72,7 +72,7 @@ An organization that preserves whats left before the tides came. Historians that
 -   Hostile against - Bandits, Negative rep player
 -   Appearance - White Robes/Armor
 -   Equipment - Katanas, Galebreathe Spells
--   Player Reputable? - Possibly
+-   Player Reputable? - Possibly (Currently align with Etrea)
 
 #### Lore
 
@@ -97,7 +97,7 @@ An organization that preserves whats left before the tides came. Historians that
 -   Hostile against - Bandits, Ignition Union, Players (Negative Reputation), Nomads of Navae
 -   Appearance - Black Clothing
 -   Equipment - Guns
--   Player Reputable? - Yes
+-   Player Reputable? - Yes.
 
 #### Lore
 
@@ -116,7 +116,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 (Placeholder)
 
-### The Divers
+### [The Divers](The_Divers.md)
 
 -   Affiliations - The Authority
 -   Locations - The Depths / Void Sea

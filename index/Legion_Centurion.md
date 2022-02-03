@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 17092
+revid: 17594
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,9 +8,9 @@ categories: [Armors]
 
 # Legion Centurion
 
-## Description
-
 Template:ArmorInfobox**Legion Centurion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
 
 ### _Requirements_
 
