@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17968
+revid: 18019
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -125,9 +125,12 @@ _Requires Fortitude 10_
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
 | File:Barrel Helmet.png | Barrel Helmet | TBA | Duke Chests |
-|  | Enlightened Vagabond's Bicorn | TBA | Primadon Chests |
+|  | Vagabond's Bicorn | TBA | Primadon Chests |
 | File:Smith Bandana.png | Smith Bandana | TBA | TBA |
 | File:Gladiator Helmet.png | Gladiator Helmet | TBA | Hive Chests |
+| File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants 3 (Random) Buffs & Stealth by 4% | Depths Chests |
+| File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants 4 (Random) Buffs | Depths Chests |
+| File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants 2 (Random) Buffs | Depths Chests |
 
 **Face:**
 
@@ -139,7 +142,7 @@ _Requires Fortitude 10_
 | File:Bandana.png | Bandana | Cosmetic | Chests |
 |  | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Erisia Chests |
 |  | Crimson Blindfold | Grants the "Blinded" talent and a random buff | Minityrsa Chests |
-|  | Ascended Eyeglasses | Grants a random buff. | Minityrsa and
+|  | Eyeglasses | Grants a random buff. | Minityrsa and
 Songseeker Chests
 
  |
@@ -148,6 +151,7 @@ Songseeker Chests
 Songseeker Chests
 
  |
+| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | 3-2 (Random) Buffs | Depths and Songseeker Chests |
 
 **Ears:**
 
@@ -181,6 +185,7 @@ Damage Vs. Deep
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Minityrsa Chests |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff | Depths Chests |
+| File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants 2 (Random) Buffs | Depths Chests |
 |  | Dawn Scarf |  | Hive Chests |
 |  | Crimson Scarf |  | Hive Chests |
 |  | Adventurer's Scarf |  | Hive Chests |
@@ -258,7 +263,8 @@ Duke chests
 Depths chests
 
  |
-| 80x80\[x | Mist Assassian Cloak | TBA | TBA |
+| File:Mist Assassin Cloak.png | Mist Assassian Cloak | TBA | TBA |
+| File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants 2 (Random) Buffs | Depths and Hive Chests |
 
   
 
@@ -343,6 +349,8 @@ _Requires Power Level 30_
 
  | Depths Chests |
 | File:Brilliant Boots.png | Brilliant Boots | Grants random stat buffs | Chests |
+| File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants 2 (Random) Buffs | Depths Chests |
+| File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants 2 (Random) Buffs | Depths Chests |
 
 ## Trivia/Notes
 

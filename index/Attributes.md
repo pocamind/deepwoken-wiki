@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17960
+revid: 18000
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -66,7 +66,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
--   Increases Ether.
+-   Increases Ether by about 2 every point.
 
 ## Weapon Attributes
 

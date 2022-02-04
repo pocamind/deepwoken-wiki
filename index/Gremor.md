@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 16508
+revid: 17999
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -84,6 +84,7 @@ Less prone to starvation.
 
 -   Almost always good at PVP, regardless of progression.
 -   Absolute chad race.
+-   Kevin I am coming for your family
 
 <table>
 <tbody>

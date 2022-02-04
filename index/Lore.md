@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 17971
+revid: 18017
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -148,11 +148,15 @@ An Etrean Guard, part of the Nation of Etrea
 
 #### The Vigils of Wind
 
+**Lore Sources:** _Apprentice Ki_
+
 -   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
 -   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (Galebreathe exclusive) make mention of the vigils.
+-   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
+    -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
 
 ### The Children of Navae
 
@@ -193,7 +197,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_
 -   **Enemies:** _The Central Authority_
--   **Lore Sources:** _Amara_, _Vohxus_
+-   **Lore Sources:** _Amara_
 
 -   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.

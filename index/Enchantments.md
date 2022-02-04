@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 17989
+revid: 18021
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -129,8 +129,8 @@ Will have an effect upon hitting something.
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>Every M1 connection will apply a "fear stack" on your opponent. Hitting an opponent with a fear stack will increase M1 damage inflicted to them. Basically curse stacks from Rogue Lineage.</p>
+  <td><figure>File:GrimShatteredEnchant.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><div><p>M1s apply a debuff which gives higher armor penetration, capping out at 100% after 2-3 procs. Does not work on Mantras, or in PvE combat (tested and confirmed).</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -196,7 +196,7 @@ Entanglement
 
  | 
 
-Being hit by a humanoid enemy or player has a chance to reduce damage taken by about half, when it activates it slows you by a decent amount.
+Being hit by a humanoid enemy or player has a chance to reduce damage taken by 10% when it activates it slows you by a decent amount, once it activates once it will continue to activate on every attack taken for about 5 attacks.
 
   
 
@@ -233,7 +233,7 @@ Stench
 
  | 
 
-Upon getting hit, your armor releases toxic gas.
+Upon getting hit, your armor releases toxic gas, dealing damage to your attacker.
 
   
 
@@ -248,7 +248,7 @@ Adhesive
 
  | 
 
-When getting hit by a player, they have a chance to get pulled towards you. (probably)
+When getting hit by a player, they have a chance to get pulled towards you. (Confirmed)
 
   
 

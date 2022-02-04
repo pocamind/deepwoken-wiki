@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 17728
+revid: 18023
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Luck]
@@ -9,8 +9,6 @@ categories: [Pages with broken file links, Luck]
 # Luck
 
 _"You steal the luck of others at a slightly higher rate." - Marauder Flavour Text_
-
-_"Heh, let's go gank that freshie over there for luck, wait wha- ahhhh wtf!" - Un-Assuming lvl 10 Adret (me) Who Got His Ass Beat_
 
 ## Description
 
@@ -35,10 +33,10 @@ Killing something that provides you with Luck will cause "shining" noise and has
 
 Gripping a player will steal their luck (Luck/2 + 1), if:
 
--   The victim is outside of a town (if below power 30).
--   The victim at least power 10 if you are above power 10.
--   The victim is 15 Power levels below or less than the killer
-    -   A player at Power 35 must kill players that are at least Power 20
+-   The victim is outside of a town (only below power 30).
+-   The victim is at least power 10, only if you are above power 10.
+-   The victim is not 15 power levels below or less than the killer
+    -   Example: A power 30 could not grip a power 10 to get luck, however a power 30 could grip a power 16 and receive luck.
     -   A power 15 can grip a power 50 and still get luck.
 
 ### From Boss NPCs

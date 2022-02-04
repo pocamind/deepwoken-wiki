@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17993
+revid: 17998
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -692,7 +692,7 @@ Prerequisite: Willpower 5~
 -   Lethal Force \[Generic Talent, Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
-    -   Prerequisites: ~10 Strength~ & 25 Heavy Weapon (might require less for either)
+    -   Prerequisites: 50 Heavy Weapon (might require less for either)
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 -   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
 -   Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
