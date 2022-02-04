@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 17456
+revid: 17957
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,15 +8,9 @@ categories: [Monsters]
 
 # Gigamed
 
-[\[1\]](https://www.youtube.com/watch?v=EBJIzhfjCk0)
-
-[\[2\]](https://www.youtube.com/watch?v=EBJIzhfjCk0)
-
 **Gigamed:**
 
-# Gigamed
-
-## Appearance
+## Description
 
 Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonly found all across _**[The Depths](The_Depths.md)**_. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups. Blue Jellyfishes are commonly reffered to as "healthpacks," giving free health to whoever is in need.
 
@@ -37,8 +31,6 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
     
 
 **King Gigamed:**
-
-# Mother Jellyfish
 
 Template:Creature Infobox V3
 

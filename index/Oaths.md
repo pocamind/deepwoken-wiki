@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 17468
+revid: 17941
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character]
@@ -77,9 +77,11 @@ This Oath also grants the players full vision and increased brightness while wea
 
 -   This Oath, along with the Willower passives will grant you 96 Sanity, and will allow you to last 88 minutes in [The Depths](The_Depths.md).
 -   If you don't have any face accessory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
+-   When using the [Portal](Portals.md) resonance, the blindseer eye will still be visible, and will not disappear along with the rest of your character.
 
 Blindseer vesp  
 
 ## Trivia/Notes
 
 -   More Oaths are planned to added later, as stated in an update log.
+    -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.

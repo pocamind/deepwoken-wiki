@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 17494
+revid: 17940
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -140,7 +140,8 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground.
+|  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground. Also launch nearby targets in the air.
+-   On flat ground, will usually lead to fall damage for the user.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 -   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
 -   With the talent _Meteor Impact_ you can still damage enemies with it as long as the initial leap hits and the opponent(s) are sent upwards with you.
@@ -184,7 +185,7 @@ These talents are found in the _Flamecharmer_ category.
 | --- | --- | --- | --- |
 |  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
 |  | Flame Within | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
-|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Makes Fire Palm's hitbox wider but shorter. (Possibly broken right now.) |
+|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range. |
 
 **The Emperor's Blade:**
 

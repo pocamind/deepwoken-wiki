@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 17486
+revid: 17929
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,9 +10,9 @@ categories: [Locations]
 
 _**"A place remembered only by the waves."**_
 
-“ It do go down!" "No it don't! Oh SHI- ”
+“ "A place remembered only by the waves. ”
 
-― Two Capras fishing, fast approaching a whirlpool.
+― The description when you arrive
 
 Template:Areainfobox
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17599
+revid: 17928
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -95,7 +95,7 @@ Armor Pieces come in different rarities: Ascended, Enlightened or Celestial, mea
 
 **Head:**
 
-| Image | Armor | Effects | Source |
+| Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 | File:Herbalist's Hat.png | Big Herbalist's Hat | Grants a random buff.
 _\+ Talent: Iron Gut_
@@ -127,7 +127,7 @@ _Requires Fortitude 10_
 
 **Face:**
 
-| Image | Armor | Effects | Source |
+| Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | Iron Mask | Cosmetic | Erisia Chests |
 | File:Demonmask.png | Demon Mask | Cosmetic | The Duke Chest and Depths Chests |
@@ -147,7 +147,7 @@ Songseeker Chests
 
 **Ears:**
 
-| Image | Armor | Effects | Source |
+| Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | Dewdrop Earrings | +16 Reservoir
 +6 Sanity
@@ -173,7 +173,7 @@ Damage Vs. Deep
 
 **Back:**
 
-| Image | Armor | Effects | Source |
+| Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Minityrsa Chests |
 |  | Dawn Scarf |  | Hive Chests |
@@ -187,7 +187,7 @@ Damage Vs. Deep
 
 **Arms:**
 
-| Image | Armor | Effects | Source |
+| Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 | File:Autumn pauldrons.png | Autumn Pauldrons | +20 Ether
 +6 Health
@@ -258,7 +258,7 @@ Depths chests
 
 **Rings:**
 
-| Image | Armor | Effects | Source |
+| Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
 | File:Isshin.png | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
 _Requires Power Level 15_

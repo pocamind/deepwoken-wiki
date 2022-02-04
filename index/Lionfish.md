@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 14111
+revid: 17791
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -21,7 +21,7 @@ Template:Creature Infobox V3
 Half-fish, half-lion. A large brown fish with a black mane of a Lion, thus it's name. It has white blank eyes, with it's teeth visible.
 
   
-It drops a Lionfish Scale, which is used for crafting armor sets.
+It drops a Lionfish Scale, which is used for crafting armor sets
 
 ## Moves
 

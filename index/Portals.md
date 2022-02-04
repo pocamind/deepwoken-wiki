@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 16986
+revid: 17862
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -47,5 +47,6 @@ If Portal is found to be corrupted, the duration of the ability is tripled.
 ## Trivia/Notes
 
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
+    -   The [Blindseer](Oaths.md) cosmetic eye that appears on your character will also be visible during use of Portal. Vesperians however will not be affected by this.
 -   This Resonance can be a great tool to ambush other players.
 -   Also called the "Yoru bell" as it's abilities are common with a Valorant character named Yoru.

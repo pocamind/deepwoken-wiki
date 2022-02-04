@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 17660
+revid: 17704
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cool]
@@ -14,4 +14,4 @@ Age in Deepwoken is viewable by going to your stats menu. This number increases 
 
 ## Notes
 
--   Some NPCs have dialogue depending on your age, such as the old Etrean in Etrea calling you a Youngster if you're 18 or above.
+-   Some NPCs have dialogue depending on your age, such as the old Etrean in Etrea calling you a Youngster if you're 18 or above

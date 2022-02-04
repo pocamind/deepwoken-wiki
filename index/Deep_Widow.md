@@ -1,9 +1,9 @@
 ---
 title: Deep Widow
-revid: 17387
+revid: 17717
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Deepwoken]
 ---
 
 # Deep Widow

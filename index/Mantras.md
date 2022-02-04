@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 17408
+revid: 17838
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -21,6 +21,8 @@ Considered to be the root of Ether's usage.
 ## Obtaining Mantras
 
 Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
+
+-   [Luck](Luck.md) has NOTHING to do with obtaining mantras. Chances do not increase or decrease for mantras based on your luck.
 
 ## Mantras
 

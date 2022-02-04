@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 17601
+revid: 17728
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Luck]
@@ -36,7 +36,7 @@ Killing something that provides you with Luck will cause "shining" noise and has
 Gripping a player will steal their luck (Luck/2 + 1), if:
 
 -   The victim is outside of a town (if below power 30).
--   The victim at least power 10.
+-   The victim at least power 10 if you are above power 10.
 -   The victim is 15 Power levels below or less than the killer
     -   A player at Power 35 must kill players that are at least Power 20
     -   A power 15 can grip a power 50 and still get luck.
@@ -74,3 +74,4 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 -   Gripping a player for luck can be a viable strategy in the short term, but because corrupted monsters and bosses have set patterns, can drop [Chests](Chests_&_Sacks.md) with lots of items, and can be easily found with practice and experience, it is more viable to farm luck off them in the long term.
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses and corrupted monsters. Keep this in mind while progressing.
 -   The way luck is obtained, shown and gotten will be reworked soon; stay tuned
+-   A freshie has enough natural luck to gain 2 Rare cards or 1 Legendary. (tested multiple times by me as a freshie. I have gotten warrior's respite and bloodiron and fishman multiple times on level up.)

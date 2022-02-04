@@ -1,9 +1,9 @@
 ---
 title: The Hidden Village
-revid: 16317
+revid: 17703
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Map]
 ---
 
 # The Hidden Village

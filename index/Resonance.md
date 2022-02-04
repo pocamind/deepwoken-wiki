@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 17509
+revid: 17942
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -30,7 +30,7 @@ Known downside include:
 
 ### _Legendary Resonances_
 
-A step up from Normal Resonances and Corrupted Resonances, **Legendary Resonances** can be obtained as well, being easily identifiable compared to normal Resonances by shining with a gold aura and having golden particles when used. Many of these are not documented extensively, and it is unknown if they are another level of rarity, or another sub-category like Corrupted Resonances. It is presumed that Legendary Resonances are the strongest/most powerful type. They seem to most likely indicate another level or rarity, as popularly documented instances of Legendary Resonances either have the unreleased Resurrection resonance or the Teleportation resonance, which is extremely uncommon to encounter.
+A step up from Normal Resonances and Corrupted Resonances, **Legendary Resonances** can be obtained as well, being easily identifiable compared to normal Resonances by shining with a gold aura and having golden particles when used. Many of these are not documented extensively, and it is unknown if they are another level of rarity, or another sub-category like Corrupted Resonances. It is presumed that Legendary Resonances are the strongest/most powerful type. They seem to most likely indicate another level or rarity, as popularly documented instances of Legendary Resonances either have the unreleased Resurrection resonance or the Teleportation resonance, which is extremely uncommon to encounter. Achieving a Legendary Resonance might also increase the chance to get a rare resonance whilst simultaneously buffing it or lock the Resonance pool to a specific set of rare Resonances, whilst also buffing the one you get.
 
 ## Obtainment
 

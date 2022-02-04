@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 17644
+revid: 17946
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -136,19 +136,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Attacks let you hit multiple opponents at once, so long as they are near the person you hit. The damage done to multiple people is low unless you are physically hitting someone.</p>
-  <p><br>
-  </p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals 5% of their armor as well. Also does more damage to posture.</p>
-  <p><br>
-  </p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). x3 damage buff given ( STOP CHANGING THIS, IVE TESTED IT 15 TIMES)</p>
+  <td><div><p>i lost arguement so ill just edit this its a bad enchant anyways</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -298,7 +286,7 @@ Displacement
 
  | 
 
-Upon getting hit, the user has a chance of getting teleported a short distance.
+Upon getting hit (n,11ger(, the user has a chance of getting teleported a short distance(Currently broken).
 
   
 

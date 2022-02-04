@@ -1,14 +1,14 @@
 ---
 title: Mantra Modifiers
-revid: 17577
+revid: 17944
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Mechanics, Mantras]
+categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
 ---
 
 # Mantra Modifiers
 
-A foolish fool using quite a numerous amount of items to upgrade a mantra.
+A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -194,6 +194,12 @@ Spark Swap
 
 Flame Blind
 
+Lightning Stream
+
+Shadow/Ice Chains
+
+Fire/Ice Forge
+
  | Applies "Magnet Shot" to compatible Mantra. |
 | 
 
@@ -335,6 +341,7 @@ also looks identical to falseflame.
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
+-   This modifier as an unknown effect on _Fire Blade_ Mantra.
 
 #### Spring Spark
 

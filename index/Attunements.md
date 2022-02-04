@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 17529
+revid: 17925
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -27,4 +27,6 @@ When creating your character, you may choose to start with no Attunement, which 
 ## Trivia/Notes
 
 -   Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
--   ~Somewhere during Deepwoken's Release, it was possible to attain all 5 Attunements.~ You can still obtain all 5 attunements, the problem is, if you have 2 attunements, the trainers for attunements will ignore you. But, if you get the blood potion for all attunements before using one, like get Sparkblood, Glassblood, Hearthblood and Skyblood at the same time and use them one after another, you can obtain all attunements.
+-   You can obtain all 5 attunements, the problem is, if you have 2 attunements, the trainers for attunements will ignore you. But, if you get the blood potion for all attunements before using one -Sparkblood, Glassblood, Hearthblood and Skyblood- at the same time and use them one after another, you can obtain all attunements.
+-   When unlocking an attunement after drinking a blood potion, the attunement will be permanently select-able from the starting menu after you unlock it.
+    -   You can unlock all attunements to be select-able from the menu.

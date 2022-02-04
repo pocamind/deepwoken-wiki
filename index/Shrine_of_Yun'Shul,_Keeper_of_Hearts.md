@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 16338
+revid: 17932
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -22,7 +22,7 @@ A [Resonance](Resonance.md) is required to enter the temple and to talk to Yun'S
 
 ## Wish
 
-The player can interact with Yun'Shul to obtain a wish. Players can wish once per 10 power increment, which mean that players can wish if they are between power 1-9, 10-19, 20-29, 30-39, 40-49, 50-59, 60.
+The player can interact with Yun'Shul to obtain a wish. Players can wish once per 10 power increment, which mean that players can wish again once they power up 10 times after they had made their wish.
 
 4 wishes are available:
 

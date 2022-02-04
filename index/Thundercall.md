@@ -1,12 +1,14 @@
 ---
 title: Thundercall
-revid: 17344
+revid: 17958
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
 ---
 
 # Thundercall
+
+_And then along came Zeus..._
 
 ## Description
 
@@ -93,7 +95,7 @@ Strike (★)
 |  | Bolt Piercer (★★) | An arrow of lighting. | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
 
 -   **HEAVY DAMAGE**. At Level 1, it can depletemore than half a healthbar.
--   Might need an Intelligence stat. (You might not need luck since someone got this at power 12 without any luck)
+-   Might need an Intelligence stat, or another stat in order to unlock.
 
  |
 

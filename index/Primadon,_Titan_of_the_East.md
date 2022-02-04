@@ -1,9 +1,9 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 17613
+revid: 17786
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss, Luck]
+categories: [Boss, Luck, Monke]
 ---
 
 # Primadon, Titan of the East
@@ -57,9 +57,12 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the **Scuba Drowner** talent or lived the fall.
 -   Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks. ~However, if you have a Bloodless Gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself.~ This does not work, as Bloodless Gem's healing scales off of damage dealt, so since you deal no damage, you don't heal.
 -   Debuffs from Mantras do affect Primadon.
+-   An easy way to cheese this is, place a azure flames graceful flame(you will take damage while casting) and fight Primadon next to hit so you heal back the damage you lose
 
 ## Trivia
 
 -   Deep Gems were temporarily stripped from the loot pools of all overworld enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to the Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes
+    -   This cooldown is in effect for the player who summoned Primadon, and everyone involved (Dealt damage at least once).
 -   In the game files, it is called "Monky"
+-   Providence thorns enchant is a great way to cheese Primadon, since whatever attack you parry is reflected back.

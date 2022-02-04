@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17619
+revid: 17891
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -435,7 +435,6 @@ Prerequisite: Willpower 5~
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill Sea Serpent Ardour.
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health)
--   ~Murmur: Adagio \[Generic Talent, Common Talent\] - An application of the Song that allows you to slow time in a bubble around you. Press H to activate.~ Proven by one of developers to be fake.
 
 ### Natural Armor
 

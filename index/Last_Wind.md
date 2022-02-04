@@ -1,8 +1,9 @@
 ---
 title: Last Wind
-revid: 13357
+revid: 17714
 source: https://deepwoken.fandom.com/wiki/Last_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character]
 ---
 
 # Last Wind

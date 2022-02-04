@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17532
+revid: 17959
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -49,6 +49,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 ### Intelligence
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
+-   This stat give 2 Ether and Reservoir
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via foraging, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
