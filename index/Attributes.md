@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 17959
+revid: 17960
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -68,7 +68,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
 -   Increases Ether.
 
-## Weapon Mastery Attributes
+## Weapon Attributes
 
 These attributes can be improved up to 75, but completion of the quest: A Lost Sibling, allows attributes that reached 75 to go up to 100.
 

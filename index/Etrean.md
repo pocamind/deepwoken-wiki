@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 16811
+revid: 17979
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -63,8 +63,9 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 +1 Health  
 +2 Agility  
 +2 Intelligence  
-
 Takes less damage in acid rain.  
+
+Racist
 
 **Weaknesses:**
 

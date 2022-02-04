@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 17646
+revid: 17971
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -253,7 +253,7 @@ A Dark Mage, located in Minityrsa.
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia_
--   **Attunements:** _None (They use a Murmur called Adagio, which slows time in a bubble)._
+-   **Attunements:** _None_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
 -   **Lore Sources: Whaling Knife description and Whaler Armor**
@@ -497,7 +497,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, eventually drown to the Tides, when the time comes.
 -   It's unsure how much a Lifeweaver's life is precious to the world of Deepwoken, unlike Lightkeepers.
--   Lifeweavers as of 1/15/2022, are not encountered in-game.
+-   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 
 ### Celestials
 

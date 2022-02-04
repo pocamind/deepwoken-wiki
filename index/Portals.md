@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 17862
+revid: 17992
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,21 +15,21 @@ categories: [Resonance]
 
 ## Description
 
-**Portal** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
+**Portal** or **Yoru Bell** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll.
 
 ### _Appearance_
 
-Once used, the user summons a white portal in front of them and becomes invisible.
+Once used, the user summons a white portal in front of them and becomes nearly completely invisible.
 
 ## Usage
 
 Pressing "C" will activate the **Portal** Resonance.
 
-**Portal** grants the user invisibility, increased walk and swim speed and invincibility for four seconds until removed from your portal. While using **Portal**, interacting with objects, eating and emoting will force you out of your portal.
+**Portal** grants the user invisibility, increased walk and swim speed and invincibility for four seconds until removed from your portal. While using the Bell, interacting with objects, eating and emoting will force you out of your portal early.
 
 ### _Variants_
 
-Portal have 2 versions
+Portal has 2 versions
 
 #### **_Versions_**
 
@@ -49,4 +49,4 @@ If Portal is found to be corrupted, the duration of the ability is tripled.
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
     -   The [Blindseer](Oaths.md) cosmetic eye that appears on your character will also be visible during use of Portal. Vesperians however will not be affected by this.
 -   This Resonance can be a great tool to ambush other players.
--   Also called the "Yoru bell" as it's abilities are common with a Valorant character named Yoru.
+-   Called the "Yoru bell" as its abilities are common with a Valorant character named Yoru.

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 17629
+revid: 17981
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -180,7 +180,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Charmed</th>
-  <td></td>
+  <td>Your character emanates hearts. While charmed, a number of debuffs may happen, all depending on the charmer's talents. Some effects may include dealing less damage and taking more damage to the charmer, or when they are low health, deal less damage to them while dealing more damage to others.</td>
   <td></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17891
+revid: 17993
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -187,7 +187,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
-    -   Prerequisite: Reinforce
+    -   Prerequisite: Reinforce/Shadow Magic(obviously)
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
 
 Prerequisite: Reinforce(?)

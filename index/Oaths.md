@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 17941
+revid: 17994
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character]
@@ -24,7 +24,7 @@ _icon credit to Tortaa#9000_
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain. Like [Murmurs](Murmur.md), players can only obtain one Oath per character.
 
-There are currently only two **Oaths** in _Deepwoken_.
+There are currently only two **Oaths** in _Deepwoken_. More are planned to be added in future updates.
 
 ## Oath: Oathless
 
@@ -32,7 +32,7 @@ _"You vow to never be bound to any oath; to live your life free of restraint. If
 
 ### _Description_
 
-**Oath: Oathless** is one of the easiest Oaths to obtain currently, only requiring [Power Level](Power.md) 30.
+**Oath: Oathless** is the easiest Oath to obtain currently, only requiring [Power Level](Power.md) 30.
 
 ### _Obtaining_
 
@@ -61,7 +61,7 @@ Obtaining Blindseer is harder than Oathless, and requires a Blindfold for the pr
 1.  Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 2.  Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
 3.  Climb above the temple doors and proceed inside the temple.
-    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lower Angel](Monsters.md) if they catch sight of you.
+    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lower Angel](Hollow_Angel.md) if they catch sight of you.
 4.  Once inside the temple, proceed through a passage on the left.
 5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer._
 
@@ -84,4 +84,4 @@ Blindseer vesp
 ## Trivia/Notes
 
 -   More Oaths are planned to added later, as stated in an update log.
-    -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.
+    -   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well.

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 17226
+revid: 17982
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -50,7 +50,7 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 
 ### Finisher
 
-**Head Crush -** The Duke crushes a player's head with his ~Thighs~ Fist or Feet, instantly killing them without a chance to react.  
+**Head Crush -** The Duke crushes a player's head with his Fat Juicy Thighs, instantly killing them without a chance to react to the smell of his asscheeks in their face.  
 
 ### Rewards
 

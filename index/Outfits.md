@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 17928
+revid: 17968
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -124,6 +124,10 @@ _Requires Fortitude 10_
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
+| File:Barrel Helmet.png | Barrel Helmet | TBA | Duke Chests |
+|  | Enlightened Vagabond's Bicorn | TBA | Primadon Chests |
+| File:Smith Bandana.png | Smith Bandana | TBA | TBA |
+| File:Gladiator Helmet.png | Gladiator Helmet | TBA | Hive Chests |
 
 **Face:**
 
@@ -176,6 +180,7 @@ Damage Vs. Deep
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Minityrsa Chests |
+| File:Brilliant Cape.png | Brilliant Cape | Grants a random buff | Depths Chests |
 |  | Dawn Scarf |  | Hive Chests |
 |  | Crimson Scarf |  | Hive Chests |
 |  | Adventurer's Scarf |  | Hive Chests |
@@ -253,6 +258,7 @@ Duke chests
 Depths chests
 
  |
+| 80x80\[x | Mist Assassian Cloak | TBA | TBA |
 
   
 
