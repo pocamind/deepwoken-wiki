@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 17565
+revid: 18036
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -29,7 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Apothecary_, which makes 
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
--   the weapon shop in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Experienced Adventurer](Experienced_Adventurer.md) armor schematics.
+-   At the weapon shop in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Experienced Adventurer](Experienced_Adventurer.md) armor schematics.
 
 ## Trivia/Notes
 

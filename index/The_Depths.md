@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 17445
+revid: 18066
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -17,7 +17,7 @@ categories: [Pages with broken file links, Death, Mantras, Locations]
 
 _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again._
 
-**Remember boys, it's drip or drown at all times in this place.**
+**Remember boys, watch yo tone in this place.**
 
 ## Landmarks
 
@@ -30,6 +30,8 @@ _Depth Marauder Base? (Need clarification of what it is._
 Near the Coral Forest, at the end of some pillars that jut out from the murky blackness below. There's a Resonance door at the end of the entrance hallway.
 
 **(We need some help finding out what this place is because we're too weak to get progression for a resonance, if someone can get behind the Yun'shul door and figure out what's behind it, it would be appreciated.)**
+
+Inside of the Yun'Shul door, there is simply nothing. When I resonated with the door, it was a brick wall.
 
 here's where it is on a map (be careful as the parkour is easy but the void is 2 inches from where you land so be careful). There are ways on entering Resonance doors without using a resonance such as using mantras that destroy the environment like Lightning Beam and your weapon imbued with ~Lightning Blade.~
 
@@ -197,7 +199,7 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
   <td>Enforcer Boots</td>
 </tr>
 <tr>
-  <td>Bloodless Gem</td>
+  <td>Deep Gems (very rare)</td>
   <td>Dewdrop Earrings</td>
   <td>Shotel</td>
   <td>Providence Coat</td>
@@ -225,7 +227,7 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 
 ## Trivia
 
--   It is possible to gain luck (potentially even more than usual?) by killing players (or NPCs) in the depths.
+-   It is possible to gain luck by killing players or enhanced [monsters](Monsters.md) in the depths.
 -   [Resonance](Resonance.md)/bells can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
 -   You can use 5 Umbral Obsidian to gain Shadowcast by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
 -   Staying in the depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
@@ -235,6 +237,9 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 ## Tips
 
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be sufficient. Learning the ways of vanquishing each and every of The Depth's monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
--   If you see a group of high levelled people, log. Your chances of not combat logging are a farcry better than your chances of not getting ganked underwater. Or if you are a bossraid player with all sorts of enchantments and powerful equipment, go ahead and go ham.
+-   If you see a group of high level people, log. Your chances of not combat logging are better than your chances of not getting gripped underwater.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
 -   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void, and knock other people in it if you are caught up in a fight.
+-   Ringing the bells (not corrupted bells) in the drowned city will restore some of your hp, equivalent to that of knocking an npc or monster around your power.
+-   Diver camps have lockers that act as "campfires" although you can't heal, nor use it to make food.
+-   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral rep with the Divers.

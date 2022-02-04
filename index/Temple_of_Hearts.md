@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 16833
+revid: 18085
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― In-game flavour text.
 
-  
+**Temple of Hearts** is a location in _Deepwoken_. It is located in [The Depths](The_Depths.md).
 
 ## Description
 
@@ -33,4 +33,4 @@ Going through will lead into an altar with Yun'shul, a mysterious, eldritch enti
 
 -   Only accesible by having a bell.
 -   Talking to Yun'Shul will instant kill the player if they do not have a resonance/bell.
--   Similar to Monad Studio's previous game, Rogue Lineage's "Ya'alda," ~being a Tenebrae of some sort.~ Rogue Lineage and Deepwoken are not connected.
+-   Similar to Monad Studio's previous game, Rogue Lineage's "[Ya'alda](<https://rogue-lineage.fandom.com/wiki/Ya'alda>)."

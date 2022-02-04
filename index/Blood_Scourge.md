@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 16942
+revid: 18076
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -23,7 +23,7 @@ When used, a red circle around 10(?) studs large appears around the user or effe
 
 ## Usage
 
-Pressing "C" will activate the **Blood Scourge** Resonance.
+Pressing C will activate the **Blood Scourge** Resonance.
 
 **Blood Scourge** will quickly execute any knocked entity within it's range and heal the user. It has a cooldown of twenty seconds.
 

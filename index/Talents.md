@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 17998
+revid: 18037
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -114,7 +114,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Triathlete \[Generic Talent, Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
 -   Heavy Lifting \[Generic Talent, Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
-    -   Prerequisites: Strength
+    -   Negate the movement speed penalty of heavy weapons.
+        -   Prerequisites: Strength
 -   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+1 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: Strength
 

@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 17595
+revid: 18056
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -35,4 +35,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Player notes here
+-   Worn by the [Ministry Necromancer](Ministry_Necromancer.md)
+    -   Has the highest Ether regen buff in the game currently.

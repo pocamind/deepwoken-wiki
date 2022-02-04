@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 17464
+revid: 18064
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,7 +43,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person\[the actual description says otherwise\]) for every player/NPC buffed._
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour. Prevents your attacks/mantras from getting cancelled.
-    -   Requirements: Fortitude, _Fortitude Support Mantra_  
+    -   Requirements: 75 Fortitude, _Fortitude Support Mantra_  
         
 
 ### _**Agility Mantras**_
@@ -77,18 +77,20 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 -   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defence.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
     -   Requirement: 25 Willpower, _Willpower Support Mantra_
--   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned.
-    -   Requirement: 10? Willpower, _Willpower Support Mantra (Possibly requires charisma instead?)_
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
     -   Requirement: 40 Willpower, _Willpower Combat Mantra_
+-   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned. Requirement: Unknown amount of Willpower, Willpower support Mantra.
+    -   Around the same as Gaze
+    -   Don't delete this: whoever keeps putting this as charisma it's not. Random willpower mantra gives Glare.
 
 ### _**Charisma Mantras**_
 
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends'.
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
-    -   Requirement: 25 Charisma, _Charisma Support Mantra_
+
+Requirement: 25 Charisma, _Charisma Support Mantra_
 
 -   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_

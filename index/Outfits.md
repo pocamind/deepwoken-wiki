@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 18019
+revid: 18054
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -328,7 +328,7 @@ _Requires Power Level 10_
 _Requires Power Level 40_
 
  | Primadon Chests, Depths Chests |
-|  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests |
+|  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests |
 |  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bad reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests, Duke Chests, and Primadon Chests |
 
   

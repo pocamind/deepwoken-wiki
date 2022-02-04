@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18021
+revid: 18047
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -298,7 +298,7 @@ Displacement
 
  | 
 
-Upon getting hit (n,11ger(, the user has a chance of getting teleported a short distance(Currently broken).
+Upon getting hit, the user has a chance of getting teleported a short distance(Currently broken).
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 16409
+revid: 18067
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -93,11 +93,11 @@ A list of locations that can be found in [the Void Sea](Voidsea.md).
 
 ## [The Depths](The_Depths.md)
 
-A list of locations that can be found in [The Depths](The_Depths.md).
+A list of locations that can be found in [The Depths](The_Depths.md), or inside The Depths experience.
 
 Celtor Wastes
 
--   Diver's Camp _(page coming soon)_
+-   Diver's Camp
 -   Castle Light
 
 The City of the Drowned
@@ -105,8 +105,7 @@ The City of the Drowned
 -   Varicosa District
 -   District of Commerce
 
-### More
+### Other
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
-
--   [Fragments of Self](Fragments_of_Self.md) (While technically not \*in\* the Depths it is still part of the Depths, as shown by the character selection screen.)
+-   [Fragments of Self](Fragments_of_Self.md)

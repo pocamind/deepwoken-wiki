@@ -1,16 +1,22 @@
 ---
 title: Murmur
-revid: 17518
+revid: 18051
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Talents, Character]
+categories: [Pages with broken file links, Talents, Character]
 ---
 
 # Murmur
 
-## Description
+File:Ardour Scream gif.gif
 
-Murmurs are [Talents](Talents.md) obtained by completing an objective that allow the user to channel the song and buff them in various ways. Players can only obtain one Murmur.
+KivC using Wind-up + Ardour Scream Talent in [their video](https://www.youtube.com/watch?v=jy6orzFwGrs).
+
+Murmurs are [Talents](Talents.md) obtained by completing an objective that allow the user to channel the song and buff them in various ways.
+
+## Overview
+
+Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
 Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable.
 
@@ -18,7 +24,7 @@ Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour)
 
 A Murmur will be nearly unusable until it is fully trained, either having too short of a duration to be useful or draining your entire [Ether](Combat_Mechanics.md) bar in seconds.
 
-A Murmur can be trained simply by using it, over and over. This process can take hours, and it is recommended you are at a campfire and have armor such as the [Pathfinder-Arch Sorcerer](Pathfinder_Arch-Sorcerer.md) or the [Prophets Cloak](<Prophet's_Cloak.md>) equipped.
+A Murmur can be trained simply by using it, over and over. This process can take hours, and it is recommended you are at a campfire and have armor such as the [Pathfinder-Arch Sorcerer](Pathfinder_Arch-Sorcerer.md) or the [Prophet's Cloak](<Prophet's_Cloak.md>) equipped.
 
 ## Murmur: Ardour
 
@@ -30,7 +36,7 @@ The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but tr
 
 Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
-This Murmur was once used by the Etrean King. It said that his Murmur was strong enough to cut the sea in half (Though it make no sense because why he was overthrown by Lord Regent even though he had such power)(He wasn't overthrown he just went missing or something and Regent is filling in for him indefinitely)
+This Murmur is expanded upon in the [lore](Lore.md).
 
 ### Ardour Scream
 
@@ -52,4 +58,4 @@ When you first obtain Tacet you can still be spotted from very far away however 
 
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 
-This Murmur requires 15 [Charisma](Attributes.md#charisma), and Bad Reputation with Etrean Guards to obtain.
+This quest requires 15 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.

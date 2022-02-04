@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 16807
+revid: 18075
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -23,7 +23,7 @@ When used, particles of flame appear below the user's feet.
 
 ## Usage
 
-Pressing "C" will activate the **Run It Back** Resonance.
+Pressing C will activate the **Run It Back** Resonance.
 
 **Run It Back** will grant the user around five seconds of immunity. Once finished, the user will be teleported back to the position where it was first used.
 
@@ -47,4 +47,4 @@ If the owner of **Run It Back** is Tarnished, this Resonance will be given a ~tw
 
 ## Trivia/Notes
 
--   This is a reference to Phoenix from Valorant, who's ultimate is also called "Run it Back".
+-   This is a reference to _Phoenix_ from _Valorant_, who's ultimate is also called "Run it Back".

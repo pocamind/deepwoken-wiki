@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 17254
+revid: 18081
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -23,7 +23,7 @@ When used, an orange or red field will appear around the user for around fifteen
 
 ## Usage
 
-Pressing "C" will activate the **Sacred Field** Resonance.
+Pressing C will activate the **Sacred Field** Resonance.
 
 **Sacred Field** will spawn an area that grants you and your allies defense against physical and elemental damage. **Sacred Field** has a cooldown of ~20-30 seconds.
 
@@ -33,8 +33,8 @@ Pressing "C" will activate the **Sacred Field** Resonance.
 
 #### _Versions_
 
--   **Version 1** will grant players inside 3-4x defense against _physical_ damage and halved elemental damage.
--   **Version 2** will grant players inside 3-4x defense against _elemental_ damage and halved damage from physical. This version also lasts longer.
+-   **Version 1** will grant players inside 3 to 4x defense against _physical_ damage and halved elemental damage.
+-   **Version 2** will grant players inside 3 to 4x defense against _elemental_ damage and halved damage from physical. This version also lasts longer.
 
 #### _Corrupted_
 
@@ -42,5 +42,5 @@ If **Sacred Field** is found to be Corrupted, the Resonance's range becomes larg
 
 ## Trivia/Notes
 
--   It's practically safe to say you are nearly immune inside **Sacred Field**.
--   Be warned, if someone figures out which variant of Sacred Field you have, they may choose to do what the field only **half** resists.
+-   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
+-   Be warned, if someone figures out which variant of **Sacred Field** you have, they may choose to do what the field only half resists.

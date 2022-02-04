@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 18017
+revid: 18052
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -256,7 +256,7 @@ A Dark Mage, located in Minityrsa.
 ### The Knives of Eylis
 
 -   **Territory:** _Central Luminant_
--   **Encountered In:** _Aratel Sea, Erisia_
+-   **Encountered In:** _Aratel Sea, Erisia, Songseeker_
 -   **Attunements:** _None_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_

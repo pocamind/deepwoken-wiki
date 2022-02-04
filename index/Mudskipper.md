@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 17236
+revid: 18025
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,3 +43,4 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shuriken's, Fire Palm, Air Blast, or Guns.
 -   Mudskippers have a slight resemblance to the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us.
+-   Since someone asked here's how to use mantras against them: spam

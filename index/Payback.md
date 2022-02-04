@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 17433
+revid: 18072
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Full Counter** (Ratio bell) is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Full Counter** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### _Appearance_
 
@@ -23,7 +23,7 @@ When used, a green circle appears around the user and shrinks until the Resonanc
 
 ## Usage
 
-Pressing "C" will activate the **Full Counter** Resonance.
+Pressing C will activate the **Full Counter** Resonance.
 
 **Full Counter** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
 
@@ -33,29 +33,17 @@ Pressing "C" will activate the **Full Counter** Resonance.
 
 #### _Versions_
 
--   **Version 1** will divide (1/4th) any damage taken within one to two seconds to the user's opponents.
--   **Version 2** will multiply (3x) all damage taken within one to two seconds and fire a thin beam that damages the user's opponents.
--   **Version 3** will multiply (3x) all damage taken within one to two seconds and fire three thin beams that damage the user's opponents.
+-   **Version 1** will divide 1/4th of any damage taken within one to two seconds to the user's opponents.
+-   **Version 2** will multiply all damage taken 3x within one to two seconds and fire a thin beam that damages the user's opponents.
+-   **Version 3** will multiply all damage taken 3x within one to two seconds and fire three thin beams that damage the user's opponents.
 
 #### _Tarnished_
 
 If the owner of this Resonance is Tarnished, **Full Counter** will be given a two second start-up. During this time, **Full Counter** can be easily interrupted.
-
-**Corrupted**
-
-If **Full-Counter** is found to be Corrupted,
-
-**Version 1**
-
-The user will use It like normal one but user will set on effect(Include burning,will take damage,gain insanity)
-
-There is no any information further than this
-
-  
 
 ## Trivia/Notes
 
 -   The 2nd and 3rd variations can be either parried, blocked or dodged while the 1st one can not.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Credit to N1R#3083 for helping me research corrupted part
--   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime 'Seven Deadly Sins'
+-   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime 'Seven Deadly Sins.'

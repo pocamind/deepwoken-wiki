@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 17158
+revid: 18083
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -23,7 +23,7 @@ When used, the user will leave a portal and be transported into the Distortion R
 
 ## Usage
 
-Pressing "C" will activate the **Distortion Realm** Resonance.
+Pressing C will activate the **Distortion Realm** Resonance.
 
 **Distortion Realm** will transport the user into the Distortion Realm and will leave a lingering portal to allow other players to enter. This cannot be used while in combat. Each step taken in the Distortion Realm equals around five steps taken in the overworld.
 
@@ -46,3 +46,4 @@ If **Distortion Realm** is found to be Corrupted, the Distortion Realm to Etrean
 ## Trivia/Notes
 
 -   Similar to _Naruto_ character Tobi/Obito's, and their Sharingan Ninjutsu "Kamui".
+-   Like [Portal](Portals.md), **Distortion Realm** can be very useful in ambushing others.

@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 17429
+revid: 18082
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ Once used, the user extends their right arm, summoning a weapon from thin air.
 
 ## Usage
 
-Pressing "C" will activate the **Crazy Slots** Resonance and it's unique special skill.
+Pressing C will activate the **Crazy Slots** Resonance and it's unique special skill.
 
 **Crazy Slots** calls forth a randomly chosen weapon that scales with it's respective stat, and has a unique skill when "C" is pressed, with Enchants and curses being transferred onto the pulled weapon.
 
@@ -39,7 +39,7 @@ If **Crazy Slots** is found to be Corrupted, all weapons pulled will gain tremen
 
 #### _Tarnished_
 
-If the owner of **Crazy Slots** is Tarnished, ~one weapon or two will last a decreased amount of time. (I tested this, my medium weapons last a very short amount of time compared to other weapons.~ This is not a part of the tarnished effect. The medium just lasts a lot less time than the other weapons.
+If the owner of **Crazy Slots** is Tarnished, the medium lasts a lot less time than the other weapons.
 
 ## Weapons
 
@@ -93,7 +93,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 
 ## Trivia/Notes
 
--   This bell is VERY overpowered. For example, a non-corrupted version of its spear with 100 medium will do slightly over 1 bar of your health. (This damage was observed with 320 HP)
+-   This bell is VERY overpowered. For example, a non-corrupted version of it's spear with 100 medium will do slightly over 1 bar of your health. (This damage was observed with 320 HP)
 -   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use the abilities, as well as possessing quite high base stats.
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, my friend has a storm enchanted weapon and it shows blue light.)
 -   If your weapon has stars, their effect will also apply to your Crazy Slots weapons.

@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 17983
+revid: 18070
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ On output, the user fires a large, bright beam, similar to Lightning Beam in fro
 
 ## Usage
 
-Pressing "C" will activate the **Jar of Souls** Resonance.
+Pressing C will activate the **Jar of Souls** Resonance.
 
 **Jar of Souls** fires a large white beam in front of the user, dealing damage to those hit by it.
 
