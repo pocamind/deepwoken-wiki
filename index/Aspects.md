@@ -1,14 +1,12 @@
 ---
 title: Aspects
-revid: 17530
+revid: 18149
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
 ---
 
 # Aspects
-
-_icon credit to Tortaa#9000_
 
 Races are categorizations of those who embark in _Deepwoken_. They are randomly selected when first created, and can be re-rolled for 150. All 10 races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improves your character.
 

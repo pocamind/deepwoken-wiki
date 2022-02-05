@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 17640
+revid: 18120
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,103 +8,110 @@ categories: [Pages with broken file links]
 
 # Etris
 
-“ Highest amongst the peaks of the Mountains, a proud Fortress of a city stands against the world itself. ”
+LocationL Etris LocationR
 
-― In-game flavour text.
+TERRITORY OF Etrea
 
-File:Etris.png
+Highest amongst the peaks of the mountain, a proud fortress of a city stands against the world itself.
 
-A view of the center of the city of Etris situated on the island of Etrea in winter.
+  
+Template:Areainfobox
 
-## Contents
+**Etris** is a starting location in _Deepwoken_. It stands as a city and is territory of Etrea.
 
-_Some locations may be unlisted, feel free to add them!_
+## Points of Interest
 
-| Image | Location | Description | Includes |
-| --- | --- | --- | --- |
-|  | Inn | A two-story inn where the player can spawn in. | **Trenti** |
-|  | Blacksmith | A small shop where the player can purchase
-ingredients and armor.
+#### Center of City
 
- | **Caragan**
+-   Polis can be found here, and on first dialogue will give you a Gold Ring.
 
-**Ingredients**
+#### Inn
 
- |
-|  | Mantra | A small shop where the player can purchase
+-   Players can spend to change their spawn-point here.
 
-training gear for their elements.
+#### Bank
 
- | **Training Gear** |
-|  | Weaponry | A small shop where the player can purchaes
+-   Players can find a Banker they can turn found Artifacts in to.
 
-better weapons to upgrade their gear.
+#### Antiquarian
 
- | Iron Spear
+-   Players can find an Antiquarian who will purchase their sellable items.
+-   Players can purchase Ankle Weights (AGI), Boulder (FTD), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) for.
 
-Mace (10 Medium Wep.)
+#### Blacksmith
 
-Stiletto (0 Light Wep.)
+-   Players can find Caragan, a blacksmith, here.
+-   They can almost purchase materials here.
 
-Messer (10 Medium Wep.)
+#### Mantra Shop
 
-Battle Axe
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND) and a [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD) here for.
+-   Above the Mantra Shop, accessible through Weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for.
 
-Steel Maul (10 Strength, 20 Heavy Wep.)
+#### [Weaponry](Weapons.md)
 
-Ritual Spear (35 Medium Wep.)
+-   Players can buy a variety of starter weapons from Astra here:
+    -   Light Weapon users can purchase:
+        -   [Stiletto](Stiletto.md) for.
+        -   Parrying Dagger (requires 10 LHT) for.
+        -   Bullets for Gun users for per.
+    -   Medium Weapon users can purchase:
+        -   [Iron Spear](Iron_Spear.md) for.
+        -   [Messer](Messer.md) (requires 10 MED) for.
+        -   Mace (requires 10 MED) for.
+        -   Ritual Spear (requires 35 MED) for.
+    -   Heavy Weapon users can purchase:
+        -   [Battleaxe](Battleaxe.md) for.
+        -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
+        -   Zheiwander (requires 20 HVY, 10 STR) for.
+    -   Players can purchase a Targe (requires 10 FTD) for.
+    -   On the second floor, players can also purchase the schematic for:
+        -   [Skeptic Pioneer](Skeptic_Pioneer.md) for.
+        -   [Shadow Hunter](Shadow_Hunter.md) for.
+        -   [Experienced Adventurer](Experienced_Adventurer.md) for.
 
-Zweihander (10 Strength, 20 Heavy Wp.)
+#### Guildhouse
 
-Parrying Dagger (10 Light Wep.)
+-   Players can start a Guild when [Power Level](Power.md) 15 by talking to the Guildmaster.
 
-Targe (10 Fortitude)
+#### Bookstore
 
-Bullets
+-   Bookkeeper Andros can be found here.
+-   A permanent campfire can be found here.
+-   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), Encyclopedia (INT) for.
+-   Players can purchase the Math Textbook (INT) for.
 
-Schematics (upstairs)
+#### General Store
 
- |
-| File:The Guildhouse.png | Guildhouse | A small building where the player can found
+-   Players can purchase a Pickaxe (requires STR 1), Lumber Axe, Flint and Fiber for each.
+-   Players can purchase Wood here for each.
 
-guilds if they have the requirements.
+#### Lance's Food
 
- | **Guild creation** |
-| File:Bookstore.png | Bookstore | A small shop where the player can buy books to
+-   Lance Leshi and Ploom can be found here.
+-   Mushroom Omelettes can be purchased on the grill for.
+-   Mushroom Bisque can be purchased for.
+-   Mushroom Omelettes on the table can be purchased for.
+-   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for.
 
-increase attribute values.
+#### Lord Regent's Palace
 
- | **Intelligence Books**
+-   Lord Regent can be found here.
 
-**More**
+#### The Den
 
- |
-|  | General Store | A small shop where the player can buy general
+-   Den Master can be found here.
 
-materials and tools.
+### Etrean Docks
 
- | **Pickaxe**
+#### Mantra Buyer
 
-**Lumber Axe**
+-   Players can find (name) who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
 
-**Materials**
+#### Fishing Shop
 
- |
-| File:LANCELESHI FOOD RESTURANT.png | Lance's Food | A small shop where the player can buy omelettes
-
-and bisques.
-
- | **Food**
-
-**LANCE LESHI** - _Quote from the man himself, Lance._
-
- |
-| File:EtrisPalace.png | Lord Regent's
-
-Palace
-
- | A palace resting on top of the mountain. | **Lord Regent** |
-| File:Den Master.png | The Den | A cave in a small cove | **Den Master** |
+-   Players can purchase fishing materials here:
+    -   Placeholder
 
 ## Quests
 
@@ -119,8 +126,7 @@ Palace
 
 -   Talk to Jim, a Red-Haired Canor located in a house within Etris Docks.
 -   He mutters about lacking the necessary ingredients- Agreeing to help him requires 2 Dying Embers.
--   Reward of completing this quest is a random high tier manta modifier.  
-    
+-   Reward of completing this quest is a random high tier manta modifier.
 
 ### Lumberjack Quest
 
@@ -135,10 +141,6 @@ Palace
 -   Talk to the Navaen Nomad in Etris, located near the big slope ramp close to the Alchemy House.
 -   She'll talk to you about a missing individual, whom they were suppose to meet in Etris. Agreeing to help to find this person accepts the quest.
 -   Any info on how to finish this will be rewarded with 2 Vibrant Gems. Message PrιmΦrdιs#0070 and tell me how to finish it for your reward.
-
-  
-
-  
 
 ### Lord Regent Quest
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 17949
+revid: 18151
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -17,8 +17,6 @@ categories: [Pages with broken file links, Weaponry]
 </table>
 
 File:Weaponicon.png
-
-_icon credit to Tortaa#9000_
 
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
@@ -789,7 +787,7 @@ Weapons that scale with a certain element
   <td>0.8x</td>
 </tr>
 <tr>
-  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
+  <td><a href="Crypt_Blade.md">Crypt Blade</a> (UNOBTAINABLE)</td>
   <td>100 SHD, 10 STR, 45 HVY</td>
   <td>26</td>
   <td>N/A</td>

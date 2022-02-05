@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18047
+revid: 18138
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -131,6 +131,7 @@ Will have an effect upon hitting something.
 <tr>
   <td><figure>File:GrimShatteredEnchant.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p>M1s apply a debuff which gives higher armor penetration, capping out at 100% after 2-3 procs. Does not work on Mantras, or in PvE combat (tested and confirmed).</p>
+  <p>(Needs more testing to confirm if it gives armor penetration to the target or to only the enchanted user.)</p>
   <p><br>
   </p></div></td>
 </tr>

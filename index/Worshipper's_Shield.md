@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 17078
+revid: 18118
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -19,13 +19,13 @@ categories: [Weapons]
 | penetration | N/A |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
-| selling price | N/A |
-| weight | N/A |
+| selling price | 45 notes |
+| weight | 1.85 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Lace's Food shop in Etris |
+| obtainment | Lance's Food shop in Etris |
 | description | N/A |
 
 ## Description

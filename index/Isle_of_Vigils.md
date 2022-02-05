@@ -1,35 +1,78 @@
 ---
 title: Isle of Vigils
-revid: 17638
+revid: 18119
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Isle of Vigils
 
-“ A solemn Sanctuary carved in stone, where warriors hone the dancing steps of War. ”
+LocationL Isle of Vigils LocationR
 
-― In-game flavour text.
+TERRITORY OF Etrea
 
   
+Template:Areainfobox
 
-## Description
+**Isle of Vigils** is a starting location in _Deepwoken_. It acts a settlement and is territory of Etrea.
 
-An Island that houses the Vigil Guard and the Temple of the Blade. One of the two starting islands, it's counterpart being Etris (Starting Island). Unlike its counterpart, the Isle of Vigils also contains a dojo where players can practise fighting with an instructor.  
+## Points of Interest
 
-## Contents
+**Isle of Vigils** houses another location, the "Temple of the Blade", and will be split into two categories:
 
--   Innkeeper
--   Mantra/Library (Located in the Temple of the Blade)
--   Sparring Arena (Located in the Temple of the Blade)
--   Blacksmith
--   [Training Equipment](Training_Gear.md)
--   [Quests](Quests.md)
--   Unoccupied Lodge
+### Isle of Vigils
+
+#### Camp
+
+-   Players can find (name), a spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
+-   Players can find a permanent campfire here.
+
+#### Inn
+
+-   Players can spend here to change their spawn-point.
+
+#### Mantra Shop
+
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears), [Hemafrost](Training_Gear.md#attunement-training-gears), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears), [Gale Kata](Training_Gear.md#attunement-training-gears) and a [Pure Heart](Training_Gear.md#attunement-training-gears) here for.
+-   Players can also purchase two schematics here:
+    -   [Wandering Swordsman](Vigil_Initiate.md) for.
+    -   Placeholder for schematic outside building.
+
+#### Bank & Antiquarian
+
+-   Players can find a Banker who they can turn in artifacts to.
+-   Players can find an Antiquarian who will purchase their sellable items.
+
+#### Mantra Buyer
+
+-   Players will find (name) who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
+
+### Temple of the Blade
+
+#### Courtyard
+
+-   Players can find Stratos, a Vigil who will not talk to you unless you have a [food crate](#lances-brother-quest) or good [reputation](Reputation.md) with Etrea.
+
+#### Bookstore
+
+-   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), Encyclopedia (INT) for.
+-   Players can purchase the Math Textbook (INT) for.
+-   Players can find a [Mantra Table](Mantra_Lectern.md) in here.
+
+#### Blacksmith
+
+-   Players can find (name), a blacksmith, here.
+-   Players can purchase materials here.
+
+#### Sparring Arena
+
+-   Players can find (name), a sparring instructor who will allow you to spar an NPC.
+    -   This NPC will have a random weapon from an Iron Spear, Sword, Battleaxe and Mace.
+    -   This NPC cannot grip you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
+-   Players can also find (training manual quest) and (quiet katana guy) here.
+-   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for.
 
 ## Quests
-
-Main Page: [Quests](Quests.md)
 
 ### Lance's Brother Quest
 
@@ -46,14 +89,12 @@ Main Page: [Quests](Quests.md)
 
 ### A Lost Sibling Quest
 
-_You must have a galestone in order to complete the quest (a glider can also be useful for going down from high heights, just be careful for acid rain as it is common in Upper Erisia and that it can destroy your glider while in the air ) ._
-
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the right corridor room; sitting down sobbing.
 -   He asks you to rescue, or find his sibling in Erisia.
 -   His sibling is found in an Abandoned Wood Lodge in Burning Stone Gardens, near a cliff where the Glowing Trees are.
--   Give the Galestone to the sibling, healing his wounds. He asks you to head back to Isle of Vigils and talk to Kj about his status.
--   Talking to Apprentice Kj after giving the galestone finishes the quest.
--   Rewards of this quest allows you to talk to Maestro, an NPC to unbound/uncap your Weapon Proficiencies, if their 75.
+-   Equip a Gale Stone to give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.
+-   Talking to Apprentice Kj after giving the Gale Stone finishes the quest.
+-   This quest will allow you to obtain [Weaponry Unbound](Attributes_Unbound.md).
 
 ### Lumberjack Quest
 
@@ -81,9 +122,3 @@ _You must have a galestone in order to complete the quest (a glider can also be 
 -   Lance's Brother will say that his own mother doesn't know his name and if you talk to Lance on Etris he will say he doesn't have a brother
 -   If you drop the food crate while running, You will get stuck in the box until you pick it back up.
     -   If you do this after jumping off of a short ledge (ex. the table that Lance's brother stands behind) before doing this, you can fly.
-
-Joining the vigils:
-
-~Though it is unknown how, many people have found out how to talk to Stratos and be possibly trained by him. I personally have talked to Stratos with 100 medium weapon, decent rep, high gale breathe and decent willpower. Stratos said that I needed to "feel the essence of the wind". Implying to join / be trained by the vigils, there is a gale breathe requirement of above 75, a possible rep and medium weapon requirement.~
-
-Stratos will talk to you upon acquiring decent reputation, without any (currently notable) stat requirements. On the other hand, the "feel the essence of the wind" dialogue is currently the furthest I have seen reached (requirements currently unknown).

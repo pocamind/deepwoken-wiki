@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 17596
+revid: 18125
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -33,4 +33,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Player notes here
+-   Worn by [The Ferryman](The_Ferryman.md)
+-   Does not give you any abilities used by [Ferryman](The_Ferryman.md), nor does it affect your [thundercall](Thundercall.md) mantras.

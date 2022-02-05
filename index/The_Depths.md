@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 18066
+revid: 18091
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -109,7 +109,8 @@ stat)
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.
--   ²: ~Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.~ The enforcer spawning at such levels is most likely due to the drowned stat affecting what is spawned.  
+-   ²: ~Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.~ The enforcer spawning at such levels is most likely due to the drowned stat affecting what is spawned.
+-   Some people don’t understand how the drowned stat works but I’ll explain it quickly. The drowned stat means how many times a character has drowned. If you have drowned once before, 1 level will be added to **your trial.** So, if you’re level 28 and have escaped the depths once before, the trial sees you as level 29 and will spawn a Megalodaunt instead of a Lesser Angel.  
     
 
 ## Farming in The Depths

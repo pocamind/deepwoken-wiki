@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 17696
+revid: 18136
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,7 @@ As with all areas in the hive, Starswept Valley gives good mid-high tier loot. B
 -   Legion Centaurion
 -   Legion Cestus(0-1 star)
 -   Tanto(0-1 star)
--   Champion's Sword(0-1 star)
+-   Champion's Sword(0-2 star)
 -   Darksteel Greatsword
 -   Royal Pathfinder
 -   Star Duster
