@@ -1,9 +1,8 @@
 ---
 title: Etris
-revid: 18120
+revid: 18193
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Etris
@@ -102,6 +101,11 @@ Template:Areainfobox
 
 -   Den Master can be found here.
 
+#### Alchemist's Lodge
+
+-   Nell, a spelltrainer that can upgrade [Frostdraw](Frostdraw.md) Mantras, can be found here.
+-   A functional cauldron can be found here.
+
 ### Etrean Docks
 
 #### Mantra Buyer
@@ -144,18 +148,12 @@ Template:Areainfobox
 
 ### Lord Regent Quest
 
-Audience with the Lord Regent
-
-This is how the Lord Regent executes you if your reputation isn't high enough.
-
 Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
 
 -   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
-
-Kennith's corpse accompanied by a King's Guard
 
 -   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
 
@@ -173,16 +171,12 @@ Kennith's corpse accompanied by a King's Guard
 
 ### Diver Escort Quest
 
-_"She's mentally unstable? ZAAMN!!!" - Unknown Felinor_
+To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 
-Kalilah getting her ass kicked by a Mudskipper.
-
-  
-
--   To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
-    -   You can make a Charisma Check on Karliah to give you 20 Notes. (Requires 10 charisma)
--   Save her from the Mudskipper that is attacking her. ~After doing so, you need 40 Charisma to succeed on all the Charisma Checks.~ _**Tested, it's 50 charisma for the third option and I think 20 for the second one.**_
+    -   You must have Charisma 20 to charge Karliah.
+-   Save her from the Mudskipper that is attacking her.
+-   Interact with her.
 
 #### Ending 1: Promise Broken
 
@@ -190,10 +184,6 @@ _"Don't be scared. I promise I'll protect you no matter what."_
 
 -   By choosing to continue the escort, Karliah will enter the cave and almost immediately get attacked by leeches and explode.
 -   There is no reward for this ending. (The four leeches on the ground can be seen beforehand but cannot be attacked or killed, neither before or during the attack. This route is meant only as some twisted humorous ending.)
-
-Kalilah, eaten alive by Isopods.
-
-  
 
 #### Ending 2: Eyes Wide Open
 
@@ -203,10 +193,6 @@ _"You've been through alot- Maybe you should go home and study on your own for a
 -   She greets you with a friendly tone, and talks about her studies. Her eyes to the truth of the world was revealed due to the studies you ask her to.
 -   There is no way to save her, as the only option is to put her down; snapping her neck from behind.
 -   The reward from this ending is a fistful of EXP, and a shiver down your spine.
-
-Yandere??
-
-  
 
 #### Ending 3: Snap Back to Reality
 
@@ -218,15 +204,7 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 -   Requires 50 Charisma \[Confirmed by SkipperFalconeer, If you don't have enough and try to get the 3rd ending anyway, You won't be able to try again. Keep this in mind before trying out to this.\]
 -   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.
 
-  
-
-  
-
-  
-
-  
-
-## Special Quests
+## Side Quests
 
 ### Flamecharmer Ploom Quest
 
@@ -249,35 +227,21 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 
 ### Navaen Tribe Rescue Quest
 
--   Talk to the Eastern Camp Master in the encampment, near the City. (Optional)
+-   Talk to the Eastern Camp Master in the encampment, near the City.
     -   He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).
 
--   Find and rescue a Navaen Tribe Member in Erisia Island in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn. (Be ready to fight guards if you have bad reputation with Fort Merit Guards and Lionfish as you will have to sail through Aratel Sea.)
--   Upon finding a Navaen Tribe Member, head back to the Camp Master and recieve your Reward. (**Reward can only be collected if you are non hostile with the navae tribe if you are a declared enemy of navae the master will tell you to go away.)**
--   The Reward for this Quest is the "Way of Navae" Fist Stance and Talent. In addition, unlocks a new dialogue option from Polis.
--   If you know that you want fist style from the beginning you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, as the spawn chances for the Nomads seem to be higher than in Erisia as a random encounter.  
+-   Find and rescue a Navaen tribe member either in [Erisia](Erisia.md) in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn.
+    -   Knocking a Navaen Nomad in [Summer Isle](Summer_Isle.md), or any other location, and turning them in will not work for this quest.
+-   Upon finding a Navaen tribe member, head back to the camp master and receive your reward.
+-   The reward for this quest is the "Way of Navae" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis.
+-   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
 
 ## Notes/Trivia
 
 -   In the Lord Regent Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
--   After talking to the Bookworm in the Lord Regent Quest, the Royal Guards do not kill on sight if you trespass within the Palace. ~It is unknown if the Lord Regent too, doesn't kill you on sight also.~ If you are not requested to an audience with the Lord Regent, he will instakill you when you enter his room. Be sure that you complete the steps above and double check with the guards.
--   In the Apprentice Blacksmith Quest, the discount works on Materials inside the Blacksmith as intended, its just that you are looking at the original price.
--   Etrea is the island. Etris is the city.
+-   After talking to the Bookworm in the Lord Regent Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
+    -   If you are not requested to an audience with the Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
+-   The discount from the Apprentice Quest does not appear until you start purchasing materials.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
--   In Ending 2 of Karlilah's Quest, ~she must've read something about [The Depths](The_Depths.md), and went too far deep into it.~ Nah, she realized she can't even kill a mudskipper, and decided to study how to kill
--   For the Navaen Tribe Rescue Quest, it is probable that you can "kidnap" any member of the Navaen Tribe other than finding one in Erisia Island. Such places to find Navaen Tribesmen is commonly in [Summer Isle](Summer_Isle.md).
--   **Etris guards can drop the Notes of players they have killed on death (needs further testing).**
--   You can skip being killed by Lord Regent by not talking to him completely and instead killing the duke. If your attunement is already at 75, it will immediately uncap.
-
-File:Ezgif.com-gif-maker(6)(1).mp4
-
-A player getting ~2000 Notes for gripping a guard that seemed to be in a fight beforehand
-
-Successful Flamecharmer Check
-
-  
-
-File:Kennith dead2.png
-
-Kennith's mutilated body, hung against the wall. Royal Guard stands next to his remains.
+-   **Etris guards can drop the Notes of players they have killed on death.**

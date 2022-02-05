@@ -1,8 +1,9 @@
 ---
 title: Upper Erisia
-revid: 18122
+revid: 18203
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Upper Erisia
@@ -13,11 +14,15 @@ A land lost to time, now made a battlefield for warriors who know not why they f
 
   
 
-**Upper Erisia** is a location in _Deepwoken_. It is one half of Erisia and has no territory.
+**Upper Erisia** is a location in _Deepwoken_. It is one half of Erisia and owned by no faction.
+
+## Overview
+
+Upper Erisia is home to many sub-locations and is home to a variety of NPCs and Monsters.
 
 ## Points of Interest
 
-#### Burning Stone Gardens
+#### [Burning Stone Gardens](Burning_Stone_Gardens.md)
 
 -   Monsters like [Megalodaunts](Megalodaunt.md), [Rock Golems](Rock_Golem.md) and [Terrapods](Terrapod.md) can be found here.
 

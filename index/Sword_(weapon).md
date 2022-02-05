@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 16241
+revid: 18210
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,4 +28,4 @@ categories: [Weapons]
 
 ## Description
 
-The Sword is what medium weapon users start with beginning the game with a base damage of 10. This weapon can be obtained by starting with it by either choosing medium weapon or buying it from the Etris store.
+The Sword is what medium weapon users start with beginning the game with a base damage of 18. This weapon can be obtained by starting with it by either choosing medium weapon or buying it from the Etris store.

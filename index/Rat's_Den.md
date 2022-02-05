@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 9702
+revid: 18204
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Rat's Den, otherwise known as the _Golden Rat_ by both NPCs and the developers of the game, is a building found within the Burning Stone Gardens on Erisia Island. The building itself has two floors: the ground floor and the basement. The basement is the area known as the Rat's Den and is the area where the location's name will appear on screen.
+The Rat's Den, otherwise known as the _Golden Rat_ by both NPCs and the developers of the game, is a building found within the [Burning Stone Gardens](Burning_Stone_Gardens.md) on Erisia Island. The building itself has two floors: the ground floor and the basement. The basement is the area known as the Rat's Den and is the area where the location's name will appear on screen.
 
 The Golden Rat Bouncer
 

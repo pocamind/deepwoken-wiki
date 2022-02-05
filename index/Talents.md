@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18037
+revid: 18186
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]

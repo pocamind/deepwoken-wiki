@@ -1,9 +1,9 @@
 ---
 title: Locations
-revid: 18067
+revid: 18180
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, World]
 ---
 
 # Locations
@@ -46,7 +46,7 @@ Lower Erisia
     -   The Hidden Village
 -   The Temple of the Forgotten Flame
     -   The Courtyard
--   The Garden Reservoir
+-   [The Garden Reservoir](The_Garden_Reservoir.md)
     -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
     -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
         -   [Rat's Den](<Rat's_Den.md>)

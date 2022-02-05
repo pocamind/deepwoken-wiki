@@ -1,28 +1,27 @@
 ---
 title: The Birdcage
-revid: 18123
+revid: 18175
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attributes, Character]
+categories: [Locations]
 ---
 
 # The Birdcage
 
 LocationL The Birdcage LocationR
 
+Now abandoned, the floors still void of the ashes they so desperately crave.
+
   
-  
+**The Birdcage** is a location found in _Deepwoken_. It is a landmark found in [Upper Erisia](Upper_Erisia.md) and is not owned by a faction.
 
-## Description
+## Overview
 
-All 4 fires lit in the Birdcage
+The Birdcage resembles a lighthouse-like structure. It is on the other side of the island behind the Temple of Forgotten Flame.
 
-File:Birdcage 1.png
+Inside the Birdcage, there are four firepits that can only be lit with a Soul Hearthgem. You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
 
-Outside of Birdcage
+-   Using the second picture in gallery as reference; you must light the left firepit, then the bottom firepit, then the top firepit and finally the right firepit.
+-   Failing to light these in a character order will fling your character and drain you of your Ether. The firepits will be reset.
 
-A lighthouse-like structure in [Upper Erisia](Upper_Erisia.md), it is on the other side of the island behind the Temple of Forgotten Flame (if you are looking at its front). Inside the Birdcage, there are four firepits that can only be lit with Soul Hearthgem.(they are permanent items) You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order. Failing to light in the correct order will fling your character, drain it of its ether, and reset all the flames. Based on the picture below, the lighting order is (probably need to correct later) left, bottom, top, right. Doing this will unlock a door to the Legionaire Cave in the ruins below (take the zipline nearby) Inside the Legionaire Cave there are blue mushrooms on the wall. Eating it will break the limit for intelligence.
-
-Taken from the front entrance. Reference for lighting order (above)
-
-Interior of Birdcage during the day
+Lighting these firepits will allow you to enter the _Legionaire Cave_, where you can obtain [Intelligence Unbound](Attributes_Unbound.md).

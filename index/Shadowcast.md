@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 17233
+revid: 18205
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -242,7 +242,7 @@ Common
 
 > Darksiphon
 
- | Common | Exta ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+ | Common | Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
 
 \+ 3 Elemental Intensity
 
