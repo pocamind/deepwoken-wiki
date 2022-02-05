@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 18091
+revid: 18274
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -11,63 +11,49 @@ categories: [Pages with broken file links, Death, Mantras, Locations]
 | The Depths | |
 |---|---|
 
+LocationL The Depths LocationR
+
+  
+
+  
+
 “ You feel the Depths coil around your soul like a knot. ”
 
 ― In-combat flavour text.
 
 _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again._
 
-**Remember boys, watch yo tone in this place.**
-
-## Landmarks
-
-File:Depth Marauder Base.png
-
-_Depth Marauder Base? (Need clarification of what it is._
-
-**Depth Marauder Base**
-
-Near the Coral Forest, at the end of some pillars that jut out from the murky blackness below. There's a Resonance door at the end of the entrance hallway.
-
-**(We need some help finding out what this place is because we're too weak to get progression for a resonance, if someone can get behind the Yun'shul door and figure out what's behind it, it would be appreciated.)**
-
-Inside of the Yun'Shul door, there is simply nothing. When I resonated with the door, it was a brick wall.
-
-here's where it is on a map (be careful as the parkour is easy but the void is 2 inches from where you land so be careful). There are ways on entering Resonance doors without using a resonance such as using mantras that destroy the environment like Lightning Beam and your weapon imbued with ~Lightning Blade.~
-
-File:800 cb=20220113102951(1).png
-
 ## Layers of the Depths
 
-After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. This could also be a reference to the anime "Made in Abyss" in which there are many layers in a pit that goes deep into the earth with increasing dangers as one delves down. Though as of now, we don't have any layers until a future update about them is released.
+After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released.
 
-Further information on the Layers of the Depths is that Pleetsky, renowned Flamecharmer and Depth Diver was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace from the face of the planet, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
+Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
 ## Escaping The Depths
 
 File:Mnhfds8goqa81.png
 
-There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate, or climb the wall to drop down into the bastion from above.
+There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
 
-### _The Bells_
+### _Bells_
 
 File:Citymap.png
 
 Rough map of the City of the Drowned
 
-The City of the Drowned is split into 6 sections. 4 of them have a bell, and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Unrung bells can be found by following a humming/shimerring sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
+The City of the Drowned is split into 6 sections. 4 of them have a bell, and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimerring sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
-Once all bells have been rung, a large bell choir will be heard across The Depths, signalling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
 ### _Climbing the Walls_
 
 File:Scuffed map Depths.png
 
-Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of each other to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
+Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of each other to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
 
 This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you.
 
-### **_Easiest method to reach the bastion_**
+### **_Barrels_**
 
 **100% guaranteed escape within 3 minutes (trial isn't counted)**
 
@@ -79,7 +65,7 @@ If the entrance you're going through does not resemble the one like in the video
 
 If the gate is closed, log. Most servers already have opened gates
 
-The method **requires no encounters with watchers and squid-hoss.**
+The method **requires no encounters with Watchers**
 
 **Disclaimer: There is no guarantee that there will be no hostile players while using this method, so do at your own risk.**
 
@@ -110,7 +96,8 @@ stat)
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.
 -   ²: ~Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.~ The enforcer spawning at such levels is most likely due to the drowned stat affecting what is spawned.
--   Some people don’t understand how the drowned stat works but I’ll explain it quickly. The drowned stat means how many times a character has drowned. If you have drowned once before, 1 level will be added to **your trial.** So, if you’re level 28 and have escaped the depths once before, the trial sees you as level 29 and will spawn a Megalodaunt instead of a Lesser Angel.  
+-   Some people don’t understand how the drowned stat works but I’ll explain it quickly. The drowned stat means how many times a character has drowned. If you have drowned once before, 1 level will be added to **your trial.** So, if you’re level 28 and have escaped the depths once before, the trial sees you as level 29 and will spawn a Megalodaunt instead of a Lesser Angel.
+-   If you log while in the trial(if you arent in combat) you will simply get teleported back to your depths spawnpoint(where you spawned in when you first came to the depths)  
     
 
 ## Farming in The Depths
@@ -149,7 +136,7 @@ Just a bag of information to keep in mind and remember
 
 ### Finding Morning
 
--   An NPC named Raphael asks to find someone on the surface world named "Morning", and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150-200 year old dead person supposed to remember what someone alive looks like?". (More information needed)
+-   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (More information needed)
 
 ### Joining The Divers
 
@@ -220,7 +207,7 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 <tr>
   <td>Pale Assassin Cloak</td>
   <td>[Pale, Crimson, Gold] Assassin Hood</td>
-  <td>Diver Apprentence</td>
+  <td>Diver Apprentice</td>
   <td>Legate Helm</td>
 </tr>
 </tbody>
@@ -228,19 +215,18 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 
 ## Trivia
 
--   It is possible to gain luck by killing players or enhanced [monsters](Monsters.md) in the depths.
--   [Resonance](Resonance.md)/bells can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
--   You can use 5 Umbral Obsidian to gain Shadowcast by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
+-   It is possible to gain luck by killing players or enhanced [Monsters](Monsters.md) in the depths.
+-   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
+-   You can use 5 Umbral Obsidian to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
 -   Staying in the depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
--   A easy way to get out of the depths known as the barrel method is commonly used to surface. Example-[here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-
--   The trial voices are not gods. This has been debunked. (?)
+-   An easy way to get out of the depths known as the barrel method is commonly used to surface. Example- [here](https://www.youtube.com/watch?v=xJdIeGEklFM)\-
 
 ## Tips
 
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be sufficient. Learning the ways of vanquishing each and every of The Depth's monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
--   If you see a group of high level people, log. Your chances of not combat logging are better than your chances of not getting gripped underwater.
+-   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped underwater.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
--   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void, and knock other people in it if you are caught up in a fight.
+-   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
 -   Ringing the bells (not corrupted bells) in the drowned city will restore some of your hp, equivalent to that of knocking an npc or monster around your power.
 -   Diver camps have lockers that act as "campfires" although you can't heal, nor use it to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral rep with the Divers.

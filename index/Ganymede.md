@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 17985
+revid: 18251
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -47,9 +47,9 @@ Template:Races-Main
 
   
 
-To be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have very similar last names. Theory: Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above the water and the Ganymede's going into the depths. This would fit with the lore of the game and explain why they can be cousins, along with the vesperians having the same cross eyes underneath their masks that Ganymedes can have
+To be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have very similar last names.
 
-It just overweight snail
+Theory: Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above the water and the Ganymede's going into the depths. This would fit with the lore of the game and explain why they can be cousins, along with the vesperians having the same cross eyes underneath their masks that Ganymedes can have.
 
 **Strengths:**
 
@@ -77,6 +77,7 @@ Insanity Resistance
 -   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
 -   Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPC's that are found at the Aratel Island possess Flamecharm magic.
--   Most likely the snail inspired race.
--   Vesperian and Ganymede ancestors could be a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) as they resembles greatly to their predecessor
+-   Maybe this race is inspired by snails.
+-   Maybe this race is inspired by insects (The ancestors of the Ganymedes could be a [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
+-   Vesperian and Ganymede ancestors could be a [Primal Vesperian](Primal_Vesperian.md) as they resembles greatly to their predecessor.
 -   One of the most valuable traits of a Ganymede is the invulnerability to insanity, therefore you don't need to exit the depths when grinding to reset insanity.

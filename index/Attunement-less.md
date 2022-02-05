@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 18064
+revid: 18242
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,9 +38,11 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Rally** - Strike your shield a few times to absorb some of the posture received by your allies.
     -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
--   **Reinforce** - Buff those around you with extra defense. Reduces incoming damage and greatly reduces armor damage. (_may completely reduce armor damage, needs more testing)_
+-   **Reinforce** - Buff those around you with extra defense. Reduces incoming damage and completely reduces armor damage.
     -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
-    -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person\[the actual description says otherwise\]) for every player/NPC buffed._
+    -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
+    -   _Can be upgraded with the "Blood Shadow" talent card, which saps health from people you reinforced until the effect wears off._
+    -   _Can be upgraded with the "Grand Support" talent card, which slightly heals people upon reinforcing. (the user included)_
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour. Prevents your attacks/mantras from getting cancelled.
     -   Requirements: 75 Fortitude, _Fortitude Support Mantra_  
@@ -53,7 +55,7 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
 -   **Dash** - An agile dash, sends the user a considerable distance forward.
     -   Requirement: 12 Agility, _Agility Mobility Mantra_
 
--   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed and parkour.
+-   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed and parkour abilities.
     -   Requirement: 20 Agility, _Agility Support Mantra_
 
 -   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Teleports the user a considerable distance forward. Damage significantly increases as the user loses health. Reduces all fall damage if timed correctly.
@@ -80,19 +82,18 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
     -   Requirement: 40 Willpower, _Willpower Combat Mantra_
--   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned. Requirement: Unknown amount of Willpower, Willpower support Mantra.
-    -   Around the same as Gaze
-    -   Don't delete this: whoever keeps putting this as charisma it's not. Random willpower mantra gives Glare.
+-   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned.
+    -   Requirement: ~5 Willpower, _Willpower Support Mantra._
+    -   (F_or some reason it scales off with charisma, I went to the trainer and it told me it could upgrade it, despite not meeting the requirements of 20+ willpower to upgrade but having 20+ charisma. weird stuff_)
 
 ### _**Charisma Mantras**_
 
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends'.
 
--   **Sing** - _Charm_ those around you with your powerful voice.
-
-Requirement: 25 Charisma, _Charisma Support Mantra_
-
 -   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
+    -   Requirement: 25 Charisma, _Charisma Support Mantra_
+
+-   **Sing** - _Charm_ those around you with your powerful voice.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 ## Weapon Mantras
@@ -100,8 +101,6 @@ Requirement: 25 Charisma, _Charisma Support Mantra_
 -   These mantras are based on the amount of weapons points you have, not your attribute or attunement.
 -   Their damage scales with the amount of weapon points you have.
 -   Read a 'Weapon Manual' in order to improve your damage with these mantras.
-
-**It is currently unknown what specific requirement is needed to get these mantras. (However, it is guaranteed you can get these early power level if going Attunement-less.)**
 
 ### _**Light Weapon Mantras**_
 
@@ -125,7 +124,7 @@ The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_
 1.  The user must have a good reputation with Hive.
 2.  Must be able to use the wells to travel to the Greathive Aratel.
 3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms.
-    -   All of the Soulblooms can be found at the top of the tree.
+    -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
     -   2 of them are located in the blacksmith's area.
     -   1 is located outside of the observatory.
 
@@ -142,9 +141,11 @@ For example:
 ## Tips/Trivia
 
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
+-   You can increase the distance travelled of dashes with Drift Shard and Rush Shards.
 -   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
--   The only agility mantra that scales with your health is Strong Leap, ~we don't know why.~ It's to prevent runners. And while you may be saying "shouldn't the agility ones get a drawback too?", then again, that's what agility is useful for. That's the reason why there is a talent card that removes the speed penality when low, and one that lets you heal while running.
+-   The only agility mantra that scales with your health is Strong Leap, it's to prevent runners. And while you may be saying "shouldn't the agility ones get a drawback too?", then again, that's what agility is useful for. That's the reason why there is a talent card that removes the speed penality when low, and one that lets you heal while running.
 -   Charisma mantras are a very good choice for gunslinger related builds.
 
 1.  Rapid Punches is the single Attunement-less 1 Star mantra.
-2.  Exhaustion Strike is glorified spit.
+2.  Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
+3.  Exhaustion Strike is glorified spit.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18230
+revid: 18255
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -592,7 +592,6 @@ Prerequisite: Willpower 5~
 -   Cap Artist \[Generic Talent, Common Talent\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Generic Talent, Common Talent\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
--   ~NOTE: No confirmation on Another Man's Trash. This talent was posted by a user who made this his only edit + there is no visual evidence that this actually exists. Make your joke builds with caution or you might be wasting a lot of time.~ I have proof of its existence just go to the comments
 
 ### Thunder Brawler
 

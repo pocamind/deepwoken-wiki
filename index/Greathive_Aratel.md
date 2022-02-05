@@ -1,12 +1,21 @@
 ---
 title: Greathive Aratel
-revid: 17426
+revid: 18267
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
 ---
 
 # Greathive Aratel
+
+LocationL Greathive Aratel LocationR
+
+TERRITORY OF The Hive
+
+The stirring of life of all kinds fills the air as you enter the shade of the canopy.
+
+  
+Template:Areainfobox
 
 ## Entry
 
@@ -17,7 +26,7 @@ To get access to Greathive Aratel there is some requirements you need to meet fi
 
 ## Description
 
-Template:AreainfoboxThis place is quite literally a glorified tree house.
+This place is quite literally a glorified tree house.
 
 The tree house is split up into 4 floors, from bottom to top:
 
@@ -96,17 +105,11 @@ Obtaining max reputation in Greathive Aratel will allow you to talk to the Shipw
 
 ## Extra
 
-There are green [fountains](Fountain_Gates.md) around the Hive that you can invoke. They are used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). In the entrance, the left well goes to [Summer Isle](Summer_Isle.md), the middle well goes back to the [Lordsgrove](The_Starswept_Valley.md), and the right well goes to [Upper Erisia](Upper_Erisia.md).
+There are green [fountains](Fountain_Gates.md) around the Hive that you can invoke, used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). The left well goes to [Summer Isle](Summer_Isle.md), the Middle to [Lordsgrove](The_Starswept_Valley.md), and the right to [Upper Erisia](Upper_Erisia.md).
 
 **Shipwright Information**
 
-The Shipwright has a second dialogue when you speak to him. You need High Reputation to speak to him. He talks about ship modification, which is potentially an upcoming or undiscovered feature: "What's so special about your ships?" "\*The Shipwright raises their hand, green lines of light swirling like vines around it.\* It's what makes the Hive itself special. I'm able to Liveweave modifications into your ship."
-
-File:Portals.png
-
-The portal locations.
-
-Additionally, if you speak to the Shipwright with High Reputation and ask for a boat, he says "You? Hah. There is no weight to your name." In order to actually make a boat, you need max reputation at Hive.
+If you have high reputation, the shipwright talks about ship modification, which is potentially an upcoming or undiscovered feature: "\*The Shipwright raises their hand, green lines of light swirling like vines around it.\* It's what makes the Hive itself special. I'm able to Lifeweave modifications into your ship."
 
 ## Trivia
 
@@ -120,4 +123,5 @@ Additionally, if you speak to the Shipwright with High Reputation and ask for a 
 -   In order to summon boats here you need [positive reputation](Reputation.md).
 -   There is a secret room located within the Hive Laboratory behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
 -   Certain spots of the Hive have been spotted to be "Rotting" away. Creatures of the depths, such as Megalodaunts and Lionfish can be spotted near these areas. It is possible Greathive is sinking, although it is unlikely as (according to Regek) the four Greathives were created to sustain a world above the tides.
--   In front of the blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
+-   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
+-   In order to actually make a boat, you need max reputation at Hive.

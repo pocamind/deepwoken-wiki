@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 17612
+revid: 18252
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -299,7 +299,7 @@ _**Negative**_
 
 -   2-3x Bamboo Bundle
 
- | _**Negitive**_
+ | _**Negative**_
 
 -   Removes Reservoir
 

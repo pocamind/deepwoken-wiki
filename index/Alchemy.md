@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 15345
+revid: 18258
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,6 +14,8 @@ The Crafting Recipes & Alchemy page contains some simple potion recipes, though 
 A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and some of the potion effects. Some of the information is incorrect, though it's mostly accurate, and a useful tool for inferring the exact effects of ingredients.
 
 Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/File:Alchemy_Guide_Jan_10th.pdf) (updated as of 1/10/2022) which has slightly different information than what is listed here. You can also check that out.
+
+You cannot brew any [Attunement](Attunements.md) potions, but instead you will have to complete a quest given by the respective [Trainer](Attunement_Trainers.md) in order to obtain one.
 
 ## Basics
 

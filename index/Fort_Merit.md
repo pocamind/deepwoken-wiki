@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 16101
+revid: 18265
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,9 +8,18 @@ categories: [Pages with broken file links]
 
 # Fort Merit
 
+LocationL Fort Merit LocationR
+
+TERRITORY OF The Adretian Authority
+
+Once a prison at the edge of Etrean influence, now a forward base for the Authority.
+
+  
+Template:Areainfobox
+
 ## Description
 
-Template:AreainfoboxFort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them.
+Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them.
 
 It has every necessary npcs other populated islands have, excluding the lumberjack quest and including a rescue quest.
 

@@ -1,11 +1,17 @@
 ---
 title: Lower Erisia
-revid: 17080
+revid: 18261
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Lower Erisia
+
+LocationL Lower Erisia LocationR
+
+A land lost to time, now made a battleground for warriors who know not why they fight.
+
+  
 
 ### The Oresfall of Deepwoken
 

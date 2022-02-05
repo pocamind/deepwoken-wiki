@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 18215
+revid: 18263
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,15 +8,16 @@ categories: [Pages with broken file links]
 
 # Summer Isle
 
-“ The smell of gunpowder blankets this tropical paradise. ”
+LocationL Summer Isle LocationR
 
-― Summer Isle Flavour Text
+TERRITORY OF The Summer Company
+
+The smell of gunpowder blankets this tropical paradise.
 
   
+Template:Areainfobox
 
 The Summer Isle is an island in the Aratel Sea. It is the only currently known area where there is access to firearms and a Hunter's Brace.
-
-File:RobloxScreenShot20211227 093118226.png
 
 ## Island Contents
 
@@ -27,8 +28,7 @@ Main Article - [Weaponry](Weapons.md)
 Its main attractions are the guns, which can be found inside the main building of the island. There is a gunsmith who sells a variety of firearms that are on sale at the prices of -
 
 -   [Flintlocks](Flintlock.md) - 100 Notes
--   Revolvers - 200 Notes
--   Dragoons - 500 Notes.
+-   Revolvers - 200 Note
 
 Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks, and ammunition for these guns can be bought from the nearby Con for 5 notes each.
 

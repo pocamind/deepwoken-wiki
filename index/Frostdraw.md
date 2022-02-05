@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 17675
+revid: 18269
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -173,6 +173,8 @@ These mantras have no prequisites.
 
 -   _Can only be used in or on top of water._
 -   Leaves ice where the Mantra is casted.
+
+(Frequently doesn't work even in water)
 
  |
 
