@@ -1,6 +1,6 @@
 ---
 title: Mushroom Soup
-revid: 17697
+revid: 18228
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Food]
 
 ## Description
 
-Template:Food Template V1Mushroom Soup is a food item present in the game, which can be bought from Lance's Food or crafted at a campfire.
+Template:Food Template V1Mushroom Soup is a food item present in the game, which can be bought from Lance's Food or crafted at a campfire. You can only hold 10 Mushroom Soups at a time without any talents that boost your food capacity, if you decide to craft any more of them, the mushrooms will be used, but not made into soup.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18186
+revid: 18230
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -156,7 +156,6 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
 -   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
--   Acrobat \[Generic Talent, Common Talent\] - Move faster when doing a Walljump. (+1 Passive Agility)
 -   Risky Moves \[Generic Talent, Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
 -   Steady Nerves \[Generic Talent, Common Talent\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
 

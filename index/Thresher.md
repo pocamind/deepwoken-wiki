@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 17026
+revid: 18238
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -37,9 +37,9 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range, and can be easily kited.
     
 
-**King Thresher:**
+**Big Mooma:**
 
-# King Thresher
+# Big Mooma
 
 _Also known as Big Mom, Big Croc, Dilf Mom and many other names_
 

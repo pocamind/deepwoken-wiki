@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 18125
+revid: 18218
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -35,3 +35,5 @@ This Outfit's Schematic can be found in:
 
 -   Worn by [The Ferryman](The_Ferryman.md)
 -   Does not give you any abilities used by [Ferryman](The_Ferryman.md), nor does it affect your [thundercall](Thundercall.md) mantras.
+-   Shirt Link: [https://www.roblox.com/catalog/5825770743/Night-Walker](https://www.roblox.com/catalog/5825770743/Night-Walker)
+-   Pants Link: [https://www.roblox.com/catalog/5807965620/Night-Walker-Pants](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)

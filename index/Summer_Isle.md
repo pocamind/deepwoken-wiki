@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 17725
+revid: 18215
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -83,7 +83,7 @@ Some food items can be found, in addition to at least 1 treasure chest. In the t
 
 Main Faction - [Summer Company](The_Summer_Company.md)
 
-There are guards on this island that wield flintlocks, and some nomads on the outskirts. There is also an event in which the guards are fighting what seems to be the Ignition Union (They are wearing Ignition Union armor) Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. There is an npc reading a book on a bridge near the castle, which you can access by climbing down a ladder and following a path, this NPC clears your reputation. Necromancers will rarely spawn here aswell and will most of the time fight the guards.
+There are guards on this island that wield flintlocks, and some nomads that can spawn fighting a Ministry member (the shadow mantra guys) on the outskirts. There is two more events, where the Summer guards are either fighting Bandits or Ignition Union Members (They are wearing Ignition Union armor). Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. There is an npc reading a book on a bridge near the castle, which you can access by climbing down a ladder and following a path, this NPC clears your reputation.
 
 ## Quests
 

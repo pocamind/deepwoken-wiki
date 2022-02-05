@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 18211
+revid: 18212
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -50,7 +50,7 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 
 ### Finisher
 
-**Head Crush -** someone please put the real finisher(idk it) I doubt he sits on them with his "juicy thighs"  
+**Head Crush -** The Duke can instantly grip you with his shockwave attack  
 
 ### Rewards
 

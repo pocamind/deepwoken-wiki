@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 17944
+revid: 18219
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
@@ -259,10 +259,10 @@ File:Image 2021-12-31 211633.png
 
 Spring Spark
 
- | Spring Spark | Crystal Impale
+ | Spring Spark | Ice Spikes
 
   
-Ice lasers
+Ice Beam
 
  | Applies "Fire Trap" to compatible Mantra. |
 | 
