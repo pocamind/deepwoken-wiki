@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18382
+revid: 18397
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -288,7 +288,7 @@ Prerequisite: Reinforce(?)
 ### The Emperor's Blade
 
 -   Emperor Flame \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
--   Mirage Clone \[Generic Talent(?), Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.
+-   Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
 -   Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
 
 ### Flame Dancer
@@ -912,7 +912,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Gunslinger
 
--   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Obtained by wearing the Summer Company Uniform)
+-   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (+2 Ether, +8 Reservoir, +3 Health) (Obtained by wearing the Summer Company Uniform)
 
 ### Darksteel Plate
 
