@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 18180
+revid: 18281
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -43,8 +43,8 @@ Lower Erisia
 -   Viper's Jaw
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
-    -   The Hidden Village
--   The Temple of the Forgotten Flame
+    -   [The Hidden Village](The_Hidden_Village.md)
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
     -   The Courtyard
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
     -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)

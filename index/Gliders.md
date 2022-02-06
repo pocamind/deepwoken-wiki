@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 15741
+revid: 18300
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 | Gliders | |
 |---|---|
-| usage | Allows the user to glide across long distances. |
+| usage | Allows the user to become EDP445. |
 | recipe | x2 Stick, x2 Cloth, x2 Stick, x2 Megalodaunt Hide |
 
 ## Description

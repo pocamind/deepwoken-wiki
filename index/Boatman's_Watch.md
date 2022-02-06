@@ -1,14 +1,12 @@
 ---
 title: "Boatman's Watch"
-revid: 17929
+revid: 18292
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
 ---
 
 # Boatman's Watch
-
-_**"A place remembered only by the waves."**_
 
 “ "A place remembered only by the waves. ”
 

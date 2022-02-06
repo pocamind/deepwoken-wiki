@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 18261
+revid: 18291
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,89 +12,142 @@ LocationL Lower Erisia LocationR
 A land lost to time, now made a battleground for warriors who know not why they fight.
 
   
+**Lower Erisia** is a location in _Deepwoken_. It is one half of Erisia, sharing the island with [Upper Erisia](Upper_Erisia.md).
 
-### The Oresfall of Deepwoken
+## Overview
 
-Lower Erisia is the first part of Erisia's territory. Lower Erisia consists of hills, beaches, caves and cliffs. It is recommended to grind Lower Erisia's Monsters until htiting a decent level, then heading to Upper Erisia.
+Lower Erisia is a portion of Erisia that drifted in through the Voidsea from changing currents.
 
-## Parts of Lower Erisia
+This island is recommended for those [Power Level](Power.md) 1 through 30.
 
-Vipers Jaw
+## Points of Interest
 
-Pathfinders Sanctuary
+-   [Viper's Jaw](<The_Viper's_Jaw.md>)
+-   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+
+## Missions
+
+Events that spawn in Lower Erisia that involve combat.
+
+### Bandits
+
+#### Bandit Camp
+
+-   Typically two [Bandits](Bandit.md) and one [Bandit Captain](Bandit_Leader.md) near a campfire.
+-   Could be three [Bandit Assassins](Thief.md).
+-   Campfire disappears once mission ends.
+-   Spawns anywhere.
+-   Rewards in low-end EXP and chest.
+
+#### Bandit Ambush
+
+-   Typically two [Bandits](Bandit.md) and one [Bandit Captain](Bandit_Leader.md).
+-   Could be three [Bandit Assassins](Thief.md).
+-   Spawns anywhere.
+-   Rewards in low-end EXP and chest.
+
+#### Ruins Camp
+
+-   Two [Bandit](Bandit.md) and a [Bandit Captain](Bandit_Leader.md).
+-   Spawns in ruined house before Bandit village.
+-   Rewards in mid-tier EXP and chest.
+
+#### Bandit Village
+
+-   Six [Bandit Captains](Bandit_Leader.md).
+-   Two guarding entrance, three inside village, one inside cave building.
+-   Rewards in low-end EXP and no chest.
+
+### Miscellaneous
+
+-   Common chance of three Etrean Footsoldiers fighting against three [Authority Footsoldiers](Authority_Officer.md).
+-   Rare chance of [Mudskippers](Mudskipper.md) in waves of three spawning below players.
+    -   Blue Mudskippers use an altered version of Air Force with increased knockback.
+    -   Green Mudskippers explode two to three seconds after death, damaging or killing anything in it's radius.
+-   Uncommon chance of [Megalodaunt](Megalodaunt.md) spawning idle or feasting on a corpse.
 
 ## Events
 
-###### Bandit Camp
+Events that spawn in Lower Erisia that typically do not involve combat.
 
-A group of 3 Bandits (2 [Bandits](Bandit.md), 1 [Bandit Leader](Bandit_Leader.md) or 3 [Bandit Assassins](Thief.md)) sit near a campfire. This is event that, like many others, completes when the bandits die and a chest spawns. This can be done very simply by crouching behind each bandit and assasinating them before they see you.
+### Homeless Person
 
-###### Bandit Ambush
+-   Rare chance of a [Hobo](Hobo.md) spawning with three chests around them.
+-   Talking to the Hobo will require a Charisma check. If passed, you are allowed to open a chest.
+-   If you open a chest without taking the Charisma check, you will be attacked by the Hobo.
 
-Similar to the camp event, but 3 Bandits will spawn on top of you. Killing these npcs will spawn a chest where they initially appeared.
+### Pathfinders
 
-###### Etreans Vs Authority
+-   Rare chance of three Pathfinders resting around a campfire.
+-   Talking to the one named teacher will give you the choice to invest a point into a base [Attribute](Attributes.md).
+-   Taking one of these will take an Investment Point from your character.
+-   Killing these NPCs will not result in any chest.
 
-3 Etrean Knights and 3 Adretian Footsoldiers will start fighting using basic Galebreath and Thundercall Mantras. Authority members will always be hostile to you, unless you have unlocked the charisma talent that makes people think more highly of you. Each side has a small chance to drop a Galestone or a Spark Gland respectively, and Officer Notes can drop from the Adrets.
+## Loot Table
 
-###### Bandit Leader Village
+All [Monsters](Monsters.md) can drop Mantra Modifiers on death, with [Megalodaunts](Megalodaunt.md) dropping higher-end ones.
 
-Going a bit further up you'll find a village guarded by around 6 bandit leaders. In the village you'll find a [well](Water_Well.md), a [lumber axe](Lumber_Axe.md) (3 notes), a pickaxe (0 notes/free) and a campfire. The village itself consists of some houses with barrels and a watch tower at the entrance. Going deeper through the back of the village you can find an exit. If you take a right at the cave at the back of the village, there's one bandit leader facing opposite of the door entrance. Events and such can spawn at this village but be careful as this is a popular farming spot of many players.
+Below is a list of items that can spawn in chests in Lower Erisia.
 
-###### [Mudskippers](Mudskipper.md)
+### Outfits
 
-On the way to Pathfinders Sanctuary there is a ~chance~ (has 5 minute cooldown) of an event occuring that spawns 9 mudskippers on the ledges of the cave.
+-   [Skeptic Pioneer](Skeptic_Pioneer.md)
+-   [Darksteel Plate](Darksteel_Plate.md)
+-   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
+-   [Experienced Adventurer](Experienced_Adventurer.md)
+-   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md)
+-   [Pathfinder Cloak](Pathfinder_Cloak.md)
+-   [Shadow Hunter](Shadow_Hunter.md)
+-   [Cutthroat Light Armor](Cutthroat_Light_Armor.md)
+-   [Vigil Initiate](Vigil_Initiate.md)
+-   [Ignition Union Uniform](Ignition_Union_Uniform.md)
 
-###### Magical [Mudskippers](Mudskipper.md)
+### Armor
 
-Random event that sees 9 mudskipper pop out of the ground in batches of 3. These conniving coral creatures can be given the "Air Force" Galebreath Mantra. It has much longer range than normal. The darker green variants will detonate once gripped, auto-gripping anything knocked in it's radius.
+#### Head
 
-###### Sharko
-
-One [Sharko](Megalodaunt.md) will spawn and chase a freshie to the ends of the earth.
-
-###### Hobo
-
-A [Hobo](Hobo.md) will spawn with 3 chests around him. Looting one of the chests will cause him to aggro and upon gripping them a fourth chest will appear. You can pass a Charisma check to claim one of the chests without aggro.
-
-###### Pathfinders
-
-Rarely 3 pathfinders (teachers) will spawn. Talking to one them will prompt you if you wish to hear stories of strength, fortitude (might not be fortitude could be something else), willpower, or agility. Picking a story will increase the respective stat. _Note: This uses 1 investment point_
-
-### Possible Loot
-
-All mobs above have a chance to drop common mantra ingredients other than the sharko which drops high level vibrant gems.
-
--   Skeptical Pioneer
--   Darksteel Plate
--   Navaen Nomad Robes
--   Experienced Adventure
--   Pathfinder Arch-Sorcerer
--   Pathfinder Cloak
--   Shadow Hunter
--   Cutthroat Light Armor
--   Vigil Initiate
--   Ignition Union Uniform
 -   Black Headband
 -   Orange Headband
 -   Yellow Headband
+
+#### Face
+
 -   Iron Mask
 -   Smith's Goggles
+-   Blindfold
+
+#### Arms
+
 -   Leather Pauldrons
 -   Iron Pauldrons
 -   Black Fur Pauldrons
+
+#### Rings
+
+-   Silver Ring
+-   Gold Ring
+-   Konga's Clutch Ring
+
+#### Boots
+
 -   Leather Boots
 -   Black Fur Boots
--   Sapphire(3-8)
--   Amethyst(3-8)
--   Ruby(3-7)
--   Emerald(3-7)
--   Gold Bar(3-11)
--   Messer(0-1 star)
+
+### [Weapons](Weapons.md)
+
 -   Mace
--   Iron Spear
--   Steel Maul(0-1 star)
--   Scimitar(0-1 star)
--   Iron Cestus(0-1 star)
--   Legion Cestus(0-3 star) (Found a 3 star Legion Cestus in a bandit camp event)
--   Common Mantra Ingredients(1-4)
+-   [Iron Spear](Iron_Spear.md)
+-   [Messer](Messer.md) (basic to one-star)
+-   [Steel Maul](Steel_Maul.md) (basic to one-star)
+-   [Scimitar](Scimitar.md) (basic to one-star)
+-   Iron Cestus (basic to one-star)
+-   Legion Cestus (basic to three-star)
+
+### Miscellaneous
+
+-   Three to eight Sapphires.
+-   Three to eight Amethysts.
+-   Three to seven Rubies.
+-   Three to seven Emeralds.
+-   Three to eleven Gold Bars.
+-   One to four [Mantra Modifiers](Mantra_Modifiers.md).

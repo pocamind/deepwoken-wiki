@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 18269
+revid: 18301
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 ## Description
 
-A Hemafrosted Capra casting a beam of ice.
+A Hemafrosted Capra looking to suck someone off.
 
 Frostdraw allows the user the ability to draw ice magic from the atmosphere, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
@@ -22,7 +22,7 @@ Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#
 
 Along with all other elements, users crfaean see their Mantras becoming stronger with training:
 
--   At Power 2, players receive the _Frostdrawer_ Talent.
+-   At Power 2, players receive the _Frost drawer_ Talent.
 -   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.

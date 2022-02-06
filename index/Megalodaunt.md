@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 17380
+revid: 18308
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -19,14 +19,14 @@ Megalodaunts are a shark-like Giant-Type enemy which spawn in The Etrean Luminan
 
 Seen mostly around the island of Erisia, the Megalodaunt is one of the first monsters that new players will encounter. Players that are ill-equipped and lack insight of this creature are mostly likely going to experience a swift death.
 
-This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, red variant.
+This monster is hostile to every other creature and will attack them on sight, with the exception of others of its kind. It will, however, still attack its rarer, crimson variant.
 
 Upon being killed, it drops his hide, with a low chance for umbral obsidian, but may also grant a chest with decent gear if it is encountered when the snarl is heard, usually better than the loot that the bandit camps yield.
 
 ## Moves
 
 -   **Slash** - A short range slash. Can be blocked and parried. Heavy posture damage.
--   **Kick** - The Megalodaunt's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if hit into a wall within a second of being kicked.
+-   **Kick** - It's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if kicked into a wall.
 -   **Jump** - If the target is above it, the Megalodaunt will jump, causing a multi-hit attack in a wide radius in front of it. Can be blocked and parried (this attack may be used after a kick).
 -   **Spit** - A multi-hit projectile targeted at a single target. Can be blocked and parried.
 -   **Roar** - Roars at nearby targets, putting them in combat and inflicting a generous amount of insanity. A poor move in the Etrean Luminant but especially deadly in [The Depths](The_Depths.md), as it can cause a player to suffer from the effect of Insanity much earlier than expected, or worse, mid fight.
@@ -67,7 +67,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 
 -   It is the most common Giant Type enemy.
 -   Sharko's have swimming animations, as seen on the right.
--   Corrupted Sharko is much more dangerous than [The Enforcer.](Enforcer.md) (honestly depends what you are better at)
+-   Corrupted Sharko is much more dangerous than [The Enforcer.](Enforcer.md) (honestly depends on what you are better at)
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
 -   DO **NOT** RUN FROM ONE OF THESE UNLESS YOU FIND A PLACE IT IS TOO TALL TO ENTER, FOR IT IS **FUTILE** AND **WILL** RESULT IN YOUR DEMISE!
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.

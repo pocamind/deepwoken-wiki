@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18138
+revid: 18307
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -129,9 +129,9 @@ Will have an effect upon hitting something.
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:GrimShatteredEnchant.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>M1s apply a debuff which gives higher armor penetration, capping out at 100% after 2-3 procs. Does not work on Mantras, or in PvE combat (tested and confirmed).</p>
-  <p>(Needs more testing to confirm if it gives armor penetration to the target or to only the enchanted user.)</p>
+  <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><div><p>M1 connections proc a debuff on enemies which drastically increases armor penetration. Caps out at 100% after 2-4 procs. Does not work in PvE, and mantras are unaffected by the armor penetration.</p>
+  <p>The effect that is supposed to appear on players appears to be bugged, as it used to proc a red and black lightning "stack" on the opponent. Can be seen very rarely when fighting primadon as black and red lightning, but no other effects can be seen on other entities.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -221,7 +221,7 @@ Multiplicity
 
  | 
 
-Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect. (Apparently Only works against players, needs further testing).
+Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect. (Apparently, it works against players and NPCs, but happens more frequently against players, needs further testing).
 
   
 

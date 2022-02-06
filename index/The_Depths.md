@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 18274
+revid: 18306
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -75,28 +75,18 @@ The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight aga
 
 Completing your trial and escaping The Depths gives you a new talent "[Depth Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
-_**Note:** The below values are only an estimate of what you will most likely fight. There's a chance you will fight something higher/lower level than shown in the table above (eg, Power 45 players may fight The Enforcer). Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death._
+_**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death._
 
-| Trial Power | Possible Enemies |
+| Trial Power | Enemies |
 | --- | --- |
-| 1-7 | None - You escape without fighting a monster |
-| 8-18 | One or two Swordsmen [Mudskippers](Mudskipper.md) |
-| 19-28 | [Angels](Hollow_Angel.md) |
-| 29-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
-| 43+ | [Enforcer](Enforcer.md) (guaranteed from Power 50 onwards) |
-| \>60
-(obtained
-
-with drowned
-
-stat)
-
- | Enforcer (As of now) |
+| 1-9 | None - You escape without fighting a monster |
+| 10-19 | One Swordsmen [Mudskippers](Mudskipper.md) |
+| 20-29 | [Angels](Hollow_Angel.md) |
+| 30-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
+| 50+ | [Enforcer](Enforcer.md) |
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.
--   ²: ~Sometimes, the enforcer CAN rarely spawn at lower levels (40+), however this is a extremely small chance and is probably due to some more behind the scenes work.~ The enforcer spawning at such levels is most likely due to the drowned stat affecting what is spawned.
--   Some people don’t understand how the drowned stat works but I’ll explain it quickly. The drowned stat means how many times a character has drowned. If you have drowned once before, 1 level will be added to **your trial.** So, if you’re level 28 and have escaped the depths once before, the trial sees you as level 29 and will spawn a Megalodaunt instead of a Lesser Angel.
 -   If you log while in the trial(if you arent in combat) you will simply get teleported back to your depths spawnpoint(where you spawned in when you first came to the depths)  
     
 

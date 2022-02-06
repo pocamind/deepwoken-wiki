@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18255
+revid: 18297
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -47,13 +47,16 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Acrobat
 
 -   Kick Off \[Generic Talent, Common Talent\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
+    -   3 second cooldown.
 -   Steady Footing \[Generic Talent\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
 -   Quick Recovery \[Generic Talent, Common Talent\] - You move faster after doing a wall jump. (+1 Passive Agility)
 -   Graceful Landing \[Generic Talent, Common Talent\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
+    -   Minimum thereshold to take fall damage is increased.
 
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
+    -   Synergise well with Aerial attack talents.
 
 ### Aeromancy
 
@@ -69,22 +72,27 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Apothecary \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
 -   Exterminator \[ Common Talent\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
 -   Wild Alchemy \[Common Talent\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
+    -   The resulting potions effect are created as of 2x ingredients were used. Bypass the ingredient cap and will not make diluted potions.
 -   Prerequisites: Intelligence (10 - 40 int needed?)
 
 ### Alley Cat
 
 -   Scaredy Cat \[Common Talent\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
-    -   Prerequisites: Agility
+    -   The enemy must not be in combat to trigger this effect.
+        -   Prerequisites: Agility
 
 -   Lowstride \[Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
-    -   Prerequisites: Agility | Benefit: Retain normal movement speed when crouching.
+    -   Crouching is now has fast as walking.
+        -   Prerequisites: Agility
 -   Conditioned Runner \[Legendary Talent\] You regenerate health faster than normal when running (+1 Passive Agility)
 -   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
-    -   Prerequisites: Agility | Benefit: Negates Movement Speed Penalty when low health.
+    -   Negate the agility penalty tied to lost hp.
+        -   Prerequisites: Agility
 
 ### Amoran Seeker
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
+    -   Gain +20(?)% damage and +??% movement speed while the fire is active. Can be cancelled by running or being in water.
 
 ### Angler
 
@@ -165,6 +173,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   Prerequisite: 40 Intelligence
 -   Perfect Flash \[Generic Talent, Rare Talent\] - Having full health causes your mantras do 1.25x damage.
     -   Prerequisite: 20(?) Intelligence
+-   Eureka \[Generic Talent, Rare Talent\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
+    -   Prerequisite: 30(?) Intelligence
 -   Ether Absorption \[Generic Talent, Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
@@ -209,6 +219,7 @@ Prerequisite: Reinforce(?)
 ### Cloudwalker
 
 -   Gale Leap \[Generic Talent, Galebreath Exclusive, Common Talent\] - Jumping while sliding down a slope or off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
+    -   Very tight activation window.
 
 ### Darksiphon
 
@@ -222,9 +233,9 @@ Prerequisite: Reinforce(?)
 ### Deepwoken
 
 -   The Sounds from Below \[Generic Talent, Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
-    -   Prerequisites: Power Level 2
+    -   Prerequisites: Automatically granted when you reach Power 2.
 -   Depths Connection \[Generic Talent, Character Exclusive\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air into your Ether Reservoir. (Better Reservoir Regeneration)
-    -   Prerequisite: Escape from The Depths once.
+    -   Prerequisite: Automatically granted when you escape from The Depths once.
 
 ### Duelist
 
@@ -235,18 +246,20 @@ Prerequisite: Reinforce(?)
 -   Precise Swing \[Generic Talent, Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
+    -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
 -   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
 
 ### Empath
 
 -   Give and Take \[Generic Talent\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
-    -   Prerequisite: Charm
+    -   Guildmates take less damage from you and deal less damage to you.
+        -   Prerequisite: Charm
 
 ### Escape Artist
 
 -   Boot Wallet \[Generic Talent, Common Talent\] - You no longer lose notes from dying.
--   Robber Baron \[Generic Talent, Common Talent\] - You hold onto more items when defeated. (Reduce the amount of items lost on death)
+-   Robber Baron \[Generic Talent, Common Talent\] - You hold onto more items when defeated.
 
 ### Ether Adept
 
@@ -265,11 +278,12 @@ Prerequisite: Reinforce(?)
 ### Fish
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
+    -   Doesnt affect health regen in [The Depths](The_Depths.md), since you are not swimming.
 
 ### Freak Of Nature
 
 -   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
-    -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of invincibility everytime you take a hit.
+    -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of reduced damage that ignore exoskeleton mechanic everytime you are hit.
 -   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
 
@@ -328,8 +342,8 @@ Prerequisite: Reinforce(?)
 ### Genius Intellect
 
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
-
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
+    -   The increased Ether Cost from Modified Mantras is reduced.
 
 ### Glassdancer
 
@@ -345,6 +359,7 @@ Prerequisite: Reinforce(?)
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
+    -   Completely replace gun's light scaling with attunement scaling of the same value.
 -   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Inferno
@@ -368,12 +383,18 @@ Prerequisite: Reinforce(?)
 ### Innate (Racial Talents)
 
 -   Loyalty \[Generic Talent, [Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
+    -   Guildmates take less damage from you and deal less damage to you.
 -   Versatile \[Generic Talent, [Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
 -   Maudet \[Generic Talent, [Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
+    -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
 -   Chitin \[Generic Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
+    -   While not empty, receive ??% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 -   Navae's Guidance \[Generic Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
+    -   Receive a compass, displayed at the top of your screen. Lose less hunger.
 -   Nightchild \[Generic Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
+    -   Natural increase in Stealth. Gain bonus agility when climbing wooden bricks, like trees.
 -   Molt \[Generic Talent, [Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. (+1 Health)
+    -   Status effects, good or bad, are shorter.
 
 ### Legion Shock Trooper
 
@@ -424,7 +445,8 @@ Prerequisite: Willpower 5~
 
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress. (Increased experience gain)
+-   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress.
+    -   +50(?) EXP gain for every attributes and Power.
 
 ### Ministry Operative
 
@@ -482,7 +504,7 @@ Prerequisite: Willpower 5~
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
--   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not? (this is literally what it says on the card)
+-   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
     -   Prerequisite: Strong Left Strength Mantra
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 
@@ -549,10 +571,12 @@ Prerequisite: Willpower 5~
 
 -   Spare Nails \[Generic Talent, Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
 -   Emergency Repairs \[Generic Talent, Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
+    -   Prerequisite for all: Have succesfully used the Repair Hammer once.
 
 ### Silencer
 
 -   A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+    -   Suffocation prevent the victim from casting mantras.
 -   Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
 -   Silencer's Edge \[Generic Talent, Galebreath Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
@@ -610,17 +634,12 @@ Prerequisite: Willpower 5~
 
 -   Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
     -   Prerequisites: Thundercall
-
 -   Adept Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
-
 -   Expert Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
-
 -   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
     -   Prerequisites: Thundercall | 50 Thundercall
 -   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
-
 -   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
-
 -   Stratoschock \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
 
 ### Undying Ember

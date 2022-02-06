@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 18189
+revid: 18278
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map]
@@ -18,16 +18,19 @@ A village created far away from the watchful eyes of the Stonelife Lord.
 
 ## Overview
 
-The Hidden Village is a small abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a Mantra or a Heavy Weapon Critical. Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountiful amount of Erisore ore, and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements.
+The Hidden Village is a small abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a Mantra or a Heavy Weapon Critical. Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountiful amount of Erisore, and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements.
 
 ## Contents
 
--   Erisore ores
+-   Erisore
 -   [Greathive Aratel](Greathive_Aratel.md) fountain
 
-## Monsters
+## Potential Enemies
 
 -   [Black Mudskipper](Mudskipper.md)
+-   [Authority Footsoldier](Authority_Officer.md)
+-   Etrean Footsoldier
+-   Legion Footsoldier
 
 ## NPCs
 

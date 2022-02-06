@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 16882
+revid: 18296
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,7 +30,7 @@ Mostly nothing is known about the Western Luminant, but it is home to the Legion
 
 ## Southern Luminant
 
-The Southern Luminant is supposedly primarily an desert-like/arid Luminant, with horses that you can ride to traverse the desert. (not confirmed just speculation)
+The Southern Luminant is supposedly primarily an desert-like/arid Luminant, with horses that you can ride to traverse the desert. (Source : Infernasu)
 
 ## Northern Luminant
 

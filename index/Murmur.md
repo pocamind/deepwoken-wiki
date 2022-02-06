@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 18051
+revid: 18298
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -50,12 +50,12 @@ Ardour Scream does not need to be trained.
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user, and will be signaled with either an inward ring for activation or an outward ring for deactivation.
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
 
 The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location.
 
-When you first obtain Tacet you can still be spotted from very far away however you can reduce this "spotting range" by training it which is repeatedly using it. Once it is fully trained you can get very close to people without being spotted (4-5 Player lengths)
+When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). When fully trained you can be around 4-5 "player lengths" before another person can spot you.
 
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 
-This quest requires 15 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
+This quest requires 15-30 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.

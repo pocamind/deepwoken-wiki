@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 18137
+revid: 18299
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -51,7 +51,7 @@ File:Way Of Navae.png
 
   
 
--   To get this, you must find a captive on Erisia or a nomad at Fort Merit in the prison area and bring it to the Nomads. ~The nomads in Summer Isle do count, just make sure you talk to the elder (the one with white hair).~ Tested, this is **FALSE**. Nomads in Summer Isle or Etris will not work. It has to be a captive nomad. (tied up and no weapons) (also not sure if it works with the Nomad Leaders since I was attacked by a Lionfish on the way back while carrying one, doubt it will but someone might aswell try)
+-   To get this, you must find a captive on Erisia or a nomad at Fort Merit in the prison area and bring it to the Nomads. ~The nomads in Summer Isle do count, just make sure you talk to the elder (the one with white hair).~ Tested, this is **FALSE**. Nomads in Summer Isle or Etris will not work. It has to be a captive nomad. (tied up and no weapons) ~(also not sure if it works with the Nomad Leaders since I was attacked by a Lionfish on the way back while carrying one, doubt it will but someone might aswell try)~ (it works, you must talk to elder sitting in tent with nomad on you)
 
 ### Jus Karita
 

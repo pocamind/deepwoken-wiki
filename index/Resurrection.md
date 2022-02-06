@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 18084
+revid: 18295
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ When used, the user's bell will emit gold particles.
 
 Pressing C will activate the **Resurrection** Resonance.
 
-**Resurrection** has no use yet.
+**Resurrection** can be used to make a ko'd friend up back on there feet again. It has a few second windup before you use your hands like a defibrillator and zap them awake. (I do not know if this only works on guild members or not)
 
 ## Trivia/Notes
 
