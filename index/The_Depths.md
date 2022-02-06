@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 18306
+revid: 18360
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Death, Mantras, Locations]
 
 LocationL The Depths LocationR
 
-  
+You can feel your soul dragging down like a weight, deeper, further into the depths.
 
   
 
@@ -161,7 +161,7 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 <tr>
   <td>Demon Mask</td>
   <td>Dazed Band</td>
-  <td>Shattered Katana</td>
+  <td>Shattered Katana (can also be found in Duke chest)</td>
   <td>Iron Cestus</td>
 </tr>
 <tr>
@@ -178,14 +178,14 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 </tr>
 <tr>
   <td>Deep Gems (very rare)</td>
-  <td>Dewdrop Earrings</td>
-  <td>Shotel</td>
+  <td>Dewdrop Earrings (can be found everywhere)</td>
+  <td>Shotel (can be found in songseeker and hive)</td>
   <td>Providence Coat</td>
 </tr>
 <tr>
   <td>Black Diver</td>
-  <td>Ruby Earrings</td>
-  <td>Falchion</td>
+  <td>Ruby Earrings (can be found everywhere)</td>
+  <td>Falchion (can be found in lower erisia)</td>
   <td>Star Boots</td>
 </tr>
 <tr>

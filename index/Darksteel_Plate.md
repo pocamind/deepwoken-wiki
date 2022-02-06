@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 17585
+revid: 18311
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found:
 
 ## Trivia/Notes
 
--   Player notes here
+-   Player notes here im stuck on the "editing page" screen so im gonna leave this here so someone can delete it idk how to get off the page

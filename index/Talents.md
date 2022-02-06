@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18297
+revid: 18382
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Generic Talents, Rare Talents]
@@ -15,8 +15,6 @@ categories: [Talents, Generic Talents, Rare Talents]
 **Talent Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two or five Talent Cards.
 
 ## Overview
-
-_icon credit to Tortaa#9000_
 
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this.
 

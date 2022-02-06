@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 17661
+revid: 18342
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -47,6 +47,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
 -   Deals VERY light damage.
 -   Knocks opponents back and stuns them.
+-   Put on a reversal spark to ~suck your opponents Dlck~ to make it pull in instead of push
 
  |
 | File:Tornado.png | Tornado  
@@ -184,6 +185,7 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 
 -   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
+-   Galebreathe is the only talent to not have a "Grab" Mantra, instead having the lunge move in it's place.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.

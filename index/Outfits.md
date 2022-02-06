@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 18054
+revid: 18380
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors]
@@ -11,8 +11,6 @@ notices:
 # Outfits
 
 File:Armoricon.png
-
-_icon credit to Tortaa#9000_
 
 **Armor** is an essential part to _Deepwoken_, being the basis of most of your resistance against enemies.
 

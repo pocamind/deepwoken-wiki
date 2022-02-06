@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 16400
+revid: 18385
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,13 +10,13 @@ categories: [Pages with broken file links]
 
 ## Overview
 
-[How to Make Friends](https://deepwoken.fandom.com/wiki/How_To_Make_Friends) is Training Gear used to increase your **charisma**. It can be found in bookstores, and costs Template:Cost In order to train your Charisma, you must recite the provided phrase that appears at the top of your screen.
+How to Make Friends is Training Gear used to increase your **charisma**. It can be found in bookstores, and costs Template:Cost In order to train your Charisma, you must recite the provided phrase that appears at the top of your screen.
 
 At around **10-20 points of Charisma**, you may start getting Charisma talents. Starting at **20 Charisma**, you can get Vow of Mastery. At **15 Charisma** and beyond, you can get Charisma mantras, such as Sing or Taunt.
 
 ## Usage
 
-In order to successfully use [How to Make Friends](https://deepwoken.fandom.com/wiki/How_To_Make_Friends) and level up your Charisma, select the item in your inventory and click. A text will appear on your screen, saying: "Try some small talk with someone nearby, (Phrase)". You must then stand next to an NPC / Player and type out the **Phrase** provided, word for word. You do _not_ need to capitalize letters or use punctuation (Including spaces!), _however_ if you mispronounce a word (Example: "Restuarant"), you will **not** gain your Charisma.  
+In order to successfully use How to Make Friends and level up your Charisma, select the item in your inventory and click. A text will appear on your screen, saying: "Try some small talk with someone nearby, (Phrase)". You must then stand next to an NPC / Player and type out the **Phrase** provided, word for word. You do _not_ need to capitalize letters or use punctuation (Including spaces!), _however_ if you mispronounce a word (Example: "Restuarant"), you will **not** gain your Charisma.  
 
 File:Tempsnip.png
 

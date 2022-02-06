@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 17492
+revid: 18357
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ This event takes place at the decrepit research castle, upon triggering the even
 
 After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if your another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join the Divers if you make it to Castle Light.
 
-**I am still figuring out what the Charisma option does via making a 80+ Charisma build, I've heard a rumor that it gives you a quest to kill Enchanted Monsters or Ignition Union members to gain the ability to insanity kill people at low HP. None of this is confirmed yet and I intend to find out via sacrificing a high level save. Until then DO NOT SELECT IT, it may have other requirements then just Charisma and if you fail it kills you.**
+**I am still figuring out what the Charisma option does via making a 80+ Charisma build, I've heard a rumor that it gives you a quest to kill Enchanted Monsters or Ignition Union members to gain the ability to insanity kill people at low HP. None of this is confirmed yet and I intend to find out via sacrificing a high level save. Until then DO NOT SELECT IT, it may have other requirements then just Charisma and if you fail it kills you. Hey someone different here typing. I tested this with 102 charisma and Akira dissipated into lightning, I was on my way to castle light when I died so I couldn't see his dialogue option there very sorry.**
 
 ## Joining the Divers
 

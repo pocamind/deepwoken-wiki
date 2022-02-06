@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 17584
+revid: 18371
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,7 +8,7 @@ categories: [Armors]
 
 # Cloak of Winds
 
-Template:ArmorInfobox**Cloak of Winds** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Cloak of Winds (Vigil Cloak)** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

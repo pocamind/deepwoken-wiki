@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18235
+revid: 18348
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -837,6 +837,6 @@ Players can use this formula to figure out their complete damage.
 
 D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) ∗ S c a l i n g ) {\\displaystyle Damage = Base Dmg + AttributeLevel((base/1000) \* Scaling)} {\\displaystyle Damage=BaseDmg+AttributeLevel((base/1000)\*Scaling)}
 
-The equation below shows the true attack speed per second.
+The equation below shows the true attack speed per second. (Is this really true? Someone needs to test this more thoroughly)
 
 A t t a c k S p e e d \= S w i n g S p e e d / 2 {\\displaystyle AttackSpeed = SwingSpeed / 2} {\\displaystyle AttackSpeed=SwingSpeed/2}
