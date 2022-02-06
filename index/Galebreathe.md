@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 18342
+revid: 18435
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -47,7 +47,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
 -   Deals VERY light damage.
 -   Knocks opponents back and stuns them.
--   Put on a reversal spark to ~suck your opponents Dlck~ to make it pull in instead of push
+-   Put on a reversal spark to make it pull in instead of push
 
  |
 | File:Tornado.png | Tornado  

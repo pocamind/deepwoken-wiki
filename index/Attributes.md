@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 18000
+revid: 18427
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -59,7 +59,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
--   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md).
+-   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
 
 ### Charisma
 

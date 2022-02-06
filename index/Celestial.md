@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 15970
+revid: 18455
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,10 +22,7 @@ Could also be used as a bait race for exploiters/data miners, similar to fake sp
 <tbody>
 <tr>
   <td>File:Seaborne.png</td>
-  <td><b>Unknown</b>
-  <ul>
-    <li>It is unknown what talent is given to Celestials</li>
-  </ul></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 18119
+revid: 18429
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -95,6 +95,7 @@ Template:Areainfobox
 -   Equip a Gale Stone to give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.
 -   Talking to Apprentice Kj after giving the Gale Stone finishes the quest.
 -   This quest will allow you to obtain [Weaponry Unbound](Attributes_Unbound.md).
+-   Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.
 
 ### Lumberjack Quest
 

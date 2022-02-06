@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18219
+revid: 18443
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
@@ -259,12 +259,7 @@ File:Image 2021-12-31 211633.png
 
 Spring Spark
 
- | Spring Spark | Ice Spikes
-
-  
-Ice Beam
-
- | Applies "Fire Trap" to compatible Mantra. |
+ | Spring Spark | Ice lasers | Applies "Fire Trap" to compatible Mantra. |
 | 
 
 Tornado spark
@@ -341,7 +336,7 @@ also looks identical to falseflame.
 #### Tornado Spark
 
 -   This modifier adds a spin at the end of the _Dark Blade_ Mantra.
--   This modifier as an unknown effect on _Fire Blade_ Mantra.
+-   This modifier does not seem to affect _Flame Blade_ mantra at all.(I casted it normally and perfect casted it, no effect)
 
 #### Spring Spark
 

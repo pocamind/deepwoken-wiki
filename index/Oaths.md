@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 18042
+revid: 18430
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character]
@@ -54,7 +54,7 @@ _"You vow to not let the horrors of the world pierce your tightly fastened blind
 
 ### _Description_
 
-**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath has no [Power](Power.md) requirement.
+**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath has a [Power](Power.md) requirement of 6, due to the 5 Mental fortress talents required.
 
 ### _Obtaining_
 

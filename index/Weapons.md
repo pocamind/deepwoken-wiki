@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18348
+revid: 18454
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -328,7 +328,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.7</td>
 </tr>
 <tr>
-  <td>Mace</td>
+  <td><a href="Mace.md">Mace</a></td>
   <td>10 MED</td>
   <td>20</td>
   <td>N/A</td>
@@ -408,7 +408,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Shotel</td>
+  <td><a href="Shotel.md">Shotel</a></td>
   <td>45 MED</td>
   <td>22</td>
   <td>N/A</td>
@@ -438,7 +438,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.7x</td>
 </tr>
 <tr>
-  <td>Serpent's Edge</td>
+  <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
   <td>70 MED</td>
   <td>22</td>
   <td>N/A</td>

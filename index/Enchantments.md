@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18383
+revid: 18407
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -139,7 +139,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals 5% of their armor as well. Also does more damage to posture.</p>
+  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals 5% of their armor as well.</p>
   <p><br>
   </p></div></td>
 </tr>

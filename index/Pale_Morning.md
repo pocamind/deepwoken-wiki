@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 16992
+revid: 18409
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons]
 
 ## Description
 
-The Pale Morning is a Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives.
+The Pale Morning is a Endgame Greathammer that can be obtained from Chests in the [Starswept Valley](The_Starswept_Valley.md) (very rare) or [The Depths](The_Depths.md). This weapon has a base damage of 24 and a strength requirement of 10 to equip. This weapon has no special effects or passives.
 
 ## Notes
 
