@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 17614
+revid: 18579
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -100,6 +100,7 @@ Below are possible items that can be found in the chests in songseeker.
 -   Glassdancer Wraps
 -   Eyeglasses
 -   Polarised Eyeglasses
+-   blindfold
 -   Gold bar (3-7)
 -   Sapphire( 4-6)
 -   Amethyst (4-5)

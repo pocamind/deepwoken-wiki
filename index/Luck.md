@@ -1,22 +1,22 @@
 ---
 title: Luck
-revid: 18023
+revid: 18583
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Luck]
+categories: [Luck]
 ---
 
 # Luck
 
-_"You steal the luck of others at a slightly higher rate." - Marauder Flavour Text_
+**Luck** is a hidden value that affects your Character's learning of rare Talents.
 
-## Description
+## Overview
 
 The new luck effect, emitts a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
-Luck is a hidden value that affects your Character's learning of rare Talents.
+Luck is a stat that increases your chance for Rare or Legendary [Talent Cards](Talents.md).
 
-Players have a "Luck wallet" that can hold a certain amount of luck. The size of this "wallet" slightly increases after each Power Up.
+Players have a Luck "wallet" that can hold a certain amount of luck. The size of this "wallet" slightly increases after each Power Up.
 
 ## Effects of Luck
 
@@ -55,21 +55,18 @@ Killing a Corrupted Monster will provide you with luck. If a monster has a purpl
 
 Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 
-## Losing luck
+## Losing Luck
 
 -   Getting gripped by a player within power range. Lose ~50% of your luck.
--   Drawing a rare/legendary card during the card selection after a Power Up. A portion of your luck is "spent" to make the card appear.
-    -   It is a common misconception that if you don't pick the rare card, you will not lose any luck. This is **entirely false** (confirmed by Archmage below).  
-        
-        File:Arch regarding luck and cards.png
-        
+-   Drawing a rare/legendary card during the card selection after a Power Up. A portion of your luck is "spent" to make the card appear. See.
 
 ## Notes
 
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
+-   If you second wind after wiping, your luck stat will persist (Not very helpful as people rarely second wind but with mentioning)
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
 -   Luck does **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
 -   Gripping a player for luck can be a viable strategy in the short term, but because corrupted monsters and bosses have set patterns, can drop [Chests](Chests_&_Sacks.md) with lots of items, and can be easily found with practice and experience, it is more viable to farm luck off them in the long term.
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses and corrupted monsters. Keep this in mind while progressing.
 -   The way luck is obtained, shown and gotten will be reworked soon; stay tuned
--   A freshie has enough natural luck to gain 2 Rare cards or 1 Legendary. (tested multiple times by me as a freshie. I have gotten warrior's respite and bloodiron and fishman multiple times on level up.)
+-   A freshie has enough natural luck to gain 2 Rare cards or 1 Legendary.

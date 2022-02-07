@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 18429
+revid: 18559
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,10 +11,29 @@ LocationL Isle of Vigils LocationR
 
 TERRITORY OF Etrea
 
+A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
+
   
 Template:Areainfobox
 
 **Isle of Vigils** is a starting location in _Deepwoken_. It acts a settlement and is territory of Etrea.
+
+## Overview
+
+The Isle of Vigils is a collection of small islands that hold the Temple Approach and the Temple of the Blade.
+
+## Missions
+
+Events that spawn in Isle of Vigils that involve combat.
+
+### Bandits
+
+#### Bandits vs Temple
+
+-   Two [Bandits](Bandit.md).
+-   Spawns in front of the Temple Approach.
+-   Blade Temple Guards will immediately attack Bandits on sight.
+-   Results in mid-tier EXP and no chest.
 
 ## Points of Interest
 
@@ -24,7 +43,7 @@ Template:Areainfobox
 
 #### Camp
 
--   Players can find (name), a spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
+-   Players can find Friid, a spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
 -   Players can find a permanent campfire here.
 
 #### Inn
@@ -45,7 +64,7 @@ Template:Areainfobox
 
 #### Mantra Buyer
 
--   Players will find (name) who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find a Mantra Buyer named Cumberland near the bank.
 
 ### Temple of the Blade
 
@@ -61,15 +80,15 @@ Template:Areainfobox
 
 #### Blacksmith
 
--   Players can find (name), a blacksmith, here.
+-   Players can find Baragan, a blacksmith, here.
 -   Players can purchase materials here.
 
 #### Sparring Arena
 
--   Players can find (name), a sparring instructor who will allow you to spar an NPC.
+-   Players can find Das, a sparring instructor who will allow you to spar with a Vigil.
     -   This NPC will have a random weapon from an Iron Spear, Sword, Battleaxe and Mace.
     -   This NPC cannot grip you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
--   Players can also find (training manual quest) and (quiet katana guy) here.
+-   Players can also find Avian and Maestro Evengarde Rest here.
 -   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for.
 
 ## Quests
@@ -78,14 +97,14 @@ Template:Areainfobox
 
 -   To start this quest, talk to Lance's brother, the food vendor near the docks.
 -   If asked to be helped, a red food crate appears on the ground, and Lance's brother tells you to deliver it to Stratos.
--   Stratos is located near the water fountain in the Temple of the Blades.
--   Upon completion he gives you 25 [Notes.](Notes.md)
+-   Stratos is located near the water fountain in the Temple of the Blade.
+-   Upon delivery, Stratos gives you.
 
 ### Etrean Swordsman Quest
 
--   To start this quest, talk to the Etrean in the Sparring Arena, located next to the Sparring NPC.
+-   To start this quest, talk to Avian in the Sparring Arena, located next to Das.
 -   If asked about his attitude, he wants to be better, but lacks the proper knowledge in the Sword. He then asks you to give him a [Weapon Manual](https://deepwoken.fandom.com/wiki/Training_Items?so=search#Light.2FMedium.2FHeavy) (This does not consume the weapon manual.)
--   This quest gives exp, it is unknown how much or what else it gives.
+-   This quest gives EXP, it is unknown how much or what else it gives.
 
 ### A Lost Sibling Quest
 

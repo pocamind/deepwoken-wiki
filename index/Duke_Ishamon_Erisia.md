@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 18212
+revid: 18585
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -65,7 +65,7 @@ You also gain a large amount of Luck (Unknown value), and Bell Progress.
 
 ## Notes/Trivia
 
--   To destroy The Duke's Wind Shield in Phase 1, land attacks until it breaks. It will take awhile, but its progress.
+-   To destroy The Duke's Wind Shield in Phase 1, land attacks until it breaks. It will take awhile, but it's progress.
 -   It is recommended if your in a group, to make campfire pits around the Boss Room, and have either Flints or Mantras that light campfires.
 -   A weapon that instantly grips downed enemies is recommended, as Phase 2 will be tedious.
 -   The more people that participates in fighting The Duke, the more health he has.

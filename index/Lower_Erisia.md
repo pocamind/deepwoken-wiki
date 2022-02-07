@@ -1,8 +1,9 @@
 ---
 title: Lower Erisia
-revid: 18291
+revid: 18570
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Lower Erisia

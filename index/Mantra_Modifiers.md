@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18457
+revid: 18507
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
@@ -37,14 +37,14 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
  | 
 
--   Increases the hitbox size.
+-   Increases mantra/hitbox size.
 -   Projectiles lose distance.
 -   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) lose distance.
 
  |
 | File:Stratus.png | Stratus Stone | +3 Size | 
 
--   Increases the hitbox size.
+-   Increases mantra/hitbox size.
 
  |
 |  | Crystal Lens | +2 Range
@@ -53,13 +53,13 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
  | 
 
--   The projectile/hitbox have a farther reaching hitbox.
+-   Increases range of projectiles.
 -   If the mantra is not a projectile, the hitbox size is reduced instead.
 
  |
 |  | Perfect Lens | +2 Range | 
 
--   The projectile/hitbox have a farther reaching hitbox.
+-   Increases range of Projectiles.
 
  |
 |  | Aeon Logstone | +2 Duration
@@ -68,12 +68,14 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
  | 
 
--   Add 1 key to Ritual Casts
--   Doesn't increase the duration of Adrealine Rush
+-   Increase duration of ritual casts.
+-   Add 1 key to Ritual Casts.
+-   Doesn't increase the duration of Adrealine Rush.
 
  |
 |  | Eternal Logstone | +3 Duration | 
 
+-   Increase duration of ritual casts.
 -   Add 3 keys to Ritual Casts
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 18403
+revid: 18590
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -34,7 +34,12 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 
 > (☆☆☆)
 
- | Shadow Gun | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable. By using 3-6 cloud stones, 1 blast spark, and 2 crystal lens you can make a super beam but will cost a lot more ether  
+ | Shadow Gun | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
+
+-   1 Blast spark will make your shadow gun shoot more.
+-   Crystal and perfect lenses will increase the range.
+-   Cloudstones and stratus stones increase hitbox.
+
  |
 |  | 
 

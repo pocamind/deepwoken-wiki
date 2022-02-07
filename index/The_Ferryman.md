@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 17385
+revid: 18586
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -42,7 +42,7 @@ _After talking with him, a boss fight will be initiated. However, it should be n
 ### Rewards
 
 -   **Luck** - During all seasons, you receive a fixed amount of luck.
--   **Amethyst Pendant Earrings** - Grants +8 Ether and +6 Sanity and does not drop on subsequent attempts. Received only during summer.
+-   **Amethyst Pendant Earrings** - Received only during summer.
 -   **Ferryman's Coat Schematic** - A replica of the coat worn by the Ferryman. Received only during autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It basically gives you displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Weapons.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during winter.
 -   Defeating the Ferryman during spring or summer (after receiving the **Amethyst Pendant Earrings**) "awards" unique dialogue.

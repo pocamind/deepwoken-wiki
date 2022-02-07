@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18495
+revid: 18569
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -51,6 +51,7 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Weight:** How much posture damage you deal when attacking blocks or parrying attacks.
 -   **Range:** How far your weapon can reach (Does not calculate by Studs)
 -   **Swing Speed:** How fast your weapon can strike per M1.
+-   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls. _Only available for the medium weapon Shotel \[?\]_)
 
 ## Types of Weapons
 

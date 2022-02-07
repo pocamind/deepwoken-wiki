@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 17615
+revid: 18580
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -8,7 +8,7 @@ categories: [Boss, Luck]
 
 # Dread Serpent
 
-_Also known as Kaido, Ardour, Sea Serpent, Drago and Dragon._
+_Also known as Kaido, Ardour, Sea Serpent, Drago and Dragon Or Phalic object._
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18502
+revid: 18506
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -90,7 +90,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Amoran Seeker
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
-    -   Gain +20(?)% damage and +??% movement speed while the fire is active. Can be cancelled by running or being in water.
+    -   Gain +20(?)% damage and +??% movement speed while the fire is active. Can be cancelled by dodging or being in water.
 
 ### Angler
 

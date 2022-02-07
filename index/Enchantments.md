@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18496
+revid: 18589
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -90,7 +90,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
-  <td><div><p>M1 connections have a chance to create a purple string that connects both you and the enemy, pulling them towards you.</p>
+  <td><div><p>M1 connections have a chance to create a purple string that connects both you and the enemy, pulling them towards you. (Most likely a reference to HxH)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -289,13 +289,13 @@ Having the "Drowned" enchant makes it so stats can go past their limit (e.g 64 h
  |
 | 
 
-File:Displacement.png
+File:EyeglassesDisplacement.png
 
-Displacement
+Displacement (Eyeglasses with displacement enchant)
 
  | 
 
-Upon getting hit, the user has a chance of getting teleported a short distance(Currently broken).
+Upon getting hit, the user has a chance of getting 2 balls appearing around their face.
 
   
 
