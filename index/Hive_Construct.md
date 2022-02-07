@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 15040
+revid: 18625
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links]
 
 # Hive Construct
 
-Template:Creature Infobox V3
+_Also known as Mechs_ Template:Creature Infobox V3
 
   
 Hive/Rogue Constructs, also known as Hive Mech, Forest Golems, or Obsidian Golems (given their black appearance), spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md)
@@ -71,7 +71,9 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
 
 ### Drops
 
-Killing the golem will reward in a ton of xp (3-4 of them can level up a skill once at level 50+), along with a chest where it spawns. The chest has mediocre loot, similar to a [thresher's](Thresher.md) at Starswept Valley, but does have a chance to drop a [shattered katana](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons). Keep in mind, however, this isn't the only way to get shattered katanas, as almost all enemies in Starswept Valley can drop them. You can also only aggro the adretian ice mage that always spawns with the Golem, and killing it will reward in the chest, and the golem despawning. Keep in mind that the ice mage is **very** tanky, having about the same, or even more hp than the Forest Golem itself, and does quite a bit of damage.
+~Killing the golem will reward in a ton of xp (3-4 of them can level up a skill once at level 50+), along with a chest where it spawns. The chest has mediocre loot, similar to a [thresher's](Thresher.md) at Starswept Valley, but does have a chance to drop a [shattered katana](https://deepwoken.fandom.com/wiki/Weaponry#Medium_Weapons). Keep in mind, however, this isn't the only way to get shattered katanas, as almost all enemies in Starswept Valley can drop them. You can also only aggro the adretian ice mage that always spawns with the Golem, and killing it will reward in the chest, and the golem despawning. Keep in mind that the ice mage is **very** tanky, having about the same, or even more hp than the Forest Golem itself, and does quite a bit of damage.~
+
+This doesn't work anymore, as the golem actually fights the adretian now (like it's supposed to). Doing this event almost certainly means death because while the golem is attacking the ice mage he will most likely accidentally hit you, doing a lot of damage to you or killing you.
 
 The most reliable cheese spot at Starswept Valley in my experience.
 
@@ -82,7 +84,8 @@ The most reliable cheese spot at Starswept Valley in my experience.
 -   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and none known at Buster Valley.
 -   Can absolutely destroy you even at level 60 if youre solo and inexperienced
 -   Not worth fighting. Even if you try, this Golem will obscure your vision with trees all the time.
--   They talk if the ice mage that spawns with it at Starswept Valley is defeated.
+-   They talk if the ice mage that spawns with it at Starswept Valley is defeated, showing that they believe that the
+-   Authority is just a group of "fools".
 -   [Snow Knights](Stone_Knight.md) can be lured next to them at Minityrsa, causing them to fight each other.
     
     File:VLGf7ZV.png

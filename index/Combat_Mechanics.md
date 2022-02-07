@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 17981
+revid: 18630
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -140,7 +140,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Dashing</th>
-  <td>Depending on what skills and stats you have you are able to roll a certain amount of distance, this will not consume posture if you are not in combat.</td>
+  <td>Depending on what skills and stats you have you are able to roll a certain amount of distance, this will not consume posture if you are not in combat. note: dashing at the right time will result in a dodge which is also known as a perfect roll.</td>
   <td></td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Roll Cancel</th>
-  <td>When you roll, you can right click similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent.</td>
+  <td>When you roll, you can right click similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent. Gives you the same i-frames as a normal perfect roll.</td>
   <td></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 18083
+revid: 18629
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -47,3 +47,4 @@ If **Distortion Realm** is found to be Corrupted, the Distortion Realm to Etrean
 
 -   Similar to _Naruto_ character Tobi/Obito's, and their Sharingan Ninjutsu "Kamui".
 -   Like [Portal](Portals.md), **Distortion Realm** can be very useful in ambushing others.
+-   Although this bell is called "Kamui" I think Naruto is mid.
