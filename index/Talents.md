@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18506
+revid: 18593
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -505,6 +505,7 @@ Prerequisite: Willpower 5~
 -   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
     -   Prerequisite: Strong Left Strength Mantra
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
+-   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
 
 ### Saint of Blades
 

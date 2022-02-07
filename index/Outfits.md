@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 18497
+revid: 18598
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -123,8 +123,8 @@ _Requires Fortitude 10_
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
 | File:Barrel Helmet.png | Barrel Helmet | TBA | Duke Chests |
-|  | Vagabond's Bicorn | TBA | Primadon Chests |
-| File:Smith Bandana.png | Smith Bandana | TBA | TBA |
+|  | Vagabond's Bicorn | TBA | Primadon Chests, Artifacts |
+| File:Smith Bandana.png | Smith Bandana | TBA | Artifacts |
 | File:Gladiator Helmet.png | Gladiator Helmet | TBA | Hive Chests |
 | File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants 3 (Random) Buffs & Stealth by 4% | Depths Chests |
 | File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants 4 (Random) Buffs | Depths Chests |
@@ -357,3 +357,4 @@ _Requires Power Level 30_
 -   Arch confirmed that there are **5** master armors. (?)
 -   If you have crafted the armor, you can swap back to it again. This can be done with all armor sets—as long as you've crafted it on that character.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the blacksmith.
+-   Some armors such as Star Duster require enough Power to use.

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 18590
+revid: 18595
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -22,23 +22,27 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 
 ## Mantras
 
-### **COMBAT**
+### **Combat**
 
 | Media | Star Rating | Name | Card Description | Effect |
 | --- | --- | --- | --- | --- |
 |  | 
 > (☆☆☆)
 
- | Dark Blade | Slicing blades of dark energy. | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable. Adding a Tornado Spark adds a spinning effect after the cuts. |
+ | Dark Blade | Slicing blades of dark energy. | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
+
+-   Adding 1 Tornado Spark adds a spinning effect after the cuts.
+
+ |
 |  | 
 
 > (☆☆☆)
 
  | Shadow Gun | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
--   1 Blast spark will make your shadow gun shoot more.
--   Crystal and perfect lenses will increase the range.
--   Cloudstones and stratus stones increase hitbox.
+-   Adding 1 Blast spark will make your shadow gun shoot more.
+-   Adding crystal and perfect lenses will increase the range.
+-   Adding cloudstones and stratus stones increase hitbox.
 
  |
 |  | 
@@ -62,7 +66,7 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 
  | Shadow Roar | Roar a wave of shadows. | The user leans and creates a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. You are unable to move while using it. Blockable but block breaks, can be parried. |
 
-### **SUPPORT**
+### **Support**
 
 <table>
 <tbody>
@@ -76,7 +80,7 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 </tbody>
 </table>
 
-### **MOBILITY**
+### **Mobility**
 
 <table>
 <tbody>
@@ -92,7 +96,7 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 
 ## Talents
 
-### **ACTIVE**
+### **Active**
 
 | Image | Name | Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |
@@ -109,7 +113,7 @@ File:Shadow travel.png
 
  | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
 
-### **PASSIVE**
+### **Passive**
 
 | Image | Name | Tree | Rarity | Card Description |
 | --- | --- | --- | --- | --- |

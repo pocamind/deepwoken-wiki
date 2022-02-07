@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 17379
+revid: 18600
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna |
+| obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna, Upper Erisia |
 | description | N/A |
 
 
