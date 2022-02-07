@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 18169
+revid: 18488
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Deep Owl
 
-_Also Known As: Black Owls, Giant Owls, Owls, Tyrone, the Lineage Destroyer_
+_Also Known As: Black Owls, Giant Owls, Owls, Tyrone, the Lineage Destroyer, Big Black Man Or Requis_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 17013
+revid: 18478
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Boss, Monsters, Enemies]
 
 # Enforcer
 
-Nicknames: The Feinting Menace. (The enforcer gets this nickname from being a feinting god). ~ NubMan101
+Nicknames: Executioner
 
 “ I shall relish in scraping their remains off the floor. ”
 
@@ -22,12 +22,12 @@ Template:Creature Info Box v2
 
 ### Attacks
 
--   **High Swing -** The Enforcer lifts his axe high and swings it down. While being slower than Low Swing, does much more damage and posture break.
--   **Low Swing -** The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. While being faster than High Swing, does less damage and posture break.
+-   **High Swing -** The Enforcer lifts his axe high and swings it down. While being slower than Low Swing, does much more health and posture damage.
+-   **Low Swing -** The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. While being faster than High Swing, does less health and posture damage.
 -   **Kick -** The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard.
 -   **Whirlwind -** The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range.
--   **Space Pull** - The Enforcer holds his hand out and pulls the nearest person to him, regardless of distance, range, or altitude, and hanging them there for a moment, allowing him to attack freely.
--   **Feint** - Its a feint for a monster. Enough said
+-   **Space Pull** - The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely.
+-   **Feint** - Its a feint for a monster. Enough said.
 
 ### Finishers
 
@@ -40,13 +40,14 @@ Enforcer's Axe
 
 ### Rewards
 
--   **Enforcers Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
+-   **Enforcers Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.  
+    
 
 ## **Battle**
 
 The Enforcer is definitely a shake-up to the games formula. Up to the point at which you encounter it, the game has been throwing progressively stronger and stronger mobs at you. Big, slow, tanky. Just stand still, parry and dodge, easy.
 
-The Enforcer, though? It is a complete shock to the formula. All things considered, it is quite fragile, at 4000 health. This sounds like much, but if taking PVE scaling into account, even at the earliest level you can fight him, power 45, he would have about 890 health. Still large, but nowhere in the thousands. Do not be deceived by this amount, though. The Enforcer can parry, and **boy** does hit parry alot. Parrying on a monster is already scary enough, but he can **feint** too, being the only one of two monsters, or any NPC that does it. Parry trading wont work with it, as it can easily feint and ruin your flow.
+The Enforcer, though? It is a complete shock to the formula. All things considered, it is quite fragile, at 4000 health. This sounds like much, but if taking PVE scaling into account, even at the earliest level you can fight him, power 45, he would have about 890 health. Still large, but nowhere in the thousands. Do not be deceived by this amount, though. The Enforcer can parry, and **boy** does he parry a lot. Parrying on a monster is already scary enough, but he can **feint** too, being the only one of two monsters, or any NPC that does it. Parry trading wont work with it, as it can easily feint and ruin your flow.
 
 ### In General
 
@@ -56,7 +57,7 @@ The Enforcer, though? It is a complete shock to the formula. All things consider
 -   While not being recommended, beating The Enforcer on a level 45, or even earlier (If that situation somehow arises) Is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check like other Monsters and NPCs sometimes are.
 -   When it uses Whirlwind, do not attempt to challenge it at close range. It will shred your health. Fortunately, it is very easy to run away from.
 
-All in all, keep your nerves hardened, don't be fooled by it's intimidating situation and appearance, and most of all, do not be afraid to encounter it. If you intentionally avoid getting Depthed and fighting him, when you DO get Depthed, you'll be a fish out of water when the time comes. Beating it, even once will give you closure for the rest of your gameplay experience.
+All in all, keep your nerves hardened, don't be fooled by it's intimidating situation and appearance, and most of all, do not be afraid to encounter it. If you intentionally avoid getting drowned and fighting him, when you DO get drowned, you'll be a fish out of water when the time comes. Beating it, even once will give you closure for the rest of your gameplay experience.
 
 ## Lore
 

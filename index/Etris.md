@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 18193
+revid: 18494
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -144,7 +144,7 @@ Template:Areainfobox
 
 -   Talk to the Navaen Nomad in Etris, located near the big slope ramp close to the Alchemy House.
 -   She'll talk to you about a missing individual, whom they were suppose to meet in Etris. Agreeing to help to find this person accepts the quest.
--   Any info on how to finish this will be rewarded with 2 Vibrant Gems. Message PrιmΦrdιs#0070 and tell me how to finish it for your reward.
+-   Any info on how to finish this will be rewarded with 2 Vibrant Gems. Message PrιmΦrdιs#0070 and tell me how to finish it for your reward. ( I think you just give them a nomad?)
 
 ### Lord Regent Quest
 

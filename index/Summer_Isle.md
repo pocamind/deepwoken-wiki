@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 18263
+revid: 18482
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,7 +51,7 @@ Towards the bottom of the castle, right outside the the Brawling Arena, an NPC n
 -   If you try to give an item the "stat item" stats without the same amount of stats on the "appearance item," it will only transfer one of the stats. This is presumed to be random.
     -   Stats transferred are based on available attribute slots and prioritizing attributes by order top to bottom.
 -   If you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever.
--   This will _not combine_ stats, only replaces them.
+-   This will _not combine_ stats, only replaces them. (This may be a bit misleading, as forging items is insanely overpowered. Some forged armor pieces can have hp well over 20, and it works for nearly any armor piece if you follow the right protocols.)
 
 #### Vendors & Purchasable items
 

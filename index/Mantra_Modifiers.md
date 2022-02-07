@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18443
+revid: 18457
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
@@ -12,18 +12,23 @@ A rather foolish individual using quite a numerous amount of items to upgrade a 
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that can positively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
-The player can stack up to 3 of each Modifier, including the weaker versions of the Modifier. This means that, for example, 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra. _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra._
-
-The previous upgrades will only disappear if an _Amnesiac Driftwood_ is added to the mantra. Upgrading an already upgraded Mantra further will add onto the previous upgrades.
+There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will not receive the modifiers back when an _Amnesiac Driftwood_ is used. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
 Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
 
-  
-Keep in Mind not all mantra modifiers are obvious and may \*not\* work correctly even if a Mantra is compatible. (1: Revenge needing Drift/Rush Shards to reach further instead of Lens.) (2: Shadow Gun Not doing anything different after adding Blast Spark.)
+Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible, for example:
 
-## Mantra Modifiers
+1.  Revenge requires Drift/Rush Shards to reach further instead of Lens.
+2.  Blast Spark has no effect on _Shadow Gun_ despite being compatible.
 
-You can stack up to 3 of each modifier, including their weaker versions. This increases Ether cost though. The upgraded versions of modifiers (i.e. Cloudstone -> Stratus Stone) increase the ether cost further than their weaker counterparts.
+## Regular Mantra Modifiers
+
+Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stone_ and _Vibrant Gem_ (see Mantra Modifiers). Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
+
+The player can stack 3 basic modifiers and 3 upgraded modifiers for a total of 6 modifiers (i.e. 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra). _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra and may exceed your maximum Ether._  
+Unknown whether or not Sparks count towards the 6 modifier limit.
+
+Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades including sparks. Upgrading an already upgraded Mantra will stack onto the previous upgrades.
 
 | Image | Modifier | Effect | Note |
 | --- | --- | --- | --- |
@@ -141,7 +146,7 @@ You can stack up to 3 of each modifier, including their weaker versions. This in
 
 #### Glass Stone
 
--   This modifier adds a massive A.O.E. explosion of ice spikes for _Glacial Arc,_ and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
+-   This modifier adds a massive AoE explosion of ice spikes for _Glacial Arc,_ and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
 
 ## Deep Gems
 
@@ -302,7 +307,7 @@ also looks identical to falseflame.
 #### **Magnet Spark**
 
 -   This modifier adds an extra teleporting slash to the end of the _Lightning Blade_ Mantra.
--   This modifier change J_olt Grab_ Mantra so that: it no longer lunge, replace the hitbox with an aoe around the user with a blindspot behind, reduce the wind up, teleport to the target.
+-   This modifier change _Jolt Grab_ Mantra so that: it no longer lunge, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
 -   This modifier is compatible with the _Spark Swap_ Mantra but has no effect.
 -   This modifier is compatible with _Strong Leap_ Strength mantra (Appears to jump slightly more in the direction of an ally.)
 

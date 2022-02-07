@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 18150
+revid: 18487
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -143,6 +143,7 @@ _It is currently unknown if there are any 3-star combat Mantras for Thundercall.
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Lightning cloak is a legendary mantra card (confirmed in the official updates channel)
+-   Most people that get this have 100 thundercall.
 
  |
 

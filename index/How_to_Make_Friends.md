@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 18385
+revid: 18477
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -48,14 +48,14 @@ Charisma 1-34
 -   What?...
 -   Please leave me alone...
 
-Charisma 35-70
+Charisma 35-65
 
 -   Uh huh.
 -   Oh, sure.
 -   Mhm.
 -   Yeah.
 
-Charisma 70+
+Charisma 65+(Not 70+ when I had 65 people said this.)
 
 -   Oh! I see!
 -   Wow!
