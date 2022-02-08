@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18604
+revid: 18758
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -36,7 +36,7 @@ Quick Tip: To get the talent of using a heavy weapon one handed, you need at lea
 
 ### One-Handed
 
-Hold your weapon with your main hand, which allows the use of an off-hand accessory, such as shields, daggers, guns.
+Hold your weapon with your main hand, which allows the use of an off-hand accessory, such as shields, daggers, or guns.
 
 ### Two-Handed
 

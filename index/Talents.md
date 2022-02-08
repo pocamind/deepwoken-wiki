@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18593
+revid: 18768
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character]
@@ -38,7 +38,7 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 
 The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 
-**It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.**
+**~It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.~ False as I have gotten more than 20 rare and legendary talents in total.**
 
 ## Talents
 

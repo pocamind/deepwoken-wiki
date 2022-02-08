@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 18278
+revid: 18759
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map]
@@ -43,6 +43,6 @@ The Hidden Village is a small abandoned town located in the [Towerstruck Lands](
 
 -   First talk to Cestis with negative reputation with Etrea.
 -   When interacting with him, he talks about his benefactors from the West and asks you if you know what benefactors he's talking about, forcing you to take a charisma check to proceed.
--   If you passed the Charisma check, he will then tell you to kill another player in the server while also telling you their race.
+-   If you passed the Charisma check, he will then tell you to kill another player in the server while also telling you their race (the target's power will be 10+).
 -   Kill the player he tells you to and come back to claim your reward.
 -   For every assassination you complete you gain a pitiful amount of notes, and it reduces your reputation with Etrea. However, on your 6th assassination you gain Ministry reputation, as well as Cestis dialogue changing. When you complete your 35th assassination and have not obtained a [Murmur](Murmur.md), Cestis will teach you [Murmur: Tacet](Murmur.md) for your work.

@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 17605
+revid: 18780
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,8 @@ You will need your Charisma at 20 to learn the **Vow of Mastery** Talent. You wi
 To become a Master, you must ask a player a question similar to: "wanna make a vow of mastery?"
 
 The player must respond with "yes." after responding yes, you will have a menu appear on your screen which warns you and lets you accept or decline it. Once accepted an animation will play and the player will become your Subject. You can now use commands on them. However, you will need to improve your [Charisma](Attributes.md) and unlock the more essential commands as [Talents](Talents.md).
+
+  
 
 ## Commands
 
@@ -59,3 +61,6 @@ Charisma, Rare
 -   You can still get Vow of Mastery with the Oathless Talent.
 -   _Return_ can save someone from being gripped, but not from being carried.
 -   _Fight_ has a three minute cooldown.
+
+-   TIP: Sometimes someone will ask you something where you would say yes (for example if he sees you use a dagger he asks if you use light weapons) and immediately say "wanna make a vow of mastery?". That's a way of tricking people into agreeing to a Vow Of Mastery. So, be careful if someone asks you something where you would agree or say yes!
+-   TRUST NOBODY!!!

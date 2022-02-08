@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 18696
+revid: 18772
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -18,7 +18,7 @@ notices:
 
 The lore of Deepwoken is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is entirely based on the game, and does not include information from third party services (Lore Discord Servers, etc.)
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Dev's themselves (Arch\_Mage, Naktigonis)
 
 This Page is for LORE only. If you want to see which Faction can be reputable or not, go [here](Reputation.md).
 
@@ -32,10 +32,14 @@ _The Lord Regent, sitting atop his throne of coral._
 
 The Lord Regent is a mysterious individual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
 
--   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he uses [Shadowcast](Shadowcast.md) to kill whoever enters his line of sight without his permission.
--   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.
--   Hung around his throne are talismans with unknown symbols inscribed within them. Some have drawn the conclusion that The Depth's power is too much for mankind and must be contained at all times, or the Lord Regent must stay within his throne as leaving could cause his death.
+  
+
 -   Talking to the Bookworm in Etris about him reveals the backstory of Etris' previous rulers. All of their histories were recorded in books stored within the city's official history office, though said office ceased to exist before the events of the game, when the current Lord Regent rose to power. Many locals believe that the Lord Regent is stricken with some kind of illness, yet he remains the ruler of Etrea.
+-   His strength and power comes directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
+    -   Talismans are hung up around the throne, presumably to 'contain' this power. It is theorized if the Lord Regent were to ever leave from his containment, he could prematurely start a Great Drowning; killing himself and potentially the entire world.
+    -   The Lord Regent is not in any way a Krulian, as he is a mortal with the power of the gods below.
+-   Based on Jericho's Journal, Kingdom of Etrea may cause a great war; eventually leading to another Great Drowning.
+-   The Lord Regent's newfound power looks to be some form of [Shadowcast](Shadowcast.md); presumably enhanced by The Depth's power.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -285,12 +289,16 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Depth Divers (Mixed), Summer Company (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
--   **Lore Sources:**
+-   **Lore Sources:** _Authority Interrogator Talents_
 
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly of Adrets, but can vary with other races too.
+-   The Central Authority (as of we know now) use 3 attunements, and has their own role.
+    -   The Central Authority's Flamecharmers are used by Footsoldiers and Wardens alike.
+    -   The Central Authority's Thundercallers are footsoldiers; but they are notoriously known for torturing their prisoners with electricity.
+    -   The Central Authority's Frostdrawers are commanding officers.
 
 A Peacekeeper Grunt, part of The Authority
 
@@ -338,10 +346,10 @@ File:Divers Icon.png
 -   **Attunements:** _Thundercall?_
 -   **Alliances:** None
 -   **Enemies:** _None_
--   **Lore Sources:** _Ferryman_
-    -   More of a race than a faction per say, they are extremely rare and there is only 1 confirmed case of them in game, however Aelita may be a Krulian due to her unusual properties.
-    -   The Ferryman, the only confirmed Krulian, says that Krulians are the next step in the evolutionary chain and that they are the closest link between the people of the surface and the gods below.
-    -   It could be likely that due to Aelita's power and Krulian-like status, Krulians are not nearly as much as a race as they are an obtainable feat by any race. Evidence further backing this up includes the Ferryman having an Etrean appearance, and Aelita having a Felinor-like appearance.
+-   **Lore Sources:** _Ferryman, Arch\_Mage_
+    -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
+    -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch- but in [Aelita's](Aelita.md) case in the other hand, not much is known about her except for her ability to teleport and create clones of herself.
+        -   It is assumed that Aelita is a Krulian, as no one in Deepwoken can use that kind of ability she has.
 
 ### The Golden Warriors
 
@@ -366,9 +374,10 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Territory:** _Unknown (Presumably Aratel Island)_
 -   **Encountered In**: _Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
+-   **Lore Sources:** _Arch\_Mage, Songseeker Wilds_
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
--   Strangely, there seem to be no Galebreathe Songseekers.
+    -   These songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's 3 Attunements; thus is the reason why Galebreathe Songseekers do not exist.
 
 ### Bandits
 
@@ -382,18 +391,35 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharmer Historian_
 
--   Flamecharmers, originated from the Far West of the Luminant Sea...  
+-   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
+-   Flamecharm is one of the 3 Attunements of the Old World.  
     
 
 ### Frostdraw
 
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
--   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
+-   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.
+-   Frostdraw is one of the 3 Attunements of the Old World.  
     
 
-  
+### Thundercall
+
+-   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
+-   Thundercall is one of the 3 Attunements of the Old World.
 
   
+
+### Galebreathe
+
+-   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
+-   Galebreathe was created during the Cantaclysm; an event that lead to the destruction of the Old World.
+
+  
+
+### Shadowcast
+
+-   The power to harness the darkness within. The Ministry are known to use this Attunement.
+-   Shadowcast was presumably created later during the Cantaclysm; when the Tides came.
 
   
 
@@ -420,11 +446,19 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 #### The Origin of Adrets
 
-**Lore Sources:**
+**Lore Sources:** _Ishan_
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc). This seems to be many races main point of contention with them, viewing them as alien.
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
 -   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
+
+### The 3 Attunements
+
+**Lore Sources:** _Naktigonis_
+
+-   During the era of the Old World, there were 3 Attunements known to the people. Flamecharm, Frostdraw and Thundercast; all are gifts by the Song.
+
+  
 
 ## Deepwoken: ~1271 (New World)
 
@@ -439,12 +473,14 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Cantaclysm
 
-**Lore Sources:** _Celestial Telescope, Curved Blade of Winds_
+**Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming)_
 
--   An event that occured ever since the arrival of Celestials.
+-   An event that occured when the Old World has abused both the Song and its Attunements.
+    -   It is presumed that the City of Celtor was the cause of the Cantaclysm; as it was a hub of corruption and greed.
 -   Cantaclysm, on its own terms, is a Catastrophe relevant to music.
 -   It is unknown what the Cantaclysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
-    -   It is theoretically assumed that the Cantaclysm introduced the magic of Deepwoken; called Attunements.
+    -   It is theoretically assumed that the Cantaclysm lead to the rising of Tides; drowning the City of Celtor.
+-   The Cantaclysm lead to the destruction to the people of the Old World; and the creation of Galebreathe.
 
 ### The Tides
 
@@ -459,7 +495,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
--   Celtor was drowned by the Celtorian Horror due to its excessive greed.
+-   Celtor was drowned by the Celtorian Horror due to their excessive greed.
 
 ### The Depths
 

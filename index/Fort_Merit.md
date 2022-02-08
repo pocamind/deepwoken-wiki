@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 18693
+revid: 18757
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -64,6 +64,7 @@ Quest:
 
 -   Pick up the Etrean hostages within the prison and talk to the Guardmaster while carrying them.
 -   You will be rewarded with a chest containing decent gear and loot.
+-   Every 3rd rescue will have the Guardmaster tell you the boat is full. Meaning you have to wait 1 hour before being able to rescue more hostages.
 
 ### **The Captain (Officer Note Quest)**
 

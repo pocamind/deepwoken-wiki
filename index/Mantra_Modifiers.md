@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 18713
+revid: 18761
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
+categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra, Creation]
 ---
 
 # Mantra Modifiers

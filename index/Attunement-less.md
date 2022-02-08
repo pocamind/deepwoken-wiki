@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 18703
+revid: 18779
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -76,7 +76,6 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 
 -   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned.
     -   Requirement: ~5 Willpower, _Willpower Support Mantra._
-    -   ~(F_or some reason it scales off with charisma, I went to the trainer and it told me it could upgrade it, despite not meeting the requirements of 20+ willpower to upgrade but having 20+ charisma. weird stuff_)~ Now scales off of willpower
 -   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defence.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
     -   Requirement: 25 Willpower, _Willpower Support Mantra_
@@ -149,8 +148,7 @@ For example:
 
 ### _**Trivia**_
 
-1.  Glare was once a Charisma mantra, it was moved to Willpower for unknown reasons. ~Because the devs didn't move it properly, it still scales off Charisma, but it requires Willpower to be obtained~. This is Incorrect. Willpower is needed to obtain, and is scaled off of Willpower.
-2.  Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really, really weak. It's not worth getting it anymore.
-3.  Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
-4.  Rapid Punches is the single Attunement-less mantra that has a star.
-5.  Exhaustion Strike is glorified spit.
+1.  Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really, really weak. It's not worth getting it anymore.
+2.  Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
+3.  Rapid Punches is the single Attunement-less mantra that has a star.
+4.  Exhaustion Strike is glorified spit.

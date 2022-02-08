@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 18509
+revid: 18775
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Teleportation**, also known as Waypoint Travel or "Flying Raijin", is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
+**Teleportation**, also known as Waypoint Travel, "Gate" or "Flying Raijin", is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
 
 ### _Appearance_
 
