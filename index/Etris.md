@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 18690
+revid: 18722
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -108,7 +108,7 @@ Template:Areainfobox
 
 ### Etrean Docks
 
-#### Mantra Buyer
+#### [Mantra Collector](Mantra_Collector.md)
 
 -   Players can find (name) who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
 

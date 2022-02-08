@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 18559
+revid: 18723
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -62,9 +62,9 @@ Events that spawn in Isle of Vigils that involve combat.
 -   Players can find a Banker who they can turn in artifacts to.
 -   Players can find an Antiquarian who will purchase their sellable items.
 
-#### Mantra Buyer
+#### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find a Mantra Buyer named Cumberland near the bank.
+-   Players can find Cumberland, an NPC who will buy your [Mantra Modifiers](Mantra_Modifiers.md).
 
 ### Temple of the Blade
 

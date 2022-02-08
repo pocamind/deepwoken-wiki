@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 18485
+revid: 18730
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -12,7 +12,7 @@ _Sometimes referred to as **Squibbo**, Squid Hoss, Niglodaunt, Squidgames, Squid
 
 ## Description
 
-Template:Creature Infobox V3 Squidward (Official name in the game files) resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles.
+Template:Creature Infobox V3 Nautilodaunt (Official name in the game files) resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles.
 
 ### Attacks
 

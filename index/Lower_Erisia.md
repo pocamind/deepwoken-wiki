@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 18570
+revid: 18729
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -133,6 +133,7 @@ Below is a list of items that can spawn in chests in Lower Erisia.
 
 -   Leather Boots
 -   Black Fur Boots
+-   White Fur Boots
 
 ### [Weapons](Weapons.md)
 

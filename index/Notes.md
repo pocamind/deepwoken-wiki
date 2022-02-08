@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 13816
+revid: 18724
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 “ Show me shiny, show me magic! I give you sand dollar. ”
 
-― Modifier Buyers
+― [Mantra Collector](Mantra_Collector.md)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 18281
+revid: 18719
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -32,10 +32,10 @@ Isle of Vigils (Starting Island)
 
 ### **Erisia**
 
-Lower Erisia
+[Lower Erisia](Lower_Erisia.md)
 
--   Tomb of the Nameless Soldier
--   Pathfinder's Respite
+-   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
+-   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 
 [Upper Erisia](Upper_Erisia.md)
 
@@ -55,7 +55,7 @@ Lower Erisia
 
 -   Eastern Interstitial Lighthouse
 -   [Minityrsa](Minityrsa.md)
-    -   Valley of Heroes
+    -   [Valley of Heroes](The_Valley_of_Heroes.md)
         
 
 **The Aratel Sea:**

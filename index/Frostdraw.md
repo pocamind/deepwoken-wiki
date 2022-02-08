@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 18335
+revid: 18721
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -323,4 +323,7 @@ These talents have no category or their category is unknown.
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
 -   Hostile Frostdrawers can be found as Navaen Nomads in Etris, as Songseeker monks in Songseeker Isles and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
+
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
+
+-   Also blodless gem doens't work in frostdraw skills.
