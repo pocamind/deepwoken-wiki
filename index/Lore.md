@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 18052
+revid: 18696
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -18,7 +18,7 @@ notices:
 
 The lore of Deepwoken is vast, and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape; such as the Towerstruck Lands, The City of the Drowned, and much more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or on accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is entirely based on the game, and does not include information from third party services (Lore Discord Servers, etc.)
+**DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken playerbase, which could lead to misinterpretation by some individuals. This page is entirely based on the game, and does not include information from third party services (Lore Discord Servers, etc.)
 
 This Page is for LORE only. If you want to see which Faction can be reputable or not, go [here](Reputation.md).
 
@@ -188,7 +188,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   The Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
 -   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
 -   Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
--   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace.  
+-   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).  
     
 
 ### The Hundreds Legion

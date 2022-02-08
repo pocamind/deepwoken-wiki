@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 18494
+revid: 18690
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -135,7 +135,7 @@ Template:Areainfobox
 ### Lumberjack Quest
 
 -   Talk to the Etrean that is idling outside a house by the exit to the Etrean wilds
--   He will ask you to chop wood for her so that they have a sustainable supply of lumber for the Winter.
+-   He will ask you to chop wood for him so that they have a sustainable supply of lumber for the Winter.
 -   Accepting his quest gives you a Lumber Axe for free.
 -   10 Wood for 5 Notes.
 -   This quest is repeatable.

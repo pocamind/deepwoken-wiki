@@ -1,22 +1,19 @@
 ---
 title: Authority Commander (Enemy)
-revid: 17251
+revid: 18665
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Authority Commander (Enemy)
+
+Template:Creature Infobox V3
 
 ## Description
 
 Authority Commanders are High-Ranking members of The Central Authority. The rank of "commander" fits them very well, they have the combat skills of a experienced player and a huge health pool, making them a true challenge.
 
 Their appearance consists of the Authority Commander Uniform, a cape and an Authority Helmet.
-
-File:Fort Merit Captain.png
-
-A Fort Merit Captain, followed by Fort Merit Guards.
 
 ## Location
 
@@ -46,3 +43,4 @@ Boons:
 ## Notes/Trivia
 
 -   You can pickpocket the Authority Commander for the Jail Keys, but requires the Pickpocket Talent to do so. ~Without it, the captain will instantly aggro on you~. Nothing happens when you attempt to pickpocket them without the talent.
+-   You cannot talk with them, attempting to do so will pickpocket them instead.

@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 16078
+revid: 18691
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,3 +34,4 @@ Spawns within the Aratel Sea, the Void Sea alone, and Spawns in packs in Starswe
 -   In a tweet by Arch\_Mage (one of the developers) on twitter, it is called the "Brainsucker"
 -   Usually, if you are sailing, they don't notice you when they spawn. You can sail past them with no issue, as long as you are lucky and they spawn somewhat far from the ship.
 -   these are easy to outrun on boats if you do not use the dinghy
+-   does not actually suck brains (sad)

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 18273
+revid: 18707
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food]
@@ -46,7 +46,7 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 ### **Known Boosts:**
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
--   _"Slowed Stomach" =_ This buff significantly decreases the user's starvation speed.
+-   _"You Feel as though you could last more without Eating..." =_ This buff significantly decreases the user's starvation speed.
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
@@ -56,5 +56,8 @@ Probably these buffs can also be amplified with the "Apothecary" talent perhaps?
 ## Notes
 
 -   Some foods like Pomar will damage you but doesn't hurt you in other ways and still satiates your hunger, it is not known why. Pomar may represent a pineapple(just like a calabash represents pears). Pineapples contain bromelain, which breaks down proteins(what most of your body is made out of) which is why they hurt you a little bit but satify your hunger.
--   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout Hive, Erisia and Summer Isle. The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
+-   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout Hive, And Rarely Erisia and Summer Isle. The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
+    
+    A Individual who has crossed paths with The Meat Lord.
+    
 -   Having 0 thirst and/or 0 hunger will eventually kill you. Your health bar will slowly go down until it reaches 0 and you collapse on the ground and die.

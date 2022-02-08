@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 7826
+revid: 18705
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 18600
+revid: 18688
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -16,14 +16,18 @@ categories: [Weapons]
 | scaling | 6 MED |
 | range | 9 |
 | swing speed | 0.68x |
-| penetration | N/A |
-| selling price | N/A |
+| penetration | 25% |
+| selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna, Upper Erisia |
-| description | N/A |
+| description | "A surprisingly effective weapon despite its previous use by fishermen" |
 
+## Description
 
+The trident spear is a medium weapon and the second best spear in the game. It can be obtained by doing the explosion crate quest at summer island or from chests at many different places.
+
+The weapon itself is really similair to the iron spear, having the same m1s and crits, only differing in stats.

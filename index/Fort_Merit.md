@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 18265
+revid: 18693
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,12 +10,11 @@ categories: [Pages with broken file links]
 
 LocationL Fort Merit LocationR
 
-TERRITORY OF The Adretian Authority
+TERRITORY OF The Central Authority
 
 Once a prison at the edge of Etrean influence, now a forward base for the Authority.
 
   
-Template:Areainfobox
 
 ## Description
 
@@ -25,7 +24,7 @@ It has every necessary npcs other populated islands have, excluding the lumberja
 
 ## Location
 
-It is situated on Bluster's Rift side ,right at the edge of it. Usually you sail around the Hive until you see the port in the picture on the right, those are the docks that lead to Fort Merit.
+Template:Areainfobox It is situated on Bluster's Rift side ,right at the edge of it. Usually you sail around the Hive until you see the port in the picture on the right, those are the docks that lead to Fort Merit.
 
 ## Points of Interest
 
@@ -66,17 +65,16 @@ Quest:
 -   Pick up the Etrean hostages within the prison and talk to the Guardmaster while carrying them.
 -   You will be rewarded with a chest containing decent gear and loot.
 
-  
-**Officer Note quest**
+### **The Captain (Officer Note Quest)**
 
-There is a guy you can see through a window and you can bribe him with an officer note for key. The key will open the door to the forgotten temple.
+-   There is a guy you can see through a window, you can bribe him with an officer note for a key. This will open the door to the forgotten temple.
 
 ## Tips
 
 -   Not a great location to set your spawn point at.
 -   A great location to farm xp/items.
 -   Considering that there is a guaranteed Nomad hostage here. Getting [Way Of Navae](Way_of_Navae.md) by picking up the hostage from here and bringing it the whole way back to Etris is possible. (unless.... yes im looking at you lionfish)
--   BY the love of GOD, do not try to assassinate or grip ANY guard within the prison's vicinity. Only one "Hey, Over Here!" will bring the whole fucking security AND the commander to fuck you up.
+-   BY the love of GOD, do not try to assassinate or grip ANY guard within the prison's vicinity. Only one "Hey, Over Here!" will bring the whole security AND the commander to grip you and DESTROY you. If you are enemies with Central Authority YOU WILL GET DESTROYED INSTANTLY.
 
 ## Loots
 
@@ -102,3 +100,7 @@ The Quest's loot table.
 -   Saphire(6-8)
 -   Ruby(6)
 -   Emerald(8)
+
+## Notes/Trivia
+
+-   This place has a NPC which talks about the Isle of Crows, presumably a scrapped or not yet released island.

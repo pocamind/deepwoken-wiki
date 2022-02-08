@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 18110
+revid: 18711
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations]
@@ -10,7 +10,9 @@ categories: [World, Sailing, Locations]
 
 ## Description
 
-Navigation in Deepwoken can be confusing at first but use these maps if you are ever in need of easy navigation.
+Icon by Tako#3245
+
+Navigation in Deepwoken can be confusing at first, Use these maps if you are ever in need of easy navigation.
 
 ## Maps
 

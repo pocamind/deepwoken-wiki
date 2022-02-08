@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 15106
+revid: 18692
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,6 @@ Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to 
 ## Contents
 
 -   Blacksmith
--   Weapons and Schematics Shop
 -   [Akira](Akira.md) (if you have talked to him before.)
 -   [Nyanna](Nyanna.md) (weapon and armor schematic shop with a rotation)
 

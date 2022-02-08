@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 18267
+revid: 18704
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -120,7 +120,7 @@ If you have high reputation, the shipwright talks about ship modification, which
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
--   In order to summon boats here you need [positive reputation](Reputation.md).
+-   In order to summon boats here you need max [positive reputation](Reputation.md).
 -   There is a secret room located within the Hive Laboratory behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
 -   Certain spots of the Hive have been spotted to be "Rotting" away. Creatures of the depths, such as Megalodaunts and Lionfish can be spotted near these areas. It is possible Greathive is sinking, although it is unlikely as (according to Regek) the four Greathives were created to sustain a world above the tides.
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.

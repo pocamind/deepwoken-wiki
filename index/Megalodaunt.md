@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 18308
+revid: 18712
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,7 +26,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 ## Moves
 
 -   **Slash** - A short range slash. Can be blocked and parried. Heavy posture damage.
--   **Kick** - It's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if kicked into a wall.
+-   **Kick** - It's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if kicked into a wall. \[Attack Commonly Known as "Watch Yo tone", "Watch Your Tone", "Tone Check", "Tone Watchinator".\]
 -   **Jump** - If the target is above it, the Megalodaunt will jump, causing a multi-hit attack in a wide radius in front of it. Can be blocked and parried (this attack may be used after a kick).
 -   **Spit** - A multi-hit projectile targeted at a single target. Can be blocked and parried.
 -   **Roar** - Roars at nearby targets, putting them in combat and inflicting a generous amount of insanity. A poor move in the Etrean Luminant but especially deadly in [The Depths](The_Depths.md), as it can cause a player to suffer from the effect of Insanity much earlier than expected, or worse, mid fight.
@@ -40,7 +40,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 ## Variants
 
 -   **Megalodaunt** - A normal Megalodaunt, with 1000 HP. Inside of the depths, it can spawn Corrupt to further increase health and attack power by 3x (3000 HP)
--   **Red Megalodaunt** - A much more powerful, red version of the Megalodaunt with roughly 3x health. The red Megalodaunt appears exclusively at the Songseeker Wilds in the Megalodaunt vs Red Megalodaunt event.
+-   **Crimson Megalodaunt** - A much more powerful, red version of the Megalodaunt with roughly 3x health. The red Megalodaunt appears exclusively at the Songseeker Wilds in the Megalodaunt vs Red Megalodaunt event.
     -   If the event is left by itself, the red one will always win, due to its larger health pool of 3000 HP.
     -   Has the ability to rain down fiery swords from the sky.
 -   **Alpha (Grey) Megalodaunt** - Appears exclusively in the Depths. Has 1600 HP with improved damage. Can spawn as a Corrupt version, further increasing attack power and health by 3x (4800 health).
@@ -67,7 +67,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 
 -   It is the most common Giant Type enemy.
 -   Sharko's have swimming animations, as seen on the right.
--   Corrupted Sharko is much more dangerous than [The Enforcer.](Enforcer.md) (honestly depends on what you are better at)
+-   Corrupted Sharko is much more dangerous (Due to the Tone Watchinator) than [The Enforcer.](Enforcer.md)
 -   New players should be wary of the Megalodaunt, as without the proper knowledge of how to parry, it can end most runs short.
 -   DO **NOT** RUN FROM ONE OF THESE UNLESS YOU FIND A PLACE IT IS TOO TALL TO ENTER, FOR IT IS **FUTILE** AND **WILL** RESULT IN YOUR DEMISE!
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of his presence. This noise will consistently come from the Megalodaunt until it becomes aggressive towards the player.

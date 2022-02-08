@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 18482
+revid: 18700
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -145,7 +145,7 @@ Once you get up, you will unlock Thundercall and can learn it's mantras and sele
 
 If you already have thundercall, he can upgrade your moves for 100 notes each. You can upgrade the same move multiple times. (this works if you got thundercall from him and now have a mantra too)
 
-## Loots
+## Loot
 
 Possible items found after completing Scope's quest
 

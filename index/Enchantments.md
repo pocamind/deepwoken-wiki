@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18589
+revid: 18664
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -289,13 +289,13 @@ Having the "Drowned" enchant makes it so stats can go past their limit (e.g 64 h
  |
 | 
 
-File:EyeglassesDisplacement.png
+File:Displacement.png
 
-Displacement (Eyeglasses with displacement enchant)
+Displacement
 
  | 
 
-Upon getting hit, the user has a chance of getting 2 balls appearing around their face.
+Upon getting hit, the user has a chance of getting teleported a short distance(Currently broken).
 
   
 

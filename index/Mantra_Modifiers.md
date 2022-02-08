@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18507
+revid: 18713
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra]
@@ -19,11 +19,10 @@ Heavily modified mantras will require Notes offering to be made. To see prices a
 Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible, for example:
 
 1.  Revenge requires Drift/Rush Shards to reach further instead of Lens.
-2.  Blast Spark has no effect on _Shadow Gun_ despite being compatible.
 
 ## Regular Mantra Modifiers
 
-Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stone_ and _Vibrant Gem_ (see Mantra Modifiers). Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
+Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stone_ and _Vibrant Gem_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
 The player can stack 3 basic modifiers and 3 upgraded modifiers for a total of 6 modifiers (i.e. 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra). _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra and may exceed your maximum Ether._  
 Unknown whether or not Sparks count towards the 6 modifier limit.
