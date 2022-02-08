@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18761
+revid: 18790
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra, Creation]
@@ -202,7 +202,7 @@ Flame Blind
 
 Lightning Stream
 
-Shadow/Ice Chains
+Ice Chains
 
 Fire/Ice Forge
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 18700
+revid: 18800
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -17,77 +17,146 @@ The smell of gunpowder blankets this tropical paradise.
   
 Template:Areainfobox
 
-The Summer Isle is an island in the Aratel Sea. It is the only currently known area where there is access to firearms and a Hunter's Brace.
+The Summer Isle is a populated island in the Aratel Sea, it is the Summer Company's headquarters and is the only currently known area where there is access to firearms and Hunter's Braces.
 
-## Island Contents
+## Points Of Interest
 
-#### Firearms
+### _**Firearms**_
 
 Main Article - [Weaponry](Weapons.md)
 
-Its main attractions are the guns, which can be found inside the main building of the island. There is a gunsmith who sells a variety of firearms that are on sale at the prices of -
+The Summer Isle's main attractions are the firearms, which can be found inside the main building at the gunsmith, the prices being:
 
--   [Flintlocks](Flintlock.md) - 100 Notes
--   Revolvers - 200 Note
+-   [Flintlocks](Flintlock.md) - 100 Notes. The first guns the player to access early-game, dealing 10 damage on hit.
+-   Req: 20 Light Wep..
 
-Flintlocks deal 10 damage, revolvers deal 13 damage, and dragoons deal 20 damage. These guns can be parried and blocked like normal attacks, and ammunition for these guns can be bought from the nearby Con for 5 notes each.
+-   [Revolvers](Repeater.md) - 200 Notes. Similar to the flintlocks with a slight increase in damage (13) and a massive increase in swing speed.
+-   Req: 60 Light Wep..
 
-#### Armor
+-   [Dragoons](Dragoon.md) - 500 Notes. Similar to the flintlocks with a massive increase in damage (20).
+-   Req: 60 Light Wep..
 
-Only one blueprint can be found on this island that being the Summer Company Uniform found sitting on a table beside the gunsmith.
+Notes:
 
-This island also sells Hunter's Braces which can be equipped to parry red attacks. This is not a permanent accessory and you are unable to find it on your character when sitting by a campfire. You have to buy another Brace if you leave the server.
+-   Bullets are required for the player to use the critical attack, if the player doesnt have bullets it will consume ether instead.
+-   They're currently the only known weapons to have a critical attack that travels a long distance.
+-   Bullets can be obtained by buying (5 notes each) or by crafting 5 using a piece of Iron.
+-   These weapons also come with an off-hand version, found at the same place.
+-   These weapons can be parried/blocked/dodged like normal attacks.
+-   Hunter Braces can only be found here, upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks,punts, etc.)
 
-#### Brawling Arena
+### _**Brawling Arena**_
 
-The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle. Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the Arena.
+-   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
+-   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.
 
-#### Forge
+### _**Forge**_
 
-Towards the bottom of the castle, right outside the the Brawling Arena, an NPC named Jarvis will allow you to smelt two items into one for you, transferring the stats of one item into the other.
+Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 items into one for you, transferring the stats of one item to another. He is located next to the Brawling Arena.
 
 -   It costs 1000 Notes per smelt, regardless of the items being smelted.
 -   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
--   If you try to give an item the "stat item" stats without the same amount of stats on the "appearance item," it will only transfer one of the stats. This is presumed to be random.
-    -   Stats transferred are based on available attribute slots and prioritizing attributes by order top to bottom.
--   If you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever.
+-   If you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever
 -   This will _not combine_ stats, only replaces them. (This may be a bit misleading, as forging items is insanely overpowered. Some forged armor pieces can have hp well over 20, and it works for nearly any armor piece if you follow the right protocols.)
 
-#### Vendors & Purchasable items
+#### _**How Forging Works:**_
 
-Like the _**Island Of Vigils,**_ and _**Etrea**_, the Summer Isle has similar vendors to the spawn Island, these being the -
+We'll note the items this way:
 
--   Antiquarian, who will buy loot, gear and weapons from you for notes.
--   Modifier trader, who buys your mantra modifiers for notes.
--   Con's Pawn, who sells not only Attribute training items, but also attunement training items alongside basic supplies such as wood, fiber and flint.
--   A Blacksmith in one of the castle's outer Palisades.
--   A Hunter's Brace is sold here, which allows you to parry normally unstoppable attacks such Primadon's kick.
+-   Items that you wish to keep the stats off = IS
+-   Items that you wish to keep the appearance off = IA
 
-The location of Scope & The Blacksmith.
+1.  Trying to transfer a IS with worse stats to a IA with better stats = the IA will have it's stats downgraded.
+2.  Trying to transfer a IS with better stats to a IA with worse stats = the IA will have it's stats upgraded.
+3.  Trying to transfer a IS with any stats to a IA with no stats = the IA will obtain the said stats, but will get downgraded slightly.
 
-Inn
+In conclusion, forging is _very, very overpowered_ as you can get gear that has atleast **60 hp** if you play your cards right.
 
-The Inn is outside of the Summer Isle's castle on a seperate island and will allow you to set your spawn at the Summer Isle. Additionally, next to the Innkeeper, is a guildmaster who will allow you to leave and create a new guild.
+### _**Inn**_
 
-#### Thundercall Trainer
+-   The Innkeeper, setting your spawnpoint here costs 5 Notes.
+-   The Guildmaster.
 
-On the second level of the Summer Company's castle, is the spelltrainer for Thundercall that cost 100 notes.
+### _**Thundercall Trainer**_
 
-There is a supply room which contains Scope, the NPC that you give the explosives crates to in return for a chest.
+On the second level of the Summer Company's castle is the spelltrainer for Thundercall.
 
-Finally, there is a strange Stonehenge-like structure. This structure is where you arrive after invoking to Summer Isle from Greathive Aratel. It has some sort of device which also appears in a cave nearby.
+-   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining Sparkblood.
+-   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
 
-Some food items can be found, in addition to at least 1 treasure chest. In the treasure chest I found, there were 6 sapphires.
+## Vendors & Purchasable Items
+
+#### _**Vendors:**_
+
+The Summer Isle has similar vendors to the spawn islands, these being the:
+
+-   Antiquarian : Buys any type of loot excluding mantra modifiers and some clothing
+-   The Blacksmith: Located within the castle's outer Palisades.
+-   Modifier Trader : Buys gems and mantra modifiers only.
+
+#### _**Purchasable Items/Blueprints/Weapons**_
+
+##### Items
+
+-   Hunter's Brace = Upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks,punts, etc.)
+-   Self-conducting loop.
+-   Hearthgem
+-   Pure Heart
+-   Hemafrost
+-   Gale Kata
+-   Praying Beads
+-   Ankle Weights
+-   Training Vest
+-   Dumbbell
+-   Wood
+-   Cloth
+-   Fiber
+-   Flint
+
+##### Blueprints
+
+-   [Summer Company Uniform](Summer_Company_Uniform.md)
+
+##### Weapons
+
+-   Flintlock
+-   Revolver
+-   Dragoon
+-   Silver Dagger
 
 ## Island Denizens
 
 Main Faction - [Summer Company](The_Summer_Company.md)
 
-There are guards on this island that wield flintlocks, and some nomads that can spawn fighting a Ministry member (the shadow mantra guys) on the outskirts. There is two more events, where the Summer guards are either fighting Bandits or Ignition Union Members (They are wearing Ignition Union armor). Trig and Asius are the only two named NPCs I can remember the name of. There are several merchants in the area. There is an npc reading a book on a bridge near the castle, which you can access by climbing down a ladder and following a path, this NPC clears your reputation.
+-   Ignition Union Footsoldiers
+-   Summer Company Guards
+-   Summer Company Thugs
+-   Nomad Tribe Members
+-   Nomad Tribe Leaders
+-   Bandit Captains
+-   Ministry Scouts
+-   Bandits
+
+### Relationships inbetween NPCs:
+
+-   Basically everyone hates everyone, if it's on their side, they wont attack.
+
+### NPC events:
+
+-   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives.
+-   Bandits spawning on the front entrance's stairs in pair of 7, ambushing the castle's entrance.
+-   Bandit Captains and Bandits fighting with Summer Company Thugs.
+-   Ignition Union Footsoldiers fighting with Summer Company Thugs.
+-   Ministry Scout and several Bandit corpses around themselves.
+-   Nomads fighting off Ministry Scouts.
+
+### **Clearing Bad rep.**
+
+-   Nepo, an NPC found on a bridge can clear your bounty with Summer Company.
 
 ## Quests
 
-### Trig's Quest
+### _**Trig's Quest**_
 
 Trig is an NPC that can be talked to who stands at the entrance of the Inn. His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
 
@@ -103,7 +172,7 @@ Answering with the first dialogue option and returning to Trig will cause him to
 
 Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but also a new Gun Technique, which is a talent called Armor Piercing. (Requires intelligence to obtain, gun critical requires Ether Bullets which requires 10 intelligence to obtain.)
 
-### Scope's Fetch Quest
+### _**Scope's Fetch Quest**_
 
 Scope can be found in a building opposite to the blacksmith in the above image mentioning the Blacksmith. He needs you to recover boxes of explosives that Summer Company guards cannot deliver at the time, due to being too busy fighting off the Ignition Union.
 
@@ -128,22 +197,6 @@ _Positive rep with the Summer Company, after delivering a box of explosives._
   
 
   
-
-### THUNDERCALLER QUEST
-
-First, talk to the NPC with brown hair and slightly tanned skin
-
-He will talk to you for a bit, then ask if you want to become a thundercaller
-
-If you respond yes, he will ask you to bring 5 spark glands
-
-After giving him the spark glands, he will crush them into a bottle and add a drop of his blood to the concoction and give it to you. This item is called Sparkblood (NOTE: you cannot drop this item)
-
-Once you drink it, you will get ragdolled and have an electric aura around you, while also taking 10% of your max hp
-
-Once you get up, you will unlock Thundercall and can learn it's mantras and select it in the character select screen for that character slot.
-
-If you already have thundercall, he can upgrade your moves for 100 notes each. You can upgrade the same move multiple times. (this works if you got thundercall from him and now have a mantra too)
 
 ## Loot
 

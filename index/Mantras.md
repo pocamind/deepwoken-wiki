@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 18686
+revid: 18797
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement]
 
 File:Mantraicon.png
 
-> _**Whispers from the deep touch that balls...**_
+> _**Whispers from the deep beckon you...**_
 
 Mantras are internalized passages of the Song that practitioners use to conjure Magic. Mantras are utilized as a variety of abilities, often uniquely modified by their casters through esoteric methods.
 

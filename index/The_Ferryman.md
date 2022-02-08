@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 18586
+revid: 18808
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -33,7 +33,7 @@ _After talking with him, a boss fight will be initiated. However, it should be n
 -   **Lightning Strike** - The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them. Becomes much faster in Phase 2.
 -   **Lightning Assault** - The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping. Becomes much faster and deals more damage in Phase 2.
 -   **Electromagnetic Pulse** - The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack in Phase 2.
--   **Grand Volley**\- The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack in Phase 2.
+-   **Grand Volley**\- The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack in Phase 2. (Each spear does about 260 damage, this is a rough estimate though.)
 
 ### Finishers
 
@@ -60,6 +60,7 @@ Each section describing the phases describes how to deal with his moves in each 
 -   A near necessity for the fight is using fires to heal, which are thankfully already nearby due to the process of summoning him. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will NOT guarantee your safety. Try to heal at most one bar before continuing the fight. If in dire need, try to go for two.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to four specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
+-   Just before the Ferryman's first attack, which is guaranteed to be Lightning Assault, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
 
 ### Phase One
 
@@ -84,7 +85,7 @@ Phase two is where shit gets real, the real fight. All of his previous attacks g
 
 The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
 
--   "Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!" - You killed the Ferryman within the time limit and received a reward. (Only available in Summer (only once), Autumn and Winter)
+-   "Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!" - You defeated the Ferryman and received a reward, which is either the Amethyst Pendant Earrings, the Ferryman's Coat schematic, or the Krulian Knife. (Only available in Summer (only once), Autumn and Winter)
 -   "Look into the flames, and you shall see my gift... If you have the strength to take it that is. ~\- (likely explanation: You took too long doing it and received no reward; The Ferryman is timed like Primadon is (you still get luck). Could be related to purple flame from 'the Forge of Sin' in the [Temple of the Forgotten Flame](https://deepwoken.fandom.com/wiki/Temple_Of_The_Forgotten_Flame) (Only available in Spring)~ Not true, some chad tested it and if you don't have a murmur you'll get this text, however if you do have a murmur he says something like "It seems like another gift has been granted to you". (Only Spring)
 -   "I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always." - You get this dialogue after killing the Ferryman for the second time or more. (Subsequent attempts after beating him once)
 
@@ -113,3 +114,10 @@ The Ferryman has 3 different dialogues for after you kill him. They all have uni
     File:Petris.png
     
     _Petris, found traumatised in The Depths._
+    
+      
+    
+
+## Bugs
+
+-   It is possible to pass through the Ferryman's barrier using a Rapid slashes, a Light weapon skill. You need a person at the other side of the barrier though.

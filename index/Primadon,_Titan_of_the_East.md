@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 17786
+revid: 18781
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck, Monke]
@@ -55,7 +55,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
     -   If multiple players are attacking the Primadon at the same time, make sure that they're all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the **Scuba Drowner** talent or lived the fall.
--   Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks. ~However, if you have a Bloodless Gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself.~ This does not work, as Bloodless Gem's healing scales off of damage dealt, so since you deal no damage, you don't heal.
+-   ~Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks.~ However, if you have a Bloodless Gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself. ~This does not work, as Bloodless Gem's healing scales off of damage dealt, so since you deal no damage, you don't heal.~ This is completely false. Whoever decided to assume that it does no damage is wrong. Mantras do damage to the primadon, although not nearly as much as basic attacks. I can confirm this with utmost certainty. Please do not assume things and if you do don't make them seem like fact. The only mob that is truly immune to mantras is Nautilodaunt (Squid Hoss)
 -   Debuffs from Mantras do affect Primadon.
 -   An easy way to cheese this is, place a azure flames graceful flame(you will take damage while casting) and fight Primadon next to hit so you heal back the damage you lose
 

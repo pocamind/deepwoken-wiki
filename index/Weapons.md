@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18758
+revid: 18806
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -498,7 +498,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td>Ritual Spear</td>
+  <td><a href="Ritual_Spear.md">Ritual Spear</a></td>
   <td>35 MED</td>
   <td>19</td>
   <td>25%</td>
