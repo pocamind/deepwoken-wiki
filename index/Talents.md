@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19061
+revid: 19116
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -36,7 +36,7 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   You cannot roll Neuroplasticity with Return to the Dark Ages.
 -   You cannot roll Return to the Dark Ages with Everchanging Aegis.
 -   You cannot roll Risky Moves with Safety Dance and Observation.
--   This is off the top of my head so there're way more
+-   You **need** Bloodiron Spirit to roll Thresher Scales.
 
 The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 

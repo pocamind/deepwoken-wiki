@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 18811
+revid: 19097
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -102,17 +102,17 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
-    -   Requirement: 5 Light Weapon, _Light Weapons Agility Mantra_
+    -   Requirement: 10 Light Weapon, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
 -   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
-    -   Requirement: 5 Medium Weapon, _Medium Weapons Combat Mantra_
+    -   Requirement: 10 Medium Weapon, _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
-    -   Requirement: 5 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
+    -   Requirement: 10 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
 
 ## Upgrading Mantras
 

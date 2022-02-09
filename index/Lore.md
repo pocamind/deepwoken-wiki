@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 19015
+revid: 19146
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -99,7 +99,14 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
 The one and only... MEAT LORD!
 
-  
+### Yun'shul
+
+-   A being that is restrained within the [Temple of Hearts](Temple_of_Hearts.md). Yun'shul is known for rerolling one's Resonance, and the ability to send the drowned to the surface.
+-   Yun'shul is a Drowned God; based by Arch\_Mage.
+
+File:Yun'Shul.png
+
+Yun'shul
 
 ## Locations
 
@@ -244,6 +251,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   A group of dark mages with unknown motives. Further research is required.
 -   They warn of (and possibly bring about?) the sinking of the Overworld into [The Depths](The_Depths.md).
 -   The Ministry has some sort of hostility against the Navaen Nomads, commonly encountered in [Summer Isles](Summer_Isle.md).
+-   These guys have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices.
 
 A Dark Mage, located in Minityrsa.
 
@@ -280,7 +288,7 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _Summer Company_
 -   **Lore Sources:**
 
--   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company
+-   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 
 ### The Central Authority
@@ -525,6 +533,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
     -   It is unknown how many layers are there.
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
+
+### Drowned Gods
+
+**Lore Sources:** _Arch\_Mage (One of his posts in Discord)_
+
+-   As the name applies, godlike beings who originated from The Depths. one notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   Mortals (And even players themselves) cannot win against a Drowned God- As they have no chance of fighting a being powerful enough to explode their heads in an instant.
 
 ### Ancestors of Ganymedes & Vesperians
 

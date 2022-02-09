@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 17695
+revid: 19126
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -79,3 +79,5 @@ as faster regen, really high insanity resistance or starvation reduction.
 
 -   Each of the marks appear to originate from a different real-world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
 -   This race is likely a reference to the Capra Demon, a boss in Dark Souls.
+-   One of the Capra-exclusive ornaments does not have teeth included to the mask, while the rest does.
+-   If you does not have any hair on your ROBLOX avatar as a Capra, you will be forced to wear a type of hair that's pretty fair-looking and not ugly.

@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 18914
+revid: 19113
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -31,7 +31,7 @@ Rewards
 
 -   Notes
 
--   Now also give luck (since 02/08/2022 Luck Rework)
+-   10% luck
 
 -   10 Common to Rare Items, including:
     -   Armor Blueprints
@@ -62,3 +62,4 @@ A Celtor finding the pulsating rings.
 -   The Piece of the Forge Artifact used to sell for 800 Notes.
 -   They despawn after 1 hour if not picked up
 -   Be careful when bringing this to the bank. Most of the time when players see you with this, they will try to kill you so they can get their hands on the Artifact, since it gives very good rewards. Stay out of sight, and stay safe.
+-   The amount of Items it gives may increase with the talent "Looter" given by [Experienced Adventurer](Experienced_Adventurer.md) armor. (Not tested)

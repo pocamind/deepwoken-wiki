@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 19075
+revid: 19104
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -30,7 +30,7 @@ Etris (Starting Island)
 Isle of Vigils (Starting Island)
 
 -   [Temple of the Blade](Temple_of_the_Blade.md)
-    -   Temple's Approach
+    -   [Temple Approach](Temple_Approach.md)
 
 ### **[Erisia](Erisia.md)**
 

@@ -1,14 +1,11 @@
 ---
 title: Crypt Blade
-revid: 19019
+revid: 19140
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Crypt Blade
-
-File:Crypt Blade.png
 
 ## Description
 

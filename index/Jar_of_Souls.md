@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 18070
+revid: 19123
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -38,6 +38,7 @@ Pressing C will activate the **Jar of Souls** Resonance.
 
 -   With **Jar of Souls**, the user collects souls from recently killed humanoids, players or NPC, to amplify the strength of their beam.
 -   On activation, **Jar of Souls** will use stored souls to release an intense beam of souls that damage and stun targets. With max souls, this beam can deal about 300 damage.
+-   With **Jar of Souls, Version 1,** the continuous beam may be halted by letting go of C, however since **Version 1** drains so fast, it is not recommended to halt as you continue to lose souls starting up and halting the beam.
 
 ## Trivia/Notes
 

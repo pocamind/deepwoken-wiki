@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 18946
+revid: 19142
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -76,7 +76,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Deal heavy posture damage
 
  |
-| File:Flame Blind.png | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
+|  | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._

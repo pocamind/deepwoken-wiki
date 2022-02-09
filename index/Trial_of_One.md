@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 19076
+revid: 19131
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -25,6 +25,8 @@ Due to lack of info, update logs will sit as a placeholder for now.
 
 -   It was added because the developers felt there was a real hole in early game challenges that good players could undergo to get a build online fast. This coupled with their changes to Luck were made because they want players to be able to have fun making new builds, and to be able to get them quickly.
 
+-   You need to use all your free points in order to start the next trial.
+
 File:Reward for finishing.png
 
 ## Trials
@@ -48,6 +50,7 @@ File:Reward for finishing.png
 
 ## Tips and Tricks
 
+-   Their HP is highly nerfed, took me 20 hits to kill a sharko with a starter sword.
 -   **Parrying challenge -** While you get auto parrying frames, its not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Play it safe and only do 2 hits at a time between each attacks.
 -   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks.

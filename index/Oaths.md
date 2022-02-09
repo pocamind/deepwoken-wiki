@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 19069
+revid: 19138
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -34,7 +34,7 @@ _"You vow to never be bound to any oath; to live your life free of restraint. If
 
 ### _Description_
 
-**Oath: Oathless** is the easiest Oath to obtain currently, only requiring [Power Level](Power.md) 30.
+**Oath: Oathless** requires [Power Level](Power.md) 30 to obtain in card rolls.
 
 ### _Obtaining_
 
@@ -75,14 +75,31 @@ This Oath grants the player one (1) Support Mantra Card slot, one (1) Wildcard M
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye.
 
+## **Oath: Visionshaper**
+
+_"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
+
+Requirements: Have a void feather
+
+_**Obtaining**_
+
+1.  Go to Surge, he is located past the Widow Cave in the depths.
+2.  Take the quest from him and kill Owls until you get a void feather.
+3.  Bring the void feather to him (Might Require 1-10)
+
+_**Effects**_
+
+Gives decent stats, allows you to obtain Illusion magic by turning in more void feathers into Surge.
+
+Gives you a purple glowing eye.  
+
 ### _Notes_
 
--   This Oath, along with the Willower passives will grant you 96 Sanity, and will allow you to last 88 minutes in [The Depths](The_Depths.md).
--   If you don't have any face accessory on it will still show you as wearing a blindfold (excluding Vesperian, it will always show black mask).
--   When using the [Portal](Portals.md) resonance, the blindseer eye will still be visible, and will not disappear along with the rest of your character.
+No known level requirement as of now, and the only oath as of now to let you obtain new moves.
+
+Pretty easy to get if you have friends, you could probably get it at level 1.
 
 ## Trivia/Notes
 
 -   More Oaths are planned to added later, as stated in an update log.
     -   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well
-    -   New Owl Oath, obtainment unknown, if you had a guess it probably would be intelligence, because owls are supposed to be wise.

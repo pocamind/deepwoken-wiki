@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19017
+revid: 19115
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -585,14 +585,14 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.7x</td>
 </tr>
 <tr>
-  <td>Sacred Hammer(?)</td>
+  <td>Sacred Hammer</td>
   <td>65 MED</td>
   <td>20</td>
   <td>10%</td>
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.7x</td>
+  <td>0.75x</td>
 </tr>
 </tbody>
 </table>
@@ -666,6 +666,10 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+</tr>
+<tr>
+  <td>Night Axe</td>
+  <td>75 HVY</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>

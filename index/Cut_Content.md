@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 17070
+revid: 19118
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,11 +12,7 @@ notices:
 
 ## Location
 
--   **The Voidheart -** While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.\\
-
-## Talents
-
--   **Oath: Visionshaper** - An Oath that was obtainable to testers before release. This Oath could return, but for now we're only left with the description: _"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."_
+-   **The Voidheart -** While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.
 
 ## Mantras
 
@@ -31,4 +27,3 @@ notices:
 ## Other
 
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chest dropped from the monster used to be locked and had to be carried to NPCs to be unlocked to reap the rewards. 2 NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader still mention this mechanic in their dialogue.
--   **Surge -** NPC in a hidden library within The Depths. Currently disabled according to some testers, but his function is unknown.

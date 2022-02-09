@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 18876
+revid: 19149
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -18,11 +18,16 @@ notices:
 
 ## Description
 
-The Chime of Conflict is a talent and item obtainable by talking to Yamaketzal at the Songseeker Temple. It can be used to enter instanced PvP arenas for players to practice, compete for glory, loot and luck without risking themself in reality.
+The Chime of Conflict is a talent and item obtainable by talking to Yamaketzal at the Songseeker Temple (requirement pending). It can be used to enter instanced PvP arenas for players to practice, compete for glory, loot and luck without risking themself in reality.
 
 ## PvP Arena
 
-Players using the bell will be prompted to select a gamemode between 1v1 and 3v3. After their selection and a confirmation, they will be removed from the game world and transported to a new server where they will wait to matchmake with a player. Once a player is found, a new server is created and the contestants can duke it out.
+Players using the bell will be prompted to select a gamemode between 1v1 and 3v3. Depending on their selection, 2 things can happens:
+
+-   **1v1 -** The player is instantly taken to the matchmaking queue.
+-   **3v3 -** A small area is created around the user to let 2 other player join there team before being transported to the matmaking queue.
+
+Afterward, players will be waiting in the queue and be put in a match with their opponent.
 
 ## Rules
 
@@ -40,6 +45,7 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 -   Dying shatters 1 skull. If the player still have 2 or 1 skull left after this, they are not penalized.
     -   Shattering the last skull will make the player drop items and send them to [The Depths](The_Depths.md).
 -   Players recover 1 skull in case of a victory. They also recover all their skulls every season change (every IRL day, at midnight GMT+0)
+    -   If they were sent to The Depths by the PvP Arena, escaping it will restore 2 skulls.
 
 ## Rewards
 

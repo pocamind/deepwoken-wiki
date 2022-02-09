@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 19084
+revid: 19095
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,7 +29,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 #### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find (name) who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find Shnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
 
 #### Shipwright
 
