@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 18733
+revid: 18814
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -31,6 +31,7 @@ Antiquarians can buy weapons, gems and other items for [Notes](Notes.md). These 
 
 | **Item** | **Price (Base/Salesman/Snake Oil)** |
 | --- | --- |
+| _Gems_ |  |
 | Sapphire | 4/8?/12? |
 | Amethyst | 5/10?/15? |
 | Ruby | 6/12?/18? |
@@ -38,3 +39,19 @@ Antiquarians can buy weapons, gems and other items for [Notes](Notes.md). These 
 | Gold Bar | 7/14?/21? |
 | Platinum Bar | 18/36?/54? |
 | Diamond | 20/40?/60? |
+| _Discovery_
+_Ingredients_
+
+ |  |
+| Umbral Obsidian | 10/?/? |
+| Spark Gland | 10/?/? |
+| Dying Ember | 10/?/? |
+| Gale Stone | 10/?/? |
+| Frigid Prism | 10/?/? |
+| _Weapons_ |  |
+| Low Tier Weapon | 10/?/? |
+| High Tier Weapon | 25/?/? |
+| _Items_ |  |
+| Low Tier Loot | 25/?/? |
+| Mid Tier Loot | 50/?/? |
+| High Tier Loot | 100/?/? |

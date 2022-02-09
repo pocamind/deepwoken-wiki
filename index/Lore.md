@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 18772
+revid: 18870
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -580,7 +580,16 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 ### Year 1277
 
+(Celestial Telescope Dialogue Update)
+
 -   The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the City crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
+
+### Year 1283
+
+(PVP Arena & Trial of One Update)
+
+-   In the Autumn of Year 1283, a Capra drunkard stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
+-   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
 
 ## Miscellaneous
 

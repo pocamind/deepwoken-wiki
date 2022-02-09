@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 18721
+revid: 18929
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -91,12 +91,7 @@ These mantras have no prequisites.
  |
 | File:Icechain.gif | Ice Chain
 
-(★)
-
- | Freezing chains of ice. | Launches a narrow chain at the cursor's location.
-
--   When landed, slows the opponent and prevents them from attacking.
--   Best used to start a combo or intervene with someone fleeing.
+(★) Someone needs to update it. I have ice chains and it's just like shadow chains except it's not shadow and doesn't drain ether. Probably can be upgraded like shadow gun with a blast spark (not tested yet) to make more chains. Probably all the mantras ingredients for ice chains will work with shadow chains (maybe). I just want to update this for now and I suggest you guys try putting a blast spark on and then a multiplying spark and so on.
 
  |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | Ice Forge

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 18779
+revid: 18811
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
     -   Requirement: 5 Strength, _Strength Combat Mantra_
-    -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they ~FISTED~ hit with this mantra._
+    -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
     -   Requirement: 5 Strength, _Strength Combat Mantra_

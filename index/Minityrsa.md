@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 14159
+revid: 18911
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,6 +28,7 @@ It is located near Songseeker Wilds past the Gate, behind the rocky wall
 
 -   Valley of Heroes
 -   Stronghold
+-   [Trial of One](Trial_of_One.md)
 
 ## Monsters/Enemies
 

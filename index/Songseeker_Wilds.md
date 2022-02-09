@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 18579
+revid: 18815
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,7 +10,7 @@ categories: [Locations]
 
 ## Description
 
-The Songseeker Wilds is an island located in the [Aratel Sea](The_Aratel_Sea.md), between [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
+Songseeker Isle is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md), between [Minityrsa](Minityrsa.md) and [Summer Isle](Summer_Isle.md).
 
 It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by Ships.
 

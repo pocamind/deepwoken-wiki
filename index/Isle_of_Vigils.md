@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 18723
+revid: 18816
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,11 +20,11 @@ Template:Areainfobox
 
 ## Overview
 
-The Isle of Vigils is a collection of small islands that hold the Temple Approach and the Temple of the Blade.
+The Isle of Vigils is a collection of small islands that hold the Temple Approach and the Temple of the Blade, as well as a few necessities to get you started on your Deepwoken journey. Though it may be closer to locations such as [Upper Erisa](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Continental Lighthouse](https://deepwoken.fandom.com/wiki/Eastern_Contentinal_Lighthouse), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
 
 ## Missions
 
-Events that spawn in Isle of Vigils that involve combat.
+Events that spawn in Isle of Vigils that involve much combat.
 
 ### Bandits
 

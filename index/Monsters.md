@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 18388
+revid: 18925
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,13 +42,17 @@ In The Depths, Monsters have significant differences, some easily noticeable, an
 
 **Etrean Luminant & The Depths**
 
+**Exclusive to Trial of One**
+
 ### Non-Humanoid Monsters
+
+**Trial of One**
 
 **Etrean Luminant & The Depths**
 
-**Exclusive to the Etrean Luminant**
+**Exclusive to the Etrean Luminant (Excl. Trial of One)**
 
-**Exclusive to The Depths**
+**Exclusive to The Depths (Excl. Trial of One)**
 
   
 

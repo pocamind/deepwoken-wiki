@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 18719
+revid: 18824
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -17,6 +17,8 @@ _If you want to see maps of the world, see [Maps](Maps.md)_
 **The Etrean Sea:**
 
 A list of locations that can be found in the Etrean Sea.
+
+_If you want to see other world locations, see Atrael Sea or The Void Sea above, or [The Depths](The_Depths.md)_
 
 ### Etrea
 
@@ -62,7 +64,7 @@ Isle of Vigils (Starting Island)
 
 A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
-### Aratel Island
+### Aratel (Hive) Island
 
 -   [Starswept Valley](The_Starswept_Valley.md)
     -   Lightkeeper Temple
@@ -73,7 +75,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 -   [Fort Merit](Fort_Merit.md)
 -   [Greathive Aratel](Greathive_Aratel.md)
 
-### Other
+### Other Islands
 
 -   Songseeker Wilds
 -   [Summer Isle](Summer_Isle.md)

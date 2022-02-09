@@ -1,17 +1,19 @@
 ---
 title: Ministry Scout
-revid: 17367
+revid: 18871
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ministry Scout
 
+Template:Creature Infobox V3
+
 ## Description:
 
 Ministry Scouts are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave.
 
-Their appearance is repetitive and consists of a Vagabond's Bicorn, a Blindfold, and a Prophet's Cloak, but not the race.
+Their appearance is repetitive and consists of a Vagabond's Bicorn, a Blindfold, and a Prophet's Cloak, but not the race. They have 400 HP (same as angels).
 
 ## Moves
 
@@ -40,6 +42,6 @@ Their arsenal consists of a Ben's knife (Krulian Knife) and [Shadowcast](Shadowc
 
 -   A really good location to progress at, although no loot.
 -   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Ministry Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
--   Everyone except the [Ministry Necromancer](Ministry_Necromancer.md)s are enemies towards them, even NPCs.
+-   Everyone except the [Ministry Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   The Shadow Spike is a reskin of the [Glacial Arc](Frostdraw.md), and it's apparently only exclusive to these guys.
 -   Ben's knife in this game is the Krulian Knife dropped from [Ferryman](The_Ferryman.md).

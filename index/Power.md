@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 14304
+revid: 18933
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ Power or Level, is the levelling mechanic of Deepwoken that enables players to i
 
 An example of a player's Power and stat allotment
 
-Each level of power grants 5 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 5 points have been invested a player will increase their power upon meeting EXP requirements. Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, an Oath, or rarely a fifth card which is fold. Fold cards will postpone the player's reception of a Card until their next power up. If you fold, you will be granted an additional hand on your next Power Increase. This second hand will be randomised and differ from the previously folded one.
+Each level of power grants 5 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 5 points have been invested a player will increase their power upon meeting EXP requirements. Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, an Oath, or rarely a fifth card which is fold. Fold cards will postpone the player's reception of a Card until their next power up. If you fold, you will be granted an additional hand on your next Power Increase. This second hand will be randomised and differ from the previously folded one. If you have folded more than twice, you will only be granted 2 decks after choosing cards. Any more will be discarded.
 
 To keep progressing however, you will need regular EXP, obtained by killing things:
 

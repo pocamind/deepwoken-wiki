@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18664
+revid: 18872
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -282,7 +282,7 @@ Drowned
 
  | 
 
-Having the "Drowned" enchant makes it so stats can go past their limit (e.g 64 health instead of 32 health) and increases a stat heavily at the cost of a _relatively_ small downside (e.g -2 posture)
+Drowned equipments grant Health, Ether, Reservoir and Sanity, all at once and in higher quantity than items of the same level.
 
   
 

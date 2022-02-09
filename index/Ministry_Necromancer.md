@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 18063
+revid: 18858
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Ministry Necromancers, commonly referred as "Shadow NPCS", are NPC's that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
 
-Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being pure white.
+Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being pure white. They have 600 HP, making them tankier **AND** more annoying than [Ministry Scouts](Ministry_Scout.md).
 
 ## Moves
 

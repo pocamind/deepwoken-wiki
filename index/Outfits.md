@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 18633
+revid: 18845
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -18,7 +18,7 @@ File:Armoricon.png
 
 The entirety of your Armor is split into two categories, Outfits and Armor items.
 
-### **[Outfits](Outfits.md#outfits)**
+### **[Outfits](Outfits.md#outfit-list)**
 
 Outfits are the very base of your Armor, and are the only part of your defense that must be crafted and are given durability.
 

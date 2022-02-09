@@ -1,9 +1,11 @@
 ---
 title: Talents
-revid: 18768
+revid: 18932
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Talents, Character]
+categories: [In progress with reason, InProgressPages, Talents, Character]
+notices:
+  - This page is currently being worked on. Categories shall be added soon.
 ---
 
 # Talents
@@ -86,6 +88,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the agility penalty tied to lost hp.
         -   Prerequisites: Agility
+-   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
+-   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
 
 ### Amoran Seeker
 
@@ -103,8 +107,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Apex Predator
 
--   Carnivore \[Common Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: ~5 Strength, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
+-   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
+    -   Prerequisites: Strength & Willpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -115,6 +119,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Master Craftsman \[Common Talent\] - Your skills alone substitute the need for a Craft Station.
     -   Prerequisites: Intelligence
+
+### Assassin
+
+-   Finesse \[Common Talent\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
+-   Vital Point \[Common Talent\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
 
 ### Athlete
 
@@ -203,6 +212,10 @@ Prerequisite: Reinforce(?)
 -   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health)
 
 -   Prerequisite: Reinforce
+
+### Critical Specialist
+
+-   Knife's Journey \[Rare Talent\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health)
 
 ### Cryomancer
 
@@ -417,6 +430,28 @@ Prerequisite: Reinforce(?)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
 -   Piercing Will \[Generic Talent, Legendary Talent\] - When your sanity is at stake, ignore the armor resistances of your enemies. (+4 Ether)
 
+### Lone Warrior
+
+-   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
+    -   2x EXP gain for Power and every [Attribute](Attributes.md).
+    -   Obtained by finishing the [Trial of One](Trial_of_One.md).
+
+### Marauder
+
+-   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
+-   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
+    -   Prerequisites: Bloodiron Spirit (Rare talent)
+-   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
+-   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+
+### Marauder
+
+-   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
+-   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
+    -   Prerequisites: Bloodiron Spirit (Rare talent)
+-   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
+-   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+
 ### Marauder
 
 -   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
@@ -444,7 +479,7 @@ Prerequisite: Willpower 5~
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress.
-    -   +50(?) EXP gain for every attributes and Power.
+    -   +50% EXP gain for every attributes and Power.
 
 ### Ministry Operative
 
@@ -913,7 +948,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Gunslinger
 
--   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (+2 Ether, +8 Reservoir, +3 Health) (Obtained by wearing the Summer Company Uniform)
+-   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (+2 Ether, +8 Reservoir, +3 Health) (Obtained by wearing the Summer Company Uniform)
 
 ### Darksteel Plate
 

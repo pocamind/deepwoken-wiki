@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 18498
+revid: 18881
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -26,7 +26,7 @@ _icon credit to Tortaa#9000_
 
 Like [Murmurs](Murmur.md), players can only obtain one Oath per character.
 
-There are currently only two Oaths in _Deepwoken_. More are planned to be added in future updates.
+There are currently only three Oaths in _Deepwoken_. More are planned to be added in future updates.
 
 ## Oath: Oathless
 

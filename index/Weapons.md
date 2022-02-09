@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18806
+revid: 18931
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -106,6 +106,16 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.03x</td>
 </tr>
 <tr>
+  <td>Canor Fang</td>
+  <td>30 LHT</td>
+  <td>11</td>
+  <td>5%</td>
+  <td>LHT: 10</td>
+  <td>5</td>
+  <td>6.5</td>
+  <td>1.05x</td>
+</tr>
+<tr>
   <td>Silver Dagger</td>
   <td>35 LHT</td>
   <td>12</td>
@@ -146,12 +156,22 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>0.85x</td>
 </tr>
 <tr>
+  <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
+  <td>60 LHT</td>
+  <td>9</td>
+  <td>30%</td>
+  <td>LHT: 10</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>1.05x</td>
+</tr>
+<tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
   <td>60 LHT</td>
-  <td>14</td>
-  <td>25%</td>
+  <td>12</td>
+  <td>20%</td>
   <td>LHT: 10</td>
-  <td>3</td>
+  <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
 </tr>
@@ -197,7 +217,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td>Legion Cestus</td>
   <td>30 LHT</td>
-  <td>15.5</td>
+  <td>15</td>
   <td>5%</td>
   <td>LHT: 9</td>
   <td>5</td>
@@ -213,6 +233,16 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
+</tr>
+<tr>
+  <td>Flamekeeper Cestus</td>
+  <td>65 LHT</td>
+  <td>16</td>
+  <td>5%</td>
+  <td>LHT: 9</td>
+  <td>5</td>
+  <td>7</td>
+  <td>0.87x</td>
 </tr>
 </tbody>
 </table>
@@ -299,16 +329,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Rapier</td>
-  <td>0 MED</td>
-  <td>19</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
-  <td>4</td>
-  <td>8</td>
-  <td>0.77x</td>
-</tr>
-<tr>
   <td>Officer Saber</td>
   <td>0 MED</td>
   <td>22</td>
@@ -327,16 +347,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>7.5</td>
   <td>0.7</td>
-</tr>
-<tr>
-  <td><a href="Mace.md">Mace</a></td>
-  <td>10 MED</td>
-  <td>20</td>
-  <td>N/A</td>
-  <td>MED: 5</td>
-  <td>6</td>
-  <td>7.5</td>
-  <td>0.7x</td>
 </tr>
 <tr>
   <td><a href="Falchion.md">Falchion</a></td>
@@ -439,6 +449,16 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.7x</td>
 </tr>
 <tr>
+  <td>Forgotten Gladius</td>
+  <td>65 MED</td>
+  <td>18</td>
+  <td>10%</td>
+  <td>MED: 7</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.8x</td>
+</tr>
+<tr>
   <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
   <td>70 MED</td>
   <td>22</td>
@@ -530,6 +550,43 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 </tbody>
 </table>
 
+**Clubs:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td><a href="Mace.md">Mace</a></td>
+  <td>10 MED</td>
+  <td>20</td>
+  <td>N/A</td>
+  <td>MED: 5</td>
+  <td>6</td>
+  <td>7.5</td>
+  <td>0.7x</td>
+</tr>
+<tr>
+  <td>Sacred Hammer(?)</td>
+  <td>65 MED</td>
+  <td>20</td>
+  <td>10%</td>
+  <td>MED: 7</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.7x</td>
+</tr>
+</tbody>
+</table>
+
 **Heavy Weapons:**
 
 Heavy Weapons are two-handed weapons. They are slow, but have superior range and pack quite a punch.
@@ -599,6 +656,16 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+</tr>
+<tr>
+  <td>Master Hawk's HandAxe</td>
+  <td>75 HVY</td>
+  <td>22</td>
+  <td>85%+ Chip Damage</td>
+  <td>HVY: 7</td>
+  <td>10</td>
+  <td>8.5</td>
+  <td>0.54x</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>

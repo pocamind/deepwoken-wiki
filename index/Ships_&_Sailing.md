@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 14075
+revid: 18823
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -62,7 +62,7 @@ Lantern (Respawn Point)
 Lantern (Respawn Point)
 
  |
-|  | Ironclad | Price: 6000 Notes
+|  | [Ironclad](Ships_&_Sailing.md#list-of-ships) | Price: 6000 Notes
 
 10000 Health
 

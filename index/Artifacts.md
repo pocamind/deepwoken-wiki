@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 14556
+revid: 18914
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -18,7 +18,7 @@ Artifacts in Deepwoken are valuable pieces of technology or objects that can be 
 
 Deepwoken Artifacts **are not Rogue Lineage Artifacts.**
 
-Artifacts are rarely guarded by Monsters or Enemies, but usually it is completely unguarded, as they spawn randomly in Upper Erisa or sometimes Lower Erisa.  
+Artifacts are rarely guarded by Monsters or Enemies, but usually it is completely unguarded, as they spawn randomly in Upper Erisa or sometimes Lower Erisa, as well as some other islands although it is not confirmed which ones.  
 
 ## Artifacts
 
@@ -31,6 +31,8 @@ Rewards
 
 -   Notes
 
+-   Now also give luck (since 02/08/2022 Luck Rework)
+
 -   10 Common to Rare Items, including:
     -   Armor Blueprints
     -   Weapons
@@ -41,6 +43,7 @@ Locations & Hints
 -   Erisia Island
     -   The Viper's Fangs
 -   A loud, pulsating noise with large Purple Rings flying upwards away from the artifact's vicinity.
+-   Can now also be found on other islands (?)
 
 A Celtor finding the pulsating rings.
 
