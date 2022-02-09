@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 17564
+revid: 19012
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,6 +38,6 @@ When crouching:
 
 Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage and ragdoll the target for about five seconds. During this ragdoll, you are still able to deal damage to the enemy.
 
-Some enemies such as the Monks at Songseeker Isle or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
+Some enemies such as the Monks at [Songseeker Wilds](Songseeker_Wilds.md) or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
 
 Against players, Stealth is not very useful. Assassinations deal little damage to players and only ragdolls for one second.

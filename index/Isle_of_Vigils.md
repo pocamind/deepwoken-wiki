@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 18816
+revid: 19081
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,20 +20,7 @@ Template:Areainfobox
 
 ## Overview
 
-The Isle of Vigils is a collection of small islands that hold the Temple Approach and the Temple of the Blade, as well as a few necessities to get you started on your Deepwoken journey. Though it may be closer to locations such as [Upper Erisa](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Continental Lighthouse](https://deepwoken.fandom.com/wiki/Eastern_Contentinal_Lighthouse), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
-
-## Missions
-
-Events that spawn in Isle of Vigils that involve much combat.
-
-### Bandits
-
-#### Bandits vs Temple
-
--   Two [Bandits](Bandit.md).
--   Spawns in front of the Temple Approach.
--   Blade Temple Guards will immediately attack Bandits on sight.
--   Results in mid-tier EXP and no chest.
+The Isle of Vigils is a collection of small islands that hold the Temple Approach and the Temple of the Blade, as well as a few necessities to get you started on your progression.
 
 ## Points of Interest
 
@@ -90,6 +77,12 @@ Events that spawn in Isle of Vigils that involve much combat.
     -   This NPC cannot grip you. Once you reach 0 HP, your health will be refilled to about ~90% and the spar will end.
 -   Players can also find Avian and Maestro Evengarde Rest here.
 -   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for.
+
+## Missions
+
+Events that spawn in Isle of Vigils that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+
+-   Bandit Attack
 
 ## Quests
 

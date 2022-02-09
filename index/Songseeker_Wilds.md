@@ -1,12 +1,19 @@
 ---
 title: Songseeker Wilds
-revid: 18815
+revid: 19024
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
 ---
 
 # Songseeker Wilds
+
+LocationL Songseeker Wilds LocationR
+
+  
+  
+
+**Songseeker Wilds** is a location in _Deepwoken._ It is a group of islands that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
 ## Description
 

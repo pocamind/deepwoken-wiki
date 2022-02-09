@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18790
+revid: 18964
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra, Creation]
@@ -20,7 +20,9 @@ Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correct
 
 1.  Revenge requires Drift/Rush Shards to reach further instead of Lens.
 
-## Regular Mantra Modifiers
+**Regular:**
+
+## Regular Modifiers
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stone_ and _Vibrant Gem_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
@@ -148,6 +150,9 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 #### Glass Stone
 
 -   This modifier adds a massive AoE explosion of ice spikes for _Glacial Arc,_ and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
+    
+
+**Deep Gems:**
 
 ## Deep Gems
 
@@ -180,6 +185,8 @@ File:Screenshot 59.png
 
  | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
 |  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
+
+**Sparks:**
 
 ## Sparks
 
@@ -348,6 +355,7 @@ also looks identical to falseflame.
 
 -   This modifier makes ice lasers stop in place when shot for a brief amount of time, then goes forward (Think Knives in a certain stopping of time)
 -   Nobody has said What this does to Crystal Impale yet
+    
 
 ## Trivia/Notes
 

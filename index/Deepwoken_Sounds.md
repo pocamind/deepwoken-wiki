@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 17091
+revid: 18952
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -53,14 +53,15 @@ The Main OST for Deepwoken.
 -   [**One For All, All For Gun**](https://soundcloud.com/naktigonis/one-for-all-all-for-gun?in=naktigonis/sets/deepwoken-ost-1) (Summer Isle Combat) **File:Summer Isle (Combat) - Deepwoken OST.mp3**
 -   **[Dancing Steps Of War](https://soundcloud.com/naktigonis/dancing-steps-of-war?in=naktigonis/sets/deepwoken-ost-1)** (Temple Of Blades) **File:Temple Of Blades - Deepwoken OST.mp3**
 -   **[Oscillation](https://soundcloud.com/naktigonis/oscillation?in=naktigonis/sets/deepwoken-ost-1)** (The Depths) **File:Drowned City - 7394909817.ogg**
--   **[Lacrimosa Dies Illa](https://soundcloud.com/naktigonis/lacrimosa-dies-illa?in=naktigonis/sets/deepwoken-ost-1&si=a5fc32b0388e457caef931b101b47e33&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)** (The Depths Combat) **File:DepthsCombatLoop.ogg**
+-   **[Lacrimosa Dies Illa](https://soundcloud.com/naktigonis/lacrimosa-dies-illa?in=naktigonis/sets/deepwoken-ost-1)** (The Depths Combat) **File:DepthsCombatLoop.ogg**
 -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
 -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
--   [**In Shade, Hollow**](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1) (The Garden Reservoir) **File:The Garden Reservoir - Deepwoken OST.mp3**
+-   **[In Shade, Hollow](https://soundcloud.com/naktigonis/in-shade-hollow?in=naktigonis/sets/deepwoken-ost-1)** (The Garden Reservoir) **File:The Garden Reservoir - Deepwoken OST.mp3**
 -   ??? (Voidheart) File:CorvusManorMain.ogg
--   [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray?in=naktigonis/sets/deepwoken-ost-1) (Voidsea) **File:Voidsea - Deepwoken OST.mp3**
+-   [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray?in=naktigonis/sets/deepwoken-ost-1) **(Voidsea)** File:Voidsea - Deepwoken OST.mp3
 
-  
+-   [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war) (Arena) **File:Arena.mp3**
+
 (IF ANY OF THIS IS WRONG, OR IF YOU HAVE MORE MUSIC, PLEASE LEAVE A COMMENT) 
 
 <table>

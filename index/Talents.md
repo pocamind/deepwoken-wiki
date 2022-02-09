@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 18932
+revid: 19061
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -39,8 +39,6 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   This is off the top of my head so there're way more
 
 The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
-
-**~It is confirmed that after getting a combined total of 20 rare and legendary talent cards (e.g. 12 Rare & 8 Legendary, 19 Rare & 1 Legendary, 15 Rare & 5 Legendary), you are unable to gain any more rare or legendary cards anymore, no matter how much you level up or gain luck.~ False as I have gotten more than 20 rare and legendary talents in total.**
 
 ## Talents
 
@@ -124,6 +122,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Finesse \[Common Talent\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
 -   Vital Point \[Common Talent\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
+-   Lightspeed Reflexes \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
 
 ### Athlete
 
@@ -489,7 +488,7 @@ Prerequisite: Willpower 5~
 
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill Sea Serpent Ardour.
--   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health)
+-   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
 
 ### Natural Armor
 
@@ -760,6 +759,7 @@ Prerequisite: Willpower 5~
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
 -   Ready or Not \[Common Talent\] - The first Mantra you get struck by while out of combat deals half of its damage. (+3 Health)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (8 Cards total, 2 choices)
+-   Legendary Echo \[Appears when a Legendary talent is Drawn\] - Receive a random Legendary Talent.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)

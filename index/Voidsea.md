@@ -1,0 +1,40 @@
+---
+title: Voidsea
+revid: 19039
+source: https://deepwoken.fandom.com/wiki/Voidsea
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Voidsea
+
+LocationL Voidsea LocationR
+
+Here, the dying light collects like dregs at the precipice of a waterfall. The ultimate fate of all things become apparent.
+
+  
+
+**The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Etrean Luminant](Maps.md).
+
+## Overview
+
+The Voidsea is an extremely dangerous region. It is speculated to be an ecological deadzone, where some vicious sea creatures reside.
+
+It is incredibly easy to stumble into during travelling. It covers a fairly large part of the sea and can appear out of nowhere so while going long distances be very careful.
+
+Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately, this does not happen when killed by a player.
+
+## Points of Interest
+
+-   [Boatman's Watch](<Boatman's_Watch.md>)
+-   [Voidheart](Voidheart.md)
+
+## Potential Enemies
+
+-   [Dread Serpent](Dread_Serpent.md)
+-   [Brainsucker](Brainsucker.md)
+-   [Lionfish](Lionfish.md)
+
+## Trivia/Notes
+
+-   There are patches of bubbles around the Void Sea and hitting one can cause a Dread Serpent (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
+-   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most. (May be referenced to Voidheart)

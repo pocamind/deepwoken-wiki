@@ -1,13 +1,13 @@
 ---
 title: The Garden Reservoir
-revid: 18173
+revid: 19063
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # The Garden Reservoir
 
-LocationL The Garden Resevoir LocationR
+LocationL The Garden Reservoir LocationR
 
 Down below the gardens lay a home left to rot.
 
@@ -17,13 +17,13 @@ Down below the gardens lay a home left to rot.
 
 ## Overview
 
-Overview here
+The Garden Reservoir
 
-## Landmarks
+## Points of Interest
 
-#### [Burning Stones Garden](Burning_Stone_Gardens.md)
-
--   [Rat's Den](<Rat's_Den.md>)
+-   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+-   [Burning Stones Garden](Burning_Stone_Gardens.md)
+    -   [Rat's Den](<Rat's_Den.md>)
 
 ## Trivia/Notes
 

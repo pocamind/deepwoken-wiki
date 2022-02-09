@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 18203
+revid: 19050
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,7 +14,7 @@ A land lost to time, now made a battlefield for warriors who know not why they f
 
   
 
-**Upper Erisia** is a location in _Deepwoken_. It is one half of Erisia and owned by no faction.
+**Upper Erisia** is a location in _Deepwoken_. It is one half of Erisia, sharing the island with [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
 
@@ -22,43 +22,34 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 
 ## Points of Interest
 
-#### [Burning Stone Gardens](Burning_Stone_Gardens.md)
+-   [Burning Stone Gardens](Burning_Stone_Gardens.md)
+-   [Towerstruck Lands](Towerstruck_Lands.md)
+-   Temple of the Forgotten Flame
+    -   [Temple Courtyard](Temple_Courtyard.md)
 
--   Monsters like [Megalodaunts](Megalodaunt.md), [Rock Golems](Rock_Golem.md) and [Terrapods](Terrapod.md) can be found here.
+-   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+-   [Erisor's Church](<Erisor's_Church.md>)
+-   [The Hidden Village](The_Hidden_Village.md)
+-   The Garden Reservoir
+-   [The Birdcage](https://deepwoken.fandom.com/wiki/The_Birdcage)
 
-#### [Towerstruck Lands](Towerstruck_Lands.md)
+## Missions
 
--   Teacher spawns can occur here.
+Events that spawn in Upper Erisia that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
-#### Temple of the Forgotten Flame
+-   [Megalodaunt](Megalodaunt.md) vs [Rock Golem](Rock_Golem.md)
+-   Golden Warrior
+-   Etrea vs The Central Authority
+-   The Eleventh Legion vs The Central Authority
 
--   Players can find The Courtyard here.
--   Players must enter this location to obtain [Blindseer](Oaths.md#oath-blindseer).
+## Events
 
-#### Megalodaunt Nest
+Events that spawn in Upper Erisia that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Players can find frequent [Megalodaunt](Megalodaunt.md) spawns here. An easy place for players to farm when starting.
+-   Hobo
+-   Pathfinders
+-   Lost Villagers
 
-#### [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+## Loot Table
 
--   Contents here
-
-#### [Erisor's Church](<Erisor's_Church.md>)
-
--   Contents here
-
-#### [The Hidden Village](The_Hidden_Village.md)
-
--   Players can find Erisore here, a substantial part to building outfits.
-
-#### The Garden Reservoir
-
--   Contents here
-
-#### [The Birdcage](https://deepwoken.fandom.com/wiki/The_Birdcage)
-
--   Contents here
-
-## Notes/Trivia
-
--   Player notes go here
+_This list is incomplete._

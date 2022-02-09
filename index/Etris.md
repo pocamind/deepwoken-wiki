@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 18722
+revid: 19079
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,12 @@ Template:Areainfobox
 #### Blacksmith
 
 -   Players can find Caragan, a blacksmith, here.
--   They can almost purchase materials here.
+-   Players can purchase materials here. If players are given a discount, they still cannot purchase materials unless they have the base price.
+    -   Wood can be purchased for.
+    -   Cloth can be purchased for / (discounted price).
+    -   Rocks can be purchased for /.
+    -   Iron can be purchased for /.
+    -   Gold can be purchased for /.
 
 #### Mantra Shop
 
@@ -110,7 +115,7 @@ Template:Areainfobox
 
 #### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find (name) who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find Schnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
 
 #### Fishing Shop
 

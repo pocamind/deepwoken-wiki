@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 18256
+revid: 19019
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -16,7 +16,7 @@ The Crypt Blade is a Legendary weapon that was obtainable from Primadon and in t
 
 ## Requirements
 
-100 Shadowcast
+75 Shadowcast
 
 10 Strength
 

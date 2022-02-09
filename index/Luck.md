@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 18909
+revid: 19040
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -62,6 +62,10 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 Due to the new luck system, you can rarely get luck from any enemy you fight in the form of a small orb where they died, these orbs can come from the common bandit to the King Thresher.
 
 The amount of luck obtained from these orbs are unknown as of yet.
+
+### From Artifacts
+
+Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck.
 
 ## Losing Luck
 

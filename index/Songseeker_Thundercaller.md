@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 16996
+revid: 19007
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ They can be found sitting/standing on the ground wearing a mask and a pair of ro
 
 ## **Location**
 
--   Songseeker Wilds
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 
 ## **Moves**
 

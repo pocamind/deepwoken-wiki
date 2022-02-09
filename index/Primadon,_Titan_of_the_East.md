@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 18781
+revid: 18965
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck, Monke]
@@ -49,7 +49,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
     -   These factors combined allow you to **completely autopilot** the fight with muscle memory, similar to a Megalodaunt.
 -   Primadon's health does **not** scale with the number of players present on the island- you are instead given 10 minutes to kill this beast. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
 -   Primadon is extremely likely to use **Punt** when he follows up one or multiple **Triple Stomps** with a regular **Stomp**. Predicting **Punt** and readying to perfect roll greatly increases your chances of success.
--   A major tactic to use whenever fighting this boss: If you see the right foot raise, prepare for **Triple Stomps** and if you see the left foot raise (not swing back, this represents **Punt**) prepare for one singular **Stomp**. Dodge the punts and parry the stomps and success is certain.
+-   A major tactic to use whenever fighting this boss: If you see the ~right~ **left** foot raise, prepare for **Triple Stomps** and if you see the ~left~ **right** foot raise (not swing back, this represents **Punt**) prepare for one singular **Stomp**. Dodge the punts and parry the stomps and success is certain.
 -   The footsteps of Primadon play a loud, noticeable noise that can be heard from very far, from the beach to even nearby islands. Use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the players (or _singular, solo_ _player_) fighting this fishy ape.
 -   It is recommended to stay completely still while fighting to avoid being confused by Primadon's walking animation, along with avoiding attacks like Grab and Punch from being triggered.
     -   If multiple players are attacking the Primadon at the same time, make sure that they're all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.

@@ -1,25 +1,27 @@
 ---
 title: Voidheart
-revid: 17462
+revid: 19037
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations]
+categories: [Locations]
 ---
 
 # Voidheart
 
-File:VoidheartV2.png
+LocationL Voidheart LocationR
 
-## Description
-
-\-Voidheart has been removed from the game due to it having no purpose-
-
-The Voidheart is a location that was completely unintentional, so far away that the devs didnt think anyone would find it, as of now, it acts like a world border, as its the edge of the sea.
-
-Sailing here can be quite difficult, as it takes a long time to get there, as you need to sail for a long time in the Voidsea. Proof of its existence: [https://www.youtube.com/watch?v=aai\_TZimCsU](https://www.youtube.com/watch?v=aai_TZimCsU). The Voidheart is completely empty, and not worth the time.
-
-File:Voidheart 2.png
+Just what is this place?
 
   
 
-File:Voidheart 1 .png
+**Voidheart** is a location in _Deepwoken._ It is a landmark in the [Voidsea](Voidsea.md).
+
+## Overview
+
+Voidheart is an area in the Voidsea with no function whatsoever. The only form of content here is the area marker.
+
+Sailing here can be quite frustrating and it takes a long time to get there.
+
+## Trivia/Notes
+
+-   Arch\_Mage has confirmed the location to be empty.\[\]\[\]

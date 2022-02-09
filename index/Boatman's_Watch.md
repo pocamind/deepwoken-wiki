@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 18292
+revid: 19044
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,37 +8,41 @@ categories: [Locations]
 
 # Boatman's Watch
 
-“ "A place remembered only by the waves. ”
+LocationL Boatman's Watch LocationR
 
-― The description when you arrive
-
-Template:Areainfobox
-
-## Description
-
-The Boatman's Watch is an island surrounded by whirlpools, located within the void sea.
-
-The [Ferryman](The_Ferryman.md) can be fought here.
-
-**How to summon [The Ferryman](The_Ferryman.md):**
-
-1.  Find the ritual looking place on this island.
-2.  Place 1 campfire on each circle surrounding the big circle (total 4 campfires)
-3.  Light them up using a flint (or use flamecharm/thundercall ignite skill).
-4.  [The Ferryman](The_Ferryman.md) will spawn in the middle.
-5.  Talk with him and the battle will start
+A place remembered only by the waves.
 
   
-**PS: Once you start the fight, there will be a big circle surrounding the fighting arena, which means you can't escape. Only way to escape is to die or defeat [The Ferryman](The_Ferryman.md).**
 
-## Notes
+The arena found in Boatman's Watch
 
-Boatman's Watch can be found by going straight along the wall from Minityrsa into the Void Sea, visible after about 20 seconds of sailing.
+**Boatman's Watch** is a location in _Deepwoken_. It is an island in the [Voidsea](Voidsea.md).
 
-Two secret areas have been confirmed to exist on the island that being a Library and Mine respectively.
+## Overview
 
-Reaching the Library is fairly easy accessible through a breakable wall within a tower leading to the Ferryman.
+Boatman's Watch is a small island covered in vegetation. An arena can be found in the center.
 
-Once finding the Library is complete head right of the entrance and follow the stream at the end the mines entrance should be visible.
+## Potential Enemies
 
-Full view of Boatman's Watch courtesy of CariBean [video](https://www.youtube.com/watch?v=Ps8uN-bYAsE&lc=Ugzs6wSTDusRIQjbGsx4AaABAg.9WNjtRw0Gxq9WO--KBeHmS)
+-   [The Ferryman](The_Ferryman.md)
+
+## Missions
+
+[The Ferryman](The_Ferryman.md) can be fought here. For more information on his attacks, see [here](The_Ferryman.md).
+
+### Ferryman
+
+1.  Enter the arena in the middle of the island.
+2.  Build a Campfire Pit on each end of the circle in the middle.
+3.  Ignite all four Campfire Pits.
+4.  [The Ferryman](The_Ferryman.md) will spawn in the middle.
+5.  Interact with him and the battle will start.
+
+-   Rewards in high-tier EXP, [Luck](Luck.md) and a seasonal reward.
+
+Once spawned, you will not be able to leave Boatman's Watch until you defeat The Ferryman, die or combat log.
+
+## Trivia/Notes
+
+-   Boatman's Watch can be found by going straight along the wall from Minityrsa into the Void Sea, visible after about 20 seconds of sailing.
+-   A hidden mine and library can be found in Boatman's Watch through destructible walls.

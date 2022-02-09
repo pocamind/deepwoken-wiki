@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 18845
+revid: 18962
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -201,8 +201,8 @@ Damage Vs. Deep
 +6 Health
 
  | Chests |
-|   
-File:Black Fur Pauldrons.png | Black Fur Pauldrons | Placeholder | Chests |
+| File:Sharko coat.png | Red Megalodaunt Coat | No Status Effect | Megalodaunt Drop |
+| File:Black Fur Pauldrons.png | Black Fur Pauldrons | Placeholder | Chests |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | 1-2 buffs | Chests |
 | File:Flameguard.png | Flameguard Pauldrons | 1 buff | Chests |
 |  | Hunter's Brace | Makes usually parry breaking moves parriable. (e.g. sharko kick, golem throw) | Chests, [Summer Isle](Summer_Isle.md) |
@@ -250,6 +250,7 @@ Songseeker Chests
 
  | Unknown |
 |  | Providence Coat | Regular Stat Buffs | Depths Chests, Primadon Chests |
+| File:Red justicar defender coat.png | Red Justicar Defender Coat | Regular Stat Buffs | Depths Chests, Minityrsa Chests |
 |  | Star Duster | Regular Stat Buffs | Depths Chests, Primadon Chests |
 |  | Royal Pathfinder | 2-4 moderate-high tier buffs | [Starswept Valley](The_Starswept_Valley.md)
 

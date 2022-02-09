@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 18702
+revid: 19055
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,24 +8,33 @@ categories: [Pages with broken file links]
 
 # The Valley of Heroes
 
+LocationL Valley of Heroes LocationR
+
+A valley left forgotten, a place of power that draws the heavens downward.
+
+  
+
 File:Valley of Heroes picture.png
 
-A valley with icy meteors stuck in its walls, also seen falling from the sky each containing a [Snow Knight](Stone_Knight.md), and statues. Located at the top of [Minityrsa](Minityrsa.md).
+**Valley of Heroes** is a location in _Deepwoken_. It is a landmark in [Minityrsa](Minityrsa.md) found in the [Etrean Sea](The_Etrean_Sea.md).
 
-It's possible to encounter an NPC named Aelita on the largest rock near the river. She will force you to play a game. If you manage to complete all 3 tasks in the game, you will be rewarded with EXP.
+## Overview
 
-Upon failing, or taking too much time, you will be teleported to a random location (some locations listed below) and will be knocked and thrown up into the air. To put into perspective the amount of damage you take from the fall, if you had 35 fortitude, you would have 1 bar left.
+Valley of Heroes resembles an icy valley littered with frozen asteroids. The valley is located above Minityrsa.
 
-Teleportation locations can include: Erisia, summer company, Isles of vigils, Etris, star wept valley and more.
+## Potential Enemies
 
-According to Aelita herself, "The game will be a lot more fun if you come back in Winter."
+-   [Snow Knights](Stone_Knight.md) in Winter
+-   [Golem Constructs](Hive_Construct.md)
+-   [Cultist Necromancer](Ministry_Necromancer.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
 
-Aelita has 3 challenges
+## Events
 
-1: you must cast any mantra (very short time limit)
+Events that spawn in Valley of Heroes that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
-2: 4 copies of Aelita spawn around you and you must run close to the one that ISNT her. (this can be done by differentiating her original eye color when you first meet her)
+-   Aelita
 
-3: 4 copies of Aelita spawn around you and you must run close to the one that IS her. (this again can be done by differentiating her original eye color when you first meet her)
+## Trivia/Notes
 
-It is assumed that Aelita is a Felinor due to her cat ears and repetitive use of calling her self a cat.
+-   Player notes here

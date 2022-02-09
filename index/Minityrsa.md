@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 18911
+revid: 19060
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,29 +8,33 @@ categories: [Pages with broken file links]
 
 # Minityrsa
 
-_"Ocean water freezes against the stone, as if its trying to climb onto the shore."_
+LocationL Minityrsa LocationR
 
-File:Mynistria Picture.png
+Ocean water freezes against the stone, as if trying to climb onto the shore.
 
   
 
-## Description
+File:Mynistria Picture.png
 
-An island where it's constantly snowing, technically close to a frozen wasteland as the only source of food consists of mushrooms
+**Minityrsa** is a location in _Deepwoken_. It is an island found in the [Etrean Sea](The_Etrean_Sea.md).
 
-It is recommended for progression inbetween Power Level 20 - 35.
+## Overview
 
-## Location
+Minityrsa is an island blanketed in the fresh snow that never ends. It can be found past the central speed highway in the direction of [Songseeker Wilds](Songseeker_Wilds.md).
 
-It is located near Songseeker Wilds past the Gate, behind the rocky wall
+## Points of Interest
 
-## Points Of Interest
+### Named
 
 -   Valley of Heroes
--   Stronghold
 -   [Trial of One](Trial_of_One.md)
 
-## Monsters/Enemies
+### Unnamed
+
+-   Stronghold
+    -   A stronghold inhabited and guarded by [Dark Mage Cultists](Ministry_Scout.md).
+
+## Potential Enemies
 
 -   [Dark Mage Cultists](Ministry_Scout.md)
 -   [Cultist Necromancer](Ministry_Necromancer.md)
@@ -38,16 +42,18 @@ It is located near Songseeker Wilds past the Gate, behind the rocky wall
 -   [Snow Knight](Stone_Knight.md)
 -   [Gargoyles](Brainsucker.md)
 
-## Loot table
+## Loot Table
 
-Possible items from chests in Minityrsa
+All [Monsters](Monsters.md) and NPCs (Bandits, Bandit Assassins, etc) can drop Mantra Modifiers on death.
 
--   Tactician
--   Canorian Axe
--   Crescent Cleaver(0-1 star)
--   Razor Cutlass(0-2 star)
--   Katana(0-1 star)
--   Iron Cestus(0-2 star)
+Below is a list of potential items that can spawn in chests in Minityrsa.
+
+### [Outfits](Outfits.md)
+
+-   [Tactician](Hive_Tactician_Armor.md)
+
+### [Equipment](Equipment.md)
+
 -   Brilliant Boots
 -   Ranger Boots
 -   Flameguard Pauldrons
@@ -57,6 +63,18 @@ Possible items from chests in Minityrsa
 -   Polarized Eyeglasses
 -   Crimson Blindfold
 -   Ten-Gallon Bandana
+
+### [Weapons](Weapons.md)
+
+-   Canorian Axe
+-   Crescent Cleaver (basic to one star)
+-   [Katana](Katana.md) (basic to one star)
+-   [Razor Cutlass](Razor_Cutlass.md) (basic to two star)
+-   Iron Cestus (basic to two star)
+-   [Hero Blades](Hero_Blades.md) (basic to three star)
+
+### Miscellaneous
+
 -   Gold Bar(4-8)
 -   Amethyst(3-7)
 -   Emerald(6-8)

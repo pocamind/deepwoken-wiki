@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 18136
+revid: 18982
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -96,3 +96,7 @@ As with all areas in the hive, Starswept Valley gives good mid-high tier loot. B
 -   Khan Boots
 -   Platinum Bar(2-10)
 -   Diamond(4-8)
+-   Sacred Hammer
+-   Nemit's Sickle
+-   Apprentice's Rapier
+-   Flamekeeper Cestus

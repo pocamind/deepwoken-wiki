@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 18615
+revid: 19014
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -85,7 +85,7 @@ A [Megalodaunt](Megalodaunt.md) can be found fighting a Golem or two in Upper Er
 
 #### **Megalodaunt vs Red Megalodaunt**
 
-Exclusive to the Songseeker Wilds, this is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x more hp, and can rain fire swords.
+Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md), this is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x more hp, and can rain fire swords.
 
 ### Depth Encounters
 
@@ -94,8 +94,6 @@ Main Article - D.R.I.N (Depths Random Interactive NPC's)
 #### **Divers vs Monster**
 
 One, two or three divers taking on a monster in [The Depths](The_Depths.md). ~With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.~ They always lose I've never seen them win.
-
-  
 
 ## Unique Events
 

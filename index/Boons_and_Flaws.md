@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 18895
+revid: 19009
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -50,7 +50,7 @@ Count as 2 flaws, cannot be taken with another flaw.
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunementless builds, as you will suffer in long-term fights and when you use high cost mantras. Generally not worth taking.
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.
-    -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like Songseeker.
+    -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker.](Songseeker_Wilds.md)
     -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is the only flaw that essentially have no downside at power 60.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat too much more than other characters. Regardless, carry an ample supply of food.
     -   Contrary to popular belief vegetarian is NOT a free boon, by not taking vegetarian you get access to the best food in the game, as well as foods that buff your stats considerably (ESPECIALLY WHEN YOU COMBINE DIFFERENT FOODS) for those who want to be as powerful as possible, DO NOT take vegetarian

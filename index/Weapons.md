@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 18931
+revid: 19017
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -154,6 +154,16 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td>0.85x</td>
+</tr>
+<tr>
+  <td>Apprentice Rapier</td>
+  <td>60 LHT</td>
+  <td>13</td>
+  <td>N/A</td>
+  <td>LHT: 6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.77x</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -726,6 +736,16 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
 </tr>
+<tr>
+  <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
+  <td>80 HVY, 25 STR</td>
+  <td>25</td>
+  <td>80%(its listed as "Chip Damage", so unsure what it means) Damage done through an enemies block</td>
+  <td>HVY: 9</td>
+  <td>10</td>
+  <td>8.5</td>
+  <td>0.54x</td>
+</tr>
 </tbody>
 </table>
 
@@ -762,6 +782,16 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>N/A</td>
   <td>HVY: 8</td>
   <td>9</td>
+  <td>9</td>
+  <td>0.6x</td>
+</tr>
+<tr>
+  <td>Great Maul</td>
+  <td>60 HVY, 30 STR</td>
+  <td>25</td>
+  <td>5%</td>
+  <td>HVY: 8</td>
+  <td>10</td>
   <td>9</td>
   <td>0.6x</td>
 </tr>
@@ -856,7 +886,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a> (UNOBTAINABLE)</td>
-  <td>100 SHD, 10 STR, 45 HVY</td>
+  <td>75 SHD, 10 STR, 45 HVY</td>
   <td>26</td>
   <td>N/A</td>
   <td>SHD: 10 HVY: 5</td>
@@ -905,6 +935,6 @@ Players can use this formula to figure out their complete damage.
 
 D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) ∗ S c a l i n g ) {\\displaystyle Damage = Base Dmg + AttributeLevel((base/1000) \* Scaling)} {\\displaystyle Damage=BaseDmg+AttributeLevel((base/1000)\*Scaling)}
 
-The equation below shows the true attack speed per second. (Is this really true? Someone needs to test this more thoroughly)
+The equation below shows the true attacks per second. (Is this really true? Someone needs to test this more thoroughly) (Changed Attack speed per second to attacks per second because you can't have speed per second, and it makes more sense)
 
 A t t a c k S p e e d \= S w i n g S p e e d / 2 {\\displaystyle AttackSpeed = SwingSpeed / 2} {\\displaystyle AttackSpeed=SwingSpeed/2}

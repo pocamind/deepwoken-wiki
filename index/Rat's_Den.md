@@ -1,32 +1,31 @@
 ---
 title: "Rat's Den"
-revid: 18204
+revid: 19054
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Rat's Den
 
-## Description
+LocationL Rat's Den LocationR
 
-The Rat's Den, otherwise known as the _Golden Rat_ by both NPCs and the developers of the game, is a building found within the [Burning Stone Gardens](Burning_Stone_Gardens.md) on Erisia Island. The building itself has two floors: the ground floor and the basement. The basement is the area known as the Rat's Den and is the area where the location's name will appear on screen.
+  
+  
 
-The Golden Rat Bouncer
+**Rat's Den** or Golden Rat is a location in _Deepwoken._ It is a landmark in [Burning Stone Gardens](Burning_Stone_Gardens.md) found in [Upper Erisia](Upper_Erisia.md).
 
-Outside of the building stands an NPC named the "Golden Rat Bouncer." This NPC will tell you to enter the basement to fight the people within it. There will be no dialogue options with this NPC until the player has obtained a _Gold Plate_ by killing one of the enemies inside. Once the player has obtained 5 _Gold Plates_, the player will be able to trade them to the NPC for a chest containing a decent amount of upper low-tier loot.
+## Overview
 
-## Enemies
+Rat's Den appears as a ruined house on the surface but has a sub-level that resembles a tavern or bar filled with Golden Rat fighters.
 
-The location is home to a unique enemy (dubbed "Rats" by the NPC), which use Galebreath and are equipped with heavy weapons. The enemies will use the Galebreath Mantras _Gale Lunge_ and _Heavenly Wind_.
+Outside, a Golden Rat Bouncer will tell you to enter. If you obtain 5 Gold Plates and talk to him, he will reward you with a mid-tier chest.
 
-## Gold Plate
+## Potential Enemies
 
-_Hey, it's worth at least a rat's weight in gold._
+-   Rat Fighter
 
--   Sells for 10 Notes
+_Rat Fighters are equipped with heavy weapons. The enemies will use the Galebreathe Mantras Gale Lunge and Heavenly Wind._
 
-The _Gold Plate_ is an item only obtainable from enemies in the Rat's Den and from a rare NPC rat who spawns randomly and challenges you to a duel. When held, it appears as a large, flat sheet of gold.
+## Trivia/Notes
 
-## Trivia/Player notes
-
--   The bouncer/guard infront of the establishment has tons of hp, yet will not grip you. Use him as farming fodder.
+-   The bouncer in front of the establishment has tons of health, yet will not grip you. Use him as farming fodder.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 18870
+revid: 19015
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -49,7 +49,8 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 -   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent.
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
     -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the aspirations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
-    -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Ardour being able to "cut the seas themselves".
+    -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
+    -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 
@@ -372,7 +373,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 ### Songseekers
 
 -   **Territory:** _Unknown (Presumably Aratel Island)_
--   **Encountered In**: _Songseeker Wilds, [Minityrsa](Minityrsa.md) (Frost Only)_
+-   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frost Only)_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Lore Sources:** _Arch\_Mage, Songseeker Wilds_
 
@@ -420,6 +421,24 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness the darkness within. The Ministry are known to use this Attunement.
 -   Shadowcast was presumably created later during the Cantaclysm; when the Tides came.
+
+  
+
+## Murmur Lore
+
+Murmurs are whispers of the Song that allows the user to do a variety of special abilities.  
+
+### Whispers of Ardour
+
+-   An application of the Song that allows the user to utilize the Murmur into raw strength.
+    -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
+-   People who wields the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
+-   Ardour can also be used as a form a scream; inflicting fear to those around them.
+
+### Whispers of Tacet
+
+-   An application of the Song that enables the user to suppress the Murmur itself; turning themselves invisible to the naked eye.
+    -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
 
   
 
@@ -570,8 +589,8 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _The Depths_
 
 -   Handheld Bells that allows the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
-    -   For one to obtain such power, they require enough resolve during their time in The Depths and an insane amount of luck. Only then, when their flame is about to snuff out- will rekindle once again to the bells of the deep.
--   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
+    -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
+    -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 
 ## Deepwoken: 1271~

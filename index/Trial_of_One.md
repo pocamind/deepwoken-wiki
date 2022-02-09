@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 18924
+revid: 19076
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -60,6 +60,7 @@ File:Reward for finishing.png
 ## Notes
 
 -   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels.](Hollow_Angel.md)
--   If your first death occurs on the second challenge or later, you cannot reenter the arena as you are no longer Power 1.
-    -   If your first death occurs during the first challenge, you can reenter the arena and try again.
+-   Failing the trial returns you to your starting island.
 -   The glowing gate behind you when you enter the Trial of One does not return you to the Dark Mage Cultists stronghold. Rejoining the game brings you back to your starting island. (This is likely a bug)
+-   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
+-   After losing, You WILL lose all of your armor you had equipped. Be sure to store your stuff on an alt before attempting this

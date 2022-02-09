@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 14943
+revid: 19008
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ They can be found sitting/standing on the ground wearing a mask and a pair of ro
 
 ## **Location**
 
--   Songseeker Wilds
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 
 ## **Moves**
 

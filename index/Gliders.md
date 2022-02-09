@@ -1,8 +1,9 @@
 ---
 title: Gliders
-revid: 18334
+revid: 19093
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Utilities, Items]
 ---
 
 # Gliders
@@ -12,9 +13,11 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | usage | Allows the user to glide across long distances. |
 | recipe | x2 Stick, x2 Cloth, x2 Stick, x2 Megalodaunt Hide |
 
-## Description
+**Gliders** are utility items in _Deepwoken_ that give the player the ability to glide.
 
-**Gliders** are a tool that are obtained through a Schematic given in [Lower Erisia](Lower_Erisia.md). It gives the player the ability to glide, allowing easy travel through terrain.
+## Overview
+
+Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain.
 
 ## Obtaining
 

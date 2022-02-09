@@ -1,22 +1,37 @@
 ---
 title: The Aratel Sea
-revid: 9862
+revid: 19016
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # The Aratel Sea
 
+LocationL The Aratel Sea LocationR
+
+A turbulent region fraught with disputes major and minor.
+
+  
+
+**The Aratel Sea** is a location in _Deepwoken_. It is a region in the [Etrean Luminant](Maps.md).
+
 ## Description
 
-The Aratel Sea is the other sea in the Eastern Luminant, which is divided from the Etrean Sea by a huge stone wall. The Aratel Sea seems to be always at some type of conflict.  
+The Aratel Sea is a region in the Etrean Luminant. It shares the Etrean Luminant with the [Etrean Sea](The_Etrean_Sea.md). You can typically find more experienced players here.
 
-## Notable locations
+## Points of Interest
 
-[Summer Isle](Summer_Isle.md)
+### Settlements
 
-Songseeker Isles
+-   [Summer Isle](Summer_Isle.md)
+-   [Greathive Aratel](Greathive_Aratel.md)
 
-[Hive Island (Starswept Valley)](The_Starswept_Valley.md)
+### Islands
 
-[Monkey's Paw](<The_Monkey's_Paw.md>)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Monkey's Paw](<The_Monkey's_Paw.md>)
+
+## Trivia/Notes
+
+-   Player notes here

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 18929
+revid: 19031
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -27,7 +27,7 @@ Along with all other elements, users crfaean see their Mantras becoming stronger
 -   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
 -   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
 
-The spelltrainer, [Nell](Attunement_Trainers.md), can be found in Etris near the cauldron. For further directions, visit Etris.
+The spelltrainer, [Nell](Attunement_Trainers.md), can be found in [Etris](Etris.md) in the brewing hut.
 
 ## Spells
 
@@ -317,8 +317,7 @@ These talents have no category or their category is unknown.
 
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
--   Hostile Frostdrawers can be found as Navaen Nomads in Etris, as Songseeker monks in Songseeker Isles and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
-
+-   Hostile Frostdrawers can be found as Navaen Nomads in Etris, as Songseeker monks in [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
-
--   Also blodless gem doens't work in frostdraw skills.
+-   Bloodless gem does not work on frostdraw skills.
+-   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022 (If they changed the name, please include original name + new name)

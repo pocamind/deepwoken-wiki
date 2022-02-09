@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 16997
+revid: 19010
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ They can be found sitting on the ground wearing a mask and a pair of robes, thei
 ## **Location**
 
 -   [Minityrsa](Minityrsa.md)
--   Songseeker Wilds
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 
 ## **Moves**
 

@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 18456
+revid: 19027
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,3 +26,6 @@ Shirafune on YouTube has many videos on smelting explaining how it works so that
 ### HP maxing
 
 Usually when you smelt, not all of the hp will be transferred over to the next item however items that surpass 19 HP will give 100% of their hp to the next item in increments of 6. found in shirafune video [https://www.youtube.com/watch?v=mu5VY2Z3qA4](https://www.youtube.com/watch?v=mu5VY2Z3qA4)
+
+  
+You will no longer be able to reach the insane amounts of HP shown in Shirafune's videos. Smelting has been nerfed as of 2/8/2022, 12:45 PM Central Time. Smelting now also requires that the smelted items be of the same type/slot (boots to boots, helmet to helmets).

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 18824
+revid: 19075
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -16,7 +16,7 @@ _If you want to see maps of the world, see [Maps](Maps.md)_
 
 **The Etrean Sea:**
 
-A list of locations that can be found in the Etrean Sea.
+A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 
 _If you want to see other world locations, see Atrael Sea or The Void Sea above, or [The Depths](The_Depths.md)_
 
@@ -24,15 +24,15 @@ _If you want to see other world locations, see Atrael Sea or The Void Sea above,
 
 Etris (Starting Island)
 
--   Etrean Wilds
--   Etris Docks
+-   [Etrean Wilds](Etrean_Wilds.md)
+-   [Etris Docks](Etris_Docks.md)
 
 Isle of Vigils (Starting Island)
 
--   Temple's Approach
--   Temple of the Blade
+-   [Temple of the Blade](Temple_of_the_Blade.md)
+    -   Temple's Approach
 
-### **Erisia**
+### **[Erisia](Erisia.md)**
 
 [Lower Erisia](Lower_Erisia.md)
 
@@ -42,12 +42,12 @@ Isle of Vigils (Starting Island)
 [Upper Erisia](Upper_Erisia.md)
 
 -   [The Birdcage](The_Birdcage.md)
--   Viper's Jaw
+-   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
     -   [The Hidden Village](The_Hidden_Village.md)
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
-    -   The Courtyard
+    -   [Temple Courtyard](Temple_Courtyard.md)
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
     -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
     -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
@@ -55,7 +55,7 @@ Isle of Vigils (Starting Island)
 
 ### Other
 
--   Eastern Interstitial Lighthouse
+-   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Minityrsa.md)
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
         
@@ -77,7 +77,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
 ### Other Islands
 
--   Songseeker Wilds
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Greathive Aratel](Greathive_Aratel.md)

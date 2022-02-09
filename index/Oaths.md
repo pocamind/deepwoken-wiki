@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 18881
+revid: 19069
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -84,4 +84,5 @@ This Oath also grants the players full vision and increased brightness while wea
 ## Trivia/Notes
 
 -   More Oaths are planned to added later, as stated in an update log.
-    -   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well.
+    -   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well
+    -   New Owl Oath, obtainment unknown, if you had a guess it probably would be intelligence, because owls are supposed to be wise.
