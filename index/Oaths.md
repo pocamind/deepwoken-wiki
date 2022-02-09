@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 19138
+revid: 19152
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -79,6 +79,8 @@ This Oath also grants the players full vision and increased brightness while wea
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
+_"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."_
+
 Requirements: Have a void feather
 
 _**Obtaining**_
@@ -91,7 +93,9 @@ _**Effects**_
 
 Gives decent stats, allows you to obtain Illusion magic by turning in more void feathers into Surge.
 
-Gives you a purple glowing eye.  
+Gives you a purple glowing eye.
+
++1 Support mantra slot +10 ether and +2 combat mantra slots  
 
 ### _Notes_
 

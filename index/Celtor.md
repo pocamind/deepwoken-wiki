@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 16310
+revid: 19169
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -58,6 +58,8 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 
 Drippy asf
 
+Celtor City Buff(idk what to call it) Cannot be spotted by watchers in Celtor city.
+
 Seaborne
 
 +2 Intelligence
@@ -86,3 +88,6 @@ Seaborne
 
 -   Despite being based off raccoons, they (unfortunately) cannot eat garbage.
 -   Half of the surnames of the Celtors are of Russian origin (Baranof, Kotof, Pavel, Bykof, Kalinof, Petrof, Sokolof).
+-   They are respected by the Celtor Guards (Depths guards)
+-   They cannot be spotted by watchers due to the fact that they belong in the Celtor city.
+-   Upon interacting with the depths guards, you will get different dialogue options than normal.

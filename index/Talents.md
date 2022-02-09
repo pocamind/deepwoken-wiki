@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19116
+revid: 19182
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -502,8 +502,8 @@ Prerequisite: Willpower 5~
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: A fist style.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
-    -   Prerequisites: Weapon Proficiency ???
--   Heartbreaker \[Generic Talent, Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Loard, +2 Health)
+    -   Prerequisites: Strength (15-20?)
+-   Heartbreaker \[Generic Talent, Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
 
 ### Oath
 

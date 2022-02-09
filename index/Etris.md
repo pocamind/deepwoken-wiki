@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 19079
+revid: 19151
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -120,7 +120,8 @@ Template:Areainfobox
 #### Fishing Shop
 
 -   Players can purchase fishing materials here:
-    -   Placeholder
+    -   Fishing Rod 30
+    -   Chum 5 each
 
 ## Quests
 

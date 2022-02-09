@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 19020
+revid: 19186
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -15,7 +15,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Megalodaunts are a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+Megalodaunts are a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_. ok
 
 Seen mostly around the island of Erisia, the Megalodaunt is one of the first monsters that new players will encounter. Players that are ill-equipped and lack insight of this creature are mostly likely going to experience a swift death.
 
@@ -26,7 +26,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 ## Moves
 
 -   **Slash** - A short range slash. Can be blocked and parried. Heavy posture damage.
--   **Kick** - It's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if kicked into a wall. \[Attack Commonly Known as "Watch Yo tone", "Watch Your Tone", "Tone Check", "Tone Watchinator".\]
+-   **Kick** - It's leg will make a red flash before sending out a kick, which has the potential to send those who attack flying instantly. Breaks block but can be dodged. Causes the **Dazed** status if kicked into a wall. Is the most dangerous move in its arsenal due to its ability to set you up for unfortunate situations. \[Attack Commonly Known as "Watch Yo tone", "Watch Your Tone", "Tone Check", "Tone Watchinator".\]
 -   **Jump** - If the target is above it, the Megalodaunt will jump, causing a multi-hit attack in a wide radius in front of it. Can be blocked and parried (this attack may be used after a kick).
 -   **Spit** - A multi-hit projectile targeted at a single target. Can be blocked and parried.
 -   **Roar** - Roars at nearby targets, putting them in combat and inflicting a generous amount of insanity. A poor move in the Etrean Luminant but especially deadly in [The Depths](The_Depths.md), as it can cause a player to suffer from the effect of Insanity much earlier than expected, or worse, mid fight.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 19146
+revid: 19179
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -10,7 +10,7 @@ notices:
 
 # Lore
 
-“ Who would've thought, that they will forget us so easily? ”
+“ Who would've thought, that the sea would forget us so easily? ”
 
 ― Voice of the Deep
 
@@ -169,6 +169,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (Galebreathe exclusive) make mention of the vigils.
 -   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
+    -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
 
 ### The Children of Navae
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 18965
+revid: 19181
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck, Monke]
@@ -38,7 +38,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 [Chests](Chests_&_Sacks.md) with mediocre - high tier loot. Most [Chests](Chests_&_Sacks.md) have 1-6 Umbral Obsidians in them.
--   **Small chest -** Has 1-3 Umbral Obsidians in it and a 50% chance of 1-2 Deep Gems.
+-   **Small chest -** Has 1-3 Umbral Obsidians in it and a ~50% chance~ of 1-2 Deep Gems. The chance has been lowered in the new update, it's still not confirmed how often they can come.
 -   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (5-7 solo Primadons is enough to get a resonance/bell) **Do note that this is random and could be more/less.**
 
 ## Strategies & Tips
@@ -49,13 +49,13 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
     -   These factors combined allow you to **completely autopilot** the fight with muscle memory, similar to a Megalodaunt.
 -   Primadon's health does **not** scale with the number of players present on the island- you are instead given 10 minutes to kill this beast. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
 -   Primadon is extremely likely to use **Punt** when he follows up one or multiple **Triple Stomps** with a regular **Stomp**. Predicting **Punt** and readying to perfect roll greatly increases your chances of success.
--   A major tactic to use whenever fighting this boss: If you see the ~right~ **left** foot raise, prepare for **Triple Stomps** and if you see the ~left~ **right** foot raise (not swing back, this represents **Punt**) prepare for one singular **Stomp**. Dodge the punts and parry the stomps and success is certain.
+-   A major tactic to use whenever fighting this boss: If you see the right foot raise, prepare for **Triple Stomps** and if you see the left foot raise (not swing back, this represents **Punt**) prepare for one singular **Stomp**. Dodge the punts and parry the stomps and success is certain.
 -   The footsteps of Primadon play a loud, noticeable noise that can be heard from very far, from the beach to even nearby islands. Use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the players (or _singular, solo_ _player_) fighting this fishy ape.
 -   It is recommended to stay completely still while fighting to avoid being confused by Primadon's walking animation, along with avoiding attacks like Grab and Punch from being triggered.
     -   If multiple players are attacking the Primadon at the same time, make sure that they're all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the **Scuba Drowner** talent or lived the fall.
--   ~Mantra abilities will **not** affect this monster, as it is **completely invincible** against elemental attacks.~ However, if you have a Bloodless Gem assigned to a Mantra, you can still hit the Primadon with said Mantra to slightly heal yourself. ~This does not work, as Bloodless Gem's healing scales off of damage dealt, so since you deal no damage, you don't heal.~ This is completely false. Whoever decided to assume that it does no damage is wrong. Mantras do damage to the primadon, although not nearly as much as basic attacks. I can confirm this with utmost certainty. Please do not assume things and if you do don't make them seem like fact. The only mob that is truly immune to mantras is Nautilodaunt (Squid Hoss)
+-   Blessed, Wind, Wayward, and Insignia gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of yourdamage, unless your mantra is physical, you will hardly heal any hp at all due to Primadon's insanely high elemental damage resistance.
 -   Debuffs from Mantras do affect Primadon.
 -   An easy way to cheese this is, place a azure flames graceful flame(you will take damage while casting) and fight Primadon next to hit so you heal back the damage you lose
 

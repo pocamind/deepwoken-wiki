@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 18898
+revid: 19188
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -58,6 +58,7 @@ Theory: Vesperians and Ganymedes are different versions of the same species, wit
   
 
 Insanity Resistance  
+Immune to drowning once (unknown cooldown)
 
 Free hat on spawn  
 

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 19131
+revid: 19170
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -45,7 +45,7 @@ File:Reward for finishing.png
 
 -   Free Points to spend on [attributes](Attributes.md) for every trial.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-8, and 15 points for the final trial. Finishing the trial will result in 18 Power.
--   +10% [Luck](Luck.md) for every trial. (+13% with [Marauder Boon](Boons_and_Flaws.md))
+-   [Luck](Luck.md) for every trial. (Luck gain varies)
 -   _Mark of the Lone Warrior_ Legendary [Talent](Talents.md) for finishing all the trials. Grants 2x EXP gain.
 
 ## Tips and Tricks

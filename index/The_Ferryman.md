@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 18808
+revid: 19160
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -120,4 +120,5 @@ The Ferryman has 3 different dialogues for after you kill him. They all have uni
 
 ## Bugs
 
--   It is possible to pass through the Ferryman's barrier using a Rapid slashes, a Light weapon skill. You need a person at the other side of the barrier though.
+-   It is possible to pass through the Ferryman's barrier using a Rapid slashes, a Light weapon skill. You need a person at the other side of the barrier though
+-   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
