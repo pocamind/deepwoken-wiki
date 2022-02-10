@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19150
+revid: 19297
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -51,7 +51,7 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Weight:** How much posture damage you deal when attacking blocks or parrying attacks.
 -   **Range:** How far your weapon can reach (Does not calculate by Studs)
 -   **Swing Speed:** How fast your weapon can strike per M1.
--   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls. _Only available for the medium weapon Shotel \[?\]_)
+-   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls.
 
 ## Types of Weapons
 
@@ -439,7 +439,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.73x</td>
 </tr>
 <tr>
-  <td>Warden Ceremonial Sword</td>
+  <td><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></td>
   <td>50 MED</td>
   <td>17</td>
   <td>N/A</td>
@@ -585,7 +585,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.7x</td>
 </tr>
 <tr>
-  <td>Sacred Hammer</td>
+  <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
   <td>65 MED</td>
   <td>20</td>
   <td>10%</td>
@@ -670,6 +670,12 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td>Night Axe</td>
   <td>75 HVY</td>
+  <td>22</td>
+  <td>70% Chip Damage</td>
+  <td>HVY: 7</td>
+  <td>10</td>
+  <td>8.5</td>
+  <td>0.54x</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
@@ -709,6 +715,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
 </tr>
 <tr>
   <td>Zweihänder</td>
@@ -719,6 +726,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td>Crescent Cleaver</td>
@@ -729,6 +737,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
@@ -739,6 +748,18 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
+  <td>0.1s</td>
+</tr>
+<tr>
+  <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
+  <td>75 HVY</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>HVY:8</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.54x</td>
+  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
@@ -749,6 +770,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -921,12 +943,12 @@ Weapons that scale with a certain element
   <td><b>Weight</b></td>
 </tr>
 <tr>
-  <td>Targe</td>
+  <td><a href="Targe.md">Targe</a></td>
   <td>10 FTD</td>
   <td></td>
 </tr>
 <tr>
-  <td>Kite Shield</td>
+  <td><a href="Kite_Shield.md">Kite Shield</a></td>
   <td>30 FTD</td>
   <td>1.25</td>
 </tr>
@@ -936,7 +958,7 @@ Weapons that scale with a certain element
   <td>1.85</td>
 </tr>
 <tr>
-  <td>Khan Shield</td>
+  <td><a href="Legion_Shield.md">Khan Shield</a></td>
   <td>60 FTD</td>
   <td>2</td>
 </tr>

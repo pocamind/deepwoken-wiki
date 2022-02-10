@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 18810
+revid: 19284
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -135,6 +135,14 @@ Just a bag of information to keep in mind and remember
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers.
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (???). Failing this check leads to the same fate as the Ignition Union group.
 
+### Visionshaper
+
+Deep down in the Depths, you can find a secret room located near the Deep Widow. Here there is man who can teach you illusion magic (Visionshaper Oath) in payment for Void Feathers.
+
+-   Void feathers drop from corrupted Owls in The Depths.
+-   Illusion magic **DOES NOT** count as a attunement as it is a oath so there is no stat to level.
+-   This quest is very tedious and dangerous so it is recommended you come with a group or prepared.
+
 ## Monsters in The Depths (incomplete)
 
 -   [Seekers](Watcher.md)
@@ -154,51 +162,59 @@ Just a bag of information to keep in mind and remember
 
 ## Loot Table
 
-Many drops are exclusive to the depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
+Many drops are exclusive to the depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. You can basically get everything in the game in the depths. Some things that drop in The Depths are...
+
+**Bolded = Depths exclusive or Mostly Depths drop.** Legendary = Gold
 
 <table>
 <tbody>
 <tr>
-  <td>Demon Mask</td>
-  <td>Dazed Band</td>
-  <td>Shattered Katana (can also be found in Duke chest)</td>
-  <td>Iron Cestus</td>
+  <td><b>Misc/blueprints</b></td>
+  <td><b>Weapons</b></td>
+  <td><b>Rings</b></td>
+  <td><b>Armor</b></td>
 </tr>
 <tr>
-  <td>[Midnight, Pale, Crimson] Shrouded Cape</td>
+  <td><b>Prophet's Cloak</b></td>
+  <td><b>Shattered Katana</b></td>
   <td>Ring of Wisps</td>
-  <td>Officer's Saber</td>
-  <td>Curved Blade of Winds</td>
+  <td>[Pale, Crimson, Gold] Assassin Hood</td>
 </tr>
 <tr>
-  <td>Star Duster</td>
-  <td>Freestyler's Band</td>
-  <td>Pale Hammer</td>
+  <td>Authority Commander</td>
+  <td><b>Flameguard Cestus</b></td>
+  <td>Dazed Band</td>
+  <td><b>Pale Assassin Cloak</b></td>
+</tr>
+<tr>
+  <td>Grand Pathfinder Cloak</td>
+  <td><b><font>Curved Blade of Winds (Very Rare)</font></b></td>
+  <td><b>Freestyler's Band</b></td>
   <td>Enforcer Boots</td>
 </tr>
 <tr>
-  <td>Deep Gems (very rare)</td>
-  <td>Dewdrop Earrings (can be found everywhere)</td>
-  <td>Shotel (can be found in songseeker and hive)</td>
-  <td>Providence Coat</td>
-</tr>
-<tr>
-  <td>Black Diver</td>
-  <td>Ruby Earrings (can be found everywhere)</td>
-  <td>Falchion (can be found in lower erisia)</td>
-  <td>Star Boots</td>
-</tr>
-<tr>
-  <td>Legion Centurion</td>
-  <td>Iron Birch</td>
-  <td>Serpent's Edge</td>
+  <td><b><font>Deep Gems (Very rare)</font></b></td>
+  <td>Enforcer Greatsword</td>
   <td>Pariah's Keepsake</td>
+  <td><b><font>Providence Coat</font></b></td>
 </tr>
 <tr>
-  <td>Pale Assassin Cloak</td>
-  <td>[Pale, Crimson, Gold] Assassin Hood</td>
-  <td>Diver Apprentice</td>
-  <td>Legate Helm</td>
+  <td><b>Black Diver</b></td>
+  <td><b>Serpent's Edge</b></td>
+  <td>Bloodiron Ring</td>
+  <td><b>Star Boots</b></td>
+</tr>
+<tr>
+  <td><b>Legion Centurion</b></td>
+  <td>Iron Birch</td>
+  <td><b>Purifying Ring</b></td>
+  <td><b>Demon Mask</b></td>
+</tr>
+<tr>
+  <td><b>Diver Apprentice</b></td>
+  <td><b>Pale Morning</b></td>
+  <td>Ring of Pestilence</td>
+  <td><b><font>Star Duster</font></b></td>
 </tr>
 </tbody>
 </table>
@@ -220,3 +236,4 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 -   Ringing the bells (not corrupted bells) in the drowned city will restore some of your hp, equivalent to that of knocking an npc or monster around your power.
 -   Diver camps have lockers that act as "campfires" although you can't heal, nor use it to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral rep with the Divers.
+-   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 18874
+revid: 19299
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -58,7 +58,7 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | Throws out a blockable chain that, if connects, drains the targets ether and health for ~3 seconds. It fills the users ether simultaneously. |
+ | Chains of shadow. | Throws out a blockable chain that, if connects, drains the targets ether and slows them for ~3 seconds. It fills the users ether simultaneously. |
 |  | 
 
 Shadow Eruption  

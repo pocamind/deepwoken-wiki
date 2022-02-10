@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 19152
+revid: 19303
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -18,6 +18,11 @@ categories: [Oaths, Character, Talents]
 | oath_req | Willpower 405 Mental Fortress Talents |
 | effects | +1 Support Mantra, +1 Wildcard Mantra, +3 Health, +10 Sanity |
 
+| Oath: Visionshaper | |
+|---|---|
+| oath_req | Not known/proven as of now. |
+| effects | +1 Support Mantra, +2 Combat Mantra, +10 Ether |
+
 _icon credit to Tortaa#9000_
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
@@ -32,19 +37,17 @@ There are currently only three Oaths in _Deepwoken_. More are planned to be adde
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-### _Description_
-
 **Oath: Oathless** requires [Power Level](Power.md) 30 to obtain in card rolls.
 
-### _Obtaining_
+### Obtaining
 
 Oathless is possible to roll in a hand of Talent Cards and does not require a task.
 
-### _Effects_
+### Effects
 
 This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
-### _Notes_
+### Notes
 
 -   A good Oath to obtain if you are not planning on obtaining a substantial amount of requirements.
 
@@ -52,11 +55,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 _"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."_
 
-### _Description_
+**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 12 to obtain all stated requirements.
 
-**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath has a [Power](Power.md) requirement of 6, due to the 5 Mental fortress talents required.
-
-### _Obtaining_
+### Obtaining
 
 Obtaining Blindseer is harder than Oathless, and requires a Blindfold for the process.
 
@@ -69,9 +70,9 @@ Obtaining Blindseer is harder than Oathless, and requires a Blindfold for the pr
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-### _Effects_
+### Effects
 
-This Oath grants the player one (1) Support Mantra Card slot, one (1) Wildcard Mantra Slot, three (3) Health and ten (10) Sanity.
+This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye.
 
@@ -79,31 +80,37 @@ This Oath also grants the players full vision and increased brightness while wea
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-_"You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands."_
+**Oath: Visionshaper** is an Oath that has requires one to nine Void Feathers, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 2/9/2022 to unlock new abilities.
 
-Requirements: Have a void feather
+### **Obtaining**
 
-_**Obtaining**_
-
-1.  Go to Surge, he is located past the Widow Cave in the depths.
-2.  Take the quest from him and kill Owls until you get a void feather.
+1.  Go to Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
+2.  Take the quest from him and kill corrupted Owls until you get a void feather.
 3.  Bring the void feather to him (Might Require 1-10)
 
-_**Effects**_
+### **Known Abilities**
 
-Gives decent stats, allows you to obtain Illusion magic by turning in more void feathers into Surge.
+-   Illusory Servants
+    -   Spawns clones that chase after your closest enemy attacking them, really broken tbh.
+    -   This does **NOT** deal damage unless you're inside your realm but does still stun your opponent.
+-   Illusionary Realm
+    -   Creates a arena that teleports anyone who enters the teleporter and allows you to separate hostiles to fight one on one.
+    -   This is probably one of the most important illusion mantras as it allows your illusion magic to deal damage.
 
-Gives you a purple glowing eye.
+-   Mirage From the Deep
+    -   While in Illusory Realm takes 15% of your health and allows you to leave early, swaps you in with an Depths NPC.
+    -   The enemy can range from a Megalodaunt to a King Thresher
 
-+1 Support mantra slot +10 ether and +2 combat mantra slots  
+### **Effects**
 
-### _Notes_
+This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
 
-No known level requirement as of now, and the only oath as of now to let you obtain new moves.
+This Oath allows you to use Illusion magic. Visionshaper gives the player a purple glowing aura in their eye.
 
-Pretty easy to get if you have friends, you could probably get it at level 1.
+### Notes
+
+-   No known/PROVEN requirements as of now, therefore in theory you could obtain this at level 1. Provide actual proof of needing requirements for this please.
 
 ## Trivia/Notes
 
--   More Oaths are planned to added later, as stated in an update log.
-    -   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well
+-   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well.

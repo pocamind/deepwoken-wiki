@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 18707
+revid: 19259
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food]
@@ -31,7 +31,7 @@ _**To cook food, one must rest at a campfire**_
 
 ## **Recipes**
 
--   The foods/potions recipes can be found here, and ingredients [here](Ingredients.md).
+-   The foods/potions recipes can be found [here](https://deepwoken.fandom.com/wiki/Crafting_Recipes_%26_Alchemy#Food_Recipes), and ingredients [here](Ingredients.md).
 
 ## Food Boosts
 

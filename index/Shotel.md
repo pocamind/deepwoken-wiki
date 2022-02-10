@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 18449
+revid: 19190
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,4 +28,4 @@ categories: [Weapons]
 
 ## Description
 
-The Shotel is a midgame Medium Weapon. It has 22 Base Damage, but has **NO** scaling stat, so damage cannot exceed 22.
+The Shotel is a midgame Medium Weapon. It has 22 Base Damage, but has **NO** scaling stat, so damage cannot exceed 22. false in they added scaling and 15% chip damage

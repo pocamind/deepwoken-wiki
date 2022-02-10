@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 18689
+revid: 19298
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -45,6 +45,12 @@ _"The power or right to give orders, make decisions, and enforce obedience."_
 
 -   The Voice of Authority only appears after the player successfully completes the trial.
 -   It will order the other voices to send the player back up into the Etrean Luminant.
+
+### Voice of Solitude
+
+_"The state or situation of being alone."_
+
+-   The Voice of Solitude is the voice in charge of operating the Trial of One.
 
 ## Trivia
 

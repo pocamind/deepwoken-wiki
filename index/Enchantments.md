@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 18872
+revid: 19288
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -258,7 +258,7 @@ Bounce
 
  | 
 
-Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block. This does not work on NPCs.
+Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block. (THIS DOES WORK ON NPCS IVE TESTED THIS 10 TIMES)
 
   
 

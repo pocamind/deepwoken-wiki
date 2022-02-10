@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 17791
+revid: 19237
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Monsters]
 
 ― Lionfish before instakilling a freshspawn in the depths
 
-  
+_Commonly refered to as: Menos Grande_
 
 ## Appearance
 

@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 18080
+revid: 19304
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -11,7 +11,7 @@ categories: [Resonance]
 | Portals | |
 |---|---|
 | effect | Become intangible with increased speed. |
-| appearance | Summon a white circle and become invisible. |
+| appearance | Summon a white portal and become invisible. |
 
 ## Description
 
@@ -29,7 +29,7 @@ Pressing C will activate the **Portal** Resonance.
 
 ### _Variants_
 
-Portal has two versions, and a unique Tarnished and Corrupted version.
+Portal has two versions, along with unique Tarnished and Corrupted variants.
 
 #### **_Versions_**
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 19065
+revid: 19310
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -66,4 +66,4 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   It has 1.5x the health of a normal thresher..
 -   In yet another bolt of 'game design' one of these can spawn directly on top of you, trap you in dialogue, and become hostile while speaking to you..
 -   Due to the fact that the owl has 1.8k hp, it may be possible to stat check it if you are at a high enough level due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it..
--   Possibly related to the new oath. (Mainly the dark and void feathers.)
+-   Corrupt Owls have a chance drop **Void Feathers** which is used for the new [Oath](Oaths.md)

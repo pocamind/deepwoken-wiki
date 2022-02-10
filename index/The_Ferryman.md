@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 19160
+revid: 19278
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -122,3 +122,4 @@ The Ferryman has 3 different dialogues for after you kill him. They all have uni
 
 -   It is possible to pass through the Ferryman's barrier using a Rapid slashes, a Light weapon skill. You need a person at the other side of the barrier though
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
+-   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him tp away. It will make him grand javelin while doing lightning assault. Be careful as this will almost instantly kill you

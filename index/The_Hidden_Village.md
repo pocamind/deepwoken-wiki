@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 18969
+revid: 19255
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -18,12 +18,9 @@ A village created far away from the watchful eyes of the Stonelife Lord.
 
 ## Overview
 
-The Hidden Village is a small abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a Mantra or a Heavy Weapon Critical. Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountiful amount of Erisore, and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements.
+The Hidden Village is a small abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a Mantra or a Heavy Weapon Critical.
 
-## Contents
-
--   Erisore
--   [Greathive Aratel](Greathive_Aratel.md) fountain
+Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountiful amount of Erisore, and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements.
 
 ## Potential Enemies
 
@@ -32,10 +29,23 @@ The Hidden Village is a small abandoned town located in the [Towerstruck Lands](
 -   Etrean Footsoldier
 -   Legion Footsoldier
 
-## NPCs
+## Missions
+
+Events that spawn in The Hidden Village that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+
+-   Etrea vs The Central Authority
+
+## Contents
+
+### NPCs
 
 -   Nimea, an [Etrean](Etrean.md) who gives you insight about Lightkeepers and their place in the world.
--   Cestis, a [Ganymede](Ganymede.md) who'll allow you to take bounties of players if you have bad [reputation](Reputation.md) with Etrea.
+-   Cestis, a [Ganymede](Ganymede.md) who'll allow you to take bounties of players if infamous with Etrea.
+
+### Miscellaneous
+
+-   You can find one of The Hive's fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
+-   You can find plenty of Erisore ore here.
 
 ## Quests
 

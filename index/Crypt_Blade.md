@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 19140
+revid: 19282
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,18 +9,16 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Crypt Blade is a Legendary weapon that was obtainable from Primadon and in the depths (Also from Duke but not sure) however this blade is no longer obtainable but still can be traded. It scales with [Shadowcast](Shadowcast.md) (10) and heavy weapon with 26 base damage.
+The **Crypt Blade** is a legendary weapon that can be obtained from the Depths loot pool. It used to be unobtainable, however, the update that brought PvP arenas [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat (10) alongside your Heavy Weapon stat. It boasts a base damage of 26, but scales to 65 damage with max Shadowcast and max Heavy Weapon.
+
+The Crypt Blade is a remodeled [Darksteel Greatsword](Darksteel_Greatsword.md). It is slightly darker, the blade is larger, and an animated darkness effect wraps around the sword.
 
 ## Requirements
 
-75 Shadowcast
-
-10 Strength
-
-45 Heavy
+You need to have **10 Strength**, **45 Heavy Weapons**, and **75 Shadowcast** to wield the Crypt Blade.
 
 ## Abilities
 
-\- It procs every [Shadowcast](Shadowcast.md) passive/talent
+The Crypt Blade is the strongest weapon in the game, boasting 65 damage when maxed. The Crypt Blade procs all Shadowcast passives on M1 and critical, including things such as **Fear** and **Ether Absorption**.
 
-\- Highest damaging weapon in the game ( Besides [Crazy Slots](Crazy_Slots.md) )
+The Crypt Blade has 9 range, 9 weight, and a 0.7x swing speed. There is an endlag period of 0.25s after M1. Hitting someone with a running attack and the Fear talent will cause them to not be knocked back by your running attack, allowing seamless running combos.

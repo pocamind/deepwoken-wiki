@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 19104
+revid: 19276
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -64,16 +64,15 @@ Isle of Vigils (Starting Island)
 
 A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
-### Aratel (Hive) Island
+### [Aratel Island](Aratel_Island.md)
 
 -   [Starswept Valley](The_Starswept_Valley.md)
-    -   Lightkeeper Temple
-    -   Widow's Hollow
+    -   [Lightkeeper Temple](Lightkeeper_Temple.md)
+    -   [Widow's Hollow](<Widow's_Hollow.md>)
 -   [The Lordsgrove](The_Lordsgrove.md)
--   Bluster Rift
--   Merit's Reach
+-   [Bluster Rift](Bluster_Rift.md)
+-   [Merit's Reach](<Merit's_Reach.md>)
 -   [Fort Merit](Fort_Merit.md)
--   [Greathive Aratel](Greathive_Aratel.md)
 
 ### Other Islands
 
@@ -85,7 +84,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 
 **The Void Sea:**
 
-A list of locations that can be found in [the Void Sea](Voidsea.md).
+A list of locations that can be found in [the Voidsea](Voidsea.md).
 
 ### The Void Sea
 
@@ -97,15 +96,15 @@ A list of locations that can be found in [the Void Sea](Voidsea.md).
 
 A list of locations that can be found in [The Depths](The_Depths.md), or inside The Depths experience.
 
-Celtor Wastes
+[Celtor Wastes](Celtor_Wastes.md)
 
--   Diver's Camp
--   Castle Light
+-   [Diver's Camp](<Diver's_Camp.md>)
+-   [Castle Light](Castle_Light.md)
 
-The City of the Drowned
+[The City of the Drowned](The_City_of_the_Drowned.md)
 
--   Varicosa District
--   District of Commerce
+-   [Varicosa District](Varicosa_District.md)
+-   [District of Commerce](District_of_Commerce.md)
 
 ### Other
 

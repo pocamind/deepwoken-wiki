@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 19151
+revid: 19283
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,9 +20,10 @@ Template:Areainfobox
 
 ## Points of Interest
 
-#### Center of City
+-   [Etris Docks](Etris_Docks.md)
+-   [Etrean Wilds](Etrean_Wilds.md)
 
--   Polis can be found here, and on first dialogue will give you a Gold Ring.
+## Contents
 
 #### Inn
 
@@ -34,7 +35,7 @@ Template:Areainfobox
 
 #### Antiquarian
 
--   Players can find an Antiquarian who will purchase their sellable items.
+-   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 -   Players can purchase Ankle Weights (AGI), Boulder (FTD), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) for.
 
 #### Blacksmith
@@ -111,17 +112,9 @@ Template:Areainfobox
 -   Nell, a spelltrainer that can upgrade [Frostdraw](Frostdraw.md) Mantras, can be found here.
 -   A functional cauldron can be found here.
 
-### Etrean Docks
+#### Miscellaneous
 
-#### [Mantra Collector](Mantra_Collector.md)
-
--   Players can find Schnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
-
-#### Fishing Shop
-
--   Players can purchase fishing materials here:
-    -   Fishing Rod 30
-    -   Chum 5 each
+-   Polis can be found here, and on first dialogue will give you a Gold Ring.
 
 ## Quests
 

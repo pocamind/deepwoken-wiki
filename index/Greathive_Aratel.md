@@ -1,9 +1,8 @@
 ---
 title: Greathive Aratel
-revid: 18704
+revid: 19273
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Greathive Aratel
@@ -15,67 +14,91 @@ TERRITORY OF The Hive
 The stirring of life of all kinds fills the air as you enter the shade of the canopy.
 
   
-Template:Areainfobox
+Template:Areainfobox**Greathive Aratel** is a location in _Deepwoken_. It is a settlement in the [Aratel Sea](The_Aratel_Sea.md).
 
-## Entry
+## Overview
 
-To get access to Greathive Aratel there is some requirements you need to meet first before being able to teleport there.
+Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement.
 
-1.  You need to wash your face in the fountain in the [Lightkeeper Temple](Lightkeeper_Temple.md) which will open the green door
-2.  An Oath (Oathless/Blindseer/...)
+To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be vowed to an [Oath](Oaths.md). Once you met these requirements, you are able to invoke with the Greathive Fountain in [The Lordsgrove](The_Lordsgrove.md).
 
-## Description
+## Contents
 
-This place is quite literally a glorified tree house.
+Greathive Aratel is split up into 4 floors and will be categorized as such.
 
-The tree house is split up into 4 floors, from bottom to top:
+### Entrance
 
-1.  **Entrance**
-2.  **Root Plaza**
-3.  **Heart Plaza**
-4.  **Canopy Plaza**
+#### Greathive Fountains
 
-The Entrance contains a Shipyard, and a Library.
+-   The player can find three of The Hive's fountains.
+    -   The left will send you to [Summer Isle](Summer_Isle.md).
+    -   The middle one will send you to [The Lordsgrove](The_Lordsgrove.md).
+    -   The right one will send you to [Upper Erisia](Upper_Erisia.md).
 
-The Root Plaza contains a Cargo Room, Archive, and an Antiquarian.
+#### Shipyard
 
-The Heart Plaza contains an R&D room.
+-   The player can find a Shipwright who will spawn, craft and recall your ships.
+    -   If the player is famous with The Hive, the Shipwright will bring up ship modification, or Lifeweaving, which could be a upcoming or undiscovered feature.
 
-The Canopy Plaza contains a Blacksmith, an Inn, Canopy Peak, and an Observatory, which also doubles as a mantra shop. When looking through the Celestial Telescope in the Observatory, it says this:
+#### Library
 
-“ \*You look through the telescope... You see the canopy of the Greathive crowding the lens, and the sea beyond it. Maybe there's a way to adjust the image?\* ”
+-   Players can find a Library here.
 
-― Celestial Telescope
+### Root Plaza
 
-  
-If the player looks at the side of the telescope, they will see a crank that can be interacted with. Upon interacting with it, this text shown: File:TelescopeCrank.png
+#### Cargo Room
 
-If the player turns it clockwise (which I assume is down), this image shows:
+-   placeholder
 
-You cannot turn it more than once for each side.
+#### Archive
 
-Upon turning the telescope counterclockwise (which I assume is up), the player will see the following set of images (crystal-like):
+-   placeholder
 
-File:TelescopeCounterclockwise2.png
+#### [Antiquarian](Antiquarian.md)
 
-  
-If you go into the R&D, there is a secret second lab with nothing in it
+-   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 
-586.962x586.962px
+### Heart Plaza
+
+#### R&D
+
+-   placeholder
+
+### Canopy Plaza
+
+#### Blacksmith
+
+-   Players can find (name) here, a Blacksmith.
+
+#### Inn
+
+-   Players can spend to set their spawn point here.
+
+#### Canopy Peak
+
+-   placeholder
+
+#### Observatory
+
+-   Players can find the Celestial Telescope here.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND) and a [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD) here for.
+
+## Observatory
+
+Greathive Aratel is home to the Celestial Telescope, which can give players insight on [Lore](Lore.md).
+
+Players can crank the telescope clockwise or counter-clockwise to position it to other celestial objects:
+
+-   Turning it clockwise will show these images:
+
+-   Turning it clockwise will show these images:
 
 ## Quests
 
 ### Tending the Beloved Quest (Suri Quest)
 
-File:Greathive Aratel4.png
-
-Suri the NPC
-
-Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement, though, so he suggests taking the safest route.
-
+-   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement, though, so he suggests taking the safest route.
 -   If you come back to Suri after completing this quest, you get a Vibrant Gem.
-
-  
 
 ### Blooming Souls Quest (Soul Flower Quest)
 
@@ -83,33 +106,7 @@ Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and 
     -   A red flower located outside near the observatory balcony. Mind your footing.
     -   A white flower, located near the Blacksmith, facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
--   Completing this quest gives a handful of EXP and access to upgrade Non-Attunement Mantras.
-
-## Reputation
-
-It is very dangerous to enter Greathive Aratel with negative reputation, as not only will you be stuck in an enclosed space surrounded by cliffs, but guards will also attack you and entering the inside will allow Mechs (or constructs) to spawn. These are incredibly dangerous enemies that can take out nearly half of a max players HP bar in one attack.
-
-Negative reputation can be removed or reset by talking to the NPC named "Zirik" in the [Lordsgrove](The_Lordsgrove.md)
-
--   Reputation in Greathive Aratel can be obtained in two ways.
-    -   Killing the Adretian Commander in the Commander vs. Mech event
-    -   Killing the Etris/Vigils swordsman in the Vigils vs. Hive Scout event
--   You can check how high your reputation is by talking to the guards.
-    -   \*They attack you\*: Negative Reputation
-    -   \*They ignore you\*: Neutral (0) Reputaion
-    -   "Traveller": Some Reputation
-    -   "Friend of the Hive": High Reputation
-    -   "Player's first name": Max Reputation
-
-Obtaining max reputation in Greathive Aratel will allow you to talk to the Shipwright.
-
-## Extra
-
-There are green [fountains](Fountain_Gates.md) around the Hive that you can invoke, used as a fast-travel system that can be activated after washing your face in the Lightkeeper Temple and after obtaining an [Oath](Oaths.md). The left well goes to [Summer Isle](Summer_Isle.md), the Middle to [Lordsgrove](The_Starswept_Valley.md), and the right to [Upper Erisia](Upper_Erisia.md).
-
-**Shipwright Information**
-
-If you have high reputation, the shipwright talks about ship modification, which is potentially an upcoming or undiscovered feature: "\*The Shipwright raises their hand, green lines of light swirling like vines around it.\* It's what makes the Hive itself special. I'm able to Lifeweave modifications into your ship."
+-   Completing this quest gives a handful of EXP and access to upgrade [Physical Mantras](Attunement-less.md).
 
 ## Trivia
 

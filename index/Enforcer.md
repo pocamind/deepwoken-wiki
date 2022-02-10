@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 19125
+revid: 19289
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -26,7 +26,7 @@ Template:Creature Info Box v2
 -   **Low Swing -** The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. While being faster than High Swing, does less health and posture damage.
 -   **Kick -** The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard.
 -   **Whirlwind -** The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range.
--   **Space Pull** - The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely.
+-   **Space Pull** - The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely. (Dodge Able)
 -   **Feint** - Its a feint for a monster. Enough said.
 
 ### Finishers
@@ -68,7 +68,7 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 ## Trivia
 
 -   All of The Enforcer's attacks are parriable, and blockable to some extent.
--   Due to its very limited appearance, it is hard to train against it without putting a high level character at risk.
+-   Due to its very limited appearance and only being in the Depths and the Trial of One, it is hard to train against it without putting a high level character at risk or spending possibly many hours training against it as a level 10.
 -   The Enforcer's scaling quickly becomes insane. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally), or use consumables.
 -   When doing an emote (such as Pride), the Enforcer cannot pull you.

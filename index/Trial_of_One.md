@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 19170
+revid: 19222
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -14,7 +14,8 @@ notices:
 
 ― Deepwoken
 
-  
+Entrance hallway of the Trial. The door ahead leads to the arena, two nonfunctional glowing gates to the left and right hallways.
+
 **Trial of One** is a unique event in _Deepwoken_. It's entrance is located under the Dark Mage Cultists stronghold. At the rear right corner is an open latch leading down to a hallway. At the end of the hallway is a glowing gate. Only players who are Power 1 can enter. The gate will stun and knock the player back if they are Power 2 or higher.
 
 ## Overview
@@ -50,14 +51,15 @@ File:Reward for finishing.png
 
 ## Tips and Tricks
 
--   Their HP is highly nerfed, took me 20 hits to kill a sharko with a starter sword.
+-   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help **experienced players** by giving them a quick progression boost by reaching power 18 in roughly 20 minutes and giving a boost to further progression.
+-   **All monsters HP (beside Angels) are greatly reduced so that they can be defeated in a decent amount of time at power 2-16.**
 -   **Parrying challenge -** While you get auto parrying frames, its not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Play it safe and only do 2 hits at a time between each attacks.
 -   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks.
 -   **Rock Golem -** You can weave extra hits during the spinning attack by attacking after parrying since you will have auto parry frames active. Stick to 2 hits between attacks.
 -   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to not attack as the tresher will always get a free hit in if you do not start blocking or parrying again.
 -   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. Make sure to hold F preemptively against feints instead of specifically going for parries.
--   **Stone Knight -** Make sure to avoid the stone pillar and kick at all cost. Every attack will take roughly 20% of your health and those 2 attacks lead to a near guaranted follow up.
+-   **Stone Knight -** Make sure to avoid the stone pillar and kick at all cost. Every attack will take roughly 20-25% of your health and those 2 attacks lead to a near guaranted follow up.
 -   **Alpha Megalodaunt + Parrying Challenge -** Play hyper defensively. The Parrying Challenge projectiles will damage the Alpha Megalodaunt too, use this to your advantage.
 
 ## Notes
@@ -67,3 +69,4 @@ File:Reward for finishing.png
 -   The glowing gate behind you when you enter the Trial of One does not return you to the Dark Mage Cultists stronghold. Rejoining the game brings you back to your starting island. (This is likely a bug)
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
 -   After losing, You WILL lose all of your armor you had equipped. Be sure to store your stuff on an alt before attempting this
+-   If you attempt this Trial with too many free investment points left over (will most likely happen to Audodidact users or Adrets), you may reach the exp cap for your Investment Points, making it impossible to further progress in the Trial. (I had to learn this the hard way)

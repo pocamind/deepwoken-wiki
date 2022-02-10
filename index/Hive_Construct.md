@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 18625
+revid: 19243
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -86,7 +86,7 @@ The most reliable cheese spot at Starswept Valley in my experience.
 -   Not worth fighting. Even if you try, this Golem will obscure your vision with trees all the time.
 -   They talk if the ice mage that spawns with it at Starswept Valley is defeated, showing that they believe that the
 -   Authority is just a group of "fools".
--   [Snow Knights](Stone_Knight.md) can be lured next to them at Minityrsa, causing them to fight each other.
+-   ~[Snow Knights](Stone_Knight.md) can be lured next to them at Minityrsa, causing them to fight each other.~ (Recent Update Changed this, They will not Fight each other anymore, Found this out the hard way.)
     
     File:VLGf7ZV.png
     

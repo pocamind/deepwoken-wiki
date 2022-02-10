@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 19097
+revid: 19306
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,10 +24,12 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     -   Requirement: 5 Strength, _Strength Combat Mantra_
     -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
 
--   **Rapid Punches** - Unleash a barrage of blows against your foes. If parried during it's startup it gets cancelled, otherwise not.
+-   **Rapid Punches** - Unleash a barrage of blows against your foes.
+    -   If parried during it's startup it gets cancelled, otherwise not.
     -   Requirement: 5 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
+    -   The altitude travelled decreases significantly as the user loses health.
     -   Requirement: 50 Strength, _Strength Mobility Mantra_  
         
 
@@ -38,13 +40,15 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Rally** - Strike your shield a few times to absorb some of the posture received by your allies.
     -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
--   **Reinforce** - Buff those around you with extra defense. Reduces incoming damage and completely reduces (Negates? (yes)) armor damage.
+-   **Reinforce** - Buff those around you with extra defense.
+    -   Reduces incoming damage and completely reduces (Negates? (yes)) armor damage.
     -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
     -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
     -   _Can be upgraded with the "Blood Shadow" talent card, which saps health from people you reinforced back onto you until the effect wears off._
     -   _Can be upgraded with the "Grand Support" talent card, which slightly heals people upon reinforcing. (the user included)_
 
--   **Brace** - Brace yourself against attacks and gain hyperarmour. Prevents your attacks/mantras from getting cancelled.
+-   **Brace** - Brace yourself against attacks and gain hyperarmour.
+    -   Prevents your attacks/mantras from getting cancelled.
     -   Requirements: 75 Fortitude, _Fortitude Support Mantra_  
         
 
@@ -52,22 +56,26 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 Agility mantras are mainly based on enhancing the user's movement speed, and movement options. To increase the distance travelled of dash moves/duration and level cap, strengthen your legs with Ankle Weights.
 
--   **Revenge** - A red, teleporting dash that deals damage to those caught in it's path. Teleports the user a considerable distance forward. Damage significantly increases as the user loses health. Reduces all fall damage if timed correctly.
-    -   Requirement: 6 Agility, _Agility Combat Mantra_
--   **Dash** - An agile dash, sends the user a considerable distance forward.
+-   **Revenge** - A vengeful rush.
+    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
+-   **Dash** - An agile dash.
+    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
     -   Requirement: 12 Agility, _Agility Mobility Mantra_
 
--   **Adrenaline Surge** - An adrenaline rush of agility, increases your movement speed and parkour abilities.
+-   **Adrenaline Surge** - An adrenaline rush of agility.
+    -   Increases your movement speed and parkour abilities.
     -   Requirement: 20 Agility, _Agility Support Mantra_
 
 ### _**Intelligence Mantras**_
 
 Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook.
 
--   **Summon Cauldron** - Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
+-   **Summon Cauldron** - Make a cauldron appear from your memories.
+    -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
     -   Requirement: 20 Intelligence, _Intelligence Support Mantra_
 
--   **Prediction** - Spawns a white flooring pattern around the user. Any form of damage will be reflected back to it's source.
+-   **Prediction** - Predict an opponent's attack and reflect it.
+    -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. Does not work on M1's/Critical Attacks.
     -   Requirement: 50 Intelligence, _Intelligence Combat Mantra_
 
 ### _**Willpower Mantras**_
@@ -75,8 +83,9 @@ Intelligence mantras act as "wildcards" in the user's arsenal. They compliment t
 Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle. To increase the duration/level cap, bolster your sanity and wisdom with Prayer Beads.
 
 -   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned.
+    -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
     -   Requirement: ~5 Willpower, _Willpower Support Mantra._
--   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defence.
+-   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defense.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
     -   Requirement: 25 Willpower, _Willpower Support Mantra_
 
@@ -88,9 +97,11 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends'.
 
 -   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
+    -   Combat tags enemies.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
+    -   Inflicts enemies with a longer lasting charmed debuff. Combat tags enemies.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 ## Weapon Mantras
@@ -101,13 +112,17 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 ### _**Light Weapon Mantras**_
 
--   **Rapid Slashes** - Rush down your opponent cutting them apart. Teleports the user to the enemy which the cursor is pointed at.
+-   **Rapid Slashes** - Rush down your opponent cutting them apart.
+    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks.
     -   Requirement: 10 Light Weapon, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
--   **Master's Flourish** - A spinning double slice with your sword. Chips through block and builds posture.
+-   **Master's Flourish** - A powerful slash that chips through block and slashes through armor.
+    -   A spinning double slice with your sword. Chips through block and builds posture.
     -   Requirement: 10 Medium Weapon, _Medium Weapons Combat Mantra_
+    -   **spear lunge attack (NOT REAL NAME)**
+    -   a large spear thrust forward, good for range and dmg
 
 ### _**Heavy Weapon Mantras**_
 
@@ -140,7 +155,6 @@ For example:
 ### _**Tips**_
 
 -   You can increase the distance travelled of dashes with Drift Shard and Rush Shards, although this does not work with Strong Leap, this make the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
--   The only agility mantra that scales with your health is Strong Leap, it's to prevent runners. And while you may be saying "shouldn't the agility ones get a drawback too?", then again, that's what agility is useful for.
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
 -   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
