@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 17716
+revid: 19318
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -10,7 +10,7 @@ categories: [Npc]
 
 ## Description
 
-Bandits are NPC hostiles that can be found all over. Can be identified by their red clothing.
+Bandits are NPC hostiles that can be found all over Lower Erisia. Can be identified by their red clothing.
 
 They spawn in groups of 2 around a campfire accompanied by a [Bandit Captain](Bandit_Leader.md), but sometimes in an [ambush](Random_Encounters.md) towards the player,
 

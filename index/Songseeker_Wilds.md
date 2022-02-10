@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 19024
+revid: 19332
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -68,7 +68,7 @@ The player from there will have to climb further up until they find a set of sta
 
 ### Megalodaunt and the Red Megalodaunt
 
--   The pair appears in the rare [Megalodaunt](Megalodaunt.md) VS Red Megalodaunt event, which only occurs in this location.
+-   The pair appears in the rare [Megalodaunt](Megalodaunt.md) VS Red Megalodaunt event, which only occurs in this location. (real)
 
 ## Guaranted enemy spawns
 
@@ -107,7 +107,7 @@ Below are possible items that can be found in the chests in songseeker.
 -   Glassdancer Wraps
 -   Eyeglasses
 -   Polarised Eyeglasses
--   blindfold
+-   blindfold (do not wear unless you know what you are doing)
 -   Gold bar (3-7)
 -   Sapphire( 4-6)
 -   Amethyst (4-5)

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 19188
+revid: 19317
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -49,9 +49,9 @@ Template:Races-Main
 
   
 
-To be discovered, but they are related to vesperians and a ganymede can be family with a vesperian, for some reason. They both have very similar last names.
+Little is known about the Ganymede, but they are distantly related to [Vesperians](Vesperian.md) and as such they share very similar last names (Gany: Sekhige. Vesp: Sekhigi.) and can be related to one another in game.
 
-Theory: Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above the water and the Ganymede's going into the depths. This would fit with the lore of the game and explain why they can be cousins, along with the vesperians having the same cross eyes underneath their masks that Ganymedes can have.
+A common theory is that Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above water and the Ganymede's descending into the depths. This would fit with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md))
 
 **Strengths:**
 
@@ -77,13 +77,11 @@ Free hat on spawn
 -   Trige
     
 
-## Trivia
+## Trivia/Notes
 
 -   Obtaining a [Resonance](Resonance.md) may be easier for them due to the racial resistance to insanity.
 -   Their appearance has a resemblance to that of the black mages from the _Final Fantasy_ series, as well as the snail shaman from the game, _Hollow Knight_.
--   Ganymede is one of the many moons of Jupiter.
--   Ganymede NPC's that are found at the Aratel Island possess Flamecharm magic.
--   Maybe this race is inspired by snails.
--   Maybe this race is inspired by insects (The ancestors of the Ganymedes could be a [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
--   Vesperian and Ganymede ancestors could be a [Primal Vesperian](Primal_Vesperian.md) as they resembles greatly to their predecessor.
--   One of the most valuable traits of a Ganymede is the invulnerability to insanity, therefore you don't need to exit the depths when grinding to reset insanity.
+-   In real life, Ganymede is one of the many moons of Jupiter.
+-   Ganymede NPCs that are found at the Aratel Island possess Flamecharm magic.
+-   The Ganymedes may be inspired by insects, considering their relation to Vesperians. (Both races share similarities to [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
+-   One of the most valuable traits for Ganymedes is their invulnerability to insanity, making it so you don't need to exit the depths when grinding to reset insanity.

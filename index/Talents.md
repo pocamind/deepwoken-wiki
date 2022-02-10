@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19280
+revid: 19336
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -44,11 +44,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Acrobat
 
--   Kick Off \[Generic Talent, Common Talent\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
+-   Kick Off \[Generic Talent, Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
--   Steady Footing \[Generic Talent\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
--   Quick Recovery \[Generic Talent, Common Talent\] - You move faster after doing a wall jump. (+1 Passive Agility)
--   Graceful Landing \[Generic Talent, Common Talent\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
+-   Steady Footing \[Generic Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
+-   Quick Recovery \[Generic Talent, Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
+-   Graceful Landing \[Generic Talent, Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   Minimum thereshold to take fall damage is increased.
 
 ### Aerial Dancer
@@ -67,22 +67,22 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Alchemist
 
--   Apothecary \[Common Talent\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
--   Exterminator \[ Common Talent\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
--   Wild Alchemy \[Common Talent\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
+-   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
+-   Exterminator \[ Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+-   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions effect are created as of 2x ingredients were used. Bypass the ingredient cap and will not make diluted potions.
 -   Prerequisites: Intelligence (10 - 40 int needed?)
 
 ### Alley Cat
 
--   Scaredy Cat \[Common Talent\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
+-   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
         -   Prerequisites: Agility
 
--   Lowstride \[Common Talent\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
+-   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now has fast as walking.
         -   Prerequisites: Agility
--   Conditioned Runner \[Legendary Talent\] You regenerate health faster than normal when running (+1 Passive Agility)
+-   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)
 -   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the agility penalty tied to lost hp.
         -   Prerequisites: Agility
@@ -115,7 +115,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Artisan
 
--   Master Craftsman \[Common Talent\] - Your skills alone substitute the need for a Craft Station.
+-   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station.
     -   Prerequisites: Intelligence
 
 ### Assassin
@@ -143,13 +143,13 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Bastion
 
--   Moving Fortress \[Generic Talent, Common Talent\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
--   Heavy Haul \[Generic Talent, Common Talent\] - Enemies who carry you move significantly slower. (+2 Health)
--   Braced Collapse \[Generic Talent, Common Talent\] - After being block broken, the next attack to hit you deals reduced damage.
--   Berserker \[Generic Talent, Common Talent\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
--   Battle Tendency \[Generic Talent, Common Talent\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
--   Firmly Planted \[Generic Talent, Common Talent\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
--   Perseverance \[Common Talent\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
+-   Moving Fortress \[Generic Talent, Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
+-   Heavy Haul \[Generic Talent, Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
+-   Braced Collapse \[Generic Talent, Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
+-   Berserker \[Generic Talent, Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
+-   Battle Tendency \[Generic Talent, Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
+-   Firmly Planted \[Generic Talent, Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
+-   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
 -   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
 
@@ -168,36 +168,36 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Butterfly
 
--   Swift Rebound \[Generic Talent, Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
--   Observation \[Generic Talent, Rare Talent\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
--   Steady Nerves \[Generic Talent, Common Talent\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
+-   Swift Rebound \[Generic Talent, Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+-   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+-   Risky Moves \[Generic Talent, Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+-   Steady Nerves \[Generic Talent, Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
 
 ### Caster
 
--   Overflowing Dam \[Generic Talent, Rare Talent\] - Having max ether makes your attacks do more damage. (15% dmg buff).
+-   Overflowing Dam \[Generic Talent, Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
     -   Prerequisite: 40 Intelligence
--   Perfect Flash \[Generic Talent, Rare Talent\] - Having full health causes your mantras do 1.25x damage.
+-   Perfect Flash \[Generic Talent, Rare Talent, Intelligence\] - Having full health causes your mantras do 1.25x damage.
     -   Prerequisite: 20(?) Intelligence
--   Eureka \[Generic Talent, Rare Talent\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
+-   Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30(?) Intelligence
--   Ether Absorption \[Generic Talent, Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
--   Ether Conduit \[Generic Talent, Common Talent\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
--   Everchanging Aegis \[Generic Talent, Legendary Talent\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+-   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
+-   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
+-   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
 
 ### Charismatic Cast
 
--   Lasting Charisma \[Generic Talent, Common Talent\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
+-   Lasting Charisma \[Generic Talent, Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
     -   Prerequisite: Charm, Charismatic Cast \[Generic Talent\]
 
 ### Charm Caster
 
--   Chaotic Charm \[Generic Talent, Common Talent\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
--   Charismatic Cast \[Generic Talent, Common Talent\] - Landing mantras on enemies charms them reducing damage done to you. (+ 4 Ether)
--   Morale Booster \[Generic Talent, Common Talent\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
--   Tough Love \[Generic Talent, Common Talent\] - Deal more damage to players charmed by you. (+ 4 Ether)
--   Familiar Sight \[Generic Talent, Rare Talent\] - Being hit by someone of the same race causes them to be charmed for a short duration.
--   Dazing Finisher \[Generic Talent, Legendary Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)
+-   Chaotic Charm \[Generic Talent, Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
+-   Charismatic Cast \[Generic Talent, Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you. (+ 4 Ether)
+-   Morale Booster \[Generic Talent, Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
+-   Tough Love \[Generic Talent, Common Talent, Charisma\] - Deal more damage to players charmed by you. (+ 4 Ether)
+-   Familiar Sight \[Generic Talent, Rare Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
+-   Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)
     -   Prerequisite For All: Charm + Charismatic Cast (You'll need it for unlocking all the other cards in the category)
 
 ### Comrade
@@ -214,7 +214,7 @@ Prerequisite: Reinforce(?)
 
 ### Critical Specialist
 
--   Knife's Journey \[Rare Talent\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health)
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health)
 
 ### Cryomancer
 
@@ -222,9 +222,9 @@ Prerequisite: Reinforce(?)
 
 ### Cutthroat
 
--   Assassin \[Generic Talent, Common Talent\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
--   Hidden Blade \[Generic Talent, Common Talent\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
--   In a Hurry \[Generic Talent, Common Talent\] You grip faster with a movement speed boost.
+-   Assassin \[Generic Talent, Common Talent, Light\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
+-   Hidden Blade \[Generic Talent, Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
+-   In a Hurry \[Generic Talent, Common Talent, Light\] You grip faster with a movement speed boost.
 
 ### Cloudwalker
 
@@ -262,21 +262,21 @@ Prerequisite: Reinforce(?)
 
 ### Empath
 
--   Give and Take \[Generic Talent\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
+-   Give and Take \[Generic Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates take less damage from you and deal less damage to you.
         -   Prerequisite: Charm
 
 ### Escape Artist
 
--   Boot Wallet \[Generic Talent, Common Talent\] - You no longer lose notes from dying.
--   Robber Baron \[Generic Talent, Common Talent\] - You hold onto more items when defeated.
+-   Boot Wallet \[Generic Talent, Common Talent, Charisma\] - You no longer lose notes from dying.
+-   Robber Baron \[Generic Talent, Common Talent, Charisma\] - You hold onto more items when defeated.
 
 ### Ether Adept
 
--   Nullifying Clarity \[Generic talent, Common Talent\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
--   Ether Blade \[Common Talent\] - Draw your foes ether into your weapon when you parry ether-based attacks.
--   Magical Resolve \[Common Talent\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
--   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
+-   Nullifying Clarity \[Generic talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
+-   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks.
+-   Magical Resolve \[Common Talent, Intelligence\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
+-   Charged Return \[Common Talent, Intellegence\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 
 ### Falling Star Guard
 
@@ -292,7 +292,7 @@ Prerequisite: Reinforce(?)
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary talent\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
+-   Exoskeleton \[Legendary talent, Fortitude\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
     -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of reduced damage that ignore exoskeleton mechanic everytime you are hit.
 -   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.

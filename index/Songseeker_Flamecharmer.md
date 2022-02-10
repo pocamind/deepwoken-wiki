@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 19008
+revid: 19334
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Songseeker Flamecharmers are NPC enemies that have the "[Flamecharmer](Flamecharm.md)" attunement and several mantras regarding it. Defeating them will be rewarded with a chest containing decent gear and loot. They have 900 HP.
 
-They can be found sitting/standing on the ground wearing a mask and a pair of robes, their appearance is repetitive, the race not.
+They can be found sitting/standing on the ground wearing a mask and a pair of robes, their appearance is repetitive, the race not. (Their HP is not on here or just not know so be careful)
 
 ## **Location**
 

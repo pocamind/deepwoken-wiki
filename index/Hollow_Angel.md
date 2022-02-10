@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 18961
+revid: 19321
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -61,7 +61,7 @@ Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings
 
 ## Description
 
-Greater Angels currently only spawn as the third challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
+Angels currently only spawn as the third challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
 
 ## Moves
 

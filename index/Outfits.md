@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 19165
+revid: 19338
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -202,7 +202,7 @@ Damage Vs. Deep
 +6 Health
 
  | Chests |
-| File:Sharko coat.png | Red Megalodaunt Coat | No Status Effect | Megalodaunt Drop |
+| File:Sharko coat.png | Megalodaunt Coat | No Status Effect | Megalodaunt Drop |
 | File:Black Fur Pauldrons.png | Black Fur Pauldrons | Placeholder | Chests |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | 1-2 buffs | Chests |
 | File:Flameguard.png | Flameguard Pauldrons | 1 buff | Chests |

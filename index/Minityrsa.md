@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 19060
+revid: 19327
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -68,7 +68,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
 -   Canorian Axe
 -   Crescent Cleaver (basic to one star)
--   [Katana](Katana.md) (basic to one star)
+-   [Katana](Katana.md) (basic to two star)
 -   [Razor Cutlass](Razor_Cutlass.md) (basic to two star)
 -   Iron Cestus (basic to two star)
 -   [Hero Blades](Hero_Blades.md) (basic to three star)

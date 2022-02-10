@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19297
+revid: 19344
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -51,7 +51,7 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Weight:** How much posture damage you deal when attacking blocks or parrying attacks.
 -   **Range:** How far your weapon can reach (Does not calculate by Studs)
 -   **Swing Speed:** How fast your weapon can strike per M1.
--   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls.
+-   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls.)
 
 ## Types of Weapons
 
@@ -765,7 +765,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
   <td>80 HVY, 25 STR</td>
   <td>25</td>
-  <td>80%(its listed as "Chip Damage", so unsure what it means) Damage done through an enemies block</td>
+  <td>80% Chip Damage</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
@@ -921,7 +921,7 @@ Weapons that scale with a certain element
   <td>0.8x</td>
 </tr>
 <tr>
-  <td><a href="Crypt_Blade.md">Crypt Blade</a> (UNOBTAINABLE)</td>
+  <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
   <td>75 SHD, 10 STR, 45 HVY</td>
   <td>26</td>
   <td>N/A</td>
@@ -974,3 +974,5 @@ D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) 
 The equation below shows the true attacks per second. (Is this really true? Someone needs to test this more thoroughly) (Changed Attack speed per second to attacks per second because you can't have speed per second, and it makes more sense)
 
 A t t a c k S p e e d \= S w i n g S p e e d / 2 {\\displaystyle AttackSpeed = SwingSpeed / 2} {\\displaystyle AttackSpeed=SwingSpeed/2}
+
+^^ this is wrong, light weapons having higher values is not accurate is they attack faster.

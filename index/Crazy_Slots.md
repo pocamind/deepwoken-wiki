@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 18305
+revid: 19314
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -11,13 +11,13 @@ categories: [Resonance]
 | Crazy Slots | |
 |---|---|
 | effect | Pulls out a random weapon with a special ability. |
-| appearance | Summons a weapon from thin air right into the user's hand. |
+| appearance | Summons a weapon from thin air into the user's hand. |
 
 ## Description
 
 **Crazy Slots** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
 
-**Crazy Slots** does not have separate versions, but has many different weapons that are unique to this Resonance.
+**Crazy Slots** does not have separate versions, but instead summons many different weapons that are unique to this Resonance.
 
 ### _Appearance_
 
@@ -25,25 +25,25 @@ Once used, the user extends their right arm, summoning a weapon from thin air.
 
 ## Usage
 
-Pressing C will activate the **Crazy Slots** Resonance and it's unique special skill.
+Pressing C will activate the **Crazy Slots** Resonance and its unique special skill.
 
-**Crazy Slots** calls forth a randomly chosen weapon that scales with it's respective stat, and has a unique skill when "C" is pressed, with Enchants and curses being transferred onto the pulled weapon.
+**Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and curses being transferred onto the summoned weapon. Each weapon scales with its respective stat, and has a unique skill that can be used by re-activating the ability.
 
 ### _Variants_
 
-**Crazy Slots** does not have separate versions, but has separate weapons and a unique Corrupted and Tarnished effect.
+Instead of variations, **Crazy Slots** has a total of **six** separate weapons to wield (two for each weapon category), along with unique Corrupted and Tarnished effects.
 
 #### _Corrupted_
 
-If **Crazy Slots** is found to be Corrupted, all weapons pulled will gain tremendous buffs.
+If **Crazy Slots** is found to be Corrupted, all weapons summoned will have their _base damage doubled_,_1_ as well as having their scaling modifier adjusted.
 
 #### _Tarnished_
 
-If the owner of **Crazy Slots** is Tarnished, the medium lasts a lot less time than the other weapons.
+If the owner of **Crazy Slots** is Tarnished, the medium weapons last a significantly shorter amount of time than normal.
 
 ## Weapons
 
-These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corrupted Base Damages are estimated currently.
+These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 
 ### _Normal_
 
@@ -70,6 +70,8 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 
 ### _Corrupted_
 
+Base damage values for Corrupted weapons are estimates._1_
+
 **Heavy:**
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
@@ -93,9 +95,10 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Corru
 
 ## Trivia/Notes
 
--   This bell is VERY overpowered. For example, a non-corrupted version of it's spear with 100 medium will do slightly over 1 bar of your health. (This damage was observed with 320 HP)
--   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use the abilities, as well as possessing quite high base stats.
--   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, my friend has a storm enchanted weapon and it shows blue light.)
+-   This Resonance has the potential to be very powerful. For example, a non-corrupted version of the Divine Spear with a user possessing 100 MED will do an estimated 70~ points of damage per hit. (Not heavily tested.)
+-   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use their powerful abilities, as well as possessing quite high base stats to begin with.
+-   In the community, this Resonance is often considered hit or miss. Because the weapons scale with the user's weapon attributes, there is potential for them to be very strong if they match your preferred weapon type but may be weaker than some late-game weapons otherwise.
+-   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, it has been seen that a storm weapon glows blue.)
 -   If your weapon has stars, their effect will also apply to your Crazy Slots weapons.
 -   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
 -   The Divine Spear model highly resembles the "Primordial Jade Winged-Spear" from _Genshin impact_.

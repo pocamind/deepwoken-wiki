@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 19306
+revid: 19326
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,12 +21,12 @@ Attunement-less mantras consist of mantras that are chosen based of your attribu
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
-    -   Requirement: 5 Strength, _Strength Combat Mantra_
+    -   Requirement: 6 Strength, _Strength Combat Mantra_
     -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes.
     -   If parried during it's startup it gets cancelled, otherwise not.
-    -   Requirement: 5 Strength, _Strength Combat Mantra_
+    -   Requirement: 6 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
     -   The altitude travelled decreases significantly as the user loses health.
@@ -82,7 +82,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal. They compliment t
 
 Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle. To increase the duration/level cap, bolster your sanity and wisdom with Prayer Beads.
 
--   **Glare -** Opponents facing you (and that are not blocking) are briefly stunned.
+-   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
     -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
     -   Requirement: ~5 Willpower, _Willpower Support Mantra._
 -   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defense.
