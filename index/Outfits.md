@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 19338
+revid: 19365
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -122,14 +122,14 @@ _Requires Fortitude 10_
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
-| File:Barrel Helmet.png | Barrel Helmet | TBA | Duke Chests |
+| File:Barrel Helmet.png | Barrel Helmet | grants 2 (Random?) buffs | Duke Chests, Artifacts |
 |  | Vagabond's Bicorn | TBA | Primadon Chests, Artifacts |
 | File:Smith Bandana.png | Smith Bandana | TBA | Artifacts |
 | File:Gladiator Helmet.png | Gladiator Helmet | grants 3 buffs, one will always be posture. | Hive Chests |
 | File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants 3 (Random) Buffs & Stealth by 4% | Depths Chests |
 | File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants 4 (Random) Buffs | Depths Chests |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants 2 (Random) Buffs | Depths Chests |
-|  | Guardian Helm | 1-2 Buffs | Primadon |
+| File:Guardian helm.png | Guardian Helm | 1-2 Buffs | Primadon, Artifacts |
 
 **Face:**
 

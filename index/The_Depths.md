@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 19284
+revid: 19349
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -87,7 +87,8 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see 
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunt in Trials have a possibility of being corrupted since spawn mechanics in the depths randomly decide if a whitelisted mob is corruptable or not, the megalodaunt being on the whitelist.
--   If you log while in the trial(if you arent in combat) you will simply get teleported back to your depths spawnpoint(where you spawned in when you first came to the depths)  
+-   If you log while in the trial(if you arent in combat) you will simply get teleported back to your depths spawnpoint(where you spawned in when you first came to the depths)
+-   if 2 players enter the trial and both power are too low but still fight a stronger monster, only 1 will spawn (for example: 2 power 49 enter the trial, 1 enforcer will spawn but if both power 50, 2 enforcers will spawn)  
     
 
 ## Farming in The Depths

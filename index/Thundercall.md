@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 18660
+revid: 19368
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Magic, Spells, Mantras]
 
 # Thundercall
 
-_And then along came Zeus..._
+_The metamancer attunement_
 
 ## Description
 
@@ -195,7 +195,6 @@ Lightning Cloak
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Lightning cloak is a legendary mantra card (confirmed in the official updates channel)
--   Requires 100 thundercall for chance to obtain. (Confirmed) proof?
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19336
+revid: 19357
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -292,7 +292,7 @@ Prerequisite: Reinforce(?)
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary talent, Fortitude\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
+-   Exoskeleton \[Legendary talent, 20 Fortitude\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
     -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of reduced damage that ignore exoskeleton mechanic everytime you are hit.
 -   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
@@ -370,7 +370,7 @@ Prerequisite: Reinforce(?)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Completely replace gun's light scaling with attunement scaling of the same value.
--   Armor Piercing - Your bullets now ignore 50% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
+-   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Inferno
 
@@ -931,10 +931,6 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Shadow Hunter
 
 -   Now You See Me - Increases stealth. (Obtained by wearing the Shadow Hunter Outfit)(Can also be obtained through cards)
-
-### Gunslinger
-
--   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (+2 Ether, +8 Reservoir, +3 Health) (Obtained by wearing the Summer Company Uniform)
 
 ### Darksteel Plate
 

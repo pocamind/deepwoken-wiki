@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 17490
+revid: 19350
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,9 @@ Rumours say that some races will visually change while getting older. For exampl
 
 ## Seasons
 
-  
+### Spring
+
+Spring increases your luck by 10%  
 
 ### Summer
 

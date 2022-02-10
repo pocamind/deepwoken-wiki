@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19344
+revid: 19361
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -247,7 +247,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td>Flamekeeper Cestus</td>
   <td>65 LHT</td>
-  <td>16</td>
+  <td>15.5</td>
   <td>5%</td>
   <td>LHT: 9</td>
   <td>5</td>
@@ -681,7 +681,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>Master Hawk's HandAxe</td>
   <td>75 HVY</td>
   <td>22</td>
-  <td>85%+ Chip Damage</td>
+  <td>50% Chip Damage</td>
   <td>HVY: 7</td>
   <td>10</td>
   <td>8.5</td>
@@ -765,7 +765,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
   <td>80 HVY, 25 STR</td>
   <td>25</td>
-  <td>80% Chip Damage</td>
+  <td>15% Chip Damage</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
