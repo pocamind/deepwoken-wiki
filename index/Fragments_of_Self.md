@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 19302
+revid: 19419
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Locations]
 
 LocationL Fragments of Self LocationR
 
-What will become of us?
+What will become of sus?
 
   
 

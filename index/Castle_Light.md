@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 18692
+revid: 19391
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to 
 
 ## Contents
 
--   Blacksmith
+-   [Blacksmith](Blacksmith.md)
 -   [Akira](Akira.md) (if you have talked to him before.)
 -   [Nyanna](Nyanna.md) (weapon and armor schematic shop with a rotation)
 
@@ -21,3 +21,4 @@ Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to 
 
 -   While considered a "safe zone" to some extents, monster can enter the barrier and also spawn in the castle. Apprentice Divers might be able to defeat said monster, but will have no chance against Corrupted one.
 -   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
+-   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only thing required is to go through a Whirlpool instead of drowning.

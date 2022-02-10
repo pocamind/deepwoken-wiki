@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 19349
+revid: 19416
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -79,8 +79,8 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see 
 
 | Trial Power | Enemies |
 | --- | --- |
-| 1-9 | None - You escape without fighting a monster |
-| 10-18 | One Swordsmen [Mudskippers](Mudskipper.md) |
+| 1-10 | None - You escape without fighting a monster |
+| 11-19 | One Swordsmen [Mudskippers](Mudskipper.md) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) (possibly corrupted due to depths spawn mechanics)1 |
 | 50+ | [Enforcer](Enforcer.md) |

@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 19342
+revid: 19411
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -47,7 +47,7 @@ Gripping a player will steal their luck (Luck/2 + 1), if:
 
 Killing the following Boss NPCs will provide you with luck:
 
--   [Stone Knights](Stone_Knight.md)
+-   [Blizzard Knights (Sand Knight Doesnt Give Luck)](Stone_Knight.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Murmur%253A_Ardour.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -63,7 +63,7 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 
 Due to the new luck system, you can rarely get luck from any enemy you fight in the form of a small orb where they died, these orbs can come from the common bandit to the King Thresher.
 
-The amount of luck obtained from these orbs are unknown as of yet.
+(3%, with a marauder boon) (normal npc)
 
 ### From Artifacts
 
@@ -75,12 +75,13 @@ Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck.
 -   Taking a rare or legendary card.
     -   Rare Card: -3% luck
     -   Legendary Card: -13% luck
+-   Unknown if this is true/tested as I have taken a Rare Talent Card and lost 10% luck, and on a different slot I took a Legendary Card at the cost of 6% luck.
 
 ## Notes
 
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   If you second wind after wiping, your luck stat will persist (Not very helpful as people rarely second wind but worth mentioning)
--   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
+-   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense. (unless you have curse of the bloodthirsty that makes you have to grip someone once a day)
     -   After the new update, you can rarely get luck from any mob, meaning that as any level, since you can even get luck from the common bandit there is **almost no reason** to grip anyone for luck, again unless you are just _that toxic_ or acting in self defense.
 -   Luck does **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
 -   Gripping a player for luck can be a viable strategy in the short term, but because corrupted monsters and bosses have set patterns, can drop [Chests](Chests_&_Sacks.md) with lots of items, and can be easily found with practice and experience, it is more viable to farm luck off them in the long term.

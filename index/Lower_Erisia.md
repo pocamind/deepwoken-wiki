@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 19056
+revid: 19380
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,7 +19,7 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
 Lower Erisia is a portion of [Erisia](Erisia.md) that drifted in through the Voidsea from changing currents.
 
-This island is recommended for those [Power Level](Power.md) 1 through 30.
+This island is recommended for those [Power Level](Power.md) 1 through 20.
 
 ## Points of Interest
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 19181
+revid: 19421
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck, Monke]
@@ -25,7 +25,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 -   **Stomp** - Primadon raises its **left** foot and stomps once. Can be parried and dodged.
 -   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **right** foot. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **Punt** - Primadon winds back its **left** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
+-   **WATCH YO TONE ΩOMEGAΩ** - Primadon winds back its **left** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 
 ## Passives

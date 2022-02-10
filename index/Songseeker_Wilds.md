@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 19332
+revid: 19385
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -40,7 +40,8 @@ It can be reached by the nearby gate entrance, or by taking the gorges directly 
 -   There are 3 structures:
     1.  A Windmill, by climbing up the window there is a small room. (nothing of interest inside)
     2.  A small hut. (nothing of interest inside)
-    3.  The Songseeker Temple, where aswell the [Flamecharm](Flamecharm.md) trainer can be located.
+    3.  The Songseeker Temple, where as well the [Flamecharm](Flamecharm.md) trainer can be located.
+    4.  The NPC who gives you [Chime of Conflict](Chime_of_Conflict.md) is located on the right side of the Temple.
 
 ## Points Of Interest
 

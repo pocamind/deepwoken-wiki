@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 19262
+revid: 19372
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -74,6 +74,8 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 #### Arms
 
 -   Imperial Pauldrons
+-   Tawny Adjudicator's Coat
+-   Pink Adjudicator's Coat
 -   Warden Pauldrons
 
 ### [Weapons](Weapons.md)
@@ -83,6 +85,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   [Khan Shield](Legion_Shield.md)
 -   Officer Saber
 -   Rifle Spear
+-   Flamekeeper Cestus
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 
 ### Miscellaneous

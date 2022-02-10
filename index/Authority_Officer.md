@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 16066
+revid: 19382
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,8 @@ Their arsenal consists of a Officer Saber and Thundercall: (Needs confirmation)
 ### **Moves:**
 
 -   **Double Handed Sword Attack**: Common sword M1's, can be easily parried.
--   **Lightning Impact**: The enemy winds up and swiftly flys in the air and kicks down. (Might be more moves idk)
+-   **Thunder Kick:** A swift kick imbued with lightning. Can be parried and blocked.
+-   **Jolt Grab (Magnet Spark Modified):** Holds their arm out for a second then does a quick dash towards you, slamming you into the ground creating AOE if it lands. Can be parried and blocked.
 
 ## Tips
 

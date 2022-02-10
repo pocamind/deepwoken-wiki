@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 18964
+revid: 19407
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra, Creation]
@@ -132,7 +132,7 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
  |  |
 |  | Vibrant Gem | +2 Intensity | 
 
--   Fire - burns more (Campfire-type mantras heal faster.)
+-   Fire - burns more
 -   Ice - slows more
 -   Thunder - stuns more
 -   Shadow - steals more ether

@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 19337
+revid: 19423
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -29,6 +29,8 @@ Players using the bell will be prompted to select a gamemode between 1v1 and 3v3
 
 Afterward, players will be waiting in the queue and be put in a match with their opponent.
 
+  
+
 ## Rules
 
 -   **15 Power range -** When selecting opponents, the game will match players who are at most 15 Power levels apart from one another.
@@ -45,8 +47,10 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 -   Players are granted lives in the form of Skulls. They can hold 3 skulls at once.
 -   Dying shatters 1 skull. If the player still have 2 or 1 skull left after this, they are not penalized.
     -   Shattering the last skull will make the player drop items and send them to [The Depths](The_Depths.md).
+-   You can see how many skulls you have by using The Chime Of Conflict but not choosing a game mode. The skull count will appear at the little UI in the middle of your screen.
 -   Players recover 1 skull in case of a victory. They also recover all their skulls every season change (every real life day, at midnight GMT+0)
     -   If they were sent to The Depths by the PvP Arena, escaping it will restore 2 skulls.
+    
 
 ## Rewards
 

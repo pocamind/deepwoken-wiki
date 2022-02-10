@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 19110
+revid: 19378
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -63,7 +63,7 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Etrea vs Knives of Eylis (The Aratel Sea)
 -   Etrea vs Hive (Starswept Valley)
 -   Legion Captain vs Authority Commander (Starswept Valley)
--   Hive Construct vs Authority Commander (Starswept Valley) _someone add the symbols for the factions i dont know how to do that yet_
+-   Hive Construct vs Authority Commander (Starswept Valley)
 
 #### **Golden Warrior**
 

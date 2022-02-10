@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 19326
+revid: 19424
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -114,26 +114,24 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart.
     -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks.
-    -   Requirement: 10 Light Weapon, _Light Weapons Agility Mantra_
+    -   Requirement: 6 Light Weapon, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
 
 -   **Master's Flourish** - A powerful slash that chips through block and slashes through armor.
     -   A spinning double slice with your sword. Chips through block and builds posture.
-    -   Requirement: 10 Medium Weapon, _Medium Weapons Combat Mantra_
-    -   **spear lunge attack (NOT REAL NAME)**
-    -   a large spear thrust forward, good for range and dmg
+    -   Requirement: 6 Medium Weapon, _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
-    -   Requirement: 10 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
+    -   Requirement: 6 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
 
 ## Upgrading Mantras
 
 The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
 
-1.  The user must have a good reputation with Hive.
+1.  The user must have a good reputation with Hive. (Not true, it only needs to be neutral.)
 2.  Must be able to use the wells to travel to the Greathive Aratel.
 3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms.
     -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
@@ -148,13 +146,15 @@ For example:
 
 1.  80+ points in Willpower => Level 5.
 2.  60+ points in Strength => Level 4.
-3.  20+ points in Agility => Level 2.
+3.  40+ points in Intelligence => Level 3.
+4.  20+ points in Agility => Level 2.
 
 ## Tips/Trivia
 
 ### _**Tips**_
 
 -   You can increase the distance travelled of dashes with Drift Shard and Rush Shards, although this does not work with Strong Leap, this make the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
+-   Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats more.
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
 -   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.

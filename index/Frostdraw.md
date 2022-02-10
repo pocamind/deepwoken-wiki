@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 19031
+revid: 19427
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -29,15 +29,15 @@ Along with all other elements, users crfaean see their Mantras becoming stronger
 
 The spelltrainer, [Nell](Attunement_Trainers.md), can be found in [Etris](Etris.md) in the brewing hut.
 
-## Spells
+## Mantras
 
-### **Combat Mantras**
+### **Combat**
 
 **Standard:**
 
 These mantras have no prequisites.
 
-| **Image** | **Name** | **Card Description** | **Effect** |
+| Image | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 | [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location. :)
 -   Deals moderate damage and sends target into the air.
@@ -73,7 +73,7 @@ These mantras have no prequisites.
 
 (★)
 
- | Placeholder | User throws three daggers of ice toward the nearest person. | Likely requires luck to obtain
+ | Placeholder | User throws three daggers of ice toward the nearest person.
 
 -   Homing attack.
 -   Can be upgraded with Frozen Pin-Cushion (freezes opponents for a long period of time)
@@ -89,11 +89,7 @@ These mantras have no prequisites.
 -   _Can be parried on 1st and 2nd hits_.
 
  |
-| File:Icechain.gif | Ice Chain
-
-(★) Someone needs to update it. I have ice chains and it's just like shadow chains except it's not shadow and doesn't drain ether. Probably can be upgraded like shadow gun with a blast spark (not tested yet) to make more chains. Probably all the mantras ingredients for ice chains will work with shadow chains (maybe). I just want to update this for now and I suggest you guys try putting a blast spark on and then a multiplying spark and so on.
-
- |
+| File:Icechain.gif | Ice Chain(★) | ??? | ??? |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | Ice Forge
 
 (★)
@@ -147,7 +143,25 @@ These mantras have no prequisites.
 
  |
 
-### **Mobility Mantras**
+**Crystal:**
+
+These mantras require Glasspath: Crystalization ability (45 ≤ Frostdraw) to have them appear in your deck.
+
+| Image | Name | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | Crystal
+
+Impale/Impact
+
+ | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
+
+-   Deals around six to eight hits.
+
+ |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | ??? |
+
+### **Mobility**
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -173,43 +187,7 @@ These mantras have no prequisites.
 
  |
 
-### **Support Mantras**
-
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
-
-**Crystal:**
-
-These mantras require Glasspath: Crystalization ability (45 ≤ Frostdraw) to have them appear in your deck.
-
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-| 
- | Crystal
-
-Impale/Impact
-
-  
-
- | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
-
--   Deals around six to eight hits.
-
- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee
-
-  
-
- | Knock your enemy skyward with a kick of crystal. | (Placeholder) |
-
-### **Mobility Mantras**
-
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
-
-### **Support Mantras**
+### **Support**
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
