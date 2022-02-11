@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 19559
+revid: 19780
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -33,7 +33,7 @@ Duke Boss Room
 -   Galebreathe - The Duke has an affinity with Galebreathe; using Galebreathe Mantras and Attacks.
     -   Wind Bind - The Duke flies into the air shortly before throwing homing balls of air that latches onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is binded and kicks them into the air before punching them away.
     -   Strong Left - The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left.
-    -   Wind Gun - The Duke flies into the air and shoots a singular Wind Gun towards the opponent.
+    -   Wind Spear - The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on.
     -   Counter - The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflects back to the attacker- dealing significant damage. He laughs afterwards when something strikes his counter.
     -   Wind Stomp - The Duke kicks the ground, shooting a wave of wind up from the ground towards you. Can be rolled. (Will auto-grip if this move hits you while knocked or at low health)
     -   Wind Bomb - The Duke flies into the air, raising his hands above him to conjure a huge ball of wind, before throwing it down, hitting everyone in the room. Can be parried or rolled. **DEALS EXTREMELY HIGH DAMAGE**, be cautious of this attack, from my testing it does well over 250 damage if you don't parry or evade it.

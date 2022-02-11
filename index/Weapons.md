@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19764
+revid: 19786
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -135,6 +135,16 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td>Champion's Dagger</td>
+  <td>50 LHT</td>
+  <td>14.5</td>
+  <td>N/A</td>
+  <td>LHT: 8</td>
+  <td>4</td>
+  <td>6</td>
+  <td>1.03x</td>
+</tr>
+<tr>
+  <td>Central Dirk</td>
   <td>50 LHT</td>
   <td>14.5</td>
   <td>N/A</td>
@@ -555,6 +565,16 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
+  <td>Acheron's Warspear</td>
+  <td>40 MED</td>
+  <td>17</td>
+  <td>N/A</td>
+  <td>MED: 4</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.7x</td>
+</tr>
+<tr>
   <td><a href="Trident_Spear.md">Trident Spear</a></td>
   <td>50 MED</td>
   <td>19</td>
@@ -683,6 +703,16 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+</tr>
+<tr>
+  <td>Evanspear Hand Axe</td>
+  <td>70 HVY</td>
+  <td>25</td>
+  <td>N/A</td>
+  <td>HVY: 9</td>
+  <td>8</td>
+  <td>8.5</td>
+  <td>0.55x</td>
 </tr>
 <tr>
   <td>Night Axe</td>

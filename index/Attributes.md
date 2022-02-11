@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 19775
+revid: 19783
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -22,12 +22,13 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
--   Overall Physical Strength. Increases Carry Load and Armor Penetration.
+-   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
     -   For every 10 Points of Strength, gain 1% Penetration.
 -   Some Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
+-   Uncapped by going to the Tomb of The Nameless Warrior, breaking past the hidden door, climbing under the coffin, and reading the book on the floor.
 
 ### Fortitude
 
@@ -36,6 +37,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
+-   Uncapped by talking to the large Khan in one of the cells and letting him beat you up.
 
 ### Agility
 
@@ -45,6 +47,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour and Sneak Attacks with the Ankle Weights.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
+-   Uncapped by talking to a white-clad NPC which looks over a cliff on a highway gate.
 
 ### Intelligence
 
@@ -53,6 +56,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via foraging, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
+-   Uncapped by eating a bluecap.
 
 ### Willpower
 
@@ -60,6 +64,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
+-   Willpower allows access to Blindseer if you decide to take the steps necessary.
+-   Uncapped by talking to Akira then going to Castle Light to talk to him again.
 
 ### Charisma
 
@@ -67,10 +73,11 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
 -   Increases Ether by about 2 every point.
+-   Uncapped by completing the Karliah Quest and telling her to go back home.
 
 ## Weapon Attributes
 
-These attributes can be improved up to 75, but completion of the quest: A Lost Sibling, allows attributes that reached 75 to go up to 100.
+These attributes can be improved up to 75, but completion of the quest: [A Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest), allows attributes that reached 75 to go up to 100.
 
 ### Heavy Weapons
 

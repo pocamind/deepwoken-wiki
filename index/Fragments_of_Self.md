@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 19450
+revid: 19787
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -43,4 +43,4 @@ Fragment of Self acts as the purgatory of _Deepwoken_. Players are sent to it wh
 
 ## Trivia/Notes
 
--   Player notes here
+-   If you fell off the Fragment of Self floating island, you will be teleported back to spawn.
