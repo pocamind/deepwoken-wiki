@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 19327
+revid: 19448
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,7 +20,7 @@ File:Mynistria Picture.png
 
 ## Overview
 
-Minityrsa is an island blanketed in the fresh snow that never ends. It can be found past the central speed highway in the direction of [Songseeker Wilds](Songseeker_Wilds.md).
+Minityrsa is an island blanketed in fresh snow. It can be found past the central speed highway in the direction of [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Points of Interest
 
@@ -33,6 +33,7 @@ Minityrsa is an island blanketed in the fresh snow that never ends. It can be fo
 
 -   Stronghold
     -   A stronghold inhabited and guarded by [Dark Mage Cultists](Ministry_Scout.md).
+    -   The [Trial of One](Trial_of_One.md)'s entrance can be found here underneath the back right hatch.
 
 ## Potential Enemies
 
@@ -83,9 +84,9 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
 ## Notes/Trivia
 
+-   Minityrsa is also called "mini" or "tundra" by other players.
 -   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.
 -   Enemy NPCs here cannot be assassinated.
 -   Since its constant snowfall in Minityrsa, its best to place Campfires beneath shelter.
 -   To travel to Minityrsa, the easiest way to know where to go is to start from Etris.
     -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing. Until you see an Island with trees and land, that is Minityrsa.
--   Minityrsa can be called by a few names, one of them being "Mini" for short.

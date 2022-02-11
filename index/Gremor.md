@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 19354
+revid: 19481
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -43,21 +43,22 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
 </tbody>
 </table>
 
-## Miscellaneous
+  
 
 **Lore:**
 
   
-The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow.
+The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to have a preference of using fists in battle, showing how most perks provided in the Navean Nomad camp are fist related, like the [Way of Navae](Way_of_Navae.md), provided by rescuing an imprisoned Gremor, or the Fists of Navae, which is acquired by buying [Navaen Nomad Robes](Navaen_Nomad_Robes.md) in the camp.
 
 **Strengths:**
 
   
 
-Has a built-in compass (Really quite lackluster, not very useful).  
-Start with more reputation with Children of navae
-
-Less prone to starvation.  
+-   Has a built-in compass.  
+    
+-   Alternate dialogue with Navaen Nomads.
+-   Less prone to starvation.  
+    
 
 **Surnames:**
 
@@ -82,9 +83,7 @@ Less prone to starvation.
 
 ## Notes/Trivia
 
--   Almost always good at PVP, regardless of progression.
--   Absolute chad race.
--   Kevin I am coming for your family
+-   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
 
 <table>
 <tbody>

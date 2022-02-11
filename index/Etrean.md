@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 17979
+revid: 19490
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -8,16 +8,16 @@ categories: [Pages with broken file links, Races, Character]
 
 # Etrean
 
-Etrean is a [Race](Aspects.md) in Deepwoken
-
-## Description
-
 Template:Races-Main
 
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._
 
 Chance of obtaining race: **17.4%**
+
+## Description
+
+Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common race, and can be found most commonly at Etris. Etreans get an agility and intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as racists.
 
 ## Racial Traits
 
@@ -28,14 +28,8 @@ Chance of obtaining race: **17.4%**
   <td><b>Molt</b>
   <ul>
     <li><i>Ailments and blessings alike fade away more quickly.</i></li>
+    <li>Take less damage in acid rain.</li>
     <li>+1 HP</li>
-  </ul></td>
-</tr>
-<tr>
-  <td></td>
-  <td><b>Poison Resistance</b>
-  <ul>
-    <li>Takes less damage in acid rain.</li>
   </ul></td>
 </tr>
 <tr>
@@ -49,32 +43,25 @@ Chance of obtaining race: **17.4%**
 </tbody>
 </table>
 
-## Miscellaneous
+  
 
 **Lore:**
 
   
-_The **Etreans** of the Eastern Luminant are a race like no other as they themselves are quite xenophobic to others not of their race. This is from their dislike of others possibly altering their way of already existing and how others influence their pre-existing traditions. The people of Etris have been in scrambles ever since their king had left them, with the current reigning lord causing great dismay to his people rather than helping them. The serpent-folk yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods._
+_The **Etreans** of the Eastern Luminant are a race like no other as they themselves are quite xenophobic to others not of their race. This is from their dislike of others possibly altering their way of already existing and how others influence their pre-existing traditions. The people of Etris have been in scrambles ever since their king had left them, with the current reigning lord causing great dismay to his people rather than helping them. The serpent-folk yearn for their king's return and some words on the wind speak of his return, others hiss falsehoods. The Etrean guards take up Galebreathe as their attunement._
 
 **Strengths:**
 
   
 
-+1 Health  
-+2 Agility  
-+2 Intelligence  
-Takes less damage in acid rain.  
-
-Racist
-
-**Weaknesses:**
-
-  
-Seeing as how **Molt** reduces the duration of positive effects as well as negative, this would technically make them "the worst race" in the game as they are the only ones to have a trait with a negative effect. Regardless, the decreased duration seems negligible and won't have much of an effect on gameplay.
+-   +1 Health
+-   +2 Agility
+-   +2 Intelligence
+-   Takes less damage in acid rain.
+-   Negative effects won't last that long.
+    
 
 **Surnames:**
-
-  
 
   
 
@@ -99,6 +86,7 @@ Seeing as how **Molt** reduces the duration of positive effects as well as negat
 
 -   Suprisingly not that racist in Etris.
 -   Despite the previous trivia, they kicked the merchant out for being beastly.
+-   Despite the previous trivia, the Canor merchant was kicked out by the Lord Regent, not the Etreans. The merchant was able to be in Etris when the kings were still there.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
 

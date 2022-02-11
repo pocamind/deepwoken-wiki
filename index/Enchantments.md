@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 19288
+revid: 19465
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -59,7 +59,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every hit has a chance to deal 3x DMG, when equipped has a chance of getting 3x DMG upon hit from your opponent.</p></div></td>
+  <td><div><p>Every hit (mantra and physical) has a chance to deal 3x damage to the opponent. Each proc causes it to deal 15% damage to you.</p></div></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 19276
+revid: 19445
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -14,44 +14,39 @@ _If you want to see maps of the world, see [Maps](Maps.md)_
 
 ## The Etrean Luminant
 
+A list of locations that can be found in the Etrean Luminant experience.
+
 **The Etrean Sea:**
 
 A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 
-_If you want to see other world locations, see Atrael Sea or The Void Sea above, or [The Depths](The_Depths.md)_
-
 ### Etrea
 
-Etris (Starting Island)
-
--   [Etrean Wilds](Etrean_Wilds.md)
--   [Etris Docks](Etris_Docks.md)
-
-Isle of Vigils (Starting Island)
-
--   [Temple of the Blade](Temple_of_the_Blade.md)
-    -   [Temple Approach](Temple_Approach.md)
+-   Etris (Starting Island)
+    -   [Etrean Wilds](Etrean_Wilds.md)
+    -   [Etris Docks](Etris_Docks.md)
+-   Isle of Vigils (Starting Island)
+    -   [Temple of the Blade](Temple_of_the_Blade.md)
+        -   [Temple Approach](Temple_Approach.md)
 
 ### **[Erisia](Erisia.md)**
 
-[Lower Erisia](Lower_Erisia.md)
+-   [Lower Erisia](Lower_Erisia.md)
+    -   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
+    -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 
--   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
--   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
-
-[Upper Erisia](Upper_Erisia.md)
-
--   [The Birdcage](The_Birdcage.md)
--   [Viper's Jaw](<The_Viper's_Jaw.md>)
--   [Erisor's Church](<Erisor's_Church.md>)
--   [Towerstruck Lands](Towerstruck_Lands.md)
-    -   [The Hidden Village](The_Hidden_Village.md)
--   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
-    -   [Temple Courtyard](Temple_Courtyard.md)
--   [The Garden Reservoir](The_Garden_Reservoir.md)
-    -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
-    -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
-        -   [Rat's Den](<Rat's_Den.md>)
+-   [Upper Erisia](Upper_Erisia.md)
+    -   [The Birdcage](The_Birdcage.md)
+    -   [Viper's Jaw](<The_Viper's_Jaw.md>)
+    -   [Erisor's Church](<Erisor's_Church.md>)
+    -   [Towerstruck Lands](Towerstruck_Lands.md)
+        -   [The Hidden Village](The_Hidden_Village.md)
+    -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
+        -   [Temple Courtyard](Temple_Courtyard.md)
+    -   [The Garden Reservoir](The_Garden_Reservoir.md)
+        -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+        -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
+            -   [Rat's Den](<Rat's_Den.md>)
 
 ### Other
 
@@ -94,19 +89,22 @@ A list of locations that can be found in [the Voidsea](Voidsea.md).
 
 ## [The Depths](The_Depths.md)
 
-A list of locations that can be found in [The Depths](The_Depths.md), or inside The Depths experience.
+A list of locations that can be found in The Depths experience.
 
-[Celtor Wastes](Celtor_Wastes.md)
-
--   [Diver's Camp](<Diver's_Camp.md>)
--   [Castle Light](Castle_Light.md)
-
-[The City of the Drowned](The_City_of_the_Drowned.md)
-
--   [Varicosa District](Varicosa_District.md)
--   [District of Commerce](District_of_Commerce.md)
-
-### Other
-
+-   [Celtor Wastes](Celtor_Wastes.md)
+    -   [Diver's Camp](<Diver's_Camp.md>)
+    -   [Castle Light](Castle_Light.md)
+-   [The City of the Drowned](The_City_of_the_Drowned.md)
+    -   [Varicosa District](Varicosa_District.md)
+    -   [District of Commerce](District_of_Commerce.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
+
+### Miscellaneous
+
 -   [Fragments of Self](Fragments_of_Self.md)
+
+## Dungeon
+
+A list of locations that can be found in the Dungeon experience.
+
+-   [Trial of One](Trial_of_One.md)

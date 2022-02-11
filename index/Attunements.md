@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 19366
+revid: 19454
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -35,3 +35,4 @@ It is worth noting that Mantras can have rarities individual of their stars and 
     -   **~May not work anymore, needs more testing~** Works as of 2/6/2022
 -   When unlocking an attunement after drinking a blood potion, the attunement will be permanently select-able from the starting menu after you unlock it.
     -   You can unlock all attunements to be select-able from the menu.
+-   Using a vibrant gem on any attunement's mantra (besides None) increases the potency.

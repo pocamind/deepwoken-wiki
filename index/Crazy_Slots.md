@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 19314
+revid: 19463
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,7 +39,7 @@ If **Crazy Slots** is found to be Corrupted, all weapons summoned will have thei
 
 #### _Tarnished_
 
-If the owner of **Crazy Slots** is Tarnished, the medium weapons last a significantly shorter amount of time than normal.
+If the owner of **Crazy Slots** is Tarnished, the weapon will take 2 extra seconds to be summoned which can be intterupted. The cooldown is also increased.
 
 ## Weapons
 

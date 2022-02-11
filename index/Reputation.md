@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 17680
+revid: 19491
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -38,7 +38,7 @@ Tip: [Officers Note](Cut_Content.md) can be used to increase reputation in Etrea
 
 Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 
-Etrean Guard saying the player's name on max positive reputation
+Upon being knocked by a guard that you have very high rep with (tested with max rep) they will not grip you but instead just insult you and go back to their post.
 
 #### _Negative Reputation_
 
@@ -70,7 +70,7 @@ File:Summer Company Postives.png
 
 The Summer Company Logo, w/ Indication of positive rep.
 
-Major factions such as the Summer Company and Etrea, will have an indicator with their emblem or logo show up briefly to tell you that you are developing a positive reputation with that faction. This is in effect as of 24/1/2022 (1/24/2022 if you live in America).
+Major factions such as the Summer Company and Etrea, will have an indicator with their emblem or logo show up briefly to tell you that you are developing a positive reputation with that faction. This is in effect as of game version pv\_JAN\_23\_19:34.
 
   
 

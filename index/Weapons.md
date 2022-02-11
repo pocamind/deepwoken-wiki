@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19415
+revid: 19487
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -156,21 +156,11 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>0.85x</td>
 </tr>
 <tr>
-  <td>Apprentice Rapier</td>
-  <td>60 LHT</td>
-  <td>13</td>
-  <td>N/A</td>
-  <td>LHT: 6</td>
-  <td>4</td>
-  <td>8</td>
-  <td>0.77x</td>
-</tr>
-<tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
   <td>60 LHT</td>
   <td>9</td>
   <td>30%</td>
-  <td>LHT: 10</td>
+  <td>LHT: 13</td>
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -304,6 +294,35 @@ Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
+</tr>
+</tbody>
+</table>
+
+**Rapiers:**
+
+Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the rapid strikes of a Light Weapon combined with the extended range of a Medium Weapon.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td>Apprentice Rapier</td>
+  <td>60 LHT</td>
+  <td>13</td>
+  <td>N/A</td>
+  <td>LHT: 6</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.77x</td>
 </tr>
 </tbody>
 </table>
@@ -688,6 +707,17 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.54x</td>
 </tr>
 <tr>
+  <td>Relic Axe</td>
+  <td>75 HVY</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
   <td>75 HVY</td>
   <td>26</td>
@@ -749,6 +779,17 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
+</tr>
+<tr>
+  <td><a href="First_Light.md">First Light</a></td>
+  <td>75 HVY</td>
+  <td>23</td>
+  <td>30%</td>
+  <td>HVY: 7</td>
+  <td>10</td>
+  <td>8.5</td>
+  <td>0.6x</td>
+  <td></td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>

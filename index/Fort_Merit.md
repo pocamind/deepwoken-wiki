@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 19372
+revid: 19436
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -74,6 +74,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 #### Arms
 
 -   Imperial Pauldrons
+-   Ash Adjudicator's Coat
 -   Tawny Adjudicator's Coat
 -   Pink Adjudicator's Coat
 -   Warden Pauldrons

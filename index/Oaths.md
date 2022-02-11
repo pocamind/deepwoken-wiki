@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 19303
+revid: 19435
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -90,14 +90,18 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 ### **Known Abilities**
 
--   Illusory Servants
-    -   Spawns clones that chase after your closest enemy attacking them, really broken tbh.
+-   **Illusory Servants**
+    -   Spawns a clone that chase after your closest enemy attacking them, really broken tbh.
     -   This does **NOT** deal damage unless you're inside your realm but does still stun your opponent.
--   Illusionary Realm
+-   **Illusionary Realm**
     -   Creates a arena that teleports anyone who enters the teleporter and allows you to separate hostiles to fight one on one.
     -   This is probably one of the most important illusion mantras as it allows your illusion magic to deal damage.
 
--   Mirage From the Deep
+-   **Illusionary Counter**
+    -   Your character sloaches back and puts both of their hands at their sides. Upon getting hit in this time frame, you will teleport behind whoever hit you and stun them.
+    -   This is a great move as it gives you some defensive possibilities and opportunities for counter play.
+
+-   _Passive_ **Mirage From the Deep**
     -   While in Illusory Realm takes 15% of your health and allows you to leave early, swaps you in with an Depths NPC.
     -   The enemy can range from a Megalodaunt to a King Thresher
 
@@ -110,6 +114,7 @@ This Oath allows you to use Illusion magic. Visionshaper gives the player a purp
 ### Notes
 
 -   No known/PROVEN requirements as of now, therefore in theory you could obtain this at level 1. Provide actual proof of needing requirements for this please.
+-   This oath is similar to Sans as the glowing of the eye and some of the poses.
 
 ## Trivia/Notes
 

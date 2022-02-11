@@ -1,52 +1,18 @@
 ---
 title: Portals
-revid: 19304
+revid: 19492
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonance]
+categories: [Resonance, Monster]
 ---
 
 # Portals
 
-| Portals | |
+| hehe | |
 |---|---|
-| effect | Become intangible with increased speed. |
-| appearance | Summon a white portal and become invisible. |
+| effect | MAKES U disappear |
+| appearance | Makes sussy boss |
 
-## Description
+# SUSSY BOSS
 
-**Portal** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll.
-
-### _Appearance_
-
-Once used, the user summons a white portal in front of them and becomes nearly completely invisible.
-
-## Usage
-
-Pressing C will activate the **Portal** Resonance.
-
-**Portal** grants the user invisibility, increased walk and swim speed and invincibility for four seconds until removed from your portal. While using the Bell, interacting with objects, eating and emoting will force you out of your portal early.
-
-### _Variants_
-
-Portal has two versions, along with unique Tarnished and Corrupted variants.
-
-#### **_Versions_**
-
--   **Version 1** is the regular version with no difference
--   **Version 2** provide the user with an offensive version of the resonance on top of the regular version, which can be activated by double tapping C. Doing so make the user dive in the ground via a portal, making them invisible and intangible. Cancelling/ending the ability make the user perform an upward rising kick, which send the target upward, along the user. Can be used to combo.
-
-#### _**Tarnished**_
-
-If the owner of this Resonance is Tarnished, there will be a 2 second wind up before the ability triggers. Can be interrupted via damage.
-
-#### _**Corrupted**_
-
-If Portal is found to be corrupted, the duration of the ability is tripled.
-
-## Trivia/Notes
-
--   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
-    -   The [Blindseer](Oaths.md) cosmetic eye that appears on your character will also be visible during use of Portal.
--   This Resonance can be a great tool to ambush other players.
--   Similar to _Valorant_ character Yoru's ability, hence why it's nicknamed "Yoru."
+my caca It in fact so dedlistoy that I am going to be eating more later 🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶 also please fix the game because for some reason i was walking and 9 sharks 63 blizzard nights and 4835934853895894358394593 bandits killed me and then in the depths 5 threshers (kings) and 384938958934589389458943958348958934858934958389458935438959843895389589438953489589 alpha Sharko killed me and I was lvl 69...

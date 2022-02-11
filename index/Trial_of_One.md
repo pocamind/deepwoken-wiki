@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 19222
+revid: 19464
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -16,19 +16,20 @@ notices:
 
 Entrance hallway of the Trial. The door ahead leads to the arena, two nonfunctional glowing gates to the left and right hallways.
 
-**Trial of One** is a unique event in _Deepwoken_. It's entrance is located under the Dark Mage Cultists stronghold. At the rear right corner is an open latch leading down to a hallway. At the end of the hallway is a glowing gate. Only players who are Power 1 can enter. The gate will stun and knock the player back if they are Power 2 or higher.
+**Trial of One** is a unique event in _Deepwoken_. It's entrance is located under the Dark Mage Cultists stronghold. At the rear right corner is an open latch leading down to a hallway. At the end of the hallway is a glowing gate. The gate will only allow players who are Power 1, the gate will stun and knock the player back if they are any power level higher.
 
 ## Overview
 
-Due to lack of info, update logs will sit as a placeholder for now.
+The Trial of One is a dungeon designed to practically speedrun through early-game progression stat wise. It is a nine part trial consisting of three parry challenges and seven monsters. After each challenge, you are given a varying number of free points that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended to serve highly skilled players in order to get new builds up relatively quickly.
 
--   The Trial of One is a special dungeon that only Power 1 players can attempt. You will be put through a gauntlet of challenges that will effectively speed-run the early game at a considerably higher difficulty than usual.
+## Trial Rules
 
--   It was added because the developers felt there was a real hole in early game challenges that good players could undergo to get a build online fast. This coupled with their changes to Luck were made because they want players to be able to have fun making new builds, and to be able to get them quickly.
-
--   You need to use all your free points in order to start the next trial.
-
-File:Reward for finishing.png
+-   The Voice of Solitude declares that you to _"discard your possessions"_ before continuing.
+    -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfits](Outfits.md) you have equipped will have its durability completely drained.
+-   All monsters encountered during the trial are aggressive as soon as they spawn.
+-   You must use **all** of the free investment points given to you to power up.
+-   When given the chance, you must draw or fold the cards you are dealt to continue to the next challenge.
+-   If you fail the trial, any food, equipped armor and spare weaponry is lost.
 
 ## Trials
 
@@ -43,6 +44,10 @@ File:Reward for finishing.png
 9.  [Alpha Megalodaunt](Megalodaunt.md) + Parrying Challenge
 
 ## Rewards
+
+File:Reward for finishing.png
+
+Mark of the Lone Warrior's talent description
 
 -   Free Points to spend on [attributes](Attributes.md) for every trial.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-8, and 15 points for the final trial. Finishing the trial will result in 18 Power.
@@ -69,4 +74,5 @@ File:Reward for finishing.png
 -   The glowing gate behind you when you enter the Trial of One does not return you to the Dark Mage Cultists stronghold. Rejoining the game brings you back to your starting island. (This is likely a bug)
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
 -   After losing, You WILL lose all of your armor you had equipped. Be sure to store your stuff on an alt before attempting this
--   If you attempt this Trial with too many free investment points left over (will most likely happen to Audodidact users or Adrets), you may reach the exp cap for your Investment Points, making it impossible to further progress in the Trial. (I had to learn this the hard way)
+-   If you attempt this Trial with too many free investment points left over (will most likely happen to Audodidact users or Adrets), you may reach the exp cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some exp without powering up if you are an adret/use autodidact.
+-   Failing the trial with a stained healthbar does not send you to the Depths.(likely a bug)

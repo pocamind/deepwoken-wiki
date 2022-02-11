@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 18630
+revid: 19431
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -222,7 +222,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You could even bait at a vent by going to cast a fireball then switching to a weapon and deal damage while they are venting. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.</td>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.</td>
   <td></td>
 </tr>
 <tr>

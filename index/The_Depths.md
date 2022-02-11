@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 19416
+revid: 19442
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -101,7 +101,7 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 
--   _**Giant Killer,**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Obtained with Willpower, tested with a pure Willpower build.
+-   _**Giantslayer,**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Obtained with Willpower, tested with a pure Willpower build.
 
 -   **_[Blindseer Oath](Oaths.md)_**, an Oath obtainable through high willpower and obtaining all 5 **Mental Fortress** cards will allow somebody to survive the depths without killing an enemy for over an hour. The Mental Fortress Talents help significiantly in the depths.
 

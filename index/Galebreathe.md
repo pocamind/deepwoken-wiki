@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 18435
+revid: 19466
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -73,7 +73,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
  |
 |  | Gale Punch  
-(★) |  | AOE punch that deals damage and knocks opponents away.
+(★) | Form a punch of wind in your fist and release it. | AOE punch that deals damage and knocks opponents away.
 
 -   Can be upgraded with the _Vacuum Punch_ Talent.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 19179
+revid: 19446
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -316,10 +316,6 @@ A Peacekeeper Grunt, part of The Authority
 
 ### The Hive
 
-File:Hive Icon.png
-
-  
-
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _Lightkeepers (???)_
@@ -334,10 +330,6 @@ File:Hive Icon.png
 -   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
 
 ### The Divers
-
-File:Divers Icon.png
-
-  
 
 -   An Organization that specialize in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
@@ -358,8 +350,8 @@ File:Divers Icon.png
 -   **Enemies:** _None_
 -   **Lore Sources:** _Ferryman, Arch\_Mage_
     -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
-    -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch- but in [Aelita's](Aelita.md) case in the other hand, not much is known about her except for her ability to teleport and create clones of herself.
-        -   It is assumed that Aelita is a Krulian, as no one in Deepwoken can use that kind of ability she has.
+    -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
+        -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, but since the Autumn of 1283; she took the oath of the [Visionshaper](Oaths.md).
 
 ### The Golden Warriors
 
@@ -621,10 +613,11 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 ### Year 1283
 
-(PVP Arena & Trial of One Update)
+(PVP Arena, Trial of One, Visionshaper Oath Update)
 
 -   In the Autumn of Year 1283, a Capra drunkard stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
 -   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
+-   In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
 
 ## Miscellaneous
 
