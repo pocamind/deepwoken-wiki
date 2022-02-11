@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 19464
+revid: 19711
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -57,7 +57,7 @@ Mark of the Lone Warrior's talent description
 ## Tips and Tricks
 
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help **experienced players** by giving them a quick progression boost by reaching power 18 in roughly 20 minutes and giving a boost to further progression.
--   **All monsters HP (beside Angels) are greatly reduced so that they can be defeated in a decent amount of time at power 2-16.**
+-   **All monsters HP (beside Angels) are greatly reduced so that they can be defeated in a decent amount of time at power 1.**
 -   **Parrying challenge -** While you get auto parrying frames, its not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Play it safe and only do 2 hits at a time between each attacks.
 -   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks.

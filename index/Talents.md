@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19470
+revid: 19774
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -106,7 +106,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Apex Predator
 
 -   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: Strength & Willpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
+    -   Prerequisites: 5 Strength & 5 Willpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -488,6 +488,10 @@ Prerequisite: Willpower 5~
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
     -   Prerequisites: Strength (15-20?)
 -   Heartbreaker \[Generic Talent, Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
+
+### Neuroplasticity
+
+-   Genius Intellect \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra slot, + 20 Resevoir)
 
 ### Oath
 
@@ -943,94 +947,6 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 **Prophet's Cloak**
 
 -   Crippling Darkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
-
-## List of Rare cards
-
--   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
--   Aerogliding \[Generic Talent, Rare Talent, Galebreath Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
--   Stifled Jump \[Generic Talent, Rare Talent, Galebreath Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
--   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
--   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
-    -   Prerequisites: Strength & Willpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
--   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
-    -   Prerequisites: Carnivore
--   Sunken Predator \[Rare Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
--   Lightspeed Reflexes \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility
--   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
--   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
--   Risky Moves \[Generic Talent, Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
--   Overflowing Dam \[Generic Talent, Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
-    -   Prerequisite: 40 Intelligence
--   Perfect Flash \[Generic Talent, Rare Talent, Intelligence\] - Having full health causes your mantras do 1.25x damage.
-    -   Prerequisite: 20(?) Intelligence
--   Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
-    -   Prerequisite: 30(?) Intelligence
--   Familiar Sight \[Generic Talent, Rare Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
--   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
--   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
--   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health)
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health)
--   Concussion \[Generic Talent, Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
--   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
--   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
--   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
--   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
-    -   Drink potions faster.
--   The Final Act \[Generic (?) Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
--   Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
--   Gale Dash \[Generic Talent, Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
--   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
--   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   Comeback Kid \[Generic Talent, Rare Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
--   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
--   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
--   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
--   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]
--   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
--   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
--   Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some Armor upon killing enemies.
--   Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
--   Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
-    -   Prerequisites: Flamecharm
-
--   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
-    -   Prerequisites: Flamecharm
-
--   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Flamecharm
--   Command: Sacrifice \[Generic Talent, 50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
-
--   Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health)
-    -   Prerequisites: Vow of Mastery
--   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
--   Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
-
-## List of Legendary Cards
-
--   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)
--   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
--   Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)
--   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
--   Exoskeleton \[Legendary talent, 20 Fortitude\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
-    -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of reduced damage that ignore exoskeleton mechanic everytime you are hit.
--   Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
--   Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
--   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
--   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
--   Grand Skewer (Generic Talent, Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.
--   Piercing Will \[Generic Talent, Legendary Talent\] - When your sanity is at stake, ignore the armor resistances of your enemies. (+4 Ether)
--   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
--   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health, ~healing stops when reaching 55% HP~ now heals to full, can be abused by not pressing any movement keys, allowing the regen buff even when knocked back or ragdolled)
--   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)
--   Million Ton Piercer \[Generic Talent, Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health) (Requires an unknown amount of strength and prerequisites.)
--   Vanishing Follow-up \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
--   Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
--   A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
--   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
--   Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)
--   Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)
--   Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
 
 ## Notes/Trivia
 

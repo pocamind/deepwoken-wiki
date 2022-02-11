@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 19441
+revid: 19559
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -31,11 +31,13 @@ Duke Boss Room
 ### Attacks
 
 -   Galebreathe - The Duke has an affinity with Galebreathe; using Galebreathe Mantras and Attacks.
-    -   Wind Prison - The Duke shoots a homing ball of rapid winds. Getting hit with this attack immobilizes your movement. Can be parried or rolled.
-    -   Jetstream - The Duke warps to a nearby player that he's not targeting (unless there's only 1 person) throwing them up to the air and drop kicks them forward midair. The Duke can only teleport to someone who is stuck in his Wind Prison.
+    -   Wind Bind - The Duke flies into the air shortly before throwing homing balls of air that latches onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is binded and kicks them into the air before punching them away.
+    -   Strong Left - The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left.
+    -   Wind Gun - The Duke flies into the air and shoots a singular Wind Gun towards the opponent.
     -   Counter - The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflects back to the attacker- dealing significant damage. He laughs afterwards when something strikes his counter.
-    -   Wind Stomp - The Duke kicks the ground, shooting a wave of wind up from the ground towards you. Can be rolled(?). (Will auto-grip if this move hits you while knocked or at low health)
-    -   ~Spirit~ Wind Bomb - The Duke flies into the air, raising his hands above him to conjure a huge ball of wind, before throwing it down, hitting everyone in the room. Can be parried or rolled. **DEALS EXTREMELY HIGH DAMAGE**, be cautious of this attack, from my testing it does well over 250 damage if you don't parry or evade it.  
+    -   Wind Stomp - The Duke kicks the ground, shooting a wave of wind up from the ground towards you. Can be rolled. (Will auto-grip if this move hits you while knocked or at low health)
+    -   Wind Bomb - The Duke flies into the air, raising his hands above him to conjure a huge ball of wind, before throwing it down, hitting everyone in the room. Can be parried or rolled. **DEALS EXTREMELY HIGH DAMAGE**, be cautious of this attack, from my testing it does well over 250 damage if you don't parry or evade it.
+    -   Slave Summon - The Duke snaps his fingers, summoning 3 slaves from the pods around the boss room.  
         
 -   Fist Combat: Legion Kata - The Duke wields Iron Cestus, and will fight you using Martial Arts of the Legion.
 
@@ -71,8 +73,8 @@ You also gain a large amount of Luck (Unknown value), and Bell Progress.
 -   The more people that participates in fighting The Duke, the more health he has.
     -   This can be bypassed by having one person spawn the boss, while everyone else waits in the hallway where the Black Rock Golems spawned earlier.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
+    -   Specically, Wind Bind correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Wind Stomp correlates to Ground Quake, and Wind Bomb correlates to Plasma.
 -   The Dukes respawn timer is around 25 minutes (tested)
--   Players often call the duke the "thinker" because of the ai breaking and making him pause in combat "thinking" of his next move.
 -   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
     -   (Confirmed with Exploits)
 

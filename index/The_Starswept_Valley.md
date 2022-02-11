@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 19238
+revid: 19608
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -105,7 +105,6 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   Black Parka
 -   Brown Parka
 -   White Parka
--   Royal Pathfinder
 -   Royal Pathfinder
 -   White Fur Pauldrons
 -   Khan Pauldrons

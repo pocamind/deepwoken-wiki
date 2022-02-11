@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 19176
+revid: 19775
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -10,7 +10,7 @@ categories: [Attributes, Character]
 
 _icon credit to Tortaa#9000_
 
-**Attributes** are player stats that can be increased to a max of 100. Attributes can be increased with Investment Points. You can have a maximum of 300 points on a character at 60 power or 310 if they chose attunement-less at the start.
+**Attributes** are player stats that can be increased to a max of 100. Attributes can be increased with Investment Points. You can have a maximum of 327 points (300 from levels + 10 from mantra/attunementless + 4 from race + 13 from character creation)on a character at 60 power
 
 ## Basic Attributes
 

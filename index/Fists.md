@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 18370
+revid: 19607
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -60,7 +60,7 @@ File:Jus Karita Description.png
 **CRITICAL: Dash forward while doing a kick.**
 
 -   Achieve a Power level of 30 and a Light Weapons attribute level of 40.
--   Head to Polis, the Vesperian polishing his Greatsword under the White Tree and ask him about the Jus Karita style. Keep the conversation until you receive the talent that allows you to use Jus Karita in combat.
+-   Head to Polis in Etris, the Vesperian polishing his Greatsword under the White Tree and ask him about the Jus Karita style. Keep the conversation until you receive the talent that allows you to use Jus Karita in combat.
 
 After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
 

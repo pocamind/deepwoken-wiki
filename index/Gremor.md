@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 19481
+revid: 19500
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -56,8 +56,10 @@ The deer folk of the land are among the few that still consider themselves free 
 
 -   Has a built-in compass.  
     
--   Alternate dialogue with Navaen Nomads.
 -   Less prone to starvation.  
+    
+-   +2 Strength
+-   +2 Fortitude
     
 
 **Surnames:**
@@ -84,6 +86,7 @@ The deer folk of the land are among the few that still consider themselves free 
 ## Notes/Trivia
 
 -   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
+-   As a Gremor, you will get alternate dialogue from Navaen Nomads.
 
 <table>
 <tbody>

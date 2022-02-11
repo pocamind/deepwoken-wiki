@@ -1,14 +1,12 @@
 ---
 title: Thundercall
-revid: 19368
+revid: 19731
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
 ---
 
 # Thundercall
-
-_The metamancer attunement_
 
 ## Description
 
@@ -210,6 +208,17 @@ Lightning Cloak
  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of the mantra Lightning Blade. | Adds a 3rd hit if you press F at the end of the mantra. | Stormblade |
 |  | Discovery of Fire | Flint and Flamecharm are for simpletons. | Lights all nearby campfires for a bit of ether. | Thundercaller |
 |  | Kickstart | Use your lightning to resurrect a knocked player, they wake up with about 15% hp. | ??? | ??? |
+| 
+
+ | Static Fakeout | Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+
+-   Requires agility. (Between 20 and 40, if you know exact number edit this.)
+
+ | +3 Elemental Intensity
+
++1 Health
+
+ | Thundercaller |
 
 ### **Passive**
 
@@ -281,7 +290,7 @@ Interrogator
  |
 | File:Static-assets-upload2268134233810269473.png | Rain of Static | After successfully casting lightning impact, strike down countless thunder at those below. In return your lightning impact will require more time to cast. | +7 Carry Load  
 +2 Elemental Intensity | Thunder Caster |
-| File:Resolve crusher.png | Resolve Crusher | Lightning moves now have a chance to apply "Electrify". | ??? | Authority Interrogator |
+| File:Resolve crusher.png | Resolve Crusher | Lightning moves now have a chance to apply "Electrify". | N/A | Authority Interrogator |
 
 **Uncategorised:**
 

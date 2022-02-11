@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 19435
+revid: 19772
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -114,7 +114,6 @@ This Oath allows you to use Illusion magic. Visionshaper gives the player a purp
 ### Notes
 
 -   No known/PROVEN requirements as of now, therefore in theory you could obtain this at level 1. Provide actual proof of needing requirements for this please.
--   This oath is similar to Sans as the glowing of the eye and some of the poses.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 19348
+revid: 19562
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -31,3 +31,5 @@ categories: [Weapons]
 Petra's anchor is a Endgame greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md)
 
 This weapon has a base damage of 26.5 and a strength requirement of 10 to equip. This weapon has no special effects or passives ( i think)
+
+Probably a reference to Totsugeki May
