@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 17610
+revid: 19811
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,7 +21,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 -   Affiliations - Unknown
 -   Locations - Lower Erisia, Viper jaws, Aratel
 -   Hostile against - The Authority, Monsters, Bandits, The Legion, Players (Negative Reputation), Etris
--   Appearance - Roman-like Armor, Golden Helmets
+-   Appearance - Roman-like Armor, Golden Helmets, Khans
 -   Equipment - Swords, Spears, Fists, Thundercall Spells, Galebreath Spells, Strength Mantras
 -   Player Reputable? - Yes, inflicts with The Authority
 
@@ -46,7 +46,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 -   Affiliations - Etris, Isle of Vigils
 -   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation)
--   Appearance - White Armor
+-   Appearance - Green/Purple outfits, Khans
 -   Equipment - Swords, Spears, Greataxes, Galebreathe Spells
 -   Player Reputable? - Yes, inflicts with The Authority
 
@@ -82,7 +82,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 -   Affiliations - Neutral
 -   Hostile against - Bandits, Summer Company
--   Appearance - Navaen Armor
+-   Appearance - Navaen Armor, Gremors
 -   Equipment - Spears, Swords, Fists, Frostdraw Spells
 -   Player Reputable? - Yes
 
@@ -101,7 +101,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 #### Lore
 
-(Placeholder)
+business men, advanced in technology but not magic.
 
 ### **The Hive**
 
@@ -114,14 +114,16 @@ An organization that preserves whats left before the tides came. Historians that
 
 #### **Lore**
 
-(Placeholder)
+A group of supreme warriors who plan to grow their island up to avoid the great flood. They do this with "life weaving" which they use on the tree upon which they grow their base on.
+
+The Give can also upgrade your ship using their "life weaving", but other factions doubt their ability to out grow the next flood. They use the sap from the tree to use relocation magic, to travel from place to place. (unconfirmed)
 
 ### [The Divers](The_Divers.md)
 
 -   Affiliations - The Authority
 -   Locations - The Depths / Void Sea
 -   Hostile against - Depths Monsters, Non-Divers (Negative Reputation), Players (Negative Reputation)
--   Appearance - Blue/Green Clothing (Diver Apprentice, Diver), Black Clothing (Black Diver)
+-   Appearance - Blue/Green Clothing (Diver Apprentice, Diver), Black Clothing (Black Diver), Adretians
 -   Equipment - Melee Weaponry / Magic
 -   Player Reputable? - Yes
 -   Faction is joinable via the Akira Questline

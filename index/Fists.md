@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 19607
+revid: 19825
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -72,3 +72,4 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 -   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled after all this game is very skill based. But most of the times they will having a hard time just trying to land you a hit
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
 -   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Navae is probably the easiest to get because bound Nomads aren't very hard to find.
+-   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists...

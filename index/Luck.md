@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 19660
+revid: 19846
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -27,7 +27,7 @@ Having Luck allows you to draw Rare and Legendary Talents, which will greatly im
 
 ## Obtaining Luck
 
-**The Marauder Boon increase Luck Gain from all sources.**
+**The Marauder Boon increases Luck Gain from all sources by 30%.**
 
 Killing something that provides you with Luck will cause "shining" noise and has a oval-like shape which zooms in and out on the character.
 
@@ -61,25 +61,20 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 
 ### **From NPCs**
 
-Due to the new luck system, you can rarely get luck from any enemy you fight in the form of a small orb where they died, these orbs can come from the common bandit to the King Thresher.
-
-(3%, with a marauder boon) (normal npc)
+NPCs have a chance to drop a Soul Orb on death, which grant 1 free point and luck.
 
 ### From Artifacts
 
 Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck, Around 10% (13 with the Marauder boon) (\*Needs more definite testing\*)
 
-### From the Trial of One
+### From the [Trial of One](Trial_of_One.md)
 
 Successfully completing each stage of the trial can give you luck, and you can get around 2-3 rare talents with a chance for a legendary talent if you complete all of them.
 
 ## Losing Luck
 
 -   Getting gripped by a player within power range. Lose half of your luck.
--   Taking a rare or legendary card.
-    -   Rare Card: -3% luck
-    -   Legendary Card: -13% luck
--   Unknown if this is true/tested as I have taken a Rare Talent Card and lost 10% luck, and on a different slot I took a Legendary Card at the cost of 6% luck. There is a possibility that the amount of luck taken is dependent on the specific card taken.
+-   Taking a rare or legendary card. The amount lost **seems to be random** with no link between the card and the luck cost.
 
 ## Notes
 
@@ -88,7 +83,7 @@ Successfully completing each stage of the trial can give you luck, and you can g
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
     -   After the new update, you can rarely get luck from any mob, meaning that as any level, since you can even get luck from the common bandit there is still **no reason** to grip anyone for luck, again unless you are just _that toxic_, or are acting in self defence.
 -   Luck does **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
--   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop [Chests](Chests_&_Sacks.md) with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck.
+-   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop chests with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck. Doing the Trial of One is also a great choice for getting luck at the very start of your progression.
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
 -   The way luck is obtained, shown and gotten will be reworked soon; stay tuned
     -   The new luck indicator is seen at the bottom right of the screen above notes.

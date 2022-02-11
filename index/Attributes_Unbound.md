@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 17168
+revid: 19804
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -77,7 +77,7 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 ### **Heavy/Medium/Light weapon Unbound**
 
 1.  Reach 75 Heavy/Medium/Light
-2.  Start the A lost sibling quest by talking to Apprentice Kj. \[NOT NEEDED IN TO TALK TO KJ TO DO QUEST, YOU CAN JUST GRAB GALESTONE AND HEAD TO HIS BROTHER)
+2.  Start the A lost sibling quest by talking to Apprentice Kj.
 3.  Obtain a Gale Stone.
 4.  Head on to Upper Erisia and to the Acid Garden's.
 5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))

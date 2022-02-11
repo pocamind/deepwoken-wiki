@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 13937
+revid: 19838
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,20 +13,29 @@ Ores are materials found all around the map, especially in caves. It is used for
 
 ## Ores
 
--   **Rock**\- Used in crafting Flint, comes in a grayish-blue color or a sandstone color
--   **Coal**\- Used in crafting Flint, comes in a black color
--   **Iron**\- Used for crafting Bullets, and certain armors, comes in a copper tint
--   **Gold**\- Used for crafting certain armors, comes in a yellowish color.
--   **Erisore**\- Used for crafting certain armor, comes in a glowing blueish color
--   **Irithine**\- Used for crafting certain armor, comes in a green color
+**Rock:**
 
-## Locations
+Used in crafting Flint, comes in a grayish-blue color or a sandstone color. Found in any cave.
 
-Iron, Coal and Rock can be found in pretty much any cave, Gold can be found in Song Seeker Isle Mines.
+**Coal:**
 
-Erisore (From what I've heard) Spawns mostly in 'The Hidden Village'. \[There's another spot, if someone knows please edit this\]
+Used in crafting Flint, comes in a black color. Found in any cave.
 
-Irithine spawns in the Reservoir Cave in Towerstruck Lands. Its fairly common there
+**Iron:**
+
+Used for crafting Bullets, and certain armors, comes in a copper tint. Found in any cave.
+
+**Gold:**
+
+Used for crafting certain armors, comes in a yellowish color. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves.
+
+**Erisor:**
+
+Used for crafting certain armor, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md).
+
+**Irithine:**
+
+Used for crafting certain armor, comes in a green color. Found in the Reservoir Cave under the Burning Stone Gardens.
 
 ## Trivia
 

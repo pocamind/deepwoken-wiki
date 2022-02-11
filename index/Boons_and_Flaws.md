@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 19451
+revid: 19822
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -19,10 +19,10 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Autodidact | "You get a free attribute to invest every level." | Gain a free point every Power up, consuming an investement to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points) | 1 |
-| Gourmet | "Foods are much more nutritional." | Food provides more Hunger and Thirst. | 1 |
+| Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at slightly higher rate." | Gain 30% more [luck](Luck.md) from gripping players or NPCs than normal. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Survivalist | "You are more resistant to environmental effects." | Grant immunity to Acid Rain. | 1 |
+| Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. i.e. Acid Rain | 1 |
 
 ## Flaws
 
@@ -33,7 +33,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Haemophilia | "You bleed more." | Blood decreases quicker. | 1 |
+| Haemophilia | "You bleed more." | Increases blood loss from all sources. | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
 | Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%
 Count as 2 flaws, cannot be taken with another flaw.

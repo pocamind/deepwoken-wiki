@@ -1,19 +1,36 @@
 ---
 title: Flamekeeper Cestus
-revid: 19189
+revid: 19819
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Weapons]
 ---
 
 # Flamekeeper Cestus
 
-File:Flamekeeper cestus.png
+| Flamekeeper Cestus | |
+|---|---|
+| type | Light Weapon |
+| requirements | 65 LHT & Fist Style |
+| damage | 16 |
+| scaling | 9 |
+| range | 7 |
+| swing speed | 0.87x |
+| penetration | 5% |
+| selling price | TBA |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Primadon, Depths & Hive Chests |
+| description | N/A |
 
-File:Flamekeeper cestus.png
+## Description
 
-  
+**Flamekeeper Cestus** is a Light Weapon that needs 65 Light Weapon to operate. It has 9 scaling, 5% penetration, 5 weight, 7 range, and 0.87x swing speed. It has a base damage of 16, being currently the highest damaging fist cestus alongside Legion Cestus. Despite the namesake, [Flamecharm](Flamecharm.md) has no affect or benefits on this weapon.
 
-The Flamekeeper Cestus is a light weapon that needs 65 Light Weapon to be used it has the great scaling of 9 5% penetration and 16 damage 5 weight 7 range and 0.87 seconds swing speed even though it says Flamekeeper Cestus Flamecharm does not get any benefit from this it is currently the highest damaging fist style next to legiostus is a light weapon that needs 65 Light Weapon to be used it has the great scaling of 9 5% penetration and 16 damage 5 weight 7 range and 0.87 seconds swing speed even though it says Flamekeeper Cestus Flamecharm does not get any benefit from this it is currently the highest damaging fist style next to legion cestus.
+## Notes
 
-under construction
+-   Currently the best cestus in-game due to its high base damage and scaling.
+-   Can be obtainable through Primadon, Depths, and Hive farming with enough patience.

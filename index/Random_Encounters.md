@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 19378
+revid: 19814
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -22,15 +22,15 @@ Random encounters are randomly spawning events that occur throughout target area
 
 #### **Bandit Camp**
 
-A campfire, circled by two to three NPCs. Commonly, of the 3 bandits circling the campfire, one will be a Bandit Captain, who is roughly 2 times as strong as usual bandits. Loot from the chests after killing every bandit is mediocre.
+A campfire, circled by two to three NPCs. Commonly, of the 3 bandits circling the campfire, one will be a Bandit Captain, who is roughly 2 times as strong as usual bandits. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
 
 #### **Bandit Ambush**
 
-While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The bandit leader will usually yell "Surprise!" upon spawning. This is the same as the Bandit Camp event except you cannot assassinate them as they are automatically aggro'ed to you. Completing this event will reward you with XP and a chest at where they appeared from.
+While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The bandit leader will usually yell "Surprise!" upon spawning. This is the same as the Bandit Camp event except you cannot assassinate them as they are automatically aggro'ed to you. Completing this event will reward you with XP and a chest at which where they appeared from. Occurs at Erisia.
 
 #### **Thieves**
 
-A group of 3 thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for some of their Notes before disappearing in a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest.
+A group of 3 thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for their Notes and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at Erisia.
 
 #### **Bandit Attack**
 
@@ -38,7 +38,7 @@ In Etris or Vigils, 2 bandits can spawn in front of two guards near their respec
 
 **Knives of Eylis**
 
-Similar to bandits, with 3 enemies spawning. They will wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage.
+Similar to bandits, with 3 enemies spawning. They will wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage. Occurs at Ersia and Songseeker Wilds.
 
 #### **Lost Villagers**
 
@@ -67,17 +67,17 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 
 #### **Golden Warrior**
 
-A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest.
+A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest and at which where he stood. Occurs in Erisia.
 
 #### **[Hobo](Hobo.md)**
 
 The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him, most likely not more. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
 
-If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra.
+If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. Occurs in Erisia
 
 #### **Pathfinders**
 
-Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them.
+Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to them will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. **This will use one of your investment points.** Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia
 
 #### **Megalodaunt vs Golem**
 

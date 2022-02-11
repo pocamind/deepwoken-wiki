@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19774
+revid: 19806
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -488,10 +488,6 @@ Prerequisite: Willpower 5~
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
     -   Prerequisites: Strength (15-20?)
 -   Heartbreaker \[Generic Talent, Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
-
-### Neuroplasticity
-
--   Genius Intellect \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra slot, + 20 Resevoir)
 
 ### Oath
 

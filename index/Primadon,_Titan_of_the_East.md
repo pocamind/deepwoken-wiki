@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 19719
+revid: 19799
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck, Monke]
@@ -25,7 +25,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 -   **Stomp** - Primadon raises its **left** foot and stomps once. Can be parried and dodged.
 -   **Triple Stomp** - Primadon performs 3 quick stomps in sequence with his **right** foot. Can be parried and dodged.
 -   **Punch** - Primadon brings back its arm to deliver a powerful punch. Can be parried and dodged.
--   **WATCH YO TONE ΩOMEGAΩ** - Primadon winds back its **left** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
+-   **Kick** - Primadon winds back its **left** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with strong chance of being followed up with fall damage. If close enough to a wall, can Daze. Can be dodged.
 -   **Grab** - Primadon crouches down and grabs you. Can be parried and dodged.
 
 ## Passives
@@ -39,7 +39,7 @@ Loud and enormous, the Primadon is a giant sea monkey. The Primadon can be summo
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 [Chests](Chests_&_Sacks.md) with mediocre - high tier loot. Most [Chests](Chests_&_Sacks.md) have 1-6 Umbral Obsidians in them.
 -   **Small chest -** Has 1-3 Umbral Obsidians in it and a ~50% chance~ of 1-2 Deep Gems. The chance has been lowered in the new update, it's still not confirmed how often they can come.
--   **Luck -** A big amount of luck, somewhere as much as 15-20 Cursed monster kills (5-7 solo Primadons is enough to get a resonance/bell) **Do note that this is random and could be more/less.**
+-   **Luck -** Gives 20% luck, somewhere as much as 15-20 Cursed monster kills (5-7 solo Primadons is enough to get a resonance/bell) **Do note that this is random and could be more/less.**
 
 ## Strategies & Tips
 

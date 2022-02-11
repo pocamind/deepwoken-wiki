@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19786
+revid: 19803
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -1013,7 +1013,7 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Targe.md">Targe</a></td>
   <td>10 FTD</td>
-  <td></td>
+  <td>1.5</td>
 </tr>
 <tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
@@ -1039,6 +1039,6 @@ Players can use this formula to figure out their complete damage.
 
 D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) ∗ S c a l i n g ) {\\displaystyle Damage = Base Dmg + AttributeLevel((base/1000) \* Scaling)} {\\displaystyle Damage=BaseDmg+AttributeLevel((base/1000)\*Scaling)}
 
-The equation below shows the true attacks per second. (The time in seconds it takes to use an m1. take into account endlag on specific weapons like greatswords and hammers add on.)
+The equation below shows the true attacks per second. (The time in seconds it takes to use an m1. take into account endlag on specific weapons like greatswords and hammers add on.) (Another exception is that light weapons already have accurate attack speeds as their swing speeds.)
 
 A t t a c k S p e e d \= ( S w i n g S p e e d ∗ 2 ) + e n d l a g {\\displaystyle AttackSpeed=(SwingSpeed\*2)+endlag} {\\displaystyle AttackSpeed=(SwingSpeed\*2)+endlag}

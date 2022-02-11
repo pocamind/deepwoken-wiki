@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 19780
+revid: 19820
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -8,9 +8,11 @@ categories: [Boss, Luck]
 
 # Duke Ishamon Erisia
 
-Template:Creature Infobox V3
+“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
-_"There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free." - The Duke of Erisia_
+― Duke
+
+Template:Creature Infobox V3
 
 ## Description
 
@@ -52,7 +54,7 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 
 ### Finisher
 
-**Head Crush -** The Duke can instantly grip you with his shockwave attack  
+**Air Pressure -** Getting hit by any of his wind moves while you're low will cause you die instantly.
 
 ### Rewards
 

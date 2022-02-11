@@ -1,10 +1,24 @@
 ---
 title: Family
-revid: 18030
+revid: 19815
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Family
 
-As a bald man once said, nothing is more important than family. That ideology is extremely relevant in the game of Racists Awoken, as family will bring you together, such as meeting someone identical to you, and together, without saying a word, agreeing to completely annihilate some random guy nearby. You can also be someone's cousin or brother or even twin depending on RNG and other variables. You can also apparently have a randomized WIFE in Deepwoken, but I really haven't seen real proof of this besides a screenshot.
+## Family
+
+Players can be family members with each other with the character selection screen. Depending on what you choose, you be someone's cousin, sister, brother, or even twin.
+
+Having certain traits can make you someone else's relative.
+
+-   Siblings - Same last name, similar facial markings.
+-   Cousins - Different last names, similar facial markings.
+-   Twins - Same last names, similar facial markings. Because they're twins, they also obviously need to have the same age (months most likely count).
+
+## Notes
+
+-   Being a twin with someone may require RNG.
+-   Apparently you can have an in-game spouse, but there's no solid evidence to this being true as of yet.
+-   Not a lot is known about family as of 2/11/2022
