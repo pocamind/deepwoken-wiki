@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 19307
+revid: 19954
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,3 +23,16 @@ Ability to be neutral with animals. Any creature that is nonhumanoid **Will Not*
 
 -   NPC's that resemble humans **Will Still** attack the player. The only known NPC's that resembles humans that will not attack those with the talent are [Ministry Scouts](Ministry_Scout.md) and [The Enforcer](Enforcer.md).
 -   Animal Bosses **Will Not** attack you including Primadon
+-   Possible reduced progression / XP gain (from personal experience, I did Trial of one and got it afterwards and the "mark of the lone warrior" has not made a difference at all)
+
+## Termite
+
+> "damn boy you hungry?" -davieslocka
+
+### "You can eat things that most would consider inedible"
+
+Gain the ability to consume non-food items.
+
+#### List of known items you can eat (yeah not a lot is known lol)
+
+-   Spider Egg

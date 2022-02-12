@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 19846
+revid: 19899
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -8,7 +8,7 @@ categories: [Luck, Mechanics]
 
 # Luck
 
-**Luck** is a feature in _Deepwoken_ that affects the likelihood of rare or legendary [Talent Cards](Talents.md) appearing when you power up.
+**Luck** is a feature in _Deepwoken_ that affects the likelihood of rare or legendary Talent Cards appearing when you power up.
 
 ## Overview
 

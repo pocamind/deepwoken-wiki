@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 18072
+revid: 19880
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -26,6 +26,8 @@ When used, a green circle appears around the user and shrinks until the Resonanc
 Pressing C will activate the **Full Counter** Resonance.
 
 **Full Counter** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
+
+One of the best combat bells because it's mostly used while getting combo iframes and free dmg
 
 ### _Variants_
 

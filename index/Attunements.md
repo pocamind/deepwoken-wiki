@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 19771
+revid: 19925
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Attunement, Character]
 # Attunements
 
 Attunements are forms of magic that the player can choose on character creation or in the game.
+
+## Description
 
 There are currently four base Attunements that anyone may select when first creating a character. Picking an element will restrict you from starting with any of the other three elements until you unlock a different one while playing. You can stick to one element or you may have multiple elements, but having multiple elements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your element. Mantras are abilities you learn that vary in their use to the caster.
 

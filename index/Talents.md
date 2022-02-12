@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19806
+revid: 19949
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -14,7 +14,7 @@ notices:
 
 ― Selection Flavour Text
 
-**Talent Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two or five Talent Cards.
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two or five Talent Cards.
 
 ## Overview
 
@@ -306,6 +306,7 @@ Prerequisite: Reinforce(?)
 ### Flame Dancer
 
 -   Dancing Steps \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
+-   Graceful Steps \[Generic(?) Talent, Legendary(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (turns you into a fireball whilst moving forward)
 -   Flaming Rebound \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
 -   The Final Act \[Generic (?) Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
 

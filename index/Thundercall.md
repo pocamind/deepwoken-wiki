@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 19731
+revid: 19865
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -212,7 +212,7 @@ Lightning Cloak
 
  | Static Fakeout | Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
 
--   Requires agility. (Between 20 and 40, if you know exact number edit this.)
+-   Requires agility: 35
 
  | +3 Elemental Intensity
 

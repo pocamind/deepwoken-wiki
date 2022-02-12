@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 19772
+revid: 19906
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -84,9 +84,10 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 ### **Obtaining**
 
-1.  Go to Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
-2.  Take the quest from him and kill corrupted Owls until you get a void feather.
-3.  Bring the void feather to him (Might Require 1-10)
+1.  Complete Aelita's Encounter in Valley of Heroes at least once.
+2.  Find Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
+3.  Bring him a Void Feather. If Surge become OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the Nestmind and make sure to take the first options "I accept" once the Nestmind mention food. You will obtain Oath: Visionshaper.
+4.  Bring additional Void Feathers to Surge to unlock the skills, 4 to unlock the remaining skills (5 feathers total).
 
 ### **Known Abilities**
 
@@ -98,7 +99,7 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
     -   This is probably one of the most important illusion mantras as it allows your illusion magic to deal damage.
 
 -   **Illusionary Counter**
-    -   Your character sloaches back and puts both of their hands at their sides. Upon getting hit in this time frame, you will teleport behind whoever hit you and stun them.
+    -   Your character slouches back and puts both of their hands at their sides. Upon getting hit in this time frame, you will teleport behind whoever hit you and stun them.
     -   This is a great move as it gives you some defensive possibilities and opportunities for counter play.
 
 -   _Passive_ **Mirage From the Deep**

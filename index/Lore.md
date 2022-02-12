@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 19446
+revid: 19936
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -177,7 +177,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown_
--   **Enemies:** _The Ministry, The Contractors, Summer Company_
+-   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, Knives of Eylis_
 -   **Lore Sources:** _Gremorian Longspear Description_
 -   A nomadic tribe of Gremor, who worship the goddess(?) Navae.
 -   Not much more is known for the Navaen tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
@@ -195,6 +195,8 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _???_
 -   **Enemies:** N/A
 -   **Lore Sources:** _Neero (Temple of the Forgotten Flame)_
+
+**NOTE: PATHFINDER IS AN OCCUPATION, NOT A FACTION**
 
 -   An organization consisting mostly of explorers and historians alike. The Pathfinder varies in the individual; either focused more on combat or exploration.
     -   The Pathfinders consists of Historians, Scavengers, Bounty Hunters, and Explorers. _(Source - Neero)_
@@ -220,13 +222,13 @@ Amara, a Member of The Legion.
 
   
 
-### Summer Company
+### The Summer Company
 
 -   **Territory:** _Summer Isles_
 -   **Encountered In:** _Summer Isles_
 -   **Attunements:** _N/A_
 -   **Alliances:** _The Central Authority (Mixed)_
--   **Enemies:** _The Navaen Nomads, The Ignition Union, The Ministry_
+-   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:**
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
@@ -238,7 +240,7 @@ A Summer Company Member.
 
   
 
-### The Ministry
+### The Ministry File:Eylisiconfactoin.png
 
 _"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
 
@@ -246,7 +248,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _Minityrsa, Summer Isles_
 -   **Attunements:** _Shadowcast_
 -   **Alliances:** _The Contractors (Neutral)_
--   **Enemies:** _The Navaen Nomads, Summer Company_
+-   **Enemies:** _The Children of Navae, The Summer Company_
 -   **Lore Sources:**
 
 -   A group of dark mages with unknown motives. Further research is required.
@@ -261,19 +263,19 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Unknown_
 -   **Encountered In:** _Etris_
 -   **Attunements:** _Unknown_
--   **Alliances:** _The Ministry (Neutral)_
+-   **Alliances:** _The Ministry (Neutral) File:Eylisiconfactoin.png_
 -   **Enemies:** _Unknown_
 -   **Lore Sources:** Warden Jericho's Journal, the Windrunner
 
 -   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
 
-### The Knives of Eylis
+### Knives of Eylis
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker_
 -   **Attunements:** _None_
 -   **Alliances:** _Unknown_
--   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+-   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
 -   **Lore Sources: Whaling Knife description and Whaler Armor**
 
 -   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
@@ -286,7 +288,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Summer Isles, The Depths(Akira's rare event)_
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _Unknown_
--   **Enemies:** _Summer Company_
+-   **Enemies:** _The Summer Company, The Divers_
 -   **Lore Sources:**
 
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful most times.
@@ -297,8 +299,8 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Fort Merit_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Depth Divers (Mixed), Summer Company (Neutral)_
--   **Enemies:** _The Kingdom of Etrea, The Navaen Nomads (Captives)_
+-   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral)_
+-   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
 -   **Lore Sources:** _Authority Interrogator Talents_
 
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
@@ -319,7 +321,7 @@ A Peacekeeper Grunt, part of The Authority
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _Lightkeepers (???)_
--   **Enemies:** _The Kingdom of Etrea_
+-   **Enemies:** _The Kingdom of Etrea, The Central Authority_
 -   **Lore Sources:** _Regek_
 
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in [Greathive Aratel](Greathive_Aratel.md).
@@ -353,7 +355,7 @@ A Peacekeeper Grunt, part of The Authority
     -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
         -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, but since the Autumn of 1283; she took the oath of the [Visionshaper](Oaths.md).
 
-### The Golden Warriors
+### The Golden Rats
 
 -   **Territory:** _The Rat's Den_
 -   **Encountered In:** _Erisia Island_
@@ -362,10 +364,10 @@ A Peacekeeper Grunt, part of The Authority
 -   **Enemies:** _N/A_
 -   **Lore Sources:**
 
--   The Golden Warriors are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
--   In encounters, the Golden Warrior politely asks the player to only fight him to the death in a 1v1, and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
+-   The Golden Rats are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
+-   In encounters, the Golden Rat politely asks the player to only fight him to the death in a 1v1, and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
 -   Their "FOB" is located in The Rat's Den, within Burning Stone Gardens of [Erisia Island](Erisia.md). They can also be encountered anywhere in that island.
-    -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Warriors seek glory through combat, the Den is going to be a mess.
+    -   Funny enough, the Bouncer warns you to enter the den with caution. Given how much Golden Rats seek glory through combat, the Den is going to be a mess.
 
 Golden Warrior Bouncer, located outside of Rat's Den.
 

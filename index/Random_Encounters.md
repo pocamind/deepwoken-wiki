@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 19814
+revid: 19901
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -22,7 +22,7 @@ Random encounters are randomly spawning events that occur throughout target area
 
 #### **Bandit Camp**
 
-A campfire, circled by two to three NPCs. Commonly, of the 3 bandits circling the campfire, one will be a Bandit Captain, who is roughly 2 times as strong as usual bandits. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
+A campfire, circled by three NPCs: 2 regular bandits and 1 bandit captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
 
 #### **Bandit Ambush**
 

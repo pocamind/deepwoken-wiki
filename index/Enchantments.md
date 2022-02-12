@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 19765
+revid: 19942
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -217,7 +217,7 @@ Multiplicity
 
  | 
 
-Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect. (Apparently, it works against players and NPCs, but happens more frequently against players, needs further testing).
+Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect. (Apparently, it works against players only, but needs further testing).
 
   
 
