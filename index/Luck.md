@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 19982
+revid: 20160
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -12,7 +12,7 @@ categories: [Luck, Mechanics]
 
 ## Overview
 
-The new luck effect, emitts a "shining" noise and has a oval-like shape which zooms in and out on the character.
+The new luck effect, emits a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
 Luck is a feature shown on the bottom right of your screen. This value currently has a maximum of 43%.
 
@@ -27,7 +27,7 @@ Having Luck allows you to draw Rare and Legendary Talents, which will greatly im
 
 ## Obtaining Luck
 
-**The Marauder Boon increases Luck Gain from all sources by 30%.**
+**The Marauder Boon increases Luck Gain from all sources by 33%.**
 
 Killing something that provides you with Luck will cause "shining" noise and has a oval-like shape which zooms in and out on the character.
 
@@ -47,10 +47,10 @@ Gripping a player will steal their luck (Luck/2 + 1), if:
 
 Killing the following Boss NPCs will provide you with luck:
 
--   [Blizzard Knights (Sand Knight Doesnt Give Luck)](Stone_Knight.md)
+-   [Blizzard Knights (Sand Knights don't give luck)](Stone_Knight.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Murmur%253A_Ardour.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [The Duke of Erisia/Accelerator](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 
 ### From Corrupted Monsters
@@ -61,20 +61,25 @@ Corrupted Monsters only spawn in [The Depths](The_Depths.md).
 
 ### **From NPCs**
 
-NPCs have a chance to drop a Soul Orb on death, which grant 1 free point and 3% luck.
+NPCs have a chance to drop a Soul Orb on death, which grant 1 free point and 3.33% luck.
 
-### From Artifacts
+### **From Artifacts**
 
 Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck, Around 10% (13 with the Marauder boon) (\*Needs more definite testing\*)
 
-### From the [Trial of One](Trial_of_One.md)
+### **From the [Trial of One](Trial_of_One.md)**
 
 Successfully completing each stage of the trial can give you luck, and you can get around 2-3 rare talents with a chance for a legendary talent if you complete all of them.
+
+### **From the Arena**
+
+Defeating someone in the Arena grants you 2.5% luck (3.33% with marauder)l. If you kill someone who's on their last skull and send them to the depths, this value is doubled.
 
 ## Losing Luck
 
 -   Getting gripped by a player within power range. Lose half of your luck.
 -   Taking a rare or legendary card. The amount lost **seems to be random** with no link between the card and the luck cost.
+    -   Generally you lose 10% luck from a rare card and 13.33% luck from a legendary card (tested with 4 of each).
 
 ## Notes
 

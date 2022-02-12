@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19958
+revid: 20168
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -778,7 +778,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Revenge - A short dash dealing damage to opponents it hits.(Combat)
 
-#### Agility Combat (25 Agility Needed)
+#### Agility Support and Mobility (25 Agility Needed)
 
 -   Dash - Just a dash, nothing special. (Mobility)
 -   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)

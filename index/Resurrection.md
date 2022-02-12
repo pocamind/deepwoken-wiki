@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 20007
+revid: 20131
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -11,7 +11,7 @@ categories: [Resonance]
 | Resurrection | |
 |---|---|
 | effect | None yet |
-| appearance | Bell shines red amongus |
+| appearance | Bell shines gold |
 
 ## Description
 
@@ -19,7 +19,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, the user's bell will emit green coom and you fire cero.
+When used, the user's bell will emit gold particles.
 
 ## Usage
 
@@ -29,4 +29,4 @@ Pressing C will activate the **Resurrection** Resonance.
 
 ## Trivia/Notes
 
--   Commonly known as the "bleach cero" bell, will be replaced by waifu jutsu in update 6.
+-   Commonly known as the "placeholder bell." This bell will have a use later on.

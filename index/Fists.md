@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 19825
+revid: 20154
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -12,14 +12,19 @@ categories: [Weapons, Pages with broken file links]
 |---|---|
 | type | Light Weapon |
 | requirements | 0 LHT (Way of Navae/Legion Kata)40 LHT (Jus Karita) |
-| damage | 12 (Way of Navae/Legion Kata)13 (Jus Karita) |
-| selling price | ??? |
+| damage | 12 (Way of Navae/Legion Kata), 13 (Jus Karita) |
+| scaling | 7 (Way of Navae/Legion Kata), 9 (Jus Karita) |
+| range | 7 |
+| swing speed | 0.75x (Way of Navae/Legion Kata), 0.9x (Jus Karita) |
+| penetration | N/A (Way of Navae/Legion Kata), 20% (Jus Karita) |
+| selling price | TBA |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ??? |
+| obtainment | Navaen Nomad Hostage (Way of Navae), Amara & Captain's Recc (Legion Kata), 40 LHT, 30 Power & Polis (Jus Karita) |
+| description | "The traditional martial arts style of Justicars" - Jus Karita, TBA - Way of Navae, TBA - Legion Kata |
 
 ## Description
 
@@ -71,5 +76,5 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 -   Slide jumping with Way of Navae critical can make it easier to land. (You'll use your sliding momentum to dash forward)
 -   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled after all this game is very skill based. But most of the times they will having a hard time just trying to land you a hit
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
--   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Navae is probably the easiest to get because bound Nomads aren't very hard to find.
+-   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Navae is probably the easiest to get because bound Nomads aren't very hard to find. But also, Jus Karita may be a bit easier since it just requires stats instead of waiting for **something to happen**. You can just level up and thus get Jus Karita. Jus Karita is superior in every way. _\- This post was made by a Jus Karita enjoyer._
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists...

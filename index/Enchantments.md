@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 19971
+revid: 20170
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -109,12 +109,6 @@ Will have an effect upon hitting something.
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Steals thirst equal to 1/3rd of your damage</p>
-  <p><br>
-  </p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
-  <td><div><p>Increases M1 speed drastically. Any posture damage that the other person inflicts will be reflected back to them. Also removes movement speed penalties. You can swing a Heavy Weapon as fast as a Light Weapon for reference. (Need more proof on this)</p>
   <p><br>
   </p></div></td>
 </tr>

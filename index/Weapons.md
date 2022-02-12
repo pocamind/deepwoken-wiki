@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 20012
+revid: 20169
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -36,7 +36,7 @@ Quick Tip: To get the talent of using a heavy weapon one handed, you need at lea
 
 Hold your weapon with your main hand, which allows the use of an off-hand accessory, such as shields, daggers, or guns.
 
-### Two-Handed (hi)
+### Two-Handed
 
 Hold your weapon with both hands, adding weight to your swings. Also triggers different buffs depending on weapon and talents.
 
@@ -223,7 +223,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0.87x</td>
 </tr>
 <tr>
-  <td>Legion Cestus</td>
+  <td><a href="Legion_Cestus.md">Legion Cestus</a></td>
   <td>30 LHT</td>
   <td>15</td>
   <td>5%</td>
@@ -323,7 +323,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Apprentice Rapier</td>
+  <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>
   <td>60 LHT</td>
   <td>13</td>
   <td>N/A</td>

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 19957
+revid: 20165
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 LocationL Starswept Valley LocationR
 
-Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands
+Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands.
 
   
 
