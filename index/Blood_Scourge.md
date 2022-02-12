@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 18076
+revid: 20055
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -19,7 +19,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, a red circle around 10(?) studs large appears around the user or effect and grips anyone within the radius. Heals the user when someone is gripped.
+When used, a red circle around 10(?) studs (im a nerd trust) large appears around the user or effect and grips anyone within the radius. Heals the user when someone is gripped. (50% of the time are accidental grips)
 
 ## Usage
 

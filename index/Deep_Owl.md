@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 19866
+revid: 20105
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -67,4 +67,4 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   In yet another bolt of 'game design' one of these can spawn directly on top of you, trap you in dialogue, and become hostile while speaking to you..
 -   Due to the fact that the owl has 1.8k hp, it may be possible to stat check it if you are at a high enough level due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it..
 -   Corrupt Owls have a chance drop **Void Feathers** which is used for the new [Oath](Oaths.md)
--   There are reasons to believe that they only spawn in the Overworld during Spring and Summer (if anyone has a confirmation or bust to this theory, please edit this)
+-   ~There are reasons to believe that they only spawn in the Overworld during Spring and Summer (if anyone has a confirmation or bust to this theory, please edit this).~ False. Owls can spawn during other seasons. Me and a friend fought an owl during autum..

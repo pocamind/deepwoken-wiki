@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 19283
+revid: 20048
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,19 +9,19 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 LocationL Etris LocationR
 
-TERRITORY OF Etrea
+TERRITORY OF Etrean
 
 Highest amongst the peaks of the mountain, a proud fortress of a city stands against the world itself.
 
   
 Template:Areainfobox
 
-**Etris** is a starting location in _Deepwoken_. It stands as a city and is territory of Etrea.
+  
 
 ## Points of Interest
 
--   [Etris Docks](Etris_Docks.md)
--   [Etrean Wilds](Etrean_Wilds.md)
+-   [Etris Docks](Etris_Docks.md)?
+-   [Etrean Wilds](Etrean_Wilds.md)?
 
 ## Contents
 

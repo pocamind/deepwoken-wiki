@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 19809
+revid: 20050
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

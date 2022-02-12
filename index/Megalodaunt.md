@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 19979
+revid: 20076
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -78,5 +78,5 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
     -   However, the player may also parry them if they have the [Hunter's Brace](Outfits.md#arms) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all the attacks and still go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant-Type enemies, the Megalodaunt gets stunned for a few seconds upon receiving a certain amount of damage.
--   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xy](https://www.youtube.com/watch?v=IwVD8iw7Xy)
+-   The following method can be used to easily kill the Megalodaunt: [https://www.youtube.com/watch?v=IwVD8iw7Xy](https://www.youtube.com/watch?v=IwVD8iw7Xy), If the video is somehow unavailable for you, try to access this person's channel and click on the video titled "sharko killing 101". [https://www.youtube.com/channel/UCNSW-XxKg8Gh\_JC4dGFMDlg](https://www.youtube.com/channel/UCNSW-XxKg8Gh_JC4dGFMDlg)
     -   This method is semi-outdated and may not work 100% of the time.

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 19424
+revid: 20104
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,7 +60,7 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
 -   **Dash** - An agile dash.
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
-    -   Requirement: 12 Agility, _Agility Mobility Mantra_
+    -   Requirement: 40 Agility, _Agility Mobility Mantra_
 
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
@@ -125,6 +125,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
+    -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Requirement: 6 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
 
 ## Upgrading Mantras

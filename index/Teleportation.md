@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 18775
+revid: 20077
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Teleportation**, also known as Waypoint Travel, "Gate" or "Flying Raijin", is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
+**Teleportation**, also known as Waypoint Travel, "Gate" or (dont call it "flying raijin" speds), is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
 
 ### _Appearance_
 
@@ -30,6 +30,8 @@ Pressing "C" will activate the **Teleportation** Resonance.
 **Teleportation** will set a waypoint and transport the user and players to that waypoint when used.
 
 ### _Variants_
+
+**Cursed Version** gives possibility to post 7 waypoints
 
 **Blessed Version** gives possibility to post 3 waypoints.
 

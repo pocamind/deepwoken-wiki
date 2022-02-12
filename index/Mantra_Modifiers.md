@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 19993
+revid: 20016
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra, Creation]
@@ -33,7 +33,7 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 | Image | Modifier | Effect | Note |
 | --- | --- | --- | --- |
-| File:Cloudstone HD.png | Cumstone | +2 Size
+| File:Cloudstone HD.png | Cloudstone | +2 Size
 \-1 Speed
 
  | 

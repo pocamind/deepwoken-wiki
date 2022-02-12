@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 19869
+revid: 20103
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,6 +10,8 @@ categories: [Pages with broken file links]
 
 File:Screenshot 2022-02-08 191640.png
 
-NPC in the fire temple on **[Songseeker Wilds](Songseeker_Wilds.md).**
+Yamaketzal is an NPC found outside the fire temple on **[Songseeker Wilds](Songseeker_Wilds.md).**
 
-Talking to them gives you a talent card that allows you to access the **[PvP Arena](Chime_of_Conflict.md)** if you're [Power](Power.md) 15 or above.
+Talking to them will give you the talent card "Chimes of Conflict", giving you a skill of the same name that allows you to access the **[PvP Arena](Chime_of_Conflict.md)** if you're [Power](Power.md) 15 or above.
+
+After attaining "Chimes of Conflict", they will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the Lord Regent, Wardens and Gunsmith Rosen. He also speaks a Driver, riding horses.

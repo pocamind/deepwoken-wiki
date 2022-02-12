@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 18668
+revid: 20053
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -44,5 +44,5 @@ If **Sacred Field** is found to be Corrupted, the Resonance's range becomes larg
 ## Trivia/Notes
 
 -   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
--   Be warned, if someone figures out which variant of **Sacred Field** you have, they may choose to do what the field only half resists. (nobody does this bro why is this even here)
+-   Be warned, if someone figures out which variant of **Sacred Field** you have, they may choose to do what the field only half resists. (nobody does this bro why is this even here) Shut up jibai
 -   This resonance work with any build just like [Portal](Portals.md), [Blood Scourge](Blood_Scourge.md), and etc. It is a good support bell for you and your team party

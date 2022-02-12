@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 18952
+revid: 20100
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -136,6 +136,7 @@ Miscellaneous sounds found in Deepwoken.
 -   **[Ascension](https://soundcloud.com/naktigonis/ascension-interlude?in=naktigonis/sets/deepwoken-ost-1) (the sound that plays when you complete The Depths trial)File:Audio-ascension22.ogg**
 -   **Level Up**
 -   **Zipline (loops)**
+-   **Resonance AwakeningFile:ResonanceAwakening.ogg**
 
 <table>
 <tbody>
