@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 19445
+revid: 19998
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -48,12 +48,16 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
         -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
             -   [Rat's Den](<Rat's_Den.md>)
 
-### Other
+### Miscellaneous
 
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Minityrsa.md)
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
-        
+
+### Inaccessible
+
+-   [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md)
+    
 
 **The Aratel Sea:**
 

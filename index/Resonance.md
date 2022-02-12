@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 19934
+revid: 20005
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -53,3 +53,4 @@ Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw]
 -   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
 -   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.
+-   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the depths, one is in the overworld near a waterfall at the aratel islands.

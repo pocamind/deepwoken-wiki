@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 19803
+revid: 19984
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -243,7 +243,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0.9x</td>
 </tr>
 <tr>
-  <td>Flamekeeper Cestus</td>
+  <td><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></td>
   <td>65 LHT</td>
   <td>15.5</td>
   <td>5%</td>
@@ -418,9 +418,9 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td><a href="Worshipper_Longsword.md">Worshipper Longsword</a></td>
   <td>30 MED</td>
-  <td>19</td>
+  <td>20</td>
   <td>N/A</td>
-  <td>MED: 4</td>
+  <td>MED: 5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>

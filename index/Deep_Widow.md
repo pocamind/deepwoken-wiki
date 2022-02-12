@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 17717
+revid: 19975
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Deepwoken]
@@ -10,7 +10,7 @@ categories: [Monsters, Deepwoken]
 
 ## Description
 
-Template:Creature Infobox V3 A Giant Enemy Spider, female, single mom, that lurks in Widow's Hollow in [Starswept Valley](The_Starswept_Valley.md), along with [The Depths](The_Depths.md).
+Template:Creature Infobox V3 A giant spider that lurks in Widow's Hollow in [Starswept Valley](The_Starswept_Valley.md), along with [The Depths](The_Depths.md).
 
 ## Moves
 

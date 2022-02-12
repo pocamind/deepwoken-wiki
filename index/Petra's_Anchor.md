@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 19939
+revid: 19961
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -32,4 +32,4 @@ Petra's anchor is a Endgame greathammer that can be obtained from the [Dread Ser
 
 This weapon has a base damage of 26.5 and a strength requirement of 10 to equip. This weapon has no special effects or passives ( i think)
 
-Probably a reference to Totsugeki May
+Probably a reference to Totsugeki May (Guilty Gear) or, albeit unlikely, Minamitsu Murasa (Touhou Project).

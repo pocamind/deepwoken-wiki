@@ -1,0 +1,30 @@
+---
+title: Aratel Island
+revid: 19972
+source: https://deepwoken.fandom.com/wiki/Aratel_Island
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Aratel Island
+
+LocationL Aratel Island LocationR
+
+TERRITORY OF
+
+  
+
+**Aratel Island** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](The_Aratel_Sea.md).
+
+## Points of Interest
+
+-   [Starswept Valley](The_Starswept_Valley.md)
+    -   [Lightkeeper Temple](Lightkeeper_Temple.md)
+    -   [Widow's Hollow](<Widow's_Hollow.md>)
+-   [The Lordsgrove](The_Lordsgrove.md)
+-   [Bluster Rift](Bluster_Rift.md)
+-   [Merit's Reach](<Merit's_Reach.md>)
+-   [Fort Merit](Fort_Merit.md)
+
+## Trivia
+
+-   The island may also be called "Hive Island" by other players.

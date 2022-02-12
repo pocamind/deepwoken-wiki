@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 19949
+revid: 19958
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -432,9 +432,10 @@ Prerequisite: Reinforce(?)
 
 ### Lone Warrior
 
--   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
-    -   2x EXP gain for Power and every [Attribute](Attributes.md).
-    -   Obtained by finishing the [Trial of One](Trial_of_One.md).
+Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress ~much~ (shadow-nerfed) more quickly.
+
+-   2x EXP gain for Power and every [Attribute](Attributes.md).
+-   Obtained by finishing the [Trial of One](Trial_of_One.md).
 
 ### Marauder
 
