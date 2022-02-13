@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 20171
+revid: 20397
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -167,7 +167,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Every M1 connection regenerates a portion of HP. Heals slightly less from hits towards players.</p>
+  <td><div><p>Every M1 connection regenerates a portion of HP. Heals slightly less from hits towards players (This is really bad for PvP only heals 1% per hit with a Shattered Katana).</p>
   <p><br>
   </p></div></td>
 </tr>

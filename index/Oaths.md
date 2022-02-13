@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 20242
+revid: 20412
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -87,30 +87,38 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 1.  Complete Aelita's Encounter in Valley of Heroes at least once.
 2.  Find Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
 3.  Bring him a Void Feather. If Surge become OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the Nestmind and make sure to take the first options "I accept" once the Nestmind mention food. You will obtain Oath: Visionshaper.
-4.  Bring additional Void Feathers to Surge to unlock the skills, 4 to unlock the remaining skills (5 feathers total).
+4.  Bring additional Void Feathers to Surge to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
 
 ### **Known Abilities**
 
--   **Illusory Servants**
-    -   Spawns a clone that chase after your closest enemy attacking them, really broken tbh.
-    -   This does **NOT** deal damage unless you're inside your realm but does still stun your opponent.
--   **Illusionary Realm**
-    -   Creates a arena that teleports anyone who enters the teleporter and allows you to separate hostiles to fight one on one.
-    -   This is probably one of the most important illusion mantras as it allows your illusion magic to deal damage.
+-   **Illusory Servants - Combat Mantra**
+    -   Spawns an illusion of yourself that target the closest enemy. Only they and yourself can see it.
+    -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
+    -   The clone deal fake damage that are healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
+    -   While the clone deal fake damage, it still apply hitstun.
+-   **Illusionary Realm - Combat Mantra**
+    -   After a slight delay, teleport you and a nearby enemy in an alternate dimension for 15 seconds.
+    -   Damage taken in the realm are real, but 50% of lost HP while inside are restored when the realm expires.
+        -   Players cannot be knocked in the realm.
+    -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
 
--   **Illusionary Counter** "Muda Muda" -Some Weird Canor With Large Fangs and Ridiculous Clothing
-    -   Your character slouches back and puts both of their hands at their sides. Upon getting hit in this time frame, you will teleport behind whoever hit you and stun them.
-    -   This is a great move as it gives you some defensive possibilities and opportunities for counter play.
+-   **Illusionary Counter** **\- Combat Mantra**
+    -   Do a pose and store 1 charge of Dodge. Getting hit while having a charge while negate the attack and teleport the attacker on the other side of the user.
+    -   Charges can be stacked.
+    -   Apply a short stun to the attacker.
 
--   _Passive_ **Mirage From the Deep**
-    -   While in Illusory Realm takes 15% of your health and allows you to leave early, swaps you in with an Depths NPC.
-    -   The enemy can range from a Megalodaunt to a King Thresher
+-   **Mirage From the Deep - Passive**
+    -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with a monsters from The Depths for the remaining duration.
+    -   The monster can be any of the Depths spawn, including but not limited to a [Nautilodaunt](Nautilodaunt.md) or an [Owl](Deep_Owl.md) for example.
+
+-   **Cheap Trick - Passive**
+    -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
 
 ### **Effects**
 
 This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
 
-This Oath allows you to use Illusion magic. Visionshaper gives the player a purple glowing aura in their eye.
+The oath change the eye color of the user to purple and make a purple particle effect emanate from their right eye.
 
 ### Notes
 

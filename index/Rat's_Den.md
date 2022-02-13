@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 19468
+revid: 20440
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ LocationL Rat's Den LocationR
 
 ## Overview
 
-Rat's Den appears as a ruined house on the surface but has a sub-level that resembles a tavern or bar filled with Golden Rat fighters.
+Rat's Den appears as a ruined house on the surface but has a sub-level that resembles a tavern or bar filled with Golden Rat fighters. The area around Rat's Den is absorbed by the disembodied cheering of an audience.
 
 Outside, a Golden Rat Bouncer will tell you to enter. If you obtain 5 Gold Plates and talk to him, he will reward you with a mid-tier chest.
 
@@ -29,4 +29,4 @@ _Rat Fighters are equipped with heavy weapons. The enemies will use the Galebrea
 ## Trivia/Notes
 
 -   The bouncer in front of the establishment has tons of health, yet will not grip you. Use him as farming fodder.
--   across Erisia there are Golden Legendary Warriors that will say "Wanna fight? I'll give you the first hit, actually three!" which drop gold plates upon beating the warrior
+-   Across [Upper Erisia](Upper_Erisia.md), there are Golden Legendary Warriors that will say "Wanna fight? I'll give you the first hit, actually three!" which drop Gold Plates upon beating the warrior

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 20104
+revid: 20401
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,7 +60,7 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
 -   **Dash** - An agile dash.
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
-    -   Requirement: 40 Agility, _Agility Mobility Mantra_
+    -   Requirement: 20 Agility (At most, unconfirmed), _Agility Mobility Mantra_
 
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
@@ -134,7 +134,7 @@ The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_
 
 1.  The user must have a good reputation with Hive. (Not true, it only needs to be neutral.)
 2.  Must be able to use the wells to travel to the Greathive Aratel.
-3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms.
+3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
     -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
     -   2 of them are located in the blacksmith's area.
     -   1 is located outside of the observatory.

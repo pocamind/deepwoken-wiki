@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 20383
+revid: 20439
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -256,6 +256,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
 -   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
 
+### Duelist Flame
+
+-   Concusisve Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
+    -   Prerequisite: Flame Blind
+
 ### Empath
 
 -   Give and Take \[Generic Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
@@ -349,7 +354,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
-    -   The increased Ether Cost from Modified Mantras is reduced.
+    -   The increased Ether Cost from Modified Mantras is reduced. (~40-45 Intelligence req)
 
 ### Glassdancer
 
@@ -552,7 +557,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 
 -   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
 
--   Prerequisites: Salesperson
+-   Prerequisites: None (Did not have Salesperson, and still got it)
 
 ### Soul Converter
 

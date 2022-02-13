@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 19890
+revid: 20406
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Portal** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll.
+**Portal** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll. (why lu nerf i so sad)
 
 ### _Appearance_
 

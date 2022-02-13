@@ -1,14 +1,16 @@
 ---
 title: Yamaketzal
-revid: 20393
+revid: 20400
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Yamaketzal
 
-File:Screenshot 2022-02-08 191640.png
+| Yamaketzal | |
+|---|---|
+| name | Yamaketzal |
+| location | Songseeker Wilds |
 
 Yamaketzal is an NPC found outside the fire temple on **[Songseeker Wilds](Songseeker_Wilds.md).** They appear to be drunk, as they are swaying around and talking in an odd manner.
 
@@ -23,3 +25,5 @@ After attaining "Chimes of Conflict", they will tell you your win to loss ratio 
 -   _"Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?..."_
 -   _"Me? Jus' a washed up somebody... Or someone who used to be somebody... Keh heh..."_
 -   _"Me? Ferryman's what I am... Dredged up from the dregs of the dregs... Tormenting mortal spirits 'n' that... Ironic... Coz they were the ones tormenting me..."_
+
+**Yamaketzal has different dialogue depending on your win/lose ratio, please add his different dialogues below this line accordingly.**

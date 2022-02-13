@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 20085
+revid: 20434
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races, Character, Creation]
 
 Template:Races-Main
 
-_"Keepers of old knowledge, they wonder the lands offering their experience to those in need of it."_
+_"Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 
 ## Racial Traits
 

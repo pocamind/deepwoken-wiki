@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 17047
+revid: 20420
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Luck]
@@ -24,7 +24,7 @@ Killing 5 out of 6 of these monsters in the winter will despawn the last Blizzar
 
 ## Description
 
-Tall white slender figures with red eyes who spawn from meteors in the Valley of Heroes on [Minityrsa](Minityrsa.md). You can tell if you are near their spawn as the walls of the valley will be littered with white glowing meteors. Once triggered, five white meteors will fall from the sky and do an AOE. Out of the 5 meteors, 6 Snow Knights will spawn and attack on sight (Unsure if this is a bug), often beginning with a pillar attack. They carry a sword and use their legs to kick a unfortunate player into the air. They can also use their sword to slash the air and make an air projectile.
+Tall white slender figures with white/red eyes who spawn from meteors in the Valley of Heroes on [Minityrsa](Minityrsa.md). You can tell if you are near their spawn as the walls of the valley will be littered with white glowing meteors. Once triggered, five white meteors will fall from the sky and do an AOE. Out of the 5 meteors, 6 Snow Knights will spawn and attack on sight (Unsure if this is a bug), often beginning with a pillar attack. They carry a sword and use their legs to kick a unfortunate player into the air. They can also use their sword to slash the air and make an air projectile.
 
 <table><caption></caption>
 <tbody>
@@ -58,9 +58,8 @@ Tall white slender figures with red eyes who spawn from meteors in the Valley of
 
 **Sand Knight:**
 
-A weaker version of the [Blizzard Knight](Stone_Knight.md#blizzard-knight) that spawns near the large gate at [Starswept Valley](The_Starswept_Valley.md). This monster falls from the sky in a meteor similar to the Blizzard Knights except he is alone. Sand Knights have less HP than Blizzard Knights, but do the same amount of damage (I'm able to solo Sand Knights but not Blizzard Knights). Sand Knights do not drop chests at all (Sadly, no Hero Blades) they may drop Dying Embers or a mantra modifier off their corpse however.
+A tall figure similar to the [Blizzard Knight](Stone_Knight.md#blizzard-knight) with blue eyes and tan stone skin. This Stone Knight does not give [Luck](Luck.md) or a [Hero Blades](Hero_Blades.md) and has reduced health. Other than to gain experience, Sand Knights are completely useless to fight and only serve as a way to kill players that go to Hive while not knowing how to fight a Stone Knight.
 
-  
 Some pictures of the Rock Knight after the meteor lands:
 
 File:Stone knight top.png

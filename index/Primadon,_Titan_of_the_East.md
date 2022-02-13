@@ -1,9 +1,9 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 20300
+revid: 20444
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss, Luck]
+categories: [Pages with broken file links, Boss, Luck]
 ---
 
 # Primadon, Titan of the East
@@ -12,7 +12,12 @@ categories: [Boss, Luck]
 
 ― Primadon's Hunting Grounds flavor text
 
-Template:Creature Infobox V3**Primadon** is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
+  
+Template:Creature Infobox V3
+
+File:Primadon.png
+
+**Primadon** is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Description
 
@@ -67,3 +72,4 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 -   In the game files, it is called "Monky."
 -   Providence thorns [enchant](Enchantments.md) is a great way to cheese Primadon, since whatever attack you parry is reflected back.
 -   It's known to be a sort of "Giant Sharko" due to the way you defeat it being very similar to how you would kill a sharko, just with a different move or two and 60 times more health.
+-   **EXOSKELETON MAKES THIS FIGHT QUITE EASY, BUT BE WARNED, THERE HAS BEEN INSTANCES OF PRIMADON INSTANTLY EXECUTING EXOSKELETON USERS WITH THEIR HEALTH AT 30%**

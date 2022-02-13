@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 19396
+revid: 20436
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,6 +12,8 @@ Template:Creature Infobox V3
 ## Description:
 
 Ministry Scouts are enemies located at [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave.
+
+Curiously, Ministry Scouts may also be found fighting Children of Navae in [Summer Isle](Summer_Isle.md) as a possible event.
 
 Their appearance is repetitive and consists of a Vagabond's Bicorn, a Blindfold, and a Prophet's Cloak, but not the race. They have 400 HP (same as angels).
 

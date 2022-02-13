@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 20382
+revid: 20433
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -16,32 +16,34 @@ notices:
 
 Entrance hallway of the Trial. The door ahead leads to the arena, two nonfunctional glowing gates to the left and right hallways.
 
-**Trial of One** is a unique event in _Deepwoken_. It's entrance is located under the Dark Mage Cultists stronghold. At the rear right corner is an open latch leading down to a hallway. At the end of the hallway is a glowing gate. The gate will only allow players who are Power 1, the gate will stun and knock the player back if they are any power level higher.
+The **Trial of One** is an unique event in _Deepwoken_. Its entrance is located under the Dark Mage Cultists stronghold where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are Power 1 regardless of the amount of used investment points, otherwise the gate would stun and knock the player back if they exceed the required Power.
 
 ## Overview
 
-The Trial of One is a dungeon designed to practically speedrun through early-game progression stat wise. It is a nine part trial consisting of three parry challenges and seven monsters. After each challenge, you are given a varying number of free points that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended to serve highly skilled players in order to get new builds up relatively quickly.
+The Trial of One is a dungeon designed to practically speedrun through early-game progression stat wise, It consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
+
+After the completion of each challenge, a glowing orb that functions similar to a campfire floats down on the center of the room and gives you numbers of free points enough to power up (5 for the first challenge and 10 for the rest) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
 ## Trial Rules
 
--   The Voice of Solitude declares that you to _"discard your possessions"_ before continuing.
+-   The Voice of Solitude declares that you _"**discard your possessions**"_ in which you are forced to do before continuing.
     -   You do not actually have to drop anything (food, spare weapons, etc.) Instead, any [Outfits](Outfits.md) you have equipped will have its durability completely drained.
--   All monsters encountered during the trial are aggressive as soon as they spawn.
--   You must use **all** of the free investment points given to you to power up.
--   When given the chance, you must draw or fold the cards you are dealt to continue to the next challenge.
+-   When a challenge begins, the monsters (or light turrets) are immediately aggressive towards you hinting no breaks until the end of the challenge.
+-   You must use all of the free points given to you to power up.
+-   When given the chance, you must draw or fold the cards you are offered to continue to the next challenge.
 -   If you fail the trial, any food, equipped armor and spare weaponry is lost.
 
-## Trials
+## Challenges
 
-1.  Parrying challenge
-2.  [Megalodaunt](Megalodaunt.md)
-3.  2 Greater [Angels](Hollow_Angel.md)
-4.  [Rock Golem](Rock_Golem.md)
+1.  Parry Check
+2.  [Weakened Megalodaunt](Megalodaunt.md)
+3.  [2 Greater Angels](Hollow_Angel.md)
+4.  [Weakened Rock Golem](Rock_Golem.md)
 5.  [Thresher](Thresher.md)
-6.  [Enforcer](Enforcer.md)
+6.  [Weakened Enforcer](Enforcer.md)
 7.  [Stone Knight](Stone_Knight.md)
-8.  Parrying Challenge
-9.  [Alpha Megalodaunt](Megalodaunt.md) + Parrying Challenge
+8.  Parry Check
+9.  [Weakened Alpha Megalodaunt](Megalodaunt.md) + Parry Checks
 
 ## Rewards
 
