@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 20086
+revid: 20242
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -98,7 +98,7 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
     -   Creates a arena that teleports anyone who enters the teleporter and allows you to separate hostiles to fight one on one.
     -   This is probably one of the most important illusion mantras as it allows your illusion magic to deal damage.
 
--   **Illusionary Counter**
+-   **Illusionary Counter** "Muda Muda" -Some Weird Canor With Large Fangs and Ridiculous Clothing
     -   Your character slouches back and puts both of their hands at their sides. Upon getting hit in this time frame, you will teleport behind whoever hit you and stun them.
     -   This is a great move as it gives you some defensive possibilities and opportunities for counter play.
 

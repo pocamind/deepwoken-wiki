@@ -1,20 +1,36 @@
 ---
 title: Apprentice Rapier
-revid: 20138
+revid: 20201
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Weapons]
 ---
 
 # Apprentice Rapier
 
-File:Apprentice rapier.png
-
-Apprentice rapier
+| Apprentice Rapier | |
+|---|---|
+| type | Rapier |
+| requirements | 60 LGH |
+| damage | 13 |
+| scaling | 6 |
+| range | 8 |
+| swing speed | 0.77x |
+| endlag | ? |
+| penetration | None |
+| stances | 1 Handed |
+| selling price | ? |
+| weight | 4 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Starswept ValleyThe depths [?] |
+| description | "Your trusty weapon." |
 
 ## Description
 
-The Apprentice rapier is a light weapon that can be obtained via chests at StarSwept valley or The depths (Yet to be proven), this weapon is unique from all the other light weapons as it has a longer range than the others.
+The Apprentice rapier is a unique light weapon both due to being the only rapier in the game as of now but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [StarSwept valley](The_Starswept_Valley.md) or [The depths](The_Depths.md) (Yet to be proven).
 
 ## Trivia
 

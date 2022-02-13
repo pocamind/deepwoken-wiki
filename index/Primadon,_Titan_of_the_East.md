@@ -1,9 +1,9 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 19941
+revid: 20221
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss, Luck, Monke]
+categories: [Pages with broken file links, Boss, Luck, Monke]
 ---
 
 # Primadon, Titan of the East
@@ -12,7 +12,7 @@ categories: [Boss, Luck, Monke]
 
 ― Primadon's Hunting Grounds flavor text
 
-Template:Creature Infobox V3
+File:Primadon.png
 
 ## Description
 

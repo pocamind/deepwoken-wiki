@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 19409
+revid: 20230
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,4 +28,6 @@ categories: [Weapons]
 | obtainment | Hive(im pretty sure) |
 | description | N/A |
 
-Master Hawk's HandAxe is obtainable in Hive(someone re write this is if im wrong) It has a base damage of 22 0.54x Swing speed and 85% Chip damage
+Master Hawk's HandAxe is obtainable in Hive(someone re write this is if im wrong) It has a base damage of 22 0.54x Swing speed and 50% Chip damage
+
+Just put this on the weapons page

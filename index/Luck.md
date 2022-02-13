@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 20160
+revid: 20195
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -8,7 +8,7 @@ categories: [Luck, Mechanics]
 
 # Luck
 
-**Luck** is a feature in _Deepwoken_ that affects the likelihood of rare or legendary Talent Cards appearing when you power up.
+**Luck** is a feature in _Deepwoken_ that affects the likelihood of rare or legendary [Talent Cards](Talents.md) appearing when you power up.
 
 ## Overview
 
@@ -65,7 +65,7 @@ NPCs have a chance to drop a Soul Orb on death, which grant 1 free point and 3.3
 
 ### **From Artifacts**
 
-Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck, Around 10% (13 with the Marauder boon) (\*Needs more definite testing\*)
+Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck, Around 10% (13 with the Marauder boon) (\*Needs more definite testing\*) (I received 16% luck from an artifact, it may random between 10%-20%?)
 
 ### **From the [Trial of One](Trial_of_One.md)**
 

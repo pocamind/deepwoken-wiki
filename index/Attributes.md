@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 20001
+revid: 20237
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -31,6 +31,14 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
+Template:“Hey bro how’d you get like that?”
+
+    {{“Every time I get gripped by a shadow user, I do **ONE** push-up”}}
+
+Template:“Jesus Christ!”
+
+\-An Exchange Between A Buff Canor and A Freshie Vesperian
+
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
     -   For every 10 Points of Strength, gain 1% Penetration.
@@ -41,6 +49,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
+Template:“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Potions
+
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
@@ -49,6 +59,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Uncapped by talking to the large Khan in one of the cells and letting him beat you up.
 
 ### Agility
+
+Template:Parkour! Parkour! Oh God that’s a cli-!! - Last Words of A Ganymede
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
@@ -60,6 +72,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Intelligence
 
+Template:What’s 10+9? -A Big Brained Adret Questioning a Inept Felinor
+
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
 -   This stat give 2 Ether and Reservoir
 -   Affects potion potency.
@@ -69,6 +83,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Willpower
 
+Template:GIVE US EYES! GIVE US EYES! GIVE US EYES ON THE INSIDE!!!! - A “Enlightened” Capra
+
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
@@ -77,6 +93,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Uncapped by talking to Akira then going to Castle Light to talk to him again.
 
 ### Charisma
+
+Template:I know how to get stronger…it’s called a Vow of Mastery. Wanna Make One…?
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.

@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 19050
+revid: 20207
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -38,6 +38,8 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 Events that spawn in Upper Erisia that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Megalodaunt](Megalodaunt.md) vs [Rock Golem](Rock_Golem.md)
+-   [Dark owl](Deep_Owl.md)
+-   [Terrapod](Terrapod.md)
 -   Golden Warrior
 -   Etrea vs The Central Authority
 -   The Eleventh Legion vs The Central Authority

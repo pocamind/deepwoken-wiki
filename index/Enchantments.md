@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 20170
+revid: 20171
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -28,7 +28,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 
 There are two variants that enchantments come in:
 
--   **Regular** - They have an effect and no downsides.
+-   **Regular** - They have an effect and no downsides (except heroism).
 -   **Curses** - They have a very strong effect but a large downside.
 
 ## List of Enchantments/Curses

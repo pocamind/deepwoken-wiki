@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 19767
+revid: 20192
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -113,7 +113,7 @@ _\+ Talent: Pitcher_
 _Requires Fortitude 10_
 
  | Authority Enemies and Hive Chests |
-| File:KnightHelm.png | Knight's Helm | Grants three random buffs. |  |
+| File:KnightHelm.png | Knight's Helm | Grants three random buffs. | Hive Chests |
 | File:GreyGumshoeHat.png | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 |  | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |

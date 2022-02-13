@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 19796
+revid: 20190
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -60,11 +60,11 @@ Mark of the Lone Warrior's talent description
 -   **All monsters HP (beside Angels) are greatly reduced so that they can be defeated in a decent amount of time at power 1.**
 -   **Parrying challenge -** While you get auto parrying frames, its not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Play it safe and only do 2 hits at a time between each attacks.
--   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks.
--   **Rock Golem -** You can weave extra hits during the spinning attack by attacking after parrying since you will have auto parry frames active. Stick to 2 hits between attacks.
--   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to not attack as the tresher will always get a free hit in if you do not start blocking or parrying again.
--   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. Make sure to hold F preemptively against feints instead of specifically going for parries.
--   **Stone Knight -** Make sure to avoid the stone pillar and kick at all cost. Every attack will take roughly 20-25% of your health and those 2 attacks lead to a near guaranted follow up.
+-   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. You can also cheese this trial by backstabing one of the angels as they spawn (they are facing away from the entrance) and carrying it to make them despawn.
+-   **Rock Golem -** Always instead of parrying to stay safe. Get a few hits inbetween attacks and when the Spin or Laser is charging.
+-   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to not attack as the tresher will always get a free hit in if you do not start blocking or parrying again. There is a small blindspot in front of the tresher where medium and heavy weapons can reach it without the tresher being able to hit until the dig attack.
+-   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.
+-   **Stone Knight -** Always roll, this is the safest options and can defend against every single attacks. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all cost.
 -   **Alpha Megalodaunt + Parrying Challenge -** Play with extreme caution. This Megalodaunt will take less hits to kill than the normal Megalodaunt due to damage scaling. However, if you mess up, you will be taking a lot more damage. A common misconception is that parrying the orbs does damage to the boss. This isn't true, you _need_ to engage the Megalodaunt to kill it.
 
 ## Notes

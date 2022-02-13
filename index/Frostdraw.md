@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 20152
+revid: 20238
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -229,7 +229,7 @@ Impale/Impact
 +3 Health | Ice Age |
 | File:Frozen pin cushion.png | Frozen Pin-Cushion | Ice Daggers now freeze opponents. (Requires Ice Daggers 1 Star combat mantra \*\*I was able to get this without having Ice Daggers, however I had Ice Forge.) | +3 Elemental Intensity  
 +1 Health | Ice Age |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (Requires ~40 Frostdrawer) | +4 Elemental Intensity | Crystallization |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (Requires ~40 Frostdrawer) | +4 Elemental Intensity | Glassdancer |
 | File:OrbitalIce.jpg | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | Placeholder | Frostthorn |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Fragile Freeze | Your ice Mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity | Cryoni |
 | File:Preceeding Chill Card.webp | Preceding Chill | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity | Cryoni |
@@ -239,6 +239,10 @@ Impale/Impact
 +2 Health | Frozen Warrior |
 | File:ShatterSpear.png | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
 +3 Health | Uncategorized |
+|  | Crystal Breaker | When breaking someone's posture detonate any active crystals on their body. | +5 Elemental Intensity
++3 Health
+
+ | Glassdancer |
 
   
 

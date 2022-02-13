@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 20168
+revid: 20226
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -68,7 +68,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Alchemist
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
+
 -   Exterminator \[ Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+
+-   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
+
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions effect are created as of 2x ingredients were used. Bypass the ingredient cap and will not make diluted potions.
 -   Prerequisites: Intelligence (10 - 40 int needed?)
@@ -105,7 +109,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Apex Predator
 
--   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health)
+-   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
     -   Prerequisites: 5 Strength & 5 Willpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
@@ -946,6 +950,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   Crippling Darkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
 
+**Legion Centurian**
+
+-   Centurian's Resolve - Your Legion Kata attacks now do 15 percent more damage. (Obtained by wearing the Legion Centurian outfit)
+
 ## Notes/Trivia
 
 -   The "Fold" Card can be used if you are not satisfied with your current hand of cards.
@@ -954,6 +962,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 -   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
+-   At lv60 you will get a guarantee legendary talent card
 
   
 Template:Navbox:Talents

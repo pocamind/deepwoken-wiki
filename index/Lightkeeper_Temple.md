@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 19340
+revid: 20228
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoul
 
 ## Info
 
-_Lightkeeper Temple_ currently only serves as a place for players to wash their face in order to open the gate at [Starswept Valley](The_Starswept_Valley.md) and access the fountain in [The Lordsgrove](The_Lordsgrove.md).
+_Lightkeeper Temple_ is a seemingly abandoned temple, occupied by many [Threshers](Thresher.md). It serves as a place for players to wash their face in order to open the gate at [Starswept Valley](The_Starswept_Valley.md) and access the fountain in [The Lordsgrove](The_Lordsgrove.md).
 
 ## Navigating
 

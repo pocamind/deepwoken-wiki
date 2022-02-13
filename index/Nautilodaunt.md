@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 19057
+revid: 20224
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -12,7 +12,7 @@ _Sometimes referred to as **Squibbo**, Squid Hoss, or Squidward_
 
 ## Description
 
-Template:Creature Infobox V3 Nautilodaunt (Official name in the game files) resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles.
+Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles.
 
 ### Attacks
 
@@ -42,4 +42,4 @@ Template:Creature Infobox V3 Nautilodaunt (Official name in the game files) rese
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
 -   Sometimes you can log if he detects you.
 -   HEAVY WEAPON COMBAT TIP: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
--   The respawn timer is roughly 40 minutes.
+-   It respawns after roughly 40 minutes.
