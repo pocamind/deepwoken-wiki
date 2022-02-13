@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 20352
+revid: 20392
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -35,4 +35,5 @@ The Apprentice rapier is a unique light weapon both due to being the only rapier
 ## Trivia
 
 -   Despite being a light weapon. In the real world Rapier is considered a medium weapon as it was pretty heavy.
--   Rapier's critical is the only critical that does not play an a white effect around when used.
+-   When using this weapon your right hand is hidden so you can equip a [flintlock](Guns.md) for a unsuspecting foe
+-

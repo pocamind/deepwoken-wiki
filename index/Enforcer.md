@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 20328
+revid: 20365
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -63,6 +63,7 @@ All in all, keep your nerves hardened, don't be fooled by it's intimidating situ
 ### Rewards
 
 -   **Enforcers Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
+-   **Enforcer's Blade:** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
 
 ## Lore
 
@@ -85,3 +86,4 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 
 1.  [↑](#cite-ref-1) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)

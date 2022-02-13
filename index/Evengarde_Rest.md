@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 16442
+revid: 20388
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

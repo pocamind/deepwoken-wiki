@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 20360
+revid: 20362
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,4 +38,4 @@ Giving back what is rightfully theirs.
 -   You **can** grip a Navaen Hostage. You won't get anything out of it besides probably some Frigid Prisms (you monster why would you grip navaen hostages)
 -   The ponytail that the Navaen hostages have shows a striking resemblance to an already existing [ROBLOX accessory](https://www.roblox.com/catalog/80274239/Black-Ponytail).
 -   There is actually no rope or cuffs holding the hostage's hands together, I lied.
--   Why are you still reading this?
+-   The **gender** of the Navaen hostage is unknown, as they appear to have a ponytail (typically women's hairstyle), but then again the Eastern Camp Master refers to the hostage as 'them'.

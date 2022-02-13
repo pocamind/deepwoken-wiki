@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 20190
+revid: 20382
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -60,7 +60,7 @@ Mark of the Lone Warrior's talent description
 -   **All monsters HP (beside Angels) are greatly reduced so that they can be defeated in a decent amount of time at power 1.**
 -   **Parrying challenge -** While you get auto parrying frames, its not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Play it safe and only do 2 hits at a time between each attacks.
--   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. You can also cheese this trial by backstabing one of the angels as they spawn (they are facing away from the entrance) and carrying it to make them despawn.
+-   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. You can also cheese this trial by backstabing one of the angels as they spawn (they are facing away from the entrance) Carrying them doesn't despawn them anymore.
 -   **Rock Golem -** Always instead of parrying to stay safe. Get a few hits inbetween attacks and when the Spin or Laser is charging.
 -   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to not attack as the tresher will always get a free hit in if you do not start blocking or parrying again. There is a small blindspot in front of the tresher where medium and heavy weapons can reach it without the tresher being able to hit until the dig attack.
 -   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 19936
+revid: 20380
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -46,7 +46,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 
 ### The King of Etrea
 
--   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent.
+-   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent (Maybe, as a regent lord stands for a stand-in lord and rules when there is no successor/no capable ruler, so it is completely possible the previous lord to have gone out of commission for some reason and the lord regent then took over).
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
     -   Theadre acts hostile to you that the King of Etrea will _"..Cast aside the aspirations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
