@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 19380
+revid: 20310
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -112,6 +112,7 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   [Scimitar](Scimitar.md) (basic to one-star)
 -   Iron Cestus (basic to one-star)
 -   Legion Cestus (basic to three-star)
+-   Gilded Knife (basic to three-star)
 
 ### Miscellaneous
 

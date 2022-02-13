@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 20169
+revid: 20256
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -203,7 +203,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Fist (Way of Navae/Legion Kata)</td>
+  <td><a href="Fists.md">Fist (Way of Navae/Legion Kata)</a></td>
   <td>0 LHT</td>
   <td>12</td>
   <td>N/A</td>
@@ -213,7 +213,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Iron Cestus</td>
+  <td><a href="Iron_Cestus.md">Iron Cestus</a></td>
   <td>0 LHT</td>
   <td>15</td>
   <td>N/A</td>
@@ -233,7 +233,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0.87x</td>
 </tr>
 <tr>
-  <td>Jus Karita</td>
+  <td><a href="Fists.md">Jus Karita</a></td>
   <td>40 LHT</td>
   <td>13</td>
   <td>20%</td>

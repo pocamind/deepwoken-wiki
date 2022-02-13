@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 19448
+revid: 20354
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,9 +39,10 @@ Minityrsa is an island blanketed in fresh snow. It can be found past the central
 
 -   [Dark Mage Cultists](Ministry_Scout.md)
 -   [Cultist Necromancer](Ministry_Necromancer.md)
--   Ice Golems
+-   [Rogue Constructs](Hive_Construct.md)
 -   [Snow Knight](Stone_Knight.md)
--   [Gargoyles](Brainsucker.md)
+-   [Brain Suckers](Brainsucker.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
 
 ## Loot Table
 
@@ -71,7 +72,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   Crescent Cleaver (basic to one star)
 -   [Katana](Katana.md) (basic to two star)
 -   [Razor Cutlass](Razor_Cutlass.md) (basic to two star)
--   Iron Cestus (basic to two star)
+-   [Iron Cestus](Iron_Cestus.md) (basic to two star)
 -   [Hero Blades](Hero_Blades.md) (basic to three star)
 
 ### Miscellaneous
@@ -84,7 +85,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
 ## Notes/Trivia
 
--   Minityrsa is also called "mini" or "tundra" by other players.
+-   Minityrsa is also called "mini", "tundra" or "winter isle" by other players.
 -   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.
 -   Enemy NPCs here cannot be assassinated.
 -   Since its constant snowfall in Minityrsa, its best to place Campfires beneath shelter.

@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 19318
+revid: 20350
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -8,25 +8,33 @@ categories: [Npc]
 
 # Bandit
 
-## Description
+**Bandits** are a [human enemy](Enemies.md) in _Deepwoken._
 
-Bandits are NPC hostiles that can be found all over Lower Erisia. Can be identified by their red clothing.
+Template:EnemyInfobox1.0
 
-They spawn in groups of 2 around a campfire accompanied by a [Bandit Captain](Bandit_Leader.md), but sometimes in an [ambush](Random_Encounters.md) towards the player,
+## Overview
 
-## Location
+Bandits are hostile criminals that can be found all over Lower Erisia. They can be determined by their red clothing.
 
--   Lower Erisia ([Erisia](Erisia.md))
+They spawn in groups of two around a campfire accompanied by a [Bandit Captain](Bandit_Leader.md), but sometimes in an [ambush](Random_Encounters.md) towards the player.
+
+## Locations
+
+-   [Lower Erisia](Lower_Erisia.md)
 -   Isle Of Vigils
 -   Etris
 -   [Summer Isle](Summer_Isle.md)
 
-## Moves
+## Weapons
 
-Their arsenal is composed of a Starter Weapon, nothing else special.
+Bandits can be seen wielding:
 
-## Tips
+-   [Stiletto](Stiletto.md)
+-   [Sword](<Sword_(weapon).md>)
+-   [Battleaxe](Battleaxe.md)
 
--   You can one shot assassinate them.
--   They wont block much so you can take advantage of that.
+## Trivia/Notes
+
+-   Anyone can one shot assassinate them.
+-   They won't block much so you can take advantage of that.
 -   Almost never parry, you can use this to your advantage.

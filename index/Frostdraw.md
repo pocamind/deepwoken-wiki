@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 20238
+revid: 20248
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -89,7 +89,7 @@ These mantras have no prequisites.
 -   _Can be parried on 1st and 2nd hits_.
 
  |
-| File:Icechain.gif | Ice Chain(★) | ??? | ??? |
+| File:Icechain.gif | Ice Chain(★) | Chains of ice | Summons 3-4(minimum) chains of ice that stun for a brief period of time and do light damage. The number of chains can be increased with cloudstones presumably increasing the damage, but is a pretty bad mantra in general with a lackluster hitbox. |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | Ice Forge
 
 (★)

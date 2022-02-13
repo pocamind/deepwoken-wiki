@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 20163
+revid: 20360
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,7 +35,7 @@ Giving back what is rightfully theirs.
 
 ## Notes
 
--   You could possibly grip a Navaen Hostage (~Untested~, Yes)
+-   You **can** grip a Navaen Hostage. You won't get anything out of it besides probably some Frigid Prisms (you monster why would you grip navaen hostages)
 -   The ponytail that the Navaen hostages have shows a striking resemblance to an already existing [ROBLOX accessory](https://www.roblox.com/catalog/80274239/Black-Ponytail).
 -   There is actually no rope or cuffs holding the hostage's hands together, I lied.
 -   Why are you still reading this?

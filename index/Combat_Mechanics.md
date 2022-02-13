@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 19431
+revid: 20359
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -20,7 +20,7 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of the player's health. Upon reaching 0 health, the player gets knocked out and is at mercy to anyone around them.
+  <td>A visual representation of the player's health. Upon reaching 0% health, the player gets knocked out and is at mercy to anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
     <li>The player cannot regenerate the full health if their hunger bar is below 50%</li>
@@ -83,12 +83,11 @@ If every bar reaches zero, the player will start to quickly lose health.
 <tbody>
 <tr>
   <th>Blood</th>
-  <td>A visual representation of how much Blood that is currently in the player's body. Blood is vital for survival, being attacked or taking damage in some form will cause the player to lose Blood. Upon reaching zero Blood, some things happen.
-  <ol>
+  <td>A visual representation of how much Blood that is currently in the player's body. Blood is vital for survival, being attacked or taking damage in some form will cause the player to lose Blood. Upon reaching zero Blood, the following happens:
+  <ul>
     <li>The player will always be combat tagged.</li>
-    <li><s>The player will lose ~10% HP per 0.15 seconds.</s> it actually wont that's just what happens when you run out of food and water</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
-  </ol></td>
+  </ul></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -106,7 +105,7 @@ If every bar reaches zero, the player will start to quickly lose health.
 
 ## Combat Basics
 
-_Remember when fighting, the game isn't amount dealing overall damage but instead lower a players posture level to a point where they are heavily vulnerable, even if they block an attack you are still technically dealing damage to them._
+_Remember when fighting, the game isn't amount dealing overall damage but instead lowering a player's posture level to a point where they are heavily vulnerable; even if they block an attack you are still technically dealing damage to them._
 
 <table>
 <tbody>
@@ -118,24 +117,22 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Critical Attacks</th>
-  <td>A Critical Attack or a crit for short can be initiated by pressing your mouse button 3 (Scroll wheel) or by pressing the R key.<p><br>
-  </p>
-  <p>Crits are attacks that do significantly more posture damage and damage in general but have a wind-up or delay before use. Critical attacks are basically high-risk high-reward, they can be punished easily and be canceled but do high damage and posture. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
+  <td>A Critical Attack or "Crit" for short can be initiated by pressing <kbd>M3</kbd> (Scroll wheel) or by pressing the <kbd>R</kbd> key.<p>Crits are attacks that deal significantly more damage in general but have a wind-up or delay before use. Critical attacks are high-risk high-reward, they can be punished easily and be canceled but do high damage and posture. <b>CRITICAL ATTACKS CANNOT BE FEINTED</b> so make sure you are committed when using them or have an opening when you do to prevent getting punished.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Blocking</th>
-  <td>Holding the F key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it.</td>
+  <td>Holding the <kbd>F</kbd> key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it.</td>
   <td></td>
 </tr>
 <tr>
   <th>Parrying</th>
-  <td>Pressing f enables a parry, if done at the right time, it will enable you to throw your opponent off balance stunning them for a short while, this will not use posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
+  <td>Pressing <kbd>F</kbd> enables a parry, if done at the right time, it will enable you to throw your opponent off balance stunning them for a short while, this will not use posture so parry when you are able to. The idea of the parry is to time it either just as you see their sword begin to swing in the animation or a small while before it, the correct timing should be done so that your parry should meet perfectly with their swing. You will be stunned if you don't complete the parry so they could bait you with a feint. Successfully parrying will return some of your posture and give your opponent negative posture putting them off balance.</td>
   <th></th>
 </tr>
 <tr>
   <th>Feinting</th>
-  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, right click during a basic attack animation or hold right click and then attack.</td>
+  <td>Feinting is essentially faking a move, this allows you to bait an opponents block and play mind games with them, for example baiting them to block early disabling their ability to parry. To feint, <kbd>M2</kbd> (right click) during a basic attack animation or hold right click and then attack.</td>
   <td></td>
 </tr>
 <tr>
@@ -145,7 +142,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Stance Change</th>
-  <td>Pressing the 'Y' button will change your stance from one-handed to two handed.<p><br>
+  <td>Pressing the <kbd>Y</kbd> button will change your stance from one-handed to two handed.<p><br>
   </p>
   <p><br>
   Stance affects blocks and parries. Also, affects whether you can wield another tool in your off-hand.</p>
@@ -157,8 +154,8 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th><a href="Stealth.md">Stealth</a></th>
-  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and left click behind them to perform a sneak attack (throat slit). This will deal a moderate amount of damage (Killing some low level bandits outright) and cause the target to ragdoll.<p><br>
-  If the target is not killed by the initial attack, it is reccomended to swipe at them as much as possible before they rise once more. They cannot be picked up if they aren't technically 'knocked' down.</p></td>
+  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and <kbd>M1</kbd> behind them to perform a sneak attack (throat slit). This will deal a moderate amount of damage (Killing some low level bandits outright) and cause the target to ragdoll.<p><br>
+  If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</p></td>
   <td></td>
 </tr>
 </tbody>
@@ -170,7 +167,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>This happens when your armor durability bar reaches 0, this can be shown visually by there being multiple scarring to your armor, it can also indicate if you have been in a fight recently.</td>
+  <td>This happens when your armor durability bar reaches 0%, this can be shown visually by there being multiple scarring to your armor, it can also indicate if you have been in a fight recently.</td>
   <td></td>
 </tr>
 <tr>
@@ -245,7 +242,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Roll Cancel</th>
-  <td>When you roll, you can right click similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent. Gives you the same i-frames as a normal perfect roll.</td>
+  <td>When you roll, you can <kbd>M2</kbd> similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent. Gives you the same i-frames as a normal perfect roll.</td>
   <td></td>
 </tr>
 </tbody>
@@ -253,5 +250,5 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 ## Notes
 
--   The Health and Survival GUI have 5 separate bars in them that represent 20%. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
+-   The Health and Survival GUI have 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
 -   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen.

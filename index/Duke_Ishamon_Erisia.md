@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 20245
+revid: 20351
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -20,9 +20,7 @@ Template:Creature Infobox V3
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears an [Aristocrat's Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
-For lore information about The Duke, read [Lore](https://deepwoken.fandom.com/wiki/Lore#The_Duke_of_Erisia).  
-
-  
+For lore information about The Duke, read [Lore](https://deepwoken.fandom.com/wiki/Lore#The_Duke_of_Erisia).
 
 ## Attacks
 
@@ -31,14 +29,14 @@ able?
 
  | Danger |
 | --- | --- | --- | --- |
-| Wind Bind | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is bound and kicks them into the air before punching them away. | ◯ | (★★☆) |
-| Strong Left | The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left. | ◯ | (★☆☆) |
-| Wind Spear | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on. | ◯ | (★☆☆) |
-| Counter | The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflect back to the attacker- dealing significant damage. He laughs afterward when something strikes his counter. | ✗ | (☆☆☆) |
-| Wind Stomp | The Duke kicks the ground, shooting a wave of wind up from the ground towards his target. **This move will auto-grip if it hits you while knocked or at low health.** | ✗ | (★★★) |
-| Wind Bomb | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down and hitting everyone in the room. **Extremely lethal. Does over 250 damage if not avoided.** | ◯ | (★★★) |
-| Fist Combat: Legion Kata | The Duke wields Iron Cestus, and will fight using Martial Arts of the Legion. | ◯ | (★☆☆) |
-| Slave Summon | The Duke snaps his fingers, summoning 3 slaves from the pods around the boss room. | N/A | (★☆☆) |
+| **Wind Bind** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is bound and kicks them into the air before punching them away. | ◯ | (★★☆) |
+| **Strong Left** | The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left. | ◯ | (★☆☆) |
+| **Wind Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on. | ◯ | (★☆☆) |
+| **Counter** | The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflect back to the attacker- dealing significant damage. He laughs afterward when something strikes his counter. | ✗ | (☆☆☆) |
+| **Wind Stomp** | The Duke kicks the ground, shooting a wave of wind up from the ground towards his target. **This move will auto-grip if it hits you while knocked or at low health.** | ✗ | (★★★) |
+| **Wind Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down and hitting everyone in the room. **Extremely lethal. Does over 250 damage if not avoided.** | ◯ | (★★★) |
+| **Fist Combat: Legion Kata** | The Duke wields Iron Cestus, and will fight using Martial Arts of the Legion. | ◯ | (★☆☆) |
+| **Slave Summon** | The Duke snaps his fingers, summoning 3 slaves from the pods around the boss room. | N/A | (★☆☆) |
 
 ### Finisher
 

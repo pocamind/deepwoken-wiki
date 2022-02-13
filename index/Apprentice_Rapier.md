@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 20201
+revid: 20352
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons]
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.77x |
-| endlag | ? |
+| endlag | None |
 | penetration | None |
 | stances | 1 Handed |
 | selling price | ? |
@@ -25,13 +25,14 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept ValleyThe depths [?] |
+| obtainment | Starswept ValleyThe Depths [?] |
 | description | "Your trusty weapon." |
 
 ## Description
 
-The Apprentice rapier is a unique light weapon both due to being the only rapier in the game as of now but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [StarSwept valley](The_Starswept_Valley.md) or [The depths](The_Depths.md) (Yet to be proven).
+The Apprentice rapier is a unique light weapon both due to being the only rapier in the game as of now but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Starswept valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md) (Yet to be proven).
 
 ## Trivia
 
-\-Despite being a light weapon. In the real world Rapier is considered a medium weapon as it was pretty heavy
+-   Despite being a light weapon. In the real world Rapier is considered a medium weapon as it was pretty heavy.
+-   Rapier's critical is the only critical that does not play an a white effect around when used.

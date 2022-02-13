@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 14087
+revid: 20309
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,4 +27,6 @@ Drefa (Money/Wood Quest): Drefa is an NPC within Isle of Vigils that can be foun
 
 Drefa, in Isle of Vigils
 
-Quest: Start the quest by talking to Korin/Drefa and selecting the "Yeah. \[Obtain Axe\]" dialogue option. They will give you a free Lumber Axe. You can then give them 10 Wood in exchange for 5 Notes. This quest can be repeated.
+Quest: Start the quest by talking to Korin/Drefa and selecting the "Yeah. \[Obtain Axe\]" dialogue option. They will give you a free Lumber Axe. You can then use the axe to chop down trees - it will take a few swings to cut each one down. Obtain the wood, each tree gives 1-3 (?) depending on the size. Give Korin/Drefa at least 10 Wood in exchange for 5 Notes. After giving the wood, words will appear on your screen that say: 'Your Actions Please Etrea', meaning giving Korin/Drefa wood increases your positive [reputation](Reputation.md).
+
+This quest can be repeated and is a good way to farm Notes for early game players.

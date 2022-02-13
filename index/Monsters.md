@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 20215
+revid: 20344
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,11 @@ categories: [Monsters]
 
 # Monsters
 
-**This page is about enemy Beasts/Monsters. For information on enemy NPCs, go [here](Enemies.md).**
+_This page is for Monster enemies. For human enemies, see [Enemies](Enemies.md)._
 
-# Introduction
+**Monsters** in _Deepwoken_ are hostile NPCs that will attack the player, but are different from human enemies.
+
+## Introduction
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, method to obtain higher armor and mantra modifiers, reach new areas, but most importantly: be a fundamentals check. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills, either intentionally or unintentionally. If a player can't even beat a Monster, what makes them think they can beat another player?
 

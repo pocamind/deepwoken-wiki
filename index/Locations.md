@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 19998
+revid: 20353
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -8,9 +8,9 @@ categories: [Locations, World]
 
 # Locations
 
-A list of locations that can be found in _Deepwoken_.
+_This page lists links to their respective pages. If you were looking for maps, see [Maps](Maps.md)._
 
-_If you want to see maps of the world, see [Maps](Maps.md)_
+A list of locations that can be found in _Deepwoken_.
 
 ## The Etrean Luminant
 
@@ -112,3 +112,7 @@ A list of locations that can be found in The Depths experience.
 A list of locations that can be found in the Dungeon experience.
 
 -   [Trial of One](Trial_of_One.md)
+
+## Trivia/Notes
+
+-   Do note that most of these locations are only in the [Etrean Luminant](Luminants.md).

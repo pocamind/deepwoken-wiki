@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 16085
+revid: 20294
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,11 +8,11 @@ categories: [Enemies]
 
 # Enemies
 
-**This page is about enemy NPCs. For information on Beasts/Creatures, go [here](Monsters.md).**
+_This page is for human enemies. For Monster enemies, see [Monsters](Monsters.md)._
 
-_"Never should've come here..." - Last words of a Bandit Leader_
+**Enemies** in _Deepwoken_ are hostile NPCs that will attack the player, but are different than monster enemies.
 
-## Description
+## Overview
 
 Beyond the safety of cities and towns, there are humanoid NPCs that lurk within islands; either ambushing players, patroling a certain area, or settling down on a campfire or stronghold.
 

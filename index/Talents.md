@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 20226
+revid: 20356
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -49,12 +49,12 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Steady Footing \[Generic Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
 -   Quick Recovery \[Generic Talent, Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
 -   Graceful Landing \[Generic Talent, Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
-    -   Minimum thereshold to take fall damage is increased.
+    -   Minimum threshold to take fall damage is increased.
 
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
-    -   Synergise well with Aerial attack talents.
+    -   Synergises well with Aerial attack talents.
 
 ### Aeromancy
 
@@ -69,27 +69,24 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
 
--   Exterminator \[ Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
+-   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
 
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions effect are created as of 2x ingredients were used. Bypass the ingredient cap and will not make diluted potions.
--   Prerequisites: Intelligence (10 - 40 int needed?)
+    -   Prerequisites for all: Intelligence (10 - 40 needed?)
 
 ### Alley Cat
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
-        -   Prerequisites: Agility
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now has fast as walking.
-        -   Prerequisites: Agility
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)
--   Endurance Runner \[Common Talent\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
+-   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the agility penalty tied to lost hp.
-        -   Prerequisites: Agility
 -   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
 
@@ -101,16 +98,14 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Angler
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
-    -   Prerequisite: Used your Fishing Rod once properly
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
-    -   Prerequisite: Used your Fishing Rod once properly
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Prerequisite: Used your Fishing Rod once properly
+    -   Prerequisite for all: Used your Fishing Rod once properly
 
 ### Apex Predator
 
 -   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
-    -   Prerequisites: 5 Strength & 5 Willpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)
+    -   Prerequisites: 5 Strength & 5 Willpower, must not have Vegetarian Flaw
 
 -   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
@@ -139,7 +134,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Authority Interrogator
 
--   Authority Intimidation \[Generic Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
+-   Authority Intimidation \[Generic Talent, Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Generic Talent, Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
 -   First Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less posture damage.
 -   Second Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
@@ -192,7 +187,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Charismatic Cast
 
 -   Lasting Charisma \[Generic Talent, Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
-    -   Prerequisite: Charm, Charismatic Cast \[Generic Talent\]
+    -   Prerequisite: Charm, Charismatic Cast
 
 ### Charm Caster
 
@@ -209,12 +204,9 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
     -   Prerequisite: Reinforce/Shadow Magic(obviously)
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
+    -   Prerequisite: Reinforce
 
-Prerequisite: Reinforce(?)
-
--   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health)
-
--   Prerequisite: Reinforce
+-   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health) Prerequisite: Reinforce
 
 ### Critical Specialist
 
@@ -309,10 +301,10 @@ Prerequisite: Reinforce(?)
 
 ### Flame Dancer
 
--   Dancing Steps \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
--   Graceful Steps \[Generic(?) Talent, Legendary(?) Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (turns you into a fireball whilst moving forward)
--   Flaming Rebound \[Generic(?) Talent, Common(?) Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
--   The Final Act \[Generic (?) Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
+-   Dancing Steps \[Generic Talent, Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
+-   Graceful Steps \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (Turns you into a fireball whilst moving forward)
+-   Flaming Rebound \[Generic Talent, Common Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
+-   The Final Act \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
 
 ### Flame Warden
 
@@ -334,7 +326,6 @@ Prerequisite: Reinforce(?)
 -   Produce Spark \[Generic Talent, Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
     -   Prerequisites: Flamecharm
 -   Unyielding Inferno \[Generic Talent, Common Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
-    -   Prerequisites: Flamecharm
 -   Wildfire \[Generic Talent, Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
 
@@ -445,7 +436,7 @@ Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to 
 
 -   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
 -   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
-    -   Prerequisites: Bloodiron Spirit (Rare talent)
+    -   Prerequisites: Bloodiron Spirit
 -   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
 -   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
 
@@ -477,7 +468,7 @@ Prerequisite: Willpower 5~
 ### [Murmur](Murmur.md)
 
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
-    -   Prerequisites: Kill Sea Serpent Ardour.
+    -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
 
 ### Natural Armor
@@ -493,7 +484,7 @@ Prerequisite: Willpower 5~
     -   Prerequisites: A fist style.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
     -   Prerequisites: Strength (15-20?)
--   Heartbreaker \[Generic Talent, Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
+-   Heartbreaker \[Generic Talent, Common Talent\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
 
 ### Oath
 
@@ -520,36 +511,36 @@ Prerequisite: Willpower 5~
 ### Prospector
 
 -   Excavator \[Generic Talent, Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
--   Harvester \[Generic Talent, Common Talent\] - Chance to recieve two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
+-   Harvester \[Generic Talent, Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
 
 ### Raging Bull
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
 -   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
-    -   Prerequisite: Strong Left Strength Mantra
+    -   Prerequisite: Strong Left (Strength Mantra)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
 
 ### Saint of Blades
 
--   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest. (+2 Posture, +10 Health)
--   Medium Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest. (+2 Posture, +9 Health)
--   Light Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest. (+2 Posture, +9 Health)
+-   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
+-   Medium Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
+-   Light Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
 
 ### Self-Shocker
 
 -   Jumpstart \[Generic Talent, Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity, +3 Health)
-    -   Prerequisites - Static Withdraw.
+    -   Prerequisites: Static Withdraw.
 -   Raging Static \[Generic Talent, Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
-    -   Prerequisites - Jumpstart
+    -   Prerequisites: Jumpstart
 
 ### Shade
 
 -   Now You See Me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
-    -   Prerequisites - Agility
+    -   Prerequisites: Agility
 -   Vanishing Follow-up \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
-    -   Prerequisites - Agility
+    -   Prerequisites: Agility
 
 ### Silvertongue
 
@@ -596,7 +587,7 @@ Prerequisite: Willpower 5~
 
 -   Spare Nails \[Generic Talent, Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
 -   Emergency Repairs \[Generic Talent, Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
-    -   Prerequisite for all: Have succesfully used the Repair Hammer once.
+    -   Prerequisite for all: Use the Repair Hammer once.
 
 ### Silencer
 
@@ -658,11 +649,9 @@ Prerequisite: Willpower 5~
 ### Thundercaller
 
 -   Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
-    -   Prerequisites: Thundercall
 -   Adept Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
 -   Expert Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
 -   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
-    -   Prerequisites: Thundercall | 50 Thundercall
 -   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
 -   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
 -   Stratoschock \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
@@ -670,15 +659,12 @@ Prerequisite: Willpower 5~
 ### Undying Ember
 
 -   Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
-    -   Prerequisites: Flamecharm
 
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
-    -   Prerequisites: Flamecharm
 
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Flamecharm
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
-    -   Prerequisites: Flamecharm, Graceful Flame
+    -   Prerequisites: Graceful Flame
 
 ### Vow of Mastery
 
@@ -712,21 +698,16 @@ Prerequisite: Willpower 5~
 ### Warrior
 
 -   Engage \[Generic Talent, Common Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
-    -   Prerequisites: None
 -   Critical Attack \[Generic Talent, Common Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
-    -   Prerequisites: None
 
 ### **Waterborne**
 
 -   Conditioned Swimmer \[Generic Talent, Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
-    -   Prerequisites:
--   Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)
-    -   Prerequisites:
+-   Scuba Drowner \[Generic Talent, Rare Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)
 
 ### **Weapon Master**
 
 -   Matador \[Generic Talent, Common Talent\] - Deal more damage to enemies with hyperarmor. (+2 Health)
-    -   Prerequisites
 -   Aerial Stab \[Generic Talent, Common Talent\] \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
     -   Prerequisites: Medium Weapons ~25
 -   Aerial Kick \[Generic Talent, Common Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
@@ -744,7 +725,7 @@ Prerequisite: Willpower 5~
 
 ### Whisper
 
--   Haunted Gale \[Generic Talent, Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quicky struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
+-   Haunted Gale \[Generic Talent, Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
 
 ### **Miscellaneous**
 
@@ -772,7 +753,7 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 _You can find a more detailed list of Physical Mantras [here.](Attunement-less.md)_
 
-#### Fortitude Combat (Around 30-35 Fortitude Needed)
+#### Fortitude Support (Around 30-35 Fortitude Needed)
 
 -   Reinforce - Up defense for you and allies around you
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
@@ -780,14 +761,14 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Agility Combat (6 Agility Needed)
 
--   Revenge - A short dash dealing damage to opponents it hits.(Combat)
+-   Revenge - A short dash dealing damage to opponents it hits.
 
 #### Agility Support and Mobility (25 Agility Needed)
 
--   Dash - Just a dash, nothing special. (Mobility)
--   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (Support)
+-   Dash - Just a dash, nothing special.
+-   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost.
 
-#### Charisma Combat (25~ Charisma Needed)
+#### Charisma Support (25~ Charisma Needed)
 
 -   Glare - Opponents facing you are briefly stunned.
 -   Sing - Charm those around you with your powerful voice.
@@ -803,16 +784,16 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
 
-#### Strength Combat (40 Strength Needed)
+#### Strength Mobility (40 Strength Needed)
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 
-#### Willpower Combat (Around 40 Willpower Needed)
+#### Willpower Combat and Support (Around 40 Willpower Needed)
 
--   Gaze - Peer into your enemies souls. Seemingly fears enemies. Said to induce insanity, causes npcs to block less.
+-   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
-#### Light Weapon Combat (10 stat needed)
+#### Light Weapon Mobility (10 stat needed)
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
 
@@ -830,32 +811,32 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
 
 #### Fire Combat
 
--   Flame Repulsion \[Flamecharm Exclusive\] - An exertion of flames. (AOE Combat Mantra)
--   Flame Grab \[Flamecharm Exclusive\] - A fiery chokehold. (Lunging Combat Mantra)
--   Fire Gun \[Flamecharm Exclusive\] - Rapid Bullets of Flame. (Projectile Combat Mantra)
-    -   Upon activation, shoot a pair of bullets made of flame. continuous use allows automatic dodging when using your movement keys.
--   Flame Blind \[Flamecharm Exclusive\] - Snap your fingers, shooting a projectile up to the air and blinding anyone who dare gaze at it. (Blinding AOE Combat Mantra)
+-   Flame Repulsion - An exertion of flames. (AOE Combat Mantra)
+-   Flame Grab - A fiery chokehold. (Lunging Combat Mantra)
+-   Fire Gun - Rapid Bullets of Flame. (Projectile Combat Mantra)
+    -   Upon activation, shoot a pair of bullets made of flame. Continuous use allows automatic dodging when using your movement keys.
+-   Flame Blind - Snap your fingers, shooting a projectile up to the air and blinding anyone who dare gaze at it. (Blinding AOE Combat Mantra)
     -   Blind anyone within a short radius who caught a glimpse of the projectile. 2-3 second duration.
--   Fire Forge (1 Star Mantra) \[Flamecharm Exclusive\] - Toss a nimble Dagger. (Projectile Combat Mantra)
+-   Fire Forge (1 Star Mantra) - Toss a nimble Dagger. (Projectile Combat Mantra)
     -   Throw a Dagger at moderate range. Does not ricochet off of Walls or objects.
--   Fire Blade \[Flamecharm Exclusive\] - Slicing blades of Flame. (Melee Combat Mantra)
+-   Fire Blade - Slicing blades of Flame. (Melee Combat Mantra)
     -   Perform a cleave made of fire at close range.
--   Flame Assault (2 Star Mantra) \[Flamecharm Exclusive\] - Burst forward in flames. (Lunging Combat Mantra)
+-   Flame Assault (2 Star Mantra) - Burst forward in flames. (Lunging Combat Mantra)
     -   Torpedo through enemies and entities with a fiery blow.
 
--   Fire Palm \[1 Star Mantra\] \[Flamecharm Exclusive\] - Fire a short burst of flame from your palm. (Combat Mantra)
+-   Fire Palm (1 Star Mantra) - Fire a short burst of flame from your palm. (Combat Mantra)
     -   You basically quickly burst a flamethrower at your enemies
 
 ### Fire Mobility
 
--   Flame Leap (2 Star Mantra) \[Flamecharm Exclusive\] - Leap up, leaving behind a burst of flames. (Mobility Mantra)
+-   Flame Leap (2 Star Mantra) - Leap up, leaving behind a burst of flames. (Mobility Mantra)
 
 #### Fire Support
 
--   Graceful Flame \[Flamecharm Exclusive\] - Conjure an undying flame for you and your comrades to rest by. (Portable Campfire Mantra)
--   Flames of Denial \[Flamecharm Exclusive\] - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 60 seconds until activated)
+-   Graceful Flame - Conjure an undying flame for you and your comrades to rest by. (Portable Campfire Mantra)
+-   Flames of Denial - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 60 seconds until activated)
     -   Place a kindled flame into your body.
--   Flame Wisp \[Flamecharm Exclusive\]- Summon a servant made of flame(Boosts HP Regen and lights campfires).
+-   Flame Wisp - Summon a servant made of flame(Boosts HP Regen and lights campfires).
 
 ### Frostdraw Mantras
 
@@ -866,7 +847,7 @@ _Main Source - Frostdrawer_
 -   Ice Spikes - Shoots up a spike of ice in front of where you're standing, dealing damage and throwing people up, usually dealing additional fall damage.
 -   Ice Beam - Release a ray of ice that freezes what it hits. Hits 3 times, blockable and parryable.
 -   Frost Grab - Command grab that makes you shortly rush forward and grab your opponent by their throat, choking them. Deals damage and \[speculation\] debuffs them with slowness (as seen by the ice growing on their back).
--   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. It's parryable and blockable.
+-   Warden's Blades - Creates 4 spinning blades that revolve around you very fast. Parryable and blockable.
 -   Crystal Impale (Requires Glass Path) - Jumps up and then smashes into the ground dealing multiple hits
 -   Crystal Kick (Requires Glass Path) -Kicks in front of you launching up your opponent into the air.
 -   Ice Eruption (1 Star Mantra) - Stomp the ground, releasing a barrage of ice spikes that block breaks.
@@ -962,7 +943,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 -   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
--   At lv60 you will get a guarantee legendary talent card
+-   At Power 60, you will get a guarantee legendary talent card
 
   
 Template:Navbox:Talents

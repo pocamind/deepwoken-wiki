@@ -1,15 +1,33 @@
 ---
 title: Dragoon
-revid: 18755
+revid: 20343
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons]
 ---
 
 # Dragoon
 
-## **Information:**
+| Dragoon | |
+|---|---|
+| type | Flintlock |
+| requirements | 65 LGH |
+| damage | 20 |
+| scaling | 12 |
+| range | 12 |
+| swing speed | 1.3x |
+| endlag | ? |
+| penetration | None |
+| selling price | ? |
+| weight | 3 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Bought at Summer Isle for 500 notes |
+| description | The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mastlepieces of the wealthy. |
 
-A gun that packs quite a punch...
+## **Information:**
 
 The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and 65 Light Weapon points to equip it.
 
