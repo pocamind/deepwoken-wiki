@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 18195
+revid: 20559
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -33,3 +33,4 @@ The Gremorian Longspear is a Medium Weapon that is obtainable from killing the N
 ## Notes
 
 -   You can farm the Navae Nomads in Etris for the spear, although at the cost of your reputation with them.
+-   Could be direct reference from the game Rogue Lineage the Deep knight class

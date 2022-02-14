@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 20386
+revid: 20574
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -27,8 +27,8 @@ categories: [Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fort Merit Chests |
-| description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Conpany's secrets. |
+| description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-The Rifle Spear is a medium weapon and is the best spear in the game. It can be obtained from chest, that you get by bringing etrea hostage to the boat. (you have slight chance to get it from chest, there is limit however, you can only bring 3 hostages, after that, you must wait some time.)
+The Rifle Spear is a medium weapon and is the best spear in the game. It can be obtained from chest, that you get by bringing etrean hostage to the boat. (you have slight chance to get it from chest, there is limit however, you can only bring 3 hostages, after that, you must wait some time.)
 
 The weapon itself is not similar to the regular spear as its critical is different as instead of a slash it shoots a projectile (does not consume ether). It has the same speed and sound as any other gun.

@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 18933
+revid: 20599
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,10 @@ As players power up further the EXP required to invest a point will increase as 
 
 If you want to plan your builds properly, consider using a calculator, like this [one](https://docs.google.com/spreadsheets/d/1mqshnTmkl7U2J55Gt9eeXmheiZSRRVvZii5TcY-ojD0/edit?usp=sharing) (courtesy of BLU REMOTE#3420)
 
+There is also a mechanic in which each power level, you deal about 10% of your base damage of any weapon or mantra added to your NPC damage per power. Please keep this in mind when fighting higher level mobs.
+
   
+
 \- **Investable Skills -**
 
 **Base Skills** - Strength, Fortitude, Agility, Intelligence, Willpower, Charisma

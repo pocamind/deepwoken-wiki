@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 19522
+revid: 20528
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 ## Notes
 
--   Aelita is a [felinor](Felinor.md).
--   Aelita is speculated to have the [visionshaper](Oaths.md) oath due to her ability to summon clones that appear nearly identical to herself.
+-   Aelita is a [Felinor](Felinor.md).
+-   Aelita is speculated to have the [Visionshaper Oath](Oaths.md) due to her ability to summon clones that appear nearly identical to herself.
     -   She was previously speculated to be a [Krulian](Krulian.md).
 -   Aelita has purple eyes, her clones will never have purple eyes.

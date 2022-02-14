@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 20496
+revid: 20507
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -29,7 +29,7 @@ _icon credit to Tortaa#9000_
 
 ## Overview
 
-Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun,Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the depths.
+Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the depths.
 
 There are currently only three Oaths in _Deepwoken_. More are planned to be added in future updates.
 
@@ -92,23 +92,23 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 ### **Known Abilities**
 
 -   **Illusory Servants - Combat Mantra**
-    -   Spawns an illusion of yourself that target the closest enemy. Only they and yourself can see it.
+    -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
-    -   The clone deal fake damage that are healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
-    -   While the clone deal fake damage, it still apply hitstun.
+    -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
+    -   While the clone deal fake damage, it still applies hitstun.
 -   **Illusionary Realm - Combat Mantra**
     -   After a slight delay, teleport you and a nearby enemy in an alternate dimension for 15 seconds.
-    -   Damage taken in the realm are real, but 50% of lost HP while inside are restored when the realm expires.
+    -   Damage taken in the realm is real, but 50% of lost HP while inside is restored when the realm expires.
         -   Players cannot be knocked in the realm.
     -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
 
 -   **Illusionary Counter** **\- Support Mantra**
-    -   Do a pose and store 1 charge of Dodge. Getting hit while having a charge while negate the attack and teleport the attacker on the other side of the user.
+    -   Do a pose and store 1 charge of Dodge. Getting hit while having a charge while negate the attacks and teleports the attacker to the other side of the user.
     -   Charges can be stacked.
     -   Apply a short stun to the attacker.
 
 -   **Mirage From the Deep - Passive**
-    -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with a monsters from The Depths for the remaining duration.
+    -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
     -   The monster can be any of the Depths spawn, including but not limited to a [Nautilodaunt](Nautilodaunt.md) or an [Owl](Deep_Owl.md) for example.
 
 -   **Cheap Trick - Passive**
@@ -126,4 +126,4 @@ The oath change the eye color of the user to purple and make a purple particle e
 
 ## Trivia/Notes
 
--   Oaths are planned to have separate levelling systems, mantras, and other progression related aspects added to them in the future as well.
+-   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.

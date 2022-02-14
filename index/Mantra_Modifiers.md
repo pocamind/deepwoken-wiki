@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 20437
+revid: 20596
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Mechanics, Mantras, Mantra, Creation]
@@ -137,9 +137,9 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Thunder - stuns more
 -   Shadow - steals more ether
 -   Wind - Slightly flings enemies (only tested astral wind)
+-   Graceful Flame increases Healing Speed
 -   No effect(?) on physical mantras (more testing required)
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
--   ~TEST TORNADOE (GALEBREATH)~ it does nothing on tornado
 
  |
 

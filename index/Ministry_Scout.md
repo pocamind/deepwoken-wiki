@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 20436
+revid: 20607
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,18 +19,18 @@ Their appearance is repetitive and consists of a Vagabond's Bicorn, a Blindfold,
 
 ## Moves
 
-Their arsenal consists of a Ben's knife (Krulian Knife) and [Shadowcast](Shadowcast.md):
+Their arsenal consists of Ben's Knife ([Krulian Knife](Krulian_Knife.md)) and [Shadowcast](Shadowcast.md).
 
 ### **Moves:**
 
--   **Dagger Attack:** Common dagger M1's, can **not** be easily parried.
--   **Shadow Assault**: Short windup before turning invisible and dashing forward, dealing very minor damage and applying black flames. Blockable, can be parried.
--   **Shadow Spike:** Launches a shadow pillar that impacts where the player is, deals heavy damage and stuns for a decent amount of time while applying black flames. Blockable, builds a lot of posture, can be parried.
+-   **Dagger Attack:** Common dagger M1's, can **not** be easily parried without enough experience.
+-   **Shadow Assault**: Short windup before turning invisible and dashing forward, dealing very minor damage and applying black flames. Can be both blocked and parried.
+-   **Shadow Spike:** Launches a shadow pillar from the floor that targets the player with a potential of dealing dependent significant damage, stunning for a decent amount of time while applying black flames, can be parried but upon blocking will pay a heavy penalty on the posture bar.
 
 ### **Boons:**
 
--   **Third Eye:** Cannot be assassinated.
--   **Numbers:** Pretty self-explainatory, there's a lot of them.
+-   **Third Eye:** Can not be assassinated in any circumstances.
+-   **Numbers:** Self-explanatory, they amount to almost a dozen.
 
 ## Tips
 
@@ -42,9 +42,9 @@ Their arsenal consists of a Ben's knife (Krulian Knife) and [Shadowcast](Shadowc
 
 ## Trivia
 
--   A really good location to progress at, although no loot.
--   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Ministry Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
--   Everyone except the [Ministry Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
+-   A really good location to progress at, although it lacks rewarding loot.
+-   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Cultist Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
+-   Everyone except the [Cultist Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   The Shadow Spike is a reskin of the [Glacial Arc](Frostdraw.md), and it's apparently only exclusive to these guys.
--   Ben's knife in this game is the Krulian Knife dropped from [Ferryman](The_Ferryman.md).
--   Ben’s knife is a bad pun, the ministry brings down islands to the depths “drowning” them Ben “Drowns”
+-   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife.
+-   Ben’s Knife is a bad pun, the ministry brings down islands to the depths “drowning” them resulting to the conclusion Ben “Drowns”.

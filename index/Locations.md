@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 20353
+revid: 20569
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -76,6 +76,7 @@ A list of locations that can be found in [the Aratel Sea](The_Aratel_Sea.md).
 ### Other Islands
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+    -   [Songkeeper Temple](Songseeker_Temple.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Greathive Aratel](Greathive_Aratel.md)

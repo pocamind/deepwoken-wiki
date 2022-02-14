@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 20267
+revid: 20549
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -66,3 +66,4 @@ A Celtor finding the pulsating rings.
 -   Be careful when bringing this to the bank. Most of the time when players see you with this, they will try to kill you so they can get their hands on the Artifact, since it gives very good rewards. Stay out of sight, and stay safe.
 -   The amount of Items it gives may increase with the talent "Looter" given by [Experienced Adventurer](Experienced_Adventurer.md) armor. (Not tested)
 -   If found in Erisia, it's recommended to take the Artifact to Isle of Vigils rather than Etris, As Vigils is both closer to Erisia, and it's bank is closer to the docks.
+-   Before the update Forge was so loot was so bad that some player would just give it out to a random player but now since it got buffed and grants luck it's now was sought after again

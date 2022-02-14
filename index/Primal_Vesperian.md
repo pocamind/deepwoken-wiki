@@ -1,15 +1,61 @@
 ---
 title: Primal Vesperian
-revid: 19328
+revid: 20565
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Races]
 ---
 
 # Primal Vesperian
 
-Primal Vesperian are race that were given by devs or obtained by winning an art contest in the deepwoken discord. Race looks like a [Ganymede](Ganymede.md) and [Vesperian](Vesperian.md) combined together it might possibly be their ancestors.
+## Description
 
-File:Primal Vesperian 1.png
+Template:Races-Main
 
-File:Primal Vesperian 2.png
+"Ancestors of the Ganymede and Vesperians"
+
+**Currently Unobtainable**
+
+## Racial Traits
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>File:Seaborne.png</th>
+  <th><b>Unknown</b>
+  <ul>
+    <li>Currently unknown...</li>
+  </ul></th>
+</tr>
+<tr>
+  <td><center><font>?</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>Currently unknown...</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Miscellanous
+
+**Lore:**
+
+  
+Dubbed as the ancestors of the Ganymede and Vesperians, the Primal Vesperians lost their horns through evolution and when faced with the decision due to coming of the tides; they split into two races, the [Vesperian](Vesperian.md) - the ones who lived up on the surface - and the [Ganymede](Ganymede.md) - the ones who lived below in the Depths.
+
+**Strengths:**
+
+  
+Currently unknown...
+
+**Weaknesses:**
+
+  
+Too much drip
+
+## Notes
+
+-   Only obtainable from developers.
+-   **Nuttoons** is the only non-developer that currently holds this race.
+-   Possibly winnable through contests hosted by the Deepwoken community.

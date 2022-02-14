@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 20401
+revid: 20524
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -59,8 +59,8 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
 -   **Revenge** - A vengeful rush.
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
 -   **Dash** - An agile dash.
-    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health.
-    -   Requirement: 20 Agility (At most, unconfirmed), _Agility Mobility Mantra_
+    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark(?) and drift/rush shards.
+    -   Requirement: 40 Agility, 20 if you have revenge (to the one who said its 20 at most, you are wrong. i got 20 agility and powered up. and since im attunementless i could only had 2 available mantras. dash isn't one of them. its possible that you need revenge to get dash or the req for dash is 40 without revenge)
 
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
@@ -72,7 +72,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal. They compliment t
 
 -   **Summon Cauldron** - Make a cauldron appear from your memories.
     -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
-    -   Requirement: 20 Intelligence, _Intelligence Support Mantra_
+    -   Requirement: 25 Intelligence, _Intelligence Support Mantra (i tested with attunementless and i didn't get it despite having 20 int and making/drinking a potion, but after getting 25 i DID get it)_
 
 -   **Prediction** - Predict an opponent's attack and reflect it.
     -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. Does not work on M1's/Critical Attacks.

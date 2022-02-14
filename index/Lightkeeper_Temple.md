@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 20228
+revid: 20572
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,4 +23,5 @@ The temple is located behind Widow's Hollow. You may choose to go around, where 
 
 ## Notes
 
--   Before the stairs leading up to the fountain to wash your face at is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md). The significance of these obelisks are unknown.
+-   Before the stairs leading up to the fountain to wash your face at is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md) (no apparent use). Washing your face will cause the Hive Gate to be opened on your client, allowing you to enter [Lordsgrove](The_Lordsgrove.md), and use the fast travel point to [Greathive Aratel](Greathive_Aratel.md), if you have an oath.
+-   In the dungeon section of the temple, there is an extra jail cell on the right side covered by an indestructible false wall.

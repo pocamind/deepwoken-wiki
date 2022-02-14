@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 20495
+revid: 20584
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -426,7 +426,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
--   Comeback Kid \[Generic Talent, Rare Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
+-   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
 -   Piercing Will \[Generic Talent, Legendary Talent\] - When your sanity is at stake, ignore the armor resistances of your enemies. (+4 Ether)
 

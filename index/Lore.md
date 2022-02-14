@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 20380
+revid: 20577
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -437,6 +437,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
     -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
 -   People who wields the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
 -   Ardour can also be used as a form a scream; inflicting fear to those around them.
+-   The King of Etrea is mentioned to have this Murmur. It was said that this Murmur "could cut the sea itself".
 
 ### Whispers of Tacet
 

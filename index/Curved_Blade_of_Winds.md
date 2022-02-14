@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 20332
+revid: 20550
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -30,12 +30,11 @@ categories: [Weapons]
 
 ## Description
 
-The Curved Blade of Winds is a Legendary Weapon and is currently the 2nd best Medium Weapon in the game. It is a very rare drop from the chests in [The Depths](The_Depths.md). It scales with Medium Weapon, and [Galebreathe](Galebreathe.md). This weapon also has the Galebreathe passive, After Cut, applied onto it at all times, signified by the wind particles it has. After an attack, there will be an "after cut" that hits the opponent again.
-
-  
+The Curved Blade of Winds is a Legendary Weapon and is currently one of the best Medium Weapons in the game. It is a very rare drop from the chests in [The Depths](The_Depths.md). It scales with Medium Weapon, and [Galebreathe](Galebreathe.md). This weapon also has the Galebreathe passive, After Cut, applied onto it at all times, signified by the wind particles it has. After an attack, there will be an "after cut" that hits the opponent again.
 
 ## Notes
 
 -   You can stack Maestro's Blade with the passive of the weapon, meaning there will be two after cuts on the opponent.
 -   34.1 ( with upper cut effect it do about 36 ) damage with 100 MED and 100 WND
 -   2nd highest damaging medium weapon after Divine Longsword
+-   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade. But there are some who have it and this is extremely rare item that probably can buy your kidney

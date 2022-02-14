@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 17461
+revid: 20593
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,11 +22,9 @@ On the edge of the ridge there's a fire that is always burning. You can interact
 
 There is a ship post.
 
-  
-
 (edit there is only 1 ship post at the front of the island)
 
-The island's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs where a family recieves a monkey's paw with three wishes, but each wish has a terrible consequence.
+The island's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs, where a family receives a monkey's paw with three wishes, but each wish has a terrible consequence.
 
 Talking to the flame
 

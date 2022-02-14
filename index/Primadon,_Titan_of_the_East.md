@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 20483
+revid: 20544
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -27,11 +27,11 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Stomp** | Primadon raises its **left** foot and stomps once. | ◯ | (★☆☆) |
-| **Triple Stomp** | Primadon performs 3 quick stomps in sequence with his **right** foot. | ◯ | (★☆☆) |
-| **Punch** | Primadon winds up its arm to deliver a powerful punch. | ◯ | (★★☆) |
-| **Kick** | Primadon winds back its **left** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with a strong chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★★) |
-| **Grab** | Primadon crouches down and grabs you. | ◯ | (★★☆) |
+| **Stomp** | Primadon raises ITS **right** foot and stomps once. | ◯ | (★☆☆) |
+| **Triple Stomp** | Primadon performs 3 quick stomps in sequence with ITS **left** foot. | ◯ | (★☆☆) |
+| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. | ◯ | (★★☆) |
+| **Kick** | Primadon winds back ITS **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with a strong chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★★) |
+| **Grab** | Primadon crouches down, winds up its **right** arm and grabs you. | ◯ | (★★☆) |
 
 ### Passives
 
@@ -63,6 +63,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 -   Blessed, Wind, Wayward, and Insignia gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's insanely high elemental damage resistance.
 -   Debuffs from Mantras do affect Primadon.
 -   An easy way to cheese this is, place an Undying Flames Graceful Flame (you will take damage while casting) and fight Primadon next to hit so you heal back the damage you lose.
+-   In the table, lefts and rights for the kicks and stomps are based on the Primadon's point of view.
 
 ## Trivia
 
