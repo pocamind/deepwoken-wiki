@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 20444
+revid: 20483
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -72,4 +72,4 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 -   In the game files, it is called "Monky."
 -   Providence thorns [enchant](Enchantments.md) is a great way to cheese Primadon, since whatever attack you parry is reflected back.
 -   It's known to be a sort of "Giant Sharko" due to the way you defeat it being very similar to how you would kill a sharko, just with a different move or two and 60 times more health.
--   **EXOSKELETON MAKES THIS FIGHT QUITE EASY, BUT BE WARNED, THERE HAS BEEN INSTANCES OF PRIMADON INSTANTLY EXECUTING EXOSKELETON USERS WITH THEIR HEALTH AT 30%**
+-   The Exoskeleton legendary [talent](Talents.md) can make this fight easier if you have a low health pool, however keep in mind there have been instances of Primadon instantly executing Exoskeleton players at 30% health.[\[source\]](https://medal.tv/games/roblox/clips/aEEUKSnQ1gNmC/d1337ORFfFgk?invite=cr-MSxxZjQsNDI2OTUxNCw)

@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 18477
+revid: 20458
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -73,6 +73,7 @@ Charisma 65+(Not 70+ when I had 65 people said this.)
 -   Unlike **many other stats**, **Charisma** can be trained to max very fast, due to the method of farming Charisma which is significantly easier than chopping down trees or solving math problems, for example.
 -   There were some phrases that got people's accounts deleted from ROBLOX, because the moderation thought they were _Online Dating_ or attempting to get _Personal Information_. As of 12/27/2021, some of the lines in the "How to Make Friends" book are removed. Some removed phrases will be listed **below** Notes/Trivia.
 -   The [Gremor](Gremor.md) race was once mentioned in a phrase of How To Make Friends, but it is now removed.
+-   The book is a loose reference to _How to Win Friends and Influence People_ (1936), a novel by Dale Carnegie.
 
 ## Removed Phrases
 

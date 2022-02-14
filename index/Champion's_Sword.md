@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 17388
+revid: 20462
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items]
@@ -16,14 +16,17 @@ categories: [Weapons, Items]
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.77x |
-| penetration | N/A |
-| selling price | N/A |
+| endlag | ? |
+| penetration | ? |
+| selling price | ? |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ??? |
+| obtainment | Starswept Valley |
 | description | N/A |
 
+## Notes
 
+-   Not to be confused with [Hero Blades](Hero_Blades.md)

@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 17476
+revid: 20461
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,20 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 > Legendary Boot: The Legendary Boot waits for the day that one worthy would claim it.
 
 > 1\. \[ Claim it\]
+
+> Something stirs within the depths of your soul, It's as if your very birth, your very reason for existing was meant for this moment. (Requires 100 Light Weapons and Jus Karita)
+
+> \[Just take it already\]
+
+> You hold onto the boot, it tingles with anticipation.
+
+> \[Wear it\]
+
+> As you slip your foot into the boot, a sudden realisation dawns on you.
+
+> What?
+
+> Your feet are too big for the Legendary Boot.
 
 > 2\. \[End Dialogue\]
 

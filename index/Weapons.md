@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 20256
+revid: 20475
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -594,6 +594,16 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>9</td>
   <td>0.68x</td>
 </tr>
+<tr>
+  <td>True Seraph's Spear</td>
+  <td>90 MED</td>
+  <td>18.5</td>
+  <td>30%</td>
+  <td>MED: 4</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.72x</td>
+</tr>
 </tbody>
 </table>
 
@@ -727,9 +737,9 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td>Master Hawk's Hand Axe</td>
   <td>75 HVY</td>
-  <td>22</td>
-  <td>50% Chip Damage</td>
-  <td>HVY: 7</td>
+  <td>24.5</td>
+  <td>25% Chip Damage</td>
+  <td>HVY: 10</td>
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>

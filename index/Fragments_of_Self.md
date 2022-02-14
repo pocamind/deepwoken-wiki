@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 19787
+revid: 20493
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -44,3 +44,4 @@ Fragment of Self acts as the purgatory of _Deepwoken_. Players are sent to it wh
 ## Trivia/Notes
 
 -   If you fell off the Fragment of Self floating island, you will be teleported back to spawn.
+-   There's is currently no known way to die in Fragments of self, as fall damage is disabled and so is any form (Potions?) of PVP damage, starving also only drains the player's health down to 50%, it is unclear if bleeding out is possible, dying here would most definetly be a bug and would respawn you in Fragments of self again.

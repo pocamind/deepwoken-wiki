@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 20435
+revid: 20466
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -25,7 +25,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.
 3.  Light the campfires using flint or any other [mantra](Mantras.md)\-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him to begin the battle.
 
-_After talking with him, a boss fight will be initiated. However, it should be noted that he is extremely powerful, and a large group of late-game players will struggle against him without taking proper care. The Ferryman wields a unique knife and a far more powerful version of the [Thundercall](Thundercall.md) element that is colored violet, which boasts a far greater destructive power, intensity, and area of effect compared to the ordinary variant. Even when defeated, the Ferryman does not die, but rather reappears at the center of the platform to lightly praise whoever holds their own against him._
+This is the easiest boss in the game by far and should only be soloed, he gets harder for every player in the arena, so just solo and this boss gon be ez as fuck.
 
 **Once you start the fight, there will be a large ether barrier circled around the fighting arena, with no means of escape or entry. The only way to escape is to die or defeat **The Ferryman**.**
 
@@ -97,7 +97,7 @@ As with most other boss fights in Deepwoken, success in fighting the Ferryman he
 
 Ferryman's Coat
 
--   **Luck** - During all seasons, you receive a fixed amount of luck. (+17% (needs confirmation))
+-   **Luck** - During all seasons, you receive a fixed amount of luck. (+17% (possibly 23%, it brought me to 43 (max) from 26))
 -   **Amethyst Pendant Earrings** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
@@ -111,7 +111,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   _"Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!"_
     -   After defeating the Ferryman and receiving a reward, either the Amethyst Pendant Earrings, the Ferryman's Coat schematic, or the Krulian Knife. (Only available in Summer (only once), Autumn and Winter)
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
-    -   Note if the player already has a [Murmur](Murmur.md), he says something along the lines of _"It seems like another gift has been granted to you"_. This has been confirmed since beating the Ferryman once gave access to the Murmur: Rhythm. However, as this has been removed he never gifts the player the Murmur and the reason he says that you have another gift if you have Ardor is because you can only have one Murmur at a time.
+    -   Note if the player already has a [Murmur](Murmur.md), he says something along the lines of _"It seems like another gift has been granted to you"_. This has been confirmed since beating the Ferryman once gave access to the Murmur: Rhythm. However, as this has been removed he never gifts the player the Murmur and the reason he says that you have another gift if you have Ardour is because you can only have one Murmur at a time. (source needed)
 -   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
     -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once)
 
@@ -139,11 +139,12 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     
     _Petris, found traumatised in The Depths._
     
-      
+-   It takes about nine (9) Ferrymans to get a Resonance (or bell) Because of him giving more or less 17% luck. (Calculations for those who say this is inorrect without doing the right calculations. Primadon = 20% luck per one killed, you need around 7 prima kills for a bell, 20x7=140. Which means you need around 140% luck in order to obtain a Resonance. Ferryman gives more or less 17%. 140/17=8.235. Although it is 8 the .235 is still there meaning you'll need more than 8 to actually obtain a Resonance without killing anything besides Ferryman.
+-   Dying to the ferryman will turn your screen grey as though you were still in the voidsea, this may be a bug with the voidsea in general.  
     
 
 ## Bugs
 
--   It is possible to pass through the Ferryman's barrier using a Rapid Slashes, a Light weapon skill. This requires a player at the other side of the barrier.
+-   It is possible to pass through the Ferryman's barrier using a Rapid Slashes, a Light weapon skill. This requires a player at the other side of the barrier. (This works with many other instant teleport moves such as Jolt Grab)
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.

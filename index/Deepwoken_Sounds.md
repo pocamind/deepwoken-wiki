@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 20341
+revid: 20448
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -76,7 +76,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| ? | N/A | 2:14 | Voidheart | File:CorvusManorMain.ogg |
+| ? | N/A | 2:14 | [Voidheart](Voidheart.md) & [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) | File:CorvusManorMain.ogg |
 
 ## Alternative Soundtracks
 

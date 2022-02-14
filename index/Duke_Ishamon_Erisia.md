@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 20351
+revid: 20476
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -12,11 +12,9 @@ categories: [Boss, Luck]
 
 ― Duke
 
-Template:Creature Infobox V3
-
 ## Description
 
-**The Duke** (also known as Duke of Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
+Template:Creature Infobox V3**The Duke** (also known as Duke of Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears an [Aristocrat's Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 

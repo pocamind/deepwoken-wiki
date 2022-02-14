@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 20433
+revid: 20446
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -22,7 +22,7 @@ The **Trial of One** is an unique event in _Deepwoken_. Its entrance is located 
 
 The Trial of One is a dungeon designed to practically speedrun through early-game progression stat wise, It consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
 
-After the completion of each challenge, a glowing orb that functions similar to a campfire floats down on the center of the room and gives you numbers of free points enough to power up (5 for the first challenge and 10 for the rest) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
+After the completion of each challenge, a glowing orb that functions similar to a campfire floats down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
 ## Trial Rules
 
@@ -35,13 +35,13 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 ## Challenges
 
-1.  Parry Check
+1.  Parry Checks
 2.  [Weakened Megalodaunt](Megalodaunt.md)
 3.  [2 Greater Angels](Hollow_Angel.md)
 4.  [Weakened Rock Golem](Rock_Golem.md)
 5.  [Thresher](Thresher.md)
 6.  [Weakened Enforcer](Enforcer.md)
-7.  [Stone Knight](Stone_Knight.md)
+7.  [Blue Variant: Stone Knight](Stone_Knight.md)
 8.  Parry Check
 9.  [Weakened Alpha Megalodaunt](Megalodaunt.md) + Parry Checks
 
@@ -51,10 +51,10 @@ File:Reward for finishing.png
 
 Mark of the Lone Warrior's talent description
 
--   Free Points to spend on [attributes](Attributes.md) for every trial.
+-   Free Points to spend on [attributes](Attributes.md) for each challenge.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-8, and 15 points for the final trial. Finishing the trial will result in 18 Power.
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
--   _Mark of the Lone Warrior_ Legendary [Talent](Talents.md) for finishing all the trials. Grants 2x EXP gain.
+-   [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks.
 
 ## Tips and Tricks
 
@@ -62,19 +62,19 @@ Mark of the Lone Warrior's talent description
 -   **All monsters HP (beside Angels) are greatly reduced so that they can be defeated in a decent amount of time at power 1.**
 -   **Parrying challenge -** While you get auto parrying frames, its not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Play it safe and only do 2 hits at a time between each attacks.
--   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. You can also cheese this trial by backstabing one of the angels as they spawn (they are facing away from the entrance) Carrying them doesn't despawn them anymore.
--   **Rock Golem -** Always instead of parrying to stay safe. Get a few hits inbetween attacks and when the Spin or Laser is charging.
--   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to not attack as the tresher will always get a free hit in if you do not start blocking or parrying again. There is a small blindspot in front of the tresher where medium and heavy weapons can reach it without the tresher being able to hit until the dig attack.
--   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.
--   **Stone Knight -** Always roll, this is the safest options and can defend against every single attacks. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all cost.
--   **Alpha Megalodaunt + Parrying Challenge -** Play with extreme caution. This Megalodaunt will take less hits to kill than the normal Megalodaunt due to damage scaling. However, if you mess up, you will be taking a lot more damage. A common misconception is that parrying the orbs does damage to the boss. This isn't true, you _need_ to engage the Megalodaunt to kill it.
+-   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. You can also cheese this trial by backstabbing one of the angels as they spawn (they are facing away from the entrance) Carrying them doesn't despawn them anymore.
+-   **Rock Golem -** Always avoid the spin attack instead of parrying to be safe, when the Spin Attack starts try to get atleast 3-4 hits (medium) in then start dodging or parrying and 1-2 hits (medium) inbetween attacks when the Spin Attack ends, go for 3 hits (medium) when the Laser starts to charge then dodge afterwards.
+-   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack.
+-   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.
+-   **Stone Knight -** Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attacks if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all cost (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick.
+-   **Alpha Megalodaunt + Parrying Challenge -** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amount of damage. There is a common misconception that parrying the orbs redirects the damage to the boss, this isn't true, you _need and have_ to engage the Megalodaunt in order to kill it.
 
 ## Notes
 
--   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels.](Hollow_Angel.md)
+-   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
 -   Failing the trial returns you to your starting island.
--   The glowing gate behind you when you enter the Trial of One does not return you to the Dark Mage Cultists stronghold. Rejoining the game brings you back to your starting island. (This is likely a bug)
+-   The glowing gate behind you when you enter the Trial of One does not return you to the entrance to the Trial of One, but rejoining will, though there is a rare chance to accidentally bring you back to your spawn location. (This is likely a bug)
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
--   After losing, You WILL lose all of your armor you had equipped. Be sure to store your stuff on an alt before attempting this
--   If you attempt this Trial with too many free investment points left over (will most likely happen to Audodidact users or Adrets), you may reach the exp cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some exp without powering up if you are an adret/use autodidact.
--   Failing the trial with a stained healthbar does not send you to the Depths.(likely a bug)
+-   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this.
+-   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
+-   Failing the trial with a stained health bar does not send you to [The Depths](The_Depths.md). (likely a bug)

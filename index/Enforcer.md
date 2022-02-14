@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 20365
+revid: 20478
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -18,7 +18,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a monstrous humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but it's origins might be more complicated...
+**The Enforcer** is a monstrous humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins might be more complicated...
 
 ## Attacks
 
@@ -30,7 +30,7 @@ able?
 | **High Swing** | The Enforcer lifts his axe high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | (★☆☆) |
 | **Low Swing** | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than **High Swing**. | ◯ | (★☆☆) |
 | **Kick** | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard. | ◯ | (★★☆) |
-| **Whirlwind** | The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range. | ✗ | (★★☆) |
+| **Whirlwind** | The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range. | ◯ | (★★☆) |
 | **Space Pull** | The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely. | ✗ | (★★★) |
 | **Feint** | Its a [feint](Combat_Mechanics.md) for a monster. Enough said. | ✗ | (★☆☆) |
 

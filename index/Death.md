@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 19394
+revid: 20494
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics]
@@ -24,3 +24,4 @@ See [Escaping The Depths](https://deepwoken.fandom.com/wiki/The_Depths#Escaping_
 
 -   It is very unwise to kill people as guards in Viglis and Etris will hunt you down, and you will not survive unless you are powerful enough. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 at a city, and lower than [Power](Power.md) 10 anywhere.
 -   No, you will not be banned or need to pay 200 robux if you die, if you die then you will get all your progressed wiped, everything in that save slot will be deleted and you will need to create another character. Or you can pay 1k robux to relive the same life (which is pointless don't do it unless you have like 8 enchants)
+-   The player technically has 120 Lives given they die every level and follow it with a power up, this number is higher if taken into the account escaping [the Depths](The_Depths.md).

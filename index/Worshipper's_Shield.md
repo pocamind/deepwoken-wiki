@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 18379
+revid: 20492
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -26,12 +26,12 @@ categories: [Weapons, Weaponry]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Lance's Food shop in Etris |
-| description | N/A |
+| description | A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind. |
 
 ## Description
 
-The Worshipper's Shield can be obtained by buying it from Lance's Food in Etris and requires 45 fortitude to wield. It boasts a higher posture buff than the Targe and Kite Shield.  
+The Worshipper's Shield can be obtained by buying it from Lance's Food in [Etris](Etris.md) and requires 45 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md) and [Kite Shield](Kite_Shield.md).  
 
 ## Notes
 
--   Found inside the restaurant in Etris next to the man who can teach you Pleeksty's Will if you are not a Flamecharmer.
+-   Found inside the restaurant in [Etris](Etris.md) next to the man who can teach you Pleeksty's Will if you are not a Flamecharmer.

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 20261
+revid: 20479
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -10,9 +10,11 @@ categories: [Boss, Luck]
 
 _Also referred to as Kaido, Ardour and Sea Serpent._
 
+Template:Creature Infobox V3
+
 ## Description
 
-Template:Creature Info Box v2The **Dread Serpent** is a [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md). It appears as a long, gray sea monster with dark spinal fins. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats in their tracks.
+The **Dread Serpent** is a big strong [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md). It appears as a long, gray sea monster with dark spinal fins and orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
 ## Attacks
 
@@ -21,19 +23,17 @@ able?
 
  | Danger |
 | --- | --- | --- | --- |
-| Ice Beam | The Sea Dragon opens its mouth and releases a light blue to white ice beam, dealing massive damage to those around it and freezing the water. | ? | (★★★) |
+| Ice Beam | The Dread Serpent opens its mouth and releases a white-frost beam, dealing massive damage to those around it and freezing the water. | ? | (★★★) |
 | Claw Swipe | Dinky little swipe with its short arms. | ◯ | (★☆☆) |
 | Tail Swipe | An attack with the tail. Is often used after two claw swipes. | ◯ | (★★☆) |
 
 #### Finisher
 
--   **Claw Swipe** - Swipes your body with its claw, killing you.
-
-  
+-   **Disembowl** - The Dread Serpent effortlessly swings its claw to finish their prey.
 
 ## Notes/Tips
 
--   Gives you a [Murmur](Murmur.md) when he dies if you did enough damage.
+-   Gives you a [Murmur](Murmur.md) when he dies if you contributed enough damage.
 -   Spawns in large patches of floating bubbles.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.

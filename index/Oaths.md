@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 20412
+revid: 20496
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -102,7 +102,7 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
         -   Players cannot be knocked in the realm.
     -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
 
--   **Illusionary Counter** **\- Combat Mantra**
+-   **Illusionary Counter** **\- Support Mantra**
     -   Do a pose and store 1 charge of Dodge. Getting hit while having a charge while negate the attack and teleport the attacker on the other side of the user.
     -   Charges can be stacked.
     -   Apply a short stun to the attacker.

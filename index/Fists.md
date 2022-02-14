@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 20429
+revid: 20504
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Navaen Nomad Hostage (Way of Navae), Amara & Captain's Recc (Legion Kata), 40 LHT, 30 Power & Polis (Jus Karita) |
-| description | "The traditional martial arts style of Justicars" - Jus Karita, TBA - Way of Navae, TBA - Legion Kata |
+| description | "The traditional martial arts style of the Justicars." - Jus Karita, TBA - Way of Navae, TBA - Legion Kata |
 
 ## Description
 
@@ -42,7 +42,7 @@ There are several different style and all share the common ability of being able
 
 File:Legion fist.png
 
-**CRITICAL:** perform a suplex on your opponent.
+**CRITICAL:** Perform a suplex on your opponent.
 
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed. Your critical attack becomes a suplex.
 
@@ -53,8 +53,6 @@ File:Legion fist.png
 File:Way Of Navae.png
 
 **CRITICAL: Raise your leg, and kick your enemy guard breaking. Careful, the windup is slow.**
-
-  
 
 -   To get this, you must find a Navaen Nomad captive (tied up & no weapons). They can be most commonly found in the [Fort Merit prison](Fort_Merit.md), but can also be found in [Erisia](Erisia.md). Once you have retrieved the captive nomad, bring them back to one of the Navaen Nomad camps in [Summer Isle](Summer_Isle.md) or [Etris](Etris.md) (both works) and talk to the **elder sitting in the tent whilst carrying the nomad.**
 
@@ -71,11 +69,11 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 
 ## Trivia/Notes
 
--   Jus Karita fighting style can't equip a caestus. (If you have two fist styles and try to equip a caestus on Jus Karita, The game will forcably switch you to the other fist style with either Way of Navae or Legion.)
--   DO NOT UNDERESTIMATE A FIST USER THEY CAN SHRED YOUR HP FASTER THAN BLACK OWL STOMPING YOUR SORRY LIFE - "black owl is easy kid just block parry dodge and stay calm" - An agamatsu fan probably.
+-   The Jus Karita fighting style can't equip a cestus. (If you have two fist styles and try to equip a cestus on Jus Karita, the game will forcibly switch you to the other fist style that you have.)
+-   DO NOT UNDERESTIMATE A FIST USER THEY CAN SHRED YOUR HP FASTER THAN BLACK OWL STOMPING YOUR SORRY LIFE - "black owl is easy kid just block parry dodge and stay calm" - An agamatsu fan, probably.
 -   Slide jumping with Way of Navae critical can make it easier to land. (You'll use your sliding momentum to dash forward)
--   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled after all this game is very skill based. But most of the times they will having a hard time just trying to land you a hit
+-   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled, after all this game is very skill based. But most of the time, they will having a hard time just trying to land a hit on you.
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
 -   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Navae is probably the easiest to get because bound Nomads aren't very hard to find. But also, Jus Karita may be a bit easier since it just requires stats instead of waiting for **something to happen**. You can just level up and thus get Jus Karita. Jus Karita is superior in every way. _\- This post was made by a Jus Karita enjoyer._
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists... (This is probably a bug and probably will be patched soon)
--   It is ill advise to have at least one fist style no matter what your preferred weapon are. Now now hear me out, These days many people picks Exoskeleton due to trial of one or just picking the talent for the buff. Exoskeleton isn't a problem for light weapon user but if you have a medium or heavy it is very recommended to use fist style instead of your main weapon. I'm sharing this because I learned that when I use fist style accidentally when fighting a exoskeleton user. It killed them faster and easier than using my Shattered Katana (Now go hunt those annoying Exo user thinking they're immortal while fighting a med and heavy user)
+-   It is advised to have at least one fist style no matter what your preferred weapon is. Now now hear me out, These days many people pick Exoskeleton due to Trial of One or just picking the talent for the buff. Exoskeleton isn't a problem for light weapon users, but if you have a medium or heavy it is very recommended to use fist style instead of your main weapon. I'm sharing this because I learned that when I use fist style accidentally when fighting a exoskeleton user. It killed them faster and easier than using my Shattered Katana (Now go hunt those annoying Exo users thinking they're immortal while fighting a med or heavy user.)

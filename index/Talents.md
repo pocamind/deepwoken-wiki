@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 20439
+revid: 20495
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -561,7 +561,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 
 ### Soul Converter
 
--   Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some Armor upon killing enemies.
+-   Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some Armor upon killing enemies. (requires 5 fortitude)
 
 ### Static Weaver
 
@@ -703,6 +703,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 -   Spinning Swordsman \[Generic Talent, Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
 -   Bear Trap \[Generic Talent, Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
 -   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
+-   In my Blade I Trust \[Generic Talent, Legendary Talent\] - You are daft to the grasp of Song. Grants immunity to mantra based attacks, and lose the ability to cast any mantras.
 
 ### Warrior
 
