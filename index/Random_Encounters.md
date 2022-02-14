@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 19901
+revid: 20646
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -34,7 +34,7 @@ A group of 3 thieves, recognizable by their black armor and the lack of campfire
 
 #### **Bandit Attack**
 
-In Etris or Vigils, 2 bandits can spawn in front of two guards near their respective area. In Etris they are located at the bridge where the entrance to the city is from the docks. In Vigils, they spawn in front of the Temple of Blade. The guards will usually win unless they are low on health, and helping them out will reward you. You will receive XP and reputation. This event does not spawn a chest.
+In Etris or Vigils, 2 bandits can spawn in front of two guards near their respective area. In Etris they are located at the bridge where the entrance to the city is from the docks. In Vigils, they spawn in front of the Temple of Blade. The guards will usually win unless they are low on health, and helping them out will reward you. You will receive XP and reputation. This event does not spawn a chest. This event also takes place at [Summer Isle](Summer_Isle.md), however rather than 2 bandits spawning in front of the guards, 6 will spawn.
 
 **Knives of Eylis**
 

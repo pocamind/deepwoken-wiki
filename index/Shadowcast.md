@@ -1,12 +1,14 @@
 ---
 title: Shadowcast
-revid: 19413
+revid: 20621
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
 ---
 
 # Shadowcast
+
+"Funny isn't it? The brighter the light the darker the shadow... Yet when the light gets dimmer the darkness grew."
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 20311
+revid: 20640
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -75,7 +75,7 @@ Events that spawn in Isle of Vigils that involve combat. For more info, see [Ran
 
 -   Talk to an npc in the training area
 -   He will ask for a weapons manual so he may show up a rival
--   Insert rest of quest here I can't find Isle of Vigils anymore
+-   he will thank you and i will return the book immediately and will reward you with (placeholder)
 
 ## Notes/Trivia
 

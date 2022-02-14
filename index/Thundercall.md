@@ -1,12 +1,14 @@
 ---
 title: Thundercall
-revid: 20567
+revid: 20615
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
 ---
 
 # Thundercall
+
+"Heresy, you say? If it is for the sake of preserving Etrean Luminant, I will seize any manner of heretical strength. I will endure any burden. Behold, the way of the Thundercall." -Local Etrean Warrior
 
 ## Description
 

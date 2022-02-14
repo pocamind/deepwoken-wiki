@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 20499
+revid: 20647
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,7 +42,7 @@ Upon being killed, it drops his hide, with a low chance for umbral obsidian, but
 -   **Megalodaunt** - A normal Megalodaunt, with 1000 HP. Inside of the depths, it can spawn Corrupt to further increase health and attack power by 3x (3000 HP)
 -   **Crimson Megalodaunt** - A much more powerful, red version of the Megalodaunt with roughly 3x health. The red Megalodaunt appears exclusively at the [Songseeker Wilds](Songseeker_Wilds.md) in the Megalodaunt vs Red Megalodaunt event.
     -   If the event is left by itself, the red one will always win, due to its larger health pool of 3000 HP.
-    -   Has the ability to rain down fiery swords from the sky.
+    -   Has the ability to rain down fiery swords from the sky, which is called "Potato".
 -   **Alpha (Grey) Megalodaunt** - Appears exclusively in the [Depths](The_Depths.md) (and the [Trial of One](Trial_of_One.md)). Has 1600 HP with improved damage. Can spawn as a Corrupt version, further increasing attack power and health by 3x (4800 health).
 
 ## Tips to Defeat

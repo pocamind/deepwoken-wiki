@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 19811
+revid: 20639
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -45,7 +45,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 ### **Etrea**
 
 -   Affiliations - Etris, Isle of Vigils
--   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation)
+-   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation) Nomads of Navae (Why tf has nobody added this yet)
 -   Appearance - Green/Purple outfits, Khans
 -   Equipment - Swords, Spears, Greataxes, Galebreathe Spells
 -   Player Reputable? - Yes, inflicts with The Authority
@@ -116,7 +116,7 @@ business men, advanced in technology but not magic.
 
 A group of supreme warriors who plan to grow their island up to avoid the great flood. They do this with "life weaving" which they use on the tree upon which they grow their base on.
 
-The Give can also upgrade your ship using their "life weaving", but other factions doubt their ability to out grow the next flood. They use the sap from the tree to use relocation magic, to travel from place to place. (unconfirmed)
+The Hive can also upgrade your ship using their "life weaving", but other factions doubt their ability to out grow the next flood. They use the sap from the tree to use relocation magic, to travel from place to place. (unconfirmed)
 
 ### [The Divers](The_Divers.md)
 

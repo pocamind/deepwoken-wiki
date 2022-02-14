@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 19255
+revid: 20613
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -28,6 +28,7 @@ Inside the Village are a few NPCs, black [Mudskippers](Mudskipper.md), a bountif
 -   [Authority Footsoldier](Authority_Officer.md)
 -   Etrean Footsoldier
 -   Legion Footsoldier
+-   Knives of Eylis
 
 ## Missions
 

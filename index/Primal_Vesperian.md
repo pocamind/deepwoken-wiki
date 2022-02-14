@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 20565
+revid: 20630
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -54,8 +54,19 @@ Currently unknown...
   
 Too much drip
 
+<table>
+<tbody>
+<tr>
+  <td>Known Variants</td>
+</tr>
+</tbody>
+</table>
+
 ## Notes
 
 -   Only obtainable from developers.
 -   **Nuttoons** is the only non-developer that currently holds this race.
 -   Possibly winnable through contests hosted by the Deepwoken community.
+-   **Nuttoons**'s mask design was originally designed by Nuttoons himself, but was re-made by Archmage, who gave him the mask design he has now.
+-   **Nuttoons**'s Primal Vesperian name is Stag, which is apparently unobtainable and only owned by **Nuttoons** and the developers.
+-   **Arch\_mag****e**'s mask was originally red and white, but he later changed it to black and white to match **Nuttoons**'s mask.

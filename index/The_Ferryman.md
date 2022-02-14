@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 20511
+revid: 20638
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -40,7 +40,7 @@ able?
 | **Lightning Clones** | The Ferryman will spin around and summon two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing. He only uses Lightning Clones in Phase 1. | ◯ | (★☆☆) | **i** |
 | **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them. Becomes much faster in Phase 2. | ◯ | (★★☆) | **i/ii** |
 | **Lightning Assault** | The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping. Becomes much faster and deals more damage in Phase 2. | ◯ | (★★☆) | **i/ii** |
-| **Electromagnetic Pulse** | The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion. He only uses this attack in Phase 2. | ◯ | (★☆☆) | **ii** |
+| **Electromagnetic Pulse** | The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulse. He only uses this attack in Phase 2. | ◯ | (★☆☆) | **ii** |
 | **Grand Volley** | The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. He only uses this attack in Phase 2. (Each spear does about 260 damage, this is a rough estimate though.) | ◯ | (★★★) | **ii** |
 
 ### Finishers
@@ -111,7 +111,8 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   _"Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!"_
     -   After defeating the Ferryman and receiving a reward, either the Amethyst Pendant Earrings, the Ferryman's Coat schematic, or the Krulian Knife. (Only available in Summer (only once), Autumn and Winter)
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
-    -   Note if the player already has a [Murmur](Murmur.md), he says something along the lines of _"It seems like another gift has been granted to you"_. This has been confirmed since beating the Ferryman once gave access to the Murmur: Rhythm. However, as this has been removed he never gifts the player the Murmur and the reason he says that you have another gift if you have Ardour is because you can only have one Murmur at a time. (source needed)
+    -   This would be how you obtain the Rythm Murmur (confirmed), however it is disabled at the moment due to possible balancing and/or not being complete. If you talk to him whilst having a Murmur he mentions that you already have another gift and dissapears. While talking to him without a murmur rewards you with the above dialogue. There is a chance its disabled because Rythm murmur is planned to be obtained another way, and that this text hints towards something **else.**
+    -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)
 -   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
     -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once)
 
@@ -139,7 +140,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     
     _Petris, found traumatised in The Depths._
     
--   It takes about nine (9) Ferrymans to get a Resonance (or bell) Because of him giving more or less 17% luck. (Calculations for those who say this is inorrect without doing the right calculations. Primadon = 20% luck per one killed, you need around 7 prima kills for a bell, 20x7=140. Which means you need around 140% luck in order to obtain a Resonance. Ferryman gives more or less 17%. 140/17=8.235. Although it is 8 the .235 is still there meaning you'll need more than 8 to actually obtain a Resonance without killing anything besides Ferryman.
+-   ~It takes about nine (9) Ferrymans to get a Resonance (or bell) Because of him giving more or less 17% luck. (Calculations for those who say this is inorrect without doing the right calculations. Primadon = 20% luck per one killed, you need around 7 prima kills for a bell, 20x7=140. Which means you need around 140% luck in order to obtain a Resonance. Ferryman gives more or less 17%. 140/17=8.235. Although it is 8 the .235 is still there meaning you'll need more than 8 to actually obtain a Resonance without killing anything besides Ferryman.~ Luck and resonance progress are separate and each boss has vastly different resonance progress rewards. After some ~grind~ testing it's safe to assume even 40-50 ferryman's isnt enough for a resonance.
 -   Dying to the ferryman will turn your screen grey as though you were still in the voidsea, this may be a bug with the voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)  
     

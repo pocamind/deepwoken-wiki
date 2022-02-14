@@ -1,12 +1,14 @@
 ---
 title: Frostdraw
-revid: 20587
+revid: 20645
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Frostdraw
+
+"Mark my words vengeance will be mine!" -A certain noble girl
 
 ## Description
 
@@ -157,6 +159,7 @@ Impale/Impact
  | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
 
 -   Deals around six to eight hits.
+-   Similar to Galebreathe's [Heavenly Wind](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
 
  |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | ??? |
@@ -172,6 +175,7 @@ Impale/Impact
 
 -   Can be used to climb or cross gaps.
 -   Deals heavy damage and briefly slows targets.
+-   Can be upgraded with Glass Stone.
 
  |
 | File:Ice Skate.png | Ice Skates
