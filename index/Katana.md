@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 20136
+revid: 20672
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons]
 |---|---|
 | type | Medium Sword |
 | requirements | 25 MED |
-| damage | 12 |
+| damage | 18 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.75x |
@@ -27,7 +27,7 @@ categories: [Weapons]
 
 ## Description
 
-The Katana is a Medium type weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). This weapon has a base damage of 18 and requires 25 MED to equip. This weapon has no special effects or passives.  
+The Katana is a Medium type weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack (a forward stab), the katana will make the user lunge forward.  
 
 ## Notes
 

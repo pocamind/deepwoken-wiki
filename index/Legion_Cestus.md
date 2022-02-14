@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 20253
+revid: 20690
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia & Songseeker Chests |
+| obtainment | Lower Erisia, Songseeker & Starswept Valley Chests |
 | description | "Cestus used by members of the Legion." |
 
 ## Description

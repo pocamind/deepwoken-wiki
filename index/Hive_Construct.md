@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 20162
+revid: 20693
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -44,7 +44,7 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
 <tr>
   <td><b>Roar</b></td>
   <td>(Placeholder)</td>
-  <td>The golems roars, does no damage, use unknown (Puts you in danger? Doesn't increase insanity like a <a href="Megalodaunt.md">sharko</a> roar, or spawn rocks like a <a href="Rock_Golem.md">golem</a> roar)</td>
+  <td>The golems roars, does no damage, use unknown <s>(Puts you in danger? Doesn't increase insanity like a <a href="Megalodaunt.md">sharko</a> roar, or spawn rocks like a <a href="Rock_Golem.md">golem</a> roar)</s> Doesn't seem to even put me in danger.</td>
 </tr>
 <tr>
   <td><b>Kick</b></td>
@@ -60,6 +60,7 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
   <td>The golem swings its fist, dealing insane damage (~200) and can instagrip at max hp if youre low level. Can parry and roll to evade.
   <ul>
     <li>Not actually sure if this move exists, I may have mistake it for its meteor punch and just didn't see the circles.</li>
+    <li>Other person here, it's a real move.</li>
   </ul></td>
 </tr>
 </tbody>

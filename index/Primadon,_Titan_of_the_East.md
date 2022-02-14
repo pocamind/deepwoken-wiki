@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 20544
+revid: 20682
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -25,13 +25,13 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 ## Attacks
 
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Stomp** | Primadon raises ITS **right** foot and stomps once. | ◯ | (★☆☆) |
-| **Triple Stomp** | Primadon performs 3 quick stomps in sequence with ITS **left** foot. | ◯ | (★☆☆) |
-| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. | ◯ | (★★☆) |
-| **Kick** | Primadon winds back ITS **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with a strong chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★★) |
-| **Grab** | Primadon crouches down, winds up its **right** arm and grabs you. | ◯ | (★★☆) |
+| Name | Description | Parryable? | Perfect Rollable? | Danger |
+| --- | --- | --- | --- | --- |
+| **Stomp** | Primadon raises ITS **right** foot and stomps once. | ◯ | ◯ | (★☆☆) |
+| **Triple Stomp** | Primadon performs 3 quick stomps in sequence with ITS **left** foot. | ◯ | ✗ | (★☆☆) |
+| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. | ◯ | ◯ | (★★☆) |
+| **Kick** | Primadon winds back ITS **right** leg in order to deliver a devastating kick that is capable of punting you _**into the atmosphere**_, inflicting large damage, with a strong chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | ◯ | (★★☆) |
+| **Grab** | Primadon crouches down, winds up its **right** arm and grabs you. | ◯ | ◯ | (★★☆) |
 
 ### Passives
 
@@ -48,6 +48,9 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 ## Strategies & Tips
 
+-   The biggest problem most people have is timing. The kicks should be parried just as they come down instead of when they go up, stay close to him or he will use his fists.
+-   Get 2 "M1s" each time he attacks with heavy weapons, 3 times with medium weapons after triple kick ONLY.
+-   Primadon has the most endlag after an attack when he does triple stomp or a stomp then triple stomp/stomp. If he kicks after a stomp then his endlag will be significantly lower.
 -   [Power](Power.md) 50 is **highly** recommended if **soloing** the boss, due to level scaling damage done to NPCs.
 -   When between Primadon's feet, he will only stomp and kick. This is a great way to solo him as his foot attacks are obvious and can be easily parried or rolled out of.
     -   They also make a whooshing sound every time they are raised, adding on to the _obvious_ factor of his attacks.

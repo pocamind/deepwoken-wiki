@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 20507
+revid: 20661
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -80,7 +80,7 @@ This Oath also grants the players full vision and increased brightness while wea
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-**Oath: Visionshaper** is an Oath that has requires one to nine Void Feathers, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 2/9/2022 to unlock new abilities.
+**Oath: Visionshaper** is an Oath that has requires one to six Void Feathers, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 2/9/2022 to unlock new abilities.
 
 ### **Obtaining**
 

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 20161
+revid: 20663
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,7 +25,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 ## Joining the Divers
 
-Once you reach Castle Light, your only able to pass the barrier and go inside if you have entered the Depths via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join the Divers. The Divers does not currently come with any buffs, and it removes your house name. However, we know about some planned features; such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
+Once you reach Castle Light, you're only able to pass the barrier and go inside if you have entered the Depths via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join the Divers. The Divers does not currently come with any buffs, and it removes your house name. However, we know about some planned features; such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
 
 ## Akira Info
 

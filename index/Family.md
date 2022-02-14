@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 20643
+revid: 20671
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,14 +13,13 @@ Players can be family members with each other with the character selection scree
 
 Having certain traits can make you someone else's relative.
 
--   Siblings - Same last names, similar facial markings.
--   Cousins - Different last names, similar facial markings.
--   Twins - Same last names, you do not need similar facial markings. Because they're twins, they also obviously need to have the same age (months most likely count).
--   Sister - Same last names, you also obviously need to be older and different gender.
--   Brother - Same last names, you need to be same gender.
+-   Siblings - Same last names, possibly same variant
+-   Cousins - Different last names
+-   Twins - Same last names, you may need to have the same racial variant as them. Because they're twins, they may also need to have the same age, although this isn't confirmed and some report having twins younger than them.
 
 ## Notes
 
--   Being a twin with someone may require RNG.
+-   Being a twin may not be age reliant, i have found a twin who was 3 years younger than me.
 -   Apparently you can have an in-game spouse, but there's no solid evidence to this being true as of yet.
 -   Not a lot is known about family as of 2/14/2022
+-   Being someone's family member is RNG

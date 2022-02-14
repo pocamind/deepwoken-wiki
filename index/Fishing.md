@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 19896
+revid: 20659
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -76,6 +76,5 @@ If you want to add more, feel free. I'm done for the time being.
 ## Notes/Trivia
 
 -   Some spots wont let you fish.
-
--   Fish meat is useless, except for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
+-   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
 -   Always good to have a fishing rod on you, fishing is a good way to get food if you're ever in a pinch.

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 20647
+revid: 20657
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -15,7 +15,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Megalodaunts are a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark-Giants](https://www.youtube.com/watch?v=dQw4w9WgXcQ) from _Bloodborne_.
+Megalodaunts are a shark-like Giant-Type enemy which spawn in The Etrean Luminant and The Depths. They closely resemble the [Shark Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant)/[Giant Fishmen](https://bloodborne.fandom.com/wiki/Giant_Fishman) from _Bloodborne_.
 
 Seen mostly around the island of Erisia, the Megalodaunt is one of the first monsters that new players will encounter. Players that are ill-equipped and lack insight of this creature are mostly likely going to experience a swift death.
 

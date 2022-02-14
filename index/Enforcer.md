@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 20478
+revid: 20681
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -47,7 +47,9 @@ The Enforcer, however, is completely different from other [enemies](Enemies.md).
 
 ### In General
 
--   Get familiar with The Enforcer. Watch videos, watch guides, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 45+ character, will surely lead to death. It's design and role is an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm, and react accordingly.
+-   The biggest thing about the enforcer is the feints, when he does this, **HOLD BLOCK.** Even if you unblock, his swings are slow and you have enough time to react and block again right in time.
+-   The Enforcer is really easy to fight once you get familiar with it. **Warrior's Respite** is really good for cheesing it, just parry and block the feints, don't attack as it will cancel Warrior's Respite and stand still to heal.
+-   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 45+ character, will surely lead to death. It's design and role is an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm, and react accordingly.
 -   You shouldn't move away for most of it's attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal damage. Make distance if needed, but not too far that he'll use Pull, or too close that he'll use Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely.
 -   While not recommended, beating The Enforcer on a level 45, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.

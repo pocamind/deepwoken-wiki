@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 20529
+revid: 20688
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -891,7 +891,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
 </tr>
 <tr>
   <td>Great Maul</td>
-  <td>60 HVY, 30 STR</td>
+  <td>65 HVY, 30 STR</td>
   <td>25</td>
   <td>5%</td>
   <td>HVY: 8</td>
@@ -1000,7 +1000,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td>75 SHD, 10 STR, 45 HVY</td>
+  <td>75 SHD, 45 HVY</td>
   <td>26</td>
   <td>N/A</td>
   <td>SHD: 10 HVY: 5</td>
@@ -1028,7 +1028,7 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
   <td>30 FTD</td>
-  <td>1.25</td>
+  <td>1.75</td>
 </tr>
 <tr>
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>

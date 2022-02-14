@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 20482
+revid: 20654
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -65,8 +65,8 @@ Angels currently only spawn as the third challenge in the [Trial of One](Trial_o
 
 ## Moves
 
--   **Light Attack** - Angels use their Divine Spears dealing (unknown) damage each hit.(note this guys can feint)
--   **Light Gun** - Rise into the air and shoot bullets of light that explode, deal damage, and stun.
+-   **Light Attack** - Angels use their Divine Spears dealing (unknown) damage each hit.
+-   **Light Gun** - Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun.
 
 ## Located
 

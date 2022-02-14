@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 20420
+revid: 20689
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Luck]
@@ -36,17 +36,17 @@ Tall white slender figures with white/red eyes who spawn from meteors in the Val
 <tr>
   <th><figure>File:Ice knight kick.gif<figcaption></figcaption></figure></th>
   <th>Kick</th>
-  <th>The player is kicked into the air (and probably slammed into a wall)<p>If both the Snow Knight and player are close enough to a wall, the Snow Knight is near guaranted to get a free Slash or Rock Pillar.</p></th>
+  <th>The player is kicked into the air (and probably slammed into a wall)<p>If both the Snow Knight and player are close enough to a wall, the Snow Knight is near guaranteed to get a free Slash or Rock Pillar. (Unparriable)</p></th>
 </tr>
 <tr>
   <td><figure>File:Rock pillar.gif<figcaption></figcaption></figure></td>
   <td>Rock Pillar</td>
-  <td>A pillar forms below the targeted player, launching them into the air<p>If close to the player, the Snow Knight is guaranted to get a free Kick or Slash.</p></td>
+  <td>A pillar forms below the targeted player, launching them into the air<p>If close to the player, the Snow Knight is guaranteed to get a free Kick or Slash. (Unparriable)</p></td>
 </tr>
 <tr>
   <td><figure>File:Wind Blast.gif<figcaption></figcaption></figure></td>
   <td>Wind Blast</td>
-  <td>A projectile is fired towards the player, does damage (and probably launches the player back)</td>
+  <td>A projectile is fired towards the player, does damage (and probably launches the player back) (Blockable/Parriable)</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

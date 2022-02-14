@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 20570
+revid: 20673
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons]
 | Crypt Blade | |
 |---|---|
 | type | Greatsword |
-| requirements | 75 SHD, 10 STR, 45 HVY |
+| requirements | 75 SHD, 45 HVY |
 | damage | 26 |
 | scaling | SHD: 10, HVY: 5 |
 | range | 9 |
