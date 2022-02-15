@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 21003
+revid: 21048
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -18,7 +18,7 @@ Shadowcast is an element that the player is required to unlock and can not start
 
 Shadowcast can be trained by using the Pure Heart that can be found in the Mantra store at both Etris and Isle of Vigils.
 
-In order to unlock shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock.
+In order to unlock Shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock.
 
 _See [Nightblood](Attunement_Potions.md) for more info._
 
@@ -44,9 +44,9 @@ Shadow Gun
 
  | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
--   Adding 1 Blast spark will make your shadow gun shoot more.
--   Adding crystal and perfect lenses will increase the range.
--   Adding cloudstones and stratus stones increase hitbox.
+-   Adding 1 Blast Spark will make your Shadow Gun a barrage.
+-   Adding Lenses will increase the range.
+-   Adding Cloudstones and Stratus Stones increases the hitbox.
 
  |
 |  | 
@@ -82,7 +82,11 @@ Shadow Roar
 Shadow Meteor  
 (★★☆)
 
- | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable. | Drift/rush Shards Appear to make the meteors significantly faster, comparable to pre nerf if used alot |
+ | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
+
+-   Shards make the meteors significantly faster.
+
+ |
 
 ### **Mobility**
 
@@ -92,7 +96,11 @@ Shadow Meteor
 Shadow Assault  
 (★★☆)
 
- | A rush of darkness. | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in your way while applying black flames. Blockable. | Can Be Upgraded With Crystal/Perfect Lenses For Increased Distance |
+ | A rush of darkness. | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in your way while applying black flames. Blockable.
+
+-   Lenses increase distance.
+
+ |
 
 ## Talents
 

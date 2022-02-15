@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 20718
+revid: 21052
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,12 +18,15 @@ Talking to him will give you the talent card "[Chimes of Conflict](Chime_of_Conf
 
 After attaining "Chimes of Conflict", he will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the [Lord Regent](The_Lord_Regent.md), Wardens and Gunsmith Rosen. He also speaks of a Driver, riding horses.
 
-###### Below is dialogue of Yamaketzal responding when asked who he is. _(note, there may be a few lines of dialogue missing here.)_
+###### Below is dialogue of Yamaketzal responding when asked who he is.
 
 -   _"Me? Drowned... Just like you. \*He looks you dead in the eyes and gives you a wry smile.\*"_
 -   _"Me? I'm Duke Erisia... Yeh... That one who done made all those rocks move... Heh heh..."_
 -   _"Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?..."_
 -   _"Me? Jus' a washed up somebody... Or someone who used to be somebody... Keh heh..."_
 -   _"Me? Ferryman's what I am... Dredged up from the dregs of the dregs... Tormenting mortal spirits 'n' that... Ironic... Coz they were the ones tormenting me..."_
+-   _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny things y'learn when you discard everything in pursuit of your goals... Heh heh..."_
+-   _"Me? Driver's what I am... Got some horses... Real nice ones... Travel way over land we do... Not a puddle in sight... Heh heh..."_
+-   _"Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh..."_
 
 **Yamaketzal has different dialogue depending on your win/lose ratio, please add his different dialogues below this line accordingly.**

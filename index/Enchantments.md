@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 20977
+revid: 21065
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -47,19 +47,19 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This has a 5-second cooldown and dealing a small amout of damage back to you. This has being going through a lot of different changes. NOT A CURSE ANYMORE SOMONE REMOVE IT FROM HERE</p></div></td>
+  <td><div><p>Everytime you hit your oponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be perfect blocked. The slash will deal the same amount as your main weapons M1 damage. If you do not grip someone within 3 hours, the Umbral Knight will kill you.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 1.1x damage and steal blood from your enemies. If you miss an M1, you will be damaged for 2% health.</p></div></td>
+  <td><div><p>M1s deal 3x damage and steal blood from your enemies. If you miss an M1, you will be damaged for 2% health.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained and double bloodloss in the etrean luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and may die upon equipping the weapon.</a></p></div></td>
+  <td><div><p>Gives insanity on hit and fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained and double bloodloss in the etrean luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every hit (mantra and physical) has a chance to deal 3x damage to the opponent. Each proc causes it to deal 15% damage to you.</p></div></td>
+  <td><div><p>Every hit (mantra and physical) has a chance to deal 3x damage to the opponent. It also has a chance to deal 15% damage back to you. While the curse is equipped, it plays a weird sound.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -276,7 +276,7 @@ Drowned
 
  | 
 
-Drowned equipments grant Health, Ether, Reservoir and Sanity, all at once and in higher quantity than items of the same level.
+Drowned equipments grant an additional 10 Health, 10 Ether, 20 Reservoir and 10 Sanity on top of the base stats of the equipment.
 
   
 

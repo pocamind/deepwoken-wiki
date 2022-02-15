@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 20947
+revid: 21033
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -49,6 +49,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 ### **The Captain (Officer Note Quest)**
 
 -   There is a guy you can see through a window, you can bribe him with an officer note for a key. This will open the door to the forgotten temple.
+    -   Alternatively, if your reputation with the authority is positive, he will give you the key for free.
 
 ## Loot Table
 

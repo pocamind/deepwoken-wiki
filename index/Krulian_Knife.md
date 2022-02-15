@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 20829
+revid: 21057
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -33,4 +33,4 @@ The Krulian Knife is a dagger weapon that drops by defeating the [Ferryman](The_
 ## Notes
 
 -   This Knife is reference to the Mid Era Ben's Knife used by Chrollo in the Anime "Hunter x Hunter"
--   It is possible for [The Ferryman](The_Ferryman.md) to give star versions of these, albeit it is unconfirmed if he can give [Enchanted](Enchantments.md) variants.
+-   It is possible for [The Ferryman](The_Ferryman.md) to give star versions of these, albeit it is unconfirmed if he can give [Enchanted](Enchantments.md) variants. I saw one with an enchant so it's very possible

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 20784
+revid: 21055
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -27,16 +27,16 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 #### Lore
 
-There is alot of things you cudqwyidqyuwodvwqudvquwodvtguwqgtuwqdvtuwdtguwdgukwdgwdvgfwvdgwvdgwadvwdvgwdvgwadfwadcfwacdfwacdwfadcwfadcwfcdwfdcwfdcwfdcwfdcwdcwfdcwfdcwfdcwfdcfdcwafdcwafdcwafdcwaafdcwdcfwacdwfadcwfdcdhfwcdfhwcdfwajcdhwfad wahfd wafhdcwaahfdcwafadcfwcdhfwacdhwfadcwhfdcwhfdcwhfdcwahfdcwafhdcwhfdcwhfdwafhdcwhfdcwafhdcwfadcwfdcwadcwaafhdcwdjcJDCWQFHJDCWHDV2UYEV2QTEV2QTWQVDTUWQVDTUWQQDVQWDVQW
+(Placeholder)
 
 ### **The Authority**
 
 -   Affiliations - Summer Company. The Divers
 -   Locations - Fort Merit, Central Luminant,
--   Hostile against - Monsters, Bandits, The Legion, Etris, Players (Negative Reputation)
--   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, Adretians
+-   Hostile against - Monsters, Bandits, The Legion, Etris, Players, The Hive (Negative Reputation)
+-   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, (Adretians for the captains) (Fort merit guards could be any race)
 -   Equipment - Swords, Spears, Greataxes, Flamecharm Spells, Frostdraw Spells, Thundercall Spells
--   Player Reputable? - Yes, inflicts with The Legion and Etris
+-   Player Reputable? - Yes, inflicts with The Legion, Etris and The Hive
 
 #### Lore
 
@@ -46,9 +46,9 @@ There is alot of things you cudqwyidqyuwodvwqudvquwodvtguwqgtuwqdvtuwdtguwdgukwd
 
 -   Affiliations - Etris, Isle of Vigils
 -   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation) Nomads of Navae (Why tf has nobody added this yet)
--   Appearance - Green/Purple outfits, Khans
--   Equipment - Swords, Spears, Greataxes, Galebreathe Spells
--   Player Reputable? - Yes, inflicts with The Authority
+-   Appearance - Green/Purple/White/Black outfits, Etreans
+-   Equipment - Swords, Spears, Greataxes, Maces, Galebreathe Spells
+-   Player Reputable? - Yes, inflicts with The Authority and The Hive
 
 #### Lore
 
@@ -68,9 +68,9 @@ An organization that preserves whats left before the tides came. Historians that
 
 ### **Vigils of the Blades**
 
--   Affiliations - Vigils
+-   Affiliations - Vigils, Etris
 -   Hostile against - Bandits, Negative rep player
--   Appearance - White Robes/Armor
+-   Appearance - White Armor set - Cloak of winds armor with Glassdancer's wraps (can be any race)
 -   Equipment - Katanas, Galebreathe Spells
 -   Player Reputable? - Possibly (Currently align with Etrea)
 
@@ -81,7 +81,7 @@ An organization that preserves whats left before the tides came. Historians that
 ### **Nomads of Navae**
 
 -   Affiliations - Neutral
--   Hostile against - Bandits, Summer Company
+-   Hostile against - Bandits, Summer Company, Ministry
 -   Appearance - Navaen Armor, Gremors
 -   Equipment - Spears, Swords, Fists, Frostdraw Spells
 -   Player Reputable? - Yes
@@ -101,7 +101,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 #### Lore
 
-business men, they are advanced in tech however they are not good at using magic or swords.
+Business men, they are advanced in tech however they are not good at using magic or swords.
 
 ### **The Hive**
 
@@ -110,7 +110,7 @@ business men, they are advanced in tech however they are not good at using magic
 -   Hostile Against - Etrea, The Central Authority, Players (Negative Reputation)
 -   Appearance - Black-clothed Vesperians or Ganymedes
 -   Equipment - Swords and Battleaxes
--   Player Reputable? - Yes, inflicts with Etrea
+-   Player Reputable? - Yes, inflicts with Etrea and The Authority
 
 #### **Lore**
 
@@ -133,3 +133,16 @@ The Hive can also upgrade your ship using their "life weaving", but other factio
 You can get a lot of the lore from travelling to the Castle of Light (Diver HQ in the depths), after meeting Akira elsewhere in the depths. There you will learn a lot more about what the divers do. They apparently have different groups within them. (Akira is part of the research group, and he explains he was securing a area from any other threats before the group arrived.) Another fact we learn from Akira is that 2% of Divers survive.
 
 You can also get alot of gear from loresns
+
+### Ministry
+
+-   Affiliations - Unknown.
+-   Locations - Minityrsa and Summer isle.
+-   Hostile against - Players, Nomads of Navae and Summer company (probably more).
+-   Appearance - Black clothing that looks like Prophet's cloak, also wear blindfolds and hats except the ganymede ones that summon spellcasting mudskippers.
+-   Equipment - Krulian dagger / Shadow magic.
+-   Player Reputable? - Unknown.
+
+**Lore**
+
+When getting gripped they may mention player not being able to stop history from repeating itself or that what happened to the celtors will repeat.

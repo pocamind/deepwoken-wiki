@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 20775
+revid: 21029
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Distortion Realm** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
+**Distortion Realm,** also referred to as **Kamui,** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
 
 ### _Appearance_
 

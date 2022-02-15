@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 20929
+revid: 21031
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,3 +34,7 @@ categories: [Weapons, Weaponry]
 ## Description
 
 Can be bought in the weaponry at [Etris](Etris.md) and from chests in [Erisia](Erisia.md)
+
+## Notes
+
+-   Worst shield in the game, as it is lower tier compared to the [Kite](Kite_Shield.md), [Worshipper's](<Worshipper's_Shield.md>) and [Khan](Legion_Shield.md) shields.

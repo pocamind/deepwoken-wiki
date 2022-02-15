@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 20737
+revid: 21051
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -93,7 +93,7 @@ Primadon's full model.
 -   In the game files, it is called "Monky."
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since whatever attack you parry is reflected back.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 60 times more health.
--   The [Exoskeleton](Talents.md#freak-of-nature) legendary talent can make this fight easier if you have a low health pool, however keep in mind there have been instances of Primadon instantly executing Exoskeleton players at 30% health.[\[source\]](https://medal.tv/games/roblox/clips/aEEUKSnQ1gNmC/d1337ORFfFgk?invite=cr-MSxxZjQsNDI2OTUxNCw)
+-   `T̶h̶e̶ ̶E̶x̶o̶s̶k̶e̶l̶e̶t̶o̶n̶ ̶l̶e̶g̶e̶n̶d̶a̶r̶y̶ ̶t̶a̶l̶e̶n̶t̶ ̶c̶a̶n̶ ̶m̶a̶k̶e̶ ̶t̶h̶i̶s̶ ̶f̶i̶g̶h̶t̶ ̶e̶a̶s̶i̶e̶r̶ ̶i̶f̶ ̶y̶o̶u̶ ̶h̶a̶v̶e̶ ̶a̶ ̶l̶o̶w̶ ̶h̶e̶a̶l̶t̶h̶ ̶p̶o̶o̶l̶,̶ ̶h̶o̶w̶e̶v̶e̶r̶ ̶k̶e̶e̶p̶ ̶i̶n̶ ̶m̶i̶n̶d̶ ̶t̶h̶e̶r̶e̶ ̶h̶a̶v̶e̶ ̶b̶e̶e̶n̶ ̶i̶n̶s̶t̶a̶n̶c̶e̶s̶ ̶o̶f̶ ̶P̶r̶i̶m̶a̶d̶o̶n̶ ̶i̶n̶s̶t̶a̶n̶t̶l̶y̶ ̶e̶x̶e̶c̶u̶t̶i̶n̶g̶ ̶E̶x̶o̶s̶k̶e̶l̶e̶t̶o̶n̶ ̶p̶l̶a̶y̶e̶r̶s̶ ̶a̶t̶ ̶3̶0̶%̶ ̶h̶e̶a̶l̶t̶h̶.̶ Exoskeleton no longer does this.`
 
 1.  [↑](#cite-ref-1) Used to be called "Triple Stomp".
 2.  [↑](#cite-ref-2) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage

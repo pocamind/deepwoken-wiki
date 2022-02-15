@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 20920
+revid: 21064
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle Chests or Chests in The Depths (Only places to my knowledge.) |
+| obtainment | Found in Chests from Summer Isle, The Depths, and the PVP Arena. |
 | description | "It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill." |
 
 ## Description

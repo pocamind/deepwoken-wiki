@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 17592
+revid: 21046
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,6 +28,8 @@ This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [The Depths](The_Depths.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   Sea Event
 
 ## Trivia/Notes
 

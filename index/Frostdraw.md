@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 20645
+revid: 21045
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -41,7 +41,7 @@ These mantras have no prequisites.
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
-| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location. :)
+| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location.
 -   Deals moderate damage and sends target into the air.
 -   Leaves ice where the Mantra is casted.
 
@@ -57,8 +57,8 @@ These mantras have no prequisites.
 -   Deals moderate damage.
 
  |
-| [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | Warden's Blades | Revolving blades of ice. | 4 ice swords spawn around the player. They stop moving and shoot out. |
-| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Servants | A legion of frost. | Summons four or five ice servants that blow chilling air to the center.
+| [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | Warden's Blades | Revolving blades of ice. | Caster creates 4 large blades made of ice around them in a cross formation. The blades then quickly proceed to start spinning around the caster with the blade facing out. Deals rapid light damage, combined with stratus stones can create serious area denial. |
+| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Servants | A legion of frost. | Summons four or five ice servants that thrusts out two blasts of some sort of ice shard frost mist to the center. Deals Moderate damage if both blows hit.
 
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.

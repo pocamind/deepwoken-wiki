@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 21011
+revid: 21024
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Deep Owl
 
-“ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do state my curiosity. ”
+“ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity. ”
 
 ― ???
 
@@ -91,5 +91,14 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Corrupted Deep Owls (and rarely normal Owls) have a chance drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md).
 -   Deep Owls spawn regardless of the current [Season](Seasons.md) but _are_ however, affected by the current time in-game. At the time of writing, it is believed that Deep Owls only spawn at night, or at least are significantly rarer during the daytime.
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
+
+## Lore
+
+-   The main source of lore comes from the nestmind, the trainer of the visionshaper oath
+-   The Nestmind's dialogue hints at the owl form we see not actually being what the owls are
+-   Deep Owls are the source of illusion magic, with the Nestmind's dialogue "use abilities inherent to my kind". as it grants you the visionshaper oath, this means they are the source of it.
+-   The Owls nest literally in the interstice between human minds, further enhancing their connection to illusion magic
+-   The Owls grant people illusion magic to allow the visionshapers "ripen them" for the owls to feast. it is said that the visionshapers themself will also eventually become a feast.
+-   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue.
 
 1.  [↑](#cite-ref-1) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.

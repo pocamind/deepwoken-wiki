@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 20936
+revid: 21049
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Wiping at a high level
 
 Chance after completing the [Trial Of One](Trial_of_One.md)
 
-Possibly just a chance when wiping (I got Animal King on a slot where I had only wiped once or twice before, both at level 1)
+Most likely just a chance when wiping (I got Animal King on a slot where I had only wiped once before, both at level 1.)
 
 Wiping at an older age (28+)  
 
@@ -27,9 +27,9 @@ Wiping at an older age (28+)
 
 Ability to be neutral with animals. Any creature that is nonhumanoid **Will Not** attack the player. (This excludes [Stone Knights](Stone_Knight.md) & [Erisia Golems](Rock_Golem.md), possibly others.)
 
--   NPC's that resemble humans **Will Still** attack the player. The only known NPC's that resembles humans that will not attack those with the talent are [Ministry Scouts](Ministry_Scout.md) and [The Enforcer](Enforcer.md).
+-   NPC's that resemble humans ([Enemies](Enemies.md)) **Will Still** attack the player. The only known NPC's that resembles humans that will not attack those with the talent are [Ministry Scouts](Ministry_Scout.md) and [The Enforcer](Enforcer.md).
 -   Animal Bosses **Will Not** attack you including Primadon
--   Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)
+-   ~Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)~ Chest loot seems to be completely unaffected, but we all get unlucky sometimes.
 
 ## Termite
 
