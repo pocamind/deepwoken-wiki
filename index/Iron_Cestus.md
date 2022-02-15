@@ -1,9 +1,9 @@
 ---
 title: Iron Cestus
-revid: 20687
+revid: 20834
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Iron Cestus
@@ -12,19 +12,20 @@ categories: [Weapons]
 |---|---|
 | type | Light Weapon |
 | requirements | 0 LHT & Fist Style |
-| damage | 15 |
+| damage | 14 |
 | scaling | 7 |
 | range | 7 |
-| swing speed | 0.87x |
-| penetration | N/A |
-| selling price | TBA |
+| swing speed | 0.86x |
+| endlag | ? |
+| penetration | None |
+| selling price | ? |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia & Songseeker Chests |
-| description | TBA |
+| obtainment | Erisia Chests , Songseeker Chests , Summer Isle Chests |
+| description | [REQUIRES A FIST STYLE] |
 
 ## Description
 

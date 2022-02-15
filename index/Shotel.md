@@ -1,9 +1,9 @@
 ---
 title: Shotel
-revid: 19190
+revid: 20885
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Shotel

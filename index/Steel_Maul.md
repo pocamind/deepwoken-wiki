@@ -1,9 +1,9 @@
 ---
 title: Steel Maul
-revid: 20145
+revid: 20919
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items]
+categories: [Weapons, Items, Weaponry]
 ---
 
 # Steel Maul

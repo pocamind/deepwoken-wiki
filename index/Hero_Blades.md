@@ -1,9 +1,9 @@
 ---
 title: Hero Blades
-revid: 15523
+revid: 20937
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Weaponry, Weapons]
 ---
 
 # Hero Blades
@@ -34,6 +34,7 @@ File:Fire blade.png
     
 
   
+  
 
 -   Hero's Blade of Lightning, requiring 75 Thundercall to wield
     
@@ -49,6 +50,7 @@ File:Fire blade.png
     File:Wind Blade.png
     
 
+  
   
   
 

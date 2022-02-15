@@ -1,9 +1,9 @@
 ---
 title: Trident Spear
-revid: 18688
+revid: 20907
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Trident Spear

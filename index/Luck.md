@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 20195
+revid: 20773
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -69,7 +69,7 @@ Turning in an [Artifact](Artifacts.md) to the Banker will provide you with luck,
 
 ### **From the [Trial of One](Trial_of_One.md)**
 
-Successfully completing each stage of the trial can give you luck, and you can get around 2-3 rare talents with a chance for a legendary talent if you complete all of them.
+Successfully completing each stage of the trial can give you luck, and you can get around 1-3 rare talents with a chance for a legendary talent if you complete all of them.
 
 ### **From the Arena**
 

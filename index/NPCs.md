@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 20639
+revid: 20784
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -27,7 +27,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 #### Lore
 
-(Placeholder)
+There is alot of things you cudqwyidqyuwodvwqudvquwodvtguwqgtuwqdvtuwdtguwdgukwdgwdvgfwvdgwvdgwadvwdvgwdvgwadfwadcfwacdfwacdwfadcwfadcwfcdwfdcwfdcwfdcwfdcwdcwfdcwfdcwfdcwfdcfdcwafdcwafdcwafdcwaafdcwdcfwacdwfadcwfdcdhfwcdfhwcdfwajcdhwfad wahfd wafhdcwaahfdcwafadcfwcdhfwacdhwfadcwhfdcwhfdcwhfdcwahfdcwafhdcwhfdcwhfdwafhdcwhfdcwafhdcwfadcwfdcwadcwaafhdcwdjcJDCWQFHJDCWHDV2UYEV2QTEV2QTWQVDTUWQVDTUWQQDVQWDVQW
 
 ### **The Authority**
 
@@ -101,7 +101,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 #### Lore
 
-business men, advanced in technology but not magic.
+business men, they are advanced in tech however they are not good at using magic or swords.
 
 ### **The Hive**
 
@@ -114,7 +114,7 @@ business men, advanced in technology but not magic.
 
 #### **Lore**
 
-A group of supreme warriors who plan to grow their island up to avoid the great flood. They do this with "life weaving" which they use on the tree upon which they grow their base on.
+A group of supreme warriors who plan to grow their island and become the best. They do this with "life weaving" which they use on the tree upon which they grow their base on.
 
 The Hive can also upgrade your ship using their "life weaving", but other factions doubt their ability to out grow the next flood. They use the sap from the tree to use relocation magic, to travel from place to place. (unconfirmed)
 
@@ -131,3 +131,5 @@ The Hive can also upgrade your ship using their "life weaving", but other factio
 #### **Lore**
 
 You can get a lot of the lore from travelling to the Castle of Light (Diver HQ in the depths), after meeting Akira elsewhere in the depths. There you will learn a lot more about what the divers do. They apparently have different groups within them. (Akira is part of the research group, and he explains he was securing a area from any other threats before the group arrived.) Another fact we learn from Akira is that 2% of Divers survive.
+
+You can also get alot of gear from loresns

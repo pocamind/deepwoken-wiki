@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 20584
+revid: 20990
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -293,8 +293,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary talent, 20 Fortitude\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you.
-    -   Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of reduced damage that ignore exoskeleton mechanic everytime you are hit.
+-   Exoskeleton \[Legendary talent, 20 Fortitude\] Give the player natural armor similar to that of Chitin, which also can be generated at a campfire.
+    -   Grant ?% damage reduction (cannot be bypass by penetration stat), its durability scales with the player power level. Can also stack with Chitin.
 -   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
 
@@ -399,7 +399,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Maudet \[Generic Talent, [Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
 -   Chitin \[Generic Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
-    -   While not empty, receive ??% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
+    -   While not empty, receive ?% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 -   Navae's Guidance \[Generic Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen. Lose less hunger.
 -   Nightchild \[Generic Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
@@ -561,7 +561,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 
 ### Soul Converter
 
--   Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some Armor upon killing enemies. (requires 5 fortitude)
+-   Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some armor upon killing enemies.
 
 ### Static Weaver
 
@@ -672,6 +672,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
 
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
+    -   Prerequisites: Unyielding Inferno
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
     -   Prerequisites: Graceful Flame
 
@@ -798,7 +799,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 
-#### Willpower Combat and Support (Around 40 Willpower Needed)
+#### Willpower Combat and Support (40 Willpower Needed)
 
 -   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.

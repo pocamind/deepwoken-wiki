@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Blade"
-revid: 20464
+revid: 20918
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Enforcer's Blade
@@ -25,11 +25,13 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Enforcer drop |
+| obtainment | Depth Loot-Table |
 | description | ? |
 
 # Enforcer's Blade
 
 ## Description
 
-The Enforcer's Blade is a Greatsword Heavy Weapon You need 80 heavy Weapon Points and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), and it appears to randomly drop either the blade or the axe.
+The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 heavy Weapon Points and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), through killing the enforcer, and it appears to randomly drop either the blade or the axe.
+
+Video of someone obtaining the Enforcer's Blade : [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)

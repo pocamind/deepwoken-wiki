@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 19826
+revid: 20786
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -19,7 +19,7 @@ categories: [Weapons, Weaponry]
 | endlag | 0.1s |
 | penetration | n/a |
 | special effect | n/a |
-| selling price | ? |
+| selling price | 50 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |

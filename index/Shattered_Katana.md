@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 20764
+revid: 20776
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -28,7 +28,7 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-The Shattered Katana is an endgame Medium Weapon and is the go-to weapon to use as a Medium Weapon user. It is a somewhat rare drop from chests in high levelled locations like the [Starswept Valley](The_Starswept_Valley.md), or [The Depths](The_Depths.md). The Shattered Katana has 20 Base Damage and a scaling of 7. It also comes with a 25% Penetration stat, a very good stat to have as only a handful of weapons in the game include this stat on them.
+The Shattered Katana is an endgame Medium [Weapon](Weapons.md) and is the go-to weapon to use as a Medium Weapon user. It is a somewhat rare drop from chests in high levelled locations like the [Starswept Valley](The_Starswept_Valley.md), or [The Depths](The_Depths.md). The Shattered Katana has 20 Base Damage and a scaling of 7. It also comes with a 25% Penetration stat, a very good stat to have as only a handful of weapons in the game include this stat on them.
 
   
 

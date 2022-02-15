@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 18239
+revid: 20915
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]

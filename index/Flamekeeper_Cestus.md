@@ -1,9 +1,9 @@
 ---
 title: Flamekeeper Cestus
-revid: 20325
+revid: 20840
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Flamekeeper Cestus

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 20760
+revid: 20934
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -42,7 +42,7 @@ Megalodaunts come in three different versions with two being corruptable, for a 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Slash**File:Slash.png | A short range **Slash** using their forearms. Often used twice in a row. Heavy posture damage. | ◯ | (★☆☆) |
-| **Kick** | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Causes the Dazed status if kicked into a wall. This ability is very dangerous as it cannot be blocked and can send you into unwanted situations. | ✗ | (★☆☆) |
+| **Kick** | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Causes the Dazed status if kicked into a wall. This ability is very dangerous as it cannot be blocked and can send you into unwanted situations. | ✗ | (★★☆) |
 | **Jump** | If the target is above it, the Megalodaunt will **Jump**, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | (★☆☆) |
 | **Spit** | A long-range single target ability. Hits multiple times. | ◯ | (★☆☆) |
 | **Thousand Needles** | The Megalodaunt bends over and points its coral tubes towards a target, proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | (★☆☆) |

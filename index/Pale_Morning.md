@@ -1,9 +1,9 @@
 ---
 title: Pale Morning
-revid: 19507
+revid: 20923
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Pale Morning

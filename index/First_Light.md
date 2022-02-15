@@ -1,9 +1,9 @@
 ---
 title: First Light
-revid: 20451
+revid: 20917
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # First Light
@@ -29,4 +29,9 @@ categories: [Weapons]
 
 ## Description
 
-The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md) at [Songseeker Wilds](Songseeker_Wilds.md). Keep in mind it isn't a guaranteed drop, it's speculated to be around the same rate as an [Enforcer's Axe](<Enforcer's_Axe.md>) (50% chance) (the chance of getting the Red [Megalodaunt](Megalodaunt.md) at [Songseeker Wilds](Songseeker_Wilds.md) is very rare )
+The First Light is one of the many heavy weapons you can obtain in the game, obtainable by killing a Red [Megalodaunt](Megalodaunt.md) at [Songseeker Wilds](Songseeker_Wilds.md). Keep in mind it isn't a guaranteed drop, it's speculated to be around the same rate as an [Enforcer's Axe](<Enforcer's_Axe.md>) (50% chance) (the chance of getting the Red [Megalodaunt](Megalodaunt.md) at [Songseeker Wilds](Songseeker_Wilds.md) is very rare )  
+
+## Note
+
+-   The only greatsword that doesn't have endlag as of now
+-   Maybe a reference from Re:Zero. It looks similar to Reinhardt's dragon sword

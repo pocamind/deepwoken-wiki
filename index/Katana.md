@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 20672
+revid: 20881
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Katana
