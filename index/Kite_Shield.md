@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 20930
+revid: 21015
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Kite Shield | |
 |---|---|
 | type | Shield |
-| requirements | 25 Fortitude |
+| requirements | 30 Fortitude |
 | damage | N/A |
 | scaling | N/A |
 | range | N/A |

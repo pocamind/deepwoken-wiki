@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 20664
+revid: 21011
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -19,6 +19,8 @@ categories: [Monsters]
 Template:Creature Infobox V3 The **Deep Owl** (also referred to as "Owl") is an exceptionally uncommon [monster](Monsters.md) with juggernaut-like traits found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_.
 
 **It is not recommended to fight the Owl alone below level 40, as each attack does massive damage.**
+
+**Deep Owls will only spawn during Nighttime in the Etrean Luminant.** This restriction does not apply to The Depths.
 
 When appearing in _Upper Erisia_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 

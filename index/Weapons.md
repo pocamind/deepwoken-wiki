@@ -1,19 +1,12 @@
 ---
 title: Weapons
-revid: 20986
+revid: 20993
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
 ---
 
 # Weapons
-
-Redirect to:
-
--   [Weaponry](Weaponry%253Fredirect=no.md)
-
-  
-  
 
 <table>
 <tbody>
@@ -22,6 +15,8 @@ Redirect to:
 </tr>
 </tbody>
 </table>
+
+  
 
 File:Weaponicon.png
 

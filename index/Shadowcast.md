@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 20723
+revid: 21003
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -82,7 +82,7 @@ Shadow Roar
 Shadow Meteor  
 (★★☆)
 
- | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable. |
+ | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable. | Drift/rush Shards Appear to make the meteors significantly faster, comparable to pre nerf if used alot |
 
 ### **Mobility**
 
@@ -92,7 +92,7 @@ Shadow Meteor
 Shadow Assault  
 (★★☆)
 
- | A rush of darkness. | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in your way while applying black flames. Blockable. |
+ | A rush of darkness. | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in your way while applying black flames. Blockable. | Can Be Upgraded With Crystal/Perfect Lenses For Increased Distance |
 
 ## Talents
 
