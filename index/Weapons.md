@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 20688
+revid: 20730
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Character]
@@ -104,7 +104,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.03x</td>
 </tr>
 <tr>
-  <td>Canor Fang</td>
+  <td><a href="Canor_Fang.md">Canor Fang</a></td>
   <td>30 LHT</td>
   <td>11</td>
   <td>5%</td>
@@ -114,7 +114,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.05x</td>
 </tr>
 <tr>
-  <td>Silver Dagger</td>
+  <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
   <td>35 LHT</td>
   <td>12</td>
   <td>N/A</td>
@@ -274,7 +274,7 @@ Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Flintlock</td>
+  <td><a href="Flintlock.md">Flintlock</a></td>
   <td>20 LHT</td>
   <td>10</td>
   <td>N/A</td>
@@ -284,7 +284,7 @@ Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M
   <td>1.3x</td>
 </tr>
 <tr>
-  <td>Revolver</td>
+  <td><a href="Repeater.md">Revolver</a></td>
   <td>65 LHT</td>
   <td>13</td>
   <td>N/A</td>
@@ -294,7 +294,7 @@ Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M
   <td>1.3x</td>
 </tr>
 <tr>
-  <td>Dragoon</td>
+  <td><a href="Dragoon.md">Dragoon</a></td>
   <td>65 LHT</td>
   <td>20</td>
   <td>N/A</td>
@@ -585,7 +585,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td>Rifle Spear</td>
+  <td><a href="Rifle_Spear.md">Rifle Spear</a></td>
   <td>80 MED</td>
   <td>20</td>
   <td>25%</td>
@@ -634,12 +634,12 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
   <td>65 MED</td>
-  <td>20</td>
+  <td>19.5</td>
   <td>10%</td>
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 </tbody>
 </table>
@@ -725,7 +725,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.55x</td>
 </tr>
 <tr>
-  <td>Night Axe</td>
+  <td><a href="Night_Axe.md">Night Axe</a></td>
   <td>75 HVY</td>
   <td>22</td>
   <td>70% Chip Damage</td>
@@ -735,7 +735,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.54x</td>
 </tr>
 <tr>
-  <td>Master Hawk's Hand Axe</td>
+  <td>Master Hawk's HandAxe</td>
   <td>75 HVY</td>
   <td>24.5</td>
   <td>25% Chip Damage</td>
@@ -890,7 +890,7 @@ Greathammers are wweapons with a heavy metal head mounted at right angles at the
   <td>0.6x</td>
 </tr>
 <tr>
-  <td>Great Maul</td>
+  <td><a href="Great_Maul.md">Great Maul</a></td>
   <td>65 HVY, 30 STR</td>
   <td>25</td>
   <td>5%</td>

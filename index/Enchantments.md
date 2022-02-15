@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 20505
+revid: 20720
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -47,7 +47,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This has a 5-second cooldown and dealing a small amout of damage back to you. This has being going through a lot of different changes.</p></div></td>
+  <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This has a 5-second cooldown and dealing a small amout of damage back to you. This has being going through a lot of different changes. NOT A CURSE ANYMORE SOMONE REMOVE IT FROM HERE</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
@@ -74,7 +74,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>The more HP you have, the more damage you do. At max HP, your M1s will deal 25% more damage. Conversely, the less HP you have, the less damage you do. Being at low HP will reduce your M1 damage significantly.</p></div></td>
+  <td><div><p>The less health you have the more damage you do (Might also do more mantra dmg?)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>

@@ -1,14 +1,12 @@
 ---
 title: Galebreathe
-revid: 20616
+revid: 20762
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
 ---
 
 # Galebreathe
-
-"As one with wind and cloud." -Kaedahara Kazuha
 
 ## Description
 

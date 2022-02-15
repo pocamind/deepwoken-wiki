@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 20635
+revid: 20695
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -307,7 +307,6 @@ A Dark Mage, located in Minityrsa.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly of Adrets, but can vary with other races too.
--   The Authority is confirmed to be 100+ years old.
 -   The Central Authority (as of we know now) use 3 attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by Footsoldiers and Wardens alike.
     -   The Central Authority's Thundercallers are footsoldiers; but they are notoriously known for torturing their prisoners with electricity.

@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 19100
+revid: 20717
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -37,6 +37,23 @@ They generally can tank a lot of damage while dealing it, The best strategy is t
 **Passives**
 
 -   **Rock shell -** Golems have very high Slash Resistance.
+
+## Tips for fighting
+
+Whenever it completes a move, you have enough time to hit it twice, afterwards there is a consistent and safe strat for each move.
+
+-   **Rapid Spin** - Hit 3 times during the windup, before either dodging back and running away from the attack (safe, but loses you the 2 hits after barrage) or parrying the barrage (risky, but allows you to get the 2 hits).
+    -   **Lethal Spin (Prime Golem)** - Do not use the risky strat under any circumstances, as it hits too fast to parry.
+
+-   **Rock Sledgehammer** - Parry or dodge it, up to preference.
+-   **Foot Stomp** - Parry the stomp, _you do not have enough time to dodge it._
+-   **Swing** - Dodge the swing. It is essentially a reskinned Megalodaunt kick, and should be treated as such.
+-   **Angered Scream** - 3 hits while it's screaming, it _probably_ won't hit you, although you're not in danger of getting hit by its other moves if it does.
+-   **Laser Beam** - Hit 2 times and dodge, the beam should miss.
+    -   **Red Beam (Prime Golem)** - Same strat, although it looks the exact same as Chain Laser, so better to follow that strat.
+    -   **Chain Laser (Prime Golem)** - 2 hits, then dodge, before proceeding to run and jump until it stops shooting.
+
+  
 
 ## Tips
 

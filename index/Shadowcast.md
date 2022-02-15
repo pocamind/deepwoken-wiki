@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 20621
+revid: 20723
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mantras]
 
 # Shadowcast
 
-"Funny isn't it? The brighter the light the darker the shadow... Yet when the light gets dimmer the darkness grew."
+_"The ability to control the absence of mana or creation in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
 
 ## Description
 

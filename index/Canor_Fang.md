@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 19837
+revid: 20761
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,5 +28,7 @@ categories: [Weapons]
 | pass down | Yes |
 | obtainment | SongseekerMinityrsa |
 | description | An exceptionally sharp knife forged by unknown means. Carries and intense aura of foreboding |
+
+##### _"No it's not an actual Canor's Fang."_
 
 The Canor Fang is a dagger weapon which has a base stat of 11 damage and 5% penetration against armor and high swing speed though it does less damage than most knifes and has only 5% penetration so its pretty mid when it comes to stats.

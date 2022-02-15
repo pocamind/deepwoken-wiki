@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 17662
+revid: 20744
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful]
@@ -15,7 +15,8 @@ _This page lists the controls that can be used in Deepwoken._
 | **Key**  | **Description** | **Notes** |
 | --- | --- | --- |
 | M1 | Light Attack | Your main attack. |
-| M2 | Feint/Cancel | Player cancels event/animation in progress. (Light Attack, Roll, Casting). |
+| M2 | Feint/Cancel | Player cancels event/animation of Weapons and other Actions. (Light Attack, Roll, Casting). |
+| M1 + M2 | Mantra Feint | Player cancels event/animation of Mantras when using them. Costs Ether but resets Cooldown. |
 | MMB or R | Critical Attack | Player deals heavy attack, typically to break block. |
 | E | Interact | Player interacts with NPCs, environment, etc. |
 | F | Parry | Player parries attacks if used right before impact. |

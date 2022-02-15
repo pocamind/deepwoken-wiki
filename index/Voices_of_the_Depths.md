@@ -1,9 +1,9 @@
 ---
 title: Voices of the Depths
-revid: 19298
+revid: 20710
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPC]
+categories: [Pages with broken file links, NPC]
 ---
 
 # Voices of the Depths
@@ -12,7 +12,15 @@ categories: [NPC]
 
 The Voices of the Depths are encountered when the player attempts to escape The Depths.
 
-It is confirmed by [the Ferryman](The_Ferryman.md) that these voices are in fact gods, as he remarks that his race, Krulian, is the closest bridge inbetween gods and the other races.
+~It is confirmed by [the Ferryman](The_Ferryman.md) that these voices are in fact gods, as he remarks that his race, Krulian, is the closest bridge inbetween gods and the other races~
+
+The god that the Ferryman was referring to was actually Yun'Shul, who is confirmed by Arch\_Mage to be a drowned god in the Artist General channel - Krulians are 'Servants of the Deep', essentially the deepwoken equivalent of seraphs to a god, Ferryman does not utilize a resonance so it's practically confirmed that the Ferryman is not associated with Yun'Shul, but with another drowned god that resides within the depths, perhaps in a deeper layer.
+
+Arch\_Mage confirming that Yun'Shul is indeed a drowned god.
+
+Arch\_Mage confirming that Yun'Shul is indeed a drowned god.
+
+  
 
 ### Voice of Odium
 

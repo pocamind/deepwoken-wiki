@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 19237
+revid: 20701
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -34,17 +34,16 @@ It drops a Lionfish Scale, which is used for crafting armor sets
 ## Located
 
 -   [The Depths](The_Depths.md)
--   Aratel Sea (Spawns naturally but can also be fished up)
--   Voidsea
+-   [Aratel Sea](The_Aratel_Sea.md) (Spawns naturally but can also be fished up)
+-   [Voidsea](Voidsea.md)
 
 ## Notes
 
 -   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish.
 -   Lionfishes do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
--   Corrupted Health: 6000
--   Regular Health: 2000
 -   You can spawn a lionfish by fishing, however it has a really low chance of spawning
+-   Will usually spawn if you happen to travel to [voidsea](Voidsea.md) and sail over certain bubble particles. These bubbles may also spawn the boss [Kaido](Dread_Serpent.md)
     
     File:Big ass fish.jpg
     

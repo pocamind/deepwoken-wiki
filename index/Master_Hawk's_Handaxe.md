@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 20691
+revid: 20735
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -28,8 +28,6 @@ categories: [Weapons]
 | obtainment | Starswept Valley |
 | description | ? |
 
-# Master Hawk's HandAxe
-
 ## Description
 
-Master Hawk's HandAxe is obtainable in Hive(someone re write this is if im wrong) It has a base damage of 22 0.54x Swing speed and 50% Chip damage
+Master Hawk's HandAxe is obtainable in [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 22, 0.54x Swing speed and 50% Chip damage.

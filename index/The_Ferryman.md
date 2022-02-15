@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 20638
+revid: 20727
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -25,7 +25,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.
 3.  Light the campfires using flint or any other [mantra](Mantras.md)\-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him to begin the battle.
 
-This is the easiest boss in the game by far and should only be soloed, he gets harder for every player in the arena, so just solo and this boss gon be ez as fuck.
+This is possibly the easiest boss in the game, albeit his speed, damage and health will scale up depending on how many players there are fighting him, it is highly recommended fighting him alone.
 
 **Once you start the fight, there will be a large ether barrier circled around the fighting arena, with no means of escape or entry. The only way to escape is to die or defeat **The Ferryman**.**
 
@@ -140,7 +140,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     
     _Petris, found traumatised in The Depths._
     
--   ~It takes about nine (9) Ferrymans to get a Resonance (or bell) Because of him giving more or less 17% luck. (Calculations for those who say this is inorrect without doing the right calculations. Primadon = 20% luck per one killed, you need around 7 prima kills for a bell, 20x7=140. Which means you need around 140% luck in order to obtain a Resonance. Ferryman gives more or less 17%. 140/17=8.235. Although it is 8 the .235 is still there meaning you'll need more than 8 to actually obtain a Resonance without killing anything besides Ferryman.~ Luck and resonance progress are separate and each boss has vastly different resonance progress rewards. After some ~grind~ testing it's safe to assume even 40-50 ferryman's isnt enough for a resonance.
+
 -   Dying to the ferryman will turn your screen grey as though you were still in the voidsea, this may be a bug with the voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)  
     

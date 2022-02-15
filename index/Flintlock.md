@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 20414
+revid: 20763
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -26,6 +26,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Bought at Summmer Isle for 100 notes |
 | description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of... |
+
+##### _"How did you even parry a bullets?"_
 
 **The Flintlock Pistol** is a [gun](Guns.md) that can be purchased for 100 [notes](Notes.md) in [Summer Isle](Summer_Isle.md).
 
