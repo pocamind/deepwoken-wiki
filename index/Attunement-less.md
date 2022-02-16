@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 20524
+revid: 21215
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -60,7 +60,7 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
 -   **Dash** - An agile dash.
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark(?) and drift/rush shards.
-    -   Requirement: 40 Agility, 20 if you have revenge (to the one who said its 20 at most, you are wrong. i got 20 agility and powered up. and since im attunementless i could only had 2 available mantras. dash isn't one of them. its possible that you need revenge to get dash or the req for dash is 40 without revenge)
+    -   Requirement: 40 Agility, tested it and couldnt get it with even 30 agility but instantly got it at 40 agility. Used to be 20 but the devs increased the req.- solhur
 
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
@@ -113,7 +113,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart.
-    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks.
+    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high dmg when upgraded and 75+ lht.
     -   Requirement: 6 Light Weapon, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_

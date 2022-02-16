@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 15542
+revid: 21167
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -54,6 +54,33 @@ Talking to Guards
 -   Good Reputation - "Good to see you again Comrade"| "Good to see you again fellow leigonaire."
 -   Neutral Reputation - "Stay out of trouble traveller trouble lies everywhere here." | "The empire appreciates your contributions traveller."
 -   Unfriendly Reputation - "The Empire's wrath will come down on you if you stay on this path..." | "..."
+
+## Central Authority Reputation
+
+Talking to Guards
+
+-   Very Good Reputation - "Welcome back to Fortification Peak, \[Name\]. It's good to see some competent warriors around." | "Placeholder"
+-   Good Reputation - "Placeholder" | "Placeholder"
+-   Neutral Reputation - "Ah another one of the locals. Gods, why did I have to get a post in the East?" | "Placeholder"
+-   Unfriendly Reputation - "Make one wrong move and you're done outlander." | "Placeholder"
+
+## Summer Company Reputation
+
+Talking to Guards
+
+-   Very Good Reputation - "Welcome back to the Castle, \[Name\]. Keep making Rosen proud." | "Placeholder"
+-   Good Reputation - "Hello friend, make any discoveries?" | "Placeholder"
+-   Neutral Reputation - "If you're not here to buy something, just leave." | "If I see you near the storage caches you're done."
+-   Unfriendly Reputation - "Placeholder" | "Placeholder"
+
+## Hive Reputation
+
+Talking to Guards
+
+-   Very Good Reputation - "I hope your journeys outside the Hive go well, \[Name\]." | "Placeholder"
+-   Good Reputation - "Placeholder" | "Placeholder"
+-   Neutral Reputation - "Placeholder" | "Placeholder"
+-   Unfriendly Reputation - "\*_The guard remains silent, barely registering your presence.\*_" | "Placeholder"
 
 ## Notes/Trivia
 

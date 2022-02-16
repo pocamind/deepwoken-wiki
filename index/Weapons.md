@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 21144
+revid: 21305
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weaponry, Character]
+categories: [Weaponry, Character]
 ---
 
 # Weapons
@@ -18,15 +18,13 @@ categories: [Pages with broken file links, Weaponry, Character]
 
   
 
-File:Weaponicon.png
-
 _Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
 
   
 
 Weapons can be bought from shops, or obtained from [Chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils. [This is a guide that could help](https://www.youtube.com/watch?v=x-2wgmt4ZLM).
 
-When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favourable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
+When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
 
 ## Stances
 
@@ -1051,6 +1049,6 @@ Players can use this formula to figure out their complete damage.
 
 D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) ∗ S c a l i n g ) {\\displaystyle Damage = Base Dmg + AttributeLevel((base/1000) \* Scaling)} {\\displaystyle Damage=BaseDmg+AttributeLevel((base/1000)\*Scaling)}
 
-The equation below shows the true attacks per second. (The time in seconds it takes to use an m1. take into account endlag on specific weapons like greatswords and hammers add on.) (Another exception is that light weapons already have accurate attack speeds as their swing speeds.)
+The equation below shows the true attacks speed for heavy, medium, rapier, and fist. Dagger and gun swing speeds are already accurate.
 
 A t t a c k S p e e d \= ( S w i n g S p e e d ∗ 2 ) + e n d l a g {\\displaystyle AttackSpeed=(SwingSpeed\*2)+endlag} {\\displaystyle AttackSpeed=(SwingSpeed\*2)+endlag}

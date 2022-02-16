@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 20692
+revid: 21275
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -70,6 +70,7 @@ Mark of the Lone Warrior's talent description
 -   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.
 -   **Stone Knight -** Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attacks if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all cost (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick.
 -   **Alpha Megalodaunt + Parrying Challenge -** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amount of damage. There is a common misconception that parrying the orbs redirects the damage to the boss, this isn't true, you _need and have_ to engage the Megalodaunt in order to kill it.
+-   you can cheese Trial of One with Exoskeleton
 
 ## Notes
 
@@ -77,6 +78,6 @@ Mark of the Lone Warrior's talent description
 -   Failing the trial returns you to your starting island.
 -   The glowing gate behind you when you enter the Trial of One does not return you to the entrance to the Trial of One, but rejoining will, though there is a rare chance to accidentally bring you back to your spawn location. (This is likely a bug)
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
--   ~After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this.~ (This is completely false, I have attempted Trial of One numerous times and have lost many times, but never have I lost my 2 equipment on me.)
+-   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. ~(This is completely false, I have attempted Trial of One numerous times and have lost many times, but never have I lost my 2 equipment on me.)~(This was either true at some point or still is. I lost all of my gear, including an enchanted scarf, to the trial.)
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
 -   Literally ONE lag spike during the parrying challenge and you die.

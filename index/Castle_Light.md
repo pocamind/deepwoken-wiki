@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 19391
+revid: 21274
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

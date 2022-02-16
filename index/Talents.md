@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21156
+revid: 21337
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -1028,4 +1028,5 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guarantee legendary talent card
 
-vandal Template:Navbox:Talents
+  
+Template:Navbox:Talents

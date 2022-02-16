@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 19722
+revid: 21339
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,3 +17,4 @@ Their appearance consists of the Duelist's Attire.
 
 -   You can assassinate them.
     -   Assassinations will one shot if you have the "Assassin" talent.
+    -   Occasionally these bandits can feint, however with the extreme ease with killing these bandits you will hardly ever notice it.

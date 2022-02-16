@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 21056
+revid: 21340
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -43,7 +43,7 @@ able?
 
 The Enforcer is definitely a shake-up to the games formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [enemies](Enemies.md). All things considered, it is quite fragile, at 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 45, he would have about 890 health. Still large, but nowhere too big. Do not be deceived by this amount, though. The Enforcer can parry, and it parries **a lot**. A monster capable of parrying is already scary enough, but he can **feint** too, being the only one of two monsters, or any enemy that does it. Parry trading won't work with it, as it can easily feint and ruin your flow.
+The Enforcer, however, is completely different from other [enemies](Enemies.md). All things considered, it is quite fragile, at 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 45, he would have about 890 health. Still large, but nowhere too big. Do not be deceived by this amount, though. The Enforcer can parry, and it parries **a lot**. A monster capable of parrying is already scary enough, but he can **feint** too, being the only one of two monsters. Parry trading won't work with it, as it can easily feint and ruin your flow.
 
 ### In General
 

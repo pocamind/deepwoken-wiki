@@ -1,12 +1,97 @@
 ---
 title: Hero Blades
-revid: 20937
+revid: 21334
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weaponry, Weapons]
+categories: [Weapons, Weaponry]
 ---
 
 # Hero Blades
+
+| Hero Blade of Flame | |
+|---|---|
+| type | Elemental Weapon |
+| requirements | 75 FIR, LVL 35 |
+| damage | 20 |
+| scaling | FIR: 6.5 |
+| range | 8 |
+| swing speed | 0.73x |
+| selling price | N/A |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| description | N/A |
+
+| Hero Blade of Frost | |
+|---|---|
+| type | Elemental Weapon |
+| requirements | 75 ICE, LVL 35 |
+| damage | 20 |
+| scaling | 6.5 |
+| range | 8 |
+| swing speed | 0.73x |
+| selling price | N/A |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| description | N/A |
+
+| Hero Blade of Lightning | |
+|---|---|
+| type | Elemental Weapon |
+| requirements | 75 THD, LVL 35 |
+| damage | 20 |
+| scaling | 6.5 |
+| range | 8 |
+| swing speed | 0.73x |
+| selling price | N/A |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| description | N/A |
+
+| Hero Blade of Wind | |
+|---|---|
+| type | Elemental Weapon |
+| requirements | 75 WND, LVL 35 |
+| damage | 20 |
+| scaling | 6.5 |
+| range | 8 |
+| swing speed | 0.73x |
+| selling price | N/A |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| description | N/A |
+
+| Hero Blade of Shadow | |
+|---|---|
+| type | Elemental Weapon |
+| requirements | 75 SHD, LVL 35 |
+| damage | 20 |
+| scaling | 6.5 |
+| range | 8 |
+| swing speed | 0.73x |
+| selling price | N/A |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| description | N/A |
 
 **The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them.
 
@@ -16,52 +101,132 @@ Unlike most weapons, Hero Blades deal Elemental Damage based on their associated
 
 The Hero Blades are obtainable in the Valley of Heroes, as a guaranteed drop (element is random) in the chest spawned by defeating the [Blizzard Knights](https://deepwoken.fandom.com/wiki/Stone_Knights#Blizzard_Knight).
 
-## Elemental blades
+## Hero Blade of Flame
 
-There are 5 different Hero Blades, each one representing a given [Attunement](Attunements.md): (All Require Level 35+)
-
--   Hero's Blade of Flame, requiring 75 Flamecharm to wield
-
-File:Fire blade.png
+The Hero Blade of Flame is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Flame is unique in that its damage scaling is based on the [Flamecharm](Flamecharm.md) attunement stat.
 
   
 
   
 
--   Hero's Blade of Frost, requiring 75 Frostdraw to wield
-    
-    File:Frost Blade.png
-    
-
-  
   
 
--   Hero's Blade of Lightning, requiring 75 Thundercall to wield
-    
-    File:Lightning Blade.png
-    
+  
 
   
 
   
 
--   Hero's Blade of Wind, requiring 75 Galebreath to wield
-    
-    File:Wind Blade.png
-    
+  
 
   
   
   
+  
 
--   Hero's Blade of Shadow, requiring 75 Shadowcast to wield
+## Hero Blade of Frost
 
-File:Shadow Blade.png
+The Hero Blade of Frost is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Frost is unique in that its damage scaling is based on the Frostdrawer attunement stat.
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
   
 
-## Builds
+  
+
+  
+
+  
+
+## Hero Blade of Lightning
+
+The Hero Blade of Lightning is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Lightning is unique in that its damage scaling is based on the [Thundercall](Thundercall.md) attunement stat.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+## Hero Blade of Wind
+
+The Hero Blade of Wind is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Wind is unique in that its damage scaling is based on the [Galebreathe](Galebreathe.md) attunement stat.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+## Hero Blade of Shadow
+
+The Hero Blade of Shadow is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Shadow is unique in that its damage scaling is based on the [Shadowcast](Shadowcast.md) attunement stat.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+## Notes
 
 -   The Hero Blade shines in builds that put a great emphasis in their attunement, going for the cap of 75 or even 100 with Lord Regent's quest usually. This is because, despite them taking the shape of swords, their scaling is based on the user's Attunement level and not their Medium Weapon level.
     -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
