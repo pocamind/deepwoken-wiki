@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21337
+revid: 21409
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -120,9 +120,9 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Assassin
 
--   Finesse \[Common Talent\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
--   Vital Point \[Common Talent\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
--   Lightspeed Reflexes \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+-   Finesse \[Common Talent,Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
+-   Vital Point \[Common Talent,Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
+-   Lightspeed Reflexes \[Rare Talent,Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
 
 ### Athlete
 
@@ -638,9 +638,9 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 
 ### Thief
 
--   Pickpocket \[Generic Talent, Common Talent\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
--   Cap Artist \[Generic Talent, Common Talent\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
--   Master Thief \[Generic Talent, Common Talent\] - Gain more notes when mugging a player. (+2 Ether)
+-   Pickpocket \[Generic Talent, Common Talent,Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
+-   Cap Artist \[Generic Talent, Common Talent,Agility\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
+-   Master Thief \[Generic Talent, Common Talent,Agility\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
 
 ### Thunder Brawler

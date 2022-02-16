@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 20917
+revid: 21398
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Red Megalodaunt at Songseeker Wilds |
-| description | N/A |
+| description | Long red greatsword, with hints of white on specific lining on the blade and grip, along with gold as the hilt and guard. |
 
 ## Description
 
@@ -34,4 +34,5 @@ The First Light is one of the many heavy weapons you can obtain in the game, obt
 ## Note
 
 -   The only greatsword that doesn't have endlag as of now
--   Maybe a reference from Re:Zero. It looks similar to Reinhardt's dragon sword
+-   Maybe a reference from some Anime. It looks similar to Reinhardt's dragon sword
+-   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [darksteel greatsword](Darksteel_Greatsword.md).

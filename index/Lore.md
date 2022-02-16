@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 21347
+revid: 21406
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -96,6 +96,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
 -   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
+-   Sells the best food for the best price.
 
 The one and only... MEAT LORD!
 

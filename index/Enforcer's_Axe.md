@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Axe"
-revid: 20913
+revid: 21390
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons]
 ---
 
 # Enforcer's Axe
@@ -32,4 +32,3 @@ The Enforcer's Axe is a Heavy Weapon that is obtainable by defeating an [Enforce
 ## Notes
 
 -   If you want to grind for the Enforcer's Axe, then you'll need to be Power 50+ since Enforcers are guaranteed after that level range when taking your trial.
--   According to it's description, the Axe is made out of the tortured souls of those who have failed the trial and may very well be alive itself.
