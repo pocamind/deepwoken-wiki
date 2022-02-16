@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 20695
+revid: 21150
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -296,7 +296,7 @@ A Dark Mage, located in Minityrsa.
 
 ### The Central Authority
 
--   **Territory:** _Fort Merit_
+-   **Territory:** _Fort Merit, Central Luminant_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral)_

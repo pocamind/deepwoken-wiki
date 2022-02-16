@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 20972
+revid: 21148
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -24,7 +24,7 @@ Known downside include:
 
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
--   On use, player will take damage.
+-   On use, player will have 30% of their health taken
 
 ## Obtainment
 

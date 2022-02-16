@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 18774
+revid: 21163
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,10 +33,10 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 ## Insanity decreasing effects
 
 -   Not being in [The Depths](The_Depths.md)
--   Sitting a campfire (Improved if sharing the campfire with a [Capra](Capra.md))
+-   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md))
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a potion that regenerates sanity,
 
 ## Notes
 
--   With just sanity increases (blindfold, mental fortress talent deck, 100 willpower and blindseer oath) and no randomly rolled sanity stat on gear and no potions, players can reach 236 sanity, which equals to just below 2 hours (118 minutes) in The Depths before dying.
+-   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 236 sanity, which equals to just below 2 hours (118 minutes) in The Depths before dying.

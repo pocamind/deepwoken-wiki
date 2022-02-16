@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 21065
+revid: 21147
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -28,7 +28,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 
 There are two variants that enchantments come in:
 
--   **Regular** - They have an effect and no downsides (except heroism).
+-   **Regular** - They have an effect and no downsides.
 -   **Curses** - They have a very strong effect but a large downside.
 
 ## List of Enchantments/Curses
@@ -47,15 +47,15 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Everytime you hit your oponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be perfect blocked. The slash will deal the same amount as your main weapons M1 damage. If you do not grip someone within 3 hours, the Umbral Knight will kill you.</p></div></td>
+  <td><div><p>Everytime you hit your opponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be parried. The slash will deal the same amount as your main weapons M1 damage. If you do not grip someone within 3 hours, the Umbral Knight will kill you.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 3x damage and steal blood from your enemies. If you miss an M1, you will be damaged for 2% health.</p></div></td>
+  <td><div><p>M1s deal 2x more damage and steals 20% out of the maximum of 100% of the blood bar from your enemies. If you miss an M1, you will be damaged for a small amount of health.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained and double bloodloss in the etrean luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a></p></div></td>
+  <td><div><p>Gives insanity on hit and fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained and double bloodloss in the Etrean Luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a> The curse also plays a weird sound when equipped.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -187,7 +187,7 @@ Entanglement
 
  | 
 
-Being hit by a humanoid enemy or player has a chance to reduce damage taken by 10% when it activates it slows you by a decent amount, once it activates once it will continue to activate on every attack taken for about 5 attacks.
+On proc, slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
 
   
 
@@ -211,7 +211,8 @@ Multiplicity
 
  | 
 
-Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect. (Apparently, it works against players only, but needs further testing).
+Upon getting hit, your armor has a chance to reduce the damage of an incoming attack or give you food, thirst, and blood while showing your body separating with a green effect.  
+Does not proc against NPCs.
 
   
 
@@ -252,7 +253,8 @@ Bounce
 
  | 
 
-Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block. (THIS DOES WORK ON NPCS IVE TESTED THIS 10 TIMES)
+Has a chance to knock enemies away when they M1 you, making it difficult for them to flourish you. Doesn't knock them back if you parry or block.  
+Does not proc against NPCs
 
   
 
@@ -276,7 +278,12 @@ Drowned
 
  | 
 
-Drowned equipments grant an additional 10 Health, 10 Ether, 20 Reservoir and 10 Sanity on top of the base stats of the equipment.
+Drowned equipments grant, on top of their base stat:  
+10 Health  
+10 Ether  
+20 Reservoir  
+10 Sanity  
+Due to a bug, the stats will not be showned when looking at the equipment throught a campfire, they do apply normally however.
 
   
 

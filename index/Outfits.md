@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 20985
+revid: 21133
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -347,7 +347,7 @@ _Requires Power Level 40_
 |  | Star Boots | Placeholder
 _Requires Power Level 30_
 
- | Depths Chests |
+ | Depths Chests and Primadon Chests |
 | File:Brilliant Boots.png | Brilliant Boots | Grants random stat buffs | Chests |
 | File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants 2 (Random) Buffs | Depths Chests |
 | File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants 2 (Random) Buffs | Depths Chests |

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 21058
+revid: 21158
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -63,7 +63,7 @@ If you cannot find a barrel, there is a lower area leading to that part to the l
 
 If the entrance you're going through does not resemble the one like in the video, _you are going the wrong way_. Circle the outside walls until you hit another entrance which should be the right one. Then follow the video again.
 
-If the gate is closed, log. Most servers already have opened gates.
+If the gate is closed, log and choose another server. Most servers that are over a couple of hours old already have opened gates.
 
 The method **requires no encounters with Watchers.**
 
@@ -75,7 +75,7 @@ The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight aga
 
 Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
-_**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death._
+_**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns._
 
 | Trial Power | Enemies |
 | --- | --- |
@@ -86,17 +86,18 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see 
 | 50+ | [Enforcer](Enforcer.md) |
 
   
+^ just got angel at power 17 + 1 drowned so somebody edit this (dont know tables sad)
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
--   If 2 players enter the Trial, both will fight the same monster, and both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
+-   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.  
         
 
 ## Farming in The Depths
 
-The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain, to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down to The Depths. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
+The Depths, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within The Depths for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down to The Depths. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
 ### **Talents & Equipment**
 
@@ -108,14 +109,14 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 
 -   **_[Blindseer Oath](Oaths.md)_**, this Oath obtainable through high Willpower and obtaining all 5 **Mental Fortress** cards will allow somebody to survive the Depths without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.
 
--   **% Damage Up**, armor with stat modifiers (Ascended, Enlightened, etc.) usually have a form of % damage bonus against certain enemy types such as Giant, Sea, or Deep. Having a high total percent against Depths beasts will be useful.
+-   **% Damage Up**, equipment with stat modifiers usually have a form of % damage bonus against certain enemy types such as Giant, Sea, or Deep. Having a high total percent against Depths beasts will be useful.
 
 ### **Tips and Tricks**
 
 Just some information to keep in mind and remember.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
-    -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allow you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
+    -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grants [Luck](Luck.md) when defeated.
 -   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to consider bringing _**healing potions**_.
@@ -130,12 +131,12 @@ Just some information to keep in mind and remember.
 
 ### Finding Morning
 
--   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (More information needed) ( Theory: I haven’t had the chance to try this but in the Isle of Vigils library there is an NPC who says “hey you never seen a ghost before?”)
+-   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (More information needed) (Theory: I haven’t had the chance to try this but in the Isle of Vigils library there is an NPC who says “hey you never seen a ghost before?”)
 
 ### Joining The Divers
 
 -   Akira, a Black Diver, can be found as an Encounter outside the City of the Drowned. He sits down with a Frostdraw Wisp, reading a book- against a group of Ignition Union goons.
-    -   You can confront Akira after he killed the Ignition Union; proposing 2 dialogue options.
+    -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers.
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (???). Failing this check leads to the same fate as the Ignition Union group.
 
@@ -143,8 +144,10 @@ Just some information to keep in mind and remember.
 
 Deep down in the Depths, you can find a secret room located near the Deep Widow. Here there is man who can teach you illusion magic (Visionshaper Oath) in payment for Void Feathers.
 
+When initially obtaining this oath, the Nestmind, in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
+
 -   Void feathers drop from corrupted Owls in The Depths.
--   Illusion magic **DOES NOT** count as an attunement as it is a Oath, so there is no stat to level.
+-   Illusion magic **DOES NOT** count as an attunement as it is an Oath, so there is no stat to level.
 -   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
 
 ## Monsters in The Depths (incomplete)
@@ -168,12 +171,14 @@ Deep down in the Depths, you can find a secret room located near the Deep Widow.
 
 Many drops are exclusive to the depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. You can basically get everything in the game in the depths. Some things that drop in The Depths are...
 
-**Bolded = Depths exclusive or Mostly Depths drop.** Legendary = Gold
+**Bolded = Depths exclusive or Mostly Depths drop**
+
+Legendary = Gold
 
 <table>
 <tbody>
 <tr>
-  <td><b>Misc/blueprints</b></td>
+  <td><b>Misc/Blueprints</b></td>
   <td><b>Weapons</b></td>
   <td><b>Rings</b></td>
   <td><b>Armor</b></td>
@@ -192,12 +197,12 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
 </tr>
 <tr>
   <td>Grand Pathfinder Cloak</td>
-  <td><b><font>Curved Blade of Winds (Very Rare)</font></b></td>
+  <td><b><font>Curved Blade of Winds</font></b></td>
   <td><b>Freestyler's Band</b></td>
   <td>Enforcer Boots</td>
 </tr>
 <tr>
-  <td><b><font>Deep Gems (Very rare)</font></b></td>
+  <td><b><font>Deep Gems</font></b></td>
   <td>Enforcer Greatsword</td>
   <td>Pariah's Keepsake</td>
   <td><b><font>Providence Coat</font></b></td>
@@ -219,6 +224,12 @@ Many drops are exclusive to the depths. The Depths is the best place in the game
   <td><b>Pale Morning</b></td>
   <td>Ring of Pestilence</td>
   <td><b><font>Star Duster</font></b></td>
+</tr>
+<tr>
+  <td><b>Naevean War Chief</b></td>
+  <td><b><font>Crypt Blade</font></b></td>
+  <td>Isshin's Ring</td>
+  <td>Royal Duelist</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21059
+revid: 21156
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -302,7 +302,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### The Emperor's Blade
 
 -   Emperor Flame \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
--   Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
+-   Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health) Prerequisite: 65 Flamecharm
 -   Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
 
 ### Flame Dancer
@@ -355,7 +355,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
-    -   The increased Ether Cost from Modified Mantras is reduced. (~40-45 Intelligence req)
+    -   The increased Ether Cost from Modified Mantras is reduced. (Like with potion and fish talents you need to modifiy mantras to be able to get this talent)
 
 ### Glassdancer
 
@@ -1028,5 +1028,4 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guarantee legendary talent card
 
-  
-Template:Navbox:Talents
+vandal Template:Navbox:Talents

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 20479
+revid: 21089
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -8,7 +8,7 @@ categories: [Boss, Luck]
 
 # Dread Serpent
 
-_Also referred to as Kaido, Ardour and Sea Serpent._
+_Also referred to as Kaido, Ardour or Sea Serpent._
 
 Template:Creature Infobox V3
 
@@ -24,7 +24,7 @@ able?
  | Danger |
 | --- | --- | --- | --- |
 | Ice Beam | The Dread Serpent opens its mouth and releases a white-frost beam, dealing massive damage to those around it and freezing the water. | ? | (★★★) |
-| Claw Swipe | Dinky little swipe with its short arms. | ◯ | (★☆☆) |
+| Claw Swipe | Swipes two or one time in rapid succession | ◯ | (★☆☆) |
 | Tail Swipe | An attack with the tail. Is often used after two claw swipes. | ◯ | (★★☆) |
 
 #### Finisher

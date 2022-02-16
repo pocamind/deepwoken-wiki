@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 20646
+revid: 21152
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -93,7 +93,7 @@ Main Article - D.R.I.N (Depths Random Interactive NPC's)
 
 #### **Divers vs Monster**
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). ~With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will always lose.~ They always lose I've never seen them win.
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md)), however very rarely
 
 ## Unique Events
 

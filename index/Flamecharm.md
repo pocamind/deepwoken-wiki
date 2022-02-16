@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 20610
+revid: 21162
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -72,7 +72,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
  |
 |  | Ash Slam | Strike the ground, turning it to ash. | Strike twice in front of the user, creating a fiery blast each time.
 
--   Also requires 40 Strength and 75 Flamecharm.
+-   requires 40 Strength
 -   Deal heavy posture damage
 
  |
@@ -215,6 +215,6 @@ Once obtaining Azure Flames, you will see most of the appearance of your Flamech
     -   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing death for one hit.
     -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
     -   Flame Palm, though it may look similar to "Ignis" from Rogue Lineage, is cast more similarly to moves like Combustion from Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from Sekiro, as the spell does NOT multihit, instead being a single large hit that sets on fire.
-    -   Flame blind though it is similar to snap Velo from Rogue Lineage, how it functions like a projectile that blinds is inspired from Valorant character "Pheonix" as his abilities also have a blinding projectile when used.
-    -   Flamecharm is the best for depth’s grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
+    -   Flame Blind, though it is similar to snap Velo from Rogue Lineage, how it functions like a projectile that blinds is inspired from Valorant character "Phoenix" as his abilities also have a blinding projectile when used.
+    -   Flamecharm is the best mantra for Depths grinding, as it has a talent called _Undying Flames_ which makes the users flames work in the Depths. Flamecharm also has an ability, _Flame of Denial_, which resets some sanity upon use.
 -   Flamecharm does not currently (as of 1/28/2022) possess any 3-star Mantra.

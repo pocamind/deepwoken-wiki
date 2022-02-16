@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 21048
+revid: 21155
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -55,7 +55,7 @@ Clutching Shadow
 (☆☆☆)
 
  | A shadowy hand. | Chokes enemies in a radius, and slams them down. It will notify targeted enemies with a red glow, and if they are hit it'll replenish ether equal to the cost. Blockable. |
-| File:Ezgif.com-gif-maker.gif | 
+|  | 
 
 Shadow Chains  
 (★☆☆)
