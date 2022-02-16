@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 20568
+revid: 21360
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,7 +8,7 @@ categories: [Boss]
 
 # Nautilodaunt
 
-_Sometimes referred to as **Squibbo**, Squid Hoss, or Squidward_
+_Sometimes referred to as **Squibbo**, Squid Hoss, or Squidward, and even Squid-Chan_
 
 ## Description
 

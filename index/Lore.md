@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 21150
+revid: 21347
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -312,7 +312,7 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's Thundercallers are footsoldiers; but they are notoriously known for torturing their prisoners with electricity.
     -   The Central Authority's Frostdrawers are commanding officers.
 
-A Peacekeeper Grunt, part of The Authority
+A Peacekeeper Commander, part of The Authority
 
   
 

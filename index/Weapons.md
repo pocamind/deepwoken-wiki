@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 21305
+revid: 21342
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -86,7 +86,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
   <td>10 LHT</td>
-  <td>10</td>
+  <td>4</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>2</td>

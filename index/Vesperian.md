@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 20969
+revid: 21363
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -12,9 +12,9 @@ categories: [Pages with broken file links, Races, Character]
 
 Template:Races-Main
 
-“ Never seen without their masks, Poorly understood, but begrudgingly appreciated due to their natural talents. ”
+“ CUM ”
 
-― Voxhus (probably)
+― Jason (probably)
 
 ## Racial Traits
 
@@ -85,7 +85,9 @@ A layer of protective armor that regenerates at rest.
 
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it.
 -   It's assumed that Vesperians are indeed bugs, but there is a possible relation to the Deep Owl, opening new theories.
--   A Vesperian with Blindseer
+-   Stefan e slab
+    
+    A Vesperian with Blindseer
     
     Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md)

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 21152
+revid: 21358
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -93,13 +93,13 @@ Main Article - D.R.I.N (Depths Random Interactive NPC's)
 
 #### **Divers vs Monster**
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md)), however very rarely
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)), however very rarely
 
 ## Unique Events
 
 ### Aelita
 
-Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is presumed to be a Krulian, the same race as the Ferryman, due to her mysterious abilities and purple eyes.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
+Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a Felinor with the Visionshaper Oath, which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 
 The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Snow Knight](Stone_Knight.md) event.
 
