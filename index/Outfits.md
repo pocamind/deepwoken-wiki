@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 21320
+revid: 21426
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -34,7 +34,7 @@ Armor pieces are additional pieces of equipment the player can equip. They appea
 
 Armor items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
 
-Armors cannot be purchased, and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
+Armors cannot be purchased and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
 
 Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
 
@@ -89,7 +89,7 @@ _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
 ## Armor
 
-Armor Pieces come in different rarities: Ascended, Enlightened or Celestial, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
 
 **Head:**
 

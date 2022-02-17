@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 12337
+revid: 21432
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPC]
@@ -30,6 +30,7 @@ Finisher(s):
 Tips/Notes:
 
 -   The hobo can spawn anywhere in erisia, lower or upper.
+-   The hobo cannot be assasinated, this is likely due to his sitting position
 -   ~The hobo remains neutral if you fail the charisma check or steal from his chest~
     -   This has been patched, you now need to pass the charisma chest to get his loot (good for low level charisma builds, otherwise not worth it)
 -   The hobo seems to be someone who escaped captivity from the golems, and has lost his mind since.

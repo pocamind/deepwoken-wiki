@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 20910
+revid: 21459
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,21 +13,23 @@ categories: [Resonance]
 | effect | Allows a knocked player to get back up with full health, reservoir, ether |
 | appearance | Bell shines gold |
 
+_This bell was removed due to balancing issues and the devs being unable to properly implement it_
+
 ## Description
 
-**Resurrection** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is possibly the rarest to roll.
+**Resurrection** was a [Resonance](Resonance.md) or "bell" that players could obtain.
 
 ### _Appearance_
 
-When used, the user's bell will emit gold particles.
+When used, the user's bell would emit gold particles.
 
 ## Usage
 
-Pressing C will activate the **Resurrection** Resonance.
+Pressing C would activate the **Resurrection** Resonance.
 
-This ability allows the player to get back up with full health and full armor also restoring their ether. People in the same guild as them will also get back up with all of their ether, reservoir, and health. As of now this bell is very rare and only a select few people have this bell
+This ability allowed the player to get back up with full health and full armor also restoring their ether. People in the same guild as them also could get back up with all of their ether, reservoir, and health.
 
-The cooldown of this bell is around 5 minutes not fully checked only rumored.
+Following its removal, users were refunded with a different legendary Resonance.
 
 ## Trivia/Notes
 

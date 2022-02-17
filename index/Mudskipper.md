@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 21413
+revid: 21430
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -33,7 +33,7 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm and Frostdraw.
     -   **Redskipper (Flamecharm)** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
     -   **Blueskipper (Frostdraw)** - Summons 4 ice swords that will spin around it, damaging anyone in range. Wears blue armor.
--   **Mudskipper Knight** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 10 - 19. Their skill and intellect are equivalent of Bandit Captains. They are armed with swords and Assassin Armor.
+-   **Mudskipper Knight** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 10 - 19. Their outfit and weaponry are equivalent of Bandit Captains but have the skill and intellect of Lesser Angels. They are armed with swords and Assassin Armor.
 
 ## Tips
 
@@ -46,3 +46,5 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shuriken's, Fire Palm, Air Blast, or Guns.
 -   Mudskippers have a slight resemblance to the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us.
 -   Since someone asked here's how to use mantras against them: spam
+-   Despite not showing any degree of sapience, they still use dialogue used by most npcs when idle with others
+    -   This is a dialogue bug but has been supposedly patched, despite Mudskippers still engaging in conversations

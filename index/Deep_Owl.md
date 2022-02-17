@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 21024
+revid: 21445
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3 The **Deep Owl** (also referred to as "Owl") is an 
 
 **It is not recommended to fight the Owl alone below level 40, as each attack does massive damage.**
 
-**Deep Owls will only spawn during Nighttime in the Etrean Luminant.** This restriction does not apply to The Depths.
+Deep Owls will only spawn during night in the _Etrean Luminant_.[\[1\]](#cite-note-1) This restriction does not apply to The Depths.
 
 When appearing in _Upper Erisia_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
@@ -82,23 +82,26 @@ When using **Feather Teleport** or **Whirling Dash**, the Owl will likely then a
 
 The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key, similar to blocking multi-hit moves from other enemies.
 
+  
+
+## Lore
+
+-   The main source of lore comes from the Nestmind, the trainer of the _Visionshaper_ Oath.
+-   The Nestmind's dialogue hints at the owl form we see not actually being what the owls are.
+-   Deep Owls may be the source of illusion magic, with the Nestmind's dialogue "use abilities inherent to my kind". As it grants you the _Visionshaper_ oath, this implies they are the source of it.
+-   The Owls nest in the interstice between human minds, further enhancing their connection to illusion magic.
+-   The Owls grant people illusion magic to allow the _Visionshapers_ to "ripen them" for the owls to feast. it is said that the _Visionshapers_ themself will also eventually become a feast.
+-   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue.
+
 ## Notes
 
 -   Feared by lower-level players, but heavily sought out by mid-high level players for its Dark Feather(s) considering they are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
 -   Uncorrupted Deep Owls have around 1.5x the health of a normal thresher.
 -   If you are so unfortunate, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
--   Due to the fact that the Owl has 1.8k health, it is possible to stat check[\[1\]](#cite-note-1) it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies.
+-   Due to the fact that the Owl has 1.8k health, it is possible to stat check[\[2\]](#cite-note-2) it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies.
 -   Corrupted Deep Owls (and rarely normal Owls) have a chance drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md).
 -   Deep Owls spawn regardless of the current [Season](Seasons.md) but _are_ however, affected by the current time in-game. At the time of writing, it is believed that Deep Owls only spawn at night, or at least are significantly rarer during the daytime.
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
 
-## Lore
-
--   The main source of lore comes from the nestmind, the trainer of the visionshaper oath
--   The Nestmind's dialogue hints at the owl form we see not actually being what the owls are
--   Deep Owls are the source of illusion magic, with the Nestmind's dialogue "use abilities inherent to my kind". as it grants you the visionshaper oath, this means they are the source of it.
--   The Owls nest literally in the interstice between human minds, further enhancing their connection to illusion magic
--   The Owls grant people illusion magic to allow the visionshapers "ripen them" for the owls to feast. it is said that the visionshapers themself will also eventually become a feast.
--   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue.
-
-1.  [↑](#cite-ref-1) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.
+1.  [↑](#cite-ref-1) From patch notes on 2/14/2022: [https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png](https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png)
+2.  [↑](#cite-ref-2) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21409
+revid: 21468
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -197,7 +197,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Morale Booster \[Generic Talent, Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
 -   Tough Love \[Generic Talent, Common Talent, Charisma\] - Deal more damage to players charmed by you. (+ 4 Ether)
 -   Familiar Sight \[Generic Talent, Rare Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
--   Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)
+-   Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements: 25 Charisma)
     -   Prerequisite For All: Charm + Charismatic Cast (You'll need it for unlocking all the other cards in the category)
 
 ### Comrade
@@ -296,7 +296,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Exoskeleton \[Legendary talent, 20 Fortitude\] Give the player natural armor similar to that of Chitin, which also can be generated at a campfire.
     -   Grant 15% damage reduction (cannot be bypass by penetration stat), its durability scales with the player power level. Can also stack with Chitin.
--   Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
+-   Potion Quaffer \[Rare talent, Possibly gotten from setting your spawn at [Summer Isle](Summer_Isle.md)\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
 
 ### The Emperor's Blade
@@ -466,6 +466,10 @@ Prerequisite: Willpower 5~
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress.
     -   +50% EXP gain for every attributes and Power.
+
+### **Mr Charm**
+
+-   Charisma Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 
 ### Ministry Operative
 

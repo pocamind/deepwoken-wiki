@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 21158
+revid: 21427
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -25,7 +25,7 @@ _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dott
 
 ## Layers of the Depths
 
-After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released.
+After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
 
 Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
@@ -41,7 +41,7 @@ File:Citymap.png
 
 Rough map of the City of the Drowned
 
-The City of the Drowned is split into 6 sections. 4 of them have a bell, and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimerring sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
+The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
 Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
@@ -75,7 +75,7 @@ The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight aga
 
 Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 
-_**Note:** Your Trial Power is calculated by Power + Times Drowned. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns._
+_**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns._
 
 | Trial Power | Enemies |
 | --- | --- |
@@ -117,13 +117,13 @@ Just some information to keep in mind and remember.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
--   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grants [Luck](Luck.md) when defeated.
+-   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grant [Luck](Luck.md) when defeated.
 -   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to consider bringing _**healing potions**_.
--   Consider bringing _**elemental stones**_. The lack of campfire mean that you will often be low on reservoir.
+-   Consider bringing _**elemental stones**_. The lack of available campfires mean that you will often be low on reservoir.
 
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 bluecaps to make the max level of the potion.
--   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_ which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
+-   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
 
   
 
@@ -131,7 +131,7 @@ Just some information to keep in mind and remember.
 
 ### Finding Morning
 
--   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (More information needed) (Theory: I haven’t had the chance to try this but in the Isle of Vigils library there is an NPC who says “hey you never seen a ghost before?”)
+-   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (More information needed) (Theory: I haven’t had the chance to try this but in the Isle of Vigils library there is an NPC who says, “Hey! You've never seen a ghost before?”)
 
 ### Joining The Divers
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 21414
+revid: 21453
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -30,7 +30,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
 | **Trample**[\[1\]](#cite-note-1) | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch, he only uses it if you at a chest length of his body or flying on a glider. | ◯ | (★☆☆) |
-| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
+| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★★) |
 | **Grab** | Primadon crouches down, winds up its **right** arm and grabs you. | ◯ | (★★☆) |
 
 _Lefts and rights for these attacks are based on Primadon's point of view._
@@ -75,7 +75,6 @@ The boss arena, showing the ocean from which Primadon spawns.
 -   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
 -   An easy way to cheese the fight is by placing an Undying Flames [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
 -   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
--   Block, Parry, Dodge is a good way to beat Primadon
 
 File:Prima.png
 
@@ -95,7 +94,6 @@ Primadon's full model.
 -   In the game files, it is called "Monky."
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since whatever attack you parry is reflected back.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 60 times more health.
--   `T̶h̶e̶ ̶E̶x̶o̶s̶k̶e̶l̶e̶t̶o̶n̶ ̶l̶e̶g̶e̶n̶d̶a̶r̶y̶ ̶t̶a̶l̶e̶n̶t̶ ̶c̶a̶n̶ ̶m̶a̶k̶e̶ ̶t̶h̶i̶s̶ ̶f̶i̶g̶h̶t̶ ̶e̶a̶s̶i̶e̶r̶ ̶i̶f̶ ̶y̶o̶u̶ ̶h̶a̶v̶e̶ ̶a̶ ̶l̶o̶w̶ ̶h̶e̶a̶l̶t̶h̶ ̶p̶o̶o̶l̶,̶ ̶h̶o̶w̶e̶v̶e̶r̶ ̶k̶e̶e̶p̶ ̶i̶n̶ ̶m̶i̶n̶d̶ ̶t̶h̶e̶r̶e̶ ̶h̶a̶v̶e̶ ̶b̶e̶e̶n̶ ̶i̶n̶s̶t̶a̶n̶c̶e̶s̶ ̶o̶f̶ ̶P̶r̶i̶m̶a̶d̶o̶n̶ ̶i̶n̶s̶t̶a̶n̶t̶l̶y̶ ̶e̶x̶e̶c̶u̶t̶i̶n̶g̶ ̶E̶x̶o̶s̶k̶e̶l̶e̶t̶o̶n̶ ̶p̶l̶a̶y̶e̶r̶s̶ ̶a̶t̶ ̶3̶0̶%̶ ̶h̶e̶a̶l̶t̶h̶.̶ Exoskeleton no longer does this.`
 
 1.  [↑](#cite-ref-1) Used to be called "Triple Stomp".
 2.  [↑](#cite-ref-2) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage

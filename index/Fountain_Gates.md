@@ -1,20 +1,28 @@
 ---
 title: Fountain Gates
-revid: 12134
+revid: 21466
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Fountain Gates
 
-Around the map there are fountains that allow you to teleport through them when interacted with. To gain access to this teleport feature you must dip your face in the Light Keeper fountain located on Aratel Island. You must also have an [Oath](Oaths.md).
+Around the map there are fountains that allow you to teleport through them when interacted with. To gain access to this teleport feature you must wash your face in the Light Keeper fountain located on Aratel Island. You must also have an [Oath](Oaths.md).
 
 ## Locations
 
-Erisia Fountain: [Hidden Village](The_Hidden_Village.md)
+[Hidden Village](The_Hidden_Village.md): [Greathive Aratel](Greathive_Aratel.md)
 
 Fountain located in Hidden Village (Erisia)
 
-Etris Fountain: [Lord Regent's Garden](The_Lord_Regent.md)
+[Lord Regent's Garden](The_Lord_Regent.md): [Greathive Aratel](Greathive_Aratel.md)
+
+[Greathive Aratel](Greathive_Aratel.md): [Summer Isles](Summer_Isle.md)
+
+[Greathive Aratel](Greathive_Aratel.md): [The Lordsgrove](The_Lordsgrove.md)/[Starswept Valley](The_Starswept_Valley.md)
 
 Fountain located in Lord Regent's Garden (Etris)
+
+[Greathive Aratel](Greathive_Aratel.md): [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)/[Upper Erisia](Upper_Erisia.md)
+
+[Greathive Aratel](Greathive_Aratel.md): Greathive Docks

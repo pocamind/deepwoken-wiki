@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 21344
+revid: 21420
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -38,3 +38,4 @@ The Apprentice rapier is a unique light weapon due to being the only rapier in t
 -   When using this weapon your right hand is hidden, so you can equip a [Flintlock](Guns.md) or any other gun for an unsuspecting foe.
 -   It appears this weapon _might_ be season-locked and won't spawn in Winter or Spring, this needs further proving. ( Hours of farming = 0 Rapiers found in Winter/Spring, found 2 in Summer/Autumn )
 -   This was accidentally added to the game and obtainable in the depths before it was released for a short time, but they deleted it from everyone before it's actual release.
+-   Despite it's weak damage when paired with [Knives Journey](Talents.md) talent it could pack a punch.

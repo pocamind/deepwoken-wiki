@@ -1,0 +1,130 @@
+---
+title: Terminology (game)
+revid: 21471
+source: https://deepwoken.fandom.com/wiki/Terminology_(game)
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+---
+
+# Terminology (game)
+
+The following article contains a glossary for general game terms related to _Deepwoken_.
+
+## General Terms
+
+### Corrupted (Cursed)
+
+_adjective_
+
+1.  attribute; Possessing greater health and attack power than normal.
+    1.  Ex. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
+
+Exclusive to [monsters](Monsters.md).
+
+  
+
+## Combat Terms
+
+### Active Frames
+
+_noun_
+
+1.  The animation frames of an attack where the player is damaged if contact is made during them.
+
+This term originated from 2D fighting games such as [_Street Fighter_](https://en.wikipedia.org/wiki/Street_Fighter) and adopted to _Deepwoken_ from _[Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls)_ and _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
+
+### Chip Damage
+
+_noun_
+
+1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md).
+
+### Execute
+
+_verb_
+
+1.  To kill a player, [enemy](Enemies.md) or [monster](Monsters.md) by means other than a Finisher.
+
+### Grip
+
+_verb_
+
+1.  To kill a player or humanoid [enemy](Enemies.md) using a Finisher.
+
+### Knock
+
+_verb_
+
+1.  To reduce a player or humanoid [enemy](Enemies.md)'s health to 0%, ragdolling them. When a player is **knocked**, they can be gripped or executed.
+
+### Pdodge
+
+_verb_
+
+1.  (Perfect Dodge) To roll during the active frames of an attack, preventing damage.
+
+### Stat-check
+
+_verb_
+
+1.  To overpower with [attributes](Attributes.md) (stats) as opposed to skill.
+    1.  Ex. "Due to the fact that the Owl has 1.8k health, it is possible to **stat check** it if you are at a high enough [Power](Power.md) due to PvE scaling,"[(source)](Deep_Owl.md#notes)
+
+### Wipe
+
+_verb_
+
+1.  To get gripped/executed in The Depths; erasing the current character slot.
+
+## Acryonyms
+
+### HVY
+
+_noun_
+
+1.  Heavy weapons [attribute](Attributes.md#heavy-weapons) (skill).
+    1.  Ex. The Enforcer's Axe requires 75 HVY to wield.
+
+### LHT
+
+_noun_
+
+1.  Light weapon [attribute](Attributes.md#light-weapons) (skill).
+    1.  Ex. The Krulian Knife requires 60 LHT to wield.
+
+### MED
+
+_noun_
+
+1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
+    1.  Ex. The Shattered Katana requires 100 MED to wield.
+
+### PEN
+
+_noun_
+
+1.  Armor penetration.
+    1.  Ex. The Curved Blade of Wind has 35% PEN, meaning it penetrates 35% of a player's armour value.
+
+## For Editors
+
+Know any terms that aren't listed here? You are invited to add them!
+
+Below is the example format for adding new terms to this page. When adding to this page, please make sure you are adding the term in the right place alphabetically to make it easier for readers to find the term they are looking for. Mark terms that are obscure with (Obscure) after the underlined term. If a term is deemed too obscure or irrelevant to the wiki, it will be removed. Do not add terms that are relevant to gaming as a whole (e.g. level, gg, 1v1) unless they have a different context in _Deepwoken_.
+
+### Example
+
+_verb, noun_
+
+1.  Definition.
+    1.  Ex. Example.
+2.  Secondary Definition.
+
+Extra information about term.  
+
+## Blacklisted Terms
+
+1.  **NPC**

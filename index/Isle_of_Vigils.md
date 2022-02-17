@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 20942
+revid: 21431
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -32,7 +32,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Camp
 
--   Players can find Friid, a spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
+-   Players can find Friid, a Celtor spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
 -   Players can find a permanent campfire here.
 
 #### Inn
@@ -71,12 +71,6 @@ Events that spawn in Isle of Vigils that involve combat. For more info, see [Ran
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
 -   Acts similar to Korin in Etris; 10 Wood for, plus Etrea [reputation](Reputation.md).
 -   This quest is repeatable.
-
-### Weapons Manual Quest
-
--   Talk to an npc in the training area
--   He will ask for a weapons manual so he may show up a rival
--   he will thank you and i will return the book immediately and will reward you with (placeholder)
 
 ## Notes/Trivia
 

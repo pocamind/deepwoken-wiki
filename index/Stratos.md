@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 21078
+revid: 21460
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,7 +28,7 @@ During the Lost Sibling Quest, Isaac will mention "The Stream". From Dialogue fr
 
 **Possible Things to try:**
 
-Get 75 - 100 Gale Breath > Get good Reputation with the Vigils > Accept the Stratos Quest > Do the Isaac's Sibling quest > Do the Weapon Manual Quest > Do the Librarian Book Quest > Go uncap your Agility at the Windrunner > Go to all Sky Statues > Try talking to Stratos again.
+The NPC was bugged all along so you couldn't even get anything from him! :-)
 
 **do not pick an oath.**
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 21406
+revid: 21429
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -417,14 +417,14 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 ### Galebreathe
 
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
--   Galebreathe was created during the Cantaclysm; an event that lead to the destruction of the Old World.
+-   Galebreathe was created during the Canticlysm; an event that lead to the destruction of the Old World.
 
   
 
 ### Shadowcast
 
 -   The power to harness the darkness within. The Ministry are known to use this Attunement.
--   Shadowcast was presumably created later during the Cantaclysm; when the Tides came.
+-   Shadowcast was presumably created later during the Canticlysm; when the Tides came.
 
   
 
@@ -495,16 +495,16 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
 -   The Song is assumed to be the formula of all things; such as Mantras, Ritual Casting and other things.
 
-### The Cantaclysm
+### The Canticlysm
 
 **Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming)_
 
 -   An event that occured when the Old World has abused both the Song and its Attunements.
-    -   It is presumed that the City of Celtor was the cause of the Cantaclysm; as it was a hub of corruption and greed.
--   Cantaclysm, on its own terms, is a Catastrophe relevant to music.
--   It is unknown what the Cantaclysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
-    -   It is theoretically assumed that the Cantaclysm lead to the rising of Tides; drowning the City of Celtor.
--   The Cantaclysm lead to the destruction to the people of the Old World; and the creation of Galebreathe.
+    -   It is presumed that the City of Celtor was the cause of the Canticlysm; as it was a hub of corruption and greed.
+-   Canticlysm, on its own terms, is a Catastrophe relevant to music.
+-   It is unknown what the Canticlysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
+    -   It is theoretically assumed that the Canticlysm lead to the rising of Tides; drowning the City of Celtor.
+-   The Canticlysm lead to the destruction to the people of the Old World; and the creation of Galebreathe.
 
 ### The Tides
 
@@ -702,5 +702,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
 -   Mudskippers _used_ _to_ talk to each other, but it was declared that it was a Dialogue bug.
+    -   Still can I saw some talking
 
 Talking Mudskippers
