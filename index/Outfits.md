@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 21555
+revid: 21571
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -258,12 +258,12 @@ Songseeker Chests
 Duke chests
 
  |
-| File:Pale Assassins Cloak.png | Pale Assassins Cloak | 2-4 Stats | [Starswept Valley](The_Starswept_Valley.md)
+| File:Pale.jpg | Pale Assassin's Cloak | 2-4 Stats | [Starswept Valley](The_Starswept_Valley.md)
 
 Depths chests
 
  |
-| File:Mist Assassin Cloak.png | Mist Assassian Cloak | TBA | TBA |
+| File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Currently Unobtainable |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants 2 (Random) Buffs | Depths and Hive Chests |
 
   

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 21358
+revid: 21576
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -97,7 +97,7 @@ One, two or three divers taking on a monster in [The Depths](The_Depths.md). Wit
 
 ## Unique Events
 
-### Aelita
+### Best waifu
 
 Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a Felinor with the Visionshaper Oath, which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 

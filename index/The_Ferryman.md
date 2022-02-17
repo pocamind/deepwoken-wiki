@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 20727
+revid: 21577
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -114,7 +114,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     -   This would be how you obtain the Rythm Murmur (confirmed), however it is disabled at the moment due to possible balancing and/or not being complete. If you talk to him whilst having a Murmur he mentions that you already have another gift and dissapears. While talking to him without a murmur rewards you with the above dialogue. There is a chance its disabled because Rythm murmur is planned to be obtained another way, and that this text hints towards something **else.**
     -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)
 -   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
-    -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once)
+    -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once in Summer or Spring)
 
 ## Trivia/Notes
 

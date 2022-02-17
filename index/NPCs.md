@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 21532
+revid: 21566
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -65,7 +65,7 @@ An organization that preserves whats left before the tides came. Historians that
 
 -   Affiliations - Vigils, Etris
 -   Hostile against - Bandits, Negative rep player
--   Appearance - White Armor set - Cloak of winds armor with Glassdancer's wraps (can be any race)
+-   Appearance - White Armor set - Cloak of Winds armor with Vigil Hoods (can be any race)
 -   Equipment - Katanas, Galebreathe Spells
 -   Player Reputable? - Possibly (Currently align with Etrea)
 
