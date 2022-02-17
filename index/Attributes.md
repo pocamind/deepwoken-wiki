@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 21014
+revid: 21541
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -52,7 +52,7 @@ Template:“Jesus Christ!”
 Template:“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Potions
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
-    -   Adds 1.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 150 HP. (its not 0.5, i have tested it myself)
+    -   Adds 1.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 150 HP. (It's not 0.5, I have tested it myself)
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.
@@ -88,8 +88,8 @@ Template:GIVE US EYES! GIVE US EYES! GIVE US EYES ON THE INSIDE!!!! - A “Enlig
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Affects your Attunement's Damage slightly per Willpower.
--   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs die (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
--   Willpower allows access to Blindseer if you decide to take the steps necessary.
+-   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
+-   Willpower allows access to the Blindseer Oath if you decide to take the steps necessary.
 -   Uncapped by talking to Akira then going to Castle Light to talk to him again.
 
 ### Charisma
@@ -99,7 +99,7 @@ Template:I know how to get stronger…it’s called a Vow of Mastery. Wanna Make
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
--   Increases Ether by about 2 every point.
+-   Increases Ether by 1.5 every point.
 -   NPCs will positively respond to your Dialogues from "How To Make Friends" at Charisma level 33
 -   Uncapped by completing the Karliah Quest and telling her to go back home.
 

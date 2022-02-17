@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 21149
+revid: 21556
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -20,7 +20,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | Not known/proven as of now. |
+| oath_req | 20 Charisma |
 | effects | +1 Support Mantra, +2 Combat Mantra, +10 Ether |
 
 _icon credit to Tortaa#9000_
@@ -80,7 +80,7 @@ This Oath also grants the players full vision and increased brightness while wea
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-**Oath: Visionshaper** is an Oath that has requires one to six Void Feathers, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 2/9/2022 to unlock new abilities.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 2/9/2022 to unlock new abilities.
 
 ### **Obtaining**
 
@@ -122,7 +122,7 @@ The oath change the eye color of the user to purple and make a purple particle e
 
 ### Notes
 
--   No known/PROVEN requirements as of now, therefore in theory you could obtain this at level 1. Provide actual proof of needing requirements for this please.
+-   The willpower talent, [disbelief](Talents.md) only seems to affect illusionary servants, in which the talent reduces the duration of servants almost to nothing. Otherwise all other visionshaper moves are unaffected by the [disbelief](Talents.md) talent.
 
 ## Trivia/Notes
 

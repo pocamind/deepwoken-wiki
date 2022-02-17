@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 19543
+revid: 21511
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -25,3 +25,5 @@ Etrean Guardsmen are found all around Etrea in different locations.
 ### Tips
 
 -   Just don't get bad reputation or do any of thr actions considered by the guards to be "disrespectful".
+-   More hp and damage than say a power 10 in terms of m1s
+-   Does not feint

@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 20040
+revid: 21505
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Jar of Souls** is a [Resonance](Resonance.md) or "bell" (soo trash wipe if you get it) that players can obtain, and is common to roll.
+**Jar of Souls** is a [Resonance](Resonance.md) or "bell" (soo trash wipe if you get it) (dont wipe if u get this lol it a waste of an account if u do) that players can obtain, and is common to roll.
 
 ### _Appearance_
 

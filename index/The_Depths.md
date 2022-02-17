@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 21427
+revid: 21500
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -41,7 +41,7 @@ File:Citymap.png
 
 Rough map of the City of the Drowned
 
-The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
+(Not to be confused with [Resonances](Resonance.md)) The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
 Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
@@ -80,13 +80,13 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 | Trial Power | Enemies |
 | --- | --- |
 | 1-15 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 16-19 | Mudskipper Knight |
+| 16-19 | [Mudskipper Knight](Mudskipper.md) |
 | 20-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
 
   
-^ just got angel at power 17 + 1 drowned so somebody edit this (dont know tables sad)
+^ just got angel at power 17 + 1 drowned so somebody edit this (dont know tables sad) also how much u escaped not drowned
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.

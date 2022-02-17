@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 21471
+revid: 21492
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -19,10 +19,10 @@ The following article contains a glossary for general game terms related to _Dee
 
 _adjective_
 
-1.  attribute; Possessing greater health and attack power than normal.
-    1.  Ex. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
+1.  attribute; Possessing greater health and attack power than normal. Highlighted by the dark purple smoke/aura
+    1.  E.g. "I got gripped by a **corrupted** [sharko](Megalodaunt.md)"
 
-Exclusive to [monsters](Monsters.md).
+Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
 
   
 
@@ -40,7 +40,7 @@ This term originated from 2D fighting games such as [_Street Fighter_](https://e
 
 _noun_
 
-1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md).
+1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md). Chip Damage will not occur if the attack is parried. E.g. 75% chip damage means that 75% of the supposed damage value if it is met by a block.
 
 ### Execute
 
@@ -64,7 +64,14 @@ _verb_
 
 _verb_
 
-1.  (Perfect Dodge) To roll during the active frames of an attack, preventing damage.
+1.  (Perfect Dodge) To roll during the active frames of an attack, preventing damage.  
+    
+
+### Spot Dodge
+
+_verb_
+
+1.  To roll the active frames of an attack and immediately cancel your roll afterwards, which allows you to counter and stay in the same position.
 
 ### Stat-check
 
@@ -107,7 +114,7 @@ _noun_
 _noun_
 
 1.  Armor penetration.
-    1.  Ex. The Curved Blade of Wind has 35% PEN, meaning it penetrates 35% of a player's armour value.
+    1.  Ex. The Curved Blade of Wind has 35% PEN, meaning it penetrates 35% of a player's armor value.
 
 ## For Editors
 
@@ -128,3 +135,4 @@ Extra information about term.
 ## Blacklisted Terms
 
 1.  **NPC**
+2.  **Monorail**

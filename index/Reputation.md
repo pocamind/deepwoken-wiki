@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 19491
+revid: 21545
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -18,7 +18,7 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 ### Mechanics
 
-Reputation in Deepwoken is influenced by certain events and quests found throughout the world. There are various ways players can either **gain** or **lose** reputation within the territories of Etrean and [Aratel](The_Aratel_Sea.md) Seas
+Reputation in Deepwoken is influenced by certain events and quests found throughout the world. There are various ways players can either **gain** or **lose** reputation within the territories of Etrean and [Aratel](The_Aratel_Sea.md) Seas.
 
 ### Determining Reputation
 
@@ -26,7 +26,7 @@ Players can determine their reputation within a territory in many ways:
 
 #### _Positive Reputation_
 
-Players with positive reputation from factions **will not** be attacked by NPCs from that faction
+Players with positive reputation from factions **will not** be attacked by NPCs from that faction.
 
 Certain questlines will be unlocked with positive reputation.
 
@@ -34,7 +34,7 @@ Certain questlines will be unlocked with positive reputation.
 
 Players can talk to the NPC guards posted within villages and islands. Depending on your current reputation, guards will respond with [dialogue](Dialogue.md) that is established with that level of reputation. Guards will speak in a more friendly manner the higher your reputation is.
 
-Tip: [Officers Note](Cut_Content.md) can be used to increase reputation in Etrea
+Tip: [Officers Note](Cut_Content.md) can be used to increase reputation in Etrea.
 
 Finally, at max positive reputation guards will fully acknowledge you. They will sometimes wave and even say your first name upon greeting you.
 

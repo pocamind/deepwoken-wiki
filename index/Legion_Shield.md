@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 20933
+revid: 21481
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Khan Shield | |
 |---|---|
 | type | Shield |
-| requirements | 65 Fortitude |
+| requirements | 60 Fortitude |
 | damage | N/A |
 | scaling | N/A |
 | range | N/A |
@@ -31,8 +31,8 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Khan Shield can be obtained by obtaining it from Chests, and requires 65 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md), [Kite Shield](Kite_Shield.md), and the [Worshipper's Shield](<Worshipper's_Shield.md>).
+The Khan Shield can be obtained from Chests, and requires 60 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md), [Kite Shield](Kite_Shield.md), and the [Worshipper's Shield](<Worshipper's_Shield.md>).
 
 ## Notes
 
--   Currently the best shield ingame.
+-   Currently the best shield in the game.

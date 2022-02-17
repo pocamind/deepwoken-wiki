@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 21446
+revid: 21543
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -97,7 +97,6 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   Before doing the "The Librarian" Quest, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.
 -   Depending on your Power Level, the cost of Notes required increases when choosing to level up through Kelsius. For each Power level after Power 1, increases the cost of leveling up by 50 Notes. (1,000 Notes at Power Level 20 and 1,350 Notes at Power Level 27)
--   ~Giving the Sibling in the "Lost Sibling" Quest your Gale Stones consumes all of them. Make sure to drop them first.~ They already fixed this problem
 -   Lance's Brother will say that his own mother doesn't know his name and if you talk to Lance on Etris he will, confused, say he doesn't have a brother.
 -   If you drop the food crate while running, You will get stuck in the box until you pick it back up.
     -   If you do this after jumping off of a short ledge (ex. the table that Lance's brother stands behind) before doing this, you can fly.

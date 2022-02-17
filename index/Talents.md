@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21468
+revid: 21544
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -183,7 +183,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   Prerequisite: 30(?) Intelligence
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
--   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+-   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element. (Rumor has it that when you get hit by an element from a player, that SAME player would have to use another element on you in order to do increased, hence the "Everchanging".)
 
 ### Charismatic Cast
 
@@ -531,6 +531,10 @@ Prerequisite: Willpower 5~
     -   Prerequisite: Strong Left (Strength Mantra)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
+
+### Rampant Static
+
+-   Jolting Current \[Generic Talent, Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity, +3 Health)
 
 ### Saint of Blades
 
@@ -1033,4 +1037,4 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   At Power 60, you will get a guarantee legendary talent card
 
   
-Template:Navbox:Talents
+Template:Navbox:Talents dwdjqw3djkqbdkhqbekhqbehk2bekhqbekhqbehbekhwBHKWDWDDDWADWDQWDW

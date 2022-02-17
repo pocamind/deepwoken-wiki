@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 20462
+revid: 21548
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items]
@@ -26,6 +26,10 @@ categories: [Weapons, Items]
 | pass down | Yes |
 | obtainment | Starswept Valley |
 | description | N/A |
+
+## Description
+
+A mid-game weapon dropped from mobs at the [Starswept Valley](The_Starswept_Valley.md). The Champion's Sword is almost a direct downgrade from the [Vigil Longsword](Vigil_Longsword.md)  
 
 ## Notes
 

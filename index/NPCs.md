@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 21055
+revid: 21532
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,18 +12,13 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 ## Description
 
-(Placeholder)  
+Npcs are very useful help in the game. However if you attack the guards THEY WILL ATTACK YOU AND FINSH YOU OFF, But if you attack an random player near an guard or the Etrea, Ises then make sure to watch out since people can have alot of charisma and attacking them with that will mean the end of you.
 
-## Factions
+There are some other Npcs such has merchants they will provide you things as long has you have the notes
 
-### The Legion
+There are some npcs you can find that can Upgrade or give you training for you abilltys  
 
--   Affiliations - Unknown
--   Locations - Lower Erisia, Viper jaws, Aratel
--   Hostile against - The Authority, Monsters, Bandits, The Legion, Players (Negative Reputation), Etris
--   Appearance - Roman-like Armor, Golden Helmets, Khans
--   Equipment - Swords, Spears, Fists, Thundercall Spells, Galebreath Spells, Strength Mantras
--   Player Reputable? - Yes, inflicts with The Authority
+  
 
 #### Lore
 
