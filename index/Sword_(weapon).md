@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 20877
+revid: 21602
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,7 +12,7 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Sword [MED] |
 | requirements | none |
-| damage | 10 |
+| damage | 18 |
 | scaling | 2 MHT |
 | range | 8 |
 | swing speed | 0.75x |
@@ -22,7 +22,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Main Menu Selection Etris store |
+| obtainment | Main Menu Selection |
 | description | “A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains" |
 
 ## Overview

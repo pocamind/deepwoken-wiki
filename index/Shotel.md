@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 21550
+revid: 21603
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -13,7 +13,7 @@ categories: [Weapons, Weaponry]
 | type | Medium Sword |
 | requirements | 45 MED |
 | damage | 22 |
-| scaling | 0 |
+| scaling | 6 |
 | range | 8 |
 | swing speed | 0.73x |
 | penetration | 5% |
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ??? |
+| obtainment | Songseeker IslesMinityrsa |
 | description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
 
 ## Description

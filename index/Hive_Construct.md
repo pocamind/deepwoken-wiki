@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 21338
+revid: 21581
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -76,12 +76,13 @@ Killing the golem will reward in a ton of xp (3-4 of them can level up a skill o
 ## Tips/Trivia
 
 -   _**r u n**_
+-   Technically the hardest and most powerful enemy in the entire game when fought normally.
 -   Hive Constructs at Starswept Valley wont aggro you if your rep with Greathive Aratel is positive. Accordingly, they will aggro on you if you have negative rep.
 -   Find a ledge nearby thats a bit taller than it, and you can cheese it that way. There are two of these ledges at Starswept Valley (images), one at Minityrsa (image), and none known at Buster Valley.
 -   Can absolutely destroy you even at level 60 if youre solo and inexperienced
 -   Not worth fighting. Even if you try, this Golem will obscure your vision with trees all the time.
 -   They talk if the ice mage that spawns with it at Starswept Valley is defeated, showing that they believe that the Authority is just a group of "fools".
--   ~[Snow Knights](Stone_Knight.md) can be lured next to them at Minityrsa, causing them to fight each other.~ (Recent Update Changed this, They will not Fight each other anymore, Found this out the hard way.)
+-   The Rogue Mech in Minityrsa will not aggro the Snow Knights, the opposite is also true.
 -   Be careful if fighting alongside these things, if you get downed they will not care if you're friend or foe, it will most definetly kill you.
     
     A hive golem talking.

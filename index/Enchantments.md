@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 21498
+revid: 21596
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -51,7 +51,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 2x more damage and steals 20% out of the maximum of 100% of the blood bar from your enemies. If you miss an M1, you will be damaged for a small amount of health.</p></div></td>
+  <td><div><p>M1s deal 1.1x more damage and steals blood from your enemies. If you miss an M1, you will be damaged by 2%.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -96,7 +96,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
-  <td><div><p>Increases M1 stun, visualized by a purple lightning after-shock. In the rain, every M1 connection will summon a bolt of lighting on the opponent, increasing damage by 50% (The +50% Damage only applies when its raining)</p>
+  <td><div><p>M1 connections have a stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
 </tr>

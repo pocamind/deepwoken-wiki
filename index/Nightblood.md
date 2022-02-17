@@ -1,6 +1,6 @@
 ---
 title: Nightblood
-revid: 18597
+revid: 21590
 source: https://deepwoken.fandom.com/wiki/Nightblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,7 +32,7 @@ making it easy to find. From there you will also have to watch out for Watchers,
 
 The best tip for this is to hug the wall (the one opposite of the elevator) untill you find the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. (See picture)
 
-After finding her, simply give her the 5 [Umbral Obsidian](Umbral_Obsidian.md), receive the Nightblood flask, drink it, and there you have it.
+After finding them, simply give them the 5 [Umbral Obsidian](Umbral_Obsidian.md), receive the Nightblood flask, drink it, and there you have it.
 
 Shadowtrainer
 

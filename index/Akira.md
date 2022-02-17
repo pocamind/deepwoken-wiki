@@ -1,11 +1,16 @@
 ---
 title: Akira
-revid: 21567
+revid: 21591
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Akira
+
+| Akira | |
+|---|---|
+| name | Akira |
+| location | Castle Light, Celtor Wastes (Random Event) |
 
 > _"Still alive, are you? Not bad." -Akira, after talking to him at Castle Light._
 
@@ -21,11 +26,83 @@ This event takes place at the decrepit research castle, upon triggering the even
 
 After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if your another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join the Divers if you make it to Castle Light.
 
-**I am still figuring out what the Charisma option does via making a 80+ Charisma build, I've heard a rumor that it gives you a quest to kill Enchanted Monsters or Ignition Union members to gain the ability to instantly kill people at low HP. None of this is confirmed yet and I intend to find out via sacrificing a high level save. Until then DO NOT SELECT IT, it may have other requirements then just Charisma and if you fail it kills you. Hey someone different here typing. I tested this with 102 charisma and Akira dissipated into lightning, I was on my way to castle light when I died so I couldn't see his dialogue option there very sorry.**
+**Dialogue**
+
+> Akira: Another one..? You've got to be kidding me.
+
+> 1\. Wait, I'm not with them.
+
+> Akira: _\*The menacing-looking man scans you up and down skeptically for a moment, \*_Well, either way it seems you know your place.
+
+> 1\. What are you doing down here?
+
+> Akira: A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.
+
+> 1\. Research platoon?
+
+> Akira: Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here.
+
+> 1\. I just thought the Divers didn't kill people as you did.
+
+> Akira: Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.
+
+> 1\. Who are you?
+
+> Akira: If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank _Black Diver_, in charge of research site pre-clearing and new recruit field training.
+
+> 1\. I want to join the Divers.
+
+> Akira: As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.
+
+> Akira: As I said, I'm really quite busy with reading right now.
+
+> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[(100) Charisma\]
+
+> Akira: _\*The man blinks twice, apparently stunned-_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.)
+
+**Castle Light**
+
+> Akira: Do you have some sort of reason for being here? This is territory of the Divers.
+
+> 1\. We met before, I want to join the Divers.
+
+> Akira: Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.
+
+> 1\. To my grave?
+
+> Akira: That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.
+
+> 1\. Only one or two?
+
+> Akira: Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.
+
+> 1\. I want to join.
+
+> Akira: Don't say I didn't warn you. (Prompt to join the Divers appears.)
+
+> 2\. Sounds fun.
+
+> Akira: _\*Akira blinks twice apparently stunned before smirking whilst replying,\*_ That may be the spirit needed to join the 2%. (Prompt to join the Divers appears.)
+
+> Akira: Hanging around here isn't going to make any progress for us. Get out there and get to work.
+
+> 1\. What exactly should I be doing?
+
+> Akira: You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.
+
+> 1\. Then why are you waiting here?
+
+> Akira: _\*You feel murderous intent wash over you as the man glares in your direction,\*_ Come again? I didn't quite hear you.
+
+> 1\. Nothing.
+
+> Akira: As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.
 
 ## Joining the Divers
 
 Once you reach Castle Light, you're only able to pass the barrier and go inside if you have entered the Depths via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join the Divers. The Divers does not currently come with any buffs, and it removes your house name. However, we know about some planned features; such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
+
+There is no level requirement to joining the Divers, I was able to do it at level 1.
 
 ## Akira Info
 

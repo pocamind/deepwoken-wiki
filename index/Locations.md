@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 20569
+revid: 21612
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -113,6 +113,19 @@ A list of locations that can be found in The Depths experience.
 A list of locations that can be found in the Dungeon experience.
 
 -   [Trial of One](Trial_of_One.md)
+
+## Mission
+
+A list of locations (maps) that can be found when entering the PVP Arena.
+
+1v1:
+
+-   Echoes of Bloodshed
+
+3v3:
+
+-   The Unearthed Colloseum
+-   \-
 
 ## Trivia/Notes
 

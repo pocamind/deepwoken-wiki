@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 21465
+revid: 21579
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Portal** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll. (why lu nerf i so sad)
+**Portal** is a [Resonance](Resonance.md) that players can obtain, and is uncommon to roll.
 
 ### _Appearance_
 
@@ -25,7 +25,7 @@ Once used, the user summons a white portal in front of them and becomes nearly c
 
 Pressing C will activate the **Portal** Resonance.
 
-**Portal** grants the user invisibility, increased walk and swim speed and invincibility for 5.5 seconds until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
+**Portal** grants the user invisibility, increased walk and swim speed and invincibility for 8.5 seconds until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
 
 ### _Variants_
 
