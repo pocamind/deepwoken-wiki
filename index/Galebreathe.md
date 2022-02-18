@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 21713
+revid: 21791
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -18,9 +18,13 @@ Galebreath also has Talents attributed to it as well, allowing the user to fully
 
 ## Training
 
-Galebreathe can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
+@nickthestick is ass at deepwoken tbh ngl hes also a nigEEEr
 
-Like all other attunements, users can see their Mantras become stronger with training:
+  
+
+Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
+
+Like all other elements, users can see their Mantras become stronger with training:
 
 -   At Power 2, players receive the _Galebreather_ Talent.
 -   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
@@ -33,17 +37,17 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Wind Blade | shoots out a green sticky substance. | Launches a wind projectile to cursor's position.
+|  | Wind Blade | Shoots out a blade of wind | Launches a wind projectile to cursor's position.
 -   Deals light damage.
 -   Can be improved with _Tempest Wind_, a learnable talent.
 
  |
-|  | Gale Lunge | The monkey jumps at you. | User lunges forward with their weapon coated in wind.
+|  | Gale Lunge | Green particles appear and then lunges you forward | User lunges forward with their weapon coated in wind.
 
 -   Deals moderate damage.
 
  |
-|  | Air Force | cremes | Shoots out air from your hands in the direction of your mouse and staggers target.
+|  | Air Force | Shoots out a air blast | Shoots out air from your hands in the direction of your mouse and staggers target.
 
 -   Deals VERY light damage.
 -   Knocks opponents back and stuns them.

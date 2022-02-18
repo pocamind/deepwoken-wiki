@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 21681
+revid: 21788
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,7 +28,7 @@ During the Lost Sibling Quest, Isaac will mention "The Stream". From Dialogue fr
 
 **Possible Things to try:**
 
-Giving him a Wind Gem.
+talking to him with curved blade of winds
 
 **DEBUNKED QUEST METHODS**
 
@@ -41,3 +41,4 @@ Giving him a Wind Gem.
 -   gliding for a very long time (glided down from windrunner, tallest mountain)
 -   talking to him with max charisma
 -   interacting with pylons at songseeker
+-   giving him a wind gem

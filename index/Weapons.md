@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 21620
+revid: 21934
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -18,7 +18,9 @@ categories: [Weaponry, Character]
 
   
 
-_Tools_ _constructed with the intent to harm others, polished to be efficient killing devices._
+_Tools_ _constructed with the intent to harm others, polished to be horrible_
+
+_killing devices._
 
   
 
@@ -94,7 +96,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>N/A</td>
 </tr>
 <tr>
-  <td>Gilded Knife</td>
+  <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
   <td>25 LHT</td>
   <td>13.5</td>
   <td>N/A</td>
@@ -980,7 +982,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td>Hero Blade of Shadow</td>
-  <td>75 SHD, LVL 35</td>
+  <td>50 SHD, LVL 20</td>
   <td>20</td>
   <td>N/A</td>
   <td>SHD: 6.5</td>
@@ -1022,23 +1024,23 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Targe.md">Targe</a></td>
-  <td>10 FTD</td>
+  <td>15 FTD</td>
   <td>1.5</td>
 </tr>
 <tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
-  <td>30 FTD</td>
+  <td>35 FTD</td>
   <td>1.75</td>
 </tr>
 <tr>
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>
   <td>45 FTD</td>
-  <td>1.85</td>
+  <td>2.00</td>
 </tr>
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
-  <td>60 FTD</td>
-  <td>2</td>
+  <td>65 FTD</td>
+  <td>4</td>
 </tr>
 </tbody>
 </table>

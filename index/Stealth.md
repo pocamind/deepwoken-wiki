@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 19012
+revid: 21792
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Vesperian in Stealth
 
 **Stealth** is a Mechanic that allows the player to stay hidden from others.
 
-NPCs and monsters alike have a cone of vision in which they can spot the player, resulting in them attacking. Improving stealth make that cone smaller, reducing from how far player can be seen.
+NPCs and monsters alike have a cone of vision in which they can spot the player, resulting in them attacking. Improving stealth makes that cone smaller, reducing from how far player can be seen.
 
 ## Modifications
 

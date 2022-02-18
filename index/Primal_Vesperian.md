@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 21765
+revid: 21778
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -32,3 +32,4 @@ Dubbed as the ancestors of the Ganymede and Vesperians, the Primal Vesperians lo
 
 -   Nuttoons got it from winning art contest along with the exclusive name "Stag".
 -   This race is a reskin of the basic [Vesperian](Vesperian.md).
+-   Has the white eyes of [Ganymede](Ganymede.md) under his mask.

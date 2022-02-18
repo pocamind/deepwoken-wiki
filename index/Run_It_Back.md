@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 19914
+revid: 21793
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ When used, particles of flame appear below the user's feet.
 
 Pressing C will activate the **Run It Back** Resonance.
 
-**Run It Back** will grant the user around five seconds of immunity. Once finished, the user will be teleported back to the position where it was first used.
+**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used.
 
 ### _Variants_
 

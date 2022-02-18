@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 21744
+revid: 21878
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -114,6 +114,9 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
 
+-   **Unreleased Passive**
+-   **Unreleased Passive**
+
 ### **Effects**
 
 This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
@@ -123,6 +126,7 @@ The oath change the eye color of the user to purple and make a purple particle e
 ### Notes
 
 -   The willpower talent, [disbelief](Talents.md) only seems to affect illusionary servants, in which the talent reduces the duration of servants almost to nothing. Otherwise all other visionshaper moves are unaffected by the [disbelief](Talents.md) talent.
+-   **Arch\_Mage** confirmed that 2 more talents are on the work after being asked regarding the 3/? talent count for the oath.
 
 ## Trivia/Notes
 

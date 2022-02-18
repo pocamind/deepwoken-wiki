@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 21580
+revid: 21770
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,3 +35,4 @@ It has no known function and is purely there for appearance. (It is where we do 
 ## Trivia/Notes
 
 -   This location appears a lot in videos by popular testers.
+-   The name, description and appearance of the place is a reference to how its a moderator & tester exclusive zone. Moderators stay in this area and ban exploiters, hence the name of "The Hall of Shattered Wills", since players are gonna mald when they get banned. The description is just a reference/joke about the act of banning.
