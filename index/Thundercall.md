@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 21467
+revid: 21653
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -143,7 +143,6 @@ Bolt Piercer
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Might need an Intelligence stat, or another stat in order to unlock.
--   Possibly a rare mantra card
 
  |
 
@@ -196,7 +195,6 @@ Lightning Cloak
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
--   Lightning cloak is a legendary mantra card (confirmed in the official updates channel)
 
  |
 
@@ -414,6 +412,7 @@ by pressing F at the end of the mantra Lightning Blade.
 -   ~The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.~ It does not, at all. The only similar thing about it is the shared sound effect and casting animation. The actual function is completely different then any of the Lightning Miracles from the Dark Souls series.
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
     -   Could very well just be a generic sound effect?
+    -   Stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for frostdraw.  
         
         Virudhaka's Sword
         

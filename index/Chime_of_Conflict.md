@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 21343
+revid: 21623
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -19,6 +19,8 @@ notices:
 ## Description
 
 The _Chime of Conflict_ is a talent and item obtainable by talking to [Yamaketzal](Yamaketzal.md) at the [Songseeker Temple](Songseeker_Wilds.md) once the player has reached [Power](Power.md) 15. It can be used to enter instanced PvP arenas for players to practice, compete for glory, loot and luck without risking themself in reality.
+
+The chime of conflict is unusable while in [The Depths](The_Depths.md).
 
 ## PvP Arena
 
@@ -49,7 +51,7 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
     -   Shattering the last skull will make the player drop items and send them to [The Depths](The_Depths.md).
 -   You can see how many skulls you have by using The Chime Of Conflict but not choosing a game mode. The skull count will appear at the little UI in the middle of your screen.
 -   Players recover 1 skull in case of a victory. They also recover all their skulls every season change (every real life day, at midnight GMT+0)
-    -   If they were sent to The Depths by the PvP Arena, escaping it will restore 2 skulls.
+    -   If they were sent to The Depths by the PvP Arena, they are granted 1 skull which they can use after escaping.
     
 
 ## Rewards

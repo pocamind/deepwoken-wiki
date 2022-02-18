@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 21581
+revid: 21660
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -72,6 +72,8 @@ They have a black obsidian-like appearance, with foliage around its legs. Shorte
 ### Drops
 
 Killing the golem will reward in a ton of xp (3-4 of them can level up a skill once at level 50+), along with a chest where it spawns. The chest has mediocre loot, similar to a [thresher's](Thresher.md) at Starswept Valley. This is risky however, due to the golem's sheer damage, so its best to third party the fight between the golem and the Adretian ice mage as best as possible, maintaining just enough damage to consider you "participated", earning you a chest. The golem at hive is much riskier to fight, as it is a direct 1v1, however the loot is much better, with it's chest containing about twice the loot of a [King Thresher](Thresher.md) at Starswept Valley.
+
+The Rogue Constructs located on top of Minityrsa have a chance of dropping the Inquisitor Straight Sword.
 
 ## Tips/Trivia
 

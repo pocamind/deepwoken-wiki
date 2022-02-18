@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 21274
+revid: 21622
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths throught a whirlpool.
+Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool.
 
 ## Contents
 

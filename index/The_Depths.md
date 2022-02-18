@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 21500
+revid: 21658
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -28,6 +28,9 @@ _The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dott
 After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
 
 Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
+
+  
+Also for anyone who saw that one edit here with a person claiming they have the layer 2 map is false, its just a scrapped island called ironfist.
 
 ## Escaping The Depths
 
@@ -246,6 +249,7 @@ Legendary = Gold
 
 -   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be sufficient. Learning the ways of vanquishing each and every of The Depth's monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
 -   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
+-   Above goes the same if there many people of the same guild flooding the server, it's not worth risking your chances with a huge group of players.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
 -   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
 -   Ringing the bells (not corrupted bells) in the Drowned City will restore some of your HP, equivalent to that of knocking an NPC or monster around your power.

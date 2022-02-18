@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 16679
+revid: 21662
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-An NPC in Lower Erisia that claims to be the Royal Pathfinder for Etris. He appears to be wounded, and rests past a boarded up door above the left pass on the left of the staircase. He gives you the [Glider Schematic](Gliders.md) and asks for you to bring him hostages with Naven Nomad robes.
+An NPC in Lower Erisia that claims to be the Royal Pathfinder for Etris. He appears to be wounded, and rests past a boarded up door above the left pass on the left of the staircase. He gives you the [Glider Schematic](Gliders.md) and asks for you to bring him hostages with the stranded outfit.
 
 When returning villagers to him and completing his Quest, the player can ask questions about Lord Erisia and his weapon.
 

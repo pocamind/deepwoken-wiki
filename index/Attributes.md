@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 21541
+revid: 21640
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -33,7 +33,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 Template:“Hey bro how’d you get like that?”
 
-    {{“Every time I get gripped by a shadow user, I do **ONE** push-up”}}
+    {{“Every time I get gripped by a gale user, I do **ONE** push-up”}}
 
 Template:“Jesus Christ!”
 

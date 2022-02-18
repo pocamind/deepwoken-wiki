@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 12714
+revid: 21647
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,3 +27,4 @@ Do not kill Etrean guards for these, instead kill Legionnaires as they have a hi
 -   It is currently unknown how much Reservoir a Galestone restores, though some say it is around 50%.
 -   Whatever you do, be careful when handling a Galestone. Its very easy to accidentally eat a Galestone.
 -   It is unknown what eating a Galestone does besides giving more Reservoir.
+-   Galestones can drop from dead etrean guards (tested and confirmed on guards in lower erisia)

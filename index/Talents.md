@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21619
+revid: 21667
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -69,11 +69,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Alchemist
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
-
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
-
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
-
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
     -   The resulting potions effect are created as of 2x ingredients were used. Bypass the ingredient cap and will not make diluted potions.
     -   Prerequisites for all: Intelligence (10 - 40 needed?)
@@ -156,6 +153,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Beast Slayer
 
 -   Giantslayer \[Generic Talent, Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
+    -   "Larger foes" being anything that isnt a humanoid NPC.
 
 ### Brawler
 
@@ -181,9 +179,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   Prerequisite: 20(?) Intelligence
 -   Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30(?) Intelligence
+    -   Refund 15% of the casted mantra.
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
--   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element. (Rumor has it that when you get hit by an element from a player, that SAME player would have to use another element on you in order to do increased, hence the "Everchanging".)
+-   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+    -   When hit by an elemental attack, gain damage resistence toward it, however, if another element hit you, take increased damage from that element, while becoming resistent to the new element.
 
 ### Charismatic Cast
 
@@ -290,6 +290,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Fish
 
 -   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
+    -   Reduced health regen on land. Increased health regen while swimming.
     -   Doesnt affect health regen in [The Depths](The_Depths.md), since you are not swimming.
 
 ### Freak Of Nature
@@ -352,6 +353,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Breathing Impact \[Generic Talent, Galebreath Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
 -   Inhale \[Generic Talent, Galebreath Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
 -   Tailwind \[Generic Talent, Galebreath Exclusive\] - Gain a speed boost after a successful inhale.
+    -   No cooldown and can be stacked to move very quickly.
 
 ### Genius Intellect
 
@@ -404,7 +406,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Chitin \[Generic Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
     -   While not empty, receive ?% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 -   Navae's Guidance \[Generic Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
-    -   Receive a compass, displayed at the top of your screen. Lose less hunger.
+    -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger.
 -   Nightchild \[Generic Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Natural increase in Stealth. Gain bonus agility when climbing wooden bricks, like trees.
 -   Molt \[Generic Talent, [Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. (+1 Health)
@@ -422,6 +424,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Liberator
 
 -   Savior \[Generic Talent, Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+3 Health, +1 Sanity)
+    -   "Saved" being interrupting a grip attempt.
 
 ### Limitbreaker
 
@@ -435,10 +438,9 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Lone Warrior
 
-Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress ~much~ (shadow-nerfed) more quickly.
-
--   2x EXP gain for Power and every [Attribute](Attributes.md).
--   Obtained by finishing the [Trial of One](Trial_of_One.md).
+-   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
+    -   2x EXP gain for Power and every [Attribute](Attributes.md).
+    -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
 
 ### Marauder
 
@@ -446,11 +448,13 @@ Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to 
 -   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
     -   Prerequisites: Bloodiron Spirit
 -   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
+    -   Flat increase.
 -   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
 
 ### Meditative Trance
 
--   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health, ~healing stops when reaching 55% HP~ now heals to full, can be abused by not pressing any movement keys, allowing the regen buff even when knocked back or ragdolled)
+-   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
+    -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect.
 
 ### Mental Fortress
 
@@ -458,7 +462,7 @@ Prerequisite: Willpower 5~
 
 -   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
--   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+3 Health, +7 Sanity)
+-   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
 -   Encouraging Presence \[Generic Talent, Common Talent\] - Allies that grip enemies near you recover Sanity. (+3 Health, +6 Sanity)
 -   Unyielding Focus \[Generic Talent, Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)
 
@@ -533,6 +537,7 @@ Prerequisite: Willpower 5~
     -   Prerequisite: Strong Left (Strength Mantra)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
+    -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
 
 ### Rampant Static
 
@@ -560,15 +565,13 @@ Prerequisite: Willpower 5~
 
 ### Silvertongue
 
+Prerequisite: Charisma
+
 -   Friends in High Places \[Generic Talent, Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
 -   Salesperson \[Generic Talent, Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
 -   Snake Oil \[Generic Talent, Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you. (+2 Ether. +1 Health.)
-
-Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
-
--   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
-
--   Prerequisites: None (Did not have Salesperson, and still got it)
+-   Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
+    -   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
 
 ### Soul Converter
 
@@ -596,6 +599,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 ### Shadowcaster
 
 -   Fear \[Generic Talent, Shadowcast Exclusive\] Enemies will briefly hang in place when they run from you. (+4 Elemental Mastery, +1 Health)
+    -   Bugged, does nothing or the effect is too small to notice.
 
 ### Shieldmaster
 
@@ -612,7 +616,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 ### Silencer
 
 -   A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
-    -   Suffocation prevent the victim from casting mantras.
+    -   Suffocation prevent the victim from casting mantras and deal damage overtime.
 -   Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
 -   Silencer's Edge \[Generic Talent, Galebreath Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
@@ -624,12 +628,14 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 ### Sturdy Resolve
 
 -   Grasp on Reality \[Generic Talent, Common Talent\] - Damage taken from insanity is reduced. (+2 Health)
+    -   Reduce damage taken from the Tier 2 insanity, Scratching.
 
 ### Survival Instinct
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
--   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible. (Potentally Herbivore and/or something else)
+-   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible.
+    -   Prerequisite: ???
 
 ### Survivor
 
@@ -660,6 +666,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 ### Thunder Caster
 
 -   Rain of Static \[Generic Talent, Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load, +2 Elemental Intensity)
+    -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
 
 ### Thunderblade
 
@@ -679,9 +686,8 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 ### Undying Ember
 
 -   Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
-
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
-
+    -   Automatically summon a fire explosion similar to Fire Repulsion.
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: Unyielding Inferno
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
@@ -724,7 +730,8 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 ### **Waterborne**
 
 -   Conditioned Swimmer \[Generic Talent, Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
--   Scuba Drowner \[Generic Talent, Rare Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)
+-   Scuba Drowner \[Generic Talent, Rare Talent\] - You may not drown to death when drowned in waters. (+1 Passive Agility)
+    -   Prevent death by drowning. Goes on a 1 minute cooldown when the effect activates.
 
 ### **Weapon Master**
 
@@ -738,7 +745,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 -   Lethal Precision \[Generic Talent, Common Talent\] - \[Light Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
-    -   Prerequisites: 50 Heavy Weapon (might require less for either)
+    -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)
 -   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
 -   Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
@@ -766,6 +773,7 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
 -   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
+    -   While the Blindseer Oath grant full vision even with a blindfold, the talent is still working.
 
 ## Whispers
 
@@ -1034,7 +1042,7 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   The "Fold" Card can be used if you are not satisfied with your current hand of cards.
 -   The Card, "The Sound from Below" is always granted on your first Power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
--   Despite that you have the option to filter one of all the Attributes, all of the Talents are hidden no matter what you filter out.
+-   You can filter talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guarantee legendary talent card

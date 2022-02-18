@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 21554
+revid: 21654
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -12,11 +12,11 @@ categories: [Resonance, Character]
 
 ## Overview
 
-**Resonances** can have quite powerful effects, such as invincibility, world-wide fast travel, instant gripping, etc. Getting a Resonance is quite a timely, random, dangerous and frustrating process, but the powers they bring are unrivaled, and unlike anything else in the game. Some Resonances can be seen with different versions**,** which usually have an identical effect, but simply execute or perform the move differently. These will be listed on the Resonances respective pages if they have one. Additionally, Resonances appear to have some sort of **Rarity** tiers within themselves, with some appearing much more commonly than others. These have also been listed on Resonances respective pages.
+**Resonances** can have quite powerful effects, such as invincibility, world-wide fast travel, instant gripping, etc. Getting a Resonance is quite a timely, random, dangerous and frustrating process, but the powers they bring are unrivaled, and unlike anything else in the game. Some Resonances can be seen with different versions**,** which usually have an identical effect, but simply execute or perform the move differently. These will be listed on the Resonances respective pages if they have one. Additionally, Resonances have a **Rarity** tier within themselves, with some appearing much more commonly than others. These have also been listed on Resonances respective pages. They also unlock Resonance doors, which either serve as shortcuts to known areas or gateways to previously inaccessible areas.
 
 ### _Corrupted Resonances_
 
-**Cursed Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances. Similarly to Cursed Items, they are tremendously stronger, but much more rare. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
+**Cursed Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances. Similarly, to Cursed Items, they are tremendously stronger, but much rarer. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
 
 Every Corrupted Resonance gets a downside that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside altogether.
 
@@ -24,15 +24,15 @@ Known downside include:
 
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
--   On use, player will have 30% of their health taken
+-   On use, player will have a set amount of their health taken.
 
 ## Obtainment
 
-The specific requirements for obtaining a Resonance are unique to all players, meaning quantifying an exact amount of things to do is impossible. However, the method and mechanics can be explained, as to understand it clearly.
+The specific requirements for obtaining a Resonance are unique to all players, meaning quantifying an exact number of things to do is impossible. However, the method and mechanics can be explained, as to understand it clearly.
 
 Resonances are obtained by maxing an invisible stat known as Progress. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches its cap.
 
-The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
+The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the Chime of Conflict, as there is no risk to your progress as long as you do not risk your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
 
 Once obtained, using C will activate your Resonance.
 

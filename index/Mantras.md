@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 21508
+revid: 21650
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -19,7 +19,7 @@ Considered to be the root of Ether's usage.
 Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 
 -   [Luck](Luck.md) has NOTHING to do with obtaining mantras. Chances do not increase or decrease for mantras based on your luck.
--   (This is becoming more debatable recently and hasn't been touched upon this wiki per say, but rather individuals gathering info, it is true **luck doesn't affect gaining certain mantras,** but however your odds are greatly increased if you're aiming for a mobility mantra \[Not sure if this applies for combat\] because you can recall a mobility move if you're aiming for lightning cloak or ice skate. It's unroll-able if you do not recall your mobility mantra and if you don't have your support mantra filled. Note, I have a lvl 60 ice user with ice spikes and have never unequipped ice spikes, and I even did vigil book quest and didn't roll ice skates just to debunk this.)
+-   Having your combat, mobility, support, or wildcard slot filled, does not eliminate the chance of rolling a mantra. If you have any of these slots filled and get a whisper, it will automatically prompt you to replace one of your currently equipped mantras with the newly gained mantra from the whisper, should you decide to choose it.
 
 ## Mantras
 
