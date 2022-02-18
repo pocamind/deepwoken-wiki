@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 21650
+revid: 21683
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]

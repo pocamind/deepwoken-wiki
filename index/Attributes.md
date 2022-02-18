@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 21640
+revid: 21715
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -72,7 +72,7 @@ Template:Parkour! Parkour! Oh God that’s a cli-!! - Last Words of A Ganymede
 
 ### Intelligence
 
-Template:What’s 10+9? -A Big Brained Adret Questioning a Inept Felinor
+\-A Big Brained Adret Questioning a Inept Felinor
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
 -   This stat give 2 Ether and Reservoir
@@ -83,7 +83,7 @@ Template:What’s 10+9? -A Big Brained Adret Questioning a Inept Felinor
 
 ### Willpower
 
-Template:GIVE US EYES! GIVE US EYES! GIVE US EYES ON THE INSIDE!!!! - A “Enlightened” Capra
+\- A “Enlightened” Capra
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 20811
+revid: 21713
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 # Galebreathe
 
-## Description
+"As one with wind and cloud." -Kaedahara Kazuha
 
-A wind coated blade.
+## Description
 
 Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
 
@@ -18,9 +18,9 @@ Galebreath also has Talents attributed to it as well, allowing the user to fully
 
 ## Training
 
-Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
+Galebreathe can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
 
-Like all other elements, users can see their Mantras become stronger with training:
+Like all other attunements, users can see their Mantras become stronger with training:
 
 -   At Power 2, players receive the _Galebreather_ Talent.
 -   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
@@ -33,17 +33,17 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Wind Blade | Slicing blades of wind. | Launches a wind projectile to cursor's position.
+|  | Wind Blade | shoots out a green sticky substance. | Launches a wind projectile to cursor's position.
 -   Deals light damage.
 -   Can be improved with _Tempest Wind_, a learnable talent.
 
  |
-|  | Gale Lunge | A rush of piercing wind. | User lunges forward with their weapon coated in wind.
+|  | Gale Lunge | The monkey jumps at you. | User lunges forward with their weapon coated in wind.
 
 -   Deals moderate damage.
 
  |
-|  | Air Force | A blast of wind | Shoots out air from your hands in the direction of your mouse and staggers target.
+|  | Air Force | cremes | Shoots out air from your hands in the direction of your mouse and staggers target.
 
 -   Deals VERY light damage.
 -   Knocks opponents back and stuns them.

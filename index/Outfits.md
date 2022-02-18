@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 21641
+revid: 21717
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -12,15 +12,15 @@ notices:
 
 File:Armoricon.png
 
-**Armour** is an essential part to _Deepwoken_, being the basis of most of your resistance against attacks.
+**Armor** is an essential part to _Deepwoken_, being the basis of most of your resistance against attacks.
 
 ## Overview
 
-The entirety of your Armour is split into two categories, Outfits and Armour items.
+The entirety of your Armor is split into two categories, Outfits and Armor items.
 
 ### **[Outfits](Outfits.md#outfit-list)**
 
-Outfits are the very base of your Armour, and are the only part of your defence that must be crafted and are given durability.
+Outfits are the very base of your Armor, and are the only part of your defence that must be crafted and are given durability.
 
 Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
 
@@ -28,42 +28,42 @@ Outfits can be purchased at the [Blacksmith](Blacksmith.md) in larger settlement
 
 Outfits grant unique buffs and Talents to their wearer and can be easily found essential to many players on their journey.
 
-### **[Armours](Outfits.md#armor)**
+### **[Armors](Outfits.md#armor)**
 
-Armour pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
+Armor pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
 
-Armour items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
+Armor items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
 
-Armours cannot be purchased and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
+Armors cannot be purchased and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
 
-Armour items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
+Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
 
-Armours can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats, and even rarer is Celestial.
+Armors can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats, and even rarer is Celestial.
 
 ## Outfit Stats
 
 -   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit no longer grant its benefits/are reduced.
 
--   **Physical Armour:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
-    -   **Slash Armour:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
-    -   **Blunt Armour:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
--   **Elemental Armour:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
-    -   **Fire Armour:** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks.
-    -   **Ice Armour:** Reduce damage taken from [Frostdraw](Frostdraw.md) attacks.
-    -   **Lightning Armour:** Reduce damage taken from [Thundercall](Thundercall.md) attacks.
-    -   **Wind Armour:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
-    -   **Shadow Armour:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
+-   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
+    -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
+    -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
+-   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
+    -   **Fire Armor:** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks.
+    -   **Ice Armor:** Reduce damage taken from [Frostdraw](Frostdraw.md) attacks.
+    -   **Lightning Armor:** Reduce damage taken from [Thundercall](Thundercall.md) attacks.
+    -   **Wind Armor:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
+    -   **Shadow Armor:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
 -   **Ether Regen:** Increase the conversion rate of Reservoir to Ether.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
 -   **Talent:** A passive ability linked to the outfit.
 
 ## Repairing your Outfit
 
-The Outfit is the only piece of armour that loses durability, which can be found on the bar below your Health.
+The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health.
 
 When Outfits reach zero durability, they will not be destroyed but they will no longer grant their set buffs until they are repaired.
 
-You can repair your Outfit at a Blacksmith. This will cost Notes, ranging from 1 to 35 notes depending on the number of Armour points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armour items.
+You can repair your Outfit at a Blacksmith. This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
 
 ## Outfit List
 
@@ -87,9 +87,9 @@ _Deepwoken_ currently has 4 Master Outfits that have been discovered.
 
 _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
-## Armour
+## Armor
 
-Armour Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
 
 **Head:**
 
@@ -359,5 +359,5 @@ _Requires Power Level 30_
 -   Arch confirmed that there are **5** master outfits. So far, only 4 outfits have been found.
 -   If you have crafted the outfit, you can swap back to it again. This can be done with all outfits — as long as you've crafted it on that character.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the blacksmith.
--   Some armours such as Star Duster require enough Power to use.
+-   Some Armors such as Star Duster require enough Power to use.
 -   **Providence Coat** might be a reference to the coat **Dante from the Devil May Cry series** wore in the 5th installation of the game Devil May Cry 5.

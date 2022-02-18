@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 21556
+revid: 21716
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -126,4 +126,4 @@ The oath change the eye color of the user to purple and make a purple particle e
 
 ## Trivia/Notes
 
--   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.
+-   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well. An example is the recently added Visionshaper Oath.

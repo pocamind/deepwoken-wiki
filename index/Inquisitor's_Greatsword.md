@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 20786
+revid: 21678
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -36,7 +36,11 @@ categories: [Weapons, Weaponry]
 </tbody>
 </table>
 
-The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge. 
+The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge.
+
+It has a somewhat close appearance to the Rebellion dante wields in the Devil May Cry series.
+
+It drops from Rogue Constructs in Minityrsa. 
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 21357
+revid: 21732
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -78,6 +78,7 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 -   Increase duration of ritual casts.
 -   Add 3 keys to Ritual Casts
+-   Adds 1 purple key, which is random each time you cast the spell
 
  |
 | File:Drift & Rush shard.png | Drift Shard | +2 Speed

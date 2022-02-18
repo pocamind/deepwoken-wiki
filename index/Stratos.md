@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 21657
+revid: 21681
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -28,12 +28,16 @@ During the Lost Sibling Quest, Isaac will mention "The Stream". From Dialogue fr
 
 **Possible Things to try:**
 
-The NPC was bugged all along so you couldn't even get anything from him! :-)
+Giving him a Wind Gem.
 
-working on testing quest
+**DEBUNKED QUEST METHODS**
 
-The following are things I've found, and feel are worth noting (feel free to add more):
-
-\-talking to stratos with 75 gale, he tells you "you do not yet know of the wind" (need cloudwalker talents?)
-
-\-using wind mantras on the pylon doesnt appear to have an affect (maybe use a galestone?)
+-   completing all other vigils quests + having max etrean rep
+-   climbing to highest mountain and talking to windrunner
+-   giving him a gale stone
+-   max galebreath/agility
+-   talking to him while wearing "cloak of winds" and the hood
+-   interacting with all sky statues
+-   gliding for a very long time (glided down from windrunner, tallest mountain)
+-   talking to him with max charisma
+-   interacting with pylons at songseeker

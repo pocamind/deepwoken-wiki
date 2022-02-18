@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 21667
+revid: 21725
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -455,6 +455,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
     -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect.
+    -   Prerequisites: 20 fortitude
 
 ### Mental Fortress
 

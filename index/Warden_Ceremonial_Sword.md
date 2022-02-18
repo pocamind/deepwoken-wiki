@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 20888
+revid: 21688
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -20,7 +20,7 @@ categories: [Weapons, Weaponry]
 | penetration | N/A |
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed |
-| selling price | N/A |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
