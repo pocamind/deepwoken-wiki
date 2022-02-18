@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 21697
+revid: 21765
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -16,13 +16,11 @@ Template:Races-Main
 
 **Currently Unobtainable**
 
-as no racial buffs, purely visualh
+## **Miscellaneous**
 
-l
+_**\-Lore-**_
 
-## Miscellanous
-
-**just cosmetic:**
+Dubbed as the ancestors of the Ganymede and Vesperians, the Primal Vesperians lost their horns through evolution and when faced with the decision due to coming of the tides; they split into two races, the [Vesperian](Vesperian.md) - the ones who lived up on the surface - and the [Ganymede](Ganymede.md) - the ones who lived below in the Depths.
 
 <table>
 <tbody>
@@ -32,4 +30,5 @@ l
 </tbody>
 </table>
 
-uttoons got it from winning art contest along with the name stagn
+-   Nuttoons got it from winning art contest along with the exclusive name "Stag".
+-   This race is a reskin of the basic [Vesperian](Vesperian.md).

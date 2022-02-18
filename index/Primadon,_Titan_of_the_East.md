@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 21728
+revid: 21748
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -21,7 +21,7 @@ File:Primadon.png
 
 ## Description
 
-Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight. This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 ## Attacks
 
@@ -47,7 +47,7 @@ _Lefts and rights for these attacks are based on Primadon's point of view._
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 Umbral Obsidian in them.
 -   **Small chest -** Has 1-3 Umbral Obsidian in it and a low chance of 1-2 Deep Gems.
--   **Luck -** Gives around 20% luck, somewhere as much as 15-20 Corrupted monster kills (5-7 solo Primadon kills are enough to get a [Resonance (Bell)](Resonance.md)**This is random and could be more/less.**
+-   **Luck -** Gives around 20% luck, somewhere as much as 15-20 Corrupted monster kills (5-7 solo Primadon kills are enough to get a [Resonance (Bell)](Resonance.md)**This is random and could be more/less. Bell this ratio**
 
 ## Strategies & Tips
 

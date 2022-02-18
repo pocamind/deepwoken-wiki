@@ -1,9 +1,9 @@
 ---
 title: Hero Blades
-revid: 21334
+revid: 21738
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Pages with broken file links, Weapons, Weaponry]
 ---
 
 # Hero Blades
@@ -99,7 +99,14 @@ Unlike most weapons, Hero Blades deal Elemental Damage based on their associated
 
 ## How to Obtain
 
-The Hero Blades are obtainable in the Valley of Heroes, as a guaranteed drop (element is random) in the chest spawned by defeating the [Blizzard Knights](https://deepwoken.fandom.com/wiki/Stone_Knights#Blizzard_Knight).
+The Hero Blades are obtainable in the Valley of Heroes, as a guaranteed drop (element is random) in the chest spawned by defeating the [Blizzard Knights](https://deepwoken.fandom.com/wiki/Stone_Knights#Blizzard_Knight).  
+
+File:Screen Shot 2022-02-18 at 10.11.00 AM.png
+
+You can use heroblade at power 30 as long as you have 75 of your magic
+
+  
+If you need further proof add my discord attal#1871
 
 ## Hero Blade of Flame
 

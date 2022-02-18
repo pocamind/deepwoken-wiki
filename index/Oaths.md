@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 21716
+revid: 21744
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -20,7 +20,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | 20 Charisma |
+| oath_req | 50 Charisma10 Willpower |
 | effects | +1 Support Mantra, +2 Combat Mantra, +10 Ether |
 
 _icon credit to Tortaa#9000_
