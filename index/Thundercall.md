@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22025
+revid: 22072
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -111,6 +111,17 @@ Lightning Kick
  | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
 
 -   This can be upgraded with a Talent card.
+
+ |
+|  | 
+
+Storm Blades  
+(★☆☆)
+
+ | Conjure weapons of thunder with your ether. | User creates blades of lightning that explode in front of them.
+
+-   Deals light damage.
+-   Has a short delay before exploding.
 
  |
 |  | 

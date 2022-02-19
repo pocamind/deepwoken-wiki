@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22045
+revid: 22073
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -178,7 +178,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
   <td>60 LHT</td>
-  <td>12</td>
+  <td>13.5</td>
   <td>20%</td>
   <td>LHT: 10</td>
   <td>4</td>

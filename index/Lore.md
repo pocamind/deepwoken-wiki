@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22060
+revid: 22084
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -440,14 +440,14 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
--   A race of felinors who defined themselves as carefee and whimsical, and seek a life full of freedom and free will.
+-   A race of felines who defined themselves as carefee and whimsical, and seek a life full of freedom and free will.
 -   _**(No current lore yet...)**_
 
 ### Vesperian
 
 "_Never seen without their masks, poorly understood, but begrudgingly appreciated due to their natural talents."_
 
--   A race of bugs never seen without their masks that they wear, although most may not understand why.
+-   A race of bugs never seen without the masks they wear, although most may not understand why.
 -   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
 -   Their ancestors are the Primal Vesperians, a race that existed before the coming of the Tides.
 -   A race that lived up on the surface and above the water when split during the coming of the Tides.
@@ -463,7 +463,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Peculiar folk who are often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads man forward."_
 
--   A race of snails who are often known for their intelligence and wisdom. Their science still leads "man" forward.
+-   A race of snails who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   Their ancestors are the Primal Vesperians.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
@@ -489,6 +489,7 @@ _"The stars call you back..."_
 ### Primal Vesperians
 
 -   (NO LORE CONNECTIONS)
+-   Ancestors of the Vesperians and Ganymede, who split apart during the coming of the tides to survive as a "people".
 
   
 

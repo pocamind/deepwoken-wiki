@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 20362
+revid: 22075
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,7 +25,7 @@ You can pick them up using the V key. Dropping them will cause them to be knocke
 
 ## Way of Navae
 
-Bringing a Navaen Hostage will give you the [Way of Navae](Fists.md) style, prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor all the other fist styles. You only need points in **Light Weapons** for Cestus, but even then the Iron Cestus only needs a fist style.
+Bringing a Navaen Hostage to a Nomad Camp(Easiest one is in Etris, just talk to the elder in the camp) will give you the [Way of Navae](Fists.md) style, prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor all the other fist styles. You only need points in **Light Weapons** for Cestus, but even then the Iron Cestus only needs a fist style.
 
 ## 
 

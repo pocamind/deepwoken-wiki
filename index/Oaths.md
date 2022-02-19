@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 21878
+revid: 22065
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -59,7 +59,7 @@ _"You vow to not let the horrors of the world pierce your tightly fastened blind
 
 ### Obtaining
 
-Obtaining Blindseer is harder than Oathless, and requires a Blindfold for the process.
+Obtaining Blindseer is harder than Oathless(minus the entire not having a level requirement part), and requires a Blindfold for the process.
 
 1.  Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 2.  Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.

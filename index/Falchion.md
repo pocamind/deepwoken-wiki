@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 20879
+revid: 22094
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -26,4 +26,6 @@ categories: [Weapons, Weaponry]
 | obtainment | ??? |
 | description | " A surpisingly effective weapon despite its previous use by fisherman" |
 
+## Notes
 
+This weapon has a rare chance of possible obtainment from chests in Erisia whilst it has somewhat an uncommon chance for the gold plate trade.

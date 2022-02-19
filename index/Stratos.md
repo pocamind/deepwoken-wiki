@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 21788
+revid: 22079
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,6 +21,10 @@ All I know about him, is that when approaching him with Bad - Neutral Reputation
 When talking to him with Good Reputation he'll firstly say something along "Speak, what do you need?" when then replying with something like this "Could you teach me anything?" He'll just send you off to find Wind or whatever...
 
 Then he'll just keep on saying: "You do not know of the Wind yet." and just sending you straight away again.
+
+By doing vigil instructor training with a katana, I got rep with etrea, it seemed random but I think if you kill the instructor npc fast enough like 3-5 times you can insta talk to him
+
+Next thing im going to try is getting vigil initiate armour as the description literally says one must walk the path before wearing the cloak of winds
 
 **Possible theories**
 

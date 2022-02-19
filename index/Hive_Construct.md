@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 21760
+revid: 22080
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,7 +12,7 @@ _Also known as Mechs_ Template:Creature Infobox V3
   
 Hive/Rogue Constructs, also known as Hive Mech, Forest Golems, or Obsidian Golems (given their black appearance), spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, Hive Island, and on the ice lake on top of [Minityrsa](Minityrsa.md)
 
-**ONE OF THE ONLY WAYS TO INCREASE YOUR REPUTATION (not reset) WITH THE CENTRAL AUTHORITY IS TO KILL THIS**
+**~ONE OF THE ONLY WAYS~ TO INCREASE YOUR REPUTATION (not reset) WITH THE CENTRAL AUTHORITY IS TO KILL THIS you can increase it by killing legion at legion vs authority at starswept valley too**
 
 ## Description
 
