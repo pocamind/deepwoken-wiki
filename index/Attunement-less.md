@@ -1,13 +1,11 @@
 ---
 title: "Attunement-less"
-revid: 21389
+revid: 22121
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Attunement-less
-
-#### _"Never giving up is my magic." -Attunement-less Etrean Boy_
 
 Attunement-less mantras consist of mantras that are chosen based of your attributes, similar to talents, rather than your attunements.
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 22080
+revid: 22099
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -88,5 +88,7 @@ The Rogue Constructs located on top of Minityrsa have a chance of dropping the I
 -   They talk if the ice mage that spawns with it at Starswept Valley is defeated, showing that they believe that the Authority is just a group of "fools".
 -   The Rogue Mech in Minityrsa will not aggro the Snow Knights, the opposite is also true.
 -   Be careful if fighting alongside these things, if you get downed they will not care if you're friend or foe, it will most definetly kill you.
+-   Can win every fight with another monster in Starswept Valley(don't test with rock knight) will test soon
+-   don't bait hive construct to fight with stone knight it don't target eachother i learn it in hard way :(
     
     A hive golem talking.

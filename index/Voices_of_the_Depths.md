@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 22062
+revid: 22118
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPC]
@@ -34,7 +34,7 @@ _"General or widespread hatred or disgust directed toward someone as a result of
 
 _"Isolate or hide away."_
 
--   The Voice of Sequestration seems to be the most "nicest" out of the voices, calling the players endearing names like "little ones".
+-   The Voice of Sequestration seems to be the "nicest" out of the voices, calling the players endearing names like "little ones".
 -   It wants to lock the players in their "cage" as it is "perfect" from it's point of view.
 -   It knows that the player will inevitably return to the depths.
 -   They describe the human world as perfect, but it is unknown if these words are envious.

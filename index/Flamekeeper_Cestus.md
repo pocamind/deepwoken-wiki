@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 20840
+revid: 22096
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -33,4 +33,4 @@ categories: [Weapons, Weaponry]
 ## Notes
 
 -   Currently the best cestus in-game due to its high base damage and scaling.
--   Can be obtainable through Primadon, Depths, Fort Merit chests, and Hive farming with enough patience.
+-   Can be obtainable through Primadon, Depths, Pvp chests, Fort Merit chests, and Hive farming with enough patience.

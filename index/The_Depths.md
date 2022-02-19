@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 21658
+revid: 22107
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -83,8 +83,8 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 | Trial Power | Enemies |
 | --- | --- |
 | 1-15 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 16-19 | [Mudskipper Knight](Mudskipper.md) |
-| 20-29 | [Angels](Hollow_Angel.md) |
+| 16-18 | [Mudskipper Knight](Mudskipper.md) |
+| 19-29 | [Angels](Hollow_Angel.md) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
 
@@ -134,7 +134,7 @@ Just some information to keep in mind and remember.
 
 ### Finding Morning
 
--   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (More information needed) (Theory: I haven’t had the chance to try this but in the Isle of Vigils library there is an NPC who says, “Hey! You've never seen a ghost before?”)
+-   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (As of now the quest is not done which was stated by Arch\_Mage. Morning doesnt exist in-game until the quest is finished by developers.)
 
 ### Joining The Divers
 

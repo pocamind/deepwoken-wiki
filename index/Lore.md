@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22084
+revid: 22123
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -450,7 +450,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race of bugs never seen without the masks they wear, although most may not understand why.
 -   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
 -   Their ancestors are the Primal Vesperians, a race that existed before the coming of the Tides.
--   A race that lived up on the surface and above the water when split during the coming of the Tides.
+-   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
 
 ### Capra
 
@@ -575,10 +575,11 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 #### The Origin of Adrets
 
-**Lore Sources:** _Ishan_
+**Lore Sources:** _Ishan, Weapon descs._
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinor are Felines, Canors are Dogs, Vesperians are Beetles, etc). This seems to be many races main point of contention with them, viewing them as alien.
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
+    -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
 -   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
 
 ### The 3 Attunements

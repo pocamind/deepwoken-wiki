@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 22003
+revid: 22117
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -92,7 +92,7 @@ Template:I know how to get stronger…it’s called a Vow of Mastery. Wanna Make
 -   Charisma can be used on Dialogue Checks that requires Charisma.
 -   Gain Charisma EXP by selling items and using the "How To Make Friends" book.
 -   Increases Ether by 1.5 every point.
--   NPCs will positively respond to your Dialogues from "How To Make Friends" at Charisma level 33
+-   NPCs and players will positively respond to your Dialogues from "How To Make Friends" at Charisma level 33
 -   Uncapped by completing the Karliah Quest and telling her to go back home.
 
 ## Weapon Attributes
