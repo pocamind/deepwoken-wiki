@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 21986
+revid: 22061
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
 <tr>
   <td></td>
   <td><b>Blessed Gem</b><p><i>'Cold to the touch...'</i></p></td>
-  <td>Landing the mantra reduces the cooldown of your other mantras.</td>
+  <td>Landing the mantra reduces the cooldown of your other mantras and restores reservoir.</td>
 </tr>
 <tr>
   <td></td>

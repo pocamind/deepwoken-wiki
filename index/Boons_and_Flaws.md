@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 21542
+revid: 22033
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -42,7 +42,7 @@ Count as 2 flaws, cannot be taken with another flaw.
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Bell Startup. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. | 0 |
-| Vacant | "Something's missing." | According to NanoProdigy, a Deepwoken tester, Arch\_Mages spec is the ability to upgrade a mantra beyond level５in exchange for another mantra you possess **and your soul**. Disables you from taking oaths or entering Castle Light. Also rollable by Yun-Shul. | 0 |
+| Vacant | "Something's missing." | Gained by Arch\_Mages spec, which can upgrade a mantra beyond level 5 in exchange for another mantra you possess and **your soul**. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>) | 0 |
 
 ## Trivia/Notes
 

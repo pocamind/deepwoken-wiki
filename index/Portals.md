@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 21579
+revid: 22038
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -50,5 +50,5 @@ If Portal is found to be corrupted, the duration of the ability is tripled.
     -   ~The [Blindseer](Oaths.md) cosmetic eye that appears on your character will also be visible during use of Portal.~
     -   ~[Enchant](Enchantments.md) effects can also be visible during use of Portal.~ Fixed in 16th February update
 -   This Resonance can be a great tool to ambush other players.
--   Similar to _Valorant_ character Yoru's ability, hence why it's nicknamed "Yoru."
+-   Similar to _Valorant_ character Yoru's ultimate ability, hence why it's nicknamed "Yoru."
 -   Trying to use this bell while carrying a player, will drop the player.

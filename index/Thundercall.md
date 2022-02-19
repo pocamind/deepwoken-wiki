@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 21653
+revid: 22025
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -100,7 +100,7 @@ Lightning Strike
 -   Deals _possibly light_ damage.
 -   Can strike a total of 1-7 times, but can be cancelled by user damage.
 -   Spell can hit you, causing the spell to cancel itself midway.
--   Currently broken of 2/13/2022
+-   Currently broken of 2/18/2022
 
  |
 |  | 

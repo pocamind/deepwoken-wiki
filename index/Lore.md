@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 21932
+revid: 22060
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -187,24 +187,7 @@ An Etrean Guard, part of the Nation of Etrea
 
 -   An organization that preserves what's left before the tides came; practically Historians. They are not to be confused by The Pathfinders.
 -   The Old Stewards created The Old Texts.
--   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
-
-### The Pathfinders
-
--   **Encountered In:** _Anywhere_
--   **Attunements:** _???_
--   **Alliances:** _???_
--   **Enemies:** N/A
--   **Lore Sources:** _Neero (Temple of the Forgotten Flame)_
-
-**NOTE: PATHFINDER IS AN OCCUPATION, NOT A FACTION**
-
--   An organization consisting mostly of explorers and historians alike. The Pathfinder varies in the individual; either focused more on combat or exploration.
-    -   The Pathfinders consists of Historians, Scavengers, Bounty Hunters, and Explorers. _(Source - Neero)_
--   The Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
--   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
--   Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
--   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).  
+-   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.  
     
 
 ### The Hundreds Legion
@@ -390,6 +373,127 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
 
+  
+
+### The Pathfinders
+
+-   **Encountered In:** _Anywhere_
+-   **Attunements:** _???_
+-   **Alliances:** _???_
+-   **Enemies:** N/A
+-   **Lore Sources:** _Neero (Temple of the Forgotten Flame)_
+
+-   An organization consisting mostly of explorers and historians alike. The Pathfinder varies in the individual; either focused more on combat or exploration.
+    -   The Pathfinders consists of Historians, Scavengers, Bounty Hunters, and Explorers. _(Source - Neero)_
+-   The Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
+-   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
+-   Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
+-   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero- that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force; leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
+
+## Race Lore
+
+### Etrean
+
+"_Defined by their snake-like features and cunning. Isolationists who tend to their own interests."_
+
+-   A race most commonly found in the Etrean Luminant and often defined as "xenophobic" due to their dislikes of other races.
+-   The people of [Etris](Etris.md) has been in scrambles ever since their king had left them and the current reigning lord (Lord Regent) causing evident dismay to his people, rather than helping them.
+
+### Celtor
+
+"_Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike."_
+
+-   A prideful and greedy race that used to live in a great city known by many for their legendary bankers and overall wealth, but was eventually swept by the tides, and dragged to the bottom of the ocean and into the [Depths](The_Depths.md) where it stands today.
+
+### Adret
+
+_"Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin."_
+
+-   A recently-arrived race of spiritually adept individuals that make up the bulk of the Adretian Authority.
+-   Their tattoos (markings on their face) represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
+-   Stated as "different" and not from the "old world", as well as not being related to any animals unlike the other races; as stated by an NPC in [Summer Isle](Summer_Isle.md).
+-   According to **Shirafune**, the Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
+
+### Canor
+
+"_With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people."_
+
+-   A race of canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
+-   Little is known about their origins...
+
+### Gremor
+
+_"Deer-horned pariahs who lived a peaceful life as nomads before the tides came. Tolerant of extremes that many others would avoid."_
+
+-   A race of deer folks that consider themselves free from authority and subjugation, and seek simple lives away from the conflicts.
+-   The Gremors of the Eastern Luminant are renowned for their following of a celestial known as "Navae", the protector of Shadow and Ice.
+-   They seem to have a preference on the use of fists rather than weaponry in battles, showing how the perks provided by the Navaen Nomads are fist related.
+
+### Khan
+
+"_Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over."_
+
+-   A prideful race of monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
+-   Little is known about the race in general and their origins...
+
+### Felinor
+
+"_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
+
+-   A race of felinors who defined themselves as carefee and whimsical, and seek a life full of freedom and free will.
+-   _**(No current lore yet...)**_
+
+### Vesperian
+
+"_Never seen without their masks, poorly understood, but begrudgingly appreciated due to their natural talents."_
+
+-   A race of bugs never seen without their masks that they wear, although most may not understand why.
+-   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
+-   Their ancestors are the Primal Vesperians, a race that existed before the coming of the Tides.
+-   A race that lived up on the surface and above the water when split during the coming of the Tides.
+
+### Capra
+
+"_Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
+
+-   A race of goats that are keepers of ancient secrets, who traverse the seas and sharing knowledge to those who need it.
+-   Little is known about their origins...
+
+### Ganymede
+
+"_Peculiar folk who are often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads man forward."_
+
+-   A race of snails who are often known for their intelligence and wisdom. Their science still leads "man" forward.
+-   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
+-   Their ancestors are the Primal Vesperians.
+-   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
+
+### Lightborn
+
+"_The stars call you back..."_
+
+-   Childrens of the Celestials, the Lightborns are considered fragments of these once great beings who lived above in the sky.
+-   In recent times, a family of Lightborns known as the Spellhardts have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
+-   Rumoured to be living in a mighty castle above in the sky, visible through the Celestial Telescope in the [Greathive Aratel](Greathive_Aratel.md).
+
+### Celestials
+
+_"The stars call you back..."_
+
+-   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
+-   Celestials came to the Luminants from the stars, and introduced the "Canticlysm"; an event that was drawn from the Heavens by the Song.
+-   The Cities of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
+-   As of the Year 1271, their civilization has undergo a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
+-   The Celestials are presumably extinct, though evidence is required to confirm the theory.
+
+### Primal Vesperians
+
+-   (NO LORE CONNECTIONS)
+
+  
+
+  
+
 ## Attunement Lore
 
 ### Flamecharm
@@ -570,16 +674,6 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   It's unsure how much a Lifeweaver's life is precious to the world of Deepwoken, unlike Lightkeepers.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 
-### Celestials
-
-**Lore Sources:** _Celestial Telescope (Cities)_
-
--   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
--   Celestials came to the Luminants from the stars, and introduced the "Canticlysm"; an event that was drawn from the Heavens by the Song.
--   The Cities of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
--   As of the Year 1271, their civilization has undergo a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
--   The Celestials are presumably extinct, though evidence is required to confirm the theory.
-
 ### Kingdom of Etrea's Past Rulers
 
 **Lore Sources:** _Etris_
@@ -622,6 +716,13 @@ This category lists new lore that has been added into Deepwoken through updates.
 -   In the Autumn of Year 1283, a Capra drunkard stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
 -   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
 -   In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
+
+### Year 1286
+
+(2/18/2022 Update)
+
+-   In the Summer of Year 1286, Blue-like falling 'stars' were observed to be falling on Aratel Island.
+    -   There are theories that these stars are assumed to be fallen fragments of the celestial city, seen through the Celestial Telescope in Greathive Aratel.
 
 ## Miscellaneous
 

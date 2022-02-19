@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 21575
+revid: 22048
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,4 +29,4 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-Drops from Rock Golems (in the trial of one at least)
+Drops from Rock Golems

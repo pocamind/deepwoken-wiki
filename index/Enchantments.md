@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22009
+revid: 22037
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -154,7 +154,7 @@ Will have an effect upon hitting something.
   <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (Is currently only working on certain weapons)</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
+  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow (Unobtainable)</div></td>
   <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
   <p><br>
   </p></div></td>

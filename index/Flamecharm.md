@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 21982
+revid: 22029
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Flamecharm
 
-> "The brightest flame casts the darkest shadow." - George R.R. Martin
+> The brightest sun causes the biggest planet to the biosphere -Geiger R.
 
 ## Description
 
@@ -33,18 +33,11 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 ## Mantras
 
-### **Combat**
+### **Combat Mantras**
 
-| Media | Name | Card Description | Effect |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| 
- | 
-
-Flame Repulsion  
-(☆☆☆)
-
- | An exertion of flames. | After a wind-up of ~2 seconds, user explodes in a burst of flames.
-
+|  | Flame Repulsion | An exertion of flames. | After a wind-up of ~2 seconds, user explodes in a burst of flames.
 -   Unable to move in wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
@@ -52,16 +45,7 @@ Flame Repulsion
 -   Can be improved with talent _Thorns of Fire_.
 
  |
-| 
-
-File:Снимок экрана 2021-12-31 211752.png
-
- | 
-
-Burning Servants  
-(☆☆☆)
-
- | A legion of flames. | Summons seven burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
+| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons seven burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).
@@ -69,14 +53,7 @@ Burning Servants
 -   Improved by [Cloudstone](Mantra_Modifiers.md#regular-modifiers)[\[1\]](https://deepwoken.fandom.com/wiki/Cloudstone)
 
  |
-| 
-
- | 
-
-Fire Gun  
-(☆☆☆)
-
- | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
+|  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   Very short cooldown.
@@ -86,43 +63,20 @@ Fire Gun
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
 
  |
-| 
-
- | 
-
-Flame Grab  
-(☆☆☆)
-
- | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
+|  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
 
 -   Inflicts light damage.
 -   Burns target(s).
 -   Can **NOT** be improved by Drift/Rush Shards or Crystal/Perfect Lens. (May have been changed, might require testing)
 
  |
-| 
+|  | Ash Slam | Strike the ground, turning it to ash. | Strike twice in front of the user, creating a fiery blast each time.
 
- | 
-
-Ash Slam  
-(☆☆☆)
-
- | Strike the ground, turning it to ash. | Strike twice in front of the user, creating a fiery blast each time.
-
--   Also requires 40 Strength
+-   Also requires 40 Strength and 75 Flamecharm.
 -   Deal heavy posture damage
 
  |
-| 
-
-File:Flame Blind.png
-
- | 
-
-Flame Blind  
-(☆☆☆)
-
- | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
+|  | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
@@ -130,14 +84,31 @@ Flame Blind
 -   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
 
  |
-| 
+|  | Fire Palm(★) | A blast of flame. | Caster releases an eruption of fire in front of them.
 
- | 
+-   Cone hitbox.
+-   Deals moderate damage.
+-   Burns target(s).
+-   Can be improved with Cloud/Stratus stones.
 
-Fire Blade  
-(☆☆☆)
+ |
+|  | Fire Eruption (★) | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
 
- | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
+-   Deals moderate-high damage.
+-   The second explosion ragdolls enemies.
+-   NPCs have trouble blocking the second explosion.
+
+ |
+|  | Fire Forge (★) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
+
+-   Deal light damage.
+-   Burns target(s).
+-   Breaks certain tiles (Hidden village door, glider cave planks).
+-   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
+-   Can not be upgraded with a multiplying spark.
+
+ |
+|  | Fire Blade | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
 
 -   Deals moderate damage.
 -   Burns target(s).
@@ -147,73 +118,14 @@ Fire Blade
 -   Compatible with Size, Duration and Intensity Buffs.
 
  |
-| 
-
- | 
-
-Fire Palm  
-(★☆☆)
-
- | A blast of flame. | Caster releases an eruption of fire in front of them.
-
--   Cone hitbox.
--   Deals moderate damage.
--   Burns target(s).
--   Can be improved with Cloud/Stratus stones.
-
- |
-| 
-
- | 
-
-Fire Eruption  
-(★☆☆)
-
- | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
-
--   Deals moderate-high damage.
--   The second explosion ragdolls enemies.
--   NPCs have trouble blocking the second explosion.
-
- |
-| 
-
- | 
-
-Fire Forge  
-(★☆☆)
-
- | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
-
--   Deal light damage.
--   Burns target(s).
--   Breaks certain tiles (Hidden village door, glider cave planks).
--   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
--   Can not be upgraded with a multiplying spark.
-
- |
-| 
-
- | 
-
-Rising Flame  
-(★★☆)
-
- | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
+|  | Rising Flame (★★) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
 
 -   Deals moderate to high damage.
 -   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact, dealing immense damage._
 -   Initial slashes are blockable.
 
  |
-| 
-
- | 
-
-Flame Assault  
-(★★☆)
-
- | Burst forward in flames. | User dashes forward attacking anything in their path.
+|  | Flame Assault (★★) | Burst forward in flames. | User dashes forward attacking anything in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
@@ -224,16 +136,11 @@ Flame Assault
 
  |
 
-### **Mobility**
+### **Mobility Mantras**
 
-| Media | Name | Card Description | Effect |
+| **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | 
-Flame Leap  
-(★★☆)
-
- | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground. Also launch nearby targets in the air.
-
+|  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground. Also launch nearby targets in the air.
 -   On flat ground, will usually lead to fall damage for the user.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 -   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
@@ -241,18 +148,11 @@ Flame Leap
 
  |
 
-### **Support**
+### **Support Mantras**
 
-| Media | Name | Card Description | Effect |
+| **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| 
- | 
-
-Flame Wisp  
-(★★☆)
-
- | A servant of flames. | Caster summons a wisp of magma.
-
+|  | Flame Wisp (★★) | A servant of flames. | Caster summons a wisp of magma.
 -   Heals the caster 5% hp over 5 seconds every 10 seconds.
 -   Ignites nearby campfire pits if not busy healing you (does not use up the wisp).
 -   Ritual casting (Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether).
@@ -260,13 +160,7 @@ Flame Wisp
 -   The hp given from the wisp will go lower every time its used, eventually ending up at 3% at around the 5-6th use and continuing to be 3% until it dissipates.
 
  |
-| 
-
- | 
-
-Graceful Flame
-
- | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
+|  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.
@@ -275,36 +169,56 @@ Graceful Flame
 -   Does not go out in rain
 
  |
-| 
-
- | 
-
-Flame of Denial
-
- | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
+|  | Flame of Denial | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
 
 -   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon receiving lethal damage)
 -   Resets some the user's sanity.
 
  |
 
-## Talents
+## **Talents**
 
-### **Active**
+**Flamecharmer:**
 
-| Media | Name | Category | Card Description | Effect |
-| --- | --- | --- | --- | --- |
-|  | Produce Spark | Flamecharmer | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
-|  | Wildfire | Flamecharmer | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Increases your Fire Palm's range, and narrows its hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range. |
-|  | Flame Within | Flamecharmer | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
+These talents are found in the _Flamecharmer_ category.
 
-## Azure Flames
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
+|  | Flame Within | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
+|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range. |
+
+**The Emperor's Blade:**
+
+These are talents found in _The Emperor's Blade_ category.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) | When dodging an attack, you leave behind a fire clone that burns the attacking enemy. |
+|  | Exploding Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) |  |
+
+**Special:**
+
+These talents are unique to their element and _may_ have no category.
+
+### **Azure Flames**
 
 Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
 
 Obtaining Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance (usually around Power 25+).
 
 Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
+
+**Undying Ember:**
+
+These talents are found in the "Undying Ember" catagory.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Last Laugh | Gain the ability to incinerate your self when down.(rare talent) |
+|  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.(rare talent) |
+|  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: Unyielding Inferno |
+|  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. |
 
 ## Trivia/Notes
 

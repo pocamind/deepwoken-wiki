@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 21495
+revid: 22031
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,12 +13,12 @@ Players can be family members with each other with the character selection scree
 
 Having certain traits can make you someone else's relative.
 
--   Siblings - Same last names, possibly same variant
-    -   For Adrets, it has to be the same last name and same tattoos.
+-   Siblings - Same last names, possibly/most likely same variant
+    -   For Adrets, it has to be the same last name, variant, and tattoos.
 -   Cousins - Different last names
     -   For Adrets, same last name can be used, but if the tattoos are different, it will be cousins.
--   Twins - Same last names, you may need to have the same racial variant as them. Because they're twins, they may also need to have the same age, although this isn't confirmed and some report having twins younger than them.
--   Spouse - Having the same last name with opposite genders. Requires both of the players to be age 25.
+-   Twins - Same last names, you may need to/likely will need to have the same racial variant as them. Because they're twins, they may also need to have the same age, although this isn't confirmed and some report having twins younger than them.
+-   ~Spouse - Having the same last name with opposite genders. Requires both of the players to be age 25.~ **UNCONFIRMED, PLEASE POST PROOF OF THIS.**
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 20609
+revid: 22023
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -34,6 +34,16 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
     -   A small village settled by [Bandit Captains](Bandit_Leader.md).
 -   Ruins Camp
     -   A small camp between the entrance and the Bandit village.
+
+## Potential Enemies
+
+-   [Bandit](Bandit.md)
+-   [Bandit Captain](Bandit_Leader.md)
+-   [Bandit Assassin](Thief.md)
+-   [Megalodaunt](Megalodaunt.md)
+-   [Mudskipper](Mudskipper.md)
+-   Etrean Footsoldier
+-   [Authority Footsoldier](Authority_Officer.md)
 
 ## Missions
 

@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 22017
+revid: 22020
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -61,6 +61,8 @@ Events that spawn in Isle of Vigils that involve combat. For more info, see [Ran
 -   Bandit Attack
 
 ## Quests
+
+_Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Blade.md#quests)._
 
 ### Lumberjack Quest
 

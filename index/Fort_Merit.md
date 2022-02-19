@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 21033
+revid: 22047
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -75,6 +75,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 #### Arms
 
+-   Stygian Authority Commande
 -   Imperial Pauldrons
 -   Sable Adjudicator's Coat
 -   Ash Adjudicator's Coat

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 20940
+revid: 22064
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -69,7 +69,7 @@ Template:Areainfobox
     -   Heavy Weapon users can purchase:
         -   [Battleaxe](Battleaxe.md) for.
         -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
-        -   Zheiwander (requires 20 HVY, 10 STR) for.
+        -   Zweihander(nonstickk fixed the spelling) (requires 20 HVY, 10 STR) for.
     -   Players can purchase a Targe (requires 10 FTD) for.
     -   On the second floor, players can also purchase the schematic for:
         -   [Skeptic Pioneer](Skeptic_Pioneer.md) for.
