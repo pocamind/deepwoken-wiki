@@ -1,9 +1,8 @@
 ---
 title: Isle of Vigils
-revid: 21431
+revid: 22017
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
 ---
 
 # Isle of Vigils
@@ -21,7 +20,7 @@ Template:Areainfobox
 
 ## Overview
 
-The Isle of Vigils is a collection of small islands that hold the [Temple Approach](Temple_Approach.md) and the [Temple of the Blade](Temple_of_the_Blade.md), as well as a few necessities to get you started on your progression. restart why
+The Isle of Vigils is a collection of small islands that hold the [Temple Approach](Temple_Approach.md) and the [Temple of the Blade](Temple_of_the_Blade.md), as well as a few necessities to get you started on your progression.
 
 ## Points of Interest
 
@@ -32,7 +31,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Camp
 
--   Players can find Friid, a Celtor spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
+-   Players can find Friid, a spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
 -   Players can find a permanent campfire here.
 
 #### Inn
@@ -44,7 +43,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 -   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears), [Hemafrost](Training_Gear.md#attunement-training-gears), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears), [Gale Kata](Training_Gear.md#attunement-training-gears) and a [Pure Heart](Training_Gear.md#attunement-training-gears) here for.
 -   Players can also purchase two schematics here:
     -   [Wandering Swordsman](Vigil_Initiate.md) for.
-    -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for.
+    -   Placeholder for schematic outside building.
 
 #### Bank & Antiquarian
 

@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 21543
+revid: 22014
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -16,7 +16,7 @@ A solemn sanctuary carved in the stone, where warriors hone the dancing steps of
 
   
 
-**Temple of the Blade** is a location in _Deepwoken_. It is a landmark in the [Isle of Vigils](Isle_of_Vigils.md) found in the [Etrean Sea](The_Etrean_Sea.md).
+**Temple of the Blade** is a location in _Deepwoken_. It is a sub-location in the [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Overview
 

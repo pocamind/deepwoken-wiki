@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 21820
+revid: 22012
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -263,7 +263,7 @@ Duke chests
 Depths chests
 
  |
-| File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Currently Unobtainable |
+| File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Rare drop from Aelita, Depths Mobs/Chests |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants 2 (Random) Buffs | Depths and Hive Chests |
 
   
@@ -354,8 +354,8 @@ _Requires Power Level 30_
 
 ## Trivia/Notes
 
--   The **Blindfold** can protect players from dying to enemies that kill you by looking at them.
--   Some accessories can be Ascended, Enlightened or Celestial and have buffed stats.
+-   ~The **Blindfold** can protect players from dying to enemies that kill you by looking at them.~ There aren't even enemies in the game that do this, closest I can think of is watchers and those look at _you_, not the other way around.
+-   ~Some accessories can be Ascended, Enlightened or Celestial and have buffed stats.~ This has been replaced by a star system like weapons.
 -   Arch confirmed that there are **5** master outfits. So far, only 4 outfits have been found.
 -   If you have crafted the outfit, you can swap back to it again. This can be done with all outfits — as long as you've crafted it on that character.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the blacksmith.

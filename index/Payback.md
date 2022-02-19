@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 19880
+revid: 21961
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,15 +13,13 @@ categories: [Resonance]
 | effect | Reflects damage to opponents. |
 | appearance | Green circle that appears around user. |
 
-## Description
-
 **Full Counter** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
-### _Appearance_
+### Look Like
 
 When used, a green circle appears around the user and shrinks until the Resonance finishes.
 
-## Usage
+## How to Use
 
 Pressing C will activate the **Full Counter** Resonance.
 
@@ -29,7 +27,7 @@ Pressing C will activate the **Full Counter** Resonance.
 
 One of the best combat bells because it's mostly used while getting combo iframes and free dmg
 
-### _Variants_
+### Family Tree
 
 **Full Counter** has three different versions and a unique Tarnished effect.
 

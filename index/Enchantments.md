@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 21930
+revid: 22009
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -47,7 +47,7 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Everytime you hit your opponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be parried. The slash will deal the same amount as your main weapons M1 damage. If you do not grip someone within 3 hours, the Umbral Knight will kill you.</p></div></td>
+  <td><div><p>Everytime you hit your opponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be parried. The slash will deal the same amount as your main weapons M1 damage. (You don't have to kill someone every 3 hours because its no longer a curse)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>

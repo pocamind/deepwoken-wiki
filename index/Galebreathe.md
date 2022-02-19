@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 21791
+revid: 22013
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -17,10 +17,6 @@ Galebreathe is an [Attunement](Attunements.md) that grants the user the ability 
 Galebreath also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
 ## Training
-
-@nickthestick is ass at deepwoken tbh ngl hes also a nigEEEr
-
-  
 
 Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
 

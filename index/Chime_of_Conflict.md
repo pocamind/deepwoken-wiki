@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 21623
+revid: 21967
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -35,7 +35,7 @@ Afterwards, players will be waiting in the queue and be put in a match with thei
 
 ## Rules
 
--   **Power range -** ~When selecting opponents, the game will match players who are at most 15 Power levels apart from one another.~ False. I was power 46 and fought a power 23. (It may be possible that matchmaking may be done based on equipment or solely based on whoever clicks on ready at the same time as you)
+-   **Power range -** When selecting opponents, the game will match players who are at most 15 Power levels apart from one another.
 -   **One round -** There is only a single round. Killing your opponent means winning the match and returning to the matchmaking lobby.
 -   **Elimination** **\-** Dying removes the player from the round.(3v3 only)
 -   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players.

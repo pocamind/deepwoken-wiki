@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 21612
+revid: 21940
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -124,8 +124,8 @@ A list of locations (maps) that can be found when entering the PVP Arena.
 
 3v3:
 
--   The Unearthed Colloseum
--   \-
+-   The Unearthed Colosseum
+-   Forest Arena
 
 ## Trivia/Notes
 

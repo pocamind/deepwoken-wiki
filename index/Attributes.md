@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 21928
+revid: 22003
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -31,21 +31,13 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
-Template:“Hey bro how’d you get like that?”
-
-    {{“Every time I get gripped by a gale user, I do **ONE** push-up”}}
-
-Template:“Jesus Christ!”
-
-\-An Exchange Between A Buff Canor and A Freshie Vesperian
-
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
     -   For every 10 Points of Strength, gain 1% Penetration.
 -   Some Weapons, such as Greatswords, requires a Strength requirement to wield.
 -   Unlocks Strength-related Talents and Strength Mantras.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
--   Uncapped by going to the Tomb of The Nameless Warrior, breaking past the hidden door, climbing under the coffin, and reading the book on the floor.
+-   Uncapped by going to the Tomb of The Nameless Warrior, breaking past the hidden door, climbing under the coffin, and reading the book on the floor
 
 ### Fortitude
 

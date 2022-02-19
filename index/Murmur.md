@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 21803
+revid: 22007
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -16,7 +16,7 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 
 ## Overview
 
-Like [Oaths](Oaths.md), players can only obtain one Murmur. **_Booty bandit🤤🤤🤤_**
+Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
 Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable.
 
@@ -60,4 +60,4 @@ When you first obtain Tacet you can be spotted from far away, making it relative
 
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 
-This quest requires 30 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
+This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
