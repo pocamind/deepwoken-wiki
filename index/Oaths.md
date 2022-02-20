@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22065
+revid: 22139
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -91,6 +91,10 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 ### **Known Abilities**
 
+The mantras and passives are obtained by giving additional feathers to Surge after the first one required to obtain the oath.
+
+\[Talents\] are rolled like regular talents when powering up.
+
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
@@ -114,8 +118,11 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.
 
--   **Unreleased Passive**
--   **Unreleased Passive**
+-   **Vanishing Closure - \[Rare talent, Visionshaper\]**
+    -   Become invisible for 2.5 seconds whenever you knock an enemy.
+    -   No (or very low) cooldown.
+    -   Enchant and visionshaper effect are still visible due to a bug.
+-   **Another talent (more info needed)**
 
 ### **Effects**
 
@@ -126,7 +133,6 @@ The oath change the eye color of the user to purple and make a purple particle e
 ### Notes
 
 -   The willpower talent, [disbelief](Talents.md) only seems to affect illusionary servants, in which the talent reduces the duration of servants almost to nothing. Otherwise all other visionshaper moves are unaffected by the [disbelief](Talents.md) talent.
--   **Arch\_Mage** confirmed that 2 more talents are on the work after being asked regarding the 3/? talent count for the oath.
 
 ## Trivia/Notes
 

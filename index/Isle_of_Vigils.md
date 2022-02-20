@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 22020
+revid: 22160
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,12 +31,12 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 #### Camp
 
--   Players can find Friid, a spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
+-   Players can find Friid, a Celtor spelltrainer who can upgrade your [Galebreathe](Galebreathe.md) Mantras.
 -   Players can find a permanent campfire here.
 
 #### Inn
 
--   Players can spend here to change their spawn-point.
+-   Players can spend to change their spawn location.
 
 #### Mantra Shop
 

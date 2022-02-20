@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22091
+revid: 22158
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -20,25 +20,31 @@ Enchantments are extremely rare and very powerful upgrades for your equipment. Y
 
 Enchanted weapons are very special. Therefore, it has some limitations placed on it:
 
--   You can't have more than one of a specific enchant equipped at a time. This means that if your helmet had Multiplicity and you were wearing Multiplicity boots, you'd need to take off the boots before equipping the helmet. Naturally, you can still have different types of enchant equipped.  
-    
+-   You cannot equip multiple copies of the same enchantment. If you were to find for example, an helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 
 -   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it. You can still switch weapons though.
     -   **Enchanted armors do not get soulbounded however.**
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 
 -   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
+-   Face, Ears and Torso equipments cannot be enchanted
+    -   Enchanted Face, Ears and Torso equipments created before 18/02/2022 are still enchanted and still applies their effect.
+-   You cannot have more than 3 equipment enchants at once.
+    -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Torso equipment from before 18/02/2022.
+        -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
 
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
 -   **Curses** - They have a very strong effect but a large downside.
 
+Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
+
 ## List of Enchantments/Curses
 
 **Weapons:**
 
-Will have an effect upon hitting something.
+Will have an effect upon hitting something. Please stop changing the curses effects on this page. Everything is already confirmed and tested many times. This goes especially to the people who really think that umbral knight is no longer a curse and that you dont need to grip people within 3 hours to survive or the people who think bloodthirsty only multiplies damage by 1.1x.
 
 **Curses:**
 
@@ -50,19 +56,19 @@ Will have an effect upon hitting something.
 </tr>
 <tr>
   <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>Everytime you hit your opponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be parried. The slash will deal the same amount as your main weapons M1 damage. (You don't have to kill someone every 3 hours because its no longer a curse)</p></div></td>
+  <td><div><p>Everytime you hit your opponent the Umbral Knight will teleport behind your opponent and try to slash them, though the slash can be parried. The slash will deal the same amount as your main weapons M1 damage. However, if you dont grip anyone within 3 hours the Umbral Knight will come and kill you.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 1.1x more damage and steals blood from your enemies. If you miss an M1, you will be damaged by 2%.</p></div></td>
+  <td><div><p>M1s deal 2x more damage and steals blood from your enemies. If you miss an M1, you will be damaged by the damage that your main weapon does (not multiplied by 2x)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and fast passive health regen even in combat. Equipping this curse will make your HP bar permanently stained and double bloodloss in the Etrean Luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a> The curse also plays a weird sound when equipped.</p></div></td>
+  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Equipping this curse will make your HP bar permanently stained and double bloodloss in the Etrean Luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a> The curse also plays a weird sound when equipped.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Every hit (mantra and physical) has a chance to deal 3x damage to the opponent. It also has a chance to deal 15% damage back to you. While the curse is equipped, it plays a weird sound.</p></div></td>
+  <td><div><p>Every hit (mantra and physical) has a chance to deal 3x damage to the opponent. It also has a chance to deal the same damage that your main weapon does back to you. While the curse is equipped, it plays a weird sound.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -157,8 +163,9 @@ Will have an effect upon hitting something.
   <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (Is currently only working on certain weapons)</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow (Unobtainable)</div></td>
-  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
+  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow (Unobtainable + Disabled)</div></td>
+  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.<br>
+  On 18/02/2022, the enchant was disabled, with the reason that "It was never meant to be obtainable, so copies in circulation were all dupes"</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -286,6 +293,7 @@ Drowned equipments grant, on top of their base stat:
 10 Ether  
 20 Reservoir  
 10 Sanity  
+While they are only stats increases, they are still valuable as it would take an insane amount of luck to generate an equipment with this much stats alone.  
 Due to a bug, the stats will not be showned when looking at the equipment throught a campfire, they do apply normally however.
 
   

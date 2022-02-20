@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 22055
+revid: 22171
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -31,6 +31,3 @@ _"_
   
 
 \-Repeated ramblings of a man found within the depths by the Ignition Union, before disappearing with one of the members.
-
-  
-oh yeah this is required for illusionist im fairly sure someone make the page look pretty by putting like how to get here and what you get please

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 21275
+revid: 22142
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -70,7 +70,6 @@ Mark of the Lone Warrior's talent description
 -   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.
 -   **Stone Knight -** Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attacks if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all cost (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick.
 -   **Alpha Megalodaunt + Parrying Challenge -** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amount of damage. There is a common misconception that parrying the orbs redirects the damage to the boss, this isn't true, you _need and have_ to engage the Megalodaunt in order to kill it.
--   you can cheese Trial of One with Exoskeleton
 
 ## Notes
 

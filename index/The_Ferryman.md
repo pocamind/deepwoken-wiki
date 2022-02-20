@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 22011
+revid: 22179
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -142,7 +142,8 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     
 
 -   Dying to the ferryman will turn your screen grey as though you were still in the voidsea, this may be a bug with the voidsea in general.
--   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)  
+-   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
+-   Ferryman is **awful** for [Resonance](Resonance.md), it is highly recommended going for anything else but Ferryman for [Resonance](Resonance.md) progression. ( 50+ Ferrymans no Resonance. )  
     
 
 ## Bugs

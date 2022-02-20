@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22072
+revid: 22181
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -105,7 +105,7 @@ Lightning Strike
  |
 |  | 
 
-Lightning Kick  
+Thunder Kick  
 (★☆☆)
 
  | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
@@ -154,6 +154,7 @@ Bolt Piercer
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Might need an Intelligence stat, or another stat in order to unlock.
+-   Possibly a rare mantra card
 
  |
 
@@ -206,7 +207,13 @@ Lightning Cloak
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
+-   Lightning cloak is a legendary mantra card (confirmed in the official updates channel)
 
+File:Image 2022-02-19 113737.png
+
+Stop removing this, it's indisputable and you can see for yourself if you still don't believe it
+
+  
  |
 
   

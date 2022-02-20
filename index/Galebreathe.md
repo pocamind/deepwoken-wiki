@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 22013
+revid: 22170
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -107,6 +107,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
 -   The user is invincibile during casting.
 -   Deals _possibly moderate-heavy_ damage.
+-   Can be upgraded with Cloudstone/Stratus stone
 
  |
 

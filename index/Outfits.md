@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 22028
+revid: 22138
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -130,6 +130,7 @@ _Requires Fortitude 10_
 | File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants 4 (Random) Buffs | Depths Chests |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants 2 (Random) Buffs | Depths Chests |
 | File:Guardian helm.png | Guardian Helm | 1-2 Buffs | Primadon, Artifacts |
+|  | Legate Helm | 1-2 Buffs | Arena Chests |
 
 **Face:**
 
@@ -192,6 +193,7 @@ Damage Vs. Deep
 |  | Tundra Scarf | Grants a random buff | Hive Chests |
 |  | White Scarf |  | Hive Chests |
 |  | Desert Scarf |  | Hive Chests |
+| File:Onepiececape.png | Red One Piece Cape | 2 Random Buffs | Summer Island chests |
 |  | There's a lot more scarves out there, someone add them |
 
 **Arms:**
@@ -265,6 +267,9 @@ Depths chests
  |
 | File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Currently Unobtainable |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants 2 (Random) Buffs | Depths and Hive Chests |
+|  | Woodland Pauldrons | Grants 2-3 (Random) Buffs | Ship and Hive Chests |
+| File:Grayjusticarcoat.png | Gray Justicar Coat | (?) | Hive Chests |
+| File:Whitefurpauldrons.png | White Fur Pauldrons | (?) | Erisia and Hive Chests |
 
   
 

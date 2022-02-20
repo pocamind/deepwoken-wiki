@@ -1,8 +1,9 @@
 ---
 title: Aelita
-revid: 20528
+revid: 22164
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Aelita

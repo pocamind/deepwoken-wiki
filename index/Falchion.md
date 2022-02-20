@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 22094
+revid: 22162
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -28,4 +28,4 @@ categories: [Weapons, Weaponry]
 
 ## Notes
 
-This weapon has a rare chance of possible obtainment from chests in Erisia whilst it has somewhat an uncommon chance for the gold plate trade.
+This weapon has a chance of obtainment from chests in Lower Erisia whilst it has somewhat uncommon chance for the gold plate trade.

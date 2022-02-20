@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22123
+revid: 22145
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -149,7 +149,7 @@ Yun'shul
 -   **Encountered In:** _Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
 -   **Alliances:** _Vigil of Winds (Neutral)_
--   **Enemies:** _The Central Authority, The Hive, The Contractors_
+-   **Enemies:** _The Central Authority, The Hive_
 -   **Lore Sources:** _Etris_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
@@ -180,8 +180,8 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, Knives of Eylis_
 -   **Lore Sources:** _Gremorian Longspear Description_
--   A nomadic tribe of Gremor, who worship the goddess(?) Navae.
--   Not much more is known for the Navaen tribe, but given the fact that they are all Gremor- it's safe to say that they follow the same lore as Gremor.
+-   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, who worship the goddess(?) Navae.
+-   Not much more is known for the Navaen tribe, but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 
 ### The Old Stewards
 
@@ -201,6 +201,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
 -   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw
+-   They appear to have once been allies with the Authority, but some treaty was broken between them and are now at war
 
 Amara, a Member of The Legion.
 
@@ -263,7 +264,8 @@ A Dark Mage, located in Minityrsa.
 -   **Lore Sources: Whaling Knife description and Whaler Armor**
 
 -   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
--   As of 1/23/2022, there is not much information about them.  
+-   As of 1/23/2022, there is not much information about them.
+-   They posess a fleet of some kind and constantly walay Etris ships  
     
 
 ### The Ignition Union
@@ -275,7 +277,7 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Summer Company, The Divers_
 -   **Lore Sources:**
 
--   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful most times.
+-   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 
 ### The Central Authority
@@ -285,15 +287,17 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
--   **Lore Sources:** _Authority Interrogator Talents_
+-   **Lore Sources:** _Authority Interrogator Talents, The Vigil Librarian, Weapon descs._
 
 -   The Authority are a faction of Peacekeepers, and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly of Adrets, but can vary with other races too.
+    -   Canors were once a major part of their military, but appear to have been phased out for the most part
+-   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule
 -   The Central Authority (as of we know now) use 3 attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by Footsoldiers and Wardens alike.
-    -   The Central Authority's Thundercallers are footsoldiers; but they are notoriously known for torturing their prisoners with electricity.
+    -   The Central Authority's Thundercallers are footsoldiers; but they are notoriously known for torturing their prisoners with electricity. Also utalised in breaking up protests.
     -   The Central Authority's Frostdrawers are commanding officers.
 
 A Peacekeeper Commander, part of The Authority
@@ -419,6 +423,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 "_With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people."_
 
 -   A race of canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
+-   Once heavily employed as soldiers of the Authority
 -   Little is known about their origins...
 
 ### Gremor
@@ -804,6 +809,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
--   Mudskippers _used_ _to_ talk to each other, but it was declared that it was a Dialogue bug.
+-   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 
 Talking Mudskippers

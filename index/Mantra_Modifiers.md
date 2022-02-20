@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 22082
+revid: 22173
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -310,6 +310,10 @@ Could give insanity on to the target if attack hits.
 also looks identical to falseflame.
 
  |
+
+The falseflame, haunting, and mirage stone are all dropped by jellyfish in the depths.
+
+  
 
 ### **Specific Effects of Sparks**
 
