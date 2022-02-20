@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 20185
+revid: 22257
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,6 +28,7 @@ This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   Primadon Chests
 
 ## Trivia/Notes
 

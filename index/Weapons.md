@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22219
+revid: 22259
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -18,7 +18,7 @@ categories: [Weaponry, Character]
 
   
 
-_Tools_ _constructed with the intent to harm others, polished to be horrible_
+_Toollls_ _constructed with the intent to harm others, polished to be horrible_
 
 _killing devices._
 
@@ -650,7 +650,7 @@ Clubs are weapons.
 
 **Heavy Weapons:**
 
-Heavy Weapons are two-handed weapons. They are slow, but have superior range and pack quite a punch.
+Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch.
 
 **Greataxes:**
 

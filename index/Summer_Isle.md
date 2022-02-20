@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 22119
+revid: 22256
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -75,7 +75,7 @@ In conclusion, forging is _very, very overpowered_ as you can get gear that has 
 ### _**Inn**_
 
 -   The Innkeeper, setting your spawnpoint here costs 5 Notes.
--   The Guildmaster.
+-   The Guildmaster. (Located in the building behind Trig's Quest)
 
 ### _**Thundercall Trainer**_
 

@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 20870
+revid: 22258
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -26,7 +26,7 @@ Upon character customization, you can choose from 5 different attunements. You c
 
 Choosing Random gives you any of the 4 attunements even if you already picked one. However, the next time you create your character in that slot it will not save.
 
-[Shadowcast](Shadowcast.md) can only be unlocked, after you unlock it you will be able to choose it when creating your character. Other attunements can be unlocked during gameplay, up to a maximum of 2 attunements per character. However your base and any unlocked attunements will become selectable during character selection, becoming permanent progression.
+[Shadowcast](Shadowcast.md) can only be unlocked, after you unlock it you will be able to choose it when creating your character. Other attunements can be unlocked during gameplay, up to a maximum of 2 attunements per character can be kept for when you create. However your base and any unlocked attunements will become selectable during character selection, becoming permanent progression.
 
 More info can be found on the [Attunement](Attunements.md) page
 
