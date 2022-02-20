@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 21505
+revid: 22209
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Jar of Souls** is a [Resonance](Resonance.md) or "bell" (soo trash wipe if you get it) (dont wipe if u get this lol it a waste of an account if u do) that players can obtain, and is common to roll.
+**Jar of Souls** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### _Appearance_
 
@@ -43,3 +43,4 @@ Pressing C will activate the **Jar of Souls** Resonance.
 ## Trivia/Notes
 
 -   Version one of jar of souls is very similar to minecraft dungeon's "corrupted beacon" in which both requires souls to cast and shoots out a laser beam that does continuous damage.
+-   Many people consider this one of the worst bells you can obtain. This is up for debate though.

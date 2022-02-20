@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 21731
+revid: 22202
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -83,4 +83,4 @@ Free hat on spawn
 -   In real life, Ganymede is one of the many moons of Jupiter.
 -   Ganymede NPCs that are found at the Aratel Island possess Flamecharm magic.
 -   The Ganymedes may be inspired by insects, considering their relation to Vesperians. (Both races share similarities to [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
--   One of the most valuable traits for Ganymedes is their invulnerability to insanity, making it so you don't need to exit the depths when grinding to reset insanity.
+-   One of the most valuable traits for Ganymedes is their invulnerability to insanity, making it so you don't need to exit the depths when grinding to reset insanity. (They aren't invulnerable to insanity, just more resistant to it)

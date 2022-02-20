@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 19259
+revid: 22192
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food]
@@ -46,7 +46,7 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 ### **Known Boosts:**
 
 -   _"You feel your wounds closing up..."_ This buff slightly increases the user's health regeneration speed.
--   _"You Feel as though you could last more without Eating..." =_ This buff significantly decreases the user's starvation speed.
+-   _"You Feel as though you could go longer without food..." =_ This buff significantly decreases the user's starvation speed.
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 21566
+revid: 22189
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -76,7 +76,7 @@ An organization that preserves whats left before the tides came. Historians that
 ### **Nomads of Navae**
 
 -   Affiliations - Neutral
--   Hostile against - Bandits, Summer Company, Ministry
+-   Hostile against - Bandits, Summer Company, Ministry, Etrea (Legit grip guards)
 -   Appearance - Navaen Armor, Gremors
 -   Equipment - Spears, Swords, Fists, Frostdraw Spells
 -   Player Reputable? - Yes

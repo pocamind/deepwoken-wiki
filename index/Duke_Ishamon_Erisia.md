@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 21082
+revid: 22208
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -56,11 +56,11 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
 -   Schematics
--   [Rare Weapons](Weapons.md) (Shattered Katana, etc.)
+-   [Rare Weapons](Weapons.md) (Shattered Katana, Crypt Blade, etc.)
 -   [Magic Uncap](Attributes_Unbound.md) (if the requirements are met)
 -   [Deep Gem](Deep_Gems.md)
 
-You also gain a large amount of [Luck](Luck.md), and [Resonance](Resonance.md) (Bell) Progress.
+You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.md) (Bell) Progress.
 
 ## Notes/Tips
 
