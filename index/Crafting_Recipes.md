@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 20685
+revid: 22232
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -75,7 +75,7 @@ Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
 -   **Omelette/Cooked Egg** - _2 Eggs_
 -   **\[V\] [Mushroom Omelette](Mushroom_Omelette.md)** - _2 Eggs 1 Mushroom (Not sure if you can use any mushroom)_ (Increased weapon damage)
 -   **\[C\]** Fish Omelette - 1 Fish Meat, 2 Eggs (Buffs Mantras)
--   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Increased heal rate, makes you thirsty)
+-   **\[V\] \[C\] [Sticky Bun](Sticky_Bun.md)** - 1 _Sap, 3 Gathered Wheat_ (Buffs ether regen, takes away 1 bar of water)
 -   **\[C\] Cooked Fishmeat** - _1 Fishmeat_
 -   **\[V\] \[C\] [Plumfruit Muffin](Plumfruit_Muffin.md)** - 1 _Plumfruit, 1 Gathered Wheat_
 -   **[Fruit Cake](Fruit_Cake.md)** - _2 different Fruits, 1 Gathered Wheat_

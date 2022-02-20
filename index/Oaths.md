@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22139
+revid: 22216
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -86,7 +86,7 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 1.  Complete Aelita's Encounter in Valley of Heroes at least once.
 2.  Find Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
-3.  Bring him a Void Feather. If Surge become OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the Nestmind and make sure to take the first options "I accept" once the Nestmind mention food. You will obtain Oath: Visionshaper.
+3.  Bring him a Void Feather. If Surge becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the Nestmind and make sure to take the first options "I accept" once the Nestmind mentions food. You will obtain the Oath: Visionshaper.
 4.  Bring additional Void Feathers to Surge to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
 
 ### **Known Abilities**
@@ -99,7 +99,7 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   Spawns an illusion of yourself that targets the closest enemy. Only they and yourself can see it.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
-    -   While the clone deal fake damage, it still applies hitstun.
+    -   While the clone deal fake damage, it still applies hit-stun.
 -   **Illusionary Realm - Combat Mantra**
     -   After a slight delay, teleport you and a nearby enemy in an alternate dimension for 15 seconds.
     -   Damage taken in the realm is real, but 50% of lost HP while inside is restored when the realm expires.
@@ -122,7 +122,8 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   Become invisible for 2.5 seconds whenever you knock an enemy.
     -   No (or very low) cooldown.
     -   Enchant and visionshaper effect are still visible due to a bug.
--   **Another talent (more info needed)**
+
+-   **Lasting Image - \[Common talent, Visionshaper\]**
 
 ### **Effects**
 

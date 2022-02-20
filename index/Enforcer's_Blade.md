@@ -1,34 +1,16 @@
 ---
 title: "Enforcer's Blade"
-revid: 21625
+revid: 22228
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Pages with broken file links, Weaponry, Weapons]
 ---
 
 # Enforcer's Blade
 
-| Enforcer's Blade | |
-|---|---|
-| type | Greatsword |
-| requirements | 80 HVY 25 STR |
-| damage | 25 |
-| scaling | HVY: 9 |
-| range | 8.5 |
-| swing speed | 0.54x |
-| endlag | ? |
-| special effect | 15% Chip |
-| stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 25 |
-| weight | 10 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Depth Loot-Table |
-| description | ? |
-
 # Enforcer's Blade
+
+File:Enforcers Sword.png
 
 ## Description
 
@@ -40,6 +22,8 @@ Video of someone obtaining the Enforcer's Blade : [https://www.youtube.com/watc
 
 ## Notes
 
-\-The Enforcer's Blade is the slowest weapon in-game \[Just Matching the Axe\]
+\-The Enforcer's Blade is the slowest weapon in-game \[Just Matching the Axe\].
 
-\-The Drop appears to be much rarer than the Enforcer's Axe \[It took me 23 enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade.\]
+\-The drop appears to be much rarer than the Enforcer's Axe \[It took me 23 enforcer kills to get one, got 14 mantra modifiers, 8 Axes, 1 Blade\].
+
+\-With 80 heavy weapon skill, The Enforcer's Blade does exactly 43 damage.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22204
+revid: 22221
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -55,7 +55,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
+  <td><figure>File:Curse of the umbral knight in Infernasu's video.jpg<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
   <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This has a 5-second cooldown. (No longer a "Curse")</p></div></td>
 </tr>
 <tr>

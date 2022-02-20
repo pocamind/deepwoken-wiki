@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 21980
+revid: 22214
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -43,3 +43,4 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 -   Sometimes you can log if he detects you.
 -   HEAVY WEAPON COMBAT TIP: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
+-   Nautilodaunt is a reference of Vilgax from ben 10 -Yield
