@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 22121
+revid: 22274
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
     -   The altitude travelled decreases significantly as the user loses health.
-    -   Requirement: 50 Strength, _Strength Mobility Mantra_  
+    -   Requirement: 40 Strength, _Strength Mobility Mantra_  
         
 
 ### _**Fortitude Mantras**_
@@ -41,7 +41,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
 -   **Reinforce** - Buff those around you with extra defense.
-    -   Reduces incoming damage and completely reduces (Negates? (yes)) armor damage.
+    -   Reduces incoming damage and completely negate armor damage.
     -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
     -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
     -   _Can be upgraded with the "Blood Shadow" talent card, which saps health from people you reinforced back onto you until the effect wears off._
@@ -91,6 +91,7 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
     -   Could be very dangerous for Willpower-less with Curse of the No Life King user
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
+    -   The mantra does not only clear your posture, it transfers it to the target.
     -   Requirement: 40 Willpower, _Willpower Combat Mantra_
 
 ### _**Charisma Mantras**_

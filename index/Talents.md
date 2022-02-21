@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22253
+revid: 22286
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -456,7 +456,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
     -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect.
-    -   Prerequisites: 20 fortitude(Fake prereq actually i got it at 16 so not exactly sure but lower than 20)
+    -   Prerequisites: It has none, people say it's required around 20 Fortitude, however I was able to get it with 0.
 
 ### Mental Fortress
 
@@ -959,7 +959,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Alchemist
 
--   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the Sceptic Pioneer Outfit)
+-   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the Sceptic Pioneer Outfit)(Can also be obtained through cards)
 
 **Prophet's Cloak**
 

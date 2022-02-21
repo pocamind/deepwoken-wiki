@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 22074
+revid: 22289
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -19,7 +19,7 @@ Template:Creature Infobox V3 Template:Creature Infobox V3 Template:Creature Info
 
 ## Description
 
-Megalodaunts are Giant shark-like [monsters](Monsters.md) which spawn in _[The Etrean Luminant](Luminants.md)_ and _[The Depths](The_Depths.md)_.
+The Megalodaunt is a Giant shark-like [monster](Monsters.md) which spawn in _[The Etrean Luminant](Luminants.md)_ and _[The Depths](The_Depths.md)_.
 
 Seen mostly around the island of Erisia, the Megalodaunt is the first monster that most new players will encounter. Players that are ill-equipped or lack insight on this enemy are mostly likely going to experience a swift death.
 
@@ -29,7 +29,7 @@ Upon being killed, it drops a [Megalodaunt Hide](Megalodaunt_Hide.md) or uncommo
 
 ## Variants
 
-Megalodaunts come in three different versions with two being corruptable, for a total of five "versions" of the monster you can encounter.
+Megalodaunts come in three different versions, with two able to be corrupted, for a total of five "versions" of the monster you can encounter.
 
 -   **Megalodaunt** - A normal Megalodaunt, with 1 000 health. In _The Depths_ you may encounter a Corrupted version, having three times as much health and dealing twice as much damage.
 -   **Crimson Megalodaunt** - A much more powerful, red version of the Megalodaunt with 3 000 health. The Crimson Megalodaunt appears exclusively in the [Songseeker Wilds](Songseeker_Wilds.md) with the Megalodaunt vs Crimson Megalodaunt random encounter.
@@ -42,7 +42,7 @@ Megalodaunts come in three different versions with two being corruptable, for a 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Slash**File:Slash.png | A short range **Slash** using their forearms. Often used twice in a row. Heavy posture damage. | ◯ | (★☆☆) |
-| **Kick** | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Causes the Dazed status if kicked into a wall. This ability is very dangerous as it cannot be blocked and can send you into unwanted situations. | ✗ | (★★☆) |
+| **Kick** | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Causes the Dazed status if kicked into a wall. This ability is very dangerous as it cannot be blocked and can send you into unwanted situations. | ✗ | (★★★) |
 | **Jump** | If the target is above it, the Megalodaunt will **Jump**, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | (★☆☆) |
 | **Spit** | A long-range single target ability. Hits multiple times. | ◯ | (★☆☆) |
 | **Thousand Needles** | The Megalodaunt bends over and points its coral tubes towards a target, proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | (★☆☆) |
@@ -81,7 +81,7 @@ The trick to defeating the Megalodaunt is to practice getting ready to dodge or 
 
 ## Trivia & Notes
 
-Megalodaunt's swimming animation.
+A Megalodaunt swimming.
 
 -   It is the most common Giant Type enemy.
 -   Sharko's have swimming animations, as seen on the right.

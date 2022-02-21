@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22221
+revid: 22292
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Weaponry, Armors, Character]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Chests](Chests_&_Sacks.md) in any location, on any piece of equipment.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [chests](Chests_&_Sacks.md) in any location, on any piece of equipment.
 
 Enchanted weapons are very special. Therefore, it has some limitations placed on it:
 
@@ -60,7 +60,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 2x more damage and steals blood from your enemies. If you miss an M1, you will be damaged by the damage that your main weapon does (not multiplied by 2x)</p></div></td>
+  <td><div><p>M1s deal 1.1x more damage and steals blood from your enemies. If you miss an M1, you will be damaged by 2%.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>

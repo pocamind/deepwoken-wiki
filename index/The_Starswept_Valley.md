@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 22125
+revid: 22273
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,7 +48,7 @@ Events that spawn in Starswept Valley that involve combat. For more info, see [R
 
 ## Events
 
-Events that spawn in Starswept Valley that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+Events that spawn in Starswept Valley that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md). meat lord is the best
 
 -   [The Meat Lord](The_Meat_Lord.md)
 
@@ -126,6 +126,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 ### [Weapons](Weapons.md)
 
 -   Apprentice's Rapier
+-   Master Hawk's Handaxe
 -   [Champion's Sword](<Champion's_Sword.md>)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
@@ -136,6 +137,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Sacred Hammer](Sacred_Hammer.md)
 -   [Shattered Katana](Shattered_Katana.md)
 -   Tanto
+-   legion cestus
 
 ### Miscellaneous
 

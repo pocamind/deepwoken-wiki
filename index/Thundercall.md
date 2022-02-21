@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22181
+revid: 22278
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -45,6 +45,7 @@ Lightning Blade
 
 -   Applying magnetic spark on it teleports you to your target. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
+-   There is a talent to summon a third lightning slash if you press f while using the move. This one does not require you to hit anything with the first two slashes. It should also be noted that this allows for a lot of switch up potential if your opponent doesn't know that you have the ability, although can be parried with skill due to the visual cue of lightning striking the user.
 
  |
 |  | 
@@ -111,6 +112,7 @@ Thunder Kick
  | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
 
 -   This can be upgraded with a Talent card.
+-   Talent card allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning if they block, dodge, or parry it, the second kick will not activate.
 
  |
 |  | 
@@ -154,7 +156,7 @@ Bolt Piercer
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Might need an Intelligence stat, or another stat in order to unlock.
--   Possibly a rare mantra card
+-   Most likely a rare mantra card
 
  |
 
@@ -181,6 +183,7 @@ Spark Swap
 -   This can be used on NPCs or players.
 -   Estimated 300 - 350 Stud Range
 -   Cannot be used while in water or airborne.
+-   Very good for escaping situations, as shown in this video [https://www.youtube.com/watch?v=ohcVRP5oz5w](https://www.youtube.com/watch?v=ohcVRP5oz5w)
 
  |
 
@@ -195,6 +198,7 @@ Lightning Assault
  | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
+-   Can be upgraded with cloud stones. I tested with drift shards, but didn't see a huge difference.
 
  |
 | 

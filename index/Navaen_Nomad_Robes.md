@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 20588
+revid: 22262
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found in:
 
 -   The Navaen Nomad camp outside Etris.
 -   [Minityrsa](Minityrsa.md).
+-   Erisia
 
 ## Trivia/Notes
 

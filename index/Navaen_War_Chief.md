@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 20379
+revid: 22283
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,9 +25,12 @@ This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which gran
 
 ## Location
 
-This Outfit's Schematic can be found in:
+This Outfit's Schematic is obtainable from:
 
 -   [The Depths](The_Depths.md)
+-   [The Duke](Duke_Ishamon_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   Possibly the Hive.
 
 ## Trivia/Notes
 

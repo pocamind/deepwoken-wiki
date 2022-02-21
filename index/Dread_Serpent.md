@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 22184
+revid: 22297
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -33,7 +33,7 @@ able?
 
 ## Notes/Tips
 
--   Gives you a [Murmur](Murmur.md) when he dies if you contributed enough damage.
+-   Gives you a [Murmur](Murmur.md) when he dies if you contributed enough damage. You must hit him once to obtain the murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting Kaido in a group, get a few hits in to be safe.
 -   Spawns in large patches of floating bubbles.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.

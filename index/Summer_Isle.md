@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 22256
+revid: 22267
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -213,7 +213,7 @@ Possible items found after completing Scope's quest
 -   Burgundy/Beige/Slate Tophat
 -   Burgundy/Beige/Slate Aristocrat Coat
 -   Novice Boots
--   (Emerald) Fleet Warden Cape
+-   (Emerald, Scarlet) Fleet Warden Cape
 -   Amethyst(4-5)
 -   Ruby(3-4)
 -   Saphire(3-4)

@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 22096
+revid: 22275
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon, Depths, Fort Merit & Hive Chests |
+| obtainment | Primadon, Depths, Fort Merit, PvP & Hive Chests |
 | description | N/A |
 
 ## Description

@@ -1,16 +1,16 @@
 ---
 title: Stratos
-revid: 22079
+revid: 22287
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Stratos
 
 File:Vigil.png
 
-An albino Felinor, dressed up as a Temple of Blades Guard.
+An albino Felinor, dressed up as a Temple of Blades Guard. (Does not affect dialogue)
 
 **Stratos, an NPC in the 'Temple of Blades'.**
 

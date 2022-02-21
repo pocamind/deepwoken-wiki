@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22199
+revid: 22276
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -729,7 +729,7 @@ This category lists new lore that has been added into Deepwoken through updates.
 (2/18/2022 Update)
 
 -   In the Summer of Year 1286, Blue-like falling 'stars' were observed to be falling on Aratel Island.
-    -   There are theories that these stars are assumed to be fallen fragments of the celestial city, seen through the Celestial Telescope in Greathive Aratel.
+    -   There are theories that these stars are assumed to be fallen fragments of the celestial city, seen through the Celestial Telescope in Greathive Aratel. However, Shirafune has said these are meant to show that meteors fall in the area.
 
 ## Miscellaneous
 
