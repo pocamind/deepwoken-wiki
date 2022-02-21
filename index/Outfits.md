@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 22138
+revid: 22327
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -364,5 +364,6 @@ _Requires Power Level 30_
 -   Arch confirmed that there are **5** master outfits. So far, only 4 outfits have been found.
 -   If you have crafted the outfit, you can swap back to it again. This can be done with all outfits — as long as you've crafted it on that character.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the blacksmith.
+    -   It is possible, however, that Royal Bodyguard is the last master outfit.
 -   Some Armors such as Star Duster require enough Power to use.
 -   **Providence Coat** might be a reference to the coat **Dante from the Devil May Cry series** wore in the 5th installation of the game Devil May Cry 5.

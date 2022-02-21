@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 21942
+revid: 22325
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -47,8 +47,8 @@ _Can only be used when your close to the subject you want to sacrifice._
 
 Charisma, Rare
 
- | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a limited range unlike all other commands. |
-| Live | Yes, 75 Charisma, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko \[Once per hour\]. |
+ | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls. Has a range limit. |
+| Live | Yes, 75 Charisma, Legendary | "_\[Name\]_, live" | Gives the Subject full health and removes ko \[Once per hour\]. Has a range limit. |
 
 ## Trivia/Notes
 

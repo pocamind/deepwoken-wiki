@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 21042
+revid: 22328
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -19,7 +19,7 @@ categories: [Weapons, Weaponry]
 | endlag | ? |
 | penetration | None |
 | stances | 1 Handed |
-| selling price | ? |
+| selling price | 25 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

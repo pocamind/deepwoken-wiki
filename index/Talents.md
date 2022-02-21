@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22286
+revid: 22316
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -14,7 +14,7 @@ notices:
 
 ― Selection Flavour Text
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two or five Talent Cards.
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two to five Talent Cards.
 
 ## Overview
 

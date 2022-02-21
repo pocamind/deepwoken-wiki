@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22313
+revid: 22322
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -396,18 +396,20 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ## Race Lore
 
+For people who wish to see the races, head to [here.](Aspects.md)
+
 ### Etrean
 
 "_Defined by their snake-like features and cunning. Isolationists who tend to their own interests."_
 
--   A race most commonly found in the Etrean Luminant and often defined as "xenophobic" due to their dislikes of other races.
+-   A race most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their dislikes of other races.
 -   The people of [Etris](Etris.md) has been in scrambles ever since their king had left them and the current reigning lord (Lord Regent) causing evident dismay to his people, rather than helping them.
 
 ### Celtor
 
 "_Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike."_
 
--   A prideful and greedy race that used to live in a great city known by many for their legendary bankers and overall wealth, but was eventually swept by the tides, and dragged to the bottom of the ocean and into the [Depths](The_Depths.md) where it stands today.
+-   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the tides, and dragged to the bottom of the ocean and into the [Depths](The_Depths.md) where it stands today.
 
 ### Adret
 
@@ -415,8 +417,9 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 
 -   A recently arrived race of spiritually adept individuals that make up the bulk of the Adretian Authority.
 -   Their tattoos (markings on their face) represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
--   Stated as "different" and not from the "old world", as well as not being related to any animals unlike the other races as stated by an NPC in [Summer Isle](Summer_Isle.md).
+-   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". He also states that the Adrets are not related to an animal unlike the races.
 -   According to **Shirafune**, the Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
+-   Arch\_mage confirmed they are **NOT** fishes.
 
 ### Canor
 
@@ -461,7 +464,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 
--   A race of goats that are keepers of ancient secrets, who traverse the seas and sharing knowledge to those who need it.
+-   A race of goats who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
 -   Little is known about their origins...
 
 ### Ganymede
@@ -477,7 +480,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_The stars call you back..."_
 
--   Childrens of **a** Celestial, the Lightborn are considered fragments of these once great beings who lived above in the sky.
+-   Children of Celestials, the Lightborn are considered fragments of these once great beings who lived above in the sky.
 -   In recent times, a family of Lightborn known as the Spellhardts have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
 -   Rumored to be living in a mighty castle above in the sky, visible through the Celestial Telescope in the [Greathive Aratel](Greathive_Aratel.md).
 
