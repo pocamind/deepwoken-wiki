@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 20045
+revid: 22335
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ When used, small circles appear around your right arm. Per use, more circles wil
 
 Pressing C will activate the **Wind-Up** Resonance.
 
-**Wind-Up** will store a level of power that will be inflicted on your next attack. **Wind-Up's** max levels of power is five. Once dealing an attack that deals damage (trash damage????), you unleash a blast that deals no damage and knockback. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture but will not break it.
+**Wind-Up** will store a level of power that will be inflicted on your next attack. **Wind-Up's** max levels of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and knockback. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture but will not break it.
 
 ### _Variants_
 

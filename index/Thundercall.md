@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22278
+revid: 22330
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -231,7 +231,7 @@ Stop removing this, it's indisputable and you can see for yourself if you still 
 | 
  | Stormcaller Slash | Call forth the fury of the storms by pressing F at the end of the mantra Lightning Blade. | Adds a 3rd hit if you press F at the end of the mantra. | Stormblade |
 |  | Discovery of Fire | Flint and Flamecharm are for simpletons. | Lights all nearby campfires for a bit of ether. | Thundercaller |
-|  | Kickstart | Use your lightning to resurrect a knocked player, they wake up with about 15% hp. | ??? | ??? |
+|  | Kickstart | Use your lightning to resurrect a knocked player, they wake up with about 15% hp. | Play an animation and immediately revive knocked players. | ??? |
 | 
 
  | Static Fakeout | Roll cancelling immediately after a parry will cause you to teleport behind your opponent.

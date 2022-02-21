@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 22255
+revid: 22333
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -256,4 +256,5 @@ Impale/Impact
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
 -   Hostile Frostdrawers can be found as Navaen Nomads in Etris, as Songseeker monks in [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
+-   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022

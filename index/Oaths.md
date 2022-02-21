@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22309
+revid: 22334
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -107,9 +107,11 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
 
 -   **Illusionary Counter** **\- Support Mantra**
-    -   Do a pose and store 1 charge of Dodge. Getting hit while having a charge while negate the attacks and teleports the attacker to the other side of the user.
-    -   Charges can be stacked.
+    -   Do a pose and store 1 charge of Dodge. Getting hit while having a charge while negate the attacks and teleports the attacker behind the user
+        -   If the attacker has the Disbelief talent, the attacker and and user swap place instead.
+    -   Charges can be stacked infinitely and last forever until consumed, death or when logging of.
     -   Apply a short stun to the attacker.
+    -   Will work against practically anything, even fall damage.
 
 -   **Mirage From the Deep - Passive**
     -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
@@ -124,6 +126,7 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   Enchant and visionshaper effect are still visible due to a bug.
 
 -   **Lasting Image - \[Common talent, Visionshaper\]**
+    -   **Illusionary Servant** and **Cheap Trick** last longer.
 
 ### **Effects**
 
@@ -133,7 +136,7 @@ The oath change the eye color of the user to purple and make a purple particle e
 
 ### Notes
 
--   The willpower talent, [disbelief](Talents.md) only seems to affect illusionary servants, in which the talent reduces the duration of servants almost to nothing. Otherwise all other visionshaper moves are unaffected by the [disbelief](Talents.md) talent.
+-   N/A
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22322
+revid: 22331
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -396,7 +396,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ## Race Lore
 
-For people who wish to see the races, head to [here.](Aspects.md)
+For people who wish to see the races, head [here.](Aspects.md)
 
 ### Etrean
 
