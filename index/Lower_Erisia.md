@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 22023
+revid: 22310
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -115,14 +115,14 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 
 ### [Weapons](Weapons.md)
 
--   Mace
+-   [Mace](Mace.md)
 -   [Iron Spear](Iron_Spear.md)
 -   [Messer](Messer.md) (basic to one-star)
 -   [Steel Maul](Steel_Maul.md) (basic to one-star)
 -   [Scimitar](Scimitar.md) (basic to one-star)
--   Iron Cestus (basic to two-star)
--   Legion Cestus (basic to three-star)
--   Gilded Knife (basic to three-star)
+-   [Iron Cestus](Iron_Cestus.md) (basic to two-star)
+-   [Legion Cestus](Legion_Cestus.md) (basic to three-star)
+-   [Gilded Knife](Gilded_Knife.md) (basic to three-star)
 
 ### Miscellaneous
 

@@ -1,6 +1,6 @@
 ---
 title: Pomar
-revid: 16470
+revid: 22311
 source: https://deepwoken.fandom.com/wiki/Pomar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,5 +10,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Found growing on trees, pretty much anywhere on the map. Gives an alright amount of food/water. Occasionally can do damage to you when consumed (around 1%).
 
 Dropped by [Forest Golems](Hive_Construct.md)
+
+This item has many jokes made around it in the community saying it is very valuable or very good to eat
 
 Pomar

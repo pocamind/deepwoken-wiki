@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 22192
+revid: 22308
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food]
@@ -60,4 +60,4 @@ Probably these buffs can also be amplified with the "Apothecary" talent perhaps?
     
     A Individual who has crossed paths with The Meat Lord.
     
--   Having 0 thirst and/or 0 hunger will eventually kill you. Your health bar will slowly go down until it reaches 0 and you collapse on the ground and die.
+-   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches 0 and you collapse on the ground and die.

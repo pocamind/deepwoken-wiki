@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22107
+revid: 22314
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -30,7 +30,7 @@ After talking to Mark Adaset in the Castle of Light, he tells the player that th
 Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
   
-Also for anyone who saw that one edit here with a person claiming they have the layer 2 map is false, its just a scrapped island called ironfist.
+(Also for anyone who saw that one edit here with a person claiming they have the layer 2 map is false, its just a scrapped island called ironfist.)
 
 ## Escaping The Depths
 

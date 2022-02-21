@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22276
+revid: 22313
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -810,5 +810,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
+-   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
 
 Talking Mudskippers

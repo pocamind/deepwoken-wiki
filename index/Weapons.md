@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22259
+revid: 22315
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -18,11 +18,7 @@ categories: [Weaponry, Character]
 
   
 
-_Toollls_ _constructed with the intent to harm others, polished to be horrible_
-
-_killing devices._
-
-  
+_Tools_ _constructed with the intent to harm others, polished to be horrible_ _killing devices._  
 
 Weapons can be bought from shops, or obtained from [Chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils. [This is a guide that could help](https://www.youtube.com/watch?v=x-2wgmt4ZLM).
 
@@ -749,7 +745,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.54x</td>
 </tr>
 <tr>
-  <td>Relic Axe</td>
+  <td><a href="Relic_Axe.md">Relic Axe</a></td>
   <td>75 HVY</td>
   <td>25</td>
   <td>8% Chip Damage</td>
