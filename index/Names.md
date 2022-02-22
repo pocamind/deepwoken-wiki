@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 9717
+revid: 22495
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -552,3 +552,7 @@ You can choose whatever your name could be, but your last name can be limited de
 -   Zafirah
 -   Zemora
 -   Zoe
+
+## Trivia
+
+-   Names such as "Kaladin" and "Adolin" are references to the book series, "The Stormlight Archive" by Brandon Sanderson.

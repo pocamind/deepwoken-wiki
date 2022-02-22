@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22339
+revid: 22463
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -991,7 +991,7 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
   <td>25 MED, 75 WND</td>
-  <td>19</td>
+  <td>18</td>
   <td>35%</td>
   <td>MED: 5, WND: 4</td>
   <td>5</td>

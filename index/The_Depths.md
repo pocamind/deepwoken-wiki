@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22435
+revid: 22500
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -35,6 +35,8 @@ Further information on the Layers of the Depths is that Pleetsky, a renowned Fla
 ## Escaping The Depths
 
 File:Mnhfds8goqa81.png
+
+Detailed map of the entire Depths First Layer
 
 There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
 
@@ -83,10 +85,10 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 | Trial Power | Enemies |
 | --- | --- |
 | 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 10-16 | [Mudskipper Knight](Mudskipper.md) |
-| 17-29 | [Angels](Hollow_Angel.md) (Lesser) |
-| 30-47 | [Megalodaunt](Megalodaunt.md) |
-| 47+ (CAN BE AS LOW AS POWER 42) | [Enforcer](Enforcer.md) |
+| 10-19 | [Mudskipper Knight](Mudskipper.md) |
+| 20 - 29 | [Angels](Hollow_Angel.md) (Lesser) |
+| 30-49 | [Megalodaunt](Megalodaunt.md) |
+| 50+ | [Enforcer](Enforcer.md) |
 
   
 
@@ -232,7 +234,7 @@ Legendary = Gold
   <td><b>Navaen War Chief</b></td>
   <td><b><font>Crypt Blade</font></b></td>
   <td>Isshin's Ring</td>
-  <td>Royal Duelist</td>
+  <td><b>Darksteel Greatsword</b></td>
 </tr>
 </tbody>
 </table>

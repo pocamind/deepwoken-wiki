@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 22452
+revid: 22473
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster]
@@ -8,7 +8,7 @@ categories: [Monsters, Monster]
 
 # Terrapod
 
-Template:Creature Infobox V3 _"Yo, it's a crab! Lets go kill it, it probably drops NASTY loot!!!" - One poor, poor, freshie._
+Template:Creature Infobox V3 _"THEY ADDED HEADCRABS TO DEEPWO-" - One poor, poor, freshie._
 
 _Also known as Crabs._
 

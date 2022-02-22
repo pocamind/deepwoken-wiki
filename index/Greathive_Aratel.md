@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 22451
+revid: 22470
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -53,7 +53,7 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 #### Archive
 
--   placeholder
+-   Physical Mantra Trainer
 
 #### [Antiquarian](Antiquarian.md)
 

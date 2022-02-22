@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22461
+revid: 22486
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -289,7 +289,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Fish
 
--   Fishman \[Generic Talent, Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish
+-   Fishman \[Generic Talent,Rare Talent, not legendary anymore :( \] - Heal while swimming. Just remember that there's always a bigger fish
     -   Reduced health regen on land. Increased health regen while swimming.
     -   Doesnt affect health regen in [The Depths](The_Depths.md), since you are not swimming.
 
@@ -637,6 +637,7 @@ Prerequisite: Charisma
 
 -   Grasp on Reality \[Generic Talent, Common Talent\] - Damage taken from insanity is reduced. (+2 Health)
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
+-   Unfazed \[Generic Talent, Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
 
 ### Survival Instinct
 
@@ -1057,4 +1058,4 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   At Power 60, you will get a guarantee legendary talent card
 
   
-Template:Navbox:Talents dwdjqw3djkqbdkhqbekhqbehk2bekhqbekhqbehbekhwBHKWDWDDDWADWDQWDW
+Template:Navbox:Talents

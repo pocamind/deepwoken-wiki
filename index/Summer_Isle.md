@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 22425
+revid: 22498
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -30,10 +30,10 @@ The Summer Isle's main attractions are the firearms, which can be found inside t
 -   [Flintlocks](Flintlock.md) - 100 Notes. The first guns the player to access early-game, dealing 10 damage on hit.
 -   Req: 20 Light Wep..
 
--   [Revolvers](Repeater.md) - 200 Notes. Similar to the flintlocks with a slight increase in damage (13) and a massive increase in swing speed.
+-   [Revolvers](Repeater.md) - 200 Notes. Similar to the flintlocks with a slight increase in damage (13) and a massive increase in swing speed. (M1, M2 flow into each other, spammable)
 -   Req: 60 Light Wep..
 
--   [Dragoons](Dragoon.md) - 500 Notes. Similar to the flintlocks with a massive increase in damage (20).
+-   [Dragoons](Dragoon.md) - 500 Notes. Similar to the flintlocks with a massive increase in damage (20), but cooldown increased. (M1 M2 combo cannot be used back to back)
 -   Req: 60 Light Wep..
 
 Notes:
@@ -147,7 +147,7 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 -   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives.
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
--   Ignition Union Footsoldiers fighting with Summer Company Thugs.
+-   Ignition Union Footsoldiers fighting with Summer Company Thugs. \[Can now earn reputation towards the Summer Company or the Ignition Union\]
 -   Ministry Scout and several Bandit corpses around themselves.
 -   Nomads fighting off Ministry Scouts.
 

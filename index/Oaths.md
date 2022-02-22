@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22396
+revid: 22466
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -55,7 +55,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots.
 
 _"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."_
 
-**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 12 to obtain all stated requirements.
+**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all five Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 8 (or 6 if you started with 10 willpower) to obtain all stated requirements.
 
 ### Obtaining
 

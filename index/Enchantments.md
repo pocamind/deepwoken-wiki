@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22457
+revid: 22479
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -64,7 +64,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Equipping this curse will make your HP bar permanently stained and double bloodloss in the Etrean Luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a> The curse also plays a weird sound when equipped.</p></div></td>
+  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Equipping this curse will make your HP bar permanently stained and double bloodloss in the Etrean Luminant. <a href="https://medal.tv/games/roblox/clips/7qxnCL-R0xXfZ/kRbpeZfAEmlz?invite=cr-MSxoNUssNDc2NDI0NSw">You go insane significantly faster in The Depths and will die upon equipping the weapon.</a> The curse also plays a weird sound when equipped. You always have 1 life with this curse.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -83,7 +83,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>When at or under 40% of your health, you deal more damage (up to 25% extra). (Might also do more mantra dmg?)</p></div></td>
+  <td><div><p>Deal more damage at higher hp, (25% increase max) and do less when you are below 40% hp.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
@@ -160,12 +160,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (Is currently only working on certain weapons)</p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow (Unobtainable + Disabled)</div></td>
-  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.<br>
-  On 18/02/2022, the enchant was disabled, with the reason that "It was never meant to be obtainable, so copies in circulation were all dupes"</p>
+  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking. Your weapon does Posture Damage and Physical Damage in one swing, two birds with one stone. (Is currently only working on certain weapons)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -177,7 +172,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Every M1 connection regenerates a portion of HP. Heals slightly less from hits towards players (This is really bad for PvP only heals 1% per hit with a Shattered Katana).</p>
+  <td><div><p>Every M1 connection regenerates a portion of HP. Heals significantly less from hits towards players, but much more healing from mobs.(This is really bad for PvP only heals 1% per hit with a Shattered Katana).</p>
   <p><br>
   </p></div></td>
 </tr>

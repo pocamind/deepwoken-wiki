@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22411
+revid: 22497
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -155,7 +155,6 @@ Bolt Piercer
  | An arrow of lighting. | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
--   Might need an Intelligence stat, or another stat in order to unlock.
 -   Was formerly a legendary mantra, now either rare or common
 
  |
@@ -211,13 +210,8 @@ Lightning Cloak
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
--   Lightning cloak is a legendary mantra card (confirmed in the official updates channel)
+-   Lightning cloak is a legendary mantra card
 
-File:Image 2022-02-19 113737.png
-
-Stop removing this, it's indisputable and you can see for yourself if you still don't believe it
-
-  
  |
 
   
@@ -431,9 +425,8 @@ by pressing F at the end of the mantra Lightning Blade.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissapating after being hit by friend, foe and self.
 -   The Support move _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
--   ~The move _**Grand Javelin**_ functions very closely to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls series.~ It does not, at all. The only similar thing about it is the shared sound effect and casting animation. The actual function is completely different then any of the Lightning Miracles from the Dark Souls series.
+-   The move _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls. (shared sound effect and casting animation).
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
-    -   Could very well just be a generic sound effect?
     -   Stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for frostdraw.  
         
         Virudhaka's Sword
