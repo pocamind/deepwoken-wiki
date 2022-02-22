@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22414
+revid: 22447
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -496,12 +496,15 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 _"The stars call you back..."_
 
+**Lore Sources:** _Celestial Telescope (Greathive Aratel)_
+
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
--   Celestials came to the Luminants from the stars and introduced the "Canticlysm"; an event that was drawn from the Heavens by the Song.
+-   Celestials came to the Luminants from the stars when the Canticlysm erupted upon the land of the Old World; an event that was drawn from the Heavens by the Song.
 -   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
 -   As of the Year 1271, their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   The Celestials are presumably extinct, though evidence is required to confirm the theory.
-    -   An example of a Celestial would be Navae, who is worshipped by the Gremor Navaean Nomads.
+    -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
+        -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, its unlikely that there's space monsters.
 
 ### Primal Vesperians
 

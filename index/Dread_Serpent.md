@@ -1,12 +1,14 @@
 ---
 title: Dread Serpent
-revid: 22297
+revid: 22453
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
 ---
 
 # Dread Serpent
+
+_"Dont worry, dude. All we need to do is sail to Boatman's Watch. There is absolutely no chance that anything will go wro-" - Last words of a level 40 Adret_
 
 _Also referred to as Kaido, Ardour or Sea Serpent._
 

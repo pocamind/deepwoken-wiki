@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 22289
+revid: 22442
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -78,6 +78,16 @@ Megalodaunts have fairly unpredictable attack patterns. Use caution and pay atte
 The trick to defeating the Megalodaunt is to practice getting ready to dodge or parry. Again, **you cannot always predict when to parry or dodge**, so try to build it into your muscle memory down.
 
 -   When you see the red flash on the leg, press Q to roll-dodge. When you see the arm rising, press F to parry. It is difficult to get it down because you are under pressure when fighting, but with practice you can get it down. It is important to try and stay calm, focusing on what attack will come next based on the visual indicators.
+
+## Tips & Tricks
+
+-   If you see the Sharko pull it's arm back, press "F" to parry it (Before it hits you, not after, parry windows are massive in this game), but then preemptively parry the second one by releasing then quickly holding down block again. This is possible due to parry windows and cooldowns being reset upon parrying a move.
+-   \*\*\*Most\*\*\* of the time the Sharko will start off with a slash then kick, so assume that it will kick after a slash. The kick isn't instant after the slashes, so it should be easy to dodge by pressing q. In the event that it kicks first, \*\*\*most\*\*\* of the time it will slash, so get ready to parry those once you get up. Note that even after missing your preemptive parry, you will have more than enough time to dodge the kick.
+-   When the Sharko bends over and starts shooting pellets (lack of a better name) at you, it is never too late to start holding down "F" in the middle of the move. The reasoning to holding down F rather than spamming it, is because the parry window is reset upon parrying a move.
+-   If the Sharko roars and emits a purple aura, all that does is inflict insanity on you. Usually this isn't a problem, as it won't use it when you are close to it. This only becomes a problem when cheesing it or running away.
+-   It is generally recommended that you do not try to run away from it (goes for most non humanoids or bosses in PvE), as it can and will use moves to prevent you from running.
+-   A good place to practice fighting this giant is the sharko cave in Lower Erisia. It has a spot to cheese it where you can test out these tactics and hopefully become skilled enough to use it in the event that you get surprise attacked.
+-   With these tips, go show those Sharkos who the real Big Hoss of Lower Erisia is.
 
 ## Trivia & Notes
 

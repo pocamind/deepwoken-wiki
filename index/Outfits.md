@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 22424
+revid: 22458
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -265,7 +265,7 @@ Duke chests
 Depths chests
 
  |
-| File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Currently Unobtainable |
+| File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Aelita Chest |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants 2 (Random) Buffs | Depths and Hive Chests |
 |  | Woodland Pauldrons | Grants 2-3 (Random) Buffs | Ship and Hive Chests |
 | File:Grayjusticarcoat.png | Gray Justicar Coat | (?) | Hive Chests |

@@ -1,12 +1,14 @@
 ---
 title: Enforcer
-revid: 21670
+revid: 22455
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
 ---
 
 # Enforcer
+
+_"Alright, time to go beat the trial sharko." - Level 50 Etrean, unaware of his fate_
 
 _Also referred to as Warden of the Deeps, and Executioner._  
 
@@ -86,7 +88,7 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   ~Due to its very limited appearance and only being in the Depths and the Trial of One, it is hard to train against it without putting a high level character at risk or spending possibly many hours training against it as a level 10.~ Now that the Enforcer can be found in the trial of one, it can become easier to get used to fighting it.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally) or use consumables.
--   When doing an emote (such as Pride), the Enforcer cannot pull you.
+-   Enforcer can now pull you during an emote.
 -   The axe has a hitbox for some unknown reason, allowing for easy hits by outranging the enforcer during its whirlwind.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 

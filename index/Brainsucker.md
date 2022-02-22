@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 22432
+revid: 22445
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 Template:Creature Infobox V3
 
-_Also known as Bats, Gargoyles, Goigs, Skin Walkers and sometimes Harpies._
+_Also known as Bats, Gargoyles, Goigs, Skin Walkers, Flying Rats, and sometimes Harpies._
 
 ## Description
 

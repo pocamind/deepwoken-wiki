@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22436
+revid: 22461
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -289,7 +289,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Fish
 
--   Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish
+-   Fishman \[Generic Talent, Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish
     -   Reduced health regen on land. Increased health regen while swimming.
     -   Doesnt affect health regen in [The Depths](The_Depths.md), since you are not swimming.
 
