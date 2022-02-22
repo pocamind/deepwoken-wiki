@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 19350
+revid: 22341
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,6 +49,6 @@ Examples of Autumn.
 Examples of Winter.
 
   
-Winter is the only season in which Snow Knights would spawn in The Valley Of Heroes and obtain elemental Hero Blades. In the same location, an NPC named Aelita would spawn during every season other than winter. She tells the player to cast a mantra and play various different games with her. If failing to do so, she will teleport you really high at an island such as Upper Erisia. (idk if Erisia is the only one confirmed). Succeeding however allows you to survive and she leaves behind a chest for you. (Same thing, idk if the chest is confirmed either)
+Winter is the only season in which Snow Knights would spawn in The Valley Of Heroes and obtain elemental Hero Blades. In the same location, an NPC named Aelita would spawn during every season other than winter. She tells the player to cast a mantra and play various different games with her. If failing to do so, she will teleport you really high at an island such as Upper Erisia and rarely Etris (Yes Aelita does teleport you to Etris). Succeeding however allows you to survive and she leaves behind a chest for you. (Same thing, idk if the chest is confirmed either)
 
 Ferryman may also drop special items depending on season. (Ferryman's Coat, Krulian Knife, Massive luck, Amethyst Pendant Earrings)

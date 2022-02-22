@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 22117
+revid: 22344
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -72,6 +72,7 @@ Template:Parkour! Parkour! Oh God that’s a cli-!! - Last Words of A Ganymede
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via foraging, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
 -   Uncapped by eating a bluecap.
+-   (requires 20 intelligence) gain the ability to get mantra's summon cauldron
 
 ### Willpower
 
@@ -83,6 +84,7 @@ Template:Parkour! Parkour! Oh God that’s a cli-!! - Last Words of A Ganymede
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
 -   Willpower allows access to the Blindseer Oath if you decide to take the steps necessary.
 -   Uncapped by talking to Akira then going to Castle Light to talk to him again.
+-   (requires 30 willpower) gain the ability to get mantra's like Gaze, Ardour scream and Exhaustion Strike.
 
 ### Charisma
 

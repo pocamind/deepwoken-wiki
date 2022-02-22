@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 20776
+revid: 22351
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, aelita. your not hearing me wrong, it can be found from aelita. |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description
@@ -34,5 +34,5 @@ The Shattered Katana is an endgame Medium [Weapon](Weapons.md) and is the go-to 
 
 ## Notes/Trivia
 
--   The sword could be referencing the game Sekiro. The dark mortal blade that was used by Genichiro was very identical to Shattered Katana.
+-   The sword could be referencing the game Sekiro. The dark mortal blade that was used by Genichiro is almost identical to the Shattered Katana.
 -   With a range of 8, it is the third-longest longsword in the game, just behind the Divine Longsword and the Serpent's Edge with a range of 8.5.

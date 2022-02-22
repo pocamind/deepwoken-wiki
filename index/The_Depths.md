@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22314
+revid: 22369
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -82,14 +82,13 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 
 | Trial Power | Enemies |
 | --- | --- |
-| 1-15 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 16-18 | [Mudskipper Knight](Mudskipper.md) |
-| 19-29 | [Angels](Hollow_Angel.md) |
-| 30-49 | [Megalodaunt](Megalodaunt.md) |
-| 50+ | [Enforcer](Enforcer.md) |
+| 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
+| 10-16 | [Mudskipper Knight](Mudskipper.md) |
+| 17-29 | [Angels](Hollow_Angel.md) |
+| 30-47 | [Megalodaunt](Megalodaunt.md) |
+| 47+ | [Enforcer](Enforcer.md) |
 
   
-^ just got angel at power 17 + 1 drowned so somebody edit this (dont know tables sad) also how much u escaped not drowned
 
 -   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
 -   1: Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.

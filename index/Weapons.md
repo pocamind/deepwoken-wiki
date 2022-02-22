@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22315
+revid: 22339
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -855,7 +855,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 
 **Greathammers:**
 
-Greathammers are wweapons with a heavy metal head mounted at right angles at the end of a handle.
+Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle.
 
 <table>
 <tbody>

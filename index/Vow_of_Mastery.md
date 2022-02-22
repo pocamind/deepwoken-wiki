@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 22325
+revid: 22352
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -63,6 +63,6 @@ Charisma, Rare
 -   _Return_ can save someone from being gripped, but not from being carried.
 -   _Fight_ has a three minute cooldown.
 
--   TIP: Sometimes someone will ask you something where you would say yes (for example if he sees you use a dagger he asks if you use light weapons) and immediately say "wanna make a vow of mastery?". That's a way of tricking people into agreeing to a Vow Of Mastery. So, be careful if someone asks you something where you would agree or say yes!
+-   ~TIP: Sometimes someone will ask you something where you would say yes (for example if he sees you use a dagger he asks if you use light weapons) and immediately say "wanna make a vow of mastery?". That's a way of tricking people into agreeing to a Vow Of Mastery. So, be careful if someone asks you something where you would agree or say yes!~ Not really important because you get a ui prompt even when you say yes.
 -   TRUST NOBODY!!!
 -   The _Live_ command is likely a referrence to _Code Geass_

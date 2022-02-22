@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 21157
+revid: 22354
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -101,5 +101,5 @@ Base damage values for Corrupted weapons are estimates._1_
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, it has been seen that a storm weapon glows blue.)
 -   If your weapon has stars, their effect will also apply to your Crazy Slots weapons.
 -   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
--   The Divine Spear model highly resembles the "Primordial Jade Winged-Spear" from _Genshin impact_.
+-   The Divine Spear model highly resembles the "_Primordial Jade Winged-Spear_" from _Genshin impact_.
 -   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".

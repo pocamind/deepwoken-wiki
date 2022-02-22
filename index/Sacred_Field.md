@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 20774
+revid: 22349
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -12,6 +12,10 @@ categories: [Resonance]
 |---|---|
 | effect | Grants yourself and allies incredible defense. |
 | appearance | Orange field that spreads around the user. |
+
+### _"Nanomachines, son."_
+
+© _**Senator Armstrong**_
 
 ## Description
 
@@ -44,5 +48,5 @@ If **Sacred Field** is found to be Corrupted, the Resonance's range becomes larg
 ## Trivia/Notes
 
 -   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
--   When you use this anyone tryna fight you just use it as a healing station cuz everybody avoids it.
--   This resonance work with any build just like [Portal](Portals.md), [Blood Scourge](Blood_Scourge.md), and etc. It is a good support bell for you and your team party
+-   When you use this anyone is trying to fight you, just use it as a healing station because everybody avoids it.
+-   This resonance work with any build just like [Portal](Portals.md), [Blood Scourge](Blood_Scourge.md), and etc. It is a good support bell for you and your team party.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22331
+revid: 22373
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -307,7 +307,7 @@ A Peacekeeper Commander, part of The Authority
 ### The Hive
 
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
--   **Attunements:** _Unknown_
+-   **Attunements:** _Flamecharm_
 -   **Alliances:** _Lightkeepers (???)_
 -   **Enemies:** _The Kingdom of Etrea, The Central Authority_
 -   **Lore Sources:** _Regek_
@@ -726,13 +726,6 @@ This category lists new lore that has been added into Deepwoken through updates.
 -   In the Autumn of Year 1283, a Capra drunkard stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
 -   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
 -   In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
-
-### Year 1286
-
-(2/18/2022 Update)
-
--   In the Summer of Year 1286, Blue-like falling 'stars' were observed to be falling on Aratel Island.
-    -   There are theories that these stars are assumed to be fallen fragments of the celestial city, seen through the Celestial Telescope in Greathive Aratel. However, Shirafune has said these are meant to show that meteors fall in the area.
 
 ## Miscellaneous
 

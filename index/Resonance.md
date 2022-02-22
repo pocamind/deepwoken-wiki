@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 22233
+revid: 22356
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -55,4 +55,4 @@ Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw]
 -   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the depths, one is in the overworld near a waterfall at the aratel islands.
 -   There used to be an unfinished resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
--   To get bell fast, don't try to solo primadon only, try only solo it twice then solo ferryman and squibbo, I tested on 2 slots and I got bells.
+-   To get bell fast, don't try to solo Primadon only, try only solo it twice then solo Ferryman and Squibbo, I tested on 2 slots and I got bells.
