@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 22346
+revid: 22439
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,12 +30,12 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The **Crypt Blade** is a Legendary Weapon and is currently the best Heavy Weapon in the game. It can be obtained from the Depths loot pool and [The Duke](Duke_Ishamon_Erisia.md). It used to be unobtainable, however, the update that brought PvP arenas [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your Heavy Weapon stat, making it scale off of two values. It boasts a base damage of 26, and scales to 65 damage with max Shadowcast and max Heavy Weapon.
+The **Crypt Blade** is a Legendary Weapon and is currently the best Heavy Weapon(Best heavy weapon in the game is currently Crazy slots Greataxe and Greatsword) in the game. It can be obtained from the Depths loot pool and [The Duke](Duke_Ishamon_Erisia.md). It used to be unobtainable, however, the update that brought PvP arenas [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your Heavy Weapon stat, making it scale off of two values. It boasts a base damage of 26, and scales to 65 damage with max Shadowcast and max Heavy Weapon.
 
 ## Notes
 
 -   The Crypt Blade is the strongest weapon in the game, boasting 65 damage when maxed. Used to be even more broken as you could achieve like 75+ DMG, or something crazy like that.
 -   The Crypt Blade is a remodeled [Darksteel Greatsword](Darksteel_Greatsword.md). It is slightly darker, the blade is larger, and an animated darkness effect wraps around the sword.
 -   Hitting someone with a running attack will cause the Fear talent to activate, which causes them to not be knocked back by your running attack, allowing seamless running combos.
--   Since it's a Legendary Weapon, you **cannot** find an enchanted Crypt Blade, its so incredibly rare it could probably buy your kidneys.
+-   Since it's a Legendary Weapon, you **cannot** find an enchanted Crypt Blade. But unlike any other legendary weapons Crypt Blade doesn't have any surviving Enchanted counterpart. (I've seen enchanted curved blades before so an enchanted crypt is def possible) It was very hard to finding a normal Crypt Blade it is equivalent to finding an enchant back then and not to mention Crypt Blade become unobtainable for a while
 -   Yes, Crypt Blade can actually be dropped from Duke. [https://www.youtube.com/watch?v=ARePhH\_5INA](https://www.youtube.com/watch?v=ARePhH_5INA)

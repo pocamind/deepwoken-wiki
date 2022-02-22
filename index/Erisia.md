@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 20943
+revid: 22426
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -26,3 +26,4 @@ An Island that drifted from [the Void Sea](Voidsea.md). A place, crawling with o
 ## Trivia
 
 -   Erisia is frequently referred to as "Bandit Island" by players.
+-   As a whole, Erisia is the second largest landmass in Deepwoken, second to [Aratel Island](Aratel_Island.md).

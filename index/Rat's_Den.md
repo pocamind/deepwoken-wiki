@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 20440
+revid: 22379
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,4 +29,5 @@ _Rat Fighters are equipped with heavy weapons. The enemies will use the Galebrea
 ## Trivia/Notes
 
 -   The bouncer in front of the establishment has tons of health, yet will not grip you. Use him as farming fodder.
+    -   The bouncer also has the Divine Axe on his back, which is a weapon from the [Crazy Slots](Crazy_Slots.md) Resonance.
 -   Across [Upper Erisia](Upper_Erisia.md), there are Golden Legendary Warriors that will say "Wanna fight? I'll give you the first hit, actually three!" which drop Gold Plates upon beating the warrior

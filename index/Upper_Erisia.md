@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 20207
+revid: 22428
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -54,4 +54,20 @@ Events that spawn in Upper Erisia that do not involve combat. For more info, see
 
 ## Loot Table
 
-_This list is incomplete._
+_This list is incomplete, please contribute **correct** information._
+
+### Equipment
+
+#### Face
+
+-   Headbands.
+-   Blindfolds.
+
+### Miscellaneous
+
+-   Amethysts.
+-   Emeralds.
+-   Rubies.
+-   Sapphires.
+-   Gold Bars.
+-   (num) to (num) [Mantra Modifiers](Mantra_Modifiers.md).

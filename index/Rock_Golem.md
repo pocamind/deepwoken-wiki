@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 20717
+revid: 22431
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,31 +8,31 @@ categories: [Monsters]
 
 # Rock Golem
 
-Template:Creature Infobox V3_Also known as Golems_
-
-_Entities apart of The Duke's Creations, meant to protect Erisia Island._
+Template:Creature Infobox V3_Entities a part of The Duke's Creations, meant to protect Erisia._
 
 ## Description
 
-Rock Golems spawn naturally in Erisia Island, mostly in Upper Erisia, Burning Stone Gardens and Garden Reservoir. The black variant of Rock Golems are exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), whom are more deadly than their original counterparts.
+**Rock Golems** (also referred to as Golems, or Erisian Golems) are large, bulky stone constructs with a distinct, glowing, white core, and three peculiar stone discs on it's "stomach," and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless.
 
-They generally can tank a lot of damage while dealing it, The best strategy is to stay at a bit of distance and constantly parry the spin while dodging the big punch, parrying the other moves it throws at you.
+Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [The Garden Reservoir](The_Garden_Reservoir.md), but they can also be found throughout Upper Erisia fighting a [Megalodaunt](Megalodaunt.md) in an uncommon event. The black variant of Rock Golems are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than their original counterparts.
+
+In combat Rock Golems are very hardy having moderately high health, and high slash resistance. Despite this Rock Golem's attacks are relatively non-punishing when hit, its flashiest attacks are the easiest to exploit, and its remaining ones are very simple to avoid.
 
 ## Moves
 
--   **Rapid Spin** - The Golem will start charging up his torso in a spinning matter and walk towards a player.
+-   **Rapid Spin** - The Rock Golem will start spinning its upper body in a progressively faster motion while walking towards the target.
     -   **Lethal Spin (Prime Golem) -** Similar to Rapid Spin, except its faster and hits harder.
--   **Laser Beam** - The Golem charges up a white beam; and discharges upon their target. Can be dodged or parried.
+-   **Laser Beam** - The Rock Golem charges up a white beam from its core, and discharges a laser upon their target. Can be dodged or parried.
     -   **Red Beam (Prime Golem)** - Similar to Laser Beam, except it hits much harder.
--   **Chain Laser (Prime Golem)** - The Black Golem charges up a red-hot beam, before discharging and lasering the target 7 times.
--   **Rock Uppercut** - Similar to Sharko's football kick, the golem will punch you with an uppercut and fling you away. This move will instantly break your block and fling you away.
--   **Foot Stomp** - The Golem will slam down his foot and attack. This move is blockable and parryable.
--   **Angered Scream** - The Golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)
--   **Rock Sledgehammer** -The Golem puts their 2 arms together and swing them into the ground as an alternate melee move; Parriable.
+-   **Chain Laser (Prime Golem)** - The Black Golem charges up a red-hot beam, before discharging and lasering the target seven times.
+-   **Rock Uppercut** - The Rock Golem will swing its arm at the target with a low-uppercut motion, breaking block and flinging you away. Large targets may not be flung.
+-   **Foot Stomp** - The Rock Golem slams its foot down. Can be parried or blocked.
+-   **Rock Sledgehammer** -The Rock Golem puts their arms together and swings them like a club upon the target, slamming the ground. Can be parried or blocked.
+-   **Angered Scream** - The Rock Golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)
 
 ### Finisher
 
--   **Angry Stomp** - The Golem will slam down his foot and kill those hit by it if knocked.
+-   **Angry Stomp** - The Rock Golem will slam its foot down upon a knocked target, killing them.
 
 **Passives**
 
@@ -53,11 +53,7 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
     -   **Red Beam (Prime Golem)** - Same strat, although it looks the exact same as Chain Laser, so better to follow that strat.
     -   **Chain Laser (Prime Golem)** - 2 hits, then dodge, before proceeding to run and jump until it stops shooting.
 
-  
-
 ## Tips
 
--   Occasionally a Sharko and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
+-   Occasionally a Megalodaunt and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 -   Do not block it's Spinning attack, as it will shred your posture quickly. However, parrying said move gives a lot of exp, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   Its consecutive shots are not hard to dodge as long as you spam jump.
--   Has a "sad" variation without arms and legs, acting as a turret. ;-;

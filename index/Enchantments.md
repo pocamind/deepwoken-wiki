@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22292
+revid: 22413
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -83,7 +83,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>The less health you have the more damage you do (Might also do more mantra dmg?)</p></div></td>
+  <td><div><p>The less health you have (&lt;40%) the more damage you do (Might also do more mantra dmg?)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>

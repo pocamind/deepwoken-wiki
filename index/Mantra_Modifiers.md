@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 22173
+revid: 22388
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -237,8 +237,6 @@ Frost Grab (Ice Trail)
 Ice Forge (Adds More Shurikens to the Attack)
 
 Lightning Stream
-
-Fire Eruption
 
  | Applies "Explosion" to compatible Mantra. |
 | 

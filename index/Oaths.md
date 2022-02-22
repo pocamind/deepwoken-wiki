@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22340
+revid: 22396
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -86,7 +86,7 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 1.  Complete Aelita's Encounter in Valley of Heroes at least once.
 2.  Find Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
-3.  Bring him a Void Feather. If Surge becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the Nestmind and make sure to take the first options "I accept" once the Nestmind mentions food. You will obtain the Oath: Visionshaper.
+3.  Bring him a Void Feather. If Surge becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options "I accept" once the Nestmind mentions food. You will obtain the Oath: Visionshaper.
 4.  Bring additional Void Feathers to Surge to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
 
 ### **Known Abilities**

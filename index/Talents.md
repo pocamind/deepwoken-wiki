@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22316
+revid: 22436
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -215,7 +215,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Cryomancer
 
--   Condensation Drip \[Generic Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
+-   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
 
 ### Cutthroat
 
@@ -311,7 +311,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Dancing Steps \[Generic Talent, Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
 -   Graceful Steps \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (Turns you into a fireball whilst moving forward)
--   Flaming Rebound \[Generic Talent, Common Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
+-   Flaming Rebound \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
 -   The Final Act \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
 
 ### Flame Warden
@@ -378,6 +378,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Completely replace gun's light scaling with attunement scaling of the same value.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
+
+### Hunter
+
+-   Eyes in the back of your head \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
+    -   Prerequisite: Glare & A high amount of Willpower
 
 ### Inferno
 

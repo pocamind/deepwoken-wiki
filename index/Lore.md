@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22373
+revid: 22414
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -108,6 +108,13 @@ The one and only... MEAT LORD!
 File:Yun'Shul.png
 
 Yun'shul
+
+### The Nestmind
+
+-   A visual representation of the hivemind that all owls are a part of.
+-   Consumes human thought as food.
+-   Sees reality in a different way compared to us.
+-   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 
 ## Locations
 
@@ -459,6 +466,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
 -   Their ancestors are the Primal Vesperians, a race that existed before the coming of the Tides.
 -   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
+    -   According to Arch\_Mage, Vesperians grow their masks.
 
 ### Capra
 
@@ -493,6 +501,7 @@ _"The stars call you back..."_
 -   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
 -   As of the Year 1271, their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   The Celestials are presumably extinct, though evidence is required to confirm the theory.
+    -   An example of a Celestial would be Navae, who is worshipped by the Gremor Navaean Nomads.
 
 ### Primal Vesperians
 
@@ -668,7 +677,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
--   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend are the first destined LIghtkeeper in their Luminant for decades.
+-   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend aw the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.

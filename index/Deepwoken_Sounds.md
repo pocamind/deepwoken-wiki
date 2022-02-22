@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 20448
+revid: 22419
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -71,6 +71,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war?in=naktigonis/sets/deepwoken-ost-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | 2:48 | Arena | File:The Games Of War.mp3 |
+| 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | Aelita | File:Catwhisker.mp3 |
 
 ### Additional Songs
 

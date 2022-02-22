@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22369
+revid: 22435
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -84,9 +84,9 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 | --- | --- |
 | 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
 | 10-16 | [Mudskipper Knight](Mudskipper.md) |
-| 17-29 | [Angels](Hollow_Angel.md) |
+| 17-29 | [Angels](Hollow_Angel.md) (Lesser) |
 | 30-47 | [Megalodaunt](Megalodaunt.md) |
-| 47+ | [Enforcer](Enforcer.md) |
+| 47+ (CAN BE AS LOW AS POWER 42) | [Enforcer](Enforcer.md) |
 
   
 
@@ -133,7 +133,8 @@ Just some information to keep in mind and remember.
 
 ### Finding Morning
 
--   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?". (As of now the quest is not done which was stated by Arch\_Mage. Morning doesnt exist in-game until the quest is finished by developers.)
+-   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?".
+    -   (As of now the quest is not done, which was stated by Arch\_Mage. Morning doesn't exist in-game until the quest is finished by developers.)
 
 ### Joining The Divers
 
@@ -149,7 +150,7 @@ Deep down in the Depths, you can find a secret room located near the Deep Widow.
 When initially obtaining this oath, the Nestmind, in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
 -   Void feathers drop from corrupted Owls in The Depths.
--   Illusion magic **DOES NOT** count as an attunement as it is an Oath, so there is no stat to level.
+-   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level.
 -   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
 
 ## Monsters in The Depths (incomplete)
@@ -171,9 +172,9 @@ When initially obtaining this oath, the Nestmind, in another layer of The Depths
 
 ## Loot Table
 
-Many drops are exclusive to the depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. You can basically get everything in the game in the depths. Some things that drop in The Depths are...
+Many drops are exclusive to the Depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. You can basically get everything in the game in the Depths. Some things that drop in the Depths are...
 
-**Bolded = Depths exclusive or Mostly Depths drop**
+**Bolded = Depths Exclusive or Mostly Depths drop**
 
 Legendary = Gold
 
@@ -228,7 +229,7 @@ Legendary = Gold
   <td><b><font>Star Duster</font></b></td>
 </tr>
 <tr>
-  <td><b>Naevean War Chief</b></td>
+  <td><b>Navaen War Chief</b></td>
   <td><b><font>Crypt Blade</font></b></td>
   <td>Isshin's Ring</td>
   <td>Royal Duelist</td>
@@ -238,18 +239,18 @@ Legendary = Gold
 
 ## Trivia
 
--   You can gain luck by killing players or corrupted [Monsters](Monsters.md) in the depths.
+-   You can gain luck by killing players or corrupted [Monsters](Monsters.md) in the Depths.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
 -   You can use 5 Umbral Obsidian to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
--   Staying in the depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
--   An easy way to get out of the depths is the "barrel method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
+-   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
+-   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 
 ## Tips
 
--   Adaptation to The Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the depths has to be sufficient. Learning the ways of vanquishing each and every of The Depth's monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the trials 100% of the time and more are part of your adaptation to The Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
+-   Adaptation to the Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
 -   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
 -   Above goes the same if there many people of the same guild flooding the server, it's not worth risking your chances with a huge group of players.
--   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
+-   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
 -   Environmental awareness is vital to survival within The Depths. Falling into the void below will instantly kill you. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
 -   Ringing the bells (not corrupted bells) in the Drowned City will restore some of your HP, equivalent to that of knocking an NPC or monster around your power.
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use it to make food.

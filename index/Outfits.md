@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 22327
+revid: 22424
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -24,7 +24,7 @@ Outfits are the very base of your Armor, and are the only part of your defence t
 
 Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
 
-Outfits can be purchased at the [Blacksmith](Blacksmith.md) in larger settlements, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a Blacksmith to unlock an Outfit in their shop.
+Outfits can be purchased at the [Blacksmith](Blacksmith.md) in larger settlements, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a [Blacksmith](Blacksmith.md) to unlock an Outfit in their shop.
 
 Outfits grant unique buffs and Talents to their wearer and can be easily found essential to many players on their journey.
 
@@ -63,7 +63,7 @@ The Outfit is the only piece of Armor that loses durability, which can be found 
 
 When Outfits reach zero durability, they will not be destroyed but they will no longer grant their set buffs until they are repaired.
 
-You can repair your Outfit at a Blacksmith. This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
+You can repair your Outfit at a [Blacksmith](Blacksmith.md). This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
 
 ## Outfit List
 
@@ -363,7 +363,8 @@ _Requires Power Level 30_
 -   ~Some accessories can be Ascended, Enlightened or Celestial and have buffed stats.~ This has been replaced by a star system like weapons.
 -   Arch confirmed that there are **5** master outfits. So far, only 4 outfits have been found.
 -   If you have crafted the outfit, you can swap back to it again. This can be done with all outfits — as long as you've crafted it on that character.
--   **Royal Bodyguard** is currently bugged - you cannot hand it in to the blacksmith.
+-   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
     -   It is possible, however, that Royal Bodyguard is the last master outfit.
--   Some Armors such as Star Duster require enough Power to use.
+-   Some Armors such as Star Duster and all of the Royal Duelists require enough Power to use.
 -   **Providence Coat** might be a reference to the coat **Dante from the Devil May Cry series** wore in the 5th installation of the game Devil May Cry 5.
+-   Royal Duelists are strange pieces of armor, and dont seem to take off arm pieces.

@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 22372
+revid: 22403
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -43,12 +43,12 @@ _Chance of obtaining race: **8%**_
 
 ## Miscellaneous
 
-**Lore:**
+-   **Lore:**
+    
+      
+    
 
-  
 Little is known about Khan...
-
-**Strengths:**
 
   
 
@@ -57,9 +57,18 @@ Little is known about Khan...
 
 Allows the use of equipment 3 points earlier than other races.  
 
-**Surnames:**
-
   
+
+-   Drameus
+-   Dalus
+-   Theus
+-   Nemises
+-   Narsus
+-   Janus
+-   Evus
+-   Tarsus
+-   Juno
+    
 
 ## Notes/Trivia
 

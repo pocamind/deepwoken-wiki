@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 22267
+revid: 22425
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -17,7 +17,7 @@ The smell of gunpowder blankets this tropical paradise.
   
 Template:Areainfobox
 
-The Summer Isle is a populated island in the Aratel Sea, it is the Summer Company's headquarters and is the only currently known area where there is access to firearms and Hunter's Braces.
+Summer Isle is a populated island in the [Aratel Sea](The_Aratel_Sea.md), it is the [Summer Company's](The_Summer_Company.md) headquarters and is the only location with access to firearms and Hunter's Braces for sale.
 
 ## Points Of Interest
 
@@ -38,12 +38,12 @@ The Summer Isle's main attractions are the firearms, which can be found inside t
 
 Notes:
 
--   Bullets are required for the player to use the critical attack, if the player doesnt have bullets it will consume ether instead.
+-   Bullets are required for the player to use the critical attack, if the player doesn't have bullets it will consume ether instead.
 -   They're currently the only known weapons to have a critical attack that travels a long distance.
--   Bullets can be obtained by buying (5 notes each) or by crafting 5 using a piece of Iron.
--   These weapons also come with an off-hand version, found at the same place.
--   These weapons can be parried/blocked/dodged like normal attacks.
--   Hunter Braces can only be found here, upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks,punts, etc.)
+-   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating five bullets.
+-   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
+-   Firearms can be parried, blocked, and dodged like all normal attacks.
+-   Hunter Braces can only be found here, upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks, punts, etc.)
 
 ### _**Brawling Arena**_
 
@@ -74,7 +74,7 @@ In conclusion, forging is _very, very overpowered_ as you can get gear that has 
 
 ### _**Inn**_
 
--   The Innkeeper, setting your spawnpoint here costs 5 Notes.
+-   The Innkeeper, setting your spawnpoint here costs five Notes.
 -   The Guildmaster. (Located in the building behind Trig's Quest)
 
 ### _**Thundercall Trainer**_
@@ -98,8 +98,8 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 
 ##### Items
 
--   Hunter's Brace = Upon equipping this allows the player to parry attacks that would normally guardbreak if attempted to do so (kicks,punts, etc.)
--   Self-conducting loop.
+-   Hunter's Brace
+-   Self-conducting loop
 -   Hearthgem
 -   Pure Heart
 -   Hemafrost
@@ -120,10 +120,10 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 
 ##### Weapons
 
--   Flintlock
--   Revolver
--   Dragoon
--   Silver Dagger
+-   [Flintlock](Flintlock.md)
+-   [Revolver](Repeater.md)
+-   [Dragoon](Dragoon.md)
+-   [Silver Dagger](Silver_Dagger.md)
 
 ## Island Denizens
 
@@ -145,7 +145,7 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 ### NPC events:
 
 -   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives.
--   Bandits spawning on the front entrance's stairs in pair of 7, ambushing the castle's entrance.
+-   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
 -   Ministry Scout and several Bandit corpses around themselves.
@@ -203,12 +203,12 @@ _Positive rep with the Summer Company, after delivering a box of explosives._
 
 Possible items found after completing Scope's quest
 
--   Trident Spear (0-1 star)
--   Cavalry Saber(0-1 star)
--   Forge Greathammer
--   Darksteel Greatsword
--   Serpent's Edge
--   Iron Cestus
+-   [Trident Spear](Trident_Spear.md) (0-1 star)
+-   Cavalry Saber (0-1 star)
+-   [Forge Greathammer](Forge_Greathammer.md)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Serpent's Edge](<Serpent's_Edge.md>)
+-   [Iron Cestus](Iron_Cestus.md)
 -   Practitioner's Earrings
 -   Burgundy/Beige/Slate Tophat
 -   Burgundy/Beige/Slate Aristocrat Coat

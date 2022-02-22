@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 22142
+revid: 22430
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -56,7 +56,7 @@ Mark of the Lone Warrior's talent description
 -   Free Points to spend on [attributes](Attributes.md) for each challenge.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-8, and 15 points for the final trial. Finishing the trial will result in 18 Power.
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
--   [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks.
+-   [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks. (Theorized that it does not multiply EXP by 2x but multiplies PROGRESSION STAT (stat for bell) by 2x | TL;DR might not multiply EXP by 2x but makes bell easier to get by 2x)
 
 ## Tips and Tricks
 
@@ -80,3 +80,4 @@ Mark of the Lone Warrior's talent description
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. ~(This is completely false, I have attempted Trial of One numerous times and have lost many times, but never have I lost my 2 equipment on me.)~(This was either true at some point or still is. I lost all of my gear, including an enchanted scarf, to the trial.)
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
 -   Literally ONE lag spike during the parrying challenge and you die.
+-   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
