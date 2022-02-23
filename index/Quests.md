@@ -1,8 +1,9 @@
 ---
 title: Quests
-revid: 21496
+revid: 22580
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Quests
@@ -30,3 +31,15 @@ Drefa, in Isle of Vigils
 Quest: Start the quest by talking to Korin/Drefa and selecting the "Yeah. \[Obtain Axe\]" dialogue option. They will give you a free Lumber Axe. You can then use the axe to chop down trees - it will take a few swings to cut each one down. Obtain the wood, each tree gives 2-4 (?) depending on the size. Give Korin/Drefa at least 10 Wood in exchange for 5 Notes. After giving the wood, words will appear on your screen that say: 'Your Actions Please Etrea', meaning giving Korin/Drefa wood increases your positive [reputation](Reputation.md).
 
 This quest can be repeated and is a good way to farm Notes for early game players.
+
+  
+
+  
+
+## Kiternon quest
+
+unknown ; asks to find someone who is stronger located in fort merit entry, ( up ladder near cauldron )
+
+File:Kiternon.png
+
+Kiternon, in fort merit

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 22215
+revid: 22578
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -102,6 +102,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Corrupted Deep Owls (and rarely normal Owls) have a chance drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md).
 -   Deep Owls spawn regardless of the current [Season](Seasons.md) but _are_ however, affected by the current time in-game. At the time of writing, it is believed that Deep Owls only spawn at night, or at least are significantly rarer during the daytime.
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
+-   The owl is the only non humanoid known to be female.
 
 1.  [↑](#cite-ref-1) From patch notes on 2/14/2022: [https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png](https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png)
 2.  [↑](#cite-ref-2) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.

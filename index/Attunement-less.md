@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 22460
+revid: 22601
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -171,3 +171,4 @@ For example:
 2.  Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 3.  Rapid Punches is the single Attunement-less mantra that has a star.
 4.  Exhaustion Strike is glorified spit.
+5.  You can obtain other Weapon Mantra's as long as you have 6 investment points in them.

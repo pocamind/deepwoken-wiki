@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22503
+revid: 22597
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -260,6 +260,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Duelist Flame
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
+    -   People blinded by Blinding Flame are now Dazed for 2 seconds.
     -   Prerequisite: Flame Blind
 
 ### Empath
@@ -732,6 +733,10 @@ Prerequisite: Charisma
 -   Bear Trap \[Generic Talent, Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
 -   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
 
+### Visionshaper
+
+-   Lasting Image \[Visionshaper Exclusive, Common Talnet\] - Your illusions last longer.
+
 ### Warrior
 
 -   Engage \[Generic Talent, Common Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
@@ -788,6 +793,7 @@ Prerequisite: Charisma
 -   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
     -   While the Blindseer Oath grant full vision even with a blindfold, the talent still works.
+    -   Also grants immunity to the Blinding Flame mantra.
 
 ## Whispers
 

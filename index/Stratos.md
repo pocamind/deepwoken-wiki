@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 22353
+revid: 22595
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -28,7 +28,7 @@ By doing Vigil Instructor training with a Katana, I got rep with Etrea. It seeme
 
 Next thing I'm going to try is getting Vigil Initiate armour, as the description literally says "One must walk the path before wearing the Cloak of Winds."
 
-  
+**Completing the quest gives you an ability called "Windwaker" which upon activating shakes your screen similar to a highway and gives you a temporary speed buff.**  
 
 ## **Possible Theories**
 

@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 22382
+revid: 22593
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,7 +16,7 @@ _"Is that...Rock Johnson?!" - Bank Teller_
 
 Artifacts in Deepwoken are valuable pieces of technology or objects that can be sold to Bankers for high rewards such as Rare Armor and Mantra Ingredients, Weapons, and Armor Blueprints.
 
-Deepwoken Artifacts **are not Rogue Lineage Artifacts.**
+Deepwoken Artifacts **are nothing like Rogue Lineage Artifacts.**
 
 Artifacts are rarely guarded by Monsters or Enemies, but usually it is completely unguarded, as they spawn randomly in Upper Erisia or sometimes Lower Erisia. they also spawn at other islands, though it is not confirmed which ones. (I think it must be at normal islands you level at, I found one at Starswept Valley, so you might find them at Minityrsa, Songseeker, Erisia, and Starswept Valley)  
 

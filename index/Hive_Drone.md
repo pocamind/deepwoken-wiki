@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 17587
+revid: 22582
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -33,4 +33,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Player notes here
+-   One of the most easiest expert armor to make

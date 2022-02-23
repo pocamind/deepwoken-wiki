@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22551
+revid: 22589
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -523,12 +523,14 @@ _"The stars call you back..."_
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
+-   Flamecharm does not create fire; instead, creates combustions.
 -   Flamecharm is one of the 3 Attunements of the Old World.  
     
 
 ### Frostdraw
 
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
+-   Frostdraw is not affiliated with water nor uses it; except it decreases the temperature of all things- to the point of freezing or crystalization.
 -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.
 -   Frostdraw is one of the 3 Attunements of the Old World.  
     
@@ -536,6 +538,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 ### Thundercall
 
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
+-   Thundercall concentrates the energies of electricity.
 -   Thundercall is one of the 3 Attunements of the Old World.
 
   

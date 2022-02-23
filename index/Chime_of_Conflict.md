@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 22567
+revid: 22590
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Chime of Conflict
 
-“ Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to acess the PvP Arena. ”
+“ Bloodshed awaits those who ring the bell... ”
 
 ― Chime of conflict flavor text
 
@@ -42,7 +42,6 @@ Afterwards, players will be waiting in the queue and be put in a match with thei
 -   **Elimination** **\-** Dying removes the player from the round.(3v3 only)
 -   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players.
 -   **Resonance limitation -** Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.
--   **Mantra limitation -** _Spark Swap_ and _Grand Skewer_ are disabled as cheese prevention.
 
 ## Skulls
 

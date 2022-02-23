@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 22162
+revid: 22594
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,13 +12,13 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Medium Sword |
 | requirements | 20 MHT |
-| damage | 19 |
+| damage | 16 |
 | scaling | 6 MHT |
-| range | 9 |
-| swing speed | 0.68x |
-| penetration | 25% |
+| range | 8 |
+| swing speed | 0.8x |
+| penetration | N/A |
 | selling price | 10 Notes |
-| weight | 5 |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
