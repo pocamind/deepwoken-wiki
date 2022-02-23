@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 22458
+revid: 22505
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -12,7 +12,7 @@ notices:
 
 File:Armoricon.png
 
-**Armor** is an essential part to _Deepwoken_, being the basis of most of your resistance against attacks.
+**Armor** is an essential part to _Deepwoken_, being the primary means of resisting damage from most sources.
 
 ## Overview
 
@@ -20,29 +20,15 @@ The entirety of your Armor is split into two categories, Outfits and Armor items
 
 ### **[Outfits](Outfits.md#outfit-list)**
 
-Outfits are the very base of your Armor, and are the only part of your defence that must be crafted and are given durability.
-
-Your Outfit can be damaged by physical damage, elemental damage and environmental damage.
-
-Outfits can be purchased at the [Blacksmith](Blacksmith.md) in larger settlements, but most must be unlocked with Schematics. Schematics are unique recipes that must be given to a [Blacksmith](Blacksmith.md) to unlock an Outfit in their shop.
-
-Outfits grant unique buffs and Talents to their wearer and can be easily found essential to many players on their journey.
+Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfits.
 
 ### **[Armors](Outfits.md#armor)**
 
-Armor pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed.
-
-Armor items can have their stats and appearance combined at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference.
-
-Armors cannot be purchased and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). Armors are separated into seven different categories for where they are equipped, including Head, Face, Ears, Neck, Arms, Rings and Boots.
-
-Armor items grant random buffs to their wearer and can assist in turning the tide against enemies and monsters.
-
-Armors can also have a chance of being Ascended granting them slightly better stats, and have a extremely small chance of being Enlightened giving them a much larger boost in stats, and even rarer is Celestial.
+Armor pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed; unlike Outfits, they can be equipped and unequipped freely in any location as long as the player is not in danger. Armors also cannot be purchased and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). They are separated into seven different categories for where they are equipped: Head, Face, Ears, Neck, Arms, Rings and Boots. Armor items grant random buffs - typically flat stat increases - to their wearer and can assist in turning the tide against enemies and monsters, although some items are purely cosmetic and do not grant buffs. Some Armors may spawn with 1-3 stars, increasing their buffs or causing them to grant additional ones. It is possible to combine or transfer stats between Armor items at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference. Upon wiping, players can pass down pieces of armor to their next character.
 
 ## Outfit Stats
 
--   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit no longer grant its benefits/are reduced.
+-   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit will no longer grant its benefits until it is repaired.
 
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
@@ -59,11 +45,9 @@ Armors can also have a chance of being Ascended granting them slightly better st
 
 ## Repairing your Outfit
 
-The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health.
+The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its set buffs until it is repaired.
 
-When Outfits reach zero durability, they will not be destroyed but they will no longer grant their set buffs until they are repaired.
-
-You can repair your Outfit at a [Blacksmith](Blacksmith.md). This will cost Notes, ranging from 1 to 35 notes depending on the number of Armor points must be repaired. However, you can also repair your outfits with special [Talents](Talents.md) or Armor items.
+The most common and effective way to repair an outfit is at a Blacksmith. This will cost Notes, ranging from 1 to 35 notes depending on how low the durability is. However, Armor can also be repaired through certain talents or Armor buffs.
 
 ## Outfit List
 
@@ -89,7 +73,7 @@ _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
 ## Armor
 
-Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband.
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information.
 
 **Head:**
 
@@ -359,12 +343,15 @@ _Requires Power Level 30_
 
 ## Trivia/Notes
 
--   ~The **Blindfold** can protect players from dying to enemies that kill you by looking at them.~ There aren't even enemies in the game that do this, closest I can think of is watchers and those look at _you_, not the other way around.
--   ~Some accessories can be Ascended, Enlightened or Celestial and have buffed stats.~ This has been replaced by a star system like weapons.
+-   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   Arch confirmed that there are **5** master outfits. So far, only 4 outfits have been found.
--   If you have crafted the outfit, you can swap back to it again. This can be done with all outfits — as long as you've crafted it on that character.
+-   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
+    -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
-    -   It is possible, however, that Royal Bodyguard is the last master outfit.
 -   Some Armors such as Star Duster and all of the Royal Duelists require enough Power to use.
--   **Providence Coat** might be a reference to the coat **Dante from the Devil May Cry series** wore in the 5th installation of the game Devil May Cry 5.
--   Royal Duelists are strange pieces of armor, and dont seem to take off arm pieces.
+-   Royal Duelists are strange pieces of armor, and don't seem to take off arm pieces.
+
+## Speculation
+
+-   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
+-   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.

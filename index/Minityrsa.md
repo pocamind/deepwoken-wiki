@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 20354
+revid: 22528
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -91,3 +91,4 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   Since its constant snowfall in Minityrsa, its best to place Campfires beneath shelter.
 -   To travel to Minityrsa, the easiest way to know where to go is to start from Etris.
     -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing. Until you see an Island with trees and land, that is Minityrsa.
+-   Beating [Trial of One](Trial_of_One.md) gives your character a choice to spawn here as your starting island

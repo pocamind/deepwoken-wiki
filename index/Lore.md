@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22447
+revid: 22531
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -467,6 +467,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Their ancestors are the Primal Vesperians, a race that existed before the coming of the Tides.
 -   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
     -   According to Arch\_Mage, Vesperians grow their masks.
+        -   This would imply they are organic in some way
 
 ### Capra
 
@@ -504,7 +505,7 @@ _"The stars call you back..."_
 -   As of the Year 1271, their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   The Celestials are presumably extinct, though evidence is required to confirm the theory.
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
-        -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, its unlikely that there's space monsters.
+        -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 
 ### Primal Vesperians
 
@@ -654,6 +655,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
     -   It is unknown how many layers are there.
+        -   Threatening to 'send \[someone\] to the 3rd layer' appears to be a common threat used by those of the overworld
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
 

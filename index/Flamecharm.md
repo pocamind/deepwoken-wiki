@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 22029
+revid: 22543
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -16,7 +16,9 @@ Flamecharm icon
 
 Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning, damage per second and AoE effects.
 
-While flamecharm lacks the level of damage other attunements, it makes up for this apparent weakness in utility and survivability.
+While flamecharm overwhelmes the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
+
+Personally, I say this wiki is dead and ignore it and i have flamecharm and literally punch explosions and can one tap sharko’s. This wiki is outdated and dead and don't listen to it. Flamecharm is very good and i wish someone would update it.
 
 ## Training
 

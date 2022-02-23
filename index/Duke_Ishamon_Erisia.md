@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 22208
+revid: 22540
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -14,7 +14,7 @@ categories: [Boss, Luck]
 
 ## Description
 
-Template:Creature Infobox V3Accelerator (also known as Duke of Erisia and Accelerator) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
+Template:Creature Infobox V3The Duke of Erisia (also known as Accelerator) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears an [Aristocrat's Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -28,8 +28,8 @@ able?
  | Danger |
 | --- | --- | --- | --- |
 | **Wind Bind** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is bound and kicks them into the air before punching them away. | ◯ | (★★☆) |
-| **Strong Left** | The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left. | ◯ | (★☆☆) |
-| **Wind Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on. | ◯ | (★☆☆) |
+| **Strong Left** | The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left. After using this move, he will utilize his **Legion Kata Fist Combat**. | ◯ | (★☆☆) |
+| **Wind Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on. | ◯ | (★★☆) |
 | **Counter** | The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflect back to the attacker- dealing significant damage. He laughs afterward when something strikes his counter. | ✗ | (☆☆☆) |
 | **Wind Stomp** | The Duke kicks the ground, shooting a wave of wind up from the ground towards his target. **This move will auto-grip if it hits you while knocked or at low health.** | ✗ | (★★★) |
 | **Wind Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down and hitting everyone in the room. **Extremely lethal. Does over 250 damage if not avoided.** | ◯ | (★★★) |
@@ -64,11 +64,13 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
 
 ## Notes/Tips
 
--   When fighting in a group, it is recommended to make campfire pits around the Boss Room, and have either Flint or Mantras that light campfires.
+-   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either Flint or Skills that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
 -   The more people that participate in fighting The Duke, the more health he has.
     -   This can be bypassed by having one person spawn the boss, while everyone else waits in the hallway where the Black Rock Golems spawned earlier.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
     -   Specifically, Wind Bind correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Wind Stomp correlates to Ground Quake, and Wind Bomb correlates to Plasma.
--   The Dukes' respawn timer is around 25 minutes.
+    -   The also both laugh manically following a successful counter
+        -   Wind bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
+-   The Duke's respawn timer is around 25 minutes.
 -   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.

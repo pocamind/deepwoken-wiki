@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22486
+revid: 22503
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -369,7 +369,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Great Wall
 
--   Fortitude Unbounded \[Generic Talent, Common Talent\] - You have gained the Ability to Surpass your limits and train your fortitude to its fullest.
+-   Fortitude Unbounded \[Generic Talent, Common Talent\] - You have gained the Ability to Surpass your limits and train your fortitude to its fullest. (+10 Ether, +9 Health)
 
 ### Gunslinger
 
@@ -765,6 +765,10 @@ Prerequisite: Charisma
 ### Whisper
 
 -   Haunted Gale \[Generic Talent, Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
+
+### Windrunner
+
+-   Agility Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest. (+10 Ether, +9 Health)
 
 ### **Miscellaneous**
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 22388
+revid: 22542
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -347,7 +347,7 @@ The falseflame, haunting, and mirage stone are all dropped by jellyfish in the d
 
 #### Multiplying Spark
 
--   This modifier turns the _Wind Gun_ Mantra into a shotgun.
+-   This modifier turns the _Wind Gun_ Mantra into a shotgun, firing 4 wind bullets.
 
 #### Tornado Spark
 
