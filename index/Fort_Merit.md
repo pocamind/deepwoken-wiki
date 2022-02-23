@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 22100
+revid: 22570
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -82,6 +82,8 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Tawny Adjudicator's Coat
 -   Pink Adjudicator's Coat
 -   Warden Pauldrons
+-   Gold Authority Commande  
+    
 
 ### [Weapons](Weapons.md)
 
@@ -92,6 +94,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   [Rifle Spear](Rifle_Spear.md)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+-   [Officer Saber](Officer_Saber.md)
 
 ### Miscellaneous
 

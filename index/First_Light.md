@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 21398
+revid: 22547
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -36,3 +36,4 @@ The First Light is one of the many heavy weapons you can obtain in the game, obt
 -   The only greatsword that doesn't have endlag as of now
 -   Maybe a reference from some Anime. It looks similar to Reinhardt's dragon sword
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [darksteel greatsword](Darksteel_Greatsword.md).
+-   (NOT GURANTEE) Red sharko might spawn outside of sharko cave (triggered by some sort of event that naturally spawns in a sharko)

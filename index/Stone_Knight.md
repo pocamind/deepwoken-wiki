@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 20689
+revid: 22571
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Luck]
@@ -64,4 +64,8 @@ Some pictures of the Rock Knight after the meteor lands:
 
 File:Stone knight top.png
 
-File:Stone knight front.png
+File:Stone knight front.png  
+
+NOTE: (For people who are under Power 50 and below.)
+
+In the name that is holy, please come with a friend. I am begging you, because these things do NOT come in a meteor and CAN SPAWN ANYTIME THEY WANT. -Random Deepwoken Player

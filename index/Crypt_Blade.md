@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 22469
+revid: 22568
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,7 +30,7 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The **Crypt Blade** is a Legendary Weapon and is currently the best Heavy Weapon(Best heavy weapon in the game is currently Crazy slots Greataxe and Greatsword) in the game. It can be obtained from the Depths loot pool and [The Duke](Duke_Ishamon_Erisia.md). It used to be unobtainable, however, the update that brought PvP arenas [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your Heavy Weapon stat, making it scale off of two values. It boasts a base damage of 26, and scales to 65 damage with max Shadowcast and max Heavy Weapon.
+The **Crypt Blade** is a Legendary Weapon and is currently the best equippable Heavy Weapon in the game. It can be obtained from the [Depths](The_Depths.md) loot pool and [The Duke](Duke_Ishamon_Erisia.md). It used to be unobtainable, however, the update that brought PvP arenas [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your Heavy Weapon stat, making it scale off of two values. It boasts a base damage of 26, and scales to 65 damage with max Shadowcast and max Heavy Weapon.
 
 ## Notes
 

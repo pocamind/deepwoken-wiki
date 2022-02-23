@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22531
+revid: 22551
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -821,5 +821,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
+-   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered in the Deep were a bug.
 
 Talking Mudskippers

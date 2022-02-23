@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 21822
+revid: 22557
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -18,8 +18,7 @@ Considered to be the root of Ether's usage.
 
 Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 
--   [Luck](Luck.md) has NOTHING to do with obtaining mantras. Chances do not increase or decrease for mantras based on your luck.
--   Having your combat, mobility, support, or wildcard slot filled, does not eliminate the chance of rolling a mantra. If you have any of these slots filled and get a whisper, it will automatically prompt you to replace one of your currently equipped mantras with the newly gained mantra from the whisper, should you decide to choose it.
+-   There are different rarities for mantras, the same way there are rarities for talents, Legendary, Rare, and Common. An example of a Legendary mantra would be lightning cloak.
 
 ## Mantras
 

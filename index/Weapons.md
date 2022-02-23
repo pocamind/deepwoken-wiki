@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22463
+revid: 22553
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -26,9 +26,9 @@ When obtaining a weapon, it may come with a star on them, which adds a certain b
 
 ## Stances
 
-Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance, however you can one-hand a heavy weapon if you have 50 heavy weapon and get one-hand training talent. Using a weapon two-handed allows you to do more posture damage and swing slightly faster then using a weapon one-handed, but also makes you unable to equip side weapons and shields.
+Press Y to change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance, however you can one-hand a heavy weapon if you have 50 Heavy Weapons and get the talent _One Handed Training_. Using a weapon two-handed allows you to do more posture damage and swing slightly faster then using a weapon one-handed, but also makes you unable to equip side weapons and shields.
 
-Quick Tip: To get the talent of using a heavy weapon one handed, you need at least 10 strength and 50 heavy weapon.
+Quick Tip: To get the talent of using a heavy weapon one handed, you need at least 10 Strength and 50 Heavy Weapons.
 
 ### One-Handed
 
@@ -1022,7 +1022,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Targe.md">Targe</a></td>
-  <td>15 FTD</td>
+  <td>10 FTD</td>
   <td>1.5</td>
 </tr>
 <tr>

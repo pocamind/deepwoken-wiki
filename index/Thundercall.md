@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22497
+revid: 22545
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -155,6 +155,7 @@ Bolt Piercer
  | An arrow of lighting. | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
+-   Self Damaging
 -   Was formerly a legendary mantra, now either rare or common
 
  |
@@ -210,7 +211,7 @@ Lightning Cloak
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
--   Lightning cloak is a legendary mantra card
+-   Lightning cloak is a legendary mantra card.
 
  |
 
