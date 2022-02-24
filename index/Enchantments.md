@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22664
+revid: 22694
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -123,7 +123,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
-  <td><div><p>Attacks will steal a moderately high amount of the target's thirst and hunger. (One flourish to fully steal all water and hunger)</p>
+  <td><div><p>Attacks will steal a moderately high amount of the target's thirst and hunger. (One flourish to fully steal all water and hunger) - Does not steal all water and hunger on flourish, i’ve noticed this for a long time go unchanged, I’m fairly sure it steals hunger and thirst equal to %health the player hit lost, however somebody else should test this.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -148,7 +148,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).</p>
+  <td><div><p>Attacks do damage overtime instead of instantly, (CANNOT be outhealed by a campfire or potions). +20% dmg as well</p>
   <p><br>
   </p></div></td>
 </tr>

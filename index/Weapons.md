@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22603
+revid: 22682
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -607,7 +607,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 
 **Clubs:**
 
-Clubs are weapons that as opposed to most other weapons in the game, deal blunt damage. Currently there are only two Clubs ingame.
+Clubs are weapons that as opposed to most other weapons in the game, deal blunt damage.
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 22599
+revid: 22676
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -41,7 +41,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
-Template:“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Potions
+“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Potions
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 1.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 150 HP. (It's not 0.5, I have tested it myself)
@@ -52,7 +52,7 @@ Template:“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Po
 
 ### Agility
 
-Template:Parkour! Parkour! Oh God that’s a cli-!! - Last Words of A Ganymede
+"Watch me hit this sick jum-" - Last Words of A Ganymede
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
@@ -88,7 +88,7 @@ Template:Parkour! Parkour! Oh God that’s a cli-!! - Last Words of A Ganymede
 
 ### Charisma
 
-Template:I know how to get stronger…it’s called a Vow of Mastery. Wanna Make One…?
+"I know how to get stronger…it’s called a Vow of Mastery. Wanna Make One…?"
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.

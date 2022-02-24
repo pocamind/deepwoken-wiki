@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22635
+revid: 22692
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -105,13 +105,13 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Apex Predator
 
--   Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
+-   Carnivore \[Common Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
     -   Prerequisites: 5 Strength & 5 Willpower, must not have Vegetarian Flaw
 
--   Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
+-   Grand Feast \[Rare Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
 
--   Sunken Predator \[Rare Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
+-   Sunken Predator \[Rare Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
 
 ### Artisan
 
@@ -383,7 +383,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Completely replace gun's light scaling with attunement scaling of the same value.
+    -   ~Completely replace gun's light scaling with attunement scaling of the same value.~ It adds the scaling not replace it. Think of curved blade of winds how it scales off of medium and gale.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Hunter
@@ -485,6 +485,7 @@ Prerequisite: Willpower 5~
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress.
+-   your mum (generic talent, legendary talent) - if someone attacks you then you will say "YOUR MUM" and they will break down crying being downed instantly.
     -   +50% EXP gain for every attributes and Power.
 
 ### **Mr Charm**
@@ -667,6 +668,11 @@ Prerequisite: Charisma
 
 -   Explosive Finish \[Generic Talent, Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
 -   Flaming Flourish \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (2 Elemental Intensity, +2 Health)
+
+### The Negotiator
+
+-   Last Second Negotiation \[Generic Talent, Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
+    -   Prerequisite: Charisma?
 
 ### Thief
 

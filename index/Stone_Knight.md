@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 22656
+revid: 22691
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Luck]
@@ -18,7 +18,7 @@ Exclusive to the Winter season.
 
 Killing 5 out of 6 of these monsters in the winter will despawn the last Blizzard Knight, and spawn a [chest](Chests_&_Sacks.md) near the river that has a guarantee drop of 1-4 [Hero's Blade](Hero_Blades.md). The element of the blade(s) is random.
 
--   To make it easier to kill these, you can lure them to the [Forest Golem](Hive_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight.
+-   To make it easier to kill these, you can lure them to the [Forest Golem](Hive_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight. <- is no longer true. It has been patched now and they won’t aggro each other.
 
   
 
@@ -58,13 +58,15 @@ Tall white slender figures with white/red eyes who spawn from meteors in the Val
 
 **Sand Knight:**
 
+Template:Creature Info Box v2
+
+## Sand Knight
+
 A tall figure similar to the [Blizzard Knight](Stone_Knight.md#blizzard-knight) with blue eyes and tan stone skin. This Stone Knight does not give [Luck](Luck.md) or a [Hero Blades](Hero_Blades.md) and has reduced health. Other than to gain experience, Sand Knights are completely useless to fight and only serve as a way to kill players that go to Hive while not knowing how to fight a Stone Knight.
 
-Some pictures of the Rock Knight after the meteor lands:
+A picture of the Rock Knight after the meteor lands:
 
 File:Stone knight top.png
-
-File:Stone knight front.png  
 
 NOTE: (For people who are under Power 50 and below.)
 
