@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 22625
+revid: 22658
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -36,10 +36,6 @@ _Chance of obtaining race: **15.2%**_
     <li>+2 Strength</li>
     <li>+2 Charisma</li>
   </ul></td>
-</tr>
-<tr>
-  <td>gay</td>
-  <td>get the ability to suck dick<p>+2 agility</p></td>
 </tr>
 </tbody>
 </table>

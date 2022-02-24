@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 22273
+revid: 22657
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -137,7 +137,6 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Sacred Hammer](Sacred_Hammer.md)
 -   [Shattered Katana](Shattered_Katana.md)
 -   Tanto
--   legion cestus
 
 ### Miscellaneous
 

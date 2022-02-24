@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 21727
+revid: 22660
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,4 +47,4 @@ Their arsenal consists of Ben's Knife ([Krulian Knife](Krulian_Knife.md)) and [S
 -   Everyone except the [Cultist Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   The Shadow Spike is a reskin of the [Glacial Arc](Frostdraw.md), and it's apparently only exclusive to these guys.
 -   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife.
-    -   "Ben’s Knife" is a bad pun. Due to the Ministry bringing up islands drowning in the Depths, players get the conclusion of "Ben 'Drowned'".
+    -   "Ben’s Knife" is a bad pun. Due to the Ministry bringing up islands drowning in the Depths, players get the conclusion of "Ben 'Drowned'" (false the knife is based off Ben's knife from Hunter x Hunter)

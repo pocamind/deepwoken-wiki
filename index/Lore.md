@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22650
+revid: 22659
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -199,6 +199,7 @@ An Etrean Guard, part of the Nation of Etrea
 
 ### The Hundreds Legion
 
+-   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_

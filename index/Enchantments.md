@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22647
+revid: 22664
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -55,8 +55,8 @@ Will have an effect upon hitting something. Please stop changing the curses effe
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of the umbral knight in Infernasu's video.jpg<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This effect ignores armor and has a 5-second cooldown. When used against a non-human npc you will take a minor amount of damage on each proc of the enchant. While the curse is equipped, it plays a weird sound.</p></div></td>
+  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
+  <td><div><p>When hitting an m1 a red splatter with a hissing noise will appear on your opponent dealing 20% of your actual damage. This effect ignores armor and has a 5-second cooldown. When used against a non-human npc you will take a minor amount of damage on each proc of the enchant. While the curse is equipped, it plays a weird sound.&nbsp;;-;</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
@@ -128,7 +128,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p>M1 connections proc a debuff on enemies which drastically increases armor penetration. Caps out at 100% after 2-4 procs. Does not work in PvE, and mantras are unaffected by the armor penetration.</p>
   <p>The effect that is supposed to appear on players appears to be bugged, as it used to proc a red and black lightning "stack" on the opponent. Can be seen very rarely when fighting primadon as black and red lightning, but no other effects can be seen on other entities.</p>
   <p><br>
