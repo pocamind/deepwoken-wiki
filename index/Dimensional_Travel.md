@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 22229
+revid: 22653
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -47,5 +47,5 @@ If **Distortion Realm** is found to be Corrupted, the **Distortion Realm** to Et
 
 -   Functions similar to _Naruto_ character, Tobi/Obito's Sharingan Ninjutsu "Kamui" ability.
 -   Like [Portal](Portals.md), **Distortion Realm** can be very useful in ambushing others.
--   Gravity inside the **Distortion Realm** is reduced, allowing you to jump higher.
+-   ~Gravity inside the **Distortion Realm** is reduced, allowing you to jump higher.~ (This was changed to the regular gravity a couple updates ago in a shadow patch)
 -   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)

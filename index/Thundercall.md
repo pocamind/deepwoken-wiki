@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22545
+revid: 22631
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]

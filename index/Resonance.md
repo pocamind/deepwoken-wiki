@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 22356
+revid: 22652
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -16,7 +16,7 @@ categories: [Resonance, Character]
 
 ### _Corrupted Resonances_
 
-**Cursed Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances. Similarly, to Cursed Items, they are tremendously stronger, but much rarer. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
+**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances. Similarly, to Cursed Items, they are tremendously stronger, but comes with a downside, in addition to being much rarer. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
 
 Every Corrupted Resonance gets a downside that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside altogether.
 

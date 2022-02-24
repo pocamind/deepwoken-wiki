@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22589
+revid: 22650
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -377,6 +377,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's 3 Attunements; thus is the reason why Galebreathe Songseekers do not exist.
+-   They worship the song and believe that when they die they will return to it like a form of reincarnation.
 
 ### Bandits
 
@@ -524,7 +525,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
 -   Flamecharm does not create fire; instead, creates combustions.
--   Flamecharm is one of the 3 Attunements of the Old World.  
+-   Flamecharm is one of the 4 attunements that appeared with the canticlysm  
     
 
 ### Frostdraw
@@ -532,21 +533,21 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
 -   Frostdraw is not affiliated with water nor uses it; except it decreases the temperature of all things- to the point of freezing or crystalization.
 -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.
--   Frostdraw is one of the 3 Attunements of the Old World.  
+-   Frostdraw is one of the 4 attunements that appeared with the canticlysm  
     
 
 ### Thundercall
 
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
 -   Thundercall concentrates the energies of electricity.
--   Thundercall is one of the 3 Attunements of the Old World.
+-   Thundercall is one of the 4 attunements that appeared with the canticlysm
 
   
 
 ### Galebreathe
 
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
--   Galebreathe was created during the Canticlysm; an event that led to the destruction of the Old World.
+-   Galebreathe is one of the 4 attunements that appeared with the canticlysm
 
   
 
@@ -646,9 +647,10 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Great Drowning
 
-**Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
+**Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Arch\_Mage (Mentioned)_
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
+-   Based on Arch\_Mage's words, The Great Drowning was created by the Song; presumably the consequence of the Old World's abuse of the Song.
 -   Celtor was drowned by the Celtorian Horror due to their excessive greed.
 
 ### The Depths
@@ -719,12 +721,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Resonance Bells
 
-**Lore Sources:** _The Depths_
+**Lore Sources:** _The Depths, Arch\_Mage (One of his posts in Discord)_
 
 -   Handheld Bells that allow the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
     -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
+-   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded" and can be other instruments other than bells.
 
 ## Deepwoken: 1271~
 

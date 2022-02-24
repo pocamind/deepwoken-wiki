@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 20919
+revid: 22646
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Items, Weaponry]
 | Steel Maul | |
 |---|---|
 | type | Heavy Greathammer |
-| requirements | 25 heavy weapon |
+| requirements | 20 Heavy, 10 STR |
 | damage | N/A |
 | scaling | N/A |
 | range | N/A |
