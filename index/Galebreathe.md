@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 22170
+revid: 22628
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -8,7 +8,9 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 # Galebreathe
 
-"As one with wind and cloud." -Kaedahara Kazuha
+_"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White Cloak_
+
+  
 
 ## Description
 

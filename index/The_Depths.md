@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22500
+revid: 22609
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -82,7 +82,10 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns._
 
-| Trial Power | Enemies |
+| Trial Power | Enemy(s)
+(PLEASE READ THE NOTE BEFORE SAYING I GOT X AT Y LEVEL)
+
+ |
 | --- | --- |
 | 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
 | 10-19 | [Mudskipper Knight](Mudskipper.md) |

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22466
+revid: 22616
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -134,9 +134,11 @@ This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten E
 
 The oath change the eye color of the user to purple and make a purple particle effect emanate from their right eye.
 
+[Vesperians](Vesperian.md) do not get a special cosmetic, in contrast to how blindseer gives vesperians a special mask.
+
 ### Notes
 
--   N/A
+-   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last.
 
 ## Trivia/Notes
 

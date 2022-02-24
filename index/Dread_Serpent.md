@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 22602
+revid: 22613
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -40,3 +40,4 @@ able?
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.
 -   Its general design appears to be a reference to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form.
+-   I honestly dont know where else to put this but heres proof that he drops accessories [https://cdn.discordapp.com/attachments/946131017289310259/946131363990495242/Evidence\_1.mp4](https://cdn.discordapp.com/attachments/946131017289310259/946131363990495242/Evidence_1.mp4) [https://cdn.discordapp.com/attachments/946131017289310259/946131382533488690/Evidence\_2.mp4](https://cdn.discordapp.com/attachments/946131017289310259/946131382533488690/Evidence_2.mp4) (I dont feel like uploading these to anything)

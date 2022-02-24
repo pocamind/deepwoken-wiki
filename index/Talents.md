@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22597
+revid: 22623
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -82,7 +82,10 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now has fast as walking.
+
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
+    -   Prerequisites: 15 Agility (maybe 10, but no more than 15)
+
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
     -   Negate the agility penalty tied to lost hp.
 -   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
@@ -184,6 +187,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
     -   When hit by an elemental attack, gain damage resistence toward it, however, if another element hit you, take increased damage from that element, while becoming resistent to the new element.
+    -   Due to some janky mechanics, the elemental resist/weakness are applied individually per player, therefore, you have a permanent elemental damage reduction (less than Return To The Dark Age) toward everyone, the downside only coming into play if your opponent is using multiple elements.
+        -   In the ever so possible scenario where you do fight someone with multiple elements, it is unlikely they will purposfully alternate their element usage.
 
 ### Charismatic Cast
 
@@ -290,9 +295,10 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Fish
 
--   Fishman \[Generic Talent,Rare Talent, not legendary anymore :( \] - Heal while swimming. Just remember that there's always a bigger fish
-    -   Reduced health regen on land. Increased health regen while swimming.
-    -   Doesnt affect health regen in [The Depths](The_Depths.md), since you are not swimming.
+-   Fishman \[Generic Talent,Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish
+    -   Health regeneration is increased while swimming.
+    -   Hunger and Thirst drain from swimming are amplified.
+    -   These effects do not activate in [The Depths](The_Depths.md).
 
 ### Freak Of Nature
 
@@ -471,6 +477,7 @@ Prerequisite: Willpower 5~
 -   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
 -   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
+    -   Decreases the amount of time Illusionary servants lasts for.
 -   Encouraging Presence \[Generic Talent, Common Talent\] - Allies that grip enemies near you recover Sanity. (+3 Health, +6 Sanity)
 -   Unyielding Focus \[Generic Talent, Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)
 
@@ -700,9 +707,9 @@ Prerequisite: Charisma
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Unyielding Inferno
+    -   Prerequisites: Unyielding Inferno & Willpower
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
-    -   Prerequisites: Graceful Flame
+    -   Prerequisites: Undying Flame
 
 ### Vow of Mastery
 
