@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 22744
+revid: 22768
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -41,9 +41,9 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 1.  Parry Checks
 2.  [Weakened Megalodaunt](Megalodaunt.md)
-3.  [2 Greater Angels](Hollow_Angel.md)
+3.  [Weakened 2 Greater Angels](Hollow_Angel.md)
 4.  [Weakened Rock Golem](Rock_Golem.md)
-5.  [Thresher](Thresher.md)
+5.  [Weakened Thresher](Thresher.md)
 6.  [Weakened Enforcer](Enforcer.md)
 7.  [Weakened Sand Knight](Stone_Knight.md)
 8.  Parry Check
