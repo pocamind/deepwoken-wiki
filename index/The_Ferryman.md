@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 22527
+revid: 22723
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -8,9 +8,14 @@ categories: [Pages with broken file links, Boss, Luck]
 
 # The Ferryman
 
-“ It is just a dance, after all. ”
+“ You measured risk, you took the chance,  
 
-― The Ferryman
+Now what awaits, guess, in advance -  
+DANCE, puppet, dance! Dance if you can!  
+The flames have called the Ferryman!  
+”
+
+― The Ferryman's Theme
 
   
 

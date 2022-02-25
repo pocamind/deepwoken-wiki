@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 21601
+revid: 22698
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,3 +34,4 @@ The Adretian Axe is a Heavy Weapon of the Greataxe catagory. It can be obtained 
 
 -   This weapon is very good for no reason. It has a low stat requirement for how good it is, and outclasses most of the endgame Heavy Weapons in every way possible despite this.
 -   Drippiest Axe (Drippier with [Adret](Adret.md)).
+-   Does more damage than [Pale Morning](Pale_Morning.md), and only slightly less than [Petra's Anchor](<Petra's_Anchor.md>), but does a decent amount less than [Enforcer's Axe](<Enforcer's_Axe.md>), and the same amount as [Darksteel Greatsword](Darksteel_Greatsword.md).

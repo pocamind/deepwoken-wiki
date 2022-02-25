@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 22506
+revid: 22701
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -113,6 +113,7 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 -   Fiber
 -   Flint
 -   Bullet
+-   nuts
 
 ##### Blueprints
 

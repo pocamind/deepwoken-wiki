@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 22653
+revid: 22709
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## Description
 
-**Distortion Realm,** also referred to as **Kamui,** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
+**Dimensional Travel,** also referred to as **Kamui or Distortion Realm,** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
 
 ### _Appearance_
 
@@ -23,15 +23,15 @@ When used, the user will leave a portal and be transported into the **Distortion
 
 ## Usage
 
-Pressing C will activate the **Distortion Realm** Resonance.
+Pressing C will activate the **Dimensional Travel** Resonance.
 
-When used, this ability will transport the user into the **Distortion Realm** and will briefly2 leave a lingering portal to allow other players to enter. _This cannot be used while in combat._1 Each step taken in the Distortion Realm equals around five steps taken in the Etrean Luminant.
+When used, this ability will transport the user into the **Dimensional Travel** and will briefly2 leave a lingering portal to allow other players to enter. _This cannot be used while in combat._1 Each step taken in the Distortion Realm equals around five steps taken in the Etrean Luminant.
 
 #### _Distortion Realm_
 
--   If the ability is used in the Etrean Luminant, the user will be transported into the **Distortion Realm** and leave a portal behind for others to enter.
--   If the ability is used in the **Distortion Realm**, the user's camera will teleport into the Etrean Luminant, showing them where they will teleport. Moving will place their camera back on their character in the Distortion Realm.
-    -   If any players inside the **Distortion Realm** jump into the void, they will be teleported to the equivalent position in the Etrean Luminant above said void.
+-   If the ability is used in the Etrean Luminant, the user will be transported into the **Dimensional Travel** and leave a portal behind for others to enter.
+-   If the ability is used in the **Dimensional Travel**, the user's camera will teleport into the Etrean Luminant, showing them where they will teleport. Moving will place their camera back on their character in the Distortion Realm.
+    -   If any players inside the **Dimensional Travel** jump into the void, they will be teleported to the equivalent position in the Etrean Luminant above said void.
 -   If **Distortion Realm** is used during the visual indicator, all players inside will be teleported back to the Etrean Luminant.
 
 ### _Variants_
@@ -41,11 +41,11 @@ When used, this ability will transport the user into the **Distortion Realm** an
 
 #### Corrupted
 
-If **Distortion Realm** is found to be Corrupted, the **Distortion Realm** to Etrean Luminant distance ratio is amplified, meaning you can travel further, faster.
+If **Dimensional Travel** is found to be Corrupted, the **Dimensional Travel** to Etrean Luminant distance ratio is amplified, meaning you can travel further, faster.
 
 ## Trivia/Notes
 
 -   Functions similar to _Naruto_ character, Tobi/Obito's Sharingan Ninjutsu "Kamui" ability.
--   Like [Portal](Portals.md), **Distortion Realm** can be very useful in ambushing others.
--   ~Gravity inside the **Distortion Realm** is reduced, allowing you to jump higher.~ (This was changed to the regular gravity a couple updates ago in a shadow patch)
+-   Like [Portal](Portals.md), **Dimensional Travel** can be very useful in ambushing others.
+-   ~Gravity inside the **Dimensional Travel** is reduced, allowing you to jump higher.~ (This was changed to the regular gravity a couple updates ago in a shadow patch)
 -   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22682
+revid: 22716
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -207,7 +207,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>N/A</td>
   <td>LHT: 7</td>
   <td>3</td>
-  <td>7</td>
+  <td>6</td>
   <td>0.75x</td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>N/A</td>
   <td>LHT: 7</td>
   <td>5</td>
-  <td>7</td>
+  <td>6</td>
   <td>0.87x</td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5%</td>
   <td>LHT: 9</td>
   <td>5</td>
-  <td>7</td>
+  <td>6</td>
   <td>0.87x</td>
 </tr>
 <tr>
@@ -581,6 +581,16 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
+</tr>
+<tr>
+  <td><a href="Serrated_Warspear.md">Serrated Warspear</a></td>
+  <td>65 MED</td>
+  <td>20</td>
+  <td>5%</td>
+  <td>MED: 6</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.7x</td>
 </tr>
 <tr>
   <td><a href="Rifle_Spear.md">Rifle Spear</a></td>

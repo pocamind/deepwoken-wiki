@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 21738
+revid: 22726
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weaponry]
@@ -237,3 +237,4 @@ The Hero Blade of Shadow is an elemental weapon that is obtained by defeating al
 
 -   The Hero Blade shines in builds that put a great emphasis in their attunement, going for the cap of 75 or even 100 with Lord Regent's quest usually. This is because, despite them taking the shape of swords, their scaling is based on the user's Attunement level and not their Medium Weapon level.
     -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
+    -   There are visible markings on the Hero Blade, which seem to be runes from Norse Mythology; these runes don't seem to form any specific meaning.

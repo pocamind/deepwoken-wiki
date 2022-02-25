@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 22442
+revid: 22703
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -34,7 +34,7 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 -   **Megalodaunt** - A normal Megalodaunt, with 1 000 health. In _The Depths_ you may encounter a Corrupted version, having three times as much health and dealing twice as much damage.
 -   **Crimson Megalodaunt** - A much more powerful, red version of the Megalodaunt with 3 000 health. The Crimson Megalodaunt appears exclusively in the [Songseeker Wilds](Songseeker_Wilds.md) with the Megalodaunt vs Crimson Megalodaunt random encounter.
     -   If the event is left by itself, the red one will always win due to its larger health pool.
-    -   Has the ability to rain down fiery swords from the sky with **Fire Roar**.
+    -   Has the ability to rain down fiery swords from the sky with **Fire Roar (Potato).**
 -   **Alpha (Grey) Megalodaunt** - Appears exclusively in _The Depths_ (and the [_Trial of One_](Trial_of_One.md)). It has 1 600 HP with improved damage. Can spawn as a Corrupted version, further increasing attack power and health by three times for a total of 4 800 health.
 
 ## Attacks

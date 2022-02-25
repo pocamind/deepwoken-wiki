@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 22488
+revid: 22714
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -43,3 +43,4 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   She is also speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to clone themselves and appear out of nowhere, aswell as the fact they both have purple eyes, which seems to be unique in some way(?).
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Arch mage has said that Aelita is bi in artist general chat.
+-   Aelita recently got her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E), composed by Naktigonis.

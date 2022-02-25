@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22692
+revid: 22717
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -1072,7 +1072,7 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 ## Notes/Trivia
 
 -   The "Fold" Card can be used if you are not satisfied with your current hand of cards.
--   The Card, "The Sound from Below" is always granted on your first Power increase.
+-   The Card, "The Sound from Below" is almost always granted on your first or second power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   You can filter talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.

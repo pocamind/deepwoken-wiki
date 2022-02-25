@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 21929
+revid: 22721
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -8,15 +8,15 @@ categories: [Pages with broken file links, Races, Character]
 
 # Adret
 
-Adret is a [Race](Aspects.md) in Deepwoken.
-
-## Description
-
 Template:Races-Main
 
 _Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin._
 
 _Chance of obtaining race: 16.0%_
+
+## Description
+
+Adrets are a common race that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as an extra point to be able to use when powering up. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new race and originate from the Central Luminant. Unlike other races, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
 
 ## Racial Traits
 
@@ -55,7 +55,12 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 **Strengths:**
 
   
-Adrets can easily level up their attributes faster than the normal player, making them progress faster. They also have a built-in autodidact which can be stacked with the boon.
+
+-   +2 Willpower
+-   +2 Charisma
+-   Natural autodiadict perk
+-   Higher starting reputation
+    
 
 **Surnames:**
 

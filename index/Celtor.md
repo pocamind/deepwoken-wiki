@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 22220
+revid: 22722
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -86,10 +86,9 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 -   Sokolof
     
 
+* * *
+
 ## Notes/Trivia
 
 -   Half of the surnames of the Celtors are of Russian origin (Baranof, Kotof, Pavel, Bykof, Kalinof, Petrof, Sokolof).
--   ~They cannot be spotted by watchers due to the fact that they belong in the Celtor city.~ An obviously false fact. Watchers will spot any players, regardless of race.
-
--   ~Upon interacting with the depths guards, you will get different dialogue options than normal.~ The Celtor Guards will have the same dialogue, regardless of race.
--   The cultists at the minitrysia temple won't grip you, instead they knock you and say, "don't do that." etc
+-   ~The cultists at the minitrysia temple won't grip you, instead they knock you and say, "don't do that." etc~ I'm pretty sure this is the animal king trait, not the race perk itself. can someone confirm this
