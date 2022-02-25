@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 22019
+revid: 22734
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,15 +19,15 @@ The interior of the temple
 
 ## Overview
 
-**Songseeker Temple** resembles a dojo on the interior. It can be found higher in the island with the windmill on it.
+Songseeker Temple resembles a dojo on the interior. It can be found higher in the island with the windmill on it.
 
-Inside the Temple is (name), a spelltrainer.
+Inside the Temple is Amashi, a spelltrainer.
 
 ## Contents
 
 ### NPCs
 
--   Players can find (name), a spelltrainer who can help you acquire [Flamecharm](Flamecharm.md), or upgrade your existing Flamecharm Mantras.
+-   Players can find Amashi, a spelltrainer who can help you acquire [Flamecharm](Flamecharm.md), or upgrade your existing Flamecharm Mantras.
 
 ## Potential Enemies
 

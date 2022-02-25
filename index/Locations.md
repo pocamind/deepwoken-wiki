@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 21940
+revid: 22739
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -10,11 +10,11 @@ categories: [Locations, World]
 
 _This page lists links to their respective pages. If you were looking for maps, see [Maps](Maps.md)._
 
-A list of locations that can be found in _Deepwoken_.
+A list of named locations that can be found in _Deepwoken_.
 
 ## The Etrean Luminant
 
-A list of locations that can be found in the Etrean Luminant experience.
+A list of named locations that can be found in the Etrean Luminant experience.
 
 **The Etrean Sea:**
 
@@ -92,16 +92,14 @@ A list of locations that can be found in [the Voidsea](Voidsea.md).
 -   [Voidheart](Voidheart.md)
     
 
-## [The Depths](The_Depths.md)
+## The Depths
 
-A list of locations that can be found in The Depths experience.
+A list of named locations that can be found in [The Depths](The_Depths.md) experience.
 
 -   [Celtor Wastes](Celtor_Wastes.md)
-    -   [Diver's Camp](<Diver's_Camp.md>)
-    -   [Castle Light](Castle_Light.md)
--   [The City of the Drowned](The_City_of_the_Drowned.md)
-    -   [Varicosa District](Varicosa_District.md)
-    -   [District of Commerce](District_of_Commerce.md)
+    -   [The City of the Drowned](The_City_of_the_Drowned.md)
+        -   [Varicosa District](Varicosa_District.md)
+        -   [District of Commerce](District_of_Commerce.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
 ### Miscellaneous
@@ -110,22 +108,24 @@ A list of locations that can be found in The Depths experience.
 
 ## Dungeon
 
-A list of locations that can be found in the Dungeon experience.
+A list of named locations that can be found in the Dungeon experience.
 
 -   [Trial of One](Trial_of_One.md)
 
-## Mission
+## Arena/Mission
 
-A list of locations (maps) that can be found when entering the PVP Arena.
+A list of named locations that can be found in the Arena or Mission experience.
 
-1v1:
+### 1v1:
 
--   Echoes of Bloodshed
+-   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
+-   [The Profane Cavern](The_Profane_Cavern.md)
 
-3v3:
+### 3v3:
 
--   The Unearthed Colosseum
 -   Forest Arena
+-   [The Falcon's Hold](<The_Falcon's_Hold.md>)
+-   [The Unearthed Colosseum](The_Unearthed_Colosseum.md)
 
 ## Trivia/Notes
 

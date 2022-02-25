@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22609
+revid: 22748
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -8,29 +8,33 @@ categories: [Pages with broken file links, Death, Mantras, Locations]
 
 # The Depths
 
-| The Depths | |
-|---|---|
-
 LocationL The Depths LocationR
 
 You can feel your soul dragging down like a weight, deeper, further into the depths.
 
   
 
-“ You feel the Depths coil around your soul like a knot. ”
+[The City of the Drowned](The_City_of_the_Drowned.md) in The Depths
 
-― In-combat flavour text.
+**The Depths** is a location in _Deepwoken_. Players are sent here after dying when murky in the Surface.
 
-_The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of Deepwoken. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again._
+## Overview
+
+The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again.
+
+## Points of Interest
+
+-   [The City of the Drowned](The_City_of_the_Drowned.md)
+    -   [District of Commerce](District_of_Commerce.md)
+    -   [Varicosa District](Varicosa_District.md)
+-   [Temple of Hearts](Temple_of_Hearts.md)
+-   [Fragments of Self](Fragments_of_Self.md)
 
 ## Layers of the Depths
 
-After talking to Mark Adaset in the Castle of Light, he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
+After talking to Mark Adaset in [Castle Light](Castle_Light.md), he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
 
 Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
-
-  
-(Also for anyone who saw that one edit here with a person claiming they have the layer 2 map is false, its just a scrapped island called ironfist.)
 
 ## Escaping The Depths
 
@@ -46,7 +50,9 @@ File:Citymap.png
 
 Rough map of the City of the Drowned
 
-(Not to be confused with [Resonances](Resonance.md)) The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
+_Not to be confused with [Resonances](Resonance.md)._
+
+The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
 Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
@@ -82,10 +88,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns._
 
-| Trial Power | Enemy(s)
-(PLEASE READ THE NOTE BEFORE SAYING I GOT X AT Y LEVEL)
-
- |
+| Trial Power | Enemy(s) |
 | --- | --- |
 | 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
 | 10-19 | [Mudskipper Knight](Mudskipper.md) |
@@ -93,10 +96,8 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 | 30-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
 
-  
-
--   If 4 or more players attempt to escape, they may be prompted to "Thin their numbers", forcing players to slaughter each other until only 3 remain. Only then will the Trial begin.
--   1: Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
+-   If 4 or more players attempt to escape, they may be prompted to "thin their numbers." This means forcing players to slaughter each other until only 3 remain, only then will the Trial begin.
+-   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.  
@@ -109,11 +110,8 @@ The Depths, being a naturally hostile location, is especially difficult to survi
 ### **Talents & Equipment**
 
 -   _**Carnivore**_, the Talent apart of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stat you need to level for it to show up is **Strength.**
-
 -   **_Conquer Your Fears_**, a Talent apart of the **Mental Fortress** talent tree is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
-
 -   _**Giantslayer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfishes and Crabs. Obtained with Willpower, tested with a pure Willpower build.
-
 -   **_[Blindseer Oath](Oaths.md)_**, this Oath obtainable through high Willpower and obtaining all 5 **Mental Fortress** cards will allow somebody to survive the Depths without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.
 
 -   **% Damage Up**, equipment with stat modifiers usually have a form of % damage bonus against certain enemy types such as Giant, Sea, or Deep. Having a high total percent against Depths beasts will be useful.
@@ -132,9 +130,7 @@ Just some information to keep in mind and remember.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 bluecaps to make the max level of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
 
-  
-
-## Quests (incomplete)
+## Quests
 
 ### Finding Morning
 
@@ -148,7 +144,7 @@ Just some information to keep in mind and remember.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers.
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Requires a Charisma (???). Failing this check leads to the same fate as the Ignition Union group.
 
-### **Visionshaper**
+### Visionshaper
 
 Deep down in the Depths, you can find a secret room located near the Deep Widow. Here there is man who can teach you illusion magic (Visionshaper Oath) in payment for Void Feathers.
 
@@ -158,7 +154,7 @@ When initially obtaining this oath, the Nestmind, in another layer of The Depths
 -   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level.
 -   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
 
-## Monsters in The Depths (incomplete)
+## Potential Enemies
 
 -   [Seekers](Watcher.md)
 -   [Angels](Hollow_Angel.md)
@@ -242,7 +238,7 @@ Legendary = Gold
 </tbody>
 </table>
 
-## Trivia
+## Trivia/Notes
 
 -   You can gain luck by killing players or corrupted [Monsters](Monsters.md) in the Depths.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.

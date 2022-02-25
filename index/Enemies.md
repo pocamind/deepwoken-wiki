@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 20294
+revid: 22758
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,13 +14,11 @@ _This page is for human enemies. For Monster enemies, see [Monsters](Monsters.md
 
 ## Overview
 
-Beyond the safety of cities and towns, there are humanoid NPCs that lurk within islands; either ambushing players, patroling a certain area, or settling down on a campfire or stronghold.
+Beyond the safety of cities and towns, there are humanoid NPCs that lurk within islands; either ambushing players, patroling a certain area, or settling down on a campfire or stronghold. They serve as tools for player to advance their skills, unlock new areas, unlock better equipments and armors, or simply to act as a skill check. They could shread any players who are unskilled or unprepared, but like monsters, they could be learnt.
 
-Depending on who they are, they could vary in their skill, equipment, and Attunements.
+Depending on who they are, they could vary in their skill, equipment, and attunements.
 
 This page consists of Humanoid NPCs that fight back, or attack you on sight. Includes all Factions.
-
-For information of Monsters, go [here](Monsters.md).
 
 ## Enemies
 

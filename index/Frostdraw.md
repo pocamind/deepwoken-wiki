@@ -1,14 +1,12 @@
 ---
 title: Frostdraw
-revid: 22333
+revid: 22761
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Frostdraw
-
-"Mark my words vengeance will be mine!" - A certain noble girl not from genshin impact
 
 ## Description
 
@@ -258,3 +256,4 @@ Impale/Impact
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022
+-   Glacial arcs used to be able to be created on one another. Was removed after many people used this to be untouchable whilst sending down a hail of arcs from above.

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 22654
+revid: 22744
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -10,21 +10,23 @@ notices:
 
 # Trial of One
 
-“ Deep within the bowels of [Minityrsa](Minityrsa.md), a Trial awaits those that dare to seek it... ”
+LocationL Trial of One LocationR
 
-― Deepwoken
+And now, a road that only one may walk...
+
+  
 
 Entrance hallway of the Trial. The door ahead leads to the arena, two nonfunctional glowing gates to the left and right hallways.
 
-The **Trial of One** is an unique event in _Deepwoken_. Its entrance is located under the Dark Mage Cultists stronghold where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are Power 1 regardless of the amount of used investment points, otherwise the gate would stun and knock the player back if they exceed the required Power.
+The **Trial of One** is a location in _Deepwoken_. It is a unique event in the Dungeon experience.
 
 ## Overview
 
-The Trial of One is a dungeon designed to practically speedrun through early-game progression stat wise, It consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
+The Trial of One is a dungeon designed to assist experienced players progress easily through early-game progression stat wise, It consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
+
+The entrance is located under the Stronghold in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points, otherwise the gate would stun and knock the player back if they exceed the required Power.
 
 After the completion of each challenge, a glowing orb that functions similar to a campfire floats down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
-
-**WARNING:** If you die during the Trial of One, all your equipped armor will be lost.
 
 ## Trial Rules
 
@@ -33,7 +35,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   When a challenge begins, the monsters (or light turrets) are immediately aggressive towards you hinting no breaks until the end of the challenge.
 -   You must use all of the free points given to you to power up.
 -   When given the chance, you must draw or fold the cards you are offered to continue to the next challenge.
--   If you fail the trial, any food, equipped armor and spare weaponry is lost.
+-   If you fail the trial, any [Food](Food.md), equipped [Equipment](Equipment.md) and spare [Weapons](Weapons.md) is **lost**.
 
 ## Challenges
 
@@ -47,16 +49,17 @@ After the completion of each challenge, a glowing orb that functions similar to 
 8.  Parry Check
 9.  [Weakened Alpha Megalodaunt](Megalodaunt.md) + Continuous Parry Checks
 
-## Rewards
-
 File:Reward for finishing.png
 
 Mark of the Lone Warrior's talent description
 
+## Rewards
+
 -   Free Points to spend on [attributes](Attributes.md) for each challenge.
     -   5 Free Points for the first trial, 10 Free Points for trials 2-8, and 15 points for the final trial. Finishing the trial will result in 18 Power.
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
--   [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks. (Theorized that it does not multiply EXP by 2x but multiplies PROGRESSION STAT (stat for bell) by 2x | TL;DR might not multiply EXP by 2x but makes bell easier to get by 2x)
+-   Talent Card [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks.
+    -   Could possibly assist [Resonance](Resonance.md) Progress and not Power experience.
 -   Minityrsa starting spawn point when creating a character for completing the trial.
 
 ## Tips and Tricks
@@ -64,7 +67,7 @@ Mark of the Lone Warrior's talent description
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help **experienced players** by giving them a quick progression boost by reaching power 18 in roughly 20 minutes and giving a boost to further progression.
 -   **All monsters fought in the trials will have their HP greatly reduced (besides Angels) so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.**
 -   **Parrying challenge -** While you get auto parrying frames, it's not a bad idea to spam F decently fast to make sure you parry everything.
--   **Megalodaunt -** Fight as if it were a regular Megalodaunt (See Megalodaunt page for details), albeit with caution. It has less health, but you are still only level 2. If you're bad, there is a cliff at the back you can use.
+-   **Megalodaunt -** Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. If you're bad, there is a cliff at the back you can use.
 -   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. You can also cheese this trial by backstabbing one of the angels as they spawn (they are facing away from the entrance).
 -   **Rock Golem -** Fight as if it were a normal Rock Golem (See Rock Golem page for details), albeit with caution. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge nonetheless. The cliff at the back is still there, though you can only hit the golem when it jumps up.
 -   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. The cliff at the back works a bit, but make sure not to stand at the very back, and if it gets on to the ledge, jump off and back on to make the thresher go back down.

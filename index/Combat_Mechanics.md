@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 20359
+revid: 22738
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -201,8 +201,8 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <td></td>
 </tr>
 <tr>
-  <th>Stunned</th>
-  <td></td>
+  <th>Concussed</th>
+  <td>Your movement speed is reduced to a crawl. Usually happens after a flourish if you've been knocked into a wall.</td>
   <td></td>
 </tr>
 </tbody>

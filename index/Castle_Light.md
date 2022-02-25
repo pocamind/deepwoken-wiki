@@ -1,13 +1,15 @@
 ---
 title: Castle Light
-revid: 21622
+revid: 22741
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Castle Light
 
-## Description
+**Castle Light** is an unnamed location in _Deepwoken_. It is a landmark in the [Celtor Wastes](Celtor_Wastes.md).
+
+## Overview
 
 Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers, and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22694
+revid: 22756
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -83,7 +83,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>Deal more damage at higher hp, (25% increase max) and do less when you are below 40% hp.</p></div></td>
+  <td><div><p>Deal more damage when you are below 40% hp (caps out at 1.25x dmg) When you are above 40% it does nothing.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
