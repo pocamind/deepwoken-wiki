@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 22167
+revid: 22815
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -9,6 +9,8 @@ categories: [NPCs]
 # Hobo
 
 The Hobo Is a neutral npc that can be found in the wild. He guards a chest that can only be obtained if you pass a charisma check or kill him.
+
+  
 
 Picture of a hobo sitting.
 
@@ -34,3 +36,4 @@ Tips/Notes:
 -   The hobo become hostile when you open any of his chest, however he will not aggro until you walk in front of him.
 -   The hobo seems to be someone who escaped captivity from the golems, and has lost his mind since.
 -   It's worth fighting him.
+-   Do **NOT** try to run from him. You will most likely end up dead due to his fly hacks. (I’m still salty that I wiped because my team didn’t let me Charisma check at max Charisma)

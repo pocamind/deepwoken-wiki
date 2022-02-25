@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 22703
+revid: 22824
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -51,7 +51,7 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 
 #### Finisher
 
--   **Curb Stomp** - The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second.
+-   **Curb Stomp** - The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. It is so fast you think you die randomly because of a glitch.
 
 ## Combat
 

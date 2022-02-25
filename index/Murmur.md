@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 22007
+revid: 22782
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -61,3 +61,5 @@ When you first obtain Tacet you can be spotted from far away, making it relative
 Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The Hidden Village](The_Hidden_Village.md).
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
+
+You can also get this murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in Erisia (only spotted here). With 10 charisma, you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.

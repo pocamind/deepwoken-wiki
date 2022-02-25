@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 22761
+revid: 22835
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -139,7 +139,8 @@ These mantras have no prequisites.
  | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
 
 -   _Pillar pulsates a blue aura, possibly slows nearby targets._
--   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
+
+Rarely ever seen without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
 
  |
 
@@ -173,7 +174,8 @@ Impale/Impact
 
 -   Can be used to climb or cross gaps.
 -   Deals heavy damage and briefly slows targets.
--   Can be upgraded with Glass Stone.
+-   Can be upgraded with Glass Stone.  
+    RARITY-COMMON
 
  |
 | File:Ice Skate.png | Ice Skates
@@ -186,6 +188,9 @@ Impale/Impact
 -   Leaves ice where the Mantra is casted.
 
 (Frequently doesn't work even in water)
+
+  
+RARITY-RARE
 
  |
 
@@ -256,4 +261,3 @@ Impale/Impact
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022
--   Glacial arcs used to be able to be created on one another. Was removed after many people used this to be untouchable whilst sending down a hail of arcs from above.

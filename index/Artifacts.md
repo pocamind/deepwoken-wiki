@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 22637
+revid: 22807
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -56,6 +56,7 @@ A Celtor finding the pulsating rings.
 
   
 
+  
   
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22717
+revid: 22823
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -105,7 +105,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Apex Predator
 
--   Carnivore \[Common Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
+-   Carnivore \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+3 Health)
     -   Prerequisites: 5 Strength & 5 Willpower, must not have Vegetarian Flaw
 
 -   Grand Feast \[Rare Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
@@ -208,7 +208,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
-    -   Prerequisite: Reinforce/Shadow Magic(obviously)
+    -   Prerequisite: Reinforce/Shadow Magic(obviously)<---- wrong its not a shadow Talent, it has no shadow symbol on the card and has been gotten without shadow multiple times. Whoever said it needs shadow is just an idiot.
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
     -   Prerequisite: Reinforce
 
@@ -485,7 +485,6 @@ Prerequisite: Willpower 5~
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress.
--   your mum (generic talent, legendary talent) - if someone attacks you then you will say "YOUR MUM" and they will break down crying being downed instantly.
     -   +50% EXP gain for every attributes and Power.
 
 ### **Mr Charm**
@@ -1077,7 +1076,8 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   You can filter talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
--   At Power 60, you will get a guarantee legendary talent card
+-   At Power 60, you will get a guarantee legendary talent card  
+    FIX THIS ASS PAGE EVERY OTHER PAGE IS ATLEAST DECENT BUT HOLY SHIT TALENTS IS SO FUCKED
 
   
 Template:Navbox:Talents

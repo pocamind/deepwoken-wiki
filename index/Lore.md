@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22659
+revid: 22825
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -99,6 +99,22 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   Sells the best food for the best price.
 
 The one and only... MEAT LORD!
+
+  
+
+### **Gunsmith Rosen**
+
+_"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny things y'learn when you discard everything in pursuit of your goals... Heh heh..." - Yamaketzal, the Drunkard Capra_
+
+**Lore Sources:** _Rifle Spear (Description), Flintlock (Description), Yamaketzal (Mentioned), Summer Company Guards (Good Rep Dialogue)_
+
+-   Gunsmith Rosen is a man who sparked the innovation of Firearms, and the introduction to it in the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
+-   His identity, race and affiliation is unknown, as it was only mentioned through Weapon Descriptions.
+    -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
+
+-   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
+    -   As of the Year 1271, Gunsmith Rosen's status is unknown; but thanks to the Summer Company's Guards- Rosen is still alive, and presumably in charge of Summer Company.  
+        
 
 ### Yun'shul
 
@@ -220,12 +236,12 @@ Amara, a Member of The Legion.
 -   **Territory:** _Summer Isles_
 -   **Encountered In:** _Summer Isles_
 -   **Attunements:** _N/A_
--   **Alliances:** _The Central Authority (Mixed)_
+-   **Alliances:** _The Central Authority (?)_
 -   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:**
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
--   They are affiliated with The Adretian Authority, supplying them weapons, most notably the Rifle Spear. In return, the Summer Company gets paid from The Adretian Authority for their efforts.
+    -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
 -   Allying with the Summer Company is possible (friendly dialogue) by assisting them in large amounts in events.
 
@@ -568,6 +584,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 -   An application of the Song that allows the user to utilize the Murmur into raw strength.
     -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
 -   Those who wield the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
+    -   Focusing on the sounds of Ardour, whispers can be heard.
 -   Ardour can also be used as a form a scream; inflicting fear to those around them.
 -   The King of Etrea is mentioned to have this Murmur. It was said that this Murmur "could cut the sea itself".
 

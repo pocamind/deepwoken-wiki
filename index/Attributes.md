@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 22676
+revid: 22777
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -31,6 +31,8 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
+"Hm? You train your muscle just to carry those stuff?" -Adret questioning his friend Canor
+
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
     -   For every 10 Points of Strength, gain 1% Penetration.
@@ -41,7 +43,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
-“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Potions
+“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Unethical amounts of [Potions](Alchemy.md)
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 1.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 150 HP. (It's not 0.5, I have tested it myself)
