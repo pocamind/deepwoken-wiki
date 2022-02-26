@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 21591
+revid: 22866
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Akira is first found in the Celtor Wastes, protecting a area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in a event that isnt guaranteed, meaning you may need to server hop to meet him.
 
-You meet him a second time after completing the event and accepting the challenge to meet him at Castle Light. Upon arrival he is leaning against the wall in the Main Hall by the door. He gives you the choice to join the Divers, but warns that it is a extremely dangerous job.
+You meet him a second time after completing the event and accepting the challenge to meet him at Castle Light. Upon arrival he is leaning against the wall in the Main Hall by the door. He gives you the choice to join the Divers, but warns that it is an extremely dangerous job.
 
 ## Akira vs. Ignition Union Event
 

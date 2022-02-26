@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 22408
+revid: 22863
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,7 +18,7 @@ The Nestmind is an NPC in the Conscious Intersection, the place you are teleport
 
 ## Dialogue
 
-The **bold** text will be the player. The _italic_ text will be The Nestmind. Choose the **bold** dialogue options to get the Visionshaper Oath.
+The **bold** text will be the player. _italic_ text will be The Nestmind. Choose the **bold** dialogue options to get the Visionshaper Oath.
 
 _Ah, the mouse seeks **covenant** with my kind._
 
@@ -32,7 +32,7 @@ _Yes, we **Owls**... Or I suppose, that's just how we appear to your limited per
 
 **But... I thought I was supposed to be hunting you?**
 
-_Things aren't always what they seem, **little mouse**... In time, you may pretend to be one of us, use abilities inherent to my **kind**... And you may do with these as you please, but are you prepared to **pay the toll?**_
+Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll**?**
 
 **The toll?**
 

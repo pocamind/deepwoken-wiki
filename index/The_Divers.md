@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 16132
+revid: 22893
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds]
@@ -48,3 +48,4 @@ The player can join The Divers, like a Guild. Finding Akira in the Celtor Waste 
 ## Notes
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
+-   Current leader of The Divers is SoftSnowOwl

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 22748
+revid: 22861
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -148,7 +148,7 @@ Just some information to keep in mind and remember.
 
 Deep down in the Depths, you can find a secret room located near the Deep Widow. Here there is man who can teach you illusion magic (Visionshaper Oath) in payment for Void Feathers.
 
-When initially obtaining this oath, the Nestmind, in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
+When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
 -   Void feathers drop from corrupted Owls in The Depths.
 -   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22825
+revid: 22839
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -482,7 +482,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A race of bugs never seen without the masks they wear, although most may not understand why.
 -   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
--   Their ancestors are the Primal Vesperians, a race that existed before the coming of the Tides.
+-   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that indentified as a Vesperian.
 -   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
     -   According to Arch\_Mage, Vesperians grow their masks.
         -   This would imply they are organic in some way
@@ -527,8 +527,8 @@ _"The stars call you back..."_
 
 ### Primal Vesperians
 
--   (NO LORE CONNECTIONS)
--   Ancestors of the Vesperians and Ganymede, who split apart during the coming of the tides to survive as a "people".
+-   Primal Vesperians do not play a significant role in the lore, thought they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who left The Convicts Hand and went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
+-   "Ancient Vesperians lost to time."
 
   
 

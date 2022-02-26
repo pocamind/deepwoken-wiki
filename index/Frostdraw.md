@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 22835
+revid: 22885
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,11 +8,13 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Frostdraw
 
+"_Freeze eternally!_ " - Jin Kisaragi
+
 ## Description
 
 A Hemafrosted Capra casting a beam of ice.
 
-Frostdraw allows the user the ability to draw ice magic from the atmosphere, giving them access to abilities which focus on mobility, debuffs and high damage output.
+Frostdraw allows the user the ability to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
 Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment
 
@@ -139,8 +141,7 @@ These mantras have no prequisites.
  | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
 
 -   _Pillar pulsates a blue aura, possibly slows nearby targets._
-
-Rarely ever seen without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
+-   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
 
  |
 
@@ -174,8 +175,7 @@ Impale/Impact
 
 -   Can be used to climb or cross gaps.
 -   Deals heavy damage and briefly slows targets.
--   Can be upgraded with Glass Stone.  
-    RARITY-COMMON
+-   Can be upgraded with Glass Stone.
 
  |
 | File:Ice Skate.png | Ice Skates
@@ -188,9 +188,6 @@ Impale/Impact
 -   Leaves ice where the Mantra is casted.
 
 (Frequently doesn't work even in water)
-
-  
-RARITY-RARE
 
  |
 
@@ -257,7 +254,7 @@ RARITY-RARE
 
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
--   Hostile Frostdrawers can be found as Navaen Nomads in Etris, as Songseeker monks in [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
+-   Frostdrawers can be found as Navaen Nomads in Etris, as Songseeker monks in [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022

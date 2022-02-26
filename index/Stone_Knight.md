@@ -1,73 +1,44 @@
 ---
 title: Stone Knight
-revid: 22691
+revid: 22892
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Luck]
+categories: [Monsters, Luck]
 ---
 
 # Stone Knight
+
+Stone Knights are a type of Giant monster encountered primarly in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). They all spawn via a falling meteor.
 
 **Blizzard Knight:**
 
 Template:Creature Info Box v2
 
-## Blizzard Knight
-
-Exclusive to the Winter season.
-
-Killing 5 out of 6 of these monsters in the winter will despawn the last Blizzard Knight, and spawn a [chest](Chests_&_Sacks.md) near the river that has a guarantee drop of 1-4 [Hero's Blade](Hero_Blades.md). The element of the blade(s) is random.
-
--   To make it easier to kill these, you can lure them to the [Forest Golem](Hive_Construct.md) that is next to the [Valley of Heroes](The_Valley_of_Heroes.md) and the two will fight. <- is no longer true. It has been patched now and they won’t aggro each other.
-
-  
-
 ## Description
 
-Tall white slender figures with white/red eyes who spawn from meteors in the Valley of Heroes on [Minityrsa](Minityrsa.md). You can tell if you are near their spawn as the walls of the valley will be littered with white glowing meteors. Once triggered, five white meteors will fall from the sky and do an AOE. Out of the 5 meteors, 6 Snow Knights will spawn and attack on sight (Unsure if this is a bug), often beginning with a pillar attack. They carry a sword and use their legs to kick a unfortunate player into the air. They can also use their sword to slash the air and make an air projectile.
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the Valley of Heroes. This is the more powerful version of the two, boasting a large healthpool, almost 3x that of the Desert Knight and coming in a pack of 6.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Images</th>
-  <th>Move</th>
-  <th>Description</th>
-</tr>
-<tr>
-  <th><figure>File:Ice knight kick.gif<figcaption></figcaption></figure></th>
-  <th>Kick</th>
-  <th>The player is kicked into the air (and probably slammed into a wall)<p>If both the Snow Knight and player are close enough to a wall, the Snow Knight is near guaranteed to get a free Slash or Rock Pillar. (Unparriable but parriable with Hunter Brace)</p></th>
-</tr>
-<tr>
-  <td><figure>File:Rock pillar.gif<figcaption></figcaption></figure></td>
-  <td>Rock Pillar</td>
-  <td>A pillar forms below the targeted player, launching them into the air<p>If close to the player, the Snow Knight is guaranteed to get a free Kick or Slash. (Unparriable but parriable with Hunter Brace)</p></td>
-</tr>
-<tr>
-  <td><figure>File:Wind Blast.gif<figcaption></figcaption></figure></td>
-  <td>Wind Blast</td>
-  <td>A projectile is fired towards the player, does damage (and probably launches the player back) (Blockable/Parriable)</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Spawn</td>
-  <td>Upon entering the Valley of Heros, 5 meteors fall from the sky. When hitting the ground they spawn Snow Knights that will aggro on the player.</td>
-</tr>
-</tbody>
-</table>
+They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
-**Sand Knight:**
+Defeating the whole pack will spawn a chest near the frozen river that will always contain at least 1 of the 5 [Heroes Blade](Hero_Blades.md), the element being random.
+
+**Desert Knight:**
 
 Template:Creature Info Box v2
 
-## Sand Knight
+## Description
 
-A tall figure similar to the [Blizzard Knight](Stone_Knight.md#blizzard-knight) with blue eyes and tan stone skin. This Stone Knight does not give [Luck](Luck.md) or a [Hero Blades](Hero_Blades.md) and has reduced health. Other than to gain experience, Sand Knights are completely useless to fight and only serve as a way to kill players that go to Hive while not knowing how to fight a Stone Knight.
+Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights are the variant encountered in Starswept Valley. They are much weaker than their Blizzard counterpart, featuring a lot less HP. Unlike their Blizzard variant, they only spawn in pack of one usually.
 
-A picture of the Rock Knight after the meteor lands:
+Killing them will **NOT** grant a chest with Heroes Blade, the chest will contain loot fitting of the area.
 
-File:Stone knight top.png
+They may spawn anywhere within Starswept Valley and some of its surrounding areas, said spawn locations being noticeable via falling crystals from the sky.
 
-NOTE: (For people who are under Power 50 and below.)
+## Attacks
 
-In the name that is holy, please come with a friend. I am begging you, because these things do NOT come in a meteor and CAN SPAWN ANYTIME THEY WANT. -Random Deepwoken Player
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Slash** | The knight slash with his sword. Can be used twice in a row. | ◯ | (★☆☆) |
+| **Kick** | The knight perform a very fast kick that can be dodged but deal a lot of damage and deal extra damage + daze the player if launched at a wall. Good chance to lead into a follow up with any of his other moves. | ✗ | (★★★) |
+| **Wind Blast** | The knight slash the air with his sword, creating a projectile targetted at the player. | ◯ | (★☆☆) |
+| **Rock Pillar** | The knight punch the ground, creating a rock pillar at the player location that must be dodged. The dodge window is quite forgiving, even letting very early roll escape the move. If the player is hit, they are essentially guaranted to get hit by the next attack. | ✗ | (★★☆) |
