@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 22775
+revid: 22962
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,9 +18,11 @@ There are currently three types of mantra modifiers; Regular, Deep Gems, and Spa
 
 Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
 
+Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
+
 Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible, for example:
 
-1.  Revenge requires Drift/Rush Shards to reach further instead of Lens.
+1.  Revenge requires Drift/Rush Shards to reach further instead of Lens
 
 **Regular:**
 

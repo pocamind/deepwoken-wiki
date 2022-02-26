@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 22319
+revid: 22954
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -46,7 +46,8 @@ In order to successfully use How to Make Friends and level up your Charisma, sel
 
 -   Some weather we're having, huh?
 
--   You ever been to a Canor restaurant? The food's pretty howlright.
+-   You ever been to a Canor restaurant? The food's pretty howlright.  
+    
 
 When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines depending on the charisma of the player who spoke the line.
 

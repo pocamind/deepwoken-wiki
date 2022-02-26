@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22931
+revid: 22969
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -200,8 +200,8 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** _N/A_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
--   **Alliances:** _Unknown_
--   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, Knives of Eylis_
+-   **Alliances:** _Unknown/None_
+-   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, Knives of Eylis, The Songseekers_
 -   **Lore Sources:** G_remorian Longspear Description_
 -   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, who worship the goddess(?) Navae.
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
@@ -236,7 +236,7 @@ Amara, a Member of The Legion.
 -   **Territory:** _Summer Isles_
 -   **Encountered In:** _Summer Isles_
 -   **Attunements:** _N/A_
--   **Alliances:** _The Central Authority (?)_
+-   **Alliances:** _The Central Authority (?) (Most likely not, as the technology for the Guns were stolen for the Rifle Spear, not borrowed._
 -   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:**
 
@@ -309,7 +309,7 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Fort Merit, Central Luminant_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral)_
+-   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral) (Most likely not, as the technology used in the Guns were stolen for the Rifle Spear, not borrowed._
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion__, Hive_
 -   **Lore Sources:** _Authority Interrogator Talents, The Vigil Librarian, Weapon Descriptions._
 
@@ -846,5 +846,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
 -   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered in the Deep were a bug.
+-   It was also confirmed by Archmage that Stormcall/Plasmacast (Purple Lightning) is old lore that they've forgotten to remove. No leancall, everyone.
 
 Talking Mudskippers

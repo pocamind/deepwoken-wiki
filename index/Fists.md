@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 22946
+revid: 22959
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -28,7 +28,7 @@ categories: [Weapons, Pages with broken file links, Weaponry]
 
 ## Description
 
-Fists are another type of scaled light weapon attribute the player can use in Deepwoken
+Fists are another type of scaled light weapon attribute the player can use in Deepwoken.
 
 Switching to fist stance while using another weapon. Note that the weapon being thrown at the ground is purely visual and does not remove it from the inventory.
 
@@ -38,7 +38,7 @@ There are several different style and all share the common ability of being able
 
 ### Legion Kata (Legion Martial Arts)
 
--   You must talk to the Legion Captain inside the Viper's Jaw and ask them for training. You will then receive a quest to go help the Centurions on Aratel (Hive Island), and the quest is to help the Centurion during the Centurion VS Authority 1v1s ( ice mage vs legion) and at erisia too(maybe it is bug), and if you help the Centurions, your reputation among them will increase. **Talk to the centurion after every fight, ~(you must grip the enemy dont let the Centurion do it~**~)~ (This is false, you still get reputation if the npcs grips it~)~. After getting enough reputation you will get a recomendation ( you can know your reputation by more friendly dialogs from Centurions.
+-   You must talk to the Legion Captain inside the [Viper's Jaw](<The_Viper's_Jaw.md>) and ask them for training. You will then receive a quest to go help the Centurions on [Aratel Island](Aratel_Island.md), and the quest is to help the Centurion during the Centurion VS Authority 1v1s ( ice mage vs legion) and possibly at Erisia too(?). If you help the Centurions, your reputation among them will increase, and after getting enough reputation you will get a recommendation and will be able to learn Legion Kata.
 
 File:Legion fist.png
 
@@ -70,10 +70,9 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 ## Trivia/Notes
 
 -   The Jus Karita fighting style can't equip a cestus. (If you have two fist styles and try to equip a cestus on Jus Karita, the game will forcibly switch you to the way of Navae fist style.)
--   DO NOT UNDERESTIMATE A FIST USER THEY CAN SHRED YOUR HP FASTER THAN BLACK OWL STOMPING YOUR SORRY LIFE - "black owl is easy kid just block parry dodge and stay calm" - An agamatsu fan, probably.
+-   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling Light Weapon Scaling anyway.
 -   Slide jumping with Way of Navae critical can make it easier to land. (You'll use your sliding momentum to dash forward)
 -   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled, after all this game is very skill based. But most of the time, they will having a hard time just trying to land a hit on you.
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
--   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Navae is probably the easiest to get because bound Nomads aren't very hard to find. But also, Jus Karita may be a bit easier since it just requires stats instead of waiting for **something to happen**. You can just level up and thus get Jus Karita. Jus Karita is superior in every way. _\- This post was made by a Jus Karita enjoyer._
+-   The fist styles as of current are very difficult to get _consistently_ at low levels, while Jus Karita --currently the only fist-based style that uses your feet-- simply requires a level 12 character with the right attributes.
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists... (This is probably a bug and probably will be patched soon)
--   ~It is advised to have at least one fist style no matter what your preferred weapon is. Now now hear me out, These days many people pick Exoskeleton due to Trial of One or just picking the talent for the buff. Exoskeleton isn't a problem for light weapon users, but if you have a medium or heavy it is very recommended to use fist style instead of your main weapon. I'm sharing this because I learned that when I use fist style accidentally when fighting a exoskeleton user. It killed them faster and easier than using my Shattered Katana~ (Exoskeleton now has been reworked.)(Still, bring a fist style in case you find the need for speed)

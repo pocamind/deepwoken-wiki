@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 22722
+revid: 22951
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -91,4 +91,3 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 ## Notes/Trivia
 
 -   Half of the surnames of the Celtors are of Russian origin (Baranof, Kotof, Pavel, Bykof, Kalinof, Petrof, Sokolof).
--   ~The cultists at the minitrysia temple won't grip you, instead they knock you and say, "don't do that." etc~ I'm pretty sure this is the animal king trait, not the race perk itself. can someone confirm this

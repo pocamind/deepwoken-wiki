@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 22866
+revid: 22973
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -58,7 +58,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 > 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[(100) Charisma\]
 
-> Akira: _\*The man blinks twice, apparently stunned-_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.)
+> Akira: _\*The man blinks twice, apparently stunned-_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) (He's not at Castle Light after this)
 
 **Castle Light**
 
