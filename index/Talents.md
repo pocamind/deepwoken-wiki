@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22823
+revid: 22948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -500,6 +500,7 @@ Prerequisite: Willpower 5~
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
+-   Murmur: Tacet \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 
 ### Natural Armor
 
@@ -563,6 +564,11 @@ Prerequisite: Willpower 5~
 -   Heavy Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
 -   Medium Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
 -   Light Weapons Unbounded \[Generic Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
+
+### Scholar of the Cloud
+
+-   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
+    -   Gained when talking to Stratos. You must have good reputation with Etrea.
 
 ### Self-Shocker
 

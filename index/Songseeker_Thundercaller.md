@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 19007
+revid: 22939
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,6 +31,7 @@ Their arsenal consists of [Thundercall](Thundercall.md) and [Way Of Navae:](Way_
 
 -   **Apparently Unlimited Ether:** The Songseekers have an unlimited amount of Ether.
 -   **Third Eye:** Cannot be assassinated.
+-   **(Way of Navae) Fighting Style:** Uses all moves of the Way of Navae fighting style, behaving similary to the Duke or Legion Captain.
 
 ## Tips
 

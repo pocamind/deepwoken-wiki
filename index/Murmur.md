@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 22782
+revid: 22936
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -38,7 +38,7 @@ Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) 
 
 After killing Kaido for Murmur:Ardour a purple orb will fly into you right before getting it
 
-This Murmur is expanded upon in the [lore](Lore.md).
+This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour).
 
 ### Ardour Scream
 

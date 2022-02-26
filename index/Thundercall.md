@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22910
+revid: 22937
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -212,7 +212,8 @@ Lightning Cloak
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
--   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary, it was not downgraded in rarity, it is still a legendary mantra card stop with the misinformation
+-   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
+-   Can be obtained without agility stats. Don't believe to people that said this mantra need agility to get.
 
  |
 

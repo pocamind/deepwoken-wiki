@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 17234
+revid: 22943
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -36,13 +36,13 @@ You can also learn different attunments in a cost of 5 elemental ingredients (ex
   <th></th>
   <td>Frostdraw Trainer</td>
   <td>Etris</td>
-  <td>Follow the path to the right of the Guildhouse</td>
+  <td><figure><figcaption></figcaption></figure>Follow the path to the right of the Guildhouse</td>
 </tr>
 <tr>
   <td>File:FireSpelltrainer.png</td>
   <td>Flamecharm Trainer</td>
   <td>Songseeker Wilds</td>
-  <td>Inside the temple on top of the mountain</td>
+  <td><figure><figcaption></figcaption></figure>Inside the temple on top of the mountain</td>
 </tr>
 <tr>
   <td>File:B7624e4fd89708c9b9612665c1835545.png</td>
@@ -54,15 +54,15 @@ You can also learn different attunments in a cost of 5 elemental ingredients (ex
   <td></td>
   <td>Shadow Trainer</td>
   <td>The Depths</td>
-  <td>File:Grate.pngDash inside the broken grate</td>
+  <td><figure>File:Grate.png<figcaption></figcaption></figure>Dash inside the broken grate</td>
 </tr>
 <tr>
   <td><figure>File:Screenshot 3.png<figcaption></figcaption></figure></td>
-  <td>Attuneless Trainer</td>
+  <td>Attunementless Trainer</td>
   <td>The Hive</td>
   <td>In the archives of the Greathive Aratel.</td>
 </tr>
 </tbody>
 </table>
 
-NOTE: these are not all the trainers
+NOTE: These are not all the trainers

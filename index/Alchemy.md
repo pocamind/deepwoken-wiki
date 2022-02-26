@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 21504
+revid: 22940
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -243,7 +243,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Bane<br>
   Blight</td>
   <td>Urchin</td>
-  <td>Rapidly removes sanity.</td>
+  <td>Gives Insanity,</td>
   <td>Opposite effect to <b>Heartening</b>.<br>
   Since running out of sanity will instantly kill you, these potions are very dangerous if you can land enough of them. Unlike Disgusting potions, Mindbreaker potions actually pose a threat.</td>
 </tr>

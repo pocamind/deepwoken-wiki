@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 22660
+revid: 22926
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,5 +46,4 @@ Their arsenal consists of Ben's Knife ([Krulian Knife](Krulian_Knife.md)) and [S
 -   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Cultist Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
 -   Everyone except the [Cultist Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   The Shadow Spike is a reskin of the [Glacial Arc](Frostdraw.md), and it's apparently only exclusive to these guys.
--   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife.
-    -   "Ben’s Knife" is a bad pun. Due to the Ministry bringing up islands drowning in the Depths, players get the conclusion of "Ben 'Drowned'" (false the knife is based off Ben's knife from Hunter x Hunter)
+-   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife, due to the fact the model of the knife is a direct 'copy' to a knife in the anime Hunter X Hunter.

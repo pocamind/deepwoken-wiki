@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 22549
+revid: 22949
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -75,6 +75,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Iron Cestus](Iron_Cestus.md) (basic to two star)
 -   [Hero Blades](Hero_Blades.md) (basic to three star)
 -   [Nemit's Sickle](<Nemit's_Sickle.md>) (basic to two star)
+-   Apprentice rapier (unknown)
 
 ### Miscellaneous
 

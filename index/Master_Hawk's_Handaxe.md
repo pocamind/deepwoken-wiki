@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 22206
+revid: 22947
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,11 +12,11 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Great Axe |
 | requirements | 75 HVY |
-| damage | 22 |
+| damage | 24 |
 | scaling | 10 HVY |
 | range | 8.5 |
 | swing speed | 0.54x |
-| endlag | ? |
+| endlag | None |
 | penetration | None |
 | special effect | 25% Chip Damage |
 | selling price | ? |
@@ -30,4 +30,4 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-Master Hawk's HandAxe is obtainable in [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 22, 0.54x Swing speed and 25% Chip damage.
+Master Hawk's HandAxe is obtainable in [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 0.54x Swing speed and 25% Chip damage.

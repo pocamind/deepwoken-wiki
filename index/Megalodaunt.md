@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 22824
+revid: 22944
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -25,7 +25,7 @@ Seen mostly around the island of Erisia, the Megalodaunt is the first monster th
 
 This monster is hostile to every other creature and will attack them on sight, with the exception of other Megalodaunts. It will, however, still attack its rarer crimson variant.
 
-Upon being killed, it drops a [Megalodaunt Hide](Megalodaunt_Hide.md) or uncommonly an [Umbral Obsidian](Umbral_Obsidian.md), but may also grant a chest with gear if it is killed in a [Random Encounter](Random_Encounters.md).
+Upon being killed, it drops a [Megalodaunt Hide](Megalodaunt_Hide.md) or uncommonly an [Umbral Obsidian](Umbral_Obsidian.md). It also drop an op megalodaunt coat with a power requirment of 35 op? for example 5 percent + monster damage dealt. but may also grant a chest with gear if it is killed in a [Random Encounter](Random_Encounters.md).
 
 ## Variants
 

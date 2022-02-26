@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 22792
+revid: 22945
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -72,7 +72,7 @@ In the event that the encounter is triggered, the Deep Owl will question the pla
 
 If choosing to fight the Deep Owl for the first time, there are several things the player should keep in mind;
 
--   Typically, the Owl becomes reasonable to kill from level 30 onward (40 if solo).
+-   Typically, the Owl becomes reasonable to kill from level 30 onward in a group, or 40 if solo.
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
 
@@ -91,7 +91,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Deep Owls may be the source of illusion magic, with the Nestmind's dialogue "use abilities inherent to my kind". As it grants you the _Visionshaper_ oath, this implies they are the source of it.
 -   The Owls nest in the interstice between human minds, further enhancing their connection to illusion magic.
 -   The Owls grant people illusion magic to allow the _Visionshapers_ to "ripen them" for the owls to feast. it is said that the _Visionshapers_ themself will also eventually become a feast.
--   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue.
+-   No one ever remembers accepting this pact, as once again referenced by the Nestminds dialogue, the player character however seems to remember, as after making the pact you can ask Surge: "What was that place you took me?" Surge however denies having taken you anywhere.
 
 ## Notes
 
@@ -102,7 +102,6 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 -   Corrupted Deep Owls (and rarely normal Owls) have a chance drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md).
 -   Deep Owls spawn regardless of the current [Season](Seasons.md) but _are_ however, affected by the current time in-game. At the time of writing, it is believed that Deep Owls only spawn at night, or at least are significantly rarer during the daytime.
 -   Deep Owls can (and do) spawn in the various cave systems around Erisia. (Including Lower Erisia, e.g. the Viper's Jaw underneath Pathfinder's Respite)[source](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
--   ~The owl is the only non humanoid known to be female.~ There is no proof
 
 1.  [↑](#cite-ref-1) From patch notes on 2/14/2022: [https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png](https://cdn.discordapp.com/attachments/508505251159080965/943602866512355398/unknown.png)
 2.  [↑](#cite-ref-2) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.

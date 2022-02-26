@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 22784
+revid: 22925
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -57,12 +57,12 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that hav
 Groups of NPCs from different factions will spawn and attack each other. Helping a side will reward you with their respective reputation. Some of these events may include but are not limited to:
 
 -   Etrea vs The Central Authority (Erisia)
--   The Eleventh Legion vs The Central Authority (Upper Erisia)
+-   The Hundredth Legion vs The Central Authority (Upper Erisia)
 -   The Summer Company vs The Ignition Union (Summer Isle)
 -   Children of Navae vs The Ministry File:Eylisiconfactoin.png (Summer Isle)
 -   Etrea vs Knives of Eylis (The Aratel Sea)
 -   Etrea vs Hive (Starswept Valley)
--   Legion Captain vs Authority Commander (Starswept Valley)
+-   Legion Captain/Centurion vs Authority Commander (Starswept Valley)
 -   Hive Construct vs Authority Commander (Starswept Valley)
 
 a golden warrior bouncer in the neutral position
@@ -116,7 +116,7 @@ Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian 
 
 The player can interact with Akira if they have neutral or good reputation with The Divers. Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 
-After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md) The Divers.
+After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers.
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 

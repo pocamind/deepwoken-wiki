@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22839
+revid: 22931
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -310,7 +310,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral)_
--   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
+-   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion__, Hive_
 -   **Lore Sources:** _Authority Interrogator Talents, The Vigil Librarian, Weapon Descriptions._
 
 -   The Authority are a faction of Peacekeepers and are not to be confused with the Kingdom of Etrea.
@@ -360,7 +360,7 @@ A Peacekeeper Commander, part of The Authority
 
 -   **Territory:** _???_
 -   **Attunements:** _Thundercall?_
--   **Alliances:** None
+-   **Alliances:** _None_
 -   **Enemies:** _None_
 -   **Lore Sources:** _Ferryman, Arch\_Mage_
     -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.

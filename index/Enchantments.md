@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22840
+revid: 22935
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -266,7 +266,7 @@ Viscosity
 
  | 
 
-Damage dealt to the user is reduced and dealt over time. Large amount of stored damage will execute.
+Damage dealt to the user is reduced and dealt over time. Large amount of stored damage will execute. You will take damage every ~0.40 seconds for ~5 seconds. More damage you take, more damage will be dealt over time.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 22909
+revid: 22946
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -76,4 +76,4 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
 -   The fist styles are extremely tedious to get, Navae is based off of RNG and Legion is just a waiting game. Navae is probably the easiest to get because bound Nomads aren't very hard to find. But also, Jus Karita may be a bit easier since it just requires stats instead of waiting for **something to happen**. You can just level up and thus get Jus Karita. Jus Karita is superior in every way. _\- This post was made by a Jus Karita enjoyer._
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists... (This is probably a bug and probably will be patched soon)
--   ~It is advised to have at least one fist style no matter what your preferred weapon is. Now now hear me out, These days many people pick Exoskeleton due to Trial of One or just picking the talent for the buff. Exoskeleton isn't a problem for light weapon users, but if you have a medium or heavy it is very recommended to use fist style instead of your main weapon. I'm sharing this because I learned that when I use fist style accidentally when fighting a exoskeleton user. It killed them faster and easier than using my Shattered Katana~ (Exoskeleton now has been reworked.)
+-   ~It is advised to have at least one fist style no matter what your preferred weapon is. Now now hear me out, These days many people pick Exoskeleton due to Trial of One or just picking the talent for the buff. Exoskeleton isn't a problem for light weapon users, but if you have a medium or heavy it is very recommended to use fist style instead of your main weapon. I'm sharing this because I learned that when I use fist style accidentally when fighting a exoskeleton user. It killed them faster and easier than using my Shattered Katana~ (Exoskeleton now has been reworked.)(Still, bring a fist style in case you find the need for speed)
