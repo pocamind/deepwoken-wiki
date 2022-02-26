@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 22885
+revid: 22921
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Frostdraw
 
-"_Freeze eternally!_ " - Jin Kisaragi
+_"Ka..me..ha..me.." An unknown Khan using an ice beam with 9 Stratus Stones_
 
 ## Description
 
@@ -216,7 +216,7 @@ Impale/Impact
 +2 Health | Cryomancer |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cool Head | If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. | +2 Elemental Intensity  
 +2 Health | Cryomancer |
-| File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. | +4 Ether  
+| File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare. | +4 Ether  
 +2 Elemental Intensity  
 +1 Health | Cryomancer |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cryonis | All ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  

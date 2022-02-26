@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 19275
+revid: 22904
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,13 +8,11 @@ categories: [Pages with broken file links]
 
 # Celestial
 
-**Celestial** is potentially a race in _Deepwoken._
+**Celestial** is an unobtainable race in _Deepwoken._
 
 ## Description
 
-Template:Races-Main New upcoming race, confirmed by exploits (more likely to be a lightborn "copy" as it has the same description, "The stars call you back...", probably dev lightborn
-
-Could also be used as a bait race for exploiters/data miners, similar to fake spells/races/areas in other games.
+Template:Races-Main An unobtainable race, confirmed by exploits and Kyrbas' "deepwoken ranked" livestream (may be a Lightborn "copy" as it has the same description)
 
 **Race in Development, Not Added Yet**
 

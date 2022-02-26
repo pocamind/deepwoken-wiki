@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 22777
+revid: 22924
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -90,7 +90,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Charisma
 
-"I know how to get stronger…it’s called a Vow of Mastery. Wanna Make One…?"
+"I know how to get stronger…it’s called a Vow of Mastery. Wanna Make One…?" -Celtor offering legal slavery to a Vesperian
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.

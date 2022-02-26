@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 22893
+revid: 22901
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds]
@@ -42,6 +42,8 @@ The player can join The Divers, like a Guild. Finding Akira in the Celtor Waste 
 **Karliah:** A young, new recruit of The Diver. She lives in Etrea and is set to go on her first mission at Erisia, mission in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
 
 **[Akira](Akira.md):** An Etrean Diver, with the rank of Black Diver, part of the organization for the almost 10 years now. He wields a Katana and possess a unique Bell, that of Yun'Shul, allowing him to quickly dispose of annoyances by exploding their heads. He can be found in The Depths, by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers if they can join him at [Castle Light](Castle_Light.md).
+
+Note: don't fuck with him
 
 **Pleeksty**: Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
 

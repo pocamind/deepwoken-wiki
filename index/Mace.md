@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 20909
+revid: 22913
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | obtainment | Weapon Shop in Etris |
 | description | A simple blunt weapon effective at breaking guards. |
 
-The **Mace** is a medium weapon that does blunt damege, it is sold at the weaponary on etris
+The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at Etris.
 
 ## Description
 

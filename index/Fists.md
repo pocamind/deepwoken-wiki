@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 22456
+revid: 22909
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -69,7 +69,7 @@ After learning Jus Karita, your fist fighting style will take form into a taekwo
 
 ## Trivia/Notes
 
--   The Jus Karita fighting style can't equip a cestus. (If you have two fist styles and try to equip a cestus on Jus Karita, the game will forcibly switch you to the other fist style that you have.)
+-   The Jus Karita fighting style can't equip a cestus. (If you have two fist styles and try to equip a cestus on Jus Karita, the game will forcibly switch you to the way of Navae fist style.)
 -   DO NOT UNDERESTIMATE A FIST USER THEY CAN SHRED YOUR HP FASTER THAN BLACK OWL STOMPING YOUR SORRY LIFE - "black owl is easy kid just block parry dodge and stay calm" - An agamatsu fan, probably.
 -   Slide jumping with Way of Navae critical can make it easier to land. (You'll use your sliding momentum to dash forward)
 -   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled, after all this game is very skill based. But most of the time, they will having a hard time just trying to land a hit on you.

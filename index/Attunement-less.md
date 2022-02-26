@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 22601
+revid: 22911
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -47,7 +47,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
     -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
     -   _Can be upgraded with the "Blood Shadow" talent card, which saps health from people you reinforced back onto you until the effect wears off._
-    -   _Can be upgraded with the "Grand Support" talent card, which slightly heals people upon reinforcing. (the user included)_
+    -   _Can be upgraded with the "Grand Support" talent card, which slightly heals people upon reinforcing. (The user included)_
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour.
     -   Prevents your attacks/mantras from getting cancelled.
@@ -62,7 +62,7 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
 -   **Dash** - An agile dash.
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark(?) and drift/rush shards.
-    -   Requirement: 40 Agility, tested it and couldnt get it with even 30 agility but instantly got it at 40 agility. Used to be 20 but the devs increased the req.- solhur
+    -   Requirement: 20 Agility, Mobility Mantra
 
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
@@ -74,7 +74,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal. They compliment t
 
 -   **Summon Cauldron** - Make a cauldron appear from your memories.
     -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
-    -   Requirement: 25 Intelligence, _Intelligence Support Mantra (i tested with attunementless and i didn't get it despite having 20 int and making/drinking a potion, but after getting 25 i DID get it)_
+    -   Requirement: 20 Intelligence.
 
 -   **Prediction** - Predict an opponent's attack and reflect it.
     -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. Does not work on M1's/Critical Attacks.
@@ -89,7 +89,7 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
     -   Requirement: ~5 Willpower, _Willpower Support Mantra._
 -   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defense.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
-    -   Requirement: 25 Willpower, _Willpower Support Mantra_
+    -   Requirement: 30 Willpower, _Willpower Support Mantra_
     -   Could be very dangerous for Willpower-less with Curse of the No Life King user
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.

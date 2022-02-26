@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 22883
+revid: 22906
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -23,7 +23,7 @@ The flames have called the Ferryman!
 
 Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
 
-#### How to summon **The Ferryman:**
+#### Summoning **The Ferryman**
 
 1.  Find the ritual grounds at Boatman's Watch.
 2.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
@@ -164,7 +164,6 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 
 -   Dying to the ferryman will turn your screen grey as though you were still in the voidsea, this may be a bug with the voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
--   Ferryman is **the best** for [Resonance](Resonance.md), it is highly recommended not going for anything else but Ferryman for [Resonance](Resonance.md) progression. ( 3 Ferrymans got Resonance. )
 -   The Ferryman is the one of the very few NPCs in the game that are static, unattackable, and hostile with the possible exception of The Duke.  
     
 

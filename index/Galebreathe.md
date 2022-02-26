@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 22773
+revid: 22923
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -142,6 +142,12 @@ These talents are found in the _Aeromancy_ category.
 | File:Galebreathe Talent Placeholder.png | Stifled Jump | Enemies who jump while suffocated by you are dazed. | +2 Passive Agility  
 +5 Elemental Intensity  
 +1 Health |
+| File:Galebreathe Talent Placeholder.png | Suffocating Impact | When flourishing enemies intro walls they are suffocated and winded for a short duration. | +2 Passive Agility  
++5 Elemental Intensity  
++1 Health |
+| File:Galebreathe Talent Placeholder.png | Gale Coil | Your suffocates last twice as long. | +2 Passive Agility  
++5 Elemental Intensity  
++1 Health |
 |  | Aerogliding | When falling from a high place, hold spacebar to generate wind currents until you hit the floor | +2 Passive Agility  
 +5 Elemental Intensity  
 +2 Health |
@@ -163,6 +169,12 @@ These talents are found in the _Galeforce_ category.
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | File:Galebreathe Talent Placeholder.png | Breathing Impact | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. | +5 Elemental Intensity |
+| File:Galebreathe Talent Placeholder.png | Tailwind | Gain a speed boost after a successful inhale. | +1 Elemental Intensity  
++2 Health  
+Costs _[Ether](Combat_Mechanics.md)_. |
+| File:Galebreathe Talent Placeholder.png | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | +1 Elemental Intensity  
++2 Health  
+Costs _[Ether](Combat_Mechanics.md)_. |
 |  | After Cut | If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt. | +2 Elemental Intensity  
 +2 Health |
 
@@ -183,11 +195,7 @@ These talents have no category or their category is unknown.
 | --- | --- | --- | --- |
 |  | Wind Step | Create a step of wind below you when jumping in the air. | +4 Elemental Intensity  
 Costs _[Ether](Combat_Mechanics.md)_. |
-| File:Galebreathe Talent Placeholder.png | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | +1 Elemental Intensity  
-+2 Health  
-Costs _[Ether](Combat_Mechanics.md)_. |
 | File:Fixed The Old Wind.gif | The Old Wind | Glide straight with the power of Gales. | _Allows you to glide longer with a glider._ |
-| File:Galebreathe Talent Placeholder.png | Tailwind | Gain a speed boost after a successful inhale. | Costs _[Ether](Combat_Mechanics.md)_. |
 
 ## **Trivia/Notes**
 

@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 22594
+revid: 22915
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -24,8 +24,8 @@ categories: [Weapons, Weaponry]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | ??? |
-| description | " A surpisingly effective weapon despite its previous use by fisherman" |
+| description | "A surpisingly effective weapon, despite its previous use by fisherman." |
 
-## Notes
+## Description
 
-This weapon has a chance of obtainment from chests in Lower Erisia whilst it has somewhat uncommon chance for the gold plate trade.
+The Falchion is a Medium type weapon that can be obtained from chests in [Lower Erisia](Lower_Erisia.md). It also has a somewhat uncommon chance from the Gold Plate trade. The weapon has a base damage of 16 and requires 20 MED to equip.

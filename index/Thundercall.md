@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22844
+revid: 22910
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -43,9 +43,9 @@ Lightning Blade
 
  | Arcing blades of electricity. | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
 
--   Applying magnetic spark on it teleports you to your target. (Short range)
+-   Can be upgraded with a Magnetic Spark, which adds a third teleporting slash. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   There is a talent to summon a third lightning slash if you press f while using the move. This one does not require you to hit anything with the first two slashes. It should also be noted that this allows for a lot of switch up potential if your opponent doesn't know that you have the ability, although can be parried with skill due to the visual cue of lightning striking the user.
+-   Can be upgraded with the Talent, Stormcaller Slash, which summons a third lightning slash if you press F while using the move. This one does not require you to hit anything with the first two slashes. It should also be noted that this allows for a lot of switch up potential if your opponent doesn't know that you have the ability, although can be parried with skill due to the visual cue of lightning striking the user.
 
  |
 |  | 
@@ -55,7 +55,7 @@ Jolt Grab
 
  | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands.
 
--   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. Without a target, the cast will fail to activate.
+-   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range.
 
  |
 |  | 
@@ -65,7 +65,7 @@ Lightning Impact
 
  | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
--   Can be upgraded with a Talent.
+-   Can be upgraded with the Talent, Rains of Static.
 
  |
 |  | 
@@ -75,8 +75,9 @@ Lightning Clones
 
  | Replicated forms of yourself conjured from electricity. | Summons one clone besides you and strikes enemies once before disappearing.
 
--   This can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md).
 -   Modifying the Mantra with a Cloudstone does not produce more clones.
+-   Can be upgraded with the Talent, Static Flash Clones. When used with a Blast Spark, the clone summons a Lightning Strike when it disappears.
 
  |
 |  | 
@@ -111,8 +112,7 @@ Thunder Kick
 
  | An unrelenting kick like a clap of thunder. | User heavily kicks forward.
 
--   This can be upgraded with a Talent card.
--   Talent card allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning if they block, dodge, or parry it, the second kick will not activate.
+-   This can be upgraded with the Talent, Volt Kick, which allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning the talent will not activate if they block, dodge, or parry it.
 
  |
 |  | 
@@ -171,6 +171,7 @@ Lightning Stream
  | A stream of lightning. | Grapples onto an enemy and pulls them in.
 
 -   Stuns the opponent, allowing a chance to begin a combo.
+-   Can be upgraded with a Blast Spark.
 
  |
 |  | 
@@ -198,7 +199,7 @@ Lightning Assault
  | A rush of lightning. | You dash forward and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
--   Can be upgraded with cloud stones. I tested with drift shards, but didn't see a huge difference.
+-   Can be upgraded with Cloudstones. I tested with drift shards, but didn't see a huge difference.
 
  |
 | 
@@ -211,7 +212,7 @@ Lightning Cloak
  | A lightning cloak that empowers you. | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   Your dashes become teleports, increasing your i-frames.
--   Lightning cloak is not a legendary mantra card.
+-   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary, it was not downgraded in rarity, it is still a legendary mantra card stop with the misinformation
 
  |
 
@@ -243,34 +244,15 @@ Lightning Cloak
 
 | Media | Talent | Card Description | Effect | Category |
 | --- | --- | --- | --- | --- |
-|  | Stratoshock | You lightning does more damage
-in the rain.
-
- | +4 Elemental Intensity  
+|  | Stratoshock | You lightning does more damage in the rain. | +4 Elemental Intensity  
 +3 Health | Thundercaller |
-|  | Shocking Finish | Following a flourish up with a
-
-lightning beam causes it to be casted instantly.
-
- | +3 Elemental Intensity  
+|  | Shocking Finish | Following a flourish up with a lightning beam causes it to be casted instantly. | +3 Elemental Intensity  
 +2 Health | Thundercaller |
-|  | Static Flash Clone | When using lightning clones
-
-you disappear leaving behind a static clone for a short duration
-
- | +3 Elemental Intensity  
+|  | Static Flash Clone | When using Lightning Clones you disappear leaving behind a static clone for a short duration | +3 Elemental Intensity  
 +1 Health | Thundercaller |
-|  | Jolt Cast | Every 3 perfectly casted thunder
-
-mantras builds a stack. At 3 stacks your next thunder mantra is an instant cast.
-
- | +7 Carry Load  
+|  | Jolt Cast | Every 3 perfectly casted thunder mantras builds a stack. At 3 stacks your next thunder mantra is an instant cast. | +7 Carry Load  
 +2 Elemental Intensity | ??? |
-|  | Volt Kick | After landing a lightning kick
-
-press F to followup with a less potent kick. (MANTRA UPGRADE)
-
- | ??? | ??? |
+|  | Volt Kick | After landing a lightning kick press F to follow-up with a less potent kick. | ??? | ??? |
 |  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times. | ??? | Thunderblade |
 |  | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE) | +10 Carry Load  
 +1 Passive Agility  
@@ -298,12 +280,7 @@ press F to followup with a less potent kick. (MANTRA UPGRADE)
 | File:Static Ace.png | Static Ace | Using stream core with an active Static Link targets your closest active link.  
 (STATIC LINK UPGRADE) | +4 Ether  
 +7 Reservoir | Static Weaver |
-|  | Authority Intimidation | All moves that apply electricity
-
-slow the opponent more.
-
- | ??? | Authority
-
+|  | Authority Intimidation | All moves that apply electricity slow the opponent more. | ??? | Authority
 Interrogator
 
  |
@@ -347,7 +324,7 @@ These talents are found in the _Thunderblade_ category.
 
 **Self-Shocker:**
 
-These talents are found in the _Selfshocker_ category.
+These talents are found in the _Self-Shocker_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -422,13 +399,13 @@ by pressing F at the end of the mantra Lightning Blade.
 
 ## Trivia/Notes
 
--   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invingorating Salves with 3x gobletto and 1x wheat that make your ether regen skyrocket.
+-   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invigorating Salves with 3x gobletto and 1x wheat that make your ether regen skyrocket.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
--   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissapating after being hit by friend, foe and self.
--   The Support move _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
--   The move _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls. (shared sound effect and casting animation).
+-   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.
+-   The Support Mantra _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
+-   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
-    -   Stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for frostdraw.  
+    -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.  
         
         Virudhaka's Sword
         

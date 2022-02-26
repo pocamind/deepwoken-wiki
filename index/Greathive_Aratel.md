@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 22470
+revid: 22896
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -88,11 +88,11 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 Greathive Aratel is home to the Celestial Telescope, which can give players insight on [Lore](Lore.md).
 
-Players can crank the telescope clockwise or counter-clockwise to position it to other celestial objects:
+Players can crank the telescope clockwise or counterclockwise to position it to other celestial objects:
 
 -   Turning it clockwise will show these images:
 
--   Turning it clockwise will show these images:
+-   Turning it counterclockwise will show these images:
 
 ## Quests
 
