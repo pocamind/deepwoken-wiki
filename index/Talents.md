@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23033
+revid: 23132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -170,7 +170,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Butterfly
 
 -   Swift Rebound \[Generic Talent, Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
--   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+-   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility) (This requires at least 20 agility, could be less, but that's what I had when I got it)
 -   Risky Moves \[Generic Talent, Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
 -   Steady Nerves \[Generic Talent, Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
 
@@ -383,7 +383,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   ~Completely replace gun's light scaling with attunement scaling of the same value.~ It adds the scaling not replace it. Think of curved blade of winds how it scales off of medium and gale.
+    -   Adds attunement scaling to your guns.
+    -   Guns will now apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreath will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Hunter

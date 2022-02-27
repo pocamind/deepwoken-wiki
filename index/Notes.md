@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 23101
+revid: 23112
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,6 +30,9 @@ Currently, there are only a few known ways to obtain Notes. Some of those are:
 -   Asking the helper at Etris or Isle of Vigils will give you, but this can only be done once.
 -   Selling various things to an Antiquarian.
 -   Completing various [quests](Quests.md).
+
+  
+The max amount of notes you can carry is 10,000. Anything else more will just stay the same number at 10k.
 
 ## Trivia/Notes
 
