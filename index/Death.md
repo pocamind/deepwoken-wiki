@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 21032
+revid: 22984
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics]
@@ -24,7 +24,8 @@ See [Escaping The Depths](https://deepwoken.fandom.com/wiki/The_Depths#Escaping_
 
 ## Notes/Trivia
 
--   It is very unwise to kill people as guards in Viglis and Etris will hunt you down, and you will not survive unless you are powerful enough. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 at a city, and lower than [Power](Power.md) 10 anywhere.
+-   It is very unwise to kill people in towns as guards in Viglis and Etris will hunt you down, and you will not survive unless you are powerful enough. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 at a city, and lower than [Power](Power.md) 10 anywhere.
 -   When you die in the depths and get sent to the [Fragments of Self](Fragments_of_Self.md), you will be forced to wipe, losing all progress on the character, and you have to make a new character. Alternatively, you can pay 1000 robux to Second Wind, which restores your lives and return you to the Etrean Luminant. You can Second Wind once per character.
 -   The player technically has 120 Lives given they die every level and follow it with a power up, this number is higher if taken into the account escaping [The Depths](The_Depths.md), numbering to approximately 180 lives.
 -   Dying in the [Voidsea](Voidsea.md) or dying to the [Primadon](Primadon,_Titan_of_the_East.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
+-   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).

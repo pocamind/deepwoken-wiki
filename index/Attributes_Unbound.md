@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 22006
+revid: 22985
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,7 +48,7 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 ### **Intelligence Unbound**
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a Soulheart Gem. These are guarded by a guaranted Megalodaunt spawn.
+2.  Enter the Garden Reservoir and obtain a Soul Hearthgem. These are guarded by a guaranted Megalodaunt spawn.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brasier in the correct order with the Soulheart Gem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps

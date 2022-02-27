@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 22064
+revid: 23020
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -100,9 +100,9 @@ Template:Areainfobox
 -   Mushroom Omelettes on the table can be purchased for.
 -   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for.
 
-#### Lord Regent's Palace
+#### The Lord Regent's Palace
 
--   Lord Regent can be found here.
+-   The Lord Regent can be found here.
 
 #### The Den
 
@@ -146,27 +146,27 @@ Template:Areainfobox
 -   She'll talk to you about a missing individual, whom they were suppose to meet in Etris. Agreeing to help to find this person accepts the quest.
 -   Any info on how to finish this will be rewarded with 2 Vibrant Gems. Message PrιmΦrdιs#0070 and tell me how to finish it for your reward. ( I think you just give them a nomad?)
 
-### Lord Regent Quest
+### The Lord Regent's Quest
 
 Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
 
 -   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
--   Kennith will ask you to talk the locals about the Lord Regents Reputation as a Ruler.
+-   Kennith will ask you to talk the locals about the The Lord Regent's Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
 
--   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to Lord Regent, as an audience.
+-   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to The Lord Regent, as an audience.
 
--   Make sure you talk to the Royal Guards that the Lord Regent is expecting you, making them docile unless provoked.
+-   Make sure you talk to the Royal Guards that the The Lord Regent is expecting you, making them docile unless provoked.
 
--   Heading upstairs, talk to the Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
 -   To use the Key to unlock the black iron gate, the Key must be glowing White this only happens at night.
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
     -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
--   After you defeat the Duke, if you visit Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.
-    -   If this happens you and you go back to try and get your loot, even if the guards are passive and you tell them you have a audience with Lord Regent, the lord will execute you again if you try to enter his room.
+-   After you defeat the Duke, if you visit The Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.
+    -   If this happens you and you go back to try and get your loot, even if the guards are passive and you tell them you have a audience with The Lord Regent, the lord will execute you again if you try to enter his room.
 -   The reward of defeating the Duke unbounds Attunements with 75.
 
 ### Diver Escort Quest
@@ -239,9 +239,9 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 
 ## Notes/Trivia
 
--   In the Lord Regent Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
--   After talking to the Bookworm in the Lord Regent Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
-    -   If you are not requested to an audience with the Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
+-   In The Lord Regent's Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
+-   After talking to the Bookworm in The Lord Regent's Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
+    -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
 -   **Etris guards can drop the Notes of players they have killed on death.**

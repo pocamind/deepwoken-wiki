@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 22759
+revid: 22995
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -13,7 +13,9 @@ File:Navae front.PNG
 Front view of a navaen hostage.
 
   
-_Were you perhaps looking for the [combat style?](Fists.md)_
+_Looking for the [combat style?](Fists.md)_
+
+You become a target if you holding a hostage careful
 
 ## Description
 
@@ -21,11 +23,11 @@ Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They a
 
 They are found kneeled down on both knees and having their arms behind them, seemingly being locked together with a rope or some sort of cuffs. They usually randomly spawn anywhere ranging from [Erisia](Erisia.md) or [Fort Merit](Fort_Merit.md).
 
-You can pick them up using the V key. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn. Navaen Hostages usually do not spawn in groups (?)
+You can pick them up using the V key. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn.
 
 ## Way of Navae
 
-Bringing a Navaen Hostage to a Nomad Camp(Easiest one is in Etris, just talk to the elder in the camp) will give you the [Way of Navae](Fists.md) style, prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor all the other fist styles. You only need points in **Light Weapons** for Cestus, but even then the Iron Cestus only needs a fist style.
+Bringing a Navaen Hostage to a Nomad Camp (Easiest one is in Etris, just talk to the elder in the camp) will give you the [Way of Navae](Fists.md) style, prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor all the other fist styles. You only need points in **Light Weapons** for Cestus, but even then the Iron Cestus only needs a fist style.
 
 ## 
 

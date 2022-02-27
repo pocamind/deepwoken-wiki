@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 22261
+revid: 23034
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,7 +29,7 @@ categories: [Weapons, Weaponry]
 | obtainment | Fort Merit and Depth Chests. 5% from Fort Merit and Depth chances are unknown |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-##### "Where is the trigger? WHERE IS THE TRIGGER?"
+##### "where trigger"
 
 The Rifle Spear is a medium weapon and is the best spear in the game. It can be obtained from chest, that you get by bringing etrean hostage to the boat. (you have slight chance to get it from chest, there is limit however, you can only bring 3 hostages, after that, you must wait some time.)
 

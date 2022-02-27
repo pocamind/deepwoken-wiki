@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 17003
+revid: 22982
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World]
@@ -23,3 +23,4 @@ Members of a guild (including its leader) will stay in their guild after death. 
 ## Notes
 
 -   There is a guild that the players can join in game: [The Divers](The_Divers.md).
+-   If a Guild Leader leaves the Guild, an Officer can take their place as the Guild Leader. If there are no Officers in the Guild, anyone in the Guild can take ownership.

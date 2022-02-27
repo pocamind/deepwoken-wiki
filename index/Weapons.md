@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 22765
+revid: 23030
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -364,7 +364,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
-  <td>Officer Saber</td>
+  <td><a href="Officer_Saber.md">Officer Saber</a></td>
   <td>30 MED</td>
   <td>22</td>
   <td>N/A</td>
@@ -695,7 +695,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.61x</td>
 </tr>
 <tr>
-  <td>Canorian Axe</td>
+  <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
   <td>45 HVY</td>
   <td>23.5</td>
   <td>N/A</td>
@@ -806,7 +806,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td></td>
 </tr>
 <tr>
-  <td>Crescent Cleaver</td>
+  <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a></td>
   <td>40 HVY, 10 STR</td>
   <td>22.4</td>
   <td>N/A</td>

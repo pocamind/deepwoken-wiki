@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 22937
+revid: 23013
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -406,8 +406,8 @@ by pressing F at the end of the mantra Lightning Blade.
 -   The Support Mantra _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
-    -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.  
-        
-        Virudhaka's Sword
-        
-        Sound from Occult A+B
+-   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.  
+    
+    Virudhaka's Sword
+    
+    Sound from Occult A+B

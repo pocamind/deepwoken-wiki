@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 22924
+revid: 23000
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -46,7 +46,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 “Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Unethical amounts of [Potions](Alchemy.md)
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
-    -   Adds 1.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 150 HP. (It's not 0.5, I have tested it myself)
+    -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
 -   Some Equipment, such as Shields, requires a Fortitude requirement to wield.
 -   Unlocks Fortitude-related Talents, depending on the Character's Fortitude.
 -   Gain Fortitude EXP via taking fall damage, taking damage, or vomiting foods/ingredients.

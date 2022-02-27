@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 22948
+revid: 23033
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -216,7 +216,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Critical Specialist
 
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health)
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\]
 
 ### Cryomancer
 

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 22904
+revid: 23027
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links]
 
 # Celestial
 
-**Celestial** is an unobtainable race in _Deepwoken._
-
 ## Description
 
-Template:Races-Main An unobtainable race, confirmed by exploits and Kyrbas' "deepwoken ranked" livestream (may be a Lightborn "copy" as it has the same description)
+Template:Races-Main
 
-**Race in Development, Not Added Yet**
+_"The stars call you back..."_
+
+**Currently Unobtainable. Race confirmed by Kyrbas and exploiters**
 
 ## Racial Traits
 
@@ -22,10 +22,45 @@ Template:Races-Main An unobtainable race, confirmed by exploits and Kyrbas' "dee
 <tbody>
 <tr>
   <td>File:Seaborne.png</td>
-  <td></td>
+  <td><b>Unknown</b>
+  <ul>
+    <li>It is unknown what talent is given to Celestials</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>???</li>
+    <li>???</li>
+    <li>???</li>
+    <li>???</li>
+    <li>???</li>
+  </ul></td>
 </tr>
 </tbody>
 </table>
+
+## Miscellaneous
+
+**Lore:**
+
+  
+
+**Strengths:**
+
+  
+
+**Weaknesses:**
+
+  
+
+**Names:**
+
+  
+
+-   Nilsa
+    
 
 ## Trivia/Notes
 

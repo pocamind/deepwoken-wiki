@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 22836
+revid: 23032
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -99,6 +99,8 @@ SURNAMES
 -   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
 -   As a Gremor, you will get alternate dialogue from Navaen Nomads.
 -   Whoever wrote the note I just deleted, CHILL OUT. There is no need to swear your soul out because you got gremor. Also, have u tried rerolling? You clearly have the money since you bought 6 slots.
+-   whoever the fuck wrote something here, stop being salty
+-   fuck gremors i fuckign hate these bitches
 
 <table>
 <tbody>

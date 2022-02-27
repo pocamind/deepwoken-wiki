@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22935
+revid: 22977
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -202,7 +202,7 @@ Allure
 
  | 
 
-On proc, apply Tough Love, reducing damage dealt by 25% and increasing damage received by 25%.
+On proc, apply Tough Love, reducing damage dealt to you by 25% and increasing damage enemies receive by 25%.
 
  |
 | 
