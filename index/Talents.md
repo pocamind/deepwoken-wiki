@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23132
+revid: 23140
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -201,7 +201,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 -   Charismatic Cast \[Generic Talent, Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you. (+ 4 Ether)
 -   Morale Booster \[Generic Talent, Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
 -   Tough Love \[Generic Talent, Common Talent, Charisma\] - Deal more damage to players charmed by you. (+ 4 Ether)
--   Familiar Sight \[Generic Talent, Rare Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
+-   Familiar Sight \[Generic Talent, Common Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements: 25 Charisma)
     -   Prerequisite For All: Charm + Charismatic Cast (You'll need it for unlocking all the other cards in the category)
 
@@ -468,7 +468,6 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
     -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect.
-    -   Prerequisites: It has none, people say it's required around 20 Fortitude, however I was able to get it with 0.
 
 ### Mental Fortress
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23084
+revid: 23152
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
@@ -16,7 +16,7 @@ categories: [Resonance, Character]
 
 ### _Corrupted Resonances_
 
-**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances. Similarly, to Cursed Items, they are tremendously stronger, but comes with a downside, in addition to being much rarer. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
+**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, except display a purple/blue aura instead of a white one when unlocked. Similarly, to Cursed Items, they are tremendously stronger, but comes with a downside, in addition to being much rarer. Corrupted Resonances give substantial buffs accordingly to their purpose, and are just a generally immense boost in power, along with unique buffs depending on what Resonance, which are listed on their pages. However, also akin to Cursed Items, these tremendous buffs come with downsides.
 
 Every Corrupted Resonance gets a downside that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside altogether.
 
@@ -25,6 +25,10 @@ Known downsides include:
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
 -   On use, player will have a set amount of their health taken.
+
+**Legendary Resonances**
+
+**Legendary Resonances** are yet another category of resonances which are obtained the same way as normal resonances, except they are much rarer and display a golden/yellow aura when obtained.[\[1\]](https://deepwoken.fandom.com/wiki/Teleportation) The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
 
 ## Obtainment
 
@@ -53,6 +57,6 @@ Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw]
 -   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
 -   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.
--   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the depths, one is in the overworld near a waterfall at the aratel islands.
+-   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the depths, one is in the overworld near a waterfall at the Aratel islands.
 -   There used to be an unfinished resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
--   To get bell fast, don't try to solo Primadon only, try only solo it twice then solo Ferryman and Squibbo, I tested on 2 slots and I got bells.
+-   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot get a resonance early then other slots will likely get it early too)

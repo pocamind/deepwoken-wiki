@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 22919
+revid: 23143
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,11 +12,11 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Sword |
 | requirements | 25 MED, 75 WND |
-| damage | 18 |
+| damage | 17.5 |
 | scaling | MED: 5, WND: 4 |
 | range | 8 |
 | swing speed | 0.8x |
-| penetration | 25% |
+| penetration | 15% |
 | special effect | Aftercut is applied to all attacks. |
 | stances | 2 Handed, 1 Handed |
 | selling price | 25 Notes |

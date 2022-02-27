@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 22977
+revid: 23156
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -83,7 +83,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>Gain bonus damage the healthier you are (25% at 100% HP). Effect is lost below 40% HP.</p></div></td>
+  <td><div><p>When above 40% HP you gain a 25% damage increase, if you go below 40% HP your overall damage is decreased.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
@@ -158,7 +158,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>M1s deal 25% posture damage to opponents if they are not blocking.(Is currently only working on certain weapons)</p>
+  <td><div><p>Stone enchant increases the posture damage of your weapon, this posture increase scales off weapon damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -172,6 +172,21 @@ Will have an effect upon hitting something. Please stop changing the curses effe
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
   <td><div><p>Heal for 25% of damage dealt.<br>
   This enchantment is particulary potent in PVE due to PVE damage scaling.</p></div></td>
+</tr>
+</tbody>
+</table>
+
+**Spec:**
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Description</b></td>
+</tr>
+<tr>
+  <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
+  <td><div><p><i><b>HAS EVERY ENCHANT.</b></i> When attacked, has a chance to proc any of the weapon enchants. <b>PROCS STACK</b> (EX: Heroism and Chilling can go off at the same time)</p></div></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 22657
+revid: 23142
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,7 +36,7 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 -   Etrean Footsoldier
 -   Hive Footsoldier
 -   [Legion Captain](Legion_Captain.md)
--   Legion Thundercaller(Berserker?)(probably an etrean because when i killed one it dropped a gale stone.) (nah, the legion captains drop gale stones too, and these guys have the khan ornaments too)(i can confirm that)
+-   Legion Thundercaller (Javelin Guy)
 
 ## Missions
 
@@ -59,6 +59,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 ### Outfits
 
 -   [Legion Centurion](Legion_Centurion.md)
+-   [Prophet's Cloak](<Prophet's_Cloak.md>)
 
 ### Equipment
 
