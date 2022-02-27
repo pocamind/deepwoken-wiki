@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 22925
+revid: 23080
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -120,7 +120,7 @@ After taking the right option, Akira can be found at [Castle Light](Castle_Light
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 
-The Meat Lord is a merchant NPC that can appear on Starswept Valley and more rarely in Upper Erisia. He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
+The Meat Lord is a merchant NPC that can appear on Starswept Valley and more rarely in Upper Erisia and Summer Isle. He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
 
 ### **Stranger NPC**
 

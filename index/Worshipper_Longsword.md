@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 20882
+revid: 23072
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -22,7 +22,15 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in Minityrsa |
+| obtainment | Chests in: , Minityrsa |
 | description | "A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from." |
 
+## Description
 
+The Worshipper Longsword is a midgame sword obtained from chests in [Minityrsa](Minityrsa.md). The weapon has a base damage of 19, and a scaling of 4.
+
+  
+
+## Notes & Trivia
+
+-   TBA

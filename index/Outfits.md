@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 22505
+revid: 23059
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -178,6 +178,7 @@ Damage Vs. Deep
 |  | White Scarf |  | Hive Chests |
 |  | Desert Scarf |  | Hive Chests |
 | File:Onepiececape.png | Red One Piece Cape | 2 Random Buffs | Summer Island chests |
+|  | Forest Scarf |  | Hive Chests |
 |  | There's a lot more scarves out there, someone add them |
 
 **Arms:**

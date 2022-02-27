@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 22921
+revid: 23090
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -17,6 +17,8 @@ A Hemafrosted Capra casting a beam of ice.
 Frostdraw allows the user the ability to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
 Frostdraw also has Talents attributed to it as well, allowing the user to fully expand their connection with their chilling environment
+
+The playstyle of this element is territory control and defense, with many talents giving you the advantage against others if you or they happen to be standing on your ice making this a good defensive attunement. Although the first few mantras of frostdraw are considered generally weak, later mantras soon show the power of frostdraw. Though this attunement is slow compared to others, it is a heavy hitter. This attunement would most likely fit someone who likes playing defensive heavies.
 
 ## Training
 

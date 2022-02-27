@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 23029
+revid: 23073
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -16,7 +16,6 @@ categories: [Weapons, Weaponry, Items]
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.6x |
-| selling price | 25 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |

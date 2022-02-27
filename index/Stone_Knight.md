@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 22989
+revid: 23086
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck]
@@ -20,7 +20,7 @@ Recognizable by their white body, red eyes and red sword, the Blizzard Knights a
 
 They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
-Defeating the whole pack will spawn a chest near the frozen river that will always contain at least 1 of the 5 [Heroes Blade](Hero_Blades.md), the element being random.
+Defeating the whole pack will spawn a chest near the frozen river that will sometimes contain at least 1 of the 5 [Heroes Blade](Hero_Blades.md) or just one of the many variant of [Ministry Cloak](Outfits.md#arms).
 
 **Desert Knight:**
 

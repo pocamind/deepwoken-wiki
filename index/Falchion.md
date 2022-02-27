@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 22987
+revid: 23070
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -17,13 +17,12 @@ categories: [Weapons, Weaponry]
 | range | 8 |
 | swing speed | 0.8x |
 | penetration | N/A |
-| selling price | 10 Notes |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ??? |
+| obtainment | Chests in:, Lower Erisia |
 | description | "A surpisingly effective weapon, despite its previous use by fisherman." |
 
 ## Description

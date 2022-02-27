@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 21390
+revid: 23079
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -16,7 +16,6 @@ categories: [Weapons]
 | scaling | HVY: 10 |
 | range | 8.5 |
 | swing speed | 0.55x |
-| selling price | 25 notes |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |

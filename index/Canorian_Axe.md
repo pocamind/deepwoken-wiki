@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 23026
+revid: 23068
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -16,7 +16,6 @@ categories: [Weapons, Weaponry, Items]
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.6x |
-| selling price | 25 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

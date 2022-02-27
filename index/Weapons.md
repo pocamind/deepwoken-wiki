@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 23030
+revid: 23100
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -306,7 +306,7 @@ Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M
 
 **Rapiers:**
 
-Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the rapid strikes of a Light Weapon combined with the extended range of a Medium Weapon.
+Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the damage of a Light Weapon combined with the lower speed of a Medium Weapon, making it essentially worse than both in every way.
 
 <table>
 <tbody>
@@ -364,16 +364,6 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.75x</td>
 </tr>
 <tr>
-  <td><a href="Officer_Saber.md">Officer Saber</a></td>
-  <td>30 MED</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>MED: 4</td>
-  <td>7</td>
-  <td>8</td>
-  <td>0.75x</td>
-</tr>
-<tr>
   <td><a href="Messer.md">Messer</a></td>
   <td>10 MED</td>
   <td>20</td>
@@ -420,6 +410,16 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>N/A</td>
   <td>MED: 5</td>
   <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
+  <td><a href="Officer_Saber.md">Officer Saber</a></td>
+  <td>30 MED</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>MED: 4</td>
+  <td>7</td>
   <td>8</td>
   <td>0.75x</td>
 </tr>
@@ -675,7 +675,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
-  <td>Greataxe</td>
+  <td><a href="Battleaxe.md">Battleaxe</a></td>
   <td>0 HVY</td>
   <td>20</td>
   <td>N/A</td>
@@ -1047,7 +1047,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
-  <td>65 FTD</td>
+  <td>60 FTD</td>
   <td>4</td>
 </tr>
 </tbody>

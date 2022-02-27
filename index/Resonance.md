@@ -1,12 +1,16 @@
 ---
 title: Resonance
-revid: 22942
+revid: 23084
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Character]
 ---
 
 # Resonance
+
+**Resonances** are unique abilities the player can obtain in _Deepwoken_.
+
+## Overview
 
 **Resonances** can have quite powerful effects, such as invincibility, world-wide fast travel, instant gripping, etc. Getting a Resonance is quite a timely, random, dangerous and frustrating process, but the powers they bring are unrivaled, and unlike anything else in the game. Some Resonances can be seen with different versions**,** which usually have an identical effect, but simply execute or perform the move differently. These will be listed on the Resonances respective pages if they have one. Additionally, Resonances have a **Rarity** tier within themselves, with some appearing much more commonly than others. These have also been listed on Resonances respective pages. They also unlock Resonance doors, which either serve as shortcuts to known areas or gateways to previously inaccessible areas.
 

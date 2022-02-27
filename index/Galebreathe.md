@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 22923
+revid: 23104
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -10,6 +10,8 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 _"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White Cloak_
 
+_"Mid-breathe" -Me_
+
   
 
 ## Description
@@ -18,13 +20,15 @@ Galebreathe is an [Attunement](Attunements.md) that grants the user the ability 
 
 Galebreath also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
+The playstyle for this attunement is one of combos and burst damage. With this attunement, Gale Lunge, Wind gun, and Astral Wind will be your best friends, along with a mantra to inhale in order to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos, or players that rely on their blade (Or blunt weapon) more than their mantras.
+
 ## Training
 
 Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
 
 Like all other elements, users can see their Mantras become stronger with training:
 
--   At Power 2, players receive the _Galebreather_ Talent.
+-   At Power 2, galebreathers receive the _Galebreather_ Talent.
 -   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
 -   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
@@ -202,6 +206,7 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 -   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
 -   Galebreathe is the only talent to not have a "Grab" Mantra, instead having the lunge move in it's place.
+-   Primadon is completely immune to elemental effects, including Galebreathe.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.

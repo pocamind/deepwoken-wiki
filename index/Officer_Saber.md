@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 23017
+revid: 23071
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -16,12 +16,8 @@ categories: [Weapons, Weaponry, Items]
 | scaling | 4 |
 | range | 8 |
 | swing speed | 0.75x |
-| endlag | N/A |
 | penetration | N/A |
-| chip damage | N/A |
-| special effect | N/A |
 | stances | 2 Handed, 1 Handed |
-| selling price | N/A |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |

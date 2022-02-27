@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 21155
+revid: 23107
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Mantras]
 # Shadowcast
 
 _"The ability to control the absence of mana or creation in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
+
+_"Guys.. please listen to me.. Shadowcast is good, i swear.. Guys..?" -Shadowcast Player_
 
 ## Description
 
@@ -310,7 +312,8 @@ File:Blackhole.png
 -   Shadowcast has a talent which blinds the victim on consecutive flame stacks, however this blind turns the victims screen white ironically.
 -   Additionally, several Shadowcast moves charge up with a white light.
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred as Lightkeepers are an "authority" within Deepwoken's world that this death was not accidental.
--   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
+-   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
 -   Shadowcast is the first and the only element that player has to train for it.
+-   Shadowcast is considered the "worst" element by many players, though this is up for debate.
 -   Shadowcast currently has no 3-stars move same as Flamecharm.

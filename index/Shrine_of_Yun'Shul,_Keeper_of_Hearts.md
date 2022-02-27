@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 22476
+revid: 23089
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -12,21 +12,25 @@ categories: [Monsters, NPC]
 
 ― Yun'Shul
 
-Template:NPC name
+Template:NPC name**Yun'Shul, Keeper of Hearts** is an NPC found in the [Temple of Hearts](Temple_of_Hearts.md) within [The Depths](The_Depths.md).
 
-## Description
+## Overview
 
-**Yun'Shul, Keeper of Hearts** is an NPC found in the [Temple of Hearts](Temple_of_Hearts.md) within [The Depths](The_Depths.md).
+Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths.
 
 A [Resonance](Resonance.md) is required to enter the temple and to talk to Yun'Shul. Attempting to interact with Yun'Shul without a Resonance will result in the player's demise, killing them instantly.
 
-## Wish
+## Function
 
 The player can interact with Yun'Shul to obtain a wish. Players can wish once per 10 power increment, which mean that players can wish again once they power up 10 times after they had made their wish.
 
-4 wishes are available:
+Four wishes are available when interacting with Yun'Shul:
 
-1.  **The trials ahead of me fill me with trepidation, I wish to escape this place. -** Allows the player to instantly escape The Depths.
-2.  **My Flaws weigh me down too much, I wish for relief. -** Rerolls one of your flaws. Can grant the Vacant flaw.
-3.  **The powers I have been granted displease me, I wish for new. -** Reroll your [Resonance](Resonance.md) at the cost of receiving the Tarnished flaw, which increases the startup and cooldown of your Resonance. (You can only reroll your resonance ONCE, I have confirmed through testing.)
-4.  **The Vows I made give me much regret, I wish to break. -** ~This option removes the current vow(s) of mastery the player has.~ Pretty sure it removes the player's oath, not Vow of Mastery.
+1.  **The trials ahead of me fill me with trepidation, I wish to escape this place.**
+    1.  Allows the player to instantly escape [The Depths](The_Depths.md).
+2.  **My Flaws weigh me down too much, I wish for relief.**
+    1.  Rerolls one of your [flaws](Boons_and_Flaws.md). Can grant the Vacant flaw.
+3.  **The powers I have been granted displease me, I wish for new.**
+    1.  Reroll your [Resonance](Resonance.md) at the cost of receiving the Tarnished [flaw](Boons_and_Flaws.md), which increases the startup and cooldown of your Resonance.
+4.  **The Vows I made give me much regret, I wish to break.**
+    1.  Removes any [Oath](Oaths.md) the player currently has.

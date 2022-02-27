@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 18724
+revid: 23101
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,3 +34,4 @@ Currently, there are only a few known ways to obtain Notes. Some of those are:
 ## Trivia/Notes
 
 -   Modifier buyers refer to Notes as "Sand Dollars," which is the same.
+-   Notes aren't very useful, especially in trading, as their main (or only) use in the end-game is to upgrade mantras.

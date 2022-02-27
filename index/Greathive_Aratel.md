@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 22896
+revid: 23099
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -98,7 +98,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ### Tending the Beloved Quest (Suri Quest)
 
--   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement, though, so he suggests taking the safest route.
+-   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement (taking damage), though, so he suggests taking the safest route.
 -   If you come back to Suri after completing this quest, you get a Vibrant Gem.
 
 ### Blooming Souls Quest (Soul Flower Quest)

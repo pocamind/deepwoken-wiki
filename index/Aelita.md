@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 22990
+revid: 23098
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -36,6 +36,8 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Platinum Bars
 -   Gladiator Helmet
 -   Mist Assassin Cloak
+-   Warrior's Eyepatch
+-   Justicar Defender
 
 ## Notes
 

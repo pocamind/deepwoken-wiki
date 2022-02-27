@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 22698
+revid: 23069
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -17,7 +17,6 @@ categories: [Weapons, Weaponry]
 | range | 8 |
 | swing speed | 0.61x |
 | penetration | N/A |
-| selling price | 50 notes |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |

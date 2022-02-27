@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 22701
+revid: 23063
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -113,7 +113,6 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 -   Fiber
 -   Flint
 -   Bullet
--   nuts
 
 ##### Blueprints
 
@@ -214,7 +213,7 @@ Possible items found after completing Scope's quest
 -   Burgundy/Beige/Slate Tophat
 -   Burgundy/Beige/Slate Aristocrat Coat
 -   Novice Boots
--   (Emerald, Scarlet, Onyx) Fleet Warden Cape
+-   (Emerald, Scarlet, Rose, Onyx) Fleet Warden Cape
 -   Amethyst(4-5)
 -   Ruby(3-4)
 -   Saphire(3-4)
