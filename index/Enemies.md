@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 22758
+revid: 23278
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,7 @@ categories: [Enemies]
 
 # Enemies
 
-_This page is for human enemies. For Monster enemies, see [Monsters](Monsters.md)._
+_This page is for humanoid enemies. For Monster enemies, see [Monsters](Monsters.md)._
 
 **Enemies** in _Deepwoken_ are hostile NPCs that will attack the player, but are different than monster enemies.
 
@@ -28,11 +28,11 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 -   [Bandit Captain](https://deepwoken.fandom.com/wiki/Bandit_Captain)
 -   [Bandit Assassin](https://deepwoken.fandom.com/wiki/Bandit_Assassin)
 
-### Songseeker Cultists
+### Songseeker Monks
 
--   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
--   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
--   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
+-   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
+-   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
+-   [Thundercaller Monk](Songseeker_Thundercaller.md)
 
 ### The Ministry
 

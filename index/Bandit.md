@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 20350
+revid: 23247
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -8,33 +8,39 @@ categories: [Npc]
 
 # Bandit
 
-**Bandits** are a [human enemy](Enemies.md) in _Deepwoken._
+Template:EnemyInfobox1.0**Bandits** are a [humanoid enemy](Enemies.md) in _Deepwoken._
 
-Template:EnemyInfobox1.0
+## Appearance
 
-## Overview
-
-Bandits are hostile criminals that can be found all over Lower Erisia. They can be determined by their red clothing.
-
-They spawn in groups of two around a campfire accompanied by a [Bandit Captain](Bandit_Leader.md), but sometimes in an [ambush](Random_Encounters.md) towards the player.
+Bandits wear a red coat with a white shirt underneath, black pants, and brown boots. Their [race](Aspects.md) and gender can vary.
 
 ## Locations
 
+Bandits can appear in [Random Encounters](Random_Encounters.md) and in locations listed below. They typically spawn with [Bandit Captains](Bandit_Leader.md).
+
 -   [Lower Erisia](Lower_Erisia.md)
--   Isle Of Vigils
--   Etris
+-   [Isle of Vigils](Isle_of_Vigils.md)
+-   [Etris](Etris.md)
 -   [Summer Isle](Summer_Isle.md)
 
-## Weapons
+## Enemy Information
 
-Bandits can be seen wielding:
+### Health
 
--   [Stiletto](Stiletto.md)
--   [Sword](<Sword_(weapon).md>)
--   [Battleaxe](Battleaxe.md)
+Bandits have ~100 health and can be assassinated in one shot without the Assasin talent.
+
+### Weapons
+
+Bandits can be seen wielding Starter Weapons, like [Stilettos](Stiletto.md), [Swords](<Sword_(weapon).md>), and [Battleaxes](Battleaxe.md). They can also be seen wielding [Maces](Mace.md).
+
+### Combat
+
+Bandits only use Light Attacks and don't typically parry or block.
+
+### Drops
+
+Bandits have a chance to drop lesser variants of [Mantra Modifiers](Mantra_Modifiers.md).
 
 ## Trivia/Notes
 
--   Anyone can one shot assassinate them.
--   They won't block much so you can take advantage of that.
--   Almost never parry, you can use this to your advantage.
+-   Player notes here

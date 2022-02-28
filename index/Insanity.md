@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 21210
+revid: 23249
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,14 +20,14 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 
 -   **Tier 1 - 33% insanity - Shivering:** The character will start to occasionally shiver in fear, slowing them down. The blue border will be decently visible at this tier.
 -   **Tier 2 - 66% insanity - Scratching:** The character will start scratching themself every few seconds, dealing a generous amount of damage. The blue border on the screen will begin pulsing at this tier.
--   ~**Tier 3 - 100% insanity - Enucleation:** Seeing far too much horror, the character tear their own eyes out of their socket in their despair. This immediatly kills the player. The blue border will feature new motifs when nearing this tier.~ Some youtuber tested this. Apparently you don't die from max sanity, you only die from being low and scratching yourself. So basically as long as you're outhealing the scratching you're good. Its still annoying and once you get to this stage you should get out anyways.
+-   **Tier 3 - 100% insanity - Enucleation:** Seeing far too much horror, the character tear their own eyes out of their socket in their despair. This immediatly kills the player. The blue border will feature new motifs when nearing this tier. ~Some youtuber tested this. Apparently you don't die from max sanity, you only die from being low and scratching yourself. So basically as long as you're outhealing the scratching you're good. Its still annoying and once you get to this stage you should get out anyways.~ This very untrue since you immediately die if you have 100% insanity. For example if you have [Curse of No Life King](Enchantments.md) in the depths you will almost immediately die succumbing into insanity. Another example of this being screamed by [Megalodaunt](Megalodaunt.md) constantly you will gouge out your eye and die even when you're healing with warrior's respite
 
 ## Insanity increasing effects
 
 -   Being in [The Depths](The_Depths.md) (+1 point every 30 seconds)
 -   [Megalodaunt](Megalodaunt.md) scream attack
 -   Being hit with Gaze
--   Drinking or being splashed by a potion that decreases sanity.
+-   Drinking or being splashed by a Mindbreaking potion.
 -   Deep Widow web attack
 
 ## Insanity decreasing effects
@@ -35,7 +35,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   Not being in [The Depths](The_Depths.md)
 -   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md))
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
--   Drinking or being splashed by a potion that regenerates sanity,
+-   Drinking or being splashed by a Heartening potion.
 
 ## Notes
 

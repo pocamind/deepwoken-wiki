@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 19073
+revid: 23218
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,4 +37,4 @@ Events that spawn in Pathfinder's Respite that involve combat. For more info, se
 
 ## Trivia/Notes
 
--   Player notes here
+-   sometime there is wood plank block the way you must use mantra to break (only some mantra can break it)

@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 22721
+revid: 23203
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -58,7 +58,7 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 
 -   +2 Willpower
 -   +2 Charisma
--   Natural autodiadict perk
+-   Natural Autodidact
 -   Higher starting reputation
     
 
@@ -85,7 +85,7 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 
 ## Notes/Trivia
 
--   An NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "old world", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
+-   An NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
     -   This NPC is known as [Ishan](Ishan.md)
 -   Central Authority is comprised of Adretian fighters.
     -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However without the keepers of the lighthouse it becomes impossible to traverse the voidsea, stalemating a losing war.

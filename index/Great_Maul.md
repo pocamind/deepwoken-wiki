@@ -1,32 +1,31 @@
 ---
 title: Great Maul
-revid: 22048
+revid: 23208
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items]
 ---
 
 # Great Maul
 
 | Great Maul | |
 |---|---|
-| type | Heavy GreatHammer |
-| requirements | 65 HVY 30 STR |
+| type | Heavy Greathammer |
+| requirements | 65 HVY, 30 STR |
 | damage | 25 |
 | scaling | 8 |
 | range | 9 |
 | swing speed | 0.6 |
 | endlag | 0.1s |
 | penetration | 5% |
-| selling price | ? |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rock Golem drop |
-| description | ? |
+| obtainment | Dropped directly from the Rock Golem |
+| description | TBA |
 
 ## Description
 
-Drops from Rock Golems
+The Great Maul is a greathammer that can be dropped from the [Rock Golem](Rock_Golem.md), and it requires 65 Heavy Weapons and 30 Strength to wield. The weapon has a Base Damage of 25 and a scaling of 8. Notably, the Great Maul also has a 5% penetration stat.

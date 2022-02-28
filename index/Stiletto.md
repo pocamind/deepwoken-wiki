@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 23065
+revid: 23223
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Main Menu Selection Etris store. Erisia Bandit Chests |
+| obtainment | Starter Weapon, Etris, Lower Erisia |
 | description | "A remarkably thin blade often likened to (and used as) a toothpick." |
 
 ## Description

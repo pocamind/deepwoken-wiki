@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 22111
+revid: 23272
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -31,6 +31,12 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 -   **Rip Apart** - Holds you in its mouth full of teeth, then aggressively shakes its head for 4 seconds to brutally rip your limbs apart.
 
+## Tips and Tricks
+
+-   When it bites, parry the first when then parry the other two using muscle memory. This isn't like the sharko swipes, meaning you'll have some time to react in between the bites.
+-   If you see it turn around, you can wait for around half a second to press block. This will usually parry it and you should be fine. If you accidentally react too quickly and miss the parry window, don't be shy to dash backwards. Even if it goes underground, you'll usually have enough time to get your roll cooldown back.
+-   When you see it go underground to dig around, it is going to pop up to hit you after 2 red flashes. In order to avoid this, right as you see the second flash you should roll.
+
 ## Notes
 
 -   The go-to mob to farm for high leveled players.
@@ -58,6 +64,8 @@ Template:Creature Info Box v2The King Thresher is a much bigger and more powerfu
 -   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried.
 -   **Tail Swipe** - Turns around and smacks you with its tail, ragdolling those hit by this. This attack is able to be parried. Ignores block, able to be parried.
 -   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward then suck, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
+
+  
 
 ## Finishers
 

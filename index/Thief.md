@@ -1,32 +1,44 @@
 ---
 title: Thief
-revid: 12602
+revid: 23254
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Thief
 
-## Description
+**Bandit Assassins** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
-Bandit Assassins are NPC hostiles, they are found in pairs of 3.
+Template:EnemyInfobox1.0
 
-Their appearance consists of a Shadow Hunter's armor.
+## Appearance
 
-## Moves
+Bandit Assassins wear a black cloak with a gray shirt underneath. Their [race](Aspects.md) and gender can vary.
 
-Their arsenal consists of a Stilleto.
+## Locations
 
-### Flaws
+Bandit Assassins can appear in [Random Encounters](Random_Encounters.md) and in [Lower Erisia](Lower_Erisia.md).
 
--   **Very Inexperienced:** They dont block/parry at all, typically "newbie player" type of combat skill.
+## Enemy Information
 
-## Attack Pattern
+### Health
 
-Bandit assassin's often organize themselves in front of the player side to side while MOSTLY attacking the player one at a time. Instead of blocking, Bandit Assassin's react to attacks by trying to step back out of range then immediately attack after the player misses similar to Mudskippers.
+Bandit Assassins have ~100 health and can be assassinated in one shot.
+
+### Weapons
+
+Bandit Assassins can be seen wielding a dagger closely resembling a [Gilded Knife](Gilded_Knife.md).
+
+### Combat
+
+Bandit Assassins can use Light and Heavy Attacks. They barely block or parry.
+
+### Drops
+
+Bandit Assassins have a chance to drop lesser [Mantra Modifiers](Mantra_Modifiers.md).
 
 ## Tips
 
--   You can one shot assassinate them.
--   Upon gripping you they will steal your money saying "Score!" and dissapear.
+-   Upon gripping you, they will steal your money saying "Score!" and disappear.
 -   Usually you won't actually die from them gripping you.
+-   Take caution to your blood level during a battle with these enemies.

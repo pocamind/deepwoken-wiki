@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 23121
+revid: 23200
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items]
 ---
 
 # Rifle Spear
@@ -20,7 +20,6 @@ categories: [Weapons, Weaponry]
 | penetration | 25% |
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed |
-| selling price | 25 notes |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,9 +30,9 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Rifle Spear is a Medium weapon and is the best spear in the game. It can be obtained from chests in [Fort Merit](Fort_Merit.md), which you get by bringing Etrean hostages to the boat. (you have slight chance to get it from a chest, there is limit however, you can only bring 3 hostages, after that, you must wait some time.)
+The Rifle Spear is a Medium weapon and is the best spear in the game. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and chests in [Fort Merit](Fort_Merit.md), which you get by bringing Etrean hostages to the boat.
 
-The weapon itself is not similar to the regular spear as its critical is different, as instead of a slash, it shoots a projectile (does not consume Ether). It has the same speed and sound as any other gun.
+The weapon itself is different from the typical Spear, as its critical is different. Instead of a slash, it shoots a projectile which does not consume Ether. It has the same speed and sound effect as any other gun.
 
   
 

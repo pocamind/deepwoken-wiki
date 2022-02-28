@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23172
+revid: 23279
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -304,7 +304,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary Talent, 20 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
+-   Exoskeleton \[Legendary Talent, 30 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
     -   Can be stacked with Chitin.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
@@ -521,7 +521,7 @@ Prerequisite: Willpower 5~
 
 ### [Oath](Oaths.md)
 
--   Oath: Oathless \[Oath Talent\] - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
+-   Oath: Fatherless - You vow to never be bound to any father; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
     -   Prerequisites: Power 30 and Above
 -   Oath: Blindseer \[Oath Talent\] - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold. (Requires all 5 Mental Fortress cards)

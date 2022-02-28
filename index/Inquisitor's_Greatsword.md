@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 21678
+revid: 23199
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -17,8 +17,7 @@ categories: [Weapons, Weaponry]
 | range | 9 |
 | swing speed | 0.54x |
 | endlag | 0.1s |
-| penetration | n/a |
-| special effect | n/a |
+| chip damage | N/A |
 | selling price | 50 |
 | weight | 9 |
 | bankable | Yes |
@@ -28,24 +27,13 @@ categories: [Weapons, Weaponry]
 | obtainment | Rogue Construct, Primadon |
 | description | '(item description)' |
 
-<table>
-<tbody>
-<tr>
-  <td>Overview</td>
-</tr>
-</tbody>
-</table>
+## Description
 
-The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge.
+The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge. The weapon has a Base Damage of 22 and a scaling of 8. You can obtain it from [Rogue Constructs](Hive_Construct.md) or [Primadon](Primadon,_Titan_of_the_East.md).
 
-It has a somewhat close appearance to the Rebellion dante wields in the Devil May Cry series.
+  
 
-It drops from Rogue Constructs in Minityrsa. 
+## Notes & Trivia
 
-<table>
-<tbody>
-<tr>
-  <td>Notes &amp; Trivia</td>
-</tr>
-</tbody>
-</table>
+-   It has a somewhat close appearance to the Rebellion Dante wields in the _Devil May Cry series._
+-   It drops from Rogue Constructs in Minityrsa.

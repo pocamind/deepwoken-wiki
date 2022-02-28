@@ -1,9 +1,9 @@
 ---
 title: "Petra's Anchor"
-revid: 20932
+revid: 23220
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items]
 ---
 
 # Petra's Anchor
@@ -18,20 +18,22 @@ categories: [Weapons, Weaponry]
 | swing speed | 0.6x |
 | endlag | 0.1s |
 | penetration | 15% |
-| special effect | N/A |
 | selling price | N/A |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Dread Serpent |
+| obtainment | Directly dropped by the Dread Serpent |
 | description | An unwieldy weapon that promises to hold fast in battle. |
 
-##### _"TOTSUGEKI!"_
+## Description
 
-Petra's anchor is a Endgame greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md)
+Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26.5, and a Heavy Weapons requirement 75 and a Strength requirement of 10 to equip. This weapon has no special effects or passives (not confirmed by anyone yet)
 
-This weapon has a base damage of 26.5 and a strength requirement of 10 to equip. This weapon has no special effects or passives (not confirmed by anyone yet)
+  
 
-Probably a reference to Totsugeki May (Guilty Gear) or, albeit unlikely, Minamitsu Murasa (Touhou Project). Both characters wield an anchor.
+## Notes & Trivia
+
+-   Probably a reference to Totsugeki May from _Guilty Gear_.
+    -   Could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.

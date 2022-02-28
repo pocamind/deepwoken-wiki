@@ -1,9 +1,9 @@
 ---
 title: "Serpent's Edge"
-revid: 21422
+revid: 23204
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items]
 ---
 
 # Serpent's Edge
@@ -32,6 +32,5 @@ The Serpent's Edge is a late midgame/endgame Medium Weapon. It can be somewhat r
 
 ## Notes/Trivia
 
-At max medium weapon, the Serpent's Edge is better than a Shattered Katana in terms of damage but unlike the Shattered Katana the Serpent's Edge does not have any penetration. (PEN)
-
-This is likely a refence to the [nichirin](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) of the character [Obanai Iguro](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) in the series Demon Slayer
+-   At max Medium Weapons, the Serpent's Edge is better than a Shattered Katana in terms of damage, but unlike the Shattered Katana the Serpent's Edge does not have any penetration. (PEN)
+-   This is likely a refence to the [nichirin](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) of the character [Obanai Iguro](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) in the series Demon Slayer
