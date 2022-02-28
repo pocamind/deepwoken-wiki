@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 22734
+revid: 23296
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,8 +31,8 @@ Inside the Temple is Amashi, a spelltrainer.
 
 ## Potential Enemies
 
--   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
--   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
+-   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 ## Quests
 

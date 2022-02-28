@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 22949
+revid: 23291
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -42,11 +42,9 @@ Minityrsa is an island blanketed in fresh snow. It can be found past the central
 -   [Rogue Constructs](Hive_Construct.md)
 -   [Snow Knight](Stone_Knight.md)
 -   [Brain Suckers](Brainsucker.md)
--   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 ## Loot Table
-
-All [Monsters](Monsters.md) and NPCs (Bandits, Bandit Assassins, etc) can drop Mantra Modifiers on death.
 
 Below is a list of potential items that can spawn in chests in Minityrsa.
 

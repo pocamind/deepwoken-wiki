@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Axe"
-revid: 23217
+revid: 23300
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons]
 ---
 
 # Enforcer's Axe
@@ -28,6 +28,6 @@ categories: [Weapons, Weaponry, Items]
 
 The Enforcer's Axe is a Heavy Weapon that is obtainable by defeating an [Enforcer](Enforcer.md) in [The Depths](The_Depths.md) or in the Trial of One, It has 26 base damage and a Swing Speed of 0.55x.
 
-## Notes & Trivia
+## Notes
 
 -   If you want to grind for the Enforcer's Axe, then you'll need to be Power 50+ since Enforcers are guaranteed after that level range when taking your trial.

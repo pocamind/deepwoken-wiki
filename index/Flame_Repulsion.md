@@ -1,6 +1,6 @@
 ---
 title: Flame Repulsion
-revid: 16876
+revid: 23287
 source: https://deepwoken.fandom.com/wiki/Flame_Repulsion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -45,7 +45,7 @@ _{{{desc}}}_
 |- |colspan="5"| {{{noeffect}}} |-
 
   
-**Flame Repulsion** is a basic Combat Mantra used by [Flamecharmers](Flamecharm.md). You must have the _Flamecharmer_ [Talent Card](Talents.md) to use this.
+**Flame Repulsion** is a basic Combat Mantra used by Flamecharmers. You must have the _Flamecharmer_ Talent Card to use this.
 
 ## Usage
 
@@ -57,10 +57,10 @@ Blocking this spell will still knock you back, but you will not be inflicted wit
 
 ## Modifications
 
-[Mantra Modifiers](Mantra_Modifiers.md) will result in their stated effects. There are no Sparks that apply to this Mantra.
+Mantra Modifiers will result in their stated effects. There are no Sparks that apply to this Mantra.
 
-This Mantra can be improved with the [Talent Card](Talents.md) _Thorns of Fire_.
+This Mantra can be improved with the Talent Card _Thorns of Fire_.
 
 ## Trivia/Notes
 
--   This Mantra is seen used by [Songseeker Flamecharmers](Songseeker_Flamecharmer.md).
+-   This Mantra is seen used by Songseeker Flamecharmers.

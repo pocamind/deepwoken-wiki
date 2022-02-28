@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 22310
+revid: 23285
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -37,13 +37,13 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 
 ## Potential Enemies
 
+-   [Authority Footsoldier](Authority_Officer.md)
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
 -   [Bandit Assassin](Thief.md)
+-   Etrean Footsoldier
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
--   Etrean Footsoldier
--   [Authority Footsoldier](Authority_Officer.md)
 
 ## Missions
 
@@ -64,67 +64,52 @@ Events that spawn in Lower Erisia that typically do not involve combat. For more
 
 ## Loot Table
 
-All [Monsters](Monsters.md) and NPCs (Bandits, Bandit Assassins, etc) can drop Mantra Modifiers on death, with [Megalodaunts](Megalodaunt.md) dropping higher-end ones.
-
 Below is a list of potential items that can spawn in chests in Lower Erisia.
 
-### Outfits
-
--   [Skeptic Pioneer](Skeptic_Pioneer.md)
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [Cutthroat Light Armor](Cutthroat_Light_Armor.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
 -   [Experienced Adventurer](Experienced_Adventurer.md)
+-   [Ignition Union Uniform](Ignition_Union_Uniform.md)
+-   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
 -   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md)
 -   [Pathfinder Cloak](Pathfinder_Cloak.md)
 -   [Shadow Hunter](Shadow_Hunter.md)
--   [Cutthroat Light Armor](Cutthroat_Light_Armor.md)
+-   [Skeptic Pioneer](Skeptic_Pioneer.md)
 -   [Vigil Initiate](Vigil_Initiate.md)
--   [Ignition Union Uniform](Ignition_Union_Uniform.md)
 
-### Equipment
-
-#### Head
+ | 
 
 -   Black Headband
 -   Orange Headband
 -   Yellow Headband
-
-#### Face
-
 -   Iron Mask
 -   Smith's Goggles
 -   Blindfold
-
-#### Arms
-
 -   Leather Pauldrons
 -   Iron Pauldrons
 -   Black Fur Pauldrons
-
-#### Rings
-
 -   Silver Ring
 -   Gold Ring
 -   Konga's Clutch Ring
-
-#### Boots
-
 -   Leather Boots
 -   Black Fur Boots
 -   White Fur Boots
 
-### [Weapons](Weapons.md)
+ | 
 
 -   [Mace](Mace.md)
 -   [Iron Spear](Iron_Spear.md)
--   [Messer](Messer.md) (basic to one-star)
--   [Steel Maul](Steel_Maul.md) (basic to one-star)
--   [Scimitar](Scimitar.md) (basic to one-star)
--   [Iron Cestus](Iron_Cestus.md) (basic to two-star)
--   [Legion Cestus](Legion_Cestus.md) (basic to three-star)
--   [Gilded Knife](Gilded_Knife.md) (basic to three-star)
+-   [Messer](Messer.md)
+-   [Steel Maul](Steel_Maul.md)
+-   [Scimitar](Scimitar.md)
+-   [Iron Cestus](Iron_Cestus.md)
+-   [Legion Cestus](Legion_Cestus.md)
+-   [Gilded Knife](Gilded_Knife.md)
 
-### Miscellaneous
+ | 
 
 -   Three to eight Sapphires.
 -   Three to eight Amethysts.
@@ -132,3 +117,9 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   Three to seven Emeralds.
 -   Three to eleven Gold Bars.
 -   One to four [Mantra Modifiers](Mantra_Modifiers.md).
+
+ |
+
+## Trivia/Notes
+
+-   Player notes here

@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 19055
+revid: 23292
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,7 +27,7 @@ Valley of Heroes resembles an icy valley littered with frozen asteroids. The val
 -   [Snow Knights](Stone_Knight.md) in Winter
 -   [Golem Constructs](Hive_Construct.md)
 -   [Cultist Necromancer](Ministry_Necromancer.md)
--   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 ## Events
 
