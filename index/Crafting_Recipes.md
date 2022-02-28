@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 22690
+revid: 23305
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -326,7 +326,7 @@ _**Negative**_
 
 ## Notes/Trivia
 
--   Normally, the Flamecharm-Exclusive mantra _Graceful Flames_ cannot be used to cook food. However, with 3 Vibrant Gems it can.
+-   ~Normally, the Flamecharm-Exclusive mantra _Graceful Flames_ cannot be used to cook food. However, with 3 Vibrant Gems it can.~ Sadly this isn't true.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
 -   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.

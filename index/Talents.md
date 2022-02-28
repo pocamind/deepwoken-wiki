@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23279
+revid: 23331
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -68,6 +68,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Alchemist
 
+These talents are designed to make your potions making and usage more efficient.
+
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
@@ -76,6 +78,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   Prerequisites for all: Intelligence (10 - 40 needed?)
 
 ### Alley Cat
+
+These talents are meant to provide an increase to your speed or improve it in various situations.
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
@@ -97,6 +101,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   Gain +20(?)% damage and +??% movement speed while the fire is active. Can be cancelled by dodging or being in water.
 
 ### Angler
+
+These talents are designed to improve fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
@@ -143,6 +149,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Bastion
 
+These talents are designed to make you more akin to a Tank.
+
 -   Moving Fortress \[Generic Talent, Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
 -   Heavy Haul \[Generic Talent, Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
 -   Braced Collapse \[Generic Talent, Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
@@ -169,6 +177,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   The time where you cannot get hit while rolling is doubled.
 
 ### Butterfly
+
+These talents are designed to improve and/or reward your ability to roll out of danger.
 
 -   Swift Rebound \[Generic Talent, Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
 -   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility) (This requires at least 20 agility, could be less, but that's what I had when I got it)
@@ -210,7 +220,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Comrade
 
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
-    -   Prerequisite: Reinforce/Shadow Magic(obviously)<---- wrong its not a shadow Talent, it has no shadow symbol on the card and has been gotten without shadow multiple times. Whoever said it needs shadow is just an idiot.
+    -   Prerequisite: Reinforce
+    -   Contrary to popular belief, Shadowcasting is not required for this talent.
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
     -   Prerequisite: Reinforce
 
@@ -226,9 +237,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Cutthroat
 
+These talents are mainly aimed at making assassination much more potent, especially in PVP.
+
 -   Assassin \[Generic Talent, Common Talent, Light\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
 -   Hidden Blade \[Generic Talent, Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
--   In a Hurry \[Generic Talent, Common Talent, Light\] You grip faster with a movement speed boost.
+-   In a Hurry \[Generic Talent, Common Talent, Light\] - You grip faster with a movement speed boost.
 
 ### Cloudwalker
 
@@ -252,6 +265,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
     -   Prerequisite: Automatically granted when you escape from The Depths once.
 
 ### Duelist
+
+These talents are meant to improve your overall combat effectiveness.
 
 -   Concussive Force \[Generic Talent, Common Talent\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
 -   Concussion \[Generic Talent, Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
@@ -284,7 +299,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Ether Adept
 
 -   Nullifying Clarity \[Generic talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
--   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks.
+-   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent, Intelligence\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
 -   Charged Return \[Common Talent, Intellegence\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 
@@ -369,7 +384,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
-    -   The increased Ether Cost from Modified Mantras is reduced. (Like with potion and fish talents you need to modifiy mantras to be able to get this talent)
+    -   The increased Ether Cost from Modified Mantras is reduced.
+    -   Prerequisites: Have modified at least 1 mantra.
 
 ### Glassdancer
 
@@ -393,6 +409,11 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 -   Eyes in the back of your head \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
     -   Prerequisite: Glare & A high amount of Willpower
+
+### Ice Age
+
+-   Frozone \[Frostdraw Exclusive, Legendary Talent\] - You are longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
+    -   Prerequisite: Ice Skates (3 Star Frostdraw Mantra)
 
 ### Inferno
 
@@ -444,6 +465,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Limitbreaker
 
+Most of these talents are designed to benefit you when the situation is dire.
+
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
@@ -460,6 +483,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Marauder
 
+Most of these talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
+
 -   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
 -   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
     -   Prerequisites: Bloodiron Spirit
@@ -475,6 +500,8 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 Prerequisite: Willpower 5~
 
+These talents are meant to help you fight the ill effects of Insanity and to resist against it for longer.
+
 -   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
 -   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
@@ -483,6 +510,8 @@ Prerequisite: Willpower 5~
 -   Unyielding Focus \[Generic Talent, Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)
 
 ### Metamancer
+
+These are just raw stat increase and are beneficial to anyone.
 
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
@@ -521,7 +550,7 @@ Prerequisite: Willpower 5~
 
 ### [Oath](Oaths.md)
 
--   Oath: Fatherless - You vow to never be bound to any father; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
+-   Oath: Oathless - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots)
     -   Prerequisites: Power 30 and Above
 -   Oath: Blindseer \[Oath Talent\] - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+4 Health, +10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: Read strange writing while wearing a blindfold. (Requires all 5 Mental Fortress cards)
@@ -530,7 +559,6 @@ Prerequisite: Willpower 5~
 ### One Eyed King
 
 -   Strength Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
-
 -   Million Ton Piercer \[Generic Talent, Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
     -   Prerequisite: 100 Strength (?)
 
@@ -544,10 +572,14 @@ Prerequisite: Willpower 5~
 
 ### Prospector
 
+These talents are meant to make foraging and mining grant more ressource.
+
 -   Excavator \[Generic Talent, Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
 -   Harvester \[Generic Talent, Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
 
 ### Raging Bull
+
+These talents are meant to be used in an aggresive playstyle.
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
@@ -603,7 +635,6 @@ Prerequisite: Charisma
 ### Static Weaver
 
 -   Static Link \[Generic Talent, Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
-
 -   Static Allure \[Generic Talent, Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Generic Talent, Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
@@ -632,6 +663,8 @@ Prerequisite: Charisma
 
 ### Shipwright
 
+These talent are meant to make maintaining your ship easier.
+
 -   Spare Nails \[Generic Talent, Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
 -   Emergency Repairs \[Generic Talent, Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
     -   Prerequisite for all: Use the Repair Hammer once.
@@ -655,6 +688,8 @@ Prerequisite: Charisma
 -   Unfazed \[Generic Talent, Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
 
 ### Survival Instinct
+
+These talents are designed to let you survive against starvation and thirst by living of mother nature.
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
@@ -682,6 +717,8 @@ Prerequisite: Charisma
     -   Prerequisite: Charisma?
 
 ### Thief
+
+These talents are meant to reap the reward of your latest hunt.
 
 -   Pickpocket \[Generic Talent, Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
     -   Prerequisite: 10 Charisma
@@ -762,6 +799,8 @@ Prerequisite: Charisma
 -   Critical Attack \[Generic Talent, Common Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 
 ### **Waterborne**
+
+These talents are designed to make you more effective in water.
 
 -   Conditioned Swimmer \[Generic Talent, Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
 -   Scuba Drowner \[Generic Talent, Rare Talent\] - You may not drown to death when drowned in waters. (+1 Passive Agility)

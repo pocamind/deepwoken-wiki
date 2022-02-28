@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 22335
+revid: 23326
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,9 +33,9 @@ Pressing C will activate the **Wind-Up** Resonance.
 
 Tarnished
 
-**Wind-Up** has a special type of tarnished (or a bug). When tarnished, it has a 2 second wind-up before starting. Although, sometimes, the wind-up before you activate your bell is removed. I find that after you reach stage 5 of your bell 3 times, the tarnished debuff goes away.
+If **Wind-Up** is tarnished, it will have a 1 second wind-up before use. There is a bug (may have been patched) that if you let **Wind-Up** run out (particles no longer appear), the tarnished effect would be glitched and not activate.
 
-#### _Corrupted_
+_Corrupted_
 
 If **Wind-Up** is found to be Corrupted, players will reach max level in three **Wind-Up**, rather than five plus winding up speed is greatly faster than usual.
 

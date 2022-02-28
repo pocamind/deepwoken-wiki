@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 22130
+revid: 23308
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,4 +36,4 @@ The Aratel Sea is a lot more violent, with frequent pirate attacks and being inh
 
 ## Trivia/Notes
 
--   Player notes here
+-   Lionfish, brainsuckers, and I think whalers can spawn here.

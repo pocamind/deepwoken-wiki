@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 22753
+revid: 23303
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -75,6 +75,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. Also immune to blinding mantra? (Needs further testing)
+
+Having all the talents, the blindfold, and the oath give you sanity, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
 ## **Oath: Visionshaper**
 
