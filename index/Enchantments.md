@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23156
+revid: 23174
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -93,13 +93,13 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
-  <td><div><p>Every M1 connection will have a 20% chance of lighting your opponent on fire. A higher Flamecharm stat will make this enchantment more effective.</p>
+  <td><div><p>On proc (20% chance), set the enemy on fire. The strength of the fire scales with Flamecharm.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
-  <td><div><p>M1 connections have a chance to create a purple string that connects both you and the enemy, pulling them towards you.</p>
+  <td><div><p>On proc, create a purple string, pulling the target toward you.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -186,7 +186,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
-  <td><div><p><i><b>HAS EVERY ENCHANT.</b></i> When attacked, has a chance to proc any of the weapon enchants. <b>PROCS STACK</b> (EX: Heroism and Chilling can go off at the same time)</p></div></td>
+  <td><div><p>This enchant grant every other weapon enchant on the weapon. Each enchant procs are rolled individually, meaning multiple enchants can proc at once.</p></div></td>
 </tr>
 </tbody>
 </table>

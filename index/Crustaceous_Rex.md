@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 23130
+revid: 23191
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Monsters, Monster]
 
 # Crustaceous Rex
 
-Template:Creature Infobox V3 _Also known as **Purple Crab**, **King Crab**, or **Crabbo.**_
+Template:Creature Infobox V3 _Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
 
 ## Description
 
@@ -20,7 +20,7 @@ File:Crabbo.PNG
 
 **Bubble Beam** - Shoots a barrage of bubbles at its foes. Spam parry to evade this attack.
 
-**Crushing Claw** - Grabs someone and drops them doing a good amount of damage. Cannot be parried.
+**Crushing Claw** - Grabs someone in its claw and crushes them before throwing them to the ground doing a good amount of damage. Cannot be parried.
 
 **Ground Smash**\- Jumps high up before slamming down. Cannot be parried.
 
@@ -29,4 +29,5 @@ File:Crabbo.PNG
 ## Notes
 
 -   One of, if not the only [Monster](Monsters.md) in [The Depths](The_Depths.md) that one can run away from without climbing.
--   This thing can't really move much but it can still mess you up especially w/ crushing claw
+-   This thing can't really move much but it can still mess you up especially w/ crushing claw.
+-   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal one-on-one or with a party much faster.

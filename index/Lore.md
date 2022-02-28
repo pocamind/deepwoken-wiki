@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 22969
+revid: 23188
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -220,7 +220,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _Kingdom of Etrea_
 -   **Enemies:** _The Central Authority_
--   **Lore Sources:** _Amara_
+-   **Lore Sources:** _Amara, Brutus_
 
 -   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Adretian Authority or The Hive.
 -   They wear ancient-like armor, ranging from armor plating and scale armor.
@@ -236,14 +236,18 @@ Amara, a Member of The Legion.
 -   **Territory:** _Summer Isles_
 -   **Encountered In:** _Summer Isles_
 -   **Attunements:** _N/A_
--   **Alliances:** _The Central Authority (?) (Most likely not, as the technology for the Guns were stolen for the Rifle Spear, not borrowed._
+-   **Alliances:** _The Central Authority (?)_
 -   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:**
+-   **Lore Sources:** _Random encounters, Scope,_
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
 -   Allying with the Summer Company is possible (friendly dialogue) by assisting them in large amounts in events.
+-   Rather incompotent fighters, resulting in heavy loss of amunitions and personal from Ignition Union and Bandit raids
+-   They supply the Authority with amunition, but stocks frequently run low due to the afformentioned raids
+    -   They request the Authority for aid though there has been little done on their part
+-   They refuse to expand into the driftlands due to the war going on between Etrea and the Central Authority taking place in the area
 
 A Summer Company Member.
 
@@ -309,16 +313,19 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Fort Merit, Central Luminant_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Divers (Mixed), The Summer Company (Neutral) (Most likely not, as the technology used in the Guns were stolen for the Rifle Spear, not borrowed._
+-   **Alliances:** _The Divers (Mixed), The Summer Company (Business relations)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion__, Hive_
--   **Lore Sources:** _Authority Interrogator Talents, The Vigil Librarian, Weapon Descriptions._
+-   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope._
 
 -   The Authority are a faction of Peacekeepers and are not to be confused with the Kingdom of Etrea.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The Authority wears armor, over a red coat; similar to pirates. There are also Authority members that wear legion-like armor.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out for the most part
--   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule
+-   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
+-   Currently at war with the Kingdom of Etrea
+-   They purchase firearms from The Summer Company
+    -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses
 -   The Central Authority (as of we know now) use 3 attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by foot soldiers and Wardens alike.
     -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests.
