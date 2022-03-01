@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 23223
+revid: 23439
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,3 +29,8 @@ categories: [Weapons, Weaponry]
 ## Description
 
 The Stiletto is a dagger that Light weapon users start with when beginning the game. The weapon has a base damage of 10. This weapon can be obtained by choosing Light Weapon during [Character Creation](Character_Creation.md), buying it at [Etris](Etris.md#weaponry), or getting it from a drop at [Erisia](Erisia.md).
+
+## Notes
+
+-   ~Literally the worst weapon in the game, at max light weapon you will be doing 11 damage.~ Mate try [Nemit's Sickle](<Nemit's_Sickle.md>) even with the PEN it's still sucks~  
+    ~

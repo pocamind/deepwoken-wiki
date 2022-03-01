@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23395
+revid: 23450
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -54,11 +54,11 @@ Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw]
 
 **Tarnished Resonances** are Resonances that have unique effects if the user has been afflicted with the [Flaw](Boons_and_Flaws.md) _Tarnished,_ which acts like a reversal of Corrupted Resonances, making the ability weaker by inflicting it with a longer cooldown and startup- but also having a unique negative effect depending on the specific Resonance, which, like Corrupted Resonance's unique buffs, will be listed on their specific page. Tarnished Resonances can overlap with Corrupted Resonances, and be any Resonance Version, with the effects stacking with each other.
 
-### Removing Tarnished
-
 File:Tarnish removal.png
 
 Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
+
+### Removing Tarnished
 
 To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (The Chime of Conflict guy) 1000 notes.  
 

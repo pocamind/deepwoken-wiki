@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 23412
+revid: 23451
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -49,4 +49,4 @@ If the owner of this Resonance is Tarnished, **Full Counter** will be given a tw
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Credit to N1R#3083 for helping me research corrupted part
 -   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime 'Seven Deadly Sins.'
--   real name is pay it back
+-   It’s actual name is “Payback”

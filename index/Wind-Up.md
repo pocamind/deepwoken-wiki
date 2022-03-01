@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 23326
+revid: 23455
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -12,6 +12,12 @@ categories: [Resonance]
 |---|---|
 | effect | Charges your arm and amplifies your next attack |
 | appearance | Small particles that surround the arm |
+
+“ Wind up your arm, storing successively more energy until you finally unleash it. ”
+
+― Wind-Up description
+
+  
 
 ## Description
 

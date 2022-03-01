@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 23080
+revid: 23425
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -34,9 +34,9 @@ A group of 3 thieves, recognizable by their black armor and the lack of campfire
 
 #### **Bandit Attack**
 
-In Etris or Vigils, 2 bandits can spawn in front of two guards near their respective area. In Etris they are located at the bridge where the entrance to the city is from the docks. In Vigils, they spawn in front of the Temple of Blade. The guards will usually win unless they are low on health, and helping them out will reward you. You will receive XP and reputation. This event does not spawn a chest. This event also takes place at [Summer Isle](Summer_Isle.md), however rather than 2 bandits spawning in front of the guards, 6 will spawn.
+In Etris or Vigils, 2 bandits can spawn in front of two guards near their respective area. In Etris they are located at the bridge where the entrance to the city is from the docks. In Vigils, they spawn in front of the Temple of Blade. The guards will usually win unless they are low on health, and helping them out will reward you. You will receive XP and reputation. This event does not spawn a chest.
 
-**Knives of Eylis**
+#### **Knives of Eylis**
 
 Similar to bandits, with 3 enemies spawning. They will wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage. Occurs at Ersia and Songseeker Wilds.
 
@@ -51,6 +51,10 @@ An encounter limited to [Erisia](Erisia.md), a group of special Mudskippers will
 #### **Mudskipper-Mancer**
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that have the ability to become intangible to all damage and summon 3 Mudskippers: 2 using Flamecharm, and 1 using Frostdraw.
+
+#### **Songseeker**
+
+In [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), a Songseeker may spawn anywhere on the island. They can be seen meditating but will aggro onto you if you enter their line of sight. They can be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They are unable to be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
 #### **X vs X**
 
@@ -104,13 +108,13 @@ One, two or three divers taking on a monster in [The Depths](The_Depths.md). Wit
 
 ## Unique Events
 
-### **Aelita**
+### **[Aelita](Aelita.md)**
 
-Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a Felinor with the Visionshaper Oath, which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
+Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a [Felinor](Felinor.md) with the [Visionshaper Oath](Oaths.md), which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 
 The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Snow Knight](Stone_Knight.md) event.
 
-### **Akira**
+### **[Akira](Akira.md)**
 
 Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of Ignition Union soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
@@ -120,7 +124,7 @@ After taking the right option, Akira can be found at [Castle Light](Castle_Light
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 
-The Meat Lord is a merchant NPC that can appear on Starswept Valley and more rarely in Upper Erisia and Summer Isle. He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
+The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in Upper Erisia and Summer Isle. He offers a selection of 3 of several meat-based food to the player in exchange of 2 notes each. You must bow down every time you buy from him or else, he will ignore you.
 
 ### **Stranger NPC**
 

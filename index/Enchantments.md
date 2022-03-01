@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23369
+revid: 23444
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -121,7 +121,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
-  <td><div><p>Attacks will steal a moderately high amount of the target's thirst and hunger.</p>
+  <td><div><p>Steals hunger and thirst on hit based on damage dealt. (More damage equals more hunger and thirst stolen) Steals a high amount of hunger from monsters and NPCs, however this doesn't cause them to starve.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -218,7 +218,7 @@ Allure
 
  | 
 
-On proc, apply Tough Love, reducing damage dealt to you by 25% and increasing damage enemies receive by 25%.
+Enemies that hit you are charmed for a short duration. - Without charisma/charm related perks, this enchantment is useless, however with even just “Tough Love” this enchantment is very strong.
 
  |
 | 
