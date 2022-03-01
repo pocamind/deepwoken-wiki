@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 22711
+revid: 23353
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper
 
-Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mushrooms and Goblettoes._
+Template:Creature Infobox V3_Also known as Shriekers and Zombies._
 
   
 
@@ -32,7 +32,7 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 -   **Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage than a normal Mudskipper. Does not die when backstabbed. Is black.
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm and Frostdraw.
     -   **Redskipper (Flamecharm)** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
-    -   **Blueskipper (Frostdraw)** - Summons 4 ice swords that will spin around it, damaging anyone in range. Wears blue armor.
+    -   **Blueskipper (Frostdraw)** - Summons 4 ice swords that will spin around it, damaging anyone in range. (Currently bugged.) Wears blue armor.
 -   **Mudskipper Knight** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 16 - 18. Their outfit and weaponry are equivalent of Bandit Captains but have the skill and intellect of Lesser Angels. They are armed with swords and Assassin Armor.
 
 ## Tips

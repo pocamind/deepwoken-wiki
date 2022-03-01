@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 23334
+revid: 23351
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Heavy is the burden of the Lightkeeper, for the whole world rests on their shoul
 
 ## Info
 
-_Lightkeeper Temple_ is a seemingly abandoned temple, occupied by many [Threshers](Thresher.md). It serves as a place for players to wash their face in order to open the gate at [Starswept Valley](The_Starswept_Valley.md) and access the fountain in [The Lordsgrove](The_Lordsgrove.md).
+_Lightkeeper Temple_ is a seemingly abandoned temple, occupied by many [Threshers](Thresher.md). (There are actually not that many I only saw 2 when I went there. Don’t delete this it’s true) It serves as a place for players to wash their face in order to open the gate at [Starswept Valley](The_Starswept_Valley.md) and access the fountain in [The Lordsgrove](The_Lordsgrove.md).
 
 ## Navigating
 
@@ -23,5 +23,5 @@ The temple is located behind Widow's Hollow. You may choose to go around, where 
 
 ## Notes
 
--   Before the stairs leading up to the fountain to wash your face at is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md) (no apparent use). Washing your face will cause the Hive Gate to be opened on your client, allowing you to enter [Lordsgrove](The_Lordsgrove.md), and use the fast travel point to [Greathive Aratel](Greathive_Aratel.md), if you have an oath.
+-   Before the stairs leading up to the fountain to wash your face at is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md) (no apparent use). Washing your face will cause the Hive Gate to be opened on your client, allowing you to enter [Lordsgrove](The_Lordsgrove.md), and use the fast travel point to [Greathive Aratel](Greathive_Aratel.md), if you have an oath. There are rumors that you can stop ageing as a 1/3 chance, but it is most likely false.
 -   In the dungeon section of the temple, there is an extra jail cell on the right side covered by an indestructible false wall.

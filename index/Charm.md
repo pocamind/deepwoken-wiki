@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 17692
+revid: 23348
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,11 +53,13 @@ Command: Sacrifice - Damage your servant to heal yourself
 
 Command: Live - Can be only used once per hour. Revives and fully heals the subject. ( \[ Subject's First Name\] Live )
 
+  
+
 ## Notes
 
 Vow of Mastery is obtainable at 20 Charisma.
 
-You start with three commands when you obtain [Vow of Mastery,](Vow_of_Mastery.md) Say, Sleep, and Drop.
+You start with three commands when you obtain [Vow of Mastery,](Vow_of_Mastery.md) Say, Sleep, Drop and Eat.
 
 Sing has a fairly large hitbox.
 

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 23312
+revid: 23340
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -105,6 +105,8 @@ Template:Areainfobox
 -   The Lord Regent can be found here.
 
 #### The Den
+
+-   sada
 
 -   Den Master can be found here.
 

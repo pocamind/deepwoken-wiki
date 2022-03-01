@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 23200
+revid: 23341
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -27,6 +27,10 @@ categories: [Weapons, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Fort Merit and Depth Chests. 5% from Fort Merit and Depth chances are unknown |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
+
+### _Where’s the trigger? WHERE’S THE TRIGGER!?? Oh, here it is-_
+
+Quote of a level 40 Etrean right before he was murdered by a Sharko because it took him too long to figure out where the trigger was
 
 ## Description
 
