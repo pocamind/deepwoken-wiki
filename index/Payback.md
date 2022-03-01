@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 22336
+revid: 23406
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## _**"Sate sate sate..."**_
 
-**Full Counter** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Payback** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### Look Like
 
@@ -23,15 +23,15 @@ When used, a green circle appears around the user and shrinks until the Resonanc
 
 ## How to Use
 
-Pressing C will activate the **Full Counter** Resonance.
+Pressing C will activate the **Payback** Resonance.
 
-**Full Counter** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
+**Payback** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
 
 One of the best combat bells because it's mostly used while getting combo iframes and free dmg
 
 ### Family Tree
 
-**Full Counter** has three different versions and a unique Tarnished effect.
+**Payback** has three different versions and a unique Tarnished effect.
 
 #### _Versions_
 
@@ -41,7 +41,7 @@ One of the best combat bells because it's mostly used while getting combo iframe
 
 #### _Tarnished_
 
-If the owner of this Resonance is Tarnished, **Full Counter** will be given a two second start-up. During this time, **Full Counter** can be easily interrupted.
+If the owner of this Resonance is Tarnished, **Payback** will be given a two second start-up. During this time, **Full Counter** can be easily interrupted.
 
 ## Trivia/Notes
 

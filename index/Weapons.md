@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 23327
+revid: 23370
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -93,8 +93,8 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
-  <td>25 LHT</td>
-  <td>13.5</td>
+  <td>23 LHT</td>
+  <td>15</td>
   <td>N/A</td>
   <td>LHT: 8</td>
   <td>4</td>
@@ -322,7 +322,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
 </tr>
 <tr>
   <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>
-  <td>60 LHT</td>
+  <td>40 LHT</td>
   <td>13</td>
   <td>N/A</td>
   <td>LHT: 6</td>
@@ -1042,13 +1042,13 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>
-  <td>45 FTD</td>
-  <td>2.00</td>
+  <td>42 FTD</td>
+  <td>2.05</td>
 </tr>
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
-  <td>60 FTD</td>
-  <td>4</td>
+  <td>65 FTD</td>
+  <td>5</td>
 </tr>
 </tbody>
 </table>

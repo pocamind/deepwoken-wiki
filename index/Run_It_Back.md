@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 21793
+revid: 23374
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,9 +33,11 @@ Pressing C will activate the **Run It Back** Resonance.
 
 #### _Attunements_
 
--   Players attuned to [Flamecharm](Flamecharm.md) will burn players nearby on use.
--   Players attuned to [Thundercall](Thundercall.md) will shock players nearby on use.
--   Players attuned to [Shadowcast](Shadowcast.md) will experience a much shorter ability, ending prematurely when too much damage has been taken, however this has an extremely low cooldown ranging from 15-20 seconds.
+Run it Back has randomized attunements upon obtaining the bell.
+
+-   The [Flamecharm](Flamecharm.md) variant will burn players nearby on use.
+-   The [Thundercall](Thundercall.md) variant shock players nearby on use.
+-   The [Shadowcast](Shadowcast.md) variant will experience a much shorter ability, ending prematurely when too much damage has been taken, however this has an extremely low cooldown ranging from 15-20 seconds.
 
 #### _Corrupted_
 

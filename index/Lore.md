@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23188
+revid: 23405
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -244,10 +244,8 @@ Amara, a Member of The Legion.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
 -   Allying with the Summer Company is possible (friendly dialogue) by assisting them in large amounts in events.
--   Rather incompotent fighters, resulting in heavy loss of amunitions and personal from Ignition Union and Bandit raids
--   They supply the Authority with amunition, but stocks frequently run low due to the afformentioned raids
-    -   They request the Authority for aid though there has been little done on their part
--   They refuse to expand into the driftlands due to the war going on between Etrea and the Central Authority taking place in the area
+-   They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
+-   Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, theories still linger that Summer Company still has a business relationship with the Authority.
 
 A Summer Company Member.
 
@@ -313,7 +311,7 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Fort Merit, Central Luminant_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Divers (Mixed), The Summer Company (Business relations)_
+-   **Alliances:** _The Divers (Mixed), The Summer Company (Business relations?)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion__, Hive_
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope._
 
@@ -557,21 +555,21 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
 -   Frostdraw is not affiliated with water nor uses it; except it decreases the temperature of all things- to the point of freezing or crystalization.
 -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.
--   Frostdraw is one of the 4 attunements that appeared with the canticlysm  
+-   Frostdraw is one of the 3 Original Attunements in the Old World.  
     
 
 ### Thundercall
 
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
 -   Thundercall concentrates the energies of electricity.
--   Thundercall is one of the 4 attunements that appeared with the canticlysm
+-   Thundercall is one of the 3 Original Attunements in the Old World.
 
   
 
 ### Galebreathe
 
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
--   Galebreathe is one of the 4 attunements that appeared with the canticlysm
+-   Galebreathe was created during the events of the Canticlysm.
 
   
 

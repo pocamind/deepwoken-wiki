@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 23089
+revid: 23381
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -18,11 +18,11 @@ Template:NPC name**Yun'Shul, Keeper of Hearts** is an NPC found in the [Temple o
 
 Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths.
 
-A [Resonance](Resonance.md) is required to enter the temple and to talk to Yun'Shul. Attempting to interact with Yun'Shul without a Resonance will result in the player's demise, killing them instantly.
+A [Resonance](Resonance.md) is required to enter the temple and to talk to them. Attempting to interact with them without a Resonance will result in the player's instant demise.
 
 ## Function
 
-The player can interact with Yun'Shul to obtain a wish. Players can wish once per 10 power increment, which mean that players can wish again once they power up 10 times after they had made their wish.
+The player can interact with Yun'Shul to obtain a wish. Players can wish if they do not have the tarnish flaw. Making a whish will give you the tarnish flaw, which will also increases the startup and cooldown of your Resonance.
 
 Four wishes are available when interacting with Yun'Shul:
 
@@ -31,6 +31,11 @@ Four wishes are available when interacting with Yun'Shul:
 2.  **My Flaws weigh me down too much, I wish for relief.**
     1.  Rerolls one of your [flaws](Boons_and_Flaws.md). Can grant the Vacant flaw.
 3.  **The powers I have been granted displease me, I wish for new.**
-    1.  Reroll your [Resonance](Resonance.md) at the cost of receiving the Tarnished [flaw](Boons_and_Flaws.md), which increases the startup and cooldown of your Resonance.
+    1.  Reroll your [Resonance](Resonance.md),
 4.  **The Vows I made give me much regret, I wish to break.**
-    1.  Removes any [Oath](Oaths.md) the player currently has.
+    1.  Removes any [Oath](Oaths.md) the player currently has.  
+        
+
+## Trivia
+
+-   Yun'Shul is referred to by the developers by the singular "they" and "them".

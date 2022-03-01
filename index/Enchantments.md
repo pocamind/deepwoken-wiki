@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23338
+revid: 23369
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -170,8 +170,9 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 25% of damage dealt.<br>
-  This enchantment is particulary potent in PVE due to PVE damage scaling.</p></div></td>
+  <td><div><p>Heal for 25% of damage dealt. (This is only true for PVE)<br>
+  This enchantment is particulary potent in PVE due to PVE damage scaling.<br>
+  This enchantment is really weak in PvP as it only heals around for around 7% of the damage you deal.</p></div></td>
 </tr>
 </tbody>
 </table>

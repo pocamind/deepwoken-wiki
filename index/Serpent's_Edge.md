@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 23204
+revid: 23385
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -16,7 +16,6 @@ categories: [Weapons, Weaponry, Items]
 | scaling | 6 |
 | range | 8.5 |
 | swing speed | 0.75x |
-| penetration | ??? |
 | selling price | ??? |
 | weight | 6 |
 | bankable | Yes |
@@ -34,3 +33,4 @@ The Serpent's Edge is a late midgame/endgame Medium Weapon. It can be somewhat r
 
 -   At max Medium Weapons, the Serpent's Edge is better than a Shattered Katana in terms of damage, but unlike the Shattered Katana the Serpent's Edge does not have any penetration. (PEN)
 -   This is likely a refence to the [nichirin](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) of the character [Obanai Iguro](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) in the series Demon Slayer
+-   Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. Propels the user forward with every slash, making it difficult to land all three slashes.

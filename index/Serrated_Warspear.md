@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 23207
+revid: 23358
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -27,4 +27,4 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-The Forgotten Gladius is a midgame to endgame weapon obtained from [The Duke](Duke_Ishamon_Erisia.md). The Serrated Warspear does not appear in chests after killing The Duke, instead it is directly dropped by him.
+The Serrated Warspear is a midgame to endgame weapon obtained from [The Duke](Duke_Ishamon_Erisia.md). The Serrated Warspear does not appear in chests after killing The Duke, instead it is directly dropped by him.

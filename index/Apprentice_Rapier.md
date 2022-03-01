@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 22462
+revid: 23400
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Apprentice Rapier | |
 |---|---|
 | type | Rapier |
-| requirements | 60 LHT |
+| requirements | 40 LHT |
 | damage | 13 |
 | scaling | 6 |
 | range | 8 |
@@ -32,10 +32,11 @@ categories: [Weapons, Weaponry]
 
 The Apprentice rapier is a unique light weapon due to being the only rapier in the game as of now, but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Starswept valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
 
-## Trivia
+## Notes & Trivia
 
--   Despite being a light weapon, the Rapier is considered a medium weapon in the real world, as it is pretty heavy.
+-   Despite being a light weapon, the Rapier is considered a medium weapon in the real world, as it resembles a sword.
 -   When using this weapon your right hand is hidden, so you can equip a [Gun](https://deepwoken.fandom.com/wiki/Guns) on an unsuspecting foe.
 -   As proven by many people in the comments, this weapon is not season locked but may simply be a rare/uncommon drop in [Starswept Valley](The_Starswept_Valley.md).
 -   This was accidentally added to the game and obtainable in the depths before it was released for a short time, but they deleted it from everyone before it's actual release.
--   Despite it's weak damage when paired with [Knives Journey](https://deepwoken.fandom.com/wiki/Talents#Critical_Specialist) talent it could pack a punch.
+-   Despite it's weak damage, when paired with the [Knives Journey](https://deepwoken.fandom.com/wiki/Talents#Critical_Specialist) talent, it could pack a punch.
+-   The Apprentice Rapier previously required 60 points in light weapons to be wielded.

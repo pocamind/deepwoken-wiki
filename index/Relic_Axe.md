@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 22449
+revid: 23390
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -16,7 +16,8 @@ categories: [Weapons, Weaponry]
 | scaling | 9 HVY |
 | range | 8.5 |
 | swing speed | .54x |
-| penetration | 8% chip damage |
+| penetration | 10% |
+| chip damage | 8% |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |

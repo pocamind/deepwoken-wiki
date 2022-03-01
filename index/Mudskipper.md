@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 23353
+revid: 23399
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 
 ## Moves
 
--   **Scratch -** Scratches you, dealing low damage, it does this fast enough to stun-lock you, so you must parry this to escape / fight back
+-   **Scratch -** Scratches you, dealing low damage, it does this fast enough to almost stun-lock you, so you must parry this to escape / fight back.
 
 -   **Jugular Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their nail.
 
@@ -40,11 +40,10 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 -   Attempting to kill a Mudskipper after they pop up has a probability of spawning in at least 1 or more Mudskippers after you. Potentially creating a Horde.
 -   Very good for grinding when first starting, due to their low hp and low damage output.
 -   If you aren't fighting many Mudskippers, use M1s to knock them.
--   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using secondary abilities (if they have any)
+-   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using secondary abilities. (if they have any)
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck.
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shuriken's, Fire Palm, Air Blast, or Guns.
--   Mudskippers have a slight resemblance to the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us.
--   Since someone asked here's how to use mantras against them: spam
--   Despite not showing any degree of sapience, they still use dialogue used by most npcs when idle with others
-    -   This is a dialogue bug but has been supposedly patched, despite Mudskippers still engaging in conversations
+-   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us.
+-   Despite not showing any degree of sapience, they still use dialogue used by most npcs when idle with others.
+    -   This is a dialogue bug but has been supposedly patched, however Mudskippers will still engage in conversations.

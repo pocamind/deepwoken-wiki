@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 23352
+revid: 23357
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -32,7 +32,7 @@ able?
 | **Wind Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on. | ◯ | (★★☆) |
 | **Counter** | The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflect back to the attacker- dealing significant damage. He laughs afterward when something strikes his counter. | ✗ | (★☆☆) |
 | **Wind Stomp** | The Duke kicks the ground, shooting a wave of wind up from the ground towards his target. **This move will auto-grip if it hits you while knocked or at low health.** | ✗ | (★★★) |
-| **Wind Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down and hitting everyone in the room. **Extremely lethal. Does over 250 damage if not avoided.** | ◯ | (★★★) |
+| **Wind Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down and hitting everyone in the room. | ◯ | (★★★) |
 | **Fist Combat: Legion Kata** | The Duke wields Iron Cestus and will fight using Martial Arts of the Legion. | ◯ | (★☆☆) |
 | **Slave Summon** | The Duke snaps his fingers, summoning 3 slaves from the pods around the boss room. | N/A | (★☆☆) |
 

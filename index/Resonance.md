@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 23152
+revid: 23395
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonance, Character]
+categories: [Pages with broken file links, Resonance, Character]
 ---
 
 # Resonance
@@ -38,6 +38,8 @@ Resonances are obtained by maxing an invisible stat known as Progress. The amoun
 
 The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the [Chime of Conflict](Chime_of_Conflict.md), as there is no risk to your progress as long as you do not gamble your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
 
+Once you have max Progress, you must go to the Depths and get knocked, and if you have your Resonance ready, you will be healed to full and you will now be able to use your Resonance.
+
 Once obtained, using C will activate your Resonance.
 
 ## Re-rolling
@@ -46,11 +48,21 @@ Players are given the option to re-roll their Resonance once if they desire.
 
 Around [The Depths](The_Depths.md), Resonance doors can be found. These doors require Resonances to open, and within their room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which being the ability to reroll your Resonance for a random one.
 
-Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance.
+Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance and makes it so you cannot make a wish again.
 
 ### _Tarnished Resonances_
 
 **Tarnished Resonances** are Resonances that have unique effects if the user has been afflicted with the [Flaw](Boons_and_Flaws.md) _Tarnished,_ which acts like a reversal of Corrupted Resonances, making the ability weaker by inflicting it with a longer cooldown and startup- but also having a unique negative effect depending on the specific Resonance, which, like Corrupted Resonance's unique buffs, will be listed on their specific page. Tarnished Resonances can overlap with Corrupted Resonances, and be any Resonance Version, with the effects stacking with each other.
+
+### Removing Tarnished
+
+File:Tarnish removal.png
+
+Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
+
+To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (The Chime of Conflict guy) 1000 notes.  
+
+  
 
 ## Notes/Trivia
 
