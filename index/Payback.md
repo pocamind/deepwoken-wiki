@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 23406
+revid: 23412
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 ## _**"Sate sate sate..."**_
 
-**Payback** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Payback,** also known as Full Counter, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### Look Like
 
@@ -23,15 +23,15 @@ When used, a green circle appears around the user and shrinks until the Resonanc
 
 ## How to Use
 
-Pressing C will activate the **Payback** Resonance.
+Pressing C will activate the **Full Counter** Resonance.
 
-**Payback** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
+**Full Counter** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
 
-One of the best combat bells because it's mostly used while getting combo iframes and free dmg
+One of the best combat bells because it's mostly used while getting combo I-frames and free damage.
 
 ### Family Tree
 
-**Payback** has three different versions and a unique Tarnished effect.
+**Full Counter** has three different versions and a unique Tarnished effect.
 
 #### _Versions_
 
@@ -41,11 +41,12 @@ One of the best combat bells because it's mostly used while getting combo iframe
 
 #### _Tarnished_
 
-If the owner of this Resonance is Tarnished, **Payback** will be given a two second start-up. During this time, **Full Counter** can be easily interrupted.
+If the owner of this Resonance is Tarnished, **Full Counter** will be given a two second start-up. During this time, **Full Counter** can be easily interrupted.
 
 ## Trivia/Notes
 
--   The 2nd and 3rd variations can be either parried, blocked or dodged while the 1st one can not.
+-   The 2nd and 3rd variations can be either blocked, parried or dodged while the 1st one can not.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Credit to N1R#3083 for helping me research corrupted part
 -   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime 'Seven Deadly Sins.'
+-   real name is pay it back

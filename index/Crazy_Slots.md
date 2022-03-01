@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 22354
+revid: 23414
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -95,10 +95,13 @@ Base damage values for Corrupted weapons are estimates._1_
 
 ## Trivia/Notes
 
--   This Resonance has the potential to be very powerful. For example, a non-corrupted version of the Divine Spear with a user possessing 100 MED will do an estimated 70~ points of damage per hit. (Not heavily tested.)
+-   This Resonance has the potential to be very powerful. For example, a non-corrupted version of the Divine Spear with a user possessing 100 MED will do 50 points of damage per hit. As the corrupted bell version doubles that, a corrupted Divine Spear user with 100 med will do an estimated 100 points of scaled damage if the opponent is not using any armor. This can be further buffed by food buffs and talents like the [Flamecharm](Flamecharm.md) talent "Flame Within" that increases damage and movement speed while set on fire.
+
 -   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use their powerful abilities, as well as possessing quite high base stats to begin with.
 -   In the community, this Resonance is often considered hit or miss. Because the weapons scale with the user's weapon attributes, there is potential for them to be very strong if they match your preferred weapon type but may be weaker than some late-game weapons otherwise.
+
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, it has been seen that a storm weapon glows blue.)
+
 -   If your weapon has stars, their effect will also apply to your Crazy Slots weapons.
 -   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
 -   The Divine Spear model highly resembles the "_Primordial Jade Winged-Spear_" from _Genshin impact_.

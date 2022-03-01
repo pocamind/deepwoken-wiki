@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 19838
+revid: 23410
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,4 +40,4 @@ Used for crafting certain armor, comes in a green color. Found in the Reservoir 
 ## Trivia
 
 -   While every ore has its own color, they become black when held as an item, with the only exception being the rock.
--   Rocks can be thrown, it's distance can be upgradable by the Pitcher talent.
+-   Rocks can be thrown, it's distance can be upgraded by the Pitcher talent.
