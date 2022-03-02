@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 23259
+revid: 23540
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 _"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White Cloak_
 
-_"Mid-breathe" -Me_
+_"Walk with the wind, stranger" - Stratos_
 
   
 
@@ -51,8 +51,9 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
  |
 |  | Air Force | Shoots out a air blast | Shoots out air from your hands in the direction of your mouse and staggers target.
 
--   Deals VERY light damage.
+-   Deals high damage.
 -   Knocks opponents back and stuns them.
+-   Deals immense posture damage.
 -   Put on a reversal spark to make it pull in instead of push
 
  |

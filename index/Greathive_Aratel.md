@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 23333
+revid: 23532
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -123,4 +123,3 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
 -   You can wash your face at fountains to enter in starswept valley, however you need an oath and must run past the spider queen and 4 threshers (must fight 2) to wash your face then do the same on your way back to the green gate, (I think i will test shortly)
--   In order to actually make a boat, you need max reputation at Hive.

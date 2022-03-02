@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 22160
+revid: 23528
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,7 +43,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 -   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears), [Hemafrost](Training_Gear.md#attunement-training-gears), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears), [Gale Kata](Training_Gear.md#attunement-training-gears) and a [Pure Heart](Training_Gear.md#attunement-training-gears) here for.
 -   Players can also purchase two schematics here:
     -   [Wandering Swordsman](Vigil_Initiate.md) for.
-    -   Placeholder for schematic outside building.
+    -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for 40.
 
 #### Bank & Antiquarian
 

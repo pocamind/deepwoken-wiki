@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 23202
+revid: 23564
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -90,8 +90,8 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-7 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 8-19 | [Mudskipper Knight](Mudskipper.md) (not guaranteed) |
+| 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
+| 10-19 | [Mudskipper Knight](Mudskipper.md) (not guaranteed) |
 | 20 - 29 | [Angels](Hollow_Angel.md) (Lesser) |
 | 30-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
@@ -99,6 +99,7 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 -   If 4 or more players attempt to escape, they may be prompted to "thin their numbers." This means forcing players to slaughter each other until only 3 remain, only then will the Trial begin.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
+-   Potentially there are more factors involved in the monster you will fight since I have escaped out of the depths twice at level 12 for free.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.  
         

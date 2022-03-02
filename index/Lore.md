@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23524
+revid: 23566
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -551,35 +551,37 @@ _"The stars call you back..."_
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
+    -   Though by the looks of Flamecharm, the actual way to produce flames out of the Song is through combustion.
 -   Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
 -   Flamecharm does not create fire; instead, creates combustions.  
     
 
 ### Frostdraw
 
+-   Frostdraw freezes the surrounding air and molecules around it; creating ice.
+    -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization.
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
--   Frostdraw is not affiliated with water nor uses it; except it decreases the temperature of all things- to the point of freezing or crystalization.
 -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
     
 
 ### Thundercall
 
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
--   Thundercall concentrates the energies of electricity.
+    -   Thundercall concentrates the energies of electricity.
 
   
 
 ### Galebreathe
 
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
+    -   Galebreathe was created during the Canticlysm; a catastrophic event that lead to the downfall of the New World.
 
   
 
 ### Shadowcast
 
 -   The power to harness the darkness within. The Ministry are known to use this Attunement, as well as Lord Regent.
--   Has a connection to the depths (Obtainment, Ministry/Regent want to sink islands into the depths.)
-    -   This means that it likely appeared after the Depths was created or after the great drowning.
+    -   Shadowcast was created sometime after the events of the Canticlysm, presumably during the Great Drowning of Celtor.
 
   
 
@@ -712,7 +714,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
     -   It is unknown how many layers are there.
-        -   Threatening to 'send \[someone\] to the 3rd layer' appears to be a common threat used by those of the overworld
+        -   Thanks to some of the Dialogue, such as the Adret in Summer Isle, there is possibly more than 3 Layers of The Depths.
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
 

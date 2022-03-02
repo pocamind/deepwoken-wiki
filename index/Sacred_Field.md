@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 23509
+revid: 23559
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,12 +39,12 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 #### _Versions_
 
--   **Version 1** grant 66-75% damage reduction against **Physical Attacks**
--   **Version 2** grant 66-75% damage reduction against **Elemental Attacks**
--   **Version 3** grant 50(?)% damage reduction against **all damage type**
+-   **Version 1** grant 75% damage reduction against **Physical Attacks** and 50% damage reduction against **Elementals attacks**
+-   **Version 2** grant 75% damage reduction against **Elemental Attacks** and 50% damage reduction against **Physical Attacks**
 -   **Size + Duration** are another factor, that can change all versions:
     -   **The Smaller Variant last longer**
     -   **The Larger Variant is shorter**
+-   **Color** of the field is another factor but seems to be cosmetic.
 
 #### _Corrupted_
 

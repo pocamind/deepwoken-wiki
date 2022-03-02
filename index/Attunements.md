@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 23094
+revid: 23570
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -31,7 +31,7 @@ It is worth noting that Mantras can have rarities individual of their stars and 
 ## Trivia/Notes
 
 -   Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
--   You can obtain all 5 attunements, the problem is, if you have 2 attunements, the trainers for attunements will ignore you. But, if you get the blood potion for all attunements before using one -Sparkblood, Glassblood, Hearthblood and Skyblood- at the same time and use them one after another, you can obtain all attunements.
+-   When you speak to a spelltrainer after learning an attunement from another master, you cannot take the quest to give them the five attunement items required for their respective leemnt. You can obtain all 5 attunements on a single slot, however, if you get the blood potions for all attunements before using any of them-Sparkblood, Glassblood, Hearthblood and Skyblood- at the same time and use them one after another.
     -   **~May not work anymore, needs more testing~** Works as of 2/24/2022.
 -   When unlocking an attunement after drinking a blood potion, the attunement will be permanently select-able from the starting menu after you unlock it.
     -   You can unlock all attunements to be select-able from the menu.

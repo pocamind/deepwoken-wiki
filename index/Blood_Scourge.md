@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 23517
+revid: 23542
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -21,17 +21,17 @@ categories: [Resonance]
 
 ## Description
 
-**Blood Scourge**, also known as Reaper, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
+**Blood Scourge**, also referred to as **Reaper,** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
 
 ### _Appearance_
 
-When used, a red circle around 10(?) studs (im a nerd trust) large appears around the user or effect and grips anyone within the radius. Heals the user to full when someone is gripped, regardless of what or who they are, meaning you can reaper bell a freshie or a mudskipper with extremely low health and you will be full. (50% of the time are accidental grips)
+When used, a red circle around 10 studs large appears around the user or effect and grips anyone within the radius. This heals the user to full when someone is gripped, regardless of what or who they are, meaning you can reaper bell a freshie or a mudskipper with extremely low health and you will be full. (50% of the time are accidental grips)
 
 ## Usage
 
 Pressing C will activate the **Blood Scourge** Resonance.
 
-**Blood Scourge** will quickly execute any knocked entity within it's range and heal the user. It has a cooldown of twenty seconds.
+**Blood Scourge** will quickly execute any knocked entity within it's range and heal the user. It has a cooldown of about fifteen seconds.
 
 ### _Variants_
 

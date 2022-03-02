@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23525
+revid: 23563
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -55,7 +55,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
-    -   Synergises well with Aerial attack talents.
+    -   Synergises well with Aerial attack Talents.
 
 ### Aeromancy
 
@@ -68,7 +68,7 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Alchemist
 
-These talents are designed to make your potions making and usage more efficient.
+These Talents are designed to make your potions making and usage more efficient.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
@@ -79,7 +79,7 @@ These talents are designed to make your potions making and usage more efficient.
 
 ### Alley Cat
 
-These talents are meant to provide an increase to your speed or improve it in various situations.
+These Talents are meant to provide an increase to your speed or improve it in various situations.
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
@@ -102,7 +102,7 @@ These talents are meant to provide an increase to your speed or improve it in va
 
 ### Angler
 
-These talents are designed to improve fishing.
+These Talents are designed to improve fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
@@ -149,7 +149,7 @@ These talents are designed to improve fishing.
 
 ### Bastion
 
-These talents are designed to make you more akin to a Tank.
+These Talents are designed to make you more akin to a Tank.
 
 -   Moving Fortress \[Generic Talent, Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
 -   Heavy Haul \[Generic Talent, Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
@@ -178,7 +178,7 @@ These talents are designed to make you more akin to a Tank.
 
 ### Butterfly
 
-These talents are designed to improve and/or reward your ability to roll out of danger.
+These Talents are designed to improve and/or reward your ability to roll out of danger.
 
 -   Swift Rebound \[Generic Talent, Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
 -   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility) (This requires at least 20 agility, could be less, but that's what I had when I got it)
@@ -221,7 +221,7 @@ These talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
     -   Prerequisite: Reinforce
-    -   Contrary to popular belief, Shadowcasting is not required for this talent.
+    -   Contrary to popular belief, Shadowcasting is not required for this Talent.
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
     -   Prerequisite: Reinforce
 
@@ -237,7 +237,7 @@ These talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cutthroat
 
-These talents are mainly aimed at making assassination much more potent, especially in PVP.
+These Talents are mainly aimed at making assassination much more potent, especially in PVP.
 
 -   Assassin \[Generic Talent, Common Talent, Light\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
 -   Hidden Blade \[Generic Talent, Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
@@ -266,7 +266,7 @@ These talents are mainly aimed at making assassination much more potent, especia
 
 ### Duelist
 
-These talents are meant to improve your overall combat effectiveness.
+These Talents are meant to improve your overall combat effectiveness.
 
 -   Concussive Force \[Generic Talent, Common Talent\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
 -   Concussion \[Generic Talent, Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
@@ -298,7 +298,7 @@ These talents are meant to improve your overall combat effectiveness.
 
 ### Ether Adept
 
--   Nullifying Clarity \[Generic talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
+-   Nullifying Clarity \[Generic Talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent, Intelligence\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
 -   Charged Return \[Common Talent, Intellegence\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
@@ -385,7 +385,7 @@ These talents are meant to improve your overall combat effectiveness.
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
-    -   Prerequisites: Have modified at least 1 mantra.
+    -   Prerequisites: Have modified at least 1 mantra. (I got Neuroplasticity without modifying a mantra, twice)
 
 ### Glassdancer
 
@@ -400,7 +400,7 @@ These talents are meant to improve your overall combat effectiveness.
 
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
--   True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
+-   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Adds attunement scaling to your guns.
     -   Guns will now apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreath will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
@@ -465,11 +465,12 @@ These talents are meant to improve your overall combat effectiveness.
 
 ### Limitbreaker
 
-Most of these talents are designed to benefit you when the situation is dire.
+Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
+    -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
@@ -483,7 +484,7 @@ Most of these talents are designed to benefit you when the situation is dire.
 
 ### Marauder
 
-Most of these talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
+Most of these Talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
 
 -   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
 -   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
@@ -500,7 +501,7 @@ Most of these talents are meant to let you stay on the field longer and improve 
 
 Prerequisite: Willpower 5~
 
-These talents are meant to help you fight the ill effects of Insanity and to resist against it for longer.
+These Talents are meant to help you fight the ill effects of Insanity and to resist against it for longer.
 
 -   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
@@ -515,7 +516,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Adept \[Generic Talent, Legendary Talent\] - Taking this talent will make it easier to progress.
+-   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
     -   +50% EXP gain for every attributes and Power.
 
 ### **Mr Charm**
@@ -572,14 +573,14 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Prospector
 
-These talents are meant to make foraging and mining grant more ressource.
+These Talents are meant to make foraging and mining grant more ressource.
 
 -   Excavator \[Generic Talent, Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
 -   Harvester \[Generic Talent, Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
 
 ### Raging Bull
 
-These talents are meant to be used in an aggresive playstyle.
+These Talents are meant to be used in an aggresive playstyle.
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
@@ -624,7 +625,7 @@ Prerequisite: Charisma
 
 -   Friends in High Places \[Generic Talent, Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
 -   Salesperson \[Generic Talent, Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
--   Snake Oil \[Generic Talent, Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you. (+2 Ether. +1 Health.)Makes everything sell for 1.5x more.
+-   Snake Oil \[Generic Talent, Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)Makes everything sell for 1.5x more.
 -   Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)
     -   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
 
@@ -663,7 +664,7 @@ Prerequisite: Charisma
 
 ### Shipwright
 
-These talent are meant to make maintaining your ship easier.
+These Talent are meant to make maintaining your ship easier.
 
 -   Spare Nails \[Generic Talent, Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
 -   Emergency Repairs \[Generic Talent, Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
@@ -689,7 +690,7 @@ These talent are meant to make maintaining your ship easier.
 
 ### Survival Instinct
 
-These talents are designed to let you survive against starvation and thirst by living of mother nature.
+These Talents are designed to let you survive against starvation and thirst by living of mother nature.
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
@@ -718,7 +719,7 @@ These talents are designed to let you survive against starvation and thirst by l
 
 ### Thief
 
-These talents are meant to reap the reward of your latest hunt.
+These Talents are meant to reap the reward of your latest hunt.
 
 -   Pickpocket \[Generic Talent, Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
     -   Prerequisite: 10 Charisma
@@ -728,7 +729,7 @@ These talents are meant to reap the reward of your latest hunt.
 
 ### Thunder Brawler
 
--   Discharge \[Generic talent, Common Talent, Thundercall Exclusive, \] - \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load, +2 Elemental Intensity, +3 Health)
+-   Discharge \[Generic Talent, Common Talent, Thundercall Exclusive, \] - \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load, +2 Elemental Intensity, +3 Health)
 
 ### Thunder Caster
 
@@ -800,7 +801,7 @@ These talents are meant to reap the reward of your latest hunt.
 
 ### **Waterborne**
 
-These talents are designed to make you more effective in water.
+These Talents are designed to make you more effective in water.
 
 -   Conditioned Swimmer \[Generic Talent, Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
 -   Scuba Drowner \[Generic Talent, Rare Talent\] - You may not drown to death when drowned in waters. (+1 Passive Agility)
@@ -838,7 +839,7 @@ These talents are designed to make you more effective in water.
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
 -   Ready or Not \[Common Talent\] - The first Mantra you get struck by while out of combat deals half of its damage. (+3 Health)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (8 Cards total, 2 choices)
--   Legendary Echo \[Appears when a Legendary talent is Drawn\] - Receive a random Legendary Talent.
+-   Legendary Echo \[Appears when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
@@ -850,7 +851,7 @@ These talents are designed to make you more effective in water.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
 -   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
-    -   While the Blindseer Oath grant full vision even with a blindfold, the talent still works.
+    -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   Also grants immunity to the Blinding Flame mantra.
 
 ## Whispers
@@ -1068,7 +1069,7 @@ Concussion \[Generic Talent, Rare Talent\] - Enemies you flourish into walls hav
 Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)  
 Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)  
 Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)  
-Potion Quaffer \[Rare talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drink potions faster.  
+Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drink potions faster.  
 The Final Act \[Generic (?) Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)  
 Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.  
 Gale Dash \[Generic Talent, Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)  
@@ -1096,11 +1097,11 @@ Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster th
 Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
 Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)  
 Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish  
-Exoskeleton \[Legendary talent, 20 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
+Exoskeleton \[Legendary Talent, 20 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
 Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)  
-True Ether Bullets \[Legendary talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)  
+True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)  
 Grand Skewer (Generic Talent, Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.  
 Piercing Will \[Generic Talent, Legendary Talent\] - When your sanity is at stake, ignore the armor resistances of your enemies. (+4 Ether)  
 Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)  
@@ -1120,10 +1121,10 @@ Adept \[Generic Talent, Legendary\] - Take this to progress faster
 -   The "Fold" Card can be used if you are not satisfied with your current hand of cards.
 -   The Card, "The Sound from Below" is almost always granted on your first or second power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
--   You can filter talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
+-   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
--   At Power 60, you will get a guaranteed legendary talent card.
+-   At Power 60, you will get a guaranteed legendary Talent card.
 
   
 Template:Navbox:Talents

@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 20497
+revid: 23534
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -27,6 +27,7 @@ This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemen
 This Outfit's Schematic can be found in:
 
 -   [The Depths](The_Depths.md)
+-   The Duke's Chest
 
 ## Trivia/Notes
 

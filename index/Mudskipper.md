@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 23399
+revid: 23537
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -47,3 +47,5 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 -   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us.
 -   Despite not showing any degree of sapience, they still use dialogue used by most npcs when idle with others.
     -   This is a dialogue bug but has been supposedly patched, however Mudskippers will still engage in conversations.
+-   Weirdly, the Mudskipper Knight does not grip. (This might be a one-time thing, or it happens with a trick)
+    -   The assumption is that although having lesser angel intellect, it still tries to grip you with its bare hands.

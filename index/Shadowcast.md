@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 23506
+revid: 23543
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Mantras]
 
 _"The ability to control the absence of mana or creation in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
 
-_"Guys.. please listen to me.. Shadowcast is good, i swear.. Guys..?" -Shadowcast Player_
+"Not all who tame the dark relent their integrity."
 
 ## Description
 
