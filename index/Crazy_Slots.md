@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 23460
+revid: 23504
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,7 +13,7 @@ categories: [Resonance]
 | effect | Pulls out a random weapon with a special ability. |
 | appearance | Summons a weapon from thin air into the user's hand. |
 
-“ Conjure an asernal of weapons ”
+“ Conjure an arsenal of weapons. ”
 
 ― Crazy Slots description
 
@@ -21,6 +21,7 @@ categories: [Resonance]
 
 ## Description
 
+  
 **Crazy Slots** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
 
 **Crazy Slots** does not have separate versions, but instead pulls out weapons from thin air that are unique to this Resonance.

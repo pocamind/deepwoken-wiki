@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 23413
+revid: 23526
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -41,9 +41,16 @@ Count as 2 flaws, cannot be taken with another flaw.
  | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Bell Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | 0 |
-| Vacant | "Something's missing." | Gained by Arch\_Mages spec, which can upgrade a mantra beyond level 5 in exchange for another mantra you possess and **your soul**. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>) | 0 |
-| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I dont even see a difference). That's it. Also, you can get it when you reroll your Oath at Yun'Shul. | 0 |
+| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | 0 |
+| Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
+
+-   Entering Castle Light
+-   Partaking in The Vow of Mastery, which means removing your vows and/or your vow owner.
+
+This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to trade your soul to upgrade one of your mantras beyond the max level. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
+
+ | 0 |
+| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I dont even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | 0 |
 
 ## Trivia/Notes
 
@@ -54,7 +61,6 @@ Count as 2 flaws, cannot be taken with another flaw.
     -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker.](Songseeker_Wilds.md)
     -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is the only flaw that essentially have no downside at power 60.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
-    -   Contrary to popular belief vegetarian is NOT a free boon as you will miss out on the best food in the game, as well as foods that buff your stats considerably (ESPECIALLY WHEN YOU COMBINE DIFFERENT FOODS). For those who want to be as powerful as possible, DO NOT take vegetarian.
 
 -   Some boons are more worth taking than others:
     -   Autodidact is useful to help level up certain stat quicker or level up stats that are annoying to do manually. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Also becomes useless once you reach power 60.

@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 23491
+revid: 23517
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -15,7 +15,7 @@ categories: [Resonance]
 
 “ Conjure a swirling mass of chaotic energy that will drain the life out of your foes. ”
 
-― Bkiid Scourge description
+― Blood Scourge description
 
   
 
@@ -45,6 +45,8 @@ Pressing C will activate the **Blood Scourge** Resonance.
 #### _Corrupted_
 
 If **Blood Scourge** is found to be corrupted, its area of effect becomes larger (possibly 2x larger).
+
+  
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23483
+revid: 23525
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -25,7 +25,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 -   A high enough [Core Attribute](Attributes.md), whether it be INT, CHR, or AGI.
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
-    -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "Galeforce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
+    -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "UWUce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
 -   Doing certain actions that may influence your rolls, such as [fishing](Fishing.md) and [alchemy](Alchemy.md).
     -   For example: Making a lot of potions will include the Potion Quaffer Talent in your roll pool now.
 -   A high enough Power.
@@ -524,7 +524,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Ministry Operative
 
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility)
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) (Prerequisites: 35 Agility, Risky Moves)
 
 ### [Murmur](Murmur.md)
 
@@ -543,7 +543,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
-    -   Prerequisites: A fist style.
+    -   Prerequisites: Way of Navae.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
     -   Prerequisites: Strength (15-20?)
 -   Heartbreaker \[Generic Talent, Common Talent\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)

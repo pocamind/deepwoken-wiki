@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23473
+revid: 23524
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -151,6 +151,7 @@ Yun'shul
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
 -   Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
+-   The Depths became the place souls went to after death after the great drowning, when the city of Celtor was sunk by the Celtorian Horror.
 
 ### Songseeker Wilds (Etrean Luminant)
 
@@ -541,42 +542,69 @@ _"The stars call you back..."_
 
 ## Attunement Lore
 
+### The Basic Attunements
+
+-   According to Arch\_Mage, all of the basic elements appeared with the Canticlysm, which can be assumed to include Flamecharm, Frostdraw, Thundercall, and Galebreathe, as these are the ones you start with.
+
 ### Flamecharm
 
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
--   Flamecharm does not create fire; instead, creates combustions.
--   Flamecharm is one of the 4 attunements that appeared with the canticlysm  
+-   Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
+-   Flamecharm does not create fire; instead, creates combustions.  
     
 
 ### Frostdraw
 
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
 -   Frostdraw is not affiliated with water nor uses it; except it decreases the temperature of all things- to the point of freezing or crystalization.
--   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.
--   Frostdraw is one of the 3 Original Attunements in the Old World.  
+-   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
     
 
 ### Thundercall
 
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
 -   Thundercall concentrates the energies of electricity.
--   Thundercall is one of the 3 Original Attunements in the Old World.
 
   
 
 ### Galebreathe
 
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
--   Galebreathe was created during the events of the Canticlysm.
 
   
 
 ### Shadowcast
 
--   The power to harness the darkness within. The Ministry are known to use this Attunement.
--   Shadowcast was presumably created later during the Canticlysm; when the Tides came.
+-   The power to harness the darkness within. The Ministry are known to use this Attunement, as well as Lord Regent.
+-   Has a connection to the depths (Obtainment, Ministry/Regent want to sink islands into the depths.)
+    -   This means that it likely appeared after the Depths was created or after the great drowning.
+
+  
+
+### Lightkeepers
+
+**Lore Sources:** _Nimea_
+
+-   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
+    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
+-   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend aw the first destined Lightkeeper in their Luminant for decades.
+    -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
+-   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
+-   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
+    -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
+
+### Lifeweavers
+
+**Lore Sources:** _Regek (Mentioned)_
+
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
+    -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
+-   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
+    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, eventually drown to the Tides, when the time comes.
+-   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 
   
 
@@ -648,6 +676,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
 -   The Song is assumed to be the formula of all things, such as Mantras, Ritual Casting and other things.
+-   All Attunements originate from the song
 
 ### The Canticlysm
 
@@ -658,7 +687,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Canticlysm, on its own terms, is a Catastrophe relevant to music.
 -   It is unknown what the Canticlysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
     -   It is theoretically assumed that the Canticlysm lead to the rising of Tides, drowning the City of Celtor.
--   The Canticlysm lead to the destruction to the people of the Old World; and the creation of Galebreathe.
+-   The Canticlysm lead to the destruction to the people of the Old World; and the creation of the basic Attunements
 
 ### The Tides
 
@@ -702,29 +731,6 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Up to the present in Year 1271, they still work together as The Hive.
 -   It could be theorized that their ancestors are a [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM); Ancient Vesperians who have horns on their masks.
     -   Based on Agamatsu, the Primal Vesperians lost their horns through Evolution.
-
-### Lightkeepers
-
-**Lore Sources:** _Nimea_
-
--   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
-    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
--   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
--   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend aw the first destined Lightkeeper in their Luminant for decades.
-    -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
--   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
-    -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
-
-### Lifeweavers
-
-**Lore Sources:** _Regek (Mentioned)_
-
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
--   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
-    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, eventually drown to the Tides, when the time comes.
--   It's unsure how much a Lifeweaver's life is precious to the world of Deepwoken, unlike Lightkeepers.
--   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 
 ### Kingdom of Etrea's Past Rulers
 

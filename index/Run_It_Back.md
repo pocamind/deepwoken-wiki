@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 23467
+revid: 23520
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -19,11 +19,12 @@ categories: [Resonance]
 
 ## Description
 
+  
 **Run It Back** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### _Appearance_
 
-When used, particles of flame appear below the user's feet.
+When used, particles of flame, lightning, or shadow appear below the user's feet.
 
 ## Usage
 

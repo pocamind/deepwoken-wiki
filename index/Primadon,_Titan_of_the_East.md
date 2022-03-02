@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 23442
+revid: 23515
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -48,10 +48,10 @@ _Lefts and rights for these attacks are based on Primadon's point of view._
 
 ### Passives
 
--   **Elemental Resistance** - Primadon is immune to any damage done by attunement mantras, and elemental damage is greatly reduced.
+-   **Elemental Resistance** - Primadon is almost completely immune (95% elemental reduction) to any damage done by attunement mantras, and elemental damage is greatly reduced.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[2\]](#cite-note-2), however.
     -   True Ether Bullet will make guns deal pitiful damage.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. (still needs more testing)
     -   If a player is knocked by something else than primadon, but is then executed by primadon, the victim will not be sent to [The Depths](The_Depths.md).
 
 ## Rewards
