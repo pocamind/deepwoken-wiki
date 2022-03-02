@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 23136
+revid: 23492
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
   <td></td>
   <td><b>Insignia Gem</b><p><i>'A sign of intelligence...'</i></p>
   <p><i></i></p></td>
-  <td>Removes the windup of the mantra you use after hitting the mantra with the gem on it</td>
+  <td>Reduces the windup to 25% of original cast speed of the mantra you use after hitting the mantra with the gem on it</td>
 </tr>
 <tr>
   <td></td>

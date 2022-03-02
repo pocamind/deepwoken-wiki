@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 23416
+revid: 23459
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,11 @@ categories: [Resonance]
 | effect | Grants yourself and allies incredible defense. |
 | appearance | Orange field that spreads around the user. |
 
-### _"Nanomachines, son."_
+“ Conjure a field of sacred light, protecting you and your allies from harm. ”
 
-© _**Senator Armstrong**_
+― Sacred Field description
+
+  
 
 ## Description
 
@@ -37,9 +39,12 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 #### _Versions_
 
--   **Version 1** will grant players inside 3 to 4x defense against _physical_ damage and halved elemental damage.
-    -   You can obtain 2 versions with Version 1. Most common variant of this is the longer lasting but shorter range/circle. The rarer version of this is the big range but lasts slightly less.
--   **Version 2** will grant players inside 3 to 4x defense against _elemental_ damage and halved damage from physical. This version also lasts longer.
+-   **Version 1** grant 66-75% damage reduction against **Physical Attacks**
+-   **Version 2** grant 66-75% damage reduction against **Elemental Attacks**
+-   **Version 3** grant 50(?)% damage reduction against **all damage type**
+-   **Size + Duration** are another factor, that can change all versions:
+    -   **The Smaller Variant last longer**
+    -   **The Larger Variant is shorter**
 
 #### _Corrupted_
 

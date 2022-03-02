@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23405
+revid: 23473
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -490,7 +490,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that indentified as a Vesperian.
 -   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
     -   According to Arch\_Mage, Vesperians grow their masks.
-        -   This would imply they are organic in some way
+        -   This would imply they are organic in some way, thus the masks are most likely chitin.
 
 ### Capra
 
@@ -748,9 +748,9 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Handheld Bells that allow the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
-    -   Their origin is unknown, but they are theorized to originate in [The Depths](The_Depths.md).
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded" and can be other instruments other than bells.
+    -   In the game, you can only obtain your Resonance Bell in The Depths. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 
 ## Deepwoken: 1271~
 

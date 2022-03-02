@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 22776
+revid: 23464
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -12,6 +12,14 @@ categories: [Resonance]
 |---|---|
 | effect | Collects souls, can be used as damage output against players. |
 | appearance | White beam that appears in front of the user. |
+
+\===
+
+“ Consume the souls of your enemies and unleash them in devastating attacks. ”
+
+― Jar of Souls description
+
+# \=
 
 ## Description
 

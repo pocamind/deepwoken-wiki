@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23444
+revid: 23494
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -32,6 +32,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 -   You cannot have more than 3 equipment enchants at once.
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Torso equipment from before 18/02/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
+-   Weapon enchants proc charm on M1 if you have charm talents.
 
 There are two variants that enchantments come in:
 

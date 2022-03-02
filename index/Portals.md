@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 23453
+revid: 23456
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -12,6 +12,12 @@ categories: [Resonance]
 |---|---|
 | effect | Become intangible with increased speed. |
 | appearance | Summon a white portal and become invisible. |
+
+“ Dive into a portal and emerge from a different point a few seconds later. ”
+
+― Portals description
+
+  
 
 ## Description
 

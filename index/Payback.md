@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 23451
+revid: 23470
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,7 +13,11 @@ categories: [Resonance]
 | effect | Reflects damage to opponents. |
 | appearance | Green circle that appears around user. |
 
-## _**"Sate sate sate..."**_
+“ Pay back your enemies for the damage they deal to you. ”
+
+― Payback description
+
+## **Description**
 
 **Payback,** also known as Full Counter, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 

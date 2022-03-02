@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23441
+revid: 23483
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -775,7 +775,7 @@ These talents are meant to reap the reward of your latest hunt.
     -   Effect: buff speed slightly and major power boost.
 -   Command: Sacrifice \[Generic Talent, 50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
 
--   Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health)
+-   Command: Return \[Generic Talent, 60 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health)
     -   Prerequisites: Vow of Mastery
 
 -   Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)
@@ -1096,7 +1096,7 @@ Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster th
 Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
 Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)  
 Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish  
-Exoskeleton \[Legendary talent, 20 Fortitude\] It always takes (18 for heavy, 21 for light and 20 for everything else) hits to kill you. Most attacks will deal 5% of your max hp (5.56% for heavy weapons, 4.76% for light weapons). Also receive 0.2s of reduced damage that ignore exoskeleton mechanic everytime you are hit.  
+Exoskeleton \[Legendary talent, 20 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
 Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)  

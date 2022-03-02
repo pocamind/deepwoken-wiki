@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 23401
+revid: 23478
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,10 +42,21 @@ Furthermore, if the player character has the "Tarnished" flaw, Yamaketzal can re
 -   _"Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh..."_
     -   Mentions the Wardens of the Authority. Mainly just talking about his drinking habits, though.
 
-**Yamaketzal has different dialogue depending on your win/lose ratio, please add his different dialogues below this line accordingly.**
+### Yamaketzal has different dialogue depending on your win/lose ratio, please add his different dialogues below this line accordingly.
 
 _"Hrmm... <number of battles won> tourneys won out of <total number of battles> fought..."_
 
 -   _"A cryin' shame..."_ (When W:L ratio is low)
 -   _"Respectable... at the very least."_ (When W:L ratio is mid)
 -   _"Not bad... Not bad at all."_ (When W:L ratio is high)
+
+### Yamaketzal's Dialogue When Approached with Tarnished Flaw
+
+-   _No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer..._
+    -   **1\. \[You can do that for me?\]**
+    -   2\. \[Who are you?\]
+    -   3\. \[What's my score at?\]
+-   _Aye... That I can... Fer a small fee of jus' 1,000 Notes..._
+    -   **1\. \[Alright, here you go.\]**
+    -   2\. \[Nope.\]
+-   _Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... **\*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.\***_
