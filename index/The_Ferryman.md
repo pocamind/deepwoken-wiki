@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 23585
+revid: 23663
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -58,7 +58,7 @@ able?
  | **i**/**ii** |
 | **Lightning Assault** | The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping. Becomes much faster and deals more damage in Phase 2. | ◯ | (★★☆)
 
-(★★☆)
+(★★★)
 
  | **i**/**ii** |
 | **Electromagnetic Pulse** | The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulse. He only uses this attack in Phase 2. | ◯ | (★☆☆) | **ii** |
@@ -119,7 +119,7 @@ As with most other boss fights in Deepwoken, success in fighting the Ferryman he
 
 Ferryman's Coat
 
--   **Luck** - During all seasons, you receive a random amount of luck \[+10.25%-15%\].
+-   **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+13%\]. Soloing this boss 10-15 times, along with slaying a few [Primadons,](Primadon,_Titan_of_the_East.md) will near guarantee a [Resonance (Bell)](Resonance.md), especially if your character has the talent cards _Adept_ or _Mark of the Lone Warrior._
 -   **Amethyst Pendant Earrings** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
@@ -146,7 +146,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   The Ferryman takes about 25 minutes to respawn.
-    -   Sometimes, he won't spawn even if the timer is off, and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires to solve the issue.
+    -   Sometimes, he won't spawn even if the timer is off, and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires, or log and join another server, to solve the issue.
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.

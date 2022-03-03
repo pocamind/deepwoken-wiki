@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 23592
+revid: 23671
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ _Warning, these are not guaranteed and there is no official known way to obtain 
 -   Wiping at an older age (28+)  
     
 
-## Animal King
+## Mute (Animal King)
 
 > _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." -Fallout 3 Animal Friend Description._ Animal king isn't really an accurate name since it's all depths related mobs (shadow magic humanoid npcs) but the name was popularized by LordSendo's video
 

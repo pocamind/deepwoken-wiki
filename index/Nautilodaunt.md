@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 23531
+revid: 23681
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,22 +8,25 @@ categories: [Boss]
 
 # Nautilodaunt
 
+#### _"Just parry bro"_
+
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 
 ## Description
 
 Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles.
 
-### Attacks
+### Attack Patterns
 
--   **Punch** - Punches you many times into kicks.
--   **Kick** - Kicks the opponent.
--   **Flip kick** - Front-flips into the air and kicks you from above, usually only does this after a flourish.
--   **Grand Stomp** - Stomps the ground to create a shockwave towards the opponent.
--   **Feint** - Feints an attack to throw you off.
--   **Dropkick -** Runs at the player, jumps and dropkicks them.
--   **Slide -** Whilst running if he gets close to you he'll slide into you
--   **Vent -** Emits out blue smoke-like particles that let him dodge magic attacks, based off an old Deepwoken mechanic of the same name
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★☆☆) |
+| **Kick** | Squibbo's punches randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, he may slide towards you and kick again. | ◯ | (★★☆) |
+| **Flip- Kick[Blunt](https://deepwoken.fandom.com/wiki/File:Blunt.png)** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
+| **Drop-Kick[Blunt](https://deepwoken.fandom.com/wiki/File:Blunt.png)** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
+| **Grand Stomp** | Squibbo pounds the ground aggressively with his feet, sending rubble hurling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. | ✗ | (★★★) |
+| **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | ✗ | (★★☆) |
+| **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. This used to be something old Deepwoken players could do, but it got removed before release. After Venting, he usually follows up with a kick. | N/A | (★☆☆) |
 
 ### Finisher
 
@@ -42,3 +45,4 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
 -   HEAVY WEAPON COMBAT TIP: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
+-   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game.

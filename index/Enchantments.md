@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23577
+revid: 23680
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -44,7 +44,7 @@ Since release, only weapons can have Cursed Enchantments. Equipment and Weapons 
 
 **Weapons:**
 
-Will have an effect upon hitting something. Please stop changing the curses effects on this page. Everything is already confirmed and tested many times. This goes especially to the people who really think that umbral knight is no longer a curse and that you dont need to grip people within 3 hours to survive or the people who think bloodthirsty only multiplies damage by 1.1x.
+Will have an effect upon hitting something. Can range from status effects to more damage, or unique effects.
 
 **Curses:**
 
@@ -83,7 +83,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>When above 40% HP you gain a 25% damage increase, if you go below 40% HP your overall damage is decreased.</p></div></td>
+  <td><div><p>When above 40% HP you gain a 25% damage increase, if you go below 40% HP, lose the damage bonus.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
@@ -111,7 +111,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Makes your m1s 10% faster. The hard visibility of the weapon can be used to your advantage, as the range will remain unknown to your opponent.</p></div></td>
+  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Weapon have +10% attack speed. The hard visibility of the weapon can be used to your advantage, as the range will be harder to judge.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
@@ -146,7 +146,8 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks deals 1.2x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).</p>
+  <td><div><p>Attacks deals 1.2x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).<br>
+  Damage are dealt over 5 seconds every 0.4 seconds (each damage tick apply 12.5% of the original damage)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -170,9 +171,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 25% of damage dealt. (This is only true for PVE)<br>
-  This enchantment is particulary potent in PVE due to PVE damage scaling.<br>
-  This enchantment is really weak in PvP as it only heals around for around 7% of the damage you deal.</p></div></td>
+  <td><div><p>Heal for 25%(PVE)/10%(PVP) of damage dealt.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -187,7 +186,8 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
-  <td><div><p>This enchant grant every other weapon enchant on the weapon. Each enchant procs are rolled individually, meaning multiple enchants can proc at once.</p></div></td>
+  <td><div><p>This enchant grant every other weapon enchant on the weapon. Each enchant procs are rolled individually, meaning multiple enchants can proc at once.<br>
+  Each enchant can also proc between themself, which can lead to large chains of enchant procs, essentially allowing the weapon to one shot practically most players.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
@@ -198,7 +198,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 
 **Armors:**
 
-Will have an effect upon getting hit.
+Will have an effect upon getting hit (beside Drowned). Can range from mere damage reduction, punishment to the attacker or other things that aid the user.
 
 | **Name** | **Description** |
 | --- | --- |
@@ -222,7 +222,7 @@ Allure
 
  | 
 
-Enemies that hit you are charmed for a short duration. - Without charisma/charm related perks, this enchantment is useless, however with even just “Tough Love” this enchantment is very strong.
+On proc, apply Charm on the enemy. This charm will use all your Charm talents.
 
  |
 | 
@@ -286,7 +286,7 @@ Viscosity
 
  | 
 
-Damage dealt to the user is reduced and dealt over time. Large amount of stored damage will execute. You will take damage every ~0.40 seconds for ~5 seconds. More damage you take, more damage will be dealt over time.
+Damage dealt to the user is reduced and dealt over time. Large amount of stored damage will execute. You will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage). More damage you take, more damage will be dealt over time.
 
   
 

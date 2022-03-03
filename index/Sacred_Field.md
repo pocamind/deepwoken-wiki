@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 23601
+revid: 23676
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,16 +35,17 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 ### _Variants_
 
-**Sacred Field** has two versions and a unique Corrupted effect.
+**Sacred Field** has multiple combination of variants and a unique Corrupted effect.
 
 #### _Versions_
 
--   **Version 1** grant 75% damage reduction against **Physical Attacks** and 50% damage reduction against **Elementals attacks**
--   **Version 2** grant 75% damage reduction against **Elemental Attacks** and 50% damage reduction against **Physical Attacks**
--   **Size + Duration** are another factor, that can change all versions:
-    -   **The Smaller Variant last longer**
-    -   **The Larger Variant is shorter**
--   **Color** of the field is another factor but seems to be cosmetic.
+Sacred field is unique in its variation system in that there are many paremeters that are randomly decided when obtaining the bell, these include:
+
+-   % of Physical Resist
+-   % of Elemental Resist
+-   Size
+-   Duration
+-   Color
 
 #### _Corrupted_
 

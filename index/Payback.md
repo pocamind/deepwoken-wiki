@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 23518
+revid: 23673
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,13 +35,12 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 ### Family Tree
 
-**Payback** has three different versions and a unique Tarnished effect.
+**Payback** has two different versions and a unique Tarnished effect.
 
 #### _Versions_
 
 -   **Version 1** will divide 1/4th of any damage taken within one to two seconds to the user's opponents.
 -   **Version 2** will multiply all damage taken 3x within one to two seconds and fire a thin beam that damages the user's opponents.
--   **Version 3** will multiply all damage taken 3x within one to two seconds and fire three thin beams that damage the user's opponents.
 
 #### _Tarnished_
 
@@ -51,7 +50,7 @@ If the owner of this Resonance is Tarnished, **Payback** will be given a two sec
 
 ## Trivia/Notes
 
--   The 2nd and 3rd variations can be either blocked, parried or dodged while the 1st one can not.
+-   The 2nd variation can be either blocked, parried or dodged while the 1st one can not.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Credit to N1R#3083 for helping me research the Corrupted part
 -   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
