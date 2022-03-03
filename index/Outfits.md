@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 23059
+revid: 23637
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -57,7 +57,7 @@ _Deepwoken_ currently has 9 Starter Outfits that have been discovered.
 
 ### Adept
 
-_Deepwoken_ currently has 14 Adept Outfits that have been discovered.
+_Deepwoken_ currently has 15 Adept Outfits that have been discovered.
 
 ### Expert
 

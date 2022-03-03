@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 23551
+revid: 23607
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Depths |
+| obtainment | DepthsSummer Isle explosive boxes |
 | description | To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as a effective blade for raiding. |
 
 The Cavalry Saber is a midgame weapon obtained from [Depths](The_Depths.md) chest. This weapon has a base damage of 21, and a scaling of 5

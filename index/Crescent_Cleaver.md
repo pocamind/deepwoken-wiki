@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 23073
+revid: 23611
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -21,7 +21,7 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa |
+| obtainment | Chests from:, Minityrsa, Songseeker Wilds |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need to only follow the blood. |
 
 ## Description

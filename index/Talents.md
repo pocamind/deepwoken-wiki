@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23596
+revid: 23630
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -386,6 +386,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
     -   Prerequisites: Have modified at least 1 mantra. (I got Neuroplasticity without modifying a mantra, twice)
+    -   Rumor says you need willpower for this, which may be true considering I got it at 40 willpower no int.
 
 ### Glassdancer
 

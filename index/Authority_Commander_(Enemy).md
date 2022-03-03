@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 23604
+revid: 23609
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,9 +38,9 @@ Their arsenal is composed of [Flamecharm](Flamecharm.md), a Medium or Heavy weap
 -   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
 -   At almost any given time they'll try to use their mantras while performing an M1 combo.
 -   Expect for Authority Peacekeepers (regular guards) to interfere with your fight.
--   You'll frequently get into a parry battle with the captains.
+-   You'll frequently get into a parry battle with the captains, so feint to disrupt it.
 
 ## Notes/Trivia
 
--   You can pickpocket the Authority Commander for the Jail Keys, but requires the Pickpocket Talent to do so. ~Without it, the captain will instantly aggro on you~. Nothing happens when you attempt to pickpocket them without the talent.
+-   You can pickpocket the Authority Commander for the Jail Keys but requires the Pickpocket Talent to do so. ~Without it, the captain will instantly aggro on you~. Nothing happens when you attempt to pickpocket them without the talent.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.

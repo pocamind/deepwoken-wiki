@@ -1,6 +1,6 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 18994
+revid: 23614
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,3 +25,7 @@ The lighthouse from afar
 The Eastern Interstitial Lighthouse is a lighthouse with a passage underneath for boats to spawn in.
 
 It can be found behind [Isle of Vigils](Isle_of_Vigils.md) inside a speed highway.
+
+## Trivia/Notes
+
+-   This location plays a role in the [lore](Lore.md)
