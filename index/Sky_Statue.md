@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 8599
+revid: 23648
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,6 +16,7 @@ Sky Statue located next to Lower Erisia
 -   _Sky Statue: \*A statue of a person looking skyward.\*_
 -   _Player: \[Inspect\]_
 -   _Sky Statue: \*It's an interesting statue but the significance escapes you.\*_
+-   also a note, there are 2 other statues
 
 ## Locations
 

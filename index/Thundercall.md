@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 23344
+revid: 23646
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -257,7 +257,10 @@ Lightning Cloak
 +1 Health | Thundercaller |
 |  | Jolt Cast | Every 3 perfectly casted thunder mantras builds a stack. At 3 stacks your next thunder mantra is an instant cast. | +7 Carry Load  
 +2 Elemental Intensity | ??? |
-|  | Volt Kick | After landing a lightning kick press F to follow-up with a less potent kick. | ??? | ??? |
+|  | Volt Kick | After landing a lightning kick press F to follow-up with a less potent kick. | +7 Carry Load
++2 Elemental Intensity
+
+ | Thunder Brawler |
 |  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times. | ??? | Thunderblade |
 |  | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE) | +10 Carry Load  
 +1 Passive Agility  
@@ -266,10 +269,22 @@ Lightning Cloak
 (MANTRA UPGRADE) | +3 Elemental Intensity  
 +1 Health | Javelin Lord |
 |  | Static Withdraw | When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them. | ??? | Self-Shocker |
-|  | Jumpstart | when not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit. | ??? | Self-Shocker |
+|  | Jumpstart | when not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit. | +4 Ether
+
++4 Elemental Intensity
+
++3 Health
+
+ | Self-Shocker |
 |  | Raging Static | Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.  
 (STATIC WITHDRAW UPGRADE)  
-(JUMPSTART UPGRADE) | ??? | Self-Shocker |
+(JUMPSTART UPGRADE) | +4 Ether
+
++4 Elemental Intensity
+
++3 Health
+
+ | Self-Shocker |
 |  | Static Link | Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long. | +8 Reservoir  
 +4 Elemental Intensity  
 +1 Health | Static Weaver |
@@ -286,6 +301,7 @@ Lightning Cloak
 (STATIC LINK UPGRADE) | +4 Ether  
 +7 Reservoir | Static Weaver |
 |  | Authority Intimidation | All moves that apply electricity slow the opponent more. | ??? | Authority
+
 Interrogator
 
  |
