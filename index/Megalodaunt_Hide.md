@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Hide
-revid: 19840
+revid: 23606
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,4 +31,4 @@ Megalodaunt hide can be obtained by killing [Megalodaunts](Megalodaunt.md), with
 -   Crafting the [Hive Drone](Outfits.md) outfit.
 -   Crafting the [Black Diver](Outfits.md) outfit.
 -   Crafting the [Sharkscale Glider](Gliders.md) Item.
--   Using 5 of them to summon the [Primadon](Primadon,_Titan_of_the_East.md) boss.
+-   Using 3 of them to summon the [Primadon](Primadon,_Titan_of_the_East.md) boss.

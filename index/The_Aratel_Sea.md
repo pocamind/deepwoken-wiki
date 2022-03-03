@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 23308
+revid: 23575
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,6 +34,8 @@ The Aratel Sea is a lot more violent, with frequent pirate attacks and being inh
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Monkey's Paw](<The_Monkey's_Paw.md>)
 
-## Trivia/Notes
+## Enemies and Encounters
 
--   Lionfish, brainsuckers, and I think whalers can spawn here.
+-   Lionfish
+-   Lesser Brainsucker
+-   Whalers vs Knives of Eylis

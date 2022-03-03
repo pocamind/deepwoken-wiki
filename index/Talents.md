@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23563
+revid: 23596
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -59,12 +59,12 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Aeromancy
 
--   Drifting Winds \[Generic Talent, Galebreath Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
--   Aerogliding \[Generic Talent, Rare Talent, Galebreath Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
--   Stifled Jump \[Generic Talent, Rare Talent, Galebreath Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
--   Suffocating Impact \[Generic Talent, Common Talent, Galebreath Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
--   Gale Coil \[Generic Talent, Common Talent, Galebreath Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
--   Aeronade \[Generic Talent, Common Talent, Galebreath Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
+-   Drifting Winds \[Generic Talent, Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
+-   Aerogliding \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
+-   Stifled Jump \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Suffocating Impact \[Generic Talent, Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Gale Coil \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+-   Aeronade \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
 
 ### Alchemist
 
@@ -245,7 +245,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 
 ### Cloudwalker
 
--   Gale Leap \[Generic Talent, Galebreath Exclusive, Common Talent\] - Jumping while sliding down a slope or off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
+-   Gale Leap \[Generic Talent, Galebreathe Exclusive, Common Talent\] - Jumping while sliding down a slope or off a cliff launches you forwards (+1 Elemental Mastery, +2 Health)
     -   Very tight activation window.
 
 ### Darksiphon
@@ -365,19 +365,19 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Galebreather
 
--   Galebreather \[Generic Talent, Galebreath Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity, +3 Health)
--   Adept Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 1-Star Leveled Galebreath mantras. (+3 Elemental Intensity, +1 Health)
--   Expert Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 2-Star Leveled Galebreath mantras. (+5 Elemental Intensity)
--   Master Galebreather \[Generic Talent, Galebreath Exclusive\] - You can now obtain 3-Star Leveled Galebreath mantras. (+3 Elemental Intensity, +1 Health)
--   The Old Wind \[Generic Talent, Galebreath Exclusive\] - Glide straight with the power of Gales.
+-   Galebreather \[Generic Talent, Galebreathe Exclusive\] - Grants you the ability to command wind as a Galebreather. (+3 Elemental Intensity, +3 Health)
+-   Adept Galebreather \[Generic Talent, Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
+-   Expert Galebreather \[Generic Talent, Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras. (+5 Elemental Intensity)
+-   Master Galebreather \[Generic Talent, Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
+-   The Old Wind \[Generic Talent, Galebreathe Exclusive\] - Glide straight with the power of Gales.
     -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce
 
--   After Cut \[Generic Talent, Galebreath Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
--   Breathing Impact \[Generic Talent, Galebreath Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
--   Inhale \[Generic Talent, Galebreath Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
--   Tailwind \[Generic Talent, Galebreath Exclusive\] - Gain a speed boost after a successful inhale.
+-   After Cut \[Generic Talent, Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
+-   Breathing Impact \[Generic Talent, Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
+-   Inhale \[Generic Talent, Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
+-   Tailwind \[Generic Talent, Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
     -   No cooldown and can be stacked to move very quickly.
 
 ### Genius Intellect
@@ -402,7 +402,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Adds attunement scaling to your guns.
-    -   Guns will now apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreath will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
+    -   Guns will now apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreathe will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Hunter
@@ -672,10 +672,10 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+-   A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
--   Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
--   Silencer's Edge \[Generic Talent, Galebreath Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
+-   Silencer's Blade \[Generic Talent, Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
+-   Silencer's Edge \[Generic Talent, Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
 ### Singer
 
@@ -1047,8 +1047,8 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 List of Rollable Rare Talents
 
 Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)  
-Aerogliding \[Generic Talent, Rare Talent, Galebreath Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)  
-Stifled Jump \[Generic Talent, Rare Talent, Galebreath Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)  
+Aerogliding \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)  
+Stifled Jump \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)  
 Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)  
 Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health) Prerequisites: Strength & Wilpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)  
 Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility) Prerequisites: Carnivore  
@@ -1082,7 +1082,7 @@ Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds o
 Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)  
 Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)  
 Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some Armor upon killing enemies.  
-Silencer's Blade \[Generic Talent, Galebreath Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)  
+Silencer's Blade \[Generic Talent, Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)  
 Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health) Prerequisites: Flamecharm  
@@ -1109,7 +1109,7 @@ Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make yo
 Million Ton Piercer \[Generic Talent, Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health) (Requires an unknown amount of strength and prerequisites.)  
 Vanishing Follow-up \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.  
 Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown)  
-A World Without Song \[Generic Talent, Galebreath Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)  
+A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)  
 Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)  
 Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)  
 Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)  

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23488
+revid: 23594
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -42,6 +42,21 @@ Once you have max Progress, you must go to the Depths and get knocked, and if yo
 
 Once obtained, using C will activate your Resonance.
 
+Below is a list of Formidable (Progress-Granting) Entities.
+
+### Bosses:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [The Ferryman](The_Ferryman.md)
+-   [Nautilodaunt](Nautilodaunt.md)
+-   [Dread Serpent](Dread_Serpent.md)
+-   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (again, not recommended)
+
+### Other:
+
+-   Corrupted Monsters
+-   Players
+
 ## Re-rolling
 
 Players are given the option to re-roll their Resonance once if they desire.
@@ -69,6 +84,7 @@ To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (The Chime o
 -   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
 -   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.
--   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the depths, one is in the overworld near a waterfall at the Aratel islands.
--   There used to be an unfinished resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
--   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot get a resonance early then other slots will likely get it early too)
+-   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
+-   There used to be an unfinished Resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
+-   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
+-   There are currently no Legendary Resonances that give a direct upside in combat.

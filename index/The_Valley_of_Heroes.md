@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 23292
+revid: 23579
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,7 @@ Valley of Heroes resembles an icy valley littered with frozen asteroids. The val
 
 Events that spawn in Valley of Heroes that do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Aelita
+-   [Aelita](Aelita.md)
 
 ## Trivia/Notes
 

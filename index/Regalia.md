@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 23235
+revid: 23592
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,6 +31,7 @@ Monsters and certain enemies will be neutral to the player unless provoked. Any 
 -   ~Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)~ Chest loot seems to be completely unaffected, but we all get unlucky sometimes.
 -   The best talent for Sharko-simps to get up close and personal.
 -   Idk if this is a bug because when animal king is first known, I was in the depth and no monster dare to attack me, weird thing is everyone in server can do that too and when I go to the depth again, a sharko come from behind and kick me into the void.
+-   Is actually confirmed to be called **"Mute"** but that name is lame.
 
 ## Termite
 

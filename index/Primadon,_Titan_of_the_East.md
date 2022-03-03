@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 23536
+revid: 23600
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -77,10 +77,6 @@ The boss arena, showing the ocean from which Primadon spawns.
 -   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
 -   An easy way to cheese the fight is by placing an Undying Flames [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
 -   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
-
-File:Prima.png
-
-Primadon's full model.
 
 #### Move-set
 

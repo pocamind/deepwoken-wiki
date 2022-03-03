@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 23534
+revid: 23584
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -32,5 +32,5 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   This outfit is the superior version of [Diver Apprentice](Diver_Apprentice_Robes.md).
--   It is a reference to Bondrewd's outfit from the anime Made in Abyss. Oya...
--   Worn by [Akira](Akira.md) and some other divers in [Castle Light.](Castle_Light.md) Also worn by the frostdraw trainer
+    -   It is a reference to Bondrewd's outfit and the Umbra Hands' uniform from the anime Made in Abyss. Oya...
+-   Worn by [Akira](Akira.md) and some other divers in [Castle Light.](Castle_Light.md) Also worn by the Frostdraw and Thundercall trainers.

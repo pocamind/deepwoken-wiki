@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23548
+revid: 23577
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -87,7 +87,7 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (7 for Heavy, 8 for Medium, 9 for Light). The charged hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (4 for Heavy, 5 for Medium, 6 for Light). The charged hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -188,6 +188,10 @@ Will have an effect upon hitting something. Please stop changing the curses effe
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
   <td><div><p>This enchant grant every other weapon enchant on the weapon. Each enchant procs are rolled individually, meaning multiple enchants can proc at once.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
+  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p></div></td>
 </tr>
 </tbody>
 </table>

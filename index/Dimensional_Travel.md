@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 23463
+revid: 23591
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,16 +13,15 @@ categories: [Resonance]
 | effect | Teleports the player into another realm which scales with the map |
 | appearance | Realm consisting of tilted dark matter plates above a void with heavy fog. |
 
-\====
-
 “ Slip into an alternate dimension that exists alongside our own. ”
 
 ― Dimensional Travel description
 
-# \==
+  
 
-## Descriptionon
+## Description
 
+  
 **Dimensional Travel,** also referred to as **Kamui or Distortion Realm,** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is rare to roll.
 
 ### _Appearance_

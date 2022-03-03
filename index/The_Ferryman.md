@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 23411
+revid: 23585
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -156,20 +156,20 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
         
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer".
--   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris huddling next to a gate, and he speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
+-   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
     
     File:Petris.png
     
     _Petris, found traumatised in The Depths._
     
 
--   Dying to the ferryman will turn your screen grey as though you were still in the voidsea, this may be a bug with the voidsea in general.
+-   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
--   The Ferryman is the one of the very few NPCs in the game that are static, unattackable, and hostile with the possible exception of The Duke.  
+-   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.  
     
 
 ## Bugs
 
--   It is possible to pass through the Ferryman's barrier using a Rapid Slashes, a Light weapon skill. This requires a player at the other side of the barrier. (This works with many other instant teleport moves such as Jolt Grab)
+-   It is possible to pass through the Ferryman's barrier using a Rapid Slashes, a Light weapon skill. This requires a player at the other side of the barrier. (This works with many other instant teleports moves such as Jolt Grab)
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
