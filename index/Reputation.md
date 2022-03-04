@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 23417
+revid: 23768
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -151,3 +151,4 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   There is a minimum and maximum reputation for each faction, meaning that it may only take a few events to get back in a faction's good favour.
 -   The ONLY ways to increase (not reset) reputation with The Hive is to aid Golem Construct and Hive npcs in Authority vs Hive and Etrea vs Hive.
 -   for some reason, you actually cant get good rep with celtor, just lose rep (you can only lose rep with celtor, but you cant gain good rep with celtor)
+-   Spitting on a guard causes them to aggro on you.

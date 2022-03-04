@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 23663
+revid: 23767
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -114,6 +114,8 @@ Phase two is where it gets real- the true fight. All of his previous attacks get
 If he is using this while you are at melee range with him, he will give you some time to get away from him so you wont die instantly.
 
 As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
+
+The best and easiest way to beat him is to get him up against a wall, and spam your m1s. Don't even bother using a mantra as it may take him out of stun.
 
 ## Rewards
 
