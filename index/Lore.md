@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23644
+revid: 23761
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -113,8 +113,9 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
-    -   As of the Year 1271, Gunsmith Rosen's status is unknown; but thanks to the Summer Company's Guards- Rosen is still alive, and presumably in charge of Summer Company.  
-        
+    -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown.
+        -   Talking to the Summer Company Guards stationed in Summer Isle, they mentioned of their leader. It's unknown if it is Rosen or Hierka.  
+            
 
 ### Yun'shul
 
@@ -237,16 +238,16 @@ Amara, a Member of The Legion.
 -   **Territory:** _Summer Isles_
 -   **Encountered In:** _Summer Isles_
 -   **Attunements:** _N/A_
--   **Alliances:** _The Central Authority (?)_
+-   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:** _Random encounters, Scope,_
+-   **Lore Sources:** _Random encounters, Scope, Summer Company Guard Dialogue (Good Rep)_
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
--   Allying with the Summer Company is possible (friendly dialogue) by assisting them in large amounts in events.
 -   They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
--   Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, theories still linger that Summer Company still has a business relationship with the Authority.
+-   Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
+-   The Leader of Summer Company is unknown, as it was only mentioned by the Summer Company Guards.
 
 A Summer Company Member.
 
@@ -674,11 +675,11 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Song
 
-**Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope_
+**Lore Sources:** _Songseekers, Diver Apprentice Robes, Celestial Telescope, Arch\_Mage_
 
 -   The Song can be weaved into clothing or armor; enchanting them to regenerate the wearer's Ether faster than others.
--   The Song is assumed to be the formula of all things, such as Mantras, Ritual Casting and other things.
--   All Attunements originate from the song
+-   The Song is to be the formula- the assimilation of all things; such as Mantras, Ritual Casting and other things.
+    -   The Song also draw upon the resonance of the living- the creation of [Resonance Bells](Resonance.md).
 
 ### The Canticlysm
 
@@ -696,7 +697,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _What Mends Shall Fray (Song)_
 
 -   The disaster that established the base of Deepwoken, by creating floods to devour both land and its inhabitants.
-    -   It is unknown where its origin comes from.
+    -   It is unknown where its origin came from- all we've know is that it occurred just after the Canticlysm.
 -   The Tide brought upon the [Voidsea](Voidsea.md) to the Luminants, a gateway to both worlds between the surface and [The Depths](The_Depths.md).
 
 ### The Great Drowning
@@ -704,7 +705,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Arch\_Mage (Mentioned)_
 
 -   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
--   Based on Arch\_Mage's words, The Great Drowning was created by the Song; presumably the consequence of the Old World's abuse of the Song.
+-   Based on Arch\_Mage's words, The Great Drowning was created by the Song; presumably the consequence of the Old World's abuse (or misuse) of the Song.
 -   Celtor was drowned by the Celtorian Horror due to their excessive greed.
 
 ### The Depths
@@ -759,6 +760,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded" and can be other instruments other than bells.
     -   In the game, you can only obtain your Resonance Bell in The Depths. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
+-   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 
 ## Deepwoken: 1271~
 

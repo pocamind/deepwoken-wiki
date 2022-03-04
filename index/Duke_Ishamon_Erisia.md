@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 23357
+revid: 23745
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -40,6 +40,7 @@ able?
 
 -   **Air Pressure -** Getting hit by any of his wind moves while you're low will cause you to die instantly.
 -   **Skull Crusher** - If you are somehow knocked but not instantly dealt with because of Air Pressure, he will do Fist Combat's gripping animation on you.
+-   **Fortnite** - shoots pereson
 
 ## Combat
 

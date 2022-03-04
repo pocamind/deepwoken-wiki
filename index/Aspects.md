@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 23647
+revid: 23755
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -37,4 +37,4 @@ These races are seen on testers or developers, or are planned to be released in 
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
     -   Twins are caused by having the exact same physical features and cousins are caused by having similar features and/or name.
-    -   ~Players can be dubbed wife and husband at age 25 if they have the same last name and are opposite genders. See [Families](Family.md).~ **NEEDS PROOF**
+    -   ~Players can be dubbed wife and husband at age 25 if they have the same last name and are opposite genders. See [Families](Family.md).~ (**DEBUNKED** **BY ARCH\_MAGE**)(also, 1. not how marriage works 2. what about the gays and the lesbians!!! 3. against roblox TOS (how do u guys even believe this shit))

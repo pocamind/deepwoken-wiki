@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 23053
+revid: 23727
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -47,7 +47,7 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
 </tbody>
 </table>
 
-Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the perfect race for attunement-less warriors. Even the appearance looks like the one of a true strong warrior...  
+Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the perfect race for attunement-less characters. Even the appearance looks like the one of a true strong warrior...  
 
 **Lore:**
 
@@ -55,13 +55,13 @@ Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the 
 
 LORE:
 
-The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to have a preference of using fists in battle, showing how most perks provided in the Navean Nomad camp are fist related, like the [Way of Navae](Way_of_Navae.md), provided by rescuing an imprisoned Gremor, or the Fists of Navae, which is acquired by buying [Navaen Nomad Robes](Navaen_Nomad_Robes.md) in the camp.
+The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to have a preference of using fists in battle, showing how most perks provided in the Navean Nomad camp are fist related, like the [Way of Navae](Way_of_Navae.md), provided by rescuing an imprisoned Gremor, or the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
 
 **Strengths:**
 
   
 
-STRENGHTS
+STRENGTHS
 
 -   Has a built-in compass.  
     
@@ -98,7 +98,7 @@ SURNAMES
 
 -   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
 -   As a Gremor, you will get alternate dialogue from Navaen Nomads.
--   This race seems to be disliked by the community
+-   This race seems to be disliked by the community.
 
 <table>
 <tbody>

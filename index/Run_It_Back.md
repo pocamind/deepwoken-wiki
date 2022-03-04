@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 23520
+revid: 23737
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -34,7 +34,7 @@ Pressing C will activate the **Run It Back** Resonance.
 
 ### _Variants_
 
-**Run It Back** has different effects depending on the user's [Attunement](Attunements.md), and has unique Corrupted and Tarnished effects. If a player has multiple attunements, the one observed in the resonance is random.
+~**Run It Back** has different effects depending on the user's [Attunement](Attunements.md), and has unique Corrupted and Tarnished effects. If a player has multiple attunements, the one observed in the resonance is random.~ The varient is comfirmed to be random regardless of the players attunement, as many people have gotten the flame varient with Thundercall, etc
 
 #### _Attunements_
 

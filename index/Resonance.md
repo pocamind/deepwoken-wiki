@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23709
+revid: 23742
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -46,16 +46,14 @@ File:Image of Card Selection.png
 
 You can select your resonance through the card menu shown above.
 
-(Red cards are corrupted.)
-
-  
+(Red cards are Corrupted.)
 
 **Below is a list of Formidable (Progress-Granting) Entities.**
 
 ### Bosses:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [The Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md) (not recommended unless you want to farm him until your bald)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (again, not recommended)
@@ -74,17 +72,18 @@ Around [The Depths](The_Depths.md), Resonance doors can be found. These doors re
 Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance and makes it so you cannot make a wish again.
 
   
-_**Yun Shul' Rerolling and how it works.**_
+
+## Yun Shul' Rerolling (and how it works)
 
 The level you get your bell is determined by the amount of wishes.
 
-If you got the bell at power 24, youll have 4 wishes (20 - 60)
+If you got the bell at power 24, you'll have 4 wishes. (20 - 60)
 
-If you got the bell at power 47, youll have 2 wishes (40 - 60)
+If you got the bell at power 47, you'll have 2 wishes. (40 - 60)
 
-(The wishes count in the **Tenths,** not the **Ones.**)
+(The wishes count in the **Tens,** not the **Ones.**)
 
-Every time you make a wish you will have the tarnished flaw, you can un tarnish this by going to song seeker and talking to the PVP npc. Then after that wish, you have to untarnish again.
+Every time you make a wish you will have the Tarnished [Flaw](Boons_and_Flaws.md), you can remove this by going to [Songseeker Wilds](Songseeker_Wilds.md) and talking [Yamaketzal](Yamaketzal.md).
 
   
 

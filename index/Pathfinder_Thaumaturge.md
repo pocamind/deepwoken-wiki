@@ -1,33 +1,37 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 23634
+revid: 23759
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Armors]
 ---
 
 # Pathfinder Thaumaturge
 
-## PathFinder Thaumaturge
+Template:ArmorInfobox
 
-_"The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the central luminant, creating an uncharacteristically versatile armour plate."    -_The _PathFinder Thaumaturge_, It is an **Adept** armor with mediocre-decent stats.
+**Pathfinder Thaumaturge** is a Adept [Outfit](Outfits.md) in _Deepwoken._
 
-File:Red aelita armor showcase.PNG
+## Statistics
 
-\-A Canor wearing the Pathfinder Thaumaturge.
+### _Requirements_
 
-##### Have 10 _Intelligence_ and be Power 15.
+This Outfit costs and requires (5) Fiber, (5) Cloth and (1) Rock.
 
-The Stats it gives are decent-to-bad, Being easily outplaced by most Armors.
+This Outfit requires 10 Intelligence and [Power Level](Talents.md) 15.
 
-+15% Elemental Armor.
+### _Armor Stats_
 
-+Talent : _Now you see me.._ \[50% More stealth when Crouched.\]
+This Outfit has 1000 Durability and grants the wearer +10% Physical Armor and +15% Elemental Armor.
 
-+1000 Durability.
+This Outfit also grants the [Talent Card](Talents.md) "_Now you see me.._", which grants the player 50% more stealth whilst crouched.
 
-+10% Physical Armor.
+## Location
 
-File:Stats.PNG
+This outfit can be found in:
 
-**A Picture of the Pathfinder Thaumaturge, It's stats and Requirements.**
+-   Erisia (apparently?), Depths, Primadon Loot.
+
+## Trivia/Notes
+
+-   It's a Reskin of PathFinder Arch-Sorcerer with bad stats.

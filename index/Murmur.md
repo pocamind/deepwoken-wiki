@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 22936
+revid: 23733
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -36,7 +36,7 @@ The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but tr
 
 Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
-After killing Kaido for Murmur:Ardour a purple orb will fly into you right before getting it
+After killing the Dread Serpent for the Murmur, a purple orb will fly into you right before getting it.
 
 This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour).
 
@@ -62,4 +62,4 @@ Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
-You can also get this murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in Erisia (only spotted here). With 10 charisma, you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.
+You can also get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.

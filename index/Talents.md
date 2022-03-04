@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23630
+revid: 23762
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -219,9 +219,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.
-    -   Prerequisite: Reinforce
-    -   Contrary to popular belief, Shadowcasting is not required for this Talent.
+-   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are fully healed.
+    -   Prerequisite: Reinforce, Contrary to popular belief, Shadowcasting is not required for this talent.
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
     -   Prerequisite: Reinforce
 
@@ -362,6 +361,8 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Unyielding Inferno \[Generic Talent, Common Card, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms. (+4 Elemental Intensity, +1 Health)
 -   Wildfire \[Generic Talent, Common Card, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
+-   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. (+3 Health, +2 Elemental Intensity)
+    -   Prerequisites: 40 Willpower, 70 Flamecharm
 
 ### Galebreather
 

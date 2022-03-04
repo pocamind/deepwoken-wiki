@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 23590
+revid: 23764
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,13 +13,19 @@ categories: [Resonance]
 | effect | Teleports player(s) to a set location. |
 | appearance | Gold ring expands below the user. |
 
+“ Travel across huge distances. ”
+
+― Teleportation description
+
+  
+
 ## Description
 
-**Teleportation**, also known as Fast Travel or Gate is a [Resonance](Resonance.md) or "bell" that players can obtain, and is extremely rare to roll.
+**Teleportation**, also known as Fast Travel, Gate, or Flying Raijin is a [Resonance](Resonance.md) or "bell" that players can obtain, and is extremely rare to roll.
 
 ### _Appearance_
 
-Once used, a gold ring expands on the ground around the user. Over time, particles will start to rise from the field indicating teleport.
+Once used, a gold ring expands on the ground around the user. Over time, particles will start to rise from the field indicating teleport. It should also be noted that the more players/entities within the circle, the longer it will take to teleport.
 
 Shortly after particles start appearing, all players inside **Teleportation's** radius teleport to the set waypoint, appearing similar to teleportation used at [Greathive Aratel](Greathive_Aratel.md).
 
