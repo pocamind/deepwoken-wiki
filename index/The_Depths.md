@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 23564
+revid: 23688
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -16,7 +16,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 [The City of the Drowned](The_City_of_the_Drowned.md) in The Depths
 
-**The Depths** is a location in _Deepwoken_. Players are sent here after dying 2 times
+**The Depths** is a location in _Deepwoken_. Players are sent here after dying whilst having a drowning health bar, or killed by a monster in the Void Sea.
 
 ## Overview
 

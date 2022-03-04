@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 23681
+revid: 23706
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,7 +8,7 @@ categories: [Boss]
 
 # Nautilodaunt
 
-#### _"Just parry bro"_
+#### _"When the Enforcer discovers drugs....."_
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 
@@ -39,7 +39,6 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 -   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective than the latter two. Way of Navae can also posture break Squibbo in one crit (from what i've done at least).
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
--   If it is Corrupted, and you don't use heavy weapons, **RUN**. He will violate you in 10 seconds.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does an **INSANE** amount of damage.
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
