@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 23768
+revid: 23774
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -48,34 +48,27 @@ Players with negative reputation from factions **will be** attacked by NPCs from
 -   Guards will aggro you if you grip another player in their vicinity.
 -   Certain questlines will be disabled until reputation is restored to Neutral or Positive
 -   Innkeepers will not grant you stay, thus not allowing you to respawn at that inn.
+    -   If you became a criminal in an area where you've set your spawn, you will respawn at the Etris Inn instead.
+        -   In the scenario where you are also considered a criminal by the Etreans, you will instead respawn on the beach of Etrea.
 -   Blacksmiths will not allow you to access any of their services.
 
 ### Changes in Reputation
 
-File:Reputation Indicator.png
+Whenever you perform an action that affect your reputation with a faction, a message will appear on your screen, reading "Your actions please \[Faction Name\]..." or "Your actions anger \[Faction Name\]...", both topped with the faction's logo (if available).
 
-Icon indicating changes to the player's reputation. Image provided by: Batter boi
+Whenever your reputation drops too low, you'll be deemed a criminal, with the message "\[Faction Name\] have declared you their enemy...". This the point at which Negative Reputation effects are applied.
 
-The main indicator for changes in a player's reputation will be shown by an 'eye' icon appearing at the top-center of the player's screen, and it is only an indicator of reputation **loss**, _not_ gain.
-
-It shows up when you grip members of a faction or contribute to their death, or if you're attacking a player in a faction's territory.
-
-Hitting members of that faction will not drain your reputation, unless you aggro someone who wasn't already aggravated.
-
-Being killed by members of the Central Authority will prompt a message saying something along the lines of "Your perceived threat by the central authority has been reduced". It is believed this is the prompt for going from negative to neutral reputation. Unknown if applies to other factions.
-
-_**Rejoice! There is a new indicator for reputation!**_
+Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer see you as worth fighting...". This is the point at which Negative Reputation effects are removed.
 
 File:Summer Company Postives.png
 
 The Summer Company Logo, w/ Indication of positive rep.
 
-Major factions such as the Summer Company and Etrea, will have an indicator with their emblem or logo show up briefly to tell you that you are developing a positive reputation with that faction. This is in effect as of game version pv\_JAN\_23\_19:34.
-
   
 
   
 
+  
   
 
 ### Resetting Enmity

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23762
+revid: 23777
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -239,6 +239,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 These Talents are mainly aimed at making assassination much more potent, especially in PVP.
 
 -   Assassin \[Generic Talent, Common Talent, Light\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
+-   Blood Thirsty \[Generic Talent, Common Talent, Light\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
 -   Hidden Blade \[Generic Talent, Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
 -   In a Hurry \[Generic Talent, Common Talent, Light\] - You grip faster with a movement speed boost.
 
@@ -289,6 +290,11 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Give and Take \[Generic Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates take less damage from you and deal less damage to you.
         -   Prerequisite: Charm
+
+### Lava Serpent
+
+-   Eruption Path: Lava Serpent \[Generic Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
+    -   Prerequisites: 75? Flamecharm
 
 ### Escape Artist
 
