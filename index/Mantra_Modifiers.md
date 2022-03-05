@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 23408
+revid: 23839
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -182,7 +182,7 @@ Reduces damage of mantra for 20%.
  |
 | 
 
- | Blessed Gem | Removes cooldowns for mantras without the Blessed Gem equipped when the modified mantra hits. |
+ | Blessed Gem | Blessed Gem now halves the cooldown of the move you landed it on, and no longer affects other mantras |
 | 
 
  | Blue Gem | Reduces Mantra ether cost by half. |
