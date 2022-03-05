@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 23310
+revid: 23796
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -22,7 +22,7 @@ An alternate version of Vesperian with dark chitin and white markings, currently
 
 Primal Vesperians do not play a significant role in the lore, though they did exist, and have some brief lore behind them.
 
-Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who left The Convicts Hand and went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
+Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who left The Convicts Hand and went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians. They eventually died off as a group leaving one sole surviving member, with this member being Stag Acrossus.
 
 <table>
 <tbody>

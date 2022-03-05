@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 22455
+revid: 23793
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -33,7 +33,8 @@ able?
 | **Low Swing** | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than **High Swing**. | ◯ | (★☆☆) |
 | **Kick** | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. While having low damage, is near instant and has a quite low-key animation, being able to catch people off guard. | ◯ | (★★☆) |
 | **Whirlwind** | The Enforcer begins to spin from the waist-up, holding his axe out, walking towards anyone in range. | ◯ | (★★☆) |
-| **Space Pull** | The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely. | ✗ | (★★★) |
+| **Space Pull** | The Enforcer holds his hand out and pulls the nearest person to him, hanging them there for a moment, allowing him to attack freely. (you can dodge this, but there isn't really any point)  
+ | ✗ | (★★★) |
 | **Feint** | Its a [feint](Combat_Mechanics.md) for a monster. Enough said. | ✗ | (★★☆) |
 
 ### Finishers

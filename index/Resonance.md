@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23742
+revid: 23802
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -53,9 +53,10 @@ You can select your resonance through the card menu shown above.
 ### Bosses:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [The Ferryman](The_Ferryman.md) (not recommended unless you want to farm him until your bald)
+-   [Dread Serpent](Dread_Serpent.md) (Not recommended for his rare rate of spawn)
+-   [The Ferryman](The_Ferryman.md)
 -   [Nautilodaunt](Nautilodaunt.md)
--   [Dread Serpent](Dread_Serpent.md)
+-   [The Enforcer](Enforcer.md)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (again, not recommended)
 
 ### Other:

@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 19382
+revid: 23788
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Authority Footsoldiers are NPC's that are frequently found around Erisia fighting the Etrean footsoldiers. Defeating all of them will be rewarded with a chest containing low level gear.
+Authority Footsoldiers are NPC's that are frequently found around Erisia fighting the Etrean footsoldiers. Defeating all of them will be rewarded with a chest containing low level gear. They have around 600 HP (this is an estimate, Angels have 400 HP and these guys have more).
 
 Their appearance consists of a grey Authority helmet and a red cloak. (I think the authority commander uniform but unsure)
 

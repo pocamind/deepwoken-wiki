@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 23537
+revid: 23790
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,14 +26,13 @@ Mindless enemies that sprout out of the ground to surprise Players. They lack in
 
 ## Variants
 
--   **Green Mudskipper** - Normal Mudskipper.
--   **Light Green Mudskipper** - Can use the Galebreath mantra **Air Force** with greater knockback, rag dolling the player unlike the normal mantra.
--   **Dark Green (Fat) Mudskipper** - Explodes two seconds after dying. Has a bloated stomach.
--   **Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage than a normal Mudskipper. Does not die when backstabbed. Is black.
--   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm and Frostdraw.
+-   **Blue Mudskipper** - Normal Mudskipper. If it spawns out of the ground, it can use **Air Force**.
+-   **(Light Green) Mudskipper** - Can use the Galebreath mantra **Air Force** with greater knockback, rag dolling the player unlike the normal mantra. It also explodes two seconds after dying and has a bloated stomach.
+-   **(Black) Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage than a normal Mudskipper. Does not die when backstabbed. Is black.
+-   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm or Frostdraw.
     -   **Redskipper (Flamecharm)** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
     -   **Blueskipper (Frostdraw)** - Summons 4 ice swords that will spin around it, damaging anyone in range. (Currently bugged.) Wears blue armor.
--   **Mudskipper Knight** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 16 - 18. Their outfit and weaponry are equivalent of Bandit Captains but have the skill and intellect of Lesser Angels. They are armed with swords and Assassin Armor.
+-   **Mudskipper Knight** - Found exclusively in [The Depths](The_Depths.md) Trial at Power 10 - 19. Their outfit and weaponry are equivalent of Bandit Captains but have the skill and intellect of Lesser Angels. They are armed with swords and Assassin Armor.
 
 ## Tips
 

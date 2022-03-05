@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 23715
+revid: 23795
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,7 +32,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
     -   The altitude travelled decreases significantly as the user loses health.
-    -   Requirement: 50 Strength, _Strength Mobility Mantra_  
+    -   Requirement: 40 Strength, _Strength Mobility Mantra_  
         
 
 ### _**Fortitude Mantras**_
@@ -67,6 +67,9 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
     -   Requirement: 20 Agility, _Agility Support Mantra_
+-   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
+    -   The altitude travelled decreases significantly as the user loses health.
+    -   Requirement: 40 Strength 10 Agility, _Agility Strength Mobility Mantra_
 
 ### _**Intelligence Mantras**_
 
@@ -86,7 +89,7 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 
 -   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
     -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
-    -   Requirement: ~5 Willpower, _Willpower Support Mantra._
+    -   Requirement: 25 Willpower, _Willpower Support Mantra._
 -   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defense.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
     -   Requirement: 30 Willpower, _Willpower Support Mantra_

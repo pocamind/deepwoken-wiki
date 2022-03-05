@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 23775
+revid: 23781
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -33,7 +33,7 @@ Four wishes are available when interacting with Yun'Shul:
 3.  **The powers I have been granted displease me, I wish for new.**
     -   Reroll your [Resonance](Resonance.md),
 4.  **The Vows I made give me much regret, I wish to break.**
-    -   Removes any [Oath](Oaths.md) the player currently has.  
+    -   Removes any vow of masteries the player has, grants vacant flaw which takes away your ability to enter castle light regardless of if you went through whirlpolols or not and you can't make anymore vow of masteries. (Vacant flaw removes your soul which is why such things happen)  
         
 
 ## Trivia
