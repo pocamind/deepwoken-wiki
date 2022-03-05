@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 23767
+revid: 23832
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -121,7 +121,7 @@ The best and easiest way to beat him is to get him up against a wall, and spam y
 
 Ferryman's Coat
 
--   **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+13%\]. Soloing this boss 10-15 times, along with slaying a few [Primadons,](Primadon,_Titan_of_the_East.md) will near guarantee a [Resonance (Bell)](Resonance.md), especially if your character has the talent cards _Adept_ or _Mark of the Lone Warrior._
+-   **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+13%\]. This boss also gives [Resonance (Bell)](Resonance.md) Progress, however, there's no set amount, as it seems that resonance progress is random between everyone and people may even receive more or less progress from certain things than other people do.
 -   **Amethyst Pendant Earrings** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.

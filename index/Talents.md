@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23777
+revid: 23819
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -393,7 +393,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
     -   Prerequisites: Have modified at least 1 mantra. (I got Neuroplasticity without modifying a mantra, twice)
-    -   Rumor says you need willpower for this, which may be true considering I got it at 40 willpower no int.
+    -   Rumor says you need willpower for this, which may be true considering I got it at 40 willpower no int. (I got Neuroplasticity without any willpower)
 
 ### Glassdancer
 
@@ -765,7 +765,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
-    -   Prerequisites: Unyielding Inferno & Willpower
+    -   Prerequisites: 40 Flamecharm & 40 Willpower
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
     -   Prerequisites: Undying Flame
 
@@ -1012,6 +1012,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Flamecharmer
 
 -   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing Flame Worshipper Robes Outfit)
+
+### Pathfinder Arch-Sourer
+
+-   devastating power - gain extra ether for every mantra in your arsenal
 
 ### Pathfinder
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 22569
+revid: 23824
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ They have a brown wood-like appearance, with foliage around its legs, powered by
   <td>Punches the ground with its fist, creating two circular shockwaves that do insane damage (~200) and can instagrip at max hp if you're low level. Can parry and roll to evade, although quite difficult.</td>
 </tr>
 <tr>
-  <td><b>Trees. A lot of trees.</b></td>
+  <td>Wood Style: Deep Forest Emergence</td>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Punches the ground, spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing, or pushes you off onto the golem when they despawn. You cannot walk through the tree's leaves.</td>
 </tr>

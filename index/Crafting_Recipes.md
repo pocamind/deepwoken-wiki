@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 23305
+revid: 23823
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -196,7 +196,7 @@ _**Negative**_
  |
 | **Disgusting Bane** | 
 
--   2-3x Browncaps
+-   3x Browncaps
 
  | _**Negative**_
 

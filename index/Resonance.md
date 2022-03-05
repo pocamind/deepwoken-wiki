@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23802
+revid: 23830
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -36,7 +36,7 @@ The specific requirements for obtaining a Resonance are unique to all players, m
 
 Resonances are obtained by maxing an invisible stat known as Progress. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches its cap.
 
-The easiest way to achieve max Progress is to grind bosses such as [Dread Serpent](Dread_Serpent.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the [Chime of Conflict](Chime_of_Conflict.md), as there is no risk to your progress as long as you do not gamble your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
+The easiest way to achieve max Progress is to grind bosses such as [Primadon](Primadon,_Titan_of_the_East.md), and the [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Dread Serpents, Enhanced Monsters, The Duke, The Enforcer, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the [Chime of Conflict](Chime_of_Conflict.md), as there is no risk to your progress as long as you do not gamble your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present.
 
 Once you have max Progress, you must go to the Depths and get knocked, and if you have your Resonance ready, you will be healed to full and you will now be given the option between 3 random resonances.
 
@@ -50,12 +50,15 @@ You can select your resonance through the card menu shown above.
 
 **Below is a list of Formidable (Progress-Granting) Entities.**
 
+**(NOTICE: NOT EVERY PLAYER WILL GAIN THE SAME AMOUNT, OR EVEN ANY PROGRESS FROM EACH OF THE THINGS LISTED BELOW. EVERY PLAYER HAS A DIFFERENT ROUTE TO THEIR RESONANCE.)**
+
 ### Bosses:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md) (Not recommended for his rare rate of spawn)
 -   [The Ferryman](The_Ferryman.md)
 -   [Nautilodaunt](Nautilodaunt.md)
+-   [The Duke](Duke_Ishamon_Erisia.md)
 -   [The Enforcer](Enforcer.md)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (again, not recommended)
 
@@ -63,10 +66,11 @@ You can select your resonance through the card menu shown above.
 
 -   Corrupted Monsters
 -   Players
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
 ## Re-rolling
 
-Players are given the option to re-roll their Resonance once if they desire.
+Players are given the option to re-roll their Resonance with wishes if they desire.
 
 Around [The Depths](The_Depths.md), Resonance doors can be found. These doors require Resonances to open, and within their room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which being the ability to reroll your Resonance to gain the choice of 3 random resonances.
 
@@ -76,13 +80,7 @@ Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw]
 
 ## Yun Shul' Rerolling (and how it works)
 
-The level you get your bell is determined by the amount of wishes.
-
-If you got the bell at power 24, you'll have 4 wishes. (20 - 60)
-
-If you got the bell at power 47, you'll have 2 wishes. (40 - 60)
-
-(The wishes count in the **Tens,** not the **Ones.**)
+Every time you use a wish, Yun'Shul goes on cooldown for a certain amount of time. It's not a level requirement, literally confirmed by arch\_mage and it doesn't make sense for an end-game ability. However, even with the cooldown, there is a maximum amount of times someone can reroll per slot, likely 3 but need confirmation.
 
 Every time you make a wish you will have the Tarnished [Flaw](Boons_and_Flaws.md), you can remove this by going to [Songseeker Wilds](Songseeker_Wilds.md) and talking [Yamaketzal](Yamaketzal.md).
 
@@ -98,7 +96,7 @@ Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
 ### Removing Tarnished
 
-To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (The Chime of Conflict giver) 1000 notes.  
+To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (NPC that gives the [Chime of Conflict](Chime_of_Conflict.md) in [Songseeker](Songseeker_Wilds.md)) 1000 notes.  
 
   
 
@@ -110,4 +108,3 @@ To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (The Chime o
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
 -   There used to be an unfinished Resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
 -   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
--   There are currently no Legendary Resonances that give a direct upside in combat.

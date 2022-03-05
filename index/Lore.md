@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23761
+revid: 23822
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -48,9 +48,10 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 
 -   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent (Maybe, as a regent lord stands for a stand-in lord and rules when there is no successor/no capable ruler, so it is completely possible the previous lord to have gone out of commission for some reason and the lord regent then took over).
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
-    -   Theadre acts hostile to you that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, no matter what race you are. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
+    -   Theadre acts hostile to you that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, ~no matter what race you are~ **This is not true, he refers to you as "kin" if you are Etrean**. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
+    -   The teacher charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wields the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 
@@ -109,13 +110,16 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 **Lore Sources:** _Rifle Spear (Description), Flintlock (Description), Yamaketzal (Mentioned), Summer Company Guards (Good Rep Dialogue)_
 
 -   Gunsmith Rosen is a man who sparked the innovation of Firearms, and the introduction to it in the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
--   His identity, race and affiliation is unknown, as it was only mentioned through Weapon Descriptions.
+-   His identity, race and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown.
-        -   Talking to the Summer Company Guards stationed in Summer Isle, they mentioned of their leader. It's unknown if it is Rosen or Hierka.  
-            
+        -   Talking to the Summer Company Guards stationed in Summer Isle, they mentioned of their leader. It's unknown if it is ~Rosen or Hierka~ **It's Rosen, Hierka is a traitor and the Summer Guards will refer to Rosen by name if you have maximum reputation with them ("Welcome back to the Castle, \[Name\]. Keep making Rosen proud.")**.
+
+-   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen, the possible original origin of firearms, or a consequence of the mass-manufacturing of the guns produced by Summer Company.
+-   Betrayed by his former prodigy, Gunsmith Hierka who used the Summer Company's secrets in order to create the Rifle Spear for the Authority.  
+    
 
 ### Yun'shul
 
@@ -400,7 +404,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Lore Sources:** _Arch\_Mage, Songseeker Wilds_
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
-    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's 3 Attunements; thus is the reason why Galebreathe Songseekers do not exist.
+    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Song
+        -   While Galebreathe Songseekers don't exist in game, Arch\_Mage has said that there is no reason they couldn't exist, and them not existing in game is just coincidence.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
 
 ### Bandits
@@ -593,7 +598,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
--   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend aw the first destined Lightkeeper in their Luminant for decades.
+-   Sometime before the events of the game, Nimea's childhood friend was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   There are no records or NPCs that talk about Lightkeepers using their power as a weapon.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
@@ -606,8 +611,15 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
-    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, eventually drown to the Tides, when the time comes.
+    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
+
+  
+
+### Water Magic
+
+-   Water magic is not obtainable, nor will likely ever be a playable attunement because doing so would require your character to either not contain a semblance of humanity within them or cast it away. All races in the game are descended from humans at some point, so it is not possible to be born with this attunement.
+-   Water Magic is a direct domain of The Depths- it's the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
   
 
@@ -628,6 +640,8 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 -   An application of the Song that enables the user to suppress the Murmur itself, turning themselves invisible to the naked eye.
     -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
+
+-   Ministry Agents or Scouts can utilize this Murmur and are apparently able to teach it to individuals with no abilities or connection to The Song at all.
 
   
 
@@ -666,6 +680,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 **Lore Sources:** _Naktigonis_
 
 -   During the era of the Old World, there were 3 Attunements known to the people. Flamecharm, Frostdraw and Thundercall; all are gifts by the Song.
+-   This may be the reason why only three variants of Songseeker Monks, and why they come to Songseeker Isle for enlightenment. It is possible that Songseeker Isle may be a remnant of the Old World.
 
   
 
@@ -681,6 +696,8 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Song is to be the formula- the assimilation of all things; such as Mantras, Ritual Casting and other things.
     -   The Song also draw upon the resonance of the living- the creation of [Resonance Bells](Resonance.md).
 
+-   The Song is the entity that drives the world- it is a being that is synonymous to fate itself. Individuals possessing Murmur can shift a few things here and there, but ultimate it is only a mere murmur for a reason- a small whisper into the great loom that is The Song.
+
 ### The Canticlysm
 
 **Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming)_
@@ -690,7 +707,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Canticlysm, on its own terms, is a Catastrophe relevant to music.
 -   It is unknown what the Canticlysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
     -   It is theoretically assumed that the Canticlysm lead to the rising of Tides, drowning the City of Celtor.
--   The Canticlysm lead to the destruction to the people of the Old World; and the creation of the basic Attunements
+-   The Canticlysm lead to the destruction to the people of the Old World; and the creation of the basic Attunements.
 
 ### The Tides
 
@@ -715,7 +732,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths has multiple layers, starting from the top to bottom.
     -   It is unknown how many layers are there.
-        -   Thanks to some of the Dialogue, such as the Adret in Summer Isle, there is possibly more than 3 Layers of The Depths.
+        -   Thanks to some of the Dialogue, such as the Adret in Summer Isle, there are possibly more than 3 Layers contained within The Depths.
 -   The Depths have some sort of time manipulation, as victims of The Depths, albeit from the Great Drowning or natural causes within The Depths, leaves echos of themselves when they were still alive.
     -   Examples of such thing is Gild; an old Celtor who was alive during the Old World. Another example is Lucy, who died before succumbing to her insanity.
 
@@ -761,6 +778,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded" and can be other instruments other than bells.
     -   In the game, you can only obtain your Resonance Bell in The Depths. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
+-   Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
 
 ## Deepwoken: 1271~
 
@@ -776,7 +794,7 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 (PVP Arena, Trial of One, Visionshaper Oath Update)
 
--   In the Autumn of Year 1283, a Capra drunkard stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
+-   In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
 -   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
 -   In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
 
