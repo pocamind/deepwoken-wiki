@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 23445
+revid: 23885
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -92,4 +92,3 @@ Defeating someone in the Arena grants you 2.5% luck (3.33% with marauder)l. If y
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
 -   The way luck is obtained, shown and gotten will be reworked soon; stay tuned
     -   The new luck indicator is seen at the bottom right of the screen above notes.
--   A freshie has enough natural luck to gain 2 Rare cards or 1 Legendary.

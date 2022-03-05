@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 23688
+revid: 23872
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -130,6 +130,7 @@ Just some information to keep in mind and remember.
 
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 bluecaps to make the max level of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
+-   **Good Grinding Spots:** Marauder's Entrance and Castle Light are two spots where close to zero people go. Additionally, if you ever get low when farming at Castle Light, you can just let the divers take the monsters' aggro. However, this place tend to be a bit more populated than the Maraurder's Entrance. Stay safe and good luck!
 
 ## Quests
 

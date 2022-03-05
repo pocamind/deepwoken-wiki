@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 23700
+revid: 23880
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -351,6 +351,11 @@ _Requires Power Level 30_
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
 -   Some Armors such as Star Duster and all of the Royal Duelists require enough Power to use.
 -   Royal Duelists are strange pieces of armor, and don't seem to take off arm pieces.
+-   File:RaguzaRequest7armor.png
+    
+    RaguzaRequest7 Armor
+    
+    There is a secret beginner armor called 'RaguzaRequest7' and it's schematic name is 'Pathfinder Sorcerer'
 
 ## Speculation
 

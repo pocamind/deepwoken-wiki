@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 23068
+revid: 23891
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -26,7 +26,7 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-The Canorian Axe is a midgame Heavy Weapon, and is a drop from chests in [Lower Erisia](Lower_Erisia.md) and [Minityrsa](Minityrsa.md). It has 23.5 Base Damage and a scaling of 7.
+The Canorian Axe is a midgame Heavy Weapon, and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). It has 23.5 Base Damage and a scaling of 7.
 
   
 

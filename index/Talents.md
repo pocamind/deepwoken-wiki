@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23868
+revid: 23884
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -165,6 +165,7 @@ These Talents are designed to make you more akin to a Tank.
 
 -   Giantslayer \[Generic Talent, Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
     -   "Larger foes" being anything that isn't a humanoid NPC.
+    -   Prerequisite: 10 willpower.
 
 ### Brawler
 
@@ -278,6 +279,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
 -   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
+    -   Prerequisites: 20 strength, 25 agility.
 
 ### Duelist Flame
 
@@ -477,6 +479,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
+    -   Prerequisite: 10 willpower
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
@@ -501,7 +504,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 ### Meditative Trance
 
 -   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
-    -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect.
+    -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect. Prerequisite: 15 fortitude
 
 ### Mental Fortress
 
@@ -538,6 +541,7 @@ These are just raw stat increase and are beneficial to anyone.
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
+    -   Prerequisite: 40 willpower and Murmur: Ardour.
 -   Murmur: Tacet \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 
 ### Natural Armor
@@ -579,14 +583,14 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Prospector
 
-These Talents are meant to make foraging and mining grant more ressource.
+These Talents are meant to make foraging and mining grant more resources.
 
 -   Excavator \[Generic Talent, Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
 -   Harvester \[Generic Talent, Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
 
 ### Raging Bull
 
-These Talents are meant to be used in an aggresive playstyle.
+These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength is required).
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
@@ -623,7 +627,7 @@ These Talents are meant to be used in an aggresive playstyle.
 -   Now You See Me \[Generic Talent, Common Talent\] - Your stealth when crouching is increased. (+1 Passive Agility, +2 Health)
     -   Prerequisites: Agility
 -   Vanishing Follow-up \[Generic Talent, Legendary Talent\] - Upon a successful flourish, teleport to the opponent when they stop moving.
-    -   Prerequisites: Agility
+    -   Prerequisite: 40 Agility
 
 ### Silvertongue
 
@@ -701,7 +705,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Outfit\] - You have resistance against being poisoned by foods.
 -   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible.
-    -   Prerequisite: ???
+    -   Prerequisite: I believe Iron Gut is required. I don't know more, though.
 
 ### Survivor
 
@@ -830,7 +834,8 @@ These Talents are designed to make you more effective in water.
 -   Heavy Hitter \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Your posture damage is doubled when attacking enemies with a greatsword (+2 Health)
 -   Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
 -   Boom, Headshot \[Generic Talent, Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
--   Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
+-   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
+    -   Prerequisite: 40 Strength.
 
 ### Whisper
 
@@ -844,8 +849,8 @@ These Talents are designed to make you more effective in water.
 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
 -   Ready or Not \[Common Talent\] - The first Mantra you get struck by while out of combat deals half of its damage. (+3 Health)
--   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (8 Cards total, 2 choices)
--   Legendary Echo \[Appears when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
+-   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
+-   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
@@ -858,7 +863,7 @@ These Talents are designed to make you more effective in water.
 -   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
-    -   Also grants immunity to the Blinding Flame mantra.
+    -   Also grants immunity to the Flame Blind mantra.
 
 ## Whispers
 
