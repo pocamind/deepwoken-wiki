@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 22577
+revid: 23988
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ Consumable fruit found on Etris and Vigil growing in bushes in quantities of 3-5
 
 but when the people wanted to make stone statues of them they thought "this fruit is way to holy to be seen by public". There is even a state called calabash real state
 
-pls dont ban me for this
+Note: Red Calabash is NOT real, there isnt any proof of it actually existing as an item, and its fake proof of existing is photoshop (even this image of the Calabash is faked as a red one, search red calabash on google).
 
   
 

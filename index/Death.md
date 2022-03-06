@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 23653
+revid: 23989
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics]
@@ -29,3 +29,4 @@ See [Escaping The Depths](https://deepwoken.fandom.com/wiki/The_Depths#Escaping_
 -   The player technically has 120 Lives given they die every level and follow it with a power up, this number is higher if taken into the account escaping [The Depths](The_Depths.md), numbering to approximately 180 lives.
 -   Dying in the [Voidsea](Voidsea.md) or dying to the [Primadon](Primadon,_Titan_of_the_East.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
 -   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
+-   Dying to hunger and then immediatly dying to hunger again in The Depths is restorable. this note is important because people actually didnt know this fact and lost their progression

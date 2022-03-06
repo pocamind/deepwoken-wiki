@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23951
+revid: 23979
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -839,7 +839,7 @@ These Talents are designed to make you more effective in water.
 -   Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
 -   Boom, Headshot \[Generic Talent, Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
-    -   Prerequisite: 40 Strength.
+    -   Prerequisite: 40 Strength. (I got my Destructive Recovery at 35 Strength, this might be untrue)
 
 ### Whisper
 
@@ -917,15 +917,15 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
-#### Light Weapon Mobility (10 stat needed)
+#### Light Weapon Mobility (6 stat needed)
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
 
-#### Medium Weapon Combat (10 stat needed)
+#### Medium Weapon Combat (6 stat needed)
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
 
-#### Heavy Weapon Combat (10 stat needed)
+#### Heavy Weapon Combat (6 stat needed)
 
 -   Pressure Blast - Unleash a powerful pressure blast from the weight of your weapon.
 

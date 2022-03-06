@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 23083
+revid: 23981
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]

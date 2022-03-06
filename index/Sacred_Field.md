@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 23714
+revid: 23982
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -45,7 +45,7 @@ Sacred field is unique in its variation system in that there are many paremeters
 -   % of Elemental Resist
 -   Size
 -   Duration
--   Color (LEAN FIELD)
+-   Color
 
 #### _Corrupted_
 
