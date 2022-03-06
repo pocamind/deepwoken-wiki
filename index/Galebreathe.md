@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 23912
+revid: 23960
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 _"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White Cloak_
 
-_"Walk with the wind, stranger" - Vigil Issac_
+_"Walk with the wind, stranger." - Vigil Issac_
 
   
 
@@ -211,4 +211,4 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
--   Archmage stated that Galebreathe is the "least me" out of all the elements.
+-   Archmage stated that Galebreathe is the "least \[cool to\] me" out of all the elements.

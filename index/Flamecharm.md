@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 23713
+revid: 23973
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -232,3 +232,4 @@ These talents are found in the "Undying Ember" catagory.
     -   Flamecharm is the best for depth’s grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
 -   Flamecharm does not currently (as of 2/24/2022) possess any 3-star Mantra.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE
+-   Azure flames might be referencing to [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire firebending ability from Avatar: The Last Airbender.

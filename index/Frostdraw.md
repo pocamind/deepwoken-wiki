@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 23090
+revid: 23962
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -195,9 +195,7 @@ Impale/Impact
 
 ### **Support**
 
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Placeholder | Placeholder | Placeholder |
+deleted this, someone put "summon cauldron" here and it's not a frostdraw mantra, it's an intelligence mantra  
 
 ## Talents
 
