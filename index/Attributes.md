@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 23000
+revid: 23919
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -54,7 +54,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Agility
 
-"Watch me hit this sick jum-" - Last Words of A Ganymede
+"Watch me hit this sick jum-" - Last Words of A Vesperian
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.

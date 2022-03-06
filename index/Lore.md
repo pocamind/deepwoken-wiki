@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23907
+revid: 23950
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -552,7 +552,8 @@ _"The stars call you back..."_
 
 ### The Basic Attunements
 
--   According to Arch\_Mage, all of the basic elements appeared with the Canticlysm, which can be assumed to include Flamecharm, Frostdraw, Thundercall, and Galebreathe, as these are the ones you start with.
+-   According to Arch\_Mage, all of the basic elements appeared with the Canticlysm; a catastrophic event that lead to the downfall of the Old World.
+    -   These can be assumed to include Flamecharm, Frostdraw, Thundercall, and Galebreathe, as these are the ones you start with.
 
 ### Flamecharm
 
@@ -582,7 +583,6 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 ### Galebreathe
 
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
-    -   Galebreathe was created during the Canticlysm; a catastrophic event that lead to the downfall of the New World.
 
   
 
@@ -777,7 +777,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Handheld Bells that allow the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
--   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded" and can be other instruments other than bells.
+-   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded."
     -   In the game, you can only obtain your Resonance Bell in The Depths. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 -   Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.

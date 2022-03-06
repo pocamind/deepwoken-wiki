@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23893
+revid: 23951
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -587,6 +587,10 @@ These Talents are meant to make foraging and mining grant more resources.
 
 -   Excavator \[Generic Talent, Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
 -   Harvester \[Generic Talent, Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
+
+### Pyromancer
+
+-   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+3 Health, +5 Elemental Intensity)
 
 ### Raging Bull
 

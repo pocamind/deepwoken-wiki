@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 23839
+revid: 23952
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -64,7 +64,7 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   If the mantra is not a projectile, the hitbox size is reduced instead.
 
  |
-|  | Perfect Lens | +2 Range | 
+|  | Perfect Lens | +3 Range | 
 
 -   Increases range of Projectiles.
 

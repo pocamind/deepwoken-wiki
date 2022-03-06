@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 23871
+revid: 23912
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 _"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White Cloak_
 
-_"Walk with the wind, stranger" - Stratos_
+_"Walk with the wind, stranger" - Vigil Issac_
 
   
 

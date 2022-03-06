@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 23900
+revid: 23913
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -34,6 +34,6 @@ The Great Maul is a greathammer that can be dropped from the [Rock Golem](Rock_G
 
 ## Notes & Trivia
 
-\- Rare drop from [Golems](Rock_Golem.md).
+-   Rare drop from [Golems](Rock_Golem.md).
 
-\- Many Rock Golems spawn in Upper Erisia, grind these mobs when you are high level as these mobs can demolish freshies and anyone who is lower level than 30.
+-   Many Rock Golems spawn in [Upper Erisia](Upper_Erisia.md), grind these mobs when you are high level as these mobs can demolish freshies and anyone who is lower level than 30.

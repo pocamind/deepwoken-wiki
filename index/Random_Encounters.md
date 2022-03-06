@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 23895
+revid: 23934
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -22,11 +22,11 @@ Random encounters are randomly spawning events that occur throughout target area
 
 #### **Bandit Camp**
 
-A campfire, circled by three NPCs: 2 regular bandits and 1 bandit captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
+A campfire, circled by three NPCs, consisting of 2 regular bandits and 1 bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
 
 #### **Bandit Ambush**
 
-While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The bandit captain will yell "Surprise!" or "Stand and deliver!" upon spawning. This is the same as the Bandit Camp event except you cannot assassinate the captain as they are automatically aggro'ed to you. In the event they spawn on an elevated space or behind an object, it is possible to assasinate the regular bandits, though note the cries from gripping their captain will alert them. Completing this event will reward you with XP and a chest at which where they appeared from. Occurs at Erisia.
+While in Erisia, there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at Erisia.
 
 #### **Thieves**
 
@@ -34,29 +34,29 @@ A group of 3 thieves, recognizable by their black armor and the lack of campfire
 
 #### **Bandit Attack**
 
-In Etris or Vigils, 2 bandits can spawn in front of two guards near their respective area. In Etris they are located at the bridge where the entrance to the city is from the docks. In Vigils, they spawn in front of the Temple of Blade. The guards will usually win unless they are low on health, and helping them out will reward you. You will receive XP and reputation. This event does not spawn a chest.
+In Etris or Vigils, 2 bandits can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest.
 
 #### **Knives of Eylis**
 
-Similar to bandits, with 3 enemies spawning. They will wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaen Hostage. Occurs at Ersia and Songseeker Wilds.
+Similar to bandit events, with 3 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
 
 #### **Lost Villagers**
 
-In Upper Erisia, the player can encounter 2 hostage NPCs dressed in the [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir, the Royal Pathfinder, will give you new dialogue options. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
+In Upper Erisia, the player can encounter 2 hostage NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
 
 #### **Mudskipper Emergence**
 
-An encounter limited to [Erisia](Erisia.md), a group of special Mudskippers will appear from the ground, some of them have the ability to blow gust of winds that greatly push the target back, while the other explode on death (indicated by larger stomachs and a darker green coloration.) This encounter is made up of 3 waves.
+An encounter limited to [Erisia](Erisia.md). A group of special Mudskippers will emerge from the ground, some of them with the ability to blow gust of winds that greatly push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. This encounter is made up of 3 waves.
 
 #### **Mudskipper-Mancer**
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that have the ability to become intangible to all damage and summon 3 Mudskippers: 2 using Flamecharm, and 1 using Frostdraw.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon 3 Mudskippers, consisting of 2 that can use Flamecharm and 1 that can use Frostdraw.
 
 #### **Songseeker**
 
-In [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), a Songseeker may spawn anywhere on the island. They can be seen meditating but will aggro onto you if you enter their line of sight. They can be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They are unable to be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight. They will be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
-#### **X vs X**
+#### **_X_ vs _X_**
 
 Groups of NPCs from different factions will spawn and attack each other. Helping a side will reward you with their respective reputation. Some of these events may include but are not limited to:
 
@@ -72,7 +72,8 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 a golden warrior bouncer in the neutral position
 
   
-**Golden Warrior**
+
+#### **Golden Warrior**
 
 A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest and at which where he stood. Occurs in Erisia.
 
@@ -80,11 +81,11 @@ A hobo in the neutral position
 
   
 
-**[Hobo](Hobo.md)** The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him, most likely not more. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
+#### **[Hobo](Hobo.md)**
+
+The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him, most likely not more. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
 
 If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. Occurs in Erisia
-
-  
 
 #### **Pathfinders**
 
@@ -92,11 +93,11 @@ Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people
 
 #### **Megalodaunt vs Golem**
 
-A [Megalodaunt](Megalodaunt.md) can be found fighting a Golem or two in Upper Erisia. In this encounter, Golems will usually win.
+A [Megalodaunt](Megalodaunt.md) can be found fighting a Golem or two in Upper Erisia.
 
 #### **Megalodaunt vs Red Megalodaunt**
 
-Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md), this is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x more hp, and can rain fire swords.
+Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x it's normal HP and being able to rain fire swords.
 
 ### Depth Encounters
 
@@ -104,7 +105,7 @@ Main Article - D.R.I.N (Depths Random Interactive NPC's)
 
 #### **Divers vs Monster**
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)), however very rarely
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
 
 ## Unique Events
 

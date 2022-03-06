@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 23226
+revid: 23947
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,29 +14,33 @@ _This page is for Monster enemies. For humanoid enemies, see [Enemies](Enemies.m
 
 ## Introduction
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, method to obtain higher armor and mantra modifiers, reach new areas, but most importantly: be a fundamentals check. They can tear Players apart if they're unprepared, unlucky, or just plain out unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills, either intentionally or unintentionally. If a player can't even beat a Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; If a player can't even beat a Monster, what makes them think they can beat another player?
 
-While each Monster has unique attacks and patterns, they all share one thing; They can be learnt. Every Monster, up to even the Dread Serpent can be beaten as a fresh spawn if you are skilled enough.
+While each Monster has unique attacks and patterns, they all share one thing; You can learn them. Every Monster, **even up to even the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
 
 ### Monster Hunting Advice
 
 While most of the way to fight a Monster is specific to what kind it is, there's generally a few good rules that apply to most, if not all monsters.
 
--   If an attack has a red aura/effect to it, it **CANNOT** be blocked normally and must be dodged. These attacks are generally slower than regular attacks giving you more time to dodge. The only way to block them is using Hunters Brace.
--   Never run from any Monster, if you know you have a slim of a chance of beating them. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's longer range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, Monsters have MUCH bigger bark than their bite. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   Practice makes perfect, try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Unpreparedness is a bigger killer than the Monsters themselves. The absolute worst thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, others are the opposite and are deceptively strong, for example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
--   Monsters are affected by most things a player would be affected by, including Potions, Status Effects, Flinging, and can even be stunned if they get hit hard and fast enough.
+-   **If an attack has a red aura/effect to it, it _CANNOT_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace.
+-   **Never run from any Monster _if_ you know you have a slim of a chance of beating them**. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
+-   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite, and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   **Monsters are affected by most things a player would be affected by**, including:
+    -   Potions
+    -   Status Effects
+    -   Flinging
+    -   Stunned (if they get hit hard and fast enough.)
 
 ### The Depths
 
-In The Depths, Monsters have significant differences, some easily noticeable, and others, not so much. Some changes include:
+**In The Depths, Monsters have significant differences**, some easily noticeable, and others, not so much. Some changes include:
 
--   No longer attack each other based on species, and instead, completely focusing on players.
--   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players.
--   Being much more aware, noticing players from further away, or even behind them.
--   Gaining new behaviors/abilities, such as Lionfish Cero.
--   Becoming much more persistent in chasing, almost never stopping until the death of them, or the player
--   **Being able to spawn Enhanced (commonly known as Corrupted), signified by a purple aura, with roughly twice (2x) the damage and thrice (3x) the health of their normal versions.**
+-   **No longer attack each other based on species**, instead completely focusing on players.
+-   **Benefiting from the lower gravity of The Depths**, being able to jump much higher to pursue players.
+-   **Being much more aware**, noticing players from further away, or even behind them.
+-   **Gaining new behaviors/abilities**, such as Lionfish Cero.
+-   **Becoming much more persistent in chasing**, almost never stopping until the death of them or the player.
+-   **Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.**
 
 ## Monster List
 
@@ -123,13 +127,15 @@ Every single Monster in the game is part of a single family. Families deal with 
 </tbody>
 </table>
 
-One thing you might notice is that some of these types might layer over with each other, like Lionfish and Megalodaunts able to spawn in The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is still ONLY Giant, and a Lionfish in The Depths is still ONLY Sea, so keep that in mind when using accessories.
+One thing you might notice is that some of these types might layer over with each other, like Lionfish and Megalodaunts able to spawn in The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea**, so keep that in mind when using accessories.
 
 ## PVE Scaling
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 fifty hits to kill one? Well, no.
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 fifty hits to kill one?
 
-When you level up, you automatically gain a bonus damage against PVE, currently estimated to be 10%. This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill monsters much faster than a fresh spawn with the same damage. This scaling very quickly becomes crazy in its own right, (to cope with monster's crazy health, of course), and at Power 60, you can basically kill stuff like Megalodaunts or Lionfish in less than 5 hits.
+**Well, no.**
+
+When you level up, you automatically gain bonus damage during PVE, currently estimated to be 10%. This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a fresh spawn with the same damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and at Power 60, you can basically kill stuff like Megalodaunts or Lionfish in less than 5 hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 
@@ -137,7 +143,7 @@ Let's say you have a weapon that deals 40 damage per swing, and you're Power 50.
 
 A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to a fresh spawn with a weapon that does 20 damage, having to hit it 50 times, just for how big of a reference the PVE scaling makes. In all actuality, your actual damage is less important than simply being a high power.
 
-# Notes/Trivia
+## Notes/Trivia
 
 -   Creatures have predictable and easy to learn attack patterns.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack.
@@ -146,4 +152,4 @@ A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to
 -   Some creatures will fight each other; Multiple can fight at the same time. Example [Here](https://youtu.be/01uQchtfUvw), [Also Here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s)
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
 -   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap
--   It's unknown what typing that Alpha Megalodaunts are, as they're a Megalodaunt variant, but only found in The Depths.
+    -   It's unknown what typing that Alpha Megalodaunts are, as they're a Megalodaunt variant, but only found in The Depths.

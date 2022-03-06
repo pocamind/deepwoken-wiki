@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 23492
+revid: 23941
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,12 +21,12 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
   <th>Effect</th>
 </tr>
 <tr>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Bloodless Gem</b><p>'<i>It bleeds...'</i></p></td>
   <td>Allows you to lifesteal at the cost of 20% reduced mantra damage, heals depending on how much damage is dealt.</td>
 </tr>
 <tr>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Wind Gem</b><p><i>'It breathes...'</i></p></td>
   <td>Gives you a speed boost when you hit a player/NPC with your mantra, equivalent to the speed boost after sliding.</td>
 </tr>
@@ -43,12 +43,12 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
   <td>Reduces the windup to 25% of original cast speed of the mantra you use after hitting the mantra with the gem on it</td>
 </tr>
 <tr>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Blessed Gem</b><p><i>'Cold to the touch...'</i></p></td>
   <td>Half your mantra cooldown by 50% when landed</td>
 </tr>
 <tr>
-  <td></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Blue Gem</b><p><i>'It oozes Ether...'</i></p>
   <p><i></i></p></td>
   <td>Reduces Ether Cost by 50%.</td>

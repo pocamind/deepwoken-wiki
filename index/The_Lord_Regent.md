@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 15705
+revid: 23914
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― Lord Regent
 
-Template:NPC name The Lord Regent is a mysterious and powerful "enemy" that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
+Template:NPC name ( -NOTE: He is very racist beware of that.) The Lord Regent is a mysterious and powerful "enemy" that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
 
 He does not leave his throne under any circumstances. It is unclear whether this is due to choice, or because he is forced to remain there for reasons unknown. Because of this, his subjects believe that he is stricken with some kind of illness and is therefore remaining inside his palace to recover.
 
@@ -21,11 +21,11 @@ He does not leave his throne under any circumstances. It is unclear whether this
 
 -   **Thousand Threads:** The Lord Regent suspends his target in the air using strings made of [Shadowcast](Shadowcast.md) magic before instantly executing them.
     -   This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape.
-        -   The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is reenabled when the player complete the quest by killing The Duke and returning to the Lord Regent to report.
+        -   The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled when the player completes the quest by killing The Duke and returning to the Lord Regent to report.
 
 ## Notes/Trivia
 
--   He is mentioned by the teacher, in the charisma story as sacrificial king
+-   He is mentioned by the teacher, in the Charisma story as the "Sacrificial King".
 -   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n))
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he also uses [Shadowcast](Shadowcast.md) magic.
 -   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.

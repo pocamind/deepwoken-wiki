@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 23910
+revid: 23917
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -43,12 +43,12 @@ _Chance of obtaining race: **8%**_
 
 ## Miscellaneous
 
--   **Lore:**
-    
-      
-    
+**Lore:**
 
-They hail from the Western Luminant, but little is known about that place
+  
+They hail from the Western Luminant, but little is known about that place.  
+
+**Strengths:**
 
   
 
@@ -56,6 +56,8 @@ They hail from the Western Luminant, but little is known about that place
 +2 Charisma  
 
 Allows the use of equipment 3 points earlier than other races.  
+
+**Surnames:**
 
   
 
@@ -72,7 +74,7 @@ Allows the use of equipment 3 points earlier than other races.
 
 ## Notes/Trivia
 
--   JUST BECAUSE YOU ARE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE -Reaconteur
+-   JUST BECAUSE YOU ARE A MONKEY, DOES NOT MEAN YOU NEED TO ACT LIKE ONE! -Reaconteur
 -   The race is based off Sun Wukong and monkeys.
 -   Khan means "ruler" in Mongolian, Chinese and Hindi.
 -   In the novel "Journey to the West", The crown of Sun Wukong is actually a curse.
