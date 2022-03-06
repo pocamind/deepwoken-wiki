@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 23717
+revid: 23900
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -29,3 +29,11 @@ categories: [Weapons, Weaponry, Items]
 ## Description
 
 The Great Maul is a greathammer that can be dropped from the [Rock Golem](Rock_Golem.md), and it requires 65 Heavy Weapons and 30 Strength to wield. The weapon has a Base Damage of 25 and a scaling of 8. Notably, the Great Maul also has a 5% penetration stat.
+
+  
+
+## Notes & Trivia
+
+\- Rare drop from [Golems](Rock_Golem.md).
+
+\- Many Rock Golems spawn in Upper Erisia, grind these mobs when you are high level as these mobs can demolish freshies and anyone who is lower level than 30.

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 23793
+revid: 23897
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -20,7 +20,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a monstrous humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins might be more complicated...
+**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins might be more complicated...
 
 ## Attacks
 

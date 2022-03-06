@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 23425
+revid: 23895
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -26,7 +26,7 @@ A campfire, circled by three NPCs: 2 regular bandits and 1 bandit captain. Loot 
 
 #### **Bandit Ambush**
 
-While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The bandit leader will usually yell "Surprise!" upon spawning. This is the same as the Bandit Camp event except you cannot assassinate them as they are automatically aggro'ed to you. Completing this event will reward you with XP and a chest at which where they appeared from. Occurs at Erisia.
+While in Erisia (or others?), there is a chance that three NPCs will fall from the sky and "ambush" you. The bandit captain will yell "Surprise!" or "Stand and deliver!" upon spawning. This is the same as the Bandit Camp event except you cannot assassinate the captain as they are automatically aggro'ed to you. In the event they spawn on an elevated space or behind an object, it is possible to assasinate the regular bandits, though note the cries from gripping their captain will alert them. Completing this event will reward you with XP and a chest at which where they appeared from. Occurs at Erisia.
 
 #### **Thieves**
 

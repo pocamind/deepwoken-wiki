@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 23370
+revid: 23901
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1037,17 +1037,17 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
-  <td>35 FTD</td>
+  <td>30 FTD</td>
   <td>1.75</td>
 </tr>
 <tr>
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>
-  <td>42 FTD</td>
+  <td>45 FTD</td>
   <td>2.05</td>
 </tr>
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
-  <td>65 FTD</td>
+  <td>60 FTD</td>
   <td>5</td>
 </tr>
 </tbody>
@@ -1055,7 +1055,7 @@ Weapons that scale with a certain element
 
 ## Calculating Damage and Attack Speed
 
-Players can use this formula to figure out their complete damage.
+Players can use [this formula](https://www.desmos.com/calculator/sbokgffwxn) to figure out their complete damage.
 
 D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) ∗ S c a l i n g ) {\\displaystyle Damage = Base Dmg + AttributeLevel((base/1000) \* Scaling)} {\\displaystyle Damage=BaseDmg+AttributeLevel((base/1000)\*Scaling)}
 

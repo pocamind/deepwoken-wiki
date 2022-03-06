@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 23707
+revid: 23910
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -77,3 +77,4 @@ Allows the use of equipment 3 points earlier than other races.
 -   Khan means "ruler" in Mongolian, Chinese and Hindi.
 -   In the novel "Journey to the West", The crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Ghengis Khan.
+-   Could be inspired by the Monkey King

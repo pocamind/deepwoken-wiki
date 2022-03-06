@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 20781
+revid: 23903
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker, Hive, Summer Isle, Depths and PVP Arena chests |
+| obtainment | Hive, Summer Isle, Depths and PVP Arena chests |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 ## Description

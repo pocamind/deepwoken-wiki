@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23884
+revid: 23893
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -25,7 +25,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 -   A high enough [Core Attribute](Attributes.md), whether it be INT, CHR, or AGI.
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
-    -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "UWUce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
+    -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "Galeforce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
 -   Doing certain actions that may influence your rolls, such as [fishing](Fishing.md) and [alchemy](Alchemy.md).
     -   For example: Making a lot of potions will include the Potion Quaffer Talent in your roll pool now.
 -   A high enough Power.

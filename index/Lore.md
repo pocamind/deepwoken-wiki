@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23822
+revid: 23907
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -115,9 +115,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown.
-        -   Talking to the Summer Company Guards stationed in Summer Isle, they mentioned of their leader. It's unknown if it is ~Rosen or Hierka~ **It's Rosen, Hierka is a traitor and the Summer Guards will refer to Rosen by name if you have maximum reputation with them ("Welcome back to the Castle, \[Name\]. Keep making Rosen proud.")**.
 
--   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen, the possible original origin of firearms, or a consequence of the mass-manufacturing of the guns produced by Summer Company.
 -   Betrayed by his former prodigy, Gunsmith Hierka who used the Summer Company's secrets in order to create the Rifle Spear for the Authority.  
     
 
@@ -239,19 +237,24 @@ Amara, a Member of The Legion.
 
 ### The Summer Company
 
+_"Aye, thanks for the help. The Authority better start sending some help before we start declining their firearm contracts." - Scope_
+
 -   **Territory:** _Summer Isles_
 -   **Encountered In:** _Summer Isles_
 -   **Attunements:** _N/A_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:** _Random encounters, Scope, Summer Company Guard Dialogue (Good Rep)_
+-   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned)_
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
--   They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
--   Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
--   The Leader of Summer Company is unknown, as it was only mentioned by the Summer Company Guards.
+-   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
+-   _(Scope) Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply._
+-   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
+-   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. The previous known leader of Summer Company was Gunsmith Rosen.
+    -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company. Although, this piece of dialogue doesn't lead anywhere nor give news of Rosen's status.
+-   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
 
 A Summer Company Member.
 
@@ -404,8 +407,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Lore Sources:** _Arch\_Mage, Songseeker Wilds_
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
-    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Song
-        -   While Galebreathe Songseekers don't exist in game, Arch\_Mage has said that there is no reason they couldn't exist, and them not existing in game is just coincidence.
+    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's 3 Attunements; thus is the reason why Galebreathe Songseekers do not exist.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
 
 ### Bandits

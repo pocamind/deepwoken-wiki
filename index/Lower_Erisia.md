@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 23285
+revid: 23908
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -95,6 +95,7 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   Gold Ring
 -   Konga's Clutch Ring
 -   Leather Boots
+-   Autumn Boots
 -   Black Fur Boots
 -   White Fur Boots
 

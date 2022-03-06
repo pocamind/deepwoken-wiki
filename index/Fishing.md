@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 20659
+revid: 23894
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -24,9 +24,9 @@ After you catch a fish once, you can get the "hook, line and sinker" talent whic
 
 There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. (i didnt have to successfully catch a fish to get this, just a couple failed attempts. -rexcks#5029)
 
-## Fish
+## Loot From Fishing
 
-You can fish up many different kinds of fish. The bigger the fish, the better the loot. The fish you can fish up are:
+You can fish up many different kinds of fish with there being a chance of other items. The bigger the fish, the better the loot. The loot you can get from fishing are:
 
 File:Tuna.png
 
@@ -42,6 +42,7 @@ Fishing up the Tuna.
 -   Seaweed (1 Seaweed)
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
+-   Old Boots (Leather boots)
 
 ## Bait
 
