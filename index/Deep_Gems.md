@@ -1,8 +1,9 @@
 ---
 title: Deep Gems
-revid: 23941
+revid: 24000
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Deep Gems
@@ -21,37 +22,34 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
   <th>Effect</th>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Bloodless Gem</b><p>'<i>It bleeds...'</i></p></td>
-  <td>Allows you to lifesteal at the cost of 20% reduced mantra damage, heals depending on how much damage is dealt.</td>
+  <td></td>
+  <td>Insignia Gem</td>
+  <td>The next Mantra you cast within a short timeframe will have a 25% windup reduction.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Wind Gem</b><p><i>'It breathes...'</i></p></td>
-  <td>Gives you a speed boost when you hit a player/NPC with your mantra, equivalent to the speed boost after sliding.</td>
+  <td>Bloodless Gem</td>
+  <td>Heals user by 50% of the damage dealt by the Mantra.<p>Reduces damage of mantra for 20%.</p></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Blessed Gem</td>
+  <td>Blessed Gem now halves the cooldown of the move you landed it on, and no longer affects other mantras</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Blue Gem</td>
+  <td>Reduces Mantra ether cost by half.</td>
+</tr>
+<tr>
+  <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>
+  <td>Wayward Gem</td>
+  <td>You will teleport to the first enemy hit by the mantra.</td>
 </tr>
 <tr>
   <td></td>
-  <td><b>Wayward Gem</b><p><i>'It's phasing in and out of existence...'</i></p>
-  <p><i></i></p></td>
-  <td>If players/NPCs receive any form of damage from your mantras, you get teleported to them.</td>
-</tr>
-<tr>
-  <td></td>
-  <td><b>Insignia Gem</b><p><i>'A sign of intelligence...'</i></p>
-  <p><i></i></p></td>
-  <td>Reduces the windup to 25% of original cast speed of the mantra you use after hitting the mantra with the gem on it</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Blessed Gem</b><p><i>'Cold to the touch...'</i></p></td>
-  <td>Half your mantra cooldown by 50% when landed</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td><b>Blue Gem</b><p><i>'It oozes Ether...'</i></p>
-  <p><i></i></p></td>
-  <td>Reduces Ether Cost by 50%.</td>
+  <td>Wind Gem</td>
+  <td>Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope.</td>
 </tr>
 </tbody>
 </table>

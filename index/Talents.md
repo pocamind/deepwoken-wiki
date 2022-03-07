@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23979
+revid: 23991
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -806,7 +806,7 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Visionshaper
 
--   Lasting Image \[Visionshaper Exclusive, Common Talnet\] - Your illusions last longer.
+-   Lasting Image \[Visionshaper Exclusive, Common Talent\] - Your illusions last longer.
 
 ### Warrior
 

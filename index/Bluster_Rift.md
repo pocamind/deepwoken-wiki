@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 23985
+revid: 23990
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -21,10 +21,6 @@ The winds pick up - and so too do the rapids of this treacherous gorge.
 ## Overview
 
 Bluster Rift is a location in _Deepwoken_.
-
-## Contents
-
-You can farm Red Calabashes in that location.
 
 ## Loot Table
 

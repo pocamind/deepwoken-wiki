@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 23975
+revid: 23999
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -28,7 +28,7 @@ Known downsides include:
 
 **Legendary Resonances**
 
-**Legendary Resonances** are yet another category of resonances which are obtained the same way as normal resonances, except they are much rarer and display a golden/yellow aura when obtained.[\[1\]](https://deepwoken.fandom.com/wiki/Teleportation) The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
+**Legendary Resonances** are yet another category of resonances which are obtained the same way as normal resonances, except they are much rarer and display a golden/yellow aura when obtained.[\[1\]](https://deepwoken.fandom.com/wiki/Teleportation) The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). You can obtain corrupted legendary bell however it won't say in the card that it's corrupted it will only say legendary resonance thus you have no way to know if your legendary resonance card is corrupted or not until you pick it and used it.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 23952
+revid: 24008
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,7 +35,7 @@ Unknown whether or not Sparks count towards the 6 modifier limit.
 
 Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades including sparks. Upgrading an already upgraded Mantra will stack onto the previous upgrades.
 
-\`\`Note\`\`: On the 08/02/2022, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts. These infos are still missing and would be appreciated.
+\`\`Note\`\`: On the 08/02/2022, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, They now cost notes to use them.
 
 | Image | Modifier | Effect | Note |
 | --- | --- | --- | --- |

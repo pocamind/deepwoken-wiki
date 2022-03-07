@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 23988
+revid: 24004
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,6 +18,7 @@ but when the people wanted to make stone statues of them they thought "this frui
 Note: Red Calabash is NOT real, there isnt any proof of it actually existing as an item, and its fake proof of existing is photoshop (even this image of the Calabash is faked as a red one, search red calabash on google).
 
   
+red calabash might not be real, however, blue calabash is real (please dont ban me its true!!)
 
 ## Recipies used in
 

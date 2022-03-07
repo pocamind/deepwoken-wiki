@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 22258
+revid: 23993
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -73,3 +73,12 @@ Here is what makes the Isle of Vigils unique:
 -   A trainer to fight against with no consequences for losing all your HP.
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.
+
+**  
+Minityrsa**
+
+[Minityrsa](Minityrsa.md) is a snowy island with freezing temperatures which is guarded by [Brainsuckers](Brainsucker.md), with the main point of interest being a stronghold containing the portal to [Trial of One](Trial_of_One.md) in it.
+
+-   Minityrsa's spawn option can be unlocked by beating the [Trial of One](Trial_of_One.md), and permanently saves for the specific slot that beat it.
+-   The [Valley Of Heros](The_Valley_of_Heroes.md) is located above Minityrsa. While the season is not winter, [Aelita](Aelita.md) is there (a [Visionshaper](Oaths.md) requirement) waiting for players to visit her to play a minigame. While the season is winter, [Stone Knights](Stone_Knight.md) will spawn instead of [Aelita](Aelita.md).
+-   The island has no food sources, but its a good farming spot for medium power players. Note: I don't have a lot of information about Minityrsa, please add more if you have the spawn unlocked.

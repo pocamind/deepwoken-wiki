@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 23779
+revid: 24010
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -48,3 +48,4 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Aelita recently got her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E), composed by Naktigonis.
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
+-   Aelita is also Bisexual (Confirmed by arch)
