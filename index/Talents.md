@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 23991
+revid: 24068
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -326,8 +326,9 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary Talent, 30 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
+-   Exoskeleton \[Legendary Talent, 20 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
     -   Can be stacked with Chitin.
+    -   Its requirements 20 fortitude not 30.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
 
@@ -479,7 +480,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
-    -   Prerequisite: 10 willpower
+    -   Prerequisite: 30 Strength and 30 Fortitude (You don't need willpower)
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)

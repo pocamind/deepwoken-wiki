@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 23671
+revid: 24064
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,6 @@ Monsters and certain enemies will be neutral to the player unless provoked. Any 
 -   Animal Bosses **will not** attack you, including Primadon.
 -   ~Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)~ Chest loot seems to be completely unaffected, but we all get unlucky sometimes.
 -   The best talent for Sharko-simps to get up close and personal.
--   Idk if this is a bug because when animal king is first known, I was in the depth and no monster dare to attack me, weird thing is everyone in server can do that too and when I go to the depth again, a sharko come from behind and kick me into the void.
 -   Is actually confirmed to be called **"Mute"** but that name is lame.
 
 ## Termite
@@ -47,3 +46,12 @@ Gain the ability to consume non-food items.
 -   Urchin
 -   Scallop
 -   Gems (e.g. emerald, diamond, ruby, gold, platinum, ect.)
+
+Obtainment (my method)
+
+-   Age 20+
+-   Eaten many types of ingredient
+-   Thrown up many times
+-   Made a certain number of different foods
+
+I sadly don't have proof, but I got it on two different slots with this method.

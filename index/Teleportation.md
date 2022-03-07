@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 23764
+revid: 24065
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -37,7 +37,7 @@ Pressing "C" will activate the **Teleportation** Resonance.
 
 ### _Variants_
 
-**Corrupted Version** gives possibility to post 7 waypoints
+**Corrupted Version** increases the radius of the teleportation ring.
 
 **2nd Version** gives possibility to post 3 waypoints.
 

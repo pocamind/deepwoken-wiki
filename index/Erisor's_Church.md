@@ -1,6 +1,6 @@
 ---
 title: "Erisor's Church"
-revid: 18196
+revid: 24050
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,7 +23,7 @@ Erisor's Church is a small ruined church. It can be found by the entrance to the
 ## Enemies
 
 -   [Bandit](Bandit.md)
--   [Bandit Captain](Bandit_Leader.md)
+-   [Bandit Captain (chance for a giant army)](Bandit_Leader.md)
 -   [Rock Golem](Rock_Golem.md)
 
 ## Events

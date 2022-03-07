@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24042
+revid: 24063
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -167,7 +167,7 @@ Damage Vs. Deep
 
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
-| File:Golden Cape.png | Golden Cape | Grants a random buff. | Minityrsa Chests |
+| File:Golden Cape.png | Golden Cape | Grants a random buff. | Pretty much all Chests |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff | Depths Chests |
 | File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants 2 (Random) Buffs | Depths Chests |
 |  | Dawn Scarf |  | Hive Chests |
@@ -177,7 +177,7 @@ Damage Vs. Deep
 |  | Tundra Scarf | Grants a random buff | Hive Chests |
 |  | White Scarf |  | Hive Chests |
 |  | Desert Scarf |  | Hive Chests |
-| File:Onepiececape.png | Red One Piece Cape | 2 Random Buffs | Summer Island chests |
+| File:Onepiececape.png | Fleet Warden Cape | Usually 12 hp | Summer Island crate quest. 1% drop |
 |  | Forest Scarf |  | Hive Chests |
 |  | There's a lot more scarves out there, someone add them |
 

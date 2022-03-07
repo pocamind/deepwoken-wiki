@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 23836
+revid: 24054
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -75,6 +75,12 @@ Shadow Roar
 (★★☆)
 
  | Roar a wave of shadows. | The user leans and creates a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. You are unable to move while using it. Blockable but block breaks, can be parried. |
+|  | 
+
+Shadow Seekers  
+(★☆☆)
+
+ | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether (or reservoir if the ether bar is emptied.) |
 
 ### **Support**
 
