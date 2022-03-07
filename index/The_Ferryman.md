@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 23890
+revid: 24040
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -66,7 +66,7 @@ able?
 
 ### Finishers
 
--   **Boatman's Gaze** - The Ferryman does not need to execute manually anyone. If you lose all of your health, you die instantly.
+-   **Boatman's Gaze** - The Ferryman does not need to manually execute anyone. If you lose all of your health, you die instantly.
 
 ## Battle
 

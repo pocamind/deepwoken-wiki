@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 23423
+revid: 24035
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -70,7 +70,7 @@ We'll note the items this way:
 2.  Trying to transfer a IS with better stats to a IA with worse stats = the IA will have it's stats upgraded.
 3.  Trying to transfer a IS with any stats to a IA with no stats = the IA will obtain the said stats, but will get downgraded slightly.
 
-In conclusion, forging is _very, very overpowered_ as you can get gear that has atleast **60 hp** if you play your cards right.
+~In conclusion, forging is _very, very overpowered_ as you can get gear that has atleast **60 hp** if you play your cards right.~ This is not true anymore since they nerfed forging, can only be used to make cool outfits with low health have a decent amount of health.
 
 ### _**Inn**_
 
@@ -173,6 +173,8 @@ Answering with the first dialogue option and returning to Trig will cause him to
 
 Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but also a new Gun Technique, which is a talent called Armor Piercing. (Requires intelligence to obtain, gun critical requires Ether Bullets which requires 10 intelligence to obtain.)
 
+-   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
+
 ### _**Scope's Fetch Quest**_
 
 Scope can be found in a building opposite to the blacksmith in the above image mentioning the Blacksmith. He needs you to recover boxes of explosives that Summer Company guards cannot deliver at the time, due to being too busy fighting off the Ignition Union.
@@ -180,6 +182,8 @@ Scope can be found in a building opposite to the blacksmith in the above image m
 These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post battle. Returning to Scope with one of these big boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
 
 Please note, that fighting the Ignition Union with the Summer Company will not net you positive reputation for them.
+
+-   Scope could be a pun based on sniper rifles and other guns that have a "scope".
 
 File:Red Crate.png
 

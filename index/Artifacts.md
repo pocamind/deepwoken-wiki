@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 24020
+revid: 24034
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -21,7 +21,7 @@ Artifacts are rarely guarded by Monsters or Enemies, but usually it is completel
 A Celtor finding the pulsating rings.
 
 -   Notes
--   10-16% Luck
+-   16% Luck
 -   10 Common to Rare Items, including:
     -   Armor Schematics
     -   Weapons
@@ -31,9 +31,7 @@ A Celtor finding the pulsating rings.
 
 ## Locations
 
-From what ive seen the artifact has set spawn locations which are:
-
--   Legion camp in vipers jaw in lower erisia
+-   They spawn randomly around the map.
 
 ## Notes/Trivia
 
