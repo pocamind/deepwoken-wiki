@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 23933
+revid: 24020
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -26,6 +26,14 @@ A Celtor finding the pulsating rings.
     -   Armor Schematics
     -   Weapons
     -   Equipment
+
+  
+
+## Locations
+
+From what ive seen the artifact has set spawn locations which are:
+
+-   Legion camp in vipers jaw in lower erisia
 
 ## Notes/Trivia
 

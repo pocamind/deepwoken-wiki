@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 24005
+revid: 24021
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -45,20 +45,21 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Knocks enemies back.
 -   User takes reduced damage and has hyper-armor during casting.
 -   Can be improved with talent _Thorns of Fire_.
+-   Compatible with Cloud/Stratus Stones.
 
  |
 | File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons seven burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).
--   Similar to Frostdraw's [Frozen Servants](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
+-   Identical to Frostdraw's [Frozen Servants](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
 -   Improved by [Cloudstone](Mantra_Modifiers.md#regular-modifiers)[\[1\]](https://deepwoken.fandom.com/wiki/Cloudstone)
 
  |
 |  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
 
 -   Deals light damage.
--   Very short cooldown.
+-   No Cooldown.
 -   Burns target(s).
 -   Can destroy certain parts.
 -   Can propel the caster backwards if it is casted while jumping/walking backwards or in water.
@@ -84,6 +85,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   _Radius unknown._
 -   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
 -   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
+-   Buffed by a Rare Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |
 |  | Fire Palm(★) | A blast of flame. | Caster releases an eruption of fire in front of them.
@@ -99,6 +101,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Deals moderate-high damage.
 -   The second explosion ragdolls enemies.
 -   NPCs have trouble blocking the second explosion.
+-   The second explosion posture breaks.
 
  |
 |  | Fire Forge (★) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
@@ -108,6 +111,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Breaks certain tiles (Hidden village door, glider cave planks).
 -   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
 -   Can not be upgraded with a multiplying spark.
+-   Can be upgraded with Magnet Spark, but the change is unknown.
 
  |
 |  | Fire Blade | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
@@ -169,6 +173,8 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Compatible with Duration, Intensity and Size Buffs.
 -   Ritual casting.
 -   Does not go out in rain
+-   Using Blue Gem will NOT work I already tried.
+-   Does not work in The Depths unless used with Undying Flames (Rare Flamecharm Talent)
 
  |
 |  | Flame of Denial | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
@@ -230,6 +236,8 @@ These talents are found in the "Undying Ember" catagory.
     -   Flame Palm, though it may look similar to "Ignis" from Rogue Lineage, is cast more similarly to moves like Combustion from Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from **Sekiro**, as the spell does NOT multihit, instead being a single large hit that sets on fire.
     -   Flame blind though it is similar to snap Velo from Rogue Lineage, how it functions like a projectile that blinds is inspired from Valorant character "**Phoenix**" as his abilities also have a blinding projectile when used.
     -   Flamecharm is the best for depth’s grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
--   Flamecharm does not currently (as of 2/24/2022) possess any 3-star Mantra.
+-   Flamecharm does not currently (as of 3/6/2022) possess any 3-star Mantra.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE
 -   Azure flames might be referencing to [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire firebending ability from Avatar: The Last Airbender.
+    -   This, or the fact that blue fire is naturally hotter that the normal red/orange fire
+        -   By this logic, White Flames could be a card added along the line of updates.

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 23934
+revid: 24015
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -93,7 +93,7 @@ Rarely, the player may find 3 Pathfinders sitting around a campfire. Most people
 
 #### **Megalodaunt vs Golem**
 
-A [Megalodaunt](Megalodaunt.md) can be found fighting a Golem or two in Upper Erisia.
+A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) or two in Upper Erisia. The Golem will usually be victorious.
 
 #### **Megalodaunt vs Red Megalodaunt**
 

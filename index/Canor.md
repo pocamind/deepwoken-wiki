@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 23909
+revid: 24022
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -45,7 +45,7 @@ _Chance of obtaining race: **15.2%**_
 **Lore:**
 
   
-The race of canids, little is currently known about their origins.
+The race of canines, little is currently known about their origins. Once guards for the Adretian/Central Authority, unknown why this ended.
 
 **Strengths:**
 

@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 23205
+revid: 24012
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -16,9 +16,7 @@ categories: [Weapons, Weaponry, Items]
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.8x |
-| endlag | N/A |
 | penetration | N/A |
-| special effect | N/A |
 | stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |
@@ -26,7 +24,7 @@ categories: [Weapons, Weaponry, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Fort Merit |
-| description | The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warrior in the Authority's arsenal. Their presence in public affairs is seen as a move to stike fear into their enemies. |
+| description | The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies. |
 
 ## Description
 

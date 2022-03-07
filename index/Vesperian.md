@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 22324
+revid: 24025
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -100,3 +100,7 @@ A layer of protective armor that regenerates at rest.
 -   This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
     
     File:Similar Last Names.png
+    
+      
+    
+-   Also noted somewhere in lore (I forget where) that the masks are organic and grow over time.
