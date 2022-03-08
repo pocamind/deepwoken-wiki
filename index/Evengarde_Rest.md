@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 20388
+revid: 24070
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,3 +17,4 @@ Evengarde is respectful towards those who save his Vigils and even feels in thei
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
 -   Presumably a [Galebreather](Galebreathe.md), given that the other Vigils are. There is also a Galebreathe talent named "Maestro's Blade", which allows the user to enhance their weapon by inhaling their mantras.
+-   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel), these are only mentioned during his training and are not shown in-game.

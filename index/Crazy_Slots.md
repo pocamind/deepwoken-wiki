@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 23504
+revid: 24077
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -103,13 +103,13 @@ Base damage values for Corrupted weapons are estimates._1_
 ## Trivia/Notes
 
 -   This Resonance has the potential to be very powerful. For example, a non-corrupted version of the Divine Spear with a user possessing 100 MED will do 50 points of damage per hit. As the corrupted bell version doubles that, a corrupted Divine Spear user with 100 med will do an estimated 100 points of scaled damage if the opponent is not using any armor. This can be further buffed by food buffs and talents like the [Flamecharm](Flamecharm.md) talent "Flame Within" that increases damage and movement speed while set on fire.
-
--   Even without weapon stats (i.e the user is a Hero Blade user), crazy slots may quickly be used in order to use their powerful abilities, as well as possessing quite high base stats to begin with.
--   In the community, this Resonance is often considered hit or miss. Because the weapons scale with the user's weapon attributes, there is potential for them to be very strong if they match your preferred weapon type but may be weaker than some late-game weapons otherwise.
-
--   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons, but the visuals (i.e. the glowing yellow blade from Heroism) won't show. (This may be for only a few enchants, it has been seen that a storm weapon glows blue.)
-
--   If your weapon has stars, their effect will also apply to your Crazy Slots weapons.
+    -   However, it is also widely considered hit-or-miss by the community. While there's the potential for the weapons to be very strong if they match your weapon type, they may also be weaker than some late-game weapons otherwise.
+-   Even without decent weapon proficiency (i.e the user is a Hero Blade user), Crazy Slots weapons can still be used for their powerful abilities. They also possess fairly high base stats to begin with.
+-   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons.
+-   If your weapon has stars, their effects will also apply to your Crazy Slots weapons.
 -   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
--   The Divine Spear model highly resembles the "_Primordial Jade Winged-Spear_" from _Genshin impact_.
+-   The Divine Spear model highly resembles the "_Primordial Jade Winged-Spear_" from _Genshin Impact_.
 -   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
+-   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.
+    -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Axes.
+    -   The [Greater Angels](https://deepwoken.fandom.com/wiki/Angels?so=search#Greater) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.

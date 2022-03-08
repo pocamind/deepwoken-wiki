@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 23960
+revid: 24073
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -12,7 +12,7 @@ _"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White
 
 _"Walk with the wind, stranger." - Vigil Issac_
 
-  
+"Death is like the wind, always by my side" - Tempest Blade  
 
 ## Description
 

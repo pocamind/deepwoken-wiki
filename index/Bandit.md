@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 23247
+revid: 24080
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -27,7 +27,7 @@ Bandits can appear in [Random Encounters](Random_Encounters.md) and in locations
 
 ### Health
 
-Bandits have ~100 health and can be assassinated in one shot without the Assasin talent.
+Bandits have ~100 health and can be assassinated in one shot without the Assasin talent. They can easily be one-shotted at decent levels.
 
 ### Weapons
 
@@ -43,4 +43,4 @@ Bandits have a chance to drop lesser variants of [Mantra Modifiers](Mantra_Modif
 
 ## Trivia/Notes
 
--   Player notes here
+-   According to the lore, they have turned to a life of crime due to the affect the War has had on the East, causing jobs to become scarce

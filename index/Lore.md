@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 23950
+revid: 24081
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -550,10 +550,12 @@ _"The stars call you back..."_
 
 ## Attunement Lore
 
-### The Basic Attunements
+### The Three Attunements of the Old World
 
--   According to Arch\_Mage, all of the basic elements appeared with the Canticlysm; a catastrophic event that lead to the downfall of the Old World.
-    -   These can be assumed to include Flamecharm, Frostdraw, Thundercall, and Galebreathe, as these are the ones you start with.
+**Lore Sources:** Naktigonis (The Sun, Gleaming)
+
+-   The Three original Attunements of Deepwoken existed during the era of the Old World, that being Flamecharm, Thundercall and Galebreathe.
+    -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
 
 ### Flamecharm
 

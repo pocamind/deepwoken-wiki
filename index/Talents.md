@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24068
+revid: 24076
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -220,7 +220,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are fully healed.
+-   Blood Shadow \[Rare Talent\] - **Allies** you Reinforce are drained of their HP until you are fully healed.
     -   Prerequisite: Reinforce, Contrary to popular belief, Shadowcasting is not required for this talent.
 -   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
     -   Prerequisite: Reinforce
@@ -491,6 +491,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
     -   2x EXP gain for Power and every [Attribute](Attributes.md).
     -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
+    -   Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.
 
 ### Marauder
 
@@ -527,7 +528,8 @@ These are just raw stat increase and are beneficial to anyone.
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   +50% EXP gain for every attributes and Power.
+    -   2x EXP gain for Power and every [Attribute](Attributes.md).
+    -   Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.
 
 ### **Mr Charm**
 

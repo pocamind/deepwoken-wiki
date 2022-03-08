@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 24028
+revid: 24079
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -88,7 +88,7 @@ Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw]
 
 ## Yun Shul' Rerolling (and how it works)
 
-Every time you use a wish, Yun'Shul goes on cooldown for a certain amount of time. It's not a level requirement, literally confirmed by arch\_mage and it doesn't make sense for an end-game ability. However, even with the cooldown, there is a maximum amount of times someone can reroll per slot, likely 3 but need confirmation. (where proof)
+Every time you use a wish, Yun'Shul goes on cooldown for a certain amount of time. It's not a level requirement, literally confirmed by arch\_mage (proof?) and it doesn't make sense for an end-game ability. However, even with the cooldown, there is a maximum amount of times someone can reroll per slot, likely 3 but need confirmation. (where proof)
 
 Every time you make a wish you will have the Tarnished [Flaw](Boons_and_Flaws.md), you can remove this by going to [Songseeker Wilds](Songseeker_Wilds.md) and talking [Yamaketzal](Yamaketzal.md).
 

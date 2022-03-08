@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 24064
+revid: 24071
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,6 +46,7 @@ Gain the ability to consume non-food items.
 -   Urchin
 -   Scallop
 -   Gems (e.g. emerald, diamond, ruby, gold, platinum, ect.)
+-   Taco Bell
 
 Obtainment (my method)
 
