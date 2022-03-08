@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 23856
+revid: 24127
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -83,7 +83,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>Does more damage on lower HP, has no downsides</p></div></td>
+  <td><div><p>Does more damage on lower HP (enchantment starts to proc at 40% hp or below), if the user is above 40%, no buffs will be applied</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>

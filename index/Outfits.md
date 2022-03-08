@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24105
+revid: 24126
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -256,6 +256,7 @@ Depths chests
 | File:Royal Auth Commander.png | Authority Commander (Royal) | Grants Health and Faction (Vs. Giant) Buffs | Fort Merit Chests |
 | File:Grayjusticarcoat.png | Gray Justicar Coat | (?) | Hive Chests |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | (?) | Erisia and Hive Chests |
+|  | Royal Duelist Armor | 2 random buffs | Songseeker Chest & Hive Chest |
 
   
 
