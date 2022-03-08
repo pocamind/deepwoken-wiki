@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24089
+revid: 24132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -409,6 +409,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
+    -   Allows you to use gun critical.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Adds attunement scaling to your guns.
     -   Guns will now apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreathe will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.

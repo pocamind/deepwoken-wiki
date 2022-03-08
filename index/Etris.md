@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 23340
+revid: 24143
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -163,7 +163,7 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 
 -   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
--   To use the Key to unlock the black iron gate, the Key must be glowing White this only happens at night.
+-   To use the Key to unlock the black iron gate, the Key must be glowing White ~this only happens at night.~ This is false. The key will glow if the Duke is available to fight, even during the daytime.
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
     -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24127
+revid: 24136
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -111,7 +111,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div><p>Your weapon becomes shrouded in air, making it "invisible". Weapon have +10% attack speed. The hard visibility of the weapon can be used to your advantage, as the range will be harder to judge.</p></div></td>
+  <td><div>Increases base m1 speed slightly, (slower weapons receive more m1 speed), after landing an m1 your weapon will swing even faster for a short duration (tested) (once again slower weapons receive a higher speed boost). This essentially allows a heavy weapon user to swing slightly faster than a medium weapon user. (The speed boost provided on light weapons is much less noticeable but still useful.<p>Note - It also seems as though the weapon grants a movement speed bonus after landing an m1 however I tested this with a “Krulian Dagger” with the (causing opponents blood loss grants a speed buff) talent, meaning its also possible I was imagining it - can somebody else please test this?</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>

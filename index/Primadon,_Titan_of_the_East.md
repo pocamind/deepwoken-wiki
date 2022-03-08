@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 24036
+revid: 24135
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -31,8 +31,8 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | **Trample**[\[1\]](#cite-note-1) | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch, he only uses it if you're at a chest length of his body or flying on a glider. | ◯ | (★☆☆) |
 | **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
-| **Grab** | Primadon crouches down, winds up its **right** arm and grabs you. | ◯ | (★★★) |
-| **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. | ◯ | (★★★) |
+| **Grab** | Primadon crouches down, winds up its **right** arm, stuns you, and grabs you - Dealing about a bar of damage to even those with 500 hp. | ◯ | (★★★) |
+| **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
 | **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players. | N/A | (★★☆) |
 
 _Lefts and rights for these attacks are based on Primadon's point of view._
@@ -49,7 +49,7 @@ _Lefts and rights for these attacks are based on Primadon's point of view._
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 Umbral Obsidian in them.
 -   **Small chest -** Has 1-3 Umbral Obsidian in it and a low chance of 1-2 Deep Gems.
--   **Luck -** Gives around 23% luck, somewhere as much as 15-20 Corrupted monster kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell)](Resonance.md)**This is random and could be more/less, also requiring you to do other methods to get bell.**
+-   **Luck -** Gives about 23% luck, somewhere as much as 15-20 Corrupted monster kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell),](Resonance.md) **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get bell.**
 
 ## Strategies & Tips
 
