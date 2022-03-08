@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 22857
+revid: 24124
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -24,11 +24,13 @@ Reputation is a thing in Deepwoken. Depending on your actions, such as having a 
 
 ## Attribute Check Requirements
 
-[Ploom, the Flameworshipper (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Flamecharmer_Ploom_Quest>) - Flamecharm Requirement: 40 | Charisma Requirement: 50
+[Ploom, The Flameworshipper (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Flamecharmer_Ploom_Quest>) - Flamecharm Requirement: 40 | Charisma Requirement: 50
 
 [Karliah, the Adret Diver (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Diver_Escort_Quest>) - Charisma Requirement: 10 (Notes) | Charisma Requirement: 20? (Persuade)
 
 [Hobo](Hobo.md) ([Erisia](Erisia.md)), Chest Dialogue - Charisma Requirement: 50
+
+Akira, Black Diver (The Depths, First Layer - Charisma Requirement: ~100)
 
 ## Etris Reputation
 

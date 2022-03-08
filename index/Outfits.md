@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24063
+revid: 24105
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -73,7 +73,7 @@ _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
 ## Armor
 
-Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information.
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. (**This section is severely outdated and is dire need of updates)**
 
 **Head:**
 
@@ -189,7 +189,7 @@ Damage Vs. Deep
 +6 Health
 
  | Chests |
-| File:Sharko coat.png | Megalodaunt Coat | No Status Effect | Megalodaunt Drop |
+| File:Sharko coat.png | Megalodaunt Coat | No Status Effect (They do grant status effects) | Megalodaunt Drop |
 | File:Black Fur Pauldrons.png | Black Fur Pauldrons | Placeholder | Chests |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | 1-2 buffs | Chests |
 | File:Flameguard.png | Flameguard Pauldrons | 1 buff | Chests |
@@ -226,7 +226,7 @@ Songseeker Chests
 +2 posture
 
  | Fort merit Chests |
-| File:Aristocrat Coat.png | Aristocrat Coat | Grants a random stat boost. | Starswept Valley chests |
+| File:Aristocrat Coat.png | Aristocrat Coat | Grants a random stat boost. | Starswept Valley or Summer Isle chests |
 | File:Gumshoe Long Coat.png | White/Grey Gumshoe Longcoat | Grants 20+ Reservoir | Songseeker Chests |
 |  | Ranger's Brace | +10 Ether
 
@@ -253,6 +253,7 @@ Depths chests
 | File:MistCloak.png | Mist Assassin's Cloak | 2-4 Stats | Aelita Chest |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants 2 (Random) Buffs | Depths and Hive Chests |
 |  | Woodland Pauldrons | Grants 2-3 (Random) Buffs | Ship and Hive Chests |
+| File:Royal Auth Commander.png | Authority Commander (Royal) | Grants Health and Faction (Vs. Giant) Buffs | Fort Merit Chests |
 | File:Grayjusticarcoat.png | Gray Justicar Coat | (?) | Hive Chests |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | (?) | Erisia and Hive Chests |
 
@@ -327,18 +328,18 @@ _Requires Power Level 40_
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| File:Leather boots.png | Leather Boots | Placeholder | Chests |
-| File:White fur boots.png | White Fur Boots | Placeholder | Chests |
-| File:Black fur boots 1.png | Black Fur Boots | Placeholder | Chests |
+| File:Leather boots.png | Leather Boots | Grants mediocre stats (Most commonly 2+ health) | Lower Erisia and Primadon Chests |
+| File:White fur boots.png | White Fur Boots | Placeholder | Erisia Chests |
+| File:Black fur boots 1.png | Black Fur Boots | Placeholder | Lower Erisia Chests |
 |   
  | Autumn Boots | Placeholder | Chests |
-| File:Khanboots.png | Khan Boots | Placeholder | Chests |
-| File:Imperial Boots.png | Imperial Boots | Placeholder |  |
-|  | Star Boots | Placeholder
+| File:Khanboots.png | Khan Boots | Placeholder | Hive (Common) and Lower Erisia (Rare) |
+| File:Imperial Boots.png | Imperial Boots | Placeholder | Hive Chests |
+|  | Star Boots | Grants exceptional stats (combination of Health, Ether, or Reservoir). Often regarded as one of the best boots in the game.
 _Requires Power Level 30_
 
  | Depths Chests and Primadon Chests |
-| File:Brilliant Boots.png | Brilliant Boots | Grants random stat buffs | Chests |
+| File:Brilliant Boots.png | Brilliant Boots | Grants random stat buffs | Songseeker Chests and (I believe) Lower Erisia Chests |
 | File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants 2 (Random) Buffs | Depths Chests |
 | File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants 2 (Random) Buffs | Depths Chests |
 

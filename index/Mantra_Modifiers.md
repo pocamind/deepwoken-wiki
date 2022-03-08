@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 24008
+revid: 24121
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -145,7 +145,7 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Shadow - steals more ether
 -   Wind - Slightly flings enemies (only tested astral wind)
 -   Graceful Flame increases Healing Speed
--   No effect(?) on physical mantras (more testing required)
+-   ̶N̶o̶ ̶e̶f̶f̶e̶c̶t̶(̶?̶)̶ ̶o̶n̶ ̶p̶h̶y̶s̶i̶c̶a̶l̶ ̶m̶a̶n̶t̶r̶a̶s̶ ̶(̶m̶o̶r̶e̶ ̶t̶e̶s̶t̶i̶n̶g̶ ̶r̶e̶q̶u̶i̶r̶e̶d̶)̶ Increases insanity given by gaze.
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
 
  |

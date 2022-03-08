@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 23956
+revid: 24123
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -38,4 +38,4 @@ Primal Vesperians were a small group of deviant Vesperians who left The Convicts
 
 ## Notes
 
--   Arch\_Mage's Vesperian is not a Primal Vesperian, his Vesperian _Haske Vantage_ was a member of The Convicts Hand, not the Primal Vesperians. But, the Primal Vesperians did originate from The Convicts Hand, which is why their appearances are similar.
+-   Arch\_Mage's Vesperian is Vesperian of The Convicts Hand, not the Primal Vesperian. But, the Primal Vesperians did originate from The Convicts Hand, which is why their appearances are similar.

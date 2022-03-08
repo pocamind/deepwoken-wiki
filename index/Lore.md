@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24081
+revid: 24118
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -137,36 +137,81 @@ Yun'shul
 
 ## Locations
 
-### Eastern Interstitial Lighthouse
+### **The Eastern Luminant**
+
+**Lore Sources:**
+
+-   A region consisting of a variety of islands; from deserts, arctic and normal ones.
+-   The Eastern Luminant (or the Etrean Luminant) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
+    -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive and the Children of Navae.
+
+#### Eastern Interstitial Lighthouse (Etrean Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
 -   As of Deepwoken's Release, the Lighthouse cannot be accessed into its interior, nor does it allow anyone to go to The Central Luminant. Due to the fact that only Lightkeepers can operate them.
 
-### Erisia Island (Etrean Luminant)
+#### Erisia Island (Etrean Luminant)
 
--   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before year 1271.
+-   An Island that drifted into the Voidsea with the changing tides and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
 
-### The City of the Drowned (The Depths)
-
-  
-
--   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; deep within the trenches of [The Depths](The_Depths.md).
--   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
--   Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
--   The Depths became the place souls went to after death after the great drowning, when the city of Celtor was sunk by the Celtorian Horror.
-
-### Songseeker Wilds (Etrean Luminant)
+#### Songseeker Wilds (Etrean Luminant)
 
 -   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song (Mantra).
 -   The trainer for Fire Mantra owns a dojo on the island.
 
-### Voidsea
+#### Starswept Valley (Etrean Luminant)
+
+**Lore Sources:**
+
+_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - Starswept Valley Flavour Text_
+
+  
+
+-   A desert land that occupies most of Aratel Island; consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
+-   Blue stars of light rain down upon the Valley, thus getting the title of Starswept.
+    -   Blue Meteorites, containing Meteor Knights crash into the Valley as an encounter; emerging their means of transport upon landing.
+
+-   Theories from a variety of people proclaim that the Blue stars that rain down the Valley is coming from the Celestial City.
+    -   Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading, raining pieces of itself down to the Starswept Valley.
+        -   Furthermore, in a realistic and scientific standpoint, It would be impossible for the City to be raining pieces of itself as we don't know the distance between the Celestial City and Starswept Valley; not to mention the trajectory.
+
+### **Voidsea**
+
+**Lore Sources:**
 
 -   A sea filled with nothing but null. The Voidsea is a gateway between Luminants and The Depths, either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
 -   There are little to no NPCs or texts that explains the lore of the Voidsea, as of 1/10/2022.
+    -   It is assumed that the Voidsea is the byproduct or the result of The Tides.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
+
+#### Boatman's Watch (Voidsea)
+
+**Lore Sources:**  
+
+### **The Depths**
+
+**Lore Sources:**
+
+_"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavour Text_
+
+-   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged in water, but people who traverse through The Depths can breathe normally, unlike the surface.
+-   The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
+    -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are more than 3 Layers of The Depths.
+
+#### The City of the Drowned (The Depths, First Layer)
+
+_"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
+
+[Canor City](https://deepwoken.fandom.com/wiki/File:Canor_City.png)
+
+  
+
+-   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
+-   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
+-   Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
+-   The Depths became the place souls went to after death after the great drowning, when the city of Celtor was sunk by the Celtorian Horror.
 
 ## Factions
 
@@ -314,6 +359,9 @@ A Dark Mage, located in Minityrsa.
 
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
+-   The Crypt blade's description, along with them trying to expand into the depths, might mean that the Ignition Union's goal is to fight the depths.
+
+  
 
 ### The Central Authority
 
@@ -421,17 +469,17 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 ### The Pathfinders
 
 -   **Encountered In:** _Anywhere_
--   **Attunements:** _???_
+-   **Attunements:** _Any_
 -   **Alliances:** _???_
 -   **Enemies:** N/A
--   **Lore Sources:** _Neero (Temple of the Forgotten Flame)_
+-   **Lore Sources:** _Neero (Mentioned), Arch\_Mage (Edits), Bookworm Andros (Mentioned)_
 
 -   An organization consisting mostly of explorers and historians alike. The Pathfinder varies in the individual; either focused more on combat or exploration.
-    -   The Pathfinders consists of Historians, Scavengers, Bounty Hunters, and Explorers. _(Source- Neero)_
--   The Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
--   The Pathfinders are similar to The Old Stewards, but not 100% all Historians. The Pathfinders do not end up in seclusion like The Old Stewards.
--   Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
--   [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
+    -   (Neero) The Pathfinders consists of Historians, Scavengers, Bounty Hunters, and Explorers.
+    -   (Neero) The Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
+-   (Arch\_Mage) The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole is more of a profession, unlike the Old Stewards that consists mostly (or entirely) of Historians.
+-   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
+-   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 
 ## Race Lore
 
@@ -552,12 +600,14 @@ _"The stars call you back..."_
 
 ### The Three Attunements of the Old World
 
-**Lore Sources:** Naktigonis (The Sun, Gleaming)
+**Lore Sources:** _Naktigonis (The Sun, Gleaming)_
 
 -   The Three original Attunements of Deepwoken existed during the era of the Old World, that being Flamecharm, Thundercall and Galebreathe.
     -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
 
 ### Flamecharm
+
+**Lore Sources:**
 
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
@@ -569,6 +619,8 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Frostdraw
 
+**Lore Sources:**
+
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
     -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization.
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
@@ -577,6 +629,8 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Thundercall
 
+**Lore Sources:**
+
 -   The power to control electricity and power. Thundercallers and Stormcallers are known to use this Attunement.
     -   Thundercall concentrates the energies of electricity.
 
@@ -584,11 +638,16 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Galebreathe
 
+**Lore Sources:** _Curved Blade of Winds (Description)_
+
 -   The power to control the current of winds; Galebreathe has been used by the Vigil of Winds and other Galebreathers.
+    -   (Curved Blade of Winds) Galebreathe was created during the events of the Canticlysm; thanks to the description of the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
   
 
 ### Shadowcast
+
+**Lore Sources:**
 
 -   The power to harness the darkness within. The Ministry are known to use this Attunement, as well as Lord Regent.
     -   Shadowcast was created sometime after the events of the Canticlysm, presumably during the Great Drowning of Celtor.
@@ -678,13 +737,6 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 -   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
 -   Adrets are NOT Fish. This is confirmed by Arch\_Mage.
-
-### The 3 Attunements
-
-**Lore Sources:** _Naktigonis_
-
--   During the era of the Old World, there were 3 Attunements known to the people. Flamecharm, Frostdraw and Thundercall; all are gifts by the Song.
--   This may be the reason why only three variants of Songseeker Monks, and why they come to Songseeker Isle for enlightenment. It is possible that Songseeker Isle may be a remnant of the Old World.
 
   
 

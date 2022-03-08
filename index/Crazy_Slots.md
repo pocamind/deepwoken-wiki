@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 24077
+revid: 24098
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -77,7 +77,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 
 ### _Corrupted_
 
-Base damage values for Corrupted weapons are estimates._1_
+(This does not exist and is purely a myth that has yet to be obtained) Base damage values for Corrupted weapons are estimates._1_
 
 **Heavy:**
 

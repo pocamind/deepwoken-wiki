@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 23919
+revid: 24114
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -86,7 +86,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
 -   Willpower allows access to the Blindseer Oath if you decide to take the steps necessary.
 -   Uncapped by talking to Akira then going to Castle Light to talk to him again.
--   (requires 30 willpower) gain the ability to get mantra's like Gaze, Ardour scream and Exhaustion Strike.
+-   (requires 30 willpower) gain the ability to get mantras like Gaze, Ardour Scream and Exhaustion Strike.
 
 ### Charisma
 

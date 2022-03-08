@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24076
+revid: 24089
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -328,7 +328,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Exoskeleton \[Legendary Talent, 20 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
     -   Can be stacked with Chitin.
-    -   Its requirements 20 fortitude not 30.
+    -   Requirements: 30 Fortitude.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
 
