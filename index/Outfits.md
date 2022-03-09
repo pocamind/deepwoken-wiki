@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24126
+revid: 24187
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -100,14 +100,14 @@ _Requires Fortitude 10_
 | File:KnightHelm.png | Knight's Helm | Grants three random buffs. | Hive Chests |
 | File:GreyGumshoeHat.png | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-|  | Grey Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
-|  | Black Gumshoe Hat | Grants Sanity buff(unconfirmed) | Fort Merit Chests |
+| File:Grey Gumshoe Hat.png | Grey Gumshoe Hat | Grants Reservoir | Fort Merit Chests |
+| File:Dark Gumshoe Hat.png | Dark Gumshoe Hat | Grants Reservoir | Fort Merit Chests |
 |  | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
 | File:Barrel Helmet.png | Barrel Helmet | grants 2 (Random?) buffs | Duke Chests, Artifacts |
-|  | Vagabond's Bicorn | TBA | Primadon Chests, Artifacts |
+|  | Vagabond's Bicorn | 2 Random Buffs | Primadon Chests, Artifacts, Song Seeker Chests |
 | File:Smith Bandana.png | Smith Bandana | TBA | Artifacts |
 | File:Gladiator Helmet.png | Gladiator Helmet | grants 3 buffs, one will always be posture. | Hive Chests |
 | File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants 3 (Random) Buffs & Stealth by 4% | Depths Chests |
@@ -167,19 +167,19 @@ Damage Vs. Deep
 
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
-| File:Golden Cape.png | Golden Cape | Grants a random buff. | Pretty much all Chests |
+| File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests and Erisia Chests |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff | Depths Chests |
 | File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants 2 (Random) Buffs | Depths Chests |
-|  | Dawn Scarf |  | Hive Chests |
-|  | Crimson Scarf |  | Hive Chests |
-|  | Adventurer's Scarf |  | Hive Chests |
-|  | Black Scarf |  | Hive Chests |
-|  | Tundra Scarf | Grants a random buff | Hive Chests |
-|  | White Scarf |  | Hive Chests |
-|  | Desert Scarf |  | Hive Chests |
+| File:Shrouded Cape (Red).png | Red Shrouded Cape | Grants 2 Random Buffs | Depths Chests |
+|  | Dawn Scarf | Grants 1-2 Random Buffs | Starswept Valley Chests |
+| File:Crimson Scarf.png | Crimson Scarf | Grants 1-4 Random Buffs | Starswept Valley Chests |
+| File:Adventurer's Scarf.png | Adventurer's Scarf | Grants 1-4 Random Buffs | Starswept Valley Chests |
+| File:Black Scarf.png | Black Scarf | Grants 1-4 Random buffs | Starswept Valley Chests |
+|  | Tundra Scarf | Grants a random buff | Starswept Valley Chests |
+|  | White Scarf |  | Starswept Valley Chests |
+|  | Desert Scarf |  | Starswept Valley Chests |
 | File:Onepiececape.png | Fleet Warden Cape | Usually 12 hp | Summer Island crate quest. 1% drop |
-|  | Forest Scarf |  | Hive Chests |
-|  | There's a lot more scarves out there, someone add them |
+|  | Forest Scarf | Grants 1-4 Random Buffs | Starswept Valley Chests |
 
 **Arms:**
 
@@ -334,8 +334,8 @@ _Requires Power Level 40_
 | File:Black fur boots 1.png | Black Fur Boots | Placeholder | Lower Erisia Chests |
 |   
  | Autumn Boots | Placeholder | Chests |
-| File:Khanboots.png | Khan Boots | Placeholder | Hive (Common) and Lower Erisia (Rare) |
-| File:Imperial Boots.png | Imperial Boots | Placeholder | Hive Chests |
+| File:Khanboots.png | Khan Boots | Placeholder | Starswept Valley (Common) and Lower Erisia (Rare) |
+| File:Imperial Boots.png | Imperial Boots | Grants exceptional stats (Health, Resevior, Ether) Similar to star boots roll wise | Hive Chests |
 |  | Star Boots | Grants exceptional stats (combination of Health, Ether, or Reservoir). Often regarded as one of the best boots in the game.
 _Requires Power Level 30_
 

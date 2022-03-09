@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 24145
+revid: 24161
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,7 +19,7 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them.
+Template:Areainfobox Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them.
 
 It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
 

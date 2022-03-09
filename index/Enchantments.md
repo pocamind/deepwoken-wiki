@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24136
+revid: 24164
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Weaponry, Armors, Character]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [chests](Chests_&_Sacks.md) in any location, on any piece of equipment.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Nautilodaunt](Nautilodaunt.md) and [Primadon](Primadon,_Titan_of_the_East.md) [chests](Chests_&_Sacks.md), on any piece of equipment.
 
 Enchanted weapons are very special. Therefore, it has some limitations placed on it:
 
@@ -36,7 +36,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
--   **Curses** - They have a very strong effect but a large downside.
+-   **Curses** - They have a very strong effect but a small downside.
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
 

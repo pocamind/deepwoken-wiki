@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 23283
+revid: 24193
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -98,6 +98,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   Three to seven Gold Bars
 -   Four to six Sapphires
 -   Four to five Amethysts
+-   Three to 10 Emeralds
 
  |
 

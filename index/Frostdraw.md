@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 23962
+revid: 24159
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -142,7 +142,7 @@ These mantras have no prequisites.
 
  | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
 
--   _Pillar pulsates a blue aura, possibly slows nearby targets._
+-   Pillar pulsates blue shockwaves that knockback and chill enemies inside it.
 -   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
 
  |
@@ -258,3 +258,4 @@ deleted this, someone put "summon cauldron" here and it's not a frostdraw mantra
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022
+-   The Frozone talent card is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).

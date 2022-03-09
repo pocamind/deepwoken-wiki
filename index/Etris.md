@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 24143
+revid: 24160
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -106,8 +106,6 @@ Template:Areainfobox
 
 #### The Den
 
--   sada
-
 -   Den Master can be found here.
 
 #### Alchemist's Lodge
@@ -117,14 +115,14 @@ Template:Areainfobox
 
 #### Miscellaneous
 
--   Polis can be found here, and on first dialogue will give you a Gold Ring.
+-   Polis can be found in the middle of the city, and on first dialogue will give you a Gold Ring.
 
 ## Quests
 
 ### Etrean Apprentice Quest
 
 -   Located at the backside of the Blacksmith, talk to the Etrean there.
--   The Etrean says to you that to not rat him out to the Blacksmith, as he will be revoked of his apprenticeship.
+-   The Etrean begs you not to not rat him out to the Blacksmith, as he will be revoked of his apprenticeship.
 -   Keeping his promise and not ratting him out rewards you a 50% discount on all Materials in the Blacksmith.
 -   Ratting him out does nothing, but atleast your ego increased!
 
@@ -163,7 +161,7 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 
 -   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
--   To use the Key to unlock the black iron gate, the Key must be glowing White ~this only happens at night.~ This is false. The key will glow if the Duke is available to fight, even during the daytime.
+-   To use the Key to unlock the black iron gate, the Key must be glowing white.
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
     -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
@@ -184,8 +182,8 @@ To begin this quest, talk to Karliah, an Adret Diver. She is located in a house 
 
 _"Don't be scared. I promise I'll protect you no matter what."_
 
--   By choosing to continue the escort, Karliah will enter the cave and almost immediately get attacked by leeches and explode.
--   There is no reward for this ending. (The four leeches on the ground can be seen beforehand but cannot be attacked or killed, neither before or during the attack. This route is meant only as some twisted humorous ending.)
+-   By choosing to continue the escort, Karliah will enter the cave and almost immediately get attacked by [horseshoe crabs](Horseshoe_Crab.md) and explode.
+-   There is no reward for this ending. (The four horseshoe crabs on the ground can be seen beforehand but cannot be attacked or killed, neither before or during the attack. This route is meant only as some twisted humorous ending.)
 
 #### Ending 2: Eyes Wide Open
 
@@ -229,14 +227,11 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 
 ### Navaen Tribe Rescue Quest
 
--   Talk to the Eastern Camp Master in the encampment, near the City.
-    -   He'll ask you to save one of his people, somewhere in [Erisia Island](Erisia.md).
-
 -   Find and rescue a Navaen tribe member either in [Erisia](Erisia.md) in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn.
     -   Knocking a Navaen Nomad in [Summer Isle](Summer_Isle.md), or any other location, and turning them in will not work for this quest.
 -   Upon finding a Navaen tribe member, head back to the camp master and receive your reward.
 -   The reward for this quest is the "Way of Navae" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis.
--   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
+-   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more dificult if a [lionfish](Lionfish.md) spawns,, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
 
 ## Notes/Trivia

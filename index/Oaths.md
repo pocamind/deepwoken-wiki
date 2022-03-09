@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 23658
+revid: 24180
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -143,3 +143,4 @@ The oath change the eye color of the user to purple and make a purple particle e
 ## Trivia/Notes
 
 -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well. An example is the recently added Visionshaper Oath.
+-   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.

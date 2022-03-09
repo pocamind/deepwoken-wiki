@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24132
+revid: 24173
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -462,6 +462,8 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Legion Shock Trooper
 
 -   Air Pressure \[Generic Talent, Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
+    -   Prerequisites: 20 Agility
+
 -   Hoplite \[Generic Talent, Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
 -   Wind Step \[Generic Talent, Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
 -   Gale Dash \[Generic Talent, Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)

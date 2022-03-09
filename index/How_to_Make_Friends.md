@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 23977
+revid: 24195
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,7 +25,7 @@ In order to successfully use How to Make Friends and level up your Charisma, sel
 <table>
 <tbody>
 <tr>
-  <td>The phrases you need to recite near an NPC or player are listed below.</td>
+  <td>The phrases you need to recite.</td>
 </tr>
 </tbody>
 </table>
