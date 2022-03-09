@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24164
+revid: 24231
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Weaponry, Armors, Character]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Nautilodaunt](Nautilodaunt.md) and [Primadon](Primadon,_Titan_of_the_East.md) [chests](Chests_&_Sacks.md), on any piece of equipment.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Nautilodaunt](Nautilodaunt.md) and [Primadon](Primadon,_Titan_of_the_East.md) [chests](Chests_&_Sacks.md), on any piece of equipment, In any chest.
 
 Enchanted weapons are very special. Therefore, it has some limitations placed on it:
 
@@ -28,17 +28,19 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 
 -   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
 -   Face, Ears and Torso equipments cannot be enchanted
-    -   Enchanted Face, Ears and Torso equipments created before 18/02/2022 are still enchanted and still applies their effect.
+    -   Enchanted Face, Ears and Back equipments created before 18/02/2022 are still enchanted and still applies their effect.
 -   You cannot have more than 3 equipment enchants at once.
-    -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Torso equipment from before 18/02/2022.
+    -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 18/02/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
 
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
--   **Curses** - They have a very strong effect but a small downside.
+-   **Curses** - They have a very strong effect but a Big/Small downside depending on curse.
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
+
+(Has to be tested WAY more but) Primadon has a way higher droprate of Enchanments. I did 2 primadon and both had 1 piece enchanted armor in one of the chests. An expoiter even got one of the chest and im betting that it has has Enchanted weapon. This has to be tested more of course, as i may have gotten Extremly lucky. DM at @Froojie#1000 if you got proof of either way of the arguement.
 
 ## List of Enchantments/Curses
 

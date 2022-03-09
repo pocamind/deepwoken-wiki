@@ -1,8 +1,9 @@
 ---
 title: Regalia
-revid: 24071
+revid: 24220
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [D]
 ---
 
 # Regalia

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24173
+revid: 24224
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -494,7 +494,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
     -   2x EXP gain for Power and every [Attribute](Attributes.md).
     -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
-    -   Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.
+    -   ~Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.~ This is not true Arch confirmed it.
 
 ### Marauder
 
@@ -532,7 +532,7 @@ These are just raw stat increase and are beneficial to anyone.
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
     -   2x EXP gain for Power and every [Attribute](Attributes.md).
-    -   Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.
+    -   ~Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.~ This is not true Arch confirmed it.
 
 ### **Mr Charm**
 

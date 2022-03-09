@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24199
+revid: 24216
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -47,6 +47,17 @@ Talking to Nerin
 
 -   Very Good Reputation - N/A, same dialogue as Good Rep
 -   Good Reputation - _\*The guard gives you a crooked smile.\*_ "Have a nice day friend. If you ever get into trouble, you know who to look for..."
+
+## Children of Navae
+
+Talking to guards/camp masters
+
+-   Very Good Reputation - "Placeholder" | "Placeholder"
+-   Good Reputation - "Welcome homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
+-   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
+-   Unfriendly Reputation - \*you cannot become enemys with the whole faction\*
+
+_Do note that alongside Adrets, Gremors start off with Good reputation with the Children of Navae_
 
 ## Empire/Legion Reputation
 

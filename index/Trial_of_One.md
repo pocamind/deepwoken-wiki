@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 24163
+revid: 24226
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -56,7 +56,7 @@ Mark of the Lone Warrior's talent description
     -   5 Free Points for the first trial, 10 Free Points for trials 2-8, and 15 points for the final trial. Finishing the trial will result in 18 Power.
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
 -   Talent Card [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks.
-    -   Could possibly assist [Resonance](Resonance.md) Progress and not Power experience. (Needs confirmation)
+    -   Does not give [resonance](Resonance.md) progress boost. Confirmed by devs.
 -   Minityrsa starting spawn point when creating a character for completing the trial.
 
 ## Tips and Tricks
