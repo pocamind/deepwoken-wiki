@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 22596
+revid: 24236
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,9 +8,15 @@ categories: [Locations]
 
 # The Monkey's Paw
 
-## Description
+LocationL The Monkey's Paw LocationR
 
-Template:AreainfoboxNorth East of Songseeker Wilds, There's a gate, and you want to follow straight through the gate, if you follow straight, it should appear to your right.
+Be careful what you wish for.
+
+  
+
+## **Description**
+
+North East of Songseeker Wilds, There's a gate, and you want to follow straight through the gate, if you follow straight, it should appear to your right.
 
 Once you enter the Island (from the front), there is a ridge which overlooks a massive flat ground. To the left and to the right of the ridge, there's 2 ropes that lead down into it. The ropes don't work. (What a shame)
 
@@ -22,15 +28,6 @@ There is a ship post.
 
 (edit there is only 1 ship post at the front of the island)
 
-The island's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs, where a family receives a monkey's paw with three wishes, but each wish has a terrible consequence.
+## **Notes**
 
-Talking to the flame
-
-  
-  
-
-Looking back at the ridge
-
-Entrance to the Monkey's Paw Ridge
-
-The Sacrificial Flame inside the Island
+-   The location's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs, where a family receives a monkey's paw with three wishes, but each wish comes with a terrible consequence.

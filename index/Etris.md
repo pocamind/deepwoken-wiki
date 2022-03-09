@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 24218
+revid: 24243
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -21,8 +21,8 @@ Template:Areainfobox
 
 ## Points of Interest
 
--   [Etris Docks](Etris_Docks.md)?
--   [Etrean Wilds](Etrean_Wilds.md)?
+-   [Etris Docks](Etris_Docks.md)
+-   [Etrean Wilds](Etrean_Wilds.md)
 
 ## Contents
 

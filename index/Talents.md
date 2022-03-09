@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24224
+revid: 24252
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -321,7 +321,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Fishman \[Generic Talent,Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish
     -   Health regeneration is increased while swimming.
-    -   Hunger and Thirst drain from swimming are amplified.
+    -   Hunger drain from swimming is multiplied by 1.5x.
     -   These effects do not activate in [The Depths](The_Depths.md).
 
 ### Freak Of Nature
@@ -1016,19 +1016,15 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Ferryman's Coat
 
--   Ferryman's Curse - Being hit by lightning will cause you to momentarily disappear. (I think this is a discount Lannis Amulet) (Obtained by wearing the Ferryman's Outfit)
+-   Ferryman's Curse - Being hit by a Lightning mantra will cause you to teleport to a random location within a set radius, and you take reduced damage from Lightning mantras. (I think this is a discount Lannis Amulet) (Obtained by wearing the Ferryman's Outfit)
 
 ### Navaen-Nomad
 
--   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen Nomad Robes Outfit)
+-   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit)
 
 ### Flamecharmer
 
 -   Intrepid Flame - Flames wear off twice as fast on you. (Obtained by wearing Flame Worshipper Robes Outfit)
-
-### Pathfinder Arch-Sourer
-
--   devastating power - gain extra ether for every mantra in your arsenal
 
 ### Pathfinder
 
@@ -1061,15 +1057,17 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   Apothecary - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health) (Obtained by wearing the Sceptic Pioneer Outfit)(Can also be obtained through cards)
 
-**Prophet's Cloak**
+### **Prophet's Cloak**
 
--   Crippling Darkness - Your non basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
+-   Crippling Darkness - Your non-basic attacks have 25% PEN. (Obtained by wearing the Prophet's Cloak)
 
-**Legion Centurion**
+### **Legion Centurion**
 
 -   Centurion's Resolve - Your Legion Kata attacks now do 15 percent more damage. (Obtained by wearing the Legion Centurian outfit)
 
-List of Rollable Rare Talents
+## **List of Rollable Rare Talents/Red Talent Cards**
+
+  
 
 Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)  
 Aerogliding \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)  
@@ -1077,7 +1075,7 @@ Stifled Jump \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - Enemies wh
 Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)  
 Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health) Prerequisites: Strength & Wilpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)  
 Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility) Prerequisites: Carnivore  
-Sunken Predator \[Rare Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed  
+Sunken Predator \[Rare Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed.  
 Lightspeed Reflexes \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)  
 Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)  
 Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)  
@@ -1116,12 +1114,14 @@ Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obe
 Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)  
 Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
 
-List of Rollable Legendary Talents
+## **List of Rollable Legendary Talents/Blue Cards**
+
+  
 
 Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)  
 Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
 Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)  
-Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish  
+Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.  
 Exoskeleton \[Legendary Talent, 20 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
@@ -1137,9 +1137,9 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)  
 Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)  
 Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)  
-Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when drowned in waters. (+1 Passive Agility)  
+Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when downed in water. (+1 Passive Agility)  
 Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.  
-Adept \[Generic Talent, Legendary\] - Take this to progress faster
+Adept \[Generic Talent, Legendary Talent\] - Take this to make grinding for investment points easier.
 
 ## Notes/Trivia
 

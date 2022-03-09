@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24231
+revid: 24248
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -25,9 +25,8 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 -   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it. You can still switch weapons though.
     -   **Enchanted armors do not get soulbounded however.**
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
-
 -   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
--   Face, Ears and Torso equipments cannot be enchanted
+-   Face, Ears and Back equipments cannot be enchanted
     -   Enchanted Face, Ears and Back equipments created before 18/02/2022 are still enchanted and still applies their effect.
 -   You cannot have more than 3 equipment enchants at once.
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 18/02/2022.
@@ -40,7 +39,7 @@ There are two variants that enchantments come in:
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
 
-(Has to be tested WAY more but) Primadon has a way higher droprate of Enchanments. I did 2 primadon and both had 1 piece enchanted armor in one of the chests. An expoiter even got one of the chest and im betting that it has has Enchanted weapon. This has to be tested more of course, as i may have gotten Extremly lucky. DM at @Froojie#1000 if you got proof of either way of the arguement.
+The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md) or [The Depths](The_Depths.md) is a good way to increase your chances of finding one.
 
 ## List of Enchantments/Curses
 
@@ -85,7 +84,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>Does more damage on lower HP (enchantment starts to proc at 40% hp or below), if the user is above 40%, no buffs will be applied</p></div></td>
+  <td><div><p>When below 40% HP, gain a damage buff that becomes stronger the lower your HP gets.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
@@ -107,13 +106,13 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
-  <td><div><p>M1 connections have a stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div>Increases base m1 speed slightly, (slower weapons receive more m1 speed), after landing an m1 your weapon will swing even faster for a short duration (tested) (once again slower weapons receive a higher speed boost). This essentially allows a heavy weapon user to swing slightly faster than a medium weapon user. (The speed boost provided on light weapons is much less noticeable but still useful.<p>Note - It also seems as though the weapon grants a movement speed bonus after landing an m1 however I tested this with a “Krulian Dagger” with the (causing opponents blood loss grants a speed buff) talent, meaning its also possible I was imagining it - can somebody else please test this?</p></div></td>
+  <td><div>Increases weapoon attack speed slightly, (slower weapons receive more attack speed), landing M1 grant a burst of attack speed (slower weapons receive more attack speed). Weapon is invisible/hard to see.</div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>

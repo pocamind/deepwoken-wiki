@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 24040
+revid: 24247
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -30,7 +30,7 @@ Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.
 3.  Light the campfires using flint or any other attunement-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle.
 
-This is possibly the easiest boss in the game to fight solo in the entire game. His speed, damage, health, and Mantra potency will scale up, however, depending on how many players there are fighting him. It is highly recommended fighting him alone.
+This is possibly the easiest boss in the game to fight solo, if you are familiar with his moveset and are [Power](Power.md) 30-40+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended fighting him alone.
 
 **Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry.**
 
@@ -119,9 +119,7 @@ The best and easiest way to beat him is to get him up against a wall, and spam y
 
 ## Rewards
 
-Ferryman's Coat
-
--   **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+13%\]. This boss also gives [Resonance (Bell)](Resonance.md) Progress. However, _this seems to be possibly random_, and you should consider also doing other ways of Bell Progression.
+-   **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+16%\]. This boss also gives [Resonance (Bell)](Resonance.md) Progress. However, _this seems to be possibly random_, and you should consider also doing other ways of Bell Progression.
 -   **Amethyst Pendant Earrings** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.

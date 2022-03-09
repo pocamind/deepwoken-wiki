@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 24220
+revid: 24241
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -57,3 +57,5 @@ Obtainment (my method)
 -   Made a certain number of different foods
 
 I sadly don't have proof, but I got it on two different slots with this method.
+
+(The talent iron gut could be needed, i had it and i got termite)

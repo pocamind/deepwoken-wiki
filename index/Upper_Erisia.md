@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 22428
+revid: 24234
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -56,18 +56,50 @@ Events that spawn in Upper Erisia that do not involve combat. For more info, see
 
 _This list is incomplete, please contribute **correct** information._
 
-### Equipment
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [Cutthroat Light Armor](Cutthroat_Light_Armor.md)
+-   [Darksteel Plate](Darksteel_Plate.md)
+-   [Experienced Adventurer](Experienced_Adventurer.md)
+-   [Ignition Union Uniform](Ignition_Union_Uniform.md)
+-   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md)
+-   [Pathfinder Cloak](Pathfinder_Cloak.md)
+-   [Shadow Hunter](Shadow_Hunter.md)
+-   [Skeptic Pioneer](Skeptic_Pioneer.md)
+-   Tactician
 
-#### Face
+ | 
 
--   Headbands.
--   Blindfolds.
+-   Black Headband
+-   Orange Headband
+-   Yellow Headband
+-   Iron Mask
+-   Smith's Goggles
+-   Blindfold
+-   Autumn Boots
+-   Black Fur Boots
+-   White Fur Boots
 
-### Miscellaneous
+ | 
 
--   Amethysts.
--   Emeralds.
--   Rubies.
--   Sapphires.
--   Gold Bars.
--   (num) to (num) [Mantra Modifiers](Mantra_Modifiers.md).
+-   [Mace](Mace.md)
+-   [Iron Spear](Iron_Spear.md)
+-   [Messer](Messer.md)
+-   [Steel Maul](Steel_Maul.md)
+-   Zweihänder
+-   [Scimitar](Scimitar.md)
+-   [Iron Cestus](Iron_Cestus.md)
+-   [Legion Cestus](Legion_Cestus.md)
+-   [Gilded Knife](Gilded_Knife.md)
+
+ | 
+
+-   Three to eight Sapphires.
+-   Three to eight Amethysts.
+-   Three to seven Rubies.
+-   Three to seven Emeralds.
+-   Three to eleven Gold Bars.
+-   One to four [Mantra Modifiers](Mantra_Modifiers.md).
+
+ |

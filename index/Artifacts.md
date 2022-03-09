@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 24034
+revid: 24240
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -20,6 +20,7 @@ Artifacts are rarely guarded by Monsters or Enemies, but usually it is completel
 
 A Celtor finding the pulsating rings.
 
+-   EXP
 -   Notes
 -   16% Luck
 -   10 Common to Rare Items, including:
@@ -40,3 +41,4 @@ A Celtor finding the pulsating rings.
 -   Be careful when bringing this to the bank. Most of the time when players see you with this, they will try to kill you so they can get their hands on the Artifact, since it gives very good rewards. Stay out of sight and stay safe.
 -   If found in Erisia, it's recommended to take the Artifact to Isle of Vigils rather than Etris, As Vigils is both closer to Erisia, and its bank is closer to the docks.
 -   Before the update, the loot was so bad that some players would just give it away to anyone who happened to be near. But now that the rewards got buffed and grants luck, it's now highly sought after again.
+-   Anyone standing near your whilst you turn in the artifact will also receive luck and exp.
