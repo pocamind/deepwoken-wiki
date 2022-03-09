@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 23006
+revid: 24208
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -63,6 +63,6 @@ Unknown
 
 ## Notes
 
--   Only obtainable from developers
+-   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race)
 -   While considered a developer race, the increase in stats is not significantly stronger than any other race.
 -   Pupils are a reference to Jin Mori from God Of Highschool

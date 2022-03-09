@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 23291
+revid: 24200
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -85,7 +85,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
 ## Notes/Trivia
 
--   Minityrsa is also called "mini", "tundra" or "winter isle" by other players.
+-   Minityrsa is also called "mini", "tundra", "Minnesota" or "winter isle" by other players.
 -   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.
 -   Enemy NPCs here cannot be assassinated.
 -   Since its constant snowfall in Minityrsa, its best to place Campfires beneath shelter.

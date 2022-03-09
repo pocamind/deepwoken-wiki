@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 24165
+revid: 24214
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -115,6 +115,19 @@ To remove Tarnished, you need to go pay [Yamaketzal](Yamaketzal.md) (NPC that gi
   
 
 ## Notes/Trivia
+
+-   Adept and Mark of The Lone Warrior DO NOT affect how fast you obtain resonances.
+    
+    File:Bellprog.png
+    
+    Arch Mage confirming both talent cards do not affect resonance progression.
+    
+      
+    
+
+  
+
+  
 
 -   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.

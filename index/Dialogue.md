@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24124
+revid: 24199
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -73,7 +73,7 @@ Talking to Guards
 -   Very Good Reputation - "Welcome back to the Castle, \[Name\]. Keep making Rosen proud." | "Placeholder"
 -   Good Reputation - "Hello friend, make any discoveries?" | "Placeholder"
 -   Neutral Reputation - "If you're not here to buy something, just leave." | "If I see you near the storage caches you're done."
--   Unfriendly Reputation - "Placeholder" | "Placeholder"
+-   Unfriendly Reputation - "Keep your hands to yourself, thief." | "We've got our eyes on you."
 
 ## Hive Reputation
 

@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 19095
+revid: 24211
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,13 +23,13 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ## Contents
 
-#### Fishing Shop
+#### [Fishing](Fishing.md) Shop
 
 -   Players can purchase a Fishing Rod for and [Chum](Chum.md) for here.
 
 #### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find Shnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
+-   Players can find Schnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
 
 #### Shipwright
 
@@ -46,4 +46,4 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ## Trivia/Notes
 
--   Player notes here
+-   Although some food can be seen nearby the Fishing shop, they can't be taken nor bought. Quite a missed opportunity if I do say so myself.

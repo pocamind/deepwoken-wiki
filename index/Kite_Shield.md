@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 22260
+revid: 24213
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -20,7 +20,7 @@ categories: [Weapons, Weaponry]
 | penetration | N/A |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
-| selling price | ? |
+| selling price | 10 |
 | weight | 1.75 |
 | bankable | Yes |
 | droppable | Yes |
