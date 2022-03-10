@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 22689
+revid: 24295
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -26,7 +26,7 @@ categories: [Weapons, Weaponry]
 | obtainment | Drops from Ferryman during Winter season |
 | description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding." |
 
-# _"Let's Dance."_
+# _"Let's Dance." - David Bowie_
 
 ## Description
 

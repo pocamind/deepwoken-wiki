@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 23651
+revid: 24304
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -15,7 +15,7 @@ categories: [Weapons, Weaponry]
 | damage | 23 |
 | scaling | 7 HVY |
 | range | 8.5 |
-| swing speed | 6x |
+| swing speed | .6x |
 | endlag | 0s |
 | penetration | 30% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

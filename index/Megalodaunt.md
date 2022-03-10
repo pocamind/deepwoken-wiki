@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 23749
+revid: 24303
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -47,7 +47,7 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 | **Spit** | A long-range single target ability. Hits multiple times. | ◯ | (★☆☆) |
 | **Thousand Needles** | The Megalodaunt bends over and points its coral tubes towards a target, proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | (★☆☆) |
 | **Roar** | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much earlier than expected or during combat. Blocking negates the insanity gain. | ◯ | (★☆☆) |
-| Fire Roar | Similar to the standard **Roar**, but has the ability to rain down fiery swords from the sky. | ◯ | (★☆☆) |
+| Fire Roar | Similar to the standard **Roar**, but has the ability to rain down fiery swords from the sky. Exclusive to the crimson variant. While the swords are raining down, the shark seems unable to attack. | ◯ | (★☆☆) |
 
 #### Finisher
 

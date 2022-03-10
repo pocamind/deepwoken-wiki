@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24288
+revid: 24292
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -135,7 +135,7 @@ _Requires Fortitude 10_
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | Dewdrop Earrings | +16 Reservoir +6 Sanity | Starswept Valley Chests |
-|  | Rubydrop Earrings | Placeholder | Hive Chests |
+|  | Rubydrop Earrings | Grants 2-3 Random Buffs | Starswept Valley Chests |
 | File:MasterThief.png | Master Thief Earrings | Grants ether, Damage Vs. Sea or Damage Vs. Deep | Fort merit Chests |
 | File:Screenshot 2.png | Practicioner's Earrings | Grants: Ether, Sanity, Damage Vs. Deep | Summer Island |
 |  | Pendant Earrings | Grants Sanity, Ether, Vs. Faction | Primadon Chests |
@@ -154,7 +154,7 @@ _Requires Fortitude 10_
 | File:Adventurer's Scarf.png | Adventurer's Scarf | Grants 1-4 Random Buffs | Starswept Valley Chests |
 | File:Black Scarf.png | Black Scarf | Grants 1-4 Random buffs | Starswept Valley Chests |
 |  | Tundra Scarf | Grants a random buff | Starswept Valley Chests |
-|  | White Scarf |  | Starswept Valley Chests |
+|  | White Scarf | Grants 1-4 Random Buffs | Starswept Valley Chests |
 |  | Desert Scarf |  | Starswept Valley Chests |
 | File:Onepiececape.png | Fleet Warden Cape | Usually 12 hp | Summer Island crate quest. 1% drop |
 |  | Forest Scarf | Grants 1-4 Random Buffs | Starswept Valley Chests |

@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 23785
+revid: 24298
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 ## **Attacks**
 
--   **Electric Stun Pulse (Gigablast)** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds.
+-   **Electric Stun Pulse (Gigablast)** - Blue AOE attack that deals approx. _**15 damage**_ while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds. Before they do this, there is a brief flash above their heads if you look closely. Sadly, it is nearly impossible to react to especially with higher pings.
 
 ### **Finisher**
 

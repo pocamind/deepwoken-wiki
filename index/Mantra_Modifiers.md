@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 24277
+revid: 24299
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ Glass Stones and Magnifying Stones seem to have vastly different effects on mant
 
 Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible, for example:
 
-1.  Revenge requires Drift/Rush Shards to reach further instead of Lens
+1.  Revenge requires Drift/Rush Shards to reach further instead of Lens.
 
 **Regular:**
 

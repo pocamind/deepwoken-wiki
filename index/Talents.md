@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24275
+revid: 24297
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -323,6 +323,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Health regeneration is increased while swimming.
     -   Hunger drain from swimming is multiplied by 1.5x.
     -   These effects do not activate in [The Depths](The_Depths.md).
+    -   Water Drain is decreased by 1.5%
 
 ### Freak Of Nature
 

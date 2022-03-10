@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 24286
+revid: 24293
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -174,7 +174,7 @@ Warning: This Quest is excepetionally difficult. Recommended for High-Leveled an
 To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 
 -   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
-    -   You must have Charisma 20 to charge Karliah.
+    -   You must have Charisma ~10 to charge Karliah.
 -   Save her from the Mudskipper that is attacking her.
 -   Interact with her.
 
