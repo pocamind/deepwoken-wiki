@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24248
+revid: 24269
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -31,6 +31,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 -   You cannot have more than 3 equipment enchants at once.
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 18/02/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
+-   If you have an enchantment in your inventory, there is a 50% chance an exploiter will target you and demand you to drop it.
 
 There are two variants that enchantments come in:
 
@@ -127,9 +128,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>On proc, apply a stacking debuff that reduce the victims armor by 25%.</p>
-  <p>The effect that is supposed to appear on players appears to be bugged, as it used to proc a red and black lightning "stack" on the opponent. Can be seen very rarely when fighting primadon as black and red lightning, but no other effects can be seen on other entities.</p>
+  <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><div><p>M1 connections apply a debuff which drastically increases armor penetration, capping out to 100% Armor Penetration at 4-5 procs (tested multiple times, do not overwrite this.). Allegedly, flourishing an opponent resets the armor penetration that Grim gives, although it has not been tested.</p>
+  <p>Connections will make a high pitched zoom sound effect, and have a nearly guaranteed chance to proc with every M1.</p>
   <p><br>
   </p></div></td>
 </tr>

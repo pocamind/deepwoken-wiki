@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 23935
+revid: 24268
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, World]
@@ -14,14 +14,12 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 
 ### Color Coding
 
--   Mint Green Items can be crafted, cooked or used in Alchemy.
+-   Mint Green Items can be crafted, cooked or used in food recipes and potions.
 -   Yellow Items are generic items, such as Materials, Gems, Food and Harvesting Tools.
 -   Light Blue Items are Schematics and can be brought to a Blacksmith to learn the recipe.
 -   Light Orange Items are Training Equipment.
 -   Light Red Items can be equipped, such as shields or weapons.
 -   Violet Items are Mantra Ingredients.
-
-  
 
 ## Ingredients
 

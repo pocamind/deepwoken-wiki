@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 22700
+revid: 24271
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,7 +12,7 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Light Weapon |
 | requirements | 0 LHT & Fist Style |
-| damage | 14 |
+| damage | 13.5 |
 | scaling | 7 |
 | range | 6 |
 | swing speed | 0.86x |
@@ -29,7 +29,7 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-**Iron Cestus** is a Light Weapon that requires no LHT to use. It has no penetration, 7 scaling, 5 weight, 6 range, and 0.87x Swing Speed. It also has a base damage of 15, being the third highest damaging fist cestus alongside the [Legion Cestus](Legion_Cestus.md).
+**Iron Cestus** is a Light Weapon that requires no LHT to use. It has no penetration, 7 scaling, 5 weight, 6 range, and 0.87x Swing Speed. It also has a base damage of 13.5, being the third highest damaging fist cestus alongside the [Legion Cestus](Legion_Cestus.md).
 
 ## Notes
 

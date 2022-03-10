@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 24139
+revid: 24279
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -37,3 +37,4 @@ These races are seen on testers or developers, or are planned to be released in 
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
     -   Twins are caused by having the exact same physical features and cousins are caused by having similar features and/or name.
+    -   People hate felinors so if you can reroll race unless you wanna become a hunting target

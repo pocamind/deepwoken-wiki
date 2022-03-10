@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 24121
+revid: 24277
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -60,13 +60,13 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
  | 
 
--   Increases range of projectiles.
--   If the mantra is not a projectile, the hitbox size is reduced instead.
+-   Increases range of projectiles, and the targeting range of auto-aim moves.
+-   If the mantra is not a projectile, the hitbox/aim assist area size is reduced instead.
 
  |
 |  | Perfect Lens | +3 Range | 
 
--   Increases range of Projectiles.
+-   Increases range of Projectiles and targeting range of auto-aim moves.
 
  |
 |  | Aeon Logstone | +2 Duration
@@ -75,14 +75,14 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
  | 
 
--   Increase duration of ritual casts.
+-   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 1 key to Ritual Casts.
--   Doesn't increase the duration of Adrealine Rush.
+-   Doesn't increase the duration of Adrenaline Rush.
 
  |
 |  | Eternal Logstone | +3 Duration | 
 
--   Increase duration of ritual casts.
+-   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 3 keys to Ritual Casts
 -   Adds 1 purple key, which is random each time you cast the spell
 
@@ -95,12 +95,14 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 -   Projectiles go further
 -   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
+-   Repeating mantras (ex; Lightning Assault) perform their loops/repeated actions quicker.
 
  |
 | File:Drift & Rush shard.png | Rush Shard | +3 Speed | 
 
 -   Projectiles go further
 -   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
+-   Repeating mantras (ex; Rapid Punches) perform their loops/repeated actions quicker.
 
  |
 |  | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
@@ -139,13 +141,13 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
  |  |
 |  | Vibrant Gem | +2 Intensity | 
 
--   Fire - burns more
--   Ice - slows more
--   Thunder - stuns more
--   Shadow - steals more ether
--   Wind - Slightly flings enemies (only tested astral wind)
--   Graceful Flame increases Healing Speed
--   ̶N̶o̶ ̶e̶f̶f̶e̶c̶t̶(̶?̶)̶ ̶o̶n̶ ̶p̶h̶y̶s̶i̶c̶a̶l̶ ̶m̶a̶n̶t̶r̶a̶s̶ ̶(̶m̶o̶r̶e̶ ̶t̶e̶s̶t̶i̶n̶g̶ ̶r̶e̶q̶u̶i̶r̶e̶d̶)̶ Increases insanity given by gaze.
+-   Fire - Burns more / Lava Serpent Path - ?
+-   Ice - Slows more / Crystal Path - ?
+-   Thunder - Stuns more
+-   Shadow - Steals more ether
+-   Wind - Suffocate deals more damage and slows more.
+-   Graceful Flame increases Healing Speed.
+-   ̶Increases insanity given by gaze.
 -   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
 
  |
@@ -182,7 +184,7 @@ Reduces damage of mantra for 20%.
  |
 | 
 
- | Blessed Gem | Blessed Gem now halves the cooldown of the move you landed it on, and no longer affects other mantras |
+ | Blessed Gem | Halves the cooldown of the Mantra. |
 | 
 
  | Blue Gem | Reduces Mantra ether cost by half. |
@@ -339,17 +341,18 @@ The falseflame, haunting, and mirage stone are all dropped by jellyfish in the d
 -   This modifier causes the _Shadow Gun_ Mantra to hit multiple times.
 -   This modifier causes a trail of ice to appear over the distance you dashed with the _Frost Grab_ Mantra.
 -   This modifier changes _Lightning Stream_'s behavior, attaching to the target and shocking them instead of pulling them in.
--   This modifier works with _Flame Repulsi__on_, but I honestly got no idea what it did- sorry. It changed the animation it does a little
+-   This modifier works with _Flame Repulsion__on_, but I honestly got no idea what it did- sorry. It changed the animation it does a little
 
 #### Reversal Spark
 
 -   This modifier reverses the _Air Force_ Mantra to pull targets in, instead of push them away.
 -   This modifier causes the _Adrenaline Surge_ Mantra is unchanged
--   This modifier allow the _Tornado_ Mantra to pull enemies to its center.
+-   This modifier allows the _Tornado_ Mantra to pull enemies to its center.
 -   This modifier is compatible with the _Lightning Impact_ Mantra, but has no effect.
 -   This modifier reverses the _Flame Leap_ Mantra causing the caster to slam the ground, throwing those around them into the air. (**Beware this has a very buggy hitbox**)
 -   This modifier is compatible with the _Revenge_ Mantra, causing it to deal no damage.
 -   This modifier is compatible with the _Ice Chains_ Mantra and will make it so it will pull whoever you hit towards you.
+-   This modifier is compatible with _Grand Javelin_ and applies the dazed effect upon getup to the victim.
 
 #### Multiplying Spark
 

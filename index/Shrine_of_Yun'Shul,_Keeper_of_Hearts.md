@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 23781
+revid: 24255
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -22,7 +22,7 @@ A [Resonance](Resonance.md) is required to enter the temple and to talk to them.
 
 ## Function
 
-The player can interact with Yun'Shul to obtain a wish. Players can wish if they do not have the tarnish flaw. Making a whish will give you the tarnish flaw, which will also increases the startup and cooldown of your Resonance.
+The player can interact with Yun'Shul to obtain a wish. Players can wish if they do not have the tarnish flaw. Making a wish will give you the tarnish flaw, which will also increases the startup and cooldown of your Resonance.
 
 Four wishes are available when interacting with Yun'Shul:
 

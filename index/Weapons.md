@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24251
+revid: 24273
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -213,7 +213,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td><a href="Iron_Cestus.md">Iron Cestus</a></td>
   <td>0 LHT</td>
-  <td>15</td>
+  <td>13.5</td>
   <td>N/A</td>
   <td>LHT: 7</td>
   <td>5</td>
@@ -922,7 +922,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 <tr>
   <td><a href="Petra's_Anchor.md">Petra's Anchor</a></td>
   <td>75 HVY, 10 STR</td>
-  <td>25.5</td>
+  <td>26.5</td>
   <td>15%</td>
   <td>HVY: 8</td>
   <td>9</td>

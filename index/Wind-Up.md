@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 23507
+revid: 24284
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -48,3 +48,4 @@ If **Wind-Up** is found to be Corrupted, players will reach max level in three *
 ## Trivia/Notes
 
 -   Similar to _Hunter X Hunter_'s Phinks, and their ability "Ripper Cyclotron".
+-   Possibly a reference to the "Impact" fighting style from the Roblox game "Arcane Adventures", which involved charging up and releasing a extremely powerful blow.

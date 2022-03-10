@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 24242
+revid: 24278
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -36,7 +36,7 @@ The specific requirements for obtaining a Resonance are unique to all players, m
 
 Resonances are obtained by maxing an invisible stat known as Progress. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa. As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches its cap.
 
-The easiest way to achieve max Progress is to grind bosses such as [Primadon](Primadon,_Titan_of_the_East.md) and the [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Dread Serpents, Enhanced Monsters, The Duke, The Enforcer, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the [Chime of Conflict](Chime_of_Conflict.md), as there is no risk to your progress as long as you do not gamble your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present. Progress is split the moment another player hit said monster.
+The easiest way to achieve max Progress is to grind bosses such as [Primadon](Primadon,_Titan_of_the_East.md), [The Enforcer](Enforcer.md), and the [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Dread Serpents, Enhanced Monsters, The Duke, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the [Chime of Conflict](Chime_of_Conflict.md), as there is no risk to your progress as long as you do not gamble your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present. Progress is split the moment another player hit said monster.
 
 Once you have max Progress, you must go to the Depths and get knocked. Note that you can be knocked in any way, be it a monster (Keep in mind that attacks that execute, like the Lionfish Laser will still execute), a player or fall damage. It is generally preferred to check with the help of a friend.
 
@@ -46,7 +46,7 @@ If your resonance is ready, the following will happen when knocked:
 -   Your Blood, Thirst and Hunger are maxed out.
 -   A visual effect will play around you.
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
--   A hand of 3 cards will be dealt. This will be your Resonance.
+-   A hand of 3 cards will be dealt. One of these cards will become your Resonance.
 
 Once obtained, using C will activate your Resonance.
 
@@ -63,12 +63,12 @@ You can select your resonance through the card menu shown above.
 ### Bosses:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md) (Not recommended for his rare rate of spawn)
--   [The Ferryman](The_Ferryman.md)
+-   [Dread Serpent](Dread_Serpent.md) (Not recommended as a primary source)
+-   [The Ferryman](The_Ferryman.md) (Not recommended, gives incredibly low amounts of Resonance progress.)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Duke](Duke_Ishamon_Erisia.md)
 -   [The Enforcer](Enforcer.md)
--   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (again, not recommended)
+-   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended for infrequency, high risk, and low amount of Progress granted.)
 
 ### Other:
 

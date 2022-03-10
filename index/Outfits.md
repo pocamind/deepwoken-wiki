@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24187
+revid: 24288
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -102,7 +102,7 @@ _Requires Fortitude 10_
 | File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:Grey Gumshoe Hat.png | Grey Gumshoe Hat | Grants Reservoir | Fort Merit Chests |
 | File:Dark Gumshoe Hat.png | Dark Gumshoe Hat | Grants Reservoir | Fort Merit Chests |
-|  | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:Ocre Gumshoe Hat.png | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
@@ -126,42 +126,20 @@ _Requires Fortitude 10_
 | File:Bandana.png | Bandana | Cosmetic | Chests |
 |  | Blindfold | Grants the "Blinded" talent, which obscures the wearer's vision. | Erisia Chests |
 |  | Crimson Blindfold | Grants the "Blinded" talent and a random buff | Minityrsa Chests |
-|  | Eyeglasses | Grants a random buff. | Minityrsa and
-Songseeker Chests
-
- |
-|  | Polarized Eyeglasses | Cosmetic | Minityrsa and
-
-Songseeker Chests
-
- |
-| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | 3-2 (Random) Buffs | Depths and Songseeker Chests |
+|  | Eyeglasses | Grants a random buff. | Minityrsa and Songseeker Chests |
+|  | Polarized Eyeglasses | Cosmetic | Minityrsa and Songseeker Chests |
+| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | 2-3 (Random) Buffs | Depths and Songseeker Chests |
 
 **Ears:**
 
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
-|  | Dewdrop Earrings | +16 Reservoir
-+6 Sanity
-
- | Hive Chests |
+|  | Dewdrop Earrings | +16 Reservoir +6 Sanity | Starswept Valley Chests |
 |  | Rubydrop Earrings | Placeholder | Hive Chests |
-| File:MasterThief.png | Master Thief Earrings | Grants ether and
-
-a Damage Vs. Sea
-
-or Damage Vs. Deep
-
- | Fort merit Chests |
-| File:Screenshot 2.png | Practicioner's Earrings | Grants:
-
-Ether
-
-Sanity
-
-Damage Vs. Deep
-
- | Summer Island |
+| File:MasterThief.png | Master Thief Earrings | Grants ether, Damage Vs. Sea or Damage Vs. Deep | Fort merit Chests |
+| File:Screenshot 2.png | Practicioner's Earrings | Grants: Ether, Sanity, Damage Vs. Deep | Summer Island |
+|  | Pendant Earrings | Grants Sanity, Ether, Vs. Faction | Primadon Chests |
+|  | Emerald Tusk Earrings | Grants 2-3 Random Buffs | Primadon Chests |
 
 **Back:**
 
@@ -239,7 +217,7 @@ Songseeker Chests
  | Unknown |
 |  | Providence Coat | Regular Stat Buffs | Depths Chests, Primadon Chests |
 | File:Red justicar defender coat.png | Red Justicar Defender Coat | Regular Stat Buffs | Depths Chests, Minityrsa Chests |
-|  | Star Duster | Regular Stat Buffs | Depths Chests, Primadon Chests |
+|  | Star Duster | Regular Stat Buffs | Depths Chests, Primadon Chests, Duke Chests |
 |  | Royal Pathfinder | 2-4 moderate-high tier buffs | [Starswept Valley](The_Starswept_Valley.md)
 
 Duke chests

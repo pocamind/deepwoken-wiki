@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 23885
+revid: 24276
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -77,7 +77,6 @@ Defeating someone in the Arena grants you 2.5% luck (3.33% with marauder)l. If y
 
 ## Losing Luck
 
--   Getting gripped by a player within power range. Lose half of your luck.
 -   Taking a rare or legendary card. The amount lost **seems to be random** with no link between the card and the luck cost.
     -   Generally you lose 10% luck from a rare card and 13.33% luck from a legendary card (tested with 4 of each).
 
