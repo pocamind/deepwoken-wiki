@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 23623
+revid: 24312
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, AelitaRogue construct |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description

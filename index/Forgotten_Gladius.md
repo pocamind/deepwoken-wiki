@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 24302
+revid: 24309
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,4 +34,4 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 
 ## Notes & Trivia
 
--   Swings so fast that you are positive on block for everything but a dagger and fist.
+-   ~Swings so fast that you are positive on block for everything but a dagger and fist. Both~ There are medium weapons that already out speed this weapon, please dont use it.

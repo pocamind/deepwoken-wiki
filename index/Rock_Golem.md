@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 24194
+revid: 24307
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,15 +20,28 @@ In combat Rock Golems are very hardy having moderately high health, and high sla
 
 ## Moves
 
--   **Rapid Spin** - The Rock Golem will start spinning its upper body in a progressively faster motion while walking towards the target.
-    -   **Lethal Spin (Prime Golem) -** Similar to Rapid Spin, except its faster and hits harder.
--   **Laser Beam** - The Rock Golem charges up a white beam from its core, and discharges a laser upon their target. Can be dodged or parried.
-    -   **Red Beam (Prime Golem)** - Similar to Laser Beam, except it hits much harder.
--   **Chain Laser (Prime Golem)** - The Black Golem charges up a red-hot beam, before discharging and lasering the target seven times.
--   **Rock Uppercut** - The Rock Golem will swing its arm at the target with a low-uppercut motion, breaking block and flinging you away. Large targets may not be flung.
--   **Foot Stomp** - The Rock Golem slams its foot down. Can be parried or blocked.
--   **Rock Sledgehammer** -The Rock Golem puts their arms together and swings them like a club upon the target, slamming the ground. Can be parried or blocked.
--   **Angered Scream** - The Rock Golem will let out a roar and rocks will begin to fall from the sky. The best way to avoid these is just to watch out for any rocks falling. (just don't fight them when there is a ceiling above them as this will trigger their move)
+### Rock Golems
+
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Spin** | The golem starts spinning its arms, rapidly dealing low damage. | ◯ | (★☆☆) |
+| **Laser** | The golem charges a laser before firing it, creating a small AOE at the point of impact, dealing medium damage. | ✗ | (★☆☆) |
+| **Stomp** | The golem raise his left leg to stomp the ground. | ◯ | (★☆☆) |
+| **Ground Slam** | The golem winds up his arms over his head and slam the ground. | ◯ | (★☆☆) |
+| **Uppercut** | The golem winds up his right arm and punch, sending the player flying. | ✗ | (★★☆) |
+| **Scream** | The golem scream, making roofs drop rubbles, dealing high damage if they land on the player. | ✗ | (★★☆) |
+
+### Prime Golems
+
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Lethal Spin** | The golem starts spinning its arms, rapidly dealing medium damage. | ◯ | (★★☆) |
+| **Prime Laser** | The golem charges a laser before firing it, creating a small AOE at the point of impact, dealing high damage. | ✗ | (★★☆) |
+| **Lethal Laser** | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly. | ✗ | (★★★) |
+| **Stomp** | The golem raise his left leg to stomp the ground. | ◯ | (★☆☆) |
+| **Ground Slam** | The golem winds up his arms over his head and slam the ground. | ◯ | (★☆☆) |
+| **Uppercut** | The golem winds up his right arm and punch, sending the player flying. | ✗ | (★★☆) |
+| **Scream** | The golem scream, making roofs drop rubbles, dealing high damage if they land on the player. | ✗ | (★★☆) |
 
 ### Finisher
 

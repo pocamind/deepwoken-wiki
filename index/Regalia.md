@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 24241
+revid: 24310
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -51,7 +51,6 @@ Gain the ability to consume non-food items.
 
 Obtainment (my method)
 
--   Age 20+
 -   Eaten many types of ingredient
 -   Thrown up many times
 -   Made a certain number of different foods
