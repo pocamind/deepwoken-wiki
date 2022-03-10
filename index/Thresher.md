@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 23280
+revid: 24347
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -22,10 +22,16 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 
 ## Abilities
 
--   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried. Deals moderate damage.
--   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried. Deals slight damage per bite.
--   **Tail Swipe** - Turns around and winds itself up before smacking you with its tail, ragdolling those hit by this. This attack is able to be parried. Can be blocked with a good enough shield/enough posture available (does ~50% posture with worshipper shield), able to be parried.
--   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Arm Swipe** | The thresher stands on its hind legs and swipe twice. Deals moderate damage. | ◯ | (★☆☆) |
+| **Bite** | The thresher bite 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deal moderate damage. | ◯ | (★☆☆) |
+| **Tail Swipe** | The thresher bring his tail back and turn around to deliver a powerful blow that deal tremendous amount of posture damage. Deal moderate damage. Attacks following this move comes out sooner. | ◯ | (★★☆) |
+| **Burrow** | The thresher burrows underground, becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. | ✗ | (★★☆) |
+
+## Passives
+
+-   **Serated Claws/Teeths** - Threshers have 100% PEN.
 
 ## Finishers
 
@@ -59,13 +65,17 @@ Template:Creature Info Box v2The King Thresher is a much bigger and more powerfu
 
 ## Abilities
 
--   **Cursed Flame** - An unblockable, short-range, low-damage purple flame attack from its spine.
--   **Arm Swipes** - Swipes with their arms **twice**. This attack is able to be parried.
--   **Bite** - Bites you with their mouth **thrice**. This attack is able to be parried.
--   **Tail Swipe** - Turns around and smacks you with its tail, ragdolling those hit by this. This attack is able to be parried. Ignores block, able to be parried.
--   **Dig** - Burrows underneath the ground and attempts to hit you from below to knock you upward then suck, ragdolling upon hitting. This attack can only be dodged as indicated by its red marker.
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Arm Swipe** | The king thresher stands on its hind legs and swipe twice. Deals moderate damage. | ◯ | (★☆☆) |
+| **Bite** | The king thresher bite 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deal moderate damage. | ◯ | (★☆☆) |
+| **Tail Swipe** | The king thresher bring his tail back and turn around to deliver a powerful blow that deal tremendous amount of posture damage. Deal moderate damage. | ◯ | (★★☆) |
+| **Burrow** | The king thresher burrows underground, becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
+| **Cursed Flame** | The king thresher breath purple flames in a 180° arc in front of it. Must be dodged. | ✗ | (★★★) |
 
-  
+## Passives
+
+-   **Serated Claws/Teeths** - Threshers have 100% PEN.
 
 ## Finishers
 

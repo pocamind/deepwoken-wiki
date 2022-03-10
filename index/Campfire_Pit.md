@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 22537
+revid: 24349
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ Crafted by using 3 Sticks **OR** 1 Wood.
 
 Equipping and using a Campfire will then place it down.
 
-Can be lit up by using a Flint (1 Coal + 1 Rock), using [Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm#Talents), [Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall#Talents), Flame Wisp, or using Fire Gun. While resting at a campfire, the player can cook [Food](Food.md) while also regaining their [Blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics), [Health](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI), [Armor](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI) (requires the [Thresher Scales](https://deepwoken.fandom.com/wiki/Talents#Marauder) Talent), Natural Armor (requires the [Vesperian](Vesperian.md) race) and [Sanity](Insanity.md).
+Can be lit up by using a Flint (1 Coal + 1 Rock), using [Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm#Talents), [Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall#Talents), Flame Wisp, or using Fire Gun. While resting at a campfire, the player can cook [Food](Food.md) while also regaining their [Blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics), [Health](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI), [Armor](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI) (requires the [Thresher Scales](https://deepwoken.fandom.com/wiki/Talents#Marauder) Talent), Natural Armor (requires the [Vesperian](Vesperian.md) race **OR** the [Exoskeleton](Talents.md) talent) and [Sanity](Insanity.md).
 
 Pressing **B** while standing near a campfire with nothing in hand will make your character kick and destroy the campfire.
 

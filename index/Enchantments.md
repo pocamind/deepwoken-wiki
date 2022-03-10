@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24269
+revid: 24338
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -128,7 +128,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p>M1 connections apply a debuff which drastically increases armor penetration, capping out to 100% Armor Penetration at 4-5 procs (tested multiple times, do not overwrite this.). Allegedly, flourishing an opponent resets the armor penetration that Grim gives, although it has not been tested.</p>
   <p>Connections will make a high pitched zoom sound effect, and have a nearly guaranteed chance to proc with every M1.</p>
   <p><br>

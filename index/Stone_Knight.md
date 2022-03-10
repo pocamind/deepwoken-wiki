@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 23983
+revid: 24336
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck]
@@ -38,7 +38,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Slash** | The knight slash with his sword. Can be used twice in a row. | ◯ | (★☆☆) |
-| **Kick** | The knight perform a very fast kick that can be dodged but deal a lot of damage and deal extra damage + daze the player if launched at a wall. Good chance to lead into a follow up with any of his other moves. | ✗ | (★★★) |
-| **Wind Blast** | The knight slash the air with his sword, creating a projectile targetted at the player. | ◯ | (★☆☆) |
-| **Rock Pillar** | The knight punch the ground, creating a rock pillar at the player location that must be dodged. The dodge window is quite forgiving, even letting very early roll escape the move. If the player is hit, they are essentially guaranted to get hit by the next attack. | ✗ | (★★☆) |
+| **Slash** | The knight swings it's sword at the player either once or twice. | ◯ | (★☆☆) |
+| **Kick** | The knight performs a very fast kick that can be dodged but deals a lot of damage, deals extra damage + daze if the player hits a wall. Will most likely use it's projectile or pillar attack right after. | ✗ | (★★★) |
+| **Wind Blast** | The knight slashes the air with his sword, creating a projectile that is aimed at the player. | ◯ | (★☆☆) |
+| **Rock Pillar** | The knight punches the ground, making a rock pillar rise below where the player stands that must be dodged. The dodge window is quite forgiving, even making early rolls escape the move. If the player is hit, they are guaranted to get hit by the next attack. | ✗ | (★★☆) |

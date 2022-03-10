@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 24153
+revid: 24334
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]

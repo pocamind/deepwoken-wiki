@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 24073
+revid: 24348
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -62,6 +62,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 
 -   Deals light damage.
 -   User cannot use weapons or spells during this spell.
+-   Can grip knocked enemies if used for long enough(needs testing, I've seen it happen against a normal bandit but I'm unsure)
 
  |
 |  | Heavenly Wind  
