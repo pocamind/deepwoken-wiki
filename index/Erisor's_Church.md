@@ -1,6 +1,6 @@
 ---
 title: "Erisor's Church"
-revid: 24376
+revid: 24380
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -35,6 +35,6 @@ Forgotten Villagers inside the Church
 ### Forgotten Villagers Mission
 
 -   Talking to the villagers for a bit will result in waves of bandits spawning.
--   These bandits will progress in difficulty until a [Rock Golem](Stone_Knight.md) spawns.
+-   These bandits will progress in difficulty until a [Rock Golem](Rock_Golem.md) spawns.
 -   This event will end as soon as the Rock Golem is eliminated.
 -   Alternative to this quest, you can knock out these villagers and take them [to the wounded man in Pathfinder's Respite](Alastir.md)

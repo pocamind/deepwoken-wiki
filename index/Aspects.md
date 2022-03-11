@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 24358
+revid: 24381
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -32,7 +32,8 @@ These races are seen on testers or developers and are planned to be released in 
 
 ## Notes
 
--   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player.
+-   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Due to racism and also you can find about. then in the world of etra
+
 -   Players may also treat the player differently depending on their race.
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.

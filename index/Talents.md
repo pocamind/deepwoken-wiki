@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24370
+revid: 24384
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -35,7 +35,8 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 
 -   You cannot roll Neuroplasticity with Return to the Dark Ages.
 -   You cannot roll Return to the Dark Ages with Everchanging Aegis.
--   You cannot roll Risky Moves with Safety Dance and Observation.
+-   You cannot roll Risky Moves with Safety Dance and Observation
+-   You cannot roll Conditioned Runner with Fishman.
 
   
 
@@ -143,9 +144,9 @@ These Talents are designed to improve fishing.
 
 -   Authority Intimidation \[Generic Talent, Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Generic Talent, Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
--   First Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less posture damage.
+-   First Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
 -   Second Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
--   Third Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less damage.
+-   Third Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
 
 ### Bastion
 
@@ -1154,6 +1155,7 @@ Adept \[Generic Talent, Legendary Talent\] - Take this to make grinding for inve
 -   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guaranteed legendary Talent card.
+-   Adept can't be obtained post power 55.
 
   
 Template:Navbox:Talents

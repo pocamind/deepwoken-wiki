@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 24310
+revid: 24385
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -18,7 +18,7 @@ _Warning, these are not guaranteed and there is no official known way to obtain 
 
 -   Most likely just a chance when wiping (I got Animal King on a slot where I had only wiped once before, both at level 1.)
 
--   Wiping at an older age (28+)  
+-   Wiping at an older age (28+) (Likely false, wiped at age 34 and didn't get anything -Jeni)  
     
 
 ## Mute (Animal King)
