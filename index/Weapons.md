@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24273
+revid: 24411
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -444,7 +444,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>0.77x</td>
 </tr>
 <tr>
-  <td>Cavalry Saber</td>
+  <td><a href="Cavalry_Saber.md">Cavalry Saber</a></td>
   <td>40 MED</td>
   <td>21</td>
   <td>N/A</td>

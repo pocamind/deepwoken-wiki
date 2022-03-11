@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 24065
+revid: 24400
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -46,7 +46,7 @@ Pressing "C" will activate the **Teleportation** Resonance.
 #### _Teleportation_
 
 -   At first use, **Teleportation** will set a position or marker at the cursor's location, this position is indicated with a gray translucent circle.
-    -   This location can be set on a player, but will expire once said player disconnects.
+    -   This location can be set on a player, but will expire once said player disconnects. (thats cap if the join back the marker will still be on them)
 -   If the position or marker is set, **Teleportation** will form a golden ring below the user's feet. The start-up scales with how far the portal is from the marker. This ring persists even if the user leaves the ring, and teleports all players inside the ring once finished.
 
 ## Trivia/Notes

@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 24393
+revid: 24403
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -28,8 +28,11 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
   <td>File:Navae's Guidance.png</td>
   <td><b>Navae's Guidance</b>
   <ul>
-    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"</li>
-    <li>Gain a compass at the top of your screen</li>
+    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"
+  <ul>
+    <li>Gain a compass at the top of your screen.</li>
+    <li>Reduced hunger lose.</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -39,10 +42,6 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
     <li>+2 Strength</li>
     <li>+2 Fortitude</li>
   </ul></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
 </tr>
 </tbody>
 </table>
@@ -97,6 +96,7 @@ SURNAMES
 ## Notes/Trivia
 
 -   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
+-   The compass point South, the homeland of the Gremors being in the Southern Luminant.
 -   As a Gremor, ~you will get alternate dialogue from Navaen Nomads.~ (Alternate? Maybe? But I do know that Gremors have better reputation with them though.)
 -   This race seems to be disliked by the community.
 

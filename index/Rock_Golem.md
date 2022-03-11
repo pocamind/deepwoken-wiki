@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 24307
+revid: 24421
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,26 +26,26 @@ In combat Rock Golems are very hardy having moderately high health, and high sla
 | --- | --- | --- | --- |
 | **Spin** | The golem starts spinning its arms, rapidly dealing low damage. | ◯ | (★☆☆) |
 | **Laser** | The golem charges a laser before firing it, creating a small AOE at the point of impact, dealing medium damage. | ✗ | (★☆☆) |
-| **Stomp** | The golem raise his left leg to stomp the ground. | ◯ | (★☆☆) |
-| **Ground Slam** | The golem winds up his arms over his head and slam the ground. | ◯ | (★☆☆) |
-| **Uppercut** | The golem winds up his right arm and punch, sending the player flying. | ✗ | (★★☆) |
-| **Scream** | The golem scream, making roofs drop rubbles, dealing high damage if they land on the player. | ✗ | (★★☆) |
+| **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. | ◯ | (★☆☆) |
+| **Ground Slam** | The golem brings its arms over its head, before quickly slamming them down into a vicious swing | ◯ | (★☆☆) |
+| **Uppercut** | The golem winds up its arm behind it, before quickly swinging it outwards. | ✗ | (★★☆) |
+| **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player. Does not use this attack if there is no ceiling above it. | ✗ | (★★☆) |
 
 ### Prime Golems
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Lethal Spin** | The golem starts spinning its arms, rapidly dealing medium damage. | ◯ | (★★☆) |
-| **Prime Laser** | The golem charges a laser before firing it, creating a small AOE at the point of impact, dealing high damage. | ✗ | (★★☆) |
-| **Lethal Laser** | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly. | ✗ | (★★★) |
-| **Stomp** | The golem raise his left leg to stomp the ground. | ◯ | (★☆☆) |
-| **Ground Slam** | The golem winds up his arms over his head and slam the ground. | ◯ | (★☆☆) |
-| **Uppercut** | The golem winds up his right arm and punch, sending the player flying. | ✗ | (★★☆) |
-| **Scream** | The golem scream, making roofs drop rubbles, dealing high damage if they land on the player. | ✗ | (★★☆) |
+| **Spin** | The golem starts spinning its arms, rapidly dealing medium damage. | ◯ | (★★☆) |
+| **Prime Laser** | The golem charges up a red laser before firing it, dealing massive damage in a small aoe. | ✗ | (★★☆) |
+| **Laser Barrage** | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly. | ✗ | (★★★) |
+| **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. | ◯ | (★☆☆) |
+| **Ground Slam** | The golem brings its arms over its head, before quickly slamming them down into a vicious swing | ◯ | (★☆☆) |
+| **Uppercut** | The golem winds up its arm behind it, before quickly swinging it outwards. | ✗ | (★★☆) |
+| **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player. Does not use this attack if there is no ceiling above it. | ✗ | (★★☆) |
 
 ### Finisher
 
--   **Angry Stomp** - The Rock Golem will slam its foot down upon a knocked target, killing them.
+-   **Stomp** - The Rock Golem will slam its foot down upon a knocked target, killing them.
 
 **Passives**
 
@@ -62,12 +62,12 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   **Foot Stomp** - Parry the stomp, _you do not have enough time to dodge it._
 -   **Swing** - Dodge the swing. It is essentially a reskinned Megalodaunt kick, and should be treated as such.
 -   **Angered Scream** - 3 hits while it's screaming, it _probably_ won't hit you, although you're not in danger of getting hit by its other moves if it does.
--   **Laser Beam** - Hit 2 times and dodge, the beam should miss.
+-   **Laser Beam** - Hit 2 times and dodge, the beam should miss. If you are less experienced with fighting these, wait for the charging noise to finish, then dodge.
     -   **Red Beam (Prime Golem)** - Same strat, although it looks the exact same as Chain Laser, so better to follow that strat.
     -   **Chain Laser (Prime Golem)** - 2 hits, then dodge, before proceeding to run and jump until it stops shooting.
 
-## Tips
+## Trivia & Notes
 
 -   Occasionally a Megalodaunt and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 -   Do not block it's Spinning attack, as it will shred your posture quickly. However, parrying said move gives a lot of exp, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   You can also parry grind them when they do their Beyblade attack. Just spam F and you can get your weapons and strength up easily.
+-   These are known to attack you regardless if you have Animal King or not. (needs more testing)

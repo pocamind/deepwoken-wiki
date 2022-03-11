@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 24025
+revid: 24404
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -24,8 +24,10 @@ Template:Races-Main
   <td>File:Chitin.png</td>
   <td><b>Chitin</b>
   <ul>
-    <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"</li>
-    <li>Armor that reduces damage taken. Degrades with damage but can be replenished at a campfire</li>
+    <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
+  <ul>
+    <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
+  </ul></li>
     <li>+2 Health</li>
   </ul></td>
 </tr>

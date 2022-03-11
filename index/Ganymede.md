@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 24002
+revid: 24402
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -26,7 +26,10 @@ Template:Races-Main
   <td>File:Navae's Guidance.png</td>
   <td><b>Deepfolk</b>
   <ul>
-    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.</i>"</li>
+    <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects.</i>"
+  <ul>
+    <li>Passive insanity gain from The Depths is reduced.</li>
+  </ul></li>
     <li>+1 Health</li>
   </ul></td>
 </tr>

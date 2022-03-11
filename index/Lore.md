@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24118
+revid: 24413
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -266,8 +266,8 @@ An Etrean Guard, part of the Nation of Etrea
 
 -   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
--   **Attunements:** _Galebreathe_
--   **Alliances:** _Kingdom of Etrea_
+-   **Attunements:** _Galebreathe, Thundercall_
+-   **Alliances:** _Kingdom of Etrea (I don't see how this is true when an Etrean vs Authority event initiated in The Viper's Jaw, the Legion npcs attacked both sides.)_
 -   **Enemies:** _The Central Authority_
 -   **Lore Sources:** _Amara, Brutus_
 
@@ -681,7 +681,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Water Magic
 
--   Water magic is not obtainable, nor will likely ever be a playable attunement because doing so would require your character to either not contain a semblance of humanity within them or cast it away. All races in the game are descended from humans at some point, so it is not possible to be born with this attunement.
+-   Water magic is not obtainable, nor will likely ever be a playable attunement because doing so would require your character to either not contain a semblance of humanity within them or cast it away. All races in the game are descended from animals at some point, so it is not possible to be born with this attunement.
 -   Water Magic is a direct domain of The Depths- it's the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
   

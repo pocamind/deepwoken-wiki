@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 24179
+revid: 24426
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,7 +8,7 @@ categories: [Boss]
 
 # Nautilodaunt
 
-#### _"When the Enforcer discovers drugs....."_
+#### _"The Enforcer discovered drugs..."_
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 
@@ -25,21 +25,22 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 | **Flip- Kick[Blunt](https://deepwoken.fandom.com/wiki/File:Blunt.png)** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
 | **Drop-Kick[Blunt](https://deepwoken.fandom.com/wiki/File:Blunt.png)** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
 | **Grand Stomp** | Squibbo pounds the ground aggressively with his feet, sending rubble hurling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. | ✗ | (★★★) |
-| **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | ✗ | (★★☆) |
+| **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
 | **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. This used to be something old Deepwoken players could do, but it got removed before release. After Venting, he usually follows up with a kick. | N/A | (★☆☆) |
 
 ### Finisher
 
--   **"Mudskipperification"** - Get squid gamed and turned into a Mudskipper.
+-   **"Mudskipper Inferi"** - Get turned into a [Mudskipper](Mudskipper.md).
 
 ## **Notes/Tips**
 
--   **If you do not want to kill him with skill, get him stuck behind a thin wall (the wall of a building for example) and just spam your crit. You'll kill him slowly but it works**
--   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder than [Primadon](Primadon,_Titan_of_the_East.md) or the [Enforcer](Enforcer.md).
--   Parry trade with him (Parry - attack - parry - attack) until he is guard broken.
--   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. Way of Navae can also posture break Squibbo in one crit (from what i've done at least).
+-   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your crit.
+-   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder most of the bosses in Deepwoken.
+-   Do **NOT** parry trade with the Nautilodaunt because it most likely has a much higher posture pool than you will. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.
+-   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (from what i've done at least).
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does a lot of damage.
+-   If he flourishes you, you must roll. After a flourish he will run and you and do a slide-kick. The only way to avoid it is to just dodge out of the way.
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
 -   HEAVY WEAPON COMBAT TIP: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
