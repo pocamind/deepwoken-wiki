@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 24348
+revid: 24353
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -16,11 +16,11 @@ _"Walk with the wind, stranger." - Vigil Issac_
 
 ## Description
 
-Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities which focus on movement, projectiles, and large aoe.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities that focus on movement, projectiles, and large aoe.
 
-Galebreath also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
+Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
-The playstyle for this attunement is one of combos and burst damage. With this attunement, Gale Lunge, Wind gun, and Astral Wind will be your best friends, along with a mantra to inhale in order to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos, or players that rely on their blade (Or blunt weapon) more than their mantras.
+The playstyle for this attunement is one of combos and burst damage. With this attunement, Gale Lunge, Wind gun, and Astral Wind will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos, or players that rely on their blade (Or blunt weapon) more than their mantras.
 
 ## Training
 
@@ -29,11 +29,11 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 Like all other elements, users can see their Mantras become stronger with training:
 
 -   At Power 2, galebreathers receive the _Galebreather_ Talent.
--   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one star Mantras.
--   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two star Mantras.
--   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three star Mantras.
+-   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one-star Mantras.
+-   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two-star Mantras.
+-   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three-star Mantras.
 
-The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock Galebreathe.
+The spell trainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock Galebreathe.
 
 ### **Combat Mantras**
 
@@ -49,7 +49,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 -   Deals moderate damage.
 
  |
-|  | Air Force | Shoots out a air blast | Shoots out air from your hands in the direction of your mouse and staggers target.
+|  | Air Force | Shoots out an air blast | Shoots out air from your hands in the direction of your mouse and staggers target.
 
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
@@ -91,7 +91,7 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 (★★) | Use wind to uppercut and propel yourself into the air. | Caster uppercuts their opponent, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
--   Rapidly deals light damage to opponent while rising.
+-   Rapidly deals light damage to the opponent while rising.
 -   Missing will not send the user into the air.
 -   Can be upgraded with _Reverse Gale Kick_ Talent.
 -   I-Frames
@@ -107,22 +107,22 @@ The spelltrainer can be found in the Isle of Vigils by the tent across the Inn. 
 |  | Wind Carve  
 (★★) | A quick swirl of sharp winds. | Summons many small wind projectiles.
 
--   Rapidly damages opponent.
+-   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
 
  |
 |  | Astral Wind  
-(★★★) | A rapid delivery of consecutive attacks. | Several fast, wind-enchanced slashes that form a star and release winds in all directions in front.
+(★★★) | A rapid delivery of consecutive attacks. | Several fast, wind-enhanced slashes that form a star and release winds in all directions in front.
 
--   The user is invincibile during casting.
+-   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   ~Can be upgraded with Cloudstones/Stratus Stone~ Do **NOT** put Cloudstone/Stratus Stone on your Astral Wind, it will make that it has a slow start up.
+-   ~Can be upgraded with Cloudstones/Stratus Stone~ Do **NOT** put Cloudstone/Stratus Stone on your Astral Wind, it will make that it has a slow startup.
 
  |
 
 ### **Mobility Mantras**
 
-There are no known Mobilty Mantras for Galebreathers, though there is a talent that allows you to drift down long falls and take no damage.
+There are no known Mobility Mantras for Galebreathers, though there is a talent that allows you to drift down long falls and take no damage.
 
 ### **Support Mantras**
 
@@ -131,7 +131,7 @@ There are no known Mobilty Mantras for Galebreathers, though there is a talent t
 |  | Gale Wisp  
 (★★) | _A servant of wind._ | Spawns a wisp of wind. Must use ritual casting.
 -   Gives the caster fall damage resistance
--   Taking fall damage 2 times makes it disappear after short period of time (Logstones might increase how many times it takes to disappear, needs testing)
+-   Taking fall damage 2 times makes it disappear after a short period of time (Logstones might increase how many times it takes to disappear, needs testing)
 
  |
 
@@ -207,7 +207,7 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 
 -   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
 -   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
--   Galebreathe is the only talent to not have a "Grab" Mantra, instead having the lunge move in it's place.
+-   Galebreathe is the only talent to not have a "Grab" Mantra, instead having the lunge move in its place.
 -   Primadon is completely immune to elemental effects, including Galebreathe.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.

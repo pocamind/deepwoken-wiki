@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 24188
+revid: 24362
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -51,7 +51,7 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 -   Dying shatters 1 skull. If the player still have 2 or 1 skull left after this, they are not penalised.
     -   Shattering the last skull will make the player drop items and send them to [The Depths](The_Depths.md).
 -   You can see how many skulls you have by using The Chime Of Conflict but not choosing a game mode. The skull count will appear at the little UI in the middle of your screen.
--   Players recover 1 skull in case of a victory. They also recover all their skulls every season change (every real life day, at midnight GMT+0)
+-   Players recover all skulls in case of a victory. They also recover all their skulls every season change (every real life day, at midnight GMT+0)
     -   If they were sent to The Depths by the PvP Arena, they are granted 1 skull which they can use after escaping.
     
 

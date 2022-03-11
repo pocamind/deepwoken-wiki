@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24338
+revid: 24371
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -113,7 +113,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div>Increases weapoon attack speed slightly, (slower weapons receive more attack speed), landing M1 grant a burst of attack speed (slower weapons receive more attack speed). Weapon is invisible/hard to see.</div></td>
+  <td><div>Increases weapon attack speed slightly, (slower weapons receive a higher bonus) Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed (slower weapons gain more speed per stack) This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon.</div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
@@ -128,7 +128,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Legion Grim.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p>M1 connections apply a debuff which drastically increases armor penetration, capping out to 100% Armor Penetration at 4-5 procs (tested multiple times, do not overwrite this.). Allegedly, flourishing an opponent resets the armor penetration that Grim gives, although it has not been tested.</p>
   <p>Connections will make a high pitched zoom sound effect, and have a nearly guaranteed chance to proc with every M1.</p>
   <p><br>
@@ -155,7 +155,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>On parry, follow up instantly with a parriable attack that deal 2% of the target max HP.</p>
+  <td><div><p>After parrying a player or npc’s attack they will receive 2% of their total hp in damage a moment later. This enchant is most well used for making farming Primadon trivial.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -173,7 +173,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 25%(PVE)/10%(PVP) of damage dealt.</p></div></td>
+  <td><div><p>Heal for 25%(PVE)/10%(PVP) of damage dealt. Note - Players do a lot more damage in PVE than PVP meaning although you only heal for 10% extra the difference will seem much larger, effectively making this enchantment useful for PVE only.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -193,7 +193,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
-  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p></div></td>
+  <td><div><p>THIS ENCHANTMENT NO LONGER EXIST</p></div></td>
 </tr>
 </tbody>
 </table>

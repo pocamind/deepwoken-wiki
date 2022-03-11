@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24329
+revid: 24370
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -296,7 +296,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Lava Serpent
 
 -   Eruption Path: Lava Serpent \[Generic Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)
-    -   Prerequisites: 75? Flamecharm
+    -   Prerequisites: 40 Flamecharm
 
 ### Escape Artist
 
@@ -695,6 +695,7 @@ These Talent are meant to make maintaining your ship easier.
 
 -   A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
+    -   Note that the requirement for this talent is 75 galebreath, it is not required to be uncapped as has been proven.
 -   Silencer's Blade \[Generic Talent, Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
 -   Silencer's Edge \[Generic Talent, Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 

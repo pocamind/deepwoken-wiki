@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 24349
+revid: 24351
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,7 +21,7 @@ Pressing **B** while standing near a campfire with nothing in hand will make you
 ## Notes
 
 -   An alternative to using a campfire is the Graceful Flame support mantra. (It is not put out in rain, and has a talent that makes it so it can be used in the depths.)
--   If a player with [Azure Flames](https://deepwoken.fandom.com/wiki/Flamecharm#Azure_Flames_.28Blue_Fire.29) lights up a campfire using [Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm#Talents) the flame will have a blue color instead of the regular red. However if you light it with a mantra it will be blue either way.
+-   If a player with [Azure Flames](https://deepwoken.fandom.com/wiki/Flamecharm#Azure_Flames_.28Blue_Fire.29) lights up a campfire using [Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm#Talents) the flame will have a blue color instead of the regular red. However, if you light it with a mantra it will be blue either way.
 -   Campfires will be put out if it's currently [Raining or Snowing](Environmental_Hazards.md).
 -   Campfires spawned by the [Bandit Camp](https://deepwoken.fandom.com/wiki/Random_Encounters#Bandit_Camp) event are replaced by a chest with loot when the event ends.
 -   Only [Flamecharmers](Flamecharm.md) with the Undying Flame Talent can light up campfires in [The Depths](The_Depths.md).

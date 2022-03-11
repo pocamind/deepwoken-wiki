@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 24339
+revid: 24373
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -63,7 +63,7 @@ You can select your resonance through the card menu shown above.
 ### Bosses:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md) (Not recommended as a primary source, as his spawn rate is exceptionally low.)
+-   [Dread Serpent](Dread_Serpent.md) (Not recommended as a primary source, as his spawn rate is exceptionally low.) (Does it give a lot of bell progression though?)
 -   [The Ferryman](The_Ferryman.md) (Not recommended, gives incredibly low amounts of Resonance progress.)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Duke](Duke_Ishamon_Erisia.md)

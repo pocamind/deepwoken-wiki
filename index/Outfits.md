@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24315
+revid: 24363
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -65,7 +65,7 @@ _Deepwoken_ currently has 9 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 4 Master Outfits that have been discovered.
+_Deepwoken_ currently has 4 Master Outfits that have been discovered, Archmage has confirmed there are 5 master fits in game, go find the last one!
 
 ### Unique
 
@@ -136,10 +136,10 @@ _Requires Fortitude 10_
 | --- | --- | --- | --- |
 |  | Dewdrop Earrings | +16 Reservoir +6 Sanity | Starswept Valley Chests |
 |  | Rubydrop Earrings | Grants 2-3 Random Buffs | Starswept Valley Chests |
-| File:MasterThief.png | Master Thief Earrings | Grants ether, Damage Vs. Sea or Damage Vs. Deep | Fort merit Chests |
-| File:Screenshot 2.png | Practicioner's Earrings | Grants: Ether, Sanity, Damage Vs. Deep | Summer Island |
+| File:MasterThief.png | Master Thief Earrings | Grants ether, Damage Vs. Sea or Damage Vs. Deep | Fort Merit Chests |
+| File:Prac.JPG | Practicioner's Earrings | Grants: Ether, Sanity, Damage Vs. Deep | Summer Isle Box Quest |
 |  | Pendant Earrings | Grants Sanity, Ether, Vs. Faction | Primadon Chests |
-|  | Emerald Tusk Earrings | Grants 2-3 Random Buffs | Primadon Chests |
+| File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants 2-3 Random Buffs | Primadon Chests |
 
 **Back:**
 
