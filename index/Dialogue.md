@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24216
+revid: 24389
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -26,7 +26,7 @@ Reputation is a thing in Deepwoken. Depending on your actions, such as having a 
 
 [Ploom, The Flameworshipper (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Flamecharmer_Ploom_Quest>) - Flamecharm Requirement: 40 | Charisma Requirement: 50
 
-[Karliah, the Adret Diver (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Diver_Escort_Quest>) - Charisma Requirement: 10 (Notes) | Charisma Requirement: 20? (Persuade)
+[Karliah, the Adret Diver (Etris)](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Diver_Escort_Quest>) - Charisma Requirement: 10 (Notes) / 20 (Persuade) / 50 (Rethink)
 
 [Hobo](Hobo.md) ([Erisia](Erisia.md)), Chest Dialogue - Charisma Requirement: 50
 
@@ -55,7 +55,7 @@ Talking to guards/camp masters
 -   Very Good Reputation - "Placeholder" | "Placeholder"
 -   Good Reputation - "Welcome homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
 -   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
--   Unfriendly Reputation - \*you cannot become enemys with the whole faction\*
+-   Unfriendly Reputation - ~\*you cannot become enemys with the whole faction\*~ (I don't think so, by killing enough Navaean nomads you can. However it seems as if the dialouge does not change)
 
 _Do note that alongside Adrets, Gremors start off with Good reputation with the Children of Navae_
 

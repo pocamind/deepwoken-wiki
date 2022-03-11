@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 23727
+revid: 24393
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -97,7 +97,7 @@ SURNAMES
 ## Notes/Trivia
 
 -   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
--   As a Gremor, you will get alternate dialogue from Navaen Nomads.
+-   As a Gremor, ~you will get alternate dialogue from Navaen Nomads.~ (Alternate? Maybe? But I do know that Gremors have better reputation with them though.)
 -   This race seems to be disliked by the community.
 
 <table>

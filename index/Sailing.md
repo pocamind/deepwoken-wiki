@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 23833
+revid: 24391
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -42,3 +42,5 @@ If you stop steering your boat, the boat will automatically start to turn to a s
 -   You can buy a repair hammer for 30 notes at etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright talents.
 -   You can find more information about boats [here](Ships_&_Sailing.md).
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
+-   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it has sails, that is.
+    -   ~And please, don't pick pink/peach. It looks like you hooked up parchments of your panties to the sail~

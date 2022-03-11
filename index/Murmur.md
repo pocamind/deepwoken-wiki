@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 23967
+revid: 24394
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -18,7 +18,7 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable.
+Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable. (Aside from the Rhythm murmur, which is told to exist but not obtainable for now)
 
 ## Training Murmurs
 
