@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 24385
+revid: 24480
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -18,7 +18,9 @@ _Warning, these are not guaranteed and there is no official known way to obtain 
 
 -   Most likely just a chance when wiping (I got Animal King on a slot where I had only wiped once before, both at level 1.)
 
--   Wiping at an older age (28+) (Likely false, wiped at age 34 and didn't get anything -Jeni)  
+-   Wiping at an older age (28+) (Likely false, wiped at age 34 and didn't get anything -Jeni)
+
+-   Following some hidden guide on how to get these talents, as apparently they have obtainment methods.  
     
 
 ## Mute (Animal King)
@@ -32,6 +34,11 @@ Monsters and certain enemies will be neutral to the player unless provoked. Any 
 -   ~Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)~ Chest loot seems to be completely unaffected, but we all get unlucky sometimes.
 -   The best talent for Sharko-simps to get up close and personal.
 -   Is actually confirmed to be called **"Mute"** but that name is lame.
+
+### Theorised Obtainment:
+
+-   Something to do with wiping to monsters
+-   ???
 
 ## Termite
 
@@ -49,7 +56,7 @@ Gain the ability to consume non-food items.
 -   Gems (e.g. emerald, diamond, ruby, gold, platinum, ect.)
 -   Taco Bell
 
-Obtainment (my method)
+### Theorised Obtainment
 
 -   Eaten many types of ingredient
 -   Thrown up many times

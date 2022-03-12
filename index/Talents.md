@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24467
+revid: 24483
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -579,7 +579,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Strength Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
 -   Million Ton Piercer \[Generic Talent, Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
-    -   Prerequisite: 100 Strength (?)
+    -   Prerequisite: 90+ Strength (I got it at 91 strength)
 
 ### Public Figure
 

@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 23984
+revid: 24495
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,3 +22,4 @@ Having certain traits can make you someone else's relative.
 -   Being a twin may not be age reliant, twins have been found who have different ages.
 -   Not a lot is known about family as of 2/14/2022
 -   Being someone's family member is RNG
+-   It is theorized that you need the same mantra to be siblings/twins

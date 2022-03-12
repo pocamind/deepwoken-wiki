@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 24474
+revid: 24477
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weaponry]
@@ -95,7 +95,7 @@ categories: [Pages with broken file links, Weapons, Weaponry]
 
 **The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them.
 
-Unlike most weapons, Hero Blades deal Elemental Damage based on their associated attunement. They do not deal Slash Damage.
+Unlike most weapons, Hero Blades deal Elemental Damage based on their associated attunement. They do not deal Slash Damage. (Actually i believe they do deal slash damage because theres blood when i hit someone and i can actually kill primadon with a hero sword)
 
 ## How to Obtain
 

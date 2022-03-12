@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 24175
+revid: 24478
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -21,6 +21,8 @@ This Outfit requires [Power Level](Power.md) 30 and [Strength](Attributes.md) 25
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +30% Physical resistance and +25% Elemental resistance.
+
+Acquired the armor an hour or so ago, has the talent "Burnt". Which I am unaware of what it does.
 
 ## Location
 

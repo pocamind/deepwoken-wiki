@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 23673
+revid: 24493
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,18 +39,27 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 #### _Versions_
 
--   **Version 1** will divide 1/4th of any damage taken within one to two seconds to the user's opponents.
+-   **Version 1** will reflect any damage/status effects taken within one to two seconds to the user's opponents.
 -   **Version 2** will multiply all damage taken 3x within one to two seconds and fire a thin beam that damages the user's opponents.
 
 #### _Tarnished_
 
 If the owner of this Resonance is Tarnished, **Payback** will be given a two second start-up. During this time, **Payback** can be easily interrupted.
 
+#### _Corrupted_
+
+-   If **Version 1** of this Resonance is found to be Corrupted, **Payback** will multiply the damage reflected to the opponent by ~2.5x.
+
+-   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will take less ticks to do its damage. For example, the normal version of this Resonance allows the opponent to parry mid beam, not taking 100% of the damage from the multiple ticks **Payback** fires out, the Corrupted version will only fire out 2-3 ticks of damage, giving the opponent a much smaller parry window. (It may also improve the damage of the beam, although this could be due to lag on the normal version not allowing all ticks to hit, needs further testing)
+
+  
+
   
 
 ## Trivia/Notes
 
 -   The 2nd variation can be either blocked, parried or dodged while the 1st one can not.
+-   The 1st variation can reflect any status effects given to the user during the timeframe i.e getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Credit to N1R#3083 for helping me research the Corrupted part
 -   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
