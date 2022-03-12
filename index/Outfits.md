@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24494
+revid: 24534
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -216,7 +216,7 @@ Songseeker Chests
 
  | Unknown |
 |  | Providence Coat | Regular Stat Buffs | Depths Chests, Primadon Chests |
-| File:Red justicar defender coat.png | Red Justicar Defender Coat | Regular Stat Buffs | Depths Chests, Minityrsa Chests |
+| File:Red justicar defender coat.png | Red Justicar Defender Coat | Regular Stat Buffs | Depths Chests, Minityrsa Chests, Aelita Chest |
 |  | Star Duster | Regular Stat Buffs | Depths Chests, Primadon Chests, Duke Chests |
 |  | Royal Pathfinder | 2-4 moderate-high tier buffs | [Starswept Valley](The_Starswept_Valley.md)
 

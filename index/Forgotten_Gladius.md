@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 24309
+revid: 24538
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Only known way at the moment is Primadon chests |
+| obtainment | Obtainable from Hive and Primadon chests |
 | description | TBA |
 
 ## Description

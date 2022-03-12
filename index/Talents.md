@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24483
+revid: 24553
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -413,8 +413,9 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   Allows you to use gun critical.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Adds attunement scaling to your guns.
-    -   Guns will now apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreathe will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
+    -   Guns now deal elemental damage
+    -   Guns apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreathe will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
+    -   Guns DO NOT scales of attunement whatsoever, it only uses the highest attunement level to decide the element used.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Hunter
@@ -519,11 +520,11 @@ Prerequisite: Willpower 5~
 
 These Talents are meant to help you fight the ill effects of Insanity and to resist against it for longer.
 
--   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+3 Health, +4 Sanity)
+-   Breathing Exercise \[Generic Talent, Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
 -   Conquer your Fears \[Generic Talent, Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+2 Health, +1 Sanity)
 -   Disbelief \[Generic Talent, Common Talent\] - You're resistant to the effects of Illusion magic. (+5 Sanity)
     -   Decreases the amount of time Illusionary servants lasts for.
--   Encouraging Presence \[Generic Talent, Common Talent\] - Allies that grip enemies near you recover Sanity. (+3 Health, +6 Sanity)
+-   Encouraging Presence \[Generic Talent, Common Talent\] - Allies that grip enemies near you recover Sanity. (+5 Sanity)
 -   Unyielding Focus \[Generic Talent, Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)
 
 ### Metamancer
@@ -1147,6 +1148,25 @@ Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a
 Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when downed in water. (+1 Passive Agility)  
 Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.  
 Adept \[Generic Talent, Legendary Talent\] - Take this to make grinding for investment points easier.
+
+  
+
+## Blacklisted Talents
+
+Certain talents cannot be obtained throught Roll 2 or Legendary Echoes, due to how they are hyper specific and could break certain builds.
+
+  
+
+Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)  
+Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
+Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)  
+Dancing Steps \[Generic Talent, Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.  
+Eruption Path: Lava Serpent \[Generic Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. (+4 Elemental Intensity)  
+Nullifying Clarity \[Generic Talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)  
+Agitating Spark \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.  
+Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
+
+  
 
 ## Notes/Trivia
 

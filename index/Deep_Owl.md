@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 24473
+revid: 24547
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,7 +44,7 @@ pursuing after a bit. Typically used after Talon Swipe.
 | **Whirling Dash** | Twirls towards the target at a high speed. Typically used after Talon Swipe. | ◯ | (★☆☆) |
 | **Flying Grab** | Disappears into a burst of feathers, becomes invulnerable
 
-and attempts a grab before flying upward. Can be noticed by a lack of feather for an extended period of time within your peripheral vision.
+and attempts a grab before flying upward. Can be noticed by a lack of feather for an extended period of time within your peripheral vision, as well as looking up and spotting the owl.
 
  | ✗ | (★★★) |
 | **Flock of Feathers** | Bursts into a puff of feathers which does substantial armor

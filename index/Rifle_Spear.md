@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 23341
+revid: 24526
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -43,3 +43,7 @@ The weapon itself is different from the typical Spear, as its critical is differ
 ## Notes & Trivia
 
 -   This weapon is a direct reference of the famed Rifle Spear in the game _Bloodborne_.
+
+  
+
+Rifle Spear close up

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 24293
+revid: 24537
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -106,7 +106,7 @@ Template:Areainfobox
 
 #### The Den
 
--   Den Master can be found here.
+-   Den Master can be found here. He sells Cloudstone, Amnesic Driftwood, Drift shard and Crystal Lens each for 10 Notes.
 
 #### Alchemist's Lodge
 

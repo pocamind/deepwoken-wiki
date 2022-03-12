@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 24478
+revid: 24550
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found:
 
 -   [Fort Merit](Fort_Merit.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   [The Depths](The_Depths.md) Chests
 
 ## Trivia/Notes
 

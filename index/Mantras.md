@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 24327
+revid: 24535
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -21,6 +21,16 @@ Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 -   There are different rarities for mantras, the same way there are rarities for talents, Legendary, Rare, and Common. An example of a Legendary mantra would be lightning cloak.
 
 ## Mantras
+
+Excluding Oaths, you can have a total of 6 mantras.
+
+3 Combat Mantras
+
+1 Support Mantra
+
+1 Agility Mantra
+
+1 Wildcard Mantra
 
 ### [**Flamecharm Mantras**](Flamecharm.md)
 

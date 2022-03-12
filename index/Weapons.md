@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24509
+revid: 24536
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -538,7 +538,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><a href="Iron_Spear.md">Iron Spear</a></td>
   <td>0 MED</td>
   <td>17</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>MED: 2</td>
   <td>5</td>
   <td>9</td>
@@ -1004,7 +1004,7 @@ Weapons that scale with a certain element
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
   <td>25 MED, 75 WND</td>
   <td>18</td>
-  <td>35%</td>
+  <td>25%</td>
   <td>MED: 5, WND: 4</td>
   <td>5</td>
   <td>8</td>
