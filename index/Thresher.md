@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 24350
+revid: 24459
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -12,7 +12,9 @@ categories: [Monsters, Enemies]
 
 # Thresher
 
-_Also known as Crocodiles, Crocs, Crocco, Doggy and many other Lizard names. Note that the name that shows up when killed by a monster is the official name of that monster. (It can catch your pants down just like six.)_
+_Also known as Crocodiles, Crocs, Crocco, Doggy and many other Lizard names._
+
+  
 
 ## Description
 

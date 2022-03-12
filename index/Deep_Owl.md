@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 24052
+revid: 24473
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 “ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity. ”
 
-― ???
+― An Owl looking at its next victim.....
 
   
 
@@ -18,9 +18,9 @@ categories: [Monsters]
 
 Template:Creature Infobox V3 The **Deep Owl** (also referred to as "Owl") is an exceptionally uncommon [monster](Monsters.md) with juggernaut-like traits found in _[Upper Erisia](Upper_Erisia.md)_ and _[The Depths](The_Depths.md)_.
 
-**It is not recommended to fight the Owl alone below level 40, as each attack does massive damage.**
+**It is not recommended to fight the Owl alone below level 30, as each attack does massive damage.**
 
-Deep Owls will only spawn during night in the _Etrean Luminant_.[\[1\]](#cite-note-1) This restriction does not apply to The Depths.
+Deep Owls will spawn in the _Etrean Luminant_.[\[1\]](#cite-note-1) This restriction does not apply to The Depths.
 
 When appearing in _Upper Erisia_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
@@ -44,7 +44,7 @@ pursuing after a bit. Typically used after Talon Swipe.
 | **Whirling Dash** | Twirls towards the target at a high speed. Typically used after Talon Swipe. | ◯ | (★☆☆) |
 | **Flying Grab** | Disappears into a burst of feathers, becomes invulnerable
 
-and attempts a grab before flying upward.
+and attempts a grab before flying upward. Can be noticed by a lack of feather for an extended period of time within your peripheral vision.
 
  | ✗ | (★★★) |
 | **Flock of Feathers** | Bursts into a puff of feathers which does substantial armor
@@ -72,7 +72,7 @@ In the event that the encounter is triggered, the Deep Owl will question the pla
 
 If choosing to fight the Deep Owl for the first time, there are several things the player should keep in mind;
 
--   Typically, the Owl becomes reasonable to kill from level 30 onward in a group, or 40 if solo.
+-   Typically, the Owl becomes reasonable to kill from level 30 onward (with proper skill).
 -   It is recommended to bring a shield if unfamiliar with the Owl in order to learn its attack patterns.
 -   It will not turn hostile until attacked first, giving a chance to land a single hit before it starts attacking back.
 
@@ -96,7 +96,7 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 ## Notes
 
 -   Feared by lower-level players, but heavily sought out by mid-high level players for its Dark Feather(s) considering they are required to craft over half of the Expert and Master tier [Armors](Outfits.md).
--   Uncorrupted Deep Owls have around 1.5x the health of a normal thresher.
+-   Normal Deep Owls have around 1.5x the health of a normal thresher.
 -   If you are so unfortunate, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
 -   Due to the fact that the Owl has 1.8k health, it is possible to stat check[\[2\]](#cite-note-2) it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies.
 -   Corrupted Deep Owls (and rarely normal Owls) have a chance drop Void Feathers which are used as part of the _Visionshaper_ [Oath](Oaths.md).

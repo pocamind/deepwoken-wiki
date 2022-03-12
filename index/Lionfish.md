@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 23307
+revid: 24449
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Monsters]
 
 “ This is the power of a released Espada... Cero Oscuras ”
 
-― Lionfish before instakilling a freshspawn in the depths
+― A Lionfish before instakilling a freshspawn in the depths
 
 _Commonly refered to as: Menos Grande_
 

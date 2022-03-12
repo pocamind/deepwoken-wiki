@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 23532
+revid: 24460
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -43,13 +43,10 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 #### Library
 
--   Players can find a Library here.
+-   Players can buy basic [training items,](Training_Gear.md)
+-   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
 
 ### Root Plaza
-
-#### Cargo Room
-
--   placeholder
 
 #### Archive
 
@@ -59,25 +56,16 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 
-### Heart Plaza
-
-#### R&D
-
--   placeholder
-
 ### Canopy Plaza
 
 #### Blacksmith
 
--   Players can find (name) here, a Blacksmith.
+-   Players can find a Blacksmith.
+-   Players are able to purchase a [Pickaxe](Pickaxe.md) and [Lumber Axe](Lumber_Axe.md) for 3 notes each.
 
 #### Inn
 
 -   Players can spend to set their spawn point here.
-
-#### Canopy Peak
-
--   placeholder
 
 #### Observatory
 

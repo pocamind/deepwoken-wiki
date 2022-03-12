@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 24011
+revid: 24455
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -8,15 +8,11 @@ categories: [Pages with broken file links, Boss, Monsters, Enemies]
 
 # Enforcer
 
-_"Alright, time to go beat the trial sharko." - Level 50 Etrean, unaware of his fate_
+“ Alright, time to go beat the trial sharko. ”
 
-_Also referred to as Warden of the Deeps, and Executioner._  
+― Level 50 Etrean, unaware of his fate
 
-“ I shall relish in scraping their remains off the floor. ”
-
-― The Voice of Enmity
-
-Template:Creature Info Box v2
+_Also referred to as Warden of the Deeps, and Executioner._ Template:Creature Info Box v2
 
 ## **Description**
 

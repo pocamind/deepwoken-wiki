@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 24421
+revid: 24453
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,11 @@ categories: [Monsters]
 
 # Rock Golem
 
-Template:Creature Infobox V3_Entities a part of The Duke's Creations, meant to protect Erisia._
+“ I'll try spinning, that's a good trick. ”
+
+― Rock golems before shredding a player's health and posture bar
+
+Template:Creature Infobox V3
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 24426
+revid: 24472
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -30,7 +30,7 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 
 ### Finisher
 
--   **"Mudskipper Inferi"** - Get turned into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperification"** - Get squid gamed and turned into a [Mudskipper](Mudskipper.md).
 
 ## **Notes/Tips**
 

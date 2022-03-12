@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24371
+revid: 24463
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -193,7 +193,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
-  <td><div><p>THIS ENCHANTMENT NO LONGER EXIST</p></div></td>
+  <td><div><p>THIS ENCHANTMENT NO LONGER EXIST (After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.)</p></div></td>
 </tr>
 </tbody>
 </table>
