@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24411
+revid: 24509
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -50,6 +50,8 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls.)
 
 ## Types of Weapons
+
+  
 
 **Light Weapons:**
 
@@ -706,7 +708,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td>Iron Birch</td>
-  <td>65 HVY</td>
+  <td>45 HVY</td>
   <td>26</td>
   <td>N/A</td>
   <td>HVY: 6</td>

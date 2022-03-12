@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 12286
+revid: 24520
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,3 +26,8 @@ the canteen has 5 uses to refill water bar before having to refill at a [well](W
 ### Video Guide
 
 You can easily get canteen at power level 1 if you know where to look: [https://youtu.be/CrnGXgYL138](https://youtu.be/CrnGXgYL138)
+
+  
+**Trivia**
+
+The canteen is known by many as the red calabash.

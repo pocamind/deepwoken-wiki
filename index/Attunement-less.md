@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 24475
+revid: 24501
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -65,9 +65,6 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
 -   **Adrenaline Surge** - An adrenaline rush of agility.
     -   Increases your movement speed and parkour abilities.
     -   Requirement: 20 Agility, _Agility Support Mantra_
--   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
-    -   The altitude travelled decreases significantly as the user loses health.
-    -   Requirement: 40 Strength 10 Agility, _Agility Strength Mobility Mantra_
 
 ### _**Intelligence Mantras**_
 
