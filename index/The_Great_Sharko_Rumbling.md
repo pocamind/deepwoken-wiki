@@ -1,0 +1,18 @@
+---
+title: The Great Sharko Rumbling
+revid: 24611
+source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# The Great Sharko Rumbling
+
+_"Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over. But, in the strange and inscrutable ways of the Deep, an age of plenty soon followed. So soon after a fall, our people were once again prospering..."_
+
+The Great Megaolodaunt Rising was a Lore event in Winter 1291. After many years of fishing, fishermen decided that their harvests were not enough. They invented a new creation, the "Megalodaunt Bait", in which they would be able to attract Megalodaunts to civilized locations, as to be easily harvested by the locals in a safe method and location.
+
+This started out fine, but slow. The fishermen wanted more, and thus, they placed dozens, even hundreds of traps. They expected their haul of Megalodaunts to increase, and that it did, but to an extent nobody thought was even possible. Hundreds of Megalodaunts, led by tens of Crimson Megalodaunts, rose onto the shores of civilized Islands all over the Luminant, causing untold destruction, and the deaths of thousands of innocents.
+
+Adventurers, warriors, pirates, mages, gladiators, and anyone else who could fight were called back to the islands to make a desperate last stand, and they succeeded in tiding off the literal, and metaphorical wave of Megalodaunts, sending them back reeling to the deep.
+
+After the re-building of society, the economy was able to boom due to the influx of treasures gained from the Megalodaunts.

@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 24213
+revid: 24585
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,7 +29,7 @@ categories: [Weapons, Weaponry]
 | obtainment | Lower Erisia chests |
 | description | A fine shield to hold back the horrors of the world |
 
-# Kite Shieldd
+# Kite Shield
 
 ## Description
 

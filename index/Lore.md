@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24413
+revid: 24600
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -842,17 +842,24 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 ### Year 1277
 
-(Celestial Telescope Dialogue Update)
+(Celestial Telescope Dialogue Update, \[1/15/2022)
 
 -   The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the city crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
 
 ### Year 1283
 
-(PVP Arena, Trial of One, Visionshaper Oath Update)
+(PVP Arena, Trial of One, Visionshaper Oath Update, \[2/08/2022\])
 
 -   In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
 -   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
 -   In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
+
+### Year 1291
+
+(Sharko Day, \[3/12/2022\])
+
+-   In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
+    -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
 
 ## Miscellaneous
 

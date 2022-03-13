@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24553
+revid: 24625
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -106,6 +106,7 @@ These Talents are meant to provide an increase to your speed or improve it in va
 These Talents are designed to improve fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
+    -   You can get this talent after fishing several times successfully without the need to power up. I got it after fishing around 10 times(Can someone help me confirm the actual number?)
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Prerequisite for all: Used your Fishing Rod once properly
@@ -166,7 +167,8 @@ These Talents are designed to make you more akin to a Tank.
 
 -   Giantslayer \[Generic Talent, Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
     -   "Larger foes" being anything that isn't a humanoid NPC.
-    -   Prerequisite: 10 willpower.
+    -   The damage increase is roughly 30%.
+    -   Prerequisite: 20 willpower.
 
 ### Brawler
 

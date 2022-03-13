@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24575
+revid: 24593
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Weaponry, Armors, Character]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Nautilodaunt](Nautilodaunt.md) and [Primadon](Primadon,_Titan_of_the_East.md) [chests](Chests_&_Sacks.md), on any piece of equipment, In any chest.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Nautilodaunt](Nautilodaunt.md) and [Primadon](Primadon,_Titan_of_the_East.md) [chests](Chests_&_Sacks.md), on any piece of equipment, In any chest. (DUKE DROPS ENCHANTS JUST PRETTY RARE)
 
 Enchanted weapons are very special. Therefore, it has some limitations placed on it:
 

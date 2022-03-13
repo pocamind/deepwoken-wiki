@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 24571
+revid: 24621
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -45,8 +45,10 @@ Shadow Gun
  | An awful blast of dark energy. | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
 -   Adding 1 Blast Spark will make your Shadow Gun a barrage.
--   Adding Lenses will increase the range.
--   Adding Cloudstones and Stratus Stones increases the hitbox.
+-   Adding Lenses will increase the range forward
+-   Adding Cloudstones and Stratus Stones increase the hitbox from left to right up to down.
+
+For anyone confused, Lenses make it go farther forward and cloudstones and stratus stones make it increases the thickness of the range from left and right. add both to make a huge shadow barrage.
 
  |
 |  | 
