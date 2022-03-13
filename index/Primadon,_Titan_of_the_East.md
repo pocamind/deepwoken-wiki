@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 24197
+revid: 24643
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -30,12 +30,32 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
 | **Trample**[\[1\]](#cite-note-1) | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch, he only uses it if you're at a chest length of his body or flying on a glider. | ◯ | (★☆☆) |
-| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
+| **Watch Your Tone "OMEGA" (Kick)** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, stuns you, and grabs you - Dealing about a bar of damage to even those with 500 hp. | ◯ | (★★★) |
 | **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
-| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players. | ◯ | (★★☆) |
+| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players, Also gaining a new move called Primal Vaccum. | ◯ | (★★★) |
 
-_Lefts and rights for these attacks are based on Primadon's point of view._
+  
+
+<table>
+<tbody>
+<tr>
+  <td>Primal Vaccum</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td>While Enranged, Primadon can raise his left hand in the air and creates a spiral effect on his hand slowly pulling everything nearby closers to it, after 5 seconds if not interrupted with a critical, primadon will close his hand then smash the ground with his fist causing a shockwave stunning and dazing everyone for 6 seconds within Primadon's arena Dealing massive damage. This move is unparrible and unblockable, the only way to counter this move is hitting primadon with a crit (indicated by primadon growling) (Damage can vary depending on how far you are when primadon does this attack (1 bar if far - 1 shot if right under him) )</td>
+</tr>
+</tbody>
+</table>
+
+(★★★★)
+
+  
 
 ### Passives
 

@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 24622
+revid: 24636
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -75,7 +75,7 @@ Successfully completing each stage of the trial can give you luck, and you can g
 
 Defeating someone in the Arena grants you 2.5% luck (3.33% with marauder)l. If you kill someone who's on their last skull and send them to the depths, this value is doubled.
 
-**From Fishing**
+### **From Fishing**
 
 There is a rare chance to catch a golden fish which rewards the player with luck (when used?).
 

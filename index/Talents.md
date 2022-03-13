@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24625
+revid: 24652
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -33,7 +33,6 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
 
--   You cannot roll Neuroplasticity with Return to the Dark Ages.
 -   You cannot roll Return to the Dark Ages with Everchanging Aegis.
 -   You cannot roll Risky Moves with Safety Dance and Observation
 -   You cannot roll Conditioned Runner with Fishman.
@@ -103,13 +102,12 @@ These Talents are meant to provide an increase to your speed or improve it in va
 
 ### Angler
 
-These Talents are designed to improve fishing.
+These Talents are designed to improve fishing. Unlike most other talents, they are obtained by succesfully fishing instead of being rolled.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   You can get this talent after fishing several times successfully without the need to power up. I got it after fishing around 10 times(Can someone help me confirm the actual number?)
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Prerequisite for all: Used your Fishing Rod once properly
 
 ### Apex Predator
 
@@ -326,7 +324,6 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Health regeneration is increased while swimming.
     -   Hunger drain from swimming is multiplied by 1.5x.
     -   These effects do not activate in [The Depths](The_Depths.md).
-    -   Water Drain is decreased by 1.5%
 
 ### Freak Of Nature
 
@@ -486,7 +483,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
+-   Lose your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
     -   Prerequisite: 30 Strength and 30 Fortitude (You don't need willpower)
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
@@ -1167,6 +1164,7 @@ Eruption Path: Lava Serpent \[Generic Talent, Flamecharm Exclusive\] - Your fire
 Nullifying Clarity \[Generic Talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)  
 Agitating Spark \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.  
 Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
+Grand Skewer (Generic Talent, Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.  
 
   
 

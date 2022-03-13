@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 24559
+revid: 24645
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Flamecharm
 
-> The brightest sun causes the biggest planet to the biosphere -Geiger R.
+> Ignite your enemies with the power of the sun. Cleanse all that are unworthy. The greatest flame casts the greatest shadow.
 
 ## Description
 

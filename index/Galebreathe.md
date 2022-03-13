@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 24560
+revid: 24633
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -213,3 +213,4 @@ Costs _[Ether](Combat_Mechanics.md)_. |
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   Archmage stated that Galebreathe is the "least \[cool to\] me" out of all the elements.
+-   Combustion is A Unique Path for Galebreathe, Making it so all Mantras that provide mobility are heavily slowed down (for example gale lunge now has 1/4 of the range it had before) In Exchange all moves have knockback and provide and aoe explosion similar to airforce when landing a mantra. To Acquire Combustion you need 75 gale, and 30 strength.

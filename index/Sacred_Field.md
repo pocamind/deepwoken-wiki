@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 23982
+revid: 24650
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, an orange, red, blue, or purple field will appear around the user for around fifteen to twenty seconds. There is also a chance for a blue field, but it's very rare.
+When used, an orange, red, blue, green or purple field will appear around the user for around fifteen to twenty seconds. There is also a chance for a blue field, but it's very rare.
 
 ## Usage
 
@@ -39,7 +39,7 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 #### _Versions_
 
-Sacred field is unique in its variation system in that there are many paremeters that are randomly decided when obtaining the bell, these include:
+Sacred field is unique in its variation system in that there are many parameters that are randomly decided when obtaining the bell, these include:
 
 -   % of Physical Resist
 -   % of Elemental Resist
@@ -56,3 +56,4 @@ If **Sacred Field** is found to be Corrupted, the Resonance's range becomes larg
 -   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
 -   When you use this anyone is trying to fight you, just use it as a healing station because everybody avoids it.
 -   This resonance work with any build just like [Portal](Portals.md), [Blood Scourge](Blood_Scourge.md), and etc. It is a good support bell for you and your team party.
+-   **Sacred Field** is very useful for fighting large groups of people or bosses such as Primadon.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24536
+revid: 24644
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -16,7 +16,7 @@ categories: [Weaponry, Character]
 </tbody>
 </table>
 
-  
+_"Looking to protect yourself? Or deal some damage?" - Skyrim(?)_  
 
 _Tools_ _constructed with the intent to harm others, polished to be horrible_ _killing devices._  
 
@@ -513,7 +513,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.75x</td>
+  <td>0.73x</td>
 </tr>
 </tbody>
 </table>

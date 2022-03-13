@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 22913
+revid: 24653
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -16,7 +16,7 @@ categories: [Weapons, Weaponry]
 | range | 7.5 |
 | swing speed | 0.7x |
 | penetration | 0 |
-| selling price | ??? |
+| selling price | 16 notes |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |

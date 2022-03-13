@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24593
+revid: 24655
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Weaponry, Armors, Character]
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear from [Nautilodaunt](Nautilodaunt.md) and [Primadon](Primadon,_Titan_of_the_East.md) [chests](Chests_&_Sacks.md), on any piece of equipment, In any chest. (DUKE DROPS ENCHANTS JUST PRETTY RARE)
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear any chest.
 
 Enchanted weapons are very special. Therefore, it has some limitations placed on it:
 
@@ -31,7 +31,6 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 -   You cannot have more than 3 equipment enchants at once.
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 18/02/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
--   If you have an enchantment in your inventory, there is a 50% chance an exploiter will target you and kill you until you drop it.
 
 There are two variants that enchantments come in:
 
@@ -89,7 +88,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (4 for Heavy, 5 for Medium, 6 for Light). The charged hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light). The charged hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -149,9 +148,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
   <td><div><p>Attacks deals 1.2x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).<br>
-  Damage are dealt over 5 seconds every 0.4 seconds (each damage tick apply 12.5% of the original damage)</p>
-  <p><br>
-  </p></div></td>
+  The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>
 <tr>
   <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
@@ -173,7 +170,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 25%(PVE)/10%(PVP) of damage dealt. Note - Players do a lot more damage in PVE than PVP meaning although you only heal for 10% extra the difference will seem much larger, effectively making this enchantment useful for PVE only.</p></div></td>
+  <td><div><p>Heal for 25%(PVE)/10%(PVP) of damage dealt. Note - Players do a lot more damage in PVE than PVP meaning although you only heal for 10% extra the difference will seem much larger, effectively making this enchantment useful for PVE only. It is still useful in PVP, but would require a high damage weapon in order to be more effective.</p></div></td>
 </tr>
 </tbody>
 </table>

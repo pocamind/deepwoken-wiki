@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 23894
+revid: 24648
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -43,6 +43,7 @@ Fishing up the Tuna.
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
+-   Chests (Very rare, contain moderate - good loot)
 
 ## Bait
 

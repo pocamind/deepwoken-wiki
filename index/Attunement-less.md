@@ -1,11 +1,13 @@
 ---
 title: "Attunement-less"
-revid: 24529
+revid: 24641
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Attunement-less
+
+_"Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Durability, Agility, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all." - Journal Of Jericho (probably)_
 
 Attunement-less mantras consist of mantras that are chosen based of your attributes, similar to talents, rather than your attunements.
 
@@ -165,7 +167,7 @@ For example:
 
 ### _**Trivia**_
 
-1.  Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really, really weak. It's not worth getting it anymore.
+1.  Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
 2.  Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 3.  Rapid Punches is the single Attunement-less mantra that has a star.
 4.  Exhaustion Strike is glorified spit.
