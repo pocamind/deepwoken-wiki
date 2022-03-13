@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 24054
+revid: 24571
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -10,8 +10,6 @@ categories: [Pages with broken file links, Mantras]
 
 _"The ability to control the absence of mana or creation in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
 
-"Not all who tame the dark relent their integrity."
-
 ## Description
 
 Shadowcast is an element that the player is required to unlock and can not start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
@@ -20,7 +18,7 @@ Shadowcast is an element that the player is required to unlock and can not start
 
 Shadowcast can be trained by using the Pure Heart that can be found in the Mantra store at both Etris and Isle of Vigils.
 
-In order to unlock Shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock. Contray to popular belief, Lightkeep or Lightborn does not require shadowcast to recieve. The latter of which is given towards Round 1 Testers.
+In order to unlock Shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock.
 
 _See [Nightblood](Attunement_Potions.md) for more info._
 
@@ -320,6 +318,5 @@ File:Blackhole.png
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred as Lightkeepers are an "authority" within Deepwoken's world that this death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
--   Shadowcast is the first and the only element that player has to train for it.
 -   Shadowcast is considered the "worst" element by many players, though this is up for debate.
 -   Shadowcast currently has no 3-stars move same as Flamecharm.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 24465
+revid: 24578
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character]
@@ -75,6 +75,7 @@ If your resonance is ready, the following will happen when knocked:
 -   A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
 -   A hand of 3 cards will be dealt. One of these cards will become your Resonance.
+-   You should be able to hear your dad walk out of the front door.
 
 Once obtained, using C will activate your Resonance. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
 
@@ -97,7 +98,7 @@ As stated before, Progress is obtained in all the ways Luck is, and just like Lu
 ### Other:
 
 -   Corrupted Monsters (Not Recommended, as it unironically takes about 300-500 of them for a Resonance, with the obvious dangers of The Depths.)
--   Players (**ONLY USEFUL VIA CHIME OF CONFLICT.** In the overworld, players give basically nothng, but in The Arenas, they give exceptionally high amounts of progress, supposedly only requiring a few dozen wins for a Resonance.)
+-   Players (Recommended, as freshies give the most amount of bell exp around unironically taking approximately 250 for a bell)
 
 ## Re-rolling
 

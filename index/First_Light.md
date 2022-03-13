@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 24304
+revid: 24580
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Red Megalodaunt at Funseeker Wilds |
+| obtainment | Red Megalodaunt at Songseeker Wilds |
 | description | Long red dagger, with hints of white on specific lining on the blade and grip, along with gold as the hilt and guard. |
 
 ## Description

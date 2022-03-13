@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 24507
+revid: 24566
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -31,6 +31,4 @@ The Iron Birch is a heavy weapon that is obtainable from Minityrsa, Starswept Va
 
 ## Notes
 
-• This weapon is better in terms of swing speed to the Adretian Axe, but lacks the scaling, where the Adretian axe has 8, and the Iron Birch has 9.
-
-• Very rare for being a mid-tier weapon, Outclassed by Adretian Axe and Canorian Axe.
+• Very rare for being a mid-tier weapon, Outclassed by the Adretian Axe and Canorian Axe.

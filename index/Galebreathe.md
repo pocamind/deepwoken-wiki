@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 24353
+revid: 24560
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -116,7 +116,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   ~Can be upgraded with Cloudstones/Stratus Stone~ Do **NOT** put Cloudstone/Stratus Stone on your Astral Wind, it will make that it has a slow startup.
+-   Can be modified with Cloudstones and Stratus Stones to make each hit take longer to come out, possibly messing with the parry timing of your opponent.
 
  |
 

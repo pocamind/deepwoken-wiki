@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 24476
+revid: 24559
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -225,7 +225,7 @@ These talents are found in the "Undying Ember" catagory.
 | --- | --- | --- | --- |
 |  | Last Laugh | Gain the ability to incinerate your self when down.(rare talent) |
 |  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.(rare talent) |
-|  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: None (guy who said you need unyielding inferno is wrong. I do not have unyielding but I do have undying. |
+|  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: 40 Willpower (guy who said you need unyielding inferno is wrong. I do not have unyielding but I do have undying. |
 |  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. |
 
 ## Trivia/Notes

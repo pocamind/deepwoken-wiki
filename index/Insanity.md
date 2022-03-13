@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 24401
+revid: 24558
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,6 +29,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   Being hit with Gaze
 -   Drinking or being splashed by a Mindbreaking potion.
 -   Deep Widow web attack
+-   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely deadly to use in depths
 
 ## Insanity decreasing effects
 
