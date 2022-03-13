@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 24129
+revid: 24671
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -45,7 +45,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 -   Aelita is a [Felinor](Felinor.md).
 -   Aelita is speculated to have the [Visionshaper Oath](Oaths.md) due to her ability to summon clones that appear nearly identical to herself.
--   She is also speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to clone themselves and appear out of nowhere, aswell as the fact they both have purple eyes, which seems to be unique in some way(If having purple eyes considered a Krulian then the nomads in summer isle (idk about in Etris or the bound nomads) are also Krulians, so I think having purple eyes is something normal or the nomads and Krulians have something in common).
+-   She is also speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to clone themselves and appear out of nowhere, as well as the fact they both have purple eyes, which seems to be unique in some way though it should be noted Gremor have naturally purple eyes.
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Aelita recently got her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E), composed by Naktigonis.
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.

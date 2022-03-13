@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 24423
+revid: 24683
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -51,7 +51,7 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 
 #### Finisher
 
--   **Curb Stomp** - The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. It is so fast you think you die randomly because of a glitch.
+-   **Curb Stomp** - The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head exploded for no reason.
 
 ## Combat
 
@@ -61,7 +61,7 @@ Megalodaunts have fairly unpredictable attack patterns. Use caution and pay atte
 
 -   If you don't feel confident in your ability to fight a Megalodaunt, you can try and enter a place its to tall to get into and you can attack it from in there.
 -   You can lead a Megalodaunt into the water and its attacks won't hit you as long as you are close to it.
--   Megalodaunts will fight other NPCs such as Bandits and Golems. Use this to your advantage if you are trying to escape. (Sharkos can be defeated at power one if the player knows how to defeat it)
+-   Megalodaunts will fight other NPCs such as Bandits and Golems in the Etrean Luminant. Use this to your advantage if you are trying to escape.
 -   Do **NOT** run from a Megalodaunt if you are getting low. Most if not all of the monsters in _Deepwoken_ have abilities designed to prevent players from escaping from them.
     -   Instead, the player can climb up to a ledge that the monster cant chase them up, get them stuck behind an object or enter an area that is too short for the Megalodaunt to fit in (outside of the range of their attacks).
 -   If the player is unexperienced, it is advised to get at least [Adept Armor](Outfits.md) and Power Level 15+ in order to fight this monster.
@@ -102,4 +102,4 @@ A Megalodaunt swimming.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](Outfits.md#arms) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   Along with a few other Giant enemies, the Megalodaunt gets stunned for a few seconds upon receiving a certain amount of damage
--   They closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+-   They very closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24600
+revid: 24677
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -345,7 +345,8 @@ A Dark Mage, located in Minityrsa.
 
 -   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
 -   As of 1/23/2022, there is not much information about them.
--   They possess a fleet of some kind and constantly pirate Etris ships  
+-   They possess a fleet of some kind and constantly pirate Etris ships
+-   Given their name and the existence of Megolaudant traps, as well as the fact that their corpses can be found scattered over Upper Erisia being fed on by Megolaudants, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.  
     
 
 ### The Ignition Union

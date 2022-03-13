@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 23199
+revid: 24674
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,10 +12,10 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Greatsword [HVY] |
 | requirements | 75 [HVY] |
-| damage | 22 |
+| damage | 23.5 |
 | scaling | 8 [HVY] |
 | range | 9 |
-| swing speed | 0.54x |
+| swing speed | 0.63x |
 | endlag | 0.1s |
 | chip damage | N/A |
 | selling price | 50 |
@@ -29,7 +29,7 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge. The weapon has a Base Damage of 22 and a scaling of 8. You can obtain it from [Rogue Constructs](Hive_Construct.md) or [Primadon](Primadon,_Titan_of_the_East.md).
+The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge. The weapon has a Base Damage of 23.5 and a scaling of 8. You can obtain it from [Rogue Constructs](Hive_Construct.md) or [Primadon](Primadon,_Titan_of_the_East.md).
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24652
+revid: 24675
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -170,7 +170,7 @@ These Talents are designed to make you more akin to a Tank.
 
 ### Brawler
 
--   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus. (+7 Health)
+-   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus.
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
 
 ### Bulwark
@@ -396,6 +396,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
+    -   Prerequisite: Willpower (40 or less)
 
 ### Glassdancer
 
@@ -560,7 +561,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]
+-   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\] (3 Health, 1 Carry Load)
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: Way of Navae.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
@@ -606,7 +607,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
--   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
+-   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not? (1 Posture, 4 Carry Load, 1 Health)
     -   Prerequisite: Unknown amount of strength. (DOES NOT REQUIRE A STRENGTH MANTRA.)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)

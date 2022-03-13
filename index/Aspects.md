@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 24398
+revid: 24672
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -12,7 +12,7 @@ Races are categorizations of those who live in the world of _Deepwoken_. They ar
 
 ## Common Races
 
-These races are obtainable by any player. One of these races will be given to the player when they first purchase the game. Re-rolling a race will give you the option between keeping your first race and switching to the rolled race.
+These races are obtainable by any player. One of these races will be given to the player when they first purchase the game. Re-rolling a race will give you the option between keeping your first race, or switching to the rolled race.
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ These races are seen on testers or developers and are planned to be released in 
 
 ## Notes
 
--   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Due to racism and also you can find about. then in the world of etra
+-   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Many of the factions in Deepwoken are inherently xenophobic/racist.
 
 -   Players may also treat the player differently depending on their race.
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
