@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24389
+revid: 24756
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -92,7 +92,7 @@ Talking to Guards
 
 -   Very Good Reputation - "I hope your journeys outside the Hive go well, \[Name\]." | "Placeholder"
 -   Good Reputation - "Placeholder" | "Placeholder"
--   Neutral Reputation - "Placeholder" | "Placeholder"
+-   Neutral Reputation - "Greetings, traveller" | "Welcome, traveller"
 -   Unfriendly Reputation - "\*_The guard remains silent, barely registering your presence.\*_" | "Placeholder"
 
 ## Notes/Trivia

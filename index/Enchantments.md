@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24655
+revid: 24746
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -84,7 +84,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>When below 40% HP, gain a damage buff that becomes stronger the lower your HP gets.</p></div></td>
+  <td><div><p>When below 60% HP, gain a damage buff that becomes stronger the lower your HP gets.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
@@ -170,7 +170,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 25%(PVE)/10%(PVP) of damage dealt. Note - Players do a lot more damage in PVE than PVP meaning although you only heal for 10% extra the difference will seem much larger, effectively making this enchantment useful for PVE only. It is still useful in PVP, but would require a high damage weapon in order to be more effective.</p></div></td>
+  <td><div><p>Heal for 25% of damage dealt in PVE, and 10% of damage dealt in PVP <b>(Note: The validity of these values can be questioned. Take them with a grain of salt)</b>.</p>
+  <p>Players do a lot more damage in PVE because of the damage scaling received from Power. It is still useful in PVP, but would require a high damage weapon in order for this enchant to be effective.</p>
+  <p>For example, a Megalodaunt has 1000 HP, and at max Power, you're probably gonna be killing it in less than five hits. 1000/5 = 200 damage per hit. 25% of 200 is 50, so basically, you're getting +50 HP everytime you hit a Megalodaunt, or any monster for that matter.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -190,7 +192,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
-  <td><div><p>THIS ENCHANTMENT NO LONGER EXIST (After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.)</p></div></td>
+  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
+  <p>This enchantment is no longer obtainable in the loot pool, which is why it is in the Spec category.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
+  <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
+  <p><br>
+  </p></div></td>
 </tr>
 </tbody>
 </table>
