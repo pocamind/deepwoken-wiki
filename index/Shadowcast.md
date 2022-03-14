@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 24621
+revid: 24715
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mantras]
 
 # Shadowcast
 
-_"The ability to control the absence of mana or creation in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
+_"The ability to control the absence of ether or unreality in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24591
+revid: 24709
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -106,7 +106,7 @@ _Requires Fortitude 10_
 | File:Deepwoken hood.jpg | Deepwoken Hood | Grants two random buffs | Fort Merit Chests |
 |  | Vigil Hood | Grants 1-3 random buffs | Hive Chests |
 | File:VigilHood.png | Pale Assassin Hood | Grants 1-3 random buffs | Hive Chests |
-| File:Barrel Helmet.png | Barrel Helmet | grants 2 (Random?) buffs | Duke Chests, Artifacts |
+| File:Barrel Helmet.png | Barrel Helm | grants 2 (Random?) buffs | Duke Chests, Artifacts, Arena Chests, Depths Chests |
 |  | Vagabond's Bicorn | 2 Random Buffs | Primadon Chests, Artifacts, Song Seeker Chests |
 | File:Smith Bandana.png | Smith Bandana | TBA | Artifacts |
 | File:Gladiator Helmet.png | Gladiator Helmet | grants 3 buffs, one will always be posture. | Hive Chests |

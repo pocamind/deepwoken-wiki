@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24675
+revid: 24726
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -14,9 +14,11 @@ notices:
 
 ― Selection Flavour Text
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two to five Talent Cards.
+  
 
 ## Overview
+
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two to five Talent Cards.
 
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this.
 
@@ -33,6 +35,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
 
+-   You cannot roll Neuroplasticity with Return to the Dark Ages.
 -   You cannot roll Return to the Dark Ages with Everchanging Aegis.
 -   You cannot roll Risky Moves with Safety Dance and Observation
 -   You cannot roll Conditioned Runner with Fishman.
@@ -102,12 +105,13 @@ These Talents are meant to provide an increase to your speed or improve it in va
 
 ### Angler
 
-These Talents are designed to improve fishing. Unlike most other talents, they are obtained by succesfully fishing instead of being rolled.
+These Talents are designed to improve fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   You can get this talent after fishing several times successfully without the need to power up. I got it after fishing around 10 times(Can someone help me confirm the actual number?)
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
+    -   Prerequisite for all: Used your Fishing Rod once properly
 
 ### Apex Predator
 
@@ -165,12 +169,11 @@ These Talents are designed to make you more akin to a Tank.
 
 -   Giantslayer \[Generic Talent, Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
     -   "Larger foes" being anything that isn't a humanoid NPC.
-    -   The damage increase is roughly 30%.
-    -   Prerequisite: 20 willpower.
+    -   Prerequisite: 10 willpower.
 
 ### Brawler
 
--   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus.
+-   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus. (+7 Health)
     -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Fist Quest
 
 ### Bulwark
@@ -324,6 +327,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Health regeneration is increased while swimming.
     -   Hunger drain from swimming is multiplied by 1.5x.
     -   These effects do not activate in [The Depths](The_Depths.md).
+    -   Water Drain is decreased by 1.5%
 
 ### Freak Of Nature
 
@@ -396,7 +400,6 @@ These Talents are meant to improve your overall combat effectiveness.
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
-    -   Prerequisite: Willpower (40 or less)
 
 ### Glassdancer
 
@@ -484,7 +487,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   Lose your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
+-   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
     -   Prerequisite: 30 Strength and 30 Fortitude (You don't need willpower)
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
@@ -561,7 +564,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\] (3 Health, 1 Carry Load)
+-   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: Way of Navae.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
@@ -607,7 +610,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
--   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not? (1 Posture, 4 Carry Load, 1 Health)
+-   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
     -   Prerequisite: Unknown amount of strength. (DOES NOT REQUIRE A STRENGTH MANTRA.)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
@@ -1165,7 +1168,6 @@ Eruption Path: Lava Serpent \[Generic Talent, Flamecharm Exclusive\] - Your fire
 Nullifying Clarity \[Generic Talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)  
 Agitating Spark \[Generic Talent, Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.  
 Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)  
-Grand Skewer (Generic Talent, Thundercall Exclusive, Legendary Talent\] - Your Grand Javelin now carries opponents through the air.  
 
   
 

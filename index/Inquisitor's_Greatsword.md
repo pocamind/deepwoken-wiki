@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 24674
+revid: 24711
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Inquisitor's Greatsword | |
 |---|---|
 | type | Greatsword [HVY] |
-| requirements | 75 [HVY] |
+| requirements | 40 [HVY] |
 | damage | 23.5 |
 | scaling | 8 [HVY] |
 | range | 9 |

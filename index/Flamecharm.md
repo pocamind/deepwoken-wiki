@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 24645
+revid: 24717
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -75,7 +75,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
  |
 |  | Ash Slam | Strike the ground, turning it to ash. | Strike twice in front of the user, creating a fiery blast each time.
 
--   Also requires 40 Strength and 60+ Flamecharm. (I got it at 41 strength and 62 flamecharm)
+-   Also requires 40 Strength and 60+ Flamecharm and Fist. (I got it at 41 strength and 62 flamecharm)
 -   Deal heavy posture damage
 
  |

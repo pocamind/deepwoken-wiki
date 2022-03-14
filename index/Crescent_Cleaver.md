@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 24372
+revid: 24707
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -33,3 +33,4 @@ The Crescent Cleaver is a midgame Heavy Weapon, and is a drop from chests on [Mi
 ## Notes & Trivia
 
 -   The person who created this page isn't perfect, so please add any info that might be contradictory or not listed.
+-   Critical hits hit twice

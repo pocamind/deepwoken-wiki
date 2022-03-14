@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 21421
+revid: 24694
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,4 +33,4 @@ Or you can try to gather enough agility or environmental height to get on top of
 ## Trivia/Notes
 
 -   Not advised to do with a too big of a group, or too small of a group due to health scaling.
--   Recommended to enter if you are level 45+, MAX Attunement (for unbounding purposes), and planning to raid with a group of 3-5 (the more larger the group, the more health the [accelerator](Duke_Ishamon_Erisia.md) will handle, even more spirit bomz 2!!)
+-   Recommended to enter if you are level 45+, MAX Attunement (for unbounding purposes), and planning to raid with a group of 3-5 (the larger the group, the more health the [accelerator](Duke_Ishamon_Erisia.md) will have.)

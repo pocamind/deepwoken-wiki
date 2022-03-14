@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24677
+revid: 24695
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -43,6 +43,8 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
+    -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
+    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head
 
 ### The King of Etrea
 
@@ -65,7 +67,7 @@ The Duke
 
   
 
--   The Duke, known for his creation of the Golems that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
+-   The Duke, known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems and [Mindless Servants](Mindless_Servant.md).
 -   The Duke is presumably the Lord of Erisia, as [Alastir](Alastir.md) said that the Lord of Erisia used his Golems to capture people. The Lord Regent also mentions of The Duke as the Lord of Erisia, who wants the Forge of Sin from his hands.
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him.
@@ -78,7 +80,7 @@ The Duke
 
 "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
--   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer.
+-   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
 
 ### Akira, The Black Diver
@@ -98,6 +100,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best food for the best price.
+-   He appears to have blue skin, so is likely an Adret
 
 The one and only... MEAT LORD!
 
@@ -122,7 +125,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### Yun'shul
 
 -   A being that is restrained within the [Temple of Hearts](Temple_of_Hearts.md). Yun'shul is known for rerolling one's Resonance, and the ability to send the drowned to the surface.
--   Yun'shul is a Drowned God; based by Arch\_Mage.
+-   Yun'shul is a Drowned God; according to Arch\_Mage.
 
 File:Yun'Shul.png
 
@@ -198,7 +201,7 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 -   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged in water, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
-    -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are more than 3 Layers of The Depths.
+    -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least 3 Layers of The Depths.
 
 #### The City of the Drowned (The Depths, First Layer)
 
@@ -228,6 +231,13 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   They are not to be confused with The Authority.
 -   Their appearance can be distinguished by their white/green/purple armor.
 -   They have been ruled by their Kings for generations; until months before the year 1271, that the Lord Regent took over.
+-   Their culture seems to draw from East Asian countries
+    -   Many parallels can be drawn between them and China/Japan
+        -   The Isle of Vigils swordsmen are armed with Katanas, a traditonal Japanese sword
+        -   They cut themselves off from the outside world following a catastrophe
+        -   They are at war with the Central Authority, an empire that hails from the Central luminant, which has a more western theme, much like the conflict between China and the British Empire
+        -   Similar architecture
+        -   They kill anyone who is suspicious of the Lord Regent, an exaggeration of modern day China
 
 An Etrean Guard, part of the Nation of Etrea
 

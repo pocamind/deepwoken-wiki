@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 24403
+revid: 24710
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -97,7 +97,7 @@ SURNAMES
 
 -   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
 -   The compass point South, the homeland of the Gremors being in the Southern Luminant.
--   As a Gremor, ~you will get alternate dialogue from Navaen Nomads.~ (Alternate? Maybe? But I do know that Gremors have better reputation with them though.)
+-   As a Gremor, you will get alternate dialogue from Navaen Nomads. I have a Gremor slot and from my memories they say something along the lines :"Be aware, homelander. These murderers could strike at any moment." I don't remember the other thing they can say, though.
 -   This race seems to be disliked by the community.
 
 <table>

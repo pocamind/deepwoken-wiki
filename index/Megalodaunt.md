@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 24683
+revid: 24708
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -21,18 +21,20 @@ Template:Creature Infobox V3 Template:Creature Infobox V3 Template:Creature Info
 
 The Megalodaunt is a giant shark-like [monster](Monsters.md) which spawn in _[The Etrean Luminant](Luminants.md)_ and _[The Depths](The_Depths.md)_.
 
-Seen mostly around the island of Erisia, the Megalodaunt is the first monster that most new players will encounter. Players that are ill-equipped or lack insight on this enemy are mostly likely going to experience a swift death.
+Seen mostly around the island of Erisia, the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this enemy are mostly likely going to experience a swift death.
 
-This monster is hostile to every other creature in _The Etrean Luminant_ and will attack them on sight. It will, however, still attack its rarer crimson variant.
+This monster is hostile to every other creature in _The Etrean Luminant_ and will attack them on sight, apart from other Megalodaunts. It will, however, still attack its rarer crimson variant.
 
-Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md), Mantra Modifiers. It will uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md) or high-tier Mantra Modifiers. Very rarely, it will drop a very nice looking Megalodaunt Coat with a [Power](Power.md) requirement of 35.
+Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). Even rarer, It may drop a [Megalodaunt Coat](Megalodaunt_Coat.md).
+
+They could also be spawned using [Megalodaunt bait](Monster_Bait.md).
 
 ## Variants
 
 Megalodaunts come in three different versions, with two able to be corrupted, for a total of five "versions" of the monster you can encounter.
 
 -   **Megalodaunt** - A normal Megalodaunt, with 1 000 health. In _The Depths_ you may encounter a Corrupted version, having three times as much health and dealing twice as much damage.
--   **Crimson Megalodaunt** - A more powerful, red version of the Megalodaunt with 3 000 health. The Crimson Megalodaunt appears exclusively in the [Songseeker Wilds](Songseeker_Wilds.md) with the Megalodaunt vs Crimson Megalodaunt random encounter.
+-   **Crimson Megalodaunt** - A more powerful, red version of the Megalodaunt with 3 000 health. The Crimson Megalodaunt appears exclusively in the [Songseeker Wilds](Songseeker_Wilds.md) with the Megalodaunt vs Crimson Megalodaunt random encounter naturally, but can also be manually spawned in using Megolaudant bait.
     -   If the event is left by itself, the red one will always win due to its larger health pool.
     -   Has the ability to rain down fiery swords from the sky with **Fire Roar.**
 -   **Alpha (Grey) Megalodaunt** - Appears exclusively in _The Depths_ and the [_Trial of One_](Trial_of_One.md). It has 1 600 HP with improved damage. Can spawn as a Corrupted version, further increasing attack power and health by three times for a total of 4 800 health.
@@ -92,7 +94,7 @@ The trick to defeating the Megalodaunt is to practice getting ready to dodge or 
 
 A Megalodaunt swimming.
 
--   It is the most common Giant Type enemy.
+-   It is the most common Giant Type enemy, and the easiest.
 -   Sharko's have swimming animations, as seen on the right.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 24535
+revid: 24724
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement]
@@ -12,7 +12,7 @@ File:Mantraicon.png
 
 > _**Whispers from the deep beckon you...**_
 
-Considered to be the root of Ether's usage.
+Considered to be the root of Ether's usage. YEAH YEAH PIGS LOL
 
 ## Obtaining Mantras
 
@@ -107,3 +107,6 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5.
 -   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
 
 For more detailed information on trainers/upgrading mantras, [click here.](Attunement_Trainers.md)
+
+  
+Crromento mantra: unobnable very rare
