@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24756
+revid: 24760
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -38,9 +38,9 @@ Akira, Black Diver (The Depths, First Layer - Charisma Requirement: ~100)
 
 Talking to Guards
 
--   Very Good Reputation - "Pleasant journeys, friend." | "Welcome, friend of Etrea."
--   Good Reputation - "Welcome Traveler, Keep out of trouble for me, will you?"
--   Neutral Reputation - "Hello Traveler, keep out of trouble."
+-   Very Good Reputation - "Welcome back \[name\], it's good to see you again." | "Pleasant journeys, \[name\]!"
+-   Good Reputation - "Pleasant journeys, friend." | "Welcome, friend of Etrea."
+-   Neutral Reputation - "Welcome, traveler. keep out of trouble for me, won't you?" | "Greetings, traveller. Don't cause any trouble, alright?"
 -   Unfriendly Reputation - "Move along, outsider. I don't have time for you." | _\*The guard glances at you with distaste, but does not block your path.\*_
 
 Talking to Nerin
@@ -55,7 +55,7 @@ Talking to guards/camp masters
 -   Very Good Reputation - "Placeholder" | "Placeholder"
 -   Good Reputation - "Welcome homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
 -   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
--   Unfriendly Reputation - ~\*you cannot become enemys with the whole faction\*~ (I don't think so, by killing enough Navaean nomads you can. However it seems as if the dialouge does not change)
+-   Unfriendly Reputation - ~\*you cannot become enemies with the whole faction\*~ (I don't think so, by killing enough Navaean nomads you can. However it seems as if the dialogue does not change)
 
 _Do note that alongside Adrets, Gremors start off with Good reputation with the Children of Navae_
 
@@ -95,6 +95,15 @@ Talking to Guards
 -   Neutral Reputation - "Greetings, traveller" | "Welcome, traveller"
 -   Unfriendly Reputation - "\*_The guard remains silent, barely registering your presence.\*_" | "Placeholder"
 
+## Diver Reputation
+
+Talking to Guards
+
+-   Very Good Reputation - "placeholder" | "placeholder"
+-   Good Reputation - "Stay safe out there. It's a harsh Place." | "Until next time, if there is one..."
+-   Neutral Reputation - "placeholder" | "placeholder"
+-   Unfriendly Reputation- "placeholder" | "placeholder"
+
 ## Notes/Trivia
 
--   Some NPCs react to your Character's Age, such as the old Etrean in Etrea calling you a Youngster if you're 18 or above.
+-   Some NPCs react to your Character's Age, such as the old Etrean in Etrea calling you a Youngster if you're under 20. (Assumption)

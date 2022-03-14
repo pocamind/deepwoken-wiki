@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 24460
+revid: 24781
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -107,7 +107,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   The Soulblooms has an option to taste the flower's sap. Doing so restricts you from attempting to consume the sap- as your Character has a gut feeling it is not for ingestion.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).
--   There is a secret room located within the Hive Laboratory behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
+-   There is a secret laboratory located within the Hive R&D department behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
 -   You can wash your face at fountains to enter in starswept valley, however you need an oath and must run past the spider queen and 4 threshers (must fight 2) to wash your face then do the same on your way back to the green gate, (I think i will test shortly)
