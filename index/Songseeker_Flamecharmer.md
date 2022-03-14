@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 24519
+revid: 24789
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0 **Flamecharmer Monks** are a [humanoid enemy](Enemies.m
 
 ## Appearance
 
-Flamecharmer Monks wear dark wraps and a unique dark red mask. Their [race](Aspects.md) and gender can vary.
+Flamecharmer Monks wear dark wraps and a unique **dark red mask**. Their [race](Aspects.md) and gender can vary.
 
 ## **Locations**
 

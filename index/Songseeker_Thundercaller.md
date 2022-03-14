@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 24516
+revid: 24785
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0 **Thundercaller Monks** are a [humanoid enemy](Enemies.
 
 ## Appearance
 
-Thundercaller Monks wear dark wraps and a unique dark green mask. Their [race](Aspects.md) and gender can vary.
+Thundercaller Monks wear dark wraps and a unique **dark green mask**. Their [race](Aspects.md) and gender can vary.
 
 ## **Locations**
 

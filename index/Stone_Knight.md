@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 24546
+revid: 24798
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck]
@@ -33,6 +33,8 @@ Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights 
 Killing them will **NOT** grant a chest with Heroes Blade, the chest will contain loot fitting of the area.
 
 They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors.
+
+Tip: Pretty sure that if you see blue stars hitting the ground, that's an area where the Desert Knight can spawn
 
 ## Attacks
 

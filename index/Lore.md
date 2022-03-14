@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24695
+revid: 24804
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]

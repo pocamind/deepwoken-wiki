@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 24518
+revid: 24786
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0 **Frostdrawer Monks** are a [humanoid enemy](Enemies.md
 
 ## Appearance
 
-Frostdrawer Monks wear dark wraps and a unique dark blue mask. Their [race](Aspects.md) and gender can vary.
+Frostdrawer Monks wear dark wraps and a unique **dark blue mask**. Their [race](Aspects.md) and gender can vary.
 
 ## **Locations**
 

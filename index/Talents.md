@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24726
+revid: 24819
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -35,7 +35,8 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
 
--   You cannot roll Neuroplasticity with Return to the Dark Ages.
+  
+
 -   You cannot roll Return to the Dark Ages with Everchanging Aegis.
 -   You cannot roll Risky Moves with Safety Dance and Observation
 -   You cannot roll Conditioned Runner with Fishman.
@@ -105,13 +106,14 @@ These Talents are meant to provide an increase to your speed or improve it in va
 
 ### Angler
 
-These Talents are designed to improve fishing.
+These Talents are designed to improve fishing. Unlike most other talents, they are obtained by succesfully fishing a certain amount of time.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
-    -   You can get this talent after fishing several times successfully without the need to power up. I got it after fishing around 10 times(Can someone help me confirm the actual number?)
+    -   Obtained after fishing 10(?) times successfully.
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
+    -   Obtained after fishing ? times successfully.
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Prerequisite for all: Used your Fishing Rod once properly
+    -   Obtained after fishing ? times successfully.
 
 ### Apex Predator
 
@@ -327,7 +329,6 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Health regeneration is increased while swimming.
     -   Hunger drain from swimming is multiplied by 1.5x.
     -   These effects do not activate in [The Depths](The_Depths.md).
-    -   Water Drain is decreased by 1.5%
 
 ### Freak Of Nature
 

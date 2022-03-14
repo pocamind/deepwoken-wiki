@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 24394
+revid: 24808
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -34,9 +34,11 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but training it will reduce the cost down to zero (will take hours to do so).
 
-Murmur: Ardour can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
+**Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 
 After killing the Dread Serpent for the Murmur, a purple orb will fly into you right before getting it.
+
+Activating **Murmur: Ardour** will release gentle purple particles from your weapon, and will make a quiet hum as long as it is active.
 
 This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour).
 

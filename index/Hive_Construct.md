@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 24415
+revid: 24805
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -74,7 +74,7 @@ The Rogue Construct located on top of Minityrsa have a chance of dropping the [I
 ## Tips/Trivia
 
 -   Technically the most powerful and hard-hitting enemy in the entire game when fought directly.
--   Hive Constructs will not turn aggressive against you if your reputation with The Hive is positive. Accordingly, they will be hostile to you if you have negative reputation, regardless of Animal King. (needs more testing)
+-   Hive Constructs will not turn aggressive against you if your reputation with The Hive is positive. Accordingly, they will be hostile to you if you have negative reputation, regardless of Animal King. (needs more testing) (tested, it will attack you regardless of Animal King)
 -   A way to cheese the Construct is to find a ledge nearby that's a bit taller than it. There are two of these ledges at [Starswept Valley](The_Starswept_Valley.md) (images), one at [Minityrsa](Minityrsa.md) (image), and none known at Buster Valley.
 -   Can easily kill you even at level 60 if you're solo and inexperienced.
 -   Usually not worth fighting. Even if you try, this Construct will obscure your vision with trees all the time.

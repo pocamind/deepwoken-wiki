@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 17393
+revid: 24792
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -26,6 +26,8 @@ Shortly after, [Angels](Hollow_Angel.md) will be summoned to kill the person spo
 
 -   Summoning of Angels - Puts the target in danger and roars before summoning 2 [Angels](Hollow_Angel.md) after a short delay to attack whoever it spotted with its Spotlight
 -   Leap - Leaps to another area.
+
+Two **Watchers** on the rooftop of a depths building
 
 ## Trivia
 

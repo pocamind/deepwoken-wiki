@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 24334
+revid: 24811
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -9,8 +9,6 @@ categories: [Pages with broken file links, Attunement, Character]
 # Attunements
 
 File:Attunementicon.png
-
-_icon credit to Tortaa#9000_
 
 **Attunements** are forms of magic that the player can choose on character creation or in the game.
 

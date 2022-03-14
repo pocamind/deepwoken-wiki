@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24746
+revid: 24823
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -56,8 +56,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Curse of the Umbral Knight</div></td>
-  <td><div><p>On hit, hit the target again for 20% of the original hit damage with a 5 second cooldown. On non humanoid monsters, receive light damage whenever the effect activates.</p></div></td>
+  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><div><p>On hit, hit the target again for 20% of the original hit damage with a 5 second cooldown. On non humanoid monsters, receive light damage whenever the effect activates.<br>
+  This curse lost its "curse" title on an unknown date and is now named "Umbral Knight", however it still works like a curse.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
@@ -65,7 +66,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Your health bar is permanently stained. 2x bloodloss in the Etrean Luminant. Insanity gain in The Depths are greatly amplified.</p></div></td>
+  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Your health bar is permanently stained. 2x bloodloss in the Etrean Luminant. -?? sanity.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
