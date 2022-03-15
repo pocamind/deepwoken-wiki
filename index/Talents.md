@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24895
+revid: 24948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -38,7 +38,7 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
   
 
 -   You cannot roll Return to the Dark Ages with Everchanging Aegis.
--   You cannot roll Risky Moves with Safety Dance and Observation
+-   You cannot roll Risky Moves with Safety Dance and Observation (This is how it's supposed to be but you can still get Risky Moves anyway. Ragoozer fix your game.)
 -   You cannot roll Conditioned Runner with Fishman.
 
   
@@ -746,6 +746,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 ### The Negotiator
 
 -   Last Second Negotiation \[Generic Talent, Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
+    -   This talent probably doesn't exist
     -   Prerequisite: Charisma?
 
 ### Thief

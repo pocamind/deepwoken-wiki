@@ -1,9 +1,9 @@
 ---
 title: NPCs
-revid: 22189
+revid: 24934
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Dialogue, Dialog, Locations, Character, Map, Races]
 ---
 
 # NPCs
@@ -20,10 +20,6 @@ There are some npcs you can find that can Upgrade or give you training for you a
 
   
 
-#### Lore
-
-(Placeholder)
-
 ### **The Authority**
 
 -   Affiliations - Summer Company. The Divers
@@ -35,7 +31,7 @@ There are some npcs you can find that can Upgrade or give you training for you a
 
 #### Lore
 
-(Placeholder)
+Warlord of the Central Authority battles againts Lord Regent or something, Look for [Windrunner](Windrunner.md) page for lore about it.
 
 ### **Etrea**
 
@@ -52,9 +48,9 @@ Main government of Etris. The Lord Regent, holds a reputation of incredible powe
 ### The Pathfinders
 
 -   Affiliations - Unknown
--   Hostile against - Unknown
+-   Hostile against - Bandits, The Legion, (possibly etrea).
 -   Appearance - Pathfinder Armor
--   Equipment - Unknown
+-   Equipment - Swords, daggers, Frostdraw spells (known as of now)
 -   Player Reputable? - Unknown
 
 #### Lore
@@ -136,7 +132,7 @@ You can also get alot of gear from loresns
 -   Hostile against - Players, Nomads of Navae and Summer company (probably more).
 -   Appearance - Black clothing that looks like Prophet's cloak, also wear blindfolds and hats except the ganymede ones that summon spellcasting mudskippers.
 -   Equipment - Krulian dagger / Shadow magic.
--   Player Reputable? - Unknown.
+-   Player Reputable? - Surprisingly yes, when doing [Murmur: Tacet](Murmur.md) quest, after 6th assassination you will start getting their reputation.
 
 **Lore**
 

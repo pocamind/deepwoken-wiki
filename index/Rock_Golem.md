@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 24743
+revid: 24899
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -53,7 +53,7 @@ In combat Rock Golems are very hardy having moderately high health, and high sla
 
 **Passives**
 
--   **Rock shell -** Golems have very high Slash Resistance.
+-   **Rock shell -** Golems have 25% Slash Resistance.
 
 ## Tips for fighting
 

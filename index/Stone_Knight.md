@@ -1,9 +1,9 @@
 ---
 title: Stone Knight
-revid: 24798
+revid: 24914
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Luck]
+categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
 ---
 
 # Stone Knight
@@ -44,6 +44,10 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 | **Kick** | The knight performs a very fast kick that can be dodged but deals a lot of damage, deals extra damage + daze if the player hits a wall. Will most likely use it's projectile or pillar attack right after. | ✗ | (★★★) |
 | **Wind Blast** | The knight slashes the air with his sword, creating a projectile that is aimed at the player. | ◯ | (★☆☆) |
 | **Rock Pillar** | The knight punches the ground, making a rock pillar rise below where the player stands that must be dodged. The dodge window is quite forgiving, even making early rolls escape the move. If the player is hit, they are guaranted to get hit by the next attack. | ✗ | (★★☆) |
+
+### **Passives**
+
+-   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
 
 ## **Trivia & Notes**
 

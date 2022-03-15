@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24880
+revid: 24936
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -8,9 +8,16 @@ categories: [Weaponry, Character]
 
 # Weapons
 
-_Tools_ _constructed with the intent to harm others, polished to be horrible_ _killing devices._  
+<table>
+<tbody>
+<tr>
+  <td>Description</td>
+</tr>
+</tbody>
+</table>
 
-  
+_Tools_ _constructed with the intent to harm others, polished to be efficient_ _killing devices._
+
 Weapons can be bought from shops, or obtained from [Chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils. [This is a guide that could help](https://www.youtube.com/watch?v=x-2wgmt4ZLM).
 
 When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
@@ -34,10 +41,10 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Requirements:** How much of the required attribute(s) you need to wield that weapon.
 -   **Damage:** Base Damage.
 -   **Penetration:** Runs by percentage (%). Determines how much your attacks ignore through armor.
--   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
+-   **Scaling:** Additional damage determined by your selected Attribute it is being scaled by.
 -   **Weight:** How much posture damage you deal when attacking blocks or parrying attacks.
 -   **Range:** How far your weapon can reach (Does not calculate by Studs)
--   **Swing Speed:** How fast your weapon can strike per M1.
+-   **Swing Speed:** How fast your weapon strikes per M1.
 -   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls.)
 
 ## Types of Weapons

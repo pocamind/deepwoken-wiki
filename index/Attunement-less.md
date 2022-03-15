@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 24641
+revid: 24946
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -89,6 +89,10 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
     -   Requirement: 30 Willpower, _Willpower Support Mantra_
     -   Could be very dangerous for Willpower-less with Curse of the No Life King user
 
+-   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
+    -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
+    -   Requirement: ~10 Willpower, Willpower _Support Mantra._
+
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
     -   The mantra does not only clear your posture, it transfers it to the target.
     -   Requirement: 40 Willpower, _Willpower Combat Mantra_
@@ -104,9 +108,6 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 -   **Sing** - _Charm_ those around you with your powerful voice.
     -   Inflicts enemies with a longer lasting charmed debuff. Combat tags enemies.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
--   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
-    -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
-    -   Requirement: 25 Charisma, Charisma _Support Mantra._
 
 ## Weapon Mantras
 

@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 24817
+revid: 24913
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 ---
 
 # Mantra Modifiers
@@ -46,7 +46,6 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 -   Increases mantra/hitbox size.
 -   Projectiles lose distance.
--   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) lose distance.
 
  |
 | File:Stratus.png | Stratus Stone | +3 Size | 
@@ -84,7 +83,6 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 3 keys to Ritual Casts
--   Adds 1 purple key, which is random each time you cast the spell
 
  |
 | File:Drift & Rush shard.png | Drift Shard | +2 Speed
@@ -94,14 +92,12 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
  | 
 
 -   Projectiles go further
--   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
 -   Repeating mantras (ex; Lightning Assault) perform their loops/repeated actions quicker.
 
  |
 | File:Drift & Rush shard.png | Rush Shard | +3 Speed | 
 
 -   Projectiles go further
--   Dash type mantras (ones that push the user forward, like Grabs, Dash or Revenge) go further
 -   Repeating mantras (ex; Rapid Punches) perform their loops/repeated actions quicker.
 
  |

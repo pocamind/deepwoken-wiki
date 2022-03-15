@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 24578
+revid: 24949
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonance, Character]
+categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
 ---
 
 # Resonance
@@ -107,6 +107,8 @@ Players are given the option to re-roll their Resonance with wishes if they desi
 Around [The Depths](The_Depths.md), Resonance doors can be found. These doors require Resonances to open, and within their room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which being the ability to reroll your Resonance to gain the choice of 3 random resonances.
 
 Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance and makes it so you cannot make a wish again. Every time you use a wish, Yun'Shul goes on cooldown for a certain amount of time. The exact time is unknown, but it IS known that you are able to reroll your resonance a maximum of three times per character.
+
+Re-rolling your Resonance has a cooldown of 10 levels.
 
 File:Arch says Wishes have cooldowns.png
 
