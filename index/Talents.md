@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24842
+revid: 24895
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -403,7 +403,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
 
-\-Prerequisite for Neuroplasticity is 40 intelligence, willpower or charisma (latest update made it have a requirement, you can get it from legendary echos and as you should already know, echos always appears 100% when you have the req.)
+\-Prerequisite for Neuroplasticity is the sum of intelligence, willpower or charisma equal to 40 ex. 30 int and 10 charisma/willpower will get you neuro. (latest update made it have a requirement, you can get it from legendary echos and as you should already know, echos always appears 100% when you have the req.)
 
 ### Glassdancer
 
@@ -491,9 +491,9 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   Lose your Mind \[Generic Talent, Common Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
+-   Lose your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
-    -   Prerequisite: 30 Strength and 30 Fortitude (You don't need willpower)
+    -   Prerequisite: 30 Strength and 30 Fortitude (Note: This prerequisite may have changed, since Ragoozer just loves doing these shadow updates man.)
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)

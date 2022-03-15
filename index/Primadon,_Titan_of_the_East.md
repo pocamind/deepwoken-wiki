@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 24697
+revid: 24890
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -11,6 +11,10 @@ categories: [Pages with broken file links, Boss, Luck]
 “ You shrink like an ant in the face of a true predator. ”
 
 ― Primadon's Hunting Grounds flavor text
+
+File:Freshie.png
+
+A **stupid freshie** trying to spawn it with browncaps! LMFAO!
 
   
 Template:Creature Infobox V3

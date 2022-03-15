@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 24584
+revid: 24881
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 24835
+revid: 24891
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -44,7 +44,7 @@ Fishing up the Tuna.
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
 -   Chests (Very rare, contain moderate - good loot)
--   NOTE: Fished up objects can very rarely be golden, which gives you luck.
+-   NOTE: Fished up objects can very rarely be golden, which can give luck. (Might be a random amount, I've gotten 17%)
 
 ## Bait
 
@@ -79,7 +79,7 @@ If you want to add more, feel free. I'm done for the time being.
 ## Notes/Trivia
 
 -   Some spots wont let you fish.
--   The front of Monkey's Paw is a good place to farm for fish and chests as you barely have to wait between casting your line before a fish bites.
+-   The front of Monkey's Paw is a good place to farm for fish and chests as you wait max of 20 sec to right when it hits the water between casting your line before a fish bites.
 -   Also, the shores of Etris tend to be good for fishing, as I have appeared to get fish much faster than in the Aratel sea.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
 -   Always good to have a fishing rod on you, fishing is a good way to get food if you're ever in a pinch.

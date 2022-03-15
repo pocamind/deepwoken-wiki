@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24760
+revid: 24893
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue]
@@ -74,7 +74,7 @@ Talking to Guards
 
 -   Very Good Reputation - "Welcome back to Fortification Peak, \[Name\]. It's good to see some competent warriors around."
 -   Good Reputation - "Hello outlander, find a good catch today?" | "Good luck on your hunt outlander."
--   Neutral Reputation - "Ah another one of the locals. Gods, why did I have to get a post in the East?" | "Placeholder"
+-   Neutral Reputation - "Ah another one of the locals. Gods, why did I have to get a post in the East?" | "Make one wrong move Outlander, and you're done."
 -   Unfriendly Reputation - "Make one wrong move and you're done outlander." | "Placeholder"
 
 ## Summer Company Reputation
@@ -90,9 +90,9 @@ Talking to Guards
 
 Talking to Guards
 
--   Very Good Reputation - "I hope your journeys outside the Hive go well, \[Name\]." | "Placeholder"
--   Good Reputation - "Placeholder" | "Placeholder"
--   Neutral Reputation - "Greetings, traveller" | "Welcome, traveller"
+-   Very Good Reputation - "I hope your journeys outside the Hive go well, \[Name\]." | "Welcome back, \[name\]. It's good to see you among us again."
+-   Good Reputation - "Pleasant journeys, traveler" | "Welcome, friend of the Hive"
+-   Neutral Reputation - "Greetings, traveler" | "Welcome, traveler"
 -   Unfriendly Reputation - "\*_The guard remains silent, barely registering your presence.\*_" | "Placeholder"
 
 ## Diver Reputation

@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 24075
+revid: 24876
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -52,3 +52,4 @@ Pressing C will activate the **Jar of Souls** Resonance.
 
 -   Version one of Jar of Souls is very similar to _Minecraft Dungeon_'s "_Corrupted Beacon_", in which both require souls to cast and shoot out a laser beam that does continuous damage.
 -   A corrupted Jar of Souls is currently the best resonance ingame.
+-   It may be a reference to the Urn of Souls from The Binding of Isaac which also requires you to kill enemies to shoot it.

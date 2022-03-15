@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24644
+revid: 24880
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -8,18 +8,9 @@ categories: [Weaponry, Character]
 
 # Weapons
 
-<table>
-<tbody>
-<tr>
-  <td>Description</td>
-</tr>
-</tbody>
-</table>
-
-_"Looking to protect yourself? Or deal some damage?" - Skyrim(?)_  
-
 _Tools_ _constructed with the intent to harm others, polished to be horrible_ _killing devices._  
 
+  
 Weapons can be bought from shops, or obtained from [Chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon. Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage. The max Weapon stat you can get is 75, but you may increase it by completing a certain quest, related to the Blade Temple at the Isle of Vigils. [This is a guide that could help](https://www.youtube.com/watch?v=x-2wgmt4ZLM).
 
 When obtaining a weapon, it may come with a star on them, which adds a certain buff to the weapon, such as extra Armor Penetration, or Weight (Posture damage). It is best to obtain the max possible stars for the weapon you want, which is three, in order to maximize damage, however this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement.
