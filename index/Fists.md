@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 24500
+revid: 25000
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -57,6 +57,8 @@ File:Way Of Navae.png
 **CRITICAL: Raise your leg, and kick your enemy guard breaking. Careful, the windup is slow.**
 
 -   To get this, you must find a Navaen Nomad captive (tied up & no weapons). They can be most commonly found in the [Fort Merit prison](Fort_Merit.md), but can also be found in [Erisia](Erisia.md). Once you have retrieved the captive nomad, bring them back to one of the Navaen Nomad camps in [Summer Isle](Summer_Isle.md) or [Etris](Etris.md) (both works) and talk to the **elder sitting in the tent (or the nomad with a brace if at Summer Isle) whilst carrying the nomad.**
+
+At [Erisia](Erisia.md) they can be most commonly found at [Towerstruck Lands](Towerstruck_Lands.md), [Erisor's Church](<Erisor's_Church.md>), and [Burning Stone Gaurdans](Burning_Stone_Gardens.md) Cave.
 
 ### Jus Karita
 

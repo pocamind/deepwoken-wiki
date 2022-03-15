@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 24900
+revid: 24982
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character]
@@ -66,7 +66,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Your health bar is permanently stained. 2x bloodloss in the Etrean Luminant. -?? sanity.</p></div></td>
+  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Your health bar is permanently stained. 2x bloodloss in the Etrean Luminant. While the weapon is held in The Depths, -100 sanity.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>

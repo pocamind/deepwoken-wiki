@@ -1,9 +1,9 @@
 ---
 title: Celestial
-revid: 23027
+revid: 24962
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Character, Talents, Attributes, Races, Locations, Deepwoken]
 ---
 
 # Celestial
@@ -46,6 +46,7 @@ _"The stars call you back..."_
 **Lore:**
 
   
+Celestials are said to be Gods of the Deepwoken world, but as we see through the telescope at Great Hive Areatel, their home has fallen to something called the Ruin. Stone Knights also seem to be some sort of rubbish from their city of light. More is to be known and added to this page.
 
 **Strengths:**
 

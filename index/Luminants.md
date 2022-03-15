@@ -1,9 +1,9 @@
 ---
 title: Luminants
-revid: 23731
+revid: 24999
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
 ---
 
 # Luminants
@@ -20,6 +20,8 @@ A Luminant that is mostly under the rule of Etrea. It is the only current releas
 
 The Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
 
+It is not fully clear if the Etrean Luminant and Eastern Luminant are the same, they may be different, but they are most likely the same.
+
 This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all seem to use it.
 
 ## Central Luminant
@@ -30,7 +32,7 @@ This Luminant is probably a link between all [Attunements](Attunements.md), or h
 
 ## Western Luminant
 
-Mostly nothing is known about the Western Luminant, but it is home to the Legion and might be ruled over by the Khans. This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Eastern Luminant, and that he comes from out West.
+It is home to the Legion and might be ruled over by the Khans. This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. It is said to be a lot more advanced than the other Luminants. In the future it may be more Steampunk'y.
 
 This Luminant is probably home to [Thundercall](Thundercall.md), as Thunder is the opposite of Gale.
 
@@ -48,7 +50,7 @@ This Luminant is probably home to [Frostdraw](Frostdraw.md).
 
 ## Eastern Luminant
 
-This Luminant is eparate from the Etrean Luminant despite what many think, and is most likely the second Luminant to come to the game.
+This Luminant is separate from the Etrean Luminant despite what many think, and is most likely the second Luminant to come to the game.
 
 UPDATE: The Eastern Luminant will most likely be the second Luminant as evidenced by leaks.
 

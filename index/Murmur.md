@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 24808
+revid: 24955
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -32,7 +32,7 @@ Template:ImageCaption Infobox _"An application of the Song that enables one to c
 
 **Murmur: Ardour** is a Murmur that, when active, doubles all outgoing posture damage.
 
-The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but training it will reduce the cost down to zero (will take hours to do so).
+The ability normally costs a large amount of [Ether](Combat_Mechanics.md) but training it will reduce the cost down to zero (will take hours to do so, I would reccomend just watching youtube in the meanwhile, it isn't the most active way of training).
 
 **Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md) in the [Void Sea](Voidsea.md).
 

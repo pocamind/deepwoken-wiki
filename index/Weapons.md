@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24936
+revid: 24992
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -565,9 +565,9 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td>Acheron's Warspear</td>
   <td>40 MED</td>
-  <td>17</td>
-  <td>N/A</td>
-  <td>MED: 4</td>
+  <td>18</td>
+  <td>20%</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
@@ -758,7 +758,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
   <td>75 HVY</td>
   <td>25</td>
-  <td>8% Chip Damage</td>
+  <td>8% Chip Damage &amp; 10% PEN</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>8.5</td>
@@ -828,6 +828,17 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.1s</td>
 </tr>
 <tr>
+  <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
+  <td>40 HVY</td>
+  <td>23.5</td>
+  <td>N/A</td>
+  <td>HVY: 8</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.63x</td>
+  <td>0.1s</td>
+</tr>
+<tr>
   <td><a href="First_Light.md">First Light</a></td>
   <td>75 HVY</td>
   <td>23</td>
@@ -837,17 +848,6 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.6x</td>
   <td></td>
-</tr>
-<tr>
-  <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
-  <td>75 HVY</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>HVY:8</td>
-  <td>9</td>
-  <td>9</td>
-  <td>0.54x</td>
-  <td>0.1s</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
@@ -1010,7 +1010,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
-  <td>75 SHD, 45 HVY</td>
+  <td>75 SHD, 40 HVY</td>
   <td>26</td>
   <td>N/A</td>
   <td>SHD: 10 HVY: 5</td>

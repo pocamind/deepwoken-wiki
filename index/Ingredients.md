@@ -1,9 +1,9 @@
 ---
 title: Ingredients
-revid: 24268
+revid: 24966
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Items, World]
+categories: [Ingredients, Items, World, Locations, Talents]
 ---
 
 # Ingredients

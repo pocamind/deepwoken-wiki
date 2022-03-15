@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 24400
+revid: 25008
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -54,4 +54,4 @@ Pressing "C" will activate the **Teleportation** Resonance.
 -   You can Teleport entities through the waypoints if they are placed correctly.
 -   You can place down 2 waypoints, and if you try to place another then the first waypoint you placed will get removed.
 -   This bell may also be referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named "Minato" in the anime-manga series "Naruto."
--   A common practice among users of this bell is to play a waypoint to Lord Regent's manor and then baiting people in. This will cause everybody (exception of the user) to instantly die due to the insta-kill feature in Lord Regent's manor. You will not die if you have the active Duke quest.
+-   A old practice among users of this bell was to play a waypoint to Lord Regent's manor and then baiting people in. This will cause everybody (exception of the user) to instantly die due to the insta-kill feature in Lord Regent's Palace. You will not die if you have the active Duke quest. (Due to a recent patch, Teleportation users can no longer set waypoints in Lord Regent's Palace or The Duke's Manor.
