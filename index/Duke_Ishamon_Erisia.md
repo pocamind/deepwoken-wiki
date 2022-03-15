@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 24831
+revid: 24853
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -29,7 +29,7 @@ able?
 | --- | --- | --- | --- |
 | **Wind Bind** | The Duke flies into the air shortly before throwing homing balls of air that latch onto whoever fails to parry it. After the attack lands, the Duke randomly teleports in front of whoever is bound and kicks them into the air before punching them away.
 
-**Note that this will auto grip you are hit by the second hit on low health/knocked.**
+**Note that this will auto grip you if you are hit by the second hit on low health/knocked.**
 
  | ◯ | (★★☆) |
 | **Strong Left** | The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left. After using this move, he will utilize his **Legion Kata Fist Combat**. | ◯ | (★☆☆) |

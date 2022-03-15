@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 24758
+revid: 24865
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -28,7 +28,7 @@ These races are obtainable by any player. One of these races will be given to th
 
 ## Exclusive Races
 
-These races are seen on testers or developers and are possibly planned to be released in future updates.
+These races are seen on testers or developers and are just mod specs or may be released in future updates.
 
 ## Notes
 
@@ -37,3 +37,4 @@ These races are seen on testers or developers and are possibly planned to be rel
 -   Players may also treat the player differently depending on their race.
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
+    -   If your a Felinor then you recieve 99 more dmg but start off with 99 chrisma and having the wet effect

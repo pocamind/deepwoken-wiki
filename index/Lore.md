@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24804
+revid: 24862
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -241,18 +241,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 An Etrean Guard, part of the Nation of Etrea
 
-#### The Vigils of Wind
-
-**Lore Sources:** _Apprentice Ki_
-
--   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
-    -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
--   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
--   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
--   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (Galebreathe exclusive) make mention of the vigils.
--   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
-    -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
-    -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
+  
 
 ### The Children of Navae
 
@@ -303,7 +292,6 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 
 -   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
--   It's a possibility that they are the inventors of the [Ironclad](Ships_&_Sailing.md#list-of-ships), due to their Level of Technology.
 -   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
 -   _(Scope) Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply._
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
@@ -427,7 +415,18 @@ A Peacekeeper Commander, part of The Authority
 
 ## Groups
 
-  
+### The Vigils of Wind
+
+**Lore Sources:** _Apprentice Ki_
+
+-   A force of swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
+    -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
+-   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
+-   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of races, presumably because they see more merit in combat proficiency and intelligence than intrinsic values.
+-   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (Galebreathe exclusive) make mention of the vigils.
+-   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
+    -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
+    -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
 
 ### [Krulians](Krulian.md)
 
@@ -690,10 +689,22 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
   
 
+### Ironsing
+
+**Lore Sources:** _Hive Tactician Armor (Description)_
+
+-   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
+    -   (Hive Tactician) As of 3/14/2022, there are no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+-   It's possible that the [Ironclad](Ships_&_Sailing.md#list-of-ships) is the product of Ironsing due to its modern technology and metal hull, compared to the wooden ships we've seen across the Luminant.  
+    
+
 ### Water Magic
 
--   Water magic is not obtainable, nor will likely ever be a playable attunement because doing so would require your character to either not contain a semblance of humanity within them or cast it away. All races in the game are descended from animals at some point, so it is not possible to be born with this attunement.
--   Water Magic is a direct domain of The Depths- it's the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
+**Lore Sources:** _Arch\_Mage (Discord Posts)_
+
+-   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.
+    -   Water Magic is the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.
+        -   It's the complete inverse of the Flames that keep Humanity alive- the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
   
 
@@ -855,21 +866,21 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 (Celestial Telescope Dialogue Update, \[1/15/2022)
 
--   The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the city crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
+-   (Celestial Telescope) The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the city crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
 
 ### Year 1283
 
 (PVP Arena, Trial of One, Visionshaper Oath Update, \[2/08/2022\])
 
--   In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
--   In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
--   In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
+-   (PVP Arena) In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
+-   (Trial of One) In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
+-   (Visionshaper Oath) In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
 
 ### Year 1291
 
 (Sharko Day, \[3/12/2022\])
 
--   In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
+-   (Sharko Day) In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
     -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
 
 ## Miscellaneous

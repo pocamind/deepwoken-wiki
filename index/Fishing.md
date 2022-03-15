@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 24754
+revid: 24835
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -68,7 +68,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Browncap: Effect Average bite times: Result: 10 browncaps gave me: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 
--   Chum: Effects: Results: 3 Chum gave me: 1 Urchin, 2 Red Snapper, 1 Pufferfish
+-   Chum: Effects: Slower bite times Results: 3 Chum gave me: 1 Urchin, 2 Red Snapper, 1 Pufferfish
 
 -   Calabash: Effects: Unknown (If any). 1 Calabash gave me 1 Miss
 

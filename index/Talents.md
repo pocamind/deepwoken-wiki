@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 24819
+revid: 24842
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character]
@@ -110,6 +110,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   Obtained after fishing 10(?) times successfully.
+    -   Prevents you from getting seaweed
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
     -   Obtained after fishing ? times successfully.
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
@@ -402,6 +403,8 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
 
+\-Prerequisite for Neuroplasticity is 40 intelligence, willpower or charisma (latest update made it have a requirement, you can get it from legendary echos and as you should already know, echos always appears 100% when you have the req.)
+
 ### Glassdancer
 
 -   Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
@@ -418,7 +421,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Allows you to use gun critical.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Guns now deal elemental damage
-    -   Guns apply your attunement elemental effect: Flamecharm will burn/create an explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will slow, Galebreathe will not apply anything (lacks proper elemental effect), Shadowcasting will steal ether.
+    -   Guns apply your attunement elemental effect: Flamecharm will apply burn/explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will apply electrified, Galebreathe will apply After Cut/ (maybe suffocation too). Shadowcasting will steal ether, and apply any shadow related talents.
     -   Guns DO NOT scales of attunement whatsoever, it only uses the highest attunement level to decide the element used.
 -   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 

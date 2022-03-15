@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 24314
+revid: 24844
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -93,7 +93,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   Minityrsa is also called "Mini", "Tundra", "Minnesota" or "Winter Isle" by other players.
 -   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.
 -   Enemy NPCs here cannot be assassinated, much like the monks in the [Songseeker Wilds](Songseeker_Wilds.md).
--   Since it's constantly snowing in Minityrsa, its best to place Campfires beneath shelter.
+-   Since it is constantly snowing in Minityrsa, it is best to place Campfires beneath shelter.
 -   To travel to Minityrsa, the easiest way to know where to go is to start from Etris.
     -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing. Until you see an Island with trees and land, that is Minityrsa.
--   Beating the [Trial of One](Trial_of_One.md) as a Power 1 character gives all of your future characters a choice to spawn here as the starting island.
+-   Beating the [Trial of One](Trial_of_One.md) unlocks the ability to spawn here as your starting island for all future characters on that slot.

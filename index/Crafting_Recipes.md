@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 23823
+revid: 24848
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,13 +12,13 @@ categories: [Mechanics]
 
 _icon credit to Tortaa#9000_
 
-One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some food recipes can be made on the go while others may require a campfire.
+One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere, while others require a [crafting station](Crafting_Station.md), [campfire](Campfire_Pit.md), or cauldron.
 
 For more information about Food, go [here](Food.md).
 
 ## Utility Recipes
 
-These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
+These are recipes that are not used to produce food or potions.
 
 ### _Non-Station Recipes_
 
@@ -28,15 +28,16 @@ These are recipes that are not used for _**Alchemy**_ nor _**Food**_ recipes.
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
 -   **Flint** - _1 Coal, 1 Rock_
--   **Bullets (5x)** - _1 Iron (Better Than Buying Bullets One By One)_
+-   **Bullets (5x)** - _1 Iron_
+-   **[Chum](Chum.md)** - _2 Fishmeat_
 
 Picture of a Crafting Bench
 
 ### _[Crafting Station](Crafting_Station.md) Recipes_
 
 -   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_
--   **[Glider](Gliders.md)** (Schematic Required) - _2 Sticks, 2 Cloth_
--   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
+-   **[Glider](Gliders.md)** (Requires Glider Schematic) - _2 Sticks, 2 Cloth_
+-   **Sharkscale Glider** (Requires Glider Schematic) - _2 Sticks, 2 Megalodaunt Hide_
 -   **Lumber Axe** - 2 Wood, 2 Iron
 -   **Pickaxe** - 2 Wood, 2 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber  
@@ -44,9 +45,9 @@ Picture of a Crafting Bench
 
 ## Food Recipes
 
-Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Depending on the recipe and the ingredients within, they will be more fill more _**Hunger**_ and _**Thirst**_ than its base counterparts.
+Recipes that satiate _**Hunger**_ and _**Thirst**_ levels.
 
-Certain foods, usually the more complicated one/which require more work to obtain, grant Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
+Certain foods grant a Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 
 ### **Known Boosts:**
 
@@ -62,7 +63,6 @@ Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
 
 -   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
--   **[Chum](Chum.md)** - _2 Fishmeat_
 -   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
@@ -286,12 +286,7 @@ _**Negative**_
 
 -   Unknown effect
 
- | 
-
--   gotted
--   or apply your edit here
-
- |
+ |  |
 | **Appalling Potion**
 
   
@@ -326,10 +321,9 @@ _**Negative**_
 
 ## Notes/Trivia
 
--   ~Normally, the Flamecharm-Exclusive mantra _Graceful Flames_ cannot be used to cook food. However, with 3 Vibrant Gems it can.~ Sadly this isn't true.
 -   Potions can be thrown by pressing E. Make sure you don't splash yourself with anything dangerous.
 -   It's always useful to bring a ton of invigorating elixirs, especially for solo progression.
 -   If you drink a potion while it's on cooldown, you'll puke. Your cooldown is noted as the triangular bottle icon below health.
 -   There are a few modifier ingredients you can add that are not listed here, such as redds, sticks, and beeswax. These can increase various effects. Making an invigorating elixer with 3 goblettos and 2 redds is excellent healing.
--   Due to being a generally useless item, the recipe and item _**Sack**_, has been removed from the game as of Jan 10, 2022. It's recipe used to be 3 Cloth.
+-   Due to being a generally useless item, the recipe and item _**Sack**_, has been removed from the game as of Jan 10, 2022. Its recipe used to be 3 Cloth.
 -   The word "Elixir" comes from "al iksir", which is the Arabic word for miracle substances. Dating back to the third century BC.
