@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 23914
+revid: 25076
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― Lord Regent
 
-Template:NPC name ( -NOTE: He is very racist beware of that.) The Lord Regent is a mysterious and powerful "enemy" that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
+Template:NPC name The Lord Regent is a mysterious and powerful "enemy" that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
 
 He does not leave his throne under any circumstances. It is unclear whether this is due to choice, or because he is forced to remain there for reasons unknown. Because of this, his subjects believe that he is stricken with some kind of illness and is therefore remaining inside his palace to recover.
 

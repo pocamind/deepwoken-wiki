@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 25021
+revid: 25085
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -12,11 +12,8 @@ categories: [Pages with broken file links, Boss, Luck]
 
 ― Primadon's Hunting Grounds flavor text
 
-File:Freshie.png
-
-A **stupid freshie** trying to spawn it with browncaps! LMFAO!
-
   
+
 Template:Creature Infobox V3
 
 File:Primadon.png
@@ -32,42 +29,20 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
-| **Trample**[\[1\]](#cite-note-1) | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
+| **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch, he only uses it if you're at a chest length of his body or flying on a glider. | ◯ | (★☆☆) |
 | **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, stuns you, and grabs you - Dealing about a bar of damage to even those with 500 hp. | ◯ | (★★★) |
 | **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
-| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players, Also gaining a new move called Primal Vaccum. | ◯ | (★★★) |
-
-  
-
-<table>
-<tbody>
-<tr>
-  <td>Primal Vaccum</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-  <td>While Enranged, Primadon can raise his left hand in the air and creates a spiral effect on his hand slowly pulling everything nearby closers to it, after 5 seconds if not interrupted with a critical, primadon will close his hand then smash the ground with his fist causing a shockwave stunning and dazing everyone for 6 seconds within Primadon's arena Dealing massive damage. This move is unparrible and unblockable, the only way to counter this move is hitting primadon with a crit (indicated by primadon growling) (Damage can vary depending on how far you are when primadon does this attack (1 bar if far - 1 shot if right under him) )</td>
-</tr>
-</tbody>
-</table>
-
-(★★★★)
-
-  
+| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players; he obtains a new move called Primal Vaccum. | ◯ | (★★★) |
 
 ### Passives
 
 -   **Elemental Resistance** - Primadon is almost completely immune (95% elemental reduction) to any damage done by attunement mantras, and elemental damage is greatly reduced.
-    -   [Deep Gems](Deep_Gems.md) will still activate[\[2\]](#cite-note-2), however.
+    -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
     -   True Ether Bullet will make guns deal pitiful damage.
 -   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. (still needs more testing)
-    -   If a player is knocked by something else than primadon, but is then executed by primadon, the victim will not be sent to [The Depths](The_Depths.md).
+    -   If a player is knocked by something else than Primadon, but is then executed by Primadon, the victim will not be sent to [The Depths](The_Depths.md).
 
 ## Rewards
 
@@ -118,5 +93,4 @@ The boss arena, showing the ocean from which Primadon spawns.
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since whatever attack you parry is reflected back.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 60 times more health.
 
-1.  [↑](#cite-ref-1) Used to be called "Triple Stomp".
-2.  [↑](#cite-ref-2) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage
+1.  [↑](#cite-ref-1) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage

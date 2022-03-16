@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25042
+revid: 25094
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -66,3 +66,16 @@ Gain the ability to consume non-food items.
 I sadly don't have proof, but I got it on two different slots with this method.
 
 (The talent iron gut could be needed, i had it and i got termite)
+
+## Progression Master
+
+> "WHY DO YOU ALWAYS GET ADEPT!!?" - Cozen Zeneki  
+
+### "You can progression really fast"
+
+Always got adept at low level with 20% luck
+
+### Theorized Obtainment
+
+-   Griping Cousins, Brothers, Sisters, Twins
+-   Wipe at power 10+ everyday

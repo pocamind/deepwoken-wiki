@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 24914
+revid: 25069
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -52,3 +52,4 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 ## **Trivia & Notes**
 
 -   These are known to attack you regardless if you have Animal King or not. (needs more testing)
+-   They spawn more often in Autumn

@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 21037
+revid: 25087
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -19,7 +19,7 @@ categories: [Weapons, Weaponry]
 | endlag | ? |
 | penetration | None |
 | stances | 1 Handed |
-| selling price | ? |
+| selling price | 13,500 |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
