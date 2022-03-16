@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 24992
+revid: 25037
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -48,8 +48,6 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Chip Damage:** Damage that bypasses block. (Does not bypass parries or perfect rolls.)
 
 ## Types of Weapons
-
-  
 
 **Light Weapons:**
 
@@ -122,7 +120,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.05x</td>
 </tr>
 <tr>
-  <td>Whaling Knife</td>
+  <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
   <td>40 LHT</td>
   <td>15</td>
   <td>N/A</td>
@@ -142,7 +140,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>1.03x</td>
 </tr>
 <tr>
-  <td>Central Dirk</td>
+  <td><a href="Central_Dirk.md">Central Dirk</a></td>
   <td>50 LHT</td>
   <td>14.5</td>
   <td>N/A</td>

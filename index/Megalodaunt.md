@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 25005
+revid: 25064
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -58,8 +58,6 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 ## Combat
 
 Megalodaunts have fairly unpredictable attack patterns. Use caution and pay attention when fighting them.
-
-If you ever feel like not watching your tone, be sure to be able to do tons of damage.
 
 ### Preparation
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25010
+revid: 25012
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -821,6 +821,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Spinning Swordsman \[Generic Talent, Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
 -   Bear Trap \[Generic Talent, Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
 -   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
+    -   "Bleed" is actually a small damage overtime and not an actual decrease in the blood gauge.
 
 ### Visionshaper
 

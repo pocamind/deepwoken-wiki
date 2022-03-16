@@ -1,9 +1,9 @@
 ---
 title: Gliders
-revid: 24847
+revid: 25062
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Utilities, Items]
+categories: [Pages with broken file links, Utilities, Items]
 ---
 
 # Gliders
@@ -25,9 +25,16 @@ The _Glider Schematic_ can be found in [Lower Erisia](Lower_Erisia.md), making y
 
 ## Crafting
 
-The Glider can only be crafted at a [Crafting Station](Crafting_Station.md) or with the Master Craftsman Talent, and must be crafted with two Sticks and two Cloth.
+The Glider can only be crafted at a [Crafting Station](Crafting_Station.md) or using the Master Craftsman Talent, and must be crafted with two Sticks and two Cloth.
 
 The Sharkscale Glider can also only be built at a Crafting Station or with the Master Craftsman Talent, and must be crafted with two Sticks and two Megalodaunt Hides.
+
+  
+
+File:Deep .webp
+
+  
+the sharkscale variant
 
 ## Usage
 

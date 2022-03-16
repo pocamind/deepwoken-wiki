@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25009
+revid: 25060
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -10,44 +10,57 @@ notices:
 
 # References and Easter Eggs
 
+## Armors/Equipments
+
+-   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
+
 ## Attunements
 
 ### **Flamecharm**
 
--   **Flame of Denial** and **Flame Within** are inspired by similar spells in Dark Souls.
-    -   **Flame of Denial** work similarly to Tear of Denial.
-    -   **Flame Within** work similarly to Power Within
+-   **Flame of Denial** and **Flame Within** are inspired by similar spells in _Dark Souls_.
+    -   **Flame of Denial** works similarly to [Tears of Denial.](https://darksouls3.wiki.fextralife.com/Tears+of+Denial)
+    -   **Flame Within** works similarly to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within).
 
--   **Blinding Flame** is inspired by Phoenix's Curve Ball ability in Valorant, blinding anyone who looks at the exploding projectile.
-    -   Moreover, the talent deck Duelist Flame refer to Phoenix's role in the game, being a duelist.'
+-   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
+    -   Moreover, the talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
+
+### **Thundercall**
+
+-   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_.
 
 ### **Frostdraw**
 
--   **Ice skate** mantra and **Frozone** legendary talent are referencing to Frozone (character) and his main way of transportation (Ice skating logically) from The Incredibles.
--   **Ice chains** (along with shadow chains) look similar to **Gilgamesh's** ability called **Chains of Heaven** from Fate series
+-   The **Ice Skate** mantra and **Frozone** legendary talent is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with his ice skating ability.
+-   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
+-   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 
-## Weapons
+## Enemies/Bosses
 
--   **Crypt Blade** may be a reference to Asta's first sword from the anime _Black Clover_
--   **Divine Spear** the model resembles the "_Primordial Jade Winged-Spear_" from _Genshin Impact_
--   **Divine Longsword** the model resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_
--   The enchantment **Obfuscation,** is a reference to _Fate/Stay Night._ When Saber is not at full power, her sword _"Excalibur"_ is invisible
-
-## Talent
-
--   **Captain Etrea** name and ability is a reference to Captain America.
--   **Battle Tendency** name and ability is a reference to _Jojo's Bizarre Adventure_ Part 2 "Battle Tendency"
--   **Master Baiter** name and ability is a reference to me having sexual relations with your mother.
+-   The **Megalodaunt** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 
 ## Resonance
 
--   **Run It Back** ability is a reference to Phoenix's ultimate from _Valorant_
--   **Crazy Slots** is based on the nen ability with the same named used by Kite from the anime/manga series Hunter X Hunter.
--   **Wind Up** also from hunter x hunter idk who has it
--   **Dimensional Travel** ability is a reference to Obito's sharingan from the anime _Naruto_
--   **Teleportation** ability is a reference to Minato's flying raijin from the anime _Naruto_
--   **Payback** ability is a reference to Meliodas' Full Counter from the anime _Seven Deadly Sins_
--   **Portals** ability is a reference to Yoru's ultimate from _Valorant_
+-   **Run It Back** is a reference to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) ultimate from _Valorant._
+-   **Crazy Slots** is a reference to the Nen ability with the same name used by [Kite](https://hunterxhunter.fandom.com/wiki/Kite#Nen) from _Hunter X Hunter_.
+-   **Wind Up** is a reference to the Nen ability, Ripper Cyclotron. It is used by [Phinks](https://hunterxhunter.fandom.com/wiki/Phinks_Magcub) from _Hunter X Hunter_.
+-   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
+-   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) [Flying Raijin](https://naruto.fandom.com/wiki/Flying_Thunder_God_Technique) from the anime _Naruto._
+-   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
+-   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
+
+## Talent
+
+-   **Captain Etrea's** name and ability is a reference to Captain America.
+-   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
+
+## Weapons
+
+-   The **Crypt Blade** may be a reference to [Asta's](https://blackclover.fandom.com/wiki/Asta) first sword from the anime _Black Clover._
+-   The model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
+-   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
+-   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
+-   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
 
 ## World
 

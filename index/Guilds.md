@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 24935
+revid: 25032
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World]
@@ -25,4 +25,4 @@ Members of a guild (including its leader) will stay in their guild after death. 
 -   There is a guild that players can actually join by talking to an NPC: [The Divers](The_Divers.md). It is the one faction in the game that has a guild you can join.
 -   If a Guild Leader leaves the Guild, an Officer can take their place as the Guild Leader. If there are no Officers in the Guild, anyone in the Guild can take ownership.
 -   Guild outposts are confirmed and are dropping soon.
--   There are some builds that are Freshie Gripping Guilds. Look out for them and stay safe in your journeys.
+-   There are some guilds that are Freshie Gripping Guilds. Look out for them and stay safe in your journeys.

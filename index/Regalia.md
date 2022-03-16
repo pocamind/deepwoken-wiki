@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 24530
+revid: 25042
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -34,6 +34,7 @@ Monsters and certain enemies will be neutral to the player unless provoked. Any 
 -   ~Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)~ Chest loot seems to be completely unaffected, but we all get unlucky sometimes.
 -   The best talent for Sharko-simps to get up close and personal.
 -   Is actually confirmed to be called **"Mute"** but that name is lame.
+-   NPCs related to the depths will not attack you (e.g Megalodaunt, Lionfish etc, not sure about this one)
 
 ### Theorised Obtainment:
 

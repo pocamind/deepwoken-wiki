@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 24709
+revid: 25057
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -204,7 +204,11 @@ Songseeker Chests
 +2 posture
 
  | Fort merit Chests |
-| File:Aristocrat Coat.png | Aristocrat Coat | Grants a random stat boost. | Starswept Valley or Summer Isle chests |
+| File:Aristocrat Coat.png | Aristocrat Coat | Grants a random stat boost. | Starswept Valley or Summer Isle chests
+
+also requires 40 power
+
+ |
 | File:Gumshoe Long Coat.png | White/Grey Gumshoe Longcoat | Grants 20+ Reservoir | Songseeker Chests |
 |  | Ranger's Brace | +10 Ether
 
