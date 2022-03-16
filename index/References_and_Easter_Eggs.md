@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25110
+revid: 25124
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -27,7 +27,7 @@ notices:
 
 ### **Thundercall**
 
--   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_.
+-   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_. It could also be Raikage's lightning cloak.
 
 ### **Frostdraw**
 

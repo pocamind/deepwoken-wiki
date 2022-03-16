@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25094
+revid: 25119
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -27,7 +27,7 @@ _Warning, these are not guaranteed and there is no official known way to obtain 
 
 > _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." -Fallout 3 Animal Friend Description._ Animal king isn't really an accurate name since it's all depths related mobs (shadow magic humanoid npcs) but the name was popularized by LordSendo's video
 
-Monsters and certain enemies will be neutral to the player unless provoked. Any creature that is non-humanoid **will not** attack the player. (This excludes [Stone Knights](Stone_Knight.md) & [Erisia Golems](Rock_Golem.md), possibly others.)
+Monsters and certain enemies will be neutral to the player unless provoked. The creatures of the depths **will not** attack the player. (This excludes [Stone Knights](Stone_Knight.md) & [Erisia Golems](Rock_Golem.md), possibly others.)
 
 -   NPC's that resemble humans ([Enemies](Enemies.md)) **will still** attack the player. The only known NPCs that resembles humans that will not attack those with the talent are [Ministry Scouts](Ministry_Scout.md) and [The Enforcer](Enforcer.md).
 -   Animal Bosses **will not** attack you, including Primadon.
@@ -51,9 +51,8 @@ Gain the ability to consume non-food items.
 
 #### List of known items you can eat (yeah not a lot is known )
 
--   Spider Egg
--   Urchin
--   Scallop
+-   Spider Eggs
+-   Urchins
 -   Gems (e.g. emerald, diamond, ruby, gold, platinum, ect.)
 -   Wood and Sticks
 
@@ -66,16 +65,3 @@ Gain the ability to consume non-food items.
 I sadly don't have proof, but I got it on two different slots with this method.
 
 (The talent iron gut could be needed, i had it and i got termite)
-
-## Progression Master
-
-> "WHY DO YOU ALWAYS GET ADEPT!!?" - Cozen Zeneki  
-
-### "You can progression really fast"
-
-Always got adept at low level with 20% luck
-
-### Theorized Obtainment
-
--   Griping Cousins, Brothers, Sisters, Twins
--   Wipe at power 10+ everyday

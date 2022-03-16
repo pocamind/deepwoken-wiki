@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25105
+revid: 25136
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -20,7 +20,7 @@ notices:
 
 **[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two to five Talent Cards.
 
-There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this.
+There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold or Legendary Echoes.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -135,7 +135,8 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Finesse \[Common Talent,Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
 -   Vital Point \[Common Talent,Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
--   Lightspeed Reflexes \[Rare Talent,Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+-   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+-   Prerequisites: Agility, Intelligence
 
 ### Athlete
 
@@ -167,6 +168,7 @@ These Talents are designed to make you more akin to a Tank.
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
 -   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
+    -   Prerequisite: Somewhere Over 76 Fortitude
 
 ### Beast Slayer
 
@@ -183,6 +185,7 @@ These Talents are designed to make you more akin to a Tank.
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   The time where you cannot get hit while rolling is doubled.
+    -   Prerequisite: 25 Agility
 
 ### Butterfly
 
@@ -206,6 +209,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+    -   Prerequisite: 25 Intelligence
     -   When hit by an elemental attack, gain damage resistence toward it, however, if another element hit you, take increased damage from that element, while becoming resistent to the new element.
     -   Due to some janky mechanics, the elemental resist/weakness are applied individually per player, therefore, you have a permanent elemental damage reduction (less than Return To The Dark Age) toward everyone, the downside only coming into play if your opponent is using multiple elements.
         -   In the ever so possible scenario where you do fight someone with multiple elements, it is unlikely they will purposfully alternate their element usage.
@@ -402,8 +406,9 @@ These Talents are meant to improve your overall combat effectiveness.
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
-
-\-Prerequisite for Neuroplasticity is the sum of intelligence, willpower or charisma equal to 40 ex. 30 int and 10 charisma/willpower will get you neuro. (latest update made it have a requirement, you can get it from legendary echos and as you should already know, echos always appears 100% when you have the req.)
+    -   Prerequisite: The sum of Intelligence, Willpower or Charisma equal to 40
+        -   Example: 30 Intelligence and 10 Charisma will get you Neuroplasticity.
+    -   The latest update made it have a requirement (?)
 
 ### Glassdancer
 
@@ -420,10 +425,15 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   Allows you to use gun critical.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Guns now deal elemental damage
-    -   Guns apply your attunement elemental effect: Flamecharm will apply burn/explosion (Lava Serpent), Frostdraw will slow/apply crystals (Crystallization), Thundercall will apply electrified, Galebreathe will apply After Cut/ (maybe suffocation too). Shadowcasting will steal ether, and apply any shadow related talents.
-    -   Guns DO NOT scales of attunement whatsoever, it only uses the highest attunement level to decide the element used.
--   Armor Piercing - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
+    -   Guns now deal Elemental Damage.
+        -   Guns apply your attunement's elemental effect:
+            -   Flamecharm: Your bulllets burn
+            -   Frostdraw: Your bullets slow
+            -   Thundercall: Your bullets electrify
+            -   Galebreathe Your bullets after cut
+            -   Shadowcast: Your bullets engulf enemies in shadow
+                -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
+-   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Hunter
 

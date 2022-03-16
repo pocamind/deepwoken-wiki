@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 25085
+revid: 25117
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -52,7 +52,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 ## Strategies & Tips
 
-[Power](Power.md) 50 is **highly** recommended if **soloing** the boss, due to level scaling damage done to NPCs.
+[Power](Power.md) 50 is **highly** recommended if fighting the boss, due to level scaling damage done to NPCs.
 
 ### Preparation
 

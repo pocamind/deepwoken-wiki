@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 22475
+revid: 25132
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,3 +18,7 @@ Smelting now only works on the same type of item (e.g. boots to boots) and only 
 Not much is known on how smelting has changed, other than it has been nerfed.
 
 \- more will be added when more is known -
+
+Some Users have Said that the health, ect merge together, Lets say something like a 9 health demon mask and a 3 ether blindfold are merged together, you would get something between the two, like a 9 health 2 ether demon mask, or a 3 ether 8 health blindfold.
+
+Rlmega has also discovered that TALENT items can be merged together. A Blindfold and a demon mask would make a blinding demon mask, but the mask would keep the name blindfold

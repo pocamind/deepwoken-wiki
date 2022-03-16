@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 23071
+revid: 25135
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -23,9 +23,13 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit? |
+| obtainment | Fort MeritThe Depths |
 | description | The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories. |
 
 ## Description
 
-The Officer Saber is a Medium type weapon that can be obtained from [Fort Merit](Fort_Merit.md). This weapon has a base damage of 22 and requires 30 MED to equip.
+The Officer Saber is a Medium type weapon that can be obtained from [Fort Merit](Fort_Merit.md) and [The Depths](The_Depths.md). This weapon has a base damage of 22 and requires 30 MED to equip.
+
+## Notes & Trivia
+
+Officer saber used to have no requirements to use.

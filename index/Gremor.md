@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 24710
+revid: 25113
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -18,7 +18,7 @@ Chance of obtaining race: **13.6%**
 
 ## Description
 
-Gremors are a race similar to deers. They appear with greenish or brown skin, with horns. They have a passive fortitude and strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation.  
+Gremors are a race similar to deer. They appear with greenish or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate.  
 
 ## Racial Traits
 
@@ -31,7 +31,7 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
     <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"
   <ul>
     <li>Gain a compass at the top of your screen.</li>
-    <li>Reduced hunger lose.</li>
+    <li>Reduced hunger loss.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -46,7 +46,7 @@ Gremors are a race similar to deers. They appear with greenish or brown skin, wi
 </tbody>
 </table>
 
-Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the perfect race for attunement-less characters. Even the appearance looks like the one of a true strong warrior...  
+Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the perfect race for attunement-less characters. Even the appearance looks like the one of a truly strong warrior...  
 
 **Lore:**
 
@@ -95,9 +95,14 @@ SURNAMES
 
 ## Notes/Trivia
 
--   In the depths, your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
--   The compass point South, the homeland of the Gremors being in the Southern Luminant.
--   As a Gremor, you will get alternate dialogue from Navaen Nomads. I have a Gremor slot and from my memories they say something along the lines :"Be aware, homelander. These murderers could strike at any moment." I don't remember the other thing they can say, though.
+-   In [The Depths](The_Depths.md), your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
+-   The compass points South, towards the homeland of the Gremors in the Southern Luminant.
+-   As a Gremor, you will get alternate dialogue from Navaen Nomads. These two lines can either be:
+    
+    "Be aware, homelander. These murderers could strike at any moment." or
+    
+    "Welcome, homelander. What would you need?" (this one isn't entirely correct iirc, it's rare and only shows up when the nomad tribe hasn't been completely wiped for a while)
+    
 -   This race seems to be disliked by the community.
 
 <table>
