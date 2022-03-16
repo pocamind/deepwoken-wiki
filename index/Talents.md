@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25012
+revid: 25105
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -491,9 +491,9 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   Lose your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
+-   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
-    -   Prerequisite: 30 Strength and 30 Fortitude (Note: This prerequisite may have changed, since Ragoozer just loves doing these shadow updates man, probably not even in the game still.)
+    -   Prerequisite: 30 Strength and 30 Fortitude (Note: Talent Is currently Unob due to it still being labelled as a common even though it's a rare meaning that it's impossible to get it. )
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)

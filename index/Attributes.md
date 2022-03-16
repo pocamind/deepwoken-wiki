@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 24561
+revid: 25108
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -132,6 +132,8 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
+"I got superpowers, bitch! Oh, eh, damn!" - Some flaming Ganymede
+
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
 -   Increases intensity of flames.
@@ -140,12 +142,16 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Frostdraw
 
+"Man, it sure is cold here." - A felinor drinking from the well, clueless
+
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
 -   Unlocks Frostdraw related Talents.
 -   Gain Frostdraw EXP by dealing damage to Enemies and Monsters using Frostdraw Mantras.
 
 ### Thundercall
+
+"PEWGHHHHHH" - Grand javelin
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
@@ -154,11 +160,15 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
+"Taste the wind!" - Some fat Vesperian, a league player
+
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
 -   Gain Galebreathe EXP by dealing damage to Enemies and Monsters using Galebreathe Mantras.
 
 ### Shadowcast
+
+"My element is SO rare!" - A cocky Celtor, not realising how easy it is to get shadow
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.

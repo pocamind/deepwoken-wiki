@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25084
+revid: 25107
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Resonance, Character, Boss, Locations
 
 ## Overview
 
-**Resonances** are one of the many sex skills that players can obtain. They are the most varied when it comes to all the abilities, and are quite powerful, having effects from perfect invisibility, map-wide teleportation, and instantaneous gripping.
+**Resonances** are one of the many skills that players can obtain. They are the most varied when it comes to all the abilities, and are quite powerful, having effects from perfect invisibility, map-wide teleportation, and instantaneous gripping.
 
 ### Normal Resonances
 

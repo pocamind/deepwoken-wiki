@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25060
+revid: 25110
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -49,7 +49,7 @@ notices:
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
 
-## Talent
+## Talents
 
 -   **Captain Etrea's** name and ability is a reference to Captain America.
 -   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
