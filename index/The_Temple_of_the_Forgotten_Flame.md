@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 19166
+revid: 25251
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map]
@@ -18,13 +18,13 @@ A temple as old as the island itself, robbed of it's heart.
 
 ## Overview
 
-Temple of the Forgotten Flame resembles a run-down temple in [Upper Erisia](Upper_Erisia.md) that perches over the beach of [Lower Erisia](Lower_Erisia.md). The Temple can be found above the Bandit Village in Lower Erisia, or across from the upper exit of the Megalodaunt Nest.
+Temple of the Forgotten Flame resembles a run-down temple in [Upper Erisia](Upper_Erisia.md) that perches over the beach of [Lower Erisia](Lower_Erisia.md). The Temple can be found above the Bandit Village in [Lower Erisia](Lower_Erisia.md), or across from the upper exit of the Megalodaunt Nest.
 
 To enter the Temple, you must either:
 
--   first enter The Courtyard, where a Watcher and bandit spawns can be found.
--   climb around the walls and enter through the rear garden.
--   use a fountain found in [Greathive Aratel](Greathive_Aratel.md), that will teleport you to the rear garden.
+-   Enter The Courtyard, where a Watcher and bandit spawns can be found.
+-   Climb around the walls and enter through the rear garden.
+-   Use a fountain found in [Greathive Aratel](Greathive_Aratel.md), that will teleport you to the rear garden.
 
 Inside the temple, Neero, a Pathfinder, can be found in the entrance. Mysterious glyphs can be found on the wall in the room to the left as well. These glyphs play an important part in obtaining [Oath: Blindseer](Oaths.md#oath-blindseer).
 
@@ -35,6 +35,7 @@ Inside the temple, Neero, a Pathfinder, can be found in the entrance. Mysterious
 ## Potential Enemies
 
 -   [Hobo](Hobo.md)
+-   [Angels](Hollow_Angel.md) (summoned by Watcher)
 
 ## NPCs
 

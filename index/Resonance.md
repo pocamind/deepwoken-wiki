@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25194
+revid: 25289
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -113,6 +113,10 @@ Re-rolling your Resonance has a cooldown of 10 levels.
 File:Arch says Wishes have cooldowns.png
 
 542.988x542.988px
+
+## Bell Cosmetic
+
+Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime or a sleigh bell. They can also be of varying colors, ranging from yellow, green, red, black.
 
 ## Notes/Trivia
 

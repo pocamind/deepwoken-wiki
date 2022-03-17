@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 25198
+revid: 25269
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Bleed to death.
 -   Burn to death.
 -   Fall to death.
--   Have both your stomach and thirst meter at 0.
+-   Have both your stomach and thirst meter at 0. \[Starve / Die of Dehydration\].
 -   Be auto-excecuted, such as by the [Talents](Talents.md) Lethal Force, Lethal Precision, or In Twain.
 -   Lose all of your skulls in the [Arena.](Chime_of_Conflict.md)
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
@@ -37,4 +37,8 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Many of the [Ferryman’s](The_Ferryman.md) moves instakill, such as his javelins.
 -   Some strong mantras that ragdoll you like [Wind Gun](Galebreathe.md) or [Strong Left](Attunement-less.md) all execute at low health.
 -   Killed by exploiter
+-   Failing Aelitas Quest and not have enough health to survive the fall.
+-   Getting automatically executed by one of The Duke’s many Wind Mantras.
+-   Die to the acid rain of Upper Erisia.
+-   Trying to threaten [Akira](Akira.md) without 100 charisma (Picking 2nd option in his random encounter).
 -   This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.

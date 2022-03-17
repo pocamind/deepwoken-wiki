@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 24850
+revid: 25281
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Frostdraw
 
-_"Ka..me..ha..me.." An unknown Khan using an ice beam with 9 Stratus Stones_
+_"Where, is, my, Soup-er suit?!"_
 
 ## Description
 
@@ -271,7 +271,7 @@ File:Static-assets-upload2550294597928104705.webp
 
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
--   Frostdrawers can be found as Navaen Nomads in Etris and on [Summer Isle](Summer_Isle.md), as Songseeker monks in [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
+-   Frostdrawers can be found as Navaen Nomads in Etris and on [Summer Isle](Summer_Isle.md), as Songseeker monks in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
 -   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022

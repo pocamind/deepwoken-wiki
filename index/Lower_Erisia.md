@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 23908
+revid: 25264
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -59,7 +59,7 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 
 Events that spawn in Lower Erisia that typically do not involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Hobo
+-   [Hobo](Hobo.md)
 -   Pathfinders
 
 ## Loot Table
@@ -123,4 +123,4 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 
 ## Trivia/Notes
 
--   Player notes here
+-   Although the island is considered starter, high level players still usually come to this island, either just passing by to the higher places (duke, upper erisia/urning stone gardens) or they are here to boost their friend/boyfriend, so be careful.

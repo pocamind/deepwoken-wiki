@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 831
+revid: 25225
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki]
@@ -12,7 +12,7 @@ categories: [Browse, Deepwoken Wiki]
 
 The page contains rules and punishments for violating them. If you see another user violating one of these rules please contact an [administrator](https://deepwoken.fandom.com/wiki/Staff). **Staff members are not bound to only deal with these cases and may deal with the violation with their own judgment based on the circumstances**.
 
--   If you believe your punishment is unfair and want an appeal, contact an [administrator](https://deepwoken.fandom.com/wiki/Staff) via message wall or on this wiki's [discord server](https://discordapp.com/invite/h32fzHv).
+-   If you believe your punishment is unfair and want an appeal, contact an [administrator](https://deepwoken.fandom.com/wiki/Staff) via message wall or on this wiki's [discord server](https://discordapp.com/invite/PFpqDWm5Pa).
 -   Loopholing rules, meaning finding flaws in the rules and doing the flaws will land you an offence.
 
 ## **Level 1 Offense**

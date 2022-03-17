@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 25172
+revid: 25227
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -30,4 +30,4 @@ categories: [Weapons]
 | obtainment | The depths, Duke, Knives of Eylis vs Etrea boat? |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
 
-Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has a base damage of 15 and a weapon scaling of 5. It is not very good and a worst than other daggers, its better for you to use a [Canor Fang](Canor_Fang.md) because of its scaling.
+Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has base damage of 15 and a weapon scaling of 5. It's not that good and worse than other daggers, it's better to use a [Canor Fang](Canor_Fang.md) because of it's scaling.

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 24548
+revid: 25258
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -8,17 +8,18 @@ categories: [Monsters, Enemies]
 
 # Thresher
 
-**Thresher:**
+-   King Thresher
+    
 
 # Thresher
 
-_Also known as Crocodiles, Crocs, Crocco, Doggy and many other Lizard names._
+_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Lizard names._
 
   
 
 ## Description
 
-Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept Valley, as well as the Depths. Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting armour. There will usually be a chest reward after you kill this monster.
+Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
 
   
 
@@ -50,8 +51,6 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the Starswept 
 -   The go-to mob to farm for high levelled players.
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range and can be easily kited.
     
-
-**King Thresher:**
 
 # King Thresher
 

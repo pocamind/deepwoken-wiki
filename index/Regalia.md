@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25119
+revid: 25273
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -35,6 +35,7 @@ Monsters and certain enemies will be neutral to the player unless provoked. The 
 -   The best talent for Sharko-simps to get up close and personal.
 -   Is actually confirmed to be called **"Mute"** but that name is lame.
 -   NPCs related to the depths will not attack you (e.g Megalodaunt, Lionfish etc, not sure about this one)
+-   You will keep Animal king no matter how much times you wiped yourself after obtaining it.
 
 ### Theorised Obtainment:
 

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 24311
+revid: 25262
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,7 @@ Glimmers of starlight mingle with the pungent rot that afflicts these lifeless s
 
 ## Overview
 
-The Starswept Valley is a desert-like area containing a massive gate that leads to the [Lordsgrove](The_Lordsgrove.md) and [Bluster Rift](Bluster_Rift.md).
+The Starswept Valley is a desert-like area containing a massive gate that leads to [The Lordsgrove](The_Lordsgrove.md) and [Bluster Rift](Bluster_Rift.md).
 
 These gates will open as soon as you interact with the fountain at the [Lightkeeper Temple](Lightkeeper_Temple.md).
 
@@ -28,23 +28,23 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 
 ## Potential Enemies
 
--   King Thresher
--   [Thresher](Thresher.md)
+-   [King Thresher](https://deepwoken.fandom.com/wiki/Thresher#King_Thresher)
+-   [Thresher](Thresher.md#king-thresher)
 -   [Hive Construct](Hive_Construct.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Sand Knight](Stone_Knight.md)
+-   [Desert Knight](Stone_Knight.md)
 -   Etrean Footsoldier
 -   Hive Footsoldier
 -   [Legion Captain](Legion_Captain.md)
--   Legion Thundercaller (Javelin Guy)
+-   Legion Thundercaller
 
 ## Missions
 
 Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   Etrea vs Hive
--   Legion Captain vs Authority Commander
--   Hive Construct vs Authority Commander
+-   [Legion Captain](Legion_Captain.md) vs [Authority Commander](https://deepwoken.fandom.com/wiki/Fort_Merit_Captain)
+-   [Hive Construct](Hive_Construct.md) vs Authority Commander
 
 ## Events
 
@@ -126,27 +126,27 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 ### [Weapons](Weapons.md)
 
--   Apprentice's Rapier
+-   [Apprentice's Rapier](Apprentice_Rapier.md)
 -   Master Hawk's Handaxe
 -   [Champion's Sword](<Champion's_Sword.md>)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
--   Khan Shield
--   Legion Cestus
+-   [Khan Shield](Legion_Shield.md)
+-   [Legion Cestus](Legion_Cestus.md)
 -   [Nemit's Sickle](<Nemit's_Sickle.md>)
 -   [Pale Morning](Pale_Morning.md)
 -   [Sacred Hammer](Sacred_Hammer.md)
 -   [Shattered Katana](Shattered_Katana.md)
--   Tanto
--   Forgotten Gladius
+-   [Tanto](Tanto.md)
+-   [Forgotten Gladius](Forgotten_Gladius.md)
 
 ### Miscellaneous
 
--   Platinum Bar(2-10)
--   Diamond(4-8)
+-   [Platinum Bar](Treasures.md)(2-10)
+-   [Diamond](Treasures.md)(4-8)
 
 ## Trivia/Notes
 
--   You can climb over the mountains to the [Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
+-   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
 -   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision can you won't be able to tell when to dodge its 200 damage moves.

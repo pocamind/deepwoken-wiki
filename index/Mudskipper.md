@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 25170
+revid: 25265
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,5 +43,6 @@ Mindless enemies that sprout out of the ground to surprise their prey. They lack
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck.
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shuriken's, Fire Palm, Air Blast, or Guns.
--   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
--   There is a bug where Mudskippers use dialogue used by most npcs when idle for long periods of time
+-   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki) (except the fact that they don't one shot you).
+
+-   There is a bug where Mudskippers use dialogue used by most npcs when idle for long periods of time.

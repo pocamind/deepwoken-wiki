@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 25167
+revid: 25216
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,10 +27,12 @@ This basically just means you have to hit the mob first if you want them to aggr
 -   [Deep Widow](Deep_Widow.md)
 -   [Threshers](Thresher.md)
 -   [Ministry Scouts](Ministry_Scout.md)
--   [Enforcer](Enforcer.md)
+-   [Mudskippers](Mudskipper.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [The Enforcer](Enforcer.md)
 
 ### Hostile Mobs:
 
 -   [Stone Knights](Stone_Knight.md)
 -   [Erisia Golems](Rock_Golem.md)
--   [Trial of One mobs](Trial_of_One.md)
+-   [Trial of One Entities](Trial_of_One.md)

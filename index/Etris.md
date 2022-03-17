@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 24537
+revid: 25267
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -230,7 +230,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   Find and rescue a Navaen tribe member either in [Erisia](Erisia.md) in one of the many encounters there or in [Fort Merit](Fort_Merit.md) in one of the prison cells as a random spawn.
     -   Knocking a Navaen Nomad in [Summer Isle](Summer_Isle.md), or any other location, and turning them in will not work for this quest.
 -   Upon finding a Navaen tribe member, head back to the camp master and receive your reward.
--   The reward for this quest is the "Way of Navae" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis.
+-   The reward for this quest is the "Way of Navae" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae to be a starting style in the start menu.
 -   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more dificult if a [lionfish](Lionfish.md) spawns,, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
 

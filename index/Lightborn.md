@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 24244
+revid: 25282
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-_"The stars call you back..."_
+_"Kicked out of heaven and demoted to Freshie."_
 
 **Currently Unobtainable**
 

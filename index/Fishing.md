@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 25073
+revid: 25287
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -26,7 +26,7 @@ There is also another fishing related talent, called "Proficient Baiting", which
 
 ## Loot From Fishing
 
-You can fish up many different kinds of fish with there being a chance of other items. The bigger the fish, the better the loot. The loot you can get from fishing are:
+You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
 File:Tuna.png
 
@@ -44,7 +44,6 @@ Fishing up the Tuna.
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
 -   Chests (Very rare, contain moderate - good loot)
--   NOTE: Fished up objects can very rarely be golden, which can give luck. (Might be a random amount, I've gotten 17%)
 
 ## Bait
 
@@ -81,5 +80,6 @@ If you want to add more, feel free. I'm done for the time being.
 -   Some spots wont let you fish.
 -   The front of Monkey's Paw is a good place to farm for fish and chests as you wait max of 20 sec to right when it hits the water between casting your line before a fish bites.
 -   Also, the shores of Etris tend to be good for fishing, as I have appeared to get fish much faster than in the Aratel sea.
+-   Surprisingly, void sea is also good for fishing, I was fishing somewhere on the edge of Greathive Aratel shipyard and was getting alot of good fish (although had to fight lionfishes). And if you get to see kaido you can have time to run up or run back to the shipyard.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
 -   Always good to have a fishing rod on you, fishing is a good way to get food if you're ever in a pinch.

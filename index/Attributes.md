@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 25158
+revid: 25249
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -43,7 +43,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
-“Cheers Bro I’ll Drink to that” - An Alchemist Celtor Chugging Unethical amounts of [Potions](Alchemy.md)
+“Cheers Bro I’ll Drink to that” - An Alchemist Ganymede Chugging Unethical amounts of [Potions](Alchemy.md)
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
@@ -116,7 +116,9 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Medium Weapons
 
-Spears. Sword. Maces. Long Ago…The three medium weapons lived in harmony…until the Shattered Katana attacked.
+"Spears. Sword. Maces. Long Ago…The three medium weapons lived in harmony…until the Shattered Katana attacked."
+
+\-Maestro Evengarde Rest
 
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.

@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 25185
+revid: 25236
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -22,7 +22,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
 | Hero Blade of Frost | |
@@ -39,7 +39,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
 | Hero Blade of Lightning | |
@@ -56,7 +56,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
 | Hero Blade of Wind | |
@@ -73,7 +73,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
 | Hero Blade of Shadow | |
@@ -90,7 +90,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
 ## Description

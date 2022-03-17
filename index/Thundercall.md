@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 24801
+revid: 25276
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Magic, Spells, Mantras]
 
 # Thundercall
 
-"Strike down your enemies with the power of the storm. Use lightning quick moves to catch your enemies off guard. Smite all with your otherworldly gift; Thundercall." - Etrean Guard
+"UNLIMITED POWEEEEER!" - Emperor Palpatine
 
 ## Description
 

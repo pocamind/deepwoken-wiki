@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 23744
+revid: 25224
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -92,7 +92,7 @@ If every bar reaches zero, the player will start to quickly lose health.
 </tr>
 <tr>
   <th>Water</th>
-  <td>A visual representation of how much Water that is currently in the player's body. Water isn't too vital for survival, and will deplete over time. If you reach 0 water your screen gets blurry. Lose 50% of bar upon vomitting.</td>
+  <td>A visual representation of how much Water that is currently in the player's body. Water isn't too vital for survival, and will deplete over time. If you reach 0 water your screen gets blurry and your reservoir drains to 0%. Lose 50% of bar upon vomitting.</td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 24952
+revid: 25279
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Flamecharm
 
-> Ignite your enemies with the power of the sun. Cleanse all that are unworthy. The greatest flame casts the greatest shadow.
+> "Arson"
 
 ## Description
 
@@ -31,7 +31,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
 
-Flamecharm can be obtained from the trainer found at Songseeker Wilds in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 notes to upgrade a mantra, but increases by 100 each time. You can level up a spell once every 20 attunement mastery. (e. g. level 2 at 20 flamecharm, level 3 at 40 flamecharm, etc.) up to a total of level 5.
+Flamecharm can be obtained from the trainer found at Songseeker Wilds in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 flamecharm, level 3 at 40 flamecharm, etc.) up to a total of level 5.
 
 ## Mantras
 
@@ -235,10 +235,11 @@ These talents are found in the "Undying Ember" catagory.
     -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.
     -   Flame Palm, though it may look similar to "Ignis" from Rogue Lineage, is cast more similarly to moves like Combustion from Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from **Sekiro**, as the spell does NOT multihit, instead being a single large hit that sets on fire.
     -   Flame blind though it is similar to snap Velo from Rogue Lineage, how it functions like a projectile that blinds is inspired from Valorant character "**Phoenix**" as his abilities also have a blinding projectile when used.
-    -   Flamecharm is the best for depth’s grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
+    -   Flamecharm is the best for [The Depths](The_Depths.md) grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
 -   Flamecharm does not currently (as of 3/6/2022) possess any 3-star Mantra.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
 -   Azure flames might be referencing to [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire firebending ability from Avatar: The Last Airbender.
     -   This, or the fact that blue fire is naturally hotter that the normal red/orange fire
         -   By this logic, White Flames could be a card added along the line of updates.
+        -   The Azule Flames give a damage boost and a cool blue color on all abilitys.

@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 25195
+revid: 25241
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -95,7 +95,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   [Rifle Spear](Rifle_Spear.md)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
--   [Officer Saber](Officer_Saber.md)
+-   [Cavalry Saber](Officer_Saber.md)
 -   [Apprentice Rapier](Apprentice_Rapier.md)
 
 ### Miscellaneous

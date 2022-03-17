@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 25131
+revid: 25237
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -78,7 +78,7 @@ This Oath also grants the players full vision and increased brightness while wea
 
 Having all the talents, the blindfold, and the oath give you sanity, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
 
-You can also get a face item that acts like a blindfold by going to the smelter (Jarvis at summer isle) And using the blindfold for the atribbutes, and the item you want it to look like for the appearance. When a user named RLMEGA did this, the item kept the name blindseer but worked and looked like his demon mask. This may also prove that TALENTS on items can be smelted onto other items as well as the health, ether, ect.
+You can also get a face item that acts like a blindfold by going to the smelter (Jarvis at summer isle) And using the blindfold for the atribbutes, and the item you want it to look like for the appearance. When a user named RLMEGA did this, the item kept the name blindfold but worked like the blindfold, and looked like his demon mask, which means it was success. This may also prove that TALENTS on items can be smelted onto other items as well as the health, ether, ect.
 
 ## **Oath: Visionshaper**
 
