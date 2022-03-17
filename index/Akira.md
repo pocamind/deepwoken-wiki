@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 24067
+revid: 25145
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,19 +12,19 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | name | Akira |
 | location | Castle Light, Celtor Wastes (Random Event) |
 
-> _"Still alive, are you? Not bad." -Akira, after talking to him at Castle Light._
+> _"Still alive, are you? Not bad." -Akira, after talking to him at [Castle Light](Castle_Light.md)._
 
 ## Meeting
 
-Akira is first found in the Celtor Wastes, protecting a area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in a event that isnt guaranteed, meaning you may need to server hop to meet him.
+Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in a event that isnt guaranteed, meaning you may need to server hop to meet him.
 
-You meet him a second time after completing the event and accepting the challenge to meet him at Castle Light. Upon arrival he is leaning against the wall in the Main Hall by the door. He gives you the choice to join the Divers, but warns that it is an extremely dangerous job.
+You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is leaning against the wall in the Main Hall by the door. He gives you the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
 
 ## Akira vs. Ignition Union Event
 
-This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens them to leave and creating a line of ice with a unique ice-beam spell. The Ignition Union call him insane before approaching him over the line, they immediately have their heads burst open. (Max Insanity Animation.)
+This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens them to leave and creating a line of ice with a unique ice-beam spell. The Ignition Union call him insane before approaching him over the line, they immediately have their heads burst open.
 
-After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if your another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join the Divers if you make it to Castle Light.
+After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if your another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
 **Dialogue**
 
@@ -98,16 +98,16 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 > Akira: As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.
 
-## Joining the Divers
+## Joining [the Divers](The_Divers.md)
 
-Once you reach Castle Light, you're only able to pass the barrier and go inside if you have entered the Depths via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join the Divers. The Divers does not currently come with any buffs, and it removes your house name. However, we know about some planned features; such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
+Once you reach [Castle Light](Castle_Light.md), you're only able to pass the barrier and go inside if you have entered [the Depths](The_Depths.md) via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join [the Divers](The_Divers.md). The guild does not currently come with benefits, and it removes your guild. However, we know about some planned features: such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
 
-There is no level requirement to joining the Divers, I was able to do it at level 1.
+There is no level requirement to joining [the Divers](The_Divers.md), I was able to do it at level 1.
 
 ## Akira Info
 
--   He has a purple colored bell, it is unknown if he used this to kill the Ignition Union members or its simply a known/unknown resonance. If he used it to kill the Divers it may be a Cursed variant.
--   He uses a unobtainable ice magic spell, nicknamed Ice Age for now. Upon usage he summons something that could be called a Ice Wisp above him, before it fires a laser across the ground in front of him, creating a line.
--   He is a Black Diver, in lore there is little to none of them, and he, the Frostdraw trainer located in Etris and the Thundercall Trainer located in the Summer Isles are the only known NPCs that are Black Divers.
+-   He has a purple colored [bell](Resonance.md), it is unknown if he used this to kill the Ignition Union members or its simply a known/unknown [resonance](Resonance.md). Since it has purple effect on use, it may be Corrupted.
+-   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons something that could be called an Ice Wisp above him, before it fires a laser across the ground in front of him, creating a line.
+-   He is a Black Diver, in lore there is little to none of them, and he, the [Frostdraw trainer](Attunement_Trainers.md) located in Etris and the [Thundercall Trainer](Attunement_Trainers.md) located in the Summer Isles are the only known NPCs that are Black Divers.
 
 DM Enklerical#2225 for any other info on NPC or with information that isnt on this page.

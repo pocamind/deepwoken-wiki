@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 24447
+revid: 25170
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,7 +36,6 @@ Mindless enemies that sprout out of the ground to surprise their prey. They lack
 
 ## Tips
 
--   Attempting to kill a Mudskipper after they pop up has a probability of spawning in at least 1 or more Mudskippers after you. Potentially creating a Horde.
 -   Very good for grinding when first starting, due to their low hp and low damage output.
 -   Mudskippers are people slain by [Nautilodaunts](Nautilodaunt.md), though it is unknown, considering how large their numbers are, if there are other methods of producing them
 -   If you aren't fighting many Mudskippers, use M1s to knock them.
@@ -45,6 +44,4 @@ Mindless enemies that sprout out of the ground to surprise their prey. They lack
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shuriken's, Fire Palm, Air Blast, or Guns.
 -   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
--   There is a bug where Mudskippers use dialogue used by most npcs when idle for long periods of time.
--   Weirdly, the Mudskipper Knight does not grip. (This might be a one-time thing, or it happens with a trick)
-    -   The assumption is that although having lesser angel intellect, it still tries to grip you with its bare hands.
+-   There is a bug where Mudskippers use dialogue used by most npcs when idle for long periods of time

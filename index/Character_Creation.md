@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 23993
+revid: 25137
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -39,6 +39,7 @@ You will be able to choose which you can start with:
 -   Greataxe is Heavy
 -   Sword is Medium
 -   Stilleto is Light
+-   As of the update on 3/12/22, Unlocking the Way of Navae on a character will allow that slot to choose it as a starting weapon moving forward
 
 More info can be found on the [Weaponry](Weapons.md) page
 

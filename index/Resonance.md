@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25107
+revid: 25174
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -88,10 +88,10 @@ As stated before, Progress is obtained in all the ways Luck is, and just like Lu
 ### Bosses:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md) (Sorta not Recommended, while giving alot of Progress, almost as much as Primadon, is very hard to find.)
+-   [Dread Serpent](Dread_Serpent.md)
 -   [The Ferryman](The_Ferryman.md) (Not recommended, due to giving incredibly low amounts of progress, and being a very long fight.)
--   [Nautilodaunt](Nautilodaunt.md) (Not recommended, due to danger of Depths and the Nautilodant themself, along with the infrequent spawn rate and location.)
--   [The Duke](Duke_Ishamon_Erisia.md) (Not Recommended, due to having to clear his entire dungeon before being able to face him, and also being a long fight.
+-   [Nautilodaunt](Nautilodaunt.md)
+-   [The Duke](Duke_Ishamon_Erisia.md)
 -   [The Enforcer](Enforcer.md) (Not Recommended, for obvious reasons of The Depths and having to do the entire Trial over and over.)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended, due to randomness of abilities, very specific spawn window, high risk, and low amount of Progress granted.)
 
@@ -99,6 +99,7 @@ As stated before, Progress is obtained in all the ways Luck is, and just like Lu
 
 -   Corrupted Monsters (Not Recommended, as it unironically takes about 300-500 of them for a Resonance, with the obvious dangers of The Depths.)
 -   Players (Recommended, as freshies give the most amount of bell exp around unironically taking approximately 250 for a bell)
+-   ~Fishing is rumored to give some decent bell progression~  ??????
 
 ## Re-rolling
 
@@ -128,8 +129,8 @@ File:Arch says Wishes have cooldowns.png
   
 
   
+Talking to Yun'Shul without a Resonance will wipe you.
 
--   Talking to Yun'Shul without a Resonance will wipe you.
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
 -   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.

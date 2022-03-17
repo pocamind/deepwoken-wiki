@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 25114
+revid: 25162
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -256,6 +256,8 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 Guns are a ranged weapon designed to shoot projectiles. Bullets are needed in your inventory in order to make use of your gun. Firing your gun without bullets will use up your Ether instead.
 
 Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M2.
+
+As of the update on 3/12/22, wielding offhand guns with a primary weapon that isn't a gun will reduce the offhand damage by 20%
 
 <table>
 <tbody>
@@ -604,7 +606,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>True Seraph's Spear</td>
   <td>90 MED</td>
   <td>18.5</td>
-  <td>30%</td>
+  <td>30% PEN &amp; 50% Chip Damage</td>
   <td>MED: 4</td>
   <td>5</td>
   <td>9</td>

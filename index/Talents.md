@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25136
+revid: 25175
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -250,7 +250,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 These Talents are mainly aimed at making assassination much more potent, especially in PVP.
 
--   Assassin \[Generic Talent, Common Talent, Light\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
+-   Assassin \[Generic Talent, Common Talent\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
 -   Blood Thirsty \[Generic Talent, Common Talent, Light\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
 -   Hidden Blade \[Generic Talent, Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
 -   In a Hurry \[Generic Talent, Common Talent, Light\] - You grip faster with a movement speed boost.
@@ -503,7 +503,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
 -   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
     -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
-    -   Prerequisite: 30 Strength and 30 Fortitude (Note: Talent Is currently Unob due to it still being labelled as a common even though it's a rare meaning that it's impossible to get it. )
+    -   Prerequisite: 30 Strength and 30 Fortitude (Note: Talent Is currently Unob due to it still being labelled as a common even though it's a rare meaning that it's impossible to get it, go spread it in bug reports if you want it back! )
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)

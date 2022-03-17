@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 25108
+revid: 25158
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -104,6 +104,10 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Heavy Weapons
 
+**“Too big, too thick, too heavy, and too rough, it was more like a large hunk of iron.”**
+
+\- A Freshie Felinor Describing a Greatsword
+
 -   Increases your Character's skill in Heavy Weapons.
 -   Determines the damage of your Heavy Weapons via Scaling.
 -   Certain Heavy Weapons, such as the Steel Maul, requires a Heavy Weapons requirement.
@@ -112,6 +116,8 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Medium Weapons
 
+Spears. Sword. Maces. Long Ago…The three medium weapons lived in harmony…until the Shattered Katana attacked.
+
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
 -   Certain Medium Weapons, such as the Gremorian Longspear, requires a Medium Weapons requirement.
@@ -119,6 +125,10 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 -   Gain Medium Weapons EXP by dealing damage with Medium Weapons or parrying attacks.
 
 ### Light Weapons
+
+“**YOU FOOL!** You brought a knife to a gun fight!”
+
+\- A overconfident Capra to a dagger wielding Canor
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25057
+revid: 25141
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -306,6 +306,7 @@ _Requires Power Level 40_
  | Primadon Chests, Depths Chests |
 |  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests |
 |  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bad reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Depths chests, Duke Chests, Primadon Chests, and Spider Queen Chests |
+|  | Finisher's Ring | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1) | Very rare drop from Aelita's quest |
 
   
 
@@ -346,4 +347,5 @@ _Requires Power Level 30_
 ## Speculation
 
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
+-   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
