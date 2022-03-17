@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 24715
+revid: 25210
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Mantras]
 # Shadowcast
 
 _"The ability to control the absence of ether or unreality in an environment. While Lightkeep drains the soul, Shadowcast heals it."_
+
+"Ether? What ether?"
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 24862
+revid: 25205
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -216,6 +216,16 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
 -   The Depths became the place souls went to after death after the great drowning, when the city of Celtor was sunk by the Celtorian Horror.
 
+#### Markor Citadel (The Depths, First Layer)
+
+  
+
+  
+
+-   Also known as [Castle Light](Castle_Light.md), The Markor Citadel is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier.
+    -   This barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drain of their Ether whilst those who are alive can go through with no harm done.
+        -   As of 3/17/2022, there are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
+
 ## Factions
 
 ### The Kingdom of Etrea
@@ -406,12 +416,20 @@ A Peacekeeper Commander, part of The Authority
 
 ### The Divers
 
+-   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
+-   **Attunements:** _Flamecharm_
+-   **Alliances:** _The Central Authority_ _(Business Relations)_
+-   **Enemies:** _???_
+-   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue)_
+
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
--   The Divers are outsourced by The Adretian Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
--   The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
+-   (The Authority) The Divers are outsourced by The Adretian Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
+-   (The Authority) The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
--   The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
+-   (Akira) The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
+-   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, AKA "The Citadel Trials".
+    -   Though not much is known entirely of what the Citadel Trials are, one of them was sampling flora- explained by Karliah.
 
 ## Groups
 
@@ -590,7 +608,8 @@ _"The stars call you back..."_
 **Lore Sources:** _Celestial Telescope (Greathive Aratel)_
 
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
--   Celestials came to the Luminants from the stars when the Canticlysm erupted upon the land of the Old World; an event that was drawn from the Heavens by the Song.
+-   Celestials came to the Luminants from the stars when the Canticlysm erupted upon the land of the Old World.
+    -   Some people misinterpreted "Drawn from the Heavens by the Song", referring this quote to the Canticlysm; but it was actually the Celestials that was being referred to.
 -   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
 -   As of the Year 1271, their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   The Celestials are presumably extinct, though evidence is required to confirm the theory.

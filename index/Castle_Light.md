@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 23580
+revid: 25200
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Overview
 
-Castle Light is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool.
+Castle Light, or Markor Citadel, is a secluded location in [The Depths](The_Depths.md) belonging to [The Divers](The_Divers.md). It is guarded by apprentice divers and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool.
 
 ## Contents
 

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 23759
+revid: 25208
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,7 +30,9 @@ This Outfit also grants the [Talent Card](Talents.md) "_Now you see me.._", whic
 
 This outfit can be found in:
 
--   Erisia (apparently?), Depths, Primadon Loot.
+-   Erisia
+-   The Depths
+-   Primadon
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 21001
+revid: 25209
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,6 +23,8 @@ You can wield 2 **guns** the same time, giving you overall incredible range. The
 If you have a primary gun equipped your critical will be replaced with a long range shot. This does not blockbreak, but has alot of range and is pretty fast. It cannot be used without bullets, however.
 
 The guns currently in game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md) and [Dragoon](Dragoon.md).
+
+If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
 There's a gun technique that you can learn from a dude outside the inn on Summer Isle. The guy that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. (You need a gun because when my friend did it, he recieved nothing + needs testing because we don't know). Choosing the 1st option however and going back to the gun trainer will spawn Summer Company Gunslingers to kill you.
 
