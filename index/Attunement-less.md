@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 25142
+revid: 25186
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -52,7 +52,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour.
     -   Prevents your attacks/mantras from getting cancelled.
-    -   Requirements: 75 Fortitude, _Fortitude Support Mantra_  
+    -   Requirements: 75 Fortitude, Fortitude Unbound, _Fortitude Support Mantra_  
         
 
 ### _**Agility Mantras**_

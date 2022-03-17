@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 24816
+revid: 25180
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,9 +30,7 @@ categories: [Weapons, Weaponry]
 
 The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Starswept Valley](The_Starswept_Valley.md). This weapon has a base damage of 18 and has no special effect or passives.
 
-  
-
 ## Notes & Trivia
 
--   Swings so fast that you are positive on block for everything other than daggers and fists.
--   Is tied for second place in medium weapon swing speed with the Falchion and the warden guards ceremonial sword.
+-   One of the best alternative weapons to use in the endgame if you don't want to use a [Shattered Katana](Shattered_Katana.md). The Swing Speed is incredibly high, and can mess up a lot of people if they are not prepared. Forget the [Rapier](Apprentice_Rapier.md), if you want to bridge the gap between the Medium and Light playstyles, pick this weapon up right now.
+-   Is tied for second place in Medium Weapon Swing Speed with the [Falchion](Falchion.md) and the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).

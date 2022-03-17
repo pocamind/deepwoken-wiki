@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 24965
+revid: 25188
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -131,7 +131,7 @@ One thing you might notice is that some of these types might layer over with eac
 
 ## PVE Scaling
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 fifty hits to kill one?
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 thirty-three to twenty hits to kill one?
 
 **Well, no.**
 

@@ -1,9 +1,9 @@
 ---
 title: Hero Blades
-revid: 24477
+revid: 25185
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Weaponry]
+categories: [Weapons, Weaponry]
 ---
 
 # Hero Blades
@@ -93,145 +93,31 @@ categories: [Pages with broken file links, Weapons, Weaponry]
 | obtainment | Defeating Snow Golems in the Valley of Heroes on Minitrysa |
 | description | N/A |
 
-**The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them.
+## Description
 
-Unlike most weapons, Hero Blades deal Elemental Damage based on their associated attunement. They do not deal Slash Damage. (Actually i believe they do deal slash damage because theres blood when i hit someone and i can actually kill primadon with a hero sword)
+**The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and LV 35+.
 
-## How to Obtain
+**Hero Blades still deal Physical Damage despite scaling off your attunement. It just converts your Elemental Damage to Physical Damage.**
 
-The Hero Blades are obtainable in the Valley of Heroes, as a guaranteed drop (element is random) in the chest spawned by defeating the [Blizzard Knights](https://deepwoken.fandom.com/wiki/Stone_Knights#Blizzard_Knight).  
-
-File:Screen Shot 2022-02-18 at 10.11.00 AM.png
-
-You can use heroblade at power 30 as long as you have 75 of your magic
-
-  
-If you need further proof add my discord attal#1871
-
-## Hero Blade of Flame
+**Flame:**
 
 The Hero Blade of Flame is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Flame is unique in that its damage scaling is based on the [Flamecharm](Flamecharm.md) attunement stat.
 
-  
+**Frost:**
 
-  
+The Hero Blade of Frost is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Frost is unique in that its damage scaling is based on the [Frostdraw](Frostdraw.md) attunement stat.
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-## Hero Blade of Frost
-
-The Hero Blade of Frost is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Frost is unique in that its damage scaling is based on the Frostdrawer attunement stat.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-  
-
-## Hero Blade of Lightning
+**Lightning:**
 
 The Hero Blade of Lightning is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Lightning is unique in that its damage scaling is based on the [Thundercall](Thundercall.md) attunement stat.
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-## Hero Blade of Wind
+**Wind:**
 
 The Hero Blade of Wind is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Wind is unique in that its damage scaling is based on the [Galebreathe](Galebreathe.md) attunement stat.
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-## Hero Blade of Shadow
+**Shadow:**
 
 The Hero Blade of Shadow is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Shadow is unique in that its damage scaling is based on the [Shadowcast](Shadowcast.md) attunement stat.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
 
 ## Notes
 

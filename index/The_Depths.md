@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 24973
+revid: 25179
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -152,7 +152,7 @@ Deep down in the Depths, you can find a secret room located near the Deep Widow.
 
 When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
--   Void feathers drop from corrupted Owls in The Depths.
+-   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level.
 -   This quest is very tedious and dangerous, so it is recommended you come with a group or to be prepared.
 
@@ -161,13 +161,13 @@ When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another 
 -   [Seekers](Watcher.md)
 -   [Angels](Hollow_Angel.md)
 -   [Jellyfish](Gigamed.md)
--   [Giant Jellyfish](King_Gigamed.md)
+-   [King/Giant Jellyfish](King_Gigamed.md)
 -   [Crab](Crab.md)
 -   Lion Fish
 -   [Megalodaunt](Megalodaunt.md)
 -   [Deep Owl](Deep_Owl.md)
 -   Crabbo
--   [Nautilodaunt (Squibbo)](Nautilodaunt.md)
+-   [Nautilodaunt (Squibbo/Squid Hoss)](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
 -   The City Guards
 -   [Deep Widow](Deep_Widow.md)
@@ -259,3 +259,7 @@ Legendary = Gold
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use it to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
+
+## _Trivia_
+
+-   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.

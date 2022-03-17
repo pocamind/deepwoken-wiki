@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25174
+revid: 25194
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -75,7 +75,6 @@ If your resonance is ready, the following will happen when knocked:
 -   A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
 -   A hand of 3 cards will be dealt. One of these cards will become your Resonance.
--   You should be able to hear your dad walk out of the front door.
 
 Once obtained, using C will activate your Resonance. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
 
