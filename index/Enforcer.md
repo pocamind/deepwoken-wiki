@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 25328
+revid: 25392
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -71,7 +71,7 @@ File:Enforcers axe desc.png
 
 Item Description for the Enforcer's Axe
 
-Not much is known about The Enforcers general lore, but its origin is at least somewhat known. The Enforcer is composed of the Souls of those who died in the trials. According to the flavor text of the Enforcer Axe, these souls aren't merely lost, but are tortured and warped. These souls eventually turn into an Enforcer, a sadistic being that takes joy in depriving others of the freedom they failed to earn. Additionally, The Enforcer's name is quite deceiving, as there is no "The" Enforcer, but in actuality, an army of Enforcers. It is quite harrowing to think that this behemoth is only one out of a nearly endless legion, constantly getting stronger from those they kill, and soon, your soul will be used for all eternity to add to its ranks until the vessel is destroyed.
+Not much is known about The Enforcers general lore, but its origin is at least somewhat known. The Enforcer is composed of the Souls of those who died in the trials. According to the flavor text of the [Enforcer Axe](<Enforcer's_Axe.md>), these souls aren't merely lost, but are tortured and warped. These souls eventually turn into an Enforcer, a sadistic being that takes joy in depriving others of the freedom they failed to earn. Additionally, The Enforcer's name is quite deceiving, as there is no "The" Enforcer, but in actuality, an army of Enforcers. It is quite harrowing to think that this behemoth is only one out of a nearly endless legion, constantly getting stronger from those they kill, and soon, your soul will be used for all eternity to add to its ranks until the vessel is destroyed.
 
 The voices appear to have some control and/or power over The Enforcer, as they summon it to fight those who enter the trial, although they do seem a bit disappointed if you come out on-top.
 

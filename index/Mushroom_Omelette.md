@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 18705
+revid: 25384
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,4 +15,4 @@ Possible life regen?? 20% max hunger -Damage increase
 
 ## Where to obtain
 
-Lances food located on the left of Etris island. The item is sold on the grill and on the counter with both variations stacking with eachother. This egg is downright stupid, same effect can be bought for 15 gold instead of 25.
+Mushroom Omelette can be crafted or purchased at Lances food. The item is sold on the grill for 15 notes, and on the counter for 25 notes.

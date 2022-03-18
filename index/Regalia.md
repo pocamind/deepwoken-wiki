@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25369
+revid: 25380
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -20,7 +20,8 @@ _Warning, these are not guaranteed and there is no official known way to obtain 
 
 -   Wiping at an older age (28+) (Likely false, wiped at age 34 and didn't get anything -Jeni)
 
--   Following some hidden guide on how to get these talents, as apparently they have obtainment methods.  
+-   Following some hidden guide on how to get these talents, as apparently they have obtainment methods.
+-   OKAAAAAAAY paragraph time! Have ya ever shiny hunted using the misudo method? well the same logic applies, this theory Is the idea that every player is given a name and surname combination on each of their slots that equates to having or not having a regalia if this is true FUCK YOU ARCH THERES LIKE OVER A MILLION COMBONATIONS  
     
 
 ## Mute (Animal King)
@@ -74,3 +75,4 @@ I sadly don't have proof, but I got it on two different slots with this method.
 -   These talents are supposedly called "Regalia" according to Deepwoken Discord Moderators.
 -   Regalia are not random.
 -   There may be more Regalia, as we do not fully understand them yet.
+-   Regalia are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation. This may reopen the rumer that these are just tied to what you name your character

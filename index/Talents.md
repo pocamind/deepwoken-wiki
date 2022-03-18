@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25368
+revid: 25391
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -445,6 +445,12 @@ These Talents are meant to improve your overall combat effectiveness.
             -   Shadowcast: Your bullets engulf enemies in shadow
                 -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
+
+### Heretic
+
+-   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal.
+    -   Prerequisite: 50 Willpower and 50 Intelligence
+        -   Could be higher or lower, not confirmed yet.
 
 ### Hunter
 

@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 25137
+revid: 25393
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -12,7 +12,7 @@ Deepwoken provides many ways to customise your character. There are a range of a
 
 ## Races
 
-There are many races within the world of Deepwoken, each player starting out with a race at random per character slot. You can pay 150 robux for a race reroll, and many agree that races do not provide major advantages to gameplay.
+There are many [races](Aspects.md) within the world of Deepwoken, each player starting out with a [race](Aspects.md) at random per character slot. You can pay 150 robux for a race reroll, and many agree that races do not provide major advantages to gameplay.
 
 Currently, there are 10 obtainable races in Deepwoken, each providing various utility abilities and skills to the player.
 
@@ -22,7 +22,7 @@ More info can be found on the [Races](Aspects.md) page
 
 ## Attunements
 
-Upon character customization, you can choose from 5 different attunements. You can only pick one, and you will only be able to choose from the 4 Elements the first time you create a character.
+Upon character customization, you can choose from 5 different [attunements](Attunements.md). You can only pick one, and you will only be able to choose from the 4 Elements the first time you create a character.
 
 Choosing Random gives you any of the 4 attunements even if you already picked one. However, the next time you create your character in that slot it will not save.
 
@@ -36,16 +36,13 @@ In Deepwoken, there are 3 types of weapons. Heavy, Medium and Light. Weapon Manu
 
 You will be able to choose which you can start with:
 
--   Greataxe is Heavy
--   Sword is Medium
--   Stilleto is Light
--   As of the update on 3/12/22, Unlocking the Way of Navae on a character will allow that slot to choose it as a starting weapon moving forward
+-   As of the update on 3/12/22, Unlocking the [Way of Navae](Way_of_Navae.md) on a character will allow that slot to choose it as a starting weapon moving forward
 
 More info can be found on the [Weaponry](Weapons.md) page
 
 ## Boons and Flaws
 
-Boons are modifiers that you get to pick when you create your character alongside Flaws. These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character.
+[Boons](Boons_and_Flaws.md) are modifiers that you get to pick when you create your character alongside [Flaws](Boons_and_Flaws.md). These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character.
 
 Each flaw you pick gives you 1 point (except for Simple which gives 2) each boon requires 1 point to pick.  
 
@@ -66,7 +63,7 @@ Here is what makes Etris unique:
 
 ### Isle of Vigils
 
-The Isle of Vigils is a small island with a fortress guarded by Vigils with [Katanas](Katana.md). The antiquarian is lower down at the bank and near the docks you can find Lance's food.
+The Isle of Vigils is a small island with a fortress guarded by Vigils with [Katanas](Katana.md). The [antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food.
 
 Here is what makes the Isle of Vigils unique:
 
@@ -80,6 +77,24 @@ Minityrsa**
 
 [Minityrsa](Minityrsa.md) is a snowy island with freezing temperatures which is guarded by [Brainsuckers](Brainsucker.md), with the main point of interest being a stronghold containing the portal to [Trial of One](Trial_of_One.md) in it.
 
--   Minityrsa's spawn option can be unlocked by beating the [Trial of One](Trial_of_One.md), and permanently saves for the specific slot that beat it.
+-   Minityrsa spawn option can be unlocked by beating the [Trial of One](Trial_of_One.md), and permanently saves for the specific slot that beat it.
 -   The [Valley Of Heros](The_Valley_of_Heroes.md) is located above Minityrsa. While the season is not winter, [Aelita](Aelita.md) is there (a [Visionshaper](Oaths.md) requirement) waiting for players to visit her to play a minigame. While the season is winter, [Stone Knights](Stone_Knight.md) will spawn instead of [Aelita](Aelita.md).
 -   The island has no food sources, but its a good farming spot for medium power players. Note: I don't have a lot of information about Minityrsa, please add more if you have the spawn unlocked.
+
+## Age System
+
+The [Age](Age.md) System is a mechanic built into your Character upon creation, starting at the Age of 18. Your character ages when they reach their [season](Seasons.md) of birth.
+
+Age may affect your Character's entire appearance, such as wrinkles and a change of hair color. Some accessories change through Age such as Vesperians or Ganymedes.
+
+You do not die of old age, as the system is purely cosmetic.
+
+The Developers of Deepwoken say that there is a way (possibly an item) to halt your aging, but no one found it as of 3/18/2022.
+
+There may be some changes to dialogue with NPCs depending on what 'Tier' of age your character is, listed below:
+
+-   **(Tier 0) Adult:** 18-39
+-   **(Tier 1) Middle Aged:** 40-???
+-   **(Tier 2)**
+-   **(Tier 3)**
+-   **(Tier 4)**
