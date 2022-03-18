@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 24499
+revid: 25359
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -39,3 +39,7 @@ Better picture of sacred hammer
 ##### _"BONK - Scout from TF2"_
 
 The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](Songseeker_Wilds.md), [Starswept Valley](The_Starswept_Valley.md), and [the Monkey's Paw](<The_Monkey's_Paw.md>) from the [Primadon](Primadon,_Titan_of_the_East.md). It can be considered the endgame version of the [Mace](Mace.md). It requires 65 points in the Medium Weapon stat to be used and has a base damage of 19.5.
+
+## Notes
+
+-   Has a weird parry timing. This can usually be taken advantage of and turn into giant combos or free hits.

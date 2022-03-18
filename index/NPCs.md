@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 24934
+revid: 25356
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Dialogue, Dialog, Locations, Character, Map, Races]
@@ -137,3 +137,7 @@ You can also get alot of gear from loresns
 **Lore**
 
 When getting gripped they may mention player not being able to stop history from repeating itself or that what happened to the celtors will repeat.
+
+The knives of elyiss
+
+Affiliations: unknown

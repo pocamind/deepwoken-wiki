@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25273
+revid: 25369
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -66,3 +66,11 @@ Gain the ability to consume non-food items.
 I sadly don't have proof, but I got it on two different slots with this method.
 
 (The talent iron gut could be needed, i had it and i got termite)
+
+## Trivia/Notes
+
+* * *
+
+-   These talents are supposedly called "Regalia" according to Deepwoken Discord Moderators.
+-   Regalia are not random.
+-   There may be more Regalia, as we do not fully understand them yet.

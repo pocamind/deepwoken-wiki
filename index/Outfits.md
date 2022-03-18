@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25333
+revid: 25357
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Armors, Character]
@@ -71,6 +71,10 @@ _Deepwoken_ currently has 6 Master Outfits that have been discovered, Archmage h
 
 _Deepwoken_ currently has 3 Unique Outfits that has been discovered.
 
+### Spec/Mod
+
+There is currently one confirmed armor under this category.
+
 ## Armor
 
 Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. (**This section is severely outdated and is dire need of updates)**
@@ -89,9 +93,10 @@ Armor Pieces come in different rarities, marked by the presence and quantity of 
     RaguzaRequest7 Armor
     
     There is a secret beginner armor called 'RaguzaRequest7' and it's schematic name is 'Pathfinder Sorcerer'
+-   [Proof of the _Hive Leader's Garment_ does exist.](https://www.youtube.com/watch?v=iJMNAX_K8Gc)
 
 ## Speculation
 
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
--   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
+-   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed ya.

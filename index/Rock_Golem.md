@@ -1,12 +1,16 @@
 ---
 title: Rock Golem
-revid: 25334
+revid: 25363
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Rock Golem
+
+“ I'll try spinning, that's a good trick. ”
+
+― Rock golems before shredding a player's health and posture bar
 
 Template:Creature Infobox V3
 

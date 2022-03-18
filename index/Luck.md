@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 24636
+revid: 25360
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -77,7 +77,7 @@ Defeating someone in the Arena grants you 2.5% luck (3.33% with marauder)l. If y
 
 ### **From Fishing**
 
-There is a rare chance to catch a golden fish which rewards the player with luck (when used?).
+There is a rare chance to catch a golden fish/seaweed which rewards the player with luck when caught.
 
 ## Losing Luck
 
