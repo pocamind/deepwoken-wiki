@@ -1,12 +1,18 @@
 ---
 title: Pickaxe
-revid: 17618
+revid: 25326
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Pickaxe
 
-Pickaxes are (obviously) used for mining ores (rock, iron, irithine etc...) You can buy a pickaxe at a general store for 3 notes or you can buy one resting against the Inn at Isle of vigils for 3 notes. There is a pickaxe at bandit island (lower erisia) at the main bandit camp which you can buy for 0 notes (it's literally a free pickaxe, are you going to take it or not?)
+Pickaxes are used for mining ores (rock, iron, irithine, etc.)
 
-Please can someone tidy this up I'm too lazy and stupid to understand how
+There are 3 preferable locations you can obtain pickaxes:
+
+1) The [General Store](Etris.md) located in Etris which costs 3 notes.
+
+2) Next to the innkeeper at Isle Of Vigils which costs 2 notes
+
+3) In the Bandit Camp at Lower Erisia which is free.

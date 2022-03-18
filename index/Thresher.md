@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 25258
+revid: 25337
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -8,8 +8,7 @@ categories: [Monsters, Enemies]
 
 # Thresher
 
--   King Thresher
-    
+**Thresher:**
 
 # Thresher
 
@@ -51,6 +50,8 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 -   The go-to mob to farm for high levelled players.
 -   You can just walk back from them to avoid their attacks. They have a pretty short effective range and can be easily kited.
     
+
+**King Thresher:**
 
 # King Thresher
 

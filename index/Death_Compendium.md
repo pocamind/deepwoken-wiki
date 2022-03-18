@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 25269
+revid: 25325
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,6 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Burn to death.
 -   Fall to death.
 -   Have both your stomach and thirst meter at 0. \[Starve / Die of Dehydration\].
--   Be auto-excecuted, such as by the [Talents](Talents.md) Lethal Force, Lethal Precision, or In Twain.
 -   Lose all of your skulls in the [Arena.](Chime_of_Conflict.md)
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
 -   Instantly die to the [Lionfish’s](Lionfish.md) Cero blast.
@@ -35,10 +34,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Fail the parry check in the [Trial of One.](Trial_of_One.md)
 -   Die to a Sand/Snow Knight’s slash.
 -   Many of the [Ferryman’s](The_Ferryman.md) moves instakill, such as his javelins.
--   Some strong mantras that ragdoll you like [Wind Gun](Galebreathe.md) or [Strong Left](Attunement-less.md) all execute at low health.
--   Killed by exploiter
--   Failing Aelitas Quest and not have enough health to survive the fall.
--   Getting automatically executed by one of The Duke’s many Wind Mantras.
--   Die to the acid rain of Upper Erisia.
--   Trying to threaten [Akira](Akira.md) without 100 charisma (Picking 2nd option in his random encounter).
+-   Getting automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many Wind Mantras.
+-   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
+-   Trying to threaten [Akira](Akira.md) and failing to meet the Charisma requirement. (Picking 2nd option in his random encounter).
 -   This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.

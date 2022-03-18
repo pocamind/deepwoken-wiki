@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 25281
+revid: 25324
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -140,10 +140,10 @@ These mantras have no prequisites.
 
 (★★★)
 
- | Send ice rippling out in a shockwave. | Forms an ice pillar in front of the player.
+ | Send ice rippling out in a shockwave. | Forms a beacon infront of the player.
 
--   Pillar pulsates blue shockwaves that knockback and chill enemies inside it.
--   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](https://deepwoken.fandom.com/wiki/Luck%7C)
+-   A wave of ice periodically ripples out of the beacon, applying frost damage and pushing back anyone hit.
+-   This is a legendary mantra
 
  |
 
@@ -184,10 +184,11 @@ Impale/Impact
 
 (★★★)
 
- | Skate freely on paths of ice. | Creates a large ice platform and slides them quickly forward.
+ | Skate freely on paths of ice. | While on or above water, create a frozen platform that you slide on at a high velocity.
 
--   _Can only be used in or on top of water._
--   Leaves ice where the Mantra is casted.
+-   Knocked players cannot be held while this mantra is active
+-   A legendary card "Frozone" allows the user to cast this mantra anywhere, including the Depths
+-   This is a legendary mantra
 
 (Frequently doesn't work even in water)
 

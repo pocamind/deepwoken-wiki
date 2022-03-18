@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25211
+revid: 25333
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Armors, Character]
@@ -53,23 +53,23 @@ The most common and effective way to repair an outfit is at a Blacksmith. This w
 
 ### Starter
 
-_Deepwoken_ currently has 9 Starter Outfits that have been discovered.
+_Deepwoken_ currently has 10 Starter Outfits that have been discovered.
 
 ### Adept
 
-_Deepwoken_ currently has 15 Adept Outfits that have been discovered.
+_Deepwoken_ currently has 19 Adept Outfits that have been discovered.
 
 ### Expert
 
-_Deepwoken_ currently has 9 Expert Outfits that have been discovered.
+_Deepwoken_ currently has 10 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 4 Master Outfits that have been discovered, Archmage has confirmed there are 5 master fits in game, go find the last one!
+_Deepwoken_ currently has 6 Master Outfits that have been discovered, Archmage has confirmed there are 5 master fits in game.
 
 ### Unique
 
-_Deepwoken_ currently has 1 Unique Outfit that has been discovered.
+_Deepwoken_ currently has 3 Unique Outfits that has been discovered.
 
 ## Armor
 

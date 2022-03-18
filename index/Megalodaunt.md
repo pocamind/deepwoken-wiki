@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 25064
+revid: 25336
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,13 +8,6 @@ categories: [Pages with broken file links, Monsters]
 
 # Megalodaunt
 
-_Commonly referred to as Shark, Sharko._
-
-“ URAOblOblOOblWAUUGH ”
-
-― Megalodaunt Roar
-
-  
 Template:Creature Infobox V3 Template:Creature Infobox V3 Template:Creature Infobox V3
 
 ## Description

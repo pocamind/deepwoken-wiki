@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25245
+revid: 25345
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -263,11 +263,22 @@ These Talents are mainly aimed at making assassination much more potent, especia
 ### Darksiphon
 
 -   Dark God \[Generic Talent, Shadowcast Exclusive\] If opponent runs out of Ether to drain, you can drain from their reservoir. (+1 Elemental Intensity, 3+ Health)
--   Dark Rift \[Generic Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
+-   Dark Rift \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Dark Hours \[Generic Talent, Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
     -   Shadowcast deal 20% more damage at night.
 -   Devour \[Generic Talent, Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves (+3 Elemental Intensity, +3 Health)
+-   Dark Synergy \[Generic Talent, Shadowcast Exclusive\] Engulf your enemry in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
+-   Overwhelming Drain \[Generic Talent, Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
+    -   Prerequisites: Shadow Eruption
+-   Shadow Overflow \[Generic Talent, Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity, +1 Health)
+
+### Death Speaker
+
+-   Blackhole \[Rare Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity, +3 Health)
+    -   Prerequisites: Singularity
+-   Energy Siphon \[Generic Talent, Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected. (+1 Elemental Intensity, +3 Health)
+    -   Prerequisites: Singularity
 
 ### Deepwoken
 

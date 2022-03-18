@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25289
+revid: 25304
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -20,11 +20,11 @@ Normal Resonances are the basic version of each Resonance, and the most common, 
 
 ### Resonance Variants
 
-Resonance of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose, such as a Instant-grip AOE becoming ranged, instead of melee, but still having the same function of being an Instant-grip AOE. Variants are not able to be changed or swayed in any way, so its up to chance what variant of what Resonance someone obtains, however, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page.
+Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose, such as an Instant-grip AOE becoming ranged, instead of melee, but still having the same function of being an Instant-grip AOE. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page.
 
 ### Corrupted Resonance
 
-**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, however are rarer and stronger, and are signified with a bluish-purple circle upon obtainment.
+**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, however, are rarer and stronger, and are signified with a bluish-purple circle upon obtainment.
 
 Corrupted Resonances give substantial buffs accordingly to their purpose, such as Resonances that deal damage becoming stronger, or mobility Resonances going further. They are just a generally immense boost in power, having both broad buffs that effect all Corrupted Resonance, and also unique buffs that enrich the specific Resonance's purpose.
 
@@ -40,7 +40,7 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 ### **Legendary Resonance**
 
-**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances, but are massively rarer and powerful than both normal and Corrupted Resonances, and are signified with a yellow aura upon obtainment.[\[1\]](https://deepwoken.fandom.com/wiki/Teleportation) The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the most rare occurrences possible.
+**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances and are signified with a yellow aura upon obtainment.[\[1\]](https://deepwoken.fandom.com/wiki/Teleportation) The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the rarest occurrences possible.
 
 ### Tarnished Resonances
 
@@ -116,7 +116,7 @@ File:Arch says Wishes have cooldowns.png
 
 ## Bell Cosmetic
 
-Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime or a sleigh bell. They can also be of varying colors, ranging from yellow, green, red, black.
+Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, black and purple.
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 24650
+revid: 25344
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -46,6 +46,7 @@ Sacred field is unique in its variation system in that there are many parameters
 -   Size
 -   Duration
 -   Color
+-   **WARNING: Sacred field has a chance to be very small making it potentially the worst bell, if you have a decent bell and are considering rerolling for sacred, keep this in mind.**
 
 #### _Corrupted_
 
