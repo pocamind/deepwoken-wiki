@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 24493
+revid: 25413
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -21,7 +21,7 @@ categories: [Resonance]
 
 **Payback,** also known as Full Counter, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
-### Look Like
+### Appearance when Used
 
 When used, a green circle appears around the user and shrinks until the Resonance finishes.
 

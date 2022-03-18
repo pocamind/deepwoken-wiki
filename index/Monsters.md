@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 25188
+revid: 25415
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -142,6 +142,8 @@ Calculating how much health a Monster has from just your damage alone won't be c
 Let's say you have a weapon that deals 40 damage per swing, and you're Power 50. This means that a Monsters health is basically reduced 500% when fighting you, or you could see it as you're dealing 500% more damage to Monsters.
 
 A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to a fresh spawn with a weapon that does 20 damage, having to hit it 50 times, just for how big of a reference the PVE scaling makes. In all actuality, your actual damage is less important than simply being a high power.
+
+To check the actual HP of monsters including PvE scaling, i think the formula is A÷B% (A being the monsters HP in total and B% being your power, so for example, a sharko would only have 166 HP against a power 60 player. Its a bit janky at times when Kaido has a HP of 8333. and the most damage we can do is 65, which would mean you would need to hit kaido over 100 times just to kill him, but this is the closest way to check the HP of enemies right now)
 
 ## Notes/Trivia
 

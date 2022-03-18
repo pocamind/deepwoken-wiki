@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 25351
+revid: 25397
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -52,7 +52,8 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour.
     -   Prevents your attacks/mantras from getting cancelled.
-    -   Requirements: 75 Fortitude, Fortitude Unbound, _Fortitude Support Mantra_  
+    -   Requirements: Fortitude Unbound, _Fortitude Support Mantra_
+    -   The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements)  
         
 
 ### _**Agility Mantras**_

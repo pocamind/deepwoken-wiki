@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 20606
+revid: 25418
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,8 +21,8 @@ Their arsenal consists of a Dagger and [Shadowcast](Shadowcast.md):
 
 -   **Dagger Attack**: Common dagger M1's, can be easily parried.
 -   **Mudskippermancing**: The Cultist instantaneously summons 3 [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until the Mudskippers are killed. These ones are slightly more intelligent, as they will rarely try to block sometimes.
-    -   Red-robes are mudskippers have "[Flamecharm](Flamecharm.md)" as their attunement. These throw fireballs.
-    -   Blue-robes are mudskippers have "[Frostdraw](Frostdraw.md)" as their attunement. These summon Warden Blades, a Frostdraw mantra.
+    -   Red-robed mudskippers are called "Redskippers" and have "[Flamecharm](Flamecharm.md)" as their attunement. These throw fireballs.
+    -   Blue-robed mudskippers are called "Blueskippers" and have "[Frostdraw](Frostdraw.md)" as their attunement. These summon Warden Blades, a Frostdraw mantra.
 -   **Shadow Roar**: Exhale a giant cloud of shadow, it deals constant damage and ether drain per second to anyone who are involved in the area. Can be both blocked and parried.
 
 ### **Boons:**

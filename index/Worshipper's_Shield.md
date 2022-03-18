@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 20931
+revid: 25398
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,8 +30,9 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Worshipper's Shield can be obtained by buying it from Lance's Food in [Etris](Etris.md) and requires 45 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md) and [Kite Shield](Kite_Shield.md).  
+The Worshipper's Shield can be obtained by buying it from Lance's Food in [Etris](Etris.md) or getting it from a [Songseeker](Songseeker_Wilds.md) chest and requires 45 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md) and [Kite Shield](Kite_Shield.md), but still lower than the [Khan Shield](Legion_Shield.md).  
 
 ## Notes
 
--   Found inside the restaurant in [Etris](Etris.md) next to the man who can teach you Pleeksty's Will if you are not a Flamecharmer.
+-   Can be bought inside Lance's Food in [Etris](Etris.md) to Ploom's right
+-   Can also be obtained from [Songseeker Wilds](Songseeker_Wilds.md) chests
