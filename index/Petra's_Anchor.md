@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 25379
+revid: 25483
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -36,5 +36,4 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 ## Notes & Trivia
 
 -   Probably a reference to Totsugeki May from _Guilty Gear_.
-    -   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.
-    -   VERY unlikely, but could be a reference to Popeye because he has a anchor tattoo on his forearm.
+-   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.

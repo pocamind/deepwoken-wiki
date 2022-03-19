@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25448
+revid: 25488
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -13,28 +13,19 @@ categories: [D]
 _Warning, these are not guaranteed and there is no official known way to obtain these._
 
 -   Wiping at a high level
-
 -   Chance after completing the [Trial Of One](Trial_of_One.md) (Does not have to be completion I died on Sand Knight but still have it)
-
 -   Most likely just a chance when wiping (I got Animal King on a slot where I had only wiped once before, both at level 1.)
-
 -   Wiping at an older age (28+) (Likely false, wiped at age 34 and didn't get anything -Jeni)
-
 -   Following some hidden guide on how to get these talents, as apparently they have obtainment methods.
 
 ## Mute (Animal King)
 
 > _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." -Fallout 3 Animal Friend Description._ Animal king isn't really an accurate name since it's all depths related mobs (shadow magic humanoid npcs) but the name was popularized by LordSendo's video
 
-Monsters and certain enemies will be neutral to the player unless provoked. The creatures of the depths **will not** attack the player. (This excludes [Stone Knights](Stone_Knight.md) & [Erisia Golems](Rock_Golem.md), possibly others.)
+Most monsters become neutral to the player. Attacking them will make them aggro the player, however, not hitting them for 15 seconds will have them unaggro the player (similar to town guards when angered)
 
--   NPC's that resemble humans ([Enemies](Enemies.md)) **will still** attack the player. The only known NPCs that resembles humans that will not attack those with the talent are [Ministry Scouts](Ministry_Scout.md) and [The Enforcer](Enforcer.md).
--   Animal Bosses **will not** attack you, including Primadon.
--   ~Possible reduced item drops in chests? (I'm power 30 and still only get 8 amethyst / 5 sapphire in chests, not sure if I am unlucky.)~ Chest loot seems to be completely unaffected, but we all get unlucky sometimes.
--   The best talent for Sharko-simps to get up close and personal.
--   Is actually confirmed to be called **"Mute"** but that name is lame.
--   NPCs related to the depths will not attack you (e.g Megalodaunt, Lionfish etc, not sure about this one)
--   You will keep Animal king no matter how much times you wiped yourself after obtaining it.
+-   Most monsters (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This include [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
+-   Humanoid Enemies will still aggro the player on sight, with the exception of the Ministry Scouts in Minityrsa
 
 ### Theorised Obtainment:
 

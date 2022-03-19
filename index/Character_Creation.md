@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 25400
+revid: 25495
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character]
@@ -8,37 +8,41 @@ categories: [Character]
 
 # Character Creation
 
-Deepwoken provides many ways to customise your character. There are a range of attunements, races, .etc
+The game provides many options to customise your character. There is a variety of attunements, races, weapons and more for you to choose from.
 
 ## Races
 
-There are many [races](Aspects.md) within the world of Deepwoken, each player starting out with a [race](Aspects.md) at random per character slot. You can pay 150 robux for a race reroll, and many agree that races do not provide major advantages to gameplay.
+The world of Deepwoken presents many [races](Aspects.md), with each one of them having its own lore and origin. As a player, you start on each character slots with a random [race](Aspects.md) assigned to you by the game automatically. If you want to change your [race](Aspects.md), you may re-roll it by buying an in-game service for 150 Robux (R$).
 
-Currently, there are 10 obtainable races in Deepwoken, each providing various utility abilities and skills to the player.
+Unlike in other games, [races](Aspects.md) do not give a player major advantages over other players. However, some races do have special abilities related to the lore of the specific race. _(Celtors get a discount when repairing their ship and Capras get racial support abilities that can be used to support players)_
 
-Depending on your race you can choose from a variety of scars, skin/hair colours, masks and hats. (Do note your hair is the same as your roblox avatar)
+Currently the game contains a total of **ten** obtainable [races](Aspects.md), with their own special abilities, cosmetics, appearance and accessories that can change depending on the [race](Aspects.md). Scars, eyes and face design is mostly the same for each race, with some exceptions.
 
-More info can be found on the [Races](Aspects.md) page
+### Obtainable Races
+
+_\[More information about [races](Aspects.md) can be found on their corresponding [page](Aspects.md).\]_
 
 ## Attunements
 
-Upon character customization, you can choose from 5 different [attunements](Attunements.md). You can only pick one, and you will only be able to choose from the 4 Elements the first time you create a character.
+Upon your first character customization, you can either choose an [attunement](Attunements.md) out of the four available ones (Flamecharm, Frostdraw, Thundercall and Galebreathe) or you can choose the option "None" to start the game without without it. Choosing the option "Random" will casually select an [attunement](Attunements.md) for you out of the four already present ones (this option will not save the selected [attunement](Attunements.md) on your character slot for your next character).
 
-Choosing Random gives you any of the 4 attunements even if you already picked one. However, the next time you create your character in that slot it will not save.
+To obtain the [Shadowcast](Shadowcast.md) [attunement](Attunements.md), you need to unlock it with a specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters in that specific slot (the same way any other [attunement](Attunements.md) unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding Spelltrainers).
 
-[Shadowcast](Shadowcast.md) can only be unlocked, after you unlock it you will be able to choose it when creating your character. Other attunements can be unlocked during gameplay, up to a maximum of 2 attunements per character can be kept for when you create. However your base and any unlocked attunements will become selectable during character selection, becoming permanent progression.
+Each character may have a maximum of two [attunements](Attunements.md), one selected from the customization menu and one learned from a Spelltrainer.
 
-More info can be found on the [Attunement](Attunements.md) page
+### Unlockable Attunements
 
-## Weapon Classes
+_\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
-In Deepwoken, there are 3 types of weapons. Heavy, Medium and Light. Weapon Manuals only train the type of weapon you are using, so picking a class is vital to your progression and build.
+## Combat Styles
 
-You will be able to choose which you can start with:
+When customizing your character, there is a total of three combat styles you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_. _(Weapon Manuals do not teach you a new combat style, but they allow you to train the type of style of the weapon you are currently using. To change your combat style you need to equip the specific weapon corresponding to your desired style)_
 
--   As of the update on 3/12/22, Unlocking the [Way of Navae](Way_of_Navae.md) on a character will allow that slot to choose it as a starting weapon moving forward
+### Unlockable Combat Styles
 
-More info can be found on the [Weaponry](Weapons.md) page
+_\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
+
+-   _As of the update on 3/12/22, learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
 
 ## Boons and Flaws
 
