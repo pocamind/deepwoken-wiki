@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25444
+revid: 25457
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -264,13 +264,6 @@ An Etrean Guard, part of the Nation of Etrea
 -   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, who worship the goddess(?) Navae.
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 
-### The Old Stewards
-
--   An organization that preserves what's left before the tides came, practically Historians. They are not to be confused by The Pathfinders.
--   The Old Stewards created The Old Texts.
--   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.  
-    
-
 ### The Hundreds Legion
 
 -   **Territory:** Western Luminant
@@ -493,7 +486,11 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
 
-  
+### The Old Stewards
+
+-   An organization that preserves what's left before the tides came, practically Historians. They are not to be confused by The Pathfinders.
+-   The Old Stewards created The Old Texts.
+-   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
 
 ### The Pathfinders
 

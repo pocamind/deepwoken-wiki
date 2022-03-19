@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 23838
+revid: 25450
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -61,7 +61,7 @@ Charisma, Rare
 -   ~You cant make a vow on the same person, even if you originally had a vow, and you got wiped, and they lived, you cant make a vow with them again.~ This is false.
 -   You can still get Vow of Mastery with the Oathless Talent.
 -   _Return_ can save someone from being gripped, but not from being carried.
--   _The Fight, Return and Live_ have cooldowns them being 3 minutes for Fight 20 seconds for Return and 1 hour for Live
+-   _The Fight, Return and Live_ have cooldowns them being; 3 minutes for Fight, 20 seconds for Return, and 1 hour for Live.
 
 -   ~TIP: Sometimes someone will ask you something where you would say yes (for example if he sees you use a dagger he asks if you use light weapons) and immediately say "wanna make a vow of mastery?". That's a way of tricking people into agreeing to a Vow Of Mastery. So, be careful if someone asks you something where you would agree or say yes!~ Not really important because you get a ui prompt even when you say yes.
 -   TRUST NOBODY!!!

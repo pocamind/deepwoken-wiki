@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25442
+revid: 25456
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -539,7 +539,6 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Mark of the Lone Warrior \[Generic Talent, Legendary Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
     -   2x EXP gain for Power and every [Attribute](Attributes.md).
     -   Pre-requisite: Obtained by finishing the [Trial of One](Trial_of_One.md).
-    -   ~Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.~ This is not true Arch confirmed it.
 
 ### Marauder
 

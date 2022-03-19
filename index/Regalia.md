@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25380
+revid: 25448
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -21,8 +21,6 @@ _Warning, these are not guaranteed and there is no official known way to obtain 
 -   Wiping at an older age (28+) (Likely false, wiped at age 34 and didn't get anything -Jeni)
 
 -   Following some hidden guide on how to get these talents, as apparently they have obtainment methods.
--   OKAAAAAAAY paragraph time! Have ya ever shiny hunted using the misudo method? well the same logic applies, this theory Is the idea that every player is given a name and surname combination on each of their slots that equates to having or not having a regalia if this is true FUCK YOU ARCH THERES LIKE OVER A MILLION COMBONATIONS  
-    
 
 ## Mute (Animal King)
 
