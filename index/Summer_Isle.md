@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 25176
+revid: 25468
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -38,7 +38,7 @@ The Summer Isle's main attractions are the firearms, which can be found inside t
 
 Notes:
 
--   Bullets are required for the player to use the critical attack, if the player doesn't have bullets it will consume ether instead.
+-   Bullets are required for the player to use the critical attack unless they have Ether Bullets talent. If the player doesn't have bullets, it will consume ether instead.
 -   They're currently the only known weapons to have a critical attack that travels a long distance.
 -   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating five bullets.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
@@ -171,7 +171,7 @@ Asius can be found in the circular structure found behind the Inn if you follow 
 
 Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
 
-Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, ~but also a new Gun Technique, which is a talent called Armor Piercing.~ _I did the quest and did not the get the talent. I had dual guns and shortly after, I rolled Armor Piercing. The reward may be that you are able to roll Armor Piercing after completing the quest. It's a rare btw._
+Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, ~but also a new Gun Technique, which is a talent called Armor Piercing.~ _I did the quest and did not get the talent. I had dual guns and shortly after, I rolled Armor Piercing. The reward may be that you are able to roll Armor Piercing after completing the quest. It's a rare btw._
 
 -   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
 

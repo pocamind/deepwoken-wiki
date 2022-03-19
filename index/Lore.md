@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25457
+revid: 25470
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -411,7 +411,7 @@ A Peacekeeper Commander, part of The Authority
 ### The Divers
 
 -   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
--   **Attunements:** _Flamecharm_
+-   **Attunements:** _Flamecharm, Frostdraw (Akira)_
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
 -   **Enemies:** _???_
 -   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue)_

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 25145
+revid: 25471
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -108,6 +108,6 @@ There is no level requirement to joining [the Divers](The_Divers.md), I was able
 
 -   He has a purple colored [bell](Resonance.md), it is unknown if he used this to kill the Ignition Union members or its simply a known/unknown [resonance](Resonance.md). Since it has purple effect on use, it may be Corrupted.
 -   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons something that could be called an Ice Wisp above him, before it fires a laser across the ground in front of him, creating a line.
--   He is a Black Diver, in lore there is little to none of them, and he, the [Frostdraw trainer](Attunement_Trainers.md) located in Etris and the [Thundercall Trainer](Attunement_Trainers.md) located in the Summer Isles are the only known NPCs that are Black Divers.
+-   He is a Black Diver, in lore there is little to none of them. The frostdraw and thundercall trainers may also be Black Divers, but it is unconfirmed.
 
 DM Enklerical#2225 for any other info on NPC or with information that isnt on this page.
