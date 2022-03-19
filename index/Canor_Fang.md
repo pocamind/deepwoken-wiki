@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 20824
+revid: 25434
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -31,4 +31,4 @@ categories: [Weapons, Weaponry]
 
 ##### _"No it's not an actual Canor's Fang."_
 
-The Canor Fang is a dagger weapon which has a base stat of 11 damage and 5% penetration against armor and high swing speed though it does less damage than most knifes and has only 5% penetration so its pretty mid when it comes to stats.
+The Canor Fang is a mythical dagger weapon which has a base stat of 11 damage and 5% penetration against armor and high swing speed. With a only 11 damage and 5% penetration, I recommend to NOT use this weapon. Only use when you have nothing else to use.

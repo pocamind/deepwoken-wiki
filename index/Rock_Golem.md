@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 25363
+revid: 25433
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -74,4 +74,4 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 
 -   Occasionally a Megalodaunt and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 -   Do not block it's Spinning attack, as it will shred your posture quickly. However, parrying said move gives a lot of exp, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
--   These are known to attack you regardless if you have Animal King or not, likely due to their nature as constructs rather than animals.
+-   These are known to attack you regardless if you have Animal King or not, likely due to their nature as servants of the duke, not the deep.

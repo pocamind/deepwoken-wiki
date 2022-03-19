@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25391
+revid: 25442
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -110,7 +110,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   Obtained after fishing 10(?) times successfully.
-    -   Prevents you from getting seaweed
+    -   ~Prevents you from getting seaweed~ You have more chances for getting good items.
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
     -   Obtained after fishing ? times successfully.
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
@@ -205,7 +205,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20(?) Intelligence
 -   Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30(?) Intelligence
-    -   Refund 15% of the casted mantra.
+    -   Amount of Ether refunded depends- some perfect casted mantras will have complete ether restoration, some do not.
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
@@ -241,6 +241,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Critical Specialist
 
 -   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\]
+-   Prerequisite: 30 Light
+-   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health) \[NOTE: When Procced Hits Enemy An Extra Hit\]
+-   Prerequisite: 75 Light Dagger
 
 ### Cryomancer
 
@@ -335,6 +338,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Falling Star Guard
 
 -   Thorns of Fire \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity, +3 Health)
+-   Prerequisites: Flame Repulsion
 -   Meteor Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
 -   Phoenix Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisite: Meteor Impact
@@ -417,6 +421,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
+    -   Is not applied retroactively. Only mods added to mantras after obtaining this talent while have the reduced ether cost.
     -   Prerequisite: The sum of Intelligence, Willpower or Charisma equal to 40 (apparently Fortitude also works)
         -   Example: 30 Intelligence and 10 Charisma will get you Neuroplasticity.
     -   The latest update made it have a requirement (?)
@@ -438,17 +443,20 @@ These Talents are meant to improve your overall combat effectiveness.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
     -   Guns now deal Elemental Damage.
         -   Guns apply your attunement's elemental effect:
-            -   Flamecharm: Your bulllets burn
-            -   Frostdraw: Your bullets slow
+            -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
+            -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
             -   Thundercall: Your bullets electrify
             -   Galebreathe Your bullets after cut
-            -   Shadowcast: Your bullets engulf enemies in shadow
-                -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
+            -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
+    -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 
 ### Heretic
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal.
+    -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 3 seconds.
+        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, bloodless gem, campfire regen, Blood Scourge Resonance heal.
+    -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 50 Willpower and 50 Intelligence
         -   Could be higher or lower, not confirmed yet.
 
@@ -816,6 +824,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the ability to incinerate your self when down. (+5 Elemental Intensity, +1 Health)
 -   Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health)
     -   Automatically summon a fire explosion similar to Fire Repulsion.
+    -   Prerequisites: Flame Of Denial
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: 40 Flamecharm & 40 Willpower
 -   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.

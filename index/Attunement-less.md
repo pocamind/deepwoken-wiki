@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 25397
+revid: 25420
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ Attunement-less mantras consist of mantras that are chosen based of your attribu
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
--   **Strong Left** - A powerful, flinging punch that shatters the air.
+-   **Strong Left** - A powerful, flinging punch that shatters the air. _"Falcon... PAUNCH"_
     -   Requirement: 6 Strength, _Strength Combat Mantra_
     -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
     -   Unlike other mantras, Strong Left scales with your strength level.
@@ -134,6 +134,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Requirement: 6 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
+    -   Unlike other weapon mantras, this move isn't a main damage dealer. Instead, it dazes your opponent when they hit the ground.
 
 ## Upgrading Mantras
 

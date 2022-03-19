@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 25262
+revid: 25423
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -126,19 +126,20 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 ### [Weapons](Weapons.md)
 
--   [Apprentice's Rapier](Apprentice_Rapier.md)
--   Master Hawk's Handaxe
--   [Champion's Sword](<Champion's_Sword.md>)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
--   [Khan Shield](Legion_Shield.md)
--   [Legion Cestus](Legion_Cestus.md)
--   [Nemit's Sickle](<Nemit's_Sickle.md>)
--   [Pale Morning](Pale_Morning.md)
--   [Sacred Hammer](Sacred_Hammer.md)
--   [Shattered Katana](Shattered_Katana.md)
--   [Tanto](Tanto.md)
--   [Forgotten Gladius](Forgotten_Gladius.md)
+-   [Apprentice's Rapier](Apprentice_Rapier.md) (uncommon)
+-   Master Hawk's Handaxe (rare)
+-   [Champion's Sword](<Champion's_Sword.md>) (uncommon)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md) (very rare)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (very rare)
+-   [Khan Shield](Legion_Shield.md) (very rare)
+-   [Legion Cestus](Legion_Cestus.md) (uncommon)
+-   [Nemit's Sickle](<Nemit's_Sickle.md>) (common)
+-   [Pale Morning](Pale_Morning.md) (rare)
+-   [Sacred Hammer](Sacred_Hammer.md) (rare)
+-   [Shattered Katana](Shattered_Katana.md) (very rare)
+-   [Tanto](Tanto.md) (very rare)
+-   [Forgotten Gladius](Forgotten_Gladius.md) (rare)
+-   Iron Cestus (common)
 
 ### Miscellaneous
 

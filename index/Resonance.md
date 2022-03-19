@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25304
+revid: 25436
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -88,17 +88,17 @@ As stated before, Progress is obtained in all the ways Luck is, and just like Lu
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [The Ferryman](The_Ferryman.md) (Not recommended, due to giving incredibly low amounts of progress, and being a very long fight.)
+-   [The Ferryman](The_Ferryman.md) (Not recommended, due to giving incredibly low amounts of progress)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Duke](Duke_Ishamon_Erisia.md)
--   [The Enforcer](Enforcer.md) (Not Recommended, for obvious reasons of The Depths and having to do the entire Trial over and over.)
+-   [The Enforcer](Enforcer.md)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended, due to randomness of abilities, very specific spawn window, high risk, and low amount of Progress granted.)
 
 ### Other:
 
--   Corrupted Monsters (Not Recommended, as it unironically takes about 300-500 of them for a Resonance, with the obvious dangers of The Depths.)
--   Players (Recommended, as freshies give the most amount of bell exp around unironically taking approximately 250 for a bell)
--   ~Fishing is rumored to give some decent bell progression~  ??????
+-   Corrupted Monsters (Not Recommended)
+-   Players \[Chime of Conflict\]
+-   Catching Golden Fish (Unconfirmed)
 
 ## Re-rolling
 

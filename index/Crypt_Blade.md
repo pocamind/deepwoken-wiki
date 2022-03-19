@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 25361
+revid: 25439
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
@@ -38,4 +38,4 @@ The **Crypt Blade** is a legendary weapon and is currently the best usable heavy
 -   Hitting someone with a running attack will cause the Fear talent to activate, which causes them to not be knocked back by your running attack, allowing seamless running combos.
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons, Crypt Blade doesn't have any surviving Enchanted counterparts.
 -   Crypt Blades can also be dropped from [The Duke](https://www.youtube.com/watch?v=ARePhH_5INA).
--   If you don't invest any fortitude to your stats. I highly suggest that you run if you see a Crypt Blade user they will violate you in 6 swings.
+-   If you don't invest any fortitude to your stats, I highly suggest that you run if you see a Crypt Blade user, as they will violate you in 6 swings.

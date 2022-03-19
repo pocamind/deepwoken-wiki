@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 25272
+revid: 25431
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Mantras]
 # Shadowcast
 
 "No ether?"
+
+Lol hows it feel having no ether and no reservoir
 
 ## Description
 

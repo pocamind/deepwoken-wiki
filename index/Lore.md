@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25205
+revid: 25444
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links]
@@ -388,6 +388,7 @@ A Dark Mage, located in Minityrsa.
     -   Canors were once a major part of their military, but appear to have been phased out for the most part
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea
+-   The authority may cause another Drowning due to their ambition and greed similar to what happened to celtor.
 -   They purchase firearms from The Summer Company
     -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses
 -   The Central Authority (as of we know now) use 3 attunements, and has their own role.

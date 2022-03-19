@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 25179
+revid: 25447
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -99,7 +99,6 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 -   If 4 or more players attempt to escape, they may be prompted to "thin their numbers." This means forcing players to slaughter each other until only 3 remain, only then will the Trial begin.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
--   Potentially there are more factors involved in the monster you will fight since I have escaped out of the depths twice at level 12 for free.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.  
         
@@ -240,14 +239,6 @@ Legendary = Gold
 </tbody>
 </table>
 
-## Trivia/Notes
-
--   You can gain luck by killing players or corrupted [Monsters](Monsters.md) in the Depths.
--   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
--   You can use 5 Umbral Obsidian to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
--   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
--   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
-
 ## Tips
 
 -   Adaptation to the Depths is mandatory and inevitable in Deepwoken. If misfortune on the surface proves unavoidable then your ability to strive in the Depths has to be sufficient. Learning the ways of vanquishing each and every of the Depths' monsters, learning the layout, learning to avoid unwinnable conflicts, succeeding in the Trials 100% of the time and more are part of your adaptation to the Depths. It is one of the most important parts of Deepwoken and can be extremely rewarding so long as you can deal with the risks involved.
@@ -260,6 +251,13 @@ Legendary = Gold
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
 
-## _Trivia_
+  
 
+## Trivia/Notes
+
+-   You can gain luck by killing players or corrupted [Monsters](Monsters.md) in the Depths.
+-   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
+-   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in The Depths. Permanently unlocks the Shadow Magic for future lives.
+-   Staying in the Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower), you rip your eyes out and die.
+-   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
