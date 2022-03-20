@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25545
+revid: 25589
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -13,6 +13,7 @@ notices:
 ## Armors/Equipments
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
+-   **Providence coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from _Devil May Cry series_.
 
 ## Attunements
 
@@ -35,9 +36,16 @@ notices:
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 
+### **Attunementless**
+
+-   Prediction may be reference to [Accelerator's](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) redirection ability from _Toaru Majutsu no Index._
+
 ## Enemies/Bosses
 
 -   The **Megalodaunt** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+-   The **[Nautiloduant](https://deepwoken.fandom.com/wiki/Nautilodaunt?)** and its drop **Odd tentacle** is a reference to
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar and might be inspired by [Beast Titan form](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
+-   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
 
 ## Resonance
 
@@ -45,15 +53,14 @@ notices:
 -   **Crazy Slots** is a reference to the Nen ability with the same name used by [Kite](https://hunterxhunter.fandom.com/wiki/Kite#Nen) from _Hunter X Hunter_.
 -   **Wind Up** is a reference to the Nen ability, Ripper Cyclotron. It is used by [Phinks](https://hunterxhunter.fandom.com/wiki/Phinks_Magcub) from _Hunter X Hunter_.
 -   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
--   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) [Flying Raijin](https://naruto.fandom.com/wiki/Flying_Thunder_God_Technique) from the anime _Naruto._
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
 
 ## Talents
 
 -   **Captain Etrea's** name and ability is a reference to Captain America.
--   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
--   **Master Baiter** name is a refrence to the (almost) exclusive ability of humans to have sexual relations with oneself, through masturbation.
+-   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._.
+-   **Boom, Headshot** is a reference to One-Hit Kill system that games have created, by forcing players to aim at the head to kill the target in one shot, also meme.
 
 ## Weapons
 
@@ -62,6 +69,7 @@ notices:
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
+-   The **Serpent's Edge** is a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) (Serpent bBreathing Pillar) nichirin sword from _Demon Slayer: Kimetsu no Yaiba._
 
 ## World
 

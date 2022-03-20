@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 25215
+revid: 25577
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -8,29 +8,73 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 
 # Mantras
 
-File:Mantraicon.png
-
 > _**Whispers from the deep beckon you...**_
 
-Considered to be the root of Ether's usage.
+## Description
 
-## Obtaining Mantras
+File:Mantraicon.png
 
-Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
+Considered to be the root of Ether's usage, mantras are basically the "spells" of Deepwoken. Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 
--   There are different rarities for mantras, the same way there are rarities for talents, Legendary, Rare, and Common. An example of a Legendary mantra would be lightning cloak.
+## Rarities of Mantras
 
-## Mantras
+There are different rarities for mantras, the same way there are rarities for talents. Legendary, Rare, and Common.
 
-Excluding Oaths, you can have a total of 6 mantras.
+### Legendary Mantras
 
-3 Combat Mantras
+-   Lightning Cloak
+-   Ice Fissures (?)
 
-1 Support Mantra
+### Rare Mantras
 
-1 Agility Mantra
+-   Bolt Piercer (?)
+-   Ice Dagger (?)
+-   Flame Blind (?)
+-   Flame of Denial (?)
 
-1 Wildcard Mantra
+**Note: These mantras are classified based on personal experience, from the various builds I have made and how likely I came across them. I do not know if these are their actual rarities or not unless explicitly stated by the developers, like with Lightning Cloak. Take this information with a grain of salt.**
+
+## Classification of Mantras
+
+You can have a total of 6 Mantras, and the classification is as follows:
+
+-   **Combat Mantras (3)** - Mantras used for combat. These will be the mantras you will mainly be using to deal damage to your opponent.
+
+-   **Support Mantras (1)** - Mantras used for utility. Can range from healing, displacement, and all sorts of other things.
+
+-   **Mobility Mantra (1)** - Mantras used for mobility. Your ability to move is increased with these mantras, allowing you to move fast, or jump very high.
+
+-   **Wildcard Mantra (1)** - Mantras that can be any type of Mantra, whether it be Combat, Support, or Mobility. This is basically an extra slot, and you can put any mantra you desire here according to your build.
+
+## Combat Usage
+
+Mantras are a key aspect of combat, and it will be incredibly important to master the usage of mantras while fighting to get the edge over your opponent. There is only so much you can do just feinting and swinging your weapon after all. The usage of mantras is what makes Deepwoken's combat very deep and engaging, with various mechanics to accompany it.
+
+### Perfect Casting
+
+Perfect Casting a mantra removes the wind-up from it, and will instantly cast it. To perfect cast a mantra, you simply need to click as soon as you select the mantra that you used. There are also various talents that require you to perfect cast in order to make use of them, like Eureka, Jolt Cast, Haunted Gale etc. It will do you well to master this mechanic.
+
+#### Mantra Cancelling
+
+Mantra Cancelling is exactly what it sounds. You cancel a mantra, which essentially feints the mantra you used. Cancelling a mantra will not put it in cooldown, but will still take the Ether required to cast it. To cancel a mantra, you need to click M2 as soon as you cast it. Some mantras require you to perfect cast it before you are able to mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed mantra cancel can lead to some crazy mix-ups.
+
+If you are a Galebreather, and you have the Inhale Talent, **abuse** this mechanic as much as possible. the Inhale SFX can really throw off people, especially if you cancel Gale Lunge in your strings.
+
+### Movestacking
+
+Movestacking a mantra with your M1 will automatically feint your M1, and will instead cast your selected mantra. If your feint is in cooldown, movestacking will put your mantra "on queue" and the animation for the mantra will start only after you have fully swung your weapon.
+
+#### Movestacking with running attacks
+
+Movestacking a mantra with a running attack will not feint it, and it does actually stack with the running attack. This happens because running attacks can't actually be feinted, thus the "auto feint" that triggers from movestacking will not apply to a running attack. This can be a very useful, but do keep in mind that running attacks are pretty obvious to react to.
+
+#### Movestacking with flourishes
+
+Movestacking a mantra with a flourish is a pretty advanced technique, and can be very useful in some situations. The moment they are knocked back from you, you can use a move with a long hitbox, something like Fire Palm or Ice Eruption to guarantee a hit and deal extra damage. Or you can use a grab, like Flame Grab or Frost Grab, in order to continue the pressure and prevent your opponent from getting knocked back from the flourish.
+
+## Types of Mantras
+
+Mantras come from the stats of your Character. Whether it be Strength, Agility, or your Attunement, there is a mantra for it.
 
 ### [**Flamecharm Mantras**](Flamecharm.md)
 
@@ -77,9 +121,9 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Goes well when paired with other elements.
 -   Typically used mid range.
 
-### **[Attunement-less Mantras](Attunement-less.md)**
+### **[Physical Mantras](Attunement-less.md)**
 
-There are also Mantras that are based off of other character attributes. This includes Strength, Fortitude, intelligence, Agility, Willpower, and Charisma.
+There are Mantras that are based off of Core Attributes, rather than your Attunement. This includes Strength, Fortitude, intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
 
 -   It has a mix of close-range spells along with multiple movement and support spells.
 -   Combining them with Attunement Mantras can result in some good combos.
@@ -87,15 +131,17 @@ There are also Mantras that are based off of other character attributes. This in
 
 ## Modifying Mantras
 
-To modify a mantra, they need to be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere, these can be placed on a mantra table, located within populated islands.
+Main Article - [Mantra Modifiers](Mantra_Modifiers.md)
 
--   Once placed on the table, the user can place alongside the mantra sparks and/or mantra modifiers.
+To modify a mantra, they need to be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere, and these can be placed on a mantra table, located within populated islands.
+
+-   Once placed on the table, the user can place alongside the mantra, sparks and/or mantra modifiers.
 -   The user can aswell modify their mantras with Deep Gems. These do not require to be placed at a mantra table, but can be directly applied to the mantra at a campfire.
--   Modification will fail when you have placed incompatible ingredients on the table. The mantra placed will return to your inventory, however the ingredient(s) will be lost.
-
-For more detailed information on mantra modification, [click here.](Mantra_Modifiers.md)
+-   Modifications will fail when you have placed incompatible ingredients on the table. The mantra placed will return to your inventory, however the ingredient(s) will be lost.
 
 ## Upgrading Mantras
+
+Main Article - [Spelltrainers](Attunement_Trainers.md)
 
 All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them.
 
@@ -109,4 +155,44 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5.
 -   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
 -   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
 
-For more detailed information on trainers/upgrading mantras, [click here.](Attunement_Trainers.md)
+## Elemental Intensity
+
+Elemental Intensity is the ability to affect the environment around you. If a mantra has a high enough intensity, it is able to break certain objects. Other than breaking objects, intensity also increases the damage of some mantras that scale off it. These include:
+
+| Mantras that scale from intensity |
+| --- |
+| 
+[Flamecharm](Flamecharm.md)
+
+ | 
+
+[Frostdraw](Frostdraw.md)
+
+ | 
+
+[Thundercall](Thundercall.md)
+
+ | 
+
+[Galebreathe](Galebreathe.md)
+
+ | 
+
+[Physical](Attunement-less.md)
+
+ | 
+
+[Shadowcast](Shadowcast.md)
+
+ |
+| Fire Palm | Glacial Arc | Grand Javelin | Air Force | Needs testing... | Needs testing... |
+
+There are surely more mantras that scale from intensity, but that needs more testing.
+
+### Obtaining more Elemental Intensity
+
+Getting Talent Cards from your Attunement is a great way to obtain more intensity. Those talents usually have intensity attached to their stats, so the more talents you get from your attunement, the more intensity you will get.
+
+#### Vibrant Gems
+
+Modifying your Mantras with Vibrant Gems will grant that mantra with more Elemental Intensity.

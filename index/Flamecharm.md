@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 25358
+revid: 25580
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -240,5 +240,3 @@ These talents are found in the "Undying Ember" catagory.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
 -   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_.
-    -   This, or the fact that blue fire is naturally hotter that the normal red/orange fire.
-        -   By this logic, White Flames could be a card added along the line of updates.
