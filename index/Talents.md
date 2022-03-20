@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25521
+revid: 25569
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -647,7 +647,9 @@ These Talents are meant to make foraging and mining grant more resources.
 These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength is required).
 
 -   Harsh Response \[Generic Talent, Common Talent\] - Enemies receive less posture back when they parry your attacks.
+
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
+    -   Prerequisite: 30 strength
 -   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
     -   Prerequisite: Unknown amount of strength. (DOES NOT REQUIRE A STRENGTH MANTRA.)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
@@ -972,7 +974,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
 
-#### Strength Mobility (40 Strength Needed)
+#### Strength Mobility (50 Strength Needed)
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
 

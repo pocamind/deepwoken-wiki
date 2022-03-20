@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 25423
+revid: 25565
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -137,7 +137,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Pale Morning](Pale_Morning.md) (rare)
 -   [Sacred Hammer](Sacred_Hammer.md) (rare)
 -   [Shattered Katana](Shattered_Katana.md) (very rare)
--   [Tanto](Tanto.md) (very rare)
+-   [Tanto](Tanto.md) (rare)
 -   [Forgotten Gladius](Forgotten_Gladius.md) (rare)
 -   Iron Cestus (common)
 

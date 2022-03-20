@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25553
+revid: 25554
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -21,7 +21,7 @@ _These are not guaranteed and there is no officially known way to obtain Regalia
 
 > _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." -Fallout 3 Animal Friend Description._ Animal king isn't really an accurate name since it's all depths related mobs (shadow magic humanoid npcs) but the name was popularized by LordSendo's video
 
-Most monsters become neutral to the player. Attacking them will make them aggro the player, however, not hitting them for 15 seconds will have them ignore the player (similar to Guards when angered)
+Most monsters become neutral to the player. Attacking them will make them aggro the player, however, not hitting them for 15 seconds will have them de-aggro on the player (similar to Guards when angered)
 
 -   Most monsters (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
 -   Humanoid Enemies will still aggro the player on sight, with the exception of the Ministry Scouts in Minityrsa.
@@ -29,7 +29,6 @@ Most monsters become neutral to the player. Attacking them will make them aggro 
 ### Theorized Obtainment:
 
 -   Something to do with wiping to monsters
--   ???
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
     -   So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it.
 

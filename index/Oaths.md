@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 25472
+revid: 25573
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -106,8 +106,9 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage that is healed when the clone expires, unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   While the clone deal fake damage, it still applies hit-stun.
+    -   Is very similar to Lightning Clone but work slightly different in execution.
 -   **Illusionary Realm - Combat Mantra**
-    -   After a slight delay, teleport you and a nearby enemy in an alternate dimension for 15 seconds.
+    -   After a slight delay, teleport you and a nearby players in an alternate dimension for 30 seconds.
     -   Damage taken in the realm is real, but 50% of lost HP while inside is restored when the realm expires.
         -   Players cannot be knocked in the realm.
     -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
@@ -120,6 +121,7 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
 -   **Mirage From the Deep - Passive**
     -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
     -   The monster can be any of the Depths spawn, including but not limited to a [Nautilodaunt](Nautilodaunt.md) or an [Owl](Deep_Owl.md) for example.
+    -   The monster share the same "Only they and yourself can see it" rule as Illusionary Servants.
 
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an **Illusionary Servants** that follow the same rules as the active.

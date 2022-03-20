@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 23925
+revid: 25566
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -76,3 +76,4 @@ Unknown
 -   This race is likely a reference to the Capra Demon, a boss in Dark Souls.
 -   One of the Capra-exclusive ornaments does not have teeth included to the mask, while the rest does.
 -   If you do not have any hair on your avatar as a Capra, you will be given a type of hair that's pretty fair-looking.
+-   Once using a Mark on another player, you will gain extra health regen, and presumably sanity/food buffs correlating to the different Marks.
