@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 23575
+revid: 25534
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,12 +27,14 @@ The Aratel Sea is a lot more violent, with frequent pirate attacks and being inh
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Greathive Aratel](Greathive_Aratel.md)
+-   [Fort Merit](Fort_Merit.md)
 
 ### Islands
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Starswept Valley](The_Starswept_Valley.md)
+-   [Aratel Island](Aratel_Island.md)
 -   [Monkey's Paw](<The_Monkey's_Paw.md>)
+-   [Summer Isle](Summer_Isle.md)
 
 ## Enemies and Encounters
 

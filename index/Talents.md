@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25456
+revid: 25521
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -689,7 +689,9 @@ Prerequisite: Charisma
 
 -   Friends in High Places \[Generic Talent, Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
 -   Salesperson \[Generic Talent, Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
--   Snake Oil \[Generic Talent, Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)Makes everything sell for 1.5x more.
+    -   Gain 1.25x more notes from selling items.
+-   Snake Oil \[Generic Talent, Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
+    -   Gain 1.5x more notes from selling items (replace Salesperson).
 -   Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice will gain a temporary buff for a short period of time (60 second cooldown) (Requirements: 35 Charisma)
     -   There is a chance for the above buff to be applied, OR you will regain all reservoir and ether back (Tested)
 
@@ -752,7 +754,8 @@ These Talent are meant to make maintaining your ship easier.
 -   Grasp on Reality \[Generic Talent, Common Talent\] - Damage taken from insanity is reduced. (+2 Health)
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
 -   Unfazed \[Generic Talent, Common Talent\] - You no longer shiver or panic when your sanity is at stake. (+2 Health)
--   Prerequisites: 50 Fortitude and 50 Willpower
+    -   Negate tier 1 insanity: Shivering.
+    -   Prerequisites: 50 Fortitude and 50 Willpower
 
 ### Survival Instinct
 
@@ -789,7 +792,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 These Talents are meant to reap the reward of your latest hunt.
 
 -   Pickpocket \[Generic Talent, Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
-    -   Prerequisite: 10 Charisma
+    -   Prerequisite: 10 Charisma + ??? Agility
 -   Cap Artist \[Generic Talent, Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Generic Talent, Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
@@ -816,6 +819,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
 -   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
 -   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
+    -   Very tight activation window + delayed activation. If you succesfully hit the shock the moment someone tries to carry you, you immediatly get unknocked and trigger related talents.
 -   Stratoschock \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
 
 ### Undying Ember

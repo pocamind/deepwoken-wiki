@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 25276
+revid: 25543
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -14,9 +14,9 @@ categories: [Pages with broken file links, Magic, Spells, Mantras]
 
 _A Thundercall infused sword_
 
-Thundercall grants the user ability to control thunder and electricity, giving them abilities which focus on combat, stunning and movement.
+Thundercall grants the user ability to control thunder and electricity, giving them abilities, which focus on combat, stunning and movement.
 
-Thundercall makes use of a highly unpredictable nature and high slow/stun potential.
+Thundercall makes use of a highly unpredictable nature with high slow/stun potential.
 
 The playstyle of this attunement is unpredictability, creativity, and speed. Most overlook it's combat capabilities, but don't be fooled, as this element allows for a lot of switch-up potential. The switch-up potential comes in it's talents that modify mantras, giving you a choice to switch things up. This ranges from having a slash after your lightning blade, all the way to insta-casting mantras after meeting certain requirements. With these talents giving you the option of instant casting to make it difficult to impossible for your opponent to react, you will be given the upper-hand forcing them to predict your next move. This attunement would most likely fit players who rely on their creativity rather than combos and brute force. It also has some talents which make this almost like a beatdown attunement, with some talents creating "stacks" upon doing certain things, or some mantras that apply buffs to the user (Most notably the lightning cloak), making the fight increasingly more difficult for the opponent as it goes on.
 

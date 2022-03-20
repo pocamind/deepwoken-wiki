@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 25518
+revid: 25532
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -295,7 +295,8 @@ Viscosity
 
  | 
 
-Damage dealt to the user is reduced and dealt over time. Large amount of stored damage will execute. You will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage). More damage you take, more damage will be dealt over time.
+Damage dealt to the user is reduced and dealt over time. Large amount of stored damage will execute. You will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage). More damage you take, more damage will be dealt over time.  
+The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP.
 
   
 

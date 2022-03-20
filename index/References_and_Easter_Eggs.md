@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25124
+revid: 25545
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -53,6 +53,7 @@ notices:
 
 -   **Captain Etrea's** name and ability is a reference to Captain America.
 -   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
+-   **Master Baiter** name is a refrence to the (almost) exclusive ability of humans to have sexual relations with oneself, through masturbation.
 
 ## Weapons
 

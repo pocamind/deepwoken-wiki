@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 20003
+revid: 25526
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,6 +25,8 @@ A boulder in front of the Antiquarian shop at Etris
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 A training vest hanging in the Antiquarian shop at Etris.
+
+-   It takes around 34-35 pumps to upgrade strength one time with a dumbbell.
 
 ### Fortitude
 

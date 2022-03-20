@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 25249
+revid: 25537
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -40,6 +40,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Unlocks Strength-related Talents and Strength Mantras.
 -   Gain Strength EXP via cutting down trees, dealing damage, parrying, or blocking.
 -   Uncapped by going to the Tomb of The Nameless Warrior, breaking past the hidden door, climbing under the coffin, and reading the book on the floor
+-   It takes around 34 pumps to upgrade strength one time with a dumbbell.
 
 ### Fortitude
 
@@ -78,7 +79,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Willpower
 
-"21" - An “Enlightened” Capra
+"I know what I must do, and I KNOW I have the strength to do it." - A brave Felinor about to gank his former guild, Unnamed.
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.

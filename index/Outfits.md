@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25511
+revid: 25540
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Armors, Character]
@@ -73,7 +73,7 @@ _Deepwoken_ currently has 3 Unique Outfits that has been discovered.
 
 ### Spec/Mod
 
-There is currently one confirmed armor under this category.
+_Deepwoken_ currently has 1 Confirmed spec/mod armor that has been discovered.
 
 ## Armor
 
@@ -93,7 +93,7 @@ Armor Pieces come in different rarities, marked by the presence and quantity of 
     RaguzaRequest7 Armor
     
     There is a secret beginner armor called 'RaguzaRequest7' and it's schematic name is 'Pathfinder Sorcerer'
--   [Proof of the _Hive Leader's Garment_ does exist.](https://www.youtube.com/watch?v=iJMNAX_K8Gc)
+-   [Proof of the _Hive Leader's Garment_ does exist.](https://www.youtube.com/watch?v=iJMNAX_K8Gc) - this outfit is based off Scaramouche from Genshin Impact.
 
 ## Speculation
 

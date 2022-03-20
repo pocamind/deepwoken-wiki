@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 25520
+revid: 25548
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -208,15 +208,17 @@ _Positive rep with the Summer Company, after delivering a box of explosives._
 Possible items found after completing Scope's quest
 
 -   [Trident Spear](Trident_Spear.md) (0-1 star)
--   Cavalry Saber (0-1 star)
+-   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
 -   [Forge Greathammer](Forge_Greathammer.md)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Serpent's Edge](<Serpent's_Edge.md>) (0-1 star)
 -   [Iron Cestus](Iron_Cestus.md)
+-   [Ritual Spear](Ritual_Spear.md)
 -   Practitioner's Earrings
 -   Burgundy/Beige/Slate Tophat
 -   Burgundy/Beige/Slate Aristocrat Coat
 -   Novice Boots
+-   Rebel's Bandana (0-1 star)
 -   (Emerald, Scarlet, Rose, Onyx, Silver) Fleet Warden Cape
 -   Amethyst(4-5)
 -   Ruby(3-4)
