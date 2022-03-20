@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25385
+revid: 25511
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Armors, Character]
@@ -77,7 +77,7 @@ There is currently one confirmed armor under this category.
 
 ## Armor
 
-Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. (**This section is severely outdated and is dire need of updates)**
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. (_**What happened to this section of the page?**_)
 
 ## Trivia/Notes
 

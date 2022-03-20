@@ -1,9 +1,9 @@
 ---
 title: Deepwoken Sounds
-revid: 24383
+revid: 25501
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Deepwoken]
 ---
 
 # Deepwoken Sounds
@@ -62,7 +62,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 31 | Ascension (Interlude) | 0:16 | [The Depths](The_Depths.md) (passing a Trial) | File:Audio-ascension22.ogg |
 | 32 | The End. | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
 | 33 | On The Shoulder Of Giants | 5:24 | Unknown | File:On The Shoulders Of Giants.mp3 |
-| 34 | A Memory of Tides | 1:13 | Behind the secret path in hive R&D | File:A Memory Of Tides.mp3 |
+| 34 | A Memory of Tides | 1:13 | N/A | File:A Memory Of Tides.mp3 |
 | 35 | Masters of the House | 2:06 | N/A | File:Masters of the House.mp3 |
 | 36 | The Gideshu March | 1:57 | N/A | File:The Gideshu March.mp3 |
 

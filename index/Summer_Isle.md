@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 25468
+revid: 25520
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -144,7 +144,7 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 
 ### NPC events:
 
--   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives.
+-   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives. Which you can turn in for a chance at good loot.
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs. \[Can now earn reputation towards the Summer Company or the Ignition Union\]
@@ -211,7 +211,7 @@ Possible items found after completing Scope's quest
 -   Cavalry Saber (0-1 star)
 -   [Forge Greathammer](Forge_Greathammer.md)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>)
+-   [Serpent's Edge](<Serpent's_Edge.md>) (0-1 star)
 -   [Iron Cestus](Iron_Cestus.md)
 -   Practitioner's Earrings
 -   Burgundy/Beige/Slate Tophat

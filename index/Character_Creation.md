@@ -1,9 +1,9 @@
 ---
 title: Character Creation
-revid: 25495
+revid: 25503
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character]
+categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
 ---
 
 # Character Creation
@@ -36,7 +36,7 @@ _\[More information about [attunements](Attunements.md) can be found on their co
 
 ## Combat Styles
 
-When customizing your character, there is a total of three combat styles you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_. _(Weapon Manuals do not teach you a new combat style, but they allow you to train the type of style of the weapon you are currently using. To change your combat style you need to equip the specific weapon corresponding to your desired style)_
+When customizing your character, there is a total of three [combat styles](Weapons.md) you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_. _(Weapon Manuals do not teach you a new [combat style](Weapons.md), but they allow you to train the type of style of the weapon you are currently using. To change your [combat style](Weapons.md) you need to equip the specific weapon corresponding to your desired style)_
 
 ### Unlockable Combat Styles
 
@@ -46,9 +46,9 @@ _\[More information about [weapons and combat styles](Weapons.md) can be found o
 
 ## Boons and Flaws
 
-[Boons](Boons_and_Flaws.md) are modifiers that you get to pick when you create your character alongside [Flaws](Boons_and_Flaws.md). These give you a benefit in gameplay, mostly being quality of life. You must have a Boon and a Flaw to create your character.
+[Boons](Boons_and_Flaws.md) and [Flaws](Boons_and_Flaws.md) are character modifiers that you pick upon character customization which can't be changed during your progression unlike some other features (you may select new [boons](Boons_and_Flaws.md) and new [flaws](Boons_and_Flaws.md) each time you make a new character). These modifiers give you benefits and detriments, commonly known as disbenefits, that affect your gameplay and your quality of life.
 
-Each flaw you pick gives you 1 point (except for Simple which gives 2) each boon requires 1 point to pick.  
+You are required to have at least one [boon](Boons_and_Flaws.md) and one [flaw](Boons_and_Flaws.md) to create your character. Each [flaw](Boons_and_Flaws.md) gives you one point that you can invest in a [boon](Boons_and_Flaws.md), with some exceptions (the [flaw](Boons_and_Flaws.md) named "Simple" gives two points).
 
 ## Starting Islands
 
