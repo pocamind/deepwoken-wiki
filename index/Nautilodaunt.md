@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 25578
+revid: 25595
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -30,20 +30,20 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 
 ### Finisher
 
--   **"Mudskipperification"** - Get squid gamed and turned into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperification"** - Get wiped and turned into a [Mudskipper](Mudskipper.md).
 
 ## **Notes/Tips**
 
+-   This enemy is extremely easy to defeat with multiple people. It only has 1000 hp and barely any armor or resistances. Just gang up on it and parry when possible.
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your crit.
 -   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder most of the bosses in Deepwoken.
 -   Do **NOT** parry trade with the Nautilodaunt because it most likely has a much higher posture pool than you will. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.
--   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (from what i've done at least).
+-   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (unconfirmed, needs testing)
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does a lot of damage.
 -   If he flourishes you, you must roll. After a flourish he will run and you and do a slide-kick. The only way to avoid it is to just dodge out of the way.
 -   Keep a distance of about 10 studs between you and him. If he gets anywhere near that radius, he will be able to hit you.
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
--   HEAVY WEAPON COMBAT TIP: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
+-   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
 -   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game.
--   Extremely rare chance to drop the sussy baka which is a legendary medium weapon with the highest damage in the game

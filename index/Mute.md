@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 25216
+revid: 25618
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,6 +18,7 @@ This basically just means you have to hit the mob first if you want them to aggr
 
 ### Neutral Mobs:
 
+-   [Mudskippers](Mudskipper.md)
 -   [Gigameds](Gigamed.md)
 -   [Megalodaunts](Megalodaunt.md)
 -   [Brainsuckers](Brainsucker.md)
@@ -27,7 +28,6 @@ This basically just means you have to hit the mob first if you want them to aggr
 -   [Deep Widow](Deep_Widow.md)
 -   [Threshers](Thresher.md)
 -   [Ministry Scouts](Ministry_Scout.md)
--   [Mudskippers](Mudskipper.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Enforcer](Enforcer.md)
 

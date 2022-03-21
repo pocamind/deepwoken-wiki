@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25569
+revid: 25613
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -185,7 +185,6 @@ These Talents are designed to make you more akin to a Tank.
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   The time where you cannot get hit while rolling is doubled.
-    -   Prerequisite: 25 Agility
 
 ### Butterfly
 

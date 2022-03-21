@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25554
+revid: 25600
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -14,12 +14,11 @@ _These are not guaranteed and there is no officially known way to obtain Regalia
 
 -   Chance after completing the [Trial Of One](Trial_of_One.md), however it is not likely that the trial must be fully completed.
 -   Most likely just a chance when wiping (Testing has shown players getting Regalia on a slot with one wipe at level 1.)
--   Wiping at an older age (28+) (Likely false, as testing wipes at a high age have resulted in no yields)
 -   Killing large swarths of certain enemies (?)
 
 ## Mute (Animal King)
 
-> _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." -Fallout 3 Animal Friend Description._ Animal king isn't really an accurate name since it's all depths related mobs (shadow magic humanoid npcs) but the name was popularized by LordSendo's video
+> _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." - Fallout 3 Animal Friend Description_
 
 Most monsters become neutral to the player. Attacking them will make them aggro the player, however, not hitting them for 15 seconds will have them de-aggro on the player (similar to Guards when angered)
 
@@ -52,7 +51,7 @@ Gain the ability to consume non-food items.
 -   Eat many types of ingredients
 -   Throw up many times
 -   Craft a certain number of different foods
--   Obtaining all Survivalist talent cards
+-   Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)
 
 ## Trivia/Notes
 

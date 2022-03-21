@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 24568
+revid: 25610
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -18,7 +18,10 @@ Boons are modifiers that you get to pick when you create your character alongsid
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Autodidact | "You get a free attribute to invest in every level." | Gain a free point every Power up, consuming an investment to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points) | 1 |
+| Autodidact | "You get a free attribute to invest in every level." | Gain a free point every Power up, consuming an investment to use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
+(THIS DOES NOT ALLOW YOU TO GO OVER THE USUAL MAXIMUM AMOUNT OF POINTS. It only makes progression faster for a time.)
+
+ | 1 |
 | Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |

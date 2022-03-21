@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25589
+revid: 25599
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -43,7 +43,6 @@ notices:
 ## Enemies/Bosses
 
 -   The **Megalodaunt** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
--   The **[Nautiloduant](https://deepwoken.fandom.com/wiki/Nautilodaunt?)** and its drop **Odd tentacle** is a reference to
 -   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar and might be inspired by [Beast Titan form](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
 
