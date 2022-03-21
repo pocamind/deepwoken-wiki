@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 25431
+revid: 25667
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -83,6 +83,13 @@ Shadow Seekers
 (★☆☆)
 
  | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether (or reservoir if the ether bar is emptied.) |
+| TO BE UPLOADED | 
+
+Rising Shadow  
+(★★☆)
+
+ | Form a Shockwave of darkness. | User Extends their hand and creates a Projectile hand That homes in on enemies, this attack can summon multiple hands to grab multiple people when the attack connects grab and raise opponents up into the air, then slam opponents into the ground, Dazing them and stealing their ether, (or reservoir if the ether bar is emptied.)  
+ |
 
 ### **Support**
 

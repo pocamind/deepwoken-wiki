@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 25573
+revid: 25688
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -113,7 +113,7 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
         -   Players cannot be knocked in the realm.
     -   **Illusionary Servants** and **Cheap Trick** deal real damage while inside the realm.
 
--   **Illusionary Counter** **\- Support Mantra**
+-   **Illusionary Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
         -   If the attacker has the Disbelief talent, the attacker and and user swap place instead.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.

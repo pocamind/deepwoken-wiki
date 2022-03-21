@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 24796
+revid: 25694
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -18,7 +18,7 @@ Template:Races-Main
 
 An alternate version of Vesperian with dark chitin and white markings, currently **unobtainable** by normal means.
 
-_This is not a race in and of itself, more so a special mask with the race._  
+_This is not an entirely different race in and of itself, more so a racial variant with special properties._  
 
 ## Lore
 
@@ -40,4 +40,4 @@ Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who l
 
 ## Notes
 
--   Arch\_Mage's Vesperian is Vesperian of The Convicts Hand, not the Primal Vesperian. But, the Primal Vesperians did originate from The Convicts Hand, which is why their appearances are similar.
+-   Arch\_Mage's Vesperian is a Vesperian from The Convicts Hand, not a Primal Vesperian. But, the Primal Vesperians did originate from The Convicts Hand, which is why their appearances are similar.

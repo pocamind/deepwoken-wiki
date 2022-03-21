@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 25519
+revid: 25666
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Talents, Attributes]
@@ -85,3 +85,4 @@ Loyalty makes combat practice and spars with housemates difficult
 -   The surnames of the Canor are noticeably German, or German inspired.
 -   Canors also seem to be known for their heavy weaponry, as the Zweihänder (Which also happens to be a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
+-   Canors are based of mereleona from black clover confirmed by arch\_mage

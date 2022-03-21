@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25649
+revid: 25668
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -61,6 +61,9 @@ Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 ### Finding out the nature of your Soul
 
 The specific requirements for obtaining a Resonance are unique to all players, which means doing certain actions can be more or less effective depending on the player's **Soul**. To find out the nature of your soul, you must find Sibex, a man with a peculiar ability to read Resonating souls. Once you talk to him, your goal will be made clear.
+
+  
+Note: Take none of this as fact. This is all speculation and is likely incorrect as there's no way to confirm it's true.
 
 | **What he says to you** |
 | --- |

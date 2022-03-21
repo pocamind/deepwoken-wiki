@@ -1,9 +1,9 @@
 ---
 title: The Divers
-revid: 25127
+revid: 25686
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Guilds]
+categories: [In progress with reason, InProgressPages, Guilds, NPCs, NPC, Npc, Locations, Dialogue, Death, Deepwoken, Reputation, Random Encounters, Races, Attunement, Armors, Attributes]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -51,4 +51,9 @@ Note: don't mess with him
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
 -   Current leader of The Divers is SoftSnowOwl
+-   Current officers of The Divers are:
+    -   Aeronautic
+    -   colddeathmaker
+    -   R0bustic
+    -   ViolaIsSilent
 -   Killing a [nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.

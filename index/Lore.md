@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 25470
+revid: 25691
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links]
+categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -205,6 +205,8 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 #### The City of the Drowned (The Depths, First Layer)
 
+**Lore Sources:** _Arch\_Mage (Discord)_
+
 _"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
 
 [Canor City](https://deepwoken.fandom.com/wiki/File:Canor_City.png)
@@ -213,8 +215,9 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
--   Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.
--   The Depths became the place souls went to after death after the great drowning, when the city of Celtor was sunk by the Celtorian Horror.
+-   ~Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.~
+    -   (Arch\_Mage) Thankfully, Arch\_Mage debunked this theory; as The City of Celtor was one of the many victims of the Great Drowning.
+-   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
 #### Markor Citadel (The Depths, First Layer)
 
@@ -751,9 +754,9 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 ### City of Celtor
 
-**Lore Sources:**
+**Lore Sources:** _Arch\_Mage (Discord)_
 
--   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
+-   Before the Tides, The City of the Drowned was once an above ground citadel, occupied by the great Nation of Celtor. Judging by its preserved conditions, The City of Celtor was prosperous and presumably famous for its Marketplace and Trade.
 -   It is unknown what purpose the cathedral would have served in a time before the tides, or if it even existed. The Cathedral of the Interstice may have formerly been one of the Interstitial Lighthouses due to the similarity between the names of the structures.
 
 ### Life before the Tides
@@ -795,14 +798,16 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Canticlysm
 
-**Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming)_
+**Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord)_
 
--   An event that occurred when the Old World has abused both the Song and its Attunements.
-    -   It is presumed that the City of Celtor was the cause of the Canticlysm; as it was a hub of corruption and greed.
+-   An event that occurred when the people of the Old World has abused both the Song and its Attunements.
+    -   (Arch\_Mage) Thanks to Arch\_Mage's posts, the Nation of Celtor was not the prime reason the Canticlysm occured, but rather a victim of its' consequences.
+    -   (Arch\_Mage) Explained by Arch\_Mage, The Canticlysm occured way before the Great Drowning of Celtor.
 -   Canticlysm, on its own terms, is a Catastrophe relevant to music.
 -   It is unknown what the Canticlysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
-    -   It is theoretically assumed that the Canticlysm lead to the rising of Tides, drowning the City of Celtor.
--   The Canticlysm lead to the destruction to the people of the Old World; and the creation of the basic Attunements.
+    -   It is theoretically assumed that the Canticlysm lead to the rising of Tides, resulting in drowning the City of Celtor.
+-   The Canticlysm lead to the destruction to the people of the Old World; and the creation of Galebreathe.
+-   (Arch\_Mage) The people of the Canticlysm used the Song, unknowingly endangering all life- awakening the Drowned Gods from their slumber.
 
 ### The Tides
 
@@ -899,6 +904,13 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 -   (Sharko Day) In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
     -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
+
+### Year 1293
+
+(Sibex Bell Check NPC, \[3/21/2022\])
+
+-   (Sibex NPC) During the cold winters of the Year 1293, a mysterious Celtor accompanied by a Wisp emitting music arrived in The Aratel Sea; located ontop of a Hivelord Statue outside of Aratel Island, near Summer Isles.
+    -   Sibex, his name was. He grants those to check their Resonance by simply listening closer to your Soul.
 
 ## Miscellaneous
 
