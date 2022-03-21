@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25598
+revid: 25649
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -48,27 +48,59 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 All Tarnished Resonance effects are listed in their corresponding Resonance page.
 
-File:Tarnish removal.png
-
-Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
-
 #### Removing Tarnished
 
 Removing Tarnished from a Resonance is indeed possible, requiring the player to travel to [Yamaketzal](Yamaketzal.md) (NPC that gives the [Chime of Conflict](Chime_of_Conflict.md) in [Songseeker](Songseeker_Wilds.md)), and paying 1000 notes.
 
+File:Tarnish removal.png
+
+Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
+
 ## Obtainment Process
 
-The specific requirements for obtaining a Resonance are unique to all players, meaning quantifying an exact number of things to do is impossible. However, the method and mechanics can be explained, as to understand it clearly.
+### Finding out the nature of your Soul
 
-Resonances are obtained by maxing an invisible stat known as Progress. The amount of Progress needed for a Resonance is random to all players, meaning each player has a unique requirement of Progress to obtain their Resonance. Progress is mostly obtained in all the same ways as [Luck](Luck.md), but they have no correlation to each other, meaning you can lose Luck and not gain Progress, or vice versa.
+The specific requirements for obtaining a Resonance are unique to all players, which means doing certain actions can be more or less effective depending on the player's **Soul**. To find out the nature of your soul, you must find Sibex, a man with a peculiar ability to read Resonating souls. Once you talk to him, your goal will be made clear.
 
-As opposed to Luck, it is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Progress has no effect when obtained, although it is easily signified whenever the Luck effect appears. However, Progress has a significantly higher cap than Luck, meaning you will have no way to know when your Progress is finished after Luck reaches its cap. In addition, some monsters, such as [The Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), will give no luck, but still reward you with progress without any visual indicator.
+| **What he says to you** |
+| --- |
+| 
+**Exhibit A**
 
-The easiest way to achieve max Progress is to grind bosses such as [Primadon](Primadon,_Titan_of_the_East.md), [The Enforcer](Enforcer.md), [The Duke](Duke_Ishamon_Erisia.md), and the [Nautilodaunt](Nautilodaunt.md). While Blizzard Knights, Dread Serpents, Enhanced Monsters, and Players all give Progress, it is generally recommended **not** to do these, as they are infinitely more dangerous and less rewarding. An exception, however, to this is the [Chime of Conflict](Chime_of_Conflict.md), as there is no risk to your progress as long as you do not gamble your last skull if you're put down to it. Additionally, doing these tasks alone are much more efficient, as the amount of Progress is split across every player present. Progress is split the moment another player hit said monster.
+ | 
 
-Once you have max Progress, you must go to the Depths and get knocked. Note that you can be knocked in any way, be it a monster (Keep in mind that attacks that execute, like the Lionfish Laser will still execute), a player or fall damage. It is generally preferred to check with the help of a friend.
+**Exhibit B**
 
-If your resonance is ready, the following will happen when knocked:
+ | 
+
+**Exhibit C**
+
+ |
+| **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
+| **What you should do** |
+| Fighting specific Boss Monsters will greatly increase progression towards your Resonance. These bosses are the ones you should be looking for if this is the nature of your soul
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Dread Serpent](Dread_Serpent.md)
+-   [Nautilodaunt](Nautilodaunt.md)
+-   [The Duke](Duke_Ishamon_Erisia.md)
+-   [The Enforcer](Enforcer.md)
+-   [The Ferryman](The_Ferryman.md) (Not recommended)
+-   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
+
+ | Delving into the Depths and doing certain actions, like killing players, or killing Corrupted Monsters while in there, will greatly increase progression towards your Resonance. | Fighting players will greatly increase your progression towards your Resonance. it is highly recommended to fight players immediately in the Chime of Conflict. |
+
+As a side note, you can do any of these methods even if you didn't necessarily get that nature for your soul. If it's recommended for you to fight players, but you want to fight Boss Monsters, that still progresses your Resonance, but it will be incredibly inefficient.
+
+It is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain.
+
+### Finding out if you have obtained your Resonance
+
+Talk to Sibex until he tells you these lines:
+
+**Sibex:** "Well look at you, my friend! You're practically beaming with the Song!"
+
+You are confirmed for your Resonance. You must now go to the Depths and get knocked. The following will happen when knocked:
 
 -   You'll be revived and healed to 100%, aswell asthe person who knocked you.
 -   Your Blood, Thirst and Hunger are maxed out.
@@ -79,26 +111,6 @@ If your resonance is ready, the following will happen when knocked:
 Once obtained, using C will activate your Resonance. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
 
 File:Image of Card Selection.png
-
-### Farming Progress
-
-As stated before, Progress is obtained in all the ways Luck is, and just like Luck, certain entities are prone to rewarding Progress better than others. Through months of trial and error, these are the ones who have been found to give good Progress.
-
-### Bosses:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [The Ferryman](The_Ferryman.md) (Not recommended, due to giving incredibly low amounts of progress)
--   [Nautilodaunt](Nautilodaunt.md)
--   [The Duke](Duke_Ishamon_Erisia.md)
--   [The Enforcer](Enforcer.md)
--   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended, due to randomness of abilities, very specific spawn window, high risk, and low amount of Progress granted.)
-
-### Other:
-
--   Corrupted Monsters (Not Recommended)
--   Players \[Chime of Conflict\]
--   Catching Golden Fish (Unconfirmed)
 
 ## Re-rolling
 
@@ -112,8 +124,6 @@ Re-rolling your Resonance has a cooldown of 10 levels.
 
 File:Arch says Wishes have cooldowns.png
 
-542.988x542.988px
-
 ## Bell Cosmetic
 
 Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, black and purple. (If someone could post an image of all the bell variants I'd appreciate it)
@@ -126,11 +136,6 @@ Resonances are universally represented as an item attached on your waist. This i
     
     Arch Mage confirming both talent cards do not affect resonance progression.
     
-      
-    
-
-  
-
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
 -   **Talking to Yun'Shul without a Resonance WILL wipe you.**
 -   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 25462
+revid: 25628
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -66,7 +66,7 @@ All in all, keep your nerves hardened, don't be fooled by its intimidating situa
 
 ### Rewards
 
--   **Enforcers Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
+-   **Enforcer's Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
 -   **Enforcer's Blade:** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
 
 ## Lore

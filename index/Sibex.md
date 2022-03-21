@@ -1,0 +1,79 @@
+---
+title: Sibex
+revid: 25659
+source: https://deepwoken.fandom.com/wiki/Sibex
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Sibex
+
+## Where to Find Sibex
+
+**Sibex** can be found on the far left Aratel Starswept Island on top of the unidentified statue. --------------------------------
+
+  
+
+## Features
+
+**Sibex** is capable of telling you your current **resonance** progress, and what gives you the most **resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him, and in return he will tell you the details of your resonance obtainment method.
+
+-   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
+-   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
+-   **Depths:** "An... An inquisitive Soul... Your Soul's curiousity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
+-   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!"
+
+### Dialogue when meeting him:
+
+Sibex: Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... **OH, A LOCAL!**
+
+You: I'm not a local.
+
+Sibex: Oh? Then what are you?
+
+Option 1: A Pathfinder.                                                                                                          Option 2: A Warrior.                                                                                                                 Option 3: A Scholar.                                                                                                 Option 4: None of your business.
+
+Sibex:(When prompted with options 1-3) Wow... You really are full of yourself, huh?
+
+Sibex:(When prompted with option 4) That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?
+
+Option 1: Sure.                                                                                                                 Option 2: No.
+
+Sibex:(When prompted with option 1) Great! See you soon!
+
+### Dialogue after bringing him a thresher spine:
+
+Sibex: Oh local! You're back! Did you bring me that uhhhh... What was it again?
+
+You: A Thresher Spine?
+
+Riiiight Riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.
+
+You: Listen to my Soul?
+
+Sibex: Yes, yes. Simple stuff, really. I give your soul a quick listen and give you a slight approximation of how close you are to _Resonating_ with it.
+
+You: Alright, tell me what my soul says.
+
+Sibex:**(If you have no Bell progress)** You Must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.
+
+Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.
+
+Sibex:**(If you are close to obtaining a bell/You have a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
+
+Sibex:**(If bell is available)** Well look at you, my friend! You're practically beaming with the song!                                                      
+
+You: What should I do?
+
+Sibex:(If you have +PVP Arena Gain) Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the **Depths** is known to draw out song within all of us...
+
+Sibex:(If you have +DEPTHS MOB Gain) Ah... an Inquisitive Soul Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...
+
+Sibex:(If you have +BOSS Gain) Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the **Depths** is known to draw out the song within all of us...
+
+## Appearance
+
+**Sibex** is a Celtor that dawns a grey hood, and has an armor which is not currently in the game. He has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various musics that resemble clown music.
+
+### Notes:
+
+-   There is a possibility that Sibex will not give you info on how close you are to resonating with your bell, the reason for this is unknown. He will still however tell you the best way to obtain your resonance.

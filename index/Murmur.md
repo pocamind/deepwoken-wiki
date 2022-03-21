@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 25278
+revid: 25639
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -27,6 +27,8 @@ Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour)
 A Murmur will be nearly unusable until it is fully trained, either having too short of a duration to be useful or draining your entire [Ether](Combat_Mechanics.md) bar in seconds.
 
 A Murmur can be trained simply by using it, over and over. This process can take hours, and it is recommended you are at a campfire and have armor such as the [Pathfinder-Arch Sorcerer](Pathfinder_Arch-Sorcerer.md) or the [Prophet's Cloak](<Prophet's_Cloak.md>) equipped.
+
+**NOTE:** Spamming Murmur or waiting for max Ether doesn't make a difference when training (needs more testing).
 
 ## Murmur: Ardour
 

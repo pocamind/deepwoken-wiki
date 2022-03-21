@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 25595
+revid: 25629
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -15,6 +15,8 @@ _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 ## Description
 
 Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles or Elite Pathfinder Cloaks (Very rarely).
+
+It can be found digging in the marketplace area near the gate, but will run towards any enemy it catches in its sights at high speeds.
 
 ### Attack Patterns
 
@@ -35,9 +37,9 @@ Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about t
 ## **Notes/Tips**
 
 -   This enemy is extremely easy to defeat with multiple people. It only has 1000 hp and barely any armor or resistances. Just gang up on it and parry when possible.
--   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your crit.
--   Despite their vastly different HP pool, it is commonly agreed that the Nautilodaunt is harder most of the bosses in Deepwoken.
--   Do **NOT** parry trade with the Nautilodaunt because it most likely has a much higher posture pool than you will. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.
+-   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
+-   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.
+-   Do **NOT** parry trade with the Nautilodaunt because it has a much higher posture pool than you. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.
 -   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (unconfirmed, needs testing)
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does a lot of damage.

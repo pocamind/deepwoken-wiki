@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 25618
+revid: 25624
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,9 +30,10 @@ This basically just means you have to hit the mob first if you want them to aggr
 -   [Ministry Scouts](Ministry_Scout.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Enforcer](Enforcer.md)
+-   [Nautilodaunt](Nautilodaunt.md)
 
 ### Hostile Mobs:
 
 -   [Stone Knights](Stone_Knight.md)
 -   [Erisia Golems](Rock_Golem.md)
--   [Trial of One Entities](Trial_of_One.md)
+-   [Trial of One Entities](Trial_of_One.md) (This may be false, due to the sharko in trial of one not aggro'ing to me when i had animal king)

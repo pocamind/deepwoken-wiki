@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25613
+revid: 25660
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -199,6 +199,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Caster
 
 -   Overflowing Dam \[Generic Talent, Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
+    -   "Max ether" is having more than 95% ether.
+    -   This talent goes on a 3 second cooldown when a mantra is casted.
     -   Prerequisite: 40 Intelligence
 -   Perfect Flash \[Generic Talent, Rare Talent, Intelligence\] - Having full health causes your mantras do 1.25x damage.
     -   Prerequisite: 20(?) Intelligence
@@ -361,8 +363,11 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Emperor Flame \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
 -   Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)
+    -   When you dodge, create a fiery burst of flame that burn the enemy after 0.5 seconds.
+    -   5 seconds cooldown.
     -   Prerequisite: 65 Flamecharm
 -   Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
+    -   10 seconds cooldown.
 
 ### Flame Dancer
 
@@ -440,8 +445,8 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   Allows you to use gun critical.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
-    -   Guns now deal Elemental Damage.
-        -   Guns apply your attunement's elemental effect:
+    -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
+        -   The 3rd shot apply your attunement's elemental effect:
             -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
             -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
             -   Thundercall: Your bullets electrify
@@ -525,9 +530,10 @@ Most of these Talents are designed to benefit you when the situation is dire.
 
 -   Dirty Boxing \[Generic Talent, Rare Talent\] - Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (5 Second Cooldown) (+1 Passive Agility, +2 Health)
 -   Uproar \[Generic Talent, Rare Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (+4 Ether, Hyperarmor Benefit)
--   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane twice as quickly. (+4 Health, +5 Sanity)
-    -   Damage bonus caps at 1.5x when nearing tier 3 insanity.
-    -   Prerequisite: 30 Strength and 30 Fortitude (Note: Talent Is currently Unob due to it still being labelled as a common even though it's a rare meaning that it's impossible to get it, go spread it in bug reports if you want it back! )
+-   Lose Your Mind \[Rare Talent\] - Deal more damage the more insane you are, but go insane 1.2x faster (+4 Health, +5 Sanity)
+    -   Grant up 1.25x damage when nearing 100% insanity.
+    -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
+    -   Prerequisite: 30 Strength and 30 Fortitude
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
@@ -918,6 +924,7 @@ These Talents are designed to make you more effective in water.
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 -   Legendary Echo \[Chance to appear when a Legendary Talent is Drawn\] - Receive a random Legendary Talent.
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when they knock you. (+3 Health)
+    -   Health and Posture restored from getting a knock is reduced by 50%.
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being knocked. (+1 Passive Agility)
 -   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Health, +1 Posture)
