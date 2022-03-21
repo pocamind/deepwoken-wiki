@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25691
+revid: 25701
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -870,7 +870,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### Resonance Bells
 
-**Lore Sources:** _The Depths, Arch\_Mage (One of his posts in Discord)_
+**Lore Sources:** _The Depths, Arch\_Mage (One of his posts in Discord), Yamaketzal (Tarnished Removal), Sibex (Resonance Check)_
 
 -   Handheld Bells that allow the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
@@ -878,7 +878,8 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded."
     -   In the game, you can only obtain your Resonance Bell in The Depths. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
--   Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
+-   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
+    -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
 
 ## Deepwoken: 1271~
 

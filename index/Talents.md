@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25660
+revid: 25735
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -467,7 +467,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Hunter
 
 -   Eyes in the back of your head \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
-    -   Prerequisite: Glare & A high amount of Willpower
+    -   Prerequisite: Glare & 40 Willpower or below
 
 ### Ice Age
 
@@ -799,7 +799,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 These Talents are meant to reap the reward of your latest hunt.
 
 -   Pickpocket \[Generic Talent, Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
-    -   Prerequisite: 10 Charisma + ??? Agility
+    -   Prerequisite: 10 Charisma + ~5 Agility
 -   Cap Artist \[Generic Talent, Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Generic Talent, Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
@@ -959,10 +959,10 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Revenge - A short dash dealing damage to opponents it hits.
 
-#### Agility Support and Mobility (20-25 Agility Needed)
+#### Agility Support and Mobility (20-40 Agility Needed)
 
--   Dash - Just a dash, nothing special.
--   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (20 agility, I have proof, Delzaleon#1804)
+-   Dash - Just a dash, nothing special. (40 agility, tested and confirmed)
+-   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (20 agility, tested and confirmed)
 
 #### Charisma Support (25~ Charisma Needed)
 

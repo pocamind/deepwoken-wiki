@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 25630
+revid: 25698
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in The Depths |
+| obtainment | Chests in The Depths; The Duke loot pools |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 ## Description

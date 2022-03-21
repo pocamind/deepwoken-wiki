@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 25546
+revid: 25700
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,7 +24,7 @@ Deep Owls will spawn in the _Etrean Luminant_.[\[1\]](#cite-note-1) This restric
 
 When appearing in _Upper Erisia_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
-Once the dialogue ends, the owl will not attack unless hit first or **if** **the player turns their back****.** Just like escaping from dangerous wildlife such as lions or bears in real life, if the player maintains eye contact with the owl and walks backward, it will not attack and will eventually give up once out of detection range.
+Once the dialogue ends, the owl will not attack unless hit first or **if** **the player turns their back.** _(Owls will also attack a **player** if it has already been spawned and you enter its detection range.)_ Just like escaping from dangerous wildlife such as lions or bears in real life, if the player maintains eye contact with the owl and walks backward, it will not attack and will eventually give up once out of detection range.
 
 The corrupted Deep Owls that spawn in _The Depths_ follow the aforementioned behaviour, but have significantly higher health and attack values than their uncorrupted variants on the _Etrean Luminant_.
 

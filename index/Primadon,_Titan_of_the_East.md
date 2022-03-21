@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 25117
+revid: 25704
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -48,7 +48,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 Umbral Obsidian in them.
 -   **Small chest -** Has 1-3 Umbral Obsidian in it and a low chance of 1-2 Deep Gems.
--   **Luck -** Gives about 23% luck, somewhere as much as 15-20 Corrupted monster kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell),](Resonance.md) **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get bell.**
+-   **Luck -** Gives about 23% luck, somewhere as much as 15-20 Corrupted [monster](Monsters.md) kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell),](Resonance.md) **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get bell.**
 
 ## Strategies & Tips
 
@@ -90,7 +90,7 @@ The boss arena, showing the ocean from which Primadon spawns.
 -   Primadon's respawn time is around 30 minutes.
     -   This cooldown is in effect for the player who summoned Primadon, and everyone involved (Dealt damage at least once). The cooldown is for the account in use and is not a slot cooldown, for some weird reason. (Has been tested by me multiple times)
 -   In the game files, it is called "Monky."
--   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since whatever attack you parry is reflected back.
+-   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals a flat 2% health damage, allowing you to only parry 50 times to kill it.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 60 times more health.
 
 1.  [↑](#cite-ref-1) Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will hardly heal at all due to Primadon's immunity to elemental damage

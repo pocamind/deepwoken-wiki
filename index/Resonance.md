@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25668
+revid: 25707
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -93,9 +93,9 @@ Note: Take none of this as fact. This is all speculation and is likely incorrect
 
  | Delving into the Depths and doing certain actions, like killing players, or killing Corrupted Monsters while in there, will greatly increase progression towards your Resonance. | Fighting players will greatly increase your progression towards your Resonance. it is highly recommended to fight players immediately in the Chime of Conflict. |
 
-As a side note, you can do any of these methods even if you didn't necessarily get that nature for your soul. If it's recommended for you to fight players, but you want to fight Boss Monsters, that still progresses your Resonance, but it will be incredibly inefficient.
+As a side note, you can do any of these methods even if you didn't necessarily get that nature for your soul. These acts like multiplier to your Progression gains, so doing any thing else than the recommend way will be inefficient.
 
-It is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain.
+It is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Instead by wiping, you will reset your recommended way of obtaining a Resonance.
 
 ### Finding out if you have obtained your Resonance
 
@@ -105,7 +105,7 @@ Talk to Sibex until he tells you these lines:
 
 You are confirmed for your Resonance. You must now go to the Depths and get knocked. The following will happen when knocked:
 
--   You'll be revived and healed to 100%, aswell asthe person who knocked you.
+-   You'll be revived and healed to 100%, as well as the person who knocked you.
 -   Your Blood, Thirst and Hunger are maxed out.
 -   A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.

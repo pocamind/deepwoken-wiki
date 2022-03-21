@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25600
+revid: 25697
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -44,7 +44,7 @@ Gain the ability to consume non-food items.
 -   Spider Eggs
 -   Urchins
 -   Gems (e.g. emerald, diamond, ruby, gold, platinum, etc.)
--   Wood and Sticks
+-   Wood and Sticks (not confirmed, i got it and cant eat these)
 
 ### Theorized Obtainment Methods
 

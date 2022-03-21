@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 25580
+revid: 25714
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -84,7 +84,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
 -   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
--   This is considered a rare mantra, and therefore rarely ever shows up without [Luck.](Luck.md)[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
+-   This is considered a rare mantra (unaffected by [luck](Luck.md))[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed by a Rare Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |

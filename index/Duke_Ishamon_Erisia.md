@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 25223
+revid: 25736
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -38,7 +38,8 @@ able?
 | **Wind Stomp** | The Duke kicks the ground, shooting a wave of wind up from the ground towards his target. **This move will auto-grip if it hits you while knocked or at low health.** | ✗ | (★★★) |
 | **Wind Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down and hitting everyone in the room. | ◯ | (★★★) |
 | **Fist Combat: Legion Kata** | The Duke wields Iron Cestus and will fight using Martial Arts of the Legion. | ◯ | (★☆☆) |
-| **Slave Summon** | The Duke snaps his fingers, summoning 3 slaves from the pods around the boss room. | N/A | (★☆☆) |
+| **Slave Summon** | The Duke snaps his fingers, summoning 3 slaves from the pods around the boss room. (Essentially health-packs and serve no real threat) | N/A | (☆☆☆) |
+| **Feint** | The Duke pulls his fist back before it hits you, only to hit you again with his other hand. (Essentially an average Legion-Kata feint) | ✗ | (★☆☆) |
 
 ### Finisher
 
@@ -69,6 +70,7 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
 
 ## Notes/Tips
 
+-   The Duke gives the second best monster bell proression (1st is Primadon)
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either Flint or Skills that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
 -   The more people that participate in fighting The Duke, the more health he has.
@@ -79,3 +81,8 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
         -   Wind bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
 -   The Duke's respawn timer is around 25 minutes.
 -   The Duke scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
+-   It is recommended to fight The Duke with the following:
+    -   Any high **posture-damage** mantras or attunements, I personally recommend Shadow Gun and or most Shadowcast mantras as they shred through posture.
+    -   A **[Heavy Hands Ring](Equipment.md#rings)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
+    -   **Heavy Weaponry**, any heavy weapons' critical strike (M2) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
+        -   Specifically any **Greathammer**, however Greataxes & Greatswords are also very effective at infinite posture-breaking The Duke.
