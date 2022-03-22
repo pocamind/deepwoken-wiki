@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25701
+revid: 25781
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -100,7 +100,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   A legendary chef who dons the legendary Master Chef armor, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best food for the best price.
--   He appears to have blue skin, so is likely an Adret
+-   He appears to have blue skin, so is likely an Adret.
 
 The one and only... MEAT LORD!
 
@@ -117,10 +117,11 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
-    -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown.
+    -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 
--   Betrayed by his former prodigy, Gunsmith Hierka who used the Summer Company's secrets in order to create the Rifle Spear for the Authority.  
-    
+-   ~Betrayed by his former prodigy, Gunsmith Hierka who used the Summer Company's secrets in order to create the Rifle Spear for the Authority.~
+    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let whatever The Authority do what they please to them.  
+        
 
 ### Yun'shul
 
@@ -219,13 +220,13 @@ _"The sunken remnants of a lost civilization give little respite to the transito
     -   (Arch\_Mage) Thankfully, Arch\_Mage debunked this theory; as The City of Celtor was one of the many victims of the Great Drowning.
 -   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
-#### Markor Citadel (The Depths, First Layer)
+#### Castle Light (The Depths, First Layer)
 
   
 
   
 
--   Also known as [Castle Light](Castle_Light.md), The Markor Citadel is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier.
+-   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, The Diver Base located in the surface.
     -   This barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drain of their Ether whilst those who are alive can go through with no harm done.
         -   As of 3/17/2022, there are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
@@ -294,15 +295,19 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   **Attunements:** _N/A_
 -   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Children of Navae, The Ignition Union, The Ministry File:Eylisiconfactoin.png_
--   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned)_
+-   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), Arch\_Mage (Discord)_
 
--   A Faction that resides in Summer Isles. They are a Mining Organization and the inventors of Firearms, such as Revolvers and Flintlocks.
+-   A Faction that resides in Summer Isles. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
--   _(Scope) Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply._
+-   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
--   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. The previous known leader of Summer Company was Gunsmith Rosen.
-    -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company. Although, this piece of dialogue doesn't lead anywhere nor give news of Rosen's status.
+-   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
+    -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
+-   As of 1271, Summer Company has ties with The Authority. The Authority contracting the Company for Firearms in exchange with goods and the likings.
+    -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company is being stolen by Authority, such as Hierka themselves, they are still in business with The Authority.
+        -   Explained by Arch\_Mage, Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
+        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between eachother.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
 
 A Summer Company Member.
@@ -360,8 +365,9 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Summer Company, The Divers_
--   **Lore Sources:**
+-   **Lore Sources:** _Arch\_Mage (Discord)_
 
+-   (Arch\_Mage) The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword.
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 -   The Crypt blade's description, along with them trying to expand into the depths, might mean that the Ignition Union's goal is to fight the depths.
@@ -413,11 +419,11 @@ A Peacekeeper Commander, part of The Authority
 
 ### The Divers
 
--   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
--   **Attunements:** _Flamecharm, Frostdraw (Akira)_
+-   **Territory:** _???_
+-   **Attunements:** _Flamecharm, Frostdraw, Galebreathe_
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
 -   **Enemies:** _???_
--   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue)_
+-   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord)_
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
@@ -426,7 +432,8 @@ A Peacekeeper Commander, part of The Authority
 -   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
 -   (Akira) The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, AKA "The Citadel Trials".
-    -   Though not much is known entirely of what the Citadel Trials are, one of them was sampling flora- explained by Karliah.
+    -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
+-   (Arch\_Mage) The Divers can travel between the boundries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
 
 ## Groups
 
@@ -476,12 +483,13 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Territory:** _Unknown (Presumably Aratel Island)_
 -   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frost Only)_
--   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Lore Sources:** _Arch\_Mage, Songseeker Wilds_
+-   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe (?)_
+-   **Lore Sources:** _Arch\_Mage (Discord), Songseeker Wilds_
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
-    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's 3 Attunements; thus is the reason why Galebreathe Songseekers do not exist.
+    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
+-   (Arch\_Mage) Although there is no Galebreathers we've seen in the Etrean Luminant, thanks to information given by Arch\_Mage, there is a possibility that there are Galebreathe Songseekers.
 
 ### Bandits
 
@@ -606,7 +614,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 _"The stars call you back..."_
 
-**Lore Sources:** _Celestial Telescope (Greathive Aratel)_
+**Lore Sources:** _Celestial Telescope (Greathive Aratel), Arch\_Mage (Discord)_
 
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
 -   Celestials came to the Luminants from the stars when the Canticlysm erupted upon the land of the Old World.
@@ -616,6 +624,8 @@ _"The stars call you back..."_
 -   The Celestials are presumably extinct, though evidence is required to confirm the theory.
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
+-   (Arch\_Mage) Celestials have a very complex lore revolving around them; as Arch\_Mage explained that the race's fate is hazy, unclear.
+    -   The Celestial we've seen (Blonde hair, cracked face) is Ragoozer's Lore Character, Nilsa.
 
 ### Primal Vesperians
 
@@ -628,11 +638,11 @@ _"The stars call you back..."_
 
 ## Attunement Lore
 
-### The Three Attunements of the Old World
+### The Four Attunements of the Canticlysm
 
-**Lore Sources:** _Naktigonis (The Sun, Gleaming)_
+**Lore Sources:** _Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord)_
 
--   The Three original Attunements of Deepwoken existed during the era of the Old World, that being Flamecharm, Thundercall and Galebreathe.
+-   The Four Basic Attunements, Flamecharm, Frostdraw, Galebreathe and Thundercall were discovered and developed during the Canticlysm; the peak of understanding The Song, and also the eventual downfall of the Old World.
     -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
 
 ### Flamecharm

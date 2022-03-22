@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 25543
+revid: 25778
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -158,7 +158,7 @@ Bolt Piercer
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Self Damaging
--   Was formerly a legendary mantra, now either rare or common, obtainable through random two-star mantra card.
+-   Was formerly a legendary mantra, now either rare or common.
 
  |
 

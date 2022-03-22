@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 25624
+revid: 25773
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -14,7 +14,7 @@ File:Image 2022-03-16 204525.png
 
 A King of Animals standing in front of a King Thresher
 
-This basically just means you have to hit the mob first if you want them to aggro on you.
+This means you have to hit the mob first if you want them to aggro on you.
 
 ### Neutral Mobs:
 
@@ -36,4 +36,3 @@ This basically just means you have to hit the mob first if you want them to aggr
 
 -   [Stone Knights](Stone_Knight.md)
 -   [Erisia Golems](Rock_Golem.md)
--   [Trial of One Entities](Trial_of_One.md) (This may be false, due to the sharko in trial of one not aggro'ing to me when i had animal king)

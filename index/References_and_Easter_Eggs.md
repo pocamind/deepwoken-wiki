@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25599
+revid: 25768
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -28,7 +28,7 @@ notices:
 
 ### **Thundercall**
 
--   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_. It could also be Raikage's lightning cloak.
+-   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identicle.
 
 ### **Frostdraw**
 
@@ -36,15 +36,14 @@ notices:
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 
-### **Attunementless**
-
--   Prediction may be reference to [Accelerator's](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) redirection ability from _Toaru Majutsu no Index._
-
 ## Enemies/Bosses
 
--   The **Megalodaunt** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+-   The **[Megalodaunt](Megalodaunt.md)** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
 -   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar and might be inspired by [Beast Titan form](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
+    -   The soundtrack that used to play during the bossfight also originated from the afformentioned series.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
+    -   The moves he uses are taken from Accelerator's moveset in the Roblox game _Anime Battle Arena_.
+-   **[The Enforcer's](Enforcer.md)** designs is very similar to the Kraken from _Salt and Sanctuary._
 
 ## Resonance
 
@@ -54,6 +53,7 @@ notices:
 -   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
+-   **Teleportation** is a reference to Minato's Flying Raijin from _Naruto._
 
 ## Talents
 
@@ -68,7 +68,7 @@ notices:
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
--   The **Serpent's Edge** is a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) (Serpent bBreathing Pillar) nichirin sword from _Demon Slayer: Kimetsu no Yaiba._
+-   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) nichirin sword from _Demon Slayer: Kimetsu no Yaiba,_ though it should be noted such a design isn't uncommon in media_._
 
 ## World
 
