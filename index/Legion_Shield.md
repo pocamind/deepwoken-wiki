@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 25794
+revid: 25805
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Enemies, Locations, Races, Random Encounters, Attributes]
@@ -33,6 +33,10 @@ categories: [Weapons, Weaponry, Enemies, Locations, Races, Random Encounters, At
 
 The Khan Shield can be obtained from Chests, and requires 60 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md), [Kite Shield](Kite_Shield.md), and the [Worshipper's Shield](<Worshipper's_Shield.md>).
 
-## Notes
+  
+
+## Drops
+
+The Khan Shield can be obtained from events in [Starswept Valley](The_Starswept_Valley.md), [Lower Erisia](Lower_Erisia.md), and [Fort Merit](https://deepwoken.fandom.com/wiki/Fort_Merit) but is very easy to find in Starswpet Valley and Fort Merit.
 
 -   Currently the best shield in the game.

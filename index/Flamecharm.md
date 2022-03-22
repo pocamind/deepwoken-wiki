@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 25802
+revid: 25816
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -187,6 +187,8 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 ## **Talents**
 
+[\[3\]](https://flame-within.fandom.com/wiki/Flame_Within_Wiki)
+
 **Flamecharmer:**
 
 These talents are found in the _Flamecharmer_ category.
@@ -241,3 +243,4 @@ These talents are found in the "Undying Ember" catagory.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
 -   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_.
+-   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like agitating spark where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes Flame Withing equal if not better than Static withdraw or lightning cloak.

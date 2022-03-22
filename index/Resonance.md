@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25737
+revid: 25803
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -106,6 +106,8 @@ Talk to Sibex until he tells you these lines:
 You are confirmed for your Resonance. You must now go to the Depths and get knocked. The following will happen when knocked:
 
 (NOT ACTUALLY OR FULLY TRUE, I HAD THIS POP UP AND I DIED IN DEPTHS AND DIDNT GET BELL)
+
+^ I second this. I walked up to him and he told me I was beaming with the song, when I went down and got knocked I didn't get a bell. After going back up and speaking with him again he said I was tone-deaf. Could be a bug.
 
 -   You'll be revived and healed to 100%, as well as the person who knocked you.
 -   Your Blood, Thirst and Hunger are maxed out.

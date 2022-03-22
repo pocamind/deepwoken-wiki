@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 25753
+revid: 25811
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -58,6 +58,8 @@ You: Alright, tell me what my soul says.
 Sibex:**(If you have no Bell progress)** You Must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.
 
 Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.
+
+Sibex:**(If you have a decent amount of Bell progress)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?
 
 Sibex:**(If you are close to obtaining a bell/You have a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
 

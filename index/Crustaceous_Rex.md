@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 23191
+revid: 25814
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster]
@@ -18,13 +18,48 @@ File:Crabbo.PNG
 
 ## Attacks
 
-**Bubble Beam** - Shoots a barrage of bubbles at its foes. Spam parry to evade this attack.
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><b>Name</b></th>
+  <th><b>Description</b></th>
+  <th><b>Parry-able?</b></th>
+  <th><b>Danger</b></th>
+</tr>
+<tr>
+  <td><b>Bubble Beam</b></td>
+  <td>The Crustaceous Rex lifts its head up, and its body backwards, releasing what seems to be poisonous bubbles at its foes, dealing low to medium damage.</td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><b>Crushing Claw</b></td>
+  <td>The Crustaceous Rex raises its <i><b>Right Claw</b></i> and grabs its foe, dealing medium damage to its opponent by crushing its bones. If the opponent is at low enough health, The Crustaceous Rex will split its foe in half, <b>INSTANTLY AUTO-GRIPPING THEM.</b></td>
+  <td><font>✗</font></td>
+  <td>(★★★)</td>
+</tr>
+<tr>
+  <td><b>Ground Smash</b></td>
+  <td>The Crustaceous Rex jumps up into the sky, slamming down onto his foes with his downside, dealing medium damage.</td>
+  <td><font>✗</font></td>
+  <td>(★★☆)</td>
+</tr>
+<tr>
+  <td><b>Hack &amp; Slash</b></td>
+  <td>The Crustaceous Rex raises its <i><b>Right &amp; Left Arms</b></i>, swinging them downward at its opponent in rapid succession, dealing medium to semi-high damage.</td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><b>Rising Smash</b></td>
+  <td>The Crustaceous Rex raises <i><b>Both of Its Arms</b></i> in the air, smashing them down onto its opponent, dealing medium damage.</td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+</tbody>
+</table>
 
-**Crushing Claw** - Grabs someone in its claw and crushes them before throwing them to the ground doing a good amount of damage. Cannot be parried.
-
-**Ground Smash**\- Jumps high up before slamming down. Cannot be parried.
-
-**Hack & Slash** - Slashes twice, dealing a good amount of damage. Time your parries.
+  
 
 ## Notes
 
