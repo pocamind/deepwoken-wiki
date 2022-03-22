@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 23134
+revid: 25792
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -34,3 +34,4 @@ notices:
 
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chest dropped from the monster used to be locked and had to be carried to NPCs to be unlocked to reap the rewards. 2 NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader still mention this mechanic in their dialogue.
 -   **Lore guilds -** According to testers, their used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers.
+-   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spare with another player by talking to the instructor NPC.

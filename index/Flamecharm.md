@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 25714
+revid: 25802
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -61,9 +61,10 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Deals light damage.
 -   No Cooldown.
 -   Burns target(s).
--   Can destroy certain parts.
--   Can propel the caster backwards if it is casted while jumping/walking backwards or in water.
+-   Can destroy certain wooden parts.
+-   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
+-   Adding round spark makes shot 4 chaotic bullets, but ether cost is a lot less.
 
  |
 |  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.

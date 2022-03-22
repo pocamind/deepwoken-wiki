@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25781
+revid: 25793
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -101,6 +101,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best food for the best price.
 -   He appears to have blue skin, so is likely an Adret.
+-   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of ultimate power.
 
 The one and only... MEAT LORD!
 
@@ -420,7 +421,7 @@ A Peacekeeper Commander, part of The Authority
 ### The Divers
 
 -   **Territory:** _???_
--   **Attunements:** _Flamecharm, Frostdraw, Galebreathe_
+-   **Attunements:** _Flamecharm, Frostdraw, Galebreathe and Thundercall._
 -   **Alliances:** _The Central Authority_ _(Business Relations)_
 -   **Enemies:** _???_
 -   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord)_

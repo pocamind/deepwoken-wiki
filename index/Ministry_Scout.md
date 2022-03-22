@@ -1,8 +1,9 @@
 ---
 title: Ministry Scout
-revid: 22926
+revid: 25795
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Locations, Attunement, Armors, Weaponry, Weapons, World, Talents]
 ---
 
 # Ministry Scout
@@ -47,3 +48,4 @@ Their arsenal consists of Ben's Knife ([Krulian Knife](Krulian_Knife.md)) and [S
 -   Everyone except the [Cultist Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   The Shadow Spike is a reskin of the [Glacial Arc](Frostdraw.md), and it's apparently only exclusive to these guys.
 -   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife, due to the fact the model of the knife is a direct 'copy' to a knife in the anime Hunter X Hunter.
+-   It is possible to increase reputation with The Ministry by helping Ministry Scouts in Summer Company vs The Ministry events in Summer Isle. However, Ministry NPCs would attack you no matter what reputation you have with them. (Got ministry rep increase twice from event, which normally is enough to boost your rep from neutral to friend in any faction. But it did nothing for The Ministry)
