@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 25677
+revid: 25761
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -49,3 +49,4 @@ It can be found digging in the marketplace area near the gate, but will run towa
 -   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
 -   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game.
+-   ~He is Immune to all Mantras so don't think about cheesing him with them.~ (False, killed 2 nautilodaunts with ash slam as the finishing blow)(He possibly is Immune to thundercall as I used Lighting blade on him and he started to glow blue and take no damage).

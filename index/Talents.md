@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25735
+revid: 25755
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -210,7 +210,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
-    -   Prerequisite: 25 Intelligence
     -   When hit by an elemental attack, gain damage resistence toward it, however, if another element hit you, take increased damage from that element, while becoming resistent to the new element.
     -   Due to some janky mechanics, the elemental resist/weakness are applied individually per player, therefore, you have a permanent elemental damage reduction (less than Return To The Dark Age) toward everyone, the downside only coming into play if your opponent is using multiple elements.
         -   In the ever so possible scenario where you do fight someone with multiple elements, it is unlikely they will purposfully alternate their element usage.
@@ -353,7 +352,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Freak Of Nature
 
--   Exoskeleton \[Rare Talent, 30 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
+-   Exoskeleton \[Legendary Talent, 30 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
     -   Can be stacked with Chitin.
     -   Requirements: 30 Fortitude.
 -   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.

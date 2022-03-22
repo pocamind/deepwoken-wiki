@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25697
+revid: 25757
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -48,10 +48,11 @@ Gain the ability to consume non-food items.
 
 ### Theorized Obtainment Methods
 
--   Eat many types of ingredients
--   Throw up many times
--   Craft a certain number of different foods
--   Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)
+-   ~Eat many types of ingredients~
+-   ~Throw up many times~
+-   ~Craft a certain number of different foods~
+-   ~Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)~
+-   Get the talent Iron Gut and Wipe, once in fragments of self proceed to wipe and you should get the card termite to appear on the left side of the screen, then you will have termite in your next life, however when you look into the talent page it will not be there but you will still have it. ( Iron Gut on Herbalist Hat does not count) Iron Gut's Requirement Is 10 Fortitude.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25707
+revid: 25737
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -104,6 +104,8 @@ Talk to Sibex until he tells you these lines:
 **Sibex:** "Well look at you, my friend! You're practically beaming with the Song!"
 
 You are confirmed for your Resonance. You must now go to the Depths and get knocked. The following will happen when knocked:
+
+(NOT ACTUALLY OR FULLY TRUE, I HAD THIS POP UP AND I DIED IN DEPTHS AND DIDNT GET BELL)
 
 -   You'll be revived and healed to 100%, as well as the person who knocked you.
 -   Your Blood, Thirst and Hunger are maxed out.

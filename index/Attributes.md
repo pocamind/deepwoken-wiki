@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 25731
+revid: 25756
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -73,7 +73,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   This stat give 2 Ether and Reservoir
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
--   Gain Intelligence EXP via foraging, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
+-   Gain Intelligence EXP via foraging, fishing, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
 -   Uncapped by eating a bluecap.
 -   (requires 20 intelligence) gain the ability to get mantra's summon cauldron
 

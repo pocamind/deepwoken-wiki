@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 23248
+revid: 25745
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ Bandit Captains can appear in [Random Encounters](Random_Encounters.md) and in l
 
 ### Health
 
-Bandit Captains have >100 health. Cannot be assasinated without the assasin talent, however will stay on the ground long enough to knock or get down to one tap.
+Bandit Captains have 220 health. Cannot be assasinated without the assasin talent, however will stay on the ground long enough to knock or get down to one tap.
 
 ### Weapons
 

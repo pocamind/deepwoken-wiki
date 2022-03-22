@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 25684
+revid: 25753
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -20,8 +20,8 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
--   **Depths:** "An... An inquisitive Soul... Your Soul's curiousity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
--   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!"
+-   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiousity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
+-   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (This is **NOT** true. I tested with a friend who also got this but no bell. Currently it isn't accurate. You can always go and check though) (Might mean close to bell though)
 
 ### Dialogue when meeting him:
 
@@ -73,7 +73,7 @@ Sibex:(If you have +BOSS Gain) Ah... I can hear your soul drawing back, lining u
 
 ## Appearance
 
-**Sibex** is a [Celtor](Celtor.md) that dawns a grey hood, and has an armor which is not currently in the game. He has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various musics that resemble clown music.
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has an armor which is not currently in the game. He has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
 ### Notes:
 

@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 25612
+revid: 25747
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
@@ -14,7 +14,7 @@ The game provides many options to customise your character. There is a variety o
 
 The world of Deepwoken presents many [races](Aspects.md), with each one of them having its own lore and origin. As a player, you start on each character slots with a random [race](Aspects.md) assigned to you by the game automatically. If you want to change your [race](Aspects.md), you may re-roll it by buying an in-game service for 150 Robux (R$).
 
-Unlike in other games, [races](Aspects.md) do not give a player major advantages over other players. However, some races do have special abilities related to the lore of the specific race. _(Celtors get a discount when repairing their ship and Capras get racial support abilities that can be used to support players)_
+Unlike in other games, [races](Aspects.md) do not give a player major advantage over other players. However, some races do have special abilities related to the lore of the specific race. _(Celtors get a discount when repairing their ship and Capras get racial support abilities that can be used to support players)_
 
 Currently the game contains a total of **ten** obtainable [races](Aspects.md), with their own special abilities, cosmetics, appearance and accessories that can change depending on the [race](Aspects.md). Scars, eyes and face design is mostly the same for each race, with some exceptions.
 
@@ -36,7 +36,9 @@ _\[More information about [attunements](Attunements.md) can be found on their co
 
 ## Combat Styles
 
-When customizing your character, there is a total of three [combat styles](Weapons.md) you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_. _(Weapon Manuals do not teach you a new [combat style](Weapons.md), but they allow you to train the type of style of the weapon you are currently using. To change your [combat style](Weapons.md) you need to equip the specific weapon corresponding to your desired style)_
+When customizing your character, there is a total of three [combat styles](Weapons.md) you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_.
+
+_(Weapon Manuals do not teach you a new [combat style](Weapons.md), but they allow you to train the type of style of the weapon you are currently using. To change your [combat style](Weapons.md) you need to equip the specific weapon corresponding to your desired style)_
 
 ### Unlockable Combat Styles
 
@@ -81,8 +83,8 @@ Minityrsa**
 
 [Minityrsa](Minityrsa.md) is a snowy island with freezing temperatures which is guarded by [Brainsuckers](Brainsucker.md), with the main point of interest being a stronghold containing the portal to [Trial of One](Trial_of_One.md) in it.
 
--   Minityrsa spawn option can be unlocked by beating the [Trial of One](Trial_of_One.md), and permanently saves for the specific slot that beat it.
--   The [Valley Of Heros](The_Valley_of_Heroes.md) is located above Minityrsa. While the season is not winter, [Aelita](Aelita.md) is there (a [Visionshaper](Oaths.md) requirement) waiting for players to visit her to play a minigame. While the season is winter, [Stone Knights](Stone_Knight.md) will spawn instead of [Aelita](Aelita.md).
+-   Minityrsa spawn option can be unlocked by beating the thresher (4th stage) inside of the [Trial of One](Trial_of_One.md), and permanently saves for the specific slot that beat it.
+-   The [Valley Of Heroes](The_Valley_of_Heroes.md) is located above Minityrsa. While the season is not winter, [Aelita](Aelita.md) is there (a [Visionshaper](Oaths.md) requirement) waiting for players to visit her to play a minigame. While the season is winter, [Stone Knights](Stone_Knight.md) will spawn instead of [Aelita](Aelita.md).
 -   The island has no food sources, but its a good farming spot for medium power players. Note: I don't have a lot of information about Minityrsa, please add more if you have the spawn unlocked.
 
 ## Age System

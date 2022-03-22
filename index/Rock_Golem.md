@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 25560
+revid: 25760
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -66,7 +66,7 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   **Foot Stomp** - Parry the stomp, _you do not have enough time to dodge it._
 -   **Swing** - Dodge the swing. It is essentially a reskinned Megalodaunt kick, and should be treated as such.
 -   **Angered Scream** - 3 hits while it's screaming, it _probably_ won't hit you, although you're not in danger of getting hit by its other moves if it does.
--   **Laser Beam** - Hit 2 times and dodge, the beam should miss. If you are less experienced with fighting these, wait for the charging noise to finish, then dodge.
+-   **Laser Beam** - Hit 2 times and dodge, the beam should miss. If you are less experienced with fighting these, wait for the charging noise to finish, then dodge. You can also count to 3, and right as you count 3, dodge.
     -   **Red Beam (Prime Golem)** - Same strat, although it looks the exact same as Chain Laser, so better to follow that strat.
     -   **Chain Laser (Prime Golem)** - 2 hits, then dodge, before proceeding to run and jump until it stops shooting.
 

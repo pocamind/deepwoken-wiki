@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 25621
+revid: 25751
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1018,7 +1018,7 @@ Weapons that scale with a certain element
   <td>SHD: 10 HVY: 5</td>
   <td>9</td>
   <td>9</td>
-  <td>0.7x</td>
+  <td>0.65x</td>
 </tr>
 </tbody>
 </table>

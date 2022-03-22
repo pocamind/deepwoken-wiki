@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 23716
+revid: 25754
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -56,3 +56,4 @@ If **Dimensional Travel** is found to be Corrupted, the **Distortion Realm** to 
 -   Like [Portal](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking others.
 -   ~Gravity inside the **Distortion Realm** is reduced, allowing you to jump higher.~ (This was changed to the regular gravity a couple updates ago in a shadow patch)
 -   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)
+-   As of 2022-03-21, The Interstice has been changed to no longer have bumps or big gaps, leaving only a flat land of symetrical blocks to travel The Interstice. (Probably due to the many complains of people teleporting inside The Interstice only to fall in the void and get teleported out because they did not spawn on a platform).

@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 25698
+revid: 25750
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
@@ -15,7 +15,7 @@ categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
 | damage | 26 |
 | scaling | SDW: 10, HVY: 5 |
 | range | 9 |
-| swing speed | 0.7 |
+| swing speed | 0.65 |
 | endlag | 0.25s |
 | special effect | All Shadowcast passives are applied on hit, including things such as Fear and Ether Absorption. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
