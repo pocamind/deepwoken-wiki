@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 22813
+revid: 25831
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -14,7 +14,7 @@ An albino Felinor, dressed up as a Temple of Blades Guard. (Does not affect dial
 
 ## Stratos
 
-Stratos is an npc found sitting at the fountain in the courtyard of the "[Temple of the Blade](Temple_of_the_Blade.md)" in [Isle of Vigils](Isle_of_Vigils.md). In order to talk to him, you need to have good [reputation](Reputation.md) with Etrea. You may also need to complete the food crate [quest](Quests.md). He says that he will teach you once you feel the "essence of the wind," starting a quest.
+Stratos is an npc found sitting at the fountain in the courtyard of the "[Temple of the Blade](Temple_of_the_Blade.md)" in [Isle of Vigils](Isle_of_Vigils.md). In order to talk to him, you need to have good [reputation](Reputation.md) with Etrea. He says that he will teach you once you feel the "essence of the wind," starting a quest.
 
 ## The Quest
 

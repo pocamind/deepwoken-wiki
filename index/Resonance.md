@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 25803
+revid: 25826
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -101,7 +101,7 @@ It is impossible to lose Progress in any capacity besides wiping, meaning that y
 
 Talk to Sibex until he tells you these lines:
 
-**Sibex:** "Well look at you, my friend! You're practically beaming with the Song!"
+**Sibex:** "Well look at you, my friend! You're practically beaming with the Song!" or molded like clay line
 
 You are confirmed for your Resonance. You must now go to the Depths and get knocked. The following will happen when knocked:
 

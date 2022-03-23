@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25755
+revid: 25827
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -470,7 +470,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Ice Age
 
--   Frozone \[Frostdraw Exclusive, Legendary Talent\] - You are longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
+-   Frozone \[Frostdraw Exclusive, Legendary Talent\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: Ice Skates (3 Star Frostdraw Mantra)
 
 ### Inferno

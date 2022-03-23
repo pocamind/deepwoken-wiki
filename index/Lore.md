@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25793
+revid: 25838
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -44,7 +44,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
-    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head
+    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head (or because being denied the number 1 freshie spawn island because you got lucky on your first roll after buying the game would be dumb)
 
 ### The King of Etrea
 
@@ -608,7 +608,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_The stars call you back..."_
 
 -   Children of Celestials, the Lightborn are considered fragments of these once great beings who lived above in the sky.
--   In recent times, a family of Lightborn known as the Spellhardts have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
+-   In recent times, a family of Lightborn known as the Spellhards have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
 -   Rumored to be living in a mighty castle above in the sky, visible through the Celestial Telescope in the [Greathive Aratel](Greathive_Aratel.md).
 
 ### Celestials

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 25364
+revid: 25819
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -25,11 +25,40 @@ It drops a Lionfish Scale, which is used for crafting armor sets
 
 ## Moves
 
-**Bite** - Bites three times. Each bite does _**25 damage**_. (More than 40 damage if corrupted) Can be parried.
-
-**Dive (Only in Etrean Luminant)** - The Lionfish descends into the water for a short amount of time and then resurfaces to try and get the jump on you.
-
-**Cero** (**Only in Depths and Hive/Under Lordsgrove**)- Lionfish raises its head upwards, and fires a giant laser beam that takes around 3-4 seconds to charge up and does _**55 damage**_. (More than 120 damage if corrupted) Can be perfect dodged by rolling when it puts its head down. The move instantly executes if the target is or would have been knocked.
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><b>Name</b></th>
+  <th><b>Description</b></th>
+  <th><b>Parry-able?</b></th>
+  <th><b>Danger</b></th>
+</tr>
+<tr>
+  <td><b>Bite</b></td>
+  <td>The Lionfish opens its jaws, biting down the foes in its direction 3 times in repeating succession, dealing <i><b>25 damage</b></i>. (Roughly 40+ damage if corrupted)</td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><b>Dive</b></td>
+  <td>The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. (<b>Etrean Luminant Exclusive</b>)</td>
+  <td><b>N/A</b></td>
+  <td>(☆☆☆)</td>
+</tr>
+<tr>
+  <td><b>Laser Beam</b></td>
+  <td>The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing <i><b>55 damage</b></i>. If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. (<b>Depths Exclusive</b>)</td>
+  <td><font>✗</font></td>
+  <td>(★★☆)</td>
+</tr>
+<tr>
+  <td><b>Corrupted Beam</b></td>
+  <td>The Corrupted Lionfish raises its entire body upwards, charging up a purple-orb. However, unlike its non-corrupted counterparts, it will deal over <i><b>120+ damage</b></i> to its opponent. If the opponent is low enough, It will <b>AUTO-GRIP</b> the player. <u><i>There is no <b>visual</b> difference between the Corrupted and Regular versions of the Beam.</i></u> (<b>Corrupted Depths Exclusive</b>)</td>
+  <td><font>✗</font></td>
+  <td>(★★★)</td>
+</tr>
+</tbody>
+</table>
 
 ## Located
 
