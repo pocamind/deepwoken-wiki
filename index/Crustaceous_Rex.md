@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 25814
+revid: 25883
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster]
@@ -36,13 +36,13 @@ File:Crabbo.PNG
   <td><b>Crushing Claw</b></td>
   <td>The Crustaceous Rex raises its <i><b>Right Claw</b></i> and grabs its foe, dealing medium damage to its opponent by crushing its bones. If the opponent is at low enough health, The Crustaceous Rex will split its foe in half, <b>INSTANTLY AUTO-GRIPPING THEM.</b></td>
   <td><font>✗</font></td>
-  <td>(★★★)</td>
+  <td><b>(★★★)</b></td>
 </tr>
 <tr>
   <td><b>Ground Smash</b></td>
   <td>The Crustaceous Rex jumps up into the sky, slamming down onto his foes with his downside, dealing medium damage.</td>
   <td><font>✗</font></td>
-  <td>(★★☆)</td>
+  <td><b>(★★☆)</b></td>
 </tr>
 <tr>
   <td><b>Hack &amp; Slash</b></td>

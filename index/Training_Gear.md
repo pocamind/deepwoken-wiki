@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 25526
+revid: 25889
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -92,7 +92,7 @@ _Purchased from Mantra Shops at any area._
 
 -   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 
-### Frostdrawer
+### [Frostdraw](Frostdraw.md)
 
 -   [Hemafrost](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
 

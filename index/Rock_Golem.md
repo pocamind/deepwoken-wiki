@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 25760
+revid: 25900
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Rock Golem
 
-“ I'll try spinning, that's a good trick. ”
+“ Puny mortal, witness the power of my ultimate spinning technique! ”
 
-― Rock golems before shredding a player's health and posture bar
+― Primal golems before shredding a player's health and posture bar
 
 Template:Creature Infobox V3
 
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [The Garden Reservoir](The_Garden_Reservoir.md), but they can also be found throughout Upper Erisia fighting a [Megalodaunt](Megalodaunt.md) in an uncommon event. The black variant of Rock Golems known as Golem Prime and are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than their original counterparts.
 
-In combat Rock Golems are very hardy having moderately high health, and high slash resistance. Despite this Rock Golem's attacks are relatively non-punishing when hit, its flashiest attacks are the easiest to exploit, and its remaining ones are very simple to avoid.
+In combat Rock Golems are very hardy having moderately high health, and high slash resistance. Despite this Rock Golem's attacks are relatively non-punishing when hit, its flashiest attacks are the easiest to exploit, and its remaining ones are very simple to avoid They also have rock balls.
 
 ## Moves
 
@@ -35,7 +35,7 @@ In combat Rock Golems are very hardy having moderately high health, and high sla
 | **Uppercut** | The golem winds up its arm behind it, before quickly swinging it outwards. | ✗ | (★★☆) |
 | **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player. Does not use this attack if there is no ceiling above it. | ✗ | (★★☆) |
 
-### Prime Golems
+### Primal Golems
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
@@ -60,10 +60,10 @@ In combat Rock Golems are very hardy having moderately high health, and high sla
 Whenever it completes a move, you have enough time to hit it twice, afterwards there is a consistent and safe strat for each move.
 
 -   **Rapid Spin** - Hit 3 times during the windup, before either dodging back and running away from the attack (safe, but loses you the 2 hits after barrage) or parrying the barrage (risky, but allows you to get the 2 hits).
-    -   **Lethal Spin (Prime Golem)** - Do not use the risky strat under any circumstances, as it hits too fast to parry.
+    -   **Lethal Spin (Prime Golem)** - ~Do not use the risky strat under any circumstances, as it hits too fast to parry.~ **(You can parry the Spin by spamming F)**
 
 -   **Rock Sledgehammer** - Parry or dodge it, up to preference.
--   **Foot Stomp** - Parry the stomp, _you do not have enough time to dodge it._
+-   **Foot Stomp** - Parry the stomp, _~you do not have enough time to dodge it.~_ **(You can dodge its foot stomp)**
 -   **Swing** - Dodge the swing. It is essentially a reskinned Megalodaunt kick, and should be treated as such.
 -   **Angered Scream** - 3 hits while it's screaming, it _probably_ won't hit you, although you're not in danger of getting hit by its other moves if it does.
 -   **Laser Beam** - Hit 2 times and dodge, the beam should miss. If you are less experienced with fighting these, wait for the charging noise to finish, then dodge. You can also count to 3, and right as you count 3, dodge.

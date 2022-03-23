@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25882
+revid: 25921
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -333,7 +333,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Nullifying Clarity \[Generic Talent, Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks, but the effect is removed upon impact. (+2 Health, +5 Ether)
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent, Intelligence\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
--   Charged Return \[Common Talent, Intellegence\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
+-   Charged Return \[Common Talent, Intelligence\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
 
 ### Falling Star Guard
 
@@ -462,8 +462,8 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 3 seconds.
         -   Beside passive health regen, it also blocks health packs from knocks, spit healing, bloodless gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Prerequisite: 50 Willpower and 50 Intelligence
-        -   Could be higher or lower, not confirmed yet.
+    -   Prerequisite: 75 Willpower and 75 Intelligence
+        -   Nobody has gotten it at 50 Willpower and 50 Intelligence. It's safe to say that's not the requirement.
 
 ### Hunter
 

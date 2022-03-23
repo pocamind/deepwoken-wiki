@@ -1,12 +1,16 @@
 ---
 title: Gigamed
-revid: 24298
+revid: 25906
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Gigamed
+
+“ Look Patrick, it's a Jellyfish! ”
+
+― Lvl 1 Adretian Freshspawn walking towards a King Jellyfish to his death
 
 **Gigamed:**
 
