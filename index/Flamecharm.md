@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 25816
+revid: 25857
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -39,7 +39,17 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
+|  | Fire Blade | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
+-   Deals moderate damage.
+-   Burns target(s).
+-   Can block break some targets at mantra level 1, and almost all targets at higher levels.
+-   Caster can walk (although slowed) while casting.
+-   Can break certain parts.
+-   Compatible with Size, Duration and Intensity Buffs.
+
+ |
 |  | Flame Repulsion | An exertion of flames. | After a wind-up of ~2 seconds, user explodes in a burst of flames.
+
 -   Unable to move in wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
@@ -113,16 +123,6 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
 -   Can not be upgraded with a multiplying spark.
 -   Can be upgraded with Magnet Spark, but the change is unknown.
-
- |
-|  | Fire Blade | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
-
--   Deals moderate damage.
--   Burns target(s).
--   Can block break some targets at mantra level 1, and almost all targets at higher levels.
--   Caster can walk (although slowed) while casting.
--   Can break certain parts.
--   Compatible with Size, Duration and Intensity Buffs.
 
  |
 |  | Rising Flame (★★) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.

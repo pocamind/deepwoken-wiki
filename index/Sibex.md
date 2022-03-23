@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 25811
+revid: 25840
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -63,7 +63,9 @@ Sibex:**(If you have a decent amount of Bell progress)** Ahhhh... I can hear you
 
 Sibex:**(If you are close to obtaining a bell/You have a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
 
-Sibex:**(If bell is available)** Well look at you, my friend! You're practically beaming with the song!                                                      
+Sibex:**(If bell is available)** Well look at you, my friend! You're practically beaming with the song!
+
+Sibex:**(If you have Vacant Flaw)** ...What in the Drowned Gods' names happened to your Soul!? No, no, something's terribly wrong with it - it's been maimed by something. I'm sorry to be the one to tell you this, but your Soul cannot Resonate. My guess is that you made a deal with Eternity's Prisoner. I pity you, boy.                                                      
 
 You: What should I do?
 

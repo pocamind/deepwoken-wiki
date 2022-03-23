@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 25749
+revid: 25859
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, NPCs]
@@ -17,12 +17,9 @@ Age in Deepwoken is viewable by going to your stats menu. Your age increases eve
 
   
 
-## Fountain Of Youth
-
-To get back to age 18 there is a place called the [Lightkeeper Temple](Lightkeeper_Temple.md) in [The Starswept Valley](The_Starswept_Valley.md) next to the [Widow's Hollow](<Widow's_Hollow.md>) you do down a hole **NOTE: THERE ARE ALOT OF THRESHERS BE PREPARED TO FIGHT THEM.** After defeating all the Threshers you should see the Fountain in the Lightkeeper Temple wash your face to get bacm to 18.
-
 ## Effects of aging
 
-The section below will be continually updated after any visual changes, the pictured character below is currently "AGE 40" (been alive since Deepwoken's release).
+The section below will be continually updated after any visual changes, the pictured character below is currently "AGE 41" (been alive since Deepwoken's release). Moon Rings stop your character from changing visually, but they still age.
 
 -   Age 30+ (exact age unknown) - small wrinkles on the sides of the eyes
+-   IF your the same race and race variant as someone lets say player A is 40+ while player b is only like 21, you get the title juvenile over your name for that person while they get elder over theirs

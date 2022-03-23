@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 25825
+revid: 25860
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,7 +16,7 @@ Having certain traits can make you someone else's relative.
 -   Siblings - Same last names, same variant, and tattoos for races that require them.
 -   Cousins - Same variant of the same race
 -   Twins - Same last names, same racial variant. For some races, like ones with tattoos, not scars, the tattoos will have to be the same. Most likely also same gender. Because they're twins, they may also need to have the same age, although this isn't confirmed and some report having twins younger than them.
--   Elder - Unknown but is a family tag.
+-   Elder - Same variant of the same race, but with the age requirement of 40 (If you are 40, only you appear as an elder to them, they still appear as an cousin)
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25838
+revid: 25843
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -20,7 +20,7 @@ The lore of Deepwoken is vast and scattered across the sea. Lore can be found th
 
 **DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Dev's themselves (Arch\_Mage, Naktigonis)
 
-This Page is for LORE only. If you want to see which Faction can be reputable or not, go [here](Reputation.md).
+This Page is for LORE only. If you want to see which Factions can be reputable or not, go [here](Reputation.md).
 
 ## Figures
 
@@ -891,6 +891,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 -   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
+    -   Additionally, talking to Sibex with the Vacant flaw makes him recoil with shock and desolation, with him regretfully informing you that you cannot obtain a Resonance. He mentions your possibility of making a deal with something that goes by the title of **Eternity's Prisoner**. This could be Yun'Shul, or even possibly one of Arch\_Mage's lore characters as he possesses an ability that grants extreme power to one of your mantras, in exchange for the sacrifice of another mantra and your **soul**\- leaving you with the Vacant flaw.
 
 ## Deepwoken: 1271~
 

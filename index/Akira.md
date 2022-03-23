@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 25471
+revid: 25850
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,9 +14,21 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 > _"Still alive, are you? Not bad." -Akira, after talking to him at [Castle Light](Castle_Light.md)._
 
+## Description
+
+Akira is a young Etrean with widely scruffled hair, a frown, and sharp eyes. He wears the Black Diver outfit, and a pair of earrings {please identify which ones specifically in future edits}.
+
+He has a Katana strapped to his back, and a Corrupted Bell resting at his hip.
+
+The Bell in question allows Akira to instantaneously grip any entity Akira wishes at the cost \[Corrupted Downside\] of his lifespan and power. However, the stronger the target is, the more years of life that he will have to sacrifice to kill them.
+
+Outside of his tough persona, Akira is actually relatively inexperienced and unseasoned as a Black Diver. As a result, he is the only Black Diver present on the First Layer.
+
+A player with an extremely high amount of Charisma can intimidate him into retreating via a Thundercall ability/mantra (perhaps an advanced application of an alternative or modified Spark Swap? Or even a Thundercall equivalent to Shadowcast's Shadow Travel?). Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without sapping a large portion of his strength, and thus retreats to another area.
+
 ## Meeting
 
-Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in a event that isnt guaranteed, meaning you may need to server hop to meet him.
+Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in an event that isn't guaranteed, meaning you may need to server hop to meet him.
 
 You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is leaning against the wall in the Main Hall by the door. He gives you the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
 
@@ -58,7 +70,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 > 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[(100) Charisma\]
 
-> Akira: _\*The man blinks twice, apparently stunned-_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) (He's not at Castle Light after this)
+> Akira: _\*The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) (He's not at Castle Light after this)
 
 **Castle Light**
 

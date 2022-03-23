@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25827
+revid: 25851
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -417,7 +417,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Breathing Impact \[Generic Talent, Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
 -   Inhale \[Generic Talent, Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
 -   Tailwind \[Generic Talent, Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
-    -   No cooldown and can be stacked to move very quickly.
+    -   You can no longer abuse this. You cannot spell cancel a Single mantra twice as there is now a 2 second cooldown, however you can still spell cancel one Mantra into a different Mantra.
 
 ### Genius Intellect
 
