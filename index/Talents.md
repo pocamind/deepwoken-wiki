@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25851
+revid: 25882
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -422,6 +422,8 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Genius Intellect
 
 -   The Thinker \[Generic Talent, Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
+    -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
+    -   Prerequisite: ??? Intelligence
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
     -   Is not applied retroactively. Only mods added to mantras after obtaining this talent while have the reduced ether cost.
@@ -432,7 +434,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Glassdancer
 
 -   Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying slow or freeze now applies ice crystals on the enemy, these are used for other effects related to crystallization.
+    -   Applying slow or freeze now applies ice crystals on the enemy instead. Stacking enough ice crystal make them explode, damaging the target.
 
 ### Great Wall
 
@@ -458,7 +460,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   All the Dead Gods \[Rare Talent\] - Your M1s now apply anti-heal.
     -   Whenever an M1 touch an enemy (block/dodge/parry/hit), disable every source of healing for 3 seconds.
-        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, bloodless gem, campfire regen, Blood Scourge Resonance heal.
+        -   Beside passive health regen, it also blocks health packs from knocks, spit healing, bloodless gem, campfire regen, Blood Scourge Resonance heal and the Vampirism Enchant.
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 50 Willpower and 50 Intelligence
         -   Could be higher or lower, not confirmed yet.
@@ -496,10 +498,13 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Loyalty \[Generic Talent, [Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Guildmates take less damage from you and deal less damage to you.
 -   Versatile \[Generic Talent, [Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+-   Maudet \[Generic Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
+    -   Ship cost is lowered and have more health.
+
 -   Maudet \[Generic Talent, [Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
 -   Chitin \[Generic Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
-    -   While not empty, receive ?% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
+    -   While not empty, receive 5% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
 -   Navae's Guidance \[Generic Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger.
 -   Nightchild \[Generic Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
@@ -708,6 +713,7 @@ Prerequisite: Charisma
 ### Static Weaver
 
 -   Static Link \[Generic Talent, Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
+    -   Prerequisite: ??? Thundercall and ??? Intelligence
 -   Static Allure \[Generic Talent, Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
     -   Prerequisite: Static Link
 -   Jumper Cables \[Generic Talent, Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
