@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 25627
+revid: 25959
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics]
@@ -20,7 +20,7 @@ Another thing about fishing is bait. To equip bait, hold out your fishing rod an
 
 Fishing levels your willpower, fortitude and possibly intelligence? Though that might just be because you're getting new items.
 
-After you catch a fish once, you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line.
+After catching a fish 15 times, you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line.
 
 There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. (i didnt have to successfully catch a fish to get this, just a couple failed attempts. -rexcks#5029)
 
@@ -81,6 +81,6 @@ If you want to add more, feel free. I'm done for the time being.
 -   Some spots wont let you fish.
 -   The front of Monkey's Paw is a good place to farm for fish and chests as you wait max of 20 sec to right when it hits the water between casting your line before a fish bites.
 -   Also, the shores of Etris tend to be good for fishing, as I have appeared to get fish much faster than in the Aratel sea.
--   Surprisingly, void sea is also good for fishing, I was fishing somewhere on the edge of Greathive Aratel shipyard and was getting alot of good fish (although had to fight lionfishes). And if you get to see kaido you can have time to run up or run back to the shipyard.
+-   Surprisingly, void sea is also good for fishing, I was fishing somewhere on the edge of Greathive Aratel shipyard and was getting alot of good fish (although had to fight lionfishes). And if you get to see Kaido you can have time to run up or run back to the shipyard.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
 -   Always good to have a fishing rod on you, fishing is a good way to get food if you're ever in a pinch.
