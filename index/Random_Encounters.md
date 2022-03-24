@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 24374
+revid: 25980
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -24,37 +24,55 @@ Random encounters are randomly spawning events that occur throughout target area
 
 A campfire, circled by three NPCs, consisting of 2 regular bandits and 1 bandit Captain. Loot from the chests after killing every bandit is mediocre. Occurs at Erisa.
 
+**weapons:** basic or semi advanced
+
 #### **Bandit Ambush**
 
 While in Erisia, there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at Erisia.
+
+**weapons:** basic or semi advanced
 
 #### **Thieves**
 
 A group of 3 thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for their Notes and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at Erisia.
 
+**weapons:** dagger, pickpocket
+
 #### **Bandit Attack**
 
 In Etris or Vigils, 2 bandits can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest.
+
+**weapons:** basic
 
 #### **Knives of Eylis**
 
 Similar to bandit events, with 3 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
 
+**weapons:** dagger, unknown spell
+
 #### **Lost Villagers**
 
 In Upper Erisia, the player can encounter 2 hostage NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
+
+**weapons:** fists, spammable mantas
 
 #### **Mudskipper Emergence**
 
 An encounter limited to [Erisia](Erisia.md). A group of special Mudskippers will emerge from the ground, some of them with the ability to blow gust of winds that greatly push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. This encounter is made up of 3 waves.
 
+**weapons:** [mudskippers](Mudskipper.md)
+
 #### **Mudskipper-Mancer**
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon 3 Mudskippers, consisting of 2 that can use Flamecharm and 1 that can use Frostdraw.
 
+**weapons:** [mudskippers](Mudskipper.md)
+
 #### **Songseeker**
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight. They will be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+
+**weapons:** fists, random manta (excluding shadow)
 
 #### **_X_ vs _X_**
 

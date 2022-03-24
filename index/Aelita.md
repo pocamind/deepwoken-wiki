@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 25772
+revid: 25962
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -26,7 +26,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 4.  _"Alright lets see if you remember what I look like."_
     -   Stand next to Aelita, she has purple eyes.
 5.  _"See? That was fun right? You can have a lot more fun if you come back during the winter."_
-    -   Aelita does not spawn during the winter, instead [Blizzard Knights](Stone_Knight.md) spawn.
+    -   Aelita has a chance of giving rarer loot during winter
 
 ## Drops
 
@@ -48,4 +48,3 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   She is also speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to clone themselves and appear out of nowhere, as well as the fact they both have purple eyes, which seems to be unique in some way though it should be noted Gremor have naturally purple eyes.
 -   Aelita has purple eyes, her clones will never have purple eyes.
 -   Aelita recently got her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E), composed by Naktigonis.
--   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25942
+revid: 25997
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -54,15 +54,16 @@ notices:
 -   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
--   **Teleportation** is a reference to Minato's Flying Raijin from _Naruto._
+-   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto._
 
 ## Talents
 
 -   **Captain Etrea's** name and ability is a reference to Captain America.
--   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._.
--   **Boom, Headshot** is a reference to One-Hit Kill system that games have created, by forcing players to aim at the head to kill the target in one shot, also meme.
+-   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
+-   **Boom, Headshot** is a reference to the One-Hit Kill system that games have created, by forcing players to aim at the head to kill the target in one shot. It also possibly references [this popular sound effect](https://youtu.be/ovsVU6mktOw?t=70) as well.
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
+-   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
 
 ## Weapons
 
@@ -72,12 +73,13 @@ notices:
 -   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
 -   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer: Kimetsu no Yaiba,_ though it should be noted such a design isn't uncommon in media_._
+-   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 
 ## World
 
 ### **The Depths**
 
--   Among one of the cliffs, a pineapple can be found. This is a reference to Spongebob's House.
+-   Among one of the cliffs, a pineapple can be found. This is a reference to [Spongebob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
 
 ### **Races**
 

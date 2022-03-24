@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 16962
+revid: 25991
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,4 +22,9 @@ Legion Captain are found all around Hive in different locations usually fighting
 
 ### Tips
 
--   They usually are defeated in the Hive event so you can use the Authority Captain to knock him if you need.
+-   ~They usually are defeated in the Hive event so you can use the Authority Captain to knock him if you need.~ Incorrect, **The Legion Captain does not lose on average**, **It depends on the weapons they spawn with**, as I've observed countless confrontations, If the Captain is using Fists they will almost always win, if they have the Champion sword, they might lose only if the Adret also has a sword, and if the Captain has a spear he will almost always lose.
+-   The Legion Captain, after killing the Adret, Instantly aggrovates on the nearest enemy NPC, Doesn't matter if it's through a wall, **Killing the NPC will most probably make the Captain Despawn** if it doesn't have anymore targets, Therefore, not making you able to talk to him.
+-   The Captain with Grand Javelin is always hostile, No matter your Reputation with the Legion, **You will not lose Reputation from killing this one.**
+-   The Captain with Grand Javelin will let you get 2 hits in (with medium) Before parrying the 3rd, so **just hit twice and prepare to parry his Javelin.**
+-   Ontop of all of that, He stands still, and **being on a higher or lower plane than him, will make him not able to hit you**, like a slight sand dune is enough to make him just throw Javelins that don't go anywhere.
+-   If You do not know how to fight them, Be Very careful, **they insta-grip you if you're low enough on health** (Example: One bar, since they do al ot of damage)

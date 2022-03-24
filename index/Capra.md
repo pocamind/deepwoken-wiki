@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 25566
+revid: 25994
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -51,7 +51,7 @@ _"Keepers of old knowledge, they wander the lands offering their experience to t
 **Lore:**
 
   
-They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it.
+They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it also its also said that Capra are the enemy race to Gremor due the facts Gremors are deer and capras wehre the skulls of deer.
 
 **Strengths:**
 

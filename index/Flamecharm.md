@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 25857
+revid: 25977
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -149,9 +149,10 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 | --- | --- | --- | --- |
 |  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground. Also launch nearby targets in the air.
 -   On flat ground, will usually lead to fall damage for the user.
--   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
+-   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
 -   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
 -   With the talent _Meteor Impact_ you can still damage enemies with it as long as the initial leap hits and the opponent(s) are sent upwards with you.
+-   Shares the same casting timer with Strong Leap, regardless of its Reversal Spark Modification.
 
  |
 
@@ -243,4 +244,5 @@ These talents are found in the "Undying Ember" catagory.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
 -   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_.
--   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like agitating spark where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes Flame Withing equal if not better than Static withdraw or lightning cloak.
+-   Flame Leap's Reversal Version negates fall damage for a small duration. It can also be used in mid air; but expect fall damage upon use.
+-   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like agitating spark where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes Flame Within equal if not better than Static withdraw or lightning cloak.

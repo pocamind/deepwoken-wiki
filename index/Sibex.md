@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 25936
+revid: 25970
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -16,7 +16,7 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 ## Features
 
-**Sibex** is capable of telling you your current [resonance](Resonance.md) progress, and what gives you the most **resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him, and in return he will tell you the details of your resonance obtainment method.
+**Sibex** is capable of telling you your current [resonance](Resonance.md) progress, and what gives you the most **resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him (You keep the spine), and in return he will tell you the details of your resonance obtainment method.
 
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
