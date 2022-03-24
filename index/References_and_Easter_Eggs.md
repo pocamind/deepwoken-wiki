@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 25768
+revid: 25942
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death]
@@ -13,7 +13,7 @@ notices:
 ## Armors/Equipments
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
--   **Providence coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from _Devil May Cry series_.
+-   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from _Devil May Cry series_.
 
 ## Attunements
 
@@ -28,7 +28,7 @@ notices:
 
 ### **Thundercall**
 
--   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identicle.
+-   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter X Hunter_ as it used to be blue, making it almost identical.
 
 ### **Frostdraw**
 
@@ -39,8 +39,9 @@ notices:
 ## Enemies/Bosses
 
 -   The **[Megalodaunt](Megalodaunt.md)** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
--   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar and might be inspired by [Beast Titan form](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
-    -   The soundtrack that used to play during the bossfight also originated from the afformentioned series.
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar and might be inspired by [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
+    -   The soundtrack that used to play during the boss fight also originated from the aforementioned series.
+    -   It also throws rocks, which the [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) also does.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from Accelerator's moveset in the Roblox game _Anime Battle Arena_.
 -   **[The Enforcer's](Enforcer.md)** designs is very similar to the Kraken from _Salt and Sanctuary._
@@ -60,6 +61,8 @@ notices:
 -   **Captain Etrea's** name and ability is a reference to Captain America.
 -   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._.
 -   **Boom, Headshot** is a reference to One-Hit Kill system that games have created, by forcing players to aim at the head to kill the target in one shot, also meme.
+-   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
+    -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 
 ## Weapons
 
@@ -68,10 +71,14 @@ notices:
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
--   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) nichirin sword from _Demon Slayer: Kimetsu no Yaiba,_ though it should be noted such a design isn't uncommon in media_._
+-   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer: Kimetsu no Yaiba,_ though it should be noted such a design isn't uncommon in media_._
 
 ## World
 
 ### **The Depths**
 
 -   Among one of the cliffs, a pineapple can be found. This is a reference to Spongebob's House.
+
+### **Races**
+
+-   **Vesperians** are kind of like [The Knight](<https://hero.fandom.com/wiki/The_Knight_(Hollow_Knight)>) from _Hollow Knight_. Although, this is a very farfetched claim.

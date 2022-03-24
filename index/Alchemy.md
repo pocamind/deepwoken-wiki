@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 22940
+revid: 25937
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ You cannot brew any [Attunement](Attunements.md) potions, but instead you will h
 
 To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion.
 
-There are three known functioning cauldron in the game. One is found in a hut on a hill near the guild hall on [Etris](Etris.md), next to the Frostdraw trainer. The second is found on the second floor of the castle on Summer Isles. The third is found next to the Physical Mantra trainer at Greathive Aratel. You can also create your own cauldron using an Intelligence mantra, which appears at exactly 25 intelligence, but is unlikely to draw unless attunementless.
+There are four known functioning cauldron in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the Frostdraw Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). You can also create your own cauldron using Summon Cauldron, which appears at exactly 25 Intelligence as a Mantra, but is unlikely to draw unless Attunementless.
 
 Almost all talents and mantras related to alchemy **only appear after brewing your first potion**. If you want to get all the alchemy talents, ensure you brew a potion at Etris early on.
 

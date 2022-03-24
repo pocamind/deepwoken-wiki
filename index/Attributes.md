@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 25756
+revid: 25934
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -59,7 +59,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
-    -   Reduce the vision cone of NPCs and Monsters.a
+    -   Reduce the vision cone of NPCs and Monsters
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour and Sneak Attacks with the Ankle Weights.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
@@ -70,7 +70,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 "What's 9 + 10?!" - A Big Brained Adret Questioning an Inept Felinor
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
--   This stat give 2 Ether and Reservoir
+-   This stat gives 2 Ether and Reservoir
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via foraging, fishing, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.

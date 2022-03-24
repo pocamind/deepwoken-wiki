@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 25840
+revid: 25936
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -61,9 +61,9 @@ Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, 
 
 Sibex:**(If you have a decent amount of Bell progress)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?
 
-Sibex:**(If you are close to obtaining a bell/You have a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
+Sibex:**(If you are close to obtaining a bell/You can get a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
 
-Sibex:**(If bell is available)** Well look at you, my friend! You're practically beaming with the song!
+Sibex:**(You already have a bell)** Well look at you, my friend! You're practically beaming with the song!
 
 Sibex:**(If you have Vacant Flaw)** ...What in the Drowned Gods' names happened to your Soul!? No, no, something's terribly wrong with it - it's been maimed by something. I'm sorry to be the one to tell you this, but your Soul cannot Resonate. My guess is that you made a deal with Eternity's Prisoner. I pity you, boy.                                                      
 
@@ -83,4 +83,5 @@ Sibex:(If you have +BOSS Gain) Ah... I can hear your soul drawing back, lining u
 
 -   There is a possibility that Sibex will not give you info on how close you are to resonating with your bell, the reason for this is unknown. He will still however tell you the best way to obtain your resonance.
 -   Sibex mentions Jericho the Warden, which is an NPC at [Fort Merit](Fort_Merit.md). This most likely means Sibex is with the Authority.
+-   Sibex will not take your thresher spine you just need it to talk to him.
 -   Sibex has the armor called Hive Leaders Garment equipped, even though the only person we know that has this is a mod with insane specs (Refer to [Armors](Outfits.md) and go to the bottom for a description)
