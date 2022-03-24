@@ -1,11 +1,18 @@
 ---
 title: Death Compendium
-revid: 25325
+revid: 26035
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Death Compendium
+
+Death Causes listed by the game
+
+-   Starvation
+-   Gravity
+-   Various Causes
+-   Impatience ([https://gyazo.com/f479ba7c0b75e95066c464fc4ec224ef](https://gyazo.com/f479ba7c0b75e95066c464fc4ec224ef))
 
 Deepwoken's Death Compendium, a list of **every** possible death you can achieve in game.
 

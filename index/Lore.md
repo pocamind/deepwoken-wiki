@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 25843
+revid: 26007
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -641,10 +641,12 @@ _"The stars call you back..."_
 
 ### The Four Attunements of the Canticlysm
 
-**Lore Sources:** _Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord)_
+**Lore Sources:** _Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord), Curved Blade of Winds (Description)_
 
 -   The Four Basic Attunements, Flamecharm, Frostdraw, Galebreathe and Thundercall were discovered and developed during the Canticlysm; the peak of understanding The Song, and also the eventual downfall of the Old World.
     -   (Naktigonis) Proof of this claim is from Naktigonis' OST, named "The Sun, Gleaming". He talks of the Songseekers, whom wish to master the old ways of what Mantracasters did during the Old World.
+    -   (Arch\_Mage) Like the first bulletin, the 4 Attunements were discovered and developed during the Canticlysm.
+    -   (Curved Blade of Winds) The first Galebreathers of the Canticlysm wield the Curved Blade of Winds; a Scimitar attuned to the Winds.
 
 ### Flamecharm
 

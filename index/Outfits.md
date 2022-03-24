@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25938
+revid: 25998
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -122,7 +122,7 @@ _Requires Fortitude 15_
 | File:VigilHood.png | Pale Assassin Hood | Grants a random buff. | Hive Chests |
 | File:Barrel Helmet.png | Barrel Helm | Grants a random buff.
 
-_Requires Fortitude 15?_
+_Requires 10 Fortitude_
 
  | Artifacts, Arena Chests, Duke Chests, Depths Chests |
 |  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests |

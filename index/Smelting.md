@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 25132
+revid: 26028
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,4 +21,6 @@ Not much is known on how smelting has changed, other than it has been nerfed.
 
 Some Users have Said that the health, ect merge together, Lets say something like a 9 health demon mask and a 3 ether blindfold are merged together, you would get something between the two, like a 9 health 2 ether demon mask, or a 3 ether 8 health blindfold.
 
-Rlmega has also discovered that TALENT items can be merged together. A Blindfold and a demon mask would make a blinding demon mask, but the mask would keep the name blindfold
+Rlmega has also discovered that TALENT items can be merged together. A Blindfold and a demon mask would make a blinding demon mask, but the mask would keep the name blindfold  
+
+NOTE: Level Requirement is based on the Armor Piece's name, as you can see a freshie wearing a Fleet Warden Cape (Tundra Scarf) but can't wear the 'Vanguard Brace'

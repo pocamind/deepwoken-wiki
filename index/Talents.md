@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 25921
+revid: 26022
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -151,9 +151,14 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Authority Intimidation \[Generic Talent, Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Generic Talent, Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
+    -   Eletrify is essentially a slow similar to Frostdraw Chill effect.
 -   First Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
 -   Second Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
 -   Third Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
+    -   The wording for every Interrogation tend to be confusing:
+        -   First Interrogation make it so that enemies who are Electrified deal 50% less posture damage to you.
+        -   Second Interrogations make it so that your own attacks taht apply Electrify restore Ether.
+        -   Third interrogation make it so that enemies who are Electrified deal 50% less damage to you.
 
 ### Bastion
 
@@ -206,7 +211,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20(?) Intelligence
 -   Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30(?) Intelligence
-    -   Amount of Ether refunded depends- some perfect casted mantras will have complete ether restoration, some do not.
+    -   Refund 15% of the ether cost of the mantra.
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
@@ -498,7 +503,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Loyalty \[Generic Talent, [Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Guildmates take less damage from you and deal less damage to you.
 -   Versatile \[Generic Talent, [Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
--   Maudet \[Generic Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
+-   Seaborne \[Generic Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered and have more health.
 
 -   Maudet \[Generic Talent, [Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.

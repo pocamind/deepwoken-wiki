@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 25490
+revid: 26029
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
     -   The altitude travelled decreases significantly as the user loses health.
-    -   Requirement: 40 Strength, 5-10 Agility _Strength Mobility Mantra_  
+    -   Requirement: 40 Strength, ~5-10 Agility~ _Strength Mobility Mantra it does not require agility. proof in the comments._  
         
 
 ### _**Fortitude Mantras**_

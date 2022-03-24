@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 24730
+revid: 26008
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -22,8 +22,6 @@ The _Chime of Conflict_ is a talent and item obtainable by talking to [Yamaketza
 
 The Chime of Conflict is unusable while in [The Depths](The_Depths.md). This will not let you spawn in a Depths-styled map.
 
-  
-
 ## PvP Arena
 
 Players using the bell will be prompted to select a gamemode between 1v1 and 3v3. Depending on their selection, 2 things can happen:
@@ -32,8 +30,6 @@ Players using the bell will be prompted to select a gamemode between 1v1 and 3v3
 -   **3v3 -** A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
 
 Afterwards, players will be waiting in the queue and be put in a match with their opponent.
-
-  
 
 ## Rules
 
@@ -62,4 +58,4 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 -   One chest (1v1) or three chests (3v3).
     -   Chest rewards may get better as you accumulate a win streak, or when you fight a high-level player. (A player has noticed better rewards such as 3-star weapons after a 6+ win streak; anecdotal evidence and needs testing. Another player has attained a high-level weapon after victory against a high-level opponent. It was also said that enchants appear more commonly than normal means. (?))
 -   An extra Skull if the player does not have 3 skulls.
--   Immense bell progression (Random between players as some can get bell upon 40 wins and other upon 200)
+-   Bell progression

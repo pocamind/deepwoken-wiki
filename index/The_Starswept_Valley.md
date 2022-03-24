@@ -1,8 +1,9 @@
 ---
 title: The Starswept Valley
-revid: 25565
+revid: 26011
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
 ---
 
 # The Starswept Valley

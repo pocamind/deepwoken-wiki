@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 25988
+revid: 26002
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -8,7 +8,7 @@ categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
 
 # Stone Knight
 
-Stone Knights are a type of Giant [monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). They all spawn via a falling meteor (Desert Knights are capable of spawning without a meteor)The stone knight are very friendly as they will drop free loot.
+Stone Knights are a type of Giant [monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). They all spawn via a falling meteor (Desert Knights are capable of spawning without a meteor).
 
 **Blizzard Knight:**
 

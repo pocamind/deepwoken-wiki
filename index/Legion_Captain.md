@@ -1,8 +1,9 @@
 ---
 title: Legion Captain
-revid: 25991
+revid: 26010
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
 ---
 
 # Legion Captain
@@ -27,4 +28,4 @@ Legion Captain are found all around Hive in different locations usually fighting
 -   The Captain with Grand Javelin is always hostile, No matter your Reputation with the Legion, **You will not lose Reputation from killing this one.**
 -   The Captain with Grand Javelin will let you get 2 hits in (with medium) Before parrying the 3rd, so **just hit twice and prepare to parry his Javelin.**
 -   Ontop of all of that, He stands still, and **being on a higher or lower plane than him, will make him not able to hit you**, like a slight sand dune is enough to make him just throw Javelins that don't go anywhere.
--   If You do not know how to fight them, Be Very careful, **they insta-grip you if you're low enough on health** (Example: One bar, since they do al ot of damage)
+-   If You do not know how to fight them, Be Very careful, **they insta-grip you if you're low enough on health** (Example: One bar, since they do a lot of damage)

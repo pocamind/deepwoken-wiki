@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 25920
+revid: 26034
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -250,8 +250,6 @@ Legendary = Gold
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use it to make food.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
-
-  
 
 ## Trivia/Notes
 
