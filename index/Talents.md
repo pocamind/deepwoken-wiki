@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26022
+revid: 26075
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -28,7 +28,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
     -   For example: You want to get After Cut, but After Cut will not appear in your hand until you pick Breathing Impact, as they are both in the "Galeforce" Category. Breathing Impact is the only Talent you can learn in order to unlock the rest of the Galeforce category.
--   Doing certain actions that may influence your rolls, such as [fishing](Fishing.md) and [alchemy](Alchemy.md).
+-   Doing certain actions that may influence your rolls, such as [alchemy](Alchemy.md). ([fishing](Fishing.md) talents were reworked after fishing update .)
     -   For example: Making a lot of potions will include the Potion Quaffer Talent in your roll pool now.
 -   A high enough Power.
     -   For example: A lot of the "Marauder" Category Talents require a Power of 40, before you are able to obtain them, such as Thresher Claws.
@@ -92,10 +92,10 @@ These Talents are meant to provide an increase to your speed or improve it in va
     -   Crouching is now has fast as walking.
 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
-    -   Prerequisites: 15 Agility (maybe 10, but no more than 15)
+    -   Prerequisites: 15 Agility & 5 Fortitude
+    -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
+        -   Negate the agility penalty tied to lost hp.
 
--   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
-    -   Negate the agility penalty tied to lost hp.
 -   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
 
@@ -309,6 +309,8 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
 -   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
+    -   Deals 50% of the original damage
+    -   Can proc from physical mantras
     -   Prerequisites: 20 strength, 25 agility.
 
 ### Duelist Flame

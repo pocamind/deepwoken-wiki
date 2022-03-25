@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 25990
+revid: 26077
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -16,7 +16,7 @@ _Also referred to as Warden of the Deep, and Executioner._ Template:Creature Inf
 
 ## **Description**
 
-**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins might be more complicated...Its also know that on a small chance the Enforcer may spare you as act of kindness because it feels bad having to kill a innocent being as the Enforcer was once human...
+**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the "Final Boss" of [The Depths](The_Depths.md), being the last and hardest trial faced. The Enforcer is said to be simply nothing more than a destructive construct, made to kill those who tried to escape The Depths, but its origins might be more complicated...
 
 ## Attacks
 
@@ -48,7 +48,6 @@ The Enforcer, however, is completely different from other [enemies](Enemies.md).
 
 -   Don't over-commit on counter attacks, The Enforcer has Hyper-armor
 -   The biggest thing about The Enforcer is the feints, when he does this, **HOLD BLOCK.** Even if you unblock, his swings are slow, and you have enough time to react and block again right in time.
--   ~The Enforcer is really easy to fight once you get familiar with it. **Warrior's Respite** is really good for cheesing it, just parry and block the feints, don't attack as it will cancel Warrior's Respite and stand still to heal.~ Patched
 -   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 50+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
 -   You shouldn't move away for most of its attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal damage. Make distance if needed, but not too far that he'll use Pull, or too close that he'll use Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely.
@@ -56,7 +55,7 @@ The Enforcer, however, is completely different from other [enemies](Enemies.md).
 -   When it uses Whirlwind, do not attempt to challenge it. It will shred your health. Run away and gain space instead.
 -   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block the attacks.
 -   After every attack you do, immediately hold block. The Enforcer does not have any moves that are unparryable, and it will not be able to harm you if you choose to block its attacks after every attack you do yourself.
--   If you notice your Posture getting too high whilst fighting, stop attacking and focus on only parrying the Enforcer's hits for abit until your Posture bar is empty before trying to attack it again.
+-   If you notice your Posture getting too high whilst fighting, stop attacking and focus on only parrying the Enforcer's hits for a bit until your Posture bar is empty before trying to attack it again.
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 
@@ -82,10 +81,10 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 ## Trivia
 
 -   All of The Enforcer's damaging attacks are parriable, and blockable.
--   ~Due to its very limited appearance and only being in the Depths and the Trial of One, it is hard to train against it without putting a high level character at risk or spending possibly many hours training against it as a level 10.~ Now that the Enforcer can be found in the trial of one, it can become easier to get used to fighting it.
+-   The Enforcer can be found in the trial of one, it can become easier to get used to fighting it.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally) or use consumables.
--   Enforcer can now pull you during an emote.
+-   Enforcer can pull you during an emote.
 -   The axe has a hitbox for some unknown reason, allowing for easy hits by outranging the enforcer during its whirlwind.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 

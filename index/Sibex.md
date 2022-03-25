@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 25970
+revid: 26045
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -21,7 +21,7 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiousity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
--   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (This is **NOT** true. I tested with a friend who also got this but no bell. Currently it isn't accurate. You can always go and check though) (Might mean close to bell though)
+-   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (Currently glitched, if it says this but you do not have a bell available, rejoin to different servers until he changes his dialogue.)
 
 ### Dialogue when meeting him:
 
@@ -55,7 +55,7 @@ Sibex: Yes, yes. Simple stuff, really. I give your soul a quick listen and give 
 
 You: Alright, tell me what my soul says.
 
-Sibex:**(If you have no Bell progress)** You Must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.
+Sibex:**(If you have Low Bell progress)** You Must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.
 
 Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.
 

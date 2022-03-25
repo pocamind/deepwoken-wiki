@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 25917
+revid: 26058
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -22,7 +22,7 @@ File:Primadon.png
 
 ## Description
 
-Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight. This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 ## Attacks
 

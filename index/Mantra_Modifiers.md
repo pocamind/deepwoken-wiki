@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 25830
+revid: 26053
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 
 A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
 
-#### _"I'm going to use unethical amount of Stratos stone to my mantra."_ -Some Etrean with 1 Intelligence (the person who originally wrote this wrote "intelligence" wrong. The irony.)
+#### _sexy "I'm going to use unethical amount of Stratos stone to my mantra."_ -Some Etrean with 1 Intelligence (the person who originally wrote this wrote "intelligence" wrong. The irony.)
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in Erisia [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -40,7 +40,8 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 | Image | Modifier | Effect | Note |
 | --- | --- | --- | --- |
 | File:Cloudstone HD.png | Cloudstone | +2 Size
-\-1 Speed
+\-1 Speed  
++?? Ether Cost
 
  | 
 
@@ -48,14 +49,19 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Projectiles lose distance.
 
  |
-| File:Stratus.png | Stratus Stone | +3 Size | 
+| File:Stratus.png | Stratus Stone | +3 Size  
+
++?? Ether Cost
+
+ | 
 
 -   Increases mantra/hitbox size.
 
  |
 |  | Crystal Lens | +2 Range
 
-\-1 Size
+\-1 Size  
++?? Ether Cost
 
  | 
 
@@ -63,14 +69,19 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   If the mantra is not a projectile, the hitbox/aim assist area size is reduced instead.
 
  |
-|  | Perfect Lens | +3 Range | 
+|  | Perfect Lens | +3 Range  
+
++?? Ether Cost
+
+ | 
 
 -   Increases range of Projectiles and targeting range of auto-aim moves.
 
  |
 |  | Aeon Logstone | +2 Duration
 
-\-1 Range
+\-1 Range  
++?? Ether Cost
 
  | 
 
@@ -79,7 +90,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Doesn't increase the duration of Adrenaline Rush.
 
  |
-|  | Eternal Logstone | +3 Duration | 
+|  | Eternal Logstone | +3 Duration  
+
++?? Ether Cost
+
+ | 
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 3 keys to Ritual Casts
@@ -87,7 +102,8 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
  |
 | File:Drift & Rush shard.png | Drift Shard | +2 Speed
 
-\-1 Duration
+\-1 Duration  
++?? Ether Cost
 
  | 
 
@@ -95,7 +111,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Repeating mantras (ex; Lightning Assault) perform their loops/repeated actions quicker.
 
  |
-| File:Drift & Rush shard.png | Rush Shard | +3 Speed | 
+| File:Drift & Rush shard.png | Rush Shard | +3 Speed  
+
++?? Ether Cost
+
+ | 
 
 -   Projectiles go further
 -   Repeating mantras (ex; Rapid Punches) perform their loops/repeated actions quicker.
@@ -108,10 +128,9 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
  |
 |  | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
 
-  
-+1 Size
-
++1 Size  
 +1 Range  
++?? Ether Cost  
 
 -   Does not turn additional FX on the spell invisible I.E. Tracers.
 -   Certain spells are not turned invisible, I.E. Lightning Beam.
@@ -125,17 +144,20 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
  |
 |  | Magnifying Stone | Likely same as Glass Stone, just better
 
-  
-+2 Size
-
++2 Size  
 +2 Range  
++?? Ether Cost  
 
 -   Crafted with a Stratus Stone and Perfect Lens
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
  |  |
-|  | Vibrant Gem | +2 Intensity | 
+|  | Vibrant Gem | +2 Intensity  
+
++?? Ether Cost
+
+ | 
 
 -   Fire - Burns more / Lava Serpent Path - ?
 -   Ice - Slows more / Crystal Path - ?

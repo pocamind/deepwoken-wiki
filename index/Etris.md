@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 25797
+revid: 26064
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -149,7 +149,7 @@ Template:Areainfobox
 
 ### The Lord Regent's Quest
 
-Warning: This Quest is excepetionally difficult. Recommended for High-Leveled and properly equipped players.
+Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and properly equipped players.
 
 -   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.

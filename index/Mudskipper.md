@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 26000
+revid: 26076
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper
 
-Template:Creature Infobox V3They are also known as Shriekers, Zombies, and Mudkippers.
+Template:Creature Infobox V3_Also known as Shriekers, Zombies, and Mudkippers._
 
   
 
@@ -27,7 +27,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 ## Variants
 
 -   **Blue Mudskipper** - Normal Mudskipper. If it spawns accompanied by Bloatskippers, it can use [Air Force](Galebreathe.md).
--   **(Light Green Skipper) Bloatskipper** - It explodes two seconds after dying and can use Air Force regardless of its spawn method.
+-   **(Light Green Skipper) Bloatskipper** - It explodes two seconds after dying and posses a bloated stomach. They move awkwardly and their mouth appears to be on the brink of vommitting.
 -   **(Black) Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage to kill than a normal Mudskipper so does not die when backstabbed. Is black.
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm or Frostdraw.
     -   **Redskipper (Flamecharm)** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
@@ -44,5 +44,4 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shurikens, Fire Palm, Air Blast, or Elemental Guns.
 -   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
--   There is a bug where Mudskippers use idle chat/dialogue used by most NPCs when idle for long periods of time, despite being incomprehensible gurgling little bastards.
--   They easily overwhelm and grip children/newer players despite being essentially the most basic form of enemy.
+-   There is a bug where Mudskippers use idle chat/dialogue used by most NPCs when idle for long periods of time.

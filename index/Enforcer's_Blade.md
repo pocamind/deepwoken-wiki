@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 25992
+revid: 26050
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,7 +27,7 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapons and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained through the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), through killing the [Enforcer](Enforcer.md). It is dropped randomly, and seems rarer than the Enforcer's Axe Its said that the size of the enforcers blade is the size of the Enforcers Shlong.
+The Enforcer's Blade is a Greatsword Heavy Weapon. You need 80 Heavy Weapons and 25 Strength in order to wield this weapon. The Enforcer's Blade is obtained through the same way as an [Enforcer's Axe](<Enforcer's_Axe.md>), through killing the [Enforcer](Enforcer.md). It is dropped randomly, and seems rarer than the Enforcer's Axe.
 
 Video of someone obtaining the Enforcer's Blade: [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)
 

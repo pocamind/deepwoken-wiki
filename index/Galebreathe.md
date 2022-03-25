@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 25614
+revid: 26072
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -64,7 +64,6 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
 -   Deals light damage.
 -   User cannot use weapons or spells during this spell.
--   Can grip knocked enemies if used for long enough(needs testing, I've seen it happen against a normal bandit but I'm unsure)
 
  |
 |  | Heavenly Wind  
@@ -185,6 +184,15 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 Costs _[Ether](Combat_Mechanics.md)_. |
 |  | After Cut | If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt. | +2 Elemental Intensity  
 +2 Health |
+
+**Legion Shock Trooper:**
+
+These talents require stats in agility.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Wind Step | Create a step of wind below you when jumping in the air. | +4 Elemental Intensity  
+Costs _[Ether](Combat_Mechanics.md)_. |
 
 **Whisper:**
 

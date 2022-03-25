@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 20324
+revid: 26081
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disambiguations]
@@ -31,3 +31,4 @@ Please follow one of the disambiguation links below or search to find the page y
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [The Enforcer](Enforcer.md)
+-   [Nautilodaunt](Nautilodaunt.md)

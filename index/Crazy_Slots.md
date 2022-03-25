@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 24098
+revid: 26051
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -38,7 +38,7 @@ Pressing C will activate the **Crazy Slots** Resonance and its unique special sk
 
 ### _Variants_
 
-Instead of variations, **Crazy Slots** has a total of **six** separate weapons to wield (two for each weapon category), along with unique Corrupted and Tarnished effects.
+**Crazy Slots** does not have variants, however, each weapon can have a different weight when the resonance is unlocked. This mean that you could, for example, summon the Divine Axe more often than the other weapons or summon the Divine Longsword less often.
 
 #### _Corrupted_
 
