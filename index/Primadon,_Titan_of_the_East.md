@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 26058
+revid: 26103
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -43,6 +43,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
     -   True Ether Bullet will make guns deal pitiful damage.
 -   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. (still needs more testing)
     -   If a player is knocked by something else than Primadon, but is then executed by Primadon, the victim will not be sent to [The Depths](The_Depths.md).
+    -   If a player is knocked by Primadon, and is then executed by Primadon, the victim won't always be send to [The Depths](The_Depths.md). **(Needs more testing)**
 
 ## Rewards
 

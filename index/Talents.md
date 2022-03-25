@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26094
+revid: 26110
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -739,7 +739,8 @@ Prerequisite: Charisma
 ### Shadowcaster
 
 -   Fear \[Generic Talent, Shadowcast Exclusive\] Enemies will briefly hang in place when they run from you. (+4 Elemental Mastery, +1 Health)
-    -   Bugged, does nothing or the effect is too small to notice.
+    -   ~Bugged, does nothing or the effect is too small to notice.~
+    -   It works, the effect is just extremely short.
 
 ### Shieldmaster
 
@@ -803,8 +804,8 @@ These Talents are designed to let you survive against starvation and thirst by l
 ### The Negotiator
 
 -   Last Second Negotiation \[Generic Talent, Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
-    -   This talent probably doesn't exist
-    -   Prerequisite: Charisma?
+    -   The talent does exist, got it in a charisma build. (with 100 charisma, idk if you can get it with 90 charisma for example?)
+    -   Prerequisite: Charisma
 
 ### Thief
 

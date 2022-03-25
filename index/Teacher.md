@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 23865
+revid: 26102
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,6 +27,6 @@ A story of speed (Agility)
 
 A story of power (Strength)
 
-A story of \*\*\*\* (Charisma)
+A story of Great Leadership (Charisma)
 
 The teacher spawns along with a 2 more npcs sitting next to a campfire

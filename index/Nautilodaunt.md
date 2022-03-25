@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 26055
+revid: 26108
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,8 +8,11 @@ categories: [Boss]
 
 # Nautilodaunt
 
-#### _"WHO THE FUCK TAUGHT SQUIDWARD HOW TO THROW HANDS?!" - An inexperienced Canor about to get his fade ran_
+“ Stay calm ”
 
+― Agamatsu
+
+  
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 
 ## Description
@@ -49,3 +52,4 @@ It can be found digging in the marketplace area near the gate, but will run towa
 -   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
 -   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game.
+-   Always keep a calm composure when you fight him, panicking will lead to a swift death.

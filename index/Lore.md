@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26065
+revid: 26105
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -44,7 +44,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
-    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
+    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head (or because being denied the number 1 freshie spawn island because you got lucky on your first roll after buying the game would be dumb)
 
 ### The King of Etrea
 
@@ -120,8 +120,8 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 
--   Gunsmith Hierka went behind his back and used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
-    -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let whatever The Authority do what they please, even when it affects them negatively.  
+-   ~Betrayed by his former prodigy, Gunsmith Hierka who used the Summer Company's secrets in order to create the Rifle Spear for the Authority.~
+    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let whatever The Authority do what they please to them.  
         
 
 ### Yun'shul
@@ -163,7 +163,7 @@ Yun'shul
 #### Songseeker Wilds (Etrean Luminant)
 
 -   A place which the "Songseekers" migrate to in order to enhance their Mantra abilities.
--   It can be assumed that this island has some sort of connection to the Song.
+-   It can be assumed that this island has some sort of connection to the Song (Mantra).
 -   The trainer for Fire Mantra owns a dojo on the island.
 
 #### Starswept Valley (Etrean Luminant)
@@ -187,7 +187,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 **Lore Sources:**
 
 -   A sea filled with nothing but null. The Voidsea is a gateway between Luminants and The Depths, either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
--   There are little to no NPCs or texts that explains the lore of the Voidsea.
+-   There are little to no NPCs or texts that explains the lore of the Voidsea, as of 1/10/2022.
     -   It is assumed that the Voidsea is the byproduct or the result of The Tides.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 
@@ -217,6 +217,8 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
+-   ~Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.~
+    -   (Arch\_Mage) Thankfully, Arch\_Mage debunked this theory; as The City of Celtor was one of the many victims of the Great Drowning.
 -   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
 #### Castle Light (The Depths, First Layer)
@@ -227,7 +229,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, The Diver Base located in the surface.
     -   This barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drain of their Ether whilst those who are alive can go through with no harm done.
-        -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
+        -   As of 3/17/2022, there are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
 ## Factions
 
@@ -272,7 +274,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
--   **Alliances:** _???_
+-   **Alliances:** _Kingdom of Etrea (I don't see how this is true when an Etrean vs Authority event initiated in The Viper's Jaw, the Legion npcs attacked both sides.)_
 -   **Enemies:** _The Central Authority_
 -   **Lore Sources:** _Amara, Brutus_
 
@@ -299,14 +301,14 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   A Faction that resides in Summer Isles. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
--   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; where he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
--   _(Rifle Spear)_ Although their armaments have been stolen, such as the [Rifle Spear](Rifle_Spear.md), by the Authority, Summer Company still has a business relationship with the Authority.
+-   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
+-   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
 -   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
 -   As of 1271, Summer Company has ties with The Authority. The Authority contracting the Company for Firearms in exchange with goods and the likings.
-    -   Despite the fact that the Rifle Spear's description say that Summer Company is being stolen by Authority they are still in business with The Authority.
-        -   Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
-        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating the contract between them, just like the Legion.
+    -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company is being stolen by Authority, such as Hierka themselves, they are still in business with The Authority.
+        -   Explained by Arch\_Mage, Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
+        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between eachother.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
 
 A Summer Company Member.
@@ -488,14 +490,13 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
--   (Arch\_Mage) Although there are no Galebreather Songseekers we've seen in the Etrean Luminant, thanks to information given by Arch\_Mage, there is a possibility that they do exist.
+-   (Arch\_Mage) Although there is no Galebreathers we've seen in the Etrean Luminant, thanks to information given by Arch\_Mage, there is a possibility that there are Galebreathe Songseekers.
 
 ### Bandits
 
--   **Encounter In:** _Erisia, Etris, Isle of Vigils, Summer Isle_
+-   **Encounter In:** _Anywhere_
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
--   They seem to posses some degree of orginization, as they have a base of operations, a basic ranking system, uniform and work in groups to take down larger factions.
 
 ### The Old Stewards
 
@@ -526,7 +527,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 "_Defined by their snake-like features and cunning. Isolationists who tend to their own interests."_
 
--   A race most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their distrust of other races and those they consider foreigners.
+-   A race most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their dislikes of other races.
 -   The people of [Etris](Etris.md) has been in scrambles ever since their king had left them and the current reigning lord (Lord Regent) causing evident dismay to his people, rather than helping them.
 
 ### Celtor
