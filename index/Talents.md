@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26075
+revid: 26094
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -93,8 +93,8 @@ These Talents are meant to provide an increase to your speed or improve it in va
 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
     -   Prerequisites: 15 Agility & 5 Fortitude
-    -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
-        -   Negate the agility penalty tied to lost hp.
+-   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
+    -   Negate the agility penalty tied to lost hp.
 
 -   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)

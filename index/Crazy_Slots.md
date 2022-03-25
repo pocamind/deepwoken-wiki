@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 26051
+revid: 26090
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -110,6 +110,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 -   The Divine Longsword model highly resembles the "unsealed" version of _"Excalibur Proto"_, a weapon from _Fate/Prototype_.
 -   The Divine Spear model highly resembles the "_Primordial Jade Winged-Spear_" from _Genshin Impact_.
 -   This resonance is inspired by a character from _Hunter x Hunter_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
+-   This resonance also may be inspired by Shardblades in _The Stormlight Archive_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
 -   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.
     -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Axes.
     -   The [Greater Angels](https://deepwoken.fandom.com/wiki/Angels?so=search#Greater) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.

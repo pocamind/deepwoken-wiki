@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 26082
+revid: 26085
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -56,7 +56,7 @@ Greater bandit raid: Seven or so regular bandits
 
 #### **Knives of Eylis**
 
-Similar to bandit events, with 3 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Can spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
+Similar to bandit events, with 3-4 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Will spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
 
 **Weapons:** Dagger, Murmur: Adagio
 

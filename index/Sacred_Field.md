@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 26052
+revid: 26093
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,8 +41,8 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 Sacred field is unique in its variation system in that there are many parameters that are randomly decided when obtaining the bell, these include:
 
--   % of Physical Resist (ranging from 0(?)% to 100(?)%)
--   % of Elemental Resist (ranging from 0(?)% to 100(?)%)
+-   % of Physical Resist (ranging from 1(?)% to 99(?)%)
+-   % of Elemental Resist (ranging from 1(?)% to 99(?)%)
 -   Size (ranging from 20(?) studs to 100+ studs)
 -   Duration (ranging from 5(?) seconds to 30(?) seconds)
 -   Color (known colors include yellow, purple, red, orange, green)
