@@ -1,14 +1,12 @@
 ---
 title: Flamecharm
-revid: 26092
+revid: 26095
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
 ---
 
 # Flamecharm
-
-File:H8xracxkd8d71.jpg
 
 > "Arson"
 
