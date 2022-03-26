@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 25224
+revid: 26146
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -219,7 +219,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Spell Feinting</th>
-  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.</td>
+  <td>Similar to the feinting system within the melee weapons, you are able to fake a spell then quickly select another one for example, going for a fire grab then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start then stop it. It could be possible that there are consequences for cancelling a ritual tier magic, so be careful.<p>Spell feinting is performed by pressing M1 and <kbd>M2</kbd> at the same time.</p></td>
   <td></td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
     <li>Increase damage.</li>
     <li>Increase posture damage.</li>
     <li>Increase spell size (unconfirmed)</li>
-  </ul><p>A successful Perfect Cast is indicated by golden glow around your casting hand.</p></td>
+  </ul><p>A successful Perfect Cast can be indicated by talents that are based around it.</p></td>
   <td></td>
 </tr>
 </tbody>

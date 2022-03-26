@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26120
+revid: 26136
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -61,9 +61,9 @@ Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, 
 
 Sibex:**(If you have a decent amount of Bell progress)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?
 
-Sibex:**(If you are close to obtaining a bell/You can get a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
+Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
 
-Sibex:**(You already have a bell)** Well look at you, my friend! You're practically beaming with the song!
+Sibex:**(You can get your bell)** Well look at you, my friend! You're practically beaming with the song!
 
 Sibex:**(Unknown, Recieved after getting a bell)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 26095
+revid: 26139
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,7 +8,9 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Flamecharm
 
-> "Arson"
+Your ability to call upon Fire, Magma, and Ash. Burn all around you.
+
+  
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 25878
+revid: 26141
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -8,9 +8,7 @@ categories: [Pages with broken file links, Magic, Spells, Mantras]
 
 # Thundercall
 
-"UNLIMITED POWEEEEER!" - Emperor Palpatine
-
-"Electricity! Zap! Electrons! Electrify!" - Electro Wizard
+OFFICIAL house dux element
 
 ## Description
 

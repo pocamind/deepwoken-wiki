@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 26072
+revid: 26138
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -8,13 +8,7 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 # Galebreathe
 
-_"Ah. Do you seek the way of the Galebreather, young one?" -The Man in the White Cloak_
-
-_"Walk with the wind, stranger." - Vigil Issac_
-
-"Death is like the wind, always by my side" - Tempest Blade
-
-"Eh. Must've been the wind." - Skyrim Guard  
+"Your ability to call upon the wind, and control the air around you."
 
 ## Description
 
