@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 25661
+revid: 26130
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -16,13 +16,13 @@ categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons,
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear any chest.
+Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear in any chest.
 
-Enchanted weapons are very special. Therefore, it has some limitations placed on it:
+Enchanted weapons are very special. Therefore, they have some limitations placed on them:
 
 -   You cannot equip multiple copies of the same enchantment. If you were to find for example, a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 
--   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it. You can still switch weapons though.
+-   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it, however you can still switch weapons.
     -   **Enchanted armors do not get soulbounded however.**
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
@@ -35,7 +35,7 @@ Enchanted weapons are very special. Therefore, it has some limitations placed on
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
--   **Curses** - They have a very strong effect but a Big/Small downside depending on curse.
+-   **Curses** - They have a very strong effect but a Big/Small downside depending on the curse.
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26105
+revid: 26129
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -265,8 +265,11 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/None_
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, Knives of Eylis, The Songseekers_
--   **Lore Sources:** G_remorian Longspear Description_
--   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, who worship the goddess(?) Navae.
+-   **Lore Sources:** G_remorian Longspear Description, Arch\_Mage (Discord)_
+-   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, their beliefs primarily of Navae.
+    -   (Arch\_Mage) Navae is personified as a Female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
+        -   In the Etrean Luminant (East), The Gremor Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
+        -   It's unknown what Navae exactly _is,_ but it's assumed Gremor Compasses point towards the center gravity of the New World- just like how compasses normally work.
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 
 ### The Hundreds Legion
@@ -324,12 +327,13 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Attunements:** _Shadowcast_
 -   **Alliances:** _The Contractors (Neutral)_
 -   **Enemies:** _The Children of Navae, The Summer Company_
--   **Lore Sources:**
+-   **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   A group of dark mages with unknown motives. Further research is required.
--   They warn of (and possibly bring about?) the sinking of the Overworld into [The Depths](The_Depths.md).
+-   They warn of (and possibly bring about) the sinking of the Overworld into [The Depths](The_Depths.md).
 -   The Ministry has some sort of hostility against the Navaean Nomads, commonly encountered in [Summer Isles](Summer_Isle.md).
--   These guys have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices.
+-   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
+-   (Arch\_Mage) The Ministry Scouts in Minityrsa were previously affected by the [Animal King](Regalia.md) (Or Mute Talent), but was declared a bug by Arch\_Mage.
 
 A Dark Mage, located in Minityrsa.
 
@@ -351,11 +355,11 @@ A Dark Mage, located in Minityrsa.
 -   **Attunements:** _None_
 -   **Alliances:** _Unknown_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
--   **Lore Sources: Whaling Knife description and Whaler Armor**
+-   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord)_
 
 -   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
--   As of 1/23/2022, there is not much information about them.
--   They possess a fleet of some kind and constantly pirate Etris ships
+-   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
+    -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megolaudant traps, as well as the fact that their corpses can be found scattered over Upper Erisia being fed on by Megolaudants, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.  
     
 
@@ -371,7 +375,7 @@ A Dark Mage, located in Minityrsa.
 -   (Arch\_Mage) The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword.
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
--   The Crypt blade's description, along with them trying to expand into the depths, might mean that the Ignition Union's goal is to fight the depths.
+-   The Crypt blade's description, the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 
   
 
@@ -724,12 +728,13 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Ironsing
 
-**Lore Sources:** _Hive Tactician Armor (Description)_
+**Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
     -   (Hive Tactician) As of 3/14/2022, there are no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
--   It's possible that the [Ironclad](Ships_&_Sailing.md#list-of-ships) is the product of Ironsing due to its modern technology and metal hull, compared to the wooden ships we've seen across the Luminant.  
-    
+-   ~It's possible that the [Ironclad](Ships_&_Sailing.md#list-of-ships) is the product of Ironsing due to its modern technology and metal hull, compared to the wooden ships we've seen across the Luminant.~
+    -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
+        
 
 ### Water Magic
 

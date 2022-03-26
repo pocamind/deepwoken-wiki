@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26110
+revid: 26119
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -49,22 +49,26 @@ The Wildcard slot is a slot that any Mantra can be placed in- support, mobility,
 
 ### Acrobat
 
+These talents improve the user's aerial mobility without the use of Galebreathe.
+
 -   Kick Off \[Generic Talent, Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
--   Steady Footing \[Generic Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
+-   Steady Footing \[Generic Talent, Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
 -   Quick Recovery \[Generic Talent, Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
 -   Graceful Landing \[Generic Talent, Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   Minimum threshold to take fall damage is increased.
+    -   Stacks with other means of fall damage reduction.
 
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
-    -   Synergises well with Aerial attack Talents.
+    -   Synergizes well with Aerial attack Talents.
 
 ### Aeromancy
 
 -   Drifting Winds \[Generic Talent, Galebreathe Exclusive\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
 -   Aerogliding \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)
+    -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
 -   Stifled Jump \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Suffocating Impact \[Generic Talent, Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Gale Coil \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
@@ -78,12 +82,12 @@ These Talents are designed to make your potions making and usage more efficient.
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown. (+4 Ether, +5 Reservoir, +1 Health)
 -   Subsistence \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion. (+3 Health)
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed. (+4 Ether, +2 Reservoir, +1 Health)
-    -   The resulting potions effect are created as of 2x ingredients were used. Bypass the ingredient cap and will not make diluted potions.
+    -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make diluted potions.
     -   Prerequisites for all: Intelligence (10 - 40 needed?)
 
 ### Alley Cat
 
-These Talents are meant to provide an increase to your speed or improve it in various situations.
+These Talents are meant to provide an increase to the user's ground mobility in various situations.
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Health, +2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
@@ -102,19 +106,20 @@ These Talents are meant to provide an increase to your speed or improve it in va
 ### Amoran Seeker
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
-    -   Gain +20(?)% damage and +??% movement speed while the fire is active. Can be cancelled by dodging or being in water.
+    -   Gain +20(?)% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
 
 ### Angler
 
-These Talents are designed to improve fishing. Unlike most other talents, they are obtained by succesfully fishing a certain amount of time.
+These Talents are designed to improve fishing. Unlike most other talents, they are obtained by successfully fishing a certain amount of times.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
     -   Obtained after fishing 10(?) times successfully.
-    -   ~Prevents you from getting seaweed~ You have more chances for getting good items.
+    -   Increases the chances of desirable drops from fishing.
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
     -   Obtained after fishing ? times successfully.
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Obtained after fishing ? times successfully.
+    -   Reduces the chance of failure while fishing.
 
 ### Apex Predator
 
@@ -133,8 +138,8 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 ### Assassin
 
--   Finesse \[Common Talent,Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
--   Vital Point \[Common Talent,Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
+-   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
+-   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
 -   Prerequisites: Agility, Intelligence
 
@@ -143,6 +148,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Triathlete \[Generic Talent, Common Talent\] - You swim faster in water. (+2 Passive Agility, +2 Health)
 -   Heavy Lifting \[Generic Talent, Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   Negate the movement speed penalty of heavy weapons.
+    -   Contrary to popular belief, this does not affect food/gunpowder crates from Isle of Vigils or Summer Isle, nor does it affect the Boulder training gear.
         -   Prerequisites: Strength
 -   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+1 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: Strength
@@ -151,18 +157,15 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Authority Intimidation \[Generic Talent, Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
 -   Resolve Crusher \[Generic Talent, Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify".
-    -   Eletrify is essentially a slow similar to Frostdraw Chill effect.
+    -   Electrify is essentially a slow similar to Frostdraw Chill effect.
 -   First Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
 -   Second Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks refill your Ether bar.
 -   Third Interrogation \[Generic Talent, Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
-    -   The wording for every Interrogation tend to be confusing:
-        -   First Interrogation make it so that enemies who are Electrified deal 50% less posture damage to you.
-        -   Second Interrogations make it so that your own attacks taht apply Electrify restore Ether.
-        -   Third interrogation make it so that enemies who are Electrified deal 50% less damage to you.
+    -   All three Interrogation talents apply to **attacks from enemies who are afflicted by the Electrify debuff,** **not attacks that apply the Electrify debuff.**
 
 ### Bastion
 
-These Talents are designed to make you more akin to a Tank.
+These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
 -   Moving Fortress \[Generic Talent, Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
 -   Heavy Haul \[Generic Talent, Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
@@ -179,7 +182,7 @@ These Talents are designed to make you more akin to a Tank.
 
 -   Giantslayer \[Generic Talent, Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
     -   "Larger foes" being anything that isn't a humanoid NPC.
-    -   Prerequisite: 10 willpower.
+    -   Prerequisite: 10 Willpower.
 
 ### Brawler
 
@@ -189,17 +192,18 @@ These Talents are designed to make you more akin to a Tank.
 ### Bulwark
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
-    -   The time where you cannot get hit while rolling is doubled.
+    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
 
 ### Butterfly
 
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
 -   Swift Rebound \[Generic Talent, Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
--   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility) (This requires at least 20 agility, could be less, but that's what I had when I got it)
+-   Observation \[Generic Talent, Rare Talent, Agility\] Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
 -   Risky Moves \[Generic Talent, Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
 -   Steady Nerves \[Generic Talent, Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
+    -   Prerequisite for all: 10-30 Agility
 
 ### Caster
 
@@ -207,17 +211,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   "Max ether" is having more than 95% ether.
     -   This talent goes on a 3 second cooldown when a mantra is casted.
     -   Prerequisite: 40 Intelligence
--   Perfect Flash \[Generic Talent, Rare Talent, Intelligence\] - Having full health causes your mantras do 1.25x damage.
+-   Perfect Flash \[Generic Talent, Rare Talent, Intelligence\] - Having full health causes your mantras to do 1.25x damage.
     -   Prerequisite: 20(?) Intelligence
--   Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
+-   Eureka \[Generic Talent, Rare Talent, Intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30(?) Intelligence
-    -   Refund 15% of the ether cost of the mantra.
+    -   Refunds 15% of the ether cost of the mantra.
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
--   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you stacking up to 3 causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
+-   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
-    -   When hit by an elemental attack, gain damage resistence toward it, however, if another element hit you, take increased damage from that element, while becoming resistent to the new element.
-    -   Due to some janky mechanics, the elemental resist/weakness are applied individually per player, therefore, you have a permanent elemental damage reduction (less than Return To The Dark Age) toward everyone, the downside only coming into play if your opponent is using multiple elements.
-        -   In the ever so possible scenario where you do fight someone with multiple elements, it is unlikely they will purposfully alternate their element usage.
+    -   When hit by an elemental attack, gain damage resistance towards its respective element but take more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
+    -   This effect is applied separately for every player or NPC that hits you with an elemental mantra, meaning that it is possible to build up resistance/weakness to multiple elements.
 
 ### Charismatic Cast
 

@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26115
+revid: 26120
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -10,7 +10,7 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 ## Where to Find Sibex (NPC)
 
-**Sibex** can be found on the far left Aratel Starswept Island on top of the unidentified statue. --------------------------------
+**Sibex** can be found on the far left Aratel Starswept Island on top of the unidentified statue.
 
   
 

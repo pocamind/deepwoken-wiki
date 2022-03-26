@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 26108
+revid: 26131
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -20,6 +20,8 @@ _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 Template:Creature Infobox V3 The Nautilodaunt resembles a humanoid squid about twice the size of a player and is found in the Depths. It spawns in City of the Drowned and drops Odd Tentacles or Elite Pathfinder Cloaks (Very rarely).
 
 It can be found digging in the marketplace area near the gate, but will run towards any enemy it catches in its sights at high speeds.
+
+Some lore here; I think that squibbo uses a version of jus karita, since it seems that his attacks are charged up, and he doesn't have to pull back his fist in order to swing. This is especially noticable on the kick, and jus karita has the same thing. When you attack 3 times, it converts from your right arm, left arm, then the kick that has a smooth animation. Squibbo's is the same. Also, the flying kick squibbo has is almost IDENTICAL to the one that Jus Karita uses, just more powerful and more range + height. Maybe Polis has something to do with squibbo? (Polis is the one who teaches Jus Karita)
 
 ### Attack Patterns
 

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 25965
+revid: 26134
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -8,7 +8,7 @@ categories: [Races, Character]
 
 # Aspects
 
-Races are categorizations of those who live in the world of _Deepwoken_. They are randomly selected when first created, and can be re-rolled for 150 robux ( ). All 10 races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improves your character. Your character's hairstyle is reflected by your avatar's hairstyle, with your races hair color completly covering.
+Races are categorizations of those who live in the world of _Deepwoken_. They are randomly selected when first created, and can be re-rolled for 150 Robux ( ). All 10 races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character. Your character's hairstyle is reflected by your avatar's hairstyle, with your races hair color completely covered.
 
 ## Common Races
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 25907
+revid: 26132
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -16,15 +16,15 @@ _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enem
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; If a player can't even beat a Monster, what makes them think they can beat another player?
 
-While each Monster has unique attacks and patterns, they all share one thing; You can learn them. Every Monster, **even up to even the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
+While each Monster has unique attacks and patterns, they all share one thing; You can learn them. Every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
 
 ### Monster Hunting Advice
 
-While most of the way to fight a Monster is specific to what kind it is, there's generally a few good rules that apply to most, if not all monsters.
+While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
 -   **If an attack has a red aura/effect to it, it _CANNOT_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace.
--   **Never run from any Monster _if_ you know you have a slim of a chance of beating them**. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite, and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly, and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   **Never run from any Monster _if_ you know you have a slim chance of beating them**. Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long-range barnacle spray, meaning you most likely won't get away if you're already damaged. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
+-   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near-identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
     -   Potions
     -   Status Effects
@@ -39,7 +39,7 @@ While most of the way to fight a Monster is specific to what kind it is, there's
 -   **Benefiting from the lower gravity of The Depths**, being able to jump much higher to pursue players.
 -   **Being much more aware**, noticing players from further away, or even behind them.
 -   **Gaining new behaviors/abilities**, such as Lionfish Cero.
--   **Becoming much more persistent in chasing**, almost never stopping until the death of them or the player.
+-   **Becoming much more persistent in chasing**, rarely stopping until the death of them or the player.
 -   **Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.**
 
 ## Monster List
@@ -62,11 +62,11 @@ While most of the way to fight a Monster is specific to what kind it is, there's
 
 **Unknown?**
 
-**Important Note**: Entities such as the King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster, and exist only to summon Angels.
+**Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
 
 ## Monster Families
 
-Every single Monster in the game is part of a single family. Families deal with what monster will take extra damage from the "+X% damage VS family" stats on equipment, either being Giant, Sea or Depths. Besides this, families literally deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
+Every single Monster in the game is part of a single family. Families deal with what monster will take extra damage from the "+X% damage VS family" stats on equipment, either being Giant, Sea or Depths. Besides this, families deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
 
 -   Any Monster native to islands is a Giant Monster
 -   Any Monster native to oceans is a Sea Monster
@@ -139,7 +139,7 @@ When you level up, you automatically gain bonus damage during PVE, currently est
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 
-Let's say you have a weapon that deals 40 damage per swing, and you're Power 50. This means that a Monsters health is basically reduced 500% when fighting you, or you could see it as you're dealing 500% more damage to Monsters.
+Let's say you have a weapon that deals 40 damage per swing, and you're Power 50. This means that a monster's health is reduced 500% when fighting you, or you could see it as you're dealing 500% more damage to Monsters.
 
 A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to a fresh spawn with a weapon that does 20 damage, having to hit it 50 times, just for how big of a reference the PVE scaling makes. In all actuality, your actual damage is less important than simply being a high power.
 
