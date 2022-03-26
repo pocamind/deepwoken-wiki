@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26136
+revid: 26159
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -8,13 +8,13 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 # Sibex
 
-## Where to Find Sibex (NPC)
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has Hive Leaders Garment armour. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
-**Sibex** can be found on the far left Aratel Starswept Island on top of the unidentified statue.
-
-  
+He can be found on the far left of Aratel Island on top of the unidentified statue.
 
 ## Features
+
+Where Sibex can be found
 
 **Sibex** is capable of telling you your current [resonance](Resonance.md) progress, and what gives you the most **resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him (You keep the spine), and in return he will tell you the details of your resonance obtainment method.
 
@@ -77,13 +77,10 @@ Sibex:(If you have +DEPTHS MOB Gain) Ah... an Inquisitive Soul Your Soul's Curio
 
 Sibex:(If you have +BOSS Gain) Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the **Depths** is known to draw out the song within all of us...
 
-## Appearance
-
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has an armor which is not currently in the game. He has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
-
-### Notes:
+## Trivia
 
 -   There is a possibility that Sibex will not give you info on how close you are to resonating with your bell, the reason for this is unknown. He will still however tell you the best way to obtain your resonance.
--   Sibex mentions Jericho the Warden, which is an NPC at [Fort Merit](Fort_Merit.md). This most likely means Sibex is with the Authority.
+-   Sibex mentions Jericho the Warden, likely meaning he is under his orders.
+    -   He's been described as missing on duty, the Authority appears to have lost him
 -   Sibex will not take your thresher spine you just need it to talk to him.
 -   Sibex has the armor called Hive Leaders Garment equipped, even though the only person we know that has this is a mod with insane specs (Refer to [Armors](Outfits.md) and go to the bottom for a description)

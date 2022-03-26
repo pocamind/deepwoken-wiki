@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 26132
+revid: 26170
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -135,7 +135,11 @@ If you have looked at Monster's health on their pages, you might have noticed ho
 
 **Well, no.**
 
-When you level up, you automatically gain bonus damage during PVE, currently estimated to be 10%. This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a fresh spawn with the same damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and at Power 60, you can basically kill stuff like Megalodaunts or Lionfish in less than 5 hits.
+When you level up, you automatically gain bonus damage during PVE, ~currently estimated to be 10%.~
+
+(I did the math for the percentage and it's should be 8,69% more damage to PvE every level ~ Gonchyo#1754)
+
+This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a fresh spawn with the same damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and at Power 60, you can basically kill stuff like Megalodaunts or Lionfish in less than 5 hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 

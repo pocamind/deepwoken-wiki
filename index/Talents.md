@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26143
+revid: 26174
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -548,6 +548,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
     -   Grant up 1.25x damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
     -   Prerequisite: 30 Strength and 30 Fortitude
+    -   The radical function, y =sqrt{1.125x}, is able to get 50% insanity to exactly 75% of the buff. Because we don't know what Archmage did, whether that be round up the number, or make it so that anything beyond 0.8889 is automatically set to be the 1.25x buff is uncertain.
 -   Defiant until the End \[Generic Talent, Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Generic Talent, Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Generic Talent, Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
@@ -603,7 +604,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Ministry Operative
 
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) (Prerequisites: 35 Agility, Risky Moves)
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) (Prerequisites: 35 Agility)
 
 ### [Murmur](Murmur.md)
 

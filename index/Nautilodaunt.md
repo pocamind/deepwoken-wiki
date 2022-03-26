@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 26131
+revid: 26160
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -8,11 +8,8 @@ categories: [Boss]
 
 # Nautilodaunt
 
-“ Stay calm ”
+#### _"WHO THE FUCK TAUGHT SQUIDWARD HOW TO THROW HANDS?!" - An inexperienced Canor about to get his fade ran_
 
-― Agamatsu
-
-  
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Squiboss_
 
 ## Description

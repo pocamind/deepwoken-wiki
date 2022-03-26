@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 26139
+revid: 26167
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -98,7 +98,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   _Radius unknown._
 -   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
 -   This is considered a rare mantra (unaffected by [luck](Luck.md))[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
--   Buffed by a Rare Flamecharm Talent, causing all blinded enemies to be dazed.
+-   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |
 |  | Fire Palm(★) | A blast of flame. | Caster releases an eruption of fire in front of them.
