@@ -1,13 +1,13 @@
 ---
 title: Hive Construct
-revid: 26155
+revid: 26220
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hive Construct
 
-_Also known as Hive Mechs, Forest Golems, or Obsidian Golems_ Template:Creature Infobox V3
+_Also known as Hive Mechs, Senju, Forest Golems, or Obsidian Golems_ Template:Creature Infobox V3
 
   
 Hive/Rogue Constructs spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, [Starswept Valley](The_Starswept_Valley.md), and on the ice lake on top of [Minityrsa](Minityrsa.md)

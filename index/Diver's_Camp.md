@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 22742
+revid: 26211
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -22,7 +22,7 @@ Alpha Sharko v. Diver events are common here.
 
 ### NPCs
 
--   npcs go here
+-   Buzz
 
 ## Missions
 

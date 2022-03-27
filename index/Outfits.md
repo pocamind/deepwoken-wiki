@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 25998
+revid: 26201
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -321,6 +321,7 @@ _Requires Power 10_
 
  | Duke Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. | Depths Chests? |
+|  | Akira's Ring | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Summer Chest, Maybe more |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 25%
 
 _Requires Power 40_

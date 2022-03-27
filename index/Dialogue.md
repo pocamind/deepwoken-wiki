@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 24916
+revid: 26206
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue, NPCs, NPC, Npc, Locations, Character, Reputation]
@@ -32,7 +32,7 @@ Reputation is a thing in Deepwoken. Depending on your actions, such as having a 
 
 Akira, Black Diver (The Depths, First Layer - Charisma Requirement: ~100)
 
-## Etris Reputation
+## Etrea Reputation
 
 ###### Read more about Reputation [here](Reputation.md)
 
@@ -45,8 +45,8 @@ Talking to Guards
 
 Talking to Nerin
 
--   Very Good Reputation - N/A, same dialogue as Good Rep
 -   Good Reputation - _\*The guard gives you a crooked smile.\*_ "Have a nice day friend. If you ever get into trouble, you know who to look for..."
+-   Hostile Reputation - "Placeholder"
 
 ## Children of Navae
 
@@ -81,10 +81,15 @@ Talking to Guards
 
 Talking to Guards
 
--   Very Good Reputation - "Welcome back to the Castle, \[Name\]. Keep making Rosen proud." | "Placeholder"
+-   Very Good Reputation - "Welcome back to the Castle, \[Name\]. Keep making Rosen proud."
 -   Good Reputation - "Hello friend, make any discoveries?" | "Placeholder"
 -   Neutral Reputation - "If you're not here to buy something, just leave." | "If I see you near the storage caches you're done."
 -   Unfriendly Reputation - "Keep your hands to yourself, thief." | "We've got our eyes on you."
+
+Talking to Nepo
+
+-   Good Reputation - _\*The man barely looks up from his book, scowling at you.\*_ "I'm on break and your nose seems to be clean, keep it that way."
+-   Hostile Reputation - "Placeholder"
 
 ## Hive Reputation
 
@@ -93,7 +98,12 @@ Talking to Guards
 -   Very Good Reputation - "I hope your journeys outside the Hive go well, \[Name\]." | "Welcome back, \[name\]. It's good to see you among us again."
 -   Good Reputation - "Pleasant journeys, traveler" | "Welcome, friend of the Hive"
 -   Neutral Reputation - "Greetings, traveler" | "Welcome, traveler"
--   Unfriendly Reputation - "\*_The guard remains silent, barely registering your presence.\*_" | "Placeholder"
+-   Unfriendly Reputation - "\*_The guard remains silent, barely registering your presence.\*_"
+
+Talking to Zirik
+
+-   Good Reputation - _\*They seem to be pretending to look very interested in some plants.\*_ "Wow! What beautiful grasses these are. Gorgeous. Simply marvellous."
+-   Hostile Reputation - "Placeholder"
 
 ## Diver Reputation
 
@@ -101,8 +111,23 @@ Talking to Guards
 
 -   Very Good Reputation - "placeholder" | "placeholder"
 -   Good Reputation - "Stay safe out there. It's a harsh Place." | "Until next time, if there is one..."
--   Neutral Reputation - "placeholder" | "placeholder"
+-   Neutral Reputation - "Try not to interfere with my duties." | "placeholder"
 -   Unfriendly Reputation- "placeholder" | "placeholder"
+
+## Ignition Union Reputation
+
+Talking to Guards
+
+-   Very Good Reputation - "placeholder" | "placeholder"
+-   Good Reputation - "placeholder" | "placeholder"
+-   Neutral Reputation - "You on your break or something? Some of us still have work to do." | "placeholder"
+-   Unfriendly Reputation- "placeholder" | "placeholder"
+
+## Celtor Reputation
+
+Talking to Guards
+
+-   Neutral+ - "\*_A low groan releases from within their helmet, as if wheezing through a punctured lung.\*_"
 
 ## Notes/Trivia
 

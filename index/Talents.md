@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26197
+revid: 26207
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -614,7 +614,11 @@ These are just raw stat increase and are beneficial to anyone.
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
     -   Prerequisite: 40 willpower and Murmur: Ardour.
--   Murmur: Tacet \[Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
+-   Murmur: Tacet \[Generic Talent, Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
+-   Murmur: Rhythm \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G"
+    -   Likely removed due to being significantly weaker than the other two Murmurs.
+-   Heartbeat Sensor \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters
+    -   Prerequisite: Murmur: Rhythm.
 
 ### Natural Armor
 
@@ -722,6 +726,11 @@ Prerequisite: Charisma
 ### Soul Converter
 
 -   Bloodiron Spirit \[Generic Talent, Rare Talent\] - You regain some armor upon killing enemies.
+
+### Soverign of Slaughter
+
+-   Chime of Conflict \[Generic Talent, Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
+    -   Prerequisite: Speak to Yamaketzal while level 15 or above.
 
 ### Static Weaver
 

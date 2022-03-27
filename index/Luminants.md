@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 26193
+revid: 26215
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
@@ -26,7 +26,7 @@ This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all 
 
 ## Central Luminant
 
-A Luminant that is under the rule by the mighty Central Authority. This Luminant is inhabited by the Knives of Eylis, also known as the Whalers, which use a [Murmur](Murmur.md) called _Adagio_ that slows down time in a bubble.
+A Luminant that is under the rule by the mighty Central Authority. This Luminant is also inhabited by the Knives of Eylis, also known as the Whalers, which use a [Murmur](Murmur.md) called _Adagio_ that slows down time in a bubble.
 
 This Luminant is probably a link between all [Attunements](Attunements.md), or home to people with [no attunement](Attunement-less.md).
 
@@ -55,6 +55,10 @@ This Luminant is separate from the Etrean Luminant despite what many think, and 
 UPDATE: The Eastern Luminant will most likely be the second Luminant as evidenced by leaks.
 
 UPDATE (again): the eastern luminant and the etrean luminant are probally the same
+
+It is highly speculated that this Luminant may be home to many users of Shadowcast, or may have entire civilizations full of them.
+
+Or not if it turns out the Etrean Luminant and Eastern Luminant are the same, which in my opinion makes most sense as i dont think arch\_mage/Ragoozer wants to add a whole other luminant seperate for shadow users/eastern, if it can just be the Etrean luminant.
 
 File:Eastern Luminant.png
 

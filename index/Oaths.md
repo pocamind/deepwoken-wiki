@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 25688
+revid: 26221
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -84,7 +84,7 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 2/9/2022 to unlock new abilities.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is the only oath as of 3/26/2022 to unlock new abilities.
 
 Corrupted Deep Owls now drop a guaranteed Void Feather.
 

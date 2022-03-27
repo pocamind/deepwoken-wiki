@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 25934
+revid: 26213
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -55,7 +55,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Agility
 
-"Watch me hit this sick jum-" - Last Words of A Vesperian
+"Watch me hit this sick jum-" - Last Words of a Vesperian
 
 -   Sleight of Hand and Nimbleness. Increases the Parkour and Stealth slightly per Agility.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speeds bonus from parkour.
@@ -63,6 +63,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 -   Unlocks Agility-related Talents, depending on the Character's Agility.
 -   Gain Agility EXP via Parkour and Sneak Attacks with the Ankle Weights.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
+    -   Can be mitigated by a talent.
 -   Uncapped by talking to a white-clad NPC which looks over a cliff on a highway gate.
 
 ### Intelligence

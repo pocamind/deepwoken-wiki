@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 26049
+revid: 26223
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -20,7 +20,7 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable. (Aside from the Rhythm murmur, which is told to exist but not obtainable for now)
+Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable. (Aside from Adagio, which is used by The Knives of Eylis captains but not obtainable for now)
 
 ## Training Murmurs
 
@@ -69,3 +69,11 @@ Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
 You can also get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.
+
+## Murmur: Adagio
+
+Adagio allows the user to slow people around them by making a strange, vibrating noise, creating an expanding bubble around them. Anyone who walks into this bubble will be slowed and their view given a monochrome palette. This can be easily cancelled by attacking the user therefore disrupting the noise.
+
+There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back.
+
+The only users of this Murmur are The Knives of Eylis captains, with the Murmur itself being unobtainable.

@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26159
+revid: 26212
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -67,8 +67,6 @@ Sibex:**(You can get your bell)** Well look at you, my friend! You're practicall
 
 Sibex:**(Unknown, Recieved after getting a bell)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 
-Sibex:**(If you have Vacant Flaw)** ...What in the Drowned Gods' names happened to your Soul!? No, no, something's terribly wrong with it - it's been maimed by something. I'm sorry to be the one to tell you this, but your Soul cannot Resonate. My guess is that you made a deal with Eternity's Prisoner. I pity you, boy.                                                      
-
 You: What should I do?
 
 Sibex:(If you have +PVP Arena Gain) Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the **Depths** is known to draw out song within all of us...
@@ -79,8 +77,7 @@ Sibex:(If you have +BOSS Gain) Ah... I can hear your soul drawing back, lining u
 
 ## Trivia
 
--   There is a possibility that Sibex will not give you info on how close you are to resonating with your bell, the reason for this is unknown. He will still however tell you the best way to obtain your resonance.
 -   Sibex mentions Jericho the Warden, likely meaning he is under his orders.
-    -   He's been described as missing on duty, the Authority appears to have lost him
--   Sibex will not take your thresher spine you just need it to talk to him.
--   Sibex has the armor called Hive Leaders Garment equipped, even though the only person we know that has this is a mod with insane specs (Refer to [Armors](Outfits.md) and go to the bottom for a description)
+    -   He's been described as missing on duty, the Authority appears to have lost him.
+-   Sibex will not take your thresher spine, you just need it to talk to him.
+-   Sibex has the armor called Hive Leaders Garment equipped, even though the only person we know that has this is a developer (Refer to [Armors](Outfits.md) and go to the bottom for a description)
