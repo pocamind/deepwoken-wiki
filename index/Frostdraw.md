@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 26140
+revid: 26254
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -220,7 +220,7 @@ deleted this, someone put "summon cauldron" here and it's not a frostdraw mantra
 | File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare. | +4 Ether  
 +2 Elemental Intensity  
 +1 Health | Cryomancer |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cryonis | All ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cryonis | ~All~ Some ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
 +2 Health | Ice Age |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frostbite | Enemies can no longer heal when under the effect of your chill. | +5 Elemental Intensity  
 +2 Health | Ice Age |
@@ -277,3 +277,4 @@ File:Static-assets-upload2550294597928104705.webp
 -   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords.
 -   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022
 -   The Frozone talent card is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
+-   The Cryonis talent card has a faulty description, it only reduced ether of certain moves(3/27/2022) List of Ice moves that do get a ether reduction: Ice smash, Warden's Blades, Ice fissure, Ice Beam, Glacial Arc, Ice Dagger. List of moves that don't get an ether reduction: Ice Lance, Ice Eruption. List of moves currently unchecked: Ice Skates, Ice Spikes, Ice Blade, Frost Grab, Ice Forge, Ice Chain, Ice Laser, Frozen Servants

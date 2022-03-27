@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26207
+revid: 26239
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -419,7 +419,9 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Adept Galebreather \[Generic Talent, Galebreathe Exclusive\] - You can now obtain 1-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
 -   Expert Galebreather \[Generic Talent, Galebreathe Exclusive\] - You can now obtain 2-Star Leveled Galebreathe mantras. (+5 Elemental Intensity)
 -   Master Galebreather \[Generic Talent, Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +1 Health)
--   The Old Wind \[Generic Talent, Galebreathe Exclusive\] - Glide straight with the power of Gales.
+-   Reverse Gale Kick \[Generic Talent, Galebreathe Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
+    -   Prerequisites: Rising Wind (Galebreathe Mantra)
+-   The Old Wind \[Generic Talent, Galebreathe Exclusive\] - Glide straight with the power of Gales. {+4 Elemental Intensity, +1 Health}
     -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce

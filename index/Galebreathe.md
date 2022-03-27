@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 26186
+revid: 26246
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -162,6 +162,14 @@ These talents are found in the _Cloudwalker_ category.
 |  | Gale Leap | Jumping while sliding down a slope or off a cliff launches you forward. | +1 Elemental Intensity  
 +2 Health  
 Costs _[Ether](Combat_Mechanics.md)_. |
+
+**Gale Duelist:**
+
+These talents are found in the _Gale Duelist_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Tempest Wind | Cast Wind Blade while sliding to unleash a quick whirlwind attack | Send target and you onto the air. |
 
 **Galeforce:**
 

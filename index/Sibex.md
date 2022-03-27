@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26212
+revid: 26236
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -8,7 +8,7 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 # Sibex
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has Hive Leaders Garment armour. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has Hive Leaders Garment armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
 He can be found on the far left of Aratel Island on top of the unidentified statue.
 
@@ -20,7 +20,7 @@ Where Sibex can be found
 
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
--   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiousity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
+-   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
 -   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (Currently glitched, if it says this but you do not have a bell available, rejoin to different servers until he changes his dialogue.)
 
 ### Dialogue when meeting him:
@@ -53,6 +53,8 @@ You: Listen to my Soul?
 
 Sibex: Yes, yes. Simple stuff, really. I give your soul a quick listen and give you a slight approximation of how close you are to _Resonating_ with it.
 
+  
+
 You: Alright, tell me what my soul says.
 
 Sibex:**(If you have Low Bell progress)** You Must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.
@@ -63,17 +65,21 @@ Sibex:**(If you have a decent amount of Bell progress)** Ahhhh... I can hear you
 
 Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
 
-Sibex:**(You can get your bell)** Well look at you, my friend! You're practically beaming with the song!
+Sibex:**(You can get your bell)** Well look at you, my friend! You're practically beaming with the song! 
 
-Sibex:**(Unknown, Recieved after getting a bell)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
+Sibex:**(If you have the Vacant flaw, or your soul has been taken by Arch-Mage.)** ... What in the Drowned Gods' names happened to your soul!? No, no, something's terribly wrong with it - it's been maimed by something. I'm sorry to be the one to tell you this, but your Soul cannot Resonate. My guess is that you made a deal with **Eternity's Prisoner**. I pity you, boy.                        
+
+Sibex:**(Unknown, Received after getting a bell)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
+
+  
 
 You: What should I do?
 
-Sibex:(If you have +PVP Arena Gain) Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the **Depths** is known to draw out song within all of us...
+Sibex:**(If you have +PVP Arena Gain)** Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the **Depths** is known to draw out song within all of us...
 
-Sibex:(If you have +DEPTHS MOB Gain) Ah... an Inquisitive Soul Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...
+Sibex:**(If you have +DEPTHS MOB Gain)** Ah... an Inquisitive Soul Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...
 
-Sibex:(If you have +BOSS Gain) Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the **Depths** is known to draw out the song within all of us...
+Sibex:**(If you have +BOSS Gain)** Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the **Depths** is known to draw out the song within all of us...
 
 ## Trivia
 

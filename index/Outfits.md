@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26201
+revid: 26251
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -20,11 +20,9 @@ The entirety of your Armor is split into two categories, Outfits and Armor items
 
 ### **[Outfits](Outfits.md#outfit-list)**
 
-Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfits.
+Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfit.
 
-### **[Armors](Outfits.md#armor)**
-
-Armor pieces are additional pieces of equipment the player can equip. They appear on top of your Outfit and are unable to be destroyed; unlike Outfits, they can be equipped and unequipped freely in any location as long as the player is not in danger. Armors also cannot be purchased and must be obtained in enemy drops or [Chests](Chests_&_Sacks.md). They are separated into seven different categories for where they are equipped: Head, Face, Ears, Neck, Arms, Rings and Boots. Armor items grant random buffs - typically flat stat increases - to their wearer and can assist in turning the tide against enemies and monsters, although some items are purely cosmetic and do not grant buffs. Some Armors may spawn with 1-3 stars, increasing their buffs or causing them to grant additional ones. It is possible to combine or transfer stats between Armor items at the Underground Arena in [Summer Isle](Summer_Isle.md) for your desired cosmetic preference. Upon wiping, players can pass down pieces of armor to their next character.
+  
 
 ## Outfit Stats
 
@@ -360,7 +358,7 @@ _Requires Power 30_
 |  | Bluesteel Boots | Grants a random buff. | Somewhere... |
 |  | Enforcer Boots | Grants a random buff. | Depths Chests |
 
-<>
+  
 
 ## Trivia/Notes
 

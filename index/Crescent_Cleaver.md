@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 24707
+revid: 26255
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -34,3 +34,5 @@ The Crescent Cleaver is a midgame Heavy Weapon, and is a drop from chests on [Mi
 
 -   The person who created this page isn't perfect, so please add any info that might be contradictory or not listed.
 -   Critical hits hit twice
+-   every attack proc bleed(need more test)
+-   Particularly useful for people who posses the Frost Buster and Cryonis talent cards as its crit leaves behind 3 fairly large platforms of ice(that happend to all great sword with frost buster talent)
