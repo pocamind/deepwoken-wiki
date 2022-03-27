@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 25450
+revid: 26192
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -29,12 +29,18 @@ The player must respond with "yes." after responding yes, you will have a menu a
 | Command | Requires Talent | Usage | Effect |
 | --- | --- | --- | --- |
 | Eat | No | "_\[Name\]_, eat _\[edible item\]_" | Forces the Subject to eat an edible item. |
-| Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped. |
+| Sleep | No | "_\[Name\]_, sleep" | Downs the Subject at full health, allowing them to be carried or gripped.
+ |
 | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop the specified item. This does not work with Notes. |
-| Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt. |
+| Say | No | "_\[Name\]_, say _\[prompt\]_" | Forces the Subject to speak your prompt.
+
+ |
 | Use | No | _"\[Name\],_ use _\[item\]"_ | Forces the Subject to use an item (ie: Begin using a training item) |
-| Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost. |
+| Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
+
+ |
 | Fight | Yes, 50 Charisma | "_\[Name\]_, fight"
+
 "_\[Name\]_, fight _\[Name 2\]_"
 
  | Gives the Subject a purple aura and a boost in damage and defense. |
@@ -60,10 +66,11 @@ Charisma, Rare
 -   As long as you have friends and/or alts, you may use Vow of Mastery to improve a bossraid. You can stuff a bunch of alts in an obscure location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
 -   ~You cant make a vow on the same person, even if you originally had a vow, and you got wiped, and they lived, you cant make a vow with them again.~ This is false.
 -   You can still get Vow of Mastery with the Oathless Talent.
--   _Return_ can save someone from being gripped, but not from being carried.
+-   _Return_ can save someone from being gripped, but not from being carried. (3220)
 -   _The Fight, Return and Live_ have cooldowns them being; 3 minutes for Fight, 20 seconds for Return, and 1 hour for Live.
 
 -   ~TIP: Sometimes someone will ask you something where you would say yes (for example if he sees you use a dagger he asks if you use light weapons) and immediately say "wanna make a vow of mastery?". That's a way of tricking people into agreeing to a Vow Of Mastery. So, be careful if someone asks you something where you would agree or say yes!~ Not really important because you get a ui prompt even when you say yes.
 -   TRUST NOBODY!!!
 -   The _Live_ command is likely a referrence to _Code Geass_
--   The Return command unknocks but will not heal them more then normal
+-   The Return command unknocks but will not heal them more then normal (kruitberg)
+-   cum

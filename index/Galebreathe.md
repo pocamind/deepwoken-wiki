@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 26169
+revid: 26186
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -217,5 +217,5 @@ Costs _[Ether](Combat_Mechanics.md)_. |
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   If you 1m 2 times then used gale trap you can do infnite combo no matter what
--   deez nutz is cool suck my dick
+-   you should really add noro#3819 on discord
 -   Archmage stated that Galebreathe is the "least \[cool to\] me" out of all the elements.

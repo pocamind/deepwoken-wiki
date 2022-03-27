@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 24999
+revid: 26193
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
@@ -53,6 +53,8 @@ This Luminant is probably home to [Frostdraw](Frostdraw.md).
 This Luminant is separate from the Etrean Luminant despite what many think, and is most likely the second Luminant to come to the game.
 
 UPDATE: The Eastern Luminant will most likely be the second Luminant as evidenced by leaks.
+
+UPDATE (again): the eastern luminant and the etrean luminant are probally the same
 
 File:Eastern Luminant.png
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26158
+revid: 26187
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -347,7 +347,7 @@ A Dark Mage, located in Minityrsa.
 
 -   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
 
-### Knives of Eylis
+### The Knives of Eylis
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker_

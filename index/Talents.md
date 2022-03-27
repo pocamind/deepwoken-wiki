@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26174
+revid: 26197
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -219,6 +219,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+    -   Prerequisite : 30 Intelligence
     -   When hit by an elemental attack, gain damage resistance towards its respective element but take more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
     -   This effect is applied separately for every player or NPC that hits you with an elemental mantra, meaning that it is possible to build up resistance/weakness to multiple elements.
 
@@ -465,6 +466,7 @@ These Talents are meant to improve your overall combat effectiveness.
             -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
     -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
+-   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\] (+4 Ether, +8 reservoir, +1 Health)
 
 ### Heretic
 
