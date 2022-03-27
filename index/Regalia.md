@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 25757
+revid: 26259
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -8,22 +8,30 @@ categories: [D]
 
 # Regalia
 
-## Theorized Ways of Obtainment
+## Obtainment
 
-_These are not guaranteed and there is no officially known way to obtain Regalia._
+To obtain a Regalia, the player must:
 
--   Chance after completing the [Trial Of One](Trial_of_One.md), however it is not likely that the trial must be fully completed.
--   Most likely just a chance when wiping (Testing has shown players getting Regalia on a slot with one wipe at level 1.)
--   Killing large swarths of certain enemies (?)
+1.  Perform certain task related to the Regalia the player wants to unlock
+2.  Wipe
+
+The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
+
+Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
+
+Keep in mind that as of **March 27th 2022**, the method to obtain Regalias are still shrouded in mystery.
 
 ## Mute (Animal King)
 
-> _"Animals will not attack one of their friends, unless the animal is threatened or attacked first." - Fallout 3 Animal Friend Description_
+“ Animals will not attack one of their friends, unless the animal is threatened or attacked first." ”
 
-Most monsters become neutral to the player. Attacking them will make them aggro the player, however, not hitting them for 15 seconds will have them de-aggro on the player (similar to Guards when angered)
+― Fallout 3 Animal Friend Description
 
--   Most monsters (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
--   Humanoid Enemies will still aggro the player on sight, with the exception of the Ministry Scouts in Minityrsa.
+  
+
+-   All [Monsters](Monsters.md) (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
+-   Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds.
+-   Humanoid Enemies will still aggro the player on sight. (As of the latest update Ministry NPCs will still attack you unprovoked and kill you like any other player)
 
 ### Theorized Obtainment:
 
@@ -32,8 +40,6 @@ Most monsters become neutral to the player. Attacking them will make them aggro 
     -   So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it.
 
 ## Termite
-
-> "damn boy you hungry?" -davieslocka
 
 ### "You can eat things that most would consider inedible."
 

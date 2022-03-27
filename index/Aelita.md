@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 26230
+revid: 26270
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,7 +12,7 @@ categories: [NPCs]
 
 Aelita sitting in the fetal position on a rock.
 
-_Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you.
+_Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you. Make sure to check your surroundings, as songseekers can spawn near you, which can make you fail the game. (just did, very sad. got wiped)
 
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if you come back during the winter."
 

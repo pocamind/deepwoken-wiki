@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 26255
+revid: 26262
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -26,7 +26,7 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-The Crescent Cleaver is a midgame Heavy Weapon, and is a drop from chests on [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md).
+The Crescent Cleaver is a midgame Heavy Weapon, and is a drop from chests on [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md). chang my mind this weapon is not bad at all
 
   
 
