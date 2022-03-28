@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 26040
+revid: 26489
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -174,7 +174,9 @@ When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another 
 
 ## Loot Table
 
-Many drops are exclusive to the Depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. You can basically get everything in the game in the Depths. Some things that drop in the Depths are...
+Many drops are exclusive to the Depths. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters. Some things you can get in the depths: Literally everything.
+
+NOTE: RARITY WORDS BESIDE ITEMS ARE HOW FREQUENT YOU WILL COME ACROSS THEM NOT ACTUAL IN-GAME RARITY
 
 **Bolded = Depths Exclusive or Mostly Depths drop**
 
@@ -189,52 +191,52 @@ Legendary = Gold
   <td><b>Armor</b></td>
 </tr>
 <tr>
-  <td><b>Prophet's Cloak</b></td>
-  <td><b>Shattered Katana</b></td>
-  <td>Ring of Wisps</td>
-  <td>[Pale, Crimson, Gold] Assassin Hood</td>
+  <td><b>Prophet's Cloak (common)</b></td>
+  <td>Shattered Katana (very rare)</td>
+  <td>Ring of Wisps (uncommon)</td>
+  <td>[Pale, Crimson, Gold] Assassin Hood (rare)</td>
 </tr>
 <tr>
-  <td>Authority Commander</td>
-  <td><b>Flameguard Cestus</b></td>
-  <td>Dazed Band</td>
-  <td><b>Pale Assassin Cloak</b></td>
+  <td>Authority Commander (uncommon)</td>
+  <td><b>Flamekeeper Cestus (very rare)</b></td>
+  <td>Dazed Band (uncommon)</td>
+  <td><b>Pale Assassin Cloak (very rare)</b></td>
 </tr>
 <tr>
-  <td>Grand Pathfinder Cloak</td>
-  <td><b><font>Curved Blade of Winds</font></b></td>
-  <td><b>Freestyler's Band</b></td>
-  <td>Enforcer Boots</td>
+  <td>Grand Pathfinder Cloak (uncommon)</td>
+  <td><b><font>Curved Blade of Winds (too rare)</font></b></td>
+  <td><b>Freestyler's Band (uncommon)</b></td>
+  <td>Enforcer Boots (uncommon)</td>
 </tr>
 <tr>
-  <td><b><font>Deep Gems</font></b></td>
-  <td>Enforcer Greatsword</td>
-  <td>Pariah's Keepsake</td>
-  <td><b><font>Providence Coat</font></b></td>
+  <td><b><font>Deep Gems (very rare)</font></b></td>
+  <td>Enforcer Greatsword (skill issue)</td>
+  <td>Pariah's Keepsake (common)</td>
+  <td><b><font>Providence Coat (rare)</font></b></td>
 </tr>
 <tr>
-  <td><b>Black Diver</b></td>
-  <td><b>Serpent's Edge</b></td>
-  <td>Bloodiron Ring</td>
-  <td><b>Star Boots</b></td>
+  <td><b>Black Diver (rare)</b></td>
+  <td><b>Serpent's Edge (uncommon)</b></td>
+  <td>Bloodiron Ring (rare)</td>
+  <td><b>Star Boots (uncommon)</b></td>
 </tr>
 <tr>
-  <td><b>Legion Centurion</b></td>
-  <td>Iron Birch</td>
-  <td><b>Purifying Ring</b></td>
-  <td><b>Demon Mask</b></td>
+  <td><b>Legion Centurion (uncommon)</b></td>
+  <td>Iron Birch (rare)</td>
+  <td><b>Purifying Ring (rare)</b></td>
+  <td><b>Demon Mask (common)</b></td>
 </tr>
 <tr>
-  <td><b>Diver Apprentice</b></td>
-  <td><b>Pale Morning</b></td>
-  <td>Ring of Pestilence</td>
-  <td><b><font>Star Duster</font></b></td>
+  <td><b>Diver Apprentice (common)</b></td>
+  <td><b>Pale Morning (very rare)</b></td>
+  <td>Ring of Pestilence (unknown)</td>
+  <td><b><font>Star Duster (rare)</font></b></td>
 </tr>
 <tr>
-  <td><b>Navaen War Chief</b></td>
-  <td><b><font>Crypt Blade</font></b></td>
-  <td>Isshin's Ring</td>
-  <td><b>Darksteel Greatsword</b></td>
+  <td><b>Navaen War Chief (uncommon)</b></td>
+  <td><b><font>Crypt Blade (too rare)</font></b></td>
+  <td>Isshin's Ring (common)</td>
+  <td><b>Darksteel Greatsword (rare)</b></td>
 </tr>
 </tbody>
 </table>

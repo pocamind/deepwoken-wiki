@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26366
+revid: 26483
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -58,7 +58,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On hit, hit the target again for 20% of the original hit damage with a 5 second cooldown. On non humanoid monsters, receive light damage whenever the effect activates.<br>
   This curse lost its "curse" title on an unknown date and is now named "Umbral Knight", however it still works like a curse.</p></div></td>
 </tr>

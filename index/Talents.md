@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26324
+revid: 26479
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -219,7 +219,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
-    -   Prerequisite : 30 Intelligence
+    -   Prerequisite : 30 Intelligence (Got it at 19 Intelligence)
     -   When hit by an elemental attack, gain damage resistance towards its respective element but take more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
     -   This effect is applied separately for every player or NPC that hits you with an elemental mantra, meaning that it is possible to build up resistance/weakness to multiple elements.
 
@@ -899,6 +899,7 @@ These Talents are meant to reap the reward of your latest hunt.
 ### Vigil Swordsman
 
 -   Blade Dancer \[Generic Talent, Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
+    -   Prerequisites: 25 Agility
 -   Spinning Swordsman \[Generic Talent, Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
 -   Bear Trap \[Generic Talent, Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
 -   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)

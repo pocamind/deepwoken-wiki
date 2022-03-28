@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 25241
+revid: 26490
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -88,15 +88,15 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 ### [Weapons](Weapons.md)
 
--   [Adretian Axe](Adretian_Axe.md)
--   [Iron Cestus](Iron_Cestus.md)
--   [Khan Shield](Legion_Shield.md)
--   [Officer Saber](Officer_Saber.md)
--   [Rifle Spear](Rifle_Spear.md)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
--   [Cavalry Saber](Officer_Saber.md)
--   [Apprentice Rapier](Apprentice_Rapier.md)
+-   [Adretian Axe](Adretian_Axe.md) (rare)
+-   [Iron Cestus](Iron_Cestus.md) (common)
+-   [Khan Shield](Legion_Shield.md) (very rare)
+-   [Officer Saber](Officer_Saber.md) (uncommon)
+-   [Rifle Spear](Rifle_Spear.md) (rare)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (too rare)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (uncommon)
+-   [Cavalry Saber](Officer_Saber.md) (uncommon)
+-   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
 
 ### Miscellaneous
 

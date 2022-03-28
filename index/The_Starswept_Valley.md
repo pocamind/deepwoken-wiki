@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 26011
+revid: 26486
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
@@ -127,7 +127,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 ### [Weapons](Weapons.md)
 
--   [Apprentice's Rapier](Apprentice_Rapier.md) (uncommon)
+-   [Apprentice's Rapier](Apprentice_Rapier.md) (uncommon/rare)
 -   Master Hawk's Handaxe (rare)
 -   [Champion's Sword](<Champion's_Sword.md>) (uncommon)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md) (very rare)

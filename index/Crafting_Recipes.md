@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 24848
+revid: 26491
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -282,11 +282,18 @@ _**Negative**_
 
 -   2-3x Ongo
 
- | \-
+ | _**Positive**_
 
--   Unknown effect
+-   Lots more posture damage
 
- |  |
+ | 
+
+-   Really good against people with shields
+-   Did 7.5x posture damage, might be additive
+-   12% on a Targe to 90% on a Targe
+-   Really OP, just hard to get
+
+ |
 | **Appalling Potion**
 
   

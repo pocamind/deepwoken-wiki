@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 25106
+revid: 26488
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -69,14 +69,14 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
  | 
 
--   [Canorian Axe](Canorian_Axe.md)
--   [Crescent Cleaver](Crescent_Cleaver.md)
--   [Iron Cestus](Iron_Cestus.md)
--   [Legion Cestus](Legion_Cestus.md)
--   [Katana](Katana.md)
--   [Nemit's Sickle](<Nemit's_Sickle.md>)
--   [Hero Blades](Hero_Blades.md)
--   [Apprentice Rapier](Apprentice_Rapier.md)
+-   [Canorian Axe](Canorian_Axe.md) (rare)
+-   [Crescent Cleaver](Crescent_Cleaver.md) (uncommon)
+-   [Iron Cestus](Iron_Cestus.md) (common)
+-   [Legion Cestus](Legion_Cestus.md) (never seen before)
+-   [Katana](Katana.md) (very rare)
+-   [Nemit's Sickle](<Nemit's_Sickle.md>) (common)
+-   [Hero Blades](Hero_Blades.md) (skill issue)
+-   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
 
  | 
 
@@ -98,3 +98,4 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
     -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing. Until you see an Island with trees and land, that is Minityrsa.
 
 -   ~Beating the [Trial of One](Trial_of_One.md) unlocks the ability to spawn here as your starting island for all future characters on that slot.~ After 3/15/2022, you unlock the spawn after you beat the thresher (halfway of the trial).
+-   After beating the trial of one/above power 1, you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.
