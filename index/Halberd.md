@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 24093
+revid: 26318
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -11,10 +11,10 @@ categories: [Weapons, Weaponry, Items]
 | Halberd | |
 |---|---|
 | type | Heavy Greataxe |
-| requirements | 45 HVY |
+| requirements | 25 HVY |
 | damage | 22 |
 | scaling | 7 |
-| range | 8 |
+| range | 9 |
 | swing speed | 0.6x |
 | weight | 5 |
 | bankable | Yes |

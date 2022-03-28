@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 25236
+revid: 26289
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Hero Blade of Flame | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 FIR, LVL 35 |
+| requirements | 75 FIR, LVL 15 |
 | damage | 20 |
 | scaling | FIR: 6.5 |
 | range | 8 |
@@ -28,7 +28,7 @@ categories: [Weapons, Weaponry]
 | Hero Blade of Frost | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 ICE, LVL 35 |
+| requirements | 75 ICE, LVL 15 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
@@ -45,7 +45,7 @@ categories: [Weapons, Weaponry]
 | Hero Blade of Lightning | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 THD, LVL 35 |
+| requirements | 75 THD, LVL 15 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |
@@ -62,7 +62,7 @@ categories: [Weapons, Weaponry]
 | Hero Blade of Wind | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 WND, LVL 35 |
+| requirements | 75 WND, LVL 15 |
 | damage | 20 |
 | scaling | 6.5 |
 | range | 8 |

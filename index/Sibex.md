@@ -1,12 +1,14 @@
 ---
 title: Sibex
-revid: 26236
+revid: 26315
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
+categories: [Pages with broken file links, Resonance, Boss, Dialogue, Deepwoken, Character]
 ---
 
 # Sibex
+
+File:Sibex (New Drip).png
 
 **Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has Hive Leaders Garment armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
@@ -67,7 +69,9 @@ Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul a
 
 Sibex:**(You can get your bell)** Well look at you, my friend! You're practically beaming with the song! 
 
-Sibex:**(If you have the Vacant flaw, or your soul has been taken by Arch-Mage.)** ... What in the Drowned Gods' names happened to your soul!? No, no, something's terribly wrong with it - it's been maimed by something. I'm sorry to be the one to tell you this, but your Soul cannot Resonate. My guess is that you made a deal with **Eternity's Prisoner**. I pity you, boy.                        
+Sibex:**(If you have the Vacant flaw, or your soul has been taken by Arch-Mage.)** ... What in the Drowned Gods' names happened to your soul!? No, no, something's terribly wrong with it - it's been maimed by something. I'm sorry to be the one to tell you this, but your Soul cannot Resonate. My guess is that you made a deal with **Eternity's Prisoner**. I pity you, boy. (Also need more proof to confirm that this is a real dialogue)               
+
+Sibex:**(You have a high chance of getting corrupted or legendary bell)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?        
 
 Sibex:**(Unknown, Received after getting a bell)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 

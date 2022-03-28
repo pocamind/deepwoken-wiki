@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 26206
+revid: 26331
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue, NPCs, NPC, Npc, Locations, Character, Reputation]
@@ -111,14 +111,14 @@ Talking to Guards
 
 -   Very Good Reputation - "placeholder" | "placeholder"
 -   Good Reputation - "Stay safe out there. It's a harsh Place." | "Until next time, if there is one..."
--   Neutral Reputation - "Try not to interfere with my duties." | "placeholder"
+-   Neutral Reputation - "Try not to interfere with my duties." | "I'm watching you, so don't try anything stupid."
 -   Unfriendly Reputation- "placeholder" | "placeholder"
 
 ## Ignition Union Reputation
 
 Talking to Guards
 
--   Very Good Reputation - "placeholder" | "placeholder"
+-   Very Good Reputation - "Alright, \[Name\]? Good to see a familiar face."
 -   Good Reputation - "placeholder" | "placeholder"
 -   Neutral Reputation - "You on your break or something? Some of us still have work to do." | "placeholder"
 -   Unfriendly Reputation- "placeholder" | "placeholder"

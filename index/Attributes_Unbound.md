@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 22985
+revid: 26293
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,6 +53,7 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
 6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up will obtaining Intelligence Unbound
+    1.  **If you have carnivore:** get 2 Bluecaps and spam click them. You need to eat the second one while vomitting the first one.
 
 Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pick up some Bluecaps from the hidden library near [Lightkeeper Temple](Lightkeeper_Temple.md) (Requires a mantra that can destroy blocks, needed for gaining access to the room which opens the door to the library)
 

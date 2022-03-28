@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26281
+revid: 26324
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -207,7 +207,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Caster
 
--   Overflowing Dam \[Generic Talent, Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff).
+-   Overflowing Dam \[Generic Talent, Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (10% dmg buff).
     -   "Max ether" is having more than 95% ether.
     -   This talent goes on a 3 second cooldown when a mantra is casted.
     -   Prerequisite: 40 Intelligence
@@ -345,6 +345,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
 -   Magical Resolve \[Common Talent, Intelligence\] - Being hit increases ether regen for a short duration. (+3 Health, +7 Sanity)
 -   Charged Return \[Common Talent, Intelligence\] - Being under an elemental status effect causes your physical attacks to do more damage. (+2 Health)
+-   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra. (+5 Ether)
 
 ### Falling Star Guard
 
@@ -363,10 +364,10 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Freak Of Nature
 
--   Exoskeleton \[Legendary Talent, 30 Fortitude\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
+-   Exoskeleton \[Generic Talent, Legendary Talent\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
     -   Can be stacked with Chitin.
-    -   Requirements: 30 Fortitude.
--   Potion Quaffer \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
+    -   Requirements: 35 Fortitude.
+-   Potion Quaffer \[Generic Talent, Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
 
 ### The Emperor's Blade
@@ -615,7 +616,7 @@ These are just raw stat increase and are beneficial to anyone.
 -   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
-    -   Prerequisite: 40 willpower and Murmur: Ardour.
+    -   Prerequisite: 15 strength, 40 willpower and Murmur: Ardour.
 -   Murmur: Tacet \[Generic Talent, Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 -   Murmur: Rhythm \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G"
     -   Likely removed due to being significantly weaker than the other two Murmurs.
@@ -814,6 +815,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 
 -   Hard Read \[Generic Talent, Common Talent\] - Hitting your opponent during a feint will cause them to be dazed. (+4 Ether)
 -   Target Switch \[Generic Talent, Common Talent\] - Parrying an Opponent then hitting someone else makes your next Mantra free. (+4 Ether) \[Gives you a yellow halo after you hit someone else\]
+-   Punishing Blow \[Generic Talent, Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
 
 ### The Demon Blade
 
@@ -908,6 +910,7 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Warrior
 
+-   Chronostasis \[Generic Talent, Rare Talent\] - Landing an M1 puts target resonance on cooldown for a short duration
 -   Engage \[Generic Talent, Common Talent\] - Landing M1 attacks slightly restores your Ether. (+5 Ether, +1 Posture)
 -   Critical Attack \[Generic Talent, Common Talent\] - Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26251
+revid: 26303
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -247,7 +247,7 @@ _Requires Power 30_
  | Hive Chests, Depths Chests |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
-_Requires Power 30_
+_Doesn't need any power, but obviously needs a mantra to get it_
 
  | Aelita Chests |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants a random buff. | Hive Chests, Depths Chests |
