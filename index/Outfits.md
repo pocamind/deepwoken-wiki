@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26303
+revid: 26454
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -81,7 +81,7 @@ _Deepwoken_ currently has 9 and more speculated/unconfirmed armors that supposed
 
 ## Armor
 
-Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. (**This section is severely outdated and is dire need of updates)**
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. (**This section is severely outdated and is in dire need of updates)**
 
 **Head:**
 
@@ -188,7 +188,7 @@ _\+ Talent: Blinded_
 | File:Onepiececape.png | Fleet Warden Cape | Grants a random buff.
 _Requires Power 40_
 
- | Summer Isle Scope Quest |
+ | Summer Isle Chest Rewards |
 
 **Arms:**
 
@@ -206,8 +206,8 @@ _Requires Power 40_
 | File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests |
 |  | Ranger's Brace | Grants a random buff. | Erisia Chests |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests |
-| File:Sharko coat.png | Megalodaunt Coat | They have stats buff but I forgor
-_Requires Power 30?_
+| File:Sharko coat.png | Megalodaunt Coat | Grants 3 random stats with at least one being monster related. Comes in various colors
+_Requires Power 30_
 
  | Megalodaunts Drop |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests |

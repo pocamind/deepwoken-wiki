@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 26009
+revid: 26450
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -37,6 +37,11 @@ notices:
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
 
+### **Shadowcast**
+
+-   **Shadow Gun** resembles the [Cero](https://bleach.fandom.com/wiki/Cero) technique used by characters from _Bleach_.
+    -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk)_._
+
 ## Enemies/Bosses
 
 -   The **[Megalodaunt](Megalodaunt.md)** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
@@ -60,7 +65,7 @@ notices:
 ## Talents
 
 -   **Captain Etrea's** name and ability is a reference to Captain America.
--   **Battle Tendency** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
+-   **Battle Tendency's** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
 -   **Boom, Headshot** is a reference to the One-Hit Kill system that games have created, by forcing players to aim at the head to kill the target in one shot. It also possibly references [this popular sound effect](https://youtu.be/ovsVU6mktOw?t=70) as well.
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)

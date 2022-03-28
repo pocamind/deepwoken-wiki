@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 26374
+revid: 26436
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -41,7 +41,7 @@ To use a Pluripotent Alloy, you equip a midgame weapon and use the alloy, then i
 
   
 
-## Alloyed Zweihänder
+## Alloyed Zweihander
 
 -   Upgrade to 23 base damage, 10% PEN, endlag reduction from .25 to .15, and weapon scaling becomes 9
 

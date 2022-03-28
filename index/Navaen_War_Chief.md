@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 25748
+revid: 26406
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

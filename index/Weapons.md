@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26350
+revid: 26451
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -68,6 +68,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Stiletto.md">Stiletto</a></td>
@@ -78,6 +79,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Parrying_Dagger.md">Parry Dagger</a></td>
@@ -88,6 +90,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>N/A</td>
   <td>N/A</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -98,6 +101,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.03x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -108,6 +112,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>5</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -118,6 +123,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>2</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
@@ -128,6 +134,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -138,6 +145,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.03x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -148,6 +156,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6</td>
   <td>1.03x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
@@ -158,6 +167,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>3</td>
   <td>7</td>
   <td>0.85x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -168,6 +178,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
@@ -178,6 +189,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -197,6 +209,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-Able</b></td>
 </tr>
 <tr>
   <td><a href="Fists.md">Fist (Way of Navae/Legion Kata/Jus Karita)</a></td>
@@ -207,6 +220,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>6</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Iron_Cestus.md">Iron Cestus</a></td>
@@ -217,6 +231,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Legion_Cestus.md">Legion Cestus</a></td>
@@ -227,6 +242,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Fists.md">Jus Karita</a></td>
@@ -237,6 +253,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></td>
@@ -247,6 +264,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>7</td>
   <td>0.87x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -270,6 +288,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
@@ -280,6 +299,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
@@ -290,6 +310,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
@@ -300,6 +321,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>3</td>
   <td>12</td>
   <td>1.3x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -319,6 +341,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Apprentice_Rapier.md">Apprentice Rapier</a></td>
@@ -329,6 +352,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.77x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -352,6 +376,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-Able</b></td>
 </tr>
 <tr>
   <td><a href="Sword_(weapon).md">Sword</a></td>
@@ -362,6 +387,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Messer.md">Messer</a></td>
@@ -372,6 +398,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>7.5</td>
   <td>0.7</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Falchion.md">Falchion</a></td>
@@ -382,6 +409,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Scimitar.md">Scimitar</a></td>
@@ -392,6 +420,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>6</td>
   <td>5</td>
   <td>0.85x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Katana.md">Katana</a></td>
@@ -402,6 +431,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Worshipper_Longsword.md">Worshipper Longsword</a></td>
@@ -412,6 +442,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Officer_Saber.md">Officer Saber</a></td>
@@ -422,6 +453,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>7</td>
   <td>8</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Vigil_Longsword.md">Vigil Longsword</a></td>
@@ -432,6 +464,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Champion's_Sword.md">Champion's Sword</a></td>
@@ -442,6 +475,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.77x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Cavalry_Saber.md">Cavalry Saber</a></td>
@@ -452,6 +486,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Shotel.md">Shotel</a></td>
@@ -462,6 +497,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>2</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></td>
@@ -472,6 +508,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Razor_Cutlass.md">Razor Cutlass</a></td>
@@ -482,6 +519,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>4</td>
   <td>8</td>
   <td>0.7x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
@@ -492,6 +530,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.8x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Serpent's_Edge.md">Serpent's Edge</a></td>
@@ -502,6 +541,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8.5</td>
   <td>0.75x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
@@ -512,6 +552,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -531,6 +572,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Iron_Spear.md">Iron Spear</a></td>
@@ -541,6 +583,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Gremorian_Longspear.md">Gremorian Longspear</a></td>
@@ -551,6 +594,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Ritual_Spear.md">Ritual Spear</a></td>
@@ -561,6 +605,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td>Acheron's Warspear</td>
@@ -571,6 +616,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Trident_Spear.md">Trident Spear</a></td>
@@ -581,6 +627,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Serrated_Warspear.md">Serrated Warspear</a></td>
@@ -591,6 +638,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Rifle_Spear.md">Rifle Spear</a></td>
@@ -601,6 +649,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.68x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td>True Seraph's Spear</td>
@@ -611,6 +660,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -630,6 +680,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Mace.md">Mace</a></td>
@@ -640,6 +691,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>6</td>
   <td>7.5</td>
   <td>0.7x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Sacred_Hammer.md">Sacred Hammer</a></td>
@@ -650,6 +702,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -673,6 +726,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Battleaxe.md">Battleaxe</a></td>
@@ -683,6 +737,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>6</td>
   <td>8</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Adretian_Axe.md">Adretian Axe</a></td>
@@ -693,6 +748,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>6</td>
   <td>8</td>
   <td>0.61x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Canorian_Axe.md">Canorian Axe</a></td>
@@ -703,6 +759,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>4</td>
   <td>8</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td>Iron Birch</td>
@@ -713,6 +770,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>4</td>
   <td>8</td>
   <td>0.64x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Halberd.md">Halberd</a></td>
@@ -723,6 +781,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td>Evanspear Hand Axe</td>
@@ -733,6 +792,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Night_Axe.md">Night Axe</a></td>
@@ -743,6 +803,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
@@ -753,6 +814,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Relic_Axe.md">Relic Axe</a></td>
@@ -763,6 +825,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>10</td>
   <td>8.5</td>
   <td>0.54x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
@@ -773,6 +836,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td>8.5</td>
   <td>0.55x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -793,6 +857,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td>Zweihänder</td>
@@ -804,6 +869,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.25s</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a></td>
@@ -815,6 +881,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td></td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></td>
@@ -826,6 +893,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.6x</td>
   <td>0.1s</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Inquisitor's_Greatsword.md">Inquisitor's Straight Sword</a></td>
@@ -837,6 +905,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>9</td>
   <td>0.63x</td>
   <td>0.1s</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="First_Light.md">First Light</a></td>
@@ -848,6 +917,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.6x</td>
   <td></td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Enforcer's_Blade.md">Enforcer's Blade</a></td>
@@ -859,6 +929,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.54x</td>
   <td></td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -878,6 +949,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
@@ -888,6 +960,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Forge_Greathammer.md">Forge Greathammer</a></td>
@@ -898,6 +971,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Great_Maul.md">Great Maul</a></td>
@@ -908,6 +982,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>9</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Pale_Morning.md">Pale Morning</a></td>
@@ -918,6 +993,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>9</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Petra's_Anchor.md">Petra's Anchor</a></td>
@@ -928,6 +1004,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>8</td>
   <td>0.6x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>
@@ -947,6 +1024,7 @@ Weapons that scale with a certain element
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Flame</a></td>
@@ -957,6 +1035,7 @@ Weapons that scale with a certain element
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Lightning</a></td>
@@ -967,6 +1046,7 @@ Weapons that scale with a certain element
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Frost</a></td>
@@ -977,6 +1057,7 @@ Weapons that scale with a certain element
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Wind</a></td>
@@ -987,6 +1068,7 @@ Weapons that scale with a certain element
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Hero_Blades.md">Hero Blade of Shadow</a></td>
@@ -997,6 +1079,7 @@ Weapons that scale with a certain element
   <td>5</td>
   <td>8</td>
   <td>0.73x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
@@ -1007,6 +1090,7 @@ Weapons that scale with a certain element
   <td>5</td>
   <td>8</td>
   <td>0.8x</td>
+  <td>No</td>
 </tr>
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
@@ -1017,6 +1101,7 @@ Weapons that scale with a certain element
   <td>9</td>
   <td>9</td>
   <td>0.65x</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>

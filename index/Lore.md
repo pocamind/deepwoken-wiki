@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26332
+revid: 26390
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -179,8 +179,8 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
     -   Blue Meteorites, containing Meteor Knights crash into the Valley as an encounter; emerging their means of transport upon landing.
 
 -   Theories from a variety of people proclaim that the Blue stars that rain down the Valley is coming from the Celestial City.
-    -   Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading, raining pieces of itself down to the Starswept Valley.
-        -   Furthermore, in a realistic and scientific standpoint, It would be impossible for the City to be raining pieces of itself as we don't know the distance between the Celestial City and Starswept Valley; not to mention the trajectory.
+    -   ~Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading, raining pieces of itself down to the Starswept Valley.~
+        -   ~Furthermore, in a realistic and scientific standpoint, It would be impossible for the City to be raining pieces of itself as we don't know the distance between the Celestial City and Starswept Valley; not to mention the trajectory.~ False. it is stated at the celestial telescope in the greathives observatory that "pieces of rock and debris wrestle loose and fall to the ground" aswell as Arch litteraly saying himself that the meteors and shards are fragments of celestia.
 
 ### **Voidsea**
 
