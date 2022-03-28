@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 26329
+revid: 26367
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -49,6 +49,7 @@ Notes:
 
 -   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
 -   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.
+-   The Summer Company Guards will still get mad at you for attacking your opponent in the arena
 
 ### _**Forge**_
 

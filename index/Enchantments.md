@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26326
+revid: 26366
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -41,7 +41,7 @@ Since release, only weapons can have Cursed Enchantments. Equipment and Weapons 
 
 The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md) or [The Depths](The_Depths.md) is a good way to increase your chances of finding one.
 
-In the newest update unchant rates have been buffed 3x.
+In the 27/03/2022 update, enchant rates have been buffed 3x.
 
 ## List of Enchantments/Curses
 
@@ -119,8 +119,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div>Increases weapon attack speed slightly, (slower weapons receive a higher bonus) Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed (slower weapons gain more speed per stack) This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon. This enchant is a reference to Saber's Invisible Air from Fate/Zero and Fate/Stay Night</div></td>
 </tr>
 <tr>
-  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
-  <td><div><p>Steals thirst equal to 1/3rd of your damage</p>
+  <td><figure>File:Searenchant.png<figcaption></figcaption></figure><div>Sear</div></td>
+  <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -139,7 +139,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Whenever damage is dealt, a portion of the damage is repeated to everyone (beside the user) in a small area. Can hit allies.</p>
+  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Can hit allies.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -151,7 +151,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks deals 1.2x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).<br>
+  <td><div><p>Attacks deals 1.1x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).<br>
   The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>
 <tr>

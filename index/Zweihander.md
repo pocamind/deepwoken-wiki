@@ -1,9 +1,9 @@
 ---
 title: Zweihander
-revid: 24859
+revid: 26352
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Pages with broken file links, Weaponry]
 ---
 
 # Zweihander
@@ -38,3 +38,12 @@ This weapon has no special effects or passives.
 -   Has the best range a Heavy Weapon could have.
 
 -   "Zweihänder" means "Two-handed sword" in German.
+
+  
+
+-   Can be upgraded using "[Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy)" for an increase to 23 base damage, weapon scaling becomes 9, an extra 10% pen, and reduction of endlag from 0.25 to 0.15 (This increases weapon requirement to 75 heavy so be careful)
+
+File:Aaaaaa.png
+
+  
+An alloyed Zweihänder ( This person has 90 points in Heavy) with Storm enchant

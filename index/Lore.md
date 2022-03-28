@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26187
+revid: 26332
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -92,7 +92,6 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   It is presumed that the purple Resonance Bell is Yun'Shul's curse, as tumor-like spheres pop around the victim's head, before blowing up.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
--   He once had a special ring, but discarded it at one point
 
 ### **The Meat Lord**
 
@@ -121,8 +120,8 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 
--   His former prodigy, Gunsmith Hierka, went behind his back to construct the Rifle Spear for the Authority.
-    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let whatever The Authority do what they please, even when it affects them negatively.  
+-   ~Betrayed by his former prodigy, Gunsmith Hierka who used the Summer Company's secrets in order to create the Rifle Spear for the Authority.~
+    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let whatever The Authority do what they please to them.  
         
 
 ### Yun'shul
@@ -218,6 +217,8 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   A City that was overtaken by the Tides. Once a prosper city and capital of Celtor, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
+-   ~Many theories, based on the City District's description, that the city may have sank to The Depths due to its lust of Greed and Power, eventually up to the point where it went too far, and suffered the consequences.~
+    -   (Arch\_Mage) Thankfully, Arch\_Mage debunked this theory; as The City of Celtor was one of the many victims of the Great Drowning.
 -   The Depths became the place souls went to after death after the great drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
 #### Castle Light (The Depths, First Layer)
@@ -276,7 +277,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
--   **Alliances:** _???_
+-   **Alliances:** _Kingdom of Etrea (I don't see how this is true when an Etrean vs Authority event initiated in The Viper's Jaw, the Legion npcs attacked both sides.)_
 -   **Enemies:** _The Central Authority_
 -   **Lore Sources:** _Amara, Brutus_
 
@@ -304,13 +305,13 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
 -   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between Kingdom of Etrea and the Authority.
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
--   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
+-   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with the Authority.
 -   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
 -   As of 1271, Summer Company has ties with The Authority. The Authority contracting the Company for Firearms in exchange with goods and the likings.
-    -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company secrets are being stolen by Authority they are still in business with The Authority.
+    -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company is being stolen by Authority, such as Hierka themselves, they are still in business with The Authority.
         -   Explained by Arch\_Mage, Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
-        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract, just like the Legion.
+        -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between eachother.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
 
 A Summer Company Member.
@@ -347,7 +348,7 @@ A Dark Mage, located in Minityrsa.
 
 -   The Lord Regent is the only known Contractor. He came from the Depths and is being used by The Ministry to sink Etrea and bring about the next Great Drowning.
 
-### The Knives of Eylis
+### Knives of Eylis
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker_
@@ -359,8 +360,7 @@ A Dark Mage, located in Minityrsa.
 -   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
 -   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority hands in [Fort Merit](Fort_Merit.md).
--   Given their name and the existence of Megolaudant traps, as well as the fact that their corpses can be found scattered over Upper Erisia being fed on by Megolaudants, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
--   Their high ranked mercenaries have acess to the removed Murmur: Adagio  
+-   Given their name and the existence of Megolaudant traps, as well as the fact that their corpses can be found scattered over Upper Erisia being fed on by Megolaudants, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.  
     
 
 ### The Ignition Union
@@ -433,10 +433,10 @@ A Peacekeeper Commander, part of The Authority
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris.
 -   (The Authority) The Divers are outsourced by The Adretian Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
--   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
+-   (The Authority) The Divers has a mixed relationship with The Adretian Authority, such as giving them the "cold shoulder".
 -   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
 -   (Akira) The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
--   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
+-   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, AKA "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
 -   (Arch\_Mage) The Divers can travel between the boundries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
 
@@ -464,7 +464,7 @@ A Peacekeeper Commander, part of The Authority
 -   **Lore Sources:** _Ferryman, Arch\_Mage_
     -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
     -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
-        -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md).
+        -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, but since the Autumn of 1283; she took the oath of the [Visionshaper](Oaths.md).
 
 ### The Golden Rats
 
@@ -492,20 +492,15 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Lore Sources:** _Arch\_Mage (Discord), Songseeker Wilds_
 
 -   A colony of Tribesmen that worship the Song, known as the Masters of the Elements. The Songseekers consist of any race.
-    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a cult.
+    -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters.
 -   They worship the song and believe that when they die they will return to it like a form of reincarnation.
--   (Arch\_Mage) Although there are no Songseekers who use Galebreather in the Etrean Luminant, at least as far as we've seen, there is a possibility that there are Galebreathe Songseekers.
+-   (Arch\_Mage) Although there is no Galebreathers we've seen in the Etrean Luminant, thanks to information given by Arch\_Mage, there is a possibility that there are Galebreathe Songseekers.
 
 ### Bandits
 
--   **Encounter In:** _Erisia, Summer Isle, Etris, Isle of Vigils_
+-   **Encounter In:** _Anywhere_
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
--   Their appears to be some degree of organization between them
-    -   They have a ranking system
-    -   They have a village in Lower Erisia
-    -   They have a Uniform
-    -   They organize large raids on bigger factions
 
 ### The Old Stewards
 
@@ -549,7 +544,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 _"Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin."_
 
--   A recently arrived race of spiritually adept individuals that make up the bulk, if not all, of the Authority.
+-   A recently arrived race of spiritually adept individuals that make up the bulk of the Adretian Authority.
 -   Their tattoos (markings on their face) represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
 -   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". He also states that the Adrets are not related to an animal unlike the races.
 -   According to **Shirafune**, the Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
@@ -737,6 +732,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
     -   (Hive Tactician) As of 3/14/2022, there are no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+-   ~It's possible that the [Ironclad](Ships_&_Sailing.md#list-of-ships) is the product of Ironsing due to its modern technology and metal hull, compared to the wooden ships we've seen across the Luminant.~
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
         
 
@@ -770,11 +766,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 -   Ministry Agents or Scouts can utilize this Murmur and are apparently able to teach it to individuals with no abilities or connection to The Song at all.
 
-### Whispers of Adagio
-
--   An application of the Song that enables the user to emit a strange noise that slows time around them.
-    -   Unobtainable to players, only proof of it existing are NPCs that use it
--   Used by Knives of Eylis captains
+  
 
 ## Before the Tides (Old World)
 
@@ -902,7 +894,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
 -   Yun' Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
 -   According to Arch\_Mage, resonances are "Unique passages of the Song being brought out and wielded."
-    -   In the game, The Depths is described as particularly good at drawing out your Resonance. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
+    -   In the game, you can only obtain your Resonance Bell in The Depths. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   According to Arch\_Mage, Resonance can consist of any instrument, not just Bells.
 -   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.

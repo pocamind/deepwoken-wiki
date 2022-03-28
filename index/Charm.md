@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 23348
+revid: 26372
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,6 +34,8 @@ Charm talents can be split into two categories; those that give enemies charm an
 **Tough Love** - Deal more damage to players charmed by you.
 
 **Encore** - Your _Sing_ will now stun opponents who are already charmed. (Enemies/NPCs)
+
+**Dazing Finisher** - Flourishing enemies that are charmed by you cause them to not be knocked back and _dazed_ instead. (Enemies/NPCs)
 
 ### Vow of Mastery
 

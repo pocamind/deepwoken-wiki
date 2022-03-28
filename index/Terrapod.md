@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 22573
+revid: 26373
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster]
@@ -8,7 +8,7 @@ categories: [Monsters, Monster]
 
 # Terrapod
 
-Template:Creature Infobox V3 _"THEY ADDED HEADCRABS TO DEEPWO-" - One poor, poor, freshie._
+Template:Creature Infobox V3 "STUPID CRAB, ILL TAKE YOU ON. YOUR SO TINY COMPARED TO THE OTHERS!" -The final words of a witless Celtor.
 
 _Also known as turtles or annoying scissor thing._
 
