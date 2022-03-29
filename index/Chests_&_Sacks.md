@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 19175
+revid: 26576
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -25,3 +25,5 @@ An image of a sack
 Sacks are in-game bags that spawn after a player has died. They contain a stash of items from the deceased player's inventory, but not all as there is a limit for how many items there could be in the sack. Enchants or rare items are always guaranteed to appear in the sack, no matter how many a player has.
 
 Similar to chests, loots inside the sack will appear in different colors depending on the rarity of the items. (Ranging from Common to Enchanted). Enchants will appear as a whitish color.
+
+Note: Sacks despawn after ~15 minutes

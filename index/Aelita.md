@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 26524
+revid: 26566
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -44,6 +44,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 ## Notes
 
 -   Aelita is a [Felinor](Felinor.md).
+-   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
 -   Aelita is speculated to have the [Visionshaper Oath](Oaths.md) due to her ability to summon clones that appear nearly identical to herself.
 -   She is also speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to clone themselves and appear out of nowhere, as well as the fact they both have purple eyes, which seems to be unique in some way though it should be noted Gremor have naturally purple eyes.
 -   Aelita has purple eyes, her clones will never have purple eyes.

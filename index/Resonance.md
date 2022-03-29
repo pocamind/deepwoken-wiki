@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 26563
+revid: 26571
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -107,7 +107,9 @@ Talk to Sibex until he tells you these lines:
 
 **Note:** Getting either of these dialogues does not guarantee a bell, rather it gives you a relatively high chance of obtaining one.
 
--   You'll be revived and healed to 100%, as well as the person who knocked you.
+When you feel ready, go to The Depths and get knocked. Can be by a player, fall damage or a monster. If your resonance is ready:
+
+-   You'll be revived and healed to 100%, as well as the person who knocked you if its a player.
 -   Your Blood, Thirst and Hunger are maxed out.
 -   A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.

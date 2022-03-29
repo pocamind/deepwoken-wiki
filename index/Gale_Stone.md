@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 22306
+revid: 26589
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,9 +17,12 @@ WARNING: You can accidentally eat it.
 
 Do not kill Etrean guards for these, instead kill Legionnaires as they have a higher chance on dropping Gale Stones.
 
+Alternatively, the most low risk high reward and probably the fastest way to gain Gale Stones is to kill the Etrean Footsoldiers in the Etrea vs. The Central Authority event. Do not worry, this does not tarnish your reputation with Etrea.
+
   
 
   
+
   
 
 ## Notes/Trivia

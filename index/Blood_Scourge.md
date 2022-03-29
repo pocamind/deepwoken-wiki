@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 24490
+revid: 26572
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,13 +25,13 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, a red circle around 10 studs large appears around the user or effect and grips anyone within the radius. This heals the user to full when someone is gripped, regardless of what or who they are, meaning you can reaper bell a freshie or a mudskipper with extremely low health and you will be full. (50% of the time are accidental grips)
+When used, a red circle around 10 studs large appears around the user or projectile. Any knocked entities or players in this area is immediatly gripped.
 
 ## Usage
 
 Pressing C will activate the **Blood Scourge** Resonance.
 
-**Blood Scourge** will quickly execute any knocked entity within it's range and heal the user. It has a cooldown of about 15-20 seconds. (can vary on each user)
+**Blood Scourge** will immediatly execute any knocked entity within it's range and heal the user for a large amount. It has a cooldown of about 15-20 seconds. The execution cannot be avoided once in range, unless the target is being manually gripped at the same time. If the user's and target's Power difference is greater than 20, the healing is cut in half.
 
 ### _Variants_
 
@@ -45,8 +45,6 @@ Pressing C will activate the **Blood Scourge** Resonance.
 #### _Corrupted_
 
 If **Blood Scourge** is found to be corrupted, its area of effect becomes larger (possibly 2x larger).
-
-  
 
 ## Trivia/Notes
 

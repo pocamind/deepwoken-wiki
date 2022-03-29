@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26499
+revid: 26569
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -20,10 +20,9 @@ Enchantments are extremely rare and very powerful upgrades for your equipment. Y
 
 Enchanted weapons are very special. Therefore, they have some limitations placed on them:
 
+-   You do not drop enchanted items on death.
 -   You cannot equip multiple copies of the same enchantment. If you were to find for example, a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
-
--   Equipping an enchanted weapon will make it soulbound to you. A soulbound weapon will restrict you from dropping it, however you can still switch weapons.
-    -   **~Enchanted armors do not get soulbounded however.~ As of 3/27/2022, enchanted armors do get soulbound.**
+-   Equipping an enchanted weapon or armor will make it soulbound to you. A soulbounded item will restrict you from dropping it, however you can still switch weapons.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
 -   Face, Ears and Back equipment cannot be enchanted

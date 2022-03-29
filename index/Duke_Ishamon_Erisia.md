@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 26062
+revid: 26578
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -84,5 +84,5 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
 -   It is recommended to fight The Duke with the following:
     -   Any high **posture-damage** mantras or attunements, I personally recommend Shadow Gun and or most Shadowcast mantras as they shred through posture.
     -   A **[Heavy Hands Ring](Equipment.md#rings)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
-    -   **Heavy Weaponry**, any heavy weapons' critical strike (M2) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
+    -   **Heavy Weaponry**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
         -   Specifically any **Greathammer**, however Greataxes & Greatswords are also very effective at infinite posture-breaking The Duke.

@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26560
+revid: 26586
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -63,15 +63,15 @@ Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, 
 
 Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
 
-Sibex:**(You can get your bell)** Well look at you, my friend! You're practically beaming with the song! 
+Sibex:**(You have obtained your bell (tested with 5 people)/Bugged)** Well look at you, my friend! You're practically beaming with the song! 
 
 Sibex:**(You have a high chance of getting a legendary bell)** Ahh... The tone is growing clearer, and with the tempo matched it's beginning to sound rather intriguing... Could you be one of the few? 
 
-Sibex:**(You have a high chance of getting a corrupted bell)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?
+Sibex:**(You have a high chance of getting a corrupted bell. Note: Got this message from Sibex then later got morphed like Clay, likely false unless corrupted bells are pre determined.)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?
 
 Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 
-Sibex:**(Unknown, Received after getting a bell)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
+Sibex:**(Unknown, ~Received after getting a bell~, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 
   
 
