@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 26331
+revid: 26501
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue, NPCs, NPC, Npc, Locations, Character, Reputation]
@@ -53,7 +53,7 @@ Talking to Nerin
 Talking to guards/camp masters
 
 -   Very Good Reputation - "Placeholder" | "Placeholder"
--   Good Reputation - "Welcome homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
+-   Good Reputation - "Ah homelander, what might you need?" | "Be careful homelander, those murderers could strike any moment"
 -   Neutral Reputation - "Ah, a homelander." | "Keep your distance from my people homelander. I do not wish for this to become violent"
 -   Unfriendly Reputation - ~\*you cannot become enemies with the whole faction\*~ (I don't think so, by killing enough Navaean nomads you can. However it seems as if the dialogue does not change)
 
@@ -88,8 +88,8 @@ Talking to Guards
 
 Talking to Nepo
 
--   Good Reputation - _\*The man barely looks up from his book, scowling at you.\*_ "I'm on break and your nose seems to be clean, keep it that way."
--   Hostile Reputation - "Placeholder"
+-   Good Reputation - "_\*The man barely looks up from his book, scowling at you.\*_ "I'm on break and your nose seems to be clean, keep it that way."
+-   Hostile Reputation - "_\*The man barely looks up from his book, scowling at you.\*_ "I'm on break, what do you want?"
 
 ## Hive Reputation
 

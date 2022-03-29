@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 25000
+revid: 26512
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Weaponry]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Navaen Nomad Hostage (Way of Navae), Amara & Captain's Recc (Legion Kata), 40 LHT, 30 Power & Polis (Jus Karita) |
-| description | "The traditional martial arts style of the Justicars." - Jus Karita, TBA - Way of Navae, TBA - Legion Kata |
+| description | "The traditional martial arts style of the Justicars." - Jus Karita, "Adopt the fighting stance of the Way of Navae" - Way of Navae, TBA - Legion Kata |
 
 > _"Sharp tools are just for simpletons."_
 

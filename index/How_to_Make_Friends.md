@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 24195
+revid: 26496
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -89,6 +89,7 @@ Charisma 65+(Not 70+ when I had 65 people said this.)
 
 ## Notes/Trivia
 
+-   You can train charisma when not near an NPC or player.
 -   Many of the phrases in How To Make Friends are really corny and often reference a race.
 
 -   For example, Hivekin refers to the [Vesperian](Vesperian.md) race (as they are beetles.)

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26483
+revid: 26499
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -72,7 +72,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <b>This enchant is disabled in Arena</b></p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure>File:Curseofyunshul1.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>On proc (mantra included), deal 3x damage. Has a chance to apply this to yourself.</p></div></td>
 </tr>
 </tbody>

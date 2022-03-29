@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 23603
+revid: 26509
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -34,3 +34,4 @@ The Hobo is a neutral NPC that can be found in the wild. They guard three chests
 -   The hobo seems to be someone who escaped captivity from the [Golems](Rock_Golem.md), and has lost their mind since.
 -   It's worth fighting them.
 -   Do **NOT** try to run from them. You will most likely end up dead due to their fly hacks. (I’m still salty that I wiped because my team didn’t let me Charisma check at max Charisma)
+-   Hobos have a very similar AI to [flame songseekers](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.

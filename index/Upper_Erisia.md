@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 24234
+revid: 26507
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -24,7 +24,7 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 
 -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
--   Temple of the Forgotten Flame
+-   Temple Of The Forgotten Flame
     -   [Temple Courtyard](Temple_Courtyard.md)
 
 -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
@@ -38,10 +38,10 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 Events that spawn in Upper Erisia that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Megalodaunt](Megalodaunt.md) vs [Rock Golem](Rock_Golem.md)
--   [Dark owl](Deep_Owl.md)
+-   [Deep Owl](Deep_Owl.md)
 -   [Terrapod](Terrapod.md)
 -   Golden Warrior
--   Etrea vs The Central Authority
+-   Etrean Guards vs The Central Authority
 -   The Eleventh Legion vs The Central Authority
 
 ## Events

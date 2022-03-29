@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 26089
+revid: 26518
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -87,6 +87,7 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   Enforcer can pull you during an emote.
 -   The axe has a hitbox for some unknown reason, allowing for easy hits by outranging the enforcer during its whirlwind.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
+-   Parrying 5-6 times, attacking 1-2 times, and repeating is an easy way to kill The Enforcer.
 
 1.  [↑](#cite-ref-1) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)
