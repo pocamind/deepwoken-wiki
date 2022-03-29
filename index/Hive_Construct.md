@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 26519
+revid: 26553
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -82,5 +82,6 @@ The Rogue Construct located on top of Minityrsa have a chance of dropping the [I
 -   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro the Meteor Knights, the opposite is also true.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
 -   Can win every fight with another [monster](Monsters.md) in Starswept Valley. (Works with Stone Knight even prioritises it above Authority Commander)
+-   Fun fact, the regular Hive Golems can drop Pomars upon death.
     
     A hive golem talking.

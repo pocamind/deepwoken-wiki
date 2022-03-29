@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26530
+revid: 26552
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -222,7 +222,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
     -   Prerequisite : 30 Intelligence (Got it at 19 Intelligence)
     -   When hit by an elemental attack, gain a 10% damage resistance towards its respective element but take 25% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
-    -   ~This effect is applied separately for every player or NPC that hits you with an elemental mantra, meaning that it is possible to build up resistance/weakness to multiple elements.~ Proven false
+    -   Contrary to popular myth, the effect is not tracked individually per player.
 
 ### Charismatic Cast
 
