@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 26053
+revid: 26549
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 
 A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
 
-#### _sexy "I'm going to use unethical amount of Stratos stone to my mantra."_ -Some Etrean with 1 Intelligence (the person who originally wrote this wrote "intelligence" wrong. The irony.)
+#### _sexy "I'm going to use an unethical amount of Stratus stone to my mantra."_ -Some Etrean with 1 Intelligence (the person who originally wrote this wrote "intelligence" wrong. The irony.)
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in Erisia [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -22,7 +22,7 @@ Glass Stones and Magnifying Stones seem to have vastly different effects on mant
 
 Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible, for example:
 
-1.  Revenge requires Drift/Rush Shards to reach further instead of Lens.
+1.  Revenge requires Drift/Rush Shards to reach further instead of Lens. (what)
 
 **Regular:**
 
@@ -350,7 +350,7 @@ The falseflame, haunting, and mirage stone are all dropped by jellyfish in the d
 
 #### Round Spark
 
--   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the Song Seeker ice NPC).
+-   This modifier converts the _Ice Eruption_ Mantra's hitbox into a circle that surrounds you (like the Frostdrawer Monk NPC).
 -   This modifier makes _Fire Gun_ bullets split into two.
 
 #### Blast Spark

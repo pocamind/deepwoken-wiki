@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 26436
+revid: 26528
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,13 +22,12 @@ File:Eeeee.png
 
 You can get Pluripotent Alloy by using 2 methods
 
--   Kill a boss for the first time, you have to deal a good amount of damage.
--   Get a random alloyed weapon from chest.
-    -   This only applies to midgame weapons.
+-   Killing a boss for the first time, you have to deal a good amount of damage.
+-   Get a random alloyed weapon from a chest. (Rare)
 
 ## How to use Pluripotent Alloys
 
-To use a Pluripotent Alloy, you equip a midgame weapon and use the alloy, then it will transform with a clean animation. This increases the requirement to 75 in the weapon's respective category.
+To use a Pluripotent Alloy, you have to equip a weapon that is able to be alloyed, and use the alloy, it will then transform into an alloyed weapon, signified by a white particle whirling around the weapon during the animation. This increases the weapon requirement to 75.
 
 ## Which weapons are able to be alloyed?
 
@@ -50,13 +49,19 @@ File:Wwwww.png
 
 ## [Alloyed Halberd](Halberd.md)
 
--   Upgrade to 24 base damage, 15% PEN, and weapon scaling to 8.
+-   Upgrade to 24 base damage, 15% PEN, a new Heavy Attack, and weapon scaling to 8.
 
   
 File:Alloyedhalberd.png
 
 ## [Alloyed Whaling Knife](Whaling_Knife.md)
 
--   Upgrade to 10% PEN, weapon scaling to 8.
+-   Upgrade to 10% PEN, a new Heavy Attack, and weapon scaling to 8.
 
 File:Whalin knife.png
+
+## [Alloyed Shotel](Shotel.md)
+
+-   Upgrade to 22 base damage, 6 weapon scaling, and an extra 10% penetration.
+    
+    File:Alloyed shotel.png

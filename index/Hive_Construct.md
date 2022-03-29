@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 26220
+revid: 26519
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -43,7 +43,7 @@ They have a brown wood-like appearance, with foliage around its legs, powered by
 <tr>
   <td><b>Roar</b></td>
   <td>TBA</td>
-  <td>The Construct roars, does no damage and does not put you in danger. (needs confirmation)</td>
+  <td>The Construct roars, makes the next Meteor Punch double.</td>
 </tr>
 <tr>
   <td><b>Kick</b></td>

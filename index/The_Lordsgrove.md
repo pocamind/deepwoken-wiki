@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 26513
+revid: 26521
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -35,4 +35,4 @@ The Lordsgrove contains a fountain that will transport you to [Greathive Aratel]
 
 ## Trivia/Notes
 
--   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face.
+-   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and have an oath. (Oathless is an oath)

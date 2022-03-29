@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 26081
+revid: 26531
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disambiguations]
@@ -23,7 +23,6 @@ Please follow one of the disambiguation links below or search to find the page y
 
 ## Bosses
 
--   [Deep Owl](Deep_Owl.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
@@ -32,3 +31,4 @@ Please follow one of the disambiguation links below or search to find the page y
 -   [The Ferryman](The_Ferryman.md)
 -   [The Enforcer](Enforcer.md)
 -   [Nautilodaunt](Nautilodaunt.md)
+-   [Blizzard Knights](Stone_Knight.md)

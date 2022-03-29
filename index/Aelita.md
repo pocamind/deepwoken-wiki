@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 26511
+revid: 26524
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -51,3 +51,4 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
 -   If going straight through the [Valley of Hero's](The_Valley_of_Heroes.md), even sticking to the walls, it is almost impossible to avoid Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   Before attempting this event be aware of other enemy's, such as [Songseekers](Songseeker_Frostdrawer.md) and [Necromancers](Ministry_Necromancer.md), as they can spawn in peculiar places and interrupt you while doing the event.
+-   Aelita is Bisexual.

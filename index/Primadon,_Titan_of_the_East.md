@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 26103
+revid: 26522
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -34,7 +34,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, stuns you, and grabs you - Dealing about a bar of damage to even those with 500 hp. | ◯ | (★★★) |
 | **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
-| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players; he obtains a new move called Primal Vaccum. | ◯ | (★★★) |
+| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players. | ◯ | (★★★) |
 
 ### Passives
 
