@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26598
+revid: 26653
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -775,7 +775,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td><a href="Halberd.md">Halberd</a></td>
-  <td>45/<font>75</font> HVY</td>
+  <td>25/<font>75</font> HVY</td>
   <td>22/<font>24</font></td>
   <td>N/A/<font>15%</font></td>
   <td>HVY: 7/<font>8</font></td>

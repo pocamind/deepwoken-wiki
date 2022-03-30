@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26635
+revid: 26652
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -31,7 +31,10 @@ You: I'm not a local.
 
 Sibex: Oh? Then what are you?
 
-Option 1: A Pathfinder.                                                                                                          Option 2: A Warrior.                                                                                                                 Option 3: A Scholar.                                                                                                 Option 4: None of your business.
+Option 1: A Pathfinder.
+Option 2: A Warrior. 
+Option 3: A Scholar.
+Option 4: None of your business.
 
 Sibex:(When prompted with options 1-3) Wow... You really are full of yourself, huh?
 
@@ -61,15 +64,15 @@ Sibex:**(If you have Low Bell progress)** You Must've been born yesterday, your 
 
 Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.
 
-Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression)** Ahh... The tone is growing clearer, and with the tempo matched it's beginning to sound rather intriguing... Could you be one of the few? 
-
 Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few? 
 
+Sibex:**(You have a high chance of getting a Legendary Bell)** Ahh... The tone is growing clearer, and with the tempo matched it's beginning to sound rather intriguing... Could you be one of the few?
+ 
 Sibex:**(You are very close or are able to get your Bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.
 
-Sibex:**(You have obtained your bell (tested with 5 people)/Bugged)** Well look at you, my friend! You're practically beaming with the song! 
+Sibex:**(You have obtained your bell (tested with 5 people)/Bugged (If you get this dialogue without a bell, rejoin; this doesn't signify you can get one)** Well look at you, my friend! You're practically beaming with the song! 
 
-Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
+Sibex:**(Unknown,Could mean Corrupted bell. To be confirmed)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 
 Sibex:**(Unknown, ~Received after getting a bell~, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 
