@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26613
+revid: 26635
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -65,7 +65,7 @@ Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of
 
 Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few? 
 
-Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.
+Sibex:**(You are very close or are able to get your Bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.
 
 Sibex:**(You have obtained your bell (tested with 5 people)/Bugged)** Well look at you, my friend! You're practically beaming with the song! 
 
@@ -88,4 +88,4 @@ Sibex:**(If you have +BOSS Gain)** Ah... I can hear your soul drawing back, lini
 -   Sibex mentions Jericho the Warden, likely meaning he is under his orders.
     -   He's been described as missing on duty, the Authority appears to have lost him.
 -   Sibex will not take your thresher spine, you just need it to talk to him.
--   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely availible for you if you get any of these dialogues.
+-   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely available for you if you get any of these dialogues.

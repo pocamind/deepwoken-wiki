@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 26583
+revid: 26630
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -25,6 +25,11 @@ When creating your character, you may choose to start with no Attunement, which 
 It is worth noting that Mantras can have rarities individual of their stars and attunement based mantras often have requirements of non-elemental stats (points in agility, strength etc).
 
 (Confirmed by Arch\_Mage)
+
+## Mentioned Only
+
+-   Ironsing
+-   Lifeweaver
 
 ## Trivia/Notes
 

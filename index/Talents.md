@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26577
+revid: 26637
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -459,6 +459,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Gunslinger
 
 -   Aerial Shot \[Generic Talent, Common Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
+-   Bulletproof \[Generic Talent, Common Talent\] - You take no armor damage from guns.
 -   Ether Bullets \[Generic Talent, Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   Allows you to use gun critical.
 -   True Ether Bullets \[Legendary Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
@@ -1124,7 +1125,10 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Navaen-Nomad
 
--   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit)
+-   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit )
+    -   Doesn't have an animation, nor does it make you do 2 more m1s to flourish. It makes you hit twice when you flourish, and these hits aren't visible.
+
+  
 
 ### Flamecharmer
 

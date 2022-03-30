@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 26113
+revid: 26639
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -28,9 +28,11 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Gremorian Longspear is a Medium Weapon that is obtainable from killing the Navae Nomads in Etris, with a random chance of it being dropped, or from any chests. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling. This weapon has a special gimmick, where one person caught within a certain radius of a critical will be pulled in. This can't be blocked, parried or dodged.
+The Gremorian Longspear is a Medium Weapon that is obtainable from killing the Navae Nomads in Etris, with a random chance of it being dropped, or from any chests. It has 18 base damage and a swing speed of 0.68x. It also has 4 Medium Weapons Scaling. This weapon has a special gimmick, where one person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This can't be blocked, parried or dodged.
+
+This weapon can be upgraded into an endgame weapon, called the **Alloyed Longspear**.
 
 ## Notes
 
--   You can farm the Navae Nomads in Etris for the spear, although at the cost of your reputation with them.
--   Could be direct reference from the game Rogue Lineage the Deep knight class
+-   You can farm the Navae Nomads in Etris for the spear, although this comes at the cost of your reputation with them.
+-   Could be a direct reference to the Deep Knight class from Rogue Lineage.
