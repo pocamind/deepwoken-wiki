@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26470
+revid: 26591
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -242,7 +242,7 @@ _Requires Power 30_
  | Hive Chests, Depths Chests |
 | File:Pale.jpg | Pale Assassin's Cloak | Grants a random buff.
 
-_Requires Power 30_
+_Requires Power 30_ (CURRENTLY UNOBTAINABLE)
 
  | Hive Chests, Depths Chests |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.

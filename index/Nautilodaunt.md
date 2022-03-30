@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 26160
+revid: 26605
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -42,7 +42,7 @@ Some lore here; I think that squibbo uses a version of jus karita, since it seem
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.
 -   Do **NOT** parry trade with the Nautilodaunt because it has a much higher posture pool than you. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.
--   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (unconfirmed, needs testing)
+-   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (confirmed, i tested this)
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does a lot of damage.
 -   If he flourishes you, you must roll. After a flourish he will run and you and do a slide-kick. The only way to avoid it is to just dodge out of the way.

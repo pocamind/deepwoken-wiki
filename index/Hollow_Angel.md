@@ -1,12 +1,14 @@
 ---
 title: Hollow Angel
-revid: 25029
+revid: 26608
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
 ---
 
 # Hollow Angel
+
+> **"Bro lay off, I just want Blindseer!"** - A Vesperian at the Temple of Forgotten Flame
 
 **Lesser:**
 

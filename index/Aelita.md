@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 26566
+revid: 26594
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,7 +12,7 @@ categories: [NPCs]
 
 Aelita sitting in the fetal position on a rock.
 
-_Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you. Make sure to check your surroundings, as songseekers can spawn near you, which can make you fail the game. (just did, very sad. got wiped)
+_Aelita_ is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you, which can make you fail the game.
 
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if you come back during the winter."
 
@@ -48,7 +48,6 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Aelita is speculated to have the [Visionshaper Oath](Oaths.md) due to her ability to summon clones that appear nearly identical to herself.
 -   She is also speculated to be a [Krulian](Krulian.md), due to her similarities with the [Ferryman](The_Ferryman.md), primarily their ability to clone themselves and appear out of nowhere, as well as the fact they both have purple eyes, which seems to be unique in some way though it should be noted Gremor have naturally purple eyes.
 -   Aelita has purple eyes, her clones will never have purple eyes.
--   Aelita recently got her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E), composed by Naktigonis.
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
 -   If going straight through the [Valley of Hero's](The_Valley_of_Heroes.md), even sticking to the walls, it is almost impossible to avoid Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   Before attempting this event be aware of other enemy's, such as [Songseekers](Songseeker_Frostdrawer.md) and [Necromancers](Ministry_Necromancer.md), as they can spawn in peculiar places and interrupt you while doing the event.

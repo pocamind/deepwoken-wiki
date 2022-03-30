@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 25008
+revid: 26612
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -37,11 +37,15 @@ Pressing "C" will activate the **Teleportation** Resonance.
 
 ### _Variants_
 
-**Corrupted Version** increases the radius of the teleportation ring.
+**Corrupted Version** slightly increases the radius of the ring and charges up 2x faster than the regular variant.
 
 **2nd Version** gives possibility to post 3 waypoints.
 
 **Teleportation** has no unique variants, but has variants unique to it.
+
+Regular Variant: [https://cdn.discordapp.com/attachments/785042190048165908/958511961388236820/Regular\_Version.mp4](https://cdn.discordapp.com/attachments/785042190048165908/958511961388236820/Regular_Version.mp4)
+
+Corrupted Variant: [https://cdn.discordapp.com/attachments/785042190048165908/958511996561657876/Corrupted\_Version.mp4](https://cdn.discordapp.com/attachments/785042190048165908/958511996561657876/Corrupted_Version.mp4)
 
 #### _Teleportation_
 

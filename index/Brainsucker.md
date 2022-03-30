@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 22538
+revid: 26607
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -9,6 +9,8 @@ categories: [Monsters]
 # Brainsucker
 
 Template:Creature Infobox V3
+
+> **"JESUS CHRIST, PISS OFF ALREADY!!"** - A Level 20 Gremor trying to sail to Songseeker
 
 _Also known as Bats, Gargoyles, Goigs, Skin Walkers, Flying Rats, and sometimes Harpies._
 

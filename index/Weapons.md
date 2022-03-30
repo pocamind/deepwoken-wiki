@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26543
+revid: 26598
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -46,6 +46,7 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
 -   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
+-   **Alloyed Stats:** Weapons stat from the alloyed version. They'll be marked with yellow stats.
 
 ## Types of Weapons
 
@@ -127,10 +128,10 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
-  <td>40 LHT</td>
+  <td>40/<font>75</font> LHT</td>
   <td>15</td>
-  <td>N/A</td>
-  <td>LHT: 5</td>
+  <td>N/A/<font>10%</font></td>
+  <td>LHT: 5/<font>8</font></td>
   <td>4</td>
   <td>6.5</td>
   <td>1.05x</td>
@@ -490,10 +491,10 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 </tr>
 <tr>
   <td><a href="Shotel.md">Shotel</a></td>
-  <td>45 MED</td>
+  <td>45/<font>75</font> MED</td>
   <td>22</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
+  <td>N/A/<font>10%</font> &amp; 15% Chip Damage</td>
+  <td>MED: 5/<font>6</font></td>
   <td>2</td>
   <td>8</td>
   <td>0.73x</td>
@@ -774,10 +775,10 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 </tr>
 <tr>
   <td><a href="Halberd.md">Halberd</a></td>
-  <td>45 HVY</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>HVY: 7</td>
+  <td>45/<font>75</font> HVY</td>
+  <td>22/<font>24</font></td>
+  <td>N/A/<font>15%</font></td>
+  <td>HVY: 7/<font>8</font></td>
   <td>5</td>
   <td>8</td>
   <td>0.6x</td>
@@ -861,14 +862,14 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 </tr>
 <tr>
   <td>Zweihänder</td>
-  <td>20 HVY, 10 STR</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>HVY: 7</td>
+  <td>20/<font>75</font> HVY, 10 STR</td>
+  <td>22/<font>23</font></td>
+  <td>N/A/<font>10%</font></td>
+  <td>HVY: 7/<font>8</font></td>
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
-  <td>0.25s</td>
+  <td>0.25s/<font>0.15s</font></td>
   <td>Yes</td>
 </tr>
 <tr>

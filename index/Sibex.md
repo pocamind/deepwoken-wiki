@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26586
+revid: 26613
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -61,13 +61,13 @@ Sibex:**(If you have Low Bell progress)** You Must've been born yesterday, your 
 
 Sibex:`**(If you have Some Bell progress)**` Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.
 
-Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. 
+Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression)** Ahh... The tone is growing clearer, and with the tempo matched it's beginning to sound rather intriguing... Could you be one of the few? 
+
+Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of bell progression)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few? 
+
+Sibex:**(If you are close to obtaining a bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.
 
 Sibex:**(You have obtained your bell (tested with 5 people)/Bugged)** Well look at you, my friend! You're practically beaming with the song! 
-
-Sibex:**(You have a high chance of getting a legendary bell)** Ahh... The tone is growing clearer, and with the tempo matched it's beginning to sound rather intriguing... Could you be one of the few? 
-
-Sibex:**(You have a high chance of getting a corrupted bell. Note: Got this message from Sibex then later got morphed like Clay, likely false unless corrupted bells are pre determined.)** Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?
 
 Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 

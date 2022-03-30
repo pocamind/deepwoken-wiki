@@ -1,12 +1,14 @@
 ---
 title: Deep Widow
-revid: 21354
+revid: 26606
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Deepwoken]
 ---
 
 # Deep Widow
+
+> **"I JUST WANTED TO WASH MY FACE!!!"** - A traumatized Felinor who took a wrong turn at Starswept Valley....
 
 ## Description
 

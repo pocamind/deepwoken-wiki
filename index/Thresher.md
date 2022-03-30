@@ -1,12 +1,14 @@
 ---
 title: Thresher
-revid: 26229
+revid: 26609
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
 ---
 
 # Thresher
+
+> **"We're f\*\*ked...."** - A gang trying to farm in The Depths, but they run into a Corrupted King Thresher
 
 **Thresher:**
 
