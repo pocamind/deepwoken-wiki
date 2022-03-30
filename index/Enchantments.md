@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26569
+revid: 26624
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -118,7 +118,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div>Increases weapon attack speed slightly, (slower weapons receive a higher bonus) Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed (slower weapons gain more speed per stack) This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon. This enchant is a reference to Saber's Invisible Air from Fate/Zero and Fate/Stay Night</div></td>
 </tr>
 <tr>
-  <td><figure>File:Searenchant.png<figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p>
   <p><br>
   </p></div></td>

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 26145
+revid: 26618
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 
 -   **Blue Mudskipper** - Normal Mudskipper. If it spawns accompanied by Bloatskippers, it can use [Air Force](Galebreathe.md).
 -   **(Light Green Skipper) Bloatskipper** - It explodes two seconds after dying and posses a bloated stomach. They move awkwardly and their mouth appears to be on the brink of vommitting.
--   **(Black) Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage to kill than a normal Mudskipper so does not die when backstabbed. Is black.
+-   **(Black) Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage to kill than a normal Mudskipper so does not die when backstabbed.
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm or Frostdraw.
     -   **Redskipper (Flamecharm)** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
     -   **Blueskipper (Frostdraw)** - Summons 4 ice swords that will spin around it, damaging anyone in range. (Currently bugged.) Wears blue armor.
