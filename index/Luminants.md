@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 26215
+revid: 26656
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
@@ -60,6 +60,10 @@ It is highly speculated that this Luminant may be home to many users of Shadowca
 
 Or not if it turns out the Etrean Luminant and Eastern Luminant are the same, which in my opinion makes most sense as i dont think arch\_mage/Ragoozer wants to add a whole other luminant seperate for shadow users/eastern, if it can just be the Etrean luminant.
 
+UPDATE: In The legion camp in Lower Erisia there is a NPC called Gaius who implies the Luminant in game is the Eastern Luminant.
+
 File:Eastern Luminant.png
 
 New Luminant leak.
+
+File:RobloxScreenShot20220328 033552204.png

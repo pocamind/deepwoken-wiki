@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 26093
+revid: 26659
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -54,6 +54,6 @@ If **Sacred Field** is found to be Corrupted, the Resonance's range becomes larg
 ## Trivia/Notes
 
 -   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
--   When you use this anyone is trying to fight you, just use it as a healing station because everybody avoids it.
+-   When in a fight, using this next to a healing station will allow you to out heal damage. This most to only applies to Physical resist fields though.
 -   This resonance work with any build just like [Portal](Portals.md), [Blood Scourge](Blood_Scourge.md), and etc. It is a good support bell for you and your team party.
--   **Sacred Field** is very useful for fighting large groups of people or bosses such as Primadon.
+-   **Sacred Field** is very useful for fighting large groups of people or bosses such as Duke.

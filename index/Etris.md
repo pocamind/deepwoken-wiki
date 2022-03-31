@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 26064
+revid: 26679
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -90,7 +90,7 @@ Template:Areainfobox
 #### General Store
 
 -   Players can purchase a Pickaxe (requires STR 1), Lumber Axe, Flint and Fiber for each.
--   Players can purchase Wood here for each.
+-   Players can purchase Wood here for eas
 
 #### Lance's Food
 

@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26652
+revid: 26661
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -8,7 +8,7 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 # Sibex
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has Hive Leaders Garment armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has ~Hive Leaders Garment armor,~ got changed to a different unconfirmed armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
 He can be found on the far left of Aratel Island on top of the unidentified statue.
 
@@ -72,7 +72,7 @@ Sibex:**(You are very close or are able to get your Bell)** Morphed like clay...
 
 Sibex:**(You have obtained your bell (tested with 5 people)/Bugged (If you get this dialogue without a bell, rejoin; this doesn't signify you can get one)** Well look at you, my friend! You're practically beaming with the song! 
 
-Sibex:**(Unknown,Could mean Corrupted bell. To be confirmed)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
+Sibex:**(Could mean Corrupted Bell as "racket" might refer to it's downside.)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 
 Sibex:**(Unknown, ~Received after getting a bell~, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 

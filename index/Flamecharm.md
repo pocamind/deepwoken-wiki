@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 26625
+revid: 26664
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -240,7 +240,7 @@ These talents are found in the "Undying Ember" catagory.
     -   Flame Palm, though it may look similar to "Ignis" from Rogue Lineage, is cast more similarly to moves like Combustion from Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from **Sekiro**, as the spell does NOT multihit, instead being a single large hit that sets on fire.
     -   Flame blind though it is similar to snap Velo from Rogue Lineage, how it functions like a projectile that blinds is inspired from Valorant character "**Phoenix**" as his abilities also have a blinding projectile when used.
     -   Flamecharm is the best for [The Depths](The_Depths.md) grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
--   Flamecharm does not currently (as of 3/6/2022) possess any 3-star Mantra.
+-   Flamecharm does not currently (as of 3/30/2022) possess any 3-star Mantra.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
 -   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_. (Whoever wrote this might be a little retarted because "Azure" just means blue so "Azure Flames" just means blue flames.)
