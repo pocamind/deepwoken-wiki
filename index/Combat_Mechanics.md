@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 26146
+revid: 26718
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -187,7 +187,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Chilled</th>
-  <td></td>
+  <td>Slows you down, can someone add more to this please?</td>
   <td></td>
 </tr>
 <tr>
@@ -252,3 +252,4 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 
 -   The Health and Survival GUI have 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
 -   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen.
+-   Press G while crouched to **listen**. Your screen will turn a grey color, and you'll be able to hear clearly for the duration you're crouched.

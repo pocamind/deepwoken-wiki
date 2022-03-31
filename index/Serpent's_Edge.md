@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 26484
+revid: 26708
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -28,9 +28,9 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-looks like what's under your mom's bed
+Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however.
 
-on a serious note that's the average deepwoken sweat's weapon of choice
+it is also one of a tryhard's weapon of choice
 
 ## Notes/Trivia
 

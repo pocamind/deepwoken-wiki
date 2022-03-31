@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26689
+revid: 26707
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -812,7 +812,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 ### Survivor
 
 -   Pack Mule \[Generic Talent, Common Talent\] - The max quantity of carrying food has increased. (+4 Health, +1 Carry Load)
-    -   Prerequisites: 5 Fortitude
+    -   ~Prerequisites: 5 Fortitude~ (Got it without any fortitude. Could be a req in physical stats)
 
 ### Tactician
 

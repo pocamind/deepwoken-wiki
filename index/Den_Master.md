@@ -1,14 +1,14 @@
 ---
 title: Den Master
-revid: 23668
+revid: 26729
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Candidates for deletion, Pages with broken file links]
+notices:
+  - Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.
 ---
 
 # Den Master
-
-Whoever made this page is a retard and should be banned
 
 Anyway, he sells mantra modifiers.
 

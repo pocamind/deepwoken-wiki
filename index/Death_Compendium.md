@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 26565
+revid: 26736
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,11 +38,13 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Trying to threaten [Akira](Akira.md) and failing to meet the Charisma requirement. (Picking 2nd option in his random encounter).
 -   [Legion Centurions](Legion_Centurion.md) grand javelin (if on low enough health)
 -   Get crushed by a boulder (will grip as well)
+-   Drop an item whilst in the middle of resetting.
 -   This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
 
 Death Causes listed by the game
 
 -   A Fearsome opponent
+-   A raging Inferno (Flame Within)
 -   Monster Name
 -   Player Name
 -   Starvation

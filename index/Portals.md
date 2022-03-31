@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 26702
+revid: 26705
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -48,7 +48,7 @@ If the owner of this Resonance is Tarnished, there will be a 2 second wind up be
 
 #### _**Corrupted**_
 
-If Portal is found to be corrupted, the duration of the ability is 7 Seconds.
+If Portal is found to be corrupted, the duration of the ability is 8-10 Seconds.
 
 ## Trivia/Notes
 
