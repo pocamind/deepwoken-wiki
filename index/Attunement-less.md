@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 26263
+revid: 26683
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,7 +53,8 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Brace** - Brace yourself against attacks and gain hyperarmour.
     -   Prevents your attacks/mantras from getting cancelled.
     -   Requirements: Fortitude Unbound, _Fortitude Support Mantra_
-    -   The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements)  
+    -   The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements)
+    -   Doesn't require uncap, I pulled this during trial of one.  
         
 
 ### _**Agility Mantras**_
@@ -171,8 +172,8 @@ For example:
 
 ### _**Trivia**_
 
-1.  Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
-2.  Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
-3.  Rapid Punches is the single Attunement-less mantra that has a star.
-4.  Exhaustion Strike is glorified spit.
-5.  You can obtain other Weapon Mantra's as long as you have 6 investment points in them.
+-   Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
+-   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
+-   Rapid Punches is the single Attunement-less mantra that has a star.
+-   Exhaustion Strike is glorified spit.
+-   You can obtain other Weapon Mantra's as long as you have 6 investment points in them.
