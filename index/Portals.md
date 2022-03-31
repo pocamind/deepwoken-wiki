@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 25905
+revid: 26702
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -40,7 +40,7 @@ Portal has two versions, along with unique Tarnished and Corrupted variants.
 #### **_Versions_**
 
 -   **Version 1** is the regular version with no difference
--   **Version 2** provide the user with an offensive version of the resonance on top of the regular version, which can be activated by double tapping C. Doing so make the user dive in the ground via a portal, making them invisible and intangible. Cancelling/ending the ability make the user perform an upward rising kick, which send the target upward, along the user. Can be used to combo.
+-   **Version 2** provide the user with an offensive version of the resonance on top of the regular version, which can be activated by double tapping C (wait for the portal to open before pressing C again). Doing so make the user dive in the ground via a portal, making them invisible and intangible. Cancelling/ending the ability make the user perform an upward rising kick, which send the target upward, along the user. Can be used to combo.
 
 #### _**Tarnished**_
 

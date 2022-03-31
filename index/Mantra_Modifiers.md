@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 26549
+revid: 26698
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 
 A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
 
-#### _sexy "I'm going to use an unethical amount of Stratus stone to my mantra."_ -Some Etrean with 1 Intelligence (the person who originally wrote this wrote "intelligence" wrong. The irony.)
+# _"I'm going to add an unethical amount of Cloudstones/Stratus Stones to my mantra."_
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in Erisia [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
@@ -20,9 +20,7 @@ Heavily modified mantras will require Notes offering to be made. To see prices a
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
 
-Keep in Mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible, for example:
-
-1.  Revenge requires Drift/Rush Shards to reach further instead of Lens. (what)
+Keep in mind not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible.
 
 **Regular:**
 
@@ -390,8 +388,8 @@ The falseflame, haunting, and mirage stone are all dropped by jellyfish in the d
 ## Trivia/Notes
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
--   The 5 blue Disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
+-   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
--   **1/11/2022 Note For Testing:** Reminder that _Perfect Casting_ is a mechanic and is likely why most spells seem to have no change even though they were compatible with a spark or modifier. Please re-test these spells with the modifier and perfect cast as that may be why we aren't seeing the effect. Reasoning for this is ~the Haunting Stone effect on Wind Carve is activated via Perfect Casting it.~ This is completely false info, haunting stone is not compatible on wind carve as well as many other mantras.
--   Falseflame stone, haunting stone and mirage stone are not meant to be in the game yet and do not do anything. (Arch said he didn't know how people got them as they are unreleased material)
+-   The Falseflame, Haunting stone and Mirage Stones are not meant to be in the game yet and do not do anything. _(Arch said he didn't know how people got them as they are unreleased material)_
+-   Revenge requires Drift/Rush Shards to reach further instead of Lens.
 -   Mantra modifying will not always cost notes.

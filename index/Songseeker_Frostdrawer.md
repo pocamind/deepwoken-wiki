@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 26545
+revid: 26699
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -50,3 +50,5 @@ Frostdrawer Monks don't drop anything on death. If fought in a [Random Encounter
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
 -   Watch out for Ice Daggers, as this move can be spammed and be easily proven lethal.
 -   They're relatively easy to fight, even at low Power.
+-   Get them into corners as it will make it impossible for the Frostdrawer Monks to deal damage. Even though they will cast mantras, they won't deal damage while being attacked when casting a mantra. Or keep hitting them and spamming mantras on them.
+-   Fighting Frostdrawer Monks with Flamecharmer Monks can be very annoying, and lethal. If you are planning to fight the two monks at the same time, make sure to know what you are doing otherwise you can get knocked.

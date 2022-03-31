@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26653
+revid: 26693
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1144,6 +1144,8 @@ Weapons that scale with a certain element
 Players can use [this formula](https://www.desmos.com/calculator/sbokgffwxn) to figure out their complete damage.
 
 D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) ∗ S c a l i n g ) {\\displaystyle Damage = Base Dmg + AttributeLevel((base/1000) \* Scaling)} {\\displaystyle Damage=BaseDmg+AttributeLevel((base/1000)\*Scaling)}
+
+(Another way to decide damage, which may be easier for some people, is consider the scaling a percentage of your base damage. Lets say, 8 scaling is 80% - by this logic, Tanto will deal 180% damage at max LHT, or in other words, 16\*1.8 = 28.8. As such, weapons with 10 scaling always have double the base damage at max LHT, for example, a krulian has 27 at 13.5 base.)
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 

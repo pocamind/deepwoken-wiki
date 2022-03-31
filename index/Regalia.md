@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 26259
+revid: 26697
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -19,7 +19,7 @@ The Regalia will be granted on the next character after wiping. It must be reobt
 
 Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
 
-Keep in mind that as of **March 27th 2022**, the method to obtain Regalias are still shrouded in mystery.
+Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
 
 ## Mute (Animal King)
 
