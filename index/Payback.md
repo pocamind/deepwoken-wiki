@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 25413
+revid: 26774
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -48,9 +48,11 @@ If the owner of this Resonance is Tarnished, **Payback** will be given a two sec
 
 #### _Corrupted_
 
+If **Payback** is found to be Corrupted. The duration for which **Payback** is active will increase, as well as buffs to each of the variants.
+
 -   If **Version 1** of this Resonance is found to be Corrupted, **Payback** will multiply the damage reflected to the opponent by ~2.5x.
 
--   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will take less ticks to do its damage. For example, the normal version of this Resonance allows the opponent to parry mid beam, not taking 100% of the damage from the multiple ticks **Payback** fires out, the Corrupted version will only fire out 2-3 ticks of damage, giving the opponent a much smaller parry window. (It may also improve the damage of the beam, although this could be due to lag on the normal version not allowing all ticks to hit, needs further testing)
+-   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will be shot out with less ticks of damage, giving your opponent less of a chance to parry it mid beam (It does not reduce the damage at all). The damage multiplier for this variant will also be slightly increased.
 
   
 

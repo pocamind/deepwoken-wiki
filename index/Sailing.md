@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 25143
+revid: 26778
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -36,17 +36,40 @@ For anyone who has played any seafaring games before, you may realize that the w
 
 If you stop steering your boat, the boat will automatically start to turn to a straight position
 
-## Boats
+## Boat Summarization
+
+Detailed info of individual boats [here](Ships_&_Sailing.md).
 
 ### Dinghy
 
-Usually the first boat you buy from the Boat man, it is free and is the slowest and smallest boat.
+Usually the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest.
+
+### Sloop
+
+Cheapest boat not including the Dingy. Size suitable for groups of 2-3.
+
+### Schooner
+
+Mid game boat with cannons. A good boat for casual outings despite the weird sail design(not worth)
+
+### Merchant Schooner
+
+The better version of the Schooner. Although (possibly) having the same speed as the Schooner, the addition of more underside space and a lantern makes up for it.
+
+### Frigate
+
+Another mid game boat with way more space. Best for sizes 4-5.
+
+### Ironclad
+
+Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too much notes to spend)
 
 ## Notes/Trivia
 
--   It can be difficult when first sailing the boat.
--   You can buy a repair hammer for 30 notes at etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright talents.
--   You can find more information about boats [here](Ships_&_Sailing.md).
+-   It can be difficult when first sailing the boat. Enough practice and good ping will often help.
+-   You can buy a repair hammer for 30 notes at Etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright talents.
+    -   Without talents, each repair with the hammer will recover 50 HP to your boat.
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
--   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it has sails, that is.
+    -   (Assumption) The Ironclad is the only boat to ignore this rule (Since it's steam powered)
+-   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is a Ironclad, the side lining would change instead.
     -   ~And please, don't pick pink/peach. It looks like you hooked up parchments of your panties to the sail~

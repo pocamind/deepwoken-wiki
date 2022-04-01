@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 26581
+revid: 26775
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -53,3 +53,4 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 
 -   ~These are known to attack you regardless if you have Animal King or not. (needs more testing)~ When I had animal king, they didn't attack me
 -   ~They spawn more often in Autumn~ to clarify, I believe they were trying to say only _Sand_ Knights spawn more often. _Blizzard_ Knights only spawn in winter.
+-   Pretty easy to beat if you know what you're doing, but its one of the mobs that will punish you hard if you mess up.
