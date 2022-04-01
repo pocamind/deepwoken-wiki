@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26678
+revid: 26790
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -77,7 +77,7 @@ _Deepwoken_ currently has 1 Confirmed spec/mod armor that has been discovered.
 
 ### **Unconfirmed/Speculated**
 
-_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that supposedly have been discovered.
+_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen on npcs through the game.
 
 ## Armor
 
@@ -87,19 +87,60 @@ Armor Pieces come in different rarities, marked by the presence and quantity of 
 
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
-| File:Herbalist's Hat.png | Big Herbalist's Hat | Grants a random buff.
+| File:Herbalist's Hat.png | Herbalist's Hat | Grants a random buff.
+_\+ Talent: Iron Gut_
+
+_\+ Talent: Herbivore_
+
+ | Depths Chests |
+|  | Big Herbalist's Hat | Grants a random buff.
+
 _\+ Talent: Iron Gut_
 
 _\+ Talent: Herbivore_
 
  | Hive Chests |
-| File:Alchemist Hat.png | Big Alchemist's Hat | Grants a random buff.
+| File:Alchemist Hat.png | Alchemist's Hat | Grants a random buff.
+
+_\+ Talent: Apothecary_
+
+_\+ Talent: Pitcher_
+
+ | Depths Chests |
+| File:AlchemistHat.png | Big Alchemist's Hat | Grants a random buff.
 
 _\+ Talent: Apothecary_
 
 _\+ Talent: Pitcher_
 
  | Hive Chests |
+| File:GreyGumshoeHat.png | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:Ocre Gumshoe Hat.png | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:Dark Gumshoe Hat.png | Dark Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:Grey Gumshoe Hat.png | Grey Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+| File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
+|  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests |
+| File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests |
+| File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests |
+| File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants a random buff. | Depths Chests |
+| File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants a random buff.
+
+_\+ 4% Stealth_
+
+ | Artifacts, Depths Chests |
+| File:Black Hood.png | Black Hood | Grants a random buff.
+
+_\+ 4% Stealth_
+
+ | Depths Chests |
+| File:Brown Hood.png | Brown Hood | Grants a random buff.
+
+_\+ 4% Stealth_
+
+ | Depths Chests |
+| File:Deepwoken hood.jpg | Deepwoken Hood | Grants a random buff. | Fort Merit Chests, Depths Chests |
+|  | Vigil Hood | Grants a random buff. | Hive Chests, Depths Chests |
+| File:VigilHood.png | Pale Assassin Hood | Grants a random buff. | Hive Chests |
 | File:Authorityhelm.png | Authority Helm | Grants a random buff.
 
 _Requires Fortitude 10_
@@ -110,21 +151,11 @@ _Requires Fortitude 10_
 _Requires Fortitude 15_
 
  | Hive Chests |
-| File:GreyGumshoeHat.png | Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| File:Grey Gumshoe Hat.png | Grey Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| File:Dark Gumshoe Hat.png | Dark Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| File:Ocre Gumshoe Hat.png | Ochre Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
-| File:Deepwoken hood.jpg | Deepwoken Hood | Grants a random buff. | Fort Merit Chests, Depths Chests |
-|  | Vigil Hood | Grants a random buff. | Hive Chests |
-| File:VigilHood.png | Pale Assassin Hood | Grants a random buff. | Hive Chests |
 | File:Barrel Helmet.png | Barrel Helm | Grants a random buff.
 
-_Requires 10 Fortitude_
+_Requires Fortitude 10_
 
  | Artifacts, Arena Chests, Duke Chests, Depths Chests |
-|  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests |
-| File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests |
 | File:Gladiator Helmet.png | Gladiator Helmet | Grants a random buff.
 
 _\+ 2 Posture_
@@ -132,23 +163,24 @@ _\+ 2 Posture_
 _Requires Fortitude 15_
 
  | Hive Chests |
-| File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants a random buff.
-
-_\+ 4% Stealth_
-
- | Artifacts, Depths Chests |
-| File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants a random buff. | Depths Chests |
-| File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests |
-|  | Legate Helm | Grants a random buff. | Arena Chests |
+|  | Legate Helm | Grants a random buff.
+
+_Requires Fortitude 5_
+
+ | Arena Chests |
 
 **Face:**
 
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | Iron Mask | Cosmetic | Erisia Chests |
-| File:Demonmask.png | Demon Mask | Cosmetic | Duke Chests, Depths Chests |
 | File:Hairband.jpg | Headband | Cosmetic | Erisia Chests |
+| File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests |
+| File:Demonmask.png | Demon Mask | Cosmetic | Duke Chests, Depths Chests |
+| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests |
+|  | Warrior's Eyepatch | Cosmetic | Hive Chests |
+| File:Rabel Bandana.png | Rabel Bandana | Cosmetic | Navae Enemies |
 |  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests |
 |  | Crimson Blindfold | Grants a random buff.
 _\+ Talent: Blinded_
@@ -156,7 +188,6 @@ _\+ Talent: Blinded_
  | Minityrsa Chests, Songseeker Chests |
 |  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
-| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests |
 
 **Ears:**
 
@@ -188,7 +219,7 @@ _\+ Talent: Blinded_
 | File:Onepiececape.png | Fleet Warden Cape | Grants a random buff.
 _Requires Power 40_
 
- | Summer Isle Chest Rewards |
+ | Summer Isle Scope Quest |
 
 **Arms:**
 
@@ -356,7 +387,7 @@ _Requires Power 30_
 | File:Brilliant Boots.png | Brilliant Boots | Grants a random buff. | Songseeker Chests |
 | File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants a random buff. | Depths Chests |
 | File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants a random buff. | Depths Chests |
-|  | Bluesteel Boots | Grants a random buff. | Somewhere... |
+|  | Bluesteel Boots | Grants a random buff. | Hive Chests |
 |  | Enforcer Boots | Grants a random buff. | Depths Chests |
 
   
