@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26714
+revid: 26766
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -271,6 +271,7 @@ An Etrean Guard, part of the Nation of Etrea
     -   (Arch\_Mage) Navae is personified as a Female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
         -   In the Etrean Luminant (East), The Gremor Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
         -   It's unknown what Navae exactly _is,_ but it's assumed Gremor Compasses point towards the center gravity of the New World- just like how compasses normally work.
+        -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 
 ### The Hundreds Legion
@@ -564,7 +565,8 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came. Tolerant of extremes that many others would avoid."_
 
 -   A race of deer folks that consider themselves free from authority and subjugation and seek simple lives away from the conflicts.
--   The Gremors of the Eastern Luminant are renowned for their following of a celestial known as "Navae", the protector of Shadow and Ice.
+-   The Gremors are renowned for following Navae; a star that guides all Gremors forwards, acting as a compass.
+    -   (Arch\_Mage) Navae in reality is not a star, a direction or a Celestial Body; but a source that guides all Gremors by pointing towards herself.
 -   They seem to have a preference on the use of fists rather than weaponry in battles, showing how the perks provided by the Navaean Nomads are fist related.
 
 ### Khan
@@ -822,30 +824,27 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _Celestial Telescope, Curved Blade of Winds, Naktigonis (The Sun, Gleaming), Arch\_Mage (Discord)_
 
--   An event that occurred when the people of the Old World has abused both the Song and its Attunements.
+-   An era where the people of the Old World has utilized the Song into making Attunements and magicks; and eventually the downfall of their own.
     -   (Arch\_Mage) Thanks to Arch\_Mage's posts, the Nation of Celtor was not the prime reason the Canticlysm occured, but rather a victim of its' consequences.
     -   (Arch\_Mage) Explained by Arch\_Mage, The Canticlysm occured way before the Great Drowning of Celtor.
 -   Canticlysm, on its own terms, is a Catastrophe relevant to music.
--   It is unknown what the Canticlysm affected the world of Deepwoken with, as it was only mentioned through sheer information.
-    -   It is theoretically assumed that the Canticlysm lead to the rising of Tides, resulting in drowning the City of Celtor.
--   The Canticlysm lead to the destruction to the people of the Old World; and the creation of Galebreathe.
--   (Arch\_Mage) The people of the Canticlysm used the Song, unknowingly endangering all life- awakening the Drowned Gods from their slumber.
+-   (Arch\_Mage) The Canticlysm lead to the creation of the 4 Basic Attunements- Thundercall, Flamecharm, Frostdraw and Galebreathe.
+-   (Arch\_Mage) The people of the Canticlysm used the Song, unknowingly endangered all life- awakening the Drowned Gods from their slumber.
 
 ### The Tides
 
-**Lore Sources:** _What Mends Shall Fray (Song)_
+**Lore Sources:** _What Mends Shall Fray (Song), Arch\_Mage (Discord)_
 
--   The disaster that established the base of Deepwoken, by creating floods to devour both land and its inhabitants.
-    -   It is unknown where its origin came from- all we've know is that it occurred just after the Canticlysm.
--   The Tide brought upon the [Voidsea](Voidsea.md) to the Luminants, a gateway to both worlds between the surface and [The Depths](The_Depths.md).
+-   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
+-   (Arch\_Mage) The Tides were caused by the Drowned Gods; who were awaken from their slumber by the people of the Canticlysm via the sound of the Song.
+-   The Tide also brought upon the [Voidsea](Voidsea.md) to the Luminants, a gateway to both worlds between the surface and [The Depths](The_Depths.md).
 
 ### The Great Drowning
 
-**Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Arch\_Mage (Mentioned)_
+**Lore Sources:** _The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Arch\_Mage (Discord)_
 
--   A massive event, presumably worldwide, is when the Tides cease life and land by floods. An example of a Great Drowning is The City of Celtor.
--   Based on Arch\_Mage's words, The Great Drowning was created by the Song; presumably the consequence of the Old World's abuse (or misuse) of the Song.
--   Celtor was drowned by the Celtorian Horror due to their excessive greed.
+-   A major event that were caused by The Tides- whereas all living things and lands are consumed by it. The Nation of Celtor is one of the many victims of The Great Drowning.
+    -   (Arch\_Mage) The Nation of Celtor were the latest nation to befell to The Tides; thus is why the City of Celtor is located in the First Layer, and the recent talks of the Nation from certain NPCs (Such as The Ministry, Warden Jericho's Journal, etc.).
 
 ### The Depths
 

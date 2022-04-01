@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 25895
+revid: 26770
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -27,7 +27,7 @@ This monster is hostile to every other creature in _The Etrean Luminant_ and wil
 
 Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). Even rarer, It may drop a [Megalodaunt Coat](Megalodaunt_Coat.md).
 
-They could also be spawned using [Megalodaunt bait](Monster_Bait.md).
+They could also be spawned using [Megalodaunt bait](Monster_Bait.md). (Note: The item is currently disabled temporarily.)
 
 ## Variants
 
@@ -48,7 +48,7 @@ Megalodaunts come in three different versions, with two able to be corrupted, fo
 | **Jump** | If the target is above it, the Megalodaunt will **Jump**, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | (★☆☆) |
 | **Spit** | A long-range single target ability. Hits multiple times. | ◯ | (★☆☆) |
 | **Thousand Needles** | The Megalodaunt bends over and points its coral tubes towards a target, proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | (★☆☆) |
-| **Roar** | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much earlier than expected or during combat. Blocking negates the insanity gain. | ◯ | (★☆☆) |
+| **Roar** | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much earlier than expected or during combat. Blocking negates much of but not all the insanity gain. | ◯ | (★☆☆) |
 | Fire Roar | Similar to the standard **Roar**, but has the ability to rain down fiery swords from the sky. Exclusive to the crimson variant. While the swords are raining down, the shark seems unable to attack. | ◯ | (★☆☆) |
 
 #### Finisher
