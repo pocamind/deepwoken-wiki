@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 26703
+revid: 26760
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -101,7 +101,7 @@ It is impossible to lose Progress in any capacity besides wiping, meaning that y
 
 Talk to Sibex until he tells you these lines:
 
--   **Sibex:** "Well look at you, my friend! You're practically beaming with the Song!"
+-   **Sibex:** "~Well look at you, my friend! You're practically beaming with the Song!"~ if you see this and you do not have bell, it is a bug, he shouldn't be capable of saying this (without glitching) if you have no resonance.
 
 -   **Sibex:** "Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. "
 

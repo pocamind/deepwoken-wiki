@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 26742
+revid: 26750
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -40,18 +40,14 @@ notices:
 ### **Shadowcast**
 
 -   **Shadow Gun** resembles the [Cero](https://bleach.fandom.com/wiki/Cero) technique used by characters from _Bleach_.
-    -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk)_._
-
-### **Attunementless**
-
--   **Rapid Punches** Probably a reference to _JoJo's bizarre adventure_, resembling Stands barrage
+    -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
 
 ## Enemies/Bosses
 
 -   The **[Megalodaunt](Megalodaunt.md)** is inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
--   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar and might be inspired by [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** looks similar to and might be inspired by the [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) from _Attack on Titan._
     -   The soundtrack that used to play during the boss fight also originated from the aforementioned series.
-    -   It also throws rocks, which the [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) also does.
+    -   It throws rocks, which the [Beast Titan](https://attackontitan.fandom.com/wiki/Beast_Titan) also does.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from Accelerator's moveset in the Roblox game _Anime Battle Arena_.
 -   **[The Enforcer's](Enforcer.md)** designs is very similar to the Kraken from _Salt and Sanctuary._
@@ -70,7 +66,7 @@ notices:
 
 -   **Captain Etrea's** name and ability is a reference to Captain America.
 -   **Battle Tendency's** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
--   **Boom, Headshot** is a reference to the One-Hit Kill system that games have created, by forcing players to aim at the head to kill the target in one shot. It also possibly references [this popular sound effect](https://youtu.be/ovsVU6mktOw?t=70) as well.
+-   **Boom, Headshot** is a reference to a line in Meet the Sniper from the game _Team Fortress 2_, where said Sniper said the iconic line.
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
@@ -86,6 +82,10 @@ notices:
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 
 ## World
+
+### **The Etrean Luminant**
+
+-   [Suri's quest](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
 
 ### **The Depths**
 

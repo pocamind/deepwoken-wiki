@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 26221
+revid: 26763
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -30,6 +30,8 @@ _icon credit to Tortaa#9000_
 ## Overview
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the depths.
+
+Oaths allow you to utilize the Hive's fountains in order to enter Greathive Aratel.
 
 There are currently only three Oaths in _Deepwoken_. More are planned to be added in future updates.
 

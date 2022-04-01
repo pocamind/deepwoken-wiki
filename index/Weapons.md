@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26704
+revid: 26761
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -151,11 +151,11 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
   <td>50 LHT</td>
-  <td>14.5</td>
-  <td>N/A</td>
-  <td>LHT: 8</td>
+  <td>15</td>
+  <td>5%</td>
+  <td>LHT: 7</td>
   <td>4</td>
-  <td>6</td>
+  <td>7</td>
   <td>1.03x</td>
   <td>No</td>
 </tr>

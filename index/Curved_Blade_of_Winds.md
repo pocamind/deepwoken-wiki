@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 23143
+revid: 26754
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -39,6 +39,7 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 -   You can stack Maestro's Blade with the passive of the weapon, meaning there will be two after cuts on the opponent.
 -   This weapon deals 34.1 damage with 100 MED and 100 WND
     -   35.805 damage with the After Cut effect included.
+    -   36.97 damage if it's a 3 star 6% damage.
 -   2nd highest damaging medium weapon after Divine Longsword
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
     -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare and can probably buy your kidney.
