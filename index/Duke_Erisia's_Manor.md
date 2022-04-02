@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 26185
+revid: 26838
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,5 +33,5 @@ Or you can try to gather enough agility or environmental height to get on top of
 ## Trivia/Notes
 
 -   Not advised to do with a too big of a group, or too small of a group due to health scaling.
--   Recommended to enter if you are level 45+, MAX Attunement (for unbounding purposes), and planning to raid with a group of 3-5 (the larger the group, the more health the [accelerator](Duke_Ishamon_Erisia.md) will have.)
+-   Recommended to enter if you are level 45+, MAX Attunement (for unbounding purposes), and planning to raid with a group of 3-5 (the larger the group, the more health the Duke will have.)
 -   If the key to the manor is not glowing it means that someone else already initiated a raid and as such the area is locked away until a certain amount of time passes, either wait that timeframe out or switch servers to progress.

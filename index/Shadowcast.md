@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 26633
+revid: 26836
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -80,7 +80,7 @@ Shadow Roar
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether (or reservoir if the ether bar is emptied.) |
+ | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether. |
 | 
 
 File:Seekers.gif
@@ -90,7 +90,7 @@ File:Seekers.gif
 Rising Shadow  
 (★★☆)
 
- | Form a Shockwave of darkness. | User Extends their hand and creates a Projectile hand That homes in on enemies, this attack can summon multiple hands to grab multiple people when the attack connects grab and raise opponents up into the air, then slam opponents into the ground, Dazing them and stealing their ether, (or reservoir if the ether bar is emptied.)  
+ | Form a Shockwave of darkness. | User Extends their hand and creates a Projectile hand That homes in on enemies, this attack can summon multiple hands to grab multiple people when the attack connects grab and raise opponents up into the air, then slam opponents into the ground, Dazing them and stealing their ether.  
  |
 
 ### **Support**
@@ -326,9 +326,9 @@ File:Blackhole.png
 ## Trivia
 
 -   In past updates the selection icon for Shadowcast had the same art as Flamecharm, but was oddly tinted white.
--   Shadowcast has a talent which blinds the victim on consecutive flame stacks, however this blind turns the victims screen white ironically.
+-   Shadowcast has a talent which blinds the victim on consecutive flame stacks, however this blind turns the victim's screen white ironically.
 -   Additionally, several Shadowcast moves charge up with a white light.
--   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred as Lightkeepers are an "authority" within Deepwoken's world that this death was not accidental.
+-   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred because Lightkeepers are an "authority" within Deepwoken's world, the trainer's death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
--   Shadowcast currently has no 3-stars move same as Flamecharm.
+-   Shadowcast currently has no 3-stars move, same as Flamecharm.
