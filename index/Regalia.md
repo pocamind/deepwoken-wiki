@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 26697
+revid: 26827
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -31,7 +31,7 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 
 -   All [Monsters](Monsters.md) (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
 -   Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds.
--   Humanoid Enemies will still aggro the player on sight. (As of the latest update Ministry NPCs will still attack you unprovoked and kill you like any other player)
+    -   Humanoid Enemies will still aggro the player on sight. (As of the latest update Ministry NPCs will still attack you unprovoked and kill you like any other player, however they will not grip you \[need more confirmation on this as this has only happened to me -412justin\])
 
 ### Theorized Obtainment:
 
@@ -45,12 +45,12 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 
 Gain the ability to consume non-food items.
 
-#### List of known items you can eat as of March 3rd 2022
+#### List of known items you can and can not eat as of March 3rd 2022
 
--   Spider Eggs
+-   ~spider eggs~
 -   Urchins
 -   Gems (e.g. emerald, diamond, ruby, gold, platinum, etc.)
--   Wood and Sticks (not confirmed, i got it and cant eat these)
+-   ~wood and sticks~
 
 ### Theorized Obtainment Methods
 
@@ -59,6 +59,7 @@ Gain the ability to consume non-food items.
 -   ~Craft a certain number of different foods~
 -   ~Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)~
 -   Get the talent Iron Gut and Wipe, once in fragments of self proceed to wipe and you should get the card termite to appear on the left side of the screen, then you will have termite in your next life, however when you look into the talent page it will not be there but you will still have it. ( Iron Gut on Herbalist Hat does not count) Iron Gut's Requirement Is 10 Fortitude.
+-   ~I think it has around 50+ level requirement, i had a lot of 40+ level characters with iron gut wiped but none of them got it, except my level 54, 100 fortitude character.~ i got it at lvl 30.
 
 ## Trivia/Notes
 

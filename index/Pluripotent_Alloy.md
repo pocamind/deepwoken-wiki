@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 26528
+revid: 26831
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -58,10 +58,11 @@ File:Alloyedhalberd.png
 
 -   Upgrade to 10% PEN, a new Heavy Attack, and weapon scaling to 8.
 
+  
 File:Whalin knife.png
 
 ## [Alloyed Shotel](Shotel.md)
 
 -   Upgrade to 22 base damage, 6 weapon scaling, and an extra 10% penetration.
-    
-    File:Alloyed shotel.png
+
+File:Alloyed shotel.png

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26766
+revid: 26813
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -228,7 +228,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
   
 
--   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, The Diver Base located in the surface.
+-   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
     -   This barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drain of their Ether whilst those who are alive can go through with no harm done.
         -   As of 3/17/2022, there are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
@@ -270,11 +270,11 @@ An Etrean Guard, part of the Nation of Etrea
 -   A nomadic tribe of primarily Gremor, though a couple of other races also exist in their tribe, their beliefs primarily of Navae.
     -   (Arch\_Mage) Navae is personified as a Female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
         -   In the Etrean Luminant (East), The Gremor Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
-        -   It's unknown what Navae exactly _is,_ but it's assumed Gremor Compasses point towards the center gravity of the New World- just like how compasses normally work.
+        -   Assumed to be a Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 
-### The Hundreds Legion
+### The Hundred Legions
 
 -   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
@@ -331,11 +331,12 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Enemies:** _The Children of Navae, The Summer Company_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
--   A group of dark mages with unknown motives. Further research is required.
+-   A group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. Further research is required.
 -   They warn of (and possibly bring about) the sinking of the Overworld into [The Depths](The_Depths.md).
--   The Ministry has some sort of hostility against the Navaean Nomads, commonly encountered in [Summer Isles](Summer_Isle.md).
+-   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between 2 of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   (Arch\_Mage) The Ministry Scouts in Minityrsa were previously affected by the [Animal King](Regalia.md) (Or Mute Talent), but was declared a bug by Arch\_Mage.
+-   The Ministry Scouts all use Krulian Knives, which is also the weapon wielded by the [Ferryman](The_Ferryman.md).
 
 A Dark Mage, located in Minityrsa.
 
@@ -359,10 +360,10 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord)_
 
--   Also known as Whalers, The Knives of Eylis are a gang of Assassins that works under Eylis; presumably the Boss. They are not to be confused with The Contractors.
+-   Also known as Whalers, The Knives of Eylis are a gang of assassins that work under Eylis; presumably the Boss. They are not to be confused with The Contractors.
 -   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
-    -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority hands in [Fort Merit](Fort_Merit.md).
--   Given their name and the existence of Megolaudant traps, as well as the fact that their corpses can be found scattered over Upper Erisia being fed on by Megolaudants, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.  
+    -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
+-   Given their name and the existence of Megalodaunt traps, as well as the fact that their corpses can be found scattered over Upper Erisia being fed on by Megolaudants, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation. (the NPC being eaten by the Megalodaunt in this event is an Authority soldier)  
     
 
 ### The Ignition Union
@@ -934,6 +935,13 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 -   (Sibex NPC) During the cold winters of the Year 1293, a mysterious Celtor accompanied by a Wisp emitting music arrived in The Aratel Sea; located ontop of a Hivelord Statue outside of Aratel Island, near Summer Isles.
     -   Sibex, his name was. He grants those to check their Resonance by simply listening closer to your Soul.
+
+### Year 1296
+
+(Mudskipper Day \[4/01/2022\])
+
+-   (Mudskipper Day) _Grggrl. Grrggl. Grgrlglrgl grrgl. Grgrglrgl._
+    -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
 
 ## Miscellaneous
 

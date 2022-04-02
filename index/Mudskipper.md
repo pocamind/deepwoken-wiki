@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 26618
+revid: 26829
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Mudskipper
 
-Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mudkippers, and Dripskippers._
+Template:Creature Infobox V3_Also known as Shriekers, Zombies, Mudkips, and Dripskippers._
 
   
 
@@ -45,3 +45,5 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shurikens, Fire Palm, Air Blast, or Elemental Guns.
 -   Mudskippers slightly resemble the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from The Last of Us, as well as vaguely resembling [Shriekers](https://rogue-lineage.fandom.com/wiki/Shrieker) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 -   There is a bug where Mudskippers use idle chat/dialogue used by most NPCs when idle for long periods of time.
+-   Grgrlglrgl grrgl. Grgrglrgl
+-   Everyone is a Mudskipper for April Fools. Cry about it.
