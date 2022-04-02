@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 26834
+revid: 26847
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -46,7 +46,7 @@ _Chance of obtaining race: **8%**_
 **Lore:**
 
   
-They hail from the Western Luminant, but little is known about that place.  
+They hail from the Western Luminant, they are the legion, they have told us that they want to exterminate the authority,  
 
 **Strengths:**
 
