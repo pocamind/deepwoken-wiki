@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 26778
+revid: 26862
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -73,3 +73,4 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
     -   (Assumption) The Ironclad is the only boat to ignore this rule (Since it's steam powered)
 -   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is a Ironclad, the side lining would change instead.
     -   ~And please, don't pick pink/peach. It looks like you hooked up parchments of your panties to the sail~
+-   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats.

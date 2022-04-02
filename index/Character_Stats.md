@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 26587
+revid: 26853
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ _Each player gets 327 investment points per slot, from Level 1-60._
 ### Posture
 
 -   The player's max Posture. Starting value is 20.
-    -   Current Posture is tracked on the posture bar in %, from 0 to 100. When it reach 0%, reached by blocking too many hits, the player is guard broken: they are stunned and their posture is cleared.
+    -   Current Posture is tracked on the posture bar in %, from 0 to 100. When it reach 100%, reached by blocking too many hits, the player is guard broken: they are stunned and their posture is cleared.
 -   Max Posture can be greatly increased by using a [Shield](Weapons.md).
 -   How to increase: Shields, Talents, Equipment, Talents.
 

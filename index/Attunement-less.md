@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 26683
+revid: 26866
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ Attunement-less mantras consist of mantras that are chosen based of your attribu
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
--   **Strong Left** - A powerful, flinging punch that shatters the air. _"Falcon... PAUNCH"_
+-   **Strong Left** - A powerful, flinging punch that shatters the air.
     -   Requirement: 6 Strength, _Strength Combat Mantra_
     -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
     -   Unlike other mantras, Strong Left scales with your strength level.
@@ -52,10 +52,9 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 -   **Brace** - Brace yourself against attacks and gain hyperarmour.
     -   Prevents your attacks/mantras from getting cancelled.
-    -   Requirements: Fortitude Unbound, _Fortitude Support Mantra_
-    -   The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements)
-    -   Doesn't require uncap, I pulled this during trial of one.  
-        
+    -   Requirements: 75 Fortitude, _Fortitude Support Mantra_
+
+_\[The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements) Doesn't require uncap, I pulled this during trial of one.\]_  
 
 ### _**Agility Mantras**_
 
@@ -68,7 +67,7 @@ Agility mantras are mainly based on enhancing the user's movement speed, and mov
     -   Requirement: 40 Agility, Mobility Mantra
 
 -   **Adrenaline Surge** - An adrenaline rush of agility.
-    -   Increases your movement speed and parkour abilities.
+    -   Increases your movement speed and parkour abilities by 25%. ( your current agility points + (your current agility points/4)
     -   Requirement: 20 Agility, _Agility Support Mantra_
 
 ### _**Intelligence Mantras**_
@@ -121,7 +120,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart.
-    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high dmg when upgraded and 75+ lht.
+    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high dmg. when upgraded and 75+ lht.
     -   Requirement: 6 Light Weapon, _Light Weapons Agility Mantra_
 
 ### _**Medium Weapon Mantras**_
@@ -174,6 +173,8 @@ For example:
 
 -   Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
--   Rapid Punches is the single Attunement-less mantra that has a star.
--   Exhaustion Strike is glorified spit.
+-   _Strong Left or the so called: "STROG LEF!","Falcon... PAUNCH","Serious Punch.","GURA PUNCH!","ORA!","Colier!...No? Ok..."._
 -   You can obtain other Weapon Mantra's as long as you have 6 investment points in them.
+-   Rapid Punches is the single Attunement-less mantra that has a star.
+-   Revenge really be a Afro Samurai wannabe type of move.
+-   Exhaustion Strike is glorified spit.

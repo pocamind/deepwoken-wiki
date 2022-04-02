@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 26831
+revid: 26867
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ File:Eeeee.png
 
 You can get Pluripotent Alloy by using 2 methods
 
--   Killing a boss for the first time, you have to deal a good amount of damage.
+-   Killing a boss for the first time, ~you have to deal a good amount of damage~.
 -   Get a random alloyed weapon from a chest. (Rare)
 
 ## How to use Pluripotent Alloys

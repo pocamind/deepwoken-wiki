@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 23987
+revid: 26869
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -102,3 +102,5 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 -   Archmage did confirm that the Adret are **not** fish.
     
 -   According to Archmage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.
+    
+    During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.

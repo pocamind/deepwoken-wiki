@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 26656
+revid: 26857
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
@@ -50,15 +50,7 @@ This Luminant is probably home to [Frostdraw](Frostdraw.md).
 
 ## Eastern Luminant
 
-This Luminant is separate from the Etrean Luminant despite what many think, and is most likely the second Luminant to come to the game.
-
-UPDATE: The Eastern Luminant will most likely be the second Luminant as evidenced by leaks.
-
-UPDATE (again): the eastern luminant and the etrean luminant are probally the same
-
-It is highly speculated that this Luminant may be home to many users of Shadowcast, or may have entire civilizations full of them.
-
-Or not if it turns out the Etrean Luminant and Eastern Luminant are the same, which in my opinion makes most sense as i dont think arch\_mage/Ragoozer wants to add a whole other luminant seperate for shadow users/eastern, if it can just be the Etrean luminant.
+eastern and etrean luminant are the same
 
 UPDATE: In The legion camp in Lower Erisia there is a NPC called Gaius who implies the Luminant in game is the Eastern Luminant.
 

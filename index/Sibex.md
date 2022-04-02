@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26780
+revid: 26850
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -10,7 +10,9 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 **Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has ~Hive Leaders Garment armor,~ got changed to a different unconfirmed armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
-He can be found on the far left of Aratel Island on top of the unidentified statue.
+Y'all gotta stop saying "Far Left of Aratel Island" tf you mean left?
+
+Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isles, the 3rd one has a big cliff right next to it on the right when facing the statue.
 
 ## Features
 

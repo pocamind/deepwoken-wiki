@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26761
+revid: 26859
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -39,14 +39,14 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 ## Key Terminology
 
 -   **Requirements:** How much of the attribute(s) you need to wield that weapon.
--   **Damage:** Base damage
+-   **Damage:** How much harm a weapon inflicts onto the opponent.
 -   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore through armor.
 -   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
 -   **Weight:** How much posture damage you deal when you attack blocks, and parrying.
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
 -   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
--   **Alloyed Stats:** Weapons stat from the alloyed version. They'll be marked with yellow stats.
+-   **Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). They'll be marked with cyan stats.
 
 ## Types of Weapons
 
@@ -588,13 +588,13 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 </tr>
 <tr>
   <td><a href="Gremorian_Longspear.md">Gremorian Longspear</a></td>
-  <td>20 MED</td>
-  <td>18</td>
-  <td>N/A</td>
+  <td>20/<font>75</font> MED</td>
+  <td>18/<font>20</font></td>
+  <td>N/A/<font>10%</font></td>
   <td>MED: 4</td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.68x/<font>0.69x</font></td>
   <td>Yes</td>
 </tr>
 <tr>
