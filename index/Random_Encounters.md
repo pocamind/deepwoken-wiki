@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 26085
+revid: 26891
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -97,7 +97,7 @@ a golden warrior bouncer in the neutral position
 
   
 
-#### **Golden Warrior**
+#### [Golden Warrior](Golden_Warrior.md)
 
 A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invite the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and use Galebreath. Upon death, he will drop a Gold Plate, 5 of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest and at which where he stood. Occurs in Erisia.
 

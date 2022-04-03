@@ -1,0 +1,29 @@
+---
+title: Golden Warrior
+revid: 26893
+source: https://deepwoken.fandom.com/wiki/Golden_Warrior
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Golden Warrior
+
+The Golden Warrior is a **Passive NPC Unless Provoked** that spawns leaning on random walls in Erisia (Bandit Island).
+
+This NPC **Will Grip Upon Death Like Most.**
+
+  
+Pressing \[E - Inspect\] will prompt you with his dialogue.
+
+"Ah hello! Would you like to duel? You may take the first swing! Ha, I'll even give you 3."
+
+Hitting him a few times will start the Fight.
+
+The Fight isn't too difficult as long as your at least moderate at Parrying.
+
+**HP: ???**
+
+**Reward: 1 Chest (Contents Unknown)**
+
+Golden Warrior Leaning on Wall.
+
+This Encounter is assumed to be Moderately rare so don't lose your chance to fight this thing,
