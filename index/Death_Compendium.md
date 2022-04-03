@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 26757
+revid: 26872
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Getting automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many Wind Mantras.
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Trying to threaten [Akira](Akira.md) and failing to meet the Charisma requirement. (Picking 2nd option in his random encounter).
--   Be struck by a [Legion Centurions'](Legion_Centurion.md) Grand Javelin move if at low enough health.
+-   Be struck by a [Legion Captain's](Legion_Captain.md) Grand Javelin move if at low enough health.
 -   Get crushed by a [Boulder](Training_Gear.md).
 -   Drop an item whilst in the middle of resetting.
 -   This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.

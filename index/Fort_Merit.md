@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 26490
+revid: 26886
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -19,7 +19,7 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Template:Areainfobox Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them.
+Template:Areainfobox Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit
 
 It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
 
@@ -28,13 +28,13 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 ### Docks
 
 -   A functional port with a Shipwright to spawn, craft or recall your boats.
--   Guarded by a Authority Peacekeeper and a weaker variant of the Fort Merit Captain.
+-   Guarded by a Authority Peacekeeper and a weaker variant of the Authority Warden
 
 ### Prison
 
 -   Players can find Brutus here, a Legion soldier.
 -   Heavy patrolled by Authority Peacekeepers.
--   The Fort Merit Captain can be found in an office in the prison.
+-   The Authority Warden can be found in an office in the prison.
 -   Potential of five [Etrean Guardsmen](Etrean_Guardsmen.md) hostages and one [Navaen Nomad](Navaen_Hostage.md) hostage.
 
 ## Quests

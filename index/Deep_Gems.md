@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 25466
+revid: 26877
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,7 +8,9 @@ categories: [Pages with broken file links]
 
 # Deep Gems
 
-**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) (more often than from Primadon) and by [Primadon](Primadon,_Titan_of_the_East.md) (They Nerfed it to 5%). You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you _do_ kill it quickly - needs to be proven.(You can also get deep gems from duke not 100% of the time.)
+**Deep Gems** are rare Gems that are dropped in [The Depths](The_Depths.md) and by [Primadon](Primadon,_Titan_of_the_East.md). You can also get deep gems from the [Duke](Duke_Ishamon_Erisia.md), but not 100% of the time. You get Deep Gems more often from the Depths than from Primadon or the Duke.
+
+~You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you _do_ kill it quickly~ Needs to be proven.
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 

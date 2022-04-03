@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26790
+revid: 26880
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -242,6 +242,7 @@ _Requires Power 30_
 
  | Megalodaunts Drop |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
+| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest |
 | File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
 
 _\+ 10 health_

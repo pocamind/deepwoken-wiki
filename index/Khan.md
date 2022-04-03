@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 26847
+revid: 26871
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -81,7 +81,7 @@ Allows the use of equipment 3 points earlier than other races.
 -   Their natural disposition as warriors and their name is a direct reference to Ghengis Khan.
 -   Could be inspired by the Monkey King
 -   The Racial trait "versatile" only works on stat points. Not levels.
--   Khans were renamed to "Monkskippers" for April Fool's day 2022
+-   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
     
     Monkskippers
     
