@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26850
+revid: 26933
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -9,8 +9,6 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 # Sibex
 
 **Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has ~Hive Leaders Garment armor,~ got changed to a different unconfirmed armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
-
-Y'all gotta stop saying "Far Left of Aratel Island" tf you mean left?
 
 Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isles, the 3rd one has a big cliff right next to it on the right when facing the statue.
 
@@ -77,7 +75,7 @@ Sibex:**(You have obtained your bell (If you get this dialogue without a bell, r
 
 Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 
-Sibex:**(Unknown, ~Received after getting a bell~, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
+Sibex:**(Unknown, ~Received after getting a bell~, Sibex says you're quite a way off, maybe when ArchMage steal your soul)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 
   
 

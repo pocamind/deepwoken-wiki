@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 26871
+revid: 26928
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -53,7 +53,7 @@ They hail from the Western Luminant, they are the legion, they have told us that
   
 
 +2 Strength  
-+2 Charisma  
++2 Agility  
 
 Allows the use of equipment 3 points earlier than other races.  
 

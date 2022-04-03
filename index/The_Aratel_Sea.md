@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 25534
+revid: 26937
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ A turbulent region fraught with disputes major and minor.
 
   
 
-**The Aratel Sea** is a location in _Deepwoken_. It is a region in the [Etrean Luminant](Maps.md).
+**The Aratel Sea** is a location in _Deepwoken_. It is a region within the [Etrean Luminant](Maps.md).
 
 ## Description
 
@@ -38,6 +38,6 @@ The Aratel Sea is a lot more violent, with frequent pirate attacks and being inh
 
 ## Enemies and Encounters
 
--   Lionfish
--   Lesser Brainsucker
--   Whalers vs Knives of Eylis
+-   [Lionfish](Lionfish.md)
+-   [Lesser Brainsucker](Brainsucker.md)
+-   Etreans vs Knives of Eylis

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26825
+revid: 26936
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -58,21 +58,20 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On hit, hit the target again for 20% of the original hit damage with a 5 second cooldown. On non humanoid monsters, receive light damage whenever the effect activates.<br>
-  This curse lost its "curse" title on an unknown date and is now named "Umbral Knight", however it still works like a curse.</p></div></td>
+  <td><div><p>On hit, the Umbral Knight will teleport behind the opponent and perform a parryable slash that will do the same amount of damage of the users m1. The umbral knight will ONLY teleport behind the opponent if its a player, and the effect also has a cooldown. The downside is that you have to grip a player every day or you will die.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 1.1x more damage and attacks remove more blood. Missing M1s deal 2% of the user max HP as damage to themself.</p></div></td>
+  <td><div><p>M1s deal 2x more damage and attacks remove blood. Missing M1s deal the users m1 damage (not stacked with the 2x damage)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Your health bar is permanently stained. 2x bloodloss in the Etrean Luminant. While this weapon is held, -100 sanity.<br>
+  <td><div><p>Gives insanity on hit and grant passive health regen that scales inversely with max HP (higher max HP = less regen). Your health bar is permanently stained. 2x bloodloss in the Etrean Luminant. While this weapon is held, -100 sanity. while equipped on the depths<br>
   <b>This enchant is disabled in Arena</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curseofyunshul1.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>On proc (mantra included), deal 2.5(?)x damage. Has a chance to apply this to yourself.</p></div></td>
+  <td><div><p>On proc (mantra included), has a chance to deal 3x damage. Has a chance to apply this to yourself.</p></div></td>
 </tr>
 </tbody>
 </table>

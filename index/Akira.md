@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 25850
+revid: 26934
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,7 +12,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | name | Akira |
 | location | Castle Light, Celtor Wastes (Random Event) |
 
-> _"Still alive, are you? Not bad." -Akira, after talking to him at [Castle Light](Castle_Light.md)._
+“ Still alive, are you? Not bad. ”
+
+― Akira, after meeting him in Castle Light.
 
 ## Description
 

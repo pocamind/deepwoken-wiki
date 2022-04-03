@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 22752
+revid: 26932
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -36,19 +36,20 @@ The main area of farming in the depths, outside the City of Drowned.
 
 ## Potential Enemies
 
--   nautilodaunt
--   king crab
--   lesser angels
--   enforcer
--   black megalodaunt
--   king gigamed
--   gigameds
+-   [Nautilodaunt](Nautilodaunt.md)
+-   [Crustaceous Rex](Crustaceous_Rex.md)
+-   [Lesser Angels](Hollow_Angel.md)
+-   [Enforcer](Enforcer.md)
+-   [Alpha Megalodaunt](Megalodaunt.md)
+-   [King Gigamed](Gigamed.md)
+-   [Gigameds](Gigamed.md)
 -   [Lionfish](Lionfish.md)
 -   [Megalodaunt](Megalodaunt.md)
 
 ## Events
 
-[Akira](Akira.md)  
+-   [Akira](Akira.md)  
+    
 
 ## Loot Table
 
