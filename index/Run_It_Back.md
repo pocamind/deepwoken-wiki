@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 23737
+revid: 26906
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -30,11 +30,7 @@ When used, particles of flame, lightning, or shadow appear below the user's feet
 
 Pressing C will activate the **Run It Back** Resonance.
 
-**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used.
-
-### _Variants_
-
-~**Run It Back** has different effects depending on the user's [Attunement](Attunements.md), and has unique Corrupted and Tarnished effects. If a player has multiple attunements, the one observed in the resonance is random.~ The varient is comfirmed to be random regardless of the players attunement, as many people have gotten the flame varient with Thundercall, etc
+**Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used
 
 #### _Attunements_
 

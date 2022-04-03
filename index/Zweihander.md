@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 26352
+revid: 26927
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -38,6 +38,8 @@ This weapon has no special effects or passives.
 -   Has the best range a Heavy Weapon could have.
 
 -   "Zweihänder" means "Two-handed sword" in German.
+
+-   Pronounced "Zv-eye-hander" (yes, with a V not a W)
 
   
 

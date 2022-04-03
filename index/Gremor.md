@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 25113
+revid: 26921
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -104,6 +104,7 @@ SURNAMES
     "Welcome, homelander. What would you need?" (this one isn't entirely correct iirc, it's rare and only shows up when the nomad tribe hasn't been completely wiped for a while)
     
 -   This race seems to be disliked by the community.
+-   During 1/4/2022 April Fools update (Mudwoken), Gremor race name was changed to Hornskipper.
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 26224
+revid: 26923
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -88,3 +88,4 @@ A common theory is that Vesperians and Ganymedes are different versions of the s
 -   Ganymede NPCs that are found at the Aratel Island possess Flamecharm magic.
 -   The Ganymedes may be inspired by insects, considering their relation to Vesperians. (Both races share similarities to [Primal Vesperians](Primal_Vesperian.md), who were inspired by insects).
 -   One of the most valuable traits for Ganymedes is their resistance to [Insanity](Insanity.md), making it so you can grind in the Depths longer
+-   During the 4/1/2022 April Fools update (Mudwoken), Ganymede race name was changed to Hatskipper.

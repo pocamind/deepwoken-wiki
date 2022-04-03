@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 26836
+revid: 26905
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -91,6 +91,10 @@ Rising Shadow
 (★★☆)
 
  | Form a Shockwave of darkness. | User Extends their hand and creates a Projectile hand That homes in on enemies, this attack can summon multiple hands to grab multiple people when the attack connects grab and raise opponents up into the air, then slam opponents into the ground, Dazing them and stealing their ether.  
+
+-   Drift and Rush Shards increase projectile speed.  
+    
+
  |
 
 ### **Support**

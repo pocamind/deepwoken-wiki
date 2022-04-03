@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 26868
+revid: 26920
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -89,7 +89,7 @@ _The **Etreans** of the Eastern Luminant are a race like no other as they themse
 -   Despite the previous trivia, the Canor merchant was kicked out by the Lord Regent, not the Etreans. The merchant was able to be in Etris when the kings were still there.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
 -   Despite having acid rain resistance, they lack full immunity. The Survivalist boon is still a viable option.
--   During April Fool's day 2022 where everyone became a mudskipper, Etrean was renamed to 'Moltskipper'.
+-   During 4/1/2022 April fools update (Mudwoken), Etrean race name was changed to 'Moltskipper'.
 
   
 

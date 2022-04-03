@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 25123
+revid: 26922
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -107,3 +107,4 @@ A layer of protective armor that regenerates at rest.
       
     
 -   Also noted somewhere in lore (I forget where) that the masks are organic and grow over time.
+-   During the 4/1/2022 April Fools update (Mudwoken), Vesparian race name was changed to Maskskipper.
