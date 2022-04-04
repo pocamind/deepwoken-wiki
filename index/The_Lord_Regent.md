@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 25076
+revid: 26979
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,7 +25,6 @@ He does not leave his throne under any circumstances. It is unclear whether this
 
 ## Notes/Trivia
 
--   He is mentioned by the teacher, in the Charisma story as the "Sacrificial King".
 -   If you finish his quest and you defeat The Duke, **DO NOT GO BACK TO HIM.** He will kill you if you interact with him. ([https://streamable.com/833t6n](https://streamable.com/833t6n))
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, and he also uses [Shadowcast](Shadowcast.md) magic.
 -   It is said that he will be responsible for leading Etrea into a "great war" which will cause the second great flood.

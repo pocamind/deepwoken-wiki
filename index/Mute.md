@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 26953
+revid: 26972
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -39,7 +39,6 @@ This means you have to hit the mob first if you want them to aggro on you.
 
   
 
-### Notes/Trivia:
+## Notes/Trivia
 
--   To obtain it, you need to beat trial of one 6 - 7 times wiping each time u beat it. I've tested this multiple times and it's worked - RainGamma#6424
--   May also be more common than people think, due to how many bugs deepwoken has. (UNCONFIRMED)
+Despite being named officially, Mute is a **most likely a bug and/or random ,** with **NO KNOWN GURANTEED WAY TO OBTAIN IT.**
