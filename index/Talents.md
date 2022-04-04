@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26876
+revid: 26939
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -194,6 +194,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
+    -   Probally removed from leveling up cards
 
 ### Butterfly
 
@@ -1234,7 +1235,7 @@ Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster th
 Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
 Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)  
 Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.  
-Exoskeleton \[Legendary Talent, 20 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
+Exoskeleton \[Legendary Talent, 35 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
 Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)  

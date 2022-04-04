@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 26859
+revid: 26940
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1149,4 +1149,6 @@ D a m a g e \= B a s e D m g + A t t r i b u t e L e v e l ( ( b a s e / 1000 ) 
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 
-~A t t a c k S p e e d \= ( 1 / S w i n g S p e e d ) / 2 {\\displaystyle AttackSpeed=(1/SwingSpeed)/2} {\\displaystyle AttackSpeed=(1/SwingSpeed)/2}~
+Players can use this formula to figure out their swing speed.
+
+A t t a c k S p e e d \= ( 1 / S w i n g S p e e d ) / 2 {\\displaystyle AttackSpeed=(1/SwingSpeed)/2} {\\displaystyle AttackSpeed=(1/SwingSpeed)/2}

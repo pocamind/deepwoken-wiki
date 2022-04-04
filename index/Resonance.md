@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 26837
+revid: 26949
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -81,7 +81,7 @@ Note: Take none of this as fact. This is all speculation and is likely incorrect
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
 | **What you should do** |
-| Fighting specific Boss Monsters will greatly increase progression towards your Resonance. These bosses are the ones you should be looking for if this is the nature of your soul
+| Fighting specific Boss Monsters will greatly increase progression towards your Resonance. These bosses are the ones you should be looking for if this is the nature of your soul.
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)

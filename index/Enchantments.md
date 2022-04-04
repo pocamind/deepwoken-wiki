@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26936
+revid: 26943
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -154,7 +154,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
+  <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
   <td><div><p>After parrying a player or npc’s attack they will receive 2% of their total hp in damage a moment later. This enchant is most well used for making farming Primadon trivial.</p>
   <p><br>
   </p></div></td>

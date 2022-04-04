@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 26512
+revid: 26946
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -44,11 +44,13 @@ File:Legion fist.png
 
 ### Legion Kata (Legion Martial Arts)
 
+-   **Critical: Grab your enemy with both hands, raising them above your head before slamming them down.**
+
 -   You must talk to the Legion Captain inside the [Viper's Jaw](<The_Viper's_Jaw.md>) and ask them for training. You will then receive a quest to go help the Centurions on [Aratel Island](Aratel_Island.md), and the quest is to help the Centurion during the Centurion VS Authority 1v1s ( ice mage vs legion) and possibly at Erisia too(?). If you help the Centurions, your reputation among them will increase, and after getting enough reputation you will get a recommendation and will be able to learn Legion Kata.
 
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed. Your critical attack becomes a suplex.
 
--   You need good rep with the legion to get the recommendation from the captain.
+-   You need good rep with the legion to get the recommendation from the captain. Debatably the best fist style. While Navae and Kata tie in damage, the critical is faster and deals more damage. Whilst your in the critical animation, the Kata user is able to spit on your opponent effectively giving the critical a lifesteal effect.
 
 ### Way of Navae
 
@@ -60,6 +62,8 @@ File:Way Of Navae.png
 
 At [Erisia](Erisia.md) they can be most commonly found at [Towerstruck Lands](Towerstruck_Lands.md), [Erisor's Church](<Erisor's_Church.md>), and [Burning Stone Gaurdans](Burning_Stone_Gardens.md) Cave.
 
+Debatably the best fist style. While it ties in damage with Kata, the critical possesses more range and is able to instantly guardbreak most players if they fail to parry it. While the windup is longer, this is a great mix up when using your normal m1's which is what usually leads to guardbreaks.
+
 ### Jus Karita
 
 File:Jus Karita Description.png
@@ -69,7 +73,9 @@ File:Jus Karita Description.png
 -   Achieve a Power level of 30 and a Light Weapons attribute level of 40.
 -   Head to Polis in Etris, the Vesperian polishing his Greatsword under the White Tree and ask him about the Jus Karita style. Keep the conversation until you receive the talent that allows you to use Jus Karita in combat.
 
-After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer.
+After learning Jus Karita, your fist fighting style will take form into a taekwondo-based fighting style that revolves around using your legs and your fist fighting style is no longer. This style is sometimes referred to as "Sanji/Black leg style" (MOSS HEAD)
+
+Debatably the worst fist style. Dealing 25.3 damage with max light. What it lacks in damage, posture damage and the ability to have an enchantment it makes up for in a deceptive range, movement critical and animations that are difficult to keep track of. Unfortunately, the other two styles simply outclass it with better criticals, damage and even utility.
 
 ## Trivia/Notes
 
