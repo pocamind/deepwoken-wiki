@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 26962
+revid: 26966
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -28,7 +28,7 @@ Resonances of any category are susceptible to Variants. Resonance Variants are v
 
 Corrupted Resonances give substantial buffs accordingly to their purpose, such as Resonances that deal damage becoming stronger, or mobility Resonances going further. They are just a generally immense boost in power, having both broad buffs that effect all Corrupted Resonance, and also unique buffs that enrich the specific Resonance's purpose.
 
-However, similarly to Corrupted Items, Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside altogether.
+However, similarly to [Corrupted Items](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside altogether.
 
 Known debuffs include:
 
@@ -58,7 +58,7 @@ Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
 ## Obtainment Process
 
-### Soulsearching & Progress
+### Finding the Nature of you Soul & Progress
 
 The main factor in obtaining a Resonance is known as Progress. There is no specific tried-in-true method to obtaining Progress, and this by design. A route that would work for one player, might fail horribly for another, or be even more effective for someone else. However, some methods of obtaining Progress are more effective on some players than other, and it IS possible to figure out which is most effective for your character. By talking to [Sibex](Sibex.md), a unique NPC, he will inspect your Soul, and tell you what is your most efficient way to obtain Progress, and then when you are ready, tell you when you are able to obtain your Resonance.
 
@@ -78,7 +78,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
 | **What you should do** |
-| Kill "Boss" monsters, including
+| Fighting specific [Boss](Bosses.md) Monsters will greatly increase progression towards your Resonance. These bosses are the ones you should be looking for if this is the nature of your soul.
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -88,7 +88,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
- | Go to [The Depths](The_Depths.md), and kill Corrupted Monsters and Players. | Fight and kill players, especially via the [Chime of Conflict](Chime_of_Conflict.md), as it is safer and rewards more. |
+ | Delving into the Depths and doing certain actions, like killing players, or killing Corrupted Monsters while in there, will greatly increase progression towards your Resonance. | Fight and kill players, especially via the [Chime of Conflict](Chime_of_Conflict.md), as it is safer and rewards more. |
 
 Important to note, ANY method will work for any character, its just that the one Sibex says is the most effective.
 
@@ -135,8 +135,9 @@ Resonances are universally represented as an item attached on your waist. This i
     Arch Mage confirming both talent cards do not affect resonance progression.
     
 -   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
--   **Talking to Yun'Shul without a Resonance WILL wipe you.**
--   It was previously believed that you have to spend 7 hours in The Depths to obtain a Resonance.
+-   **Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you.**
+-   It was previously believed that you have to spend 7 hours in The [Depths](The_Depths.md) to obtain a Resonance.
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
 -   There used to be an unfinished Resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
 -   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
+-   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the song!" and you don't have a bell, DO NOT try to go and bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.

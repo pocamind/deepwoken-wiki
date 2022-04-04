@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 25360
+revid: 26969
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -41,7 +41,7 @@ Gripping a player will steal their luck (Luck/2), if:
 -   The victim is at least power 10
 -   The victim is not more than 15 power levels below the killer
     -   Example: A power 30 could not grip a power 10 to get luck, however a power 30 could grip a power 16 and receive luck.
-    -   A power 15 can grip a power 50 and still get luck.
+    -   A power 1 can grip a power 60 and still get luck.
 
 ### From Boss NPCs
 
@@ -89,9 +89,8 @@ There is a rare chance to catch a golden fish/seaweed which rewards the player w
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   If you second wind after wiping, your luck stat will persist (Not very helpful as people rarely second wind but worth mentioning)
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
-    -   After the new update, you can rarely get luck from any mob, meaning that as any level, since you can even get luck from the common bandit there is still **no reason** to grip anyone for luck, again unless you are just _that toxic_, or are acting in self defence.
+    -   After the new update, you can rarely get luck from any mob, meaning that as any level, since you can even get luck from the common bandit ~there is still **no reason** to grip anyone for luck, again unless you are just _that toxic_, or are acting in self defence.~ The luck drops from common mobs are extremely rare, as are most other methods of obtaining it early game such as [Artifacts](Artifacts.md). It is recommended that you hunt players and play arena early-mid game for luck, before moving on to bosses later on.
 -   Luck does **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
 -   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop chests with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck. Doing the Trial of One is also a great choice for getting luck at the very start of your progression.
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
--   The way luck is obtained, shown and gotten will be reworked soon; stay tuned
-    -   The new luck indicator is seen at the bottom right of the screen above notes.
+-   The luck indicator is seen at the bottom right of the screen above notes.
