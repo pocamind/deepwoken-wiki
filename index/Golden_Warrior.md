@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 26893
+revid: 26958
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,9 @@ The Fight isn't too difficult as long as your at least moderate at Parrying.
 
 **Reward: 1 Chest (Contents Unknown)**
 
-Golden Warrior Leaning on Wall.
+Golden Warrior Leaning on Wall at The Golden Rat.
 
-This Encounter is assumed to be Moderately rare so don't lose your chance to fight this thing,
+This Random Encounter is assumed to be Moderately rare so don't lose your chance to fight this thing,
+
+  
+**This is it's [\[1\]](https://deepwoken.fandom.com/wiki/Random_Encounters?so=search)Random Encounter. Not to be mistaken with the golden warriors at the Golden Rat in the Burning Stone Garden.**

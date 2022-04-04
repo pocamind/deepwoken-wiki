@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26933
+revid: 26955
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -71,7 +71,7 @@ Sibex:**(A unique dialogue that can be obtainable if you have a decent amount of
  
 Sibex:**(You are very close or are able to get your Bell)** Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo.
 
-Sibex:**(You have obtained your bell (If you get this dialogue without a bell, rejoin; this doesn't signify you can get one)** Well look at you, my friend! You're practically beaming with the song! 
+Sibex:**(You have already obtained your bell. (If you get this dialogue without a bell, rejoin; this doesn't signify you can get one)** Well look at you, my friend! You're practically beaming with the song! 
 
 Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 

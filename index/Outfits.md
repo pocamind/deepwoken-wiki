@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 26887
+revid: 26959
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -121,7 +121,7 @@ _\+ Talent: Pitcher_
 | File:White gumcumshoe.jpg | White Gumshoe Hat | Grants a random buff. | Fort Merit Chests |
 |  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests |
-| File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests |
+| File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests, Primadon Chests |
 | File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants a random buff. | Depths Chests |
 | File:Static-assets-upload321884259233421803.png | Dark Cowl | Grants a random buff.
 
@@ -242,7 +242,7 @@ _Requires Power 30_
 
  | Megalodaunts Drop |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
-| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest |
+| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest |
 | File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
 
 _\+ 10 health_

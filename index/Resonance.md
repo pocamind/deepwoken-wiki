@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 26949
+revid: 26962
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -58,12 +58,9 @@ Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
 ## Obtainment Process
 
-### Finding out the nature of your Soul
+### Soulsearching & Progress
 
-The specific requirements for obtaining a Resonance are unique to all players, which means doing certain actions can be more or less effective depending on the player's **Soul**. To find out the nature of your soul, you must find Sibex, a man with a peculiar ability to read Resonating souls. Once you talk to him, your goal will be made clear.
-
-  
-Note: Take none of this as fact. This is all speculation and is likely incorrect as there's no way to confirm it's true.
+The main factor in obtaining a Resonance is known as Progress. There is no specific tried-in-true method to obtaining Progress, and this by design. A route that would work for one player, might fail horribly for another, or be even more effective for someone else. However, some methods of obtaining Progress are more effective on some players than other, and it IS possible to figure out which is most effective for your character. By talking to [Sibex](Sibex.md), a unique NPC, he will inspect your Soul, and tell you what is your most efficient way to obtain Progress, and then when you are ready, tell you when you are able to obtain your Resonance.
 
 | **What he says to you** |
 | --- |
@@ -81,31 +78,29 @@ Note: Take none of this as fact. This is all speculation and is likely incorrect
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
 | **What you should do** |
-| Fighting specific Boss Monsters will greatly increase progression towards your Resonance. These bosses are the ones you should be looking for if this is the nature of your soul.
+| Kill "Boss" monsters, including
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Nautilodaunt](Nautilodaunt.md)
--   [The Duke](Duke_Ishamon_Erisia.md)
--   [The Enforcer](Enforcer.md)
+-   [Nautilodaunt](Nautilodaunt.md) (Not recommended)
+-   [The Duke](Duke_Ishamon_Erisia.md) (Not recommended)
+-   [The Enforcer](Enforcer.md) (Not recommended)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
- | Delving into the Depths and doing certain actions, like killing players, or killing Corrupted Monsters while in there, will greatly increase progression towards your Resonance. | Fighting players will greatly increase your progression towards your Resonance. it is highly recommended to fight players immediately in the Chime of Conflict. |
+ | Go to [The Depths](The_Depths.md), and kill Corrupted Monsters and Players. | Fight and kill players, especially via the [Chime of Conflict](Chime_of_Conflict.md), as it is safer and rewards more. |
 
-As a side note, you can do any of these methods even if you didn't necessarily get that nature for your soul. These acts like multiplier to your Progression gains, so doing any thing else than the recommend way will be inefficient.
+Important to note, ANY method will work for any character, its just that the one Sibex says is the most effective.
 
-It is impossible to lose Progress in any capacity besides wiping, meaning that you will forever keep any Progress that you obtain. Instead by wiping, you will reset your recommended way of obtaining a Resonance.
-
-### Finding out if you have obtained your Resonance
+### Obtaining The Resonance
 
 Talk to Sibex until he tells you these lines:
 
--   **Sibex:** "~Well look at you, my friend! You're practically beaming with the Song!"~ if you see this and you do not have bell, it is a bug, he shouldn't be capable of saying this (without glitching) if you have no resonance.
-
 -   **Sibex:** "Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. "
 
-**Note:** Getting either of these dialogues does not guarantee a bell, rather it gives you a relatively high chance of obtaining one.
+**Note:** This does not guarantee that you are ready to get your Resonance, it's just a very likely indicator that you're close.
+
+Upon getting knocked with max Progress:
 
 -   You'll be revived and healed to 100%, as well as the person who knocked you if its a player.
 -   Your Blood, Thirst and Hunger are maxed out.
@@ -123,13 +118,11 @@ Players are given the option to re-roll their Resonance with wishes if they desi
 
 Around [The Depths](The_Depths.md), Resonance doors can be found. These doors require Resonances to open, and within their room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which being the ability to reroll your Resonance to gain the choice of 3 random resonances.
 
-Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance and makes it so you cannot make a wish again. Every time you use a wish, Yun'Shul goes on cooldown for a certain amount of time. The exact time is unknown, but it IS known that you are able to reroll your resonance ~a maximum of three times per character~. (This is untrue, I unlocked my resonance at level 20 and could reroll as long as I was off the 10 level cooldown)
-
-Re-rolling your Resonance has a cooldown of 10 levels.
+Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance and makes it so you cannot make a wish again. Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. This has no limits.
 
 File:Arch says Wishes have cooldowns.png
 
-## Bell Cosmetic
+## Resonance Cosmetic
 
 Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, black and purple. (If someone could post an image of all the bell variants I'd appreciate it)
 

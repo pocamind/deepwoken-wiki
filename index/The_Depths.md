@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 26529
+revid: 26960
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -32,7 +32,7 @@ The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotte
 
 ## Layers of the Depths
 
-After talking to Mark Adaset in [Castle Light](Castle_Light.md), he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even more harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
+After talking to Mark Adaset in [Castle Light](Castle_Light.md), he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
 
 Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
@@ -90,8 +90,8 @@ _**Note:** Your Trial Power is calculated by Power + Times Drowned. This dictate
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 10-19 | [Mudskipper Knight](Mudskipper.md) (You will fight him on power 9 due to your drowned times) |
+| 1-13 | Nothing (Free Reservoir Talent, if you wanted that) |
+| ~14-19 | [Mudskipper Knight](Mudskipper.md) (You will fight him on power 13 due to your drowned times) |
 | 20 - 28 | [Angels](Hollow_Angel.md) (Lesser) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
