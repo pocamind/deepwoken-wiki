@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 26951
+revid: 27275
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -40,6 +40,12 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
     -   So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one - BunnyLils)
 
 ## Termite
+
+“ Oh boy, an amethyst! My favorite! ”
+
+― Level 20 canor, eating literally everything in sight.
+
+  
 
 ### "You can eat things that most would consider inedible."
 

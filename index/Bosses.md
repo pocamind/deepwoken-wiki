@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 26989
+revid: 27259
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,6 +21,7 @@ Every opponent on these lists has either a:
 -   [The Duke](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [The Dread Serpent](Dread_Serpent.md)
 
 ## Unofficial/Minibosses
 
@@ -28,4 +29,3 @@ Every opponent on these lists has either a:
 -   [Blizzard Knights](Stone_Knight.md)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
--   [Dread Serpent](Dread_Serpent.md)

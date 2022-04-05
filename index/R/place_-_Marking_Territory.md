@@ -1,6 +1,6 @@
 ---
 title: "R/place - Marking Territory"
-revid: 27054
+revid: 27241
 source: https://deepwoken.fandom.com/wiki/R/place_-_Marking_Territory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,7 +33,7 @@ The original plan.
 
   
 
-HorrorTM, head moderator of the official discord of Deepwoken, sends out 2 links on April 3rd, 2022. One laid out the plan(now deleted to stop vandalism of others) and the other linked to the coordinates. It was an overall success, even making in into popular youtuber Penguinz0's thumbnail. However, a unknown force attacked. Our beloved small pixel Deepwoken logo started to disappear, and take a new shape. Putupau, a small Spanish youtuber, kicked us out of our lovely little kingdom.
+HorrorTM, head moderator of the official discord of Deepwoken, sends out 2 links on April 3rd, 2022. One laid out the plan(now deleted to stop vandalism of others) and the other linked to the coordinates. It was an overall success, even making in into MoistCr1tical's thumbnail. However, a unknown force attacked. Our beloved small pixel Deepwoken logo started to disappear, and take a new shape. Putupau, a small Spanish youtuber, kicked us out of our lovely little kingdom.
 
   
 

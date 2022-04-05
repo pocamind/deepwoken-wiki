@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 26522
+revid: 27254
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -8,12 +8,13 @@ categories: [Pages with broken file links, Boss, Luck]
 
 # Primadon, Titan of the East
 
-“ You shrink like an ant in the face of a true predator. ”
+LocationL Primadon's Hunting Grounds LocationR
 
-― Primadon's Hunting Grounds flavor text
+You shrink like an ant in the face of a true predator.
 
   
 
+  
 Template:Creature Infobox V3
 
 File:Primadon.png
@@ -31,6 +32,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
 | **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch, he only uses it if you're at a chest length of his body or flying on a glider. | ◯ | (★☆☆) |
+| **Primal Leap** | Primadon leaps backward in order to gain some distance and throws a single rock. | ◯ | (★★☆) |
 | **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, stuns you, and grabs you - Dealing about a bar of damage to even those with 500 hp. | ◯ | (★★★) |
 | **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
@@ -48,7 +50,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 Umbral Obsidian in them.
--   **Small chest -** Has 1-3 Umbral Obsidian in it and a low chance of 1-2 Deep Gems.
+-   **Small chest -** Has 1-3 Umbral Obsidian in it and an extremly low chance of 1-2 Deep Gems.
 -   **Luck -** Gives about 23% luck, somewhere as much as 15-20 Corrupted [monster](Monsters.md) kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell),](Resonance.md) **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get bell.**
 
 ## Strategies & Tips
@@ -57,7 +59,7 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 
 ### Preparation
 
--   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _10 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
+-   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _16 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
 -   The footsteps of Primadon play a loud and distinct sound that can be heard from very far, even from nearby islands. You can this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the player(s) fighting this fishy ape.
 -   Having blunt armor greatly reduces the Primadon's damage during his stomps, and when paired with thresher scales you can take a lot less damage throughout the fight.
 -   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
@@ -84,6 +86,8 @@ The boss arena, showing the ocean from which Primadon spawns.
 -   Primadon is extremely likely to use **Kick** when it follows up one or multiple **Tramples** with a regular **Stomp**. Predicting **Kick** and readying to perfect roll greatly increases your chances of success.
 -   Primadon has the most "end-lag" after it uses **Trample**, or **Stomp** followed by **Trample/Stomp**. If it **Kicks** after a **Stomp** then the end-lag will be significantly lower.
 -   If you see the right foot raise, prepare for **Trample** and if you see the left foot raise (_not_ swing back, as this represents **Kick**,) prepare for one **Stomp**. Dodge the **Kicks** and parry the **Stomps** and success will be certain.
+-   When far enough away Primadon wil use **Rock Throw** and thow 3 massive rocks towards the targeted player, these can be dogded.
+-   Sometimes Primadon will do a **Leap** backwards, Primadon will use **Rock Throw** while in the air, they can be dogded.
 
 ## Trivia
 

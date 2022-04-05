@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 26646
+revid: 27283
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
@@ -81,7 +81,6 @@ If you want to add more, feel free. I'm done for the time being.
 ## Notes/Trivia
 
 -   Some spots wont let you fish.
--   The front of Monkey's Paw is a good place to farm for fish and chests as you wait max of 20 sec to right when it hits the water between casting your line before a fish bites.
 -   Also, the shores of Etris tend to be good for fishing, as I have appeared to get fish much faster than in the Aratel sea.
 -   Surprisingly, void sea is also good for fishing, I was fishing somewhere on the edge of Greathive Aratel shipyard and was getting alot of good fish (although had to fight lionfishes). And if you get to see Kaido you can have time to run up or run back to the shipyard.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.

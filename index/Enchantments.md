@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27166
+revid: 27263
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -58,11 +58,11 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On hit, the Umbral Knight will teleport behind the opponent and perform a parryable slash that will do the same amount of damage of the users m1. The umbral knight will ONLY teleport behind the opponent if its a player, and the effect also has a cooldown. The downside is that you have to grip a player every day or you will die.</p></div></td>
+  <td><div><p>On hit, the Umbral Knight will perform a slash dealing 20% of the M1's original damage. Apparently the slash is able to be parried, blocked and dodged. The downside is that hitting a non-human-type creature (example a lionfish), you will receive the slash damage done to yourself.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 2x more damage and attacks remove blood. Missing M1s deal the users m1 damage (not stacked with the 2x damage)</p></div></td>
+  <td><div><p>M1s deal 10% more damage and attacks remove blood. Missing an M1 deals 2% damage to the user.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -85,7 +85,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When below 40% HP, gain a 25% damage increase on M1s.</p></div></td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
-  <td><div><p>On proc (20% chance), set the enemy on fire. The strength of the fire scales with Flamecharm.</p>
+  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it- so some may say that it scales with Flamecharm.</p>
   <p><br>
   </p></div></td>
 </tr>

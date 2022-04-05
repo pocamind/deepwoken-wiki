@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 27102
+revid: 27277
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -205,9 +205,9 @@ Impale/Impact
   <th>Effect</th>
 </tr>
 <tr>
-  <td>None yet</td>
+  <td><figure>File:Giphy 8.gif<figcaption></figcaption></figure></td>
   <td>Iceberg</td>
-  <td>Idk</td>
+  <td>Enter a state of cryostasis</td>
   <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies too close. You gain autoparry for three hits while this is active.
   <ul>
     <li>Heals 10% when not upgraded</li>

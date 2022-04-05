@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27217
+revid: 27278
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -10,7 +10,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 30 |
+| oath_req | Power 30+ |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -74,11 +74,17 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ### Known Abilities
 
-(Only one Ability has been found as of 4/05/2022, will be updated)
-
 -   **Mindsoothe - Support Mantra**
     -   Resets all insanity (or a part of it?) of nearby players to 0, and in turn gives you the insanity that they once had.
     -   Ritual Cast
+    -   Clue: _Free the lost souls from their shackles, help them escape into the light._
+    -   Obtaining: Complete the Depths trial with another player (must be alive).
+-   **Anti-Magic Field (Name Unknown)**
+    -   Casts a field similar to sacred field but all mantras are unusuable within it.
+    -   Clue: _???_
+-   **Group Heal (Name Unknown)**
+    -   AoE that heals teammates.
+    -   Clue: _???_
 
   
 

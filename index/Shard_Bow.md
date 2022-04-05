@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 27237
+revid: 27281
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -13,9 +13,9 @@ categories: [Pages with broken file links]
 | effect | Jumps up, back, and fires arrows. |
 | appearance | White bow that appears in front of the user. |
 
-“ Conjure a mythical bow that hails down crystallized arrows. ”
+“ IS THAT TELORUM ROUGE LINEAGE?!?!1 ”
 
-― Shard Bow description
+― A traumatized freshie being ganged for the 100th time that day
 
 ## Description
 
@@ -48,5 +48,6 @@ Leap backward/upward further before firing arrows (not that great considering th
 -   Tried testing damage on my friends freshie does around 70 damage (Variant 2)
 -   Based on Agamatsu's rocket launcher bell idea
 -   Reference to _The Stormlight Archive_'s Shardbows
+    -   visual effect of the arrow is currently bugged
 
 File:Shard bow.gif
