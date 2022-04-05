@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 26885
+revid: 27027
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found:
 
 ## Trivia/Notes
 
--   This outfit is worn by the Authority Commanders and Authority Warden's, which can be found in Fort Merit.
+-   This outfit is worn by the Authority Commanders and Authority Wardens, which can be found in Fort Merit.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27001
+revid: 27077
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -78,7 +78,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
 | **What you should do** |
-| Fighting specific [Boss](Bosses.md) Monsters will greatly increase progression towards your Resonance. These bosses are the ones you should be looking for if this is the nature of your soul.
+| Fight and kill [Boss](Bosses.md) Monsters, including:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
@@ -88,9 +88,12 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
- | Delving into the Depths and doing certain actions, like killing players, or killing Corrupted Monsters while in there, will greatly increase progression towards your Resonance. | Fight and kill players, especially via the [Chime of Conflict](Chime_of_Conflict.md), as it is safer and rewards more. |
+ | Go to [The Depths](The_Depths.md), and kill Players & Corrupted Monsters. | Fight and kill Players. Doing so with the [Chime of Conflict](Chime_of_Conflict.md) will reward even more. |
 
-Important to note, ANY method will work for any character, its just that the one Sibex says is the most effective.
+Two VERY important things to note:
+
+-   Progress follows the same rules as Luck. If something wouldn't give you Luck, it wouldn't give you Progress either (so you can't just kill Freshies for example).
+-   You can get Progress via ANY of the three ways, its just the one that Sibex tells you will reward the most.
 
 ### Obtaining The Resonance
 

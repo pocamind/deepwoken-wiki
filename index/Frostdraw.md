@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 26709
+revid: 27068
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -196,7 +196,41 @@ Impale/Impact
 
 ### **Support**
 
-deleted this, someone put "summon cauldron" here and it's not a frostdraw mantra, it's an intelligence mantra  
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Media</th>
+  <th>Name</th>
+  <th>Card Description</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td>None yet</td>
+  <td>Iceberg</td>
+  <td>Idk</td>
+  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies too close. You gain autoparry for three hits while this is active.
+  <ul>
+    <li>Heals 10% when not upgraded</li>
+    <li>Possibly can be upgraded with Stratus Stones and Eternal Logstones</li>
+    <li>Don't use when your teammates are nearby, because this can freeze others.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+  
 
 ## Talents
 

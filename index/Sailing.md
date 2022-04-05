@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 26862
+revid: 27063
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -22,8 +22,8 @@ To sail, one must first gain a ship. At a city's dock, talk to the Shipwright. H
 
 To summarize how sailing works, it is what people in the gaming world would call _**Tank Controls**_, except with the addition of ice. If you move forward, you'll keep moving forward, and you most likely will not stop unless you hop off the boat or decelerate.
 
--   Forwards acceleration/Drop Sails - **W**
--   Deceleration/Move backwards/bring sails up - **S**
+-   Forwards acceleration/Raise Sails - **W**
+-   Deceleration/Move backwards/Drop sails - **S**
 -   Steer Left - **A**
 -   Steer Right - **D**
 -   Rotate sails Left - **Z**
