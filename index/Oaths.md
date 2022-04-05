@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27075
+revid: 27217
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -11,7 +11,7 @@ categories: [Oaths, Character, Talents]
 | Oath: Oathless | |
 |---|---|
 | oath_req | Power 30 |
-| effects | +2 Wildcard Mantra |
+| effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
 |---|---|
@@ -26,8 +26,6 @@ categories: [Oaths, Character, Talents]
 _icon credit to Tortaa#9000_
 
 **Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain.
-
-## Overview
 
 Like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. However, you can remove the current oath on your player by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) who can be located in the depths.
 
@@ -79,8 +77,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 (Only one Ability has been found as of 4/05/2022, will be updated)
 
 -   **Mindsoothe - Support Mantra**
-    -   Resets all insanity of nearby players to 0, and in turn gives you the insanity that they once had.
-    -   Is similar to Wisps and Graceful flame in the way that you have to press keys to cast it.
+    -   Resets all insanity (or a part of it?) of nearby players to 0, and in turn gives you the insanity that they once had.
+    -   Ritual Cast
 
   
 

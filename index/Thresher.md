@@ -1,12 +1,16 @@
 ---
 title: Thresher
-revid: 26609
+revid: 27225
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
 ---
 
 # Thresher
+
+“ Yare yare daze... ”
+
+― Level 50 Ganymede 3 shotting a thresher so he can talk to sibex.
 
 > **"We're f\*\*ked...."** - A gang trying to farm in The Depths, but they run into a Corrupted King Thresher
 

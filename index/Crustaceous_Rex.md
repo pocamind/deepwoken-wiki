@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 26109
+revid: 27224
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster]
@@ -8,7 +8,14 @@ categories: [Pages with broken file links, Monsters, Monster]
 
 # Crustaceous Rex
 
-Template:Creature Infobox V3 **"Who the fuck thought putting Crabulon in the game was a good idea?" -a freshie Gremor who just got gripped by a Crustaceous Rex**
+Template:Creature Infobox V3
+
+“ Watch your tone, boy. ”
+
+― Crustaceous Rex that just ground slammed 5 people into the void.
+
+  
+**"Who the fuck thought putting Crabulon in the game was a good idea?" -a freshie Gremor who just got gripped by a Crustaceous Rex**
 
 _Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
 

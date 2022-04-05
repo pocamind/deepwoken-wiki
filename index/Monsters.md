@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 26497
+revid: 27214
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]

@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 19370
+revid: 27090
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,12 +18,12 @@ Just what is this place?
 
 ## Overview
 
-Voidheart was an area in the Voidsea with no function whatsoever. The only form of content here was the area marker.
+A mostly Empty Part of the Map except for a island (Lungfish Keep)
 
 Sailing here can be quite frustrating and it takes a long time to get there.
 
-Believed to have been removed from the game recently.
+  
 
 ## Trivia/Notes
 
--   Arch\_Mage has confirmed the location to be empty.\[\]\[\]
+-   Lungfish keep can be found here

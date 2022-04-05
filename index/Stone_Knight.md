@@ -1,12 +1,19 @@
 ---
 title: Stone Knight
-revid: 26775
+revid: 27222
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
 ---
 
 # Stone Knight
+
+“ Bro, I hate having to do the Aelita quest so much, I just want my goddamn finishers rin- ”
+
+― Level 50 Gremor, who forgot to check the season before wandering into Valley of Heroes
+
+  
+  
 
 Stone Knights are a type of Giant [monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). They all spawn via a falling meteor (Desert Knights are capable of spawning without a meteor).
 

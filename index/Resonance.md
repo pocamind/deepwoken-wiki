@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27077
+revid: 27236
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Resonance, Character, Boss, Locations
 
 ### Normal Resonances
 
-Normal Resonances are the basic version of each Resonance, and the most common, and are signified with a white aura upon obtainment. They do not have any buffs or debuffs compared to sub-category Resonances, but they are still susceptible to being a variant.
+Normal Resonances are the basic version of each Resonance, and the most common. They do not have any buffs or debuffs compared to sub-category Resonances, but they are still susceptible to being a variant.
 
 ### Resonance Variants
 
@@ -24,7 +24,7 @@ Resonances of any category are susceptible to Variants. Resonance Variants are v
 
 ### Corrupted Resonance
 
-**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, however, are rarer and stronger, and are signified with a bluish-purple circle upon obtainment.
+**Corrupted Resonances** are a sub-category of Resonances which are obtained identically to normal Resonances, however, they are rarer and stronger.
 
 Corrupted Resonances give substantial buffs accordingly to their purpose, such as Resonances that deal damage becoming stronger, or mobility Resonances going further. They are just a generally immense boost in power, having both broad buffs that effect all Corrupted Resonance, and also unique buffs that enrich the specific Resonance's purpose.
 
@@ -40,7 +40,7 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 ### **Legendary Resonance**
 
-**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances and are signified with a yellow aura upon obtainment.[\[1\]](https://deepwoken.fandom.com/wiki/Teleportation) The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the rarest occurrences possible.
+**Legendary Resonances** are another category of Resonances which are also obtained identically to normal Resonances but are massively rarer and powerful than both normal and Corrupted Resonances. The only legendary resonances in the game are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). One thing of note is that Legendary Resonances can overlap with Corrupted Resonances, but this is one of the rarest occurrences possible.
 
 ### Tarnished Resonances
 

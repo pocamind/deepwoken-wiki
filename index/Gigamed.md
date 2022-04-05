@@ -1,12 +1,16 @@
 ---
 title: Gigamed
-revid: 25906
+revid: 27227
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Gigamed
+
+“ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!! ”
+
+― Local Deepwoken player literally turning into Goku after dying to a normal gigamed.
 
 “ Look Patrick, it's a Jellyfish! ”
 

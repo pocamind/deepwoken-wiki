@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 26594
+revid: 27228
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -40,6 +40,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Warrior's Eyepatch
 -   Justicar Defender (all colors)
 -   Headbands (all colors)
+-   Moon Ring
 
 ## Notes
 
