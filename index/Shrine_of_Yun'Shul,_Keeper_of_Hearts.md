@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 24255
+revid: 26984
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -41,3 +41,4 @@ Four wishes are available when interacting with Yun'Shul:
 -   Yun'Shul is referred to by the developers by the singular "they" and "them".
     -   This trait is also shared with Ya'Alda from Rogue Lineage.
 -   If you aren't in combat, leaving the game before your head bloats will save you from getting your head blown off.
+-   One of two Drowned Gods so far in Deepwoken; the other being Korilfiend, the Drowned God of fire.

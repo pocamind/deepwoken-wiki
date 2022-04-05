@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 26975
+revid: 26987
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -330,8 +330,6 @@ Displacement
 
  | 
 
-On proc, grant a speed boost and hyperarmor.
-
-  
+On proc, grant a speed boost and hyperarmor. (this enchant has been removed)
 
  |

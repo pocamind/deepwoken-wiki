@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 26939
+revid: 26983
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -353,6 +353,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Thorns of Fire \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity, +3 Health)
 -   Prerequisites: Flame Repulsion
+-   Now absorbs damage actually taken and has a lower cap on its damage addition
 -   Meteor Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
 -   Phoenix Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisite: Meteor Impact

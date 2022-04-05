@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 26889
+revid: 26993
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -31,7 +31,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
-"Hm? You train your muscle just to carry those stuff?" -Adret questioning his friend Canor
+"Hm? You train your muscle just to carry those stuff?" -Adret questioning his Canor friend.
 
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
@@ -44,7 +44,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
-“Cheers Bro I’ll Drink to that” - An Alchemist Ganymede Chugging Unethical amounts of [Potions](Alchemy.md)
+“Cheers bro I’ll drink to that” - An alchemist Ganymede chugging unethical amounts of [potions](Alchemy.md).
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
@@ -55,7 +55,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Agility
 
-"Watch me hit this sick jum-" - Last Words of a Vesperian
+"Watch me hit this sick jum-" - Last words of a Vesperian
 
 List of agility talents
 
@@ -66,11 +66,11 @@ List of agility talents
 -   Gain Agility EXP via Parkour, Sneak Attacks, Dodging, and taking fall damage with the Ankle Weights.
 -   **NOTE:** Your Agility is also affected by your health, reducing speed/maneuverability the lower your health gets.
     -   Can be mitigated by a talent.
--   Uncapped by talking to the [windrunner](Windrunner.md) which looks over a cliff on a highway gate.
+-   Uncapped by talking to the [windrunner](Windrunner.md) atop the highest peak, above the highway gate to monkey's paw.
 
 ### Intelligence
 
-"What's 9 + 10?!" - A Big Brained Adret Questioning an Inept Felinor
+"What's 9 + 10?!" - A big brained Adret questioning an inept Felinor
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
 -   This stat gives 2 Ether and Reservoir
@@ -93,7 +93,7 @@ List of agility talents
 
 ### Charisma
 
-"I know how to get stronger…it’s called a Vow of Mastery. Wanna Make One…?" -Celtor offering legal slavery to a Vesperian
+"I know how to get stronger…it’s called a Vow of Mastery. Wanna make one…?" -Celtor offering legal slavery to a Vesperian
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
