@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27303
+revid: 27310
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -76,6 +76,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 -   **Mindsoothe - Support Mantra**
     -   Resets all insanity (or a part of it?) of nearby players to 0, and in turn gives you the insanity that they once had.
+    -   Heals nearby players in exchange for your own health. (im not sure how much health it heals, or if it can heal multiple people.)
     -   Ritual Cast
     -   Clue: _Free the lost souls from their shackles, help them escape into the light._
     -   Obtaining: Complete the Depths trial with another player (must be alive).

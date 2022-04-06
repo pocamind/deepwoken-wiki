@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 26857
+revid: 27321
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
@@ -14,13 +14,13 @@ Luminants are described to be certain regions of the world in Deepwoken. As of 1
 
 Once more Luminants are added, you will most likely be able to spawn in a different Luminant when creating a character. However, this is just speculation.
 
-## Etrean Luminant
+## Eastern/Etrean Luminant
 
 A Luminant that is mostly under the rule of Etrea. It is the only current released Luminant. The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life and species, and even bringing up monsters from the [Depths](The_Depths.md) below. The Luminant is currently in a never-ending state of war, as the Central Authority has been fighting against Etrea for a while.
 
-The Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
+The Eastern/Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
 
-It is not fully clear if the Etrean Luminant and Eastern Luminant are the same, they may be different, but they are most likely the same.
+The Eastern and Etrean Luminant are the same Luminant, refer to below.
 
 This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all seem to use it.
 
@@ -48,7 +48,7 @@ It is not even known if the name of this Luminant is really the "Northern Lumina
 
 This Luminant is probably home to [Frostdraw](Frostdraw.md).
 
-## Eastern Luminant
+## Eastern Luminant (Etrean Luminant)
 
 eastern and etrean luminant are the same
 

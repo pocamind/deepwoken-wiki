@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 27309
+revid: 27311
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Monsters]
 
 “ IT HAS NO FUCKING ANIMATIONS!!! ”
 
-― Level 1 Vesperian, desperately trying to do trial of one.
+― Level 8 Vesperian, desperately trying to do trial of one.
 
 > **"Bro lay off, I just want Blindseer!"** - A Vesperian at the Temple of Forgotten Flame
 

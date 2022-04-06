@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 26813
+revid: 27320
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -944,6 +944,12 @@ This category lists new lore that has been added into Deepwoken through updates.
     -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
 
 ## Miscellaneous
+
+  
+
+### **Blindseer Lore**
+
+\[Placeholder\]
 
 ### Character Deaths
 
