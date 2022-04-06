@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27238
+revid: 27296
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,4 +33,10 @@ It is unknown if **Ressurection** have variants.
 
 #### _Corrupted_
 
-**Corrupted Ressurection** last longer on the target(?).
+**Corrupted Ressurection** you can use bell on yourself.
+
+## Trivia/Notes
+
+When someone or something is getting resurrected, they cannot be damaged.
+
+Debatably, this is by far one of the worst bells for PvP, as one could just walk away. Although pretty useful and strong in PvE.

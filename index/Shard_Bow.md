@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 27281
+revid: 27289
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -36,6 +36,8 @@ Leap backward into the air before firing a single explosive arrow at your cursor
 **Variant 2: Rapid fire**
 
 Leap directly upward before firing 3 explosive arrows below you. Each arrow will bounce you back into the air
+
+Does 70 damage (Confirmed with testing)
 
 **Corrupted:**
 

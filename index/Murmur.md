@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 26223
+revid: 27287
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -77,3 +77,14 @@ Adagio allows the user to slow people around them by making a strange, vibrating
 There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back.
 
 The only users of this Murmur are The Knives of Eylis captains, with the Murmur itself being unobtainable.
+
+## Murmur: Rhythm
+
+Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G".
+
+-   Likely removed due to being significantly weaker than the other two Murmurs
+    -   would give esp hackers an easier time to avoid being caught
+
+**Heartbeat Sensor**
+
+Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters.

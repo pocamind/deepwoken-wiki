@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 26496
+revid: 27284
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,7 +51,7 @@ In order to successfully use How to Make Friends and level up your Charisma, sel
 
 When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines depending on the charisma of the player who spoke the line.
 
-Charisma 1-34
+Charisma 1-33 (as soon as I'd hit 33 they stopped being meanies)
 
 -   I don't have time for this...
 
