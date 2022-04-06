@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27295
+revid: 27337
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -81,10 +81,10 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 | Fight and kill [Boss](Bosses.md) Monsters, including:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Nautilodaunt](Nautilodaunt.md) (Not recommended)
--   [The Duke](Duke_Ishamon_Erisia.md) (Not recommended)
--   [The Enforcer](Enforcer.md) (Not recommended)
+-   [Dread Serpent](Dread_Serpent.md) (Not recommended)
+-   [Nautilodaunt](Nautilodaunt.md)
+-   [The Duke](Duke_Ishamon_Erisia.md)
+-   [The Enforcer](Enforcer.md)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
@@ -141,6 +141,5 @@ Resonances are universally represented as an item attached on your waist. This i
 -   **Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you.**
 -   It was previously believed that you have to spend 7 hours in The [Depths](The_Depths.md) to obtain a Resonance.
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
--   There used to be an unfinished Resurrection bell, but this has since been removed on 2/16/22. The reasoning behind it was that it was either impractical on a technical level, or it would be too hard to balance. Players who had this bell would have it randomly rolled to a random legendary resonance.
 -   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the song!" and you don't have a bell, DO NOT try to go and bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.

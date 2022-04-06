@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 27211
+revid: 27341
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -37,3 +37,4 @@ These races are not obtainable, don't ask the devs and mods for it, you aren't g
 -   Players may also treat the player differently depending on their race.
 -   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
 -   Players can find others tagged with familial relations, though this ultimately does not change anything.
+-   During the _Mudwoken_ update, every player were turned into Mudskippers, each race was given their own Mudskippperfied name and kept certain characteristics

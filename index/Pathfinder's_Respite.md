@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 23218
+revid: 27353
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,16 +25,19 @@ Completing his dialogue will give you access to bringing him hostages and a [Gli
 
 -   [Deep Owl](Deep_Owl.md)
 -   [Megalodaunt](Megalodaunt.md)
--   Etrean Footsoldier
+-   Etrean Footsoldier (all variants)
 -   [Authority Footsoldier](Authority_Officer.md)
+-   [Legion Captain](Legion_Captain.md)
 
 ## Missions
 
 Events that spawn in Pathfinder's Respite that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Etrea vs The Central Authority  
+-   Etrea vs The Central Authority
+-   The Hundred Legion vs The Central Authority  
     
 
 ## Trivia/Notes
 
--   sometime there is wood plank block the way you must use mantra to break (only some mantra can break it)
+-   There will be wooden planks blocking the entrance. Only some mantras can break it (Strong Left, Lightning beam)
+-   Despite being in Lower Erisia, Upper Erisia events can still spawn here

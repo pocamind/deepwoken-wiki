@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27310
+revid: 27354
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -79,7 +79,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Heals nearby players in exchange for your own health. (im not sure how much health it heals, or if it can heal multiple people.)
     -   Ritual Cast
     -   Clue: _Free the lost souls from their shackles, help them escape into the light._
-    -   Obtaining: Complete the Depths trial with another player (must be alive).
+    -   Obtaining: Complete the Depths trial with another player substantially lower level than you (must be alive).
 -   **Anti-Magic Field (Name Unknown)**
     -   Casts a field similar to sacred field but all mantras are unusuable within it.
     -   Clue: _???_
@@ -106,7 +106,7 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is one of two Oaths to have its own mantras as of 4/05/2022.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is one of the Oaths with its own Mantras, together with Blindseer as of 4/05/2022.
 
 Corrupted Deep Owls now drop a guaranteed Void Feather.
 

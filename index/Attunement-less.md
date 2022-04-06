@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 26866
+revid: 27322
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -89,7 +89,7 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 -   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defense.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
     -   Requirement: 30 Willpower, _Willpower Support Mantra_
-    -   Could be very dangerous for Willpower-less with Curse of the No Life King user
+    -   Could be very dangerous for Willpower-less or a Curse of the No Life King user
 
 -   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
     -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.

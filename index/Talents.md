@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 27255
+revid: 27334
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -186,6 +186,12 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   "Larger foes" being anything that isn't a humanoid NPC.
     -   Prerequisite: 10 Willpower.
 
+### Blindseer
+
+-   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
+    -   Prerequisite: Escape the depths with a player substantially lower level than you.
+    -   Allows you to absorb the insanity of other players.
+
 ### Brawler
 
 -   Trained Fist \[Generic Talent, Common Talent\] - You can now equip Cestus. (+7 Health)
@@ -259,7 +265,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryomancer
 
--   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
+-   Chilling Flourish \[Generic Talent, Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
+
+-   Condensation Drip \[Generic Tallent, Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
 
 ### Cutthroat
 
@@ -493,7 +501,11 @@ These Talents are meant to improve your overall combat effectiveness.
 
 ### Ice Age
 
--   Frozone \[Frostdraw Exclusive, Legendary Talent\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
+-   Cryonis \[Generic Talent, Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
+
+-   Frostbite \[Generic Talent, Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
+
+-   Frozone \[Generic Talent, Legendary Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: Ice Skates (3 Star Frostdraw Mantra)
 
 ### Inferno
@@ -747,6 +759,9 @@ Prerequisite: Charisma
 
 ### Static Weaver
 
+-   Agitating Static \[Generic Talent, Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame. (+4 Ether, +7 Reservoir)
+    -   Prerequisite: Discovery of Fire
+
 -   Static Link \[Generic Talent, Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+8 Reservoir,+4 Elemental Intensity, +1 Health)
     -   Prerequisite: ??? Thundercall and ??? Intelligence
 -   Static Allure \[Generic Talent, Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
@@ -861,14 +876,16 @@ These Talents are meant to reap the reward of your latest hunt.
 
 ### Thundercaller
 
--   Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
--   Adept Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
--   Expert Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
--   Master Thundercaller \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
--   Discovery Of Fire \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
--   Static Withdraw \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
-    -   Very tight activation window + delayed activation. If you succesfully hit the shock the moment someone tries to carry you, you immediatly get unknocked and trigger related talents.
--   Stratoschock \[Generic Talent, Character Exclusive, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
+-   Thundercaller \[Generic Talent, Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
+-   Adept Thundercaller \[Generic Talent, Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity, +3 Health)
+-   Expert Thundercaller \[Generic Talent, Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity, +3 Health)
+-   Master Thundercaller \[Generic Talent, Common Talent, Thundercall Exclusive\] - You can now obtain 3-star Thundercaller mantras. (+4 Elemental Intensity, +3 Health)
+-   Discovery Of Fire \[Generic Talent, Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons. (Allows you to light campfires)
+-   Static Withdraw \[Generic Talent, Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
+    -   Very tight activation window + delayed activation. If you succesfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related talents.
+-   Static Flash Clone \[Generic Talent, Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
+-   Stratoshock \[Generic Talent, Common Talent, Thundercall Exclusive\] - Your lightning deals more damage when in the rain. (+4 Elemental Intensity, +3 Health)
+-   Capacitor \[Generic Talent, Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
 
 ### Undying Ember
 

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 27222
+revid: 27350
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -8,16 +8,13 @@ categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
 
 # Stone Knight
 
-“ Bro, I hate having to do the Aelita quest so much, I just want my goddamn finishers rin- ”
-
-― Level 50 Gremor, who forgot to check the season before wandering into Valley of Heroes
-
-  
-  
-
 Stone Knights are a type of Giant [monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). They all spawn via a falling meteor (Desert Knights are capable of spawning without a meteor).
 
 **Blizzard Knight:**
+
+“ Bro, I hate having to do the Aelita quest so much, I just want my goddamn finishers rin- ”
+
+― Level 50 Gremor, who forgot to check the season before wandering into Valley of Heroes
 
 Template:Creature Info Box v2
 
@@ -30,6 +27,10 @@ They may only spawn in the area during the Winter [Season](Seasons.md). This wil
 Defeating the whole pack will spawn a chest near the frozen river that will always contain at least 1 of the 5 [Heroes Blade](Hero_Blades.md) and or possibly one of the many variant of [Ministry Cloak](Outfits.md#arms).
 
 **Desert Knight:**
+
+“ A wild Regirock has appeared ”
+
+― Last thing a player in Starswept Valley hears before death
 
 Template:Creature Info Box v2
 
@@ -58,6 +59,8 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 
 ## **Trivia & Notes**
 
--   ~These are known to attack you regardless if you have Animal King or not. (needs more testing)~ When I had animal king, they didn't attack me
--   ~They spawn more often in Autumn~ to clarify, I believe they were trying to say only _Sand_ Knights spawn more often. _Blizzard_ Knights only spawn in winter.
+-   Desert knights spawn more often in Autumn
 -   Pretty easy to beat if you know what you're doing, but its one of the mobs that will punish you hard if you mess up.
+-   When spawning Blizzard Knights in Minityrsa (when the meteors fall), be sure to run all the way out of the Hero Valley. Because if you will aggravate one of the golems right when they spawn, all of them will aggravate on you.
+-   (If you are quick enough you can run away and get some of them off your tail, but the closest ones will still follow you)
+-   **Note that Rogue Hive Construct won't attack Blizzard Knights, will instead team up on you if you aggravate them both.**
