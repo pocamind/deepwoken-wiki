@@ -1,6 +1,6 @@
 ---
 title: "R/place - Marking Territory"
-revid: 27241
+revid: 27305
 source: https://deepwoken.fandom.com/wiki/R/place_-_Marking_Territory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,7 +18,7 @@ r/place is a community event that Reddit does near April Fool's Day. r/place is 
 
 File:True.png
 
-Behold - r/place 2022: [https://i.redd.it/cxjalbw3hlr81.png](https://i.redd.it/cxjalbw3hlr81.png) (if you want to look closer)
+Behold - r/place 2022: [https://place-atlas.stefanocoding.me/](https://place-atlas.stefanocoding.me/) (if you want to look closer)
 
 r/place,2022
 

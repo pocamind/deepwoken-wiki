@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 27259
+revid: 27306
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ Every opponent on these lists has either a:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Dread Serpent](Dread_Serpent.md)
 
-## Unofficial/Minibosses
+## Unofficial/Mini Bosses
 
 -   [Deep Widow](Deep_Widow.md)
 -   [Blizzard Knights](Stone_Knight.md)

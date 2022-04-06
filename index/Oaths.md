@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27278
+revid: 27303
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -85,6 +85,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   **Group Heal (Name Unknown)**
     -   AoE that heals teammates.
     -   Clue: _???_
+
+  
+**Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celter - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
 
   
 

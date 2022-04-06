@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 27226
+revid: 27309
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -22,7 +22,7 @@ Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings
 
 ## Description
 
-Lesser Angels are creatures that are summoned by entities called _Watchers_ or _Seekers_. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns one Angel. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
+Lesser Angels are creatures that are summoned by entities called _Watchers_ or _Seekers_. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
 
 If a Watcher catches a player in its line of sight, its light beam will turn red, and it will summon the Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters".
 
