@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 27359
+revid: 27408
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -92,8 +92,9 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Pink Adjudicator's Coat
 -   Rural Adjudicator's Coat
 -   Warden Pauldrons
--   Gold Authority Commande  
-    
+-   Gold Authority Commande
+-   Verdant Authority
+-   Haze Authority Commander
 
 ### [Weapons](Weapons.md)
 

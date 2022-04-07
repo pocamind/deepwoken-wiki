@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 27399
+revid: 27411
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -51,7 +51,8 @@ notices:
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_.
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
-    -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
+    -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
+-   [**Deep Owl's**](Deep_Owl.md) look is similar to the [Owl](https://avatar.fandom.com/wiki/Wan_Shi_Tong) from _Avatar: The Last Airbender._ The Deep Owl doesn't posses any abilities nor anything related to it, besides look.
 
 ## Resonance
 
@@ -70,6 +71,7 @@ notices:
 -   **Captain Etrea's** name and ability is a reference to Captain America.
 -   **Battle Tendency's** name and description is likely a reference to the second season of _Jojo's Bizarre Adventure._
 -   **Boom, Headshot** is a reference to a line in [Meet the Sniper](https://www.youtube.com/watch?v=9NZDwZbyDus) from the game _Team Fortress 2_, where [said Sniper](https://wiki.teamfortress.com/wiki/Sniper) said the iconic line.
+-   (Or this [https://youtu.be/5\_Xdi4T8mgI](https://youtu.be/5_Xdi4T8mgI))
 -   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** can be a reference to [Armament Haki](https://onepiece.fandom.com/wiki/Haki/Busoshoku_Haki) from _One Piece._ Likewise, **Ardour Scream** can also be a reference to [Conqueror's Haki](https://onepiece.fandom.com/wiki/Haki/Haoshoku_Haki).
@@ -84,6 +86,7 @@ notices:
 -   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer: Kimetsu no Yaiba,_ though it should be noted such a design isn't uncommon in media_._
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 -   The **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
+-   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
 
 ## World
 

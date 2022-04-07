@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 27391
+revid: 27407
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -408,7 +408,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Hell's Partisan \[Generic Talent, Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity, +1 Elemental Intensity, +3 Health)
     -   Prerequisites: Fire Forge (Flamecharm Mantra)
 -   Warding Radiance \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
-    -   Prerequisite: 25 Agility & Hell's Partisan
+    -   Prerequisite: 20 Agility & Hell's Partisan (Tested)
 
 ### Flamecharmer
 

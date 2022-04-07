@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27395
+revid: 27410
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -58,20 +58,22 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On hit, the Umbral Knight will perform a slash dealing 20% of the M1's original damage. Apparently the slash is able to be parried, blocked and dodged. The downside is that hitting a non-human-type creature (example a lionfish), you will receive the slash damage done to yourself.</p></div></td>
+  <td><div><p>On hit, the Umbral Knight will perform a slash dealing 20% of the M1's original damage.<br>
+  Hitting non humanoid entities deals the slash to the user.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and attacks remove blood. Missing an M1 deals 2% damage to the user.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and attacks remove more blood. Missing an M1 deals 2% damage to the user.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Your health bar is permanently stained, meaning that you are permanently 1 life no matter with if you have the curse equipped, you can only get 2 lives if you get another weapon. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped in The Depths.<br>
+  <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped in The Depths.<br>
   <b>This enchant is disabled in Arena</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Curseofyunshul1.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>On proc (mantra included), has a chance to deal 3x damage. Has a chance to apply this to yourself.</p></div></td>
+  <td><div><p>On proc (mantra included), deal 3x damage (recently nerfed, new value unknown) to the target.<br>
+  On proc when hit, incoming attacks deal 3x damage.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -90,13 +92,13 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light). The charged hit will be a guaranteed detonation. If your opponent's health is low enough, they will get executed by the explosion. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
-  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it- so some may say that it scales with Flamecharm.</p>
+  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -330,6 +332,6 @@ Displacement
 
  | 
 
-On proc, grant a speed boost and hyperarmor. (this enchant has been removed)
+On proc, grant a speed boost and hyperarmor.
 
  |

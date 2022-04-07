@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27337
+revid: 27404
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -107,7 +107,7 @@ Upon getting knocked with max Progress:
 
 -   You'll be revived and healed to 100%, as well as the person who knocked you if its a player.
 -   Your Blood, Thirst and Hunger are maxed out.
--   A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).
+-   ~A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).~ (Removed)
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
 -   A hand of 3 cards will be dealt. One of these cards will become your Resonance.
 

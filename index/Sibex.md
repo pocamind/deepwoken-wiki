@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 27358
+revid: 27406
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -83,7 +83,7 @@ You: What should I do?
 
 Sibex:**(If you have +PVP Arena Gain)** Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the **Depths** is known to draw out song within all of us...
 
-Sibex:**(If you have +DEPTHS MOB Gain)** Ah... an Inquisitive Soul Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...
+Sibex:**(If you have +DEPTHS MOB Gain)** Ah... an Inquisitive Soul... Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...
 
 Sibex:**(If you have +BOSS Gain)** Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the **Depths** is known to draw out the song within all of us...
 
