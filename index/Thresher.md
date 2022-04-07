@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 27225
+revid: 27383
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -8,15 +8,13 @@ categories: [Monsters, Enemies]
 
 # Thresher
 
-“ Yare yare daze... ”
-
-― Level 50 Ganymede 3 shotting a thresher so he can talk to sibex.
-
-> **"We're f\*\*ked...."** - A gang trying to farm in The Depths, but they run into a Corrupted King Thresher
-
 **Thresher:**
 
 # Thresher
+
+“ SCP-682 HAS BREACHED CONTAI- ”
+
+― Authority soldier before being shaken apart by a Thresher
 
 _Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Lizard names._
 
@@ -60,6 +58,10 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 **King Thresher:**
 
 # King Thresher
+
+“ Come to Mama! ”
+
+― Corrupted King Thresher as it eats the 25th player for the day
 
 _Also known as Big Mom, Big Croc, and many other names_
 

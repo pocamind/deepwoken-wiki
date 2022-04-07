@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 27320
+revid: 27400
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -723,8 +723,9 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Lifeweavers
 
-**Lore Sources:** _Regek (Mentioned)_
+**Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
 
+-   (Arch\_Mage) Lifeweave itself, just like Ironsing, is an Attunement. Lifeweave has healing capabilities; though it's not shown in-game.
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.

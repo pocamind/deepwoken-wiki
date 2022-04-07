@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27378
+revid: 27402
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -72,6 +72,8 @@ Once unlocked you can progress the bell by searching for similar glyphs as the o
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
+All abilities seem to be obtained by helping lower level players escape the depths trial
+
 ### Known Abilities
 
 -   **Mindsoothe - Support Mantra**
@@ -80,12 +82,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Ritual Cast
     -   Clue: _Free the lost souls from their shackles, help them escape into the light._
     -   Obtaining: Complete the Depths trial with another player substantially lower level than you (must be alive).
--   **Sightless Beam -**
-    -   Unknown
-    -   Clue: _???_
--   **Tranquil Circle -**
-    -   AoE that heals teammates.
-    -   Clue: _???_
+-   **Sightless Beam - Combat Mantra**
+    -   Fires a high pressure beam from your eyes. Judging from it's description "Turn insanity against your enemies, incredibly strong against depths creatures" it might also scale off of your insanity and possibly give them to the opponent
+-   **Tranquil Circle - Combat Mantra**
+    -   Disables mantras from being used in it's radius, AoE that heals teammates.
 
   
 **Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celter - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous? (Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)

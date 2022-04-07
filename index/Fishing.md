@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27283
+revid: 27389
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
@@ -47,6 +47,8 @@ Fishing up the Tuna.
 -   Old Boots (Leather boots)
 -   Chests (Very rare, contains depths loot, including deep gems)
 -   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any Fish Can Be Golden And Will Appear Yellow When Caught
+
+A lot of fish (with crow tarsus)
 
 ## Bait
 

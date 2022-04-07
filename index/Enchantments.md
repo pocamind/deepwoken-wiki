@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27263
+revid: 27395
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -61,7 +61,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>On hit, the Umbral Knight will perform a slash dealing 20% of the M1's original damage. Apparently the slash is able to be parried, blocked and dodged. The downside is that hitting a non-human-type creature (example a lionfish), you will receive the slash damage done to yourself.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>M1s deal 10% more damage and attacks remove blood. Missing an M1 deals 2% damage to the user.</p></div></td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Chilling.png<figcaption></figcaption></figure><div>Chilling</div></td>
+  <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div>Chilling</div></td>
   <td><div><p>On proc, freeze the opponent.</p>
   <p><br>
   </p></div></td>

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 27357
+revid: 27401
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -612,7 +612,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>Acheron's Warspear</td>
   <td>40 MED</td>
   <td>18</td>
-  <td>20%</td>
+  <td>15%</td>
   <td>MED: 6</td>
   <td>5</td>
   <td>9</td>

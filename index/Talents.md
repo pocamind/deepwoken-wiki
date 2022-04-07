@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 27334
+revid: 27391
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -702,7 +702,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 -   Bulldozer \[Generic Talent, Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
     -   Prerequisite: 25 strength
 -   Treefelling Blow \[Generic Talent, Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
-    -   Prerequisite: Unknown amount of strength. (DOES NOT REQUIRE A STRENGTH MANTRA.)
+    -   Prerequisite: Unknown amount of strength. (Requires Strong Left - Strength Mantra.)
 -   Unwavering Resolve \[Generic Talent, Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)
 -   Shield Breaker \[Generic Talent, Common Talent\] - Blunt damage now deals full posture damage to shields. (+1 Posture, +4 Carry Load)
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
@@ -966,8 +966,8 @@ These Talents are designed to make you more effective in water.
     -   Prerequisite: 25 Strength & greatsword equipped.
 
 -   Boom, Headshot \[Generic Talent, Common Talent\] - \[Guns\] When you flourish an enemy much weaker than you, you kill them instantly.
--   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
-    -   Prerequisite: 40 Strength.
+-   Showstopper \[Legendary Talent\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. (+2 Health)
+    -   Prerequisite: 40 Strength
 
 ### Whisper
 
@@ -994,7 +994,7 @@ These Talents are designed to make you more effective in water.
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
     -   Prerequisites: 35 Fortitude
--   Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)
+-   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is cut in half, but your incoming mantra damage is cut in half too. (+10 Health)
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables both you and your opponent's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.
     -   Prerequisites: Shadow Chains
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
