@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 26888
+revid: 27359
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -56,9 +56,9 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 -   Reach 75 Fortitude.
 
--   Talk to Brutus, this will result in Brutus damaging you until your at 1 HP granting you Fortitude Unbound card.
+-   Talk to Brutus, this will result in Brutus damaging you until you are knocked granting you Fortitude Unbound card. (As a result, you can be easily gripped, best to come with a companion)
 
--   For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAbOxNk) by TheRealPunchee.
+-   For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAbOxNk).
 
 ## Loot Table
 

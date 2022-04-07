@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 27204
+revid: 27379
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -49,7 +49,6 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 -   Entering Castle Light
 -   Partaking in The Vow of Mastery, which means removing your vows and/or your vow owner.
--   Obtaining a Resonance.
 
 This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to trade your soul to upgrade one of your mantras beyond the max level. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
 

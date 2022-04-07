@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 26972
+revid: 27370
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,22 +23,21 @@ This means you have to hit the mob first if you want them to aggro on you.
 -   [Megalodaunts](Megalodaunt.md)
 -   [Brainsuckers](Brainsucker.md)
 -   [Lionfish](Lionfish.md)
--   [Crustaceous Rexes](Crustaceous_Rex.md) (Crabbo)
+-   [Crustaceous Rex](Crustaceous_Rex.md)
 -   [Deep Owls](Deep_Owl.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Threshers](Thresher.md)
--   [Ministry Scouts](Ministry_Scout.md)
+-   [Ministry Scouts](Ministry_Scout.md) (bug)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Enforcer](Enforcer.md)
 -   [Nautilodaunt](Nautilodaunt.md)
+-   [Stone Knights](Stone_Knight.md)
 
 ### Hostile Mobs:
 
--   [Stone Knights](Stone_Knight.md)
--   [Erisia Golems](Rock_Golem.md)
-
-  
+-   [Erisia Golems](Rock_Golem.md)  
+    
 
 ## Notes/Trivia
 
-Despite being named officially, Mute is a **most likely a bug and/or random ,** with **NO KNOWN GURANTEED WAY TO OBTAIN IT.**
+-   Obtained randomly by wiping

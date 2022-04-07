@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 26955
+revid: 27358
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -8,7 +8,7 @@ categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
 
 # Sibex
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and has ~Hive Leaders Garment armor,~ got changed to a different unconfirmed armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and wears a white unconfirmed armor. A member of the Authority gone missing on duty, he has a gale wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble clown music.
 
 Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isles, the 3rd one has a big cliff right next to it on the right when facing the statue.
 
@@ -75,7 +75,7 @@ Sibex:**(You have already obtained your bell. (If you get this dialogue without 
 
 Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 
-Sibex:**(Unknown, ~Received after getting a bell~, Sibex says you're quite a way off, maybe when ArchMage steal your soul)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
+Sibex:**(Unknown, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 
   
 
@@ -93,3 +93,4 @@ Sibex:**(If you have +BOSS Gain)** Ah... I can hear your soul drawing back, lini
     -   He's been described as missing on duty, the Authority appears to have lost him.
 -   Sibex will not take your thresher spine, you just need it to talk to him.
 -   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely available for you if you get any of these dialogues.
+-   He used to wear Hive Leader Garment armor, this was changed for an unknown reason.

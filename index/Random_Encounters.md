@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 26891
+revid: 27361
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -46,11 +46,9 @@ In Etris or Vigils, 2 bandits can spawn in front of the guards near their respec
 
 #### **Summer Bandit Raid**
 
-Groups of bandits engage the guards of [Summer Isle](Summer_Isle.md) in various locations. There are three types:
+Groups of bandits engage the guards of [Summer Isle](Summer_Isle.md) in various locations. There are two main types:
 
-Regular bandit raid: Three regular bandits
-
-Bandit captain raid: One bandit captain and two regular bandits
+Regular bandit raid: Three bandits, the type of bandits is random, can range from 3 Bandit Captains to 2 Captains and one regular to just 3 regular bandits.
 
 Greater bandit raid: Seven or so regular bandits
 
@@ -62,33 +60,38 @@ Similar to bandit events, with 3-4 enemies spawning. They wield a dagger. They a
 
 #### **Lost Villagers**
 
-In Upper Erisia, the player can encounter 2 hostage NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
+In Upper Erisia, the player can encounter two villager NPCs in [Stranded](Stranded.md) clothes. You will need to bring these NPCs to the [Royal Pathfinder](Alastir.md) at the [Pathfinder's Respite](<Pathfinder's_Respite.md>). After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards their purpose.
+
+#### **Raid on Erisor's Church**
+
+A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger.
 
 #### **Mudskipper Emergence**
 
-An encounter limited to [Erisia](Erisia.md). A group of special Mudskippers will emerge from the ground, some of them with the ability to blow gust of winds that greatly push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. This encounter is made up of 3 waves.
+An encounter limited to [Erisia](Erisia.md). A group of special Mudskippers will emerge from the ground, some of them with the ability to blow gust of winds that push the target back slightly, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves.
 
 #### **Mudskipper-Mancer**
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon 3 Mudskippers, consisting of 2 that can use Flamecharm and 1 that can use Frostdraw.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon three Mudskippers, consisting of two that can use Flamecharm and one that can use Frostdraw, though the Frostdraw Mudskipper is bugged and cannot use it.
 
-**Weapons:**
+**Weapons:** Ben's knife, Shadowcast, Necroskippers
 
 #### **Songseeker**
 
-In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight. They will be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of three elements, [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), or [Thundercall](Songseeker_Thundercaller.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
 **Weapons:** Fists, random attunement from the above three
 
 #### **_X_ vs _X_**
 
-Groups of NPCs from different factions will spawn and attack each other. Helping a side will reward you with their respective reputation. Some of these events may include but are not limited to:
+Groups of NPCs from different factions will spawn and attack each other. Helping a side will usually reward you with their respective reputation, though it may be bugged. Some of these events may include but are not limited to:
 
--   Etrea vs The Central Authority (Erisia)
+-   Etrean Footsoldiers vs The Central Authority (Erisia)
+-   Etrean Sailors vs The Central Authority (Upper Erisia)
 -   The Hundredth Legion vs The Central Authority (Upper Erisia)
 -   The Summer Company vs The Ignition Union (Summer Isle)
 -   Children of Navae vs The Ministry File:Eylisiconfactoin.png (Summer Isle)
--   Etrea vs Knives of Eylis (The Aratel Sea)
+-   Etrean Sailors vs Knives of Eylis (The Aratel Sea)
 -   Etrea vs Hive (Starswept Valley)
 -   Legion Captain/Centurion vs Authority Commander (Starswept Valley)
 -   Hive Construct vs Authority Commander (Starswept Valley)
@@ -125,11 +128,17 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 #### Feasting Megalodaunt
 
-A Megalodaunt feasting on the corpse of a Vesperian Whaler, found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns.
+A Megalodaunt feasting on the corpse of a Vesperian Authority Footsoldier, found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three(?) locations they can be found at:
+
+One in the Tower Struck lands
+
+One near the teleporter to The Duke's Manor, on a ledge over a body of water
+
+One in the Hidden Village
 
 #### **Divers vs Monster**
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
 
 ## Unique Events
 

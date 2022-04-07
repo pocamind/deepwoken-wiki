@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27330
+revid: 27375
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,21 +13,25 @@ categories: [Resonance]
 | effect | Prevent the death of the target entity, return them to the user and heal them. |
 | appearance | A white star and a white circle. |
 
-_**"HERO'S NEVER DIE!" - Pre nerf mercy**_
+“ {{{quote}}} ”
+
+― {{{author}}}
+
+  
 
 ## Description
 
 ### _Appearance_
 
-The target of the resonance is represented with a joestar, while the user is represented with a spinning circle on their back.
+The target of the resonance is represented with a star, while the user is represented with a spinning circle on their back.
 
 ## Usage
 
 Pressing C tags the target with a star, be it an NPC or a player (can be allies and non allies) but cannot target the user. While the effect is a active, a white circle is visible on the back of the user. These effects last for 3 seconds.
 
-If the target is knocked while the star is active, they will be brought into the air and returned to the user, restoring 30% HP. (the heal is different per player since i only get 10% heal while some other players get 30%)
+If the target is knocked while the star is active, they will be brought into the air and returned to the user, restoring varying degrees of HP.
 
-If the target is **executed** (common examples include Primadon, Rock/Snow Knights, Soul Jar or Lionfish's beam attack), the ressurection will not trigger.
+If the target is **executed** (common examples include Primadon, Stone Knights, Soul Jar or Lionfish's beam attack), the resurrection will not trigger.
 
 ### _Variants_
 
@@ -35,12 +39,8 @@ It is unknown if **Ressurection** have variants.
 
 #### _Corrupted_
 
-**Corrupted Ressurection** is known but im too lazy, due to some folks saying you could always use it on yourself.
+**Corrupted Ressurection** - Unknown
 
 ## Trivia/Notes
 
-When someone or something is getting resurrected, they cannot be damaged.
-
-Debatably, this is by far one of the worst bells for PvP, as one could just walk away when you see the marker, and hit them when its gone. Although pretty useful and strong in PvE.
-
-This is also a very mysterious bell, with the only information is what it does and how much it heals, but of course, people say otherwise.
+-   When someone or something is getting resurrected, they cannot be damaged.

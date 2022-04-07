@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 26969
+revid: 27373
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -23,7 +23,6 @@ Having Luck allows you to draw Rare and Legendary Talents, which will greatly im
 ## Effects of Luck
 
 -   Luck increases the likelihood of Rare/Legendary Talents (Indicated by their color backgrounds (Red or Green/Teal) and particle effects. Not to be confused with the Oathless card, which is Dark Blue) per [Power Level](Leveling.md) Increase. The chance of obtaining a Rare talent directly scales to your current luck value, and Legendary talent odds are also affected by it aswell, although it is unknown how the chances scale in comparison to the amount of luck you had at the time of drawing.
--   Note that Luck does not affect **all** Mantra drawing (e.g _Lighting Clock_ is a legendary mantra). 1/2/3 stars mantras are locked behind Attunement requirements and share the same odds between each other to be drawn.
 
 ## Obtaining Luck
 
@@ -89,8 +88,9 @@ There is a rare chance to catch a golden fish/seaweed which rewards the player w
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   If you second wind after wiping, your luck stat will persist (Not very helpful as people rarely second wind but worth mentioning)
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
-    -   After the new update, you can rarely get luck from any mob, meaning that as any level, since you can even get luck from the common bandit ~there is still **no reason** to grip anyone for luck, again unless you are just _that toxic_, or are acting in self defence.~ The luck drops from common mobs are extremely rare, as are most other methods of obtaining it early game such as [Artifacts](Artifacts.md). It is recommended that you hunt players and play arena early-mid game for luck, before moving on to bosses later on.
+    -   After newer updates, you can rarely get luck from any mob, from fishing or just from Arena, meaning that as any level, since you can even get luck from the common bandit there is still **no reason** to grip anyone for luck, again unless you are just _that toxic_, or are acting in self defence.
 -   Luck does **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
 -   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop chests with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck. Doing the Trial of One is also a great choice for getting luck at the very start of your progression.
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
+-   Contrary to popular belief, it does not boost your chances of getting Legendary Mantras, such as Lightning Cloak or Ice Fissure
 -   The luck indicator is seen at the bottom right of the screen above notes.

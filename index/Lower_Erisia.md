@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 27007
+revid: 27365
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -32,8 +32,11 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 
 -   Bandit's Village
     -   A small village settled by [Bandit Captains](Bandit_Leader.md).
+    -   Has a free Pickaxe (it's not theft if you're stealing from thieves).
+    -   Has a permanent campfire.
+    -   A spider egg can spawn on the house nearest the campfire.
 -   Ruins Camp
-    -   A small camp between the entrance and the Bandit village.
+    -   A small camp between the entrance and the Bandit village, acts as a point for Bandit Camp events to take place and has a permanent campfire.
 
 ## Potential Enemies
 
@@ -42,6 +45,8 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Bandit Captain](Bandit_Leader.md)
 -   [Bandit Assassin](Thief.md)
 -   Etrean Footsoldier
+-   Etrean Sailor
+-   [Legion Captain](Legion_Captain.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
 
@@ -53,7 +58,9 @@ Events that spawn in Lower Erisia that involve combat. For more info, see [Rando
 -   Bandit Ambush
 -   Bandit Attack
 -   Mudskipper Emergence
--   Etrea vs The Central Authority
+-   Etrean Footsoldiers vs The Central Authority
+-   Etrean Sailors vs The Central Authority (Limited to Pathfinder's Respite)
+-   The Hundredth Legion vs The Central Authority (Limited to Pathfinder's Respite)
 
 ## Events
 

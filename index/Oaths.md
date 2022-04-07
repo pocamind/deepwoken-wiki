@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27354
+revid: 27378
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -10,7 +10,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 30+ |
+| oath_req | Power 25-30+ |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -37,7 +37,7 @@ There are currently only three Oaths in _Deepwoken_. More are planned to be adde
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-**Oath: Oathless** requires [Power Level](Power.md) 30 to obtain in card rolls.
+**Oath: Oathless** requires [Power Level](Power.md) 25-30+ to obtain in card rolls.
 
 ### Obtaining
 
@@ -63,8 +63,8 @@ Obtaining Blindseer is harder than Oathless(minus the entire not having a level 
 
 1.  Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 2.  Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
-3.  Climb above the temple doors and proceed inside the temple.
-    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lower Angel](Hollow_Angel.md) if they catch sight of you.
+3.  Climb above the temple doors or go through them if they are open and proceed inside the temple.
+    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you.
 4.  Once inside the temple, proceed through a passage on the left.
 5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer._
 
@@ -80,15 +80,15 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Ritual Cast
     -   Clue: _Free the lost souls from their shackles, help them escape into the light._
     -   Obtaining: Complete the Depths trial with another player substantially lower level than you (must be alive).
--   **Anti-Magic Field (Name Unknown)**
-    -   Casts a field similar to sacred field but all mantras are unusuable within it.
+-   **Sightless Beam -**
+    -   Unknown
     -   Clue: _???_
--   **Group Heal (Name Unknown)**
+-   **Tranquil Circle -**
     -   AoE that heals teammates.
     -   Clue: _???_
 
   
-**Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celter - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
+**Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celter - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous? (Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)
 
   
 
@@ -106,7 +106,7 @@ You can also get a face item that acts like a blindfold by going to the smelter 
 
 _"You vow to only see that which you wish to see. Reality itself is malleable. Pliable to your deft hands."_
 
-**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is one of the Oaths with its own Mantras, together with Blindseer as of 4/05/2022.
+**Oath: Visionshaper** is an Oath that requires the player to have 50 [charisma](Attributes.md), and 10 [willpower](Attributes.md), have finished the [Aelita](Aelita.md) quest once, and one Void Feather, dropped by [Deep Owls](Deep_Owl.md). This Oath is one of the Oaths with its own Mantras, together with Blindseer.
 
 Corrupted Deep Owls now drop a guaranteed Void Feather.
 
@@ -162,7 +162,7 @@ This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten E
 
 The oath change the eye color of the user to purple and make a purple particle effect emanate from their right eye.
 
-[Vesperians](Vesperian.md) do not get a special cosmetic, in contrast to how blindseer gives vesperians a special mask.
+Does not grant any special cosmetic based on race.
 
 ### Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 27289
+revid: 27364
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -13,9 +13,9 @@ categories: [Pages with broken file links]
 | effect | Jumps up, back, and fires arrows. |
 | appearance | White bow that appears in front of the user. |
 
-“ IS THAT TELORUM ROUGE LINEAGE?!?!1 ”
+“ Conjure a mythical bow that hails down crystallized arrows ”
 
-― A traumatized freshie being ganged for the 100th time that day
+― Shard Bow description
 
 ## Description
 
