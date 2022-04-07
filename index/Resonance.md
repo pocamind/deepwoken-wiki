@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27404
+revid: 27430
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -28,13 +28,15 @@ Resonances of any category are susceptible to Variants. Resonance Variants are v
 
 Corrupted Resonances give substantial buffs accordingly to their purpose, such as Resonances that deal damage becoming stronger, or mobility Resonances going further. They are just a generally immense boost in power, having both broad buffs that effect all Corrupted Resonance, and also unique buffs that enrich the specific Resonance's purpose.
 
-However, similarly to [Corrupted Items](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage. These downsides do not seem to be correlated with the effect or type of the Resonance at all, and are mostly just a minor annoyance, as some Resonance effects straight up invalidate the downside altogether.
+However, similarly to [Corrupted Items](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
 
-Known debuffs include:
+Known downsides include:
 
 -   On use, player will be set on fire.
 -   On use, player will gain insanity.
 -   On use, player will have a set amount of their health taken.
+
+These downsides do not appear to be correlated to any Resonances, meaning any Resonance can get any downside, and are very minor in effect. At most, the health one deals like 20%. Ironically, many Resonance effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances.
 
 All Corrupted Resonance effects are listed in their corresponding Resonance page.
 
@@ -44,7 +46,7 @@ All Corrupted Resonance effects are listed in their corresponding Resonance page
 
 ### Tarnished Resonances
 
-**Tarnished Resonances** are yet another version of Resonances. Unlike the other variants, obtaining, and getting rid of a Tarnished Resonance is totally in the player's hands. Upon rerolling a Resonance (see the 'Rerolling a Resonance' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Tarnished Resonances act like a sort of reverse Corrupted Resonance, having a general debuff, but also a specific debuff depending on what Resonance got tarnished. In general, Tarnished Resonances have longer cooldowns, longer windup, and just weaker effects.
+**Tarnished Resonances** are yet another sub/category of Resonances. Unlike the other variants, obtaining, and getting rid of a Tarnished Resonance is totally in the player's hands. Upon rerolling a Resonance (see the 'Rerolling a Resonance' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Tarnished Resonances act like a sort of reverse Corrupted Resonance, having a general debuff, but also a specific debuff depending on what Resonance got tarnished. In general, Tarnished Resonances have longer cooldowns, longer windup, and just weaker effects.
 
 All Tarnished Resonance effects are listed in their corresponding Resonance page.
 
@@ -56,9 +58,21 @@ File:Tarnish removal.png
 
 Yamaketzal, Chimes of Conflict giver AND Tarnished Remover.
 
+### Resonance Variants Summary
+
+Resonances are obtained as **Common** or, much more rarely, **Legendary,** with **Common** Resonances being basic and numerous and **Legendary** Resonances being more unique and rare. **Legendary Resonances are NOT just stronger versions of Common ones. They are completely different abilities.**
+
+Resonances of both types are able to have **Variants,** which are sidegrades that change how a Resonance executes its function, but still has the same function.
+
+There is a very small chance that both types and their **Variants** can also become **Corrupted,** increasing their effect and strength, but adding a downside.
+
+There is a very small chance that they can also become **Corrupted,** increasing their effect and strength, but adding a downside.
+
+Finally, if you reroll (see below) your Resonance, the next one you get will become **Tarnished,** making the Resonance weaker, and acting like a opposite of, but still being able to overlap with **Corrupted**.  
+
 ## Obtainment Process
 
-### Finding the Nature of you Soul & Progress
+### Finding the Nature of your Soul & Progress
 
 The main factor in obtaining a Resonance is known as Progress. There is no specific tried-in-true method to obtaining Progress, and this by design. A route that would work for one player, might fail horribly for another, or be even more effective for someone else. However, some methods of obtaining Progress are more effective on some players than other, and it IS possible to figure out which is most effective for your character. By talking to [Sibex](Sibex.md), a unique NPC, he will inspect your Soul, and tell you what is your most efficient way to obtain Progress, and then when you are ready, tell you when you are able to obtain your Resonance.
 
@@ -82,13 +96,12 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md) (Not recommended)
--   [Nautilodaunt](Nautilodaunt.md)
 -   [The Duke](Duke_Ishamon_Erisia.md)
 -   [The Enforcer](Enforcer.md)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
- | Go to [The Depths](The_Depths.md), and kill Players & Corrupted Monsters. | Fight and kill Players. Doing so with the [Chime of Conflict](Chime_of_Conflict.md) will reward even more. |
+ | Go to [The Depths](The_Depths.md), and kill Players, [Nautilodaunt](Nautilodaunt.md) & Corrupted Monsters. | Fight and kill Players. Doing so with the [Chime of Conflict](Chime_of_Conflict.md) will reward even more. |
 
 Two VERY important things to note:
 
@@ -107,7 +120,6 @@ Upon getting knocked with max Progress:
 
 -   You'll be revived and healed to 100%, as well as the person who knocked you if its a player.
 -   Your Blood, Thirst and Hunger are maxed out.
--   ~A visual aura will emit around you, depending on your type of Resonance (White for Normal, blue for Corrupted, Yellow for Legendary).~ (Removed)
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
 -   A hand of 3 cards will be dealt. One of these cards will become your Resonance.
 
@@ -137,9 +149,10 @@ Resonances are universally represented as an item attached on your waist. This i
     
     Arch Mage confirming both talent cards do not affect resonance progression.
     
--   Resonances were once presumed to have level, luck, and time requirements, but all these were eventually debunked, and now with knowledge of the real requirements, these were all byproducts of getting Progress.
+-   Resonances were once presumed to have level, luck, and time in The Depths requirements, but all these were eventually debunked. With hindsight of the real requirements, these were all TECHNICALLY true, being byproducts of getting Progress.
+-   The most popular, now debunked, method involved staying in The Depths for seven hours straight. While being comically wrong, it set the groundwork for people to discover the truth.
 -   **Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you.**
--   It was previously believed that you have to spend 7 hours in The [Depths](The_Depths.md) to obtain a Resonance.
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
 -   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the song!" and you don't have a bell, DO NOT try to go and bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
+-   Before Resonances had Cards, the only way to know what type your Resonance was from a circular aura that occured when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.

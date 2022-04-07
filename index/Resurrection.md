@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27403
+revid: 27427
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,10 +35,10 @@ If the target is **executed** (common examples include Primadon, Stone Knights, 
 
 ### _Variants_
 
-Resurrection have 2 variants, with a common varying factor being the amount of HP restored.
+Resurrection has 2 variants, with a common varying factor being the amount of HP restored.
 
--   Variant 1 resurrect the target at the location of their death.
--   Variant 2 resurrect the target and bring them to the user.
+-   Variant 1 resurrects the target at the location of their death.
+-   Variant 2 resurrects the target and bring them to the user.
 
 #### _Corrupted_
 

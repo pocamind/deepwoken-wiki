@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 27214
+revid: 27423
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -8,7 +8,7 @@ categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
 
 # Monsters
 
-_This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md)_
+_This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
 
 **Monsters** in _Deepwoken_ are hostile NPCs that will attack the player but are different from human enemies.
 

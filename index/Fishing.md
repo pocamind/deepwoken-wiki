@@ -1,12 +1,18 @@
 ---
 title: Fishing
-revid: 27389
+revid: 27444
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
 ---
 
 # Fishing
+
+“ WOAH A PRIMADON! ”
+
+― Enrique Eshet tryna to be funny
+
+  
 
 ## How to Fish
 
@@ -16,45 +22,43 @@ To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, 
 
 The next step to fishing is cast out your Fishing Rod at an area with alot of fish, such as Docks. Soon you will get a bite, and when you get a bite your character will be leaning in a certain direction. it can lean backwards, leftwards and rightwards. you must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this start clicking, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
-although this is kinda useless and very boring
+Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually neglible.
 
-Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as Fruit and Fish Meat. Bait is assumed to make fish more attracted to your fishing rod, and possibly give you better rewards but this is unknown.
+Fishing levels your willpower, fortitude and intelligence.
 
-Fishing levels your willpower, fortitude and possibly intelligence? Though that might just be because you're getting new items.
+After catching a fish you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line, but is dependant on RNG.
 
-After catching a fish 15 times, you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line.
-
-There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. (i didnt have to successfully catch a fish to get this, just a couple failed attempts. -rexcks#5029)
+There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. However this cuts you off from getting seaweed, which makes you unable to craft sushi. (Brilliant game design)
 
 ## Loot From Fishing
 
 You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
-File:Tuna.png
+File:Tuan.png
 
 Fishing up the Tuna.
 
 -   Sea Bass (1 Fish Meat)
 -   Red Snapper (2 Fish Meat)
 -   Tuna (3 Fish Meat)
+-   Swordfish (5 Fish Meat)
 -   Squid (1 Squid)
 -   Urchin (1 Urchin)
--   Swordfish (5 Fish Meat)
 -   Pufferfish (1 Chum)
 -   Seaweed (1 Seaweed)
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
--   Chests (Very rare, contains depths loot, including deep gems)
--   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any Fish Can Be Golden And Will Appear Yellow When Caught
+-   Chests (Very rare, contains depths loot, including deep gems and enchants)
+-   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish can be golden and will appear yellow when caught
 
 A lot of fish (with crow tarsus)
 
 ## Bait
 
-A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. I'm also bad. (Decadunce#1839 rules this fishing page, though i'd love it if someone could clean up this page and compile the data for me, I spent a good few hours on it) This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
+A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
 
-Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast i get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
+Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
 -   Plumfruit. Effects: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch, or maybe I'm just bad. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
 
@@ -83,7 +87,6 @@ If you want to add more, feel free. I'm done for the time being.
 ## Notes/Trivia
 
 -   Some spots wont let you fish.
--   Also, the shores of Etris tend to be good for fishing, as I have appeared to get fish much faster than in the Aratel sea.
--   Surprisingly, void sea is also good for fishing, I was fishing somewhere on the edge of Greathive Aratel shipyard and was getting alot of good fish (although had to fight lionfishes). And if you get to see Kaido you can have time to run up or run back to the shipyard.
+-   How good certain locations seem for fishing is purely RNG, some people will get lucky, some will not.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
 -   Always good to have a fishing rod on you, fishing is a good way to get food if you're ever in a pinch.

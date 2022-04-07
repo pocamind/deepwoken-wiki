@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 27411
+revid: 27415
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -62,7 +62,8 @@ notices:
 -   **Dimensional Travel** is a reference to [Obito's](https://naruto.fandom.com/wiki/Obito_Uchiha#Abilities) [Kamui](https://naruto.fandom.com/wiki/Kamui) from the anime _Naruto._
 -   **Payback** is a reference to [Meliodas'](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas) [Full Counter](https://nanatsu-no-taizai.fandom.com/wiki/Full_Counter) from the anime _Seven Deadly Sins._
 -   **Portals** is a reference to [Yoru's](https://playvalorant.com/en-us/agents/yoru/) ultimate from _Valorant._
--   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto._
+-   **Teleportation** is a reference to [Minato's](https://naruto.fandom.com/wiki/Minato_Namikaze) Flying Raijin from _Naruto_
+    -   Could also possibly be a reference to the [Accompany Card](<https://hunterxhunter.fandom.com/wiki/Accompany_(G.I_card)>) from the _Hunter X Hunter_ Greed Island Arc.
 -   The **Shard Bow** can be a possible reference to the [Grandbows](https://stormlightarchive.fandom.com/wiki/Grandbow) from _The Stormlight Archives._
     -   It is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
 
@@ -99,7 +100,7 @@ notices:
 
 -   Among one of the cliffs, a pineapple can be found. This is a reference to [Spongebob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
 -   The Depths itself is a possible reference to two series, _Made In Abyss_ and _Salt and Sanctuary_.
-    -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws from the anime _Made In Abyss_.
+    -   The idea of an area that goes deeper and deeper under the surface with valuable loot but many monsters and downsides for staying down there draws heavily from the anime _Made In Abyss_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._
 
 ### **Races**

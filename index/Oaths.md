@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27402
+revid: 27413
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -16,7 +16,7 @@ categories: [Oaths, Character, Talents]
 | Oath: Blindseer | |
 |---|---|
 | oath_req | Willpower 405 Mental Fortress Talents |
-| effects | +1 Support Mantra, +1 Wildcard Mantra, +3 Health, +10 Sanity |
+| effects | +1 Support Mantra, +1 Wildcard Mantra, +1 Combat Mantra, +3 Health, +10 Sanity |
 
 | Oath: Visionshaper | |
 |---|---|
@@ -68,33 +68,36 @@ Obtaining Blindseer is harder than Oathless(minus the entire not having a level 
 4.  Once inside the temple, proceed through a passage on the left.
 5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer._
 
-Once unlocked you can progress the bell by searching for similar glyphs as the ones used to obtained the oath in other locations. _(Current known locations include: [Summer Isle](Summer_Isle.md) in the colosseum-looking structure, and the [Lightkeeper Temple](Lightkeeper_Temple.md) in the room with the King Thresher.)_
-
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
 
-All abilities seem to be obtained by helping lower level players escape the depths trial
+Once unlocked you can progress the bell by reading the glyphs at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
+
+After reading the glyphs, you can unlock the abilities by helping lower level players escape the depths trial. Each complete Depths trial saving another player substantially lower level than you, while being kept alive, will gain you Blindseer progress.
 
 ### Known Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Resets all insanity (or a part of it?) of nearby players to 0, and in turn gives you the insanity that they once had.
-    -   Heals nearby players in exchange for your own health. (im not sure how much health it heals, or if it can heal multiple people.)
-    -   Ritual Cast
+    -   Resets the insanity of nearby players, and in turn gives you the insanity that they once had.
+    -   Heals nearby players in exchange for your own health, evens out the HP between you and the players you are trying to heal
+    -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Clue: _Free the lost souls from their shackles, help them escape into the light._
-    -   Obtaining: Complete the Depths trial with another player substantially lower level than you (must be alive).
+    -   Obtaining: 1st Completion of Depths trial with another player substantially lower level than you (must be alive).
 -   **Sightless Beam - Combat Mantra**
-    -   Fires a high pressure beam from your eyes. Judging from it's description "Turn insanity against your enemies, incredibly strong against depths creatures" it might also scale off of your insanity and possibly give them to the opponent
+    -   Fires a high pressure beam from your eyes. Judging from it's description "Turn insanity against your enemies, incredibly strong against depths creatures" it might also scale off of your insanity and possibly give them to the opponent.
+    -   Very useful against depths creatures, and does a lot of damage _(The full beam did 2 bars to my friend who had 350 hp (64% left)_
+    -   Obtaining: 5th? Completion of Depths trial with another player substantially lower level than you (must be alive).
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in it's radius, AoE that heals teammates.
+    -   About the size of a medium Sacred field roll
+    -   Obtaining: 10th? Completion of Depths trial with another player substantially lower level than you (must be alive).
 
   
-**Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celter - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous? (Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)
 
-  
+**Other Clues :** (Lightkeeper Temple's engraved message) It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous? (Possibly something to do with the Lord Regent, as he is a Lord who acts as the King in a time of need, but with mysterious origins and an Authortarian rule)
 
 ### Effects
 
-This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
+This Oath grants the player one Support Mantra Card slot, one Combat Mantra slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras.
 
