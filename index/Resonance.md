@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27430
+revid: 27475
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -76,7 +76,7 @@ Finally, if you reroll (see below) your Resonance, the next one you get will bec
 
 The main factor in obtaining a Resonance is known as Progress. There is no specific tried-in-true method to obtaining Progress, and this by design. A route that would work for one player, might fail horribly for another, or be even more effective for someone else. However, some methods of obtaining Progress are more effective on some players than other, and it IS possible to figure out which is most effective for your character. By talking to [Sibex](Sibex.md), a unique NPC, he will inspect your Soul, and tell you what is your most efficient way to obtain Progress, and then when you are ready, tell you when you are able to obtain your Resonance.
 
-| **What he says to you** |
+| **What he says to you:** |
 | --- |
 | 
 **Exhibit A**
@@ -91,49 +91,69 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 
  |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." |
-| **What you should do** |
+| **What to do:** |
 | Fight and kill [Boss](Bosses.md) Monsters, including:
 
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md) (Not recommended)
--   [The Duke](Duke_Ishamon_Erisia.md)
--   [The Enforcer](Enforcer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Most Recommended)
+-   [Dread Serpent](Dread_Serpent.md) (Sorta recomemnded)
+-   [The Duke](Duke_Ishamon_Erisia.md) (Sorta recommended)
+-   [The Enforcer](Enforcer.md) (Not recommended)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
- | Go to [The Depths](The_Depths.md), and kill Players, [Nautilodaunt](Nautilodaunt.md) & Corrupted Monsters. | Fight and kill Players. Doing so with the [Chime of Conflict](Chime_of_Conflict.md) will reward even more. |
+ | Go to [The Depths](The_Depths.md) and kill Players, Monsters unique to the depths (such as [Nautilodaunt](Nautilodaunt.md)), and Corrupted Monsters. | Fight and kill Players. |
+| **Extra/Important information:** |
+| Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
 
-Two VERY important things to note:
+-   **Primadon** is generally regarded as the best overall, have the highest Progress reward, having an incredibly reliable and easy way to summon, and not being in The Depths or some specific season. His only con is that he has been slowly becoming harder across the updates.
+-   **Dread Serpent** has second highest Progress reward, but is INCREDIBLY hard to find.
+-   **The Duke** gives a good amount of Progress, and is reliable to summon, but has an annoying and somewhat dangerous fight.
+-   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
+-   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal.
+-   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
+-   Other "boss" type monsters such as Deep Widows and Nautilodaunt are not known to give Progress, so best bet is to not do them.
 
--   Progress follows the same rules as Luck. If something wouldn't give you Luck, it wouldn't give you Progress either (so you can't just kill Freshies for example).
--   You can get Progress via ANY of the three ways, its just the one that Sibex tells you will reward the most.
+ | Basically, killing anything in The Depths (that aren't non-corrupted Overworld monsters) will reward Progress.
 
-### Obtaining The Resonance
+  
+Keep in mind though, Progress rules when it comes to other players are similar to Luck, in that they wont give ANYTHING if they're too weak compared to you. Target in your own level range, or above.
 
-Talk to Sibex until he tells you these lines:
+ | An important word is FIGHT. You cannot just have someone drop or weaken what you need to kill and then kill it for boosting purposes (unlike the other two), you need to FIGHT them and then kill them.
+
+  
+Similarly to the previous Nature, Progress rules when it comes to other players are similar to luck, in that they wont give ANYTHING if they're too weak compared to you. Target in your own level range, or above. Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md), which will give better rewards than in the Overworld.
+
+ |
+| Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you. |
+
+### Obtaining Your Resonance
+
+Talk to Sibex until he tells you this lines:
 
 -   **Sibex:** "Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo. "
 
-**Note:** This does not guarantee that you are ready to get your Resonance, it's just a very likely indicator that you're close.
+**Note: This does not guarantee that you are ready to get your Resonance, it's just a very likely indicator that you're close.**
 
-Upon getting knocked with max Progress:
+Once going to The Depths with max Progress:
 
--   You'll be revived and healed to 100%, as well as the person who knocked you if its a player.
+-   You'll be revived and healed to 100%. If you were knocked by a player, they will be healed to 100% aswell.
 -   Your Blood, Thirst and Hunger are maxed out.
 -   A bell choir, similar to the one played by the door opening in City of the Drowned will play.
--   A hand of 3 cards will be dealt. One of these cards will become your Resonance.
+-   A hand of 3 cards will be dealt, with each card giving the name, rarity, and a brief description of the Resonance, but it does NOT tell you the Variation. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
 
-Once obtained, using C will activate your Resonance. **RED CARDS MEAN THE RESONANCE IS CORRUPTED.**
+Once obtained, using C will activate your Resonance.
 
 File:Image of Card Selection.png
 
-## Re-rolling
+## Rerolling & Resonance Doors
 
-Around [The Depths](The_Depths.md), Resonance doors can be found. These doors require Resonances to open, and within their room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which being the ability to reroll your Resonance to gain the choice of 3 random resonances.
+Around [The Depths](The_Depths.md) and Overworld, Resonance Doors can be found. Resonance Doors are greyish doors with a white sphere in their center, that require a Resonance to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-Players are given the option to re-roll their Resonance with wishes if they desire.
+A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of three cards, as if you have just obtained one.
 
-Re-rolling your Resonance**,** however, inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md). This can severely downgrade your resonance and makes it so you cannot make a wish again. Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. This has no limits.
+This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to remove your flaws. (**Do not do this).**
+
+Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited times, aslong as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
 
 File:Arch says Wishes have cooldowns.png
 

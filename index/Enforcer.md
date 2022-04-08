@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 26595
+revid: 27482
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -42,31 +42,35 @@ able?
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [enemies](Enemies.md). All things considered, it is quite fragile, at 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 50, he would have about 890 health. Still large, but nowhere too big. Do not be deceived by this amount, though. The Enforcer can parry, and it parries **a lot**. A monster capable of parrying is already scary enough, but it can **feint** too, being the only one of two monsters (barring all NPCs with humanoid rigs) being able to do so. Mindless parry trading won't work with it, as it can easily feint and ruin your flow.
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, he is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 50, he would have about 890 health. Still large, but nowhere too big. Additionally, his attacks have much lower damage than one might expect.
+
+Do not be deceived by these stats, though. The Enforcer's true danger lies not from his pure stats, but from his execution (pun intended) of them. He draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy NPC. He can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you THINK you had going. Even though his danger falls off in the far endgame, he can still kill any overconfident high level player.
 
 ### In General
 
--   Don't over-commit on counter attacks, The Enforcer has Hyper-armor
+-   Don't over-commit on counter attacks, The Enforcer has Hyper-armor.
 -   The biggest thing about The Enforcer is the feints, when he does this, **HOLD BLOCK.** Even if you unblock, his swings are slow, and you have enough time to react and block again right in time.
 -   Get familiar with The Enforcer. Watch videos, watch guides with it, watch streams, watch AS MUCH as you can about the fight, and what goes down. Fighting it blindly on your first attempt, and let alone on a power 50+ character, will surely lead to death. It's design and role are an intentional part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
--   You shouldn't move away for most of its attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal damage. Make distance if needed, but not too far that he'll use Pull, or too close that he'll use Whirlwind.
+-   You shouldn't move away for most of its attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal unavoidble damage. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely.
 -   While not recommended, beating The Enforcer on a level 50, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.
--   When it uses Whirlwind, do not attempt to challenge it. It will shred your health. Run away and gain space instead.
+-   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead.
 -   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block the attacks.
 -   After every attack you do, immediately hold block. The Enforcer does not have any moves that are unparryable, and it will not be able to harm you if you choose to block its attacks after every attack you do yourself.
--   If you notice your Posture getting too high whilst fighting, stop attacking and focus on only parrying the Enforcer's hits for a bit until your Posture bar is empty before trying to attack it again.
+-   Avoid getting posture broken at ALL costs. A single whirlwind to someone stunned could be lethal to even the strongest of players.
 
 File:D16459B9-931F-4D59-BAA1-E561B1B95ECB 4 5005 c.jpg
 
 Enforcer's Axe
 
-All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. If you intentionally avoid getting drowned and fighting him, and you eventually get drowned, you'll be a fish out of water. Beating it, even once will give you closure for the rest of your game experience.
+All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will EVENTUALLY have to fight it, at least ONCE, so better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, is a huge confidence boost for the future.
 
 ### Rewards
 
 -   **Enforcer's Axe:** Considered the endgame weapon of choice for heavy users, this axe has some of the highest damage potential in the game.
 -   **Enforcer's Blade:** A very rare drop from enforcer[\[2\]](#cite-note-2), requires 25 strength and 80 heavy to wield.
+-   **Progress:** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
+-   **Confidence about being able to escape The Depths in the future:** :)
 
 ## Lore
 
@@ -74,13 +78,17 @@ File:Enforcers axe desc.png
 
 Item Description for the Enforcer's Axe
 
-Not much is known about The Enforcers general lore, but its origin is at least somewhat known. The Enforcer is composed of the Souls of those who died in the trials. According to the flavor text of the [Enforcer Axe](<Enforcer's_Axe.md>), these souls aren't merely lost, but are tortured and warped. These souls eventually turn into an Enforcer, a sadistic being that takes joy in depriving others of the freedom they failed to earn. Additionally, The Enforcer's name is quite deceiving, as there is no "The" Enforcer, but in actuality, an army of Enforcers. It is quite harrowing to think that this behemoth is only one out of a nearly endless legion, constantly getting stronger from those they kill, and soon, your soul will be used for all eternity to add to its ranks until the vessel is destroyed.
+Not much is known about The Enforcers specific lore, but its origin is at least somewhat known. The Enforcer has something to do with the Souls of those who have been lost in the trials. According to the flavor text of the [Enforcer Axe](<Enforcer's_Axe.md>), these souls aren't merely lost, but are tortured and warped, and are eventually turned into fuel.
 
-The voices appear to have some control and/or power over The Enforcer, as they summon it to fight those who enter the trial, although they do seem a bit disappointed if you come out on-top.
+Fuel for what, exactly? The Enforcer is not a living creature, or even a creature at all. It is a construct, and is brought to life by the souls of those who have been lost to The Depth's trial. Additionally, the title of "The Enforcer" is quite misleading. There is no "The" Enforcer, and instead, an army of them.
+
+The Enforcers are like an endless cycle, constantly getting Souls to make new Enforcers, and those Enforcers will gather more Souls, so on and so forth. It is quite harrowing to think that this behemoth is only one out of an infinite legion, constantly getting more numerous and stronger from all the Souls they have reaped, and eventually, your soul will be used as well.
+
+The voices appear to have some control and/or power over The Enforcer, as they summon it to fight those who enter the trial, however they seem to have no qualms about letting them be destroyed by those who do defeat it.
 
 ## Trivia
 
--   All of The Enforcer's damaging attacks are parriable, and blockable.
+-   All of The Enforcer's damaging attacks are parryable, and blockable.
 -   The Enforcer can be found in the trial of one, it can become easier to get used to fighting it.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally) or use consumables.
@@ -90,5 +98,5 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   Parrying 5-6 times, attacking 1-2 times, and repeating is an easy way to kill The Enforcer.
 -   It is possible to cheese it by just running away and throwing potions.
 
-1.  [↑](#cite-ref-1) It means that in a fight even if you play it perfectly but have a lower number the higher number will win and not the higher skill, doesn't matter if you play well, dodge every ability, you will lose if you have the lower number.
+1.  [↑](#cite-ref-1) The Enforcer can easily be beaten with strategy and skill rather than just brute forcing him like most other enemies and monsters.
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=TIWpyg6XZrI](https://www.youtube.com/watch?v=TIWpyg6XZrI)

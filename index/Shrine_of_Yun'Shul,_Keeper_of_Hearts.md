@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 26984
+revid: 27479
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, NPC]
@@ -12,33 +12,35 @@ categories: [Monsters, NPC]
 
 ― Yun'Shul to the none worthy
 
-Template:NPC name**Yun'Shul, Keeper of Hearts** is an NPC found in the [Temple of Hearts](Temple_of_Hearts.md) within [The Depths](The_Depths.md).
+Template:NPC name**Yun'Shul, Keeper of Hearts** is an NPC, and Drowned God, found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors), within [The Depths](The_Depths.md).
 
 ## Overview
 
-Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths.
+Yun'Shul, Keeper of Hearts is a unique NPC found in The Depths. He allows players to make wishes.
 
-A [Resonance](Resonance.md) is required to enter the temple and to talk to them. Attempting to interact with them without a Resonance will result in the player's instant demise.
+## Wishes
 
-## Function
+The player can interact with Yun'Shul to obtain a wish. Making a wish requires some criteria:
 
-The player can interact with Yun'Shul to obtain a wish. Players can wish if they do not have the tarnish flaw. Making a wish will give you the tarnish flaw, which will also increases the startup and cooldown of your Resonance.
+-   You need a Resonance. You would have needed this anyway to get past the Resonance Door. If you got in anyway through exploits or glitching or having someone else open it, Yun'Shul will blow up your head, instantly wiping you.
+-   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this wont really apply on your first wish.
+-   You need to have not made a wish within your last 10 levels. So if you made a wish at 45, your next minimum level to get a wish would be 55. It's generally recommended to only make wishes on levels that are multiples of 10, as to maximize wish potential. It can also be assumed that you would need to level up 10 times to get your first wish.
 
-Four wishes are available when interacting with Yun'Shul:
+If you meet all the criteria, you are able to make one of four wishes:
 
-1.  **The trials ahead of me fill me with trepidation, I wish to escape this place.**
-    -   Allows the player to instantly escape [The Depths](The_Depths.md).
-2.  **My Flaws weigh me down too much, I wish for relief.**
-    -   Rerolls one of your [flaws](Boons_and_Flaws.md). Can grant the Vacant flaw.
-3.  **The powers I have been granted displease me, I wish for new.**
-    -   Reroll your [Resonance](Resonance.md),
-4.  **The Vows I made give me much regret, I wish to break.**
-    -   Removes any vow of masteries the player has, grants vacant flaw which takes away your ability to enter castle light regardless of if you went through whirlpolols or not and you can't make anymore vow of masteries. (Vacant flaw removes your soul which is why such things happen)  
+1.  **"The trials ahead of me fill me with trepidation, I wish to escape this place."**
+    -   Instantly sends the player back to The Overworld.
+2.  **"My Flaws weigh me down too much, I wish for relief."**
+    -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
+3.  **"The powers I have been granted displease me, I wish for new."**
+    -   Erases your current [Resonance](Resonance.md), and draws three new Resonance cards.
+4.  **"The Vows I made give me much regret, I wish to break."**
+    -   Erases any [Vow of Masteries](Vow_of_Mastery.md) that have been made, and gives the Vacant flaw.  
         
 
 ## Trivia
 
--   Yun'Shul is referred to by the developers by the singular "they" and "them".
+-   Yun'Shul is referred to by the developers by "they" and "them".
     -   This trait is also shared with Ya'Alda from Rogue Lineage.
--   If you aren't in combat, leaving the game before your head bloats will save you from getting your head blown off.
--   One of two Drowned Gods so far in Deepwoken; the other being Korilfiend, the Drowned God of fire.
+-   It is actually possible to survive talking to Yun'Shul without a Resonance, by logging right before your head explodes.
+-   Yun'Shul is one of two confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire.

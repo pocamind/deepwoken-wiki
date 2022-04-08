@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 26117
+revid: 27481
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -119,8 +119,9 @@ The best and easiest way to beat him is to get him up against a wall, and spam y
 
 ## Rewards
 
--   **Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+16%\]. This boss also gives [Resonance (Bell)](Resonance.md) Progress. However, _this seems to be possibly random_, and you should consider also doing other ways of Bell Progression.
--   **Amethyst Pendant Earrings** - Received only during Summer.
+**Luck** - During all seasons, you receive a substantial amount of luck, somewhere as much as 5-10 Corrupted monster kills \[+16%\]. This boss also gives [Resonance](Resonance.md)Progress, moreso if they have the corrresponding [Nature](Resonance.md#obtainment-process).
+
+-   A chest containing **Amethyst Pendant Earrings** and (very rarely) a **Finisher's Ring** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn, which is probably the only good thing about this armor compared to higher level armor. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
 -   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
 
@@ -140,7 +141,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 
 ## Trivia/Notes
 
--   The [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase.
+-   prThe [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase.
     -   If the Ferryman is in phase 1, "A Sarabande of Thunder" will play in the background.
         -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
@@ -166,7 +167,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
--   Even though there are reports of people getting [Resonance](Resonance.md) Progression from The Ferryman, he is likely one of the worst sources for such and it is highly recommended players fight [Primadon](Primadon,_Titan_of_the_East.md) or [Arena](Chime_of_Conflict.md) for Bell Progression instead.  
+-   The Ferryman gives a moderate amount of [Progress](Resonance.md), however he will reward more if he is killed by someone with the corresponding [Nature](Resonance.md#obtainment-process).  
     
 
 ## Bugs
