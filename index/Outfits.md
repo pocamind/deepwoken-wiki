@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 27458
+revid: 27524
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -219,7 +219,7 @@ _\+ Talent: Blinded_
 | File:Onepiececape.png | Fleet Warden Cape | Grants a random buff.
 _Requires Power 40_
 
- | Summer Isle Scope Quest |
+ | Summer Isle Chest Rewards |
 
 **Arms:**
 

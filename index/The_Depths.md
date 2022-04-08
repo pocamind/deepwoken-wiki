@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 27252
+revid: 27529
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -92,8 +92,8 @@ Your Trial Power is calculated by Power + Times Drowned. This dictates the type 
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-13 | Nothing (Free Reservoir Talent, if you wanted that) |
-| ~14-19 | [Mudskipper Knight](Mudskipper.md) (You will fight him on power 13 due to your drowned times) |
+| 1-10 | Nothing (Free Reservoir Talent, if you wanted that) |
+| 10-19 | [Mudskipper Knight](Mudskipper.md) |
 | 20 - 28 | [Angels](Hollow_Angel.md) (Lesser) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
