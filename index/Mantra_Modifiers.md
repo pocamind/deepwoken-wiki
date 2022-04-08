@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 27240
+revid: 27496
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -14,7 +14,7 @@ A rather foolish individual using quite a numerous amount of items to upgrade a 
 
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in Erisia [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
-  
+There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will not receive the modifiers back when an _Amnesiac Driftwood_ is used. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
 Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
 

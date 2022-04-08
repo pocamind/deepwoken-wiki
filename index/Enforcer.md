@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 27482
+revid: 27494
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Boss, Monsters, Enemies]
 
 ― Level 50 Etrean, unaware of his fate
 
-_Also referred to as Warden of the Deep, and Executioner._ Template:Creature Info Box v2
+_~Also referred to as Warden of the Deep, and Executioner~. no one calls him that_ Template:Creature Info Box v2
 
 ## **Description**
 
