@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 27351
+revid: 27449
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -73,5 +73,5 @@ Talo
 
 -   When wearing earrings, they appear on the cat ears.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their race name changed to "Abomination", which is unique compared to the other race names that were changed.
--   Felinors used to be (or still might be) the player hated race because of their look (cat ears = furry). But as I'm writing this message, "Felinor hate" or earlier called "Supreme Difficulty" became less or not popular at all, people won't attack/target you because you have this race. (I personally didn't have any problem having this race since the day one)
+-   Felinors used to be (or still might be) the player hated race because of their look (cat ears=furry). But as I'm writing this message, the earlier called "Supreme Difficulty" became less or not popular at all, people won't attack/target you because you have this race. (I personally didn't have any problem having this race since the day one)
 -   The only yet known not-randomly generated Felinor NPCs are [Nyanna](Nyanna.md) and [Aelita](Aelita.md).

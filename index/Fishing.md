@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27444
+revid: 27466
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, 
 
 # Fishing
 
-“ WOAH A PRIMADON! ”
+“ "It's time to become a master baiter!" ”
 
-― Enrique Eshet tryna to be funny
+― Some random Man of Culture
 
   
 
@@ -34,7 +34,7 @@ There is also another fishing related talent, called "Proficient Baiting", which
 
 You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
-File:Tuan.png
+File:Tuna.png
 
 Fishing up the Tuna.
 

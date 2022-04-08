@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27427
+revid: 27452
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,9 @@ categories: [Resonance]
 | effect | Prevent the death of the target entity, return them to the user and heal them. |
 | appearance | A white star and a white circle. |
 
-“ {{{quote}}} ”
+“ Hippity Hoppity your death is now my property. ”
 
-― {{{author}}}
+― LVL 60 Vesperian who got this bell by rerolling and now is a legal medical slave to their guild
 
   
 

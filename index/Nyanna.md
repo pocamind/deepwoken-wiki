@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 26098
+revid: 27451
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,3 +27,4 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 ## Notes
 
 -   You can check her wares, log and wait an hour or more to try to get a specific weapon or armor.
+-   Nyanna is [Felinor](Felinor.md)

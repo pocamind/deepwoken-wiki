@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 26767
+revid: 27462
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,21 +22,24 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   **Tier 2 - 66% insanity - Scratching:** The character will start scratching themself every few seconds, dealing a generous amount of damage. The blue border on the screen will begin pulsing at this tier.
 -   **Tier 3 - 100% insanity - Enucleation:** Seeing far too much horror, the character tear their own eyes out of their socket in their despair. This immediatly kills the player. The blue border will feature new motifs when nearing this tier.
 
-## Insanity increasing effects
+## Insanity Increasing Effects
 
 -   Being in [The Depths](The_Depths.md) (+1 point every 30 seconds)
--   [Megalodaunt](Megalodaunt.md) scream attack
--   Being hit with Gaze
+-   [Megalodaunt](Megalodaunt.md) screech attack.
+-   Being hit by Gaze
 -   Drinking or being splashed by a Mindbreaking potion.
--   Deep Widow web attack
--   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely deadly to use in depths
+-   Being hit by the [Deep Widow](Deep_Widow.md) web attack
+-   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general
+-   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md) while in [The Depths](The_Depths.md). At low Willpower, it instantly grants 1 tier of Insanity, however the effects of this can be reduced through increasing Willpower.
+-   Being hit by a weapon enchanted with No Life King
 
-## Insanity decreasing effects
+## Insanity Decreasing Effects
 
 -   Not being in [The Depths](The_Depths.md)
 -   Sitting at a campfire (Improved if sharing the campfire with a [Capra](Capra.md))
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion.
+-   Being touched by a [Blindseer's](Oaths.md) Mindsoothe mantra.
 
 ## Notes
 
