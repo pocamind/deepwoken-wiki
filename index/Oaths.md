@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27413
+revid: 27595
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -85,11 +85,11 @@ After reading the glyphs, you can unlock the abilities by helping lower level pl
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes. Judging from it's description "Turn insanity against your enemies, incredibly strong against depths creatures" it might also scale off of your insanity and possibly give them to the opponent.
     -   Very useful against depths creatures, and does a lot of damage _(The full beam did 2 bars to my friend who had 350 hp (64% left)_
-    -   Obtaining: 5th? Completion of Depths trial with another player substantially lower level than you (must be alive).
+    -   Obtaining: 10th? Completion of Depths trial with another player substantially lower level than you (must be alive).
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in it's radius, AoE that heals teammates.
     -   About the size of a medium Sacred field roll
-    -   Obtaining: 10th? Completion of Depths trial with another player substantially lower level than you (must be alive).
+    -   Obtaining: 5th? Completion of Depths trial with another player substantially lower level than you (must be alive).
 
   
 

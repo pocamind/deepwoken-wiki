@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 26674
+revid: 27589
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -68,7 +68,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.md) (Bell) Progress.
 
-## Notes/Tips
+## Trivia
 
 -   The Duke gives the second best monster bell proression (1st is Primadon)
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either Flint or Skills that light campfires.

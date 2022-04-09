@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 27205
+revid: 27580
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -54,11 +54,13 @@ Players with negative reputation from factions **will be** attacked by NPCs from
 
 ### Changes in Reputation
 
-Whenever you perform an action that affect your reputation with a faction, a message will appear on your screen, reading "Your actions please \[Faction Name\]..." or "Your actions anger \[Faction Name\]...", both topped with the faction's logo (if available).
+Whenever you perform an action that affects your reputation with a faction, a message will appear on your screen, reading "Your actions please \[Faction Name\]..." or "Your actions anger \[Faction Name\]...", both topped with the faction's logo.
 
-Whenever your reputation drops too low, you'll be deemed a criminal, with the message "\[Faction Name\] have declared you their enemy...". This the point at which Negative Reputation effects are applied.
+Whenever your reputation drops too low, you'll be deemed a criminal, with the message "\[Faction Name\] have declared you their enemy..." This the point at which Negative Reputation effects are applied.
 
-Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer see you as worth fighting...". This is the point at which Negative Reputation effects are removed.
+Dying to that faction results in the text "The perceived threat you pose against \[Faction Name\] has been reduced...' with you losing negative rep each time this appears.
+
+Whenever your reputation return to neutral after becoming an enemy, you will receive the message "\[Faction Name\] no longer see you as worth fighting..." This is the point at which Negative Reputation effects are removed.
 
 File:Summer Company Postives.png
 
@@ -79,23 +81,27 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
 <tbody>
 <tr>
   <th>Image</th>
-  <th>Location</th>
+  <th>Faction</th>
   <th>Description</th>
+  <th>Location</th>
 </tr>
 <tr>
   <td>File:Screenshot 2021-12-24 222420.jpg</td>
-  <td>File:EtreaSymbol.png<p>Etris</p></td>
+  <td>File:EtreaSymbol.png<p><a href="Etrea.md">The Kingdom of Etrea</a></p></td>
   <td><b>Nerin</b>: Removes hostilities with Etrean and Vigil guards</td>
+  <td>Outside a house in the area above the Etris Antiquarian and near Frostdrawer Nell's house.</td>
 </tr>
 <tr>
   <td>File:Screenshot 2021-12-24 221619.jpg</td>
-  <td>File:SummerCompanySymbol.png<p><a href="Summer_Isle.md">Summer Isle</a></p></td>
+  <td>File:SummerCompanySymbol.png<p><a href="The_Summer_Company.md">Summer Company</a></p></td>
   <td><b>Nepo</b>: Removes hostilities with the Summer Company.</td>
+  <td>In the archway reached by going across a series of bridges behind the Summer Isle Castle.</td>
 </tr>
 <tr>
   <td><figure>File:Zirik.png<figcaption></figcaption></figure></td>
-  <td><a href="Greathive_Aratel.md">Greathive Aratel</a></td>
+  <td><a href="The_Hive.md">The Hive</a></td>
   <td><b>Zirik</b>: Removes hostilities with the Greathive Aratel guards</td>
+  <td>Near the fountain in <a href="The_Lordsgrove.md">The Lordsgrove</a></td>
 </tr>
 </tbody>
 </table>
@@ -108,9 +114,42 @@ Etrean Guards vs. Authority Peacekeepers in Lower Erisia
 
 Battles between factions can randomly occur at any time, and they usually take place at specific locations. Players can take part in these encounters as they see fit.
 
-For example, in Erisia Island players may find Etrean Guards fighting off a group of enemies, such as bandits. Assisting with the Etrean Guards by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
+For example, in Erisia Island players may find Etrean Footsoldiers fighting off another faction, such as The Authority. Assisting the Etreans by managing to attack and kill their enemies will **gain** you reputation within the territories of Etrea.
 
-You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Guards for reputation THEN grip the guards for exp.  
+You will not **lose** reputation from gripping any of the NPCs during _**versus events**_, you are allowed to grip the enemies of Etrean Footsoldiers for reputation THEN grip the Footsoldiers for exp.
+
+(Note: Some of these events appear to be bugged, and reputation will not be gained from them, or only gained if a certain side wins, sometimes softlocking you from getting rep with certain factions)  
+
+### Quests
+
+Some quests in the game allow you to get reputation with certain factions, some being repeatable to allow for easy reputation farm, others being one time only. Some quests may also give different types of reputation based on how you go about them.
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Quests</th>
+  <th>Details</th>
+  <th>Faction</th>
+</tr>
+<tr>
+  <td>Lumberjack Quest</td>
+  <td>A unique quest as it's shared between two npcs, the quest can be started and completed in two locations, Etris and the Isle of Vigils. At Etris, the quest NPC can be found outside a house next to the Antiquarian. At the Isle of Viglis, the the quest NPC is standing next to a log outside the Banker and Antiquariant. Talking to them and accepting the quest gives you a free Lumber Axe. Collecting 10 pieces of Wood and returning it to either NPC will give 5 Notes and positive Etrean reputation.</td>
+  <td>The Kingodm of Etrea</td>
+</tr>
+<tr>
+  <td>Loan Sharking</td>
+  <td>A man named Trig can be found outside the Summer Isle inn, He will complain about someone owing his boss money, to which the player offers to help. The Adret in question can be found on a small beach nearby, under the area where the Blindseer glyphs are. Talking to him gives you two options, agree to help him, as he has lost the investment he owes, or threaten him and hustle him for all he has. Choosing the first option and returning to Trig will have result in him giving you negative reputation and sending two guards after your. Choosing the latter will cause the Adret to give you the papers for his ship, all he has left, and returing to Trig nets you postivie rep and some exp.</td>
+  <td>Summer Company</td>
+</tr>
+<tr>
+  <td>Crate Retrieval</td>
+  <td>A Vesperian, going by the name of Scope, found in a small tower, right next to the stairs of the Summer Isle Castle will ask you to bring him any red crates of gunpowder that have been won from the Ignition Union by Summer Company Guards. These can be found near the corpses of two Ignition Union solderis, guarded by two Summer Company Guards and a Summer Company Manager, who orders you to take them to Scope. Taking them to Scope rewards you with a chest and good reputation with the Summer Company. This quest is repeatable and does not require you to talk to Scope first to start it.</td>
+  <td>Summer Company</td>
+</tr>
+</tbody>
+</table>
+
+  
 
 ## Factions/Entities
 
@@ -134,14 +173,13 @@ You will not **lose** reputation from gripping any of the NPCs during _**versus 
 -   The Contractors
 -   Songseeker Tribesmen
 
-  
-**Notes**
+## Trivia
 
--   Aside from Officer Notes, one way to gain reputation with Etris/Etrea is by selling wood. This might vary as I haven't done much testing, but in the test, I have done, it takes 440 wood to go from neutral rep to high enough rep for the guards to call you by your first name. It might be closer to 500 if I was somehow above neutral rep.
--   For those who wish to gain positive reputation with the Central Authority, at [Starswept Valley](The_Starswept_Valley.md) you can encounter a 100 Legions Officer fighting a Central Authority officer. Killing the 100 Legions officer prompts a positive reputation gain with the Central Authority. (Easiest to knock both then grip the 100 Legions Officer as you will inevitably hit them both)
 -   Brutus' dialogue varies depending on your Authority reputation.
 -   The "Diplomat" charisma talent significantly increases reputation gain.
 -   There is a minimum and maximum reputation for each faction, meaning that it may only take a few events to get back in a faction's good favour.
--   The ONLY ways to increase (not reset) reputation with The Hive is to aid Golem Construct and Hive npcs in Authority vs Hive and Etrea vs Hive.
--   for some reason, you actually cant get good rep with celtor, just lose rep (you can only lose rep with celtor, but you cant gain good rep with celtor)
+-   There are some factions who for, various reasons, players can only get one kind of rep with.
+    -   You cannot get good rep with Celtor, but can lose rep, essentially meaning once you are in the negative you will stay that way.
+    -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
 -   Spitting on a guard causes them to aggro on you.
+-   The Ministry is the only Faction that all players start out with Negative Reputation on spawn.

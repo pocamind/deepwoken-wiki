@@ -1,20 +1,17 @@
 ---
 title: The Central Authority
-revid: 15763
+revid: 27576
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # The Central Authority
 
-**The Authority** is one of the major factions of Deepwoken, with their presence seen almost everywhere.
+“ You shall not stop our mission ”
 
-The Authority inhabits 2 [Luminants](Luminants.md), The Central Luminant and The Etrean Luminant.
+― The last words of many a dying Authority Footsoldier
 
-The Authority has a major base located in the Aratel Island, which is [Fort Merit](Fort_Merit.md).
+  
+**The Authority** is one of the major factions in Deepwoken, with their presence seen almost everywhere.
 
-The guards and soldiers of The Authority can be seen using [Thundercall](Thundercall.md) and [Flamecharm](Flamecharm.md), along with [Rifle Spears](Weapons.md). It is also mentioned that the Summer Company supplies them with [Rifle Spears](Weapons.md).
-
-They are the enemies of The Kingdom of Etrea and [Children of Navae](The_Children_of_Navae.md). They are sort of allied with [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md).
-
-The Authority does favor [Adrets](Adret.md) as The Authority mostly consists of [Adrets](Adret.md). Adrets will spawn with increased reputation against The Authority.
+A large military organization, native to the Central Luminant, The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md). Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md). Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including the [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md). The Authority does favor [Adrets](Adret.md) as their ranks mostly consist of them. Adrets will spawn with increased reputation with them.

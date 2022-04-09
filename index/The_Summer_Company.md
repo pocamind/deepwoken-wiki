@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 24807
+revid: 27569
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -27,7 +27,9 @@ As their name implies, they are a merchant Company that provides firearms to The
 
 ## **Lore**
 
-As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.  
+As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.
+
+They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves.  
 
   
 

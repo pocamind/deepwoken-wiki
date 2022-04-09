@@ -1,11 +1,13 @@
 ---
 title: Ignition Union Fighter
-revid: 25790
+revid: 27570
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ignition Union Fighter
+
+Template:Creature Infobox V3
 
 ## Description
 
@@ -35,5 +37,3 @@ Ignition Union Guards are equipped with Sword or Darksteel Greatsword.
 -   No longer possible to have negative rep with Ignition Union ever since it became impossible to lose rep from events.
 -   Ignition Union Guards only give a different dialog when you're max rep.
 -   Max rep dialogs are "How's it going mate?" and "Sea's treatin' you well and all, yeah?"
-
-Template:Creature Infobox V3
