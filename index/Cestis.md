@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 26584
+revid: 27616
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-placeholder
+A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md) presumably working for the Ministry, his main purpose is to contract assassinations of random players which is mostly used to obtain the [Tacet](Murmur.md) Murmur.
 
 ## Dialogue
 
@@ -30,9 +30,15 @@ placeholder
 
 > Cestis: I'm Cestis. I have a few generous benefactors from the Western Luminant, perhaps you know who I'm speaking of?
 
-> 1\. Yeah, I do. \[Charisma\]
+> 1\. Yeah, I do. \[10 Charisma\]
 
-> Cestis: Oh I'm sure you have... Quite the talker I see. A silver tongue will get you quite far in this world. But I am in no need of a silver tongue. I need someone killed. Payment will be given of course. Are you interested?
+> \[Fail Charisma Check\] Cestis: You were really thinking about that answer, huh? Try lying to someone a little more gullible next time.
+
+> \[Pass Charisma Check\] Cestis: Oh I'm sure you have... Quite the talker I see. A silver tongue will get you quite far in this world. But I am in no need of a silver tongue. I need someone killed. Payment will be given of course. Are you interested?
+
+> 2\. No, I don't.
+
+> Cestis: It's best it stay that way then. You'd do best not to cross your betters. \*_He gives you a crooked smile that sends shivers down your spine._\*
 
 > 1\. I'm Interested.
 

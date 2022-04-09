@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27595
+revid: 27620
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -72,7 +72,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 Once unlocked you can progress the bell by reading the glyphs at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
-After reading the glyphs, you can unlock the abilities by helping lower level players escape the depths trial. Each complete Depths trial saving another player substantially lower level than you, while being kept alive, will gain you Blindseer progress.
+You can unlock the abilities by helping lower level players escape the depths trial. Each complete Depths trial saving another player substantially lower level than you, while being kept alive, will gain you Blindseer progress.
+
+The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
 ### Known Abilities
 
@@ -80,16 +82,18 @@ After reading the glyphs, you can unlock the abilities by helping lower level pl
     -   Resets the insanity of nearby players, and in turn gives you the insanity that they once had.
     -   Heals nearby players in exchange for your own health, evens out the HP between you and the players you are trying to heal
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
-    -   Clue: _Free the lost souls from their shackles, help them escape into the light._
-    -   Obtaining: 1st Completion of Depths trial with another player substantially lower level than you (must be alive).
+    -   Obtaining: 1 low level player helped in the Depth Trial (must be alive)
 -   **Sightless Beam - Combat Mantra**
-    -   Fires a high pressure beam from your eyes. Judging from it's description "Turn insanity against your enemies, incredibly strong against depths creatures" it might also scale off of your insanity and possibly give them to the opponent.
-    -   Very useful against depths creatures, and does a lot of damage _(The full beam did 2 bars to my friend who had 350 hp (64% left)_
-    -   Obtaining: 10th? Completion of Depths trial with another player substantially lower level than you (must be alive).
+    -   Fires a high pressure beam from your eyes.
+    -   The entire beams deals around 120 damage.
+    -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
+        -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
+    -   Obtaining: 10 low level player helped in the Depth Trial (must be alive)
 -   **Tranquil Circle - Combat Mantra**
-    -   Disables mantras from being used in it's radius, AoE that heals teammates.
+    -   Disables mantras from being used in it's radius
+        -   This affects everybody, including the caster and their allies.
     -   About the size of a medium Sacred field roll
-    -   Obtaining: 5th? Completion of Depths trial with another player substantially lower level than you (must be alive).
+    -   Obtaining: 25 low level player helped in the Depth Trial (must be alive)
 
   
 
@@ -97,7 +101,7 @@ After reading the glyphs, you can unlock the abilities by helping lower level pl
 
 ### Effects
 
-This Oath grants the player one Support Mantra Card slot, one Combat Mantra slot, one Wildcard Mantra Slot, three Health and ten Sanity.
+This Oath grants the player one Support Mantra Card slot, one Wildcard Mantra Slot, three Health and ten Sanity.
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras.
 

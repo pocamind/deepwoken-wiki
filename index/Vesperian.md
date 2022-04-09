@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 26991
+revid: 27618
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -89,7 +89,7 @@ A layer of protective armor that regenerates at rest.
 -   It's assumed that Vesperians are indeed bugs, but there is a possible relation to the Deep Owl, opening new theories.
 -   A Vesperian with Blindseer
     
-    Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye.
+    Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more ganymede-like appearence, instead having black skin and dark gray hair.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md)
 -   Some of the mask designs that you can choose as a face may be based on designs found in the Kung-fu Soulslike _**Absolver**_.
 -   Ragoozer and Arch Mage are coming, I don't have much time left but... The blue Vesperian, is REAL
