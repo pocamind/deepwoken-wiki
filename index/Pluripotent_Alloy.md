@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 27520
+revid: 27536
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -33,6 +33,7 @@ This is still a fairly new mechanic in the game and is sure to be expanded upon.
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Ferryman](The_Ferryman.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
 ## How to Use
 

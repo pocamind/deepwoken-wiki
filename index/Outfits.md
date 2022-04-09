@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 27524
+revid: 27556
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -206,8 +206,8 @@ _\+ Talent: Blinded_
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent |
-| File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants a random buff. | Depths Chests |
-| File:Shrouded Cape (Red).png | Red Shrouded Cape | Grants a random buff. | Depths Chests |
+| File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants a random buff. | Depths Chests (Currently Unobtainable) |
+| File:Shrouded Cape (Red).png | Red Shrouded Cape | Grants a random buff. | Depths Chests (Currently Unobtainable) |
 |  | Dawn Scarf | Grants a random buff. | Hive Chests |
 |  | Desert Scarf | Grants a random buff. | Hive Chests |
 | File:Crimson Scarf.png | Crimson Scarf | Grants a random buff. | Hive Chests |
@@ -295,7 +295,7 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Songseeker Chests |
+ | Songseeker Chests, Minitrysa Chests |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
 _Requires Power ???_

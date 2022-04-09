@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 27529
+revid: 27545
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -20,7 +20,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 ## **Overview**
 
-The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again. poopi
+The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again.
 
 ## **Points of Interest**
 
@@ -30,7 +30,7 @@ The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotte
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Fragments of Self](Fragments_of_Self.md)
 
-## '**Layers of the Depths**
+## **Layers of the Depths**
 
 After talking to Mark Adaset in [Castle Light](Castle_Light.md), he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
 
@@ -90,10 +90,12 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 Your Trial Power is calculated by Power + Times Drowned. This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns.
 
+Please don't change these values unless there is an actual update that changes them. My friend was power 8 and died to a mudskipper knight so it does spawn at that level.
+
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-10 | Nothing (Free Reservoir Talent, if you wanted that) |
-| 10-19 | [Mudskipper Knight](Mudskipper.md) |
+| 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
+| ~10-19 | [Mudskipper Knight](Mudskipper.md) |
 | 20 - 28 | [Angels](Hollow_Angel.md) (Lesser) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |

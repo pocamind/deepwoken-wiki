@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 27287
+revid: 27561
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -20,7 +20,7 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are only two known obtainable Murmurs, [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more however there is no proof of others existing or being obtainable. (Aside from Adagio, which is used by The Knives of Eylis captains but not obtainable for now)
+Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more and it is possible there will be more introduced in the future, however, there is no proof of any others existing or being obtainable (Aside from Adagio, which is used by The Knives of Eylis captains but not obtainable for now).
 
 ## Training Murmurs
 
@@ -60,7 +60,7 @@ Template:ImageCaption Infobox _"An application of the song that enables the user
 
 Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
 
-The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. Most NPCs will also not agro you while you are invisible.
+The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. Most NPCs will also not aggro you while you are invisible.
 
 When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). It takes ~700 activations to max out the murmur, and the minimum detection range for players is ~40 studs.
 
@@ -68,7 +68,7 @@ Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
-You can also get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.
+~You can also get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.~ This has been proven false by multiple videos. The "Stranger" NPC is glitchy and appears to be unfinished. The screenshot showing the Charisma check option has been doctored and proven to not exist. ([https://www.youtube.com/watch?v=KoqopS4AXxw](https://www.youtube.com/watch?v=KoqopS4AXxw))
 
 ## Murmur: Adagio
 
@@ -83,8 +83,9 @@ The only users of this Murmur are The Knives of Eylis captains, with the Murmur 
 Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G".
 
 -   Likely removed due to being significantly weaker than the other two Murmurs
-    -   would give esp hackers an easier time to avoid being caught
+    -   Would give ESP exploiters an easier time to avoid being caught.
+-   Likely replaced by the current crouch + G.
 
 **Heartbeat Sensor**
 
-Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters.
+Exact description unknown, allowed you to see the heartbeats of nearby players as well as monsters.

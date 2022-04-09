@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27410
+revid: 27554
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -67,7 +67,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
-  <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped in The Depths.<br>
+  <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped.<br>
   <b>This enchant is disabled in Arena</b></p></div></td>
 </tr>
 <tr>
