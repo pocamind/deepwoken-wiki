@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 27525
+revid: 27602
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -30,8 +30,10 @@ Keep in mind not all mantra modifiers are obvious and may _**not**_ work correct
 
 Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesiac Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stones_ and _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
-The player can stack 3 basic modifiers and 3 upgraded modifiers for a total of 6 modifiers (i.e. 3 _Drift Shards_ and 3 _Rush Shards_ can be equipped on one Mantra). _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra and may exceed your maximum Ether._  
-Unknown whether or not Sparks count towards the 6 modifier limit.
+The player can put up to 3 of the same modifier (A player can do 3 of everything if they feel so inclined). _Please do note that adding more Modifiers will increase the [Ether](Combat_Mechanics.md) cost of the Mantra and may exceed your maximum Ether. This downside can be alleviated (but not negated) if the player have the legendary talent Neuroplasticity, which reduce the ether cost associated to mods.__  
+Unknown whether or not Sparks count towards the 6 modifier limit._
+
+After modifying a mantra and finishing its creation, uncompatible mods on the table will turn black when the mantra is granted, voiding any of their effect.
 
 Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades including sparks. Upgrading an already upgraded Mantra will stack onto the previous upgrades.
 

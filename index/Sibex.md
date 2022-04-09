@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 27406
+revid: 27611
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -73,7 +73,7 @@ Sibex:**(You are very close or are able to get your Bell)** Morphed like clay...
 
 Sibex:**(You have already obtained your bell. (If you get this dialogue without a bell, rejoin; this doesn't signify you can get one)** Well look at you, my friend! You're practically beaming with the song! 
 
-Sibex:**(Unknown)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
+Sibex:**(Between some bell prog and decent)** Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...
 
 Sibex:**(Unknown, Sibex says you're quite a way off)** Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off.
 

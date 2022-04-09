@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 27416
+revid: 27605
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -44,11 +44,12 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level.
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
-    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head
+    -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
+-   The Lord Regent's age is somewhere in his 40s (Given the fact that he has Tier 1 Wrinkles).
 
 ### The King of Etrea
 
--   The previous Ruler of the Kingdom of Etrea, before his rule was overthrown by The Lord Regent (Maybe, as a regent lord stands for a stand-in lord and rules when there is no successor/no capable ruler, so it is completely possible the previous lord to have gone out of commission for some reason and the lord regent then took over).
+-   The previous Ruler of the Kingdom of Etrea, before his rule was taken by the Lord Regent under his banner.
 -   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
@@ -954,15 +955,17 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
 
-## Player lore
+## Player Lore
 
-Though technically a blank slate of varying races and abilities, even the player character has lore to them
+Though technically a blank slate of varying races and abilities, even the player character has lore to them.
 
-### Before the events of the game
+### Pre-Deepwoken
 
--   The player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, without any ingame training.
--   The player was frequently on the ocean before the events of the game, as the enterring the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
--   The player was found on the beaches of Etris.
+At the year 1271 of Spring, The Player makes their first appearance in the world of Deepwoken.
+
+-   The Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, without any in-game training.
+-   The Player was frequently on the ocean before the events of the game, as the enterring the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
+-   The player was found on the beaches of Etris or Isle of Vigils, and were escorted to the Inns of both Islands.
     -   There are two possibilities as to what happened here
         -   The player was on the sea but they were wrecked by a storm or attacked.
         -   The player had already escaped The Depths once.
@@ -1024,7 +1027,14 @@ This category lists new lore that has been added into Deepwoken through updates.
 
 ### **Blindseer Lore**
 
-\[Placeholder\]
+#### Lightkeeper Temple Glyphs
+
+_"It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many years before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?"_
+
+-   This message engraved in the occupied Lightkeeper Temple in Aratel Island talks of the past of the Celtorian Nation; the City of Celtor. Besides the tragedy that struck the Nation (That being the Great Drowning), there are more to it than simply a disaster; that being the arrival of a New Lord and King years before the Drowning.
+    -   The writing does not specify how many years it has been since the new arrivals of their new leaders.
+    -   The new Lord is theorized to be the Lord Regent from the Kingdom of Etrea due to the his abilities tainted with Depths Magicks written all over it. It's possible, as the time between the Great Drowning of Celtor and the current year (1271) is short.
+        -   The King however, could've been a new Celtor King in line; and presumably met the same fate as the Etrean King- who disappeared without any traces of themselves while the Lord took his place during his absence.
 
 ### **Animals**
 
@@ -1042,6 +1052,7 @@ This category lists new lore that has been added into Deepwoken through updates.
 ### **Language**
 
 -   Their are multiple languages in the Deepwoken world, though only one is ever used.
+    -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
 -   The language seen throughtout the game is simply called 'Common.'
 
 ## Music

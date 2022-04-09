@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 27453
+revid: 27606
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -96,13 +96,9 @@ Rising Shadow
     
 
  |
-
-### **Support**
-
-| Media | Name | Card Description | Effect |
-| --- | --- | --- | --- |
 |  | 
-Shadow Meteor  
+
+Shadow Meteors  
 (★★☆)
 
  | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
@@ -110,6 +106,10 @@ Shadow Meteor
 -   Shards make the meteors significantly faster.
 
  |
+
+### **Support**
+
+Shadowcast has no known Support Mantras.
 
 ### **Mobility**
 

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 25854
+revid: 27610
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -319,7 +319,7 @@ You can choose whatever your name could be, but your last name can be limited de
 -   Zeiss
 -   Zote
 
-**Feminine**
+### **Feminine**
 
 -   Abigail
 -   Ada
