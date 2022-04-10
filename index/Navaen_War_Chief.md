@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 26406
+revid: 27641
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,4 +34,4 @@ This Outfit's Schematic is obtainable from:
 
 ## Trivia/Notes
 
--   This is the best armor for those who want to do alot of damage with the Fist of Navae, If you want a good armor for Legion fist I would recommend the [Legion Centurion](Legion_Centurion.md) as it has a talent for Legion fist.
+-   This is the best armor for those who want to do a lot of damage with the Way of Navae fist syle. If you want good armor for Legion Kata, I would recommend using the [Legion Centurion](Legion_Centurion.md) armor, because of its Talent.
