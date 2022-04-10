@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 27605
+revid: 27648
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -686,15 +686,22 @@ _"The stars call you back..."_
 
 ### Flamecharm
 
-**Lore Sources:**
+**Lore Sources:** _Flameworshipper Shield (Weapon Description), Pleetsky (Mentioned), Flame Worshipper Armor (Description)_
 
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
     -   Though by the looks of Flamecharm, the actual way to produce flames out of the Song is through combustion.
--   Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
--   Flamecharm does not create fire; instead, creates combustion.  
-    
+-   (Pleetsky) Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
+    -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths.
+-   Flamecharm does not create fire; instead, creates combustion.
+-   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.
+    -   Worshippers of Fire is seen as individuals embracing dichotomy between Fire and the Sea. Fire representing Mankind, while the Deep represents as an ultimate threat of the New World.
+
+-   (Flameworshipper Shield) Other than the history lesson given by the Flameworshipper Shield, the Shield itself bears the emblem of a Flamepriest.
+-   (Flame Worshipper Armor) This armor is a standard-issue armor of the Covenant of Flame.
+    -   Not much is known about the Covenant of Flame except it was pioneered by Pleetsky himself. This Covenant is presumably a minor Faction.  
+        
 
 ### Frostdraw
 
@@ -823,9 +830,11 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 ### The Old Texts
 
-**Lore Sources:**
+**Lore Sources:** _The Condemned Archives (Description)_
 
 -   An assortment of History written in glyphs or in books. It is unknown if it can be found in the world of Deepwoken, but NPCs managed to discover them.
+-   (The Condemned Archives) A forbidden store of Old World Texts once deemed to be too dangerous for common consumption.
+    -   It is unknown where this Archive is located, but its safe to assume to not figure it out.
 
 #### The Origin of Adrets
 

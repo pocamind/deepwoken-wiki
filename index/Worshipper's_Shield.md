@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 25398
+revid: 27653
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Lance's Food shop in Etris |
+| obtainment | Lance's Food shop in Etris, Duke Chests |
 | description | A shield bearing an emblem of a Flamepriest. The worship of Fire is seen as embracing a dichotomy between the Fire and the Sea, and places the Deep as the ultimate enemy, with the Fire representing mankind. |
 
 ## Description
