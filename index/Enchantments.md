@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27568
+revid: 27631
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -63,7 +63,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and attacks remove more blood. Missing an M1 deals 2% damage to the user.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and attacks remove more blood. Missing an M1 deals light damage to the user that scales off weapon damage. Light being 2%~, medium being 3%~ and heavy being 4-5%~.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>

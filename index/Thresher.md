@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 27504
+revid: 27634
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -91,4 +91,4 @@ Template:Creature Info Box v2The King Thresher is a much bigger and more powerfu
 
 ## Finishers
 
--   **Devour** - Grabs you with its mouth to throw you into the air, then catches you with its mouth and eats you whole. Happens in around 2 seconds.
+-   **Devour** - Flings the victim vertically into the air with its mouth, then catches it to eat it whole. (The ragdoll physics are glitched on players, but it can be seen on NPCs.)

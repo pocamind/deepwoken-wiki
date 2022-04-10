@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27620
+revid: 27624
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -10,7 +10,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 25-30+ |
+| oath_req | Power 30+ |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -37,7 +37,7 @@ There are currently only three Oaths in _Deepwoken_. More are planned to be adde
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-**Oath: Oathless** requires [Power Level](Power.md) 25-30+ to obtain in card rolls.
+**Oath: Oathless** requires [Power Level](Power.md) 30+ to obtain in card rolls.
 
 ### Obtaining
 

@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 26925
+revid: 27633
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -51,7 +51,7 @@ _"Keepers of old knowledge, they wander the lands offering their experience to t
 **Lore:**
 
   
-They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it also its also said that Capra are the enemy race to Gremor due the facts Gremors are deer and capras wehre the skulls of deer.
+They are keepers of ancient secrets who travel the seas sharing knowledge with those who need it.
 
 **Strengths:**
 
@@ -73,7 +73,6 @@ Unknown
 ## Notes
 
 -   Each of the marks appear to originate from a different real-world source, most closely in definition with Old Greek, and varying regions of Euro-Asia.
--   This race is likely a reference to the Capra Demon, a boss in Dark Souls.
 -   One of the Capra-exclusive ornaments does not have teeth included to the mask, while the rest does.
 -   If you do not have any hair on your avatar as a Capra, you will be given a type of hair that's pretty fair-looking.
 -   Once using a Mark on another player, you will gain extra health regen, and presumably sanity/food buffs correlating to the different Marks.
