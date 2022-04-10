@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 26774
+revid: 27645
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,8 +39,8 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 #### _Versions_
 
--   **Version 1** will reflect any damage/status effects taken within one to two seconds to the user's opponents.
--   **Version 2** will multiply all damage taken 3x within one to two seconds and fire a thin beam that damages the user's opponents.
+-   **Version 1** will reflect any damage/status effects taken within ~2.43 seconds to the user's opponents.
+-   **Version 2** will multiply all damage taken 3x within ~2.43 seconds and fire a thin beam that damages the user's opponents.
 
 #### _Tarnished_
 
