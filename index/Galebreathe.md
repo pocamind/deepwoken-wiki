@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 27635
+revid: 27688
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -126,7 +126,7 @@ There are no known Mobility Mantras for Galebreathers, though there is a talent 
 |  | Gale Wisp  
 (★★) | _A servant of wind._ | Spawns a wisp of wind. Must use ritual casting.
 -   Gives the caster fall damage resistance
--   Taking fall damage 2 times makes it disappear after a short period of time (Logstones might increase how many times it takes to disappear, needs testing)
+-   Taking fall damage 2 times makes it disappear after a short period of time (I used an Eternal Logstone on it and it increased the amount of times I could fall from 2 to 6)
 
  |
 
@@ -217,12 +217,10 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 
 ## **Trivia/Notes**
 
--   Guards can be found using Galebreathe Mantras like _Gale Lunge_ commonly against bandits in Erisia.
--   Enemies in the **Rat's Den** can be found using _Gale Lunge_ and _Heavenly Wind_.
 -   Galebreathe is the only talent to not have a "Grab" Mantra, instead having the lunge move in its place.
--   Primadon is completely immune to elemental effects, including Galebreathe.
+-   Primadon is completely immune to suffocation.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   If you m1 2 times, then use gale trap, you can do an infinite combo no matter what.
--   Archmage stated that Galebreathe is the "least \[cool to\] me" out of all the elements.
+-   Archmage stated that Galebreathe is "least me" out of all the elements.

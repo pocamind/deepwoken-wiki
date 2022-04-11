@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 26553
+revid: 27674
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ Hive/Rogue Constructs spawn at [Starswept Valley](The_Starswept_Valley.md), the 
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around its legs, powered by the Lifeweaving (possibly tba. attunement in the next luminant) technology of the Hive as indicated by the green glowing rings around the arms. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. The one that spawns at [Minityrsa](Minityrsa.md) have red rings around their arms, and the ones that spawn at [Starswept Valley](The_Starswept_Valley.md) have green rings around their arms. Does insane damage (around 200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
+They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive as indicated by the green glowing rings around the arms. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. The one that spawns at [Minityrsa](Minityrsa.md) have red rings around their arms, and the ones that spawn at [Starswept Valley](The_Starswept_Valley.md) have green rings around their arms. Does insane damage (around 200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
 
 ## Moves
 

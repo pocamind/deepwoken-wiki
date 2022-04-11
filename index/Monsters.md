@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 27500
+revid: 27667
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -68,9 +68,9 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 Every single Monster in the game is part of a single family. Families deal with what monster will take extra damage from the "+X% damage VS family" stats on equipment, either being Giant, Sea or Depths. Besides this, families deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
 
--   Any Monster native to islands is a Giant Monster
--   Any Monster native to oceans is a Sea Monster
--   Any Monster native to The Depths is a Depths Monster
+-   Any Monster native to islands is a Giant Monster.
+-   Any Monster native to oceans is a Sea Monster.
+-   Any Monster native to The Depths is a Depths Monster.
 
 <table><caption><b>Monster Families</b></caption>
 <tbody>
@@ -127,27 +127,48 @@ Every single Monster in the game is part of a single family. Families deal with 
 </tbody>
 </table>
 
-One thing you might notice is that some of these types might layer over with each other, like Lionfish and Megalodaunts able to spawn in The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea**, so keep that in mind when using accessories.
+One thing you might notice is that some of these types might layer over with each other, like Megalodaunts being able to spawn on islands and The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea**, so keep that in mind when using accessories.
 
-## PVE Scaling
+## PVE Scaling/Monster Health
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a Power 60 thirty-three to twenty hits to kill one?
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one?
 
 **Well, no.**
 
-When you level up, you automatically gain bonus damage during PVE, ~currently estimated to be 10%.~
+When you level up, you automatically gain bonus damage during PVE, which is currently estimated to be **8.9%.**
 
-(I did the math for the percentage and it's should be between 8.6/8.9% more damage to PvE every level ~ Gonchyo#1754)
-
-The formula you can use to calculate how many hits you need to kill a monster is:
-
-A = (x ⋅ B) ⋅ (0,089 ⋅ C) | A is the monster's HP / B is your weapon damage / C is your current Power / x will be the number of hits needed.
-
-This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a fresh spawn with the same damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and at Power 60, you can basically kill stuff like Megalodaunts or Lionfish in less than 5 hits.
+This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level n with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 
-A Megalodaunt, which has 1000 health, would die in about 5 hits. Compare this to a fresh spawn with a weapon that does 20 damage, having to hit it 50 times, just for how big of a reference the PVE scaling makes. In all actuality, your actual damage is less important than simply being a high power.
+### Formulas
+
+The formula you can use to calculate how many hits you need to kill a monster is:
+
+H / (L ⋅ D ⋅ 0.089) = N
+
+-   H = Monster Health
+-   L = Level
+-   D = Weapon Damage
+-   N = Hits needed
+
+So as an example, If you were to fight a Megalodaunt with 1000 health, using a weapon that does 40 damage per hit, and at level 60, you would do:
+
+1000 /(60 ⋅ 40 ⋅ 0.089), which would come out to 4.6 hits.
+
+The only issue with this formula is some monsters have specific resistances to physical, magical, slash, and blunt damage. In this case, you can use:
+
+H / R / (L ⋅ D ⋅ 0.089) = N
+
+-   H = Monster Health
+-   L = Level
+-   D = Weapon Damage
+-   N = Hits needed
+-   R = Percent of damage the resistance takes away (Aka, the % of your damage you do after the % is applied. If they have 30% resistance, you put 70%).
+
+If you were to fight a Stone Knight with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
+
+9000 / 0.45 / (60 ⋅ 40 ⋅ 0.089), which would come out to 93.6 hits.
 
 ## Notes/Trivia
 

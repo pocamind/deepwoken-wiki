@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 26293
+revid: 27685
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 1.  Reach 75 Strength.
 2.  Enter the Tomb of the Nameless Soldier.
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Approch the coffin the attempt to interact with the ladder bellow it to climb down.
+4.  Approch the coffin the attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
 5.  Read the book in the room to obtain Strength Unbound.
 
 ### **Fortitude Unbound**
@@ -35,7 +35,7 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 2.  Enter Fort Merit and go into the prison cell area.
 3.  Take the second hallway to the right after taking the stairs until you find a hole to slide into. Alternatively, if you do not have a negative reputation with the guards in Fort Merit, take the first hallway to the right and follow it until the end.
 4.  Talk to Brutus, a large Khan sitting alone in a cell.
-5.  Brutus will proceed to beat you down to 1 HP, granting Fortitude Unbound if the requirements are met.
+5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met. (Note: The guards can grip you while you are downed, bring a friend or block up the entrance to avoid this)
 
 ### **Agility Unbound**
 
@@ -94,15 +94,13 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 1.  Reach 75 Flamecharm/Frostdraw/Thundercall/Galebreath/Shadowcast
 2.  Start Lord Regent's Quest in Etris. Requires a good reputation.
 3.  Talk to Kennith and finish his dialogue.
-4.  Talk to the Librarian and depletes all his dialogues.
-5.  Go above the Navaen Nomad Camp and talk to the Royal Guard, make sure to take the dialogue option given to you.
+4.  Talk to the Bookeeper, ask him about Etris then about the Duke's rise to power.
+5.  Go above the Navaen Nomad Camp and talk to the Royal Guard next to Kennith's evicerated body.
 6.  Talk to Lord Regent and obtain the Manor Key
 7.  Head on to Erisia and go all the way throught the Garden Reservoir. You will eventually reach a teleport, which takes you to [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
 8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
 9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
-10.  (Optional) Return to Lord Regent to complete the quest, which will then proceed to dispose of you. This will kill you and take a life.
 
 ## Notes
 
--   A lot of the stat unbinding quests have bits of lore in them
 -   The Windrunner is yet another reference to _The Stormlight Archives_

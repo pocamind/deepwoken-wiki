@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 26439
+revid: 27671
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -33,4 +33,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   The guards in Fort Merit can be found wearing this Outfit.
+-   This is the standard uniform of The Authority
+    -   Authority Thundercallers wear a red coat over it

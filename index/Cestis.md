@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 27616
+revid: 27669
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,14 +46,16 @@ A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md)
 
 > Cestis: Shoo shoo... Go kill your target. Quit dragging your feet.
 
-> Cestis: Ah, good work as always. You know what? You might be of more use to us than I thought.
+**1-5 Assassinations**
+
+> Cestis: Ah, good work. Here's some pocket money. Don't spend it all in one place, alright?
+
+**6+ Assassinations**
+
+> Cestis: Ah, good work as always. You know what? You might be of more use to us than I thought initally...
 
 **Subsequent Confrontations**
 
 > Cestis: Ah, you're back, looking to get your hands dirty?.
-
-> Cestis: That's the spirit. Go find and kill \[Name\], the \[Race\]. You'll make quick work of them, no? Hahaha...
-
-> Cestis: Ah, good work as always. You know what? You might be of more use to us than I thought.
 
 **35 Assassinations**

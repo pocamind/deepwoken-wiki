@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 27027
+revid: 27673
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -22,8 +22,6 @@ This Outfit requires [Power Level](Power.md) 30 and [Strength](Attributes.md) 25
 
 This Outfit has 2000 durability and grants +30% Physical resistance and +25% Elemental resistance.
 
-Acquired the armor an hour or so ago, has the talent "Burnt". Which I am unaware of what it does.
-
 ## Location
 
 This Outfit's Schematic can be found:
@@ -34,4 +32,5 @@ This Outfit's Schematic can be found:
 
 ## Trivia/Notes
 
--   This outfit is worn by the Authority Commanders and Authority Wardens, which can be found in Fort Merit.
+-   This outfit is worn by the Authority Wardens and [Authority Thundercallers](Authority_Officer.md).
+-   It is essentially just an Authority Peacekeeper Uniform with a red cloak on top.

@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 23278
+revid: 27683
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,9 +14,9 @@ _This page is for humanoid enemies. For Monster enemies, see [Monsters](Monsters
 
 ## Overview
 
-Beyond the safety of cities and towns, there are humanoid NPCs that lurk within islands; either ambushing players, patroling a certain area, or settling down on a campfire or stronghold. They serve as tools for player to advance their skills, unlock new areas, unlock better equipments and armors, or simply to act as a skill check. They could shread any players who are unskilled or unprepared, but like monsters, they could be learnt.
+Beyond the safety of cities and towns, there are humanoid NPCs that lurk within islands; either ambushing players, patrolling a certain area, or settling down on a campfire or stronghold. They serve as tools for player to advance their skills, unlock new areas, unlock better equipment and armors, or simply to act as a skill check. They could shred any players who are unskilled or unprepared, but like monsters, they could be learnt.
 
-Depending on who they are, they could vary in their skill, equipment, and attunements.
+Depending on who they are, they can vary in their skill, equipment, and attunements.
 
 This page consists of Humanoid NPCs that fight back, or attack you on sight. Includes all Factions.
 
@@ -42,11 +42,11 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 ### Summer Company
 
 -   Summer Company Guard
--   Summer Company Thug
+-   Summer Company Manager
 
 ### Ignition Union
 
--   Ignition Fighter
+-   Ignition Union Guard
 
 ### Vigils of Winds
 
@@ -55,14 +55,23 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 ### Kingdom of Etrea
 
 -   [Etrean Guard](Etrean_Guardsmen.md)
--   [King Of Etrea](The_Lord_Regent.md)
 -   Etrean Footsoldier
+-   Etrean Sailor
 
 ### The Central Authority
 
 -   Authority Warden/Commander
 -   Authority Peacekeeper/Prison Guard
 -   [Authority Footsoldier](https://deepwoken.fandom.com/wiki/Authority_Footsoldier#Tips)
+
+### The Knives of Eylis
+
+-   Knife of Eylis
+-   Knives of Eylis Captain
+
+### The Divers
+
+-   Diver
 
 ### The Hive
 
@@ -80,15 +89,20 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 
 ### Golden Rats
 
--   Golden Rat
+-   [Golden Rat](Golden_Warrior.md)
 -   [Golden Rat Bouncer](<Rat's_Den.md>)
 
 ### Miscellaneous
 
--   [Hobo (Crazed Stranded)](Hobo.md)
+-   [Hobo](Hobo.md)
 -   [Mindless Servant](Mindless_Servant.md)
 
-## Bosses
+### Bosses
 
 -   [The Duke of Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
+
+### Static Events
+
+-   [The Lord Regent](The_Lord_Regent.md)
+-   [Akira](Akira.md)

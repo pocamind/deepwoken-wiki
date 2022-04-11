@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 24097
+revid: 27672
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ Their arsenal consists of an [Officer Saber](Officer_Saber.md) and [Thundercall]
 
 -   **Double Handed Sword Attack**: Common sword M1s, can be easily parried.
 -   **Thunder Kick:** A swift kick imbued with lightning. Can be parried and blocked. They can also use this to kick their allies to enemies so they can catch them if unaware.
--   **Jolt Grab (Magnet Spark Modified):** Holds their arm out for a second then does a quick dash towards you, slamming you into the ground creating AOE if it lands. Can be parried and blocked.
+-   **Jolt Grab (Magnet Spark Modified):** Holds their arm out for a second then does a teleport to you, slamming you into the ground, creating a large AOE if it lands. Can be parried and blocked.
 
 ## Tips
 
@@ -32,5 +32,4 @@ Their arsenal consists of an [Officer Saber](Officer_Saber.md) and [Thundercall]
 
 ## Notes & Trivia
 
--   They are footsoldiers for the Central Authority located in [Fort Merit](Fort_Merit.md).
--   Everyone except the other footsoldiers, and you if you have good rep with Central Authority, are their enemies.
+-   They are all exclusively Adrets.

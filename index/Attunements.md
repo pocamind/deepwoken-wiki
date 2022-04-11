@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 27619
+revid: 27686
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -14,17 +14,13 @@ File:Attunementicon.png
 
 ## Description
 
-There are currently four base Attunements that anyone may select when first creating a character. Picking an element will restrict you from starting with any of the other three elements until you unlock a different one while playing. You can stick to one element or you may have multiple elements, but having multiple elements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your element. Mantras are abilities you learn that vary in their use to the caster.
+There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement will restrict you from starting with any of the other three Attunements until you unlock a different one while playing. You can be taught the other Attunements by their respective trainers. To unlock these, you must collect five of their respective Elemental Ingredient, dropped by NPCs that use it and certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. You can stick to one element or you may have multiple elements, but having multiple elements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your element. Mantras are abilities you learn that vary in their use to the caster.
 
 While it is possible to learn every or most Mantras of a given attunement, you are limited to the amount you can use. By default, players are given 3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (any type) Mantra slot. Extra Mantras will be stored in the inventory under their name in a pink item category ([Mantra Modifiers](Mantra_Modifiers.md)). Those limits can be broken and increased via [Oaths](Oaths.md) and certain [Talents](Talents.md).
-
-Other than the base elements, there are other unlockable elements that can be taught by their respective teachers.
 
 When creating your character, you may choose to start with no Attunement, which will start the player with no element, 10 additional points to invest into attributes (for your first power only, allowing you to have higher stats than a player who has selected an attunement at power 1), and a lower attribute qualification to obtain Physical Mantras. Attunements can still be acquired through their respective trainers.
 
 It is worth noting that Mantras can have rarities individual of their stars and attunement based mantras often have requirements of non-elemental stats (points in agility, strength etc).
-
-(Confirmed by Arch\_Mage)
 
 ## Mentioned Only
 
