@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 26379
+revid: 27695
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
@@ -37,3 +37,6 @@ Template:Creature Info Box v2 The Legion Captain is a Humanoid NPC which appears
 
 -   If you have high Enough rep with the legion, he will do /e wave to you.
 -   Normally called "Legion Centurion" or just "Khan" by the playerbase.
+-   It is possible that your rep with the Legion is negative when you start a new character until you 1-up your rep with them, like helping a centurion in a legion vs adret event once,
+
+The last one needs more testing, because when I made my new build and helped my first centurion on it, I got "The Hundred Legion don't see you worth fighting anymore"

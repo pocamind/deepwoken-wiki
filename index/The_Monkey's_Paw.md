@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 27593
+revid: 27692
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,7 +14,7 @@ Be careful what you wish for.
 
   
 
-LocationL The Primadon's Hunting Ground LocationR
+LocationL Primadon's Hunting Grounds LocationR
 
 You shrink in the face of a true predator.
 

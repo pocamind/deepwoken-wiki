@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 27630
+revid: 27693
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -68,7 +68,7 @@ Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
-~You can also get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis's quest.~ This has been proven false by multiple videos. The "Stranger" NPC is glitchy and appears to be unfinished. The screenshot showing the Charisma check option has been doctored and proven to not exist. ([https://www.youtube.com/watch?v=KoqopS4AXxw](https://www.youtube.com/watch?v=KoqopS4AXxw))
+You can also get this Murmur by finding an incredibly rare NPC randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest.
 
 ## Murmur: Rhythm
 
