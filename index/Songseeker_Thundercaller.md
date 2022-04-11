@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 27680
+revid: 27721
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -29,7 +29,7 @@ Thundercaller Monks are armed with their [fists](Fists.md), and use the Way of N
 
 ### Combat
 
-Thundercaller Monks have the Way of Navae fist style, but alternatively use [Thundercall](Thundercall.md) Mantras against their opponents. These Mantras have little to no cooldown.
+Thundercaller Monks have the Way of Navae fist style, but alternatively use [Thundercall](Thundercall.md) Mantras against their opponents. These Mantras have little to no cooldown. Thundercaller monks are the only Songseeker monks who can parry.
 
 -   **Jolt Grab**: Teleports into the opponent and slams them into the ground. Deals damage and stun. Can be blocked and parried.
 -   **Thunder Kick**: The monk sends out a powerful kick forward. Deals damage, stun and knockback. Can be blocked and parried.

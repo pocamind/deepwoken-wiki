@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 27362
+revid: 27731
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -182,6 +182,7 @@ Impale/Impact
 -   Can be used to climb or cross gaps.
 -   Deals heavy damage and briefly slows targets.
 -   Can be upgraded with Glass Stone. This makes it form a mini ice eruption at the end of it.
+-   Can be upgraded with Cloudstones to form more arcs.
 
  |
 | File:Ice Skate.png | Ice Skates

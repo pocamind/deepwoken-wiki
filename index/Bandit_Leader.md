@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 25745
+revid: 27725
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,23 +11,25 @@ Template:EnemyInfobox1.0
 
 **Bandit Captains** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
-## Appearance
+## **Appearance**
 
 Bandit Captains wear a brown, red and white coat with brown gloves. Their [race](Aspects.md) and gender can vary.
 
-## Locations
+## **Locations**
 
-Bandit Captains can appear in [Random Encounters](Random_Encounters.md) and in locations listed below. They typically spawn with [Bandits](Bandit.md).
+Bandit Captains can appear in [Random Encounters](Random_Encounters.md) and in locations listed below. They typically spawn with two [Bandits](Bandit.md) sitting around a Campfire.
 
 -   [Lower Erisia](Lower_Erisia.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [Summer Isle](Summer_Isle.md)
 
-## Enemy Information
+## **Enemy Information**
 
 ### Health
 
-Bandit Captains have 220 health. Cannot be assasinated without the assasin talent, however will stay on the ground long enough to knock or get down to one tap.
+Bandit Captains have 220 health. Cannot be one-shot assassinated without the Assassin [Talent](Talents.md), however attempting to do so without it will ragdoll them and still deal a good chunk of damage.
 
 ### Weapons
 
@@ -39,8 +41,8 @@ Bandit Captains can use Light and Heavy Attacks, and usually parries and blocks.
 
 ### Drops
 
-Bandit Captains can drop lesser [Mantra Modifiers](Mantra_Modifiers.md).
+Bandit Captains commonly drop lesser, although they can also drop rare [Mantra Modifiers](Mantra_Modifiers.md) such as Sparks. (Got a Tornado Spark from gripping a Captain once)
 
-## Trivia/Notes
+## **Trivia/Notes**
 
 -   Player notes here.

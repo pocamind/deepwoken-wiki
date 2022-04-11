@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 27367
+revid: 27717
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Locations, Attunement, Armors, Weaponry, Weapons, World, Talents]

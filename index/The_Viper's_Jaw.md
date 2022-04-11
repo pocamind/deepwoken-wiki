@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 24238
+revid: 27726
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -32,9 +32,9 @@ The entrance can be found just past the Bandit village or underneath [The Birdca
 -   [Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
 -   Etrea vs The Central Authority
--   Bandit camps
+-   [Bandit](Bandit.md) Camps
 -   Knives of Eylis (usually spawn with a Navaen Hostage (Way of Navae))
 -   [Hobo](Hobo.md)
--   Those pathfinders that you can turn in to Alastir in the Pathfinder's Respite (the Legion NPCs will grip them, some spawned right in front of the camp.
+-   Those pathfinders that you can turn in to Alastir in the Pathfinder's Respite (the Legion NPCs will grip them on sight, some spawned right in front of the camp.)
 -   I seem to remember Central Authority NPCs spawning by the Legion camp, spawning to attack the NPCs in the camp, and some spawning in wars with the Legion. It was a while ago, though, so, correct me if I'm wrong, please.
 -   If I edited anything wrongly, please message me. Chezzy#0873

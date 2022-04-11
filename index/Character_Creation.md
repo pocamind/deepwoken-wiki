@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 25747
+revid: 27723
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
@@ -34,13 +34,13 @@ Each character may have a maximum of two [attunements](Attunements.md), one sele
 
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
-## Combat Styles
+## Weapon Classes
 
-When customizing your character, there is a total of three [combat styles](Weapons.md) you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_.
+When customizing your character, there is a total of three [weapon classes](Weapons.md) you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_.
 
-_(Weapon Manuals do not teach you a new [combat style](Weapons.md), but they allow you to train the type of style of the weapon you are currently using. To change your [combat style](Weapons.md) you need to equip the specific weapon corresponding to your desired style)_
+_(Weapon Manuals do not teach you a new [weapon classes](Weapons.md), but they allow you to train the type of style of the weapon you are currently using. To change your [weapon classes](Weapons.md) you need to equip the specific weapon corresponding to your desired style)_
 
-### Unlockable Combat Styles
+### Unlockable Starter Weapon
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
@@ -73,7 +73,7 @@ The Isle of Vigils is a small island with a fortress guarded by Vigils with [Kat
 
 Here is what makes the Isle of Vigils unique:
 
--   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who (most people don't know) will request you to bring a crate of food up to Stratos at the Temple of Blades. This will reward you 25 notes, equaling the starting notes you would receive at Etris, without having to risk selling a gold ring with good stats.
+-   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who (most people don't know) will request you to bring a crate of food up to Stratos at the Temple of Blades. This will reward you 25 notes, **allowing you to start off with 50 notes**
 -   A trainer to fight against with no consequences for losing all your HP.
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 27470
+revid: 27740
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -73,6 +73,8 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 -   Suffocating Impact \[Generic Talent, Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Gale Coil \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Aeronade \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
+-   Vaccum Punch \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
+    -   Prerequisite: Gale Punch
 
 ### Alchemist
 
@@ -187,8 +189,14 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Blindseer
 
 -   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
-    -   Prerequisite: Escape the depths with a player substantially lower level than you.
+    -   Prerequisite: Escape the depths with a player substantially lower level than you once.
     -   Allows you to absorb the insanity of other players.
+-   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cast mantras.
+    -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds.
+    -   Prerequisite: Escape the depths with a player substantially lower level than you 10 times.
+-   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
+    -   After a short wind-up, shoots a multi-hit laser beam from your eyes which does more damage depending on how insane you are.
+    -   Prerequisite: Escape the depths with a player substantially lower level than you 25 times.
 
 ### Brawler
 
@@ -665,6 +673,13 @@ These are just raw stat increase and are beneficial to anyone.
         -   You can only take one Oath per Character.
 -   Oath: Visionshaper - You vow to only see that which you see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots, +10 Ether)
     -   Prerequisites: 50 Charisma 10 Willpower, Nestmind Quest
+
+### Omniscient
+
+-   Intelligence Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
+-   Successive Prediction \[Generic Talent, Rare Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
+    -   Prerequisite: Prediction (Intelligence Mantra)
+    -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
 
 ### One Eyed King
 
@@ -1148,8 +1163,6 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 -   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit )
     -   Doesn't have an animation, nor does it make you do 2 more m1s to flourish. It makes you hit twice when you flourish, and these hits aren't visible.
-
-  
 
 ### Flamecharmer
 

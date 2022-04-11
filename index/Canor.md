@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 26870
+revid: 27730
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Talents, Attributes]
@@ -27,7 +27,6 @@ _Chance of obtaining race: **15.2%**_
   <td><b>Loyalty</b>
   <ul>
     <li>Allies take less damage from attacks.</li>
-    <li>Allies do less damage to you.</li>
   </ul></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 27183
+revid: 27720
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -243,6 +243,6 @@ These talents are found in the "Undying Ember" catagory.
 -   Flamecharm does not currently (as of 3/30/2022) possess any 3-star Mantra.
 -   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
--   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_. (Whoever wrote this might be a little retarted because "Azure" just means blue so "Azure Flames" just means blue flames.)
+-   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_. (Whoever wrote this is probably wrong because "Azure" means blue so "Azure Flames" just means blue flames.)
 -   Flame Leap's Reversal Version negates fall damage for a small duration. It can also be used in mid air; but expect fall damage upon use.
 -   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like agitating spark where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes Flame Within equal if not better than Static withdraw or lightning cloak.

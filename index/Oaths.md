@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27624
+revid: 27733
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -88,12 +88,12 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   The entire beams deals around 120 damage.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
-    -   Obtaining: 10 low level player helped in the Depth Trial (must be alive)
+    -   Obtaining: 25 low level player helped in the Depth Trial (must be alive)
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in it's radius
         -   This affects everybody, including the caster and their allies.
     -   About the size of a medium Sacred field roll
-    -   Obtaining: 25 low level player helped in the Depth Trial (must be alive)
+    -   Obtaining: 10 low level player helped in the Depth Trial (must be alive)
 
   
 
@@ -179,3 +179,4 @@ Does not grant any special cosmetic based on race.
 
 -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well. An example is the recently added Visionshaper Oath.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
+-   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them

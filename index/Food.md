@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 24963
+revid: 27750
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Talents, Character, Locations, Mechanics]
@@ -53,11 +53,12 @@ Some foods fill a portion of your Hunger/Thirst bar with a different color, know
 
 Probably these buffs can also be amplified with the "Apothecary" talent perhaps?
 
-## Notes
+## Trivia
 
--   Some foods like Pomar will damage you but doesn't hurt you in other ways and still satiates your hunger, it is not known why. Pomar may represent a pineapple(just like a calabash represents pears). Pineapples contain bromelain, which breaks down proteins(what most of your body is made out of) which is why they hurt you a little bit but satify your hunger.
--   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout Hive, And Rarely Erisia and Summer Isle. The Meat Lord sells a variety of foods which some grant essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
-    
-    A Individual who has crossed paths with The Meat Lord.
-    
+A Individual who has crossed paths with The Meat Lord.
+
+-   Pomar is the only fruit that will damage you.
+    -   Pomar may represent a pineapple (just like a red represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they hurt you.
+-   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and rarely [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
+    -   He also sells one of the best food items in the game, as it takes no inventory space.
 -   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches 0 and you collapse on the ground and die.
