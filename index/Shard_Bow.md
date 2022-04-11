@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 27364
+revid: 27662
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,35 +21,35 @@ categories: [Pages with broken file links]
 
 ### _Appearance_
 
-User summons a white bow that will shoot arrows at enemies.
+User is launched backwards and summons a white bow that shoots explosive arrows at the cursor.
 
 ## Usage
 
-Press C will activate the **Shard Bow** resonance
+Press C to activate.
 
-You will summon a white bow before shooting out arrow(s)
+You will summon a white bow before shooting out a arrow(s)
 
 _**Variant 1: Evasive**_
 
-Leap backward into the air before firing a single explosive arrow at your cursor
+Leap backward into the air, before firing a single explosive arrow at your cursor.
 
-**Variant 2: Rapid fire**
+**Variant 2: Rapid Fire**
 
-Leap directly upward before firing 3 explosive arrows below you. Each arrow will bounce you back into the air
+Leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further.
 
-Does 70 damage (Confirmed with testing)
+Does ~47 (46.75) damage per shot with Rapid Fire variant. Up to further experimentation, may scale off a stat not displayed.
 
-**Corrupted:**
+**Corrupted Variants:**
 
-Leap backward/upward further before firing arrows (not that great considering the trade off)
+Leap backwards and upwards further before firing the arrows. (Not that great, considering the Corrupted downsides)
 
 ## Trivia/Notes
 
--   Cooldown is around 20 seconds - Papamatsu
--   Does a little less damage than a Strong Left (presumably without 100 str scaling) - Also Agagagagamatsu
--   Tried testing damage on my friends freshie does around 70 damage (Variant 2)
--   Based on Agamatsu's rocket launcher bell idea
+-   Cooldown is around 20 seconds - Agamatsu (whoever changed it to papamatsu stfu u dream stan)
+-   Does a little less damage than a Strong Left (presumably without 100 str scaling) - Also Agamatsu
+-   Tried testing damage on my friends freshie does around 70 damage (Variant 2) **MAY BE OUTDATED INFO**
 -   Reference to _The Stormlight Archive_'s Shardbows
-    -   visual effect of the arrow is currently bugged
+-   The visual effect of the arrow is currently bugged. (Only the first shot displays an explosion)
+    
 
 File:Shard bow.gif

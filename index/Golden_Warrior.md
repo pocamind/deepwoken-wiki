@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 26958
+revid: 27664
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,10 +9,16 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 The Golden Warrior is a **Passive NPC Unless Provoked** that spawns leaning on random walls in Erisia (Bandit Island).
 
-This NPC **Will Grip Upon Death Like Most.**
+  
+
+**The Golden Rat Bouncer is the the Tanky Counterpart of the Golden Warrior.**
 
   
-Pressing \[E - Inspect\] will prompt you with his dialogue.
+
+The golden rat bouncer **Does Not** grip upon knocking unlike its Golden Warrior Counterpart making it really good for heavy parrying practice.
+
+  
+Pressing \[E - Interact\] with the random encounter golden warrior will prompt you with his dialogue.
 
 "Ah hello! Would you like to duel? You may take the first swing! Ha, I'll even give you 3."
 
@@ -24,7 +30,9 @@ The Fight isn't too difficult as long as your at least moderate at Parrying.
 
 **Reward: 1 Chest (Contents Unknown)**
 
-Golden Warrior Leaning on Wall at The Golden Rat.
+**\- 1 Gold Plate**
+
+Golden Rat Bouncer Leaning on Wall at The Golden Rat.
 
 This Random Encounter is assumed to be Moderately rare so don't lose your chance to fight this thing,
 

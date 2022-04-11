@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27655
+revid: 27657
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -92,7 +92,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light] COMPLETELY WRONG, I have it on cestus and it takes like 12. Dont trust the wiki). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>

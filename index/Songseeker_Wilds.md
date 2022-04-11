@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 24193
+revid: 27665
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -26,7 +26,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 ### Small Island
 
 -   A mineshaft containing several nodes of Rock, Coal, Iron and Gold.
--   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit and Pomar.
+-   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit, Ongos and Pomar.
 -   A small campsite on top of a hill.
 
 ### Large Island
@@ -80,6 +80,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   Brilliant Boots
 -   Khan Boots
 -   Ranger's Boots
+-   Crimson Blindfold
 
  | 
 
