@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 22584
+revid: 27822
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,6 @@ Every time a season passes your arena skulls in [Chime of Conflict](Chime_of_Con
 
 ### Spring
 
--   ~Spring increases your luck by 10%~ Proof?
 -   Rain
 -   Fruits and wheat will start to spawn
 
