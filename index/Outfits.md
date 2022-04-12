@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 27798
+revid: 27814
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -237,7 +237,7 @@ _Requires Power 40_
 | File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests |
 |  | Ranger's Brace | Grants a random buff. | Erisia Chests |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests |
-| File:Sharko coat.png | Megalodaunt Coat | Grants 3 random stats with at least one being monster related. Comes in various colors
+| File:Sharko coat.png | Megalodaunt Coat | Grants 3 random stats with at least one being monster related.
 _Requires Power 30_
 
  | Megalodaunts Drop |
@@ -257,7 +257,7 @@ _Requires Power 40_
  | Summer Isle Scope Quest |
 | File:Gumshoe Long Coat.png | White Gumshoe Longcoat | Grants a random buff. | Songseeker Chests |
 |  | Providence Coat | Grants a random buff. | Primadon Chests, Depths Chests |
-| File:Red justicar defender coat.png | Red Justicar Defender Coat | Grants a random buff.
+| File:Red justicar defender coat.png | Faded Justicar Defender Coat | Grants a random buff.
 
 _Requires Power 40_
 

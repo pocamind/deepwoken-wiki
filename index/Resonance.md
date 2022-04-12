@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27475
+revid: 27809
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -134,7 +134,7 @@ Talk to Sibex until he tells you this lines:
 
 **Note: This does not guarantee that you are ready to get your Resonance, it's just a very likely indicator that you're close.**
 
-Once going to The Depths with max Progress:
+Once you get knocked in The Depths with max progress:
 
 -   You'll be revived and healed to 100%. If you were knocked by a player, they will be healed to 100% aswell.
 -   Your Blood, Thirst and Hunger are maxed out.

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 27789
+revid: 27812
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -40,7 +40,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Fugitive
 **(NEW)**
 
- | "All factions hate you." | This is an extremely harsh flaw, causing you to get attacked by all factions (within range). | 1 |
+ | "All factions hate you." | Start the game with negative reputation with all factions. Cannot pay to remove negative reputation. Currently the worst flaw in the game, as you can never remove your terrible reputation, meaning legion kata, manor key and other reputation based things are not available for you. | 1 |
 | Haemophilia | "You bleed more." | Increases blood loss from all sources. | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
 | Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%
