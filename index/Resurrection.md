@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27469
+revid: 27807
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,9 @@ categories: [Resonance]
 | effect | Prevent the death of the target entity, return them to the user and heal them. |
 | appearance | A white star and a white circle. |
 
-“ {{{quote}}} ”
+“ Remembering the melancholy of human existence, Even ghosts stray from the path of righteousness ”
 
-― {{{author}}}
+― "Resurrection Butterfly -80% Reflowering-"
 
   
 

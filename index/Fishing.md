@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27761
+revid: 27793
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
@@ -82,7 +82,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 -   Calabash: Effects: Unknown (If any). 1 Calabash gave me 1 Miss
 
--   Fish Meat: Effects: Average, maybe slightly slower Bites, Result: For this test I'm only using up 15 while having 35. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Honestly no idea how I missed so much, pretty sure I just got unlucky and had a bad camera angle, or I'm coping.)
+-   Fish Meat: Effects: Average, maybe slightly slower Bites, Result: For this test I'm only using up 15 while having 35. Result: 9 Sea Bass, 7 Urchins, 8 Miss, 2 Seaweed, 1 Squid, 3 Red Snappers. (Honestly no idea how I missed so much, pretty sure I just got unlucky and had a bad camera angle, or I'm coping.) Redd: Effects: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 
 If you want to add more, feel free. I'm done for the time being.  
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27788
+revid: 27794
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -140,7 +140,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Can hit allies.</p>
+  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Can no longer hit allies as of 4/11/2022</p>
   <p><br>
   </p></div></td>
 </tr>

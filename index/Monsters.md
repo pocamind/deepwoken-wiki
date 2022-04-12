@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 27667
+revid: 27797
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -145,12 +145,7 @@ Calculating how much health a Monster has from just your damage alone won't be c
 
 The formula you can use to calculate how many hits you need to kill a monster is:
 
-H / (L ⋅ D ⋅ 0.089) = N
-
--   H = Monster Health
--   L = Level
--   D = Weapon Damage
--   N = Hits needed
+_**HitsNeeded = MonsterHealth / (PowerLevel ⋅ WeaponDamage ⋅ 0.089)**_
 
 So as an example, If you were to fight a Megalodaunt with 1000 health, using a weapon that does 40 damage per hit, and at level 60, you would do:
 
@@ -158,7 +153,7 @@ So as an example, If you were to fight a Megalodaunt with 1000 health, using a w
 
 The only issue with this formula is some monsters have specific resistances to physical, magical, slash, and blunt damage. In this case, you can use:
 
-H / R / (L ⋅ D ⋅ 0.089) = N
+_**HitsNeeded = MonsterHealth / PercentOfDamageDealt / (PowerLevel ⋅ WeaponDamage ⋅ 0.089)**_
 
 -   H = Monster Health
 -   L = Level
@@ -166,7 +161,7 @@ H / R / (L ⋅ D ⋅ 0.089) = N
 -   N = Hits needed
 -   R = Percent of damage the resistance takes away (Aka, the % of your damage you do after the % is applied. If they have 30% resistance, you put 70%).
 
-If you were to fight a Stone Knight with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
+If you were to fight a Stone Knight, which has a 55% resistance to slashing, with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
 
 9000 / 0.45 / (60 ⋅ 40 ⋅ 0.089), which would come out to 93.6 hits.
 

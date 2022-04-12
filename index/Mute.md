@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 27370
+revid: 27800
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -27,7 +27,7 @@ This means you have to hit the mob first if you want them to aggro on you.
 -   [Deep Owls](Deep_Owl.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Threshers](Thresher.md)
--   [Ministry Scouts](Ministry_Scout.md) (bug)
+-   [Ministry Scouts](Ministry_Scout.md) (bug) **PATCHED**
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Enforcer](Enforcer.md)
 -   [Nautilodaunt](Nautilodaunt.md)
