@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27657
+revid: 27788
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -58,8 +58,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On hit, the Umbral Knight will perform a slash dealing 20% of the M1's original damage.<br>
-  Hitting non humanoid entities deals the slash to the user.</p></div></td>
+  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
+  Hitting non humanoid entities deals the slash both to the monster and user. The slash counts as a second hit and can be used to confuse opponents due to it being able to cause parry frighten.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>

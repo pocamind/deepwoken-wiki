@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27466
+revid: 27761
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
@@ -53,6 +53,8 @@ Fishing up the Tuna.
 -   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish can be golden and will appear yellow when caught
 
 A lot of fish (with crow tarsus)
+
+File:RobloxScreenShot20220410 233312197.png
 
 ## Bait
 

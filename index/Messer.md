@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 23627
+revid: 27754
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Weapon Shop at Etris |
 
-##### _"Bullet may can tear through metal. But I don't care since they can't handle the smoke from my MED 10 Messer."_
+##### _"Bullet may tear through metal. But I don't care since they can't handle the smoke from my MED 10 Messer."_
 
 \-Someguy who killed the entire population of Summer Company with a Messer
 

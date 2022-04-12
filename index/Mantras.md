@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 27398
+revid: 27791
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 
 ## Description
 
-File:Mantraicon.png
+File:Wiped3.png
 
 Considered to be the root of Ether's usage, mantras are the heart of Deepwoken's magic system and take the form of various spells and abilities. Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up.
 
@@ -24,6 +24,7 @@ There are different rarities for mantras, similarly to talents.
 
 -   Lightning Cloak (Confirmed)
 -   Ice Fissures (Speculated)
+-   Cotton Gin (Confirmed)
 
 ### Rare Mantras
 

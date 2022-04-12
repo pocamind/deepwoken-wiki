@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 27651
+revid: 27763
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -122,7 +122,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart.
     -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high dmg. when upgraded and 75+ lht.
-    -   Requirement: 6 Light Weapon, _Light Weapons Agility Mantra_
+    -   Requirement: 6 Light Weapon, _Light Weapons Mobility Mantra_
 
 ### _**Medium Weapon Mantras**_
 

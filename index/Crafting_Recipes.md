@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 26491
+revid: 27752
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -57,13 +57,13 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
 
-Keys: **\[V\]** - Vegetarian **\[C\]** - Carnivore
+Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
 ### _Non-Campfire Recipes_
 
 -   **\[V\] \[C\] [Noodles](Noodles.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[V\] \[C\] [Redd Juice](Redd_Juice.md)** - _3 Redd_
--   **[Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
+-   **\[V\] [Fruit Salad](Fruit_Salad.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
 -   **\[C\] [Sushi](Sushi.md)** - _1 Fishmeat, 1 Seaweed Bundle_
 
 ### _Campfire Recipes_

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 27733
+revid: 27755
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -10,7 +10,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 30+ |
+| oath_req | Power 25-30+ |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |
@@ -37,7 +37,7 @@ There are currently only three Oaths in _Deepwoken_. More are planned to be adde
 
 _"You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?"_
 
-**Oath: Oathless** requires [Power Level](Power.md) 30+ to obtain in card rolls.
+**Oath: Oathless** requires [Power Level](Power.md) 25-30+ to obtain in card rolls.
 
 ### Obtaining
 
@@ -59,7 +59,7 @@ _"You vow to not let the horrors of the world pierce your tightly fastened blind
 
 ### Obtaining
 
-Obtaining Blindseer is harder than Oathless(minus the entire not having a level requirement part), and requires a Blindfold for the process.
+Obtaining Blindseer is harder than Oathless (minus the entire not having a level requirement part), and requires a Blindfold for the process.
 
 1.  Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 2.  Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
@@ -88,12 +88,12 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   The entire beams deals around 120 damage.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
-    -   Obtaining: 25 low level player helped in the Depth Trial (must be alive)
+    -   Obtaining: 25 low level players helped in the Depth Trial (must be alive)
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in it's radius
         -   This affects everybody, including the caster and their allies.
     -   About the size of a medium Sacred field roll
-    -   Obtaining: 10 low level player helped in the Depth Trial (must be alive)
+    -   Obtaining: 10 low level players helped in the Depth Trial (must be alive)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 26920
+revid: 27790
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -17,7 +17,7 @@ Chance of obtaining race: **17.4%**
 
 ## Description
 
-Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common race, and can be found most commonly at Etris. Etreans get an agility and intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as racists.
+Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common race, and can be found most commonly at Etris. Etreans get an agility and intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as racists. etreans are snakes in the grass my guild members hate etreans
 
 ## Racial Traits
 
