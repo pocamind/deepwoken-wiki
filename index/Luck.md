@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 27373
+revid: 27838
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -88,7 +88,7 @@ There is a rare chance to catch a golden fish/seaweed which rewards the player w
 -   As long that no players are credited for your death, you will not lose luck. Dying to NPCs is fine.
 -   If you second wind after wiping, your luck stat will persist (Not very helpful as people rarely second wind but worth mentioning)
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
-    -   After newer updates, you can rarely get luck from any mob, from fishing or just from Arena, meaning that as any level, since you can even get luck from the common bandit there is still **no reason** to grip anyone for luck, again unless you are just _that toxic_, or are acting in self defence.
+    -   After newer updates, you can rarely get luck from any mob, from fishing or just from Arena, meaning that as any level, since you can even get luck from the common bandit there is still not a lot of reasons to grip anyone for luck, again unless you are just acting in self defence. It is up to you to decide if you want to take the risk of ganking someone for their luck.
 -   Luck does **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch
 -   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop chests with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck. Doing the Trial of One is also a great choice for getting luck at the very start of your progression.
 -   Gaining luck increases the chance of getting legendary/rare talents, but there is no guarantee of getting them. It is possible to gain no legendary/rare cards with max luck, just as it is possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.

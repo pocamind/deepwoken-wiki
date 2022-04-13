@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27809
+revid: 27836
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -101,7 +101,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
 
- | Go to [The Depths](The_Depths.md) and kill Players, Monsters unique to the depths (such as [Nautilodaunt](Nautilodaunt.md)), and Corrupted Monsters. | Fight and kill Players. |
+ | Go to [The Depths](The_Depths.md) and kill Players, Monsters unique to the depths (such as [Nautilodaunt](Nautilodaunt.md)), and Corrupted Monsters. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
 | **Extra/Important information:** |
 | Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
 
