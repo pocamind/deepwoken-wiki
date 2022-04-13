@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27794
+revid: 27856
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -63,7 +63,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and attacks remove more blood. Missing an M1 deals 2% damage to yourself (as stated in #updates).</p></div></td>
+  <td><div><p>M1s deal 10% more damage and attacks remove more blood. Missing an M1 deals 2% of max hp as damage to the user.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -92,7 +92,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light] COMPLETELY WRONG, I have it on cestus and it takes like 12. Dont trust the wiki). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -116,8 +116,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div>Increases weapon attack speed slightly, (slower weapons receive a higher bonus) Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed (slower weapons gain more speed per stack)<br>
-  <p>This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon.</p></div></td>
+  <td><div>Increases weapon attack speed slightly. Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed. Slower weapon receive a greater increase in attack speed.<br>
+  <p>This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon.<br>
+  Attack speed buff cannot be stacked on allies.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
@@ -140,13 +141,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
-  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Can no longer hit allies as of 4/11/2022</p>
+  <td><div><p>Whenever damage is dealt, 10% of the damage is dealt to everyone (beside the user) in a small area. Does not hit allies.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>Every M1 connection will regenerate your armor durability. If the opponent is a player, it steals 5% of their armor as well.</p>
+  <td><div><p>On hit, steal 5% of the target's armor durability and add it to your own.<br>
+  Works on NPCs and Monsters too.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -163,7 +165,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>Stone enchant increases the posture damage of your weapon, this posture increase scales off weapon damage.</p>
+  <td><div><p>Posture damage is increased. Scales of weapon damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -246,7 +248,7 @@ Multiplicity
 
  | 
 
-On proc, reduce damage taken by ?% while recovering hunger, thirst and blood.  
+On proc, recover hunger, thirst and blood.  
 Does not proc against NPCs.
 
   
@@ -318,7 +320,6 @@ Drowned equipments grant, on top of their base stat:
 10 Ether  
 20 Reservoir  
 10 Sanity  
-While they are only stats increases, they are still valuable as it would take an insane amount of luck to generate an equipment with this much stats alone.  
 Due to a bug, the stats will not be showned when looking at the equipment throught a campfire, they do apply normally however.
 
   

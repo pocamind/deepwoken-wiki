@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27807
+revid: 27852
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -27,7 +27,7 @@ The target of the resonance is represented with a star, while the user is repres
 
 ## Usage
 
-Pressing C tags the target with a star, be it an NPC or a player (can be allies and non allies) but cannot target the user. While the effect is a active, a white circle is visible on the back of the user. These effects last for 3 seconds.
+Pressing C tags the target with a star, be it an NPC or a player (can be allies and non allies) but cannot target the user. While the effect is a active, a white circle is visible on the back of the user. These effects last for 5 seconds.
 
 If the target is knocked while the star is active, they will be brought into the air, restoring 15-30% HP.
 
@@ -42,7 +42,7 @@ Resurrection has 2 variants, with a common varying factor being the amount of HP
 
 #### _Corrupted_
 
-**Corrupted Ressurection** - Unknown
+**Corrupted Ressurection** last 7 seconds on the target instead of 5.
 
 ## Trivia/Notes
 
