@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 27674
+revid: 27883
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,6 +68,8 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 ### Drops
 
 Killing the Construct is not recommended but will reward a ton of XP (3-4 of them can level up a skill once at level 50+), along with a chest where it spawns.(Killing the Authority Commander is much easier.) The chest has standard loot for [Starswept Valley](The_Starswept_Valley.md). This is risky however, due to the Construct's sheer damage, so its best to third party the fight between the Construct and the Authority Commander as best as possible, maintaining just enough damage to consider you "participated", thus earning you a chest. The Rogue Construct at Minityrsa is much riskier to fight, as it is a direct 1v1, however the loot is much better, with it's chest containing about twice the loot of a [King Thresher](Thresher.md).
+
+Loot table:
 
 The Rogue Construct located on top of Minityrsa have a chance of dropping the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>), [Night Axe](https://deepwoken.fandom.com/wiki/Night_Axe?so=search), and [Mantra Modifiers](Mantra_Modifiers.md).
 

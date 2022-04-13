@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 24711
+revid: 27864
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,6 +30,8 @@ categories: [Weapons, Weaponry]
 ## Description
 
 The Inquisitor's Straight Sword is a Greatsword added in update pv\_FEB\_08\_18:45. It has a black handle and center with a grey (white?) edge. The weapon has a Base Damage of 23.5 and a scaling of 8. You can obtain it from [Rogue Constructs](Hive_Construct.md) or [Primadon](Primadon,_Titan_of_the_East.md).
+
+(with 100 hvy u will deal 42.3 dmg)
 
   
 

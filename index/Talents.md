@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 27740
+revid: 27860
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -818,6 +818,7 @@ These Talent are meant to make maintaining your ship easier.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Note that the requirement for this talent is 75 galebreath, it is not required to be uncapped as has been proven.
 -   Silencer's Blade \[Generic Talent, Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)
+    -   Requires power 40 and a good ammount of galebreath. It's equal to or lower than 75, but I haven't tested it thoroughly.
 -   Silencer's Edge \[Generic Talent, Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity, +2 Health)
 
 ### Singer
@@ -1162,7 +1163,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Navaen-Nomad
 
 -   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit )
-    -   Doesn't have an animation, nor does it make you do 2 more m1s to flourish. It makes you hit twice when you flourish, and these hits aren't visible.
+    -   ~Doesn't have an animation, nor does it make you do 2 more m1s to flourish. It makes you hit twice when you flourish, and these hits aren't visible.~ Tested, nope it's bugged and currently does nothing.
 
 ### Flamecharmer
 

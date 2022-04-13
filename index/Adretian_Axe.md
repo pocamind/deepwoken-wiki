@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 23069
+revid: 27882
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,13 +11,13 @@ categories: [Weapons, Weaponry]
 | Adretian Axe | |
 |---|---|
 | type | Heavy Greataxe |
-| requirements | 40 HVY |
-| damage | 26 |
-| scaling | 8 |
+| requirements | 35 HVY |
+| damage | 24 |
+| scaling | 7 |
 | range | 8 |
-| swing speed | 0.61x |
+| swing speed | 0.62x |
 | penetration | N/A |
-| weight | 6 |
+| weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,10 +27,8 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Adretian Axe is a Heavy Weapon of the Greataxe catagory. It can be obtained through the Fort Merit Etrean rescue Quest. It has 26 Base Damage and a scaling of 8.
+The Adretian Axe is a Heavy Weapon of the Greataxe catagory. It can be obtained through the Fort Merit Etrean rescue Quest. It has 24 Base Damage and a scaling of 7.
 
 ## Notes
 
--   This weapon is very good for no reason. It has a low stat requirement for how good it is, and outclasses most of the endgame Heavy Weapons in every way possible despite this.
--   Drippiest Axe (Drippier with [Adret](Adret.md)).
--   Does more damage than [Pale Morning](Pale_Morning.md), and only slightly less than [Petra's Anchor](<Petra's_Anchor.md>), but does a decent amount less than [Enforcer's Axe](<Enforcer's_Axe.md>), and the same amount as [Darksteel Greatsword](Darksteel_Greatsword.md).
+-   Went from a tool of mass destruction to a budget iron birch in one update.
