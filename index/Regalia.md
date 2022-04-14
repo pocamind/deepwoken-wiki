@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 27275
+revid: 27958
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -73,3 +73,4 @@ Gain the ability to consume non-food items.
 -   There may be more Regalia, however only two have been found.
 -   Regalia are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
 -   Seeing the Termite card upon wiping does NOT unlock the Regalia "Termite". It is unknown what the card is supposed to indicate. (this may be a bug)
+-   Regalias in Spanish means gift, perhaps hinting at how it is an invisible powerful boon that gives power to it's user.

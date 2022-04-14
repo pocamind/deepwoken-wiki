@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 27308
+revid: 27948
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Locations, Luck, Boss]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry, Locations, Luck, Boss]
 | Krulian Knife | |
 |---|---|
 | type | Light Dagger |
-| requirements | 60 LHT |
+| requirements | 75 LHT |
 | damage | 13.5 |
 | scaling | 10 LHT |
 | range | 6.5 |
