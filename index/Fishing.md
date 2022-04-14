@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27877
+revid: 27888
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
@@ -49,7 +49,7 @@ Fishing up the Tuna.
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
--   Chests (Very rare, can contain loot from almost any possible chest, including ones from [Valley of Heroes](The_Valley_of_Heroes.md) and from [Duke Erisia](Duke_Ishamon_Erisia.md))
+-   Chests (Very rare, can contain loot from almost any possible chest, including SOME special ones such as the chest from [Duke Erisia](Duke_Ishamon_Erisia.md), not all of them)
 -   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught.
 
 A lot of fish (with crow tarsus)

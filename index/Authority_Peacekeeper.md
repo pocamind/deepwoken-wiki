@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 23787
+revid: 27923
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Authority Peacekeepers are the guards found patrolling at [Fort Merit](Fort_Merit.md), they somehow are "dumber" in combat than their weaker version, the Authority Footsoldiers, although a noticeable increase in their health (around 1000).
+Authority Prison Guards are the guards found patrolling at [Fort Merit](Fort_Merit.md), they somehow are "dumber" in combat than their weaker version, the Authority Footsoldiers, although a noticeable increase in their health (around 1000).
 
 Their appearance consists of a Authority Peacekeeper Uniform and an Authority Helmet.
 

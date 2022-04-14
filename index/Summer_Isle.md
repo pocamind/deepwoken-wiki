@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 26579
+revid: 27898
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -210,16 +210,16 @@ Possible items found after completing Scope's quest
 
 -   [Trident Spear](Trident_Spear.md) (0-1 star)
 -   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
--   [Forge Greathammer](Forge_Greathammer.md)
+-   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>) (0-1 star)
+-   [Serpent's Edge](<Serpent's_Edge.md>) (0-2 star)
 -   [Iron Cestus](Iron_Cestus.md)(0-1 star)
 -   [Ritual Spear](Ritual_Spear.md)
 -   Practitioner's Earrings
--   Burgundy/Beige/Slate Tophat
+-   Burgundy/Beige/Slate Tophat (0-2 star)
 -   Burgundy/Beige/Slate Aristocrat Coat
 -   Novice Boots
--   Rebel's Bandana (0-1 star)
+-   Rebel's Bandana (0-2 star)
 -   (Emerald, Scarlet, Rose, Onyx, Silver) Fleet Warden Cape
 -   Amethyst(4-5)
 -   Ruby(3-4)

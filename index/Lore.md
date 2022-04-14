@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 27648
+revid: 27900
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -45,7 +45,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
--   The Lord Regent's age is somewhere in his 40s (Given the fact that he has Tier 1 Wrinkles).
+-   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles.
 
 ### The King of Etrea
 
@@ -209,10 +209,11 @@ _"A place remembered only by the waves"_
 
 _"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavour Text_
 
--   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged in water, but people who traverse through The Depths can breathe normally, unlike the surface.
+-   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
+-   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
 -   As it is underwater, the gravity there is significantly lower
 -   The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wakes up in the First Layer.
-    -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least 3 Layers of The Depths.
+    -   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths.
 
 #### The City of the Drowned (The Depths, First Layer)
 
@@ -261,11 +262,11 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   They have been ruled by their Kings for generations; until months before the year 1271, that the Lord Regent took over.
 -   Their culture seems to draw from East Asian countries
     -   Many parallels can be drawn between them and China/Japan
-        -   The Isle of Vigils swordsmen are armed with Katanas, a traditonal Japanese sword
-        -   They cut themselves off from the outside world following a catastrophe
-        -   They are at war with the Central Authority, an empire that hails from the Central luminant, which has a more western theme, much like the conflict between China and the British Empire
-        -   Similar architecture
-        -   They kill anyone who is suspicious of the Lord Regent, an exaggeration of modern day China
+        -   The Isle of Vigils swordsmen are armed with Katanas, a traditonal Japanese sword.
+        -   They cut themselves off from the outside world following a catastrophe.
+        -   They are at war with the Central Authority, an empire that hails from the Central luminant, which has a more western theme and superior technology, much like the conflict between China and the British Empire.
+        -   Similar architecture.
+        -   They kill anyone who is suspicious of the Lord Regent, an exaggeration of modern day China.
 
 An Etrean Guard, part of the Nation of Etrea
 
@@ -286,7 +287,8 @@ An Etrean Guard, part of the Nation of Etrea
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaean tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremor.
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight
-    -   However, the Etreans do not seem to feel the same way, only attacking them after being aggrivated
+    -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
+-   Though they appear to be the inventors of the fist style 'The Way of Navae,' they are never shown using it, instead using Gremorian Longspears.
 
 ### The Hundred Legions
 
@@ -298,9 +300,9 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Lore Sources:** _Amara, Brutus_
 
 -   Also known as the 11th Legion, a military organization from the Western Luminant. They are not to be confused with The Authority or The Hive.
--   They wear ancient-like armor, ranging from armor plating and scale armor.
--   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw
--   They appear to have once been allies with the Authority, but some treaty was broken between them and are now at war
+-   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
+-   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in The Viper's Jaw.
+-   They appear to have once been allies with the Authority, but some treaty was broken between them and are now at war.
 
 Amara, a Member of The Legion.
 
@@ -410,8 +412,9 @@ A Dark Mage, located in Minityrsa.
 -   The Central Authority has a FOB in The Etrean Luminant, named Fort Merit.
 -   The footsoldiers, specifically those that use Thundercall, wear a red coat over their armour. Those that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
-    -   Canors were once a major part of their military, but appear to have been phased out for the most part.
-    -   Vesperians also seem quite common, though whether this is them actually prominently featuring in their ranks or just them being more recognizeable thanks to their masks remains to be seen
+    -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part.
+    -   The footsoldiers that use Flamecharm are comprised of solely other races.
+        -   These also appear to be the lower-ranking, more poorly equipped and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea
 -   They purchase firearms from The Summer Company
@@ -420,7 +423,7 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's Flamecharmers are used by foot soldiers and Wardens alike.
     -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests.
     -   The Central Authority's Frostdrawers are commanding officers.
--   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel
+-   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
 
 A Peacekeeper Commander, part of The Authority
 
@@ -458,7 +461,7 @@ A Peacekeeper Commander, part of The Authority
 -   (Akira) The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
--   (Arch\_Mage) The Divers can travel between the boundries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
+-   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
 
 ## Groups
 
@@ -485,7 +488,7 @@ A Peacekeeper Commander, part of The Authority
     -   Krulians are shapeshifters and servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
     -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
         -   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md).
-            -   She does still posess abilities like long distance instant teleportation that Visionshapers cannot learn
+            -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn
 
 ### The Golden Rats
 
@@ -526,7 +529,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
     -   They have a ranking system
     -   They have a uniform, with different uniform for different ranks
     -   They have a village in Lower Erisia
-    -   They organize large, though always unsuccesful, raids on bigger factions
+    -   They organize large, though always unsuccessful, raids on bigger factions
 
 ### The Old Stewards
 
@@ -593,7 +596,6 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race of deer folks that consider themselves free from authority and subjugation and seek simple lives away from the conflicts.
 -   The Gremors are renowned for following Navae; that guides all Gremors forwards, acting as a compass.
     -   (Arch\_Mage) Navae in reality is not a star, a direction or a Celestial Body; but a source that guides all Gremors by pointing towards herself.
--   They seem to have a preference on the use of fists rather than weaponry in battles, showing how the perks provided by the Navaean Nomads are fist related.
 
 ### Khan
 
@@ -691,7 +693,6 @@ _"The stars call you back..."_
 _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our souls, lies the Soul of Man." - Flamecharm Historian_
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
-    -   Though by the looks of Flamecharm, the actual way to produce flames out of the Song is through combustion.
 -   (Pleetsky) Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
     -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
@@ -710,8 +711,8 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
     -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization.
 -   Saint Jay was a major figure to Frostdrawers, as a talent is named after him that is a part of the Frostdraw talent tree.
--   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
-    
+    -   It is presumed that similar to Pleetsky, Saint Jay was a cultivator of magic who taught his ways to others.  
+        
 
 ### Thundercall
 
@@ -771,7 +772,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:** _Hive Tactician Armor (Description), Arch\_Mage (Discord)_
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
-    -   (Hive Tactician) As of 3/14/2022, there are no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
+    -   (Hive Tactician) As of 3/14/2022, there is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
     -   (Arch\_Mage) Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.  
         
 
@@ -808,9 +809,9 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 ### Whispers of Adagio
 
 -   An application of the Song that enables the user to emit a strange noise that slows time around them.
-    -   Unobtainable to players, only proof of it is the NPCs that use it
-    -   Following a Roblox update that made games unable to use sounds that aren't saved to the associated group, the sound emitted by the user has not be reinstated
--   Used by Knives of Eylis captains  
+    -   Unobtainable to players, only proof of it is the NPCs that use it.
+    -   Following a Roblox update that made games unable to use sounds that aren't saved to the associated group, the sound emitted by the user has not be reinstated.
+-   Used by Knives of Eylis captains.  
     
 
 ## Before the Tides (Old World)
@@ -834,7 +835,7 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 -   An assortment of History written in glyphs or in books. It is unknown if it can be found in the world of Deepwoken, but NPCs managed to discover them.
 -   (The Condemned Archives) A forbidden store of Old World Texts once deemed to be too dangerous for common consumption.
-    -   It is unknown where this Archive is located, but its safe to assume to not figure it out.
+    -   It is unknown where this Archive is located, but its safe to assume we are not meant to figure it out.
 
 #### The Origin of Adrets
 
@@ -944,21 +945,42 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   (Yamaketzal) Resonances seem to have a connection to the heart, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance, or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
 
+  
+
 ## Monsters
 
 The various fauna of the Deepwoken world, the bizarre environment shaping even stranger animals.
 
--   All the creatures ingame bleed red blood.
+-   All the creatures in-game bleed red blood.
 -   Some of their body parts are especially useful in crafting.
 -   They all share a common prey, that being the inhabitants of the Deepwoken world, which is what separates them from regular animals.
 -   Some gain special abilities from being in the Depths, and all of them can become corrupted, enhanced monsters signified by the purple smoke they emit.
 -   A select few "monsters" are artificial, namely the Rock Golems and Hive Constructs.
 
+### Megalodaunts
+
+-   Large hulking creatures that resemble humanoid sharks.
+-   They are poorly evolved for swimming, it's a miracle they can even float.
+    -   They swim by treading water.
+-   They reproduce by laying eggs.
+-   There are a couple of variants of Megalodaunt, and even a form of social hierarchy.
+    -   Black Megalodaunts are considered the Alphas.
+        -   It's unknown if they are born like this or if regular Megalodaunts can obtain this form manually.
+    -   Crimson Megalodaunts are much rarer and seem to be drawn to the Songseeker Wilds.
+        -   Regular Megalodaunts are aggressive towards Crimson Megalodaunts, but the reason for this is unknown.
+        -   They may be connected to Flamecharm, as they can rain down swords of fire on their enemies.
+-   Their natural habitat is The Depths.
+    -   This is likely what led them to evolve in this way, as the landscape of The Depths would mean they would not need to swim and instead should evolve to become better runners and stronger climbers and jumpers.
+    -   Despite this they often leave and start nests on the surface.
+-   Their skin is strong yet flexible, allowing it be particularly useful in crafting.
+    -   The skin often finds use in producing highly durable and long-lasting gliders.
+
 ### Lionfish
 
--   Ancient creatures that resemble large fish with the mane of a lion
--   They overwhelm other animals using sheer size alone
--   Despite their immense size, they seem to need very little food to survive
+-   Ancient creatures that resemble large fish with the mane of a lion.
+-   They overwhelm other animals using sheer size alone.
+    -   This has proven to be an effective tactic, causing the extinction of much marine wildlife over the years.
+-   Despite their immense size, they seem to need very little food to survive, even preferring to outright disintegrate their prey rather than eat them.
 
 ### Mudskippers
 
@@ -985,7 +1007,7 @@ At the year 1271 of Spring, The Player makes their first appearance in the world
 -   Your health bar depicts your soul's wellbeing. One death in the Luminant coils your soul a step closer to the depths, leaving a tainted stain onto your health. One more death in the Luminant and your soul drowns to The Depths, waking up in the Celtor Wastes.
     -   Increasing your power while your health is tainted bolsters your soul, escaping the grasps of The Depths and reverting your health bar back to normal.
 -   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of what's left of your collective consciousness before it all drowns.
--   The Hippocampal Pool allows your current character to pass down 2 of their items to another soul; your character's legacy, transferred to a different character.
+-   The Hippocampal Pool allows your current character to pass down two of their items to another soul; your character's legacy, transferred to a different character.
 -   There is a mysterious tent and campfire in the Fragments of Self that allows you to remove gear you wish to pass on.
 
 ### Character Slots
@@ -1042,8 +1064,9 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 -   This message engraved in the occupied Lightkeeper Temple in Aratel Island talks of the past of the Celtorian Nation; the City of Celtor. Besides the tragedy that struck the Nation (That being the Great Drowning), there are more to it than simply a disaster; that being the arrival of a New Lord and King years before the Drowning.
     -   The writing does not specify how many years it has been since the new arrivals of their new leaders.
-    -   The new Lord is theorized to be the Lord Regent from the Kingdom of Etrea due to the his abilities tainted with Depths Magicks written all over it. It's possible, as the time between the Great Drowning of Celtor and the current year (1271) is short.
+    -   The new Lord is theorized to be the Lord Regent from the Kingdom of Etrea due to his abilities tainted with Depths Magicks written all over it and a similar theme of not questioning a ruler of mysterious origin. It's possible, as the time between the Great Drowning of Celtor and the current year (1271) is short.
         -   The King however, could've been a new Celtor King in line; and presumably met the same fate as the Etrean King- who disappeared without any traces of themselves while the Lord took his place during his absence.
+    -   The phrase 'Lord and King' can also refer to a single individual, it's possible The Lord Regent or even another Contractor had installed themselves as the city's leader.
 
 ### **Animals**
 
@@ -1055,6 +1078,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   At least three types of swordfish
         -   Sea bass
         -   Red snappers
+        -   Tuna
         -   Possibly more
     -   Lionfish have been a major cause for the extinction of many sea predators.
 
@@ -1062,7 +1086,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 -   Their are multiple languages in the Deepwoken world, though only one is ever used.
     -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
--   The language seen throughtout the game is simply called 'Common.'
+-   The language seen throughout the game is simply called 'Common.'
 
 ## Music
 
@@ -1111,13 +1135,13 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
     -   It is unknown what year the writing was written.
 -   The script talks of the Depths creating a ripple effect across both the land and sky from the ocean. It's a possibility that the Tides managed to eradicate a majority of the Celestials from ocean to space.
 
-## Notes/Trivia
+## Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
 -   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
--   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered in the Deep were a bug.
+-   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.
 -   It was also confirmed by Archmage that Stormcall/Plasmacast (Purple Lightning) is old lore that they've forgotten to remove. No leancall, everyone.
 
 Talking Mudskippers

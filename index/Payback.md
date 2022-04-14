@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 27645
+revid: 27911
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,7 +33,7 @@ Pressing C will activate the **Payback** Resonance.
 
 One of the best combat bells because it's mostly used while getting combo I-frames and free damage.
 
-### Family Tree
+### **Variants**
 
 **Payback** has two different versions and a unique Tarnished effect.
 
@@ -63,6 +63,5 @@ If **Payback** is found to be Corrupted. The duration for which **Payback** is a
 -   The 2nd variation can be either blocked, parried or dodged while the 1st one can not.
 -   The 1st variation can reflect any status effects given to the user during the timeframe i.e getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
--   Credit to N1R#3083 for helping me research the Corrupted part
--   Version 1 of the spell is named and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
+-   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".

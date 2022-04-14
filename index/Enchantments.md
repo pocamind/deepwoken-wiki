@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27856
+revid: 27904
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -16,13 +16,13 @@ categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons,
 </tbody>
 </table>
 
-Enchantments are extremely rare and very powerful upgrades for your equipment. You can get enchanted gear in any chest.
+Enchantments are rare and powerful upgrades for your equipment. You can get enchanted gear in any chest.
 
-Enchanted weapons are very special. Therefore, they have some limitations placed on them:
+Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
 -   You do not drop enchanted items on death.
--   You cannot equip multiple copies of the same enchantment. If you were to find for example, a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
--   Equipping an enchanted weapon or armor will make it soulbound to you. A soulbounded item will restrict you from dropping it, however you can still switch weapons.
+-   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
+-   Equipping an enchanted weapon or armor will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
 -   Enchanted equipment cannot be merged in Summer Island at Jarvis for 1000 Notes together. When you try it he will respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else''.
 -   Face, Ears and Back equipment cannot be enchanted
@@ -38,9 +38,9 @@ There are two variants that enchantments come in:
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
 
-The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md) or [The Depths](The_Depths.md) is a good way to increase your chances of finding one.
+The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md) is a good way to increase your chances of finding one.
 
-In the 27/03/2022 update, enchant rates have been buffed 3x.
+As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
 
 ## List of Enchantments/Curses
 

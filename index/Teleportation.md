@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 26616
+revid: 27913
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -57,9 +57,10 @@ Pressing "C" will activate the **Teleportation** Resonance.
     -   This location can be set on a player, but will expire once said player disconnects. (thats cap if the join back the marker will still be on them)
 -   If the position or marker is set, **Teleportation** will form a golden ring below the user's feet. The start-up scales with how far the portal is from the marker. This ring persists even if the user leaves the ring, and teleports all players inside the ring once finished.
 
-## Trivia/Notes
+## Trivia
 
 -   You can Teleport entities through the waypoints if they are placed correctly.
--   You can place down 2 waypoints, and if you try to place another then the first waypoint you placed will get removed.
+-   Monsters can also be teleported by these.
+-   You can place down two waypoints, and if you try to place another then the first waypoint you placed will get removed.
 -   This bell may also be referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named "Minato" in the anime-manga series "Naruto."
--   A old practice among users of this bell was to play a waypoint to Lord Regent's manor and then baiting people in. This will cause everybody (exception of the user) to instantly die due to the insta-kill feature in Lord Regent's Palace. You will not die if you have the active Duke quest. (Due to a recent patch, Teleportation users can no longer set waypoints in Lord Regent's Palace or The Duke's Manor.
+-   An old practice among users of this bell was to play a waypoint to Lord Regent's manor and then baiting people in. This will cause everybody (except the user) to instantly die due to the insta-kill feature in Lord Regent's Palace. You would not die if you have the active Duke quest. (Due to a recent patch, Teleportation users can no longer set waypoints in Lord Regent's Palace or The Duke's Manor.

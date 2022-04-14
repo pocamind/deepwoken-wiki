@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 27812
+revid: 27926
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -25,7 +25,7 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Steadfast **(NEW)** | "Your armor retains more durability when attacked." | Decreases towards armor when attacked | 1 |
+| Steadfast **(NEW)** | "Your armor retains more durability when attacked." | Decreases damage towards armor when attacked | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. (i.e. Acid Rain) | 1 |
 
 ## Flaws
@@ -40,7 +40,7 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Fugitive
 **(NEW)**
 
- | "All factions hate you." | Start the game with negative reputation with all factions. Cannot pay to remove negative reputation. Currently the worst flaw in the game, as you can never remove your terrible reputation, meaning legion kata, manor key and other reputation based things are not available for you. | 1 |
+ | "All factions hate you." | Start the game with negative reputation with all factions. Cannot pay to remove negative reputation. The negative reputation can however be removed through multiple encounters that can give positive reputation. | 1 |
 | Haemophilia | "You bleed more." | Increases blood loss from all sources. | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
 | Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%

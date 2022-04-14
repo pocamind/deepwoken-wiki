@@ -1,6 +1,6 @@
 ---
 title: "R/place - Marking Territory"
-revid: 27305
+revid: 27906
 source: https://deepwoken.fandom.com/wiki/R/place_-_Marking_Territory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -62,3 +62,5 @@ File:Comically small Dotgon.png
 ER ERTR THIS CLOSE TO GREATNESS
 
 "why did you fuckers keep taking down dorgon I wasted my life actually logging on to reddit for this shit" - Biscuit 1987
+
+"Bottom left turned into a booty. I was watching on aga stream" - Monke133

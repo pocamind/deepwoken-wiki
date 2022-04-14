@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 27814
+revid: 27894
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -206,8 +206,8 @@ _\+ Talent: Blinded_
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent |
-| File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants a random buff. | Depths Chests (Currently Unobtainable) |
-| File:Shrouded Cape (Red).png | Red Shrouded Cape | Grants a random buff. | Depths Chests (Currently Unobtainable) |
+| File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants a random buff. | Depths Chests, Fishing at Etris Docks |
+| File:Shrouded Cape (Red).png | Red Shrouded Cape | Grants a random buff. | Depths Chests, Fishing at Etris Docks |
 |  | Dawn Scarf | Grants a random buff. | Hive Chests |
 |  | Desert Scarf | Grants a random buff. | Hive Chests |
 | File:Crimson Scarf.png | Crimson Scarf | Grants a random buff. | Hive Chests |
@@ -274,9 +274,9 @@ _Requires Power 30_
  | Hive Chests, Depths Chests |
 | File:Pale.jpg | Pale Assassin's Cloak | Grants a random buff.
 
-_Requires Power 30_ (CURRENTLY UNOBTAINABLE)
+_Requires Power 30_
 
- | Hive Chests, Depths Chests |
+ | Hive Chests, Depths Chests, Common from Primadon |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
 _Doesn't need any power, but obviously needs a mantra to get it_

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 27791
+revid: 27909
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -24,7 +24,6 @@ There are different rarities for mantras, similarly to talents.
 
 -   Lightning Cloak (Confirmed)
 -   Ice Fissures (Speculated)
--   Cotton Gin (Confirmed)
 
 ### Rare Mantras
 

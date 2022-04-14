@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 26572
+revid: 27910
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-When used, a red circle around 10 studs large appears around the user or projectile. Any knocked entities or players in this area is immediatly gripped.
+When used, a red circle around 10 studs large appears around the user or projectile. Any knocked entities or players in this area are immediately gripped.
 
 ## Usage
 

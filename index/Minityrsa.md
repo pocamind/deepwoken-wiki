@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 27650
+revid: 27884
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -78,6 +78,11 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Hero Blades](Hero_Blades.md) (skill issue)
 -   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
 -   [Razor Cutlass](Razor_Cutlass.md) (uncommon)
+-   Sacred Hammer (VERY rare drop from Rouge Construct)
+-   Inquisitor's Straight Sword (uncommon from Rouge)
+-   Mid-High enchant rates (from Rouge Construct)
+-   Flamekeeper Cestus (Rare drop from Rouge Construct)
+-   Shattered Katana (Rare drop from Aelita)
 
  | 
 

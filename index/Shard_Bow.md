@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 27662
+revid: 27914
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,21 +25,21 @@ User is launched backwards and summons a white bow that shoots explosive arrows 
 
 ## Usage
 
-Press C to activate.
+Pressing C will activate the "Shard Bow" Resonance.
 
-You will summon a white bow before shooting out a arrow(s)
+You will summon a white bow before shooting out an arrow(s).
 
-_**Variant 1: Evasive**_
+### _Versions_
 
-Leap backward into the air, before firing a single explosive arrow at your cursor.
+#### _Variants_
 
-**Variant 2: Rapid Fire**
+-   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor.
 
-Leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further.
+-   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further.
 
 Does ~47 (46.75) damage per shot with Rapid Fire variant. Up to further experimentation, may scale off a stat not displayed.
 
-**Corrupted Variants:**
+#### _Corrupted_
 
 Leap backwards and upwards further before firing the arrows. (Not that great, considering the Corrupted downsides)
 
