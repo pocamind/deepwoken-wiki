@@ -1,9 +1,9 @@
 ---
 title: Fishing
-revid: 27888
+revid: 27944
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character]
+categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character, Talents]
 ---
 
 # Fishing
@@ -28,7 +28,7 @@ Fishing levels your willpower, fortitude and intelligence. It also levels charis
 
 After catching a fish you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line, but is dependant on RNG.
 
-There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. However this cuts you off from getting seaweed, which makes you unable to craft sushi. (Brilliant game design)
+There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. ~~However this cuts you off from getting seaweed, which makes you unable to craft sushi. (Brilliant game design)~~ just got seaweed 3 times back to back with the talent
 
 ## Loot From Fishing
 
@@ -55,6 +55,20 @@ Fishing up the Tuna.
 A lot of fish (with crow tarsus)
 
 File:RobloxScreenShot20220410 233312197.png
+
+## Talents
+
+There are currently 3 fishing talents
+
+File:Fishing Talents.png
+
+| Name | Description | Effects | Image |
+| --- | --- | --- | --- |
+| Fisher's Lure | Fish are drawn to your line more quickly. | +4 Ether | File:Fisher's Lure.png |
+| Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose. | +4 Carry Load | File:Hook, Line, and Sinker.png |
+| Proficient Baiting | Casting your line excites ocean life, reducing the chances of fishing up trash. | +4 Ether | File:Proficient Baiting.png |
+
+  
 
 ## Bait
 
