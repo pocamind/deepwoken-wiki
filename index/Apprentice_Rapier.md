@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 27626
+revid: 27937
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,7 +34,7 @@ The Apprentice rapier is a unique light weapon due to being the only rapier in t
 
 ## Notes & Trivia
 
--   Despite being a light weapon, the Rapier is considered a medium weapon in the real world, as it resembles a sword. (Not true, rapiers are actually pretty light in real life- 1KG or 2.2lb, please check your facts - just because it looks like a sword does not mean it is a "medium" weapon in real life)
+-   Despite being a light weapon, the Rapier is considered a medium weapon in the real world, as it resembles a sword. (Not true, rapiers are actually pretty light in real life- 1KG or 2.2lb, please check your facts - just because it looks like a sword does not mean it is a "medium" weapon in real life)(you know that one handed swords irl isnt that heavily either. The average weight of a one handed sword is 1.5KG or 3.3lb. The heaviest one handed swords dont go over 2KG or 4.4lb)
 -   When using this weapon your left hand is hidden, so you can equip a [Gun](https://deepwoken.fandom.com/wiki/Guns) on an unsuspecting foe.
 -   As proven by many people in the comments, this weapon is not season locked but may simply be a rare/uncommon drop in [Starswept Valley](The_Starswept_Valley.md).
 -   This was accidentally added to the game and obtainable in the depths before it was released for a short time, but they deleted it from everyone before it's actual release.

@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 27838
+revid: 27931
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -41,6 +41,7 @@ Gripping a player will steal their luck (Luck/2), if:
 -   The victim is not more than 15 power levels below the killer
     -   Example: A power 30 could not grip a power 10 to get luck, however a power 30 could grip a power 16 and receive luck.
     -   A power 1 can grip a power 60 and still get luck.
+-   You did most of the damage. This means knocking someone and taking it to a friend so they can grip them WILL NOT give them luck. You have to kill them yourself.
 
 ### From Boss NPCs
 

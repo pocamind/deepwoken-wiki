@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 27857
+revid: 27933
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -74,8 +74,7 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either Flint or Skills that light campfires.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
 -   The more people that participate in fighting The Duke, the more health he has.
-    -   ~This can be bypassed by having one person spawn the boss, while everyone else waits outside the hallway to the boss room.~
-    -   You can no longer trigger the boss by one player and have others wait outside. The Duke's room now gets sealed off by Ferryman-like barrier upon triggering the fight.
+-   The Duke's room gets sealed off by a barrier upon triggering the fight.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
     -   Specifically, Wind Bind correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Wind Stomp correlates to Ground Quake, and Wind Bomb correlates to Plasma.
     -   The also both laugh manically following a successful counter

@@ -1,13 +1,15 @@
 ---
 title: Hive Construct
-revid: 27883
+revid: 27934
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hive Construct
 
-_Also known as Hive Mechs, Senju, Forest Golems, or Obsidian Golems_ Template:Creature Infobox V3
+_Also known as Hive Mechs, Senju, Forest Golems, or Obsidian Golems_
+
+Template:Creature Infobox V3
 
   
 Hive/Rogue Constructs spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, [Starswept Valley](The_Starswept_Valley.md), and on the ice lake on top of [Minityrsa](Minityrsa.md)
@@ -65,18 +67,12 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 
 -   The construct will walk up to you and punch you, gripping you in a fraction of a second.
 
-### Drops
-
-Killing the Construct is not recommended but will reward a ton of XP (3-4 of them can level up a skill once at level 50+), along with a chest where it spawns.(Killing the Authority Commander is much easier.) The chest has standard loot for [Starswept Valley](The_Starswept_Valley.md). This is risky however, due to the Construct's sheer damage, so its best to third party the fight between the Construct and the Authority Commander as best as possible, maintaining just enough damage to consider you "participated", thus earning you a chest. The Rogue Construct at Minityrsa is much riskier to fight, as it is a direct 1v1, however the loot is much better, with it's chest containing about twice the loot of a [King Thresher](Thresher.md).
-
-Loot table:
-
-The Rogue Construct located on top of Minityrsa have a chance of dropping the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>), [Night Axe](https://deepwoken.fandom.com/wiki/Night_Axe?so=search), and [Mantra Modifiers](Mantra_Modifiers.md).
+  
 
 ## Tips/Trivia
 
 -   Technically the most powerful and hard-hitting enemy in the entire game when fought directly.
--   Hive Constructs will not turn aggressive against you if your reputation with The Hive is positive. Accordingly, they will be hostile to you if you have negative reputation, regardless of Animal King. (needs more testing) (tested, it will attack you regardless of Animal King) (Well of course it is a robot not a human being and it stands for faction (unless rogue))
+-   Hive Constructs will not turn aggressive against you if your reputation with The Hive is positive. Accordingly, they will be hostile to you if you have negative reputation, regardless of Animal King.
 -   A way to cheese the Construct is to find a ledge nearby that's a bit taller than it.
 -   Can easily kill you even at level 60 if you're solo and inexperienced.
 -   Usually not worth fighting. Even if you try, this Construct will obscure your vision with trees all the time.
@@ -84,6 +80,6 @@ The Rogue Construct located on top of Minityrsa have a chance of dropping the [I
 -   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro the Meteor Knights, the opposite is also true.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
 -   Can win every fight with another [monster](Monsters.md) in Starswept Valley. (Works with Stone Knight even prioritises it above Authority Commander)
--   Fun fact, the regular Hive Golems can drop Pomars upon death.
+-   Hive Constructs can drop Pomars upon death.
     
     A hive golem talking.
