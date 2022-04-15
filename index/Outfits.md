@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 27894
+revid: 28058
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -169,6 +169,20 @@ _Requires Fortitude 15_
 _Requires Fortitude 5_
 
  | Arena Chests |
+| 
+
+ | Blackleaf Helm | Grants a random buff.
+
+_Requires Fortitude 20_
+
+ | Hive Chests, Arena Chests, Depths Chests |
+| 
+
+ | Blacksteel Helm | Grants a random buff.
+
+_Requires Fortitude 15_
+
+ | Arena Chests |
 
 **Face:**
 
@@ -250,19 +264,30 @@ _\+ 10 health_
 _\+ 2 posture_
 
  | Fort merit Chests |
+| 
+
+ | Bluesteel Pauldrons | Grants a random buff. | Arena Chests |
 | File:Aristocrat Coat.png | Aristocrat Coat | Grants a random buff.
 
 _Requires Power 40_
 
  | Summer Isle Scope Quest |
 | File:Gumshoe Long Coat.png | White Gumshoe Longcoat | Grants a random buff. | Songseeker Chests |
-|  | Providence Coat | Grants a random buff. | Primadon Chests, Depths Chests |
+|  | Providence Coat
+
+(Legendary)
+
+ | Grants a random buff. | Primadon Chests, Depths Chests |
 | File:Red justicar defender coat.png | Faded Justicar Defender Coat | Grants a random buff.
 
 _Requires Power 40_
 
  | Aelita Chests, Minityrsa Chests, Depths Chests |
-|  | Star Duster | Grants a random buff.
+|  | Star Duster
+
+(Legendary)
+
+ | Grants a random buff.
 
 _Requires Power 30_
 
@@ -284,13 +309,18 @@ _Doesn't need any power, but obviously needs a mantra to get it_
  | Aelita Chests |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants a random buff. | Hive Chests, Depths Chests |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests |
+| 
+
+ | Redsteel Pauldrons | Grants a random buff. | Arena Chests |
 | File:Royal Auth Commander.png | Royal Authority Commander | Grants a random buff. | Fort Merit Chests |
+| File:Amber AuthorityCommander Coat.png | Amber Authority Commander | Grants a random buff. | Fort Merit Chests |
 | File:Grayjusticarcoat.png | Gray Justicar Coat | Grants a random buff.
 
 _Requires Power 40_
 
  | Fort Merit Chests |
 | File:Dark Gumshoe Longcoat.png | Dark Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Dread Serpent |
+| File:Ochre Gumshoe Coat.png | Ochre Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Fort Merit Chests |
 | File:Dark Royal Duelist.png | Royal Duelist Armor | Grants a random buff.
 
 _Requires Power 40_
@@ -301,6 +331,7 @@ _Requires Power 40_
 _Requires Power ???_
 
  | Nautilodaunt |
+| File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests |
 |  | Adventurer coat | Grants a random buff. | Primadon chests, Depths (seems to no longer be obtainable) |
 
   
@@ -352,7 +383,11 @@ _Requires Power 10_
 
  | Duke Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
 |  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. | Depths Chests? |
-|  | Akira's Ring | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Summer Chest, Maybe more |
+|  | Akira's Ring
+
+(Legendary)
+
+ | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Summer Chest, Maybe more |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 25%
 
 _Requires Power 40_
@@ -360,14 +395,32 @@ _Requires Power 40_
  | Primadon Chests, Depths Chests |
 |  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests, Depths Chests |
 |  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bad reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
-|  | Finisher's Ring | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1) | Aelita Chests, Arena Chests |
-|  | Moon Ring |
-|  | Deepfire Ring(**Legendary**) | Burn status burns twice as fast but half as long
+|  | Finisher's Ring
+
+(Legendary)
+
+ | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1) | Aelita Chests, Arena Chests |
+|  | Moon Ring
+
+(Legendary)
+
+ | Stops aging. | Depths Chests |
+|  | Deepfire Ring
+
+(Legendary)
+
+ | Flames burn twice as fast but half as long.
 
 _Requires Power 15_
 
  | Ferryman Chest |
-|  | Windmill Ring |  |  |
+|  | Windmill Ring | Taking damage from ice or wind will cause you to regenerate ether.
+
+Grants one random buff.
+
+_Requires Power 10_
+
+ | Songseeker Chests, Arena Chests |
 
   
 
@@ -390,6 +443,9 @@ _Requires Power 30_
 | File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants a random buff. | Depths Chests |
 |  | Bluesteel Boots | Grants a random buff. | Hive Chests |
 |  | Enforcer Boots | Grants a random buff. | Depths Chests |
+| File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests |
+| File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests |
+|  | Redsteel Boots | Grants a random buff. | Arena Chests |
 
   
 

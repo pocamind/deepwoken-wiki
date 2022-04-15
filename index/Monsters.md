@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 27797
+revid: 28056
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -71,6 +71,7 @@ Every single Monster in the game is part of a single family. Families deal with 
 -   Any Monster native to islands is a Giant Monster.
 -   Any Monster native to oceans is a Sea Monster.
 -   Any Monster native to The Depths is a Depths Monster.
+-   Any Monster native to ??? is a Beast Monster (more info required).
 
 <table><caption><b>Monster Families</b></caption>
 <tbody>

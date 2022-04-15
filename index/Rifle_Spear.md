@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 26600
+revid: 28062
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons, Pages with broken file links, Weaponry, Items]
 ---
 
 # Rifle Spear
@@ -28,15 +28,15 @@ categories: [Weapons, Weaponry, Items]
 | obtainment | Fort Merit and The Depths chests. There is 5% chance of getting it from Fort Merit and The Depths chances are unknown |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-“ PARRY THIS YOU FUCKING CASUAL ”
+“ america spear ”
 
-― Level 40 Etrean before using their stupidly hard to parry combo extender/starter
+― Random freshy in the Starswept Valley
 
   
 
 ## Description
 
-The Rifle Spear is a Medium weapon and is the best spear in the game. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
+The Rifle Spear, commonly referred to as the "Freedom Spear," is a Medium weapon and is the best spear in the game. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
 The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots a projectile which does not consume Ether. It has the same speed and sound effect as any other gun.
 
@@ -46,6 +46,4 @@ The weapon itself is different from the typical Spear, as its critical is differ
 
 -   This weapon is a direct reference of the famed Rifle Spear in the game _Bloodborne_.
 
-  
-
-Rifle Spear close up
+File:RifleSpear3.png
