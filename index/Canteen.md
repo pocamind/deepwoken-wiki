@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 25441
+revid: 28012
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ Used to hold water on the go.
 
 ### Uses
 
-The Canteen can be filled by holding it out and pressing M1 at a [well](Water_Well.md) or any source of freshwater (the rivers around Starswept Valley, Merit's Reach, Greathive Aratel, and Songseeker Wilds all count as freshwater sources) storing 5 uses before it must be refilled again.
+The Canteen can be filled by holding it out and pressing M1 at a [well](Water_Well.md) or any source of freshwater (the rivers around Starswept Valley, Merit's Reach, Greathive Aratel, Minitrysia, and Songseeker Wilds all count as freshwater sources) storing 5 uses before it must be refilled again.
 
   
 

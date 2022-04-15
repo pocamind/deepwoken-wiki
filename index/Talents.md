@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28006
+revid: 28018
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -152,7 +152,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
     -   Negate the movement speed penalty of heavy weapons.
     -   Contrary to popular belief, this does not affect food/gunpowder crates from Isle of Vigils or Summer Isle, nor does it affect the Boulder training gear.
         -   Prerequisites: Strength
--   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+1 Carry Load, +1 Passive Agility, +3 Health)
+-   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
     -   Prerequisites: Strength
 
 ### Authority Interrogator
@@ -231,6 +231,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Eureka \[Generic Talent, Rare Talent, Intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30(?) Intelligence
     -   Refunds 15% of the ether cost of the mantra.
+    -   Holding or clicking M1 during a mantra windup is a perfect cast (Some mantras lack the ability to perfect cast)
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
@@ -449,6 +450,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   After Cut \[Generic Talent, Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
 -   Breathing Impact \[Generic Talent, Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
 -   Inhale \[Generic Talent, Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
+    -   M1 + M2 during a mantra windup will cancel the spell (2 second cooldown)
 -   Tailwind \[Generic Talent, Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
     -   You can no longer abuse this. You cannot spell cancel a Single mantra twice as there is now a 2 second cooldown, however you can still spell cancel one Mantra into a different Mantra.
 
@@ -1025,11 +1027,11 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 _You can find a more detailed list of Physical Mantras [here.](Attunement-less.md)_
 
-#### Fortitude Support (Around 30-35 Fortitude Needed)
+#### Fortitude Support (15-75 Fortitude Needed)
 
--   Reinforce - Up defense for you and allies around you
--   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
--   Brace - Gain hyperarmor on your attacks for a short duration
+-   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break (15 fortitude)
+-   Reinforce - Up defense for you and allies around you (50 fortitude)
+-   Brace - Gain hyperarmor on your attacks for a short duration (75 fortitude)
 
 #### Agility Combat (6 Agility Needed)
 
@@ -1037,8 +1039,8 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Agility Support and Mobility (20-40 Agility Needed)
 
--   Dash - Just a dash, nothing special. (40 agility, tested and confirmed)
 -   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (20 agility, tested and confirmed)
+-   Dash - Just a dash, nothing special. (40 agility, tested and confirmed)
 
 #### Charisma Support (25~ Charisma Needed)
 
@@ -1053,8 +1055,8 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 #### Strength Combat (5-10 Strength Needed)
 
--   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
+-   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
 
 #### Strength Mobility (50 Strength Needed)
 
@@ -1257,7 +1259,7 @@ Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obe
 Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)  
 Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
 
-## **List of Rollable Legendary Talents/Blue Cards**
+## **List of Rollable Legendary Talents/Green Talent Cards**
 
   
 

@@ -1,9 +1,9 @@
 ---
 title: Luminants
-revid: 27321
+revid: 28010
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Map, Attunement, Mantras, Magic, Locations]
+categories: [Map, Attunement, Mantras, Magic, Locations]
 ---
 
 # Luminants
@@ -20,7 +20,7 @@ A Luminant that is mostly under the rule of Etrea. It is the only current releas
 
 The Eastern/Etrean Luminant is split up into two seas. The Etrean Sea is ruled over the esteemed Etreans. The waters are calm, which is off-putting to most sailors, but it doesn't excuse the danger that looms on it. [The Aratel Sea](The_Aratel_Sea.md) is always in a state of conflicts, being minor or major. It's significantly less-developed, with less highways, and is home to numerous dangerous creatures and hostile factions.
 
-The Eastern and Etrean Luminant are the same Luminant, refer to below.
+In the Legion camp in Lower Erisia there is a NPC named Gaius who implies the Luminant in game is the Eastern Luminant.
 
 This Luminant is probably home to [Galebreathe](Galebreathe.md), as Etreans all seem to use it.
 
@@ -47,15 +47,3 @@ This Luminant is probably home to [Flamecharm](Flamecharm.md).
 It is not even known if the name of this Luminant is really the "Northern Luminant". No NPCs talk about Northern Luminant, meaning that nothing is known about the Northern Luminant.
 
 This Luminant is probably home to [Frostdraw](Frostdraw.md).
-
-## Eastern Luminant (Etrean Luminant)
-
-eastern and etrean luminant are the same
-
-UPDATE: In The legion camp in Lower Erisia there is a NPC called Gaius who implies the Luminant in game is the Eastern Luminant.
-
-File:Eastern Luminant.png
-
-New Luminant leak.
-
-File:RobloxScreenShot20220328 033552204.png
