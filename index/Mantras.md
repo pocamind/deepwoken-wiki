@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 27909
+revid: 28000
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -18,7 +18,7 @@ Considered to be the root of Ether's usage, mantras are the heart of Deepwoken's
 
 ## Rarities of Mantras
 
-There are different rarities for mantras, similarly to talents.
+THere are different rarities for mantras, similarly to talents.
 
 ### Legendary Mantras
 

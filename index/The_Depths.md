@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 27957
+revid: 27961
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -16,11 +16,17 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 [The City of the Drowned](The_City_of_the_Drowned.md) in The Depths
 
-**The Depths** is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by Primadon, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
+**The Depths** is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
 
-## **Overview**
+## Overview
 
 The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again.
+
+Despite being a resting place for souls, The Depths is a physical location in the World of Deepwoken. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to The Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as Megalodaunts becoming better runners and jumpers but sacrificing their ability to swim well.
+
+There are multiple layers to the Depths, with as many as three known to exist, likely getting even harder as it goes down. Though as of now, we don't have much information until the Layer 2 update is released.
+
+Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
 ## **Points of Interest**
 
@@ -29,12 +35,6 @@ The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotte
     -   [Varicosa District](Varicosa_District.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Fragments of Self](Fragments_of_Self.md)
-
-## **Layers of the Depths**
-
-After talking to Mark Adaset in [Castle Light](Castle_Light.md), he tells the player that this "Layer" should be light work for someone like them. This confirms that there are multiple layers to the Depths. This could mean that the layers deeper in the Depths get even harder as it goes down. Though as of now, we don't have any layers until a future update about them is released. The layers of the Depths are also apparently [common knowledge](Summer_Isle.md#trig27s-quest) on the surface, albeit possibly only through legend and rumors the same way the Ferryman is treated.
-
-Further information on the Layers of the Depths is that Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
 ## **Escaping The Depths**
 
@@ -52,7 +52,7 @@ Rough map of the City of the Drowned
 
 _Not to be confused with [Resonances](Resonance.md)._
 
-The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of [Seekers](Watcher.md) who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
+The City of the Drowned is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
 Once all bells have been rung, a large bell choir will be heard across The Depths, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
@@ -62,7 +62,7 @@ File:Scuffed map Depths.png
 
 Alternatively, you can attempt to climb one of the inner walls by jumping up from tall buildings near the edge of the city. This can be made much easier with movement abilities, high Agility, stacking players to jump off of each other to the top, or by stacking barrels to jump from. After climbing the wall, you must traverse along the top and dropping down into the central bastion of the city.
 
-This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you.
+This is certainly a faster method to escape, although still poses the threat of being spotted by Seekers (especially if they jump on top of the wall, which sometimes happens. In this case, you will need to patiently wait for them to jump off of the wall again in order to pass). Also, falling off the wall will likely kill you if you don't grab onto the walls or use some of the inner structures to break your fall.
 
 ### **Barrels**
 
@@ -72,7 +72,7 @@ This [video](https://www.youtube.com/watch?v=6VHvuVaj9eU) also explains the meth
 
 If you cannot find a barrel, there is a lower area leading to that part to the left when the person climbs the barrel. The goal is to get on that gate which leads to the building with the elevator.
 
-If the entrance you're going through does not resemble the one like in the video, _you are going the wrong way_. Circle the outside walls until you hit another entrance which should be the right one. Then follow the video again.
+If the entrance you're going through does not resemble the one like in the video, _you are going the wrong way and will encounter The Nautilodaunt_. Circle the outside walls until you hit another entrance which should be the right one. Then follow the video again.
 
 If the gate is closed, log and choose another server. Most servers that are over a couple of hours old already have opened gates.
 
@@ -100,7 +100,8 @@ Please don't change these values unless there is an actual update that changes t
 | 29-49 | [Megalodaunt](Megalodaunt.md) |
 | 50+ | [Enforcer](Enforcer.md) |
 
--   If 4 or more players attempt to escape, the Voices are disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced to slaughter each other until only 3 remain, only then will the Trial begin.
+-   If 4 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced to slaughter each other until only 3 remain, only then will the Trial begin.
+    -   This is not a guarantee, and they may just spawn many Enforcers.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
@@ -130,7 +131,7 @@ Just some information to keep in mind and remember.
 -   Consider bringing _**elemental stones**_. The lack of available campfires mean that you will often be low on reservoir.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
--   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a Regalias, your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will making farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
+-   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a Regalias, your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
 
 ### **Good Grinding Spots:**
 
@@ -162,20 +163,21 @@ When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another 
 
 ## **Potential Enemies**
 
--   [Seekers/Watchers](Watcher.md)
--   [Angels](Hollow_Angel.md)
--   [Jellyfish](Gigamed.md)
--   [King/Giant Jellyfish](King_Gigamed.md)
--   [Crab](Crab.md)
--   Lion Fish
+-   [Lesser Angels](Hollow_Angel.md)
+    -   Watchers (Summon Angels)
+-   [Terrapod](Terrapod.md)
+-   [Crustaceous Rex](Crustaceous_Rex.md)
 -   [Megalodaunt](Megalodaunt.md)
+-   [Lionfish](Lionfish.md)
+-   [Gigamed](Gigamed.md)
+-   [King Gigamed](Gigamed.md)
 -   [Deep Owl](Deep_Owl.md)
--   Crabbo
--   [Nautilodaunt (Squibbo/Squid Hoss)](Nautilodaunt.md)
+-   [Nautilodaunt](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
 -   Celtorian City Guards
 -   [Deep Widow](Deep_Widow.md)
--   [Threshers/King Threshers](Thresher.md)
+-   [Thresher](Thresher.md)
+-   [King Thresher](Thresher.md)
 
 ## **Loot Table**
 

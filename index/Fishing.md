@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27955
+revid: 27962
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character, Talents]
@@ -24,7 +24,7 @@ The next step to fishing is cast out your Fishing Rod at an area with alot of fi
 
 Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually neglible.
 
-Fishing levels your willpower, fortitude, intelligence and charisma.
+Fishing levels your willpower, fortitude and intelligence. It also levels charisma if you catch a gold fish.
 
 After catching a fish you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line, but is dependant on RNG.
 

@@ -1,26 +1,16 @@
 ---
 title: Voices of the Depths
-revid: 22118
+revid: 27966
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPC]
+categories: [NPC]
 ---
 
 # Voices of the Depths
 
 ## Description
 
-The Voices of the Depths are encountered when the player attempts to escape The Depths.
-
-~It is confirmed by [the Ferryman](The_Ferryman.md) that these voices are in fact gods, as he remarks that his race, Krulian, is the closest bridge inbetween gods and the other races~
-
-The god that the Ferryman was referring to was actually Yun'Shul, who is confirmed by Arch\_Mage to be a drowned god in the Artist General channel - Krulians are 'Servants of the Deep', essentially the deepwoken equivalent of seraphs to a god, Ferryman does not utilize a resonance so it's practically confirmed that the Ferryman is not associated with Yun'Shul, but with another drowned god that resides within the depths, perhaps in a deeper layer.
-
-Arch\_Mage confirming that Yun'Shul is indeed a drowned god.
-
-Arch\_Mage confirming that Yun'Shul is indeed a drowned god.
-
-  
+The Voices of the Depths are encountered when the player attempts to escape The Depths and in the Trial of One. As the name suggests, they are simply voices and cannot be interacted with. They seem to oversee The City of The Drowned, with the few that remain their living in terror of them.
 
 ### Voice of Odium
 
@@ -43,9 +33,10 @@ _"Isolate or hide away."_
 
 _"The state or feeling of being actively opposed or hostile to someone or something."_
 
--   The Voice of Enmity is highly aggresive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial.
+-   The Voice of Enmity is highly aggressive towards the players. They are highly sadistic and it sees higher level players "fit for crushing". It enjoys the scene of players being attacked by the monsters of the trial.
 -   When multiple players try to escape The Depths together, it decides that the players deserve true punishment, forcing them to kill eachother until it decides that the trial can finally start.
 -   It enjoys the scene of players being attacked by the monsters of the trial, hoping that they will be defeated.
+-   It seems to be in charge of the other voices, as whether or not it views players as strong enough will decide whether or not a trial will commence.
 
 ### Voice of Authority
 

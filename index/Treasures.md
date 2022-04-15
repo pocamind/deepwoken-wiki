@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 24964
+revid: 28003
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Ingredients, Locations, Mechanics]
@@ -8,7 +8,7 @@ categories: [Gems, Items, Ingredients, Locations, Mechanics]
 
 # Treasures
 
-_Not to be confused with [Deep Gems](Deep_Gems.md), which are used to modify Mantras._ Items commonly dropped from Chests that can be sold to the Antiquarian for various amounts of Notes.
+_Not to be confused with [Deep Gems](Deep_Gems.md), which are used to modify Mantras._ Items commonly dropped from Chests that can be sold to the Antiquarian for various amounts of NoteS
 
 <table><caption>Gems</caption>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 27954
+revid: 28004
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -20,7 +20,7 @@ Enchantments are rare and powerful upgrades for your equipment. You can get ench
 
 Enchanted gear is very special. Therefore, they have some limitations placed on them:
 
--   You do not drop enchanted items on death.
+-   You do not drop enchanted items on deathS.
 -   You cannot equip multiple copies of the same enchantment. For example, if you found a helmet with Multiplicity while you have boots with Multiplicity, you will be required to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted weapon or armor will make it soulbound to you. A soulbound item will restrict you from dropping it, however you can still switch weapons and gear.
 -   Enchanted equipment cannot be passed down to the Hippocampal Pool. If you wipe with enchanted gear on you, it's lost forever.
@@ -92,7 +92,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (2 for Heavy, 3 for Medium, 4 for Light). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (7 for Heavy, 14 for Medium, 7(?) for Light). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
