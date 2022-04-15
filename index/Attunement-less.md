@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28013
+revid: 28027
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -80,7 +80,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal. They compliment t
     -   Requirement: 20 Intelligence.
 
 -   **Prediction** - Predict an opponent's attack and reflect it.
-    -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. Does not work on M1's/Critical Attacks.
+    -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. ~Does not work on M1's/Critical Attacks.~ This is false.
     -   Requirement: 50 Intelligence, _Intelligence Combat Mantra_
 
 ### _**Willpower Mantras**_

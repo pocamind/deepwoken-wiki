@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28019
+revid: 28023
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -59,11 +59,12 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
-  Hitting non humanoid entities deals the slash both to the monster and user. The slash counts as a second hit and can be used to confuse opponents due to it being able to cause parry frighten.</p></div></td>
+  Hitting non humanoid entities deals the slash both to the monster and user.<br>
+  The slash is parryable.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and attacks remove more blood. Missing an M1 deals 2% of max hp as damage to the user.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and remove more blood. Missing an M1 deals 2% of max hp as damage to the user.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -148,7 +149,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
   <td><div><p>On hit, steal 5% of the target's armor durability and add it to your own.<br>
-  Works on NPCs and Monsters too.</p>
+  Works on NPCs and Monsters.</p>
   <p><br>
   </p></div></td>
 </tr>

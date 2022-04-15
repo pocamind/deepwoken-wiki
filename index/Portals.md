@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 27572
+revid: 28022
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -44,7 +44,7 @@ Portal has two versions, along with unique Tarnished and Corrupted variants.
 
 #### _**Tarnished**_
 
-If the owner of this Resonance is Tarnished, there will be a 2 second wind up before the ability triggers. Can be interrupted via damage.
+If the owner of this Resonance is Tarnished, there will be a 1 second wind up before the ability triggers. Can be interrupted via damage.
 
 #### _**Corrupted**_
 

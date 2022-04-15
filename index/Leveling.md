@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 24797
+revid: 28025
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -22,7 +22,7 @@ Investment Points always start and refresh at 5, and decreases per attribute inc
 
 If you have the Autodidact Boon, for every Power Level after Power 1, gain a Free Point. Free Points allows you to increase all of your attributes of your choice.
 
-You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).
+**You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
 
 File:Getsomehoes.png
 
