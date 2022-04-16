@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 27907
+revid: 28085
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Talents, Character]
 
 # Murmur
 
-"Become Sharko." - Journal of Jerico
+"Become Sharko" - Journal of Jerico
 
 File:Ardour Scream gif.gif
 

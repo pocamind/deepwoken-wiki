@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 27810
+revid: 28088
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -79,6 +79,7 @@ Debatably the worst fist style. Dealing 25.3 damage with max light. What it lack
 
 ## Trivia/Notes
 
+-   You can only equip Way Of Navae fighting style on character creation. (That means if you get Legion Kata or Jus Karita and wipe you wont have them on character creation.)
 -   The Jus Karita fighting style can't equip a cestus. (If you have two fist styles and try to equip a cestus on Jus Karita, the game will forcibly switch you to the way of Navae fist style.)
 -   Unlike all other weapons, fist styles make white particles instead of yellow when they hit a blocking enemy. (Kind of correct as you're hitting metal with your bare fists)
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling Light Weapon Scaling anyway.

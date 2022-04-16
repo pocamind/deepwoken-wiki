@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 27852
+revid: 28087
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -39,6 +39,7 @@ Resurrection has 2 variants, with a common varying factor being the amount of HP
 
 -   Variant 1 resurrects the target at the location of their death.
 -   Variant 2 resurrects the target and bring them to the user.
+-   Variant 3 can be used on the user.
 
 #### _Corrupted_
 
