@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28027
+revid: 28068
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -105,7 +105,7 @@ Willpower mantras are mainly based on making sure your enemy cant escape and kee
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends'.
 
 -   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
-    -   Combat tags enemies.
+    -   Combat tags enemies. (Last time I tried to test this a few months ago with 2 other people hitting eachother, it seemed to give 10% more damage to the afflicted persons, but also cause them to take 20% more. Basically like half of an Isshan's ring. Please remove this if I was wrong.)
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
