@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 27962
+revid: 28081
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character, Talents]
@@ -26,9 +26,7 @@ Another thing about fishing is bait. To equip bait, hold out your fishing rod an
 
 Fishing levels your willpower, fortitude and intelligence. It also levels charisma if you catch a gold fish.
 
-After catching a fish you can get the "hook, line and sinker" talent which increases carry load by 6 and makes fish much harder to lose on a line, but is dependant on RNG.
-
-There is also another fishing related talent, called "Proficient Baiting", which makes it less likely to fish up trash. ~~However this cuts you off from getting seaweed, which makes you unable to craft sushi. (Brilliant game design)~~ just got seaweed 3 times back to back with the talent
+You can obtain fishing talents by reaching milestones. At 10 fish caught, you get the "proficient baiting" talent which reduces the chance to catch garbage. At 30 fish caught, you get "hook, line, and sinker" which makes it harder for the line to break. At 50 fish caught, you get "fisher's lure" which makes things grab your line quicker.
 
 ## Loot From Fishing
 
@@ -49,7 +47,7 @@ Fishing up the Tuna.
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
--   Chests (Very rare, can contain loot from almost any possible chest, including SOME special ones such as the chest from [Duke Erisia](Duke_Ishamon_Erisia.md), not all of them)
+-   Chests (Very rare, can contain loot from almost any possible chest, including SOME special ones such as the chest from [Duke Erisia](Duke_Ishamon_Erisia.md), not all of them. Do note that the loot pool is completely randomized)
 -   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught.
 
 A lot of fish (with crow tarsus)

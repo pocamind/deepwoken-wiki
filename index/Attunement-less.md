@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28068
+revid: 28078
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,15 @@ _"Some people use otherworldly powers to overcome obstacles. Cast flame upon ene
 
 Attunement-less mantras consist of mantras that are chosen based of your attributes, similar to talents, rather than your attunements.
 
-**NOTE: Attunement-less mantras are rarer if you have an attunement.**  
+**NOTE: Attunement-less mantras are rarer if you have an attunement.**
+
+## Overview/Description
+
+You don't have an attunement, so your mantras scale off of Strength or other sources, if it has scaling at all.
+
+Most of your mantras focus on your character, such as making you faster, helping you do more damage when things look ugly, or removing stun. Although attunementless sounds horrible on paper, Deepwoken does a good job of making it as good as any other attunement. While the moves are on par if not better than most attunements, it has some drawbacks being you don't get to experience the passives of other attunements, despite having 100 extra points, you likely won't get the chance to obtain most of the mantras, and you don't have much utility outside of fighting.
+
+Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few moves, the community has discovered much about it. It's one move that seemingly had nothing to do with combat, was turned into a wall to proc flourish talents, effectively turning it into unironically one of the best combat mantras. The playstyle of this lifestyle is straight forward. You see an opening and you take it without a second thought because it's going to be hard to get close to your opponent. Many of the moves are good for combat, which is very beneficial in a game like Deepwoken, because it has a large arsenal of moves including it's very own counter, something that little to no attunements have. This attunement (If you could even call it that) is for a warrior, as it can excel in fights, but is not very useful outside of fights.
 
 ## Attribute Mantras
 
@@ -59,17 +67,17 @@ _\[The only thing you need is to uncap, which technically also needs 75 fortitud
 
 ### _**Agility Mantras**_
 
-Agility mantras are mainly based on enhancing the user's movement speed, and movement options. To increase the distance travelled of dash moves/duration and level cap, strengthen your legs with Ankle Weights.
+Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the duration/level cap, bolster your agility and wisdom with Ankle weights.
 
 -   **Revenge** - A vengeful rush.
-    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 Agility, _Agility Combat Mantra_
+    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 agility, agility _Combat Mantra_
 -   **Dash** - An agile dash.
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark(?) and drift/rush shards.
-    -   Requirement: 40 Agility, Mobility Mantra
+    -   Requirement: 40 agility, Mobility Mantra
 
--   **Adrenaline Surge** - An adrenaline rush of agility.
-    -   Restores a decent amount of ether, and increases your movement speed and parkour abilities by 25%. ( your current agility points + (your current agility points/4)
-    -   Requirement: 20 Agility, _Agility Support Mantra_
+-   **Adrenaline Surge** - An adrenaline rush of sanity.
+    -   Restores a decent amount of ether, and increases your movement speed and parkour abilities by 25%. ( your current willpower points + (your current willpower points/4)
+    -   Requirement: 20 agility, Agility _Support Mantra_
 
 ### _**Intelligence Mantras**_
 
@@ -83,22 +91,22 @@ Intelligence mantras act as "wildcards" in the user's arsenal. They compliment t
     -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. ~Does not work on M1's/Critical Attacks.~ This is false.
     -   Requirement: 50 Intelligence, _Intelligence Combat Mantra_
 
-### _**Willpower Mantras**_
+### _**Agility Mantras**_
 
-Willpower mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle. To increase the duration/level cap, bolster your sanity and wisdom with Prayer Beads.
+Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate.
 
--   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving insanity and reducing their defense.
+-   **Gaze -** An ability where you stare at your enemy, combat tagging them, giving slowness and reducing their defense.
     -   Essentially, you summon an invisible projectile every few seconds while Gaze is active, getting hit by it trigger the effects.
-    -   Requirement: 30 Willpower, _Willpower Support Mantra_
-    -   Could be very dangerous for Willpower-less or a Curse of the No Life King user
+    -   Requirement: 30 willpower, willpower _Support Mantra_
+    -   Could be very dangerous for Agility-less or a Curse of the No Life King user
 
 -   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
     -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
-    -   Requirement: 6 Willpower Willpower _Support Mantra._
+    -   Requirement: 6 willpower, willpower_Support Mantra._
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
     -   The mantra does not only clear your posture, it transfers it to the target.
-    -   Requirement: 40 Willpower, _Willpower Combat Mantra_
+    -   Requirement: 40 willpower, willpower _Combat Mantra_
 
 ### _**Charisma Mantras**_
 
@@ -174,7 +182,7 @@ For example:
 
 -   Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
--   _Strong Left or the so called: "STROG LEF!","Falcon... PAUNCH","Serious Punch.","GURA PUNCH!","ORA!","Colier!...No? Ok..."._
+-   _Strong Left or the so called: "hot men"_
 -   You can obtain other Weapon Mantra's as long as you have 6 investment points in them.
 -   Rapid Punches is the single Attunement-less mantra that has a star.
 -   Revenge really be a Afro Samurai wannabe type of move.

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 27564
+revid: 28074
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -33,6 +33,7 @@ It can be found digging in the marketplace area near the gate, but will run towa
 ### Finisher
 
 -   **"Mudskipperification"** - Get wiped and turned into a [Mudskipper](Mudskipper.md).
+-   "Squidification" - Get wiped and turned into a **Nautilodaunt**. This death animation is extremely rare.
 
 ## **Combat**
 
