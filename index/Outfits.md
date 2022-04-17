@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28103
+revid: 28111
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -469,6 +469,7 @@ _Requires Power 30_
 -   Royal Duelists are strange pieces of armor, and don't seem to take off arm pieces.
 -   There is a secret beginner armor called 'RaguzaRequest7' and it's schematic name is 'Pathfinder Sorcerer
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off Scaramouche from Genshin Impact
+-   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g. Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
     
     File:RaguzaRequest7armor.png
     

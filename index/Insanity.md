@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 27625
+revid: 28109
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 
 -   **Tier 1 - 33% insanity - Shivering:** The character will start to occasionally shiver in fear, slowing them down. The blue border will be decently visible at this tier.
 -   **Tier 2 - 66% insanity - Scratching:** The character will start scratching themself every few seconds, dealing a generous amount of damage. The blue border on the screen will begin pulsing at this tier.
--   **Tier 3 - 100% insanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing great damage each time. If the character ever receives damage from this over their current HP then they will tear their own eyes out and instantly die. The blue border will feature new motifs when nearing this tier. (It does not kill you instantly, do the testing yourself. If you were at 100HP and got 100% you wouldn't lose all 100HP instantly but gradually.)
+-   **Tier 3 - 100% insanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 7% damage each time. If the character ever receives damage from this over their current HP then they will tear their own eyes out and instantly die. The blue border will feature new motifs when nearing this tier. during this animation you cant walk
 
 ## Insanity Increasing Effects
 

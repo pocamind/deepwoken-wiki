@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28023
+revid: 28113
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -201,7 +201,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
   <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
-  <p>This enchantment was disabled by the devs and any existing tainted sorrow enchantments have been deleted, read announcements for proof.</p></div></td>
+  <p><s>This enchantment was disabled by the devs and any existing tainted sorrow enchantments have been deleted, read announcements for proof.</s></p>
+  <p>Tainted Sorrows is only obtainable through mod/dev rerolls. Deepwoken Moderators are the only people that can obtain this enchant on any weapon through moderation points/reward system.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
