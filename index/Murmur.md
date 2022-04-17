@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 28085
+revid: 28102
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -20,7 +20,7 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more and it is possible there will be more introduced in the future, however, there is no proof of any others existing or being obtainable (Aside from Adagio, which is used by The Knives of Eylis captains but not obtainable for now).
+Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more and it is possible there will be more introduced in the future, however, there is no proof of any others existing or being obtainable.
 
 ## Training Murmurs
 
@@ -69,14 +69,6 @@ Murmur: Tacet can be obtained by completing 35 assassinations for Cestis at [The
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
 You can also get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest.
-
-## Murmur: Adagio
-
-Adagio allows the user to slow people around them by making a strange, vibrating noise, creating an expanding bubble around them. Anyone who walks into this bubble will be slowed and their view given a monochrome palette. The people inside are slowed to the point where they cannot move while crouched. This can be easily cancelled by attacking the user therefore disrupting the noise.
-
-There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back. This can make fighting inside it almost impossible as enemies will have double the swing speed, making it impossible to land hits, and making parrying extremely hard.
-
-The only users of this Murmur are The Knives of Eylis captains, with the Murmur itself being unobtainable.
 
 ## Murmur: Rhythm
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28058
+revid: 28103
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -81,7 +81,9 @@ _Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen
 
 ## Armor
 
-Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information.
+Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. Not to be confused with the armor attribute each outfit gives.
+
+Keep in mind, **nearly all of the coats have color varients** that may not be mentioned below (varients vary, 2+), **the exceptions being Star Duster, Providence Coat, Elite Pathfincer Coat, and Royal Pathfinder Coat.**
 
 **Head:**
 
@@ -313,14 +315,14 @@ _Doesn't need any power, but obviously needs a mantra to get it_
 
  | Redsteel Pauldrons | Grants a random buff. | Arena Chests |
 | File:Royal Auth Commander.png | Royal Authority Commander | Grants a random buff. | Fort Merit Chests |
-| File:Amber AuthorityCommander Coat.png | Amber Authority Commander | Grants a random buff. | Fort Merit Chests |
-| File:Grayjusticarcoat.png | Gray Justicar Coat | Grants a random buff.
+| File:Amber AuthorityCommander Coat.png | (Amber) Authority Commander | Grants a random buff. | Fort Merit Chests |
+| File:Grayjusticarcoat.png | (Grey) Justicar Coat | Grants a random buff.
 
 _Requires Power 40_
 
  | Fort Merit Chests |
-| File:Dark Gumshoe Longcoat.png | Dark Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Dread Serpent |
-| File:Ochre Gumshoe Coat.png | Ochre Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Fort Merit Chests |
+| File:Dark Gumshoe Longcoat.png | (Dark) Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Dread Serpent |
+| File:Ochre Gumshoe Coat.png | (Ochre) Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Fort Merit Chests |
 | File:Dark Royal Duelist.png | Royal Duelist Armor | Grants a random buff.
 
 _Requires Power 40_
@@ -331,8 +333,14 @@ _Requires Power 40_
 _Requires Power ???_
 
  | Nautilodaunt |
+| 90×100px | (Blue) First Ranger Duster | Grants a random buff.
+
+_Requires Power ???_
+
+ | King Thresher |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests |
 |  | Adventurer coat | Grants a random buff. | Primadon chests, Depths (seems to no longer be obtainable) |
+| File:Cloud First Ranger Duster.png | Cloud First Ranger Duster | Grants a random buff. | King Thresher |
 
   
 
@@ -413,7 +421,7 @@ _Requires Power 40_
 
 _Requires Power 15_
 
- | Ferryman Chest |
+ | Ferryman Chest, Arena Chests |
 |  | Windmill Ring | Taking damage from ice or wind will cause you to regenerate ether.
 
 Grants one random buff.
