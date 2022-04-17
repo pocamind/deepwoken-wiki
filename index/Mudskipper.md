@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 28073
+revid: 28105
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
