@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 26762
+revid: 28121
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -22,7 +22,7 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa(?), Erisia |
+| obtainment | Chests from:, Minityrsa(?), Erisia, The Depths |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 ## Description
