@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 28026
+revid: 28145
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics, Character, Food]
@@ -24,11 +24,10 @@ _If you want to know more about the ways you can die, see [Death Compendium](Dea
 
 See [Escaping The Depths](https://deepwoken.fandom.com/wiki/The_Depths#Escaping_The_Depths) page here.
 
-## Notes/Trivia
+## Trivia
 
--   It is very unwise to kill people in towns as guards in Vigils and Etris will hunt you down, and you will not survive unless you are powerful enough. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 in a city, and lower than [Power](Power.md) 10 anywhere.
--   When you die in the depths and get sent to the [Fragments of Self](Fragments_of_Self.md), you will be forced to wipe, losing all progress on the character, and you have to make a new character. Alternatively, you can pay 1000 Robux to Second Wind, which restores your lives and return you to the Etrean Luminant. You can Second Wind once per character.
+-   It is very unwise to kill people in towns as [the guards of said town will hunt you down](Reputation.md), and you will not survive unless you are powerful enough. It is also impossible to gain [Luck](Luck.md) from players lower than [Power](Power.md) 30 in a city, and lower than [Power](Power.md) 10 anywhere.
 -   The player technically has 120 Lives given they die every level and follow it with a power-up, this number is higher if taken into the account escaping [The Depths](The_Depths.md), numbering to approximately 180 lives.
 -   Dying in the [Voidsea](Voidsea.md) or dying to the [Primadon](Primadon,_Titan_of_the_East.md) will void your second life and instantly send you to [The Depths](The_Depths.md).
--   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
+    -   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
 -   Dying to hunger and then immediately dying to hunger again in The Depths is restorable. This note is important because people didn't know this fact and lost their progression

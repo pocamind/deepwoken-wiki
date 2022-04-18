@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 27961
+revid: 28123
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -88,20 +88,18 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note_
 
-Your Trial Power is calculated by Power + Times Drowned. This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns.
-
-Please don't change these values unless there is an actual update that changes them. My friend was power 8 and died to a mudskipper knight so it does spawn at that level.
+**Your Trial Power is calculated by Power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 49 but have 1 drowned then you will face an Enforcer (49+1=50). _The table below accounts only for your power, not how many times you drowned._
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-9 | Nothing (Free Reservoir Talent, if you wanted that) |
+| 1-9 | Nothing (you are sent up without a fight) |
 | ~10-19 | [Mudskipper Knight](Mudskipper.md) |
 | 20 - 28 | [Angels](Hollow_Angel.md) (Lesser) |
-| 29-49 | [Megalodaunt](Megalodaunt.md) |
+| 29-49 | [Megalodaunt](Megalodaunt.md) (small chance of a corrupted version) |
 | 50+ | [Enforcer](Enforcer.md) |
 
--   If 4 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced to slaughter each other until only 3 remain, only then will the Trial begin.
-    -   This is not a guarantee, and they may just spawn many Enforcers.
+-   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
+    -   Depending on the power of each player, this may not be the case and either many enforcers or megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
 -   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
@@ -125,6 +123,7 @@ Just some information to keep in mind and remember.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in the Depths. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
+    -   Blindseer most likely doubles or even triples the time you can stay in the depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grant [Luck](Luck.md) when defeated.
 -   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to consider bringing _**healing potions**_.
@@ -174,7 +173,7 @@ When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another 
 -   [Deep Owl](Deep_Owl.md)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [The Enforcer](Enforcer.md)
--   Celtorian City Guards
+-   Celtorian City Guards (neutral unless triggered)
 -   [Deep Widow](Deep_Widow.md)
 -   [Thresher](Thresher.md)
 -   [King Thresher](Thresher.md)

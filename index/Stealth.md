@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 21792
+revid: 28139
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Stealth
 
 Vesperian in Stealth
+
+“ We head to the Erisian Village to become acquainted with the STEALTH. Unfortunately for the Bandits, it's completely optional ”
+
+― A basic description of a fairly useless stat.
 
 **Stealth** is a Mechanic that allows the player to stay hidden from others.
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 28024
+revid: 28124
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -10,7 +10,7 @@ categories: [Oaths, Character, Talents]
 
 | Oath: Oathless | |
 |---|---|
-| oath_req | Power 30+ |
+| oath_req | Power 25-30+ |
 | effects | +2 Wildcard Mantra Slots |
 
 | Oath: Blindseer | |

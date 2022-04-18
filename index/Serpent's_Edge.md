@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 27547
+revid: 28136
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -29,11 +29,8 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however.
+The Serpent's Edge is a popular endgame Medium Weapon, know for its iconic curved design, resembling a snake.
 
-it is also one of a tryhard's weapon of choice
+## Trivia
 
-## Notes/Trivia
-
--   At max Medium Weapons, the Serpent's Edge is better than a [Shattered Katana](Shattered_Katana.md) in terms of damage, ~but unlike the Shattered Katana the Serpent's Edge does not have any penetration. (PEN)~ Serpent's Edge now has 5% penetration
--   This is likely a refence to the [nichirin](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) sword of the character [Obanai Iguro](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) in the series Demon Slayer.
+-   At max Medium Weapons, the Serpent's Edge is better than a [Shattered Katana](Shattered_Katana.md) in terms of damage and it also has 5% penetration

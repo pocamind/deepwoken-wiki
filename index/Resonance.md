@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 27836
+revid: 28130
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -100,31 +100,42 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   [The Enforcer](Enforcer.md) (Not recommended)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
+-   [Nautilodaunt](Nautilodaunt.md) (Not recommended)
 
- | Go to [The Depths](The_Depths.md) and kill Players, Monsters unique to the depths (such as [Nautilodaunt](Nautilodaunt.md)), and Corrupted Monsters. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
+ | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
 | **Extra/Important information:** |
 | Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
 
--   **Primadon** is generally regarded as the best overall, have the highest Progress reward, having an incredibly reliable and easy way to summon, and not being in The Depths or some specific season. His only con is that he has been slowly becoming harder across the updates.
--   **Dread Serpent** has second highest Progress reward, but is INCREDIBLY hard to find.
+-   **Primadon** is generally regarded as the best overall, having a high Progress reward, incredibly reliable and easy way to summon, and not being in The Depths or some specific season. His only con is that he has been slowly becoming harder across the updates.
+-   **Dread Serpent** has a very high Progress reward, but is INCREDIBLY hard to find.
 -   **The Duke** gives a good amount of Progress, and is reliable to summon, but has an annoying and somewhat dangerous fight.
 -   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
 -   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal.
 -   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
--   Other "boss" type monsters such as Deep Widows and Nautilodaunt are not known to give Progress, so best bet is to not do them.
+-   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, and being incredibly dangerous, he is highly advised against.
+-   Deep Widows are unknown to give Progress.
 
- | Basically, killing anything in The Depths (that aren't non-corrupted Overworld monsters) will reward Progress.
-
-  
-Keep in mind though, Progress rules when it comes to other players are similar to Luck, in that they wont give ANYTHING if they're too weak compared to you. Target in your own level range, or above.
-
- | An important word is FIGHT. You cannot just have someone drop or weaken what you need to kill and then kill it for boosting purposes (unlike the other two), you need to FIGHT them and then kill them.
+ | Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), and [Nautilodaunt](Nautilodaunt.md). Other monsters WILL NOT give progress, unless they are Corrupted.
 
   
-Similarly to the previous Nature, Progress rules when it comes to other players are similar to luck, in that they wont give ANYTHING if they're too weak compared to you. Target in your own level range, or above. Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md), which will give better rewards than in the Overworld.
+Luck rules apply when it comes to killing other players. You will not gain Progress from killing other people unless you also gain Luck, requiring you to be within their level range.
+
+ | 
+
+  
+
+  
+Luck rules apply when it comes to killing other players. You will not gain Progress from killing other people unless you also gain Luck, requiring you to be within their level range.
+
+Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md), which is safer and will give more Progress, as opposed to The Overworld or The Depths.
 
  |
-| Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you. |
+| For all three natures, an important word is "Fight". You need to FIGHT, not just KILL whatever you are after. Dealing damage is actually where a significant amount of the Progress comes from, and not just killing.
+
+  
+Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you.
+
+ |
 
 ### Obtaining Your Resonance
 

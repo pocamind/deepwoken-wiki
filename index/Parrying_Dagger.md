@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 20823
+revid: 28140
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,12 +29,18 @@ categories: [Weapons, Weaponry]
 | obtainment | Obtained from Etris Store, Erisia, Depths. |
 | description | A dagger that is used more as a pivot for parrying than as a weapon of its own right. |
 
+“ I shall never financially recover from this ”
+
+― Players after putting points in light weapon and spending 25 notes to buy a useless weapon so they can dual wield.
+
+  
+
 ## Description
 
 The Parry Dagger is an Off-hand tool used for better parry capability. Found in the weapons shop in Etris and can be purchased for 25 notes and requires 10 light weapon training.
 
 The parry dagger increase posture damage dealt with parries and decrease posture damage suffered from getting parried.
 
-## Notes:
+## Trivia
 
 -   Despite being thought to increase parry time, it doesn't do that. It used to, however, but it was changed as it had become a meta during the tester waves. In return, the devs increased the overall parry time as a feature and reworked the parry dagger's ability.

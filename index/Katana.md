@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 20881
+revid: 28138
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,9 +25,15 @@ categories: [Weapons, Weaponry]
 | obtainment | Obtained from chests found in Minityrsa and Songseeker Isles. |
 | description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
+“ Face it Jack, you can't even hold a sword. ”
+
+― Katana mains while spamming their quick draw crit.
+
+  
+
 ## Description
 
-The Katana is a Medium type weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack (a forward stab), the katana will make the user lunge forward.  
+The Katana is a Medium type weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack, a forward stab, the katana will make the user lunge forward.  
 
 ## Notes
 

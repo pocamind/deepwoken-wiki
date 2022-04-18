@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 27965
+revid: 28142
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPC]
@@ -35,8 +35,9 @@ If you meet all the criteria, you are able to make one of four wishes:
 3.  **"The powers I have been granted displease me, I wish for new."**
     -   Erases your current [Resonance](Resonance.md), and draws three new Resonance cards.
 4.  **"The Vows I made give me much regret, I wish to break."**
-    -   Erases any [Vow of Masteries](Vow_of_Mastery.md) that have been made, and gives the Vacant flaw.  
-        
+    -   Erases any [Vow of Masteries](Vow_of_Mastery.md) that have been made, and gives the Vacant flaw.
+5.  **"forgot what it said here but there's an option to remove the oath you made."**
+    -   Removes the oath you made
 
 ## Trivia
 

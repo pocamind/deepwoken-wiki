@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 26184
+revid: 28137
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -72,6 +72,10 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Asking her about Etrea increases your Intellegence stat, indicated by a white particle effect.
 -   Acts similar to Korin in Etris; 10 Wood for, plus Etrea [reputation](Reputation.md).
 -   This quest is repeatable.
+
+### Chipped Sword
+
+Nothing is known about this sword. I found it near the mantra shop and speculate it has something to do with Blindseer Progression
 
 ## Notes/Trivia
 
