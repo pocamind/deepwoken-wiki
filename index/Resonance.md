@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 28130
+revid: 28164
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -110,7 +110,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   **Dread Serpent** has a very high Progress reward, but is INCREDIBLY hard to find.
 -   **The Duke** gives a good amount of Progress, and is reliable to summon, but has an annoying and somewhat dangerous fight.
 -   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
--   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal.
+-   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal. Though if you have full set Silencer talent consider yourself having free resonance
 -   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
 -   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, and being incredibly dangerous, he is highly advised against.
 -   Deep Widows are unknown to give Progress.

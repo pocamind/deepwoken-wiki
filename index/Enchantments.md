@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28113
+revid: 28169
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -31,6 +31,8 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 18/02/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
 
+  
+
 There are two variants that enchantments come in:
 
 -   **Regular** - They have an effect and no downsides.
@@ -41,8 +43,6 @@ Since release, only weapons can have Cursed Enchantments. Equipment and Weapons 
 The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md) is a good way to increase your chances of finding one.
 
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
-
-## List of Enchantments/Curses
 
 **Weapons:**
 
@@ -299,12 +299,14 @@ On proc, push the attacker away, making it harder to chain attacks.
  |
 | 
 
+File:Viscositydoesnthaveavisualeffect.png
+
 Viscosity
 
  | 
 
 Damage dealt to the user is reduced and dealt over time. You will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage). More damage you take, more damage will be dealt over time.  
-The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP.
+The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28067
+revid: 28148
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -136,7 +136,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 ### Artisan
 
 -   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station.
-    -   Prerequisites: Intelligence
+    -   Prerequisites: 20 Intelligence
 
 ### Assassin
 
@@ -735,7 +735,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 ### Scholar of the Cloud
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
-    -   ~Gained when talking to Stratos. You must have good reputation with Etrea.~ Obtained by angling the sails with the wind for an unknown duration.
+    -   Gained when talking to Stratos. You must have good reputation with Etrea.
 
 ### Self-Shocker
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 27720
+revid: 28146
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -187,8 +187,6 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
  |
 
 ## **Talents**
-
-[\[3\]](https://flame-within.fandom.com/wiki/Flame_Within_Wiki)
 
 **Flamecharmer:**
 
