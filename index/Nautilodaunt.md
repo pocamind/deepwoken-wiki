@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 28074
+revid: 28184
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -55,7 +55,7 @@ Nautilodaunt's kick is basically identical to The Enforcer's. He will usually us
 
 Similarly to a player, if Nautilodaunt strings enough attacks in a row, he will Flourish his target. While the Flourish itself isnt deadly, (unless you collide with terrain, which his spawn has wooden shacks everywhere, then it does like 100 damage), it's what follows is deadly.
 
-Nautilodaunt's most dangerous attacks are only used when there is a large distance from him to his target. While they are designed, and commonly used, to catch runners, they ALSO can be used if you get Flourished, or even if HE Flourishes YOU.
+Nautilodaunt's most dangerous attacks are only used when there is a large distance from him to his target. While they are designed, and commonly used, to catch runners, they ALSO can be used if you get Flourished.
 
 Flip-Kick and Drop-Kick share many similarities. Normally, Nautilodaunt power-walks towards his targets. But right before he uses these two attacks, he will sprint at them at a horrifyingly quick speed.
 
@@ -74,6 +74,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 ## **Notes/Tips**
 
 -   This enemy is extremely easy to defeat with multiple people. It only has 1000 hp and barely any armor or resistances. Just gang up on it and parry when possible.
+-   The Nautilodaunt is one of the only monsters that can be both guard broken and posture stunned (the other being [The Enforcer](Enforcer.md))
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.
 -   Do **NOT** parry trade with the Nautilodaunt because it has a much higher posture pool than you. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.

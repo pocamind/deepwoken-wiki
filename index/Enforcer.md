@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 27526
+revid: 28182
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -89,6 +89,7 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 ## Trivia
 
 -   All of The Enforcer's damaging attacks are parryable, and blockable.
+-   The Enforcer is one of the only monsters that can be both guard broken and posture stunned (the other being the [Nautilodaunt](Nautilodaunt.md))
 -   The Enforcer can be found in the trial of one, it can become easier to get used to fighting it.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away it's his Whirlwind, easily giving you time to breath (metaphorically and literally) or use consumables.

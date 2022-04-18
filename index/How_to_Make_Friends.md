@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 27284
+revid: 28173
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -110,7 +110,7 @@ Charisma 65+(Not 70+ when I had 65 people said this.)
 
 ## Removed Phrases
 
--   You doing anything next week? Because I'd like to see you greMORE.
+-   You doing anything next week? Because I'd like to see you greMORE. ~Once got someone fucking banned off Roblox~ Not confirmed but yeah, Roblox diddn't approve.
 
 -   So, you doing anything on the weekend?
 

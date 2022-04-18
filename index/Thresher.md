@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 27908
+revid: 28191
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -12,7 +12,7 @@ categories: [Monsters, Enemies]
 
 # Thresher
 
-“ SCP-682 HAS BREACHED CONTAI- ”
+“ where's your dad ”
 
 ― Authority soldier before being shaken apart by a Thresher
 

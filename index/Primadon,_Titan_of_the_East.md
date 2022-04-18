@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 28144
+revid: 28189
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -8,13 +8,12 @@ categories: [Pages with broken file links, Boss, Luck]
 
 # Primadon, Titan of the East
 
-“ I shall summon Harambe.. ”
+“ You shrink like an ant in the face of a true predator. ”
 
-― Jonathan Talo before making every single mistake possible while fighting the Primadon
-
-  
+― Primadon's Hunting Grounds flavor text
 
   
+
 Template:Creature Infobox V3
 
 File:Primadon.png
@@ -23,7 +22,7 @@ File:Primadon.png
 
 ## Description
 
-Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) three Lionfish scales or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primadon can be summoned by offering three [Megalodaunt Hide](Megalodaunt_Hide.md) or three [Umbral Obsidian](Umbral_Obsidian.md) to the large bonfire located in the center of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 30 minute cooldown, and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 ## Attacks
 
@@ -31,26 +30,28 @@ Loud and enormous, **Primadon** is a giant sea monkey [Boss](Bosses.md). Primado
 | --- | --- | --- | --- |
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | (★☆☆) |
 | **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | (★★☆) |
-| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch, he only uses it if you're at a chest length of his body or flying on a glider. | ◯ | (★☆☆) |
-| **Primal Leap** | Primadon leaps backward in order to gain some distance and throws a single rock. | ◯ | (★★☆) |
-| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting you into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, can Daze upon impact. | ✗ | (★★☆) |
-| **Grab** | Primadon crouches down, winds up its **right** arm, stuns you, and grabs you - Dealing about a bar of damage to even those with 500 hp. | ◯ | (★★★) |
-| **Rock Throw** | Primadon punches the earth beneath him using his **right** arm having 3 rocks hurled at you. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
-| **Enrage** | Primadon goes into his second stage, signified by a scream with a purple aura, giving you insanity. This increases his attack speed and stuns players. | ◯ | (★★★) |
+| **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. Only used against players that are above his waists (flying or near a ledge). | ◯ | (★☆☆) |
+| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact. | ✗ | (★★☆) |
+| **Grab** | Primadon crouches down, winds up its **right** arm, and grab a player in front of it to hurl it into the air. Deals 100~ damage.
+Only used if the player is in front of Primadon and not near his legs.
+
+ | ◯ | (★★★) |
+| **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm having 3 rocks hurled at the player. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
+| **Disengage** | Primadon jump backward, creating distance while hurling rocks at the player. | ◯ | (★★★) |
+| **Enrage** | Automatically used after the first posture stun. Screams, giving a significant amount of insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight. | ✗ | (★★★) |
 
 ### Passives
 
--   **Elemental Resistance** - Primadon is almost completely immune (95% elemental reduction) to any damage done by attunement mantras, and elemental damage is greatly reduced.
+-   **Elemental Resistance** - Primadon have 95~% mantra defence and elemental resistance.
     -   [Deep Gems](Deep_Gems.md) will still activate[\[1\]](#cite-note-1), however.
     -   True Ether Bullet will make guns deal pitiful damage.
 -   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths. (If you are standing near the front where Primadon spawns then you will most likely be sent to The Depths, however if you are standing further back closer to the huge cliff you will most likely not be sent to The Depths. (still needs more testing)
     -   If a player is knocked by something else than Primadon, but is then executed by Primadon, the victim will not be sent to [The Depths](The_Depths.md).
-    -   If a player is knocked by Primadon, and is then executed by Primadon, the victim won't always be send to [The Depths](The_Depths.md). **(Needs more testing)**
 
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 Umbral Obsidian in them.
--   **Small chest -** Has 1-3 Umbral Obsidian in it and an extremly low chance of 1-2 Deep Gems.
+-   **Small chest -** Has 1-3 Umbral Obsidian in it and a low chance of 1-2 Deep Gems.
 -   **Luck -** Gives about 23% luck, somewhere as much as 15-20 Corrupted [monster](Monsters.md) kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell),](Resonance.md) **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get bell.**
 
 ## Strategies & Tips
@@ -86,12 +87,9 @@ The boss arena, showing the ocean from which Primadon spawns.
 -   Primadon is extremely likely to use **Kick** when it follows up one or multiple **Tramples** with a regular **Stomp**. Predicting **Kick** and readying to perfect roll greatly increases your chances of success.
 -   Primadon has the most "end-lag" after it uses **Trample**, or **Stomp** followed by **Trample/Stomp**. If it **Kicks** after a **Stomp** then the end-lag will be significantly lower.
 -   If you see the right foot raise, prepare for **Trample** and if you see the left foot raise (_not_ swing back, as this represents **Kick**,) prepare for one **Stomp**. Dodge the **Kicks** and parry the **Stomps** and success will be certain.
--   When far enough away Primadon wil use **Rock Throw** and thow 3 massive rocks towards the targeted player, these can be dogded.
--   Sometimes Primadon will do a **Leap** backwards, Primadon will use **Rock Throw** while in the air, they can be dogded.
 
 ## Trivia
 
--   Primadon itself doesnt have a execute move, however his stomp will insta-execute you if it would knock you, or if he stomps someone while you are in radius of stomp
 -   Deep Gems were temporarily stripped from the loot pools of all _Etrean Luminant_ enemies, including Primadon. After a day, however, Deep Gem [Chests](Chests_&_Sacks.md) were added back to Primadon's loot pool, although they are no longer guaranteed to spawn when it is defeated.
 -   Primadon's respawn time is around 30 minutes.
     -   This cooldown is in effect for the player who summoned Primadon, and everyone involved (Dealt damage at least once). The cooldown is for the account in use and is not a slot cooldown, for some weird reason. (Has been tested by me multiple times)
