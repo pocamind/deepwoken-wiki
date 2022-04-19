@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 28120
+revid: 28209
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -90,3 +90,5 @@ A common theory is that Vesperians and Ganymedes are different versions of the s
 -   One of the most valuable traits for Ganymedes is their resistance to [Insanity](Insanity.md), making it so you can grind in the Depths longer
 -   During the 4/1/2022 April Fools update (Mudwoken), Ganymede race name was changed to Hatskipper.
 -   Ganymede is one of the rarest obtainable race in the game, the other one being [Capra](Capra.md)
+-   The ultimate chad race, only comparable to [Khan](Khan.md) in chad-level.
+-   Also has a lot of drip potential. They even start with a hat, very drippy.

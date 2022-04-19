@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 28189
+revid: 28212
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Boss, Luck]
 
 # Primadon, Titan of the East
 
-“ You shrink like an ant in the face of a true predator. ”
+“ I shall summon HARAMBE! ”
 
-― Primadon's Hunting Grounds flavor text
+― Johnathon Talo before being annihilated by the Primadon
 
   
 
@@ -37,7 +37,7 @@ Only used if the player is in front of Primadon and not near his legs.
 
  | ◯ | (★★★) |
 | **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm having 3 rocks hurled at the player. Does massive amounts of damage and very difficult to parry. | ◯ | (★★★) |
-| **Disengage** | Primadon jump backward, creating distance while hurling rocks at the player. | ◯ | (★★★) |
+| **Disengage** | Primadon jump backward, creating distance while hurling a rock at the player. | ◯ | (★★★) |
 | **Enrage** | Automatically used after the first posture stun. Screams, giving a significant amount of insanity to nearby player, as well as greatly increasing its attack speed for the reminder of the fight. | ✗ | (★★★) |
 
 ### Passives

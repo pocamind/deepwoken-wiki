@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 28129
+revid: 28204
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,6 +42,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shurikens, Fire Palm, Air Blast, or Elemental Guns.
+-   WARNING!!!!!!! If a Bloatskipper explodes near a knocked player/npc, the Bloatskipper will insta-grip them. My friend got killed to this when we were at erisia.
 
 ## Trivia
 

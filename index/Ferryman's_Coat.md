@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 26469
+revid: 28213
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -38,3 +38,4 @@ This Outfit's Schematic can be found in:
 -   Shirt Link: [https://www.roblox.com/catalog/5825770743/Night-Walker](https://www.roblox.com/catalog/5825770743/Night-Walker)
 -   Pants Link: [https://www.roblox.com/catalog/5807965620/Night-Walker-Pants](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
 -   Only \[?\] outfit in the game with the "Unique" tier as of now
+-   Very drippy

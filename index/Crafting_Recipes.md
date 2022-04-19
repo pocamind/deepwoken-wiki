@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 27752
+revid: 28218
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -82,7 +82,8 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **[Dried Seaweed](Dried_Seaweed.md)** - _1 Seaweed Bundle_
 -   **[Candied Fruit](Candied_Fruit.md)** - _2 of any fruit, 1 Sap (Makes your ether regen faster. Increases mantra damage temporarily)_
 -   **[Urchin Stew](Urchin_Stew.md)** - _3 Urchin_
--   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin_
+-   **Seafood Suprise** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
+-   **Seafood Boil** - 1 Squid, 1 Fish Meat, 1 Crustacean Meat _(You feel as though you could go longer without food...)_
 -   **[Fish Stew](Fish_Stew.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **[Calamari](Calamari.md)** - _1 Squid, 1 Gathered Wheat_
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)

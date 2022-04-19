@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28148
+revid: 28205
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -35,7 +35,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
 
--   You cannot roll Return to the Dark Ages with Everchanging Aegis.
+-   You cannot roll Return to the Fart Ages with Everchanging Aegis.
 -   You cannot roll Risky Moves with Safety Dance and Observation.
 -   You cannot roll Conditioned Runner with Fishman.
 -   You cannot roll Vanishing follow-up with Dazing Finisher.

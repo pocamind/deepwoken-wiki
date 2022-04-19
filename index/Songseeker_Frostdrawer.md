@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 26699
+revid: 28216
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,7 +42,7 @@ Frostdrawer Monks cannot be assassinated and have no Ether cost to their Mantras
 
 ### Drops
 
-Frostdrawer Monks don't drop anything on death. If fought in a [Random Encounter](Random_Encounters.md), they will spawn a chest on death.
+Frostdrawer Monks rarely drop Frigid Prisms on death. If fought in a [Random Encounter](Random_Encounters.md), they will spawn a chest on death.
 
 ## Trivia/Notes
 

@@ -1,13 +1,13 @@
 ---
 title: Hive Construct
-revid: 27934
+revid: 28207
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hive Construct
 
-_Also known as Hive Mechs, Senju, Forest Golems, or Obsidian Golems_
+_Also known as Hive Mechs, Life Weaver Golem, Senju, Forest Golems, or Obsidian Golems_
 
 Template:Creature Infobox V3
 

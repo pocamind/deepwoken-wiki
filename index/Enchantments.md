@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28169
+revid: 28206
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -42,7 +42,11 @@ Since release, only weapons can have Cursed Enchantments. Equipment and Weapons 
 
 The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md) is a good way to increase your chances of finding one.
 
+  
+
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
+
+Drip tip: If you pair Murmur: Ardour with a curse of Yun'Shul/Grim weapon, it will look like you have Buso haki from one piece.
 
 **Weapons:**
 
@@ -63,7 +67,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:Bloodthirstycatboy.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>M1s deal 10% more damage and remove more blood. Missing an M1 deals 2% of max hp as damage to the user.</p></div></td>
 </tr>
 <tr>
@@ -99,7 +103,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
-  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm.</p>
+  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm. (Deepfire ring works with it)</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -110,7 +114,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:Stormshattered(monkeyalert).png<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
@@ -122,7 +126,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   Attack speed buff cannot be stacked on allies.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:Searrrrrrr.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p>
   <p><br>
   </p></div></td>

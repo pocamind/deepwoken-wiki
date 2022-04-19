@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 25282
+revid: 28203
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,6 +60,11 @@ Easier to play the game, because obviously you played it too much.
 
   
 Unknown
+
+**Surnames:**
+
+  
+Spellhardt
 
 ## Notes
 

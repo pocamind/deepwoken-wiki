@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 24390
+revid: 28215
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -31,3 +31,4 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 -   ~also known as~ Is a giga chad
 -   Trying to buy something from him with not enough money will make him stop selling to you too
 -   He sells the meat at very low prices, it is only 2 notes a pop.
+-   Actually god??????
