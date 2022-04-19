@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 28116
+revid: 28305
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -12,9 +12,9 @@ Stone Knights are a type of Giant [monster](Monsters.md) encountered primarily i
 
 **Blizzard Knight:**
 
-“ Bro, I hate having to do the Aelita quest so much, I just want my goddamn finishers rin- ”
+“ You can have a lot more fun if you come back during the winter. ”
 
-― Level 50 Gremor, who forgot to check the season before wandering into Valley of Heroes
+― Aelita
 
 Template:Creature Info Box v2
 

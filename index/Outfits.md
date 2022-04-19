@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28267
+revid: 28311
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -333,13 +333,13 @@ _Requires Power 40_
 _Requires Power ???_
 
  | Nautilodaunt |
-| 90×100px | (Blue) First Ranger Duster | Grants a random buff.
+| File:First ranger.png | (Blue) First Ranger Duster | Grants a random buff.
 
 _Requires Power ???_
 
  | King Thresher |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests |
-|  | Adventurer coat | Grants a random buff. | Primadon chests, Depths (seems to no longer be obtainable) |
+|  | Adventurer coat | Grants a random buff. | Duke Chests (It obtainable now) |
 | File:Cloud First Ranger Duster.png | Cloud First Ranger Duster | Grants a random buff. | King Thresher |
 
   
@@ -453,7 +453,11 @@ _Requires Power 30_
 |  | Enforcer Boots | Grants a random buff. | Depths Chests |
 | File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests |
 | File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests |
-|  | Redsteel Boots | Grants a random buff. | Arena Chests |
+|  | Redsteel Boots | Grants a random buff. | Arena Chests
+
+<nowiki>
+
+ |
 
   
 
@@ -481,3 +485,7 @@ _Requires Power 30_
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
+
+  
+  
+|}

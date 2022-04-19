@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 28000
+revid: 28307
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -109,7 +109,8 @@ Wind utilizes the best all-rounder kit amongst the elements for movement, defens
 
 Uses dark energy to siphon Ether from others into the user's own Ether.
 
--   Doesn't excel in anything but has its niche in keeping the Ether bar up and making sure others can't use Ether.
+-   Excels in keep the opponent locked down and under pressure
+-   Has its niche in keeping the Ether bar up and making sure others can't use Ether.
 -   Goes well when paired with other elements.
 -   Typically used mid range.
 

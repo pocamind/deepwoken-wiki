@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 28135
+revid: 28276
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -28,9 +28,9 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 | obtainment | Fort Merit and The Depths chests. There is 5% chance of getting it from Fort Merit and The Depths chances are unknown |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-“ america spear ”
+“ Parry this you filthy casual ”
 
-― Random freshy in the Starswept Valley
+― Level 40 Etrean about to use their stupidly hard to parry combo starter/extender
 
   
 
@@ -42,7 +42,7 @@ The weapon itself is different from the typical Spear, as its critical is differ
 
   
 
-## Notes & Trivia
+## Trivia
 
 -   This weapon is a direct reference of the famed Rifle Spear in the game _Bloodborne_.
 

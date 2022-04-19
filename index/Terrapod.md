@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 27676
+revid: 28281
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster]
@@ -12,7 +12,7 @@ categories: [Monsters, Monster]
 
 ― Angry Terrapod before leaping into the Etrean sea and falling into the Depths below
 
-Template:Creature Infobox V3 _Also known as turtles or annoying scissor thing._
+Template:Creature Infobox V3 _Also known as turtles, annoying scissor thing or table_
 
 The Terrapod is a monster notorious for shredding health quickly and having very high mobility.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28224
+revid: 28313
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -457,8 +457,8 @@ A Peacekeeper Commander, part of The Authority
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
 -   (The Authority) The Divers are outsourced by The Adretian Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
--   Based on The Black Diver Armor's description, The Divers has some form of ranking system.
--   (Akira) The yearly death rate is 98% of new recruits, according to [Akira](Akira.md).
+-   The Divers have some form of ranking system, with Black Divers being powerful, elite divers, and with Diver Aprentices making up the lower rungs.
+-   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located somewhere in the Luminants.
 -   (Arch\_Mage) The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them.
@@ -985,6 +985,11 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 ### Mudskippers
 
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
+
+### Primadon
+
+-   Despite his huge size Primadon is belived to be a baby fish monkey.
+-   Not much is known about Primadon, other than that he comes from the sea.
 
 ## Player Lore
 

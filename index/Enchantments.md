@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28273
+revid: 28300
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -46,8 +46,6 @@ The actual chance of getting an enchant are unknown, however, any chest from any
 
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
 
-Drip tip: If you pair Murmur: Ardour with a curse of Yun'Shul/Grim weapon, it will look like you have Buso haki from one piece.
-
 **Weapons:**
 
 Will have an effect upon hitting something. Can range from status effects to more damage, or unique effects.
@@ -67,8 +65,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirstycatboy.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove more blood. Missing an M1 deals 2% of max hp as damage to the user.</p></div></td>
+  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -97,7 +95,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (7 for Heavy, 14 for Medium, 7(?) for Light). The charged hit will be a guaranteed detonation. The explosion can execute. Deals AOE damage.</p>
+  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (Guns: 5, LHT: 7, MED: 4, HVY: 3). The last hit will detonate. The explosion can execute. Deals AOE damage.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -139,8 +137,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>M1 connections apply a debuff which drastically increases armor penetration, capping out to 100% Armor Penetration at 4-5 procs (tested multiple times, do not overwrite this.). Allegedly, flourishing an opponent resets the armor penetration that Grim gives, although it has not been tested.</p>
-  <p>Connections will make a high pitched zoom sound effect, and have a nearly guaranteed chance to proc with every M1.</p>
+  <td><div><p>Grim was allegedly supposed to give armor penetration on proc, however, on a recent shadow nerf, this doesn't work. Grim was also nerfed to remove its extra damage it had (as it was a bug). Because of this, Grim effectively does nothing at all. It is unknown what Grim is supposed to do.</p>
   <p><br>
   </p></div></td>
 </tr>

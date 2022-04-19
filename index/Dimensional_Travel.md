@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 28163
+revid: 28301
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -60,3 +60,4 @@ If **Dimensional Travel** is found to be Corrupted, the **Distortion Realm** to 
 -   Similar to _Minecraft_'s Nether Travel.
 -   Recently, buildings have been found in the Distortion Realm (Someone put the video in I lost it)
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance
+-   This Resonace works similar to the Nether dimension from Minecraft

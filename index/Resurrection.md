@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 28226
+revid: 28290
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,7 +29,7 @@ The target of the resonance is represented with a star, while the user is repres
 
 Pressing C tags the target with a star, be it an NPC or a player (can be allies and non allies) but cannot target the user. While the effect is a active, a white circle is visible on the back of the user. These effects last for 5 seconds.
 
-If the target is knocked while the star is active, they will be brought into the air, restoring 15-30% HP.
+If the target is knocked while the star is active, they will be brought into the air, restoring 40% HP.
 
 If the target is **executed** (common examples include Primadon, Stone Knights, Soul Jar or Lionfish's beam attack), the resurrection will not trigger.
 

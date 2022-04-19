@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28251
+revid: 28303
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -73,7 +73,7 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
 -   **Revenge** - A vengeful rush.
     -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 agility, agility _Combat Mantra_
 -   **Dash** - An agile dash.
-    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark(?) and drift/rush shards.
+    -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark, reversal spark and drift/rush shards.
     -   Requirement: 40 agility, Mobility Mantra
 
 -   **Adrenaline Surge** - An adrenaline rush of sanity.

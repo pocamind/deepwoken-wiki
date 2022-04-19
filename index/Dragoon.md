@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 27336
+revid: 28277
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,7 +27,11 @@ categories: [Weapons, Weaponry]
 | obtainment | Bought at Summer Isle for 500 notes |
 | description | The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mastlepieces of the wealthy. |
 
-## **Information:**
+“ GOD SAVE THE QUEEN ”
+
+― Celtor sailor embracing the Dragoon's British power
+
+## **Description**
 
 The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and 65 Light Weapon points to equip it.
 

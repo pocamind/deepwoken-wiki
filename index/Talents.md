@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28268
+revid: 28292
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -385,7 +385,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Fishman \[Generic Talent,Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish
     -   Health regeneration is increased while swimming.
-    -   Hunger drain from swimming is multiplied by 1.5x.
+    -   Hunger drain from swimming is multiplied by ??x (was 1.5x, recently reduced).
     -   These effects do not activate in [The Depths](The_Depths.md).
 
 ### Freak Of Nature
@@ -458,9 +458,9 @@ These Talents are meant to improve your overall combat effectiveness.
 -   After Cut \[Generic Talent, Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
 -   Breathing Impact \[Generic Talent, Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
 -   Inhale \[Generic Talent, Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
-    -   M1 + M2 during a mantra windup will cancel the spell (2 second cooldown)
+    -   **M1 + M2** during a mantra windup will cancel the spell (2 second cooldown)
 -   Tailwind \[Generic Talent, Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
-    -   You can no longer abuse this. You cannot spell cancel a Single mantra twice as there is now a 2 second cooldown, however you can still spell cancel one Mantra into a different Mantra.
+    -   You can no longer abuse this. **You cannot spell cancel consecutively as there is now a 2 second cooldown.**
 
 ### Genius Intellect
 
@@ -628,6 +628,7 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
 -   Unyielding Focus \[Generic Talent, Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)  
       
     When you get all these talents you are eligible to get the Oath [Blindseer](Oaths.md)
+-   Unyielding Permanence \[Generic Talent, Legendary Talent\] - Never lose sight of victory until your body can no longer carry you through battle. You can not get knocked unless your health reaches 1%.
 
 ### Metamancer
 

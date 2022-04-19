@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 28272
+revid: 28275
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -25,9 +25,9 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Packmule | "You have a much higher max. carry load" | Greatly Increases inventory space. \[Perfect for bank slots.\] | 1 |
+| Packmule | "You have a much higher max. carry load" | **Bugged, does nothing.** | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Gain an additional card burn every **other** "Whisper from the deep" roll. So you get an extra burn on the 2nd, 4th, 6th, so on. | 1 |
-| Steadfast | "Your armor retains more durability when attacked." | Decreases damage towards armor when attacked | 1 |
+| Steadfast | "Your armor retains more durability when attacked." | Reduce armor durability lose from attacks by ??%. | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. (i.e. Acid Rain) | 1 |
 
 ## Flaws
@@ -39,13 +39,13 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Fugitive | "All factions hate you." | Start with negative reputation toward all factions. Default reputation is set to negative.
+| Fugitive | "All factions hate you." | Start with low negative reputation toward all factions. Default reputation is set to negative.
 Cannot pay to return to neutral, you can only pay to return to default reputation (in this case, negative)
 
  | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increase by ??% | 1 |
-| Haemophilia | "You bleed more." | Increases blood loss from all sources. | 1 |
-| Manic | "All sanity damage toward you is heavily amplified." | Significantly increases Insanity rate (Said to be 1.5x) | 1 |
+| Haemophilia | "You bleed more." | Blood loss from all sources is increased by ??%. | 1 |
+| Manic | "All sanity damage toward you is heavily amplified." | Incoming insanity is increased by 10%. Damage from scratching is increased by ??% | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
 | Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%
 
