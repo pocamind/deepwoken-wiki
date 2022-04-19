@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28104
+revid: 28251
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -103,7 +103,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
 -   **Glare -** Opponents facing you (and that are not blocking) are briefly rendered immobile.
     -   It summons an invisible AOE projectile upon activating, getting hit by it while not looking towards the user will still combat tag you.
-    -   Requirement: 6 willpower, willpower_Support Mantra._
+    -   Requirement: 25 Willpower, 25 Charisma, Willpower _Support Mantra._
 
 -   **Exhaustion Strike-** A melee strike that removes your posture's damage on hit.
     -   The mantra does not only clear your posture, it transfers it to the target.

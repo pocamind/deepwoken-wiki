@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 28204
+revid: 28222
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -27,7 +27,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 ## Variants
 
 -   **Blue Mudskipper** - Normal Mudskipper. If it spawns accompanied by Bloatskippers, it can use [Air Force](Galebreathe.md).
--   **(Light Green Skipper) Bloatskipper** - It explodes two seconds after dying and posses a bloated stomach. They move awkwardly and their mouth appears to be on the brink of vommitting.
+-   **(Light Green Skipper) Bloatskipper** - It explodes two seconds after dying and posses a bloated stomach. They move awkwardly and their mouth appears to be on the brink of vomiting. Like other explosions, their explosion also insta-grips.
 -   **(Black) Rotskipper** - Found in the _**Shrine of the Forgotten Warrior and Hidden Village.**_ Loses its arms and then its head for each attack you parry, when the head is lost it dies instantly (of course). Takes more damage to kill than a normal Mudskipper so does not die when backstabbed. Is black.
 -   **Necro-Skipper** - Summoned by [Cultist Necromancers](Ministry_Necromancer.md). Equipped with nothing but color-coded armor, and the ability to use Flamecharm or Frostdraw.
     -   **Redskipper (Flamecharm)** - Charges up a fireball then throws it forward, burning anyone hit by it. Wears red armor.
@@ -42,7 +42,8 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shurikens, Fire Palm, Air Blast, or Elemental Guns.
--   WARNING!!!!!!! If a Bloatskipper explodes near a knocked player/npc, the Bloatskipper will insta-grip them. My friend got killed to this when we were at erisia.
+-   Don't let your allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be gripped by the explosion.
+    -   This can also be a good way of managing numbers, allowing you to grip many enemies at once.
 
 ## Trivia
 
@@ -52,4 +53,4 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 -   On April Fool's Day, 2022 The Mudskippers took over the Deepwoken discord server and game, with the text "Grgrlglrgl grrgl. Grgrglrgl." appearing in the update log channel and the game's name being changed to Mudwoken
     -   Every player and a select few NPCs became Mudskippers
         -   Each race had their own Unique name
--   The Mudskipper has the greatest number of variants out of any NPC in the game, having six in total.
+-   The Mudskipper has the greatest number of variants out of any NPC in the game, having six in total, not including the April Fool's variants.

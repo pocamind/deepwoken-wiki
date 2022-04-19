@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 27900
+revid: 28224
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -1084,7 +1084,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Language**
 
--   Their are multiple languages in the Deepwoken world, though only one is ever used.
+-   There are multiple languages in the Deepwoken world, though only one is ever used.
     -   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.
 -   The language seen throughout the game is simply called 'Common.'
 

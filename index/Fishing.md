@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 28081
+revid: 28258
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character, Talents]
@@ -32,11 +32,11 @@ You can obtain fishing talents by reaching milestones. At 10 fish caught, you ge
 
 You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden_, which can give luck. (A random amount, 10-16%).** The bigger the fish, the better the loot. The loot you can get from fishing are:
 
-File:Tuna.png
-
-Fishing up the Tuna.
-
--   Sea Bass (1 Fish Meat)
+-   File:Tuan.png
+    
+    Fishing up the tuna
+    
+    Sea Bass (1 Fish Meat)
 -   Red Snapper (2 Fish Meat)
 -   Tuna (3 Fish Meat)
 -   Swordfish (5 Fish Meat)
@@ -50,9 +50,9 @@ Fishing up the Tuna.
 -   Chests (Very rare, can contain loot from almost any possible chest, including SOME special ones such as the chest from [Duke Erisia](Duke_Ishamon_Erisia.md), not all of them. Do note that the loot pool is completely randomized)
 -   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught.
 
-A lot of fish (with crow tarsus)
-
 File:RobloxScreenShot20220410 233312197.png
+
+A lot of fish (with crow tarsus)
 
 ## Talents
 

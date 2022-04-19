@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 28218
+revid: 28219
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -56,6 +56,7 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
+-   _"You feel as though you could go longer without food..." =_ This buff completely stops hunger from draining until it's gone.
 
 Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 

@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 27669
+revid: 28250
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -42,7 +42,7 @@ A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md)
 
 > 1\. I'm Interested.
 
-> Cestis: That's the spirit. Go find and kill \[Name\], the \[Race\]. You'll make quick work of them, no? Hahaha...
+> Cestis: That's the spirit. Go find and kill \[Name\], the \[Race\]. You'll make quick work of them, no? Word is they were last seen around \[Location\]...
 
 > Cestis: Shoo shoo... Go kill your target. Quit dragging your feet.
 
@@ -50,12 +50,14 @@ A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md)
 
 > Cestis: Ah, good work. Here's some pocket money. Don't spend it all in one place, alright?
 
-**6+ Assassinations**
+**6-19 Assassinations**
 
 > Cestis: Ah, good work as always. You know what? You might be of more use to us than I thought initally...
+
+**20 Assassinations**
+
+> Cestis: Ahaha.. A natural born killer.. Although you may want to make use of Tacet to sneak up on your foes more easily...
 
 **Subsequent Confrontations**
 
 > Cestis: Ah, you're back, looking to get your hands dirty?.
-
-**35 Assassinations**

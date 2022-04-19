@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 27678
+revid: 28264
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -28,7 +28,9 @@ _See [Nightblood](Attunement_Potions.md) for more info._
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Dark Blade  
 (☆☆☆)
 
@@ -37,7 +39,9 @@ Dark Blade
 -   Adding 1 Tornado Spark adds a spinning effect after the cuts.
 
  |
-|  | 
+| 
+
+ | 
 
 Shadow Gun  
 (☆☆☆)
@@ -51,19 +55,25 @@ Shadow Gun
 For anyone confused, Lenses make it go farther forward and cloudstones and stratus stones make it increases the thickness of the range from left and right. add both to make a huge shadow barrage.
 
  |
-|  | 
+| 
+
+ | 
 
 Clutching Shadow  
 (☆☆☆)
 
  | A shadowy hand. | Chokes enemies in a radius, and slams them down. It will notify targeted enemies with a red glow, and if they are hit it'll replenish ether equal to the cost. Blockable. |
-|  | 
+| 
+
+ | 
 
 Shadow Chains  
 (★☆☆)
 
  | Chains of shadow. | Creates to chains conjuring from portals, that auto connects to the selected target, drains the targets ether, and slows them for ~3 seconds. It fills the user's ether simultaneously. |
-|  | 
+| 
+
+ | 
 
 Shadow Eruption  
 (★☆☆)
@@ -75,7 +85,9 @@ Shadow Seekers
 (★☆☆)
 
  | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether. |
-|  | 
+| 
+
+ | 
 
 Shadow Roar  
 (★★☆)
@@ -96,7 +108,9 @@ Rising Shadow
     
 
  |
-|  | 
+| 
+
+ | 
 
 Shadow Meteors  
 (★★☆)
@@ -106,10 +120,35 @@ Shadow Meteors
 -   Shards make the meteors significantly faster.
 
  |
+| 
+
+ | 
+
+Shade Bringer  
+(★★★)
+
+ | Temporarily summon a shadow greatsword for a large slash. | User creates a large black sword from their hands, using it to slash the enemy in front of them.
+
+-   Adding 1 spring spark will instead lunge you forward and slam down on the enemy.
+    
+-   Adding 1 multiplying spark will slash multiple times instead of once.
+    
+    File:Multiplying spark shade bringer.gif
+    
+
+It should be noted that you can combine 2 of these sparks together
+
+ |
 
 ### **Support**
 
-Shadowcast has no known Support Mantras.
+| Media | Name | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | 
+Shade Devour  
+(★☆☆)
+
+ | Gorge on your own health for raw strength | You buff yourself in exchange of your HP |
 
 ### **Mobility**
 
@@ -335,4 +374,3 @@ File:Blackhole.png
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred because Lightkeepers are an "authority" within Deepwoken's world, the trainer's death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others
     -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach)
--   Shadowcast currently has no 3-stars move, same as Flamecharm.

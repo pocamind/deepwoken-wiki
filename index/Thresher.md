@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 28191
+revid: 28221
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -12,7 +12,7 @@ categories: [Monsters, Enemies]
 
 # Thresher
 
-“ where's your dad ”
+“ Mannn I hate livin' in detroit on goddddd ”
 
 ― Authority soldier before being shaken apart by a Thresher
 

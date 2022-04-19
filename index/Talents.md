@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28205
+revid: 28268
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -35,7 +35,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
 
 On the other hand, obtaining specific Talents may instead **lock you** from getting Talents that you want. Those being:
 
--   You cannot roll Return to the Fart Ages with Everchanging Aegis.
+-   You cannot roll Return to the Dark Ages with Everchanging Aegis.
 -   You cannot roll Risky Moves with Safety Dance and Observation.
 -   You cannot roll Conditioned Runner with Fishman.
 -   You cannot roll Vanishing follow-up with Dazing Finisher.
@@ -239,6 +239,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   When hit by an elemental attack, gain a 10% damage resistance towards its respective element but take 25% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
     -   Contrary to popular myth, the effect is not tracked individually per player.
 
+### Champion
+
+-   Underdog \[Generic Talent, Common Talent\] - You deal slightly more damage to those with higher HP than you. (+3 Health)
+-   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
+
 ### Charismatic Cast
 
 -   Lasting Charisma \[Generic Talent, Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
@@ -265,7 +270,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Critical Specialist
 
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.5x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\]
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\]
 -   Prerequisite: 30 Light
 -   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health) \[NOTE: When Procced Hits Enemy An Extra Hit\]
 -   Prerequisite: 75 Light Dagger
@@ -284,6 +289,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 -   Blood Thirsty \[Generic Talent, Common Talent, Light\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility, +3 Health)
 -   Hidden Blade \[Generic Talent, Common Talent, Light\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility, +2 Health)
 -   In a Hurry \[Generic Talent, Common Talent, Light\] - You grip faster with a movement speed boost.
+-   Deep Wound \[Generic Talent, Common Talent\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. (+2 Health)
 
 ### Cloudwalker
 
@@ -329,6 +335,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
+    -   Prerequisites: At least 60 agility. (might be lower, please edit if I'm wrong)
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
 -   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
     -   Deals 50% of the original damage
@@ -388,6 +395,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Requirements: 35 Fortitude.
 -   Potion Quaffer \[Generic Talent, Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
+-   To The Finish \[Generic Talent, Rare Talent\] - You take 15% less damage when below 30% health. (+3 Health)
 
 ### The Emperor's Blade
 
@@ -402,7 +410,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Flame Dancer
 
 -   Dancing Steps \[Generic Talent, Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
--   Graceful Steps \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (Turns you into a fireball whilst moving forward)
+-   Graceful Steps \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (Turns you into a fireball whilst moving forward)
     -   Prerequisite: Dancing Steps
 -   Flaming Rebound \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
 -   The Final Act \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)
@@ -604,7 +612,7 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 ### Meditative Trance
 
 -   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
-    -   Any action, be it moving, attacking, dodging or getting pushed around will cancel the effect. Prerequisite: 15 fortitude
+    -   Any action, be it blocking, moving, attacking, dodging or getting pushed around will cancel the effect. Prerequisite: 15 fortitude
 
 ### Mental Fortress
 
@@ -627,6 +635,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
+-   Lootskipper \[Generic Talent, Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain.
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
     -   2x EXP gain for Power and every [Attribute](Attributes.md).
     -   ~Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.~ This is not true Arch confirmed it.
@@ -911,7 +920,7 @@ These Talents are meant to reap the reward of your latest hunt.
     -   Prerequisites: Flame Of Denial
 -   Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health)
     -   Prerequisites: 40 Flamecharm & 40 Willpower
--   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will slowly restore sanity for others in the area.
+-   Soundness of Mind \[Generic Talent, Common Card, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity.
     -   Prerequisites: Undying Flame
 
 ### Vow of Mastery

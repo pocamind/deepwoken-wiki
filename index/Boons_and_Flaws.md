@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 27926
+revid: 28228
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -25,8 +25,11 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Steadfast **(NEW)** | "Your armor retains more durability when attacked." | Decreases damage towards armor when attacked | 1 |
+| Steadfast | "Your armor retains more durability when attacked." | Decreases damage towards armor when attacked | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. (i.e. Acid Rain) | 1 |
+| Packmule |  | You have a much higher max carry load |  |
+| Glutton |  | Your hunger/thirst is depleted faster |  |
+| Scrapper |  | You gain an extra card burn every other Whisper roll |  |
 
 ## Flaws
 
@@ -37,19 +40,17 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Fugitive
-**(NEW)**
-
- | "All factions hate you." | Start the game with negative reputation with all factions. Cannot pay to remove negative reputation. The negative reputation can however be removed through multiple encounters that can give positive reputation. | 1 |
+| Fugitive | "All factions hate you." | Start the game with negative reputation with all factions. Cannot pay to remove negative reputation. The negative reputation can however be removed through multiple encounters that can give positive reputation. | 1 |
 | Haemophilia | "You bleed more." | Increases blood loss from all sources. | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
 | Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%
-
 Count as 2 flaws, cannot be taken with another flaw.
 
  | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
+| Glutton |  | Your hunger/thirst is depleted faster |  |
+| Manic |  | All sanity damage toward you is heavily amplified |  |
 | Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | 0 |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
 

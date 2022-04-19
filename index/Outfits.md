@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28111
+revid: 28267
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -303,7 +303,7 @@ _Requires Power 30_
 
 _Requires Power 30_
 
- | Hive Chests, Depths Chests, Common from Primadon |
+ | Hive Chests, Minitrysa (Rogue Mech) Chests, Depths Chests, Common from Primadon |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
 _Doesn't need any power, but obviously needs a mantra to get it_
