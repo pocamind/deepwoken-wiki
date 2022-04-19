@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 28228
+revid: 28272
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -25,11 +25,10 @@ Boons are modifiers that you get to pick when you create your character alongsid
 | Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
+| Packmule | "You have a much higher max. carry load" | Greatly Increases inventory space. \[Perfect for bank slots.\] | 1 |
+| Scrapper | "You gain an extra card burn every other Whisper roll." | Gain an additional card burn every **other** "Whisper from the deep" roll. So you get an extra burn on the 2nd, 4th, 6th, so on. | 1 |
 | Steadfast | "Your armor retains more durability when attacked." | Decreases damage towards armor when attacked | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. (i.e. Acid Rain) | 1 |
-| Packmule |  | You have a much higher max carry load |  |
-| Glutton |  | Your hunger/thirst is depleted faster |  |
-| Scrapper |  | You gain an extra card burn every other Whisper roll |  |
 
 ## Flaws
 
@@ -40,18 +39,22 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Fugitive | "All factions hate you." | Start the game with negative reputation with all factions. Cannot pay to remove negative reputation. The negative reputation can however be removed through multiple encounters that can give positive reputation. | 1 |
+| Fugitive | "All factions hate you." | Start with negative reputation toward all factions. Default reputation is set to negative.
+Cannot pay to return to neutral, you can only pay to return to default reputation (in this case, negative)
+
+ | 1 |
+| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increase by ??% | 1 |
 | Haemophilia | "You bleed more." | Increases blood loss from all sources. | 1 |
+| Manic | "All sanity damage toward you is heavily amplified." | Significantly increases Insanity rate (Said to be 1.5x) | 1 |
 | Obvious | "Enemies detect you more easily." | Widens the detection cone of enemies **WHILE STANDING.** | 1 |
 | Simple | "You learn things at a slower rate than others." | Decreased EXP gain by _possibly_ 50%
+
 Count as 2 flaws, cannot be taken with another flaw.
 
  | 2 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a small amount of hunger when gripping NPCs or other players. | 1 |
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator). | 1 |
-| Glutton |  | Your hunger/thirst is depleted faster |  |
-| Manic |  | All sanity damage toward you is heavily amplified |  |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | 0 |
+| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second. Gained from rerolling a bell at Yun-Shul and can not be selected in the character customization screen. Can be removed by Yamaketzal for 1000 notes. | N/A |
 | Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
 
 -   Entering Castle Light
@@ -59,8 +62,8 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to trade your soul to upgrade one of your mantras beyond the max level. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
 
- | 0 |
-| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | 0 |
+ | N/A |
+| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
 
 ## Trivia/Notes
 
