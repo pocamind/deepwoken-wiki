@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28326
+revid: 28346
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -65,7 +65,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage.</p></div></td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <b>This enchant is disabled in Arena</b></p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Yunshulkatana.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>5% Chance to do 3x damage (mantra included)</p>
   <p>1% Chance when hitting someone to do the damage back to you</p></div></td>
 </tr>
@@ -90,7 +90,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When below 40% HP, gain a 25% damage increase on M1s.</p></div></td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   Additionally every m1 you land will give you a short (3 seconds roughly) burst of movement speed, this can be stacked with multiple hits in quick succession to move at ludicrous speeds.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Searrrrrrr.png<figcaption></figcaption></figure><div>Sear</div></td>
+  <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
   <td><div><p>Removes the thirst of your opponent equal to 1/3rd of your damage.</p>
   <p><br>
   </p></div></td>
@@ -160,13 +160,13 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
+  <td><figure>File:RobloxScreenShot20211228 210555026 (2).png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
   <td><div><p>After parrying a player or npc’s attack they will receive 2% of their total hp in damage a moment later. This enchant is most well used for making farming Primadon trivial.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Stonemaul.png<figcaption></figcaption></figure><div>Stone</div></td>
+  <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.</p>
   <p><br>
   </p></div></td>

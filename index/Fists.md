@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 28088
+revid: 28347
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -84,7 +84,7 @@ Debatably the worst fist style. Dealing 25.3 damage with max light. What it lack
 -   Unlike all other weapons, fist styles make white particles instead of yellow when they hit a blocking enemy. (Kind of correct as you're hitting metal with your bare fists)
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling Light Weapon Scaling anyway.
 -   Slide jumping with Way of Navae critical can make it easier to land. (You'll use your sliding momentum to dash forward)
--   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled, after all this game is very skill based. But most of the time, they will having a hard time just trying to land a hit on you.
+-   A good fist user can counter heavy user. As they don't have any time to swing their weapon but don't be fooled, after all this game is very skill based (SKILL?). But most of the time, they will having a hard time just trying to land a hit on you.
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
 -   The fist styles as of current are very difficult to get _consistently_ at low levels, while Jus Karita --currently the only fist-based style that uses your feet-- simply requires a level 12 character with the right attributes.
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists... (This is probably a bug and probably will be patched soon)

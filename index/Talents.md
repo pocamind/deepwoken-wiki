@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28292
+revid: 28342
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -191,7 +191,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Mindsoothe \[Blindseer Exclusive, Common Mantra\] - Give comfort to your allies by sharing in their burden.
     -   Prerequisite: Escape the depths with a player substantially lower level than you once.
     -   Allows you to absorb the insanity of other players.
--   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cast mantras.
+-   Tranquil Circle \[Blindseer Exclusive, Common Mantra\] - All within the ring cannot cannot cast mantras.
     -   Summons a circle similar to Sacred Field where mantras cannot be casted inside, applies to yourself and others lasts for approximately 12 seconds.
     -   Prerequisite: Escape the depths with a player substantially lower level than you 10 times.
 -   Sightless Beam \[Blindseer Exclusive, Common Mantra\] - Turn your insanity against your enemies, incredibly strong against depths creatures.
@@ -647,7 +647,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Ministry Operative
 
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) (Prerequisites: 35 Agility)
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) (Prerequisites: 35 Agility) (gives I-frames too)
 
 ### [Murmur](Murmur.md)
 
