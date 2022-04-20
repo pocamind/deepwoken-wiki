@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 28338
+revid: 28349
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -182,7 +182,9 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 |  | Flame of Denial | Undying flame. | Caster lights a flame on their hand before putting it inside of their chest (flame stays in chest for the duration of the mantra)
 
 -   Prevents the user from being knocked for 60 seconds if damage isn't substantial. (Regenerates ~15% of user's health upon receiving lethal damage)
--   Resets some the user's sanity.
+-   Ritual casting.
+-   Resets some of the user's sanity.
+-   Putting vibrant gems on it seems to add more keys, but logstones don't seem to be compatible.
 
  |
 

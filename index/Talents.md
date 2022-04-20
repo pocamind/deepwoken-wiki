@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28342
+revid: 28350
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -410,7 +410,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Flame Dancer
 
 -   Dancing Steps \[Generic Talent, Common Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing.
--   Graceful Steps \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Fire mantras now move you in the direction you're facing. (Turns you into a fireball whilst moving forward)
+-   Graceful Steps \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Your dancing step now give a faster speed boost (+3 Elemental Intensity).
     -   Prerequisite: Dancing Steps
 -   Flaming Rebound \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing fire mantras will restore your reservoir.
 -   The Final Act \[Generic Talent, Rare Talent, Flamecharm Exclusive\] Landing a fire mantra immediately after flourishing an opponent will cause them to explode. (+3 Elemental Intensity)

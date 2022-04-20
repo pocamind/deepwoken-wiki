@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 28341
+revid: 28348
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -66,7 +66,7 @@ The only actions a user can perform during Tacet are movement, such as sliding a
 
 When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). It takes ~700 activations to max out the murmur, and the minimum detection range for players is ~40 studs.
 
-Murmur: Tacet can be obtained by completing 20 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
+Murmur: Tacet can be obtained by completing 15 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
