@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 28146
+revid: 28338
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -16,7 +16,7 @@ Flamecharm icon
 
 Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning (Explosion with the right talents), damage per second and AoE effects.
 
-While flamecharm overwhelmes the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
+While Flamecharm overwhelmes the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
 
 The playstyle of this element is a jack of all trades and combat mobility. Despite what that quote usually means for something, flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is a very, very, diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team.
 
@@ -230,7 +230,7 @@ These talents are found in the "Undying Ember" catagory.
 |  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: 40 Willpower (guy who said you need unyielding inferno is wrong. I do not have unyielding but I do have undying. |
 |  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. |
 
-## Trivia/Notes
+## Trivia
 
 -   Certain Mantras are similar to Pyromancies and similar attacks from games created by _**From Software**_, a large inspiration for Deepwoken.
     -   Flame of Denial is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing death for one hit.
@@ -238,9 +238,8 @@ These talents are found in the "Undying Ember" catagory.
     -   Flame Palm, though it may look similar to "Ignis" from Rogue Lineage, is cast more similarly to moves like Combustion from Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from **Sekiro**, as the spell does NOT multihit, instead being a single large hit that sets on fire.
     -   Flame blind though it is similar to snap Velo from Rogue Lineage, how it functions like a projectile that blinds is inspired from Valorant character "**Phoenix**" as his abilities also have a blinding projectile when used.
     -   Flamecharm is the best for [The Depths](The_Depths.md) grinding as it has a talent called «Undying Flames» which makes the users flames work in the depths and Flamecharm have a ability (Flame of denial) which resets some sanity upon use.
--   Flamecharm does not currently (as of 3/30/2022) possess any 3-star Mantra.
--   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE.
+-   Flamecharm does not currently possess any 3-star Mantras, being the only Attunement not to.
+-   Flamecharm can be used to burn multiple knocked enemies at once, and is extremely useful in PVE or in ganks/guild wars.
 -   Graceful Flame does not allow you to cook food, regardless of its Level.
--   Azure Flames might be referencing [Azula](https://avatar.fandom.com/wiki/Azula) and her blue fire Firebending ability from _Avatar: The Last Airbender_. (Whoever wrote this is probably wrong because "Azure" means blue so "Azure Flames" just means blue flames.)
 -   Flame Leap's Reversal Version negates fall damage for a small duration. It can also be used in mid air; but expect fall damage upon use.
 -   NOTE: [Flame within](https://flame-within.fandom.com/wiki/Flame_Within_Wiki) has a very bad look to it, but later on you can get talents like agitating spark where it spreads to everyone near you, and talents where it cost 70% less ether to use a mantra if your on fire, theirs also a talent where if you set 5 people on fire you can an instant fire explosion finish. All together this makes Flame Within equal if not better than Static withdraw or lightning cloak.

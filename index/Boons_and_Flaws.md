@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 28275
+revid: 28315
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -39,8 +39,15 @@ Flaws are modifiers that you get to pick when you create your character alongsid
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
 | Deficient | "You regenerate Ether and Reservoir more slowly." | Reduced Ether and Reservoir regeneration. | 1 |
-| Fugitive | "All factions hate you." | Start with low negative reputation toward all factions. Default reputation is set to negative.
-Cannot pay to return to neutral, you can only pay to return to default reputation (in this case, negative)
+| Fugitive | "All factions hate you." | Start with low reputation toward all factions.
+-   Low enough for guards to aggro on sight
+-   Not low enough to disable blacksmith and antiquarian
+
+Default reputation is set to low.
+
+Reputation can still be gained normally.
+
+Paying to restore reputation only resets up to the default, low reputation.
 
  | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increase by ??% | 1 |
@@ -70,7 +77,10 @@ This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer fo
 -   While _Deepwoken_ is largely PvE, many players who use _Marauder_ will usually be more hostile towards anyone to gain higher luck from gripping. Be extremely cautious of [Lower Erisia](Lower_Erisia.md).
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras. Generally not worth taking.
+    -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (respectivelly, The Divers and Celtor for example).
+    -   Gluton just forces you to handle provisions more smartly, since you will likely need more food for extended sessions.
     -   Haemophilia is okay when you are taking single hits, but you'll likely die from blood loss in extended stints against dagger-wielding characters, and long-term fights can be similarly threatening. Ensure you recover blood frequently at a campfire.
+    -   Manic is basically a free point. The increased insanity gain is minimal, and scratching can be completely avoid if you play properly.
     -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker.](Songseeker_Wilds.md)
     -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is the only flaw that essentially has no downside at power 60.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
@@ -80,4 +90,6 @@ This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer fo
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies.
     -   Marauder is great for obtaining rare/legendary cards faster, but is usually a waste of a boon, as the improved luck gain is negligible and would only need an extra player or two to make up for the difference. Also becomes useless once you reach power 60.
     -   Maverick's exp boost is a nice bonus, but is too poor to be viable and is negated by playing with some friends. Also becomes useless once you reach power 60.
+    -   Scrapper give your more control over your build. It can be worth taking if you are ok with omitting a long lasting boon like Survivalist, Gourmet or Steadfast.
+    -   Steadfast is very niche but could be avoided. Armor durability is hardly problematic since most builds have Ironblood Spirit. Feel free to take it if you want to omit the talent however.
     -   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armour and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working.

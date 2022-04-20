@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 28294
+revid: 28334
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -21,6 +21,8 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
 Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more and it is possible there will be more introduced in the future, however, there is no proof of any others existing or being obtainable (Aside from Adagio, which is used by The Knives of Eylis captains but not obtainable for now).
+
+Similar to Haki from One Piece, though you can only get one murmur.
 
 ## Training Murmurs
 

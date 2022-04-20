@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 26252
+revid: 28332
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,6 +22,8 @@ Template:Areainfobox**Greathive Aratel** is a location in _Deepwoken_. It is a s
 Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement.
 
 To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be vowed to an [Oath](Oaths.md). Once you met these requirements, you are able to invoke with the Greathive Fountain in [The Lordsgrove](The_Lordsgrove.md).
+
+It is also possible to just sail to it, but actually getting to the top requires mobility mantras, clever usage of gliders, lots of parkour and jumping on the heads of players.
 
 ## Contents
 
@@ -112,3 +114,4 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
 -   You can wash your face at fountains to enter in starswept valley, however you need an oath and must run past the spider queen and 4 threshers (must fight 2) to wash your face then do the same on your way back to the green gate, (I think i will test shortly)
+-   Epic bro gamer tip: You can bring a friend over to Greathive Aratel without them needing to have the gate open. To do this, flourish a humanoid into the gate(make sure to have a long ranged weapon), then go to the teleporter. Then, carry them and get teleported. This works for the 3 teleporters inside too.

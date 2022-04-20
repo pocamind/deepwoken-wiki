@@ -1,9 +1,8 @@
 ---
 title: Dimensional Travel
-revid: 28301
+revid: 28321
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonance]
 ---
 
 # Dimensional Travel
@@ -61,3 +60,4 @@ If **Dimensional Travel** is found to be Corrupted, the **Distortion Realm** to 
 -   Recently, buildings have been found in the Distortion Realm (Someone put the video in I lost it)
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance
 -   This Resonace works similar to the Nether dimension from Minecraft
+-   A very sought after resonance. I wish you luck, Yungsz. May arch\_mage bless you with Kamui Bell. ([https://www.youtube.com/watch?v=6atB72TFHmQ](https://www.youtube.com/watch?v=6atB72TFHmQ))

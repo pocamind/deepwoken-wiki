@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 28010
+revid: 28316
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Attunement, Mantras, Magic, Locations]
@@ -34,16 +34,12 @@ This Luminant is probably a link between all [Attunements](Attunements.md), or h
 
 It is home to the Legion and might be ruled over by the Khans. This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. It is said to be a lot more advanced than the other Luminants. In the future it may be more Steampunk'y.
 
-This Luminant is probably home to [Thundercall](Thundercall.md), as Thunder is the opposite of Gale.
-
 ## Southern Luminant
 
-The Southern Luminant is supposedly primarily an desert-like/arid Luminant, with horses that you can ride to traverse the desert. (Source: Infernasu)
-
-This Luminant is probably home to [Flamecharm](Flamecharm.md).
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea.
 
 ## Northern Luminant
 
-It is not even known if the name of this Luminant is really the "Northern Luminant". No NPCs talk about Northern Luminant, meaning that nothing is known about the Northern Luminant.
+The Northern Luminant holds the frigid landscape of the Glacial Coast, commented by Polis in Etris.
 
 This Luminant is probably home to [Frostdraw](Frostdraw.md).

@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 28213
+revid: 28319
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 25.
 
 This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance and +20% Lightning resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Ferryman's Curse_, which makes the player teleport if damaged by [Thundercall](Thundercall.md) Mantras.
+This Outfit also grants the [Talent Card](Talents.md) _Ferryman's Curse_, which makes the player teleport if damaged by [Thundercall](Thundercall.md) Mantras. (Currently broken, delete if im wrong)
 
 ## Location
 

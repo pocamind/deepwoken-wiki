@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 28305
+revid: 28335
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]

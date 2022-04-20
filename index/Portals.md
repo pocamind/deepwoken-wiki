@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 28022
+revid: 28320
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -57,3 +57,4 @@ If Portal is found to be corrupted, the duration of the ability is 8-10 Seconds.
 -   This Resonance can be a great tool to ambush other players.
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, hence why it's nicknamed **"Yoru."**
 -   Trying to use this bell while carrying a player, will most likely drop the player.
+-   Very useful if you need to jump of a high cliff without taking damage. To do this, make sure to use BEFORE jumping off. If you don't, it might not activate.
