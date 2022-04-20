@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 28245
+revid: 28352
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -42,7 +42,7 @@ Hold your weapon with both hands, adding weight to your swings. Also triggers di
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
 -   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore through armor.
 -   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
--   **Weight:** How much posture damage you deal when you attack blocks, and parrying.
+-   **Weight:** How much posture damage people deal to you when they hit your blocks or when they parry your attacks
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
 -   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)

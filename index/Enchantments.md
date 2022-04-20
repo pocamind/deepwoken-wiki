@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28346
+revid: 28359
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -100,7 +100,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
+  <td><figure>File:Blazing2.png<figcaption></figcaption></figure><div>Blazing</div></td>
   <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm. (Deepfire ring works with it)</p>
   <p><br>
   </p></div></td>
@@ -118,7 +118,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure>File:Image 2022-04-20 134853793.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div>Increases weapon attack speed slightly. Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed. (Slower weapons receive a greater increase in attack speed.)<br>
   <p>This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon.<br>
   Additionally every m1 you land will give you a short (3 seconds roughly) burst of movement speed, this can be stacked with multiple hits in quick succession to move at ludicrous speeds.</p></div></td>

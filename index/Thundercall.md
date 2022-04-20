@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 27100
+revid: 28353
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -33,7 +33,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 
 ## Mantras
 
-### **Combat**
+### **Combat Mantras**
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -160,7 +160,7 @@ Bolt Piercer
 
  |
 
-### **Support**
+### **Support Mantras**
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -188,7 +188,7 @@ Spark Swap
 
  |
 
-### **Mobility**
+### **Mobility Mantras**
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |

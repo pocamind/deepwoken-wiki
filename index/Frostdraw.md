@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 28343
+revid: 28360
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -193,11 +193,8 @@ Impale/Impact
 
 -   Knocked players cannot be held while this mantra is active
 -   A legendary card "Frozone" allows the user to cast this mantra anywhere, including the Depths
--   ~This is a legendary mantra~
 
-~(Frequently doesn't work even in water)~
-
-Patched in the new update 18/4/2022
+  
 
  |
 
