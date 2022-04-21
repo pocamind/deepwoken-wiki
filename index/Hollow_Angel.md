@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 27311
+revid: 28375
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,21 +8,17 @@ categories: [Pages with broken file links, Monsters]
 
 # Hollow Angel
 
-“ IT HAS NO FUCKING ANIMATIONS!!! ”
-
-― Level 8 Vesperian, desperately trying to do trial of one.
-
-> **"Bro lay off, I just want Blindseer!"** - A Vesperian at the Temple of Forgotten Flame
-
 **Lesser:**
 
-## Appearance
+“ Want to meet God? C'mon!!! Let's go together! ”
 
-Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wields vantablack spears and can be associated with Unknown divine light attunements.
+― Lesser Angels relocating freshies to the afterlife
+
+Template:Creature Infobox V3
 
 ## Description
 
-Lesser Angels are creatures that are summoned by entities called _Watchers_ or _Seekers_. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
+Lesser Angels are white and dull-yellow humanoid creatures with wings. They wield vantablack spears and can be associated with Unknown divine light attunements. They are summoned by entities called _Watchers_ or _Seekers_. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
 
 If a Watcher catches a player in its line of sight, its light beam will turn red, and it will summon the Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters".
 
@@ -37,14 +33,8 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 -   **Light Attack** - Angels use black spears which deal 20-30 damage each hit.
 -   **Light Gun** - Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun.
 
-## Located
+## Trivia
 
--   [The Depths](The_Depths.md)
--   The Etrean Luminant (Summoned by Watchers in the Overworld)
-
-## Notes
-
--   **Heavy hitting enemies, fight them with caution.**
 -   It is extremely easy to run away from Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.
 -   Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this. In other words, like all enemies who are capable of blocking your attacks: You cannot damage these things whatsoever without an absurd amount of PDPS (Posture Damage Per Second).
 -   If you climbed up to escape angels, they will not automatically despawn so **DO NOT JUMP DOWN TO THE SPOT WHERE YOU CLIMBED TO ESCAPE**
@@ -53,19 +43,18 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 -   Probably a reference to the angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
     
 
-**Greater:**
+**Regular:**
 
-“ Now... Will you falter here? ”
+“ IT HAS NO FUCKING ANIMATIONS!!! ”
 
-― Voice of Solitude
+― Level 8 Vesperian, desperately trying to do trial of one.
 
   
-
-## Appearance
-
-Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and can be associated with unknown divine light attunements.
+Template:Creature Infobox V3
 
 ## Description
+
+White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and can be associated with unknown divine light attunements.
 
 Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
 
@@ -74,9 +63,3 @@ Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_o
 -   **Light Attack** - Angels use their Divine Spears dealing ~35 damage each hit. (they can feint)
 -   **Light Gun** - Rise into the air and shoot ~5 bullets of light that explode, deal 15 damage, and stun.
 -   **Heavy attack** - Regular spear heavy attack.
-
-## Located
-
-#### Dungeons
-
--   [Trial of One](Trial_of_One.md)

@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 27863
+revid: 28383
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
@@ -39,3 +39,4 @@ The **Crypt Blade** is a legendary weapon and is currently the best usable heavy
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons, Crypt Blade doesn't have any surviving Enchanted counterparts.
 -   Crypt Blades can also be dropped from [The Duke](https://www.youtube.com/watch?v=ARePhH_5INA).
 -   If you don't invest any fortitude to your stats, I highly suggest that you run if you see a Crypt Blade user, as they will violate you in 6 swings.
+-   If you use this fatherless blade i highly reccomend you to touch grass as you probably havent in a couple years thanks to your sad lonely life.

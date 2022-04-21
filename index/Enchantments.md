@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28359
+revid: 28367
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -65,7 +65,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of the Bloodthirsty.jpg<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage.</p></div></td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <b>This enchant is disabled in Arena</b></p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of yun shul.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure>File:Yunshulkatana.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>5% Chance to do 3x damage (mantra included)</p>
   <p>1% Chance when hitting someone to do the damage back to you</p></div></td>
 </tr>
@@ -90,7 +90,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Hero Blessing.jpg<figcaption></figcaption></figure><div>Heroism</div></td>
+  <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When below 40% HP, gain a 25% damage increase on M1s.</p></div></td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Blazing2.png<figcaption></figcaption></figure><div>Blazing</div></td>
+  <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
   <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm. (Deepfire ring works with it)</p>
   <p><br>
   </p></div></td>

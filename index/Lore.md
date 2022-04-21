@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28313
+revid: 28384
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -588,6 +588,8 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   A race of canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
 -   Once heavily employed as soldiers of the Authority
 -   Little is known about their origins...
+-   Seem to be German-like in terms of name and history
+    -   They popularized the zweihander, a real life German weapon, the thundercaller trainer is a canor named Funke (german for spark), the canor mantra modifier collector in etris is named schnitzel and the one in summer isle is named hotdog, both being German dishes, and canor last names are mostly German/German inspired
 
 ### Gremor
 
