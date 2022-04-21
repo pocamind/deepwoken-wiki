@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 28257
+revid: 28422
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,3 +38,5 @@ An Etrean interacting with the sword
 Once on the other side of the zipline go towards the tree, if the tree does not appear walk around the cliff until you find a rusted katana(do not jump off the cliff it is on it.
 
 Interact with the katana until it only gives you the option to end dialogue. Returning to Nanji will award you with Etris Rep and some EXP.
+
+For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on youtube.

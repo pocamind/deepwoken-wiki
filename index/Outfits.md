@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28311
+revid: 28414
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -20,7 +20,7 @@ The entirety of your Armor is split into two categories, Outfits and Armor items
 
 ### **[Outfits](Outfits.md#outfit-list)**
 
-Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits ave limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfit.
+Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfit.
 
   
 
@@ -77,13 +77,13 @@ _Deepwoken_ currently has 1 Confirmed spec/mod armor that has been discovered.
 
 ### **Unconfirmed/Speculated**
 
-_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen on npcs through the game.
+_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen on npc's through the game.
 
 ## Armor
 
 Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. Not to be confused with the armor attribute each outfit gives.
 
-Keep in mind, **nearly all of the coats have color varients** that may not be mentioned below (varients vary, 2+), **the exceptions being Star Duster, Providence Coat, Elite Pathfincer Coat, and Royal Pathfinder Coat.**
+Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat, Elite Pathfinder Coat, and Royal Pathfinder Coat.**
 
 **Head:**
 
@@ -390,7 +390,11 @@ _\- 15% swing speed_
 _Requires Power 10_
 
  | Duke Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
-|  | Dawnfist's Ring | Gives every weapon 1 strength scaling when equipped. | Depths Chests? |
+|  | Dawnfist's Ring
+
+(Legendary)
+
+ | Gives every weapon 1 strength scaling when equipped. | Depths Chests? |
 |  | Akira's Ring
 
 (Legendary)
@@ -469,11 +473,10 @@ _Requires Power 30_
     -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
     -   **Pathfinder Journeyman** is also bugged/will give you grandmaster pathfinder instead.
--   Some Armors such as Star Duster and all of the Royal Duelists require enough Power to use.
--   Royal Duelists are strange pieces of armor, and don't seem to take off arm pieces.
--   There is a secret beginner armor called 'RaguzaRequest7' and it's schematic name is 'Pathfinder Sorcerer
+-   Some Armors such as Star Duster and all of the Royal Duelists require enough Power to use
+-   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off Scaramouche from Genshin Impact
--   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g. Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
+-   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
     
     File:RaguzaRequest7armor.png
     
