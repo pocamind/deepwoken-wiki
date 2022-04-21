@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28350
+revid: 28406
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -637,9 +637,10 @@ These are just raw stat increase and are beneficial to anyone.
 -   Health Pack \[Generic Talent, Common Talent\] - It's extra health, do you need anything else? (+9 Health)
 -   Ether Kit \[Generic Talent, Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Lootskipper \[Generic Talent, Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain.
+    -   This applies to the mob **DROP** and not the chest they spawn.
+    -   If the mob only have a singular drop, increase the odds of dropping said item.
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   2x EXP gain for Power and every [Attribute](Attributes.md).
-    -   ~Possibly gives more [Resonance](Resonance.md) EXP for each amount of luck gain.~ This is not true Arch confirmed it.
+    -   1.5x EXP gain for Power and every [Attribute](Attributes.md).
 
 ### **Mr Charm**
 
@@ -858,7 +859,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 ### Survivor
 
 -   Pack Mule \[Generic Talent, Common Talent\] - The max quantity of carrying food has increased. (+4 Health, +1 Carry Load)
-    -   ~Prerequisites: 5 Fortitude~ (Got it without any fortitude. Could be a req in physical stats)
+    -   Prerequisites: ?? Strength
 
 ### Tactician
 

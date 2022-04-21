@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 28086
+revid: 28409
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -42,38 +42,9 @@ So, the method would be doing the [Trial of One](Trial_of_One.md), and then kill
 
 -   Killing a Gigamed is **not required** for getting Mute, it just increases the chances.
 
-## Termite
-
-“ Oh boy, an amethyst! My favorite! ”
-
-― Level 20 canor, eating literally everything in sight.
-
-  
-
-### "You can eat things that most would consider inedible."
-
-Gain the ability to consume non-food items.
-
-#### List of known items you can and can not eat as of March 3rd 2022
-
--   ~spider eggs~
--   Urchins
--   Gems (e.g. emerald, diamond, ruby, gold, platinum, etc.)
--   ~wood and sticks~
-
-### Theorized Obtainment Methods
-
--   ~Eat many types of ingredients~
--   ~Throw up many times~
--   ~Craft a certain number of different foods~
--   ~Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)~
--   Get the talent Iron Gut and Wipe, once in fragments of self proceed to wipe and you should get the card termite to appear on the left side of the screen, then you will have termite in your next life, however when you look into the talent page it will not be there but you will still have it. ( Iron Gut on Herbalist Hat does not count) Iron Gut's Requirement Is 10 Fortitude.
--   ~I think it has around 50+ level requirement, i had a lot of 40+ level characters with iron gut wiped but none of them got it, except my level 54, 100 fortitude character.~ i got it at lvl 30.
-
 ## Trivia/Notes
 
 -   Regalia are not random.
 -   There may be more Regalia, however only two have been found.
 -   Regalia are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
--   Seeing the Termite card upon wiping does NOT unlock the Regalia "Termite". It is unknown what the card is supposed to indicate. (this may be a bug)
 -   Regalias in Spanish means gift, perhaps hinting at how it is an invisible powerful boon that gives power to it's user.
