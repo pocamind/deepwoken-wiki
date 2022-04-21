@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28367
+revid: 28398
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -155,7 +155,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Deferred.png<figcaption></figcaption></figure><div>Deferred</div></td>
+  <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
   <td><div><p>Attacks deals 1.1x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).<br>
   The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>

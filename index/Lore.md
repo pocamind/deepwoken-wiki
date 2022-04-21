@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28384
+revid: 28390
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -344,13 +344,14 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _Minityrsa, Summer Isles_
 -   **Attunements:** _Shadowcast_
 -   **Alliances:** _The Contractors (Neutral)_
--   **Enemies:** _The Children of Navae, The Summer Company_
+-   **Enemies:** _Ignition Union, The Children of Navae, The Summer Company_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   A group of mysterious users of [Shadowcast](Shadowcast.md) who seek to sink the Etrean Luminant into the Depths. Further research is required.
 -   They warn of (and possibly bring about) the sinking of the Overworld into [The Depths](The_Depths.md).
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
+-   Essentially enemies with every major faction in the game until proven otherwise.
 -   (Arch\_Mage) The Ministry Scouts in Minityrsa were previously affected by the [Animal King](Regalia.md) (Or Mute Talent), but was declared a bug by Arch\_Mage.
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
 
@@ -389,7 +390,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Summer Isles, The Depths (Akira's rare event)_
 -   **Attunements:** _Flamecharm_
 -   **Alliances:** _Unknown_
--   **Enemies:** _The Summer Company, The Divers_
+-   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
 -   (Arch\_Mage) The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword.
@@ -563,6 +564,10 @@ For people who wish to see the races, head [here.](Aspects.md)
 -   This race came from snakes.
 -   A race most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their dislikes of other races.
 -   The people of [Etris](Etris.md) has been in scrambles ever since their king had left them and the current reigning lord causing evident dismay to his people, rather than helping them.
+-   Inspired by East Asian cultures:
+    -   White snakes play a part in Chinese mythology.
+    -   Their architecture consists of gates, temples and lanterns often seen from Chinese and Japanese countries.
+    -   Snakes are known for having thin eyes, with some people describing people of East Asian decent the same way.
 
 ### Celtor
 
@@ -588,8 +593,8 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   A race of canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
 -   Once heavily employed as soldiers of the Authority
 -   Little is known about their origins...
--   Seem to be German-like in terms of name and history
-    -   They popularized the zweihander, a real life German weapon, the thundercaller trainer is a canor named Funke (german for spark), the canor mantra modifier collector in etris is named schnitzel and the one in summer isle is named hotdog, both being German dishes, and canor last names are mostly German/German inspired
+-   Seem to be German-like in terms of name and history:
+    -   They popularized the Zweihander, a real life German weapon, the Thundercaller trainer is a Canor named Funke (German for spark), the Canor mantra modifier collector in Etris is named Schnitzel and the one in Summer Isle is named Hotdog, both being German dishes and both seemingly not fluent in English, and Canor last names are mostly German/German inspired.
 
 ### Gremor
 
