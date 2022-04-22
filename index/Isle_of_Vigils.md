@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 28137
+revid: 28432
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -75,8 +75,8 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 
 ### Chipped Sword
 
-Nothing is known about this sword. I found it near the mantra shop and speculate it has something to do with Blindseer Progression
+Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 
-## Notes/Trivia
+## Trivia
 
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
