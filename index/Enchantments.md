@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28457
+revid: 28458
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -119,9 +119,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div>Increases weapon attack speed slightly. Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed. (Slower weapons receive a greater increase in attack speed.)<br>
+  <td><div>Increases weapon attack speed slightly. Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed. (Slower weapons receive a greater increase in attack speed.). Also gain a stackable 3 second speed boost on it.<br>
   <p>This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon.<br>
-  Additionally every m1 you land will give you a short (3 seconds roughly) burst of movement speed, this can be stacked with multiple hits in quick succession to move at ludicrous speeds.</p></div></td>
+  </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>

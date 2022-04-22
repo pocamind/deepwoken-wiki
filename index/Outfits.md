@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28414
+revid: 28459
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -330,7 +330,7 @@ _Requires Power 40_
  | Songseeker Chests, Minitrysa Chests |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
-_Requires Power ???_
+_Requires Power 40_
 
  | Nautilodaunt |
 | File:First ranger.png | (Blue) First Ranger Duster | Grants a random buff.
