@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 27361
+revid: 28461
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -54,9 +54,13 @@ Greater bandit raid: Seven or so regular bandits
 
 #### **Knives of Eylis**
 
-Similar to bandit events, with 3-4 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Will spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
+Similar to bandit events, with 3-4 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
 
 **Weapons:** Dagger, Murmur: Adagio
+
+#### **Authority Scouts**
+
+In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use Thundercall and the Peacekeepers use an unknown Flamecharm mantra. Defeating them will reward you with EXP and a chest.
 
 #### **Lost Villagers**
 

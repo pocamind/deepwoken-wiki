@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 27898
+revid: 28463
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -64,8 +64,8 @@ Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 item
 
 We'll note the items this way:
 
--   Items that you wish to keep the stats off = IS
--   Items that you wish to keep the appearance off = IA
+-   Items that you wish to keep the stats of = IS
+-   Items that you wish to keep the appearance of = IA
 
 1.  Trying to transfer a IS with worse stats to a IA with better stats = the IA will have it's stats downgraded.
 2.  Trying to transfer a IS with better stats to a IA with worse stats = the IA will have it's stats upgraded.
@@ -75,7 +75,7 @@ We'll note the items this way:
 
 ### _**Inn**_
 
--   The Innkeeper, setting your spawnpoint here costs five Notes. Setting your spawn at the inn lets you get a rare card that lets you drink potions infinitely. (not proven)
+-   ~The Innkeeper, setting your spawnpoint here costs five Notes. Setting your spawn at the inn lets you get a rare card that lets you drink potions infinitely.~ (Untrue)
 -   The Guildmaster. (Located in the building behind Trig's Quest)
 
 ### _**Thundercall Trainer**_

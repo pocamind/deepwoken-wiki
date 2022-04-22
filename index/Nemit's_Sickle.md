@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 23299
+revid: 28484
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -13,7 +13,7 @@ categories: [Weapons, Weaponry]
 | type | Dagger |
 | requirements | 60 LHT |
 | damage | 9 |
-| scaling | 10 LHT |
+| scaling | 13 LHT |
 | range | 6.5 |
 | swing speed | 1.05 |
 | penetration | 30% |
@@ -29,3 +29,5 @@ categories: [Weapons, Weaponry]
 ## Description
 
 The Nemit's Sickle is a dagger weapon that boasts a 30% penetration against armor and extremely high swing speed like other daggers. While it does significantly less damage compared to the other daggers(one less than Stiletto), its high penetration, speed, and scaling make up for it.
+
+20.7 Damage at 100 LHT

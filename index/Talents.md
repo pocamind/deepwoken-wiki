@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28445
+revid: 28485
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -178,7 +178,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
 -   Reinforced Armor \[Generic Talent, Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
-    -   Prerequisite: Somewhere Over 76 Fortitude
+    -   Prerequisite: 90 Fortitude
 
 ### Beast Slayer
 

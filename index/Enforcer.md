@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 28402
+revid: 28473
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -54,7 +54,7 @@ Do not be deceived by these stats, though. The Enforcer's true danger lies not f
 -   You shouldn't move away for most of its attacks. Enforcer's pull is one of its nastiest moves, and if followed up by something like his Kick, can easily deal unavoidble damage. Try to keep a moderate distance away, not far enough for Space Pull, but not too close for Whirlwind.
 -   Use heavy attacks. There's a chance that The Enforcer can parry or block them, but if it lands, it will deal tremendous damage and possibly even posture-break it, allowing you to wail on it freely.
 -   While not recommended, beating The Enforcer on a level 50, or even earlier (If that situation somehow arises) is totally possible. The Enforcer is an ultimate test of skill, and less of a stat check[\[1\]](#cite-note-1) like other Monsters and NPCs sometimes are.
--   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead.
+-   When it uses Whirlwind, do not attempt to fight it. It will shred your health. Run away and gain space instead. If you have predict with the talent that allows you to defend multi-hit moves, use that instead
 -   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block the attacks.
 -   After every attack you do, immediately hold block. The Enforcer does not have any moves that are unparryable, and it will not be able to harm you if you choose to block its attacks after every attack you do yourself.
 -   Avoid getting posture broken at ALL costs. A single whirlwind to someone stunned could be lethal to even the strongest of players.

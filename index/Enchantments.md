@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28458
+revid: 28486
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -59,7 +59,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Umbral Knight.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
   <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
   Hitting non humanoid entities deals the slash both to the monster and user.<br>
   The slash is parryable.</p></div></td>
@@ -137,7 +137,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>Grim (as of currently) does absolutely nothing. After a recent shadow update Grim seems to have lost its penetration procs, and after its nerf of losing its extreme damage stacks, that means it does absolutely nothing. Only used for its looks right now, and unconfirmed that it actually does anything at all (PROVEN RECENTLY).</p></div></td>
+  <td><div><p>Grim (as of currently) does absolutely nothing. After a recent shadow update Grim seems to have lost its penetration procs, and after its nerf of losing its extreme damage stacks, that means it does absolutely nothing. Only used for its looks right now, and unconfirmed that it actually does anything at all (PROVEN RECENTLY). (A mod confirmed this enchant is broken at the moment so it does nothing.)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
