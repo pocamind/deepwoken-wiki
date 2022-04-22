@@ -1,14 +1,75 @@
 ---
 title: Combat Mechanics
-revid: 27191
+revid: 28455
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken, Mechanics, Browse]
+categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
 ---
 
 # Combat Mechanics
 
-Thiae ontains
+This page contains basic information about **combat** and its mechanics/bars to give any voyager a fighting chance.
+
+## GUI
+
+File:Gui.png
+
+_There's a lot of aspects to the GUI, each one playing their own part. In order to get a chance at surviving, learning these are essential._
+
+<table>
+<tbody>
+<tr>
+  <th>Health Bar</th>
+  <td>A visual representation of the player's health. Upon reaching 0% health, the player gets knocked out and is at mercy to anyone around them.
+  <ul>
+    <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
+    <li>The player cannot regenerate the full health if their hunger bar is below 50%</li>
+    <li>At 35% and below, you become mortally injured- Reducing movement speed.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Posture Bar</th>
+  <td>A visual representation of the player's posture and stamina. It shows the stamina that the player has left to block.
+  <ul>
+    <li>When the bar is full, getting hit will stun the player, and their stamina will decrease.
+  <ul>
+    <li>Stuns when hit become longer the less Posture a player has.</li>
+  </ul></li>
+    <li>Stamina also decreases if the player lands parries or stops blocking.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Cooldown Icons</th>
+  <td>Icons that indicate whether or not the player can use certain moves.
+  <ul>
+    <li>The first icon shows the cooldown of feints/roll cancels, the second shows the rolling cooldown, and the third shows the potion cooldown.<figure>File:HDSymbols.png<figcaption></figcaption></figure></li>
+  </ul></td>
+</tr>
+<tr>
+  <th>Ether Bar</th>
+  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and without Ether, the player cannot use spells or magic.
+  <ul>
+    <li>Different spells use a different amount of Ether, and varies often.</li>
+    <li>Ether will regenerate while not using any type of magic.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Reservoir</th>
+  <td>A bar that contains unusable Ether. This bar will regenerate the player's Ether over time, depleting the Reservoir.
+  <ul>
+    <li>The lower Ether a player has, the faster the regeneration will be.</li>
+    <li>Ether will regenerate fast while at a Campfire, regardless of the player's current Ether amount.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Armor Durability</th>
+  <td>A visual representation of the player's worn armour durability. When this bar is depleted, the player's armour is considered "broken", and the buffs will disappear.
+  <ul>
+    <li>Armour can be repaired at a Blacksmith, using <a href="Talents.md">Talents</a>, or with the <a href="Outfits.md">Bloodiron ring</a>.</li>
+  </ul><figure><figcaption></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 ## Survival Basics
 
@@ -182,6 +243,12 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Roll Cancel</th>
   <td>When you roll, you can <kbd>M2</kbd> similar to how feinting works and cancel your roll. Useful against enemies after perfect dodging to immediately attack or to fake out your opponent. Gives you the same i-frames as a normal perfect roll.</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Ragdoll Cancel</th>
+  <td>After being ragdolled, you can <kbd>M2</kbd> to do a backflip that ends the ragdoll early.</td>
   <td></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28406
+revid: 28445
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -335,10 +335,9 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Strong Hold \[Generic Talent, Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Generic Talent, Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
-    -   Prerequisites: At least 60 agility. (might be lower, please edit if I'm wrong)
+    -   ~Prerequisites: At least 60 agility. (might be lower, please edit if I'm wrong)~ This is false, as in Agamatsu's tap dancer showcase video he had only 20 agility.
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
--   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
-    -   Deals 50% of the original damage
+-   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry LoadDeals 50% of the original damage
     -   Can proc from physical mantras
     -   Prerequisites: 20 strength, 25 agility.
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 28056
+revid: 28436
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
@@ -12,9 +12,9 @@ _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enem
 
 **Monsters** in _Deepwoken_ are hostile NPCs that will attack the player but are different from human enemies.
 
-## Introduction
+## Description
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; If a player can't even beat a Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; If a player can't even beat a Monster, what makes them think they can beat another player?
 
 While each Monster has unique attacks and patterns, they all share one thing; You can learn them. Every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn _if you are skilled enough_.
 
@@ -166,7 +166,7 @@ If you were to fight a Stone Knight, which has a 55% resistance to slashing, wit
 
 9000 / 0.45 / (60 ⋅ 40 ⋅ 0.089), which would come out to 93.6 hits.
 
-## Notes/Trivia
+## Trivia
 
 -   Creatures have predictable and easy to learn attack patterns.
 -   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack, or the Rock golems beam attack.
