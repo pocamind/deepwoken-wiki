@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28485
+revid: 28517
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -658,6 +658,7 @@ These are just raw stat increase and are beneficial to anyone.
 -   Murmur: Tacet \[Generic Talent, Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
 -   Murmur: Rhythm \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G"
     -   Likely removed due to being significantly weaker than the other two Murmurs.
+    -   **Still in-game,** pressing G while crouched makes you perform a hearing gesture and mutes music, makes you hear things better.
 -   Heartbeat Sensor \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters
     -   Prerequisite: Murmur: Rhythm.
 
@@ -826,7 +827,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
--   A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
+-   A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] Landing 3 Wind attacks will now apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   Note that the requirement for this talent is 75 galebreath, it is not required to be uncapped as has been proven.
 -   Silencer's Blade \[Generic Talent, Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity, +2 Health)

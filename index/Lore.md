@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28390
+revid: 28516
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -137,10 +137,14 @@ Yun'shul
 
 ### The Nestmind
 
+**Lore Sources:** _N/A_
+
 -   A visual representation of the hivemind that all owls are a part of.
 -   Consumes human thought as food.
 -   Sees reality in a different way compared to us.
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
+-   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
+    -   The Nestmind assumes the people of the New World misunderstanding the concept of The Depths, that the truth is it is an Interstice between human consciousness and reality as a whole.
 
 ## Locations
 
@@ -456,7 +460,7 @@ A Peacekeeper Commander, part of The Authority
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light".
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
--   (The Authority) The Divers are outsourced by The Adretian Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
+-   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths, based on what The Authority guards said.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
 -   The Divers have some form of ranking system, with Black Divers being powerful, elite divers, and with Diver Aprentices making up the lower rungs.
 -   (Akira) The yearly death rate is 98% of new recruits.
