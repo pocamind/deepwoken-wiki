@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28496
+revid: 28539
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -50,7 +50,7 @@ The most common and effective way to repair an outfit is at a Blacksmith. This w
 
 ### Starter
 
-_Deepwoken_ currently has 9 Starter Outfits that have been discovered.
+_Deepwoken_ currently has 10 Starter Outfits that have been discovered.
 
 ### Adept
 

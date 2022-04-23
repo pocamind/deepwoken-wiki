@@ -1,0 +1,34 @@
+---
+title: Pathfinder Sorcerer
+revid: 28543
+source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Pathfinder Sorcerer
+
+Template:ArmorInfobox**Pathfinder Sorcerer** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
+
+### _Requirements_
+
+This Outfit costs and requires five (5) Cloth and Fiber, and one (1) Rock.
+
+This Outfit requires [Intelligence](Attributes.md) 5.
+
+### _Armor Stats_
+
+This Outfit has 1000 durability grants the user +5% Physical resistance and +10% Elemental resistance.
+
+This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your stealth while crouching.
+
+## Location
+
+This Outfit's schematic can be found in:
+
+-   Fishing (as of right now atleast)
+
+## Trivia/Notes
+
+-   Practically the worst armor in the game

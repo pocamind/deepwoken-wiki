@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28519
+revid: 28544
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -159,7 +159,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>After parrying a player or npc’s attack they will receive 2% of their total hp in damage a moment later. This enchant is most well used for making farming Primadon trivial.</p>
+  <td><div><p>After parrying a player or npc’s attack they will receive 3% of their total hp in damage a moment later. This enchant is most well used for making farming Primadon trivial. (In a recent update, the damage of a parry was buffed to 3%.)</p>
   <p><br>
   </p></div></td>
 </tr>
