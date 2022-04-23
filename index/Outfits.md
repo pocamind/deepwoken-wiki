@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28459
+revid: 28496
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -26,8 +26,7 @@ Outfits are craftable forms of defense that typically reduce oncoming damage by 
 
 ## Outfit Stats
 
--   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit will no longer grant its benefits until it is repaired.
-
+-   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit will no longer grant its defensives values. However, other stats like ether regen, stealth and the associated talents are still active.
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
     -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
@@ -184,7 +183,7 @@ _Requires Fortitude 20_
 
 _Requires Fortitude 15_
 
- | Arena Chests |
+ | Arena Chests, Depths Chests |
 
 **Face:**
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 27688
+revid: 28489
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -53,11 +53,14 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 -   Put on a reversal spark to make it pull in instead of push
 
  |
-| File:Tornado.png | Tornado  
-(★) | A rushing current of wind. | AOE attack that rapidly damages all opponents inside.
+| 
 
--   Deals light damage.
--   User cannot use weapons or spells during this spell.
+ | Tornado  
+(★) | A rushing current of wind. | AOE attack that also functions as a ranged attack.
+
+-   Summons a tornado where the user is standing.
+-   This tornado can be moved by "hitting it" with an m1
+-   deals light damage and hits multiple times.
 
  |
 |  | Heavenly Wind  
@@ -222,5 +225,4 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
--   If you m1 2 times, then use gale trap, you can do an infinite combo no matter what.
 -   Archmage stated that Galebreathe is "least me" out of all the elements.

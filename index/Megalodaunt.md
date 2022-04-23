@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 28333
+revid: 28494
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,9 +10,9 @@ categories: [Pages with broken file links, Monsters]
 
 _Commonly referred to as Shark, Sharko._
 
-“ URAOblOblOOblWAUUGH ”
+“ WATCH YO TONE MF ”
 
-― Megalodaunt Roar
+― Megalodaunts when a freshie wants the smoke.....
 
   
 Template:Creature Infobox V3 Template:Creature Infobox V3 Template:Creature Infobox V3
@@ -94,7 +94,7 @@ The trick to defeating the Megalodaunt is to practice getting ready to dodge or 
 
 A Megalodaunt swimming.
 
--   It is the most common Giant Type enemy, and the easiest.
+-   It is the most common Giant Type enemy, and the easiest (Stat Check Level: 30).
 -   Sharko's have swimming animations, as seen on the right.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.

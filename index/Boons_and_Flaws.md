@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 28351
+revid: 28501
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -70,8 +70,9 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 -   Entering Castle Light
 -   Partaking in The Vow of Mastery, which means removing your vows and/or your vow owner.
+-   Could prevent you from obtaining a bell. People who already have a bell when they obtain the flaw keep it
 
-This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to trade your soul to upgrade one of your mantras beyond the max level. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
+This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to make a deal with him for your soul. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
 
  | N/A |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |

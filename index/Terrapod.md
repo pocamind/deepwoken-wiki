@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 28281
+revid: 28495
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster]
@@ -29,8 +29,11 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   **Quick Slice** - The Terrapod does a singular slice at its opponent and retreats to recover.  
     
 
-## Notes
+## Tips and Notes
 
--   Strange Claw is used in armors, and can be sold for a decent amount of notes.
+-   Despite their speed, Terrapods are fairly easy to kill. (Stat Check Level: 30)
+-   It's recommended to dodge or just move out of a Terrapod's way instead of parrying due to the confusing parry window and the carelessness of its attacks (they don't auto-track).
+-   This monster is hostile towards any others in Upper Erisia.
+-   Strange Claw is used for armors, and can be sold for a decent amount of notes.
 -   Terrapods can be recognized by the loud slashing sound they make each time they attack.
 -   You **can't** sneak up on Terrapods.

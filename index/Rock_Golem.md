@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 26054
+revid: 28497
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -74,6 +74,8 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 
 ## Trivia & Notes
 
--   Occasionally a Megalodaunt and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
+-   The regular version of these Golems are fairly easy to kill with its moves being very slow and reactable (Stat Check Level: 40, Uppercut does high damage).
+-   Primal Golems are easily distinguishable from regular Rock Golems as they are darker and red where the regular Golem would be white (Sorry bud, you can't stat check these guys).
+-   Occasionally a Megalodaunt (or Terrapod) and a Golem will spawn next to each other and fight each other. It's a good idea to use projectiles to but in and get a bit of xp and when one loses, go in for the kill on the other.
 -   Do not block it's Spinning attack, as it will shred your posture quickly. However, parrying said move gives a lot of exp, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. This move can destroy the gate in Lord Erisia's Manor and terrain around it. Do not try hiding in specific spots like luring it to a tree.
 -   These are known to attack you regardless if you have Animal King or not, likely due to their nature as inorganic constructs, rather than animals.

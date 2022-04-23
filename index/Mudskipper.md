@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 28222
+revid: 28499
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,9 +36,9 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 
 ## Tips
 
--   Very good for grinding when first starting, due to their low hp and low damage output.
+-   Very good for grinding when first starting, due to their low hp and low damage output (Stat Check Level: Any).
 -   If you aren't fighting many Mudskippers, use M1s to knock them.
--   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to.
+-   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to. If you have the opportunity, use mantras for element XP.
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
     -   Be careful about this, as you can get stun-locked if there is a Horde.
 -   If there is a Horde and you can't fight them up close, use ranged attacks like Ice Shurikens, Fire Palm, Air Blast, or Elemental Guns.

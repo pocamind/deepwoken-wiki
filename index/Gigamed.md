@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 27842
+revid: 28502
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -32,6 +32,7 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 ## Notes/Trivia
 
+-   Easiest mob to kill in the Depths (Stat Check Level: Any).
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   Made a grown man (men?) cry and scream like Goku from the hit Shonen anime, Dragon Ball.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
@@ -53,5 +54,5 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 ## Notes/Trivia
 
 -   Real Name: King Gigamed
-    -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot.
+    -   Mother Jellyfish is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 30/35).
 -   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They can also spawn with a [Cowboy Hat](https://www.youtube.com/watch?v=v1hGCtrfSQs) too.
