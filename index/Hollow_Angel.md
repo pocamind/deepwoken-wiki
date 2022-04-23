@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 28505
+revid: 28523
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -33,7 +33,7 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 -   **Light Attack** - Angels use black spears which deal 20-30 damage each hit.
 -   **Light Gun** - Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun.
 
-## Tips & Trivia
+## Trivia
 
 -   While they aren't Mudskippers, they pose a generally low threat to most players (Stat Check Level: 15/20).
 -   It is extremely easy to run away from Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.

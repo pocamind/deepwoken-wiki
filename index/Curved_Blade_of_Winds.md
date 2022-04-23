@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 28513
+revid: 28524
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,11 +34,7 @@ The Curved Blade of Winds is a Legendary Weapon and is currently one of the best
 
 This weapon is permanently under the effect of the **After Cut** Galebreathe talent. Every hit will deal damage again with an "after cut", dealing 5% of the original attack damage.
 
-## Notes
-
--   ~You can stack Maestro's Blade with the passive of the weapon, meaning there will be two after cuts on the opponent.~ \[TESTED, DOES NOT WORK.\]
-
--   After-cut takes up 1 of the 3 hits a city guard can take before aggro'ing, stacked with the normal m1, Normal m1 + after-cut leaves you with 1 hit you can deal which will make it aggro on you. If it could be stacked with Maestro's Blade, it would make it aggro on you with a single m1 if you had 2 after-cuts.
+## Trivia
 
 -   This weapon deals 34.1 damage with 100 MED and 100 WND
     -   35.805 damage with the After Cut effect included.

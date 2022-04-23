@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28517
+revid: 28518
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -651,15 +651,15 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### [Murmur](Murmur.md)
 
--   Murmur: Ardour \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
+-   **Murmur: Ardour** \[Generic Talent, Common Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H. (+5 Sanity, +9 Carry Load)
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
--   Ardour Scream \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
+-   **Ardour Scream** \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
     -   Prerequisite: 40 willpower and Murmur: Ardour.
--   Murmur: Tacet \[Generic Talent, Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
--   Murmur: Rhythm \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G"
+-   **Murmur: Tacet** \[Generic Talent, Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
+-   **Murmur: Rhythm** \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G"
     -   Likely removed due to being significantly weaker than the other two Murmurs.
-    -   **Still in-game,** pressing G while crouched makes you perform a hearing gesture and mutes music, makes you hear things better.
--   Heartbeat Sensor \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters
+    -   **Still in-game (different form),** pressing G while crouched makes you perform a hearing gesture and mutes music, makes you hear things better. This is available to everyone, and is just a cool factor as it doesn't have much use.
+-   **Heartbeat Sensor** \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters
     -   Prerequisite: Murmur: Rhythm.
 
 ### Natural Armor
