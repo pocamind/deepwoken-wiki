@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28569
+revid: 28584
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -66,7 +66,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage. Also has a sound when equipped (something like a freezer sound)</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>

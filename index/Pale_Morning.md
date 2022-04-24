@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 25078
+revid: 28579
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -11,7 +11,7 @@ categories: [Weapons, Weaponry]
 | Pale Morning | |
 |---|---|
 | type | Heavy Greathammer |
-| requirements | 75 HVY, 10 STR |
+| requirements | 75 HVY, 10 STR 30 LVL |
 | damage | 24 |
 | scaling | 9 |
 | range | 9 |
@@ -33,4 +33,3 @@ The Pale Morning is a endgame Greathammer that can be obtained from Chests in th
 ## Notes & Trivia
 
 -   Pale Morning is currently tied for best weapon of the Greathammers (with [Petra's Anchor](<Petra's_Anchor.md>)).
--   Can be obtained at Power 17 by only training up to 10 strength and 75 Heavy Weapons.
