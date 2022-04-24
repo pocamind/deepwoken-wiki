@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 28347
+revid: 28576
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -61,6 +61,8 @@ File:Way Of Navae.png
 -   To get this, you must find a Navaen Nomad captive (tied up & no weapons). They can be most commonly found in the [Fort Merit prison](Fort_Merit.md), but can also be found in [Erisia](Erisia.md). Once you have retrieved the captive nomad, bring them back to one of the Navaen Nomad camps in [Summer Isle](Summer_Isle.md) or [Etris](Etris.md) (both works) and talk to the **elder sitting in the tent (or the nomad with a brace if at Summer Isle) whilst carrying the nomad.**
 
 At [Erisia](Erisia.md) they can be most commonly found at [Towerstruck Lands](Towerstruck_Lands.md), [Erisor's Church](<Erisor's_Church.md>), and [Burning Stone Gardens](Burning_Stone_Gardens.md) Cave.
+
+Note: After unlocking Way of Navae on the slot, you can choose Fists as your starter weapon in the character menu. This is only possible on the same slot in which you unlocked Way of Navae.
 
 Debatably the best fist style. While it ties in damage with Kata, the critical possesses more range and is able to instantly guardbreak most players if they fail to parry it. While the windup is longer, this is a great mix up when using your normal m1's which is what usually leads to guardbreaks.
 

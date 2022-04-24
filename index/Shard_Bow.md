@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 28562
+revid: 28570
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -18,6 +18,8 @@ categories: [Pages with broken file links]
 ― Shard Bow description
 
 ## Description
+
+**Shard Bow,** also referred to as Agamatsu or Stormtrooper Bell, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### _Appearance_
 
