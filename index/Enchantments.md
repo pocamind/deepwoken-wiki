@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28554
+revid: 28569
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -65,7 +65,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
   <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage.</p></div></td>
 </tr>
 <tr>
@@ -137,7 +137,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>Grim (as of currently) does absolutely nothing. After a recent shadow update Grim seems to have lost its penetration procs, and after its nerf of losing its extreme damage stacks, that means it does absolutely nothing. Only used for its looks right now, and unconfirmed that it actually does anything at all (PROVEN RECENTLY). (A mod confirmed this enchant is broken at the moment so it does nothing.)</p></div></td>
+  <td><div><p>Grim currently does not work. Arch_Mage has made a statement saying it will be fixed in a future update.</p>
+  <p><br>
+  </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Wild sword.png<figcaption></figcaption></figure><div>Wild</div></td>
@@ -205,9 +207,11 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
-  <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
-  <p><br>
-  </p></div></td>
+  <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Astral.png<figcaption></figcaption></figure><div>Astral</div></td>
+  <td><div><p>On proc from the galaxies from the sky, stars that come to The Etrean Luminant cause the user to suffer a visual loss and the stars suffocate the user and slows them.</p></div></td>
 </tr>
 </tbody>
 </table>

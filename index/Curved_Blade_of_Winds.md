@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 28524
+revid: 28563
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -28,7 +28,7 @@ categories: [Weapons, Weaponry]
 | obtainment | Chests in The Depths |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
-## Description
+## **Description**
 
 The Curved Blade of Winds is a Legendary Weapon and is currently one of the best Medium Weapons in the game. It is a very rare drop from the chests in [The Depths](The_Depths.md). It scales with Medium Weapon, and [Galebreathe](Galebreathe.md).
 
@@ -38,7 +38,7 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 
 -   This weapon deals 34.1 damage with 100 MED and 100 WND
     -   35.805 damage with the After Cut effect included.
-    -   36.97 damage if it's a 3 star 6% damage.
+    -   46.97 damage if it's a 3 star 6% damage and after cut effect included.
 -   2nd highest damaging medium weapon after Divine Longsword
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade.
     -   There are some players who were able to obtain one before the developers disabled enchanted Curved Blades in the loot pool. They are extremely rare and can probably buy your kidney.

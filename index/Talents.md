@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28518
+revid: 28568
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -1228,6 +1228,8 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)  
 Aerogliding \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity, + 2 Health)  
 Stifled Jump \[Generic Talent, Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)  
+Fishman \[Generic Talent, Rare Talent\] - Heal while swimming. Just remember that there's always a bigger fish.  
+Scuba Drowner \[Generic Talent, Rare Talent\] - You no longer drown to death when downed in water. (+1 Passive Agility)  
 Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)  
 Carnivore \[Rare Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. (+4 Health) Prerequisites: Strength & Wilpower, does not have Vegetarian Flaw | Benefit: Restore hunger and thirst when killing monsters or people. | Penalty: Cannot eat vegan foods (Food derived from Mushrooms/Fruits, however you can still eat bread.)  
 Grand Feast \[Rare Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility) Prerequisites: Carnivore  
@@ -1239,7 +1241,6 @@ Risky Moves \[Generic Talent, Rare Talent, Agility\] - When you successfully dod
 Overflowing Dam \[Generic Talent, Rare Talent, Intelligence\] - Having max ether makes your attacks do more damage. (15% dmg buff). Prerequisite: 40 Intelligence  
 Perfect Flash \[Generic Talent, Rare Talent, Intelligence\] - Having full health causes your mantras do 1.25x damage. Prerequisite: 20(?) Intelligence  
 Eureka \[Generic Talent, Rare Talent, intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity) Prerequisite: 30(?) Intelligence  
-Familiar Sight \[Generic Talent, Rare Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.  
 Blood Shadow \[Rare Talent\] - Everyone you Reinforce is drained of their HP until you are full.  
 Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)  
 Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health)  
@@ -1266,7 +1267,7 @@ Last Laugh \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Gain the abilit
 Denial Repulse \[Generic Talent, Rare Card, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity, +1 Health) Prerequisites: Flamecharm  
 Undying Flame \[Generic Talent, Rare Card, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity, +2 Health) Prerequisites: Flamecharm  
 Command: Sacrifice \[Generic Talent, 50 Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)  
-Command: Return \[Generic Talent, 70 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health) Prerequisites: Vow of Mastery  
+Command: Return \[Generic Talent, 60 Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +4 Health) Prerequisites: Vow of Mastery  
 Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)  
 Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can break an enemy's posture with the parry of a greatsword. (+1 Posture, +2 Carry Load, +1 Health)
 
@@ -1276,8 +1277,8 @@ Destructive Recovery \[Generic Talent, Rare Talent\] - \[Heavy Weapons\] You can
 
 Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running (+1 Passive Agility)  
 Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.  
+Return to the Dark Ages \[Legendary Talent\] - Your elemental damage is cut in half, but your incoming elemental damage is cut in half too. (+10 Health)  
 Dazing Finisher \[Generic Talent, Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements; Around 40 Charisma)  
-Fishman \[Generic Talent, Legendary Talent\] - Heal while swimming. Just remember that there's always a bigger fish.  
 Exoskeleton \[Legendary Talent, 35 Fortitude\] You have natural armor that decreases all damage taken by 15%. This stacks with Vesperian natural armor.  
 Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity, +2 Health)  
 Exploding Mirage Clone \[Generic Talent, Legendary Talent, Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)  
@@ -1293,15 +1294,14 @@ Golden Tongue \[Generic Talent, Legendary Talent\] - Anyone who hears your voice
 A World Without Song \[Generic Talent, Galebreathe Exclusive, Legendary Talent\] All of your wind attacks apply 'Suffocate'. (+1 Elemental Intensity, +2 Health)  
 Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)  
 Command: Live \[Generic Talent, 75 Legendary Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +4 Health)  
-Scuba Drowner \[Generic Talent, Legendary Talent\] - You no longer drown to death when downed in water. (+1 Passive Agility)  
-Showstopper \[Legendary Talent\] - \[?\] When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.  
+Showstopper \[Legendary Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.  
 Adept \[Generic Talent, Legendary Talent\] - Take this to make grinding for investment points easier.
 
   
 
 ## Blacklisted Talents
 
-Certain talents cannot be obtained throught Roll 2 or Legendary Echoes, due to how they are hyper specific and could break certain builds.
+Certain talents cannot be obtained through Roll 2 or Legendary Echoes, due to how they are hyper specific and could break certain builds.
 
   
 

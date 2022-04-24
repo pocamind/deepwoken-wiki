@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 28331
+revid: 28562
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -54,6 +54,7 @@ Startup of jumping up into the air when shooting is a bit longer.
 -   Does a little less damage than a Strong Left (presumably without 100 str scaling) according to Agamatsu
 -   It heavily depends on the talents and the other variables, meaning that it’s hard to account how much damage it does.
 -   Reference to _The Stormlight Archive_'s Shardbows
+-   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts"
     
 
 File:Shard bow.gif

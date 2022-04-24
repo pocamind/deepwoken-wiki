@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 26682
+revid: 28559
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -35,6 +35,7 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 
 ## Notes & Trivia
 
+-   Reference to "Mr Krab's" house from "Spongebob"
 -   Probably a reference to Totsugeki May from _Guilty Gear_.
 -   Unlikely but it could also be a reference to Minamitsu Murasa from _Touhou Project_. Both characters wield an anchor.
 -   Or it could just... you know... be an anchor.

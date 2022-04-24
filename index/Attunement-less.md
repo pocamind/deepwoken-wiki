@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28303
+revid: 28561
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -53,7 +53,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
 
 -   **Reinforce** - Buff those around you with extra defense.
-    -   Reduces incoming damage and completely negate armor damage.
+    -   Reduces incoming damage and ~completely negate armor damage~ I tested this, and my armor did still take damage.
     -   Needs further testing, but seems to give a 10% damage boost as well (If you test it please send me whatever results you find on Discord: LeDawgCoot#7583)
     -   Requirements: 50 Fortitude, _Fortitude Support Mantra_
     -   _Can be upgraded with the "Lord Commander" talent card, which heals the user for 2% (done with testing on one person, the actual description says otherwise) for every player/NPC buffed._
