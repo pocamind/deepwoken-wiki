@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 25455
+revid: 28551
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Spells, Mantras, Skills, Attunement, Attributes, Weaponry, Armors, Weapons, Guilds, Helpful, Talents]
@@ -8,16 +8,24 @@ categories: [Deepwoken, Spells, Mantras, Skills, Attunement, Attributes, Weaponr
 
 # Developer Specs
 
-## What is a Spec
+## What is a Spec?
 
-A spec is when a mod or developer gets a certain ability ingame, that no one else has. Like for example Arch\_Mages Soul Stealer.
+A spec is custom ability often given to mod and/or developers that is unique to the person when a mod or developer for instance, Arch\_Mages has a Soul Stealer ability.
 
-This will be a list of all the known specs we know of.
+### Sources
 
-[https://www.youtube.com/watch?v=CVimm9yTOio](https://www.youtube.com/watch?v=CVimm9yTOio) 3:43, [https://www.youtube.com/watch?v=brgBuA83ZbM](https://www.youtube.com/watch?v=brgBuA83ZbM), [https://www.youtube.com/watch?v=M78S7bx5wKw](https://www.youtube.com/watch?v=M78S7bx5wKw) 0:36, and [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://www.youtube.com/watch?v=KEgU7U0Sdh8).
+Arch-Mage Soul Stealer: [https://www.youtube.com/watch?v=brgBuA83ZbM](https://www.youtube.com/watch?v=brgBuA83ZbM)
 
-## Spec
+Melonbread Gate: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0)
+
+Hive Leader (I don’t know their name): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://www.youtube.com/watch?v=KEgU7U0Sdh8) and [https://www.youtube.com/watch?v=M78S7bx5wKw](https://www.youtube.com/watch?v=M78S7bx5wKw) (0:36)
+
+## Spec's
 
 ### Arch\_Mage
 
-Arch\_Mage has (Atleast in Pre-release Deepwoken) the ability to steal people's soul and take mantras from them. He can upgrade then to whatever level he sees fit. Most likely is that he has changed his spec in-game but we can't be sure. More info hase too be added and known.
+Arch\_Mage has (Atleast in Pre-release Deepwoken) the ability to steal people's soul and take mantras from them. He can upgrade then to whatever level he sees fit. Most likely is that he has changed his spec in-game but we can't be sure. More info has to be added and known.
+
+### Melonbread
+
+Melonbread has the ability to make a stone gate appear which allows him to take himself and others to any island he desires. It is unknown if this ability works in the depths or allows him to travel in between the Etrean Luminant and The Depths.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28516
+revid: 28558
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -659,6 +659,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   In recent times, a family of Lightborn known as the Spellhards have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
 -   Rumored to be living in a mighty castle above in the sky, visible through the Celestial Telescope in the [Greathive Aratel](Greathive_Aratel.md).
 -   Lightborn are also called as Celestials by the people of the New World's standpoint, as both Lightborn and Celestials came from outer space.
+-   'Falling to the temptations' of a Drowned God will result in being exiled from their community.
 
 ### Celestials
 
