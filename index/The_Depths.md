@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 28123
+revid: 28590
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -92,8 +92,8 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-9 | Nothing (you are sent up without a fight) |
-| ~10-19 | [Mudskipper Knight](Mudskipper.md) |
+| 1-10 | Nothing (you are sent up without a fight) |
+| ~11-19 | [Mudskipper Knight](Mudskipper.md) |
 | 20 - 28 | [Angels](Hollow_Angel.md) (Lesser) |
 | 29-49 | [Megalodaunt](Megalodaunt.md) (small chance of a corrupted version) |
 | 50+ | [Enforcer](Enforcer.md) |

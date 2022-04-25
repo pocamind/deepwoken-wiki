@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 28551
+revid: 28598
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Spells, Mantras, Skills, Attunement, Attributes, Weaponry, Armors, Weapons, Guilds, Helpful, Talents]
@@ -24,8 +24,8 @@ Hive Leader (I don’t know their name): [https://www.youtube.com/watch?v=KEgU7U
 
 ### Arch\_Mage
 
-Arch\_Mage has (Atleast in Pre-release Deepwoken) the ability to steal people's soul and take mantras from them. He can upgrade then to whatever level he sees fit. Most likely is that he has changed his spec in-game but we can't be sure. More info has to be added and known.
+Arch\_Mage has (Atleast in Pre-release Deepwoken) the ability to steal people's soul and take mantras from them. He can upgrade then to whatever level he sees fit. Most likely is that he has changed his spec in-game but we can't be sure. Arch\_Mage also seems to posses a teleportation ability which spawns chains around him when he disappears, not much is know about this ability currently.
 
 ### Melonbread
 
-Melonbread has the ability to make a stone gate appear which allows him to take himself and others to any island he desires. It is unknown if this ability works in the depths or allows him to travel in between the Etrean Luminant and The Depths.
+Melonbread has the ability to make a stone gate appear which allows him to take himself and others to any island he desires. It is unknown if this ability works in the depths or allows him to travel between the Etrean Luminant and The Depths.

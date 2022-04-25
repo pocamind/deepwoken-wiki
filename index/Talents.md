@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 28568
+revid: 28602
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
 notices:
   - This page is currently being worked on. Categories shall be added soon.
 ---
@@ -468,10 +468,12 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisite: ??? Intelligence
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
-    -   Is not applied retroactively. Only mods added to mantras after obtaining this talent while have the reduced ether cost.
-    -   Prerequisite: The sum of Intelligence, Willpower or Charisma equal to 40 (apparently Fortitude also works)
-        -   Example: 30 Intelligence and 10 Charisma will get you Neuroplasticity.
-    -   The latest update made it have a requirement (?)
+    -   Requirements : 35 Willpower/ 35 Intelligence/ 35 Charisma. (As confirmed by arch\_mage.)
+        
+        File:Neuro.png
+        
+        836.833x836.833px
+        
 
 ### Glassdancer
 

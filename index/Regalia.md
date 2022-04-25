@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 28409
+revid: 28589
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -31,7 +31,7 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 
 -   All [Monsters](Monsters.md) (with the exceptions of [Stone Knights](Stone_Knight.md) and [Rock Golems](Rock_Golem.md)) will ignore the player unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and [The Enforcer](Enforcer.md).
 -   Monsters will have an AI similar to Town Guards when aggroed: they will unaggro the player if they do not deal damage to the monster for 15 seconds.
-    -   Humanoid Enemies will still aggro the player on sight. (As of the latest update Ministry NPCs will still attack you unprovoked and kill you like any other player, however they will not grip you \[need more confirmation on this as this has only happened to me -412justin\])
+    -   Humanoid Enemies will still aggro the player on sight. (As of the latest update Ministry NPCs will still attack you unprovoked and kill you like any other player, however they will not grip you (tested and confirmed)
 
 ### Theorized Obtainment:
 
