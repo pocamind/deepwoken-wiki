@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 28164
+revid: 28639
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -162,7 +162,7 @@ Around [The Depths](The_Depths.md) and Overworld, Resonance Doors can be found. 
 
 A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of three cards, as if you have just obtained one.
 
-This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to remove your flaws. (**Do not do this).**
+This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to reroll your flaws. (**Do not do this).**
 
 Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited times, aslong as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
 

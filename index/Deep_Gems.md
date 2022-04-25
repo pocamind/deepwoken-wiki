@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 26877
+revid: 28637
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -51,7 +51,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra.
 <tr>
   <td></td>
   <td>Wind Gem</td>
-  <td>Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope.</td>
+  <td>Hitting an enemy with the mantra will increase your speed for 8 seconds, equivalent to the speed buff given after sliding down a slope.</td>
 </tr>
 </tbody>
 </table>
