@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 28570
+revid: 28606
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -37,7 +37,7 @@ Both variants have complete penetration (100% PEN), meaning that no armor outfit
 
 #### _Variants_
 
--   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. Does 25% flat damage, regardless of their HP.
+-   Version 1 allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. ~Does 25% flat damage, regardless of their HP.~ This is false, as i tested it on multiple people and it did 50% of a freshie's hp and only did 10% of dmg to a person with 460 hp, which proves that the shard bow doesn't do percent dmg
 
 -   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further.
 

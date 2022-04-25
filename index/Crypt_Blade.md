@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 28420
+revid: 28621
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]

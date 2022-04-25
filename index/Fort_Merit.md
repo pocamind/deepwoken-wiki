@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 27463
+revid: 28627
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -58,7 +58,20 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 
 -   Talk to Brutus, this will result in Brutus damaging you until you are knocked granting you Fortitude Unbound card. (As a result, you can be easily gripped, best to come with a companion)
 
--   For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAbOxNk).
+For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAbOxNk).
+
+## NPCs
+
+Bellow is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
+
+-   Gartoth
+-   [Brutus](Attributes_Unbound.md) (Fortitude Uncap)
+-   Innkeeper (Sets spawn)
+-   [Guild Clerk](Guilds.md) (Guild stuff)
+-   Kana
+-   [Banker](Artifacts.md) (Artifact returns)
+-   Kiternon
+-   [Antiquarian](Antiquarian.md) (Selling)
 
 ## Loot Table
 
@@ -93,7 +106,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Rural Adjudicator's Coat
 -   Warden Pauldrons
 -   Gold Authority Commander Coat
--   Verdant Authority
+-   Verdant Authority Commander Coat
 -   Haze Authority Commander Coat
 -   Amber Authority Commander Coat
 
@@ -104,7 +117,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   [Khan Shield](Legion_Shield.md) (very rare)
 -   [Officer Saber](Officer_Saber.md) (uncommon)
 -   [Rifle Spear](Rifle_Spear.md) (rare)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (too rare)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (rare)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (uncommon)
 -   [Cavalry Saber](Officer_Saber.md) (uncommon)
 -   [Apprentice Rapier](Apprentice_Rapier.md) (rare)

@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 26430
+revid: 28624
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -32,6 +32,7 @@ This Outfit's Schematic can be found in:
 -   [The Depths](The_Depths.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
+-   Fishing at any location
 
 ## Trivia/Notes
 

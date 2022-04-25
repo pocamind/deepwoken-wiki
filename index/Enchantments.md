@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28592
+revid: 28629
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -65,13 +65,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove much more blood. Missing an M1 deals 1% of max hp as damage to the user. Bloodthirsty was shadow buffed on the 4/18 update which made it only take 1% per missed M1 and deals even more blood damage. Also has a sound when equipped (something like a freezer sound)</p></div></td>
+  <td><figure>File:CestusBloodthirsty.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><div><p>M1 connections deal 10% more damage and will deal a large amount of blood equal to your damage dealt. Missing an M1 will deal 1% of your maximum health to you.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped.<br>
-  <b>This enchant is disabled in Arena</b></p></div></td>
+  <b>This enchant is disabled in Arena</b><br>
+  Viscosity enchant is disabled.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Yunshulkatana.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -112,7 +113,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Stormshattered(monkeyalert).png<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:Storm enchant.png<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
@@ -309,7 +310,8 @@ Viscosity
  | 
 
 Damage dealt to the user is reduced and dealt over time. You will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage). More damage you take, more damage will be dealt over time.  
-The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.)
+The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.  
+Disabled if using Curse of the No Life King.
 
   
 

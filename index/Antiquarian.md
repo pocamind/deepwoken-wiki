@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 20000
+revid: 28623
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -24,6 +24,7 @@ They can be found in the Surface in:
 -   [Etris](Etris.md)
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md)
+-   [Fort Merit](Fort_Merit.md)
 
 ## Prices
 

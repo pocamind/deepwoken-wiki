@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 28380
+revid: 28610
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
