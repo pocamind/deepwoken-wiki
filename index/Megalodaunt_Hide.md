@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Hide
-revid: 26137
+revid: 28642
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,4 +31,5 @@ Megalodaunt hide, also called sharko hide, can be obtained by killing [Megalodau
 -   Crafting the [Hive Drone](Outfits.md) outfit.
 -   Crafting the [Black Diver](Outfits.md) outfit.
 -   Crafting the [Sharkscale Glider](Gliders.md) Item.
+-   Crafting the [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   Using 3 of them to summon the [Primadon](Primadon,_Titan_of_the_East.md) boss.

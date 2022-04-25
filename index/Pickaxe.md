@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 25679
+revid: 28647
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Pickaxes are used for mining ores (rock, iron, irithine, etc.)
 
-There are 3 preferable locations you can obtain pickaxes:
+There are 4 preferable locations you can obtain pickaxes:
 
 1) The [General Store](Etris.md) located in Etris which costs 3 notes.
 
