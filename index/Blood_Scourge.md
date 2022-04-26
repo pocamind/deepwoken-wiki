@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 27910
+revid: 28687
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,6 +41,7 @@ Pressing C will activate the **Blood Scourge** Resonance.
 
 -   **Version 1** has **Blood Scourge's** range created around the user.
 -   **Version 2** has **Blood Scourge's** range created around a red orb thrown by the user.
+-   (Any verison of **Blood Scourge** now combat tags the user)
 
 #### _Corrupted_
 

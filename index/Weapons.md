@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 28633
+revid: 28697
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -161,14 +161,14 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
-  <td>50 LHT</td>
-  <td>16</td>
-  <td>N/A</td>
-  <td>LHT: 8</td>
+  <td>50/<font>75</font> LHT</td>
+  <td>16/<font>16.5</font></td>
+  <td>N/A/<font>15%</font></td>
+  <td>LHT: 8/<font>8.5</font></td>
   <td>3</td>
   <td>7</td>
-  <td>0.85x</td>
-  <td>No</td>
+  <td>0.85x/<font>0.88x</font></td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -458,10 +458,10 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 </tr>
 <tr>
   <td><a href="Vigil_Longsword.md">Vigil Longsword</a></td>
-  <td>40 MED</td>
+  <td>40/<font>75</font> MED</td>
   <td>20</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
+  <td>N/A/<font>20%</font></td>
+  <td>MED: 6/<font>7</font></td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -621,13 +621,13 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 </tr>
 <tr>
   <td><a href="Trident_Spear.md">Trident Spear</a></td>
-  <td>50 MED</td>
+  <td>50/<font>75</font> MED</td>
   <td>19</td>
   <td>25%</td>
-  <td>MED: 6</td>
+  <td>MED: 6/<font>7</font></td>
   <td>5</td>
   <td>9</td>
-  <td>0.68x</td>
+  <td>0.68x/<font>0.69x</font></td>
   <td>No</td>
 </tr>
 <tr>
@@ -950,17 +950,19 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
   <td><b>Alloy-able</b></td>
 </tr>
 <tr>
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
-  <td>20 HVY, 10 STR</td>
-  <td>22</td>
-  <td>N/A</td>
-  <td>HVY: 7</td>
+  <td>20/<font>75</font> HVY, 10 STR</td>
+  <td>22/<font>24</font></td>
+  <td>N/A/<font>10%</font></td>
+  <td>HVY: 7/<font>8</font></td>
   <td>7</td>
   <td>9</td>
   <td>0.6x</td>
+  <td><font>0.1s</font></td>
   <td>No</td>
 </tr>
 <tr>
@@ -972,6 +974,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>9</td>
   <td>0.6x</td>
+  <td></td>
   <td>No</td>
 </tr>
 <tr>
@@ -983,6 +986,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>9</td>
   <td>0.6x</td>
+  <td></td>
   <td>No</td>
 </tr>
 <tr>
@@ -994,6 +998,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10</td>
   <td>9</td>
   <td>0.6x</td>
+  <td></td>
   <td>No</td>
 </tr>
 <tr>
@@ -1005,6 +1010,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>8</td>
   <td>0.6x</td>
+  <td></td>
   <td>No</td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28588
+revid: 28701
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -65,7 +65,11 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   Requirements: 75 Fortitude, _Fortitude Support Mantra_
     -   Base 5 second duration, every upgrade increases it by 1 up to 9 max seconds
 
-_\[The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements) Doesn't require uncap, I pulled this during trial of one.\]_  
+-   **Shoulder Bash** - Rush at your enemies with your full physical force.
+    -   Doesn't do much damage but is a good mobility move to catch up to your opponents.
+    -   Upgrades based off of fortitude from the atunementless trainer
+    -   Requirements: ?? FTD ?? STR (Obtainable with 100 FTD, 40 STR)_\[The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements) Doesn't require uncap, I pulled this during trial of one.\]_  
+        
 
 ### _**Agility Mantras**_
 
@@ -132,7 +136,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart.
     -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high dmg. when upgraded and 75+ lht.
-    -   Requirement: 6 Light Weapon, _Light Weapons Mobility Mantra_
+    -   Requirement: 30 Light Weapon, _Light Weapons Mobility Mantra_
 
 ### _**Medium Weapon Mantras**_
 

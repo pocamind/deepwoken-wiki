@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28653
+revid: 28685
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -280,6 +280,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Chilling Flourish \[Generic Talent, Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
 
 -   Condensation Drip \[Generic Tallent, Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
+
+### Cryoni
+
+-   Rude Awakening \[Generic Talent, Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
+    -   Prerequisites: Cryostasis Mantra
 
 ### Cutthroat
 
@@ -672,7 +677,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 25%. \[Requires fist style and 20 fortitude\]
+-   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15% \[.Requires fist style and 20 fortitude\]
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: Way of Navae.
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)

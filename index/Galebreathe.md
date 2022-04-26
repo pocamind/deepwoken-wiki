@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 28532
+revid: 28688
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -35,7 +35,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Wind Blade | Shoots out a blade of wind | Launches a wind projectile to cursor's position.
+|  | Wind Blade | Slicing blades of Wind. | Launches a wind projectile to cursor's position.
 -   Deals light damage.
 -   Can be improved with _Tempest Wind_, a learnable talent.
 
@@ -146,7 +146,7 @@ These talents are found in the _Aeromancy_ category.
 | File:Galebreathe Talent Placeholder.png | Stifled Jump | Enemies who jump while suffocated by you are dazed. | +2 Passive Agility  
 +5 Elemental Intensity  
 +1 Health |
-| File:Galebreathe Talent Placeholder.png | Suffocating Impact | When flourishing enemies intro walls they are suffocated and winded for a short duration. | +2 Passive Agility  
+| File:Galebreathe Talent Placeholder.png | Suffocating Impact | When flourishing enemies into walls they are suffocated and winded for a short duration. | +2 Passive Agility  
 +5 Elemental Intensity  
 +1 Health |
 | File:Galebreathe Talent Placeholder.png | Gale Coil | Your suffocates last twice as long. | +2 Passive Agility  
@@ -226,3 +226,5 @@ Costs _[Ether](Combat_Mechanics.md)_. |
     -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   Archmage stated that Galebreathe is "least me" out of all the elements.
+    
+-   Wind Step can be used by other players for a short period after being placed.

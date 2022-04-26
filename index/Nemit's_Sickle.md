@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 28484
+revid: 28683
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -17,7 +17,9 @@ categories: [Weapons, Weaponry]
 | range | 6.5 |
 | swing speed | 1.05 |
 | penetration | 30% |
+| special effect | ? |
 | stances | 1 Handed |
+| selling price | 150 notes |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

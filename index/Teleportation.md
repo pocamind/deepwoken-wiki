@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 27913
+revid: 28679
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,17 +35,20 @@ Pressing "C" will activate the **Teleportation** Resonance.
 
 **Teleportation** will set a waypoint and transport the user and players to that waypoint when used.
 
-### _Variants_
+**Teleportation** has two variants along with a regular and corrupted version.
 
 **Corrupted Version** will apply the followings:
 
 -   The ring will be slightly larger
 -   The ring will charge up twice as fast
 -   The teleportation speed is doubled
+-   Give an additional marker slot
 
-**2nd Version** gives possibility to post 3 waypoints.
+### _**Variants**_
 
-**Teleportation** has no unique variants, but has variants unique to it.
+**Variant 1** will work as the usual
+
+**Variant 2** will allow the user to place markers on humanoid entities (Players & humanoid NPCs)
 
 **Regular version** POV: [https://cdn.discordapp.com/attachments/785042190048165908/958511961388236820/Regular\_Version.mp4](https://cdn.discordapp.com/attachments/785042190048165908/958511961388236820/Regular_Version.mp4)
 
@@ -54,13 +57,13 @@ Pressing "C" will activate the **Teleportation** Resonance.
 #### _Teleportation_
 
 -   At first use, **Teleportation** will set a position or marker at the cursor's location, this position is indicated with a gray translucent circle.
-    -   This location can be set on a player, but will expire once said player disconnects. (thats cap if the join back the marker will still be on them)
+    -   If a marker is set on a player, the marker will expire once said player disconnects. (thats cap if the join back the marker will still be on them).
 -   If the position or marker is set, **Teleportation** will form a golden ring below the user's feet. The start-up scales with how far the portal is from the marker. This ring persists even if the user leaves the ring, and teleports all players inside the ring once finished.
 
 ## Trivia
 
 -   You can Teleport entities through the waypoints if they are placed correctly.
 -   Monsters can also be teleported by these.
--   You can place down two waypoints, and if you try to place another then the first waypoint you placed will get removed.
--   This bell may also be referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named "Minato" in the anime-manga series "Naruto."
+-   You can place down 2 waypoints (or 3 if corrupted), and if you try to place another then the first waypoint you placed will get removed.
+-   This resonance may also be referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named "Minato" in the anime-manga series "Naruto."
 -   An old practice among users of this bell was to play a waypoint to Lord Regent's manor and then baiting people in. This will cause everybody (except the user) to instantly die due to the insta-kill feature in Lord Regent's Palace. You would not die if you have the active Duke quest. (Due to a recent patch, Teleportation users can no longer set waypoints in Lord Regent's Palace or The Duke's Manor.

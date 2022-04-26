@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28675
+revid: 28700
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -168,7 +168,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
-  <td><div><p>Posture damage is increased. Scales of weapon damage.</p>
+  <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
+  Deal bonus damage on a posture break.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -180,9 +181,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 25% of damage dealt in PVE, and 10% of damage dealt in PVP <b>(Note: The validity of these values can be questioned. Take them with a grain of salt)</b>.</p>
-  <p>Players do a lot more damage in PVE because of the damage scaling received from Power. It is still useful in PVP, but would require a high damage weapon in order for this enchant to be effective.</p>
-  <p>For example, a Megalodaunt has 1000 HP, and at max Power, you're probably gonna be killing it in less than five hits. 1000/5 = 200 damage per hit. 25% of 200 is 50, so basically, you're getting +50 HP everytime you hit a Megalodaunt, or any monster for that matter.</p></div></td>
+  <td><div><p>Heal for 10% of damage dealt.</p></div></td>
 </tr>
 </tbody>
 </table>

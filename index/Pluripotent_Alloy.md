@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 28096
+revid: 28678
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -53,7 +53,10 @@ To use a Pluripotent Alloy, you must be at least power level 30 and equip an app
 -   [Gremorian Longspear](Gremorian_Longspear.md)
 -   [Whaling Knife](Whaling_Knife.md)
 -   Zweihänder
--   More coming in future patches
+-   [Trident Spear](Trident_Spear.md)
+-   [Vigil Longsword](Vigil_Longsword.md)
+-   [Tanto](Tanto.md)
+-   [Steel Maul](Steel_Maul.md)
 
 ## Effects of the Pluripotent Alloys
 
