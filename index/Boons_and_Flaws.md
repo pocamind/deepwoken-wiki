@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 28698
+revid: 28721
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -72,6 +72,7 @@ This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer fo
 
  | N/A |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
+| Wishbound | "Isn't this want you wanted?" | The flaw is only obtainable by wishing through a developer, which it will grant you whatever wish you want and gives you this flaw in return. | N/A |
 
 ## Trivia/Notes
 

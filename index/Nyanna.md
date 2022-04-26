@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 28702
+revid: 28732
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ Nyanna is a [Felinor](Felinor.md) seller NPC located in [Castle Light](Castle_Li
 
 Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen at random from a list. She can sell the same item multiple time, on the same rotation and across multiple rotations. Most of her shop consist of uncommon Weapons and Schematics that are geared toward mid game.
 
--   **Weapons:** [Trident Spear](Trident_Spear.md) (300 ), Whaling Knife, [Adretian Axe](Adretian_Axe.md), Warden Ceremonial Sword, Virgil Longsword (300 )
+-   **Weapons:** [Trident Spear](Trident_Spear.md) (300 ), Whaling Knife, [Adretian Axe](Adretian_Axe.md), Warden Ceremonial Sword, Vigil Longsword (300 )
     -   Uniquely to her, the weapon she sells have a chance to be enchanted.
 -   **Armor Schematic:** [Mercenary Armor](Hired_Mercenary.md), [Merchant Robe](Merchant_Robes.md), Authority Uniform (80 ), [Authority Commander Uniform](Authority_Captain_Uniform.md), [Diver Apprentice](Diver_Apprentice_Robes.md), [Hive Drone](Hive_Drone.md) (80 ), [Ignition Coat](Ignition_Union_Uniform.md), [Keeper](Keeper.md), [Legion Centurion](Legion_Centurion.md), [Prophet's Cloak](<Prophet's_Cloak.md>), [Vigil Cloak](Cloak_of_Winds.md), [Tactician](Hive_Tactician_Armor.md) (80 ), [Pathfinder Journeyman](Pathfinder_Cloak.md), [Whaler Coat](Whaler_Coat.md) (200 ), [Pathfinder Sorcerer](Pathfinder_Arch-Sorcerer.md) (200 ), [Flame Worshipper](Flame_Worshipper_Armor.md) (80 ), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) (200)
 

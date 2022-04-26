@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 25792
+revid: 28727
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -13,6 +13,10 @@ notices:
 ## Location
 
 -   **The Voidheart -** While it is possible to actually reach it in game, the actual content and usage of the voidheart was removed, and only the Area Marker remain.
+
+## Player
+
+-   **Venting -** Mantra invincibility. Very short duration but grant a lot of ether back when hit by a mantra.
 
 ## Mantras
 

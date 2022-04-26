@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 28455
+revid: 28729
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -50,15 +50,15 @@ _There's a lot of aspects to the GUI, each one playing their own part. In order 
   <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and without Ether, the player cannot use spells or magic.
   <ul>
     <li>Different spells use a different amount of Ether, and varies often.</li>
-    <li>Ether will regenerate while not using any type of magic.</li>
+    <li>Ether regenerate passively very slowly, but regenerate faster if the player have Reservoir.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Reservoir</th>
   <td>A bar that contains unusable Ether. This bar will regenerate the player's Ether over time, depleting the Reservoir.
   <ul>
-    <li>The lower Ether a player has, the faster the regeneration will be.</li>
-    <li>Ether will regenerate fast while at a Campfire, regardless of the player's current Ether amount.</li>
+    <li>Whenever the Ether bar is not full, it will draw from the Reservoir to fill itself.</li>
+    <li>Reservoir regenerate passively, albeit very slowly. It quickly regenerates when sitting a campfire.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -87,17 +87,21 @@ If every bar reaches zero, the player will start to quickly lose health.
   <ul>
     <li>The player will always be combat tagged.</li>
     <li>The player's Water and Stomach bar will rapidly decrease.</li>
-  </ul></td>
+    <li>Getting hit while bleeding out drains a large amount of Water and Stomach</li>
+  </ul><p>Maximum blood increase with power, gaining roughly 3.33% more blood for each power. Thus, the maximum amount of blood is doubled at power 30 and tripled at power 60 (compared to the default amount)</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Water</th>
-  <td>A visual representation of how much Water that is currently in the player's body. Water isn't too vital for survival, and will deplete over time. If you reach 0 water your screen gets blurry and your reservoir drains to 0%. Lose 50% of bar upon vomitting.</td>
+  <td>A visual representation of how much Water that is currently in the player's body. Water isn't too vital for survival, and will deplete over time. If you reach 0 water your screen gets blurry and your reservoir drains to 0%. Lose 50% of bar upon vomitting.<p>Drains slightly faster when hurt.</p>
+  <p>Drain faster if hurt and sitting at a campfire.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Stomach</th>
-  <td>Essentially your hunger bar, if it reaches zero you will lose blood and your max health will be reduced. Lose 50% of bar upon vomitting.</td>
+  <td>Essentially your hunger bar, if it reaches zero you will lose blood and your max health will be reduced. Lose 50% of bar upon vomitting.<p>Drains slightly faster when hurt.</p>
+  <p>Drain faster if hurt and sitting at a campfire.</p>
+  <p>If the food bar is empty, you gradually lose health overtime. Attempting to swim while starving and with less than 50% HP will immediatly knock the player, resulting in drowning if not assisted.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
@@ -142,19 +146,17 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Stance Change</th>
-  <td>Pressing the <kbd>Y</kbd> button will change your stance from one-handed to two handed.<p><br>
-  </p>
-  <p><br>
+  <td>Pressing the <kbd>Y</kbd> button will change your stance from one-handed to two handed. Only available to Medium Weapons (by default) and Heavy Weapons (talent required)<p><br>
   Stance affects blocks and parries. Also, affects whether you can wield another tool in your off-hand.</p>
   <p><br>
-  <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance makes it so that blocking hits increase your posture bar less. The downside is that parrying barely restores any posture at all.</b></p>
+  <i><b>Stance 1:</b></i> This stance is the default. You will have any blocking equipment (such as shields or parry dagger) In your left hand. If you do not have any blocking equipment you will do another idle animation. <b>This stance increase posture damage dealt to the target when parrying but reduce posture damage dealt when hitting their block.</b></p>
   <p><br>
-  <i><b>Stance 2:</b></i> This is your seccondary stance. Any blocking equipment will be put away, such as shields. if you do not have any then you will do another idle animation. <b>This stance makes it so that parrying gives a lot more posture than stance 1. The downside is that blocking increases your bar far more than stance 1.</b></p></td>
+  <i><b>Stance 2:</b></i> This is your seccondary stance. Any blocking equipment will be put away, such as shields. if you do not have any then you will do another idle animation. <b>This stance increase posture damage dealt to the target when hitting their block but reduce posture damage dealt when parrying.</b></p></td>
   <td></td>
 </tr>
 <tr>
   <th><a href="Stealth.md">Stealth</a></th>
-  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and <kbd>M1</kbd> behind them to perform a sneak attack (throat slit). This will deal a moderate amount of damage (Killing some low level bandits outright) and cause the target to ragdoll.<p><br>
+  <td>When crouched, one can sneak up behind most humanoid enemies (Bandits, players,) and <kbd>M1</kbd> behind them to perform a sneak attack (throat slit). This will deal a large (NPCs)/low (Players) amount of damage and cause the target to ragdoll for 5 (NPCs)/2 (Players) seconds. Execute NPCs if the damage dealt is high enough.<p><br>
   If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</p></td>
   <td></td>
 </tr>
@@ -167,42 +169,37 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>This happens when your armor durability bar reaches 0%, this can be shown visually by there being multiple scarring to your armor, it can also indicate if you have been in a fight recently.</td>
-  <td></td>
-</tr>
-<tr>
-  <th>Blinded</th>
-  <td>Your screen has a reduction in visibility.</td>
+  <td>Lose all defensive bonus from the equipped armor. Represented by thorn up clothes.<p>Occurs when armor durability reach 0%.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Charmed</th>
-  <td>Your character emanates hearts. While charmed, a number of debuffs may happen, all depending on the charmer's talents. Some effects may include dealing less damage and taking more damage to the charmer, or when they are low health, deal less damage to them while dealing more damage to others.</td>
+  <td>Effect varies depending on the sources, but can include reduced damage, reduce defence among many other. Represented by hearts on the victims head.<p>Main source is from the charisma mantra, Sing.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Enraged</th>
-  <td>Status effect applied by the Charisma mantra <i><u>Taunt</u></i>. Removes your ability to jump, and reduces your defences, but deal more damage against the person who applied the status effect.</td>
+  <td>Cannot jump. Damage dealt increased, Defence reduced.<p>Only source is from the charisma mantra, Taunt.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Chilled</th>
-  <td>Slows you down, can someone add more to this please?</td>
+  <td>Walk speed is reduced. Represented by a blue mist.<p>Common source is being hit by a Frostdraw Mantra.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Fire</th>
-  <td>This happens after being hit with a fire spell, you will be forced to have to roll out of the flames, while the flames are active you will take DoT (Damage over Time), you can also die by these flames if you are knocked.</td>
+  <td>Take damage overtime. Can be rolled to end early or clear itself after 10 seconds. Represented by fire on the target.<p>Common source is being hit by a Flamecharm Mantra.</p></td>
   <td></td>
 </tr>
 <tr>
   <th>Paralysis</th>
-  <td>You take a slight amount more stun for a moment, only enough stun for your opponent to just land one single hit (since you can parry/block the next one). This occurs when you have been hit with a lightning spell.</td>
+  <td>Stuns for a slight moment, usually enough to land an extra hit. Represented by yellow sparks.<p>Common source is being hit by a Thundercall Mantra.</p></td>
   <td></td>
 </tr>
 <tr>
-  <th>Concussed</th>
-  <td>Your movement speed is reduced to a crawl. Usually happens after a flourish if you've been knocked into a wall.</td>
+  <th>Dazed</th>
+  <td>Walk speed greatly reduced. Cannot run or dodge. Represented by stars above the victims head.<p>Common source is being flourished against a wall or getting hit by the critical attack of a mace.</p></td>
   <td></td>
 </tr>
 </tbody>

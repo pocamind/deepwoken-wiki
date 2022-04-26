@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28720
+revid: 28731
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -42,8 +42,6 @@ Since release, only weapons can have Cursed Enchantments. Equipment and Weapons 
 
 The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md) is a good way to increase your chances of finding one.
 
-  
-
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
 
 **Weapons:**
@@ -66,7 +64,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirstylegion.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and steal a large amount of blood, whenever you miss an m1 take 1% of your total HP in damage, you will not take damage if your attack is: blocked, parried, or dodged, once you reach &gt;10% hp your m1s will no longer damage you. Note - Players gain higher max blood every level up, a level 60 player has triple the blood of a lvl 1 player. additionally the hemophilia flaw causes players to lose an additional 50% blood. Testing Bloodthirsty Krulian - (amount of hits to drain blood) power 1 - 5 hits, power 30 - 10 hits, power 60 - 15 hits. DONT CHANGE THIS, ITS ALL RELEVENT TO THE ENCHANT AND ACCURATE</p></div></td>
+  <td><div><p>M1s deal 10% more damage and remove a large amount of blood. If above 10% HP, missing an m1 (block, dodge and parry do not count), take 1% of max HP as damage.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -107,7 +105,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Elastic.png<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
+  <td><figure>File:Elastic2.png<figcaption></figcaption></figure><div>Elastic</div></td>
   <td><div><p>On proc, create a purple string, pulling the target toward you.</p>
   <p><br>
   </p></div></td>
@@ -162,14 +160,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>After parrying a player or npc’s attack they will receive 3% of their total hp in damage a moment later. This enchant is most well used for making farming Primadon trivial. (In a recent update, the damage of a parry was buffed to 3%.)</p>
+  <td><div><p>After parrying a player or npc’s attack they will receive 3% of their max hp in damage a moment later. This enchant is most well used for making farming Primadon trivial.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
-  Deal bonus damage on a posture break.</p>
+  Deal bonus damage on a posture break, Bonus damage scales of weapon damage. Lower damage = bigger damage boost, can scale from 25% extra damage to 2x extra damage.</p>
   <p><br>
   </p></div></td>
 </tr>
