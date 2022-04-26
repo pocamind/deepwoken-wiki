@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28700
+revid: 28720
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -113,7 +113,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Stormshattered(monkeyalert).png<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:1D363820-A04A-4656-B5DA-8729E14FB030.jpeg<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>

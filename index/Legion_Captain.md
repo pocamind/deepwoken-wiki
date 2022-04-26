@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 27695
+revid: 28716
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
@@ -30,13 +30,11 @@ Template:Creature Info Box v2 The Legion Captain is a Humanoid NPC which appears
 
 -   The Captain with Grand Javelin is always hostile, no matter your Reputation with the Legion, **You will not lose Reputation from killing this one.**
 -   The Captain with Grand Javelin will let you get 2 hits in (with medium) Before parrying the 3rd, so **just hit twice and prepare to parry his Javelin.**
--   Ontop of all of that, He stands still, and **being on a higher or lower plane than him, will make him not able to hit you**, like a slight sand dune is enough to make him just throw Javelins that don't go anywhere.
+-   Ontop of all of that, He stands still, and **being on a higher or lower plane than him, will make him not able to hit you**, like a slight sand dune is enough to make him just throw Javelins that don't go anywhere, This is to be tested, but by being close enough to him, makes him not able to hit you, however if you're far enough away, he can aim his javelins higher or lower.
 -   If You do not know how to fight them, Be Very careful, **they insta-grip you if you're low enough on health** (Example: One bar, since they do a lot of damage)
 
 ### Trivia
 
 -   If you have high Enough rep with the legion, he will do /e wave to you.
 -   Normally called "Legion Centurion" or just "Khan" by the playerbase.
--   It is possible that your rep with the Legion is negative when you start a new character until you 1-up your rep with them, like helping a centurion in a legion vs adret event once,
-
-The last one needs more testing, because when I made my new build and helped my first centurion on it, I got "The Hundred Legion don't see you worth fighting anymore"
+-   ~It is possible that your rep with the Legion is negative when you start a new character until you 1-up your rep with them, like helping a centurion in a legion vs adret event once,~ Your starter rep with the legion is actually "negative"/Neutral, they use the negative rep text but wont attack you.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 28680
+revid: 28708
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -95,7 +95,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 | Fight and kill [Boss](Bosses.md) Monsters, including:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Most Recommended)
--   [Dread Serpent](Dread_Serpent.md) (Recomemnded)
+-   [Dread Serpent](Dread_Serpent.md) (Recommended but may take a long time due to the spawning mechanic)
 -   [The Duke](Duke_Ishamon_Erisia.md) (Recommended)
 -   [The Enforcer](Enforcer.md) (Not recommended)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
