@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28604
+revid: 28656
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -77,14 +77,14 @@ The Duke
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 
-### Maestro Evengarde Rest
+### **Maestro Evengarde Rest**
 
 "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
 
-### Akira, The Black Diver
+### **Akira, The Black Diver**
 
 _"Another one...? You've got to be kidding me." - Akira_
 
@@ -126,7 +126,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
         
 
-### Yun'shul
+### **Yun'shul**
 
 -   A being that is restrained within the [Temple of Hearts](Temple_of_Hearts.md). Yun'shul is known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   Yun'shul is a Drowned God; according to Arch\_Mage.
@@ -135,7 +135,7 @@ File:Yun'Shul.png
 
 Yun'shul
 
-### The Nestmind
+### **The Nestmind**
 
 **Lore Sources:** _N/A_
 
@@ -189,6 +189,24 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
     -   Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading.
         -   Furthermore, in a realistic and scientific standpoint, It would be impossible for the City to be raining pieces of itself as we don't know the distance between the Celestial City and Starswept Valley; not to mention the trajectory.
 
+### **Central Luminant**
+
+-   The home of The Authority and the Knives of Eylis.
+
+#### Markor
+
+-   A savanah nation conquered by The Central Authority.
+-   Creators of Scimitars and similar blades.
+
+#### Markor Citadel
+
+-   A building used as the headquaters of The Divers.
+
+### **Southern Luminant**
+
+-   A location affected by a Great Drowning.
+-   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
+
 ### **Voidsea**
 
 **Lore Sources:**
@@ -197,6 +215,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   There are little to no NPCs or texts that explains the lore of the Voidsea, as of 1/10/2022.
     -   It is assumed that the Voidsea is the byproduct or the result of The Tides.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
+-   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
 
 #### Boatman's Watch (Voidsea)
 
@@ -421,14 +440,15 @@ A Dark Mage, located in Minityrsa.
     -   The footsoldiers that use Flamecharm are comprised of solely other races.
         -   These also appear to be the lower-ranking, more poorly equipped and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
--   Currently at war with the Kingdom of Etrea
--   They purchase firearms from The Summer Company
+-   Currently at war with the Kingdom of Etrea.
+-   They purchase firearms from The Summer Company.
     -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses
 -   The Central Authority (as of we know now) use 3 attunements, and has their own role.
     -   The Central Authority's Flamecharmers are used by foot soldiers and Wardens alike.
     -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests.
     -   The Central Authority's Frostdrawers are commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
+-   Their goal is essentially to control all of the Deepwoken world. Practicioners of Imperialism.
 
 A Peacekeeper Commander, part of The Authority
 
@@ -1012,12 +1032,13 @@ Though technically a blank slate of varying races and abilities, even the player
 At the year 1271 of Spring, The Player makes their first appearance in the world of Deepwoken.
 
 -   The Player has some rudimentary combat knowledge, being able to use weapons like daggers, swords and battleaxes, as well as being able to block and parry, without any in-game training.
--   The Player was frequently on the ocean before the events of the game, as the enterring the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
--   The player was found on the beaches of Etris or Isle of Vigils, and were escorted to the Inns of both Islands.
+-   They knew who the Central Authority was, and probably had some indication of their hostility towards Etrea.
+-   The Player was frequently on the ocean before the events of the game, as the entering the Etrean Wilds gives the description 'The sound of the forest soothes your sea-weary soul' even for new players who have never been on the ocean.
+-   The Player was found on the beaches of Etris or Isle of Vigils, and were escorted to the Inns of both Islands.
     -   There are two possibilities as to what happened here
         -   The player was on the sea but they were wrecked by a storm or attacked.
         -   The player had already escaped The Depths once.
-            -   However this does not explain why the player gets the 'Depths Connection' talent when they escape for the first time ingame, as it would make more sense for them to already have it.
+            -   However this does not explain why the player gets the 'Depths Connection' talent when they escape for the first time in-game, as it would make more sense for them to already have it.
 
 ### Character Deaths
 

@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 28607
+revid: 28666
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Locations, Luck, Ingredients, Items, Enemies, Character, Talents]
@@ -47,7 +47,7 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Mudskipper (Will spawn a Mudskipper)
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
--   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. All loot in the game can be obtained from fishing, including star boots, star duster, shattered katana and enchants. )
+-   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests..
 -   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught.
 
 File:RobloxScreenShot20220410 233312197.png

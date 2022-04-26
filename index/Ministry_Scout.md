@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 27929
+revid: 28659
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Locations, Attunement, Armors, Weaponry, Weapons, World, Talents]
@@ -40,6 +40,7 @@ Their arsenal consists of Ben's Knife ([Krulian Knife](Krulian_Knife.md)) and [S
 -   Rushing the game _especially here_ is very dangerous at a low level, alone, **ESPECIALLY IF YOU HAVE THE OBVIOUS FLAW.** It's best to be avoided unless you know what you are doing.
 -   There are about 9 Ministry Scouts. 4 patrolling outside, 5 inside the fortress.
 -   Within the fortress there are 2 plumfruit trees and 3 wheat spots, a good source of water/food.
+-   Killing one now decreases your reputation with their faction.
 
 ## Trivia
 

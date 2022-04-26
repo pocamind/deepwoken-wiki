@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 28639
+revid: 28652
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -95,12 +95,12 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 | Fight and kill [Boss](Bosses.md) Monsters, including:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Most Recommended)
--   [Dread Serpent](Dread_Serpent.md) (Sorta recomemnded)
--   [The Duke](Duke_Ishamon_Erisia.md) (Sorta recommended)
+-   [Dread Serpent](Dread_Serpent.md) (Recomemnded)
+-   [The Duke](Duke_Ishamon_Erisia.md) (Recommended)
 -   [The Enforcer](Enforcer.md) (Not recommended)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
 -   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
--   [Nautilodaunt](Nautilodaunt.md) (Not recommended)
+-   [Nautilodaunt](Nautilodaunt.md) (Not recommended unless you have the cheese)
 
  | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
 | **Extra/Important information:** |
@@ -112,7 +112,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
 -   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal. Though if you have full set Silencer talent consider yourself having free resonance
 -   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
--   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, and being incredibly dangerous, he is highly advised against.
+-   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, can be interrupted by other players and being incredibly dangerous without a cheese, he is highly advised against.
 -   Deep Widows are unknown to give Progress.
 
  | Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), and [Nautilodaunt](Nautilodaunt.md). Other monsters WILL NOT give progress, unless they are Corrupted.

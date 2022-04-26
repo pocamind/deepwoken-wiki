@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28649
+revid: 28675
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -65,8 +65,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The slash is parryable.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1 connections deal 10% more damage and will deal a large amount of blood equal to your damage dealt. Missing an M1 will deal 1% of your maximum health to you.</p></div></td>
+  <td><figure>File:Bloodthirstylegion.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><div><p>M1s deal 10% more damage and steal a large amount of blood, whenever you miss an m1 take 1% of your total HP in damage, you will not take damage if your attack is: blocked, parried, or dodged, once you reach &gt;10% hp your m1s will no longer damage you. Note - Players gain higher max blood every level up, a level 60 player has triple the blood of a lvl 1 player. additionally the hemophilia flaw causes players to lose an additional 50% blood. Testing Bloodthirsty Krulian - (amount of hits to drain blood) power 1 - 5 hits, power 30 - 10 hits, power 60 - 15 hits. DONT CHANGE THIS, ITS ALL RELEVENT TO THE ENCHANT AND ACCURATE</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -75,7 +75,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   Viscosity enchant is disabled.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Yunshulkatana.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>5% Chance to do 3x damage (mantra included)</p>
   <p>1% Chance when hitting someone to do the damage back to you</p></div></td>
 </tr>
@@ -107,7 +107,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
+  <td><figure>File:Elastic.png<figcaption></figcaption></figure><div>Elastic (Bungee Gum)</div></td>
   <td><div><p>On proc, create a purple string, pulling the target toward you.</p>
   <p><br>
   </p></div></td>
@@ -137,7 +137,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:GrimShatteredSnow.png<figcaption></figcaption></figure><div>Grim</div></td>
+  <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
   <td><div><p>Grim currently does not work. Arch_Mage has made a statement saying it will be fixed in a future update.</p>
   <p><br>
   </p></div></td>
