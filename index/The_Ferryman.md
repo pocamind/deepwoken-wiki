@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 27534
+revid: 28787
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -175,4 +175,4 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   It is possible to pass through the Ferryman's barrier using a Rapid Slashes, a Light weapon skill. This requires a player at the other side of the barrier. (This works with many other instant teleports moves such as Jolt Grab)
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
--   Using a move that applies the **suffocation** status effect will make him unable to attack or teleport. By pairing this up with Silencer's Edge, you can just m1 him until he dies.
+-   Using a move that applies the **suffocation** status effect will make him unable to attack or teleport. By pairing this up with Silencer's Blade, you can just m1 him until he dies.

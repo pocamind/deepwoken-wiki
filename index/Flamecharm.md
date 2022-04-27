@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 28349
+revid: 28784
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -231,6 +231,10 @@ These talents are found in the "Undying Ember" catagory.
 |  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.(rare talent) |
 |  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: 40 Willpower (guy who said you need unyielding inferno is wrong. I do not have unyielding but I do have undying. |
 |  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. |
+
+**Inferno:**
+
+|pleskis faith when ur on fire it puts out at the cost of ether requires 15 carisma and flamecharm maybe less carisma
 
 ## Trivia
 

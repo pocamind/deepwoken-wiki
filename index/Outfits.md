@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28748
+revid: 28788
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -257,7 +257,7 @@ _Requires Power 30_
 
  | Megalodaunts Drop |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
-| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest |
+| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest |
 | File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
 
 _\+ 10 health_
@@ -456,7 +456,7 @@ _Requires Power 30_
 |  | Enforcer Boots | Grants a random buff. | Depths Chests |
 | File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests |
 | File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests |
-|  | Redsteel Boots | Grants a random buff. | Arena Chests
+|  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests
 
 <nowiki>
 

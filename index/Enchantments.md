@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28779
+revid: 28792
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -64,7 +64,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove more blood on hit. If above 10% HP, missing an M1s deal 1% of max HP as self damage. Landing a hit on a block/parry/dodge will not count as a miss.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and remove more blood on hit. If above 10% HP, missing an M1s deal 1% of max HP as self damage. Landing a hit on a block/parry/dodge will not count as a miss. It also plays a sound effect when held out.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -74,8 +74,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>5% Chance to do 3x damage (mantra included)</p>
-  <p>1% Chance when hitting someone to do the damage back to you</p></div></td>
+  <td><div><p>On proc, does 2x m1 damage on players (scales different in PVE)</p>
+  <p>Chance to receive damage, when you receive damage, at the same time your m1 damage is multiplied 3x (scales different in PVE)</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -136,7 +136,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>After a certain amount of hits (LHT:&nbsp;?, MED: 5, HVY:&nbsp;?), apply grim, increasing damage received by 20%. Grim last 3 seconds.</p>
+  <td><div><p>After a certain amount of hits (LHT:&nbsp;?, MED: 5, HVY: 4), apply grim, increasing damage received by 20%. Grim last 4 seconds.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -208,7 +208,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Astralcestus.png<figcaption></figcaption></figure><div>Astral</div></td>
+  <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
   <td><div><p>Extra damage to mobs in PvE. May increase mob spawnrates during nighttime (untested)</p></div></td>
 </tr>
 </tbody>
