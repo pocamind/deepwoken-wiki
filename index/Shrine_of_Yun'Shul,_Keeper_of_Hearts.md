@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 28396
+revid: 28757
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPC]
@@ -33,9 +33,9 @@ If you meet all the criteria, you are able to make one of four wishes:
 2.  **"My Flaws weigh me down too much, I wish for relief."**
     -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
 3.  **"The powers I have been granted displease me, I wish for new."**
-    -   Erases your current [Resonance](Resonance.md), and draws three new Resonance cards.
+    -   Erases your current [Resonance](Resonance.md), and draws three new Resonance cards. Gives your Resonance the Tarnished flaw.
 4.  **"The Vows I made give me much regret, I wish to break."**
-    -   Erases any [Vow of Masteries](Vow_of_Mastery.md) that have been made, Removes the Oath's you made, and gives the Vacant flaw.
+    -   Erases any [Vow of Masteries](Vow_of_Mastery.md) that have been made, Removes the Oath's you made, and gives the Restless flaw.
 
 ## Trivia
 

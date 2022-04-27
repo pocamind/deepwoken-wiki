@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 28353
+revid: 28753
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -422,6 +422,7 @@ by pressing F at the end of the mantra Lightning Blade.
 -   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invigorating Salves with 3x gobletto and 1x wheat that make your ether regen skyrocket.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.
+-   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
 -   The Support Mantra _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5

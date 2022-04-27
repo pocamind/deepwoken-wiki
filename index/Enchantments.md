@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28731
+revid: 28758
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -57,14 +57,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
-  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
-  Hitting non humanoid entities deals the slash both to the monster and user.<br>
-  The slash is parryable.</p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Bloodthirstylegion.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove a large amount of blood. If above 10% HP, missing an m1 (block, dodge and parry do not count), take 1% of max HP as damage.</p></div></td>
+  <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
+  <td><div><p>M1s deal 10% more damage and steal a large amount of blood, whenever you miss an m1 take 1% of your total HP in damage, you will not take damage if your attack is: blocked, parried, or dodged.Note - Players gain higher max blood every level up, a level 60 player has triple the blood of a lvl 1 player. additionally the hemophilia flaw causes players to lose an additional 50% blood.Testing Bloodthirst Krulian - (amount of hits to drain blood) power 1 - 5 hits, power 30 - 10 hits, power 60 - 15 hits.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -89,6 +83,12 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
+  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
+  Hitting non humanoid entities deals the slash both to the monster and user.<br>
+  The slash is parryable.</p></div></td>
+</tr>
+<tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
   <td><div><p>When below 40% HP, gain a 25% damage increase on M1s.</p></div></td>
 </tr>
@@ -111,7 +111,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:1D363820-A04A-4656-B5DA-8729E14FB030.jpeg<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:Stormenchantonamace.webp<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
@@ -136,7 +136,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>Grim currently does not work. Arch_Mage has made a statement saying it will be fixed in a future update.</p>
+  <td><div><p>On proc, create red bubbles around your enemy, effect is unknown and needs some testing, amount of hits needed too proc grim effect depends on your weapon type.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -148,7 +148,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>On hit, steal 5% of the target's armor durability and add it to your own.<br>
+  <td><div><p>On hit, steal 12% of the target's armor durability and add it to your own.<br>
   Works on NPCs and Monsters.</p>
   <p><br>
   </p></div></td>
