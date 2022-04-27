@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 28729
+revid: 28772
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -116,7 +116,8 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 <tr>
   <th>Attack</th>
   <td>When you left click you will swing your weapon, hitting a person will damage them unless they parry or block.<p><br>
-  When you hit somebody 3 times in a row without being hit back, blocked, or parried, you'll activate a flourish. This is basically the games anti infinite combo mechanic. You go into a short animation with your target, and kick them back. Talent cards can add different effects to your flourish, including setting your enemy on fire, or stunning them if you push them into a wall.</p></td>
+  </p>
+  <p>When you hit somebody <s>3 times in a row</s> (it is different for every weapon type)(3 for heavies,4 for medium and 5 for daggers) without being hit back, blocked, or parried, you'll activate a flourish. This is basically the games anti infinite combo mechanic. You go into a short animation with your target, and kick them back. Talent cards can add different effects to your flourish, including setting your enemy on fire, or stunning them if you push them into a wall.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

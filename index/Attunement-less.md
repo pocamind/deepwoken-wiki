@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28734
+revid: 28766
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,7 +68,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Shoulder Bash** - Rush at your enemies with your full physical force.
     -   Doesn't do much damage but is a good mobility move to catch up to your opponents.
     -   Upgrades based off of fortitude from the atunementless trainer
-    -   Requirements: ?? FTD ?? STR (Obtainable with 100 FTD, 40 STR)_\[The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements) Doesn't require uncap, I pulled this during trial of one.\]_ (Ayo, I got this at 60 fortitude and 40 strength)
+    -   Requirements: ?? FTD ?? STR (Obtainable with 100 FTD, 40 STR)_\[The only thing you need is to uncap, which technically also needs 75 fortitude but I had 75 and no uncap on my last whisper pull and it only gave me gaze (I am no attunement so it would have pulled brace if I met the requirements) Doesn't require uncap, I pulled this during trial of one.\]_ (Ayo, I got this at 60 fortitude and 40 strength)(I got this on a freshie account with 22 strength and 31 fortitude.)
 
 ### _**Agility Mantras**_
 

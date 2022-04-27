@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 28753
+revid: 28759
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Magic, Spells, Mantras]
 
 _A Thundercall infused sword_
 
-Thundercall grants the user ability to control thunder and electricity, giving them abilities, which focus on combat, stunning and movement.
+Thundercall grants the user ability to control thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
 
 Thundercall makes use of a highly unpredictable nature with high slow/stun potential.
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 28752
+revid: 28774
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -465,7 +465,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Champion's_Sword.md">Champion's Sword</a></td>
@@ -963,7 +963,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>9</td>
   <td>0.6x</td>
   <td><font>0.1s</font></td>
-  <td>No</td>
+  <td>Yes</td>
 </tr>
 <tr>
   <td><a href="Forge_Greathammer.md">Forge Greathammer</a></td>

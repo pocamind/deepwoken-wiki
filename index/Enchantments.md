@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28758
+revid: 28779
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -57,8 +57,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><b>Description</b></td>
 </tr>
 <tr>
+  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
+  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
+  Hitting non humanoid entities deals the slash both to the monster and user.<br>
+  The slash is parryable.</p></div></td>
+</tr>
+<tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and steal a large amount of blood, whenever you miss an m1 take 1% of your total HP in damage, you will not take damage if your attack is: blocked, parried, or dodged.Note - Players gain higher max blood every level up, a level 60 player has triple the blood of a lvl 1 player. additionally the hemophilia flaw causes players to lose an additional 50% blood.Testing Bloodthirst Krulian - (amount of hits to drain blood) power 1 - 5 hits, power 30 - 10 hits, power 60 - 15 hits.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and remove more blood on hit. If above 10% HP, missing an M1s deal 1% of max HP as self damage. Landing a hit on a block/parry/dodge will not count as a miss.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -81,12 +87,6 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><b>Name</b></td>
   <td><b>Description</b></td>
-</tr>
-<tr>
-  <td><figure>File:Umbralknight1.png<figcaption></figcaption></figure><div>Umbral Knight</div></td>
-  <td><div><p>On proc, perform a slash dealing 20% of the M1's original damage.<br>
-  Hitting non humanoid entities deals the slash both to the monster and user.<br>
-  The slash is parryable.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
@@ -136,7 +136,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>On proc, create red bubbles around your enemy, effect is unknown and needs some testing, amount of hits needed too proc grim effect depends on your weapon type.</p>
+  <td><div><p>After a certain amount of hits (LHT:&nbsp;?, MED: 5, HVY:&nbsp;?), apply grim, increasing damage received by 20%. Grim last 3 seconds.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -148,7 +148,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Metal.png<figcaption></figcaption></figure><div>Metal</div></td>
-  <td><div><p>On hit, steal 12% of the target's armor durability and add it to your own.<br>
+  <td><div><p>On hit, steal 11% of the target's armor durability and add it to your own.<br>
   Works on NPCs and Monsters.</p>
   <p><br>
   </p></div></td>
@@ -167,7 +167,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Stone enchant.png<figcaption></figcaption></figure><div>Stone</div></td>
   <td><div><p>Posture damage is increased. Scales of weapon damage.<br>
-  Deal bonus damage on a posture break, Bonus damage scales of weapon damage. Lower damage = bigger damage boost, can scale from 25% extra damage to 2x extra damage.</p>
+  Deal bonus damage on a posture break. Bonus damage scales inversely with weapon damage, from 2x to 1.25x</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -208,8 +208,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Astral.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>On proc from the galaxies from the sky, stars that come to The Etrean Luminant cause the user to suffer a visual loss and the stars suffocate the user and slows them.</p></div></td>
+  <td><figure>File:Astralcestus.png<figcaption></figcaption></figure><div>Astral</div></td>
+  <td><div><p>Extra damage to mobs in PvE. May increase mob spawnrates during nighttime (untested)</p></div></td>
 </tr>
 </tbody>
 </table>

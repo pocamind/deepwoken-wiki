@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 28721
+revid: 28777
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -22,10 +22,10 @@ Boons are modifiers that you get to pick when you create your character alongsid
 (THIS DOES NOT ALLOW YOU TO GO OVER THE USUAL MAXIMUM AMOUNT OF POINTS. It only makes progression faster for a time.)
 
  | 1 |
-| Gourmet | "Foods are much more nutritional." | Eating/drinking grants more Hunger and Thirst. | 1 |
+| Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by ??%. | 1 |
 | Marauder | "You steal the luck of others at a slightly higher rate." | Gain 33% more [luck](Luck.md) from defeating players or NPCs. | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Packmule | "You have a much higher max. carry load" | Carry load is increased by 40. | 1 |
+| Packmule | "You have a much higher max. carry load" | Carry load is increased by 50. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Gain an additional card burn every **other** "Whisper from the deep" roll. So you get an extra burn on the 2nd, 4th, 6th, so on. | 1 |
 | Steadfast | "Your armor retains more durability when attacked." | Reduce armor durability lose from attacks by ??%. | 1 |
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards. (i.e. Acid Rain) | 1 |
@@ -72,7 +72,11 @@ This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer fo
 
  | N/A |
 | Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You get the ability to regenerate less at campfires (I don't even see a difference). That's it. Also, you can get it when you reroll your Oath at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). | N/A |
-| Wishbound | "Isn't this want you wanted?" | The flaw is only obtainable by wishing through a developer, which it will grant you whatever wish you want and gives you this flaw in return. | N/A |
+| Wishbound | "Isn't this want you wanted?" | Gain insanity during the night.
+
+The flaw is only obtainable by wishing through a developer, which it will grant you whatever wish you want and gives you this flaw in return.
+
+ | N/A |
 
 ## Trivia/Notes
 
