@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 27279
+revid: 28813
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -53,7 +53,7 @@ Mark of the Lone Warrior's talent description
 ## Rewards
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
-    -   5 Free Points for the first trial, 10 Free Points for trials 2-9, Finishing the trial will result in reaching power 18.
+    -   5 Free Points for the first trial, 10 Free Points for trials 2-9, Finishing the trial will result in reaching power 18 with 85 investment point used.
 -   [Luck](Luck.md) for every trial. (Luck gain varies)
 -   Talent Card [_Mark of the Lone Warrior_](https://deepwoken.fandom.com/wiki/Talents#Lone_Warrior) for completing the trial, grants 2x EXP gain similar to [Adept](https://deepwoken.fandom.com/wiki/Talents#Metamancer) and stacks.
     -   Does not give [resonance](Resonance.md) progress boost. Confirmed by devs.
@@ -65,7 +65,7 @@ Mark of the Lone Warrior's talent description
 -   **All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.**
 -   **Parrying challenge -** While you get auto parrying frames, it's not a bad idea to spam F decently fast to make sure you parry everything.
 -   **Megalodaunt -** Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. 350 HP.
--   **Rock Golem -** Fight as if it were a normal Rock Golem (See Rock Golem page for details), albeit with caution. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge nonetheless. ~The cliff at the back is still there, though you can only hit the golem when it jumps up.~ （Patched) 400 HP.
+-   **Rock Golem -** Fight as if it were a normal Rock Golem (See Rock Golem page for details), albeit with caution. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge nonetheless. 400 HP.
 -   **Thresher -** If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP.
 -   **Angels -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommend to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit more safe and repeatable.
 -   **Enforcer -** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP.

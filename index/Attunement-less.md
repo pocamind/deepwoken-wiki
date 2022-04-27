@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28786
+revid: 28808
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,7 +68,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Shoulder Bash** - Rush at your enemies with your full physical force.
     -   Doesn't do much damage but is a good mobility move to catch up to your opponents.
     -   Upgrades based off of fortitude from the atunementless trainer
-    -   Requirements: ?? FTD ?? STR (Lowest Recorded Stats: 5 STR, 22 FTD // 22 STR, 31 FTD // 60 FTD, 40 STR)
+    -   Requirements: 20 FTD ?? STR (Lowest Recorded Stats: 5 STR, 22 FTD // 22 STR, 31 FTD // 60 FTD, 40 STR)
 
 ### _**Agility Mantras**_
 

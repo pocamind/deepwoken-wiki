@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 27805
+revid: 28805
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
@@ -97,10 +97,16 @@ You do not die of old age, as the system is purely cosmetic.
 
 The Developers of Deepwoken say that there is a way (possibly an item) to halt your aging, but no one found it as of 3/18/2022.
 
+-   The [Moon Ring](Outfits.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles.
+
 There may be some changes to dialogue with NPCs depending on what 'Tier' of age your character is, listed below:
 
 -   **(Tier 0) Adult:** 18-39
--   **(Tier 1) Middle Aged:** 40-???
--   **(Tier 2)**
+-   **(Tier 1) Middle Aged, Phase 1:** 40-49 \[45 or more leads to greying of hair)
+-   **(Tier 2) Middle Aged, Phase 2:** 50-???
 -   **(Tier 3)**
 -   **(Tier 4)**
+
+Helena Dusselden, at Age 40
+
+Age 50
