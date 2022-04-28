@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28851
+revid: 28865
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -203,7 +203,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
   <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
   <p><s>This enchantment was disabled by the devs and any existing tainted sorrow enchantments have been deleted, read announcements for proof.</s></p>
-  <p>Tainted Sorrows is only obtainable through mod/dev rerolls. Deepwoken Moderators are the only people that can obtain this enchant on any weapon through moderation points/reward system.</p></div></td>
+  <p>Tainted Sorrows is only obtainable through mod/dev rerolls. Deepwoken Moderators are the only people that can obtain this enchant on any weapon through moderation points/reward system.<br>
+  <b>Does not work on guns.</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
@@ -212,6 +213,10 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
   <td><div><p>True effects yet to be confirmed.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
+  <td><div><p>A super charged attack on proc.</p></div></td>
 </tr>
 </tbody>
 </table>

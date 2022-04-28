@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28849
+revid: 28855
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -207,7 +207,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Probally removed from leveling up cards
+    -   ~Probally removed from leveling up cards~ Definitely obtainable as long as you didn't pick Risky Moves before
 
 ### Butterfly
 
@@ -1029,7 +1029,7 @@ These Talents are designed to make you more effective in water.
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
-    -   Prerequisites: 25 strength
+    -   Prerequisites: 40 Fortitude
 -   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is cut in half, but your incoming mantra damage is cut in half too. (+10 Health)
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables both you and your opponent's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.
     -   Prerequisites: Shadow Chains
@@ -1052,6 +1052,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break (15 fortitude)
 -   Reinforce - Up defense for you and allies around you (50 fortitude)
 -   Brace - Gain hyperarmor on your attacks for a short duration (75 fortitude)
+-   Shoulder Bash - Rush into your enemies with your full physical force. (75 Fortitude)
 
 #### Agility Combat (6 Agility Needed)
 
@@ -1069,9 +1070,10 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 
 -   Taunt - Taunt those around you, causing them unable to jump and to take more damage. However in their rage they do extra damage.
 
-#### Intelligence Combat (50 Intelligence Needed)
+#### Intelligence Combat and Support (50 Intelligence Needed)
 
 -   Prediction - Predict an opponents attack and reflect it.
+-   Summon Cauldron - Make a cauldron appear from your memories.
 
 #### Strength Combat (5-10 Strength Needed)
 

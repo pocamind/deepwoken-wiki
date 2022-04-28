@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 28825
+revid: 28853
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -37,6 +37,7 @@ notices:
 -   The **Ice Skate** mantra and **Frozone** legendary talent is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with his ice skating ability.
 -   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh#Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
+-   **Iceberg** is a reference's to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
 
 ### **Shadowcast**
 
@@ -85,7 +86,7 @@ notices:
 -   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
 -   The **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
 -   The enchantment **Obfuscation** is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
--   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer: Kimetsu no Yaiba,_ though it should be noted such a design isn't uncommon in media_._
+-   The **Serpent's Edge** may be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer: Kimetsu no Yaiba._ And it's critical attack probably is a reference [Serpent's Breathing First Form: Wilding Serpent Slash](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 -   The **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._

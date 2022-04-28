@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 28845
+revid: 28861
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -161,7 +161,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
-  <td>50/<font>75</font> LHT</td>
+  <td>50/<font>80</font> LHT</td>
   <td>15.5/<font>16</font></td>
   <td>N/A/<font>5%</font></td>
   <td>LHT: 8/<font>8.5</font></td>
