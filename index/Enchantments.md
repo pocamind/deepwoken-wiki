@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28824
+revid: 28851
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -100,7 +100,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
-  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm. (Deepfire ring works with it)</p>
+  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm. (Deepfire ring works with it)<br>
+  If the user have the Eruption Path: Lava Serpent talent, create an explosion instead.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -173,7 +174,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div>Chilling</div></td>
-  <td><div><p>On proc, freeze the opponent.</p>
+  <td><div><p>On proc, freeze the opponent.<br>
+  If the user have the Glass Path: Crystallization talent, apply a crystal instead.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -209,7 +211,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Extra damage to mobs in PvE. May increase mob spawnrates during nighttime (untested)</p></div></td>
+  <td><div><p>True effects yet to be confirmed.</p></div></td>
 </tr>
 </tbody>
 </table>

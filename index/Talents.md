@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28764
+revid: 28849
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -309,7 +309,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 -   Dark Hours \[Generic Talent, Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
     -   Shadowcast deal 20% more damage at night.
 -   Devour \[Generic Talent, Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves (+3 Elemental Intensity, +3 Health)
--   Dark Synergy \[Generic Talent, Shadowcast Exclusive\] Engulf your enemry in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
+-   Dark Synergy \[Generic Talent, Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
 -   Overwhelming Drain \[Generic Talent, Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
     -   Prerequisites: Shadow Eruption
 -   Shadow Overflow \[Generic Talent, Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity, +1 Health)
@@ -342,7 +342,8 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Cancelling the first roll refund the roll cooldown, but cancelling the second roll will not.
     -   ~Prerequisites: At least 60 agility. (might be lower, please edit if I'm wrong)~ This is false, as in Agamatsu's tap dancer showcase video he had only 20 agility.
 -   Strong Stern \[Generic Talent, Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+3 Health, +9 Carry Load)
--   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry LoadDeals 50% of the original damage
+-   Spine Cutter \[Generic Talent, Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
+    -   Deals 50% of the original damage
     -   Can proc from physical mantras
     -   Prerequisites: 20 strength, 25 agility.
 
@@ -379,8 +380,8 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Falling Star Guard
 
 -   Thorns of Fire \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity, +3 Health)
--   Prerequisites: Flame Repulsion
--   Now absorbs damage actually taken and has a lower cap on its damage addition
+    -   Prerequisites: Flame Repulsion
+    -   The reflected damage is stored in the repulsion itself.
 -   Meteor Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
 -   Phoenix Impact \[Generic Talent, Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
     -   Prerequisite: Meteor Impact
@@ -395,7 +396,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Freak Of Nature
 
 -   Exoskeleton \[Generic Talent, Legendary Talent\] You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 15% Physical Damage when active. (+10 Health)
-    -   Can be stacked with Chitin.
+    -   Stacks additively with Chitin's 5% for 20% physical damage resistance.
     -   Requirements: 35 Fortitude.
 -   Potion Quaffer \[Generic Talent, Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern.
     -   Drink potions faster.
@@ -462,7 +463,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   After Cut \[Generic Talent, Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 5% of the damage you dealt.
 -   Breathing Impact \[Generic Talent, Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit. (+5 Elemental Intensity)
 -   Inhale \[Generic Talent, Galebreathe Exclusive\] - Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. (+1 Elemental Intensity, +2 Health)
-    -   **M1 + M2** during a mantra windup will cancel the spell (2 second cooldown)
+    -   **M1 + M2** during most galebreath mantra windup will Inhale the mantra and cancel it. (2 seconds cooldown)
 -   Tailwind \[Generic Talent, Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
     -   You can no longer abuse this. **You cannot spell cancel consecutively as there is now a 2 second cooldown.**
 
@@ -473,6 +474,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisite: ??? Intelligence
 -   Neuroplasticity \[Generic Talent, Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
+    -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
     -   Requirements : 35 Willpower/ 35 Intelligence/ 35 Charisma. (As confirmed by arch\_mage.)
         
         File:Neuro.png

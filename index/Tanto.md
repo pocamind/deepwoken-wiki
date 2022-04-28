@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 26056
+revid: 28843
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -12,7 +12,7 @@ categories: [Weapons, Weaponry]
 |---|---|
 | type | Dagger |
 | requirements | 50 LHT |
-| damage | 16 |
+| damage | 15.5 |
 | scaling | 8 |
 | range | 7 |
 | swing speed | 0.85x |
