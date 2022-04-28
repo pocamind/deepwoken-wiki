@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 28813
+revid: 28818
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -74,13 +74,14 @@ Mark of the Lone Warrior's talent description
 
 [Health Source](https://www.youtube.com/watch?v=hbnVDA0b41Q) (Unorthodox, but quick and easy.)
 
-## Notes
+## Trivia
 
 -   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
 -   Failing the trial returns you to your starting island.
+    -   Dying with a stained health bar will not send you to The Depths, but once again return you to your spawn.
 -   The glowing gate behind you when you enter the Trial of One does not return you to the entrance to the Trial of One, but rejoining will, though there is a rare chance to accidentally bring you back to your spawn location. (This is likely a bug)
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
--   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. ~(This is completely false, I have attempted Trial of One numerous times and have lost many times, but never have I lost my 2 equipment on me.)~(This was either true at some point or still is. I lost all of my gear, including an enchanted scarf, to the trial.)(Do NOT equip armor before starting trial of one or else it will be gone, I have done it plenty of times.)
+-   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.

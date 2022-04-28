@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 28589
+revid: 28828
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -39,6 +39,8 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
 
 So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. ~(This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)~
+
+Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times
 
 -   Killing a Gigamed is **not required** for getting Mute, it just increases the chances.
 

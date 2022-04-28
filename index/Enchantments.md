@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28803
+revid: 28824
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -328,8 +328,6 @@ Drowned equipments grant, on top of their base stat:
 10 Sanity  
 Due to a bug, the stats will not be showned when looking at the equipment throught a campfire, they do apply normally however.
 
-  
-
  |
 | 
 
@@ -340,5 +338,22 @@ Displacement
  | 
 
 On proc, grant a speed boost and hyperarmor.
+
+ |
+
+**Removed:**
+
+Remove enchants before the release of Deepwoken but are still currently in the game unobtainable.
+
+| **Name** | **Description** |
+| --- | --- |
+| 
+File:Auto-repair.png
+
+Auto-Repair
+
+ | 
+
+Supposed to repair the users armor similar to thresher scales but a non-campfire version. Doesn't seem to work.
 
  |

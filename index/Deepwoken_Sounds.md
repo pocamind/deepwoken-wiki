@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 27978
+revid: 28816
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -30,8 +30,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
-| 2 | To Sleep, Dreaming (Contour 2) | 1:40 | Title Screen | File:To Sleep, Dreaming (Contour 2).mp3 |
-| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Unknown | File:To Sleep, Dreaming (Contour 3).mp3 |
+| 2 | To Sleep, Dreaming (Contour 2) | 1:40 | _Title Screen_ | File:To Sleep, Dreaming (Contour 2).mp3 |
+| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | In the Depths (I heard it after getting in danger, staying still, and not getting hit (should play durning the in combat music, and after)) | File:To Sleep, Dreaming (Contour 3).mp3 |
 | 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Unknown | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |

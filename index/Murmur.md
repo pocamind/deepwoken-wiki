@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 28625
+revid: 28829
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -60,7 +60,7 @@ Ardour Scream does not need to be trained.
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signalled with an inward ring for activation or an outward ring for deactivation.
 
 The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. Most NPCs will also not aggro you while you are invisible.
 
@@ -70,7 +70,7 @@ Murmur: Tacet can be obtained by completing 15 assassinations for [Cestis](Cesti
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
-You may also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. This is either bugged or just straight up doesn't exist.
+You may also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. This is appears to be bugged, users have found the npc with 10 charisma, still failed the charisma check, and straight up bugged out leaving them unable to die when gripped.
 
 ## Murmur: Rhythm
 
