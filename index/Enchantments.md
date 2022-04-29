@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28865
+revid: 28869
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -208,11 +208,12 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
-  <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p></div></td>
+  <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
+  <p>There are no speed penalties when equipped. On proc return the parry damage back to attacker.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>True effects yet to be confirmed.</p></div></td>
+  <td><div><p>Increase damage against PvE. <b>Confirmed</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
@@ -350,7 +351,7 @@ On proc, grant a speed boost and hyperarmor.
 
 **Removed:**
 
-Remove enchants before the release of Deepwoken but are still currently in the game unobtainable.
+Removed enchants before the release of Deepwoken but are still currently in the game unobtainable.
 
 | **Name** | **Description** |
 | --- | --- |
