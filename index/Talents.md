@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28887
+revid: 28889
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -649,7 +649,7 @@ These are just raw stat increase and are beneficial to anyone.
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   2x EXP gain for Power and every [Attribute](Attributes.md).
+    -   1.5x EXP gain for Power and every [Attribute](Attributes.md).
 
 ### **Mr Charm**
 
