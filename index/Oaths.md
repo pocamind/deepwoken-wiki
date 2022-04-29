@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 28838
+revid: 28877
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -180,3 +180,4 @@ Does not grant any special cosmetic based on race.
 -   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well. An example is the recently added Visionshaper Oath.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them
+-   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.

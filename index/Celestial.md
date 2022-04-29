@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 24962
+revid: 28878
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Talents, Attributes, Races, Locations, Deepwoken]
@@ -66,3 +66,4 @@ Celestials are said to be Gods of the Deepwoken world, but as we see through the
 ## Trivia/Notes
 
 -   Celestials can be seen referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
+-   Navae has been confirmed to be a Celestial.

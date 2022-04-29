@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28855
+revid: 28887
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -40,6 +40,7 @@ On the other hand, obtaining specific Talents may instead **lock you** from gett
 -   You cannot roll Conditioned Runner with Fishman.
 -   You cannot roll Vanishing follow-up with Dazing Finisher.
 -   You cannot roll Eruption Path: Lava Serpent with The Final Act.
+-   You cannot roll Orbital Ice with Fist of fortitude. Note: These all apply vice versa
 
 The Wildcard slot is a slot that any Mantra can be placed in- support, mobility, combat, whatever it may be. Be mindful of it.
 
@@ -648,7 +649,7 @@ These are just raw stat increase and are beneficial to anyone.
     -   This applies to the mob **DROP** and not the chest they spawn.
     -   If the mob only have a singular drop, increase the odds of dropping said item.
 -   Adept \[Generic Talent, Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   1.5x EXP gain for Power and every [Attribute](Attributes.md).
+    -   2x EXP gain for Power and every [Attribute](Attributes.md).
 
 ### **Mr Charm**
 
@@ -1015,6 +1016,7 @@ These Talents are designed to make you more effective in water.
 
 ### **Miscellaneous**
 
+-   Full Reset \[Rare Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown. (+2 Health)
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit. (+4 Ether)
 -   Ready or Not \[Common Talent\] - The first Mantra you get struck by while out of combat deals half of its damage. (+3 Health)
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
