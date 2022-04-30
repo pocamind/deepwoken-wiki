@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28922
+revid: 28939
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -31,7 +31,8 @@ Enchanted gear is very special. Therefore, they have some limitations placed on 
     -   This aspect only matters if you still have or get your hands on an Enchanted Face, Ears and Back equipment from before 18/02/2022.
         -   In the case where you have 4 or more enchantments, the Arms, Legs and Head enchants are prioritized.
 
-  
+**WARNING: You are capable of selling enchants whether they are soulbounded or not.  
+**
 
 There are two variants that enchantments come in:
 
