@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 28297
+revid: 28942
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -90,4 +90,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
 -   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game.
+
 -   Always keep a calm composure when you fight him, panicking will lead to a swift death.
+
+-   The squibbo is the only mob in the game with the ability to regen it's health. The squibbo when un-aggro'ed will automatically begin healing going from 250 to full health within a matter of seconds.

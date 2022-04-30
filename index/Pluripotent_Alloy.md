@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 28678
+revid: 28944
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,6 +26,7 @@ This is still a fairly new mechanic in the game and is sure to be expanded upon.
 
 -   Killing a boss for the first time (per character), if you contribute enough damage
 -   Finding one inside a chest from a boss
+-   Finding one inside a chest from a arena
 -   Getting an alloyed weapon from a chest (rare drop)
 
 ### List of bosses that drop Pluripotent Alloys:
@@ -64,8 +65,8 @@ To use a Pluripotent Alloy, you must be at least power level 30 and equip an app
 
 -   Base Damage: 22 -> 23
 -   Penetration: 0% -> 10%
--   Scaling: 7 -> 9
--   Endlag: 0.25 -> 0.15
+-   Scaling: 7 -> 10
+-   Endlag: 0.25 -> 0.1s
 
 File:Wwwww.png
 
