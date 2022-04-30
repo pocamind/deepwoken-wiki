@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 28877
+revid: 28946
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -146,6 +146,8 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
         -   If the attacker has the Disbelief talent, the attacker and and user swap place instead.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
+-   **Illusionary Prop** **\- Combat Mantra** **(DEV SPEC)**
+    -   Able to turn into any prop in Deepwoken like a barrel, etc.
 
 -   **Mirage From the Deep - Passive**
     -   While in the **Illusionary Realm**, press X to leave early. This will cost 15% of your current HP and leave the victim with monsters from The Depths for the remaining duration.
@@ -161,7 +163,7 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
     -   Enchant and visionshaper effect are still visible due to a bug.
 
 -   **Lasting Image - \[Common talent, Visionshaper\]**
-    -   **Illusionary Servant** and **Cheap Trick** last longer.
+    -   **Illusionary Servant** and **Cheap Trick** last longer
 
 ### **Effects**
 
