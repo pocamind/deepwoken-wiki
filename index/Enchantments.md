@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 28899
+revid: 28922
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -175,13 +175,16 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Chilling Silver Dagger.png<figcaption></figcaption></figure><div>Chilling</div></td>
   <td><div><p>On proc, freeze the opponent.<br>
-  If the user have the Glass Path: Crystallization talent, apply a crystal instead.</p>
-  <p><br>
-  </p></div></td>
+  If the user have the Glass Path: Crystallization talent, apply a crystal instead.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
   <td><div><p>Heal for 10% of damage dealt.</p></div></td>
+</tr>
+<tr>
+  <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
+  <td><div><p>Increase 50% damage against PvE. <b>Confirmed</b>. This is moved from spec to regular this is actually obtainable to normal players.</p>
+  <p>Obtainment of this enchant is through a wish maker.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -210,10 +213,6 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
   <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
   <p>There are no speed penalties when equipped. On proc return the parry damage back to attacker.</p></div></td>
-</tr>
-<tr>
-  <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Increase damage against PvE. <b>Confirmed</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
@@ -362,6 +361,6 @@ Auto-Repair
 
  | 
 
-Supposed to repair the users armor similar to thresher scales but a non-campfire version. Doesn't seem to work.
+Supposed to repair the users armor similar to thresher scales but a non-campfire version. Doesn't seem to work. According to Arch\_Mage, it was added in the first opening week of Deepwoken put into the game and accidently left in the game. Only one user is confirmed to have this enchant.
 
  |
