@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 28688
+revid: 29025
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -129,7 +129,7 @@ There are no known Mobility Mantras for Galebreathers, though there is a talent 
 |  | Gale Wisp  
 (★★) | _A servant of wind._ | Spawns a wisp of wind. Must use ritual casting.
 -   Gives the caster fall damage resistance
--   Taking fall damage 2 times makes it disappear after a short period of time (I used an Eternal Logstone on it and it increased the amount of times I could fall from 2 to 6)
+-   Upgrade it/using logstones on it will extend how many times you may use its ability. -Note using logstone will force you to cast more signs
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 28839
+revid: 29030
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Items, Weaponry]
@@ -46,4 +46,4 @@ With the new Alloy update, Vigil Longswords are on the same level if not better 
 
 -   Scaling: 7
 
--   Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword
+-   Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
