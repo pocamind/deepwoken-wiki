@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 26398
+revid: 28988
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -26,7 +26,8 @@ This Outfit has 1000 durability and grants +5% Physical resistance, +20% Element
 
 This Outfit's Schematic can be found in:
 
--   [Upper Erisia](Upper_Erisia.md), specifically Temple of the Forgotten Flame
+-   [Fishing](Fishing.md) (Chest)
+-   [Upper Erisia](Upper_Erisia.md), specifically Temple Of The Forgotten Flame
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes

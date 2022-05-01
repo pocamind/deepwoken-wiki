@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 28856
+revid: 29001
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 
 This Outfit's schematic can be found in:
 
--   Fishing
+-   [Fishing](Fishing.md) (Chest)
 -   Sold by [Nyanna](Nyanna.md) at [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes

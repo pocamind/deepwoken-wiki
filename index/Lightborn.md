@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 28958
+revid: 28966
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races]
 
 Template:Races-Main
 
-_"Kicked out of heaven and demoted to Freshie."_
+_"The stars call you back..."_
 
 **Currently Unobtainable**
 
@@ -46,7 +46,10 @@ _"Kicked out of heaven and demoted to Freshie."_
 **Lore:**
 
   
+
 Children of **a** Celestial, the Lightborn are considered to be fragments of these once great gods up above. However, in recent times, a family of these people known as the Spellhardts had come forth within the Eastern Luminant, rumored to be housing themselves within a mighty castle in the sky (This "castle" is visible through the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)). Although they are of Celestial origin, their reputation among the people is questioned quite often due to their less than favorable actions.
+
+Little is known about their culture and beliefs, but they are known to punish those who are tempted by Drowned Gods, exiling them from their community.
 
 **Strengths:**
 
@@ -68,9 +71,8 @@ Spellhardt
 
 ## Notes
 
--   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race)
+-   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race).
 -   While considered a developer race, the increase in stats is not significantly stronger than any other race.
--   Pupils are a reference to Jin Mori from God Of Highschool
+-   Pupils are a reference to Jin Mori from God Of Highschool.
 
--   Devs have mentioned plans on this being an **Obtainable** race in the future but not via the reroll system instead the player having to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable but obviously this has not been proven as of yet.)
--   It's been proven that lightborn could be exiled or fallen from their grace
+-   Devs have mentioned plans on this being an **Obtainable** race in the future but not via the reroll system instead the player having to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable but obviously this has not been proven as of yet.

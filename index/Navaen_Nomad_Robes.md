@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 26442
+revid: 29004
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -29,8 +29,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Fists of Navae_, which in
 This Outfit's Schematic can be found in:
 
 -   The Navaen Nomad camp outside Etris.
--   [Minityrsa](Minityrsa.md).
--   Erisia
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
 
 ## Trivia/Notes
 

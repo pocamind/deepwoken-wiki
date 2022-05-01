@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 26403
+revid: 28991
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -26,6 +26,7 @@ This Outfit has 1000 durability and grants +5% Physical resistance, +5% Elementa
 
 This Outfit's Schematic can be found in:
 
+-   [Fishing](Fishing.md) (Chest)
 -   [The Depths](The_Depths.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 

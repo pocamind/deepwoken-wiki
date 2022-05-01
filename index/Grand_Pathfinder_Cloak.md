@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 25095
+revid: 29003
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,9 +28,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Legendary_, which returns
 
 This Outfit's Schematic can be found:
 
--   The Depths
--   The Hive
--   Upper Erisia(Can also be found at lower erisia, very low chance though)
+-   [Erisia](Erisia.md) (Chest)
+-   [Aratel Island](Aratel_Island.md) (Chest)
+-   [The Depths](The_Depths.md) (Chest)
 
 ## Trivia/Notes
 

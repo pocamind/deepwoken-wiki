@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 28935
+revid: 28965
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
@@ -116,14 +116,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 **Lore Sources:** _Rifle Spear (Description), Flintlock (Description), Yamaketzal (Mentioned), Summer Company Guards (Good Rep Dialogue)_
 
 -   Gunsmith Rosen is a man who sparked the innovation of Firearms, and the introduction to it in the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
--   His identity and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
+-   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 
 -   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 
--   He is a vesperian man according to Arch\_Mage
--   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority
+-   He is a Vesperian, according to Arch\_Mage
+-   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
     -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
         
 

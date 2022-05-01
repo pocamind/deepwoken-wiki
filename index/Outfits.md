@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28960
+revid: 29009
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -240,7 +240,7 @@ _Requires Power 40_
 
 | Image | Armor | Common Effects | Primary Source |
 | --- | --- | --- | --- |
-|  | Hunter's Brace | Makes usually parry breaking moves parriable. (e.g. sharko kick, golem throw) dissapears on death or leaving the game | Summer Isle |
+|  | Hunter's Brace | Makes usually parry breaking moves parriable. (e.g. Sharko kick, Golem throw) disappears on death or leaving the game. | Summer Isle |
 | File:Autumn pauldrons.png | Autumn Pauldrons | Grants a random buff. | Erisia Chests |
 | File:Black Fur Pauldrons.png | Black Fur Pauldrons | Grants a random buff. | Erisia Chests |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | Grants a random buff. | Erisia Chests |
@@ -252,7 +252,7 @@ _Requires Power 40_
 | File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests |
 |  | Ranger's Brace | Grants a random buff. | Erisia Chests |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests |
-| File:Sharko coat.png | Megalodaunt Coat | Grants 3 random stats with at least one being monster related.
+| File:Sharko coat.png | (Red) Megalodaunt Coat | Grants 3 random stats with at least one being monster related.
 _Requires Power 30_
 
  | Megalodaunts Drop |
@@ -340,6 +340,11 @@ _Requires Power 40_
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests |
 |  | Adventurer coat | Grants a random buff. | Duke Chests (It obtainable now) |
 | File:Cloud First Ranger Duster.png | Cloud First Ranger Duster | Grants a random buff. | King Thresher |
+| File:Sable Adjudicator's Coat.png | Sable Adjudicator's Coat | Grants a random buff.
+
+"Requires Power 40"
+
+ | Fort Merit Chests |
 
   
 

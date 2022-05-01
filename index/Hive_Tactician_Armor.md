@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 28593
+revid: 28996
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -31,9 +31,9 @@ This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemen
 
 This Outfit's Schematic can be found in:
 
--   Songseeker Wilds
--   Aratel/Hive Island
--   Minityrsa
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Minityrsa](Minityrsa.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 27997
+revid: 29011
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -293,19 +293,23 @@ Adrenaline Surge
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun | Applies "Triple Shot" to compatible Mantra. |
+ | Multiplying Spark | Wind Gun
+
+Shade Bringer
+
+ | Applies "Triple Shot" to compatible Mantra. |
 | 
 
 Spring Spark
 
- | Spring Spark | Ice lasers | Applies "Fire Trap" to compatible Mantra. |
+ | Spring Spark | Ice lasers | Shade Bringer | Applies "Fire Trap" to compatible Mantra. |
 | 
 
 Tornado spark
 
  | Tornado Spark | Dark Blade
 
-Fire Blade
+Fire Blade (Confirmed broken as of 1st of May 2022)
 
 Storm Blades
 

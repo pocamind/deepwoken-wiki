@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 25207
+revid: 28986
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Deepwoken]
@@ -28,8 +28,9 @@ This Outfit also grants the [Talent Card](Talents.md) _Hunter_, which improves l
 
 This Outfit's Schematic can be found in:
 
+-   [Lower Erisia](Lower_Erisia.md)
 -   Outside the Mantra shop on Isle of Vigils
 
 ## Trivia/Notes
 
--   Player notes here
+-   Can be bought at Isle of Vigils for 45 Notes.

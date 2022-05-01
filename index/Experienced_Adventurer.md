@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 28379
+revid: 28995
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, NPCs]
@@ -29,7 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you 
 This Outfit's schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
--   the weapon shop in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit schematics.
+-   The weapon shop upstairs in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit schematics.
 
 ## Trivia
 

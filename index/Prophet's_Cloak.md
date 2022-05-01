@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 26408
+revid: 28999
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,8 +30,8 @@ This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [The Depths](The_Depths.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
--   [Primadon](Primadon,_Titan_of_the_East.md) chests.
 
 ## Trivia/Notes
 
