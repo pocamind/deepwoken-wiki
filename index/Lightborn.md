@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 28203
+revid: 28958
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -73,3 +73,4 @@ Spellhardt
 -   Pupils are a reference to Jin Mori from God Of Highschool
 
 -   Devs have mentioned plans on this being an **Obtainable** race in the future but not via the reroll system instead the player having to do something in order to obtain it and become a Lightborn. (Agamatsu mentioned in a live stream of it already being obtainable but obviously this has not been proven as of yet.)
+-   It's been proven that lightborn could be exiled or fallen from their grace

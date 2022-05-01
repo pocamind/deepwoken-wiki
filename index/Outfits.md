@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 28932
+revid: 28960
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -456,7 +456,7 @@ _Requires Power 30_
 |  | Enforcer Boots | Grants a random buff. | Depths Chests |
 | File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests |
 | File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests |
-|  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests
+|  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests, Fort Merit Chests
 
 <nowiki>
 
