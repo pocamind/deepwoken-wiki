@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 28624
+revid: 29022
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -28,7 +28,6 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 
 This Outfit's Schematic can be found in:
 
--   [Aratel Island](https://deepwoken.fandom.com/wiki/Locations#The_Aratel_Sea)
 -   [The Depths](The_Depths.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)

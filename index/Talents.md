@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 28910
+revid: 29013
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -154,7 +154,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
     -   Contrary to popular belief, this does not affect food/gunpowder crates from Isle of Vigils or Summer Isle, nor does it affect the Boulder training gear.
         -   Prerequisites: Strength
 -   Pitcher \[Generic Talent, Common Talent\] - You can throw things further. (+3 Carry Load, +1 Passive Agility, +3 Health)
-    -   Prerequisites: Strength
+    -   Prerequisites: 5 Strength and ?? Agility
 
 ### Authority Interrogator
 
@@ -279,8 +279,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryomancer
 
 -   Chilling Flourish \[Generic Talent, Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
-
+    -   Prerequisite: ?? Frostdraw
 -   Condensation Drip \[Generic Tallent, Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity, +1 Health)
+    -   Prerequisite: ?? Intelligence and ?? Frostdraw
 
 ### Cryoni
 
@@ -1085,6 +1086,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Strength Mobility (50 Strength Needed)
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
+    -   Prerequisite: 5 Strength and ?? Agility
 
 #### Willpower Combat and Support (40 Willpower Needed)
 
