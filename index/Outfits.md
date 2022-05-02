@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29009
+revid: 29050
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -221,8 +221,7 @@ _\+ Talent: Blinded_
 | --- | --- | --- | --- |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent |
-| File:Static-assets-upload6078901116095484260.png | Black Shrouded Cape | Grants a random buff. | Depths Chests, Fishing at Etris Docks |
-| File:Shrouded Cape (Red).png | Red Shrouded Cape | Grants a random buff. | Depths Chests, Fishing at Etris Docks |
+| File:Static-assets-upload6078901116095484260.png | Shrouded Capes | Grants a random buff. Variations: Red, White, Black, Midnight | Fishing, Duke |
 |  | Dawn Scarf | Grants a random buff. | Hive Chests |
 |  | Desert Scarf | Grants a random buff. | Hive Chests |
 | File:Crimson Scarf.png | Crimson Scarf | Grants a random buff. | Hive Chests |
@@ -313,9 +312,8 @@ _Doesn't need any power, but obviously needs a mantra to get it_
 | 
 
  | Redsteel Pauldrons | Grants a random buff. | Arena Chests |
-| File:Royal Auth Commander.png | Royal Authority Commander | Grants a random buff. | Fort Merit Chests |
-| File:Amber AuthorityCommander Coat.png | (Amber) Authority Commander | Grants a random buff. | Fort Merit Chests |
-| File:Grayjusticarcoat.png | (Grey) Justicar Coat | Grants a random buff.
+| File:Royal Auth Commander.png | Authority Commander Coats | Grants a random buff. | **Variations**: Amber, Stygian, Ruby, Verdant, Bronze, Gold, Royal | Fort Merit Chests |
+| File:Grayjusticarcoat.png | Adjucator Coats | Grants a random buff. **Variations**: Sable, Pink, Beige, Rural, Ash,
 
 _Requires Power 40_
 
@@ -331,20 +329,15 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Nautilodaunt |
+ | Nautilodaunt (Very Rare) |
 | File:First ranger.png | (Blue) First Ranger Duster | Grants a random buff.
 
 _Requires Power 40_
 
  | King Thresher |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests |
-|  | Adventurer coat | Grants a random buff. | Duke Chests (It obtainable now) |
+|  | Adventurer coat | Grants a random buff. | Duke Chests |
 | File:Cloud First Ranger Duster.png | Cloud First Ranger Duster | Grants a random buff. | King Thresher |
-| File:Sable Adjudicator's Coat.png | Sable Adjudicator's Coat | Grants a random buff.
-
-"Requires Power 40"
-
- | Fort Merit Chests |
 
   
 
