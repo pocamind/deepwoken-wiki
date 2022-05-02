@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29043
+revid: 29052
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -107,7 +107,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Elastic4.png<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><figure>File:Elastic5.png<figcaption></figcaption></figure><div>Elastic</div></td>
   <td><div><p>On proc, create a purple string, pulling the target toward you.</p>
   <p><br>
   </p></div></td>
