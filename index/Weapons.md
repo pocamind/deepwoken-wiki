@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 28947
+revid: 29038
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1091,8 +1091,8 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
   <td>75 WND, 25 MED</td>
-  <td>18</td>
-  <td>25%</td>
+  <td>17.5</td>
+  <td>15%</td>
   <td>MED: 5, WND: 4</td>
   <td>5</td>
   <td>8</td>
@@ -1150,6 +1150,18 @@ Weapons that scale with a certain element
 Players can use [this formula](https://www.desmos.com/calculator/sbokgffwxn) to figure out their complete damage.
 
 _**Damage = BaseDmg + AttributeLevel((BaseDmg / 1000) ⋅ Scaling))**_
+
+Weapons with two scaling factors (Legendary weapons) will have a slightly different formula to work with.
+
+_**Damage = BaseDmg + \[(AttributeLevel1 + AtrributeLevel2)⋅(BaseDmg/1000)⋅Median of Scale1 and Scale2**_
+
+OR you can use this format
+
+Curved Blade of Winds:
+
+_**Damage = 17.5 + (Weapon Attribute + Galebreathe Attribute)⋅(17.5/1000)⋅4.5**_
+
+I don't own a crypt blade so somebody else can add the formula for that
 
 (Another way to decide damage, which may be easier for some people, is consider the scaling a percentage of your base damage. Lets say, 8 scaling is 80% - by this logic, Tanto will deal 180% damage at max LHT, or in other words, 16\*1.8 = 28.8. As such, weapons with 10 scaling always have double the base damage at max LHT, for example, a krulian has 27 at 13.5 base.)
 

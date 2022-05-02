@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 27935
+revid: 29042
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -22,9 +22,11 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
   <td>File:Nightchild.png</td>
   <td><b>Nightchild</b>
   <ul>
-    <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nible on wooden surfaces</i>"</li>
-    <li>Bonus Stealth when walking on wooden surfaces, Bonus agility when climbing.</li>
+    <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nible on wooden surfaces</i>"
+  <ul>
+    <li>1.5x agility when using parkour on wooden surfaces.</li>
     <li>Improved Stealth</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>

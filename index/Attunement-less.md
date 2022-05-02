@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 28953
+revid: 29035
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -80,8 +80,8 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark, reversal spark and drift/rush shards.
     -   Requirement: 40 agility, Mobility Mantra
 
--   **Adrenaline Surge** - An adrenaline rush of sanity.
-    -   Restores a decent amount of ether, and increases your movement speed and parkour abilities by 25%. ( your current willpower points + (your current willpower points/4)
+-   **Adrenaline Surge** - An adrenaline rush of agility
+    -   Restores a decent amount of ether, and increases your movement speed and parkour abilities by 25%. ( your current agility points + (your current agility points/4)
     -   Requirement: 20 agility, Agility _Support Mantra_
 
 ### _**Intelligence Mantras**_
