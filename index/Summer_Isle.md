@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 28463
+revid: 29056
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -212,7 +212,7 @@ Possible items found after completing Scope's quest
 -   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
 -   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>) (0-2 star)
+-   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star)
 -   [Iron Cestus](Iron_Cestus.md)(0-1 star)
 -   [Ritual Spear](Ritual_Spear.md)
 -   Practitioner's Earrings
