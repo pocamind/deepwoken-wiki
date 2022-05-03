@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29013
+revid: 29059
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -638,7 +638,6 @@ These Talents are meant to help you fight the ill effects of Insanity and to res
 -   Unyielding Focus \[Generic Talent, Common Talent\] - Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+3 Health, +6 Sanity)  
       
     When you get all these talents you are eligible to get the Oath [Blindseer](Oaths.md)
--   Unyielding Permanence \[Generic Talent, Legendary Talent\] - Never lose sight of victory until your body can no longer carry you through battle. You can not get knocked unless your health reaches 1%.
 
 ### Metamancer
 

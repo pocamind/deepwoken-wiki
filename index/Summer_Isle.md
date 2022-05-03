@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 29056
+revid: 29072
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -75,8 +75,8 @@ We'll note the items this way:
 
 ### _**Inn**_
 
--   ~The Innkeeper, setting your spawnpoint here costs five Notes. Setting your spawn at the inn lets you get a rare card that lets you drink potions infinitely.~ (Untrue)
--   The Guildmaster. (Located in the building behind Trig's Quest)
+-   The Innkeeper: Allows you to set your spawnpoint for 5 notes.
+-   The Guildmaster: Allows you to make a guild/leave an existing one. (Located in the building behind Trig's Quest)
 
 ### _**Thundercall Trainer**_
 

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 27592
+revid: 29067
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -235,11 +235,10 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more dificult if a [lionfish](Lionfish.md) spawns,, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
 
-## Notes/Trivia
+## Trivia
 
 -   In The Lord Regent's Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met eachother, and is honored that you serve Etrea well.
 -   After talking to the Bookworm in The Lord Regent's Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
     -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.
 -   You can prevent from dying on the spot after telling The Lord Regent that you've failed to drive out The Duke by taking the \[End Dialogue\] option.
--   **Etris guards can drop the Notes of players they have killed on death.**

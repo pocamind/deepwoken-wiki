@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 28207
+revid: 29064
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -12,11 +12,11 @@ _Also known as Hive Mechs, Life Weaver Golem, Senju, Forest Golems, or Obsidian 
 Template:Creature Infobox V3
 
   
-Hive/Rogue Constructs spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, [Starswept Valley](The_Starswept_Valley.md), and on the ice lake on top of [Minityrsa](Minityrsa.md)
+Hive/Rogue Constructs spawn at [Starswept Valley](The_Starswept_Valley.md), the Bluster Canyons, and on the ice lake on top of [Minityrsa](Minityrsa.md)
 
 ## Description
 
-They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive as indicated by the green glowing rings around the arms. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. The one that spawns at [Minityrsa](Minityrsa.md) have red rings around their arms, and the ones that spawn at [Starswept Valley](The_Starswept_Valley.md) have green rings around their arms. Does insane damage (around 200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape.
+They have a brown wood-like appearance, with foliage around their legs, resembling wires. They also sport a Hive logo made of wood on their torso. They are powered by the Lifeweaving technology of the Hive as indicated by the green glowing rings around the arms. Shorter and smaller than a [Megalodaunt](Megalodaunt.md), but is guaranteed to make quick work of you if you fight it solo. The one that spawns at [Minityrsa](Minityrsa.md) have red rings around their arms, and the ones that spawn at [Starswept Valley](The_Starswept_Valley.md) have green rings around their arms. Does insane damage (around 200), enough to eradicate half or more of most players health in one hit (Ex. Meteor Punch). They cannot climb, but do walk very fast, so if you're unlucky enough to encounter one, run as fast as you can. It can be knocked, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape. They respawn every 15 minutes at Minityrsa.
 
 ## Moves
 
@@ -30,35 +30,32 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 <tr>
   <td><b>Meteor Punch</b></td>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Punches the ground with its fist, creating two circular shockwaves that do insane damage (~200) and instagrip if the damage is enough to kill you, regardless if you are low hp or not. Is parryable and can be rolled, although quite difficult. May cause lag on low-end computers.</td>
+  <td>Punches the ground with its fist, creating two circular shockwaves that do insane damage (~200) and can instagrip. Parriable and dodgeable.</td>
 </tr>
 <tr>
   <td>Wood Style: Deep Forest Emergence</td>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Punches the ground, spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing, or pushes you off onto the golem when they despawn. You cannot walk through the tree's leaves.</td>
+  <td>Punches or steps on the ground dealing high damage, and spawning temporary trees with every step, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing, or pushes you off onto the golem when they despawn. You cannot walk through some of the tree's leaves. Parryable and dodgeable.</td>
 </tr>
 <tr>
-  <td><b>Swing</b></td>
+  <td>Punch</td>
+  <td>TBA</td>
+  <td>The Construct quickly swings downwards, dealing high damage. Parryable and dodgeable.</td>
+</tr>
+<tr>
+  <td>Stomp</td>
+  <td>TBA</td>
+  <td>The Construct steps on the ground, dealing high damage. Hard to notice as the animation is so subtle. Parryable and dodgeable. This can combine with their walking animation, disguising the attack making it impossible to avoid or parry without predicting it.</td>
+</tr>
+<tr>
+  <td>Swing</td>
   <td>TBA</td>
   <td>The Construct uncoils its arms and swings them upwards, dealing high damage (~100) and instagrips if the damage done exceeds player's remaining health. Flings and ragdolls player. Block breaks, but can be rolled.</td>
 </tr>
 <tr>
-  <td><b>Roar</b></td>
+  <td>Roar</td>
   <td>TBA</td>
-  <td>The Construct roars, makes the next Meteor Punch double.</td>
-</tr>
-<tr>
-  <td><b>Kick</b></td>
-  <td>TBA</td>
-  <td>The golem will kick you, block breaking and ragdolling you, sending you flying, similar to a sharko's punt. Can only be rolled to evade.
-  <ul>
-    <li>"Not actually sure if this move exists, I may have mistake it for its walking animation while it used its swing attack."</li>
-  </ul></td>
-</tr>
-<tr>
-  <td><b>Punch</b></td>
-  <td>TBA</td>
-  <td>The Construct swings its fist, dealing insane damage (~200) and instagrips if the damage done exceeds the player's health. Parryable and can be rolled.</td>
+  <td>The Construct roars, purpose is unknown.</td>
 </tr>
 </tbody>
 </table>
