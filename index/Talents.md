@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29059
+revid: 29075
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -271,7 +271,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Critical Specialist
 
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\]
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\] \[ It wasn't intended for weapons such as fist and rapier to crit with it, it has been removed from these weapons\]
 -   Prerequisite: 30 Light
 -   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health) \[NOTE: When Procced Hits Enemy An Extra Hit\]
 -   Prerequisite: 75 Light Dagger
@@ -1092,15 +1092,15 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 -   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
 -   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
 
-#### Light Weapon Mobility (6 stat needed)
+#### Light Weapon Mobility (30 stat needed)
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
 
-#### Medium Weapon Combat (6 stat needed)
+#### Medium Weapon Combat (30 stat needed)
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
 
-#### Heavy Weapon Combat (6 stat needed)
+#### Heavy Weapon Combat (30 stat needed)
 
 -   Pressure Blast - Unleash a powerful pressure blast from the weight of your weapon.
 
