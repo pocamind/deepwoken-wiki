@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29095
+revid: 29122
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -161,8 +161,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>After parrying an attack, the attacker gets hit by a delayed attack that deal&nbsp;?% <sub>(damage got buffed, please find new value)</sub> of their max HP. Is affected by PVE damage scaling. Maximum damage is capped at 500.</p>
+  <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
+  <td><div><p>Parrying an attack will proc the thorns to the attacker. The thorns scales base of the users power, this affects in PVPVE.</p>
+  <p>Power scaling is based&nbsp;?% x ()power in PVP. Maximum damage capped is <b>500</b> in PVE.</p>
   <p><br>
   </p></div></td>
 </tr>

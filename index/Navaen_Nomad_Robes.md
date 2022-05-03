@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 29004
+revid: 29106
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -23,6 +23,8 @@ This Outfit requires [Power Level](Power.md) 15.
 This Outfit has 1800 durability and grants +10% Physical resistance, +10% Elemental resistance, +10% Blunt resistance, +15% Ice resistance, +15% Shadow resistance and +50% Stealth.
 
 This Outfit also grants the [Talent Card](Talents.md) _Fists of Navae_, which increases the amount of punches in a combo with Way of Navae before you flourish your opponent.
+
+**This is currently bugged and does absolutely nothing.**
 
 ## Location
 

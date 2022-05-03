@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 29055
+revid: 29110
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -68,7 +68,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Shoulder Bash** - Rush at your enemies with your full physical force.
     -   Doesn't do much damage but is a good mobility move to catch up to your opponents.
     -   Upgrades based off of fortitude from the atunementless trainer
-    -   Requirements: shield & 20 FTD
+    -   Requirements: Shield & 10 FTD
 
 ### _**Agility Mantras**_
 
@@ -141,13 +141,13 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 -   **Master's Flourish** - A powerful slash that chips through block and slashes through armor.
     -   A spinning double slice with your sword. Chips through block and builds posture.
-    -   Requirement: 6 Medium Weapon, _Medium Weapons Combat Mantra_
+    -   Requirement: 30 Medium Weapon, _Medium Weapons Combat Mantra_
 
 ### _**Heavy Weapon Mantras**_
 
 -   **Pressure Blast** - Unleash a powerful pressure blast from the weight of your weapon.
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
-    -   Requirement: 6 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
+    -   Requirement: 30 Heavy Weapon, _Heavy_ _Weapons Combat Mantra_
     -   Unlike other weapon mantras, this move isn't a main damage dealer. Instead, it dazes your opponent when they hit the ground.
 
 ## Upgrading Mantras

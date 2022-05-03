@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29080
+revid: 29109
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -74,7 +74,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 -   Suffocating Impact \[Generic Talent, Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Gale Coil \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Aeronade \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
--   Vaccum Punch \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
+-   Vacuum Punch \[Generic Talent, Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
 
 ### Alchemist
@@ -116,12 +116,12 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 These Talents are designed to improve fishing. Unlike most other talents, they are obtained by successfully fishing a certain amount of times.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash. (+4 Ether)
-    -   Obtained after fishing 10(?) times successfully.
+    -   Obtained after fishing 10 times successfully.
     -   Increases the chances of desirable drops from fishing.
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+4 Ether)
-    -   Obtained after fishing ? times successfully.
+    -   Obtained after fishing 25 times successfully.
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Obtained after fishing ? times successfully.
+    -   Obtained after fishing 50 times successfully.
     -   Reduces the chance of failure while fishing.
 
 ### Apex Predator
@@ -132,7 +132,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Grand Feast \[Rare Talent, Generic Talent\] - Regain reservoir and ether when gaining hunger from killing. (+1 Passive Agility)
     -   Prerequisites: Carnivore
 
--   Sunken Predator \[Rare Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
+-   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
 
 ### Artisan
 
@@ -144,7 +144,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
--   Prerequisites: Agility, Intelligence
+    -   Prerequisites: Agility
 
 ### Athlete
 
@@ -208,7 +208,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   ~Probally removed from leveling up cards~ Definitely obtainable as long as you didn't pick Risky Moves before
 
 ### Butterfly
 
@@ -372,7 +371,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Escape Artist
 
 -   Boot Wallet \[Generic Talent, Common Talent\] - You no longer lose notes from dying.
--   Robber Baron \[Generic Talent, Common Talent\] - You hold onto more items when defeated.
+-   Robber Baron \[Generic Talent, Common Talent\] - You hold onto more items when defeated. (50% lost -> 25% lost)
 
 ### Ether Adept
 
@@ -625,11 +624,11 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 ### Meditative Trance
 
 -   Warrior's Respite \[Generic Talent, Rare Card\] - Standing still for 15 seconds increases your health regeneration. (+4 Health)
-    -   Any action, be it blocking, moving, attacking, dodging or getting pushed around will cancel the effect. Prerequisite: 15 fortitude
+    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. Prerequisite: 15 fortitude
 
 ### Mental Fortress
 
-Prerequisite: Willpower 5~
+Prerequisite: 5 Willpower
 
 These Talents are meant to help you fight the ill effects of Insanity and to resist against it for longer.
 
@@ -660,7 +659,10 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Ministry Operative
 
--   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack.(+5 passive agility) (Prerequisites: 35 Agility) (gives I-frames too)
+-   Ghost \[Generic Talent, Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 passive agility)
+    -   Prerequisites: 35 Agility, Risky Moves
+    -   Provides I-frames for the duration of the invisibility (3 seconds)
+    -   Has a short cooldown
 
 ### [Murmur](Murmur.md)
 
@@ -668,12 +670,9 @@ These are just raw stat increase and are beneficial to anyone.
     -   Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md).
 -   **Ardour Scream** \[Generic Talent, Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture, +3 Health).
     -   Prerequisite: 40 willpower and Murmur: Ardour.
+    -   Significantly reduces the opponent's armor and puts them in a combat tag
+    -   Cannot be trained, takes 100% of your ether regardless of how much ether you have
 -   **Murmur: Tacet** \[Generic Talent, Common Talent\] - An application of the Song that enables the user to suppress their own murmur. Press T while crouched. (+4 Ether, +2 Passive Agility, +1 Health)
--   **Murmur: Rhythm** \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G"
-    -   Likely removed due to being significantly weaker than the other two Murmurs.
-    -   **Still in-game (different form),** pressing G while crouched makes you perform a hearing gesture and mutes music, makes you hear things better. This is available to everyone, and is just a cool factor as it doesn't have much use.
--   **Heartbeat Sensor** \[Generic Talent, Common Talent, **Removed**\] - Exact description unknown, allowed you to see the heartbeats of nearby players aswell as monsters
-    -   Prerequisite: Murmur: Rhythm.
 
 ### Natural Armor
 
@@ -686,6 +685,7 @@ These are just raw stat increase and are beneficial to anyone.
 -   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15% \[.Requires fist style and 20 fortitude\]
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: Way of Navae.
+    -   Currently bugged, shields can be equipped without the talent
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
     -   Prerequisites: Strength (15-20?)
 -   Heartbreaker \[Generic Talent, Common Talent\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
@@ -711,7 +711,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Strength Unbounded \[Generic Talent, Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
 -   Million Ton Piercer \[Generic Talent, Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
-    -   Prerequisite: 90+ Strength (I got it at 91 strength)
+    -   Prerequisite: 90+ Strength
 
 ### Public Figure
 
@@ -899,6 +899,7 @@ These Talents are meant to reap the reward of your latest hunt.
 -   Cap Artist \[Generic Talent, Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Generic Talent, Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
 -   Another Man's Trash \[Legendary Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility, +3 Health)
+    -   Can take enchants despite them being un-droppable upon death
 
 ### Thunder Brawler
 
@@ -1088,7 +1089,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Strength Mobility (50 Strength Needed)
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
-    -   Prerequisite: 5 Strength and ?? Agility
+    -   Prerequisite: 50 Strength
 
 #### Willpower Combat and Support (40 Willpower Needed)
 
@@ -1127,7 +1128,7 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
     -   Torpedo through enemies and entities with a fiery blow.
 
 -   Fire Palm (1 Star Mantra) - Fire a short burst of flame from your palm. (Combat Mantra)
-    -   You basically quickly burst a flamethrower at your enemies
+    -   Exert a wave of fire in a cone shape in front of you.
 
 ### Fire Mobility
 
@@ -1136,9 +1137,9 @@ _Main Source - [Flamecharmer](Flamecharm.md)_
 #### Fire Support
 
 -   Graceful Flame - Conjure an undying flame for you and your comrades to rest by. (Portable Campfire Mantra)
--   Flames of Denial - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 60 seconds until activated)
+-   Flames of Denial - Undying Flame. (Restore 15% HP after taking lethal damage, lasts for 30 seconds until activated)
     -   Place a kindled flame into your body.
--   Flame Wisp - Summon a servant made of flame(Boosts HP Regen and lights campfires).
+-   Flame Wisp - Summon a servant made of flame (Boosts HP Regen and lights campfires when not healing you).
 
 ### Frostdraw Mantras
 
@@ -1193,7 +1194,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 ### Navaen-Nomad
 
 -   Fists of Navae - You do 2 more fist M1s before Flourishing. (Obtained by wearing the Navaen-Nomad Robes Outfit )
-    -   ~Doesn't have an animation, nor does it make you do 2 more m1s to flourish. It makes you hit twice when you flourish, and these hits aren't visible.~ Tested, nope it's bugged and currently does nothing.
+    -   This talent is currently bugged and currently does nothing.
 
 ### Flamecharmer
 
@@ -1220,7 +1221,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Shadow Hunter
 
--   Now You See Me - Increases stealth. (Obtained by wearing the Shadow Hunter Outfit)(Can also be obtained through cards)
+-   Now You See Me - Increases stealth. (Obtained by wearing the Shadow Hunter Outfit) (Can also be obtained through cards)
 
 ### Darksteel Plate
 
@@ -1339,9 +1340,9 @@ Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice a
 -   The Card, "The Sound from Below" is almost always granted on your first or second power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
--   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact and some Flames of Denial effects.
+-   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
--   At Power 60, you will get a guaranteed legendary Talent card.
+-   At Power 60, you will get a guaranteed legendary Talent card if there is one available.
 -   Adept can't be obtained post power 55.
 
   

@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 29097
+revid: 29118
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -57,7 +57,7 @@ _Each player gets 327 investment points per slot, from Level 1-60._
 
 ## Equipment Bonuses
 
-### Amor
+### Armor
 
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
     -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
