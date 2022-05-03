@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29074
+revid: 29095
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -72,7 +72,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped.<br>
   <b>This enchant is disabled in Arena</b><br>
-  Viscosity enchant is disabled.</p></div></td>
+  <b>The effects of the Viscosity are disabled if using this curse.</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -96,13 +96,13 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
-  <td><div><p>Requires you to "charge" the detonation by hitting an opponent for a certain amount of times (Guns: 5, LHT: 7, MED: 4, HVY: 3). The last hit will detonate. The explosion can execute. Deals AOE damage.</p>
+  <td><div><p>After hitting a target a certain amount of time (Guns: 5, LHT: 7, MED: 4, HVY: 3), make them explode, dealing bonus damage + AOE damage around them. The explosion can execute.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Blazing.png<figcaption></figcaption></figure><div>Blazing</div></td>
-  <td><div><p>On hit, set your enemy ablaze. This enchant allows Flamecharm talents to proc off it. The strength of the flame scales of Flamecharm. (Deepfire ring works with it)<br>
+  <td><div><p>On hit, set your enemy on fire. Flamecharm talents can be triggered by this fire. Damage of the fire scales on Flamecharm.<br>
   If the user have the Eruption Path: Lava Serpent talent, create an explosion instead.</p>
   <p><br>
   </p></div></td>
@@ -121,9 +121,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
-  <td><div>Increases weapon attack speed slightly. Every time you land an m1 gain a stacking attack speed bonus, further increasing attack speed. (Slower weapons receive a greater increase in attack speed.). Also gain a stackable 3 second speed boost on it.<br>
-  <p>This enchantment is very strong on heavy weapons, allowing them to (at full speed) swing as fast or faster, than a medium weapon.<br>
-  </p></div></td>
+  <td><div>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds. Attack speed buff is inversely proportional to the base attack speed: slower weapons gains a greater increase in attack speed than fast weapons.</div></td>
 </tr>
 <tr>
   <td><figure>File:Seer en.png<figcaption></figcaption></figure><div>Sear</div></td>
@@ -133,7 +131,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Gluttony.png<figcaption></figcaption></figure><div>Gluttony</div></td>
-  <td><div><p>Steals hunger and thirst on hit based on damage dealt. (More damage equals more hunger and thirst stolen) Steals a high amount of hunger from monsters and NPCs, however this doesn't cause them to starve.</p>
+  <td><div><p>On hit, steals hunger and thirst from the target based on damage dealt.<br>
+  Gain a high amount of hunger from monsters and NPCs due to PVE damage scaling.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -163,7 +162,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorn</div></td>
-  <td><div><p>After parrying a player or npc’s attack they will receive 3% of their max hp in damage a moment later. This enchant is most well used for making farming Primadon trivial.</p>
+  <td><div><p>After parrying an attack, the attacker gets hit by a delayed attack that deal&nbsp;?% <sub>(damage got buffed, please find new value)</sub> of their max HP. Is affected by PVE damage scaling. Maximum damage is capped at 500.</p>
   <p><br>
   </p></div></td>
 </tr>

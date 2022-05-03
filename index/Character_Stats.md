@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 26853
+revid: 29097
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -69,10 +69,9 @@ _Each player gets 327 investment points per slot, from Level 1-60._
     -   **Wind Armor:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
     -   **Shadow Armor:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
 
-### Damage Vs.
+### Damage Vs. Monsters
 
--   Bonus damage targeted at a certain family of [Monster](Monsters.md).
--   Megalodaunt coat have a similar stat named MonsterDamageBoost, which is similar to Damage Vs. but work on every monsters.
+-   Bonus damage against [Monsters](Monsters.md).
 
 ## Talent Bonuses
 

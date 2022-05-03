@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29050
+revid: 29093
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -237,52 +237,91 @@ _Requires Power 40_
 
 **Arms:**
 
-| Image | Armor | Common Effects | Primary Source |
-| --- | --- | --- | --- |
-|  | Hunter's Brace | Makes usually parry breaking moves parriable. (e.g. Sharko kick, Golem throw) disappears on death or leaving the game. | Summer Isle |
-| File:Autumn pauldrons.png | Autumn Pauldrons | Grants a random buff. | Erisia Chests |
-| File:Black Fur Pauldrons.png | Black Fur Pauldrons | Grants a random buff. | Erisia Chests |
-| File:Blacksteel Pauldron.png | Blacksteel Pauldrons | Grants a random buff. | Erisia Chests |
-| File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests |
-|  | Leather Pauldrons | Grants a random buff. | Erisia Chests |
-|  | Steel Pauldrons | Grants a random buff. | Erisia Chests |
-| File:Simple Pauldrons.png | Simple Pauldrons | Grants a random buff. | Erisia Chests |
-|  | Tracker's Brace | Grants a random buff. | Erisia Chests |
-| File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests |
-|  | Ranger's Brace | Grants a random buff. | Erisia Chests |
-| File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests |
-| File:Sharko coat.png | (Red) Megalodaunt Coat | Grants 3 random stats with at least one being monster related.
-_Requires Power 30_
-
- | Megalodaunts Drop |
-| File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
-| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest |
-| File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
-
-_\+ 10 health_
-
-_\+ 2 posture_
-
- | Fort merit Chests |
+| Image | Armor | Common Effects | Primary Source | Variants |
+| --- | --- | --- | --- | --- |
+|  | Hunter's Brace | Makes usually parry breaking moves parryable. (e.g. Sharko kick, Golem throw) disappears on death or leaving the game. | Summer Isle | N/A |
+|  | Ranger's Brace | Grants a random buff. | Erisia Chests | N/A |
+|  | Tracker's Brace | Grants a random buff. | Erisia Chests | N/A |
+| File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests | N/A |
+| File:Autumn pauldrons.png | Autumn Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+| File:Black Fur Pauldrons.png | Black Fur Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+| File:Blacksteel Pauldron.png | Blacksteel Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+| 
+ | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
+| File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
+| File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+|  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
 
- | Bluesteel Pauldrons | Grants a random buff. | Arena Chests |
-| File:Aristocrat Coat.png | Aristocrat Coat | Grants a random buff.
+ | Redsteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
+| File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants a random buff. | Hive Chests, Depths Chests | N/A |
+| File:Simple Pauldrons.png | Simple Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+|  | Steel Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+| File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
+
+"_\+ 10 health_ _\+ 2 posture_"
+
+ | Fort Merit Chests | N/A |
+| File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
+|  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
+| File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
+| File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
+| File:Grayjusticarcoat.png | Adjudicator Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
 
- | Summer Isle Scope Quest |
-| File:Gumshoe Long Coat.png | White Gumshoe Longcoat | Grants a random buff. | Songseeker Chests |
+ | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable (Work in progress) |
+| 
+
+ | Adventurer Coat (Series) | Grants a random buff. | Duke Chests | (Work in progress) |
+| File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
+
+_Requires Power 40_
+
+ | Summer Isle Scope Quest | Beige (Work in progress) |
+| File:Royal Auth Commander.png | Authority Commander Coat (Series) | Grants a random buff. | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian, Verdant (Work in progress) |
+| File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
+
+_Requires Power 40_
+
+ | Nautilodaunt (Very Rare) | N/A |
+| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud (Work in progress) |
+| File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre, White (Work in progress) |
+| File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
+
+_Requires Power 40_
+
+ | Aelita Chests, Minityrsa Chests, Depths Chests | Faded (Work in progress) |
+| File:Sharko coat.png | Megalodaunt Coat (Series) | Grants 3 random stats with at least one being monster related.
+
+_Requires Power 30_
+
+ | Megalodaunts Drop | Red (Work in progress) |
+| File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
+
+_Doesn't need any power, but obviously needs a mantra to get it_
+
+ | Aelita Chests | N/A |
+| File:Pale.jpg | Pale Assassin's Cloak | Grants a random buff.
+
+_Requires Power 30_
+
+ | Hive Chests, Minitrysa (Rogue Mech) Chests, Depths Chests, Common from Primadon | N/A |
 |  | Providence Coat
 
 (Legendary)
 
- | Grants a random buff. | Primadon Chests, Depths Chests |
-| File:Red justicar defender coat.png | Faded Justicar Defender Coat | Grants a random buff.
+ | Grants a random buff. | Primadon Chests, Depths Chests | N/A |
+| File:Dark Royal Duelist.png | Royal Duelist (Series) | Grants a random buff.
 
 _Requires Power 40_
 
- | Aelita Chests, Minityrsa Chests, Depths Chests |
+ | Songseeker Chests, Minitrysa Chests | Dark, Stained (Work in progress) |
+|  | Royal Pathfinder | Grants a random buff.
+
+_Requires Power 30_
+
+ | Hive Chests, Depths Chests | N/A |
 |  | Star Duster
 
 (Legendary)
@@ -291,53 +330,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Duke Chests, Primadon Chests, Depths Chests |
-|  | Royal Pathfinder | Grants a random buff.
-
-_Requires Power 30_
-
- | Hive Chests, Depths Chests |
-| File:Pale.jpg | Pale Assassin's Cloak | Grants a random buff.
-
-_Requires Power 30_
-
- | Hive Chests, Minitrysa (Rogue Mech) Chests, Depths Chests, Common from Primadon |
-| File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
-
-_Doesn't need any power, but obviously needs a mantra to get it_
-
- | Aelita Chests |
-| File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants a random buff. | Hive Chests, Depths Chests |
-|  | Woodland Pauldrons | Grants a random buff. | Hive Chests |
-| 
-
- | Redsteel Pauldrons | Grants a random buff. | Arena Chests |
-| File:Royal Auth Commander.png | Authority Commander Coats | Grants a random buff. | **Variations**: Amber, Stygian, Ruby, Verdant, Bronze, Gold, Royal | Fort Merit Chests |
-| File:Grayjusticarcoat.png | Adjucator Coats | Grants a random buff. **Variations**: Sable, Pink, Beige, Rural, Ash,
-
-_Requires Power 40_
-
- | Fort Merit Chests |
-| File:Dark Gumshoe Longcoat.png | (Dark) Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Dread Serpent |
-| File:Ochre Gumshoe Coat.png | (Ochre) Gumshoe Longcoat | Grants a random buff. | Songseeker Chests, Fort Merit Chests |
-| File:Dark Royal Duelist.png | Royal Duelist Armor | Grants a random buff.
-
-_Requires Power 40_
-
- | Songseeker Chests, Minitrysa Chests |
-| File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
-
-_Requires Power 40_
-
- | Nautilodaunt (Very Rare) |
-| File:First ranger.png | (Blue) First Ranger Duster | Grants a random buff.
-
-_Requires Power 40_
-
- | King Thresher |
-| File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests |
-|  | Adventurer coat | Grants a random buff. | Duke Chests |
-| File:Cloud First Ranger Duster.png | Cloud First Ranger Duster | Grants a random buff. | King Thresher |
+ | Duke Chests, Primadon Chests, Depths Chests | N/A |
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29075
+revid: 29080
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -271,10 +271,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Critical Specialist
 
--   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health) \[NOTE: Procs per enemy hit, not per stab you swing.\] \[ It wasn't intended for weapons such as fist and rapier to crit with it, it has been removed from these weapons\]
+-   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health)
+    -   Crit procs are rolled for each individual target, not per swing.
+    -   Only works on daggers.
 -   Prerequisite: 30 Light
--   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health) \[NOTE: When Procced Hits Enemy An Extra Hit\]
--   Prerequisite: 75 Light Dagger
+-   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
+    -   Critical Strike can attack twice.
+    -   Prerequisite: 75 Light Dagger
 
 ### Cryomancer
 

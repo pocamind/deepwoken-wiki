@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 29072
+revid: 29096
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -49,7 +49,7 @@ Notes:
 
 -   The same gunsmith that offers firearms also allows you to 1v1 players in a more controlled fashion in the Brawling Arena above the steaming vents of the Island, below the castle.
 -   Talking to him will queue you for a duel until another player also queues for a 1v1, in which a battle will be initiated in the said arena.
--   The Summer Company Guards will still get mad at you for attacking your opponent in the arena
+-   The Summer Company will not get angry if you hurt a player during this session.
 
 ### _**Forge**_
 
@@ -58,20 +58,7 @@ Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 item
 -   It costs 1000 Notes per smelt, regardless of the items being smelted.
 -   The first item you hold out to him will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
 -   If you hold out an item to keep the stats of and then you cancel his dialogue, that item will be lost forever
--   This will _not combine_ stats, only replaces them. (This may be a bit misleading, as forging items is insanely overpowered. Some forged armor pieces can have hp well over 20, and it works for nearly any armor piece if you follow the right protocols.)
-
-#### _**How Forging Works:**_
-
-We'll note the items this way:
-
--   Items that you wish to keep the stats of = IS
--   Items that you wish to keep the appearance of = IA
-
-1.  Trying to transfer a IS with worse stats to a IA with better stats = the IA will have it's stats downgraded.
-2.  Trying to transfer a IS with better stats to a IA with worse stats = the IA will have it's stats upgraded.
-3.  Trying to transfer a IS with any stats to a IA with no stats = the IA will obtain the said stats, but will get downgraded slightly.
-
-~In conclusion, forging is _very, very overpowered_ as you can get gear that has atleast **60 hp** if you play your cards right.~ This is not true anymore since they nerfed forging, can only be used to make cool outfits with low health have a decent amount of health.
+-   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.
 
 ### _**Inn**_
 
@@ -145,11 +132,12 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 
 ### NPC events:
 
--   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives. Which you can turn in for a chance at good loot.
+-   Summer Company Thugs with Ignition Union Footsoldiers dead, surrounding a crate with explosives, which you can turn in for a chance at good loot.
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
--   Ignition Union Footsoldiers fighting with Summer Company Thugs. \[Can now earn reputation towards the Summer Company or the Ignition Union\]
--   Ministry Scout and several Bandit corpses around themselves.
+    -   A random combination of them in groups of three, any combination can spawn except three Bandit Captains.
+-   Ignition Union Footsoldiers fighting with Summer Company Thugs.
+-   A Ministry Scout sitting at a campfire with several Bandit corpses around them.
 -   Nomads fighting off Ministry Scouts.
 
 ### **Clearing Bad rep.**
@@ -180,9 +168,7 @@ Answering the second dialogue option will have Asius reluctantly hand you an inv
 
 Scope can be found in a building opposite to the blacksmith in the above image mentioning the Blacksmith. He needs you to recover boxes of explosives that Summer Company guards cannot deliver at the time, due to being too busy fighting off the Ignition Union.
 
-These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post battle. Returning to Scope with one of these big boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
-
-Please note, that fighting the Ignition Union with the Summer Company will not net you positive reputation for them.
+These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these big boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
 
 -   Scope could be a pun based on sniper rifles and other guns that have a "scope".
 
@@ -198,13 +184,7 @@ _Positive rep with the Summer Company, after delivering a box of explosives._
 
   
 
-  
-
-  
-
-  
-
-## Loot
+_Loot_
 
 Possible items found after completing Scope's quest
 
