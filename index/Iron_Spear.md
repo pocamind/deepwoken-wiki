@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 28635
+revid: 29184
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -30,10 +30,10 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Iron Spear is a MED weapon that can be bought for 25 silver at the weapon store. It is a really effective weapon early game because of its range.
+The Iron Spear is a MED weapon that can be bought for 25 Notes at the weapon store. It is a really effective weapon early game because of its range.
 
 ## Notes
 
 -   The spear stances can be switched between two and one hand with Y.
 -   Spears are the lowest attack speed medium weapons, but also the highest damage.
--   This weapon has no stat requirement,
+-   This weapon has no stat requirement.

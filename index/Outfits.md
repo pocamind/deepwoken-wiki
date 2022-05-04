@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29168
+revid: 29188
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -224,7 +224,7 @@ _\+ Talent: Blinded_
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.
 _Requires Power 40_
 
- | Summer Isle Chest Rewards | Emerald, Rose, Shade, Onyx (Work in progress) |
+ | Summer Isle Chest Rewards and fishing | Emerald, Rose, Shade, Onyx (Work in progress) |
 
 **Arms:**
 
@@ -276,7 +276,7 @@ _Requires Power 40_
 _Requires Power 40_
 
  | Nautilodaunt (Very Rare) | N/A |
-| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud (Work in progress) |
+| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud, Jade (Work in progress) |
 | File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre, White (Work in progress) |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
@@ -287,7 +287,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Megalodaunts Drop | Red, Purple (Work in progress) |
+ | Megalodaunts Drop | Red, Purple, Brown, Green, Blue (work in progress) |
 |  | Ministry Cloak (Series) | Placeholder | Placeholder | Placeholder |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
