@@ -1,9 +1,9 @@
 ---
 title: Legion Shield
-revid: 27949
+revid: 29150
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Enemies, Locations, Races, Random Encounters, Attributes]
+categories: [Weapons, Weaponry]
 ---
 
 # Legion Shield

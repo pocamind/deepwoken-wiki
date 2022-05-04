@@ -1,11 +1,9 @@
 ---
 title: Lore
-revid: 28965
+revid: 29146
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Weapons, Weaponry, Boss, Enemies, Attunement, Attributes, Reputation, Resonance, Races, Random Encounters, Guilds, World, Armors, Food, Character, Combat Mantras]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pages with broken file links, World]
 ---
 
 # Lore
@@ -989,6 +987,10 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   They all share a common prey, that being the inhabitants of the Deepwoken world, which is what separates them from regular animals.
 -   Some gain special abilities from being in the Depths, and all of them can become corrupted, enhanced monsters signified by the purple smoke they emit.
 -   A select few "monsters" are artificial, namely the Rock Golems and Hive Constructs.
+-   Monsters have a variety different origins.
+    -   Some simply evolved like normal animals, trying to survive in the broken world.
+    -   Some are native to The Depths and found their way to the surface.
+    -   Some were normal animals, but The Depths' influence altered them.
 
 ### Megalodaunts
 
@@ -1017,12 +1019,33 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 ### Mudskippers
 
+-   Zombie-like creatures with coral growing out of their head, found in various hues and stages of decay.
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
 
 ### Primadon
 
--   Despite his huge size Primadon is belived to be a baby fish monkey.
+-   Despite his huge size Primadon is believed to be a baby fish monkey.
 -   Not much is known about Primadon, other than that he comes from the sea.
+
+### Brainsuckers
+
+-   Large animals that resemble bats, but with some features that resemble insects as well.
+-   They originated in The Depths, but found their way to the surface and have begun reproducing there as well.
+    -   They particularly favour regions in The Aratel Sea.
+    -   Though their natural habitat is The Depths, none are actually found down there.
+        -   This could be because, being bats, they prefer environments with fewer transients passing through, and thus inhabit deeper Layers.
+            -   As no Brainsuckers are seen heading to the surface, this would imply there is a method to get straight from at least the second Layer of The Depths straight to the overworld.
+        -   Alternatively, the conditions in the overworld may have just been more favourable, and they have all migrated there and left The Depths behind.
+
+### The Enforcer(s)
+
+-   A legion of creatures clad in black armor that serve as loyal soldiers of [The Voices](Voices_of_the_Depths.md).
+
+### Nautilodaunt
+
+-   Humanoid squid monsters found digging in [The City of Celtor.](The_City_of_the_Drowned.md)
+-   Though one is only seen at a time, there are multiple of them.
+    -   They may be very territorial, thus not letting others in to their digging spot.
 
 ## Player Lore
 
@@ -1177,7 +1200,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 ## Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
--   In 1/06/2022, Arch\_Mage revealed lore of both Vesperian & Ganymede's past in the Official Deepwoken Discord Server. Thus, the makings of "Ancestors of Ganymedes & Vesperians".
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
 -   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.

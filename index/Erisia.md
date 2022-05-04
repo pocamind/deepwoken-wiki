@@ -1,9 +1,9 @@
 ---
 title: Erisia
-revid: 28001
+revid: 29136
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Islands]
 ---
 
 # Erisia
@@ -12,7 +12,7 @@ LocationL Erisia LocationR
 
 TERRITORY OF
 
-An Island that drifted from [the Void Sea](Voidsea.md). A place, crawling with opportunists. Perhaps, there's still something to find?
+A land lost to time, now made a battleground for warriors who know not why they fight.
 
   
 
@@ -22,8 +22,9 @@ An Island that drifted from [the Void Sea](Voidsea.md). A place, crawling with o
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Upper Erisia](Upper_Erisia.md)
+-   [Burning Stone Gardens](Burning_Stone_Gardens.md)
 
 ## Trivia
 
--   Erisia is frequently referred to as "Bandit Island" by playerS.
+-   Erisia is frequently referred to as "Bandit Island" by players.
 -   As a whole, Erisia is the second largest landmass in Deepwoken, second to [Aratel Island](Aratel_Island.md).

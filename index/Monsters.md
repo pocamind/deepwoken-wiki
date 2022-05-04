@@ -1,9 +1,9 @@
 ---
 title: Monsters
-revid: 28436
+revid: 29138
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Talents, Mantras, Locations, Mechanics, Map]
+categories: [Monsters, Mechanics]
 ---
 
 # Monsters
@@ -176,4 +176,3 @@ If you were to fight a Stone Knight, which has a 55% resistance to slashing, wit
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
 -   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap
     -   It's unknown what typing that Alpha Megalodaunts are, as they're a Megalodaunt variant, but only found in The Depths.
--   Crustaceous Rex takes much more damage when hit with blunt weapons.

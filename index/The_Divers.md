@@ -1,9 +1,9 @@
 ---
 title: The Divers
-revid: 25686
+revid: 29149
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Guilds, NPCs, NPC, Npc, Locations, Dialogue, Death, Deepwoken, Reputation, Random Encounters, Races, Attunement, Armors, Attributes]
+categories: [In progress with reason, InProgressPages, Guilds, Reputation]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -47,7 +47,7 @@ Note: don't mess with him
 
 **Pleeksty**: Amorus Pleeksty is rumored to be dead. As a former Black Diver, he still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He was last rumored to have been seen in Layer 3 attaining something that gave him unimaginable power. He was one of, if not the strongest Flamecharmer in the entire Luminant.
 
-## Notes
+## Trivia
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
 -   Current leader of The Divers is SoftSnowOwl
@@ -56,4 +56,4 @@ Note: don't mess with him
     -   colddeathmaker
     -   R0bustic
     -   ViolaIsSilent
--   Killing a [nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
+-   Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.

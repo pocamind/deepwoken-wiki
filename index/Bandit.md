@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 25744
+revid: 29139
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -35,12 +35,12 @@ Bandits can be seen wielding Starter Weapons, like [Stilettos](Stiletto.md), [Sw
 
 ### Combat
 
-Bandits only use Light Attacks and don't typically parry or block.
+Bandits use Light Attacks and rarely Critical Attacks, and are incapable of parrying. On rare occasion, some can block your attacks.
 
 ### Drops
 
 Bandits have a chance to drop lesser variants of [Mantra Modifiers](Mantra_Modifiers.md).
 
-## Trivia/Notes
+## Trivia
 
--   According to the lore, they have turned to a life of crime due to the affect the War has had on the East, causing jobs to become scarce
+-   According to the lore, they have turned to a life of crime due to the affect the War has had on the East, causing jobs to become scarce.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 29038
+revid: 29152
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1102,7 +1102,7 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Crypt_Blade.md">Crypt Blade</a></td>
   <td>75 SHD, 40 HVY</td>
-  <td>26</td>
+  <td>23</td>
   <td>N/A</td>
   <td>SHD: 10 HVY: 5</td>
   <td>9</td>
@@ -1151,19 +1151,9 @@ Players can use [this formula](https://www.desmos.com/calculator/sbokgffwxn) to 
 
 _**Damage = BaseDmg + AttributeLevel((BaseDmg / 1000) ⋅ Scaling))**_
 
-Weapons with two scaling factors (Legendary weapons) will have a slightly different formula to work with.
+Weapons with two scaling factors (Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.
 
-_**Damage = BaseDmg + \[(AttributeLevel1 + AtrributeLevel2)⋅(BaseDmg/1000)⋅Median of Scale1 and Scale2**_
-
-OR you can use this format
-
-Curved Blade of Winds:
-
-_**Damage = 17.5 + (Weapon Attribute + Galebreathe Attribute)⋅(17.5/1000)⋅4.5**_
-
-I don't own a crypt blade so somebody else can add the formula for that
-
-(Another way to decide damage, which may be easier for some people, is consider the scaling a percentage of your base damage. Lets say, 8 scaling is 80% - by this logic, Tanto will deal 180% damage at max LHT, or in other words, 16\*1.8 = 28.8. As such, weapons with 10 scaling always have double the base damage at max LHT, for example, a krulian has 27 at 13.5 base.)
+_**Damage = BaseDmg + AttributeLevel1((BaseDmg / 1000) ⋅ Scaling1)) + AttributeLevel2((BaseDmg / 1000) ⋅ Scaling2))**_
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 
