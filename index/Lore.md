@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 29146
+revid: 29169
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -205,6 +205,10 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A location affected by a Great Drowning.
 -   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
+
+### **Western Luminant**
+
+-   The home to the Eleventh Legion
 
 ### **Voidsea**
 
@@ -978,6 +982,45 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
   
 
+## Deepwoken: 1271~
+
+This category lists new lore that has been added into Deepwoken through updates. This will cover what lore has been dropped, and the date it has been found or released.
+
+### Year 1277
+
+(Celestial Telescope Dialogue Update, \[1/15/2022)
+
+-   (Celestial Telescope) The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the city crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
+
+### Year 1283
+
+(PVP Arena, Trial of One, Visionshaper Oath Update, \[2/08/2022\])
+
+-   (PVP Arena) In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
+-   (Trial of One) In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
+-   (Visionshaper Oath) In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
+
+### Year 1291
+
+(Sharko Day, \[3/12/2022\])
+
+-   (Sharko Day) In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
+    -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
+
+### Year 1293
+
+(Sibex Bell Check NPC, \[3/21/2022\])
+
+-   (Sibex NPC) During the cold winters of the Year 1293, a mysterious Celtor accompanied by a Wisp emitting music arrived on Aratel Island; located ontop of a Hivelord Statue outside of Aratel Island, near Summer Isles.
+    -   Sibex, his name was. He grants those to check their Resonance by simply listening closer to your Soul.
+
+### Year 1296
+
+(Mudskipper Day \[4/01/2022\])
+
+-   (Mudskipper Day) _Grggrl. Grrggl. Grgrlglrgl grrgl. Grgrglrgl._
+    -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
+
 ## Monsters
 
 The various fauna of the Deepwoken world, the bizarre environment shaping even stranger animals.
@@ -1076,45 +1119,6 @@ At the year 1271 of Spring, The Player makes their first appearance in the world
 
 -   Each Character Slot has their own legacy; not just shared. Because of this, if one of your character slots has all attunements and wiped, they unlock it for themselves but not for others.
     -   For the confused folk, each Character Slot acts like a different account.
-
-## Deepwoken: 1271~
-
-This category lists new lore that has been added into Deepwoken through updates. This will cover what lore has been dropped, and the date it has been found or released.
-
-### Year 1277
-
-(Celestial Telescope Dialogue Update, \[1/15/2022)
-
--   (Celestial Telescope) The Celestial City discovered by the Celestial Telescope is pulled by the World's Gravity. Possibly in the next decade or so, will the city crash down into the surface. A decade in game is 40 days, so maybe this update will come in the next few months.
-
-### Year 1283
-
-(PVP Arena, Trial of One, Visionshaper Oath Update, \[2/08/2022\])
-
--   (PVP Arena) In the Autumn of Year 1283, a [Capra drunkard](Yamaketzal.md) stumbles near the Songseeker Temple. Claimed to be a nobody or the notorious people across the Luminants, he bestows passing adventurers the Chime of Conflict. Those who ring this bell are transported to a reality different from ours.
--   (Trial of One) In the Autumn of Year 1283, Minityrsa rumbles; The Trial Doors opens for the first time in centuries; within the cavities of a courtyard occupied by The Ministry.
--   (Visionshaper Oath) In the Autumn of Year 1283, A certain individual can now be talked to within the 1st Layer of the Depths; in a cave occupied by a Widow. He is not what he seems, as one's eyes are fooled by illusion.
-
-### Year 1291
-
-(Sharko Day, \[3/12/2022\])
-
--   (Sharko Day) In the midst of the Year of 1291, during the frigid Winter, a thundering roar and rumbling shakes the waters of the New World. From the cold waters emerges the millions of Megalodaunts- trampling over islands and civilizations until there are no more left.
-    -   After the rumbling has subside, plunder and riches rise from the devastated lands laid bare to the Megalodaunts. Strange and inscrutable ways of the Deep, the people who survived found themselves in prosperity.
-
-### Year 1293
-
-(Sibex Bell Check NPC, \[3/21/2022\])
-
--   (Sibex NPC) During the cold winters of the Year 1293, a mysterious Celtor accompanied by a Wisp emitting music arrived on Aratel Island; located ontop of a Hivelord Statue outside of Aratel Island, near Summer Isles.
-    -   Sibex, his name was. He grants those to check their Resonance by simply listening closer to your Soul.
-
-### Year 1296
-
-(Mudskipper Day \[4/01/2022\])
-
--   (Mudskipper Day) _Grggrl. Grrggl. Grgrlglrgl grrgl. Grgrglrgl._
-    -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
 
 ## Miscellaneous
 

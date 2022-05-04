@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 28231
+revid: 29165
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -33,13 +33,12 @@ Zweihänder is a two-handed Heavy Weapon of the Greatsword category. It can be o
 
 This weapon has no special effects or passives.  
 
-## Notes
+## Trivia
 
 -   Has the best range a Heavy Weapon could have.
 
 -   "Zweihänder" means "Two-handed sword" in German.
-
--   Pronounced "Zv-eye-hander" (yes, with a V not a W)
+    -   Pronounced "Zv-eye-hander."
 
   
 

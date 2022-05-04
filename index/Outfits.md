@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29114
+revid: 29168
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -393,7 +393,7 @@ _Requires Power 40_
 
 (Legendary)
 
- | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1) | Aelita Chests, Arena Chests |
+ | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1) | Aelita Chests, Arena Chests, Duke Chests |
 |  | Moon Ring
 
 (Legendary)

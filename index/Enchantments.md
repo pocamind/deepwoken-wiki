@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29122
+revid: 29155
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -77,7 +77,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>On proc, does 2x m1 damage on players (scales different in PVE)</p>
-  <p>Chance to receive damage, when you receive damage, at the same time your m1 damage is multiplied 3x (scales different in PVE)</p></div></td>
+  <p>Chance to receive damage, when you receive damage, at the same time your m1 damage is multiplied 3x (scales different in PVE)</p>
+  <p>A sound will be played when held out, your weapon turns black and see through</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -315,8 +316,7 @@ Viscosity
 
  | 
 
-Damage dealt to the user is reduced and dealt over time. You will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage). More damage you take, more damage will be dealt over time.  
-The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.  
+(Did my own testing) User takes 1/10 of the initial incoming damage every .25 seconds for 10 ticks. As far as I can tell there is no overall reduction in damage, it is simply moved to damage over time. The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.  
 Disabled if using Curse of the No Life King.
 
   

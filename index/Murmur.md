@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 28829
+revid: 29162
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -71,6 +71,14 @@ Murmur: Tacet can be obtained by completing 15 assassinations for [Cestis](Cesti
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
 You may also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. This is appears to be bugged, users have found the npc with 10 charisma, still failed the charisma check, and straight up bugged out leaving them unable to die when gripped.
+
+## Murmur: Adagio
+
+Adagio allows the user to slow people around them by making a strange, vibrating noise, creating an expanding bubble around them. Anyone who walks into this bubble will be slowed and their view given a monochrome palette. The people inside are slowed to the point where they cannot move while crouched. This can be easily cancelled by attacking the user therefore disrupting the noise.
+
+There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back. This can make fighting inside it almost impossible as enemies will have double the swing speed, making it impossible to land hits, and making parrying extremely hard.
+
+The only users of this Murmur are The Knives of Eylis captains, with the Murmur itself being unobtainable. (This is not a confirmed murmur, just speculated due to overwhelming similarities to other murmurs. The player unlockable version is a rumour and all image proof of it is fake.)
 
 ## Murmur: Rhythm
 
