@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 28523
+revid: 29210
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -42,6 +42,7 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 -   They are actually "Lesser Angels" although normally referred to as "Angels" for convenience
 -   Fire Blade and Rapid Punch can easily kill the Angel since this skill stuns the enemy and you can use that stun time to hit the angel.
 -   Probably a reference to the angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
+-   Asuka's biggest nightmare
     
 
 **Regular:**

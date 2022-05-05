@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 28502
+revid: 29209
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -49,7 +49,8 @@ Big purple jellyfish, found in _**[The Depths](The_Depths.md)**_
 ## **Attacks**
 
 -   **Summon** - Summon and launch 3 Jellyfish, the summoned jellyfish will die after using a stun pulse.
--   **Greater Stun Pulse** - Purple AOE attack that deals approx. Deals _**30 damage**_.
+-   **Greater Stun Pulse** - Blue electric, stunning attack, presumably AOE. Can be blocked. Deals _**30 damage**_.
+-   **Static Discharge** - Purple AoE attack that knocks you back and stuns you for a short duration. Can be blocked, still knocks back.
 
 ## Notes/Trivia
 

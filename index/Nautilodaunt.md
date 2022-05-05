@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 28942
+revid: 29212
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -42,7 +42,7 @@ It can be found digging in the marketplace area near the gate, but will run towa
 
 Nautilodaunt has been described by the best of players, testers, mods, and even developers as the _most dangerous_ monster in the entire game.
 
-Statewise, Nautilodaunt is actually very low, nowhere near as close to Primadon, Dread Serpent, or even The Enforcer. He has a mere 1000 health, identical to a Megalodaunt, and at higher levels, PVE scaling can easily make this in the 400-500~. Additionally, his damage is quite low as compared to something like Primadon's stomps.
+Statewise, Nautilodaunt is actually very low, nowhere near as close to Primadon, Dread Serpent, or even The Enforcer. He has a more 1000 health, identical to a Megalodaunt, and at higher levels, PVE scaling can easily make this in the 400-500~. Additionally, his damage is quite low as compared to something like Primadon's stomps.
 
 However, what Nautioodaunt lacks in stats, he makes it up with a horrifying amount of intelligence, the largest array of abilities and attacks in the entire game, mix-up potential that would throw off even the best players, and the ability to **block, parry, and dodge.**
 
