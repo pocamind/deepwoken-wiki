@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 28608
+revid: 29201
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry]
@@ -26,7 +26,7 @@ The guns currently in game are: [Flintlock](Flintlock.md), [Revolver](Repeater.m
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
-There's a gun technique that you can learn from a quest giver outside the inn at Summer Isle. The man that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. However, choosing the 1st option and going back to the gun trainer will spawn Summer Company Gunslingers to kill you. (You need a gun because when my friend did it, he received nothing + needs testing because we don't know).
+There's a gun technique that you can learn from a quest giver outside the inn at Summer Isle. The man that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. However, choosing the 1st option and going back to the gun trainer will spawn Summer Company Gunslingers to kill you. ~(You need a gun because when my friend did it, he received nothing + needs testing because we don't know)~. Confirmed that you get the talent, you just need to roll it. You get it regardless of weapon.
 
 The Summer Gun Technique that he gives you is currently unimplemented. (?)
 

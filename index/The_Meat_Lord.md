@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 28215
+revid: 29198
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -32,3 +32,9 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 -   Trying to buy something from him with not enough money will make him stop selling to you too
 -   He sells the meat at very low prices, it is only 2 notes a pop.
 -   Actually god??????
+-   Stated by Par that The Meat Lord can no diff any drowned god.\*
+    
+    Mr Goozer's message.
+    
+-   Agamatsu asked Ragoozer on who would win Big Hoss or the Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
+-   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
