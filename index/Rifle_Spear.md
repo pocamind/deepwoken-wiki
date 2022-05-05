@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 28276
+revid: 29193
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -32,11 +32,9 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 
 ― Level 40 Etrean about to use their stupidly hard to parry combo starter/extender
 
-  
-
 ## Description
 
-The Rifle Spear, commonly referred to as the "Freedom Spear," is a Medium weapon and is the best spear in the game. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
+The Rifle Spear is a Medium weapon and is the best spear in the game. It can be obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
 The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots a projectile which does not consume Ether. It has the same speed and sound effect as any other gun.
 
