@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29208
+revid: 29221
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -255,6 +255,7 @@ _Requires Power 40_
  | Fort Merit Chests | N/A |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
+| File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
 | File:Grayjusticarcoat.png | Adjudicator Coat (Series) | Grants a random buff.
@@ -287,7 +288,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Megalodaunts Drop | Red, Purple, Brown, Green, Blue (work in progress) |
+ | Megalodaunts Drop | Red, Purple, Brown, Green, Blue (Work in progress) |
 |  | Ministry Cloak (Series) | Placeholder | Placeholder | Placeholder |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 

@@ -1,6 +1,6 @@
 ---
 title: "Rat's Den"
-revid: 22379
+revid: 29230
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,8 +26,8 @@ Outside, a Golden Rat Bouncer will tell you to enter. If you obtain 5 Gold Plate
 
 _Rat Fighters are equipped with heavy weapons. The enemies will use the Galebreathe Mantras Gale Lunge and Heavenly Wind._
 
-## Trivia/Notes
+## Trivia
 
 -   The bouncer in front of the establishment has tons of health, yet will not grip you. Use him as farming fodder.
     -   The bouncer also has the Divine Axe on his back, which is a weapon from the [Crazy Slots](Crazy_Slots.md) Resonance.
--   Across [Upper Erisia](Upper_Erisia.md), there are Golden Legendary Warriors that will say "Wanna fight? I'll give you the first hit, actually three!" which drop Gold Plates upon beating the warrior
+-   The [Golden Warriors](Golden_Warrior.md) likely originate from here.

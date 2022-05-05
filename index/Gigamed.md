@@ -1,20 +1,12 @@
 ---
 title: Gigamed
-revid: 29209
+revid: 29216
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Gigamed
-
-“ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!! ”
-
-― Local Deepwoken player literally turning into Goku after dying to a normal gigamed.
-
-“ Look Patrick, it's a Jellyfish! ”
-
-― Lvl 1 Adretian Freshspawn walking towards a King Jellyfish to his death
 
 **Gigamed:**
 
@@ -39,6 +31,10 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
     
 
 **King Gigamed:**
+
+“ Look Patrick, it's a Jellyfish! ”
+
+― Lvl 1 Adretian Freshspawn walking towards a King Jellyfish to his death
 
 Template:Creature Infobox V3
 

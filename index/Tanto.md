@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 28843
+revid: 29225
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,4 +34,4 @@ The tanto is a Dagger and it is tied for the third highest tier dagger in the ga
 
 ## Notes
 
--   Quite rare compared to the [Nemit's Sickle](<Nemit's_Sickle.md>)
+-   Quite rare compared to the [Nemit's Sickle](<Nemit's_Sickle.md>).

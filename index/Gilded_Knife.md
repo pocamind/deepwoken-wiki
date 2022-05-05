@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 29163
+revid: 29226
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,8 +34,9 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-Gilded knife is obtainable through [Erisia](Erisia.md) chest
+The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.md) chests. It is a very good weapon for early to mid game for it's high base damage, low requirement and scaling.
 
 ## Trivia
 
 -   This acts as the lowest tier enemy weapon for daggers, and is the only weapon that isn't a starter weapon to do so.
+-   Color scheme pairs really well with a [Dragoon](Dragoon.md) gun.
