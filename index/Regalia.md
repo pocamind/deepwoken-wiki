@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 29251
+revid: 29254
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -24,33 +24,6 @@ Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock m
 or it just random because 1 i didn't do trial of one 2i get it after i wipe as a freshie and reroll)
 
 Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
-
-## Termite
-
-“ Oh boy, an amethyst! My favorite! “ ”
-
-― - Level 20 canor, eating literally everything in sight.
-
-"You can eat things that most would consider inedible."
-
-Gain the ability to consume non-food items.
-
-List of known items you can and can not eat as of March 3rd 2022
-
--   ~spider eggs~
--   Urchins
--   Gems (e.g. emerald, diamond, ruby, gold, platinum, etc.)
--   ~wood and sticks~
-
-### Theorized Obtainment Methods
-
--   ~Eat many types of ingredients~
--   ~Throw up many times~
--   ~Craft a certain number of different foods~
--   ~Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)~
--   Get the talent Iron Gut and Wipe, once in fragments of self proceed to wipe and you should get the card termite to appear on the left side of the screen, then you will have termite in your next life, however when you look into the talent page it will not be there but you will still have it. ( Iron Gut on Herbalist Hat does not count) Iron Gut's Requirement Is 10 Fortitude.
-
-_**IS CURRENTLY BUGGED**_
 
 ## Mute (Animal King)
 

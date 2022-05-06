@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29155
+revid: 29260
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -66,7 +66,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove more blood on hit. If above 10% HP, missing an M1s deal 1% of max HP as self damage. Landing a hit on a block/parry/dodge will not count as a miss. It also plays a sound effect when held out.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and remove more blood on hit. If above 10% HP, missing an M1s deal 1% of max HP as self damage. Landing a hit on a block/parry/dodge will not count as a miss.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -77,8 +77,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>On proc, does 2x m1 damage on players (scales different in PVE)</p>
-  <p>Chance to receive damage, when you receive damage, at the same time your m1 damage is multiplied 3x (scales different in PVE)</p>
-  <p>A sound will be played when held out, your weapon turns black and see through</p></div></td>
+  <p>Chance to receive damage, when you receive damage, at the same time your m1 damage is multiplied 3x (scales different in PVE)</p></div></td>
 </tr>
 </tbody>
 </table>

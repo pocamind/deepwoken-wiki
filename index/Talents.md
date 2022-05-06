@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29246
+revid: 29256
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -866,9 +866,10 @@ These Talents are designed to let you survive against starvation and thirst by l
 
 -   Herbivore \[Generic Talent, Common Talent\] - You gain more nutrition from eating plants. (+2 Health)
 -   Iron Gut \[Generic Talent, Common Talent\] - You have resistance against being poisoned by foods.
-    -   Prerequisite: From Herbivore
--   Termite \[Generic Talent, Common Talent\] you can eat things most would consider inedible.
-    -   Prerequisite: I believe Iron Gut is required. I don't know more, though. Also, something is needed to be done with a wipe, as I've seen, on one of my slots, I get the card "Termite" as I wipe, yet I know nothing else.
+    -   Prerequisite: Herbivore
+-   Termite \[Generic Talent, Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
+    -   Prerequisite: Iron gut
+    -   Unlock requirement: Wipe with the Iron Gut talent (must be the actual talent, not given by armor)
 
 ### Survivor
 
