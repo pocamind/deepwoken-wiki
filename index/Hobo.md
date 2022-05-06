@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 27679
+revid: 29237
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -36,3 +36,4 @@ Their movements are very jagged and extremely fast, almost like they're flying. 
 -   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
 -   All factions appear to have it out for them, as they all try to attack them.
 -   Hobos have a very similar AI to [Flamecharmer Monks](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.
+-   When you grip a Hobo they will start to laugh like a Madman. Truly a crazy person
