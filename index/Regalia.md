@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 29058
+revid: 29251
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -19,7 +19,38 @@ The Regalia will be granted on the next character after wiping. It must be reobt
 
 Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
 
+(i got animal king after i wipe as a level 1 freshie 2 times after i wipe lv60 without trial of one maybe if you unlock it once it will stay in that slot forever even you wipe i reroll race before i get it and it still not disappear
+
+or it just random because 1 i didn't do trial of one 2i get it after i wipe as a freshie and reroll)
+
 Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
+
+## Termite
+
+“ Oh boy, an amethyst! My favorite! “ ”
+
+― - Level 20 canor, eating literally everything in sight.
+
+"You can eat things that most would consider inedible."
+
+Gain the ability to consume non-food items.
+
+List of known items you can and can not eat as of March 3rd 2022
+
+-   ~spider eggs~
+-   Urchins
+-   Gems (e.g. emerald, diamond, ruby, gold, platinum, etc.)
+-   ~wood and sticks~
+
+### Theorized Obtainment Methods
+
+-   ~Eat many types of ingredients~
+-   ~Throw up many times~
+-   ~Craft a certain number of different foods~
+-   ~Obtaining all Survivalist talent cards (confirmed to be at least _part_ of obtaining Termite)~
+-   Get the talent Iron Gut and Wipe, once in fragments of self proceed to wipe and you should get the card termite to appear on the left side of the screen, then you will have termite in your next life, however when you look into the talent page it will not be there but you will still have it. ( Iron Gut on Herbalist Hat does not count) Iron Gut's Requirement Is 10 Fortitude.
+
+_**IS CURRENTLY BUGGED**_
 
 ## Mute (Animal King)
 
@@ -38,9 +69,11 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 -   Something to do with wiping to monsters
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
 
-So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. ~(This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)~
+~So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)~
 
-Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times
+~Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times~
+
+trial of one is not necessary for mute i never did trial of one before and still get it
 
 -   Killing a Gigamed is **not required** for getting Mute, it just increases the chances.
 

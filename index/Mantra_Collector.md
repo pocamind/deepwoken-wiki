@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 18746
+revid: 29239
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, World]
@@ -31,7 +31,7 @@ They can be typically found in the Surface in:
 
 ## Prices
 
-Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for cheap prices. These can be improved slightly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md).
+Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for cheap prices. These can be improved slightly with the _Salesman_ and _Snake Oil_ [Talent Cards](Talents.md). It is not recommended to sell to these NPCs as [Mantra Modifiers](Mantra_Modifiers.md) do not take up inventory space or slow you down and they will generally give you 2-3 notes for each modifier.
 
 **Modifiers:**
 

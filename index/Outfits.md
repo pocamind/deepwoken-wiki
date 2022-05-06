@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29221
+revid: 29252
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -163,6 +163,7 @@ _Requires Fortitude 20_
 _Requires Fortitude 15_
 
  | Arena Chests, Depths Chests | N/A |
+|  | Feathertop Helm | Grants a random buff. | Artifact Turn-ins | N/A |
 | File:Gladiator Helmet.png | Gladiator Helmet | Grants a random buff.
 
 _\+ 2 Posture_
@@ -241,6 +242,7 @@ _Requires Power 40_
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+|  | Gladiator Pauldrons | Grants a random buff. | Fishing chests (Work in progress) | N/A |
 |  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
 
@@ -272,6 +274,7 @@ _Requires Power 40_
 
  | Summer Isle Scope Quest | Beige (Work in progress) |
 | File:Royal Auth Commander.png | Authority Commander Coat (Series) | Grants a random buff. | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian, Verdant (Work in progress) |
+|  | Deepwoken Cloak | Placeholder | Primadon chests? (Will be re-added in the next update) | Placeholder |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
 _Requires Power 40_
@@ -382,7 +385,7 @@ _Requires Power 10_
 
 (Legendary)
 
- | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Summer Chest, Maybe more |
+ | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Summer Chest, Duke, Maybe more |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 50%
 
 _Requires Power 40_
