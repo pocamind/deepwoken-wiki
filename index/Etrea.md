@@ -1,26 +1,47 @@
 ---
 title: Etrea
-revid: 29243
+revid: 29290
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress with reason, InProgressPages]
+notices:
+  - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
 
 # Etrea
 
-The kingdom of Etrea is a kingdom controlled by Duke Erisia with one of, if not the largest landmass amongst all the ruled areas in the Etrean Luminant.
+| Etrea | |
+|---|---|
+| territory | Etrean Luminant , Isle of Vigils |
+| goals | Survival , Collecting artefacts and the Forge of Sin , Defeat The Authority |
 
-## Territory
+“ Welcome, Friend of Etrea. ”
 
--   [Etris](Etris.md)
--   [Isle of Vigils](Isle_of_Vigils.md)
+― Etrean Guard
 
-## Enemies
+## Description
 
--   [The Authority](The_Central_Authority.md)
--   [Knives of Eylis](The_Knives_of_Eylis.md)
+A kingdom of chiefly [Etreans](Etrean.md) that are the main ruling faction in the [Etrean Luminant](Luminants.md).
 
-## Ideals
+  
 
-Their main territory, Etris, is seemed to be made up of mostly guards of the [Etrean](Etrean.md) race, seeming racist towards any other race. This is most likely due to their leader, [Duke Erisia](Duke_Ishamon_Erisia.md). If you go to Etris and ask the [Mantra Collector](Mantra_Collector.md), Schnitzel, a [Canor](Canor.md), the dialogue option "Why aren't you up in town?" she will say "Etreans no let Canor buy in town, new leader very strange."
+## Reputation
 
-(page is a WIP rn, do not delete this please, I am just slow to adding information)
+Enemy status with an allied faction
+
+-   Dialogue of the guards becomes unique, showing hatred towards the player.
+
+Enemy status with Etrea
+
+-   Guards will instantly attack you, NPC's in Etrea or Isle of Vigils will refuse to help you, ex: Blacksmiths.
+
+## NPCs
+
+-   The Lord Regent
+-   Kennith
+-   Nerin
+-   Captain Etrean
+
+## Trivia
+
+-   They seem to be based on East Asian countries such as China and Japan.

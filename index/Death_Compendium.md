@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 29259
+revid: 29273
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,8 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
 -   Speak to [Yun’shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell.
--   Complete the Lord Regent’s [quest.](Quests.md)
+-   Complete the Lord Regent’s [quest](Quests.md) and report to him.
+-   Fail to complete the Lord Regent's quest and report to him.
 -   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md#list-of-ships) or glitching underneath the map and falling into the Roblox void.)
 -   Be struck by a meteor.
 -   Get skewered by a [Grand Javelin.](Thundercall.md)

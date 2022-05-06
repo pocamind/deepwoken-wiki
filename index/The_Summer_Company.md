@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 29232
+revid: 29280
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -12,8 +12,8 @@ notices:
 
 | The Summer Company | |
 |---|---|
-| territory | Etrean Luminant, Summer Isle |
-| goals | Profit. No matter who's the customer. |
+| territory | Summer Isle |
+| goals | Profit, no matter who's the customer. |
 
 “ If you're not here to buy something, then leave. ”
 
@@ -29,9 +29,7 @@ As their name implies, they are a merchant Company that provides firearms to The
 
 As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.
 
-They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves.  
-
-  
+They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves.
 
 ## Reputation
 
@@ -39,10 +37,15 @@ As with all other groups in the game, having too low of a reputation with the Su
 
 To restore your reputation with the Summer Company, head to the Bridge behind Fort Summer. At the end of the bridge, leaning against a pillar, is a Summer Company Guard reading a book. Talking to this NPC whilst your Reputation with the Summer Company is favourable will not result in anything, however, if you speak to them whilst you are considered an Enemy of the Summer Company, they inform you that they "Collect the crime tax around here", and will restore your reputation with the Summer Company to being favourable for a price of approximately 150 notes (On average.)
 
-In addition, completing the Explosives Crate quest will allow you to increase your reputation with the Summer Company.  
+In addition, completing the Explosives Crate quest will allow you to increase your reputation with the Summer Company.
 
-  
+## NPCs
 
-## Notes
+-   Scope
+-   Trig
 
--   It is theorized that Gunsmith Rozen, is the leader of the Summer Company, as he is credited to the introduction of guns in The Etrean Luminant
+## Trivia
+
+-   All the named members of Summer Company are named after parts of guns.
+    -   Scope is named after the scope.
+    -   Trig is named after the trigger.

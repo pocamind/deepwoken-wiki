@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29256
+revid: 29297
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -235,7 +235,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Generic Talent, Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Generic Talent, Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
 -   Everchanging Aegis \[Generic Talent, Legendary Talent, Intelligence\] - When hit with an element, take reduced damage from said element, but take more damage from any other element.
-    -   Prerequisite : 30 Intelligence (Got it at 19 Intelligence)
+    -   Prerequisite : 15 Intelligence
     -   When hit by an elemental attack, gain a 10% damage resistance towards its respective element but take 25% more damage from other elements. For example, being hit by a Shadowcast mantra will make you take less damage from other Shadowcast mantras, but you will take more damage than usual if you are hit by a Galebreathe mantra.
     -   Contrary to popular myth, the effect is not tracked individually per player.
 
@@ -243,6 +243,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Underdog \[Generic Talent, Common Talent\] - You deal slightly more damage to those with higher HP than you. (+3 Health)
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
+    -   Prerequisite: 50 Willpower
 
 ### Charismatic Cast
 
@@ -873,8 +874,8 @@ These Talents are designed to let you survive against starvation and thirst by l
 
 ### Survivor
 
--   Pack Mule \[Generic Talent, Common Talent\] - The max quantity of carrying food has increased. (+4 Health, +1 Carry Load)
-    -   Prerequisites: ?? Strength
+-   Pack Mule \[Generic Talent, Common Talent\] - The max quantity of carrying food has increased. (+3 Health, +1 Carry Load)
+    -   Prerequisites: 2 Strength (May require none)
 
 ### Tactician
 
