@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29297
+revid: 29348
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -510,6 +510,8 @@ These Talents are meant to improve your overall combat effectiveness.
             -   Thundercall: Your bullets electrify
             -   Galebreathe Your bullets after cut
             -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
+        -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
+        -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > ??? > ??? > ??? > ???
     -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 -   Armor Piercing \[Rare Talent\] - Your bullets now ignore 25% of an opponent's armor. (2+ Ether, +8 Reservoir, +3 Health) (Rollable, also obtained by wearing Summer Company Uniform)
 -   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\] (+4 Ether, +8 reservoir, +1 Health)
