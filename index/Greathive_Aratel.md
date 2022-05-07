@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 29337
+revid: 29340
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -101,7 +101,6 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ## Trivia
 
--   Ganymedes and Vesperians are related, each race had the same ancestor, but they had to make a decision to survive as a people when the tides came. Vesperians and Ganymedes are the two results of that decision.
 -   There is _currently_ nothing special about this place other than the fast travel system. It is just another town.
 -   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added.
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
@@ -114,5 +113,4 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   There is a secret laboratory located within the Hive R&D department behind a breakable bookshelf where the OST of "A Memory of Tides" By Naktigonis is played.
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
--   You can wash your face at fountains to enter in starswept valley, however you need an oath and must run past the spider queen and 4 threshers (must fight 2) to wash your face then do the same on your way back to the green gate, (I think i will test shortly)
--   Epic bro gamer tip: You can bring a friend over to Greathive Aratel without them needing to have the gate open. To do this, flourish a humanoid into the gate(make sure to have a long ranged weapon), then go to the teleporter. Then, carry them and get teleported. This works for the 3 teleporters inside too.
+-   You can bring a friend over to Greathive Aratel without them needing to have the gate open. To do this, flourish a humanoid into the gate or go around and above the gate, carry them and get teleported. This works for the 3 teleporters inside too.

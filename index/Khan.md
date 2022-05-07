@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 29335
+revid: 29341
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -26,7 +26,7 @@ _Chance of obtaining race: **8%**_
   <ul>
     <li><i>"You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than required."</i>
   <ul>
-    <li>All equipment level requirements are lowered by 3. <b>(There might be some exceptions.)</b></li>
+    <li>All equipment level requirements are lowered by 3. <b>(Only applies to stat points, not levels. For example, if you would want to get a weapon that had a requirement of 20, you could unlock it at 17.)</b></li>
   </ul></li>
   </ul></td>
 </tr>
