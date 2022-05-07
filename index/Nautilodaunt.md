@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 29215
+revid: 29355
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -89,7 +89,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
 -   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
--   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game.
+-   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautiloduant can be difficult on its own due to the cloaks high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
 
 -   Always keep a calm composure when you fight him, panicking will lead to a swift death.
 

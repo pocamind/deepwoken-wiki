@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29348
+revid: 29352
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -1040,7 +1040,7 @@ These Talents are designed to make you more effective in water.
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
-    -   Prerequisites: 40 Fortitude
+    -   Prerequisites: 35 Fortitude
 -   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is cut in half, but your incoming mantra damage is cut in half too. (+10 Health)
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables both you and your opponent's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.
     -   Prerequisites: Shadow Chains

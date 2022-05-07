@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 28773
+revid: 29361
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -99,7 +99,7 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 -   [The Duke](Duke_Ishamon_Erisia.md) (Recommended)
 -   [The Enforcer](Enforcer.md) (Not recommended)
 -   [The Ferryman](The_Ferryman.md) (Not recommended)
--   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (Not recommended)
+-   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (HEAVILY not recommended)
 -   [Nautilodaunt](Nautilodaunt.md) (Not recommended unless you have the cheese)
 
  | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
@@ -107,10 +107,10 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 | Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
 
 -   **Primadon** is generally regarded as the best overall, having a high Progress reward, incredibly reliable and easy way to summon, and not being in The Depths or some specific season. His only con is that he has been slowly becoming harder across the updates.
--   **Dread Serpent** has a very high Progress reward, but is INCREDIBLY hard to find.
--   **The Duke** gives a good amount of Progress on grip, and is reliable to summon, but has an annoying and somewhat dangerous fight. (gives good bell prog on grip, even if you didn't participate in the fight at all)
+-   **Dread Serpent** has a very high Progress reward, but is INCREDIBLY hard and tedious to find without a large group of players.
+-   **The Duke** gives a good amount of Progress on grip, and is reliable to summon, but has an annoying and somewhat dangerous fight. (Rewards good bell progression regardless of if you participated in the fight)
 -   **The Enforcer** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking a wipe from it, other players, or other monsters.
--   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal. Though if you have full set Silencer talent consider yourself having free resonance
+-   **The Ferryman** gives a moderate amount of progress, easy to summon, but has AN INCREDIBLY LONG fight, and can easily become lethal. Though if you have a full set Silencer talent consider yourself having free resonance.
 -   **Blizzard Knights** are, by far, the worst method of getting Progress. Like, out of EVERYTHING. They're rare, they're harder than most bosses, they spawn in swarms, they only spawn in one season on one Island, and even then they give almost no Progress. Do literally ANYTHING else.
 -   **Nautilodaunt** is confirmed to give Progress, however due to being incredibly rare, in The Depths, can be interrupted by other players and being incredibly dangerous without a cheese, he is highly advised against.
 -   Deep Widows are unknown to give Progress.
@@ -162,15 +162,23 @@ Around [The Depths](The_Depths.md) and Overworld, Resonance Doors can be found. 
 
 A very specific and unique Resonance Door is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Yun'Shul provides many different "wishes", one of which is rerolling your Resonance, giving you another draw of three cards, as if you have just obtained one.
 
-This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to reroll your flaws. (**Do not do this).**
+This is not without a cost, however. Rerolling your Resonance inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your resonance and makes it so you cannot make a wish again. As stated before, Yamaketzal is able to remove Tarnished from you for 1000 Notes. Alternatively, you can get it removed by making ANOTHER wish with Yun'Shul to reroll your flaws. **(Do not do this).**
+
+  
 
 Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited times, aslong as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
 
 File:Arch says Wishes have cooldowns.png
 
+## Unobtainable Resonances
+
+-   Akira's Resonance
+-   Duke Erisia's Resonance  
+    
+
 ## Resonance Cosmetic
 
-Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it)
+Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
 
 ## Notes/Trivia
 
