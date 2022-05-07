@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 28211
+revid: 29309
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Races, Character, Creation]
 
 ## Description
 
-Template:Races-Main
+Template:Races-Main _**"Yamaketzal is Scottish"**_
 
 _"Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 

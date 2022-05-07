@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 29236
+revid: 29329
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -75,7 +75,7 @@ Palo
 
 Sero  
 
-## **Trivia/Notes**
+## **Trivia**
 
 -   When wearing earrings, they appear on the cat ears.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their race name changed to "Abomination", which is unique compared to the other race names that were changed.

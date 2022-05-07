@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 26919
+revid: 29336
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -91,11 +91,11 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
 
 * * *
 
-## Notes/Trivia
+## Trivia
 
 -   An NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
-    -   This NPC is known as [Ishan](Ishan.md).
--   Central Authority is comprised of Adretian fighters.
+    -   He theorizes they come from the waves.
+-   The Central Authority's higher, more valuable and more skilled ranks are comprised of Adretian fighters.
     -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However without the keepers of the Lighthouse it becomes impossible to traverse the Voidsea, stalemating a losing war.
 -   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
 
@@ -103,4 +103,4 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
     
 -   According to Archmage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.
     
-    During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
+-   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.

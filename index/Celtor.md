@@ -1,12 +1,16 @@
 ---
 title: Celtor
-revid: 28673
+revid: 29301
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
 ---
 
 # Celtor
+
+_**"ugly face tats too"**_
+
+  
 
 Template:Races-Main
 

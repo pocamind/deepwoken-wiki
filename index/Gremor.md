@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 26921
+revid: 29334
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -46,7 +46,7 @@ Gremors are a race similar to deer. They appear with greenish or brown skin, wit
 </tbody>
 </table>
 
-Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the perfect race for attunement-less characters. Even the appearance looks like the one of a truly strong warrior...  
+  
 
 **Lore:**
 
@@ -54,7 +54,7 @@ Since Gremors can have a maximum of 102 Strength and 102 Fortitude, this is the 
 
 LORE:
 
-The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to have a preference of using fists in battle, showing how most perks provided in the Navean Nomad camp are fist related, like the [Way of Navae](Way_of_Navae.md), provided by rescuing an imprisoned Gremor, or the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
+The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md). However none of them actually employ it, instead opting for the Gremorian Longspear.
 
 **Strengths:**
 
@@ -93,17 +93,11 @@ SURNAMES
 -   Vendra
     
 
-## Notes/Trivia
+## Trivia
 
 -   In [The Depths](The_Depths.md), your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
--   The compass points South, towards the homeland of the Gremors in the Southern Luminant.
--   As a Gremor, you will get alternate dialogue from Navaen Nomads. These two lines can either be:
-    
-    "Be aware, homelander. These murderers could strike at any moment." or
-    
-    "Welcome, homelander. What would you need?" (this one isn't entirely correct iirc, it's rare and only shows up when the nomad tribe hasn't been completely wiped for a while)
-    
--   This race seems to be disliked by the community.
+-   The compass points towards Navae, making it somewhat useless for navigation.
+-   As a Gremor, you will get boosted reputation with the Navaen Nomads.
 -   During 1/4/2022 April Fools update (Mudwoken), Gremor race name was changed to Hornskipper.
 
 <table>

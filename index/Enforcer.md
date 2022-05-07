@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 29296
+revid: 29323
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Monsters, Enemies]
@@ -42,7 +42,7 @@ able?
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 
-The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, he is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him. Its recommended to fight The Enforcer at level 60 as its health does not scale with your level, The Enforcer will always have 4k health no matter what power you are (tested).
+The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, he is quite weak, with only 4000 health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 50, he would have about 890 health. Still large, but nowhere too big. Additionally, his attacks have much lower damage than one might expect.
 
 Do not be deceived by these stats, though. The Enforcer's true danger lies not from his pure stats, but from his execution (pun intended) of them. He draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy NPC. He can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you THINK you had going. Even though his danger falls off in the far endgame, he can still kill any overconfident high level player.
 
