@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 29361
+revid: 29371
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -179,6 +179,8 @@ File:Arch says Wishes have cooldowns.png
 ## Resonance Cosmetic
 
 Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
+
+File:Resonance Bell 1.pngFile:Resonance Bell 2.png
 
 ## Notes/Trivia
 

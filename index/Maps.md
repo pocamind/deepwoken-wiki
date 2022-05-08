@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 29195
+revid: 29370
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing]
@@ -19,6 +19,8 @@ Navigation in _Deepwoken_ can be confusing at first. Use these maps if you are e
 ## Maps
 
 An interactive map of the Etrean Luminant can be found [here](https://www.basil.moe/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
+
+User Isco#7864 created a [physical manual](https://twitter.com/IscoFish/status/1522625495489261569) of the Etrean Luminant map which can be obtained by printing [these](https://twitter.com/IscoFish/status/1522625699575652356).
 
 ## Trivia/Notes
 
