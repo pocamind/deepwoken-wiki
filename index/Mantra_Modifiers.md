@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 29117
+revid: 29385
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -381,7 +381,7 @@ The falseflame, haunting, and mirage stone are all dropped by jellyfish in the d
 
 -   This modifier reverses the "_Air Force_" Mantra to pull targets in, instead of blasting them away.
 -   This modifier has no effect to the "_Adrenaline Surge_" Mantra.
--   This modifier allows the "_Tornado_" Mantra to pull enemies to its center.
+-   The effects of the "_Tornado'" Mantra with this modifier is unknown since it's rework._
 -   This modifier is compatible with the "_Lightning Impact_" Mantra, but has no effect.
 -   This modifier reverses the "_Flame Leap_" Mantra causing the caster to slam the ground, throwing those around them into the air. (Beware, this has a very buggy hitbox)
 -   This modifier is compatible with the "_Revenge_" Mantra, causing it to deal no damage.

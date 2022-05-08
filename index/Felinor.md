@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 29329
+revid: 29377
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -81,4 +81,5 @@ Sero
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their race name changed to "Abomination", which is unique compared to the other race names that were changed.
     -   This may be because of the disdain the community shows towards them.
 -   Felinors are somewhat negatively looked upon in the community, due to their design appealing to a certain audience.
--   The only yet known not-randomly generated Felinor NPCs are The Den Master, [Nyanna](Nyanna.md) and [Aelita](Aelita.md).
+-   The only yet known not-randomly generated Felinor NPCs are [The Den Master](Den_Master.md), [Nyanna](Nyanna.md) and [Aelita](Aelita.md).
+-   Picking Obvious flaw as a Felinor will negate the improved stealth. This is actually really good as you can take this as a free flaw that will not affect your playthrough.

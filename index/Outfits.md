@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29366
+revid: 29383
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -172,7 +172,11 @@ _Requires Fortitude 15_
 
  | Hive Chests | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests | N/A |
-| File:KnightHelm.png | Knight's Helm | Grants a random buff.
+| 
+
+File:KnightHelm.png
+
+ | Knight's Helm | Grants a random buff.
 
 _Requires Fortitude 15_
 
@@ -182,6 +186,9 @@ _Requires Fortitude 15_
 _Requires Fortitude 5_
 
  | Arena Chests | N/A |
+| 
+
+ | Royal Guard's Kabuto | Grants a random buff. | Placeholder | N/A |
 | File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests, Primadon Chests | N/A |
 
 **Face:**
@@ -243,6 +250,9 @@ _Requires Power 40_
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 |  | Gladiator Pauldrons | Grants a random buff. | Fishing chests (Work in progress) | N/A |
+| 
+
+ | Grand Pauldrons | Grants a random buff. | Placeholder | N/A |
 |  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
 
@@ -257,6 +267,7 @@ _Requires Power 40_
  | Fort Merit Chests | N/A |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
+| File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Duke Erisia's Chest | N/A |
 | File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
@@ -267,7 +278,7 @@ _Requires Power 40_
  | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable, Tawny (Work in progress) |
 | 
 
- | Adventurer Coat (Series) | Grants a random buff. | Duke Chests | Black, Brown, Green (Work in progress) |
+ | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green (Work in progress) |
 | File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
@@ -278,7 +289,7 @@ _Requires Power 40_
 _Requires Power 30_
 
  | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian, Verdant (Work in progress) |
-|  | Deepwoken Cloak | Placeholder | Primadon chests? (Will be re-added in the next update) | Placeholder |
+|  | Deepwoken Cloak | Placeholder | Primadon Chests? (Will be re-added in the next update) | Placeholder |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
 _Requires Power 40_
@@ -330,7 +341,7 @@ _Requires Power 30_
 
 _Requires Power 30_
 
- | Duke Chests, Primadon Chests, Depths Chests | N/A |
+ | Duke Erisia's Chest, Primadon Chests, Depths Chests | N/A |
 
   
 
@@ -404,7 +415,7 @@ _Requires Power 40_
 (Legendary)
 
  | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1) | Aelita Chests, Arena Chests, Duke Chests |
-|  | Moon Ring
+| File:Moon Ring.png | Moon Ring
 
 (Legendary)
 
@@ -480,7 +491,3 @@ _Requires Power 30_
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
-
-  
-  
-|}

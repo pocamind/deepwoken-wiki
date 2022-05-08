@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 28161
+revid: 29387
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -66,7 +66,7 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md).
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Divine Spear | Spear | 25 | 10% | MED: 10 | 5 | 10 | 0.6x | Jump into the air and fire three divine beams, similar to a Lesser/Upper Angel. |
-| Divine Longsword | Sword | 25 | 10% | MED: 9 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes. |
+| Divine Longsword | Sword | 25 | 10% | MED: 9 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade |
 
 **Light:**
 
