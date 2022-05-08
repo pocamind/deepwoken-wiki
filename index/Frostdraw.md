@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 28574
+revid: 29373
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -168,7 +168,7 @@ Impale/Impact
 -   Similar to Galebreathe's [Heavenly Wind](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | ??? |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | Do a short flipkick that throws your enemies into the air |
 
 ### **Mobility**
 

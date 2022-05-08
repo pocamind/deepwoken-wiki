@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 28495
+revid: 29374
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster]
@@ -37,3 +37,4 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   Strange Claw is used for armors, and can be sold for a decent amount of notes.
 -   Terrapods can be recognized by the loud slashing sound they make each time they attack.
 -   You **can't** sneak up on Terrapods.
+-   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.
