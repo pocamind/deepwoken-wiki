@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 28716
+revid: 29435
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
@@ -30,7 +30,7 @@ Template:Creature Info Box v2 The Legion Captain is a Humanoid NPC which appears
 
 -   The Captain with Grand Javelin is always hostile, no matter your Reputation with the Legion, **You will not lose Reputation from killing this one.**
 -   The Captain with Grand Javelin will let you get 2 hits in (with medium) Before parrying the 3rd, so **just hit twice and prepare to parry his Javelin.**
--   Ontop of all of that, He stands still, and **being on a higher or lower plane than him, will make him not able to hit you**, like a slight sand dune is enough to make him just throw Javelins that don't go anywhere, This is to be tested, but by being close enough to him, makes him not able to hit you, however if you're far enough away, he can aim his javelins higher or lower.
+-   Ontop of all of that, He stands still, and **being on a higher or lower plane than him, will make him not able to hit you**, like a slight sand dune is enough to make him just throw Javelins that don't go anywhere, This is to be tested, but by being close enough to him, makes him not able to hit you, however if you're far enough away, he can aim his javelins higher or lower. **As of recently, it looks like their movement has been refined and they can also aim their javelins, but only at further ranges, be twice as careful.**
 -   If You do not know how to fight them, Be Very careful, **they insta-grip you if you're low enough on health** (Example: One bar, since they do a lot of damage)
 
 ### Trivia

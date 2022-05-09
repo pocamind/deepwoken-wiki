@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29383
+revid: 29433
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -268,7 +268,7 @@ _Requires Power 40_
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
 | File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Duke Erisia's Chest | N/A |
-| File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests | Black, Brown & White |
+| File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Members on Hive Island Drop | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
 | File:Grayjusticarcoat.png | Adjudicator Coat (Series) | Grants a random buff.
@@ -307,7 +307,7 @@ _Requires Power 40_
 _Requires Power 30_
 
  | Megalodaunts Drop | Red, Purple, Brown, Green, Blue (Work in progress) |
-|  | Ministry Cloak (Series) | Placeholder | Placeholder | Placeholder |
+| File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff. | Valley of Heroes Chests | Onyx, Smoke (Work in Progress) |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
 _Doesn't need any power, but obviously needs a mantra to get it_

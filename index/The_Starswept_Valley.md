@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 26839
+revid: 29438
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
@@ -37,7 +37,6 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 -   Etrean Footsoldier
 -   Hive Footsoldier
 -   [Legion Captain](Legion_Captain.md)
--   Legion Thundercaller
 
 ## Missions
 

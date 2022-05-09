@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 28986
+revid: 29437
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Deepwoken]
@@ -14,7 +14,12 @@ Template:ArmorInfobox**Cutthroat Light Armor** is an Adept [Outfit](Outfits.md) 
 
 ### _Requirements_
 
-This Outfit costs and requires four (4) Cloth and Fiber, five (5) pieces of Iron and one (1) Crystal Lens.
+-   [Power](Power.md) 15
+-   x4 Cloth
+-   x4 Fiber
+-   x5 Iron
+-   x1 Crystal Lens
+-   30 Notes/
 
 This Outfit requires [Power Level](Power.md) 15.
 
@@ -22,7 +27,7 @@ This Outfit requires [Power Level](Power.md) 15.
 
 This Outfit has 1000 durability and grants +10% Physical resistance and +10% Slash resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Hunter_, which improves loot tables from monsters.
+This Outfit also grants the [Talent Card](Talents.md) "_Hunter"_, which improves loot tables from monsters.
 
 ## Location
 
@@ -34,3 +39,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Can be bought at Isle of Vigils for 45 Notes.
+-   Crystal Lens can be obtained by [Fishing](Fishing.md) Chests, [Bandit](Bandit.md) drops themselves or [Erisia](Erisia.md) Chests.

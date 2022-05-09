@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 27715
+revid: 29426
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -41,4 +41,4 @@ Thieves have a chance to drop lesser [Mantra Modifiers](Mantra_Modifiers.md).
 
 -   Upon gripping you, they will steal your money saying "Score!" and disappear.
 -   Usually you won't actually die from them gripping you.
--   Take caution to your blood level during a battle with these enemies.
+-   Take caution to your blood level during a battle with these enemies as daggers chip away blood very quickly.

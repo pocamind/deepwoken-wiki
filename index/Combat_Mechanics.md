@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 28772
+revid: 29432
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Browse]
@@ -117,7 +117,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
   <th>Attack</th>
   <td>When you left click you will swing your weapon, hitting a person will damage them unless they parry or block.<p><br>
   </p>
-  <p>When you hit somebody <s>3 times in a row</s> (it is different for every weapon type)(3 for heavies,4 for medium and 5 for daggers) without being hit back, blocked, or parried, you'll activate a flourish. This is basically the games anti infinite combo mechanic. You go into a short animation with your target, and kick them back. Talent cards can add different effects to your flourish, including setting your enemy on fire, or stunning them if you push them into a wall.</p></td>
+  <p>When you hit somebody <s>3 times in a row</s> (it is different for every weapon type)(3 for heavies,4 for medium and 5 for daggers) without being hit back, blocked, or parried, you'll activate a flourish. This is basically the games anti infinite combo mechanic except it doesn't matter because the level of pressure you'll be under for you to get flourished in the first place will just pick up comparably instantly which is literally just as bad as an infinite combo. You go into a short animation with your target, and kick them back. Talent cards can add different effects to your flourish, including setting your enemy on fire, or stunning them if you push them into a wall.</p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ _Remember when fighting, the game isn't amount dealing overall damage but instea
 </tr>
 <tr>
   <th>Blocking</th>
-  <td>Holding the <kbd>F</kbd> key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it.</td>
+  <td>Holding the <kbd>F</kbd> key allows you to brace for an attack, reducing it's overall damage but costing you some stamina in your posture bar. You can only block the physical aspects of an attack, meaning that you would be able to block a fire sword swing but not the fire aspect to it. It's important to note that if you are currently in a combo, blocking becomes disabled and your only option would be to parry or otherwise get flourished.</td>
   <td></td>
 </tr>
 <tr>
