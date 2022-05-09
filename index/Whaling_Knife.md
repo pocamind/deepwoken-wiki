@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 29231
+revid: 29410
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links]
@@ -27,7 +27,7 @@ categories: [Weapons, Pages with broken file links]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The depths, Duke, Knives of Eylis vs Etrea boat? |
+| obtainment | The depths, Duke, Knives of Eylis events, Primadon |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
 
 “ Theeeere once was a ship that was put to sea.... ”
@@ -38,7 +38,7 @@ categories: [Weapons, Pages with broken file links]
 
 Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has base damage of 15 and a weapon scaling of 5. It is underwhelming compared to the [Canor Fang](Canor_Fang.md) but when upgraded using [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy), it can match endgame daggers such as the [Krulian Knife](Krulian_Knife.md); especially with its unique critical attack. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md).
 
-It is the standard weapon of members of The Knives of Eylis.
+It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 Can be upgraded using [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy) for an upgrade to 10% PEN and 8 weapon scaling. Increases light weapon req to 75.
 

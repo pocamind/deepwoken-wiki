@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 29371
+revid: 29415
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -180,9 +180,12 @@ File:Arch says Wishes have cooldowns.png
 
 Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
 
+  
+Assumed to be a bug, sometimes if you choose a resonance - or reroll a bell will no longer be visible on your characters body.
+
 File:Resonance Bell 1.pngFile:Resonance Bell 2.png
 
-## Notes/Trivia
+## Trivia
 
 -   Adept and Mark of The Lone Warrior DO NOT affect how fast you obtain resonances.
     

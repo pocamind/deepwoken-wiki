@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 29003
+revid: 29406
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found:
 
 ## Trivia/Notes
 
--   Player notes here
+-   One of the most difficult and least used expert armors to craft due to the amount of materials needed to craft and that terrible stats it provides. Thus, it is recommended to use another Expert armor.

@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 28011
+revid: 29400
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,7 +33,7 @@ On output, the user fires a large, bright beam, similar to Lightning Beam in fro
 
 ## Usage
 
-Pressing C will activate the **Jar of Souls** Resonance.
+Pressing C will activate the **Jar of Souls** Resonance. Has about 30 second cd (for version 2 at least)
 
 **Jar of Souls** fires a large white beam in front of the user, dealing damage to those hit by it.
 
@@ -53,4 +53,4 @@ Pressing C will activate the **Jar of Souls** Resonance.
 -   Version one of Jar of Souls is very similar to _Minecraft Dungeon_'s "_Corrupted Beacon_", in which both require souls to cast and shoot out a laser beam that does continuous damage.
 -   A corrupted Jar of Souls is currently the best resonance ingame.
 -   It may be a reference to the Urn of Souls from The Binding of Isaac which also requires you to kill enemies to shoot it.
--   It is theorized, the souls developers (dev specs) [\[1\]](https://youtu.be/KjTM-JeULWA)seen here ([https://youtu.be/KjTM-JeULWA](https://youtu.be/KjTM-JeULWA)) can be used to fuel Jar of Souls.
+-   It is theorized, Dream Eater (Arch\_Mage dev spec) [\[1\]](https://youtu.be/KjTM-JeULWA)seen here ([https://youtu.be/KjTM-JeULWA](https://youtu.be/KjTM-JeULWA)) can be used to fuel Jar of Souls.

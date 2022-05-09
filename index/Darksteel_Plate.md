@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 24387
+revid: 29407
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -34,3 +34,4 @@ This Outfit's Schematic can be found:
 ## Trivia/Notes
 
 -   The _Unbreakable_ talent that this outfits grants doesn't actually give you full resistance to stun when you are posture broken, it just reduces the stun time by a noticeable amount.
+-   Arguably one the best Expert armors stat-wise, although it is somewhat expensive to make.

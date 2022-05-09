@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 28946
+revid: 29413
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -117,14 +117,14 @@ _"You vow to only see that which you wish to see. Reality itself is malleable. P
 
 Corrupted Deep Owls now drop a guaranteed Void Feather.
 
-### **Obtaining**
+### Obtaining
 
 1.  Complete Aelita's Encounter in Valley of Heroes at least once.
 2.  Find Surge, he is located past the Widow Cave in [The Depths](The_Depths.md).
 3.  Bring him a Void Feather. If Surge becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options "I accept" once the Nestmind mentions food. You will obtain the Oath: Visionshaper.
 4.  Bring additional Void Feathers to Surge to unlock the skills, 5 to unlock the remaining skills (6 feathers total).
 
-### **Known Abilities**
+### Known Abilities
 
 The mantras and passives are obtained by giving additional feathers to Surge after the first one required to obtain the oath.
 
@@ -165,7 +165,7 @@ The mantras and passives are obtained by giving additional feathers to Surge aft
 -   **Lasting Image - \[Common talent, Visionshaper\]**
     -   **Illusionary Servant** and **Cheap Trick** last longer
 
-### **Effects**
+### Effects
 
 This Oath grants one Support Mantra Card slot, two Combat Mantra slots and ten Ether.
 
@@ -177,9 +177,37 @@ Does not grant any special cosmetic based on race.
 
 -   The Mental Fortress Talent Disbelief, only affects illusionary servants, reducing the amount of time they last.
 
-## Trivia/Notes
+  
 
--   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well. An example is the recently added Visionshaper Oath.
+## Time Magic(?)
+
+### Obtaining
+
+Unobtainable, exclusive to The Knives of Eylis Captains. May become obtainable when the Central Luminant is added to the game.
+
+### Known abilities
+
+-   **Time Bubble**
+    -   The user slows people around them by making a strange, vibrating noise, creating an expanding bubble around them.
+    -   Anyone who walks into this bubble will be slowed and their view given a monochrome palette.
+    -   The people inside are slowed to the point where they cannot move while crouched.
+    -   This can be easily cancelled by attacking the user therefore disrupting the noise.
+
+### Effects
+
+None.
+
+### Notes
+
+-   There appears to be ways to bypass this, as being knocked inside the bubble grants some their normal movement speed back. This can make fighting inside it almost impossible as enemies will have double the swing speed, making it impossible to land hits, and making parrying extremely hard.
+
+## Trivia
+
+-   Time magic was not actually stated to be an oath itself, but 'oath magic.'
+    
+    Proof of Time magic's existence and it being 'oath magic'
+    
+-   Oaths are planned to have separate leveling systems, mantras, and other progression related aspects added to them in the future as well.
 -   Takers of the Blindseer oath can remove their blindfold by simply wearing any other face item (Masks, Headbands, Eyeglasses, etc) and still have the eye appear in front of them. It is unknown if this is unintentional or not.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.

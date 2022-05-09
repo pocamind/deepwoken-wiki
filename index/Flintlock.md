@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 20842
+revid: 29392
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Bought at Summmer Isle for 100 notes |
-| description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of... |
+| description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every... |
 
 ##### _"How did you even parry a bullet?"_
 

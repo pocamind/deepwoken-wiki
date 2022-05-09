@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29352
+revid: 29417
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -719,7 +719,7 @@ These are just raw stat increase and are beneficial to anyone.
 ### Public Figure
 
 -   Bodyguard Detail \[Generic Talent, Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
-    -   Requires around 40 charisma - The player will say "Hey, over here!" when this effect activate, attracting guards to the attacker. This is similar to guards calling for help.
+    -   Requires Friends in High Places + around 40 charisma - The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
 -   Celebrity \[Generic Talent, Common Talent\] - Your reputation caps out higher. (+2 Ether, +1 Health)
 -   Diplomat \[Generic Talent, Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   Prerequisites For All: Charisma
@@ -783,6 +783,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 Prerequisite: Charisma
 
 -   Friends in High Places \[Generic Talent, Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
+    -   Prerequisite: Diplomat
 -   Salesperson \[Generic Talent, Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
     -   Gain 1.25x more notes from selling items.
 -   Snake Oil \[Generic Talent, Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you. (+2 Ether. +1 Health.)
