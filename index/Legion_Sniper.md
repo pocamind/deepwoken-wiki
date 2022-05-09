@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 29429
+revid: 29445
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-A Legion Javelin Lord is an enemy that spams the "[Grand Javelin](Thundercall.md)" mantra at players and can be encountered in [Aratel Island](Aratel_Island.md). Killing one will not cause the player's reputation with The Legion to drop as it is no longer part of The Legion.
+A Legion Javelin Lord is an enemy that spams the "[Grand Javelin](Thundercall.md)" mantra at players and can be encountered in [Aratel Island](Aratel_Island.md). Killing one will reward the player with a chest but not cause the player's reputation with The Legion to drop.
 
 ## Moveset
 

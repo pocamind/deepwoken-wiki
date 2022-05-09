@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 29325
+revid: 29466
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Races, Character]
 
 # Etrean
 
-Template:Races-Main
+_**"snek"**_Template:Races-Main
 
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._

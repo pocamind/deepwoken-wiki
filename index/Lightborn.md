@@ -1,12 +1,14 @@
 ---
 title: Lightborn
-revid: 29330
+revid: 29476
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Lightborn
+
+_**"angle"**_
 
 ## Description
 
