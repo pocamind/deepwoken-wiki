@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29511
+revid: 29525
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -92,7 +92,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>When below 40% HP, gain a 25% damage increase on M1s.</p></div></td>
+  <td><div><p>When above 90% HP, gain a 25% damage increase on your weapon.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
@@ -108,19 +108,19 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Elastic5.png<figcaption></figcaption></figure><div>Elastic</div></td>
+  <td><figure>File:Gum.jpg<figcaption></figcaption></figure><div>Elastic</div></td>
   <td><div><p>On proc, create a purple string, pulling the target toward you.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Stormenchantonamace.webp<figcaption></figcaption></figure><div>Storm</div></td>
+  <td><figure>File:Stormshattered(monkeyalert).png<figcaption></figcaption></figure><div>Storm</div></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 50%.</p>
   <p><br>
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Obfusnew.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds. Attack speed buff is inversely proportional to the base attack speed: slower weapons gains a greater increase in attack speed than fast weapons.</div></td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
+  <td><figure>File:Prov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
   <td><div><p>Parrying an attack will proc the thorns to the attacker. The thorns scales base of the users power, this affects in PVPVE.</p>
   <p>Power scaling is based&nbsp;?% x ()power in PVP. Maximum damage capped is <b>500</b> in PVE.</p>
   <p><br>

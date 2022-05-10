@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 28552
+revid: 29520
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,13 +18,8 @@ Just what is this place?
 
 ## Overview
 
-A mostly Empty Part of the Map except for a island (Lungfish Keep)
-
-Sailing here can be quite frustrating and it takes a long time to get there.
-
-  
+An empty part of the map that used to be behind Boatman's Watch. There were nothing there.
 
 ## Trivia/Notes
 
--   Lungfish keep can be found here
 -   Punchee has stated that Voidheart was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0))
