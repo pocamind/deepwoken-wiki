@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 25605
+revid: 29569
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -16,11 +16,19 @@ Although not fully considered an enemy until you provoke them or approach them w
 
 Etrean Guardsmen are found all around Etrea in different locations.
 
-### Moves
+## Moveset
 
--   **Different Weapons:** Fast Normal M1 hits
+| Base Attack | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Swing/Thrust | Firmly swing/thrust at a opponent and continuing to combo them until knocked. | ◯ | ◯ | (☆☆☆) |
 
--   **Galebreath:** Gale Lunge.
+  
+
+| Mantra | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
+
+  
 
 ### Tips
 

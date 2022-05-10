@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 25421
+revid: 29606
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,9 @@ categories: [Resonance]
 | effect | Charges your arm and amplifies your next attack |
 | appearance | Small particles that surround the arm |
 
-“ Wind up your arm, and unleash the shattering power on your foes. ”
+“ Killer move; Serious series. Serious Punch. ”
 
-― Wind-Up description
+― Etrean Wind up user with Strong Left
 
   
 

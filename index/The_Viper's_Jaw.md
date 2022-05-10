@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 27726
+revid: 29572
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -27,7 +27,7 @@ The entrance can be found just past the Bandit village or underneath [The Birdca
 
 ## Potential Enemies
 
--   [Legion Captain](Legion_Captain.md)
+-   Legion vs The Central Authority
 -   [Deep Owl](Deep_Owl.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)

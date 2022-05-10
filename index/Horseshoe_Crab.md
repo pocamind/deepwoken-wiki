@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 22307
+revid: 29578
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,8 +17,12 @@ Horseshoe Crabs are small, brown creatures with a spike protruding out of its he
 
 ## Moves
 
--   **Swarm**\- The Horseshoe Crabs come together and crawl all over their victim's body, tearing apart its flesh.
+-   **Swarm** - The Horseshoe Crabs come together and crawl all over their victim's body, tearing apart its flesh.
 
 ## Notes
 
 -   Currently, these monsters have no other purpose than to attack Karliah during the [Charisma](Attributes.md) unbound quest.
+
+## Trivia
+
+-   Horseshoe crabs do exist in real life but are harmless.

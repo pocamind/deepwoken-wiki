@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29546
+revid: 29570
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -306,7 +306,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Megalodaunts Drop | Red, Purple, Brown, Green, Blue (Work in progress) |
+ | Megalodaunts Drop | Red, Purple, Brown, Green, Blue, Peach (Work in progress) |
 | File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff.
 
 _Requires Power 40_
