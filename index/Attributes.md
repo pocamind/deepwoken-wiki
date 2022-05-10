@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 27849
+revid: 29505
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]

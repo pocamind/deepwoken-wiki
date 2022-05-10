@@ -1,14 +1,12 @@
 ---
 title: Vesperian
-revid: 29473
+revid: 29488
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
 ---
 
 # Vesperian
-
-_**"insekt"**_
 
 ## Description
 

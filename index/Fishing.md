@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 29147
+revid: 29513
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -25,8 +25,6 @@ The next step to fishing is cast out your Fishing Rod at an area with alot of fi
 Another thing about fishing is bait. To equip bait, hold out your fishing rod and hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually neglible.
 
 Fishing levels your willpower, fortitude and intelligence. It also levels charisma if you catch a gold fish.
-
-You can obtain fishing talents by reaching milestones. At 10 fish caught, you get the "proficient baiting" talent which reduces the chance to catch garbage. At 30 fish caught, you get "hook, line, and sinker" which makes it harder for the line to break. At 50 fish caught, you get "fisher's lure" which makes things grab your line quicker.
 
 ## Loot From Fishing
 
@@ -54,9 +52,9 @@ File:RobloxScreenShot20220410 233312197.png
 
 A lot of fish (with crow tarsus)
 
-## Talents
+## **Talents**
 
-There are currently 3 fishing talents
+There are currently 3 Talents related to fishing, each automatically obtained after milestones have been completed. "Proficient baiting" unlocks at 10 fish, "Hook, Line and Sinker" at 30, and "Fisher's Lure" at 50 respectively. (Note: You don't need to actually catch the fish for it to count towards the talent progress, you could lose the fish and still get the talent)
 
 File:Fishing Talents.png
 
@@ -68,7 +66,7 @@ File:Fishing Talents.png
 
   
 
-## Bait
+## **Bait**
 
 A lot of raw food can be used as bait, obviously I didn't have them all while testing so this list is obviously incomplete as well as pretty poorly made. This was tested to the left of the Etris docks, on a small beach near where the wall is crumbled as it is safe. It rained weirdly often, and it was night a good few times as I had to server hop a lot due to lag.
 

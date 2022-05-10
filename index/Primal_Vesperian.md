@@ -1,14 +1,12 @@
 ---
 title: Primal Vesperian
-revid: 29478
+revid: 29484
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
 ---
 
 # Primal Vesperian
-
-_**"oldass insekt"**_
 
 Template:Races-Main
 

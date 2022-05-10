@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 25862
+revid: 29495
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,10 +18,12 @@ Having certain traits can make you someone else's relative.
 -   Twins - Same last names, same racial variant. For some races, like ones with tattoos, not scars, the tattoos will have to be the same. Most likely also same gender. Because they're twins, they may also need to have the same age, although this isn't confirmed and some report having twins younger than them.
 -   Elder - Same variant of the same race, but with the age requirement of 40 ~(If you are 40, only you appear as an elder to them, they still appear as a cousin )~
 -   Juvenile - Same variant of the same race, but with you being younger than a 40 year old, in this case, only the Elder would see you as a Juvenile.
+-   Sister - Same variant of the same race, same last names, (not sure that it was similar age) but different gender.
 
 ## Notes
 
 -   NOT SURE IF ITS TRUE BUT Ganymede and Vesperian bypass this due to them both being descendants of Primal Vesperians.
 -   Being a twin may not be age reliant, twins have been found who have different ages.
--   Not a lot is known about family as of 2/14/2022
+-   Not a lot is known about family as of 5/9/2022
 -   Being someone's family member is RNG
+-   You can look exactly like someone, same facial features, and all, and still not be related/be cousins and not siblings or twins.

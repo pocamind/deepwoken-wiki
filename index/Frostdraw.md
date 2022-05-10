@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 29373
+revid: 29514
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -60,7 +60,10 @@ These mantras have no prequisites.
  |
 | File:Frostgrab base range.gif | Frost Grab | An icy chokehold. | Launches the user forward and grabs a target in front of them.
 
+-   Can be used for slight forwards mobility until the user gets Glacial Arc.
+-   Animation is decieving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
+-   This move can insta-grip if used on a target with low enough health.
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | Warden's Blades | Revolving blades of ice. | Caster creates 4 large blades made of ice around them in a cross formation. The blades then quickly proceed to start spinning around the caster with the blade facing out. Deals rapid light damage, combined with stratus stones can create serious area denial. |
@@ -68,7 +71,7 @@ These mantras have no prequisites.
 
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.
--   Similar to Flamecharm's [Burning Servants](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7C).
+-   The Frostdraw counterpart to Flamecharm's [Servants](https://deepwoken.fandom.com/wiki/Flamecharm#Mantras%7CBurning), as both do the same thingand can be modified with a Reversal Spark to get the same effect.
 
  |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Swift bolts of frozen air. | Fires a penetrating bullet of ice.

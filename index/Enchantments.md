@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29388
+revid: 29511
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -120,7 +120,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   </p></div></td>
 </tr>
 <tr>
-  <td><figure>File:79D758AC-3B11-4E2D-A814-8ED20B980400.jpg<figcaption></figcaption></figure><div>Obfuscation</div></td>
+  <td><figure>File:Obfusnew.png<figcaption></figcaption></figure><div>Obfuscation</div></td>
   <td><div>Increases weapon attack speed slightly. Landing hits grant a stackable speed and attack speed buff for 3 seconds. Attack speed buff is inversely proportional to the base attack speed: slower weapons gains a greater increase in attack speed than fast weapons.</div></td>
 </tr>
 <tr>
