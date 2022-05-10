@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 29364
+revid: 29565
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -530,7 +530,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.8x</td>
+  <td>0.77x</td>
   <td>No</td>
 </tr>
 <tr>
@@ -1090,7 +1090,7 @@ Weapons that scale with a certain element
 </tr>
 <tr>
   <td><a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a></td>
-  <td>75 WND, 25 MED</td>
+  <td>75 WND, 25 MED, LVL 30</td>
   <td>17.5</td>
   <td>15%</td>
   <td>MED: 5, WND: 4</td>
@@ -1104,7 +1104,7 @@ Weapons that scale with a certain element
   <td>75 SHD, 40 HVY</td>
   <td>23</td>
   <td>N/A</td>
-  <td>SHD: 10 HVY: 5</td>
+  <td>SHD: 10 HVY: 3.5</td>
   <td>9</td>
   <td>9</td>
   <td>0.65x</td>

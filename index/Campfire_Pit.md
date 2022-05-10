@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 24351
+revid: 29559
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -25,3 +25,5 @@ Pressing **B** while standing near a campfire with nothing in hand will make you
 -   Campfires will be put out if it's currently [Raining or Snowing](Environmental_Hazards.md).
 -   Campfires spawned by the [Bandit Camp](https://deepwoken.fandom.com/wiki/Random_Encounters#Bandit_Camp) event are replaced by a chest with loot when the event ends.
 -   Only [Flamecharmers](Flamecharm.md) with the Undying Flame Talent can light up campfires in [The Depths](The_Depths.md).
+-   A new type of item to light campfires was added. It's called Umbral Flint and is crafted with 1 Umbral Obsidian and 1 coal. It does not have any special affects, just giving it 150 uses instead of 15
+-   Used to be a glitch where campfire-spawning events in Summer Isle would not despawn the campfire, meaning there would be an endless amount of them around the island

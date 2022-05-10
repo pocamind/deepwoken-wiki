@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 29495
+revid: 29544
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,6 +19,8 @@ Having certain traits can make you someone else's relative.
 -   Elder - Same variant of the same race, but with the age requirement of 40 ~(If you are 40, only you appear as an elder to them, they still appear as a cousin )~
 -   Juvenile - Same variant of the same race, but with you being younger than a 40 year old, in this case, only the Elder would see you as a Juvenile.
 -   Sister - Same variant of the same race, same last names, (not sure that it was similar age) but different gender.
+-   Uncle - Same variant of the same race, same last names. Age has to be 40 or above. (I think)
+-   Nephew - Same variant of the same race, same last names.
 
 ## Notes
 

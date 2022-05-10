@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29433
+revid: 29546
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -289,7 +289,7 @@ _Requires Power 40_
 _Requires Power 30_
 
  | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian, Verdant (Work in progress) |
-|  | Deepwoken Cloak | Placeholder | Primadon Chests? (Will be re-added in the next update) | Placeholder |
+|  | Deepwoken Cloak | Placeholder | Primadon Chests | N/A |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
 _Requires Power 40_
@@ -307,7 +307,11 @@ _Requires Power 40_
 _Requires Power 30_
 
  | Megalodaunts Drop | Red, Purple, Brown, Green, Blue (Work in progress) |
-| File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff. | Valley of Heroes Chests | Onyx, Smoke (Work in Progress) |
+| File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff.
+
+_Requires Power 40_
+
+ | Valley of Heroes Chests | Onyx, Smoke (Work in Progress) |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
 _Doesn't need any power, but obviously needs a mantra to get it_
@@ -491,3 +495,4 @@ _Requires Power 30_
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
+-   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.

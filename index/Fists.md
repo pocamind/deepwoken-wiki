@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 28576
+revid: 29557
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -46,7 +46,7 @@ File:Legion fist.png
 
 -   **Critical: Grab your enemy with both hands, raising them above your head before slamming them down.**
 
--   You must talk to the Legion Captain inside the [Viper's Jaw](<The_Viper's_Jaw.md>) and ask them for training. You will then receive a quest to go help the Centurions on [Aratel Island](Aratel_Island.md), and the quest is to help the Centurion during the Centurion VS Authority 1v1s ( ice mage vs legion) and possibly at Erisia too(?). If you help the Centurions, your reputation among them will increase, and after getting enough reputation you will get a recommendation and will be able to learn Legion Kata.
+-   ~You must talk to [Amara](Amara.md) inside the [Viper's Jaw](<The_Viper's_Jaw.md>) and ask her for training. You will then receive a quest to go help the Centurions on [Aratel Island](Aratel_Island.md),~ You don't need to get the quest in Viper's Jaw, you can just do the quest which is to help the Centurion during the Centurion VS Authority 1v1s ( ice mage vs legion) and then talk to [Amara](Amara.md). If you help the Centurions, your reputation among them will increase, and after getting enough reputation you will get a recommendation and will be able to learn Legion Kata.
 
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed. Your critical attack becomes a suplex.
 

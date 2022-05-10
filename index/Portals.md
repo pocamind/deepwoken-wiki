@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 28847
+revid: 29526
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -53,7 +53,6 @@ If Portal is found to be corrupted, the duration of the ability is 8-10 Seconds.
 ## Trivia/Notes
 
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
-    -   Tip : Try Sending a chat Message if you're being carried by an enemy through a portal to help your allies locate you.
 -   This Resonance can be a great tool to ambush other players.
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, hence why it's nicknamed **"Yoru."**
 -   Trying to use this bell while carrying a player, will most likely drop the player.

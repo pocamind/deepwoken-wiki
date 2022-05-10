@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 29127
+revid: 29532
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Attunement, Magic, Spells, Boss, Luck]
@@ -33,9 +33,6 @@ The **Crypt Blade** is a legendary weapon and is currently the best usable heavy
 
 ## Notes
 
--   ~The Crypt Blade is the strongest weapon in the game, boasting 65 damage when maxed with the swingrate of a medium weapon. People also claim that the older version used to be better, as you could allegedly achieve around 75+ DMG.~ Crypt blade now has been nerfed they now deals 54.1 damage.
 -   The Crypt Blade is a remodeled [Darksteel Greatsword](Darksteel_Greatsword.md). It is slightly darker, the blade is larger, and an animated darkness effect wraps around the sword.
--   ~Hitting someone with a running attack will cause the Fear talent to activate, which causes them to not be knocked back by your running attack, allowing seamless running combos.~ Sadly, as in 21/03/2022 Crypt Blade no longer procs Fear, Dark Hours, Slightless Still, Shadow Overflow or Singularity.
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade. But unlike most other legendary weapons, Crypt Blade doesn't have any surviving Enchanted counterparts.
--   Crypt Blades can also be dropped from [The Duke](https://www.youtube.com/watch?v=ARePhH_5INA).
 -   If you don't invest any fortitude to your stats, I highly suggest that you run if you see a Crypt Blade user, as they will violate you in 6 swings.
