@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 29567
+revid: 29634
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,8 +25,7 @@ An Etrean Footsoldier is type of enemy NPC that can be found in [Erisia](Erisia.
 | --- | --- | --- | --- | --- |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
 
-## Tips
+## Trivia
 
-If you happen to come across an Authority/Hive Footsoldiers vs Etrean Footsoldiers event, killing the Etrean Footsoldiers will be easier as they are already low.
-
-Killing any faction related events can't lower your reputation with them
+-   If you happen to come across an Authority/Hive Footsoldiers vs Etrean Footsoldiers event, killing the Etrean Footsoldiers will be easier as they are already low.
+-   Their armor is identical to the Etrean Sailor, but white instead of purple.

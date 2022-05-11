@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 29609
+revid: 29664
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -29,9 +29,9 @@ When used, a red circle around 10 studs large appears around the user or project
 
 ## Usage
 
-Pressing C will activate the **Blood Scourge** Resonance.
+Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the user.**
 
-**Blood Scourge** will immediatly execute any knocked entity within it's range and heal the user for a large amount. It has a cooldown of about 15-20 seconds. The execution cannot be avoided once in range, unless the target is being manually gripped at the same time. If the user's and target's Power difference is greater than 20, the healing is cut in half.
+**Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and regain roughly 200 HP over a few seconds. Weak NPCs or weaker player (>20 Power difference) will instead only heal for 100 HP. It has a cooldown of about 15-20 seconds. The execution cannot be avoided once in range, unless the target is being manually gripped at the same time or the caster is attacked at the very start of the animation.
 
 ### _Variants_
 
@@ -41,7 +41,6 @@ Pressing C will activate the **Blood Scourge** Resonance.
 
 -   **Version 1** has **Blood Scourge's** range created around the user.
 -   **Version 2** has **Blood Scourge's** range created around a red orb thrown by the user.
--   (Any verison of **Blood Scourge** now combat tags the user)
 
 #### _Corrupted_
 

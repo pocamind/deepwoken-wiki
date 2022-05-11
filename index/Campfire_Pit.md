@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 29576
+revid: 29635
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,7 @@ File:Screenshot 2022-01-31 1.55.07 PM.png
 
 Crafted by using 3 Sticks **OR** 1 Wood.
 
-Equipping and using a Campfire will then place it down.
+Equipping and using a Campfire will then place it down at your mouse. They cannot be placed if you click a location that isn't in your general vicinity.
 
 Can be lit up by using a Flint (1 Coal + 1 Rock), using [Produce Spark](Flamecharm.md#talents), [Discovery of Fire](Thundercall.md#talents), Flame Wisp, or using Fire Gun.
 
@@ -20,11 +20,12 @@ While resting at a campfire, the player can cook [Food](Food.md) while also rega
 
 Pressing **B** while standing near a campfire with nothing in hand will make your character kick and destroy the campfire.
 
-## Notes
+An alternative to using a campfire is the Graceful Flame support mantra. It is not put out in rain, and has a talent that makes it so it can be used in the depths, making it much more viable for late game players.
 
--   An alternative to using a campfire is the Graceful Flame support mantra. (It is not put out in rain, and has a talent that makes it so it can be used in the depths.)
+## Trivia
+
 -   If a player with [Azure Flames](https://deepwoken.fandom.com/wiki/Flamecharm#Azure_Flames_.28Blue_Fire.29) lights up a campfire using [Produce Spark](Flamecharm.md#talents) the flame will have a blue color instead of the regular red. However, if you light it with a mantra it will be blue either way.
 -   Campfires will be put out if it's currently [Raining or Snowing](Environmental_Hazards.md).
 -   Campfires spawned by the [Random\_Encounters#Bandit\_Camp Bandit Camp](Random_Encounters.md#bandit-camp-bandit-camp) event are replaced by a chest with loot when the event ends.
 -   Only [Flamecharmers](Flamecharm.md) with the Undying Flame Talent can light up campfires in [The Depths](The_Depths.md).
--   There is a special variant of Flint, called Umbral Flint. It costs 1 Coal and 1 Umbral Obsidian to craft, and looks similar to the Heroism Egg in terms of its glow. There's nothing special to it, only that its durability is increased 10 times up to 150 uses.
+-   There used to be a glitch where campfire-spawning events in Summer Isle would not despawn the campfire, meaning there would be an endless amount of them around the island and also glitch chests inside of the campfire.

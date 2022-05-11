@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 29350
+revid: 29673
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [D]
@@ -18,10 +18,6 @@ To obtain a Regalia, the player must:
 The Regalia will be granted on the next character after wiping. It must be reobtained again whenever you want to have a Regalia on the next character.
 
 Contrary to popular belief, Regalias **ARE NOT RANDOM** and have proper unlock method.
-
-(i got animal king after i wipe as a level 1 freshie 2 times after i wipe lv60 without trial of one maybe if you unlock it once it will stay in that slot forever even you wipe i reroll race before i get it and it still not disappear
-
-or it just random because 1 i didn't do trial of one 2i get it after i wipe as a freshie and reroll)
 
 Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are still shrouded in mystery.
 
@@ -43,11 +39,9 @@ Keep in mind that as of **March 31st 2022**, the method to obtain Regalias are s
 -   Each monster kill and getting killed by a monster counts as one "point". You only get this point from a certain monster once.
 -   Progress toward a regalia might be saved between wipes.
 
-~So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)~
+So, the method would be doing the [Trial of One](Trial_of_One.md), and then killing a Minityrsa bandit, the ones with the crimson blindfolds. Then, you go to [The Depths](The_Depths.md), kill a [Gigamed](Gigamed.md), and wipe. This method has a ~25% chance of giving Mute, according to the person who came up with it. (This method is not necessary to obtain it, but the Gigamed thing may have something to do with it, source is I got it on my Felinor after never having a bell or completing trial of one)
 
-~Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times~
-
-trial of one is not necessary for mute i never did trial of one before and still get it
+Another possible method is doing [Trial of One](Trial_of_One.md), and then wiping then repeating another 6-7 times
 
 -   Killing a Gigamed is **not required** for getting Mute, it just increases the chances.
 

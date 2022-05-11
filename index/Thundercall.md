@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 29345
+revid: 29681
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -142,7 +142,7 @@ Grand Javelin
 Electro Carve  
 (★★☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
+ | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user. (this is 0 star now proof: [https://cdn.discordapp.com/attachments/968028156319658056/973707532436643880/unknown.png](https://cdn.discordapp.com/attachments/968028156319658056/973707532436643880/unknown.png))
 
 -   Shocks opponents inside of it while dealing damage.
 

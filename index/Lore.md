@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 29169
+revid: 29677
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -729,7 +729,7 @@ _"Pleetsky, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
 -   (Pleetsky) Pleetsky is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
-    -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths.
+    -   Pleetsky was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the 3rd layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
 -   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.
     -   Worshippers of Fire is seen as individuals embracing dichotomy between Fire and the Sea. Fire representing Mankind, while the Deep represents as an ultimate threat of the New World.

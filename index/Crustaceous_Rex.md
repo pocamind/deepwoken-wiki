@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 29573
+revid: 29658
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster]
@@ -14,7 +14,7 @@ _Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
 
 ## Description
 
-Crustaceous Rex is a hostile Giant-type mob. They're recommended killing for exp and loot. It has 6 glowing yellow eyes, with a white and purple exterior shell. They has high elemental resistant too.
+Crustaceous Rex is a hostile Giant-type mob. They're recommended killing for exp and loot. It has 6 glowing yellow eyes, with a white and purple exterior shell.
 
 File:Crabbo.PNG
 
