@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29718
+revid: 29724
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -212,14 +212,15 @@ _\+ Talent: Blinded_
 
 **Ears:**
 
-| Image | Armor | Common Effects | Primary Source |
-| --- | --- | --- | --- |
-|  | Dewdrop Earrings | Grants a random buff. | Hive Chests |
-|  | Rubydrop Earrings | Grants a random buff. | Hive Chests |
-| File:MasterThief.png | Master Thief Earrings | Grants a random buff. | Fort Merit Chests |
-| File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest |
-|  | Pendant Earrings | Grants a random buff. | Primadon Chests |
-| File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants a random buff. | Primadon Chests |
+| Image | Armor | Common Effects | Primary Source | Variants |
+| --- | --- | --- | --- | --- |
+|  | Dewdrop Earrings | Grants a random buff. | Hive Chests | N/A |
+|  | Crystal Pendant Earrings | Placeholder | Hive Chests | N/A |
+|  | Rubydrop Earrings | Grants a random buff. | Hive Chests | N/A |
+| File:MasterThief.png | Master Thief Earrings | Grants a random buff. | Fort Merit Chests | N/A |
+| File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest | N/A |
+|  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
+| File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants a random buff. | Primadon Chests | N/A |
 
 **Back:**
 
@@ -232,7 +233,7 @@ _\+ Talent: Blinded_
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.
 _Requires Power 40_
 
- | Summer Isle Chest Rewards and fishing | Emerald, Rose, Shade, Onyx (Work in progress) |
+ | Summer Isle Chest Rewards and fishing | Emerald, Rose, Shade, Silver, Onyx (Work in progress) |
 
 **Arms:**
 
@@ -271,7 +272,7 @@ _Requires Power 40_
 | File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Members on Hive Island Drop | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
-| File:Grayjusticarcoat.png | Adjudicator Coat (Series) | Grants a random buff.
+| File:Grayjusticarcoat.png | Adjudicator's Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
 
@@ -289,7 +290,7 @@ _Requires Power 40_
 _Requires Power 30_
 
  | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian, Verdant (Work in progress) |
-|  | Deepwoken Cloak | Placeholder | Primadon Chests | N/A |
+|  | Deepwoken Cloak | Placeholder | Primadon Chests | Black (Work in Progress) |
 | File:Elite pathfinder.png | Elite Pathfinder Coat | Grants a random buff.
 
 _Requires Power 40_

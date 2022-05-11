@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29630
+revid: 29731
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -213,8 +213,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Increase 50% damage against PvE. <b>Confirmed</b>. This is moved from spec to regular this is actually obtainable to normal players.</p>
-  <p>Obtainment of this enchant is through a wish maker.</p></div></td>
+  <td><div><p>Deal 50% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
@@ -315,7 +314,7 @@ Viscosity
 
  | 
 
-(Did my own testing) User takes 1/10 of the initial incoming damage every .25 seconds for 10 ticks. As far as I can tell there is no overall reduction in damage, it is simply moved to damage over time. The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.  
+Incoming damage are instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times. The user **cannot be knocked unless they are at 1% HP**. Also lets the user survive execute effects if they are above 1% HP. (This enchant does not have a visual effect.  
 Disabled if using Curse of the No Life King.
 
   
