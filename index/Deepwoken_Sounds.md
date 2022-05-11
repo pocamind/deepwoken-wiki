@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 28816
+revid: 29713
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -156,6 +156,9 @@ Miscellaneous sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 6.0s | Alternative leveling up |
 |  | 0.3s | Zipline loop |
+|  | 0.1s | Bell on active |
+|  | 0.1s | Legendary bell on active |
+|  | 0.2s | Corrupt bell on active |
 
 ## Trivia/Notes
 

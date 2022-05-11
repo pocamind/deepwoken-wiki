@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 29632
+revid: 29707
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,7 @@ According to Amara, these Legion Captains are hostile to "outlanders", which is 
 
 ## Trivia
 
--   Due to them being completely still, having Grand Skewer and being able to spam it, they're actually one of the strongest NPCs in PVE, since NPCs always tend to close distance and this one, instead increases distance, unless they're fighting enemies a high amount of HP and ranged moves (ex: Sand knights) or Threshers which will chip away at his low health due to being able to go underground but then getting Grand Skewered away, you can rely on them to decimate most enemies reliably.
+-   Due to them being completely still, having Grand Skewer and being able to spam it, they're actually one of the strongest NPCs in PVE, since NPCs always tend to close distance and this one, instead increases distance, unless they're fighting enemies with a high amount of HP and ranged moves (ex: Sand knights) or Threshers which will chip away at his low health due to being able to go underground but then getting Grand Skewered away, you can rely on them to decimate most enemies reliably.
 -   Their whole lore for now is literally "grr I hate outlanders grr"
 -   Even if people think they're rouge, they're friendly to normal Legion NPCs and wont attack them.
 -   Even if it doesn't change anything, they can have different weapons, those being the Ritual Spear, Champion Sword or just plain Fists with no Cestus.

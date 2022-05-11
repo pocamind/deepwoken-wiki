@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 29584
+revid: 29702
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,6 +18,8 @@ Amara is a Khan, she's around 40 years old due to her wrinkles and has the [Legi
 ## Lore
 
 Amara and the 11th Legion seem to come all the way out west, as suggested by Gaius in [Viper's Jaw](<The_Viper's_Jaw.md>) ranting about how he was posted in the east, even though the description of the [11th Legion Plate](11th_Legion_Plate.md) suggests that they've has always been there. Apparently the whole Legion is made of scouts as that's Amara's task in the East.
+
+According to Arch Mage, she's just a normal Centurion.
 
 ## Trivia
 

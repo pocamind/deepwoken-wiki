@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 29618
+revid: 29715
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -92,3 +92,4 @@ A common theory is that Vesperians and Ganymedes are different versions of the s
 -   Ganymede is one of the rarest obtainable race in the game, the other one being [Capra](Capra.md)
 -   ~The ultimate chad race, only comparable to [Khan](Khan.md) in chad-level.~ No we're not an ultimate chad we just like good things we help people by our knowledge it leads them forward
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
+-   I DON'T HAVE MUCH TIME BUT GANYMEDE HAVE A MOUT-
