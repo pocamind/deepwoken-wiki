@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29597
+revid: 29695
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -582,6 +582,7 @@ These Talents are meant to improve your overall combat effectiveness.
     -   Prerequisites: 20 Agility
 
 -   Hoplite \[Generic Talent, Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility, +2 Health)
+    -   Reduce posture damage taken by 50% while standing still and using a spear.
 -   Wind Step \[Generic Talent, Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
 -   Gale Dash \[Generic Talent, Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
 -   Cyclone Blade \[Generic Talent, Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity, +3 Health)
