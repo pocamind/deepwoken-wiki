@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 24566
+revid: 29891
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -11,8 +11,8 @@ categories: [Weapons]
 | Iron Birch | |
 |---|---|
 | type | Heavy Greataxe |
-| requirements | 45 HVY |
-| damage | 26 |
+| requirements | 55 HVY |
+| damage | 26.5 |
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.64x |
@@ -22,13 +22,13 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from• Minityrsa• Starswept Valley• Depths• Primadon |
-| description | The smiths of the hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes. |
+| obtainment | Chests from Minityrsa, Starswept Valley, Depths & Primadon |
+| description | The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes. |
 
 ## Description
 
-The Iron Birch is a heavy weapon that is obtainable from Minityrsa, Starswept Valley, Depths, and Primadon Chests. It has 26 Base damage and a swing speed of 0.64x.
+The Iron Birch is a HVY weapon that is obtainable from [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), and [Primadon](Primadon,_Titan_of_the_East.md) Chests. This weapon isn't worth farming for as it is outranked by the [Adretian Axe](Adretian_Axe.md) and [Canorian Axe](Canorian_Axe.md). The only thing this weapon can do better than the two axes above is it's base damage and swing speed which isn't enough to outrank them.
 
-## Notes
+## Trivia
 
-• Very rare for being a mid-tier weapon, Outclassed by the Adretian Axe and Canorian Axe.
+-   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).

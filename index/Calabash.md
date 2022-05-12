@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 29857
+revid: 29893
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -22,4 +22,5 @@ A Consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
 ## Trivia
 
 -   The Calabash has become quite a meme in the community, referred to as the food of the gods.
-    -   It has a counterpart called the red calabash, an in-game exploit of a calabash made to look red, as a part of this meme. It is also noted that the Canteen was probably the start of this "Red Calabash" meme, due to its reddish/deep orange color.
+    -   It has a counterpart called the red calabash, This joke or meme is portrayed in images through exploitations or Photoshop.
+    -   It is also noted that the Canteen was probably the start of this "Red Calabash" meme, due to its reddish/deep orange color.

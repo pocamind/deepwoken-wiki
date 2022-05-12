@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 28521
+revid: 29875
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -170,4 +170,4 @@ The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starsw
 
 ### **Stranger NPC**
 
-An incredibly rare event which has only been spotted in Erisia so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will spawn sitting down. If you have 10 charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 35 grips. If you do not have the requirements, the dialogue will start a fight.
+An incredibly rare event which has only been spotted in Erisia so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will spawn sitting down. ~If you have 10 charisma,~ Archmage has stated that you need way more than 10 charisma to get it through him, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 35 grips. If you do not have the requirements, the dialogue will start a fight.
