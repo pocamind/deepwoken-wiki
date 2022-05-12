@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 28850
+revid: 29791
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,6 +44,7 @@ When used, this ability will transport the user into the Distortion Realm known 
 
 -   **Version 1** is the default version with no change.
 -   **Version 2** can be used in combat, but the Distortion Realm to Etrean Luminant distance ratio is cut in half.
+-   **Version 3 (New)** Realm is the void sea, the Etrean Luminant is now half **Distortion** Realm, can be used in combat only user, able to be access through player being picked up.
 
 #### Corrupted
 

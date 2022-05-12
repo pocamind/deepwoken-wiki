@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 29403
+revid: 29792
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -54,7 +54,7 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 **Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has Murmur: Ardour.
 
-Ardour Scream does not need to be trained.
+Unlike Ardour, Ardour Scream does **NOT** need to be trained.
 
 ## Murmur: Tacet
 
@@ -70,16 +70,4 @@ Murmur: Tacet can be obtained by completing 15 assassinations for [Cestis](Cesti
 
 This quest requires 10 [Charisma](Attributes.md#charisma) and bad [reputation](Reputation.md) with Etrea to obtain.
 
-You may also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest. This is appears to be bugged, users have found the npc with 10 charisma, still failed the charisma check, and straight up bugged out leaving them unable to die when gripped.
-
-## Murmur: Rhythm
-
-Exact description unknown, allowed you to see the "heartbeats" of nearby monsters while crouching and pressing "G".
-
--   Likely removed due to being significantly weaker than the other two Murmurs
-    -   Would give ESP exploiters an easier time to avoid being caught.
--   Likely replaced by the current crouch + G.
-
-**Heartbeat Sensor**
-
-Exact description unknown, allowed you to see the heartbeats of nearby players as well as monsters.
+You may also be able to get this Murmur by finding an incredibly rare [NPC](Random_Encounters.md) randomly spawning in [Erisia](Erisia.md). With 10 [Charisma](Attributes.md#cha), you can initiate a dialogue to instantly gain Tacet without going through Cestis' quest.

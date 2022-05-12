@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 29414
+revid: 29776
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -64,7 +64,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 ### Preparation
 
 -   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _16 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
--   The footsteps of Primadon play a loud and distinct sound that can be heard from very far, even from nearby islands. You can this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the player(s) fighting this fishy ape.
+-   The footsteps of Primadon play a loud and distinct sound that can be heard from very far, even from nearby islands. You can use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the player(s) fighting this fishy ape.
 -   Having blunt armor greatly reduces the Primadon's damage during his stomps, and when paired with thresher scales you can take a lot less damage throughout the fight.
 -   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
     -   Staying still may also avoid confusion from Primadon's walking animation.

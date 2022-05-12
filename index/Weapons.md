@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 29565
+revid: 29787
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -526,11 +526,11 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
   <td>65 MED</td>
   <td>18</td>
-  <td>10%</td>
+  <td>13%</td>
   <td>MED: 7</td>
   <td>5</td>
   <td>8</td>
-  <td>0.77x</td>
+  <td>0.78x</td>
   <td>No</td>
 </tr>
 <tr>

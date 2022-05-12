@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29724
+revid: 29782
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -257,7 +257,7 @@ _Requires Power 40_
 |  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
 
- | Redsteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
+ | Redsteel Pauldrons | Grants a random buff. | Arena Chests, Knives of Eylis Chests | N/A |
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants a random buff. | Hive Chests, Depths Chests | N/A |
 | File:Simple Pauldrons.png | Simple Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 |  | Steel Pauldrons | Grants a random buff. | Erisia Chests | N/A |
