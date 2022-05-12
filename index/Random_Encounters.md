@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 29875
+revid: 29938
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -56,7 +56,7 @@ Greater bandit raid: Seven or so regular bandits
 
 Similar to bandit events, with 3-4 enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Navaean Hostage. Occurs at Erisia and Songseeker Wilds.
 
-**Weapons:** Dagger, Murmur: Adagio
+**Weapons:** Whaling Knife, Time Magic
 
 #### **Authority Scouts**
 
@@ -134,7 +134,7 @@ A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) o
 
 Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event involving a regular Megalodaunt fighting its red variant. If left by themselves, the red one will always win. Red Megalodaunts have roughly 2x it's normal HP and being able to rain fire swords.
 
-#### Feasting Megalodaunt
+#### **Feasting Megalodaunt**
 
 A Megalodaunt feasting on the corpse of a Vesperian Authority Footsoldier, found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three(?) locations they can be found at:
 
@@ -170,4 +170,4 @@ The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starsw
 
 ### **Stranger NPC**
 
-An incredibly rare event which has only been spotted in Erisia so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will spawn sitting down. ~If you have 10 charisma,~ Archmage has stated that you need way more than 10 charisma to get it through him, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 35 grips. If you do not have the requirements, the dialogue will start a fight.
+An incredibly rare event which has only been spotted in Erisia so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will spawn sitting down. If you have an unknown amount of Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 35 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped.

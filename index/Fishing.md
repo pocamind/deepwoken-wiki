@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 29612
+revid: 29914
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -46,7 +46,23 @@ You can fish up many different kinds of fish with there being a chance of other 
 -   1 Lionfish (Will spawn a Lionfish)
 -   Old Boots (Leather boots)
 -   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests..
--   Golden Fish (Very Rare, Give 16-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught.
+-   Golden Fish (Very Rare, Gives 16-30% Luck) NOTE: Any fish (and trash such as seaweed) can be golden and will appear with a yellow aura when caught.
+
+Evrything you can get from fishing has it's own chat bubble pop-up, as a reaction of your character.
+
+-   If you fish a Sea Bass: "It's a Sea Bass!"
+-   If you fish a Red Snapper: "A Red Snapper!"
+-   If you fish a Tuna: "Holy Molly, a Tuna!"
+-   If you fish a Swordfish: "A Swordfish!"
+-   If you fish a Squid: "Cool Squid!"
+-   If you fish a Pufferfish: "A poisionous Pufferfish..."
+-   If you fish an Urchin: "Barely comestible..."
+-   If you fish a Seaweed: "It got stuck on a Seaweed..."
+-   If you fish a Mudskipper: "What the...?!"
+-   If you fish a Lionfish: "A LIONFISH?!"
+-   If you fish a Treasure Chest: "Woah! A Treasure Chest!"
+
+Fishing a Golden Fish doesn't change the change the chat bubble.
 
 File:RobloxScreenShot20220410 233312197.png
 

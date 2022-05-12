@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 29549
+revid: 29906
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,11 +9,13 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-A Blade Temple Guard is an reputable NPC that can be found in [Isle of Vigils](Isle_of_Vigils.md) guarding the front of the temple gate and entrance to the temple. Occasionally, they will fight once some [bandits](Bandit.md) spawn in front of the temple.
+A Blade Temple Guard is an reputable NPC that can be found in [Isle of Vigils](Isle_of_Vigils.md) guarding the front of the temple gate and entrance to the temple. Occasionally, they will defend themselves once some [bandits](Bandit.md) spawn in front of the temple.
 
-## Tips & Tricks
+## Moveset
 
--   Don't even provoke it, it drops nothing good.
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings blade at opponent and continuing to combo them until knocked | ◯ | ◯ |  |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 29505
+revid: 29913
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -31,7 +31,9 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Strength
 
-"Hm? You train your muscle just to carry those stuff?" -Adret questioning his Canor friend.
+“ SAIDO CHESTO! ”
+
+― Chad Khan, flexing their superior physique.
 
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
@@ -44,7 +46,9 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
-“Cheers bro I’ll drink to that” - An alchemist Ganymede chugging unethical amounts of [potions](Alchemy.md).
+“ Cheers bro, I'll drink to that. ”
+
+― Ganymede alchemist, chugging an absurd number of potions.
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
@@ -55,7 +59,9 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Agility
 
-"Watch me hit this sick jum-" - Last words of a Vesperian
+“ Parkour - **PARKOUR!** ”
+
+― Vesperian, leaping to their doom.
 
 List of agility talents
 
@@ -70,7 +76,9 @@ List of agility talents
 
 ### Intelligence
 
-"What's 9 + 10?!" - A big brained Adret questioning an inept Felinor
+“ What's 9 + 10? ”
+
+― Big brain Adret to an inept Canor.
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
 -   This stat gives 2 Ether and Reservoir
@@ -82,7 +90,9 @@ List of agility talents
 
 ### Willpower
 
-"I know what I must do, and I KNOW I have the strength to do it." - A brave Felinor about to gank his former guild, Unnamed.
+“ Grant us eyes, **GRANT US EYES!** Grant us eyes, on the inside! ”
+
+― Etrean, prostrating themselves before Yun'Shul.
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -93,7 +103,9 @@ List of agility talents
 
 ### Charisma
 
-"I know how to get stronger…it’s called a Vow of Mastery. Wanna make one…?" -Celtor offering legal slavery to a Vesperian
+“ I know how to get stronger, it's called a vow of mastery. Want to make one... ? ”
+
+― Felinor, offering legal slavery to a Stranded Vesperian.
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
@@ -108,7 +120,9 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Heavy Weapons
 
-**“Too big, too thick, too heavy, and too rough, it was more like a large hunk of iron.”**
+“ That thing was too big to be called a sword. Too big, too thick, too heavy, and far too rough, it was more like a large hunk of iron. ”
+
+― A stranded Felinor, describing the Crypt Blade.
 
 \- A Freshie Felinor Describing a Greatsword
 
@@ -120,9 +134,9 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Medium Weapons
 
-"Spears. Sword. Maces. Long Ago…The three medium weapons lived in harmony…until the Shattered Katana attacked."
+“ Spears. Sword. Maces. Long Ago…The three medium weapons lived in harmony…until the Shattered Katana attacked. ”
 
-\-Maestro Evengarde Rest
+― Maestro Evengarde Rest.
 
 -   Increases your Character's skill in Medium Weapons.
 -   Determines the damage of your Medium Weapons via Scaling.
@@ -132,9 +146,9 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 ### Light Weapons
 
-“**YOU FOOL!** You brought a knife to a gun fight!”
+“ **YOU FOOL!** You brought a knife to a gunfight! ”
 
-\- A overconfident Capra to a dagger wielding Canor
+― An overconfident Capra to a dagger wielding Canor.
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.
@@ -148,7 +162,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Flamecharm
 
-"I got superpowers, bitch! Oh, eh, damn!" - Some flaming Ganymede
+“ KILL IT! **KILL IT!** KILL IT WITH FIRE! ”
+
+― Ganymede Pyromancer, fighting the Deep Widow.
 
 -   Increases damage and effectiveness of Flamecharm Mantras.
 -   Unlocks Flamecharm related Talents.
@@ -158,7 +174,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Frostdraw
 
-"Man, it sure is cold here." - A felinor drinking from the well, clueless
+“ Sure is cold for some reason... ”
+
+― Clueless Gremorian, drinking from the well.
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
@@ -167,7 +185,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Thundercall
 
-"PEWGHHHHHH" - Grand javelin
+“ AND HE **HURRRRLED** HIS THUNDERBOLT! ”
+
+― Celtor, describing his fight against a Megalodaunt.
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
@@ -176,7 +196,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
-"Taste the wind!" - Some fat Vesperian, a league player
+“ Taste the wind! ”
+
+― Katana-wielding Khan.
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
@@ -184,7 +206,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Shadowcast
 
-"My element is SO rare!" - A cocky Celtor, not realising how easy it is to get shadow
+“ Oh boy! Sure feel like gripping some stranded today! ”
+
+― 'Uber' Shadowcaster.
 
 -   Increases damage of Shadowcast Mantras and the ether you steal and gain from Enemies.
 -   Increases duration of blindness afflicting abilities.

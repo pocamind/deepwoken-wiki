@@ -1,9 +1,9 @@
 ---
 title: NPCs
-revid: 27198
+revid: 29942
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Dialogue, Dialog, Locations, Character, Map, Races]
+categories: [NPCs]
 ---
 
 # NPCs

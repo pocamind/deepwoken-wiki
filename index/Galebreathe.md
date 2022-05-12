@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 29025
+revid: 29902
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -172,7 +172,10 @@ These talents are found in the _Gale Duelist_ category.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Tempest Wind | Cast Wind Blade while sliding to unleash a quick whirlwind attack | Send target and you onto the air. |
+|  | Tempest Wind | Cast Wind Blade while sliding to unleash a quick whirlwind attack.
+(Please perform a jump to activate it)
+
+ | Send target and you onto the air. |
 
 **Galeforce:**
 
