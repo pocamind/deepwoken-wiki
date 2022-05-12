@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 29787
+revid: 29796
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1154,6 +1154,10 @@ _**Damage = BaseDmg + AttributeLevel((BaseDmg / 1000) ⋅ Scaling))**_
 Weapons with two scaling factors (Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.
 
 _**Damage = BaseDmg + AttributeLevel1((BaseDmg / 1000) ⋅ Scaling1)) + AttributeLevel2((BaseDmg / 1000) ⋅ Scaling2))**_
+
+[_A damage calculator I made for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)
+
+[_A damage calculator I made for legendary weapons_](https://www.desmos.com/calculator/0j5ztbqxdb)
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 
