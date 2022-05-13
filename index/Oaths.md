@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 29892
+revid: 29989
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -83,6 +83,14 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Heals nearby players in exchange for your own health, evens out the HP between you and the players you are trying to heal
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Obtaining: 1 player helped in the Depth Trial (must be alive)
+
+-   **Tranquil Circle - Combat Mantra**
+    -   Disables mantras from being used in it's radius
+        -   This affects everybody, including the caster and their allies.
+    -   While inside the circle, gain mantra immunity.
+    -   About the size of a medium Sacred field roll
+    -   Obtaining: 10 players helped in the Depth Trial (must be alive)
+
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
     -   The entire beams deals around 120 damage.
@@ -90,11 +98,6 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
     -   Obtaining: 20 players helped in the Depth Trial (must be alive)
--   **Tranquil Circle - Combat Mantra**
-    -   Disables mantras from being used in it's radius
-        -   This affects everybody, including the caster and their allies.
-    -   About the size of a medium Sacred field roll
-    -   Obtaining: 10 players helped in the Depth Trial (must be alive)
 
   
 

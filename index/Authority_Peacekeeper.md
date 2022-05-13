@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 29980
+revid: 29985
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,5 +36,4 @@ Their arsenal is composed of a [Rifle Spear](Weapons.md) and the [Flamecharm](Fl
 
 ## Trivia
 
--   If you have the Adret race, you start off with neutral reputation with The Authority meaning Authority Prison Guards wont attack you unless you pick up an inmate or attack them first.
 -   As well as being almost identical in appearance, both the Prison Guard and Flamecharmer use Flamecharm mantras.
