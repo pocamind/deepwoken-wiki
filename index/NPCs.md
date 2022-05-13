@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 29942
+revid: 29970
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -69,10 +69,10 @@ An organization that preserves whats left before the tides came. Historians that
 
 (Placeholder)  
 
-### **Nomads of Navae**
+### **Children of Navae**
 
 -   Affiliations - Neutral
--   Hostile against - Bandits, Summer Company, Ministry, Etrea (Legit grip guards)
+-   Hostile Against - Bandits, Summer Company, Ministry, Ignition Union, Etrea (Legit grip guards)
 -   Appearance - Navaen Armor, Gremors
 -   Equipment - Spears, Swords, Fists, Frostdraw Spells
 -   Player Reputable? - Yes
@@ -128,17 +128,17 @@ You can also get alot of gear from loresns
 ### Ministry
 
 -   Affiliations - Unknown.
--   Locations - Minityrsa and Summer isle.
--   Hostile against - Players, Nomads of Navae and Summer company (probably more).
+-   Locations - Minityrsa and Summer Isle.
+-   Hostile against - Players, Children of Navae and Summer Company (probably more).
 -   Appearance - Black clothing that looks like Prophet's cloak, also wear blindfolds and hats except the ganymede ones that summon spellcasting mudskippers.
--   Equipment - Krulian dagger / Shadow magic.
+-   Equipment - Krulian Dagger / Shadow magic.
 -   Player Reputable? - Surprisingly yes, when doing [Murmur: Tacet](Murmur.md) quest, after 6th assassination you will start getting their reputation.
 
 **Lore**
 
-When getting gripped they may mention player not being able to stop history from repeating itself or that what happened to the celtors will repeat.
+When getting gripped, they will mention that player will not be able to stop history from repeating itself, and that the entire world will fall into the depths like Celtor.
 
-**The Knives of Eylis**
+### The Knives of Eylis
 
 -   Affiliations - Unknown
 -   Locations - Somewhere on Songseeker Isle, Pathfinder's Respite in Lower Erisia, Upper Erisia, Viper's Jaw, and the Aratel Ship Battle. (Maybe more)

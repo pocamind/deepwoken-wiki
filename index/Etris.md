@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 29896
+revid: 29961
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -205,6 +205,25 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 -   Requires 50 Charisma \[Confirmed by SkipperFalconeer, If you don't have enough and try to get the 3rd ending anyway, You won't be able to try again. Keep this in mind before trying out to this.\]
 -   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.
 
+## NPCs
+
+-   Ploom
+-   Theadre
+-   The Lord Regent
+-   Innkeeper
+-   [Guild Clerk](Guilds.md)
+-   [Banker](Artifacts.md)
+-   [Antiquarian](Antiquarian.md)
+-   Lance Leshi
+-   Kennith
+-   [Royal Guard](Etrean_Guardsmen.md)
+-   Karliah
+-   The old guy Karliah kills (placeholder)
+-   Frostdrawer Nell
+-   That capra at the port (placeholder)
+-   [The Den Master](Den_Master.md)
+-   Navaen Campmaster (placeholder?)
+
 ## Side Quests
 
 ### Flamecharmer Ploom Quest
@@ -232,7 +251,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
     -   Knocking a Navaen Nomad in [Summer Isle](Summer_Isle.md), or any other location, and turning them in will not work for this quest.
 -   Upon finding a Navaen tribe member, head back to the camp master and receive your reward.
 -   The reward for this quest is the "Way of Navae" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae to be a starting style in the start menu.
--   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more dificult if a [lionfish](Lionfish.md) spawns,, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
+-   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [lionfish](Lionfish.md) spawns,, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
     
 
 ## Trivia

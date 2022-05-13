@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29878
+revid: 29967
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -300,7 +300,7 @@ _Requires Power 30_
 _Requires Power 40_
 
  | Nautilodaunt (Very Rare) | N/A |
-| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud, Jade (Work in progress) |
+| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud, Jade, Lavender (Work in progress) |
 | File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre, White (Work in progress) |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
