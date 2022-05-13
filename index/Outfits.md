@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29967
+revid: 29984
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -188,7 +188,7 @@ _Requires Fortitude 5_
  | Arena Chests | N/A |
 | 
 
- | Royal Guard's Kabuto | Grants a random buff. | Placeholder | N/A |
+ | Royal Guard's Kabuto | Grants a random buff. | Depths Chests | N/A |
 | File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests, Primadon Chests | N/A |
 
 **Face:**

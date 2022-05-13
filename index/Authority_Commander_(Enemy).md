@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 29560
+revid: 29981
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,11 @@ Their arsenal is composed of a Medium or Heavy weapon (An Adretian Axe, An Offic
 
  | N/A | ◯ |  |
 | Flame Assault | Burst forward in flames. | ◯ | ◯ |  |
-| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ |  |
+| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ◯ \[With enough Posture Stat.\]
+
+\[And/Or empty bar before blocking.\]
+
+ |  |
 
   
 

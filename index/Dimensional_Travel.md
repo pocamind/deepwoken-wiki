@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 29791
+revid: 29977
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

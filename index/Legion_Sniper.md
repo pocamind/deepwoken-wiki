@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 29883
+revid: 29983
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-The Legion Javelin Captain is a Humanoid NPC which appears to wear the [Legion Centurion](Legion_Centurion.md) outfit, Khan Boots, Khan Helmet and Khan Pauldrons. This Hostile Legion Captain has a single attack, being the [Grand Javelin](Thundercall.md). This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
+The Legion Javelin Captain is a Humanoid NPC which appears to wear the [Legion Centurion](Legion_Centurion.md) outfit, Khan Boots, Khan Helmet and Khan Pauldrons. This Hostile Legion Captain has a single attack, being the [Grand Javelin](Thundercall.md) mantra. This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
 
 According to Amara, these Legion Captains are hostile to "outlanders", which is what the Legion calls people outside of their Empire, but it's unclear if these are orders or they just feel like killing everyone. The Legion does not appear to care about their death all too much either, as unlike the Authority Patrol event, killing them does not affect your Reputation.
 
