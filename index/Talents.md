@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 29695
+revid: 30006
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -133,6 +133,8 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
     -   Prerequisites: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed
+    -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
+    -   Players are only slowed a little bit for less time instead.
 
 ### Artisan
 

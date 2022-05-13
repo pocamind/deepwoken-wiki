@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 29993
+revid: 30020
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Monster]
@@ -8,7 +8,12 @@ categories: [Pages with broken file links, Monsters, Monster]
 
 # Crustaceous Rex
 
-Template:Creature Infobox V3 **"Who thought putting Crabulon in the game was a good idea?" -a freshie Gremor who just got gripped by a Crustaceous Rex**
+“ Hello, I like breaking your ribcage. ”
+
+― Crustaceous Rex when asked what inspired them to build a second church right next to the original.
+
+  
+Template:Creature Infobox V3
 
 _Also known as **Purple Crab**, **King Crab**, **Craboss** or **Crabbo.**_
 
@@ -63,8 +68,9 @@ File:Crabbo.PNG
 
   
 
-## Notes
+## Trivia
 
 -   One of, if not the only [Monster](Monsters.md) in [The Depths](The_Depths.md) that one can run away from without climbing.
+-   The Bubble Beam move may be a reference to the Water-type move from Pokémon with the same name.
 -   This thing can't really move much but it can still mess you up especially w/ crushing claw.
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal one-on-one or with a party much faster.

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 29629
+revid: 30008
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -55,7 +55,6 @@ These mantras have no prequisites.
 | [Ice Beam](https://deepwoken.fandom.com/wiki/File:Ice%20Beam.gif) | Ice Beam | Fire a beam of ice. | Fires a penetrating beam of ice.
 
 -   Deals multiple attacks and light damage.
--   Slows target(s) briefly.
 
  |
 | File:Frostgrab base range.gif | Frost Grab | An icy chokehold. | Launches the user forward and grabs a target in front of them.
@@ -160,7 +159,12 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | Do a short flipkick that throws your enemies into the air
+-   Compatible with a spring spark to launch the opponent away instead of upward.
+
+ |
 | 
+
  | Crystal
 
 Impale/Impact
@@ -168,10 +172,9 @@ Impale/Impact
  | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
 
 -   Deals around six to eight hits.
--   Similar to Galebreathe's [Heavenly Wind](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
+-   Can be comboed into from regular Crystal Knee.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | Do a short flipkick that throws your enemies into the air |
 
 ### **Mobility**
 
@@ -215,9 +218,9 @@ Impale/Impact
   <td><figure>File:Giphy 8.gif<figcaption></figcaption></figure></td>
   <td>Iceberg<p>(★★★)</p></td>
   <td>Enter a state of cryostasis</td>
-  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies too close. You gain autoparry for three hits while this is active.
+  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies too close. You gain autoparry for 1 hits while this is active.
   <ul>
-    <li>Heals 10% when not upgraded</li>
+    <li>Heals 1-3%</li>
     <li>Possibly can be upgraded with Stratus Stones and Eternal Logstones</li>
     <li>Don't use when your teammates are nearby, because this can freeze others.</li>
   </ul></td>

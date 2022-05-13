@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 29982
+revid: 30000
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing]
@@ -14,11 +14,11 @@ A gallery of maps for _Deepwoken_ locations.
 
 ## Overview
 
-Navigation in _Deepwoken_ can be confusing at first. Uese these maps if you are ever in need of easy navigation. Remember to look at waypoints such as Statue Island below.
+Navigation in _Deepwoken_ can be confusing at first. Ues these maps if you are ever in need of easy navigation. Remember to look at waypoints such as Statue Island below.
 
 ## Maps
 
-An interactive map of the Etrean Luminant can be found [here](https://www.basil.moe/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
+An interactive map of the Etrean Luminant can be found [here](https://map.deepwoken.net/), many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
 User Isco#7864 created a [physical manual](https://twitter.com/IscoFish/status/1522625495489261569) of the Etrean Luminant map which can be obtained by printing [these](https://twitter.com/IscoFish/status/1522625699575652356).
 

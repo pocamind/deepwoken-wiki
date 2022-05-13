@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 29951
+revid: 30010
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -138,7 +138,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Grimshattered.png<figcaption></figcaption></figure><div>Grim</div></td>
-  <td><div><p>After a certain amount of hits (LHT:&nbsp;?, MED: 5, HVY: 4), apply grim, increasing damage received by 20%. Grim last 4 seconds.</p>
+  <td><div><p>After a certain amount of hits (LHT: 6, MED: 5, HVY: 4), apply grim, increasing damage received by 20%. Grim last 4 seconds.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -157,13 +157,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Deferredwhalingknife.png<figcaption></figcaption></figure><div>Deferred</div></td>
-  <td><div><p>Attacks deals 1.1x damage and damage are applied overtime instead of instantly, (CANNOT be outhealed by a campfire or potions).<br>
-  The target will take damage every ~0.40 seconds for ~5 seconds (each damage tick apply 12.5% of the original damage).</p></div></td>
+  <td><div><p>Attacks deals 1.1x damage. Damage dealt are applied over 2.5s instead of instantly. Victim take 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
   <td><div><p>Parrying an attack will proc the thorns to the attacker. The thorns scales base of the users power, this affects in PVPVE.</p>
-  <p>Power scaling is based&nbsp;?% x ()power in PVP. Maximum damage capped is <b>500</b> in PVE.</p>
+  <p>Power scaling is based 0.043% x ()power in PVP.<br>
+  Power scaling is based 10% x ()power in PVE.<br>
+  Maximum damage capped is <b>500</b> in PVE.</p>
   <p><br>
   </p></div></td>
 </tr>
@@ -196,20 +197,17 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
-  <td><div><p>This enchant grant every other weapon enchant on the weapon. Each enchant procs are rolled individually, meaning multiple enchants can proc at once.<br>
-  Each enchant can also proc between themself, which can lead to large chains of enchant procs, essentially allowing the weapon to one shot practically most players.</p></div></td>
+  <td><div><p>Every weapon enchant are enabled. Randomly proc or activate the effect of an enchant on hit.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
-  <td><div><p>After an M1 connection, you are able to pull your target towards you by pressing R. After a full M1 combo, any M1s landed afterwards will fling your target upwards.</p>
-  <p><s>This enchantment was disabled by the devs and any existing tainted sorrow enchantments have been deleted, read announcements for proof.</s></p>
+  <td><div><p>On hit, gain the ability to pull the victim toward the user by pressing R. Flourishing make all subsequents attack fling the target upward.</p>
   <p>Tainted Sorrows is only obtainable through mod/dev rerolls. Deepwoken Moderators are the only people that can obtain this enchant on any weapon through moderation points/reward system.<br>
   <b>Does not work on guns.</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
-  <td><div><p>Not much is known about this enchant, and it probably got removed in the loot pool a long time ago. This enchant is mentioned by Infernasu in his <a href="https://youtu.be/pIq2Gq7q8XY?t=169">Deepwoken: Enchants + The Curse Of The Umbral Knight Video</a>. According to him, it increases M1 speed drastically. You can swing a Heavy Weapon as fast as a Light Weapon for reference.</p>
-  <p>There are no speed penalties when equipped. On proc return the parry damage back to attacker.</p></div></td>
+  <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
@@ -235,7 +233,7 @@ Entanglement
 
  | 
 
-On proc, slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
+On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
 
   
 
@@ -248,7 +246,7 @@ Allure
 
  | 
 
-On proc, apply Charm on the enemy. This charm will use all your Charm talents.
+On proc, apply Charm on the enemy. All charm related talent that the user have are applied.
 
  |
 | 
@@ -361,6 +359,6 @@ Auto-Repair
 
  | 
 
-Supposed to repair the users armor similar to thresher scales but a non-campfire version. Doesn't seem to work. According to Arch\_Mage, it was added in the first opening week of Deepwoken put into the game and accidently left in the game. Only one user is confirmed to have this enchant.
+User passively regain armor durability at all time.
 
  |

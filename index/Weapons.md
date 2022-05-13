@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 29889
+revid: 30019
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1158,6 +1158,8 @@ _**Damage = BaseDmg + AttributeLevel1((BaseDmg / 1000) ⋅ Scaling1)) + Attribut
 [_A damage calculator I made for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)
 
 [_A damage calculator I made for legendary weapons_](https://www.desmos.com/calculator/0j5ztbqxdb)
+
+_[Another damage calculator, but this one includes pen, armor and exo (slightly modified version of the above one)](https://www.desmos.com/calculator/hqegorfd35?lang=en)_
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 
