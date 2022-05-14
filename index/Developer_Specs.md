@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 28937
+revid: 30053
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Spells, Mantras, Skills, Attunement, Attributes, Weaponry, Armors, Weapons, Guilds, Helpful, Talents]
@@ -16,9 +16,11 @@ A spec is custom ability often given to mod and/or developers that is unique to 
 
 Arch-Mage Soul Stealer: [https://www.youtube.com/watch?v=brgBuA83ZbM](https://www.youtube.com/watch?v=brgBuA83ZbM)
 
-Melonbread Gate: [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0)
+Melonbread Gate (No official name): [https://www.youtube.com/watch?v=4KLGPkyCff0](https://www.youtube.com/watch?v=4KLGPkyCff0)
 
 Hive Leader (I don’t know their name): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://www.youtube.com/watch?v=KEgU7U0Sdh8) and [https://www.youtube.com/watch?v=M78S7bx5wKw](https://www.youtube.com/watch?v=M78S7bx5wKw) (0:36)
+
+Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www.youtube.com/watch?v=rlDQvIqu-Bs)
 
 ## Spec's
 
@@ -33,3 +35,7 @@ Melonbread has the ability to make a stone gate appear which allows him to take 
 ### Iltria
 
 Not much is known of Iltria's spec as of now, however we have a general idea. Upon meeting Iltria in game, they may ask you to make a wish, this wish may be one of three things; wealth, power or enhancement. Upon choosing wealth, you will be granted a total of 10,000 notes (needs confirming). Upon choosing power, you will be given enough exp to reach level 60 (needs confirming). Upon choosing enhancement, you will be granted a unique enchant called 'Astral' (see [Enchantments](Enchantments.md)) on your chosen weapon. When your wish is granted you will find that you have a newly acquired flaw known as 'Wishbound'. This flaw causes the player to accumulate insanity when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess insanity should be aware at all times.
+
+### Zartaina
+
+Zartaina has spec which is called “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game. Zartaina has also stated that the spec isn’t full completed. (Note: He can slo summon a gate that can transport a player to a random location, unknown if it’s related to his spec)

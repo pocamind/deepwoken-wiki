@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 29930
+revid: 30057
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
