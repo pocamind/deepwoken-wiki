@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 29965
+revid: 30175
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients]
@@ -25,4 +25,4 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
     -   It has a counterpart called the Red Calabash, similar to the Heroism Egg hoax that went around earlier. This joke or meme is portrayed in images through exploits.
         -   This exists through one of _Key Exploits_'s livestreams. He pulled out the aforementioned Red Calabash and said "Agamatsu! Yoo, if you ever want to make a Red Calabash unsolved video, hit me up. I can give you all the _gifs_ and _videos_ you need!" He then proceeds to float around and eat the fruit.
     -   It is also noted that the Canteen was probably the start of this "Red Calabash" meme, due to its similar reddish/deep orange color.
--   Calabash in real life are actually poisonous, being able to cause stomach ulcers.
+-   Calabash in real life are actually poisonous, being able to cause stomach ulcers and other gourd related injuries.

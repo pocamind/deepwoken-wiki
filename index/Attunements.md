@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 29214
+revid: 30193
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -34,6 +34,6 @@ Another point worth noting is there's no current way of removing an Attunement t
 
 -   Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
 -   You can have a maximum of two Attunements, the one you start with and the one you choose to learn.
--   When unlocking an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
+-   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
     -   You can unlock all Attunements to be select-able from the menu.
--   Using a vibrant gem on any Attunement's mantra (besides None) increases the potency.
+-   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.

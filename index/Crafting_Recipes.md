@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 28587
+revid: 30143
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,11 +8,11 @@ categories: [Mechanics]
 
 # Crafting Recipes
 
-## Description
-
 _icon credit to Tortaa#9000_
 
 One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere, while others require a [crafting station](Crafting_Station.md), [campfire](Campfire_Pit.md), or cauldron.
+
+  
 
 For more information about Food, go [here](Food.md).
 

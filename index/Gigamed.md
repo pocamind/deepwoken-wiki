@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 29216
+revid: 30072
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -32,9 +32,9 @@ Template:Creature Infobox V3 Player-sized glowing blue Jellyfish that is commonl
 
 **King Gigamed:**
 
-“ Look Patrick, it's a Jellyfish! ”
+“ WHY ARE THERE SO MANY ”
 
-― Lvl 1 Adretian Freshspawn walking towards a King Jellyfish to his death
+― A power 40 getting bombarded by 4 king jellyfish.
 
 Template:Creature Infobox V3
 

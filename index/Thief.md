@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 30070
+revid: 30197
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,9 +11,9 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:EnemyInfobox1.0
 
-## Appearance
+## Description
 
-A thief is an enemy NPC that can be found in [Erisia](Erisia.md) wielding a [Gilded Knife](Gilded_Knife.md) and wearing the [Shadow Hunter](Shadow_Hunter.md) outfit. It also spawns in groups of 3.
+A thief is an enemy NPC that can be found in [Erisia](Erisia.md) wielding a [Gilded Knife](Gilded_Knife.md) and wearing the [Shadow Hunter](Shadow_Hunter.md) outfit. They spawn in groups of three. Unlike all other enemies, they don't kill their victims, but steal their money and disappear.
 
 ## Enemy Information
 
@@ -21,16 +21,9 @@ A thief is an enemy NPC that can be found in [Erisia](Erisia.md) wielding a [Gil
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
 | Critical Assault | Unleash a quick flurry attack on opponent. | ◯ | ◯ | (★★☆) |
+| Smokebomb | Release a smokebomb after mugging the play and disappear in a black cloud of smoke. | N/A | N/A | N/A |
 
-## Drops
-
-### Lesser [Mantra Modifiers](Mantra_Modifiers.md):
-
--   Aeon Logstone
--   Amnesic Driftwood
--   Cloudstone
--   Crystal Lens
--   Drift Shard
+  
 
 ## Tips
 
@@ -38,4 +31,4 @@ A thief is an enemy NPC that can be found in [Erisia](Erisia.md) wielding a [Gil
 
 ## Trivia
 
--   Upon gripping you, they will steal your money saying "Score!" and disappear.
+-   Despite stealing your money, they still half grip the player, but backing off before the animation finishes.
