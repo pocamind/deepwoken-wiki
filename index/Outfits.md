@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 29991
+revid: 30066
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -423,7 +423,7 @@ _Requires Power 40_
 
 (Legendary)
 
- | Stops aging. | Depths Chests, Duke |
+ | Removes the effects of aging but does not stop it | Depths Chests, Duke |
 |  | Deepfire Ring
 
 (Legendary)

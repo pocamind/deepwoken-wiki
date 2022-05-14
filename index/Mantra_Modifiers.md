@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 29698
+revid: 30064
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -406,7 +406,7 @@ The falseflame, haunting, and mirage stone are all dropped by jellyfish in the d
 
 -   This modifier makes "_Ice Laser_" stop in place when shot for a brief amount of time, then goes forward (Think Knives in a certain stopping of time)
 -   This modifier makes "_Shade Bringer_" perform a jump before slamming the blade down. (Can be paired with Multiplying Spark)
--   This modifier makes "_Crystal Knee_" perform a spin kick after the initial backflip kick, which send the target flying.
+-   This modifier makes "_Crystal Knee_" perform a spin kick after the initial backflip kick, which sends the target flying.
     
 
 ## Trivia/Notes
