@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 30029
+revid: 30045
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -56,6 +56,15 @@ Jolt Grab
  | An electrified chokehold. | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands.
 
 -   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range.
+
+ |
+|  | Electro Carve
+
+(☆☆☆)
+
+ | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
+
+-   Shocks opponents inside of it while dealing damage.
 
  |
 |  | 
@@ -136,16 +145,6 @@ Grand Javelin
 
 -   Ragdolls, flings and deals moderate damage.
 -   Does not guard break but gives a lot of posture if blocked.
-
- |
-|  | 
-
-Electro Carve  
-(★★☆)
-
- | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user. (this is 0 star now proof: [https://cdn.discordapp.com/attachments/968028156319658056/973707532436643880/unknown.png](https://cdn.discordapp.com/attachments/968028156319658056/973707532436643880/unknown.png))
-
--   Shocks opponents inside of it while dealing damage.
 
  |
 |  | 

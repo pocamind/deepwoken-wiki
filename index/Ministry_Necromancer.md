@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 28007
+revid: 30031
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,24 +23,13 @@ Their arsenal consists of a Dagger and [Shadowcast](Shadowcast.md):
 -   **Mudskippermancing**: The Cultist instantaneously summons 3 [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until the Mudskippers are killed. These ones are slightly more intelligent, as they will rarely try to block sometimes.
     -   Red-robed mudskippers are called "Redskippers" and have "[Flamecharm](Flamecharm.md)" as their attunement. These throw fireballs.
     -   Blue-robed mudskippers are called "Blueskippers" and have "[Frostdraw](Frostdraw.md)" as their attunement. These summon Warden Blades, a Frostdraw mantra.
--   **Shadow Roar**: Exhale a giant cloud of shadow, it deals constant damage and ether drain per second to anyone who are involved in the area. Can be both blocked and parried.
-
-### **Boons:**
-
--   **Third Eye**: Can not be assassinated in any circumstances.
-
-### Flaws:
-
--   **Mudskippermancing**: The mudskipper have enhanced health and have the use of attunements unlike their normal variant, they always spawn in 3 but they are no more than health packs due to their inability to commonly block or parry any of your attacks.
-
-## Tips
-
--   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   You can block/parry until it uses Shadow Roar for an easy flourish.
--   Every Cultist Necromancer is a [Ganymede](Ganymede.md).
--   Lethal Force is recommended as it can guarantee a kill on the first 3 hits.
+-   **Shadow Roar**: Exhale a giant cloud of shadow, it deals constant damage and ether drain per second to anyone who are involved in the area. Can be both blocked and parried. Leaves it vulnerable, giving the player the chance for an easy flourish.
 
 ## Trivia
 
+-   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
+-   Lethal Force is recommended as it can guarantee a kill on the first 3 hits.
+-   Every Cultist Necromancer is a [Ganymede](Ganymede.md).
+-   Lethal Force is recommended as it can guarantee a kill on the first 3 hits.
 -   They are believed to be brainwashed, because when the [scouts](Ministry_Scout.md) have conversations in-between themselves or with a necromancer, they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).
 -   Everyone except the [scouts](Ministry_Scout.md) are their enemies, even NPCs.

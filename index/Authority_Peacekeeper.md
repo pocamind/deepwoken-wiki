@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 29985
+revid: 30046
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Prison Guard is a type of enemy NPC found patrolling in [Fort Merit](Fort_Merit.md). They may look intimidating but in actuality they are surprising weak compared to an [Authority Footsoldier](Authority_Officer.md).
+The Authority Prison Guard is a type of enemy NPC found patrolling in [Fort Merit](Fort_Merit.md). They may look intimidating but in actuality they are surprising weak compared to an [Authority Footsoldier](Authority_Officer.md).
 
 Their appearance consists of a Authority Peacekeeper Uniform and an Authority Helmet. They are almost identical to the Authority Flamecharmer, but are easily identifiable by their signature rifle spear.
 

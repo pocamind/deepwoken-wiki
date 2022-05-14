@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 29938
+revid: 30039
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -120,7 +120,7 @@ A hobo in the neutral position
 
 The Hobo can be found across Erisia (and elsewhere?) and will spawn a maximum of 4 chests around him, most likely not more. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
 
-If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. Occurs in Erisia
+If you open one of their chests (don't have to take the loot,) it will aggro them. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions.
 
 #### **Pathfinders**
 

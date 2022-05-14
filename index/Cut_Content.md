@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 29990
+revid: 30043
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -40,6 +40,7 @@ notices:
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
+-   **A deal from Below \[Generic Talent, Rare Talent\] -** You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
 
 ## Other
 

@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 29273
+revid: 30041
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,43 +9,48 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Deepwoken's Death Compendium, a list of **every** possible death you can achieve in game.
 
--   Get gripped (excecuted) by a player or NPC, typically by pressing B.
+-   Get gripped (executed) by a player or NPC, typically by pressing B.
 -   Be killed by a [monster](Monsters.md), such as being crushed by a [Megalodaunt](Megalodaunt.md) or being turned into a [Mudskipper](Mudskipper.md) by a [Nautilodaunt.](Nautilodaunt.md)
+-   Die of boredom while waiting for the [Frostdrawer Monk](Songseeker_Frostdrawer.md) to stop spamming Ice Spikes and Ice Eruption on you while you're already knocked.
 -   Die to a killbrick, such as the [Depths’](The_Depths.md) void.
--   Drown to death.
+-   Drown.
 -   Bleed to death.
 -   Burn to death.
 -   Fall to death.
 -   Have both your stomach and thirst meter at 0. \[Starve / Die of Dehydration\].
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
+-   Equipping a weapon that is enchanted with Curse of the No Life King while in [The Depths](The_Depths.md) one/one too many times, making your head swell and burst. (You can log before the head explosion happens and subsequently save yourself)
 -   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
 -   Speak to [Yun’shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell.
+-   Enter the Lord Regent's Throne Room without an audience.
 -   Complete the Lord Regent’s [quest](Quests.md) and report to him.
 -   Fail to complete the Lord Regent's quest and report to him.
--   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md#list-of-ships) or glitching underneath the map and falling into the Roblox void.)
--   Be struck by a meteor.
+-   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md#list-of-ships) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
+-   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) meteor.
 -   Get skewered by a [Grand Javelin.](Thundercall.md)
 -   Explode. (Cannons, Detonation enchant, etc)
 -   Fail the parry check in the [Trial of One.](Trial_of_One.md)
--   Many of the [Ferryman’s](The_Ferryman.md) moves instakill, such as his javelins.
--   Getting automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many Wind Mantras.
+-   Many of the [Ferryman’s](The_Ferryman.md) moves instakill, such as his Grand Javelin Barrage.
+-   Getting automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many Galebreathe Mantras.
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Trying to threaten [Akira](Akira.md) and failing to meet the Charisma requirement. (Picking 2nd option in his random encounter).
--   Be struck by a [Legion Captain's](Legion_Captain.md) Grand Javelin move if at low enough health.
+-   Speaking to Brutus without 75 Fortitude.
+-   Be struck by a [Legion Captain's](Legion_Sniper.md) Grand Javelin ~spam~ move if at low enough health.
 -   Get crushed by a [Boulder](Training_Gear.md).
 -   Drop an item whilst in the middle of resetting.
--   This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
+
+This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
 
 Death Causes listed by the game
 
--   A Fearsome opponent
--   A raging Inferno
+-   A Fearsome Opponent
+-   A Raging Inferno
 -   Monster Name
 -   Player Name
 -   Starvation
 -   Gravity
--   Gravity, among other things...
+-   Gravity, among other things
 -   Various Causes
 -   Impatience
 -   Daring to Trespass
