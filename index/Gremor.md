@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 30196
+revid: 30207
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -99,6 +99,7 @@ SURNAMES
 -   The compass points towards Navae, making it somewhat useless for navigation.
 -   As a Gremor, you will get boosted reputation with the Navaen Nomads.
 -   During 1/4/2022 April Fools update (Mudwoken), Gremor race name was changed to Hornskipper.
+-   compass is just useless lol
 
 <table>
 <tbody>

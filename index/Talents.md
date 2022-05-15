@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30159
+revid: 30215
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -340,6 +340,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 These Talents are meant to improve your overall combat effectiveness.
 
 -   Concussive Force \[Generic Talent, Common Talent\] - Enemies you knocked remain down longer than usual. (+4 Health, +1 Carry Load)
+    -   Enemies remain knocked for 15 seconds instead of 10.
 -   Concussion \[Generic Talent, Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+3 Health, +8 Carry Load)
 -   Duelist Dance \[Generic Talent, Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 -   Last Resort \[Generic Talent, Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
@@ -976,6 +977,7 @@ These Talents are meant to reap the reward of your latest hunt.
     -   Prerequisites: 25 Agility
 -   Spinning Swordsman \[Generic Talent, Common Talent\] - Running attacks do extra damage when you have a speed boost. (+1 Passive Agility)
 -   Bear Trap \[Generic Talent, Common Talent\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
+    -   The status effect is represented by blood pouring from the legs.
 -   Speed Demon \[Generic Talent, Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
     -   "Bleed" is actually a small damage overtime and not an actual decrease in the blood gauge.
 
@@ -1349,11 +1351,11 @@ Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice a
 -   The Card, "The Sound from Below" is almost always granted on your first or second power increase.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
--   The Card, "Exploding Mirage Clones," will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact.
+-   The Card, "Exploding Mirage Clones" will always explode with the original yellow/red flames, even if you've obtained the Azure Flames card. This is also true for Meteor Impact.
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guaranteed legendary Talent card if there is one available.
 -   Adept can't be obtained post power 55.
--   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up, you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand." (Although I think you are capable of rolling every card you have available to you so my theory is that it could just be if the number of cards you have left is less than the number of power ups you have left)
+-   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand." (Although I think you are capable of rolling every card you have available to you so my theory is that it could just be if the number of cards you have left is less than the number of power ups you have left)
 
   
 Template:Navbox:Talents

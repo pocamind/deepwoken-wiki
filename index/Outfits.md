@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30130
+revid: 30210
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -383,7 +383,7 @@ _Requires Power 10_
 Grants one random buff.
 
  | Duke Chests, Primadon Chests, Depths Chests |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Chests, Primadon Chests, Depths Chests |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
 | File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Primadon Chests, Depths Chests |
 |  | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
 

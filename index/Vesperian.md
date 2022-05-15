@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 29929
+revid: 30203
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -94,12 +94,12 @@ A layer of protective armor that regenerates at rest.
     -   This pattern can also be found on one of the Vesperian statues inside of the [Starswept Valley](The_Starswept_Valley.md)
 -   Some of the mask designs that you can choose as a face may be based on designs found in the Kung-fu Soulslike _**Absolver**_.
 -   Ragoozer and Arch Mage are coming, I don't have much time left but... The blue Vesperian, is REAL
--   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 20% physical damage
+-   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 20% physical damage.
 
 ## Trivia
 
--   Vesperians may be somewhat based off of Bombardier beetles
--   Vesperians were inspired by the game Hollow Knight
+-   Vesperians may be somewhat based off of Bombardier beetles.
+-   Vesperians were inspired by the game Hollow Knight.
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
 -   The Blindseer mask may be a reference to the Sheikah from the Legend of Zelda series.
 
