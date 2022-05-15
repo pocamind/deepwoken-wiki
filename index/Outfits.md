@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30210
+revid: 30235
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -158,6 +158,11 @@ _Requires Fortitude 20_
 _Requires Fortitude 15_
 
  | Arena Chests, Depths Chests | N/A |
+| 
+
+File:Captainskabuto.png
+
+ | Captain's Kabuto | Grants a random buff. | (Work in Progress) | N/A |
 | File:Feathertop Helm.png | Feathertop Helm | Grants a random buff. | Artifact Turn-ins | N/A |
 | File:Gladiator Helmet.png | Gladiator Helmet | Grants a random buff.
 
@@ -209,13 +214,14 @@ _\+ Talent: Blinded_
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
+|  | Amethyst Pendant Earrings | Grants a random buff. | (Work in Progress) | N/A |
+|  | Crystal Pendant Earrings | Grants a random buff. | Hive Chests | N/A |
 |  | Dewdrop Earrings | Grants a random buff. | Hive Chests | N/A |
-|  | Crystal Pendant Earrings | Placeholder | Hive Chests | N/A |
-|  | Rubydrop Earrings | Grants a random buff. | Hive Chests | N/A |
-| File:MasterThief.png | Master Thief Earrings | Grants a random buff. | Fort Merit Chests | N/A |
-| File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest | N/A |
-|  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
 | File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants a random buff. | Primadon Chests | N/A |
+| File:MasterThief.png | Master Thief Earrings | Grants a random buff. | Fort Merit Chests | N/A |
+|  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
+| File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest | N/A |
+|  | Rubydrop Earrings | Grants a random buff. | Hive Chests | N/A |
 
 **Back:**
 
@@ -245,7 +251,7 @@ _Requires Power 40_
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
-|  | Gladiator Pauldrons | Grants a random buff. | Fishing chests (Work in progress) | N/A |
+|  | Gladiator Pauldrons | Grants a random buff. | Fishing Chests (Work in progress) | N/A |
 | 
 
  | Grand Pauldrons | Grants a random buff. | Placeholder | N/A |

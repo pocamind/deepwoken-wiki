@@ -1,48 +1,33 @@
 ---
 title: Authority Commander (Enemy)
-revid: 30225
+revid: 30257
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Authority Commander (Enemy)
 
-Template:Creature Infobox V3
+Template:EnemyInfobox1.0
 
 ## Description
 
-Authority Wardens are high-ranking members of The Central Authority. The rank of "Warden" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. Another one can spawn outside the shipwright's hut by the docks.
-
-## Appearance
-
--   [Authority Helmet](Outfits.md)
--   [Authority Commander Uniform](Outfits.md)
--   [Shrouded Cape](Outfits.md) (Unknown Variant)
+Authority Wardens are high-ranking members of The Central Authority. The rank of "Warden" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least ONE Warden is located within [Fort Merit](Fort_Merit.md), in the prison area, in a room staring at some empty shelves. Another one can spawn outside the shipwright's hut by the docks. They both wear standard Authority Commander Uniform and Shrouded capes. However the one inside the prison wears an Authority Helm, while the one outside wears unknown glasses and leaves their head uncovered.
 
 ## Moveset
 
-Their arsenal is composed of a Medium or Heavy weapon (An Officer Saber, a Shotel or an Adretian Axe), the [Flamecharm](Flamecharm.md) attunement, and some hand-to-hand combat:
+Their arsenal is composed of a Medium or Heavy weapon (An Officer Saber, a Shotel or an Adretian Axe), the [Flamecharm](Flamecharm.md) Attunement, and some hand-to-hand combat:
 
-| Mantras | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Fire Blade | Slicing blade of flame. | ◯ | ◯ | (★★☆) |
+| Moves | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| Fire Blade | Slicing blade of flame. | ◯ | (★★☆) |
 | Flame Replusion | An exertion of flames.
 (Modified with what looks to be 3 Cloudstones or 2 Stratus Stones)
 
- | ✗ | ◯ | (★☆☆) |
-| Flame Assault | Burst forward in flames. | ◯ | ◯ | (★★★) |
-| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ◯ \[With enough Posture Stat.\]
-
-\[And/Or empty bar before blocking.\]
-
- | (★★★) |
+ | ✗ | (★☆☆) |
+| Flame Assault | Burst forward in flames. | ◯ | (★★★) |
+| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | (★★★) |
 
   
-
-| Boons | Description |
-| --- | --- |
-| Intelligence | Wardens have the combat skills of an experienced player, they can parry you're first attack unless it's a feint. |
-| Fortitude | Wardens have huge health pools, making them extremely tanky. |
 
 ## Tips
 
@@ -51,8 +36,8 @@ Their arsenal is composed of a Medium or Heavy weapon (An Officer Saber, a Shote
 -   Expect for Authority Peacekeepers (Regular guards) to interfere with your fight.
 -   You'll frequently get into a parry battle with the Warden, so feint to disrupt it.
 
-## Notes/Trivia
+## Trivia
 
--   You can pickpocket the Authority Warden for the Jail Keys but it requires the Pickpocket Talent to do so. ~Without it, the Warden will instantly aggro on you~. Nothing happens when you attempt to pickpocket them without the talent.
+-   You can pickpocket the Authority Warden for the Jail Keys but it requires the Pickpocket Talent to do so. Nothing happens when you attempt to pickpocket them without the talent.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a Khan Shield or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.

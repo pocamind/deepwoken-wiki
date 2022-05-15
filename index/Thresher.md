@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 28394
+revid: 30255
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -30,9 +30,9 @@ Template:Creature Info Box v2Threshers are monsters that spawn in the [Starswept
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Arm Swipe** | The Thresher stands on its hind legs and swipes twice. Deals moderate damage. | ◯ | (★☆☆) |
-| **Bite** | The Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage. | ◯ | (★☆☆) |
-| **Tail Swipe** | The Thresher brings his tail back and flicks around to deliver a powerful blow that deals tremendous amounts of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
+| **Arm Swipe** | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
+| **Bite** | The Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
+| **Tail Swipe** | The Thresher brings his tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
 | **Burrow** | The Thresher burrows underground becoming intangible. It will dig toward the player and jump out dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. | ✗ | (★★☆) |
 
 ## Passives

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 30004
+revid: 30259
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -90,4 +90,4 @@ Debatably the worst fist style. Dealing 25.3 damage with max light. What it lack
 -   Fist crits are very good as they are unique. Using your crit in some situations can catch the enemies off guard giving free damage.
 -   The fist styles as of current are very difficult to get _consistently_ at low levels, while Jus Karita --currently the only fist-based style that uses your feet-- simply requires a level 12 character with the right attributes.
 -   Contrary to popular belief, you do not need the Talent _Captain Etrea_ to use a shield with fists... (This is probably a bug and probably will be patched soon)
--   If your character is the ~eteran race and goes to the Elder naven nomad without the hostage,~ he will say either the phrase "Ah, a homelander." or "Stay away from my people, I do not with this to get violent." and end the dialogue. (He actually says this to you regardless of your race).
+-   If your character is the ~eteran race and goes to the Elder naven nomad without the hostage,~ he will say either the phrase "Ah, a homelander." or "Stay away from my people, I do not wish this to get violent." and end the dialogue. (He actually says this to you regardless of your race).

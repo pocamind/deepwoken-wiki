@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30226
+revid: 30252
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -229,99 +229,113 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | 
 File:Magnet spark PNG.png
 
- | Magnet Spark | Lightning Blade
+ | Magnet Spark | 
 
-Jolt Grab
+-   Flame Blind
 
-Spark Swap
+-   Ice Chains
 
-Flame Blind
+-   Ice Forge
 
-Lightning Stream
+-   Jolt Grab
 
-Ice Chains
+-   Lightning Blade
 
-Ice Forge
+-   Lightning Stream
+
+-   Spark Swap
 
  | Applies "Magnet Shot" to compatible Mantra. |
 | 
 
 Round Spark
 
- | Round Spark | Ice Eruption
+ | Round Spark | 
 
-Fire Gun
+-   Fire Gun
+
+-   Ice Eruption
 
  | Applies "Round Shot" to compatible Mantra. |
 | 
 
 Blast Spark
 
- | Blast Spark | Lightning Clones
+ | Blast Spark | 
 
-Shadow Gun
+-   Frost Grab
 
-Frost Grab (Ice Trail)
+-   Ice Forge
 
-Ice Forge (Adds More Shurikens to the Attack)
+-   Lightning Clones
 
-Lightning Stream
+-   Lightning Stream
 
-Shade Devour
+-   Shade Devour
+
+-   Shadow Gun
 
  | Applies "Explosion" to compatible Mantra. |
 | 
 
 Reversal Spark
 
- | Reversal Spark | Lightning Impact
+ | Reversal Spark | 
 
-Flame Leap
+-   Flame Leap
 
-Air Force
+-   Lightning Impact
 
-Tornado
+-   Air Force
 
-Gale Punch
+-   Gale Punch
 
-Revenge
+-   Tornado
 
-Shadow Chains
+-   Shadow Chains
 
-Adrenaline Surge
+-   Adrenaline Surge
+
+-   Revenge
 
  | Applies "Reversal" to compatible Mantra. |
 | 
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | Wind Gun
+ | Multiplying Spark | 
 
-Shade Bringer
+-   Wind Gun
 
-Shade Devour
+-   Shade Bringer
+
+-   Shade Devour
 
  | Applies "Triple Shot" to compatible Mantra. |
 | 
 
 Spring Spark
 
- | Spring Spark | Ice lasers
+ | Spring Spark | 
 
-Shade Bringer
+-   Ice Laser
 
-Crystal Knee
+-   Crystal Knee
+
+-   Shade Bringer
 
  | Applies "Spring" to compatible Mantra. |
 | 
 
 Tornado spark
 
- | Tornado Spark | Dark Blade
+ | Tornado Spark | 
 
-Fire Blade (Confirmed broken as of 1st of May 2022)
+-   Fire Blade (Confirmed broken as of 1st of May 2022)
 
-Storm Blades
+-   Storm Blades
+
+-   Dark Blade
 
  | Applies "Spin" to compatible Mantra.
 

@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 14088
+revid: 30238
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -26,13 +26,10 @@ Mindless Servants, incapacitated and about to be executed
 
 ### Finisher
 
--   **Jugular Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.
+-   **Jugular Slice** - Grips you like a normal player, sitting atop your chest and slicing your throat with their thumbnail.  
+    
 
-### Intelligence
-
-Mindless Servants can only parry.  
-
-## Notes/Trivia
+## Trivia
 
 -   Mindless Servants behave similarly to [Mudskippers](Mudskipper.md).
 -   May become extremely difficult to fend off if you have no block breaking mantra's, and have 5-6 of them on you, as they have no anti-npc teaming ai, so they will all hit you relentlessly.
