@@ -1,27 +1,34 @@
 ---
 title: Authority Officer
-revid: 27672
+revid: 30223
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Authority Officer
 
+Template:Creature Info Box v2
+
 ## Description
 
-Authority Footsoldiers are NPCs that are frequently found around [Erisia](Erisia.md) fighting the Etrean footsoldiers. They can also be seen patrolling [Upper Erisia](Upper_Erisia.md) in groups of 4. Defeating all of them will be rewarded with a chest containing low level gear. They have around 600 HP (this is an estimate, Angels have 400 HP and these guys have more).
+An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) fighting the Etrean footsoldiers in groups of 3 with 2 footsoldiers and 1 commander. They can also be seen patrolling [Upper Erisia](Upper_Erisia.md) in groups of 4. Defeating all of them will be rewarded with a chest containing low level gear. They have around 600 HP (this is an estimate, Angels have 400 HP and these guys have more).
 
-Their appearance consists of a grey Authority helmet and a red cloak. (I think the Authority Commander Uniform but unsure)
+## Appearance
+
+-   [Authority Helmet](Outfits.md)
+-   [Authority Peacekeeper Uniform](Outfits.md) or [Authority Commander Uniform](Authority_Captain_Uniform.md) (Commander)
 
 ## Moves
 
-Their arsenal consists of an [Officer Saber](Officer_Saber.md) and [Thundercall](Thundercall.md).
+Their arsenal consists of an [Officer Saber](Officer_Saber.md) and the [Thundercall](Thundercall.md) Attunement:
 
-### **Moves:**
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
+| Jolt Grab (Magnet Spark) | An electrified chokehold. | ◯ | ◯ | (★★☆) |
+| Thunder Kick | An unrelenting kick like a clap of thunder. | ◯ | ◯ | (★★☆) |
 
--   **Double Handed Sword Attack**: Common sword M1s, can be easily parried.
--   **Thunder Kick:** A swift kick imbued with lightning. Can be parried and blocked. They can also use this to kick their allies to enemies so they can catch them if unaware.
--   **Jolt Grab (Magnet Spark Modified):** Holds their arm out for a second then does a teleport to you, slamming you into the ground, creating a large AOE if it lands. Can be parried and blocked.
+  
 
 ## Tips
 
@@ -30,6 +37,6 @@ Their arsenal consists of an [Officer Saber](Officer_Saber.md) and [Thundercall]
 -   They're not that hard, but they can do a bit of damage.
 -   They give good exp for low levels like Powers 1-10.
 
-## Notes & Trivia
+## Trivia
 
 -   They are all exclusively Adrets.
