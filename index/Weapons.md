@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 30058
+revid: 30227
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1157,7 +1157,7 @@ _**Damage = BaseDmg + AttributeLevel1((BaseDmg / 1000) ⋅ Scaling1)) + Attribut
 
 [_A damage calculator I made for non-legendary weapons_](https://www.desmos.com/calculator/dmbfydu76o)
 
-[_A damage calculator I made for legendary weapons_](https://www.desmos.com/calculator/0j5ztbqxdb)
+_[A damage calculator I made for legendary weapons](https://www.desmos.com/calculator/ux4hc5kudl)_
 
 _[Another damage calculator, but this one includes pen, armor and exo (slightly modified version of the above one)](https://www.desmos.com/calculator/oer3zaci3q?lang=en)_
 
