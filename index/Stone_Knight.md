@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 30272
+revid: 30283
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -66,3 +66,4 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 -   **Note that Rogue Hive Construct won't attack Blizzard Knights, will instead team up on you if you aggravate them both.**
 
 -   Recommended to dodge all attacks and get in 1-2 hits depending on if your med, heavy, or light weapon. Unless it does the double slash in that case you want to dodge the first and quickly parry the second and get 1-2 hits in.
+-   Usually when Blizzard Knight swings once, he'll use Pillar or Kick so prepare to dodge.
