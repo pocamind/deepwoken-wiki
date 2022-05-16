@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 20904
+revid: 30270
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -31,4 +31,4 @@ categories: [Weapons, Weaponry]
 
 The ritual spear is a medium weapon and the third best spear in the game. It can be obtained by buying it at the weapon store located in Etris.
 
-The weapon itself is really similair to the iron spear, having the same m1s and crits, only differing in stats.
+The weapon itself is very similair to the iron spear, having the same m1s and crits, only differing in stats.

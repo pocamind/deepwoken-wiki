@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 28571
+revid: 30272
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -59,9 +59,8 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 
 ## **Trivia & Notes**
 
--   Desert knights spawn more often in Autumn
--   Pretty easy to beat if you know what you're doing, but its one of the mobs that will punish you hard if you mess up.
 -   When spawning Blizzard Knights in Minityrsa (when the meteors fall), be sure to run all the way out of the Hero Valley. Because if you will aggravate one of the golems right when they spawn, all of them will aggravate on you.
+-   Blizzard Knights are not effected by [Animal King](Regalia.md) and will still attack if they spot you.
 -   (If you are quick enough you can run away and get some of them off your tail, but the closest ones will still follow you)
 
 -   **Note that Rogue Hive Construct won't attack Blizzard Knights, will instead team up on you if you aggravate them both.**

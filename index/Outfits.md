@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30235
+revid: 30277
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -187,6 +187,8 @@ _Requires Fortitude 5_
 
  | Arena Chests | N/A |
 | 
+
+File:Royal Guard's Kabuto.png
 
  | Royal Guard's Kabuto | Grants a random buff. | Depths Chests | N/A |
 | File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests, Primadon Chests | N/A |
@@ -391,7 +393,7 @@ Grants one random buff.
  | Duke Chests, Primadon Chests, Depths Chests |
 | File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
 | File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Primadon Chests, Depths Chests |
-|  | Heavy Hands Ring | Reduces M1 speed for increased posture damage.
+| File:Heavy Hand's Ring.png | Heavy Hands Ring | Makes your "M1" attack slower but do more posture damage.
 
 _\+ 30% posture damage_
 
