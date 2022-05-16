@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30215
+revid: 30262
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -1355,7 +1355,7 @@ Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice a
 -   The card "Boom, Headshot" is a direct reference to the TF2 animated short, Meet the Sniper, in which the character Sniper says the iconic line while flicking a bobblehead.
 -   At Power 60, you will get a guaranteed legendary Talent card if there is one available.
 -   Adept can't be obtained post power 55.
--   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand." (Although I think you are capable of rolling every card you have available to you so my theory is that it could just be if the number of cards you have left is less than the number of power ups you have left)
+-   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
 
   
 Template:Navbox:Talents
