@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 29634
+revid: 30290
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,13 +17,10 @@ An Etrean Footsoldier is type of enemy NPC that can be found in [Erisia](Erisia.
 
 | Base Attack | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Swing/Thrust | Firmly swing/thrust at a opponent and continuing to combo them until knocked. | ◯ | ◯ | (☆☆☆) |
+| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (☆☆☆) |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
 
   
-
-| Mantra | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
 
 ## Trivia
 

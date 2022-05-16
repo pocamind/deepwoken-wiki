@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 30041
+revid: 30317
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -39,6 +39,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Be struck by a [Legion Captain's](Legion_Sniper.md) Grand Javelin ~spam~ move if at low enough health.
 -   Get crushed by a [Boulder](Training_Gear.md).
 -   Drop an item whilst in the middle of resetting.
+-   Getting dissolved by acid lakes found at [Upper Erisia](Upper_Erisia.md).
 
 This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
 

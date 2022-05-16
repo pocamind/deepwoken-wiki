@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 28277
+revid: 30312
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,7 +29,7 @@ categories: [Weapons, Weaponry]
 
 “ GOD SAVE THE QUEEN ”
 
-― Celtor sailor embracing the Dragoon's British power
+― German Celtor sailor embracing the Dragoon's British power
 
 ## **Description**
 

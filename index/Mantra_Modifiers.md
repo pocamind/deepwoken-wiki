@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30252
+revid: 30296
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -8,18 +8,17 @@ categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 
 # Mantra Modifiers
 
-A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
-
 “ I'm going to add a copious amount of cloudstones to my mantra! ”
 
 ― some poor idiot who just learned how to use the mantra table
 
-  
+A rather foolish individual using quite a numerous amount of items to upgrade a mantra.
+
 Mantra Modifiers are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in Erisia [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
 There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will not receive the modifiers back when an _Amnesiac Driftwood_ is used. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
-Heavily modified mantras will require Notes offering to be made. To see prices and their scaling, see [Mantra Table](Mantra_Lectern.md).
+Heavily modified mantras will require Note offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
 
@@ -346,29 +345,27 @@ _"You feel dizzy when you hold it."_
 
  | Mirage Stone | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
 
-Possible sanity recover if you hit the attack.(?)
+Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, either the sanity recover is very slightly or it does something else.
 
-  
-Tested with multiple Mantras, Either the sanity recover is very slightly or does something else.
+Gigamed drop. (Devs only)
 
  |
 | 
 
- | Falseflame Stone | Unknown. | _"The azure stone glows vibrantly, but emits no warmth."_ |
+ | Falseflame Stone | Unknown. | _"The azure stone glows vibrantly, but emits no warmth."_
+
+Gigamed drop. (Devs only)
+
+ |
 | 
 
  | Haunting Stone | Unknown. | _"You feel unsettled when grasping this stone"_
 
-Could give insanity on to the target if attack hits.
+Could give insanity on to the target if attack hits. Looks identical to falseflame.
 
-  
-also looks identical to falseflame.
+Gigamed drop. (Devs only)
 
  |
-
-The falseflame, haunting, and mirage stone are all dropped by jellyfish in the depths.
-
-  
 
 ### **Specific Effects of Sparks**
 

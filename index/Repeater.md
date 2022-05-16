@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 28126
+revid: 30313
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,9 +27,9 @@ categories: [Weapons, Weaponry]
 | obtainment | Bought at Summer Isle for 200 notes |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
 
-“ I am speeeeed!!! ”
+“ Draw, if you dare! ”
 
-― The revolver and it's stupidly fast attack speed
+― A German Celtor sailor taunting an inept Felinor with his two guns
 
 ## Description
 
