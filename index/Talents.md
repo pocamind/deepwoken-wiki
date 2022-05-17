@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30262
+revid: 30399
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -52,7 +52,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 
 -   Kick Off \[Generic Talent, Common Talent, Agility\] - Your first wall jump will always send you higher than normal. (+6 Passive Agility)
     -   3 second cooldown.
--   Steady Footing \[Generic Talent, Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility + 1 Health)
+-   Steady Footing \[Generic Talent, Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affect your movement. (+9 Carry Load, +2 Passive Agility + 1 Health)
 -   Quick Recovery \[Generic Talent, Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
 -   Graceful Landing \[Generic Talent, Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   Minimum threshold to take fall damage is increased.
@@ -60,7 +60,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 
 ### Aerial Dancer
 
--   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (20% more damage). (+3 Health)
+-   Wyvern's Claw \[Generic Talent, Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
     -   Prerequisites: 20 Strength
     -   Synergizes well with Aerial attack Talents.
 
@@ -101,7 +101,7 @@ These Talents are meant to provide an increase to the user's ground mobility in 
 -   Conditioned Runner \[Legendary Talent, Agility\] You regenerate health faster than normal when running but less when not running. (+1 Passive Agility)
     -   Prerequisites: 15 Agility & 5 Fortitude
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Health, +2 Passive Agility)
-    -   Negate the agility penalty tied to lost hp.
+    -   Negate the speed penalty of critical health (<30% HP)
 
 -   Fast Blade \[Common Talent\] - Extend the speedboost off parrying (+1 Passive Agility)
 -   Evasive Expert \[Rare Talent\] - Dodging grants a speedboost. (+1 Passive Agility)
@@ -144,6 +144,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 ### Assassin
 
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
+    -   Also apply to sheathing.
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: Agility
@@ -173,6 +174,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
 -   Moving Fortress \[Generic Talent, Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
+    -   Negate movement speed penalty of blocking.
 -   Heavy Haul \[Generic Talent, Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
 -   Braced Collapse \[Generic Talent, Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
 -   Berserker \[Generic Talent, Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
@@ -220,6 +222,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Risky Moves \[Generic Talent, Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   Does not tend to work all the time despite the visual effect. Attacking will cancel the effect early.
 -   Steady Nerves \[Generic Talent, Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility, +2 Health)
+    -   Restore 5% Posture on a succesful dodge.
     -   Prerequisite for all: 10-30 Agility
 
 ### Caster
@@ -246,6 +249,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Underdog \[Generic Talent, Common Talent\] - You deal slightly more damage to those with higher HP than you. (+3 Health)
 -   Defiance \[Rare Talent\] - Status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 50 Willpower
+    -   Etrean have a similar effect passively, but is applied to all debuff and buffs instead.
 
 ### Charismatic Cast
 
@@ -365,6 +369,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Give and Take \[Generic Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates take less damage from you and deal less damage to you.
+    -   Canors passively benefit from a similar effect.
         -   Prerequisite: Friends in High Places
 
 ### Lava Serpent
@@ -493,7 +498,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Glassdancer
 
 -   Glass Path: Crystallization \[Generic Talent, Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying slow or freeze now applies ice crystals on the enemy instead. Stacking enough ice crystal make them explode, damaging the target.
+    -   Applying slow or freeze now applies ice crystals on the enemy instead. Stacking 7 ice crystal make them explode, damaging the target.
 
 ### Great Wall
 
@@ -536,9 +541,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Ice Age
 
 -   Cryonis \[Generic Talent, Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
-
 -   Frostbite \[Generic Talent, Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
-
 -   Frozone \[Generic Talent, Legendary Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity, +3 Health)
     -   Prerequisite: Ice Skates (3 Star Frostdraw Mantra)
 
@@ -693,7 +696,8 @@ These are just raw stat increase and are beneficial to anyone.
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: Way of Navae.
     -   Currently bugged, shields can be equipped without the talent
--   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. \[Indicated with a gold cell-shade outline on your character\] (+4 Health, +1 Carry Load)
+-   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
+    -   Indicated by a gold cell-shade outline on your character
     -   Prerequisites: Strength (15-20?)
 -   Heartbreaker \[Generic Talent, Common Talent\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
 
@@ -1010,6 +1014,7 @@ These Talents are designed to make you more effective in water.
 -   Lethal Force \[Generic Talent, Common Talent\] - \[Medium Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   Lethal Precision \[Generic Talent, Common Talent\] - \[Light Weapons\] When you flourish an enemy much weaker than you, you kill them instantly.
 -   In Twain \[Generic Talent, Common Talent\] - \[Heavy Weapons\] When you flourish an enemy much weaker than you, you kill them instantly. (+2 Health)
+-   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give you hyperarmour on your next swing. (+1 Health)
 -   One Handed Training \[Generic Talent, Common Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed. (+3 Health)
     -   Prerequisites: 50 Heavy Weapon
 -   Warrior's Swing \[Generic Talent, Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during the heavy swing hyper armor. (+2 Health)

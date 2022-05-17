@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 30324
+revid: 30391
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,8 +21,9 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Lose all of your [Sanity](Insanity.md), gouging your eyes out and killing yourself.
 -   Equipping a weapon that is enchanted with Curse of the No Life King while in [The Depths](The_Depths.md) one/one too many times, making your head swell and burst. (You can log before the head explosion happens and subsequently save yourself)
 -   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
--   Speak to [Yun’shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md)
+-   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell.
+-   Die to [Soul Jar](Jar_of_Souls.md) bell.
 -   Enter the Lord Regent's Throne Room without an audience.
 -   Complete the Lord Regent’s [quest](Quests.md) and report to him.
 -   Fail to complete the Lord Regent's quest and report to him.
@@ -35,7 +36,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Getting automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many Galebreathe Mantras.
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Trying to threaten [Akira](Akira.md) and failing to meet the Charisma requirement. (Picking 2nd option in his random encounter).
--   Speaking to Brutus without 75 Fortitude.
+-   Speaking to Brutus without 75 Fortitude. (He'll beat you to death otherwise
 -   Be struck by a [Legion Captain's](Legion_Sniper.md) Grand Javelin ~spam~ move if at low enough health.
 -   Get crushed by a [Boulder](Training_Gear.md).
 -   Drop an item whilst in the middle of resetting.

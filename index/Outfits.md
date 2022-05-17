@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30347
+revid: 30386
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -77,7 +77,11 @@ _Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen
 
 Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. Not to be confused with the armor attribute each outfit gives.
 
+  
+
 Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat, Elite Pathfinder Coat, and Royal Pathfinder Coat.**
+
+When an armor piece is generated, its given a "wallet" of points that it randomly use to "buy" stats, said wallet size is slightly random but always nears a specific value for each equipment. Rarity increase the base "Wallet" size, while Quality Rating (stars) are bonus points that the equipment can spend. Rarity affect the stats of an item more than the Quality Rating: A 3 star common item is likely gonna be outclassed by a 0 star rare item.
 
 **Head:**
 
@@ -264,9 +268,9 @@ _Requires Power 40_
 | File:Static-assets-upload15149895911827136801.png | Sliver Pauldrons | Grants a random buff. | Hive Chests, Depths Chests | N/A |
 | File:Simple Pauldrons.png | Simple Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 |  | Steel Pauldrons | Grants a random buff. | Erisia Chests | N/A |
-| File:Warden pauldrons.jpg | Warden's Pauldrons | Guaranteed to give
+| File:Warden pauldrons.jpg | Warden's Pauldrons | Grants a random buff.
 
-"_\+ 10 health_ _\+ 2 posture_"
++10 HP, +2 Posture
 
  | Fort Merit Chests | N/A |
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
@@ -310,9 +314,9 @@ _Requires Power 40_
 _Requires Power 40_
 
  | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Purple (Work in progress) |
-| File:Sharko coat.png | Megalodaunt Coat (Series) | Grants 3 random stats with at least one being monster related.
+| File:Sharko coat.png | Megalodaunt Coat (Series) | Grant a random buff.
 
-_Requires Power 30_
++X% Damage VS Beast _Requires Power 30_
 
  | Megalodaunts Drop | Red, Purple, Brown, Green, Blue, Peach (Work in progress) |
 | File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff.
@@ -372,7 +376,7 @@ _Requires Power 15_
 _Requires Power 10_
 
  | Mudskipper Chests, Primadon Chests, Depths Chests |
-| File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed.
+| File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed while out of combat.
 
 _Requires Power 10_
 
@@ -409,7 +413,7 @@ _Requires Power 10_
 
 (Legendary)
 
- | Gives every weapon 1 strength scaling when equipped. | Depths Chests? |
+ | Gives every weapon 1.5 strength scaling when equipped. | Depths Chests? |
 |  | Akira's Ring
 
 (Legendary)
@@ -431,7 +435,7 @@ _Requires Power 40_
 
 (Legendary)
 
- | Removes the effects of aging but does not stop it | Depths Chests, Duke |
+ | Conceal your age, appearing as if you were younger than 40. | Depths Chests, Duke |
 |  | Deepfire Ring
 
 (Legendary)

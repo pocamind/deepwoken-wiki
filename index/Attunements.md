@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 30193
+revid: 30404
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -28,7 +28,7 @@ Another point worth noting is there's no current way of removing an Attunement t
 
 -   Ironsing
 -   Lifeweaver
--   Lightkeeper/Lightkeeping
+-   Light keeper / lightkeeping
 
 ## Trivia
 
