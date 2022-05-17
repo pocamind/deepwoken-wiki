@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 28988
+revid: 30339
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,6 +30,6 @@ This Outfit's Schematic can be found in:
 -   [Upper Erisia](Upper_Erisia.md), specifically Temple Of The Forgotten Flame
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
 
-## Trivia/Notes
+## Trivia
 
 -   Karliah in Etris can be seen wearing this outfit before finishing her quest.

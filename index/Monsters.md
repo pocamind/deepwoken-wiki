@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 30333
+revid: 30338
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -66,12 +66,11 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 ## Monster Families
 
-Every single Monster in the game is part of a single family. Families deal with what monster will take extra damage from the "+X% damage VS family" stats on equipment, either being Giant, Sea or Depths. Besides this, families deal with nothing else and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
+Every single Monster in the game is part of a single family. Families are all together just trivia and have zero correlation with Monsters relations, stats or features. At most, families are a general rule of thumb for where said Monsters will be.
 
 -   Any Monster native to islands is a Giant Monster.
 -   Any Monster native to oceans is a Sea Monster.
 -   Any Monster native to The Depths is a Depths Monster.
--   Any Monster native to ??? is a Beast Monster (more info required).
 
 <table><caption><b>Monster Families</b></caption>
 <tbody>
@@ -166,7 +165,7 @@ If you were to fight a Stone Knight, which has a 55% resistance to slashing, wit
 
 9000 / (0.45 ⋅ (60 ⋅ 40 ⋅ 0.089)), which would come out to 93.6 hits.
 
-[_Click for a calculator to easily calculate damage done to monsters_](https://www.desmos.com/calculator/hmhrynuv15).
+_[Easily calculate damage done to monsters](https://www.desmos.com/calculator/cp551objtw)_.
 
 ## Trivia
 
