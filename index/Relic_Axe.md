@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 25104
+revid: 30364
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -15,7 +15,7 @@ categories: [Weapons, Weaponry]
 | damage | 25 |
 | scaling | 9 HVY |
 | range | 8.5 |
-| swing speed | .54x |
+| swing speed | 0.54x |
 | penetration | 10% |
 | chip damage | 8% |
 | weight | 10 |
@@ -27,4 +27,4 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Relic Axe is a Greataxe Heavy weapon obtained through killing the Meteor Knights at [Starswept Valley](The_Starswept_Valley.md). It has 25 base damage with a scaling of 9
+The Relic Axe is a HVY weapon in the Greataxe category and can be obtained through defeating [Stone Knights](Stone_Knight.md) in [Starswept Valley](The_Starswept_Valley.md).

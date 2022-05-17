@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30065
+revid: 30372
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -83,6 +83,18 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 (★) | Form a punch of wind in your fist and release it. | AOE punch that deals damage and knocks opponents away.
 
 -   Can be upgraded with the _Vacuum Punch_ Talent.
+
+ |
+| 
+
+ | Champion Twister
+
+(★★)
+
+ | Grab your opponent and toss them with the power of gale. | Caster grabs opponent and proceeds to spin in 360 degrees before tossing the opponent.
+
+-   Deals low damage.
+-   Can be upgraded with Crystal Lens and Perfect Lens.
 
  |
 |  | Rising Wind  

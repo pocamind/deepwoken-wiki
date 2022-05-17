@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 29885
+revid: 30354
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons]
 
 ## Description
 
-Acheron's Warspear is a MED weapon that can be obtained by a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md). This weapon just isn't worth it as it is outranked by the [Ritual Spear](Ritual_Spear.md) in requirements, damage, penetration and obtainment difficulty. The only thing this weapon can do better is it's scaling and swing speed which isn't enough to outrank the [Ritual Spear](Ritual_Spear.md).
+Acheron's Warspear is a MED weapon that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md). This weapon just isn't worth it as it is outranked by the [Ritual Spear](Ritual_Spear.md) in requirements, damage, penetration and obtainment difficulty. The only thing this weapon can do better is it's scaling and swing speed which isn't enough to outrank the [Ritual Spear](Ritual_Spear.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30296
+revid: 30353
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -39,7 +39,7 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 **Note**: On the 08/02/2022, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts. These numbers would be appreciated.
 
-| Image | Modifier | Effect | Note |
+| Image | Modifier | Effect | Notes |
 | --- | --- | --- | --- |
 | File:Cloudstone HD.png | Cloudstone | +2 Size
 \-1 Speed  
@@ -374,11 +374,11 @@ Gigamed drop. (Devs only)
 -   This modifier adds an extra teleporting slash to the end of the "_Lightning Blade_" Mantra.
 -   This modifier change "_Jolt Grab_" Mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
 -   This modifier is compatible with the "_Spark Swap_" Mantra but has no effect.
--   This modifier is compatible with "_Strong Leap_" Strength mantra. (Appears to jump slightly more in the direction of an ally)
+-   This modifier is compatible with "_Strong Leap_" Strength mantra. _(Appears to jump slightly more in the direction of an ally)_
 
 #### Round Spark
 
--   This modifier converts the "_Ice Eruption_" Mantra's hitbox into a circle that surrounds you (Similar to the Frostdrawer Monk NPC).
+-   This modifier converts the "_Ice Eruption_" Mantra's hitbox into a circle that surrounds you. _(Similar to the Frostdrawer Monk NPC)_
 -   This modifier makes "_Fire Gun_" bullets split into two.
 
 #### Blast Spark
@@ -388,15 +388,15 @@ Gigamed drop. (Devs only)
 -   This modifier causes a trail of ice to appear over the distance you dashed with the "_Frost Grab_" Mantra.
 -   This modifier changes "_Lightning Stream_"'s behavior, attaching to the target and shocking them instead of pulling them in.
 -   This modifier works with "_Flame Repulsion_", but I honestly got no idea what it did- sorry. It changed the animation it does a little
--   This modifier makes "_Shade Devour_" perform a shockwave (Can be paired with Multiplying Spark)
+-   This modifier makes "_Shade Devour_" perform a shockwave _(Can be paired with Multiplying Spark)_
 
 #### Reversal Spark
 
 -   This modifier reverses the "_Air Force_" Mantra to pull targets in, instead of blasting them away.
--   This modifier has no effect to the "_Adrenaline Surge_" Mantra.
--   The effects of the "_Tornado'" Mantra with this modifier is unknown since it's rework._
+-   This modifier seems to have no effect on the "_Adrenaline Surge'" mantra_
+-   This modifier seems to have no effect on the "_Tornado_" mantra.
 -   This modifier is compatible with the "_Lightning Impact_" Mantra, but has no effect.
--   This modifier reverses the "_Flame Leap_" Mantra causing the caster to slam the ground, throwing those around them into the air. (Beware, this has a very buggy hitbox)
+-   This modifier reverses the "_Flame Leap_" Mantra causing the caster to slam the ground, throwing those around them into the air. _(Beware, this has a very buggy hitbox)_
 -   This modifier is compatible with the "_Revenge_" Mantra, causing it to deal no damage.
 -   This modifier is compatible with the "_Ice Chains_" Mantra and will make it so it will pull whoever you hit towards you.
 -   This modifier is compatible with "_Grand Javelin_" and applies the dazed effect upon the target getting up.
@@ -404,20 +404,20 @@ Gigamed drop. (Devs only)
 #### Multiplying Spark
 
 -   This modifier turns the "_Wind Gun_" Mantra into a shotgun, firing 4 wind bullets instead of 1.
--   This modifier adds 2 more cuts onto "_Shade Bringer_". (Can be paired with Spring Spark)
--   This modifier makes "_Shade Devour_" perform 3 shockwaves instead of 1. (Can be paired with Blast Spark)
+-   This modifier adds 2 more cuts onto "_Shade Bringer_". _(Can be paired with Spring Spark)_
+-   This modifier makes "_Shade Devour_" perform 3 shockwaves instead of 1. _(Can be paired with Blast Spark)_
 
 #### Tornado Spark
 
+-   This modifier seems to have no effect on the "_Fire Blade_" mantra. (Will update this one when it gets fixed)
+-   This modifier makes "_Storm Blades_" summon a ring of lightning that stuns and damages anyone touching it. _(Adding some Logstones might increase it's duration)_
 -   This modifier adds a spin at the end of the "_Dark Blade_" Mantra.
--   This modifier does not seem to affect "_Fire Blade_" mantra at all. (Will update this one when it gets fixed)
--   This modifier makes "_Storm Blades_" summon a ring of lightning that stuns and damages anyone touching it. (Maybe you can add some logstones to increase the duration of the ring)
 
 #### Spring Spark
 
 -   This modifier makes "_Ice Laser_" stop in place when shot for a brief amount of time, then goes forward (Think Knives in a certain stopping of time)
--   This modifier makes "_Shade Bringer_" perform a jump before slamming the blade down. (Can be paired with Multiplying Spark)
--   This modifier makes "_Crystal Knee_" perform a spin kick after the initial backflip kick, which sends the target flying.
+-   This modifier makes "_Shade Bringer_" perform a jump before slamming the blade down. _(Can be paired with Multiplying Spark)_
+-   This modifier makes "_Crystal Knee_" perform a spin kick after the initial backflip kick that sends the opponent flying.
     
 
 ## Trivia/Notes

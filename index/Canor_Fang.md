@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 26241
+revid: 30371
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -26,9 +26,9 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | SongseekerMinityrsa |
-| description | An exceptionally sharp knife forged by unknown means. Carries and intense aura of foreboding |
+| obtainment | Songseeker Wilds, Minityrsa |
+| description | An exceptionally sharp knife forged by unknown means. Carries and intense aura of foreboding. |
 
-##### _"No it's not an actual Canor's Fang."_
+## Description
 
-The Canor Fang is a mythical dagger weapon which has a base stat of 11 damage and 5% penetration against armor and high swing speed. With a only 11 damage and 5% penetration, I recommend to NOT use this weapon. Only use when you have nothing else to use.
+The Canor Fang is a LHT weapon in the Dagger category that can be obtained by enemy NPC chests on [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It's a pretty solid weapon if there's no better alternatives.

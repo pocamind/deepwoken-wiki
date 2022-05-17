@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 29914
+revid: 30375
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -62,7 +62,7 @@ Evrything you can get from fishing has it's own chat bubble pop-up, as a reactio
 -   If you fish a Lionfish: "A LIONFISH?!"
 -   If you fish a Treasure Chest: "Woah! A Treasure Chest!"
 
-Fishing a Golden Fish doesn't change the change the chat bubble.
+Fishing a Golden Fish doesn't change the chat bubble.
 
 File:RobloxScreenShot20220410 233312197.png
 

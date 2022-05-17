@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 30227
+revid: 30361
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -785,7 +785,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>Yes</td>
 </tr>
 <tr>
-  <td>Evanspear Hand Axe</td>
+  <td><a href="Evanspear_Greataxe.md">Evanspear Hand Axe</a></td>
   <td>70 HVY</td>
   <td>25</td>
   <td>N/A</td>
