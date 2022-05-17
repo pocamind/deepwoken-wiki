@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 30297
+revid: 30319
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -20,11 +20,11 @@ Template:Creature Info Box v2
 
 ## Description
 
-Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the Valley of Heroes. This is the more powerful version of the two, boasting a large health pool, almost 3x that of the Desert Knight and spawning in a group of 6.
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the Valley of Heroes. This is the more powerful version of the two, boasting a large health pool, almost 3x that of the Desert Knight and spawning in a group of six.
 
 They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
-Defeating the whole group will spawn a chest near the frozen river that guarantees to contain at least 1 of the 5 [Heroes Blade](Hero_Blades.md) and or possibly one of the many variant of [Ministry Cloak](Outfits.md#arms).
+Defeating the whole group will spawn a chest near the frozen river that guarantees to contain at least one of the five [Heroes Blade](Hero_Blades.md) and or possibly one of the many variant of [Ministry Cloak](Outfits.md#arms).
 
 **Desert Knight:**
 
@@ -57,7 +57,7 @@ Tip: Pretty sure that if you see blue stars hitting the ground, that's an area w
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
 
-## **Trivia & Notes**
+## **Trivia**
 
 -   When spawning Blizzard Knights in Minityrsa (when the meteors fall), be sure to run all the way out of the Hero Valley. Because if you will aggravate one of the golems right when they spawn, all of them will aggravate on you.
 -   Blizzard Knights are not effected by [Animal King](Regalia.md) and will still attack if they spot you.

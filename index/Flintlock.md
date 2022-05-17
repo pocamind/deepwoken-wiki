@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 30315
+revid: 30326
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,11 +27,9 @@ categories: [Weapons, Weaponry]
 | obtainment | Bought at Summmer Isle for 100 notes |
 | description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every... |
 
-“ ARRGH MATEY ”
+“ YOU'LL NEVER HIT ME, YOU'LL NEVER HIT MY TINY HEAD ”
 
-― German Celtor sailor having too much fun with his first gun
-
-##### _"How did you even parry a bullet?"_
+― Bandits taunting Summer Company Guards and their horrible range
 
 **The Flintlock** is a [gun](Guns.md) that can be purchased for 100 [notes](Notes.md) in [Summer Isle](Summer_Isle.md).
 

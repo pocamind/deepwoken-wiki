@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 30316
+revid: 30323
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -163,6 +163,8 @@ Rare event that only spawns in [The Depths](The_Depths.md) within the Celtorian 
 The player can interact with Akira if they have neutral or good reputation with The Divers. Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
 
 After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers.
+
+If the player were to have 100 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 100 Charisma will get you killed.
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 

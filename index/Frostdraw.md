@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 30284
+revid: 30327
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -87,6 +87,8 @@ These mantras have no prequisites.
 
 -   Homing attack.
 -   Can be upgraded with Frozen Pin-Cushion (freezes opponents for a long period of time)
+-   If out of range it will take ether and create daggers but they will not be thrown.
+-   Also doesn't work if you are just a couple of studs higher than your opponent, though this is often inconsistent.
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | Ice Blade

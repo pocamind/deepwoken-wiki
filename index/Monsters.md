@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 30177
+revid: 30333
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -154,7 +154,7 @@ So as an example, If you were to fight a Megalodaunt with 1000 health, using a w
 
 The only issue with this formula is some monsters have specific resistances to physical, magical, slash, and blunt damage. In this case, you can use:
 
-_**HitsNeeded = MonsterHealth / PercentOfDamageDealt / (PowerLevel ⋅ WeaponDamage ⋅ 0.089)**_
+_**HitsNeeded = MonsterHealth / (PercentOfDamageDealt ⋅ (PowerLevel ⋅ WeaponDamage ⋅ 0.089))**_
 
 -   H = Monster Health
 -   L = Level
@@ -164,7 +164,9 @@ _**HitsNeeded = MonsterHealth / PercentOfDamageDealt / (PowerLevel ⋅ WeaponDam
 
 If you were to fight a Stone Knight, which has a 55% resistance to slashing, with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
 
-9000 / 0.45 / (60 ⋅ 40 ⋅ 0.089), which would come out to 93.6 hits.
+9000 / (0.45 ⋅ (60 ⋅ 40 ⋅ 0.089)), which would come out to 93.6 hits.
+
+[_Click for a calculator to easily calculate damage done to monsters_](https://www.desmos.com/calculator/hmhrynuv15).
 
 ## Trivia
 
