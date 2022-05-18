@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 30435
+revid: 30448
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,8 +23,6 @@ According to Amara, these Legion Snipers are hostile to "outlanders", which is w
 **(This move will insta-grip if it hits you while knocked or at low health)**
 
  | ◯ | (★★★) |
-| Block | Block incoming attacks from enemies. | N/A | (★☆☆) |
-| Parry | Parry incoming attacks from enemies. | N/A | (★☆☆) |
 
   
 
@@ -33,12 +31,11 @@ According to Amara, these Legion Snipers are hostile to "outlanders", which is w
 -   This Sniper is always hostile, no matter your Reputation with the Legion, **You will not lose Reputation from killing this one.**
 -   He will let you get 2 hits in (With a medium weapon) Before parrying the 3rd, so **just hit it twice and prepare to parry his Javelin.**
 -   Using bolt piercer or shard bow, or any projectile-based mantras **will make him walk towards you a few steps,** they can also aim their javelins, but only at further ranges.
--   If you don't know how to fight them, Approach them with caution, **they insta-grip you if you're low enough on health**, but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back.
+-   If you don't know how to fight them, approach them with caution, **they insta-grip you if you're low enough on health**, but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back.
 
 ## Trivia
 
 -   Due to them being completely still, having Grand Skewer and being able to spam it, they're actually one of the strongest NPCs in PVE, since NPCs always tend to close distance and this one, instead increases distance, unless they're fighting enemies with a high amount of HP and ranged moves (ex: Sand knights) or Threshers which will chip away at his low health due to being able to go underground but then getting Grand Skewered away, you can rely on them to decimate most enemies reliably.
--   Their whole lore for now is literally "grr I hate outlanders grr"
--   Even if people think they're rouge, they're friendly to normal Legion NPCs and wont attack them.
+-   They're friendly to normal Legion NPCs and wont attack them.
 -   Even if it doesn't change anything, they can have different weapons, those being the Ritual Spear, Champion Sword or just plain Fists with no Cestus.
 -   If you're looking to do the Legion Cosplay, they're optimal enemies to kill, they drop Khan Helmets, Pauldrons, Shields, Champion Swords, Legion Cestuses regularly.

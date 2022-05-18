@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30440
+revid: 30441
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -199,15 +199,15 @@ File:Royal Guard's Kabuto.png
 
 **Face:**
 
-| Image | Armor | Common Effects | Primary Source |
-| --- | --- | --- | --- |
+| Image | Armor | Common Effects | Primary Source | Variants |
+| --- | --- | --- | --- | --- |
 |  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests |
 |  | Crimson Blindfold | Grants a random buff.
 _\+ Talent: Blinded_
 
  | Minityrsa Chests, Songseeker Chests |
-| File:Hairband.jpg | Headband | Cosmetic | Erisia Chests |
-| File:Rabel Bandana.png | Rebel Bandana | Cosmetic | Navae Enemies |
+| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Orange, Red (Work in Progress) |
+| File:Rabel Bandana.png | Rebel's Bandana | Cosmetic | Navae Enemies |
 | File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests |
 |  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
