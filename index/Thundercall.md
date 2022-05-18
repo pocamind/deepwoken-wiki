@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 30423
+revid: 30428
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -38,12 +38,12 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | 
-Lightning Blade  
+Lightning Blade  
 (☆☆☆)
 
  | Arcing blades of electricity. | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
 
--   Can be upgraded with a Magnetic Spark, which adds a third teleporting slash. (Short range)
+-   Can be upgraded with a Magnet Spark, which makes the mantra perform a third teleporting slash. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   Can be upgraded with the Talent, Stormcaller Slash, which summons a third lightning slash if you press F while using the move. This one does not require you to hit anything with the first two slashes. It should also be noted that this allows for a lot of switch up potential if your opponent doesn't know that you have the ability, although can be parried with skill due to the visual cue of lightning striking the user.
 
@@ -69,7 +69,7 @@ Jolt Grab
  |
 |  | 
 
-Lightning Impact  
+Lightning Impact  
 (★☆☆)
 
  | Slam those under you with a lightning empowered kick. | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.

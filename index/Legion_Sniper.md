@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 30028
+revid: 30435
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,8 +23,8 @@ According to Amara, these Legion Snipers are hostile to "outlanders", which is w
 **(This move will insta-grip if it hits you while knocked or at low health)**
 
  | ◯ | (★★★) |
-| Block | Blocking incoming attacks from enemies. | N/A | (★☆☆) |
-| Parry | Parrying incoming attacks from enemies. | N/A | (★☆☆) |
+| Block | Block incoming attacks from enemies. | N/A | (★☆☆) |
+| Parry | Parry incoming attacks from enemies. | N/A | (★☆☆) |
 
   
 

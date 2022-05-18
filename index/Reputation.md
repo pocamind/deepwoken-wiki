@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 27580
+revid: 30433
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -99,7 +99,7 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
 </tr>
 <tr>
   <td><figure>File:Zirik.png<figcaption></figcaption></figure></td>
-  <td><a href="The_Hive.md">The Hive</a></td>
+  <td>The Hive</td>
   <td><b>Zirik</b>: Removes hostilities with the Greathive Aratel guards</td>
   <td>Near the fountain in <a href="The_Lordsgrove.md">The Lordsgrove</a></td>
 </tr>

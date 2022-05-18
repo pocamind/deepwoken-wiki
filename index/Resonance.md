@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 30005
+revid: 30429
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -94,13 +94,13 @@ The main factor in obtaining a Resonance is known as Progress. There is no speci
 | **What to do:** |
 | Fight and kill [Boss](Bosses.md) Monsters, including:
 
--   [Primadon](Primadon,_Titan_of_the_East.md) (Most Recommended)
--   [Dread Serpent](Dread_Serpent.md) (Recommended but may take a long time due to the spawning mechanic)
--   [The Duke](Duke_Ishamon_Erisia.md) (Recommended (Highly if Boosting to bell))
--   [The Enforcer](Enforcer.md) (Not recommended)
--   [The Ferryman](The_Ferryman.md) (Not recommended)
--   [Blizzard Knights](Stone_Knight.md#blizzard-knight) (HEAVILY not recommended)
--   [Nautilodaunt](Nautilodaunt.md) (Not recommended unless you have the cheese)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Dread Serpent](Dread_Serpent.md)
+-   [The Duke](Duke_Ishamon_Erisia.md)
+-   [The Enforcer](Enforcer.md)
+-   [The Ferryman](The_Ferryman.md)
+-   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
+-   [Nautilodaunt](Nautilodaunt.md)
 
  | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
 | **Extra/Important information:** |

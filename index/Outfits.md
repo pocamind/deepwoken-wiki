@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30386
+revid: 30440
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -233,20 +233,23 @@ _\+ Talent: Blinded_
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
-| File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent | (Work in progress) |
+| File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent | N/A |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests | N/A |
 | File:Static-assets-upload6078901116095484260.png | Shrouded Cape (Series) | Grants a random buff. | Fishing, Duke | Red, Black, Midnight, White |
 | File:Crimson Scarf.png | Scarf (Series) | Grants a random buff. | Hive Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.
 _Requires Power 40_
 
- | Summer Isle Chest Rewards and fishing | Emerald, Rose, Shade, Scarlet, Silver & Onyx |
+ | Summer Isle Chest Rewards and fishing | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 
 **Arms:**
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
-|  | Hunter's Brace | Makes usually parry breaking moves parryable. (e.g. Sharko kick, Golem throw) disappears on death or leaving the game. | Summer Isle | N/A |
+|  | Hunter's Brace | Makes usually parry breaking moves parryable. (e.g. Megalodaunt's kick, Rock Golem's punch)
+_Disappears on death or leaving the game._
+
+ | Summer Isle | N/A |
 |  | Ranger's Brace | Grants a random buff. | Erisia Chests | N/A |
 |  | Tracker's Brace | Grants a random buff. | Erisia Chests | N/A |
 | File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests | N/A |
@@ -254,6 +257,7 @@ _Requires Power 40_
 | File:Black Fur Pauldrons.png | Black Fur Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | File:Blacksteel Pauldron.png | Blacksteel Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
+
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
@@ -492,6 +496,7 @@ _Requires Power 30_
 -   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off Scaramouche from Genshin Impact
 -   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
+-   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
     
     File:RaguzaRequest7armor.png
     
@@ -503,4 +508,3 @@ _Requires Power 30_
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
--   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
