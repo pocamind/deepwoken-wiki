@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 30045
+revid: 30423
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -25,9 +25,9 @@ Can be trained by using a combination of the [Self-Conducting Loop](https://deep
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
 -   At Power 2, players receive the _Thundercaller_ Talent.
--   At Thundercall level 20, players receive the _Adept Thundercaller_ Talent.
--   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent.
--   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent.
+-   At Thundercall level 20, players receive the _Adept Thundercaller_ Talent, allowing the player to now get 1-star Thundercaller mantras.
+-   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercaller mantras.
+-   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent allowing the player to now get 3-star Thundercaller mantras.
 
 The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) ([5 Spark Glands](Spark_Gland.md)), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 

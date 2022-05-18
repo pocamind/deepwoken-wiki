@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30372
+revid: 30422
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -235,7 +235,7 @@ Costs _[Ether](Combat_Mechanics.md)_. |
 
 ## **Trivia/Notes**
 
--   Galebreathe is the only talent to not have a "Grab" Mantra, instead having the lunge move in its place.
+-   Galebreathe only has 1 grab move.
 -   Primadon is completely immune to suffocation.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale.
