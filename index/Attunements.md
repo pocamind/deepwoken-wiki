@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 30404
+revid: 30413
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Character]
@@ -28,7 +28,7 @@ Another point worth noting is there's no current way of removing an Attunement t
 
 -   Ironsing
 -   Lifeweaver
--   Light keeper / lightkeeping
+-   Lightkeeper/Lightkeeping
 
 ## Trivia
 
@@ -37,3 +37,5 @@ Another point worth noting is there's no current way of removing an Attunement t
 -   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
     -   You can unlock all Attunements to be select-able from the menu.
 -   Using a Vibrant Gem on any Attunement's mantra (Besides Attunement-less) increases its potency.
+-   Water will never become an Attunement available to the public due to specific lore reasons, as is stated by Arch\_Mage.
+    -   As an extension, he mentions that those who wield water magic have already lost their humanity.

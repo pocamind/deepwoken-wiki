@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 30195
+revid: 30410
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -90,14 +90,16 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 **Your Trial Power is calculated by Power + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. In summary, **1 drowned point acts as +1 level to your power when facing a depths trial**; for example, if you are power 49 but have 1 drowned then you will face an Enforcer (49+1=50). _The table below accounts only for your power, not how many times you drowned._
 
+These numbers are not set in stone, you may get a trial at power 9, or not get any at power 13, their may be some rng at play.
+
 | Trial Power | Enemy(s) |
 | --- | --- |
-| 1-9 | Nothing (you are sent up without a fight) |
-| ~10-18 | [Mudskipper Knight](Mudskipper.md) |
-| 19 - 28 | [Angels](Hollow_Angel.md) (Lesser) |
-| 29-39 | [Megalodaunt](Megalodaunt.md) |
-| 40-49 | Corrupted [Megalodaunt](Megalodaunt.md) |
-| 50+ | [Enforcer](Enforcer.md) |
+| 1- ~10 | Nothing (you are sent up without a fight) |
+| ~11- ~18 | [Mudskipper Knight](Mudskipper.md) |
+| ~19 - ~28 | [Angels](Hollow_Angel.md) (Lesser) |
+| ~29 - ~39 | [Megalodaunt](Megalodaunt.md) |
+| ~40 - ~49 | Corrupted [Megalodaunt](Megalodaunt.md) |
+| ~50+ | [Enforcer](Enforcer.md) |
 
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the power of each player, this may not be the case and either many enforcers or megalodaunts may spawn.
