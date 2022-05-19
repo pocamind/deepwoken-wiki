@@ -1,6 +1,6 @@
 ---
 title: Mute
-revid: 30321
+revid: 30470
 source: https://deepwoken.fandom.com/wiki/Mute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,7 +32,6 @@ This means you have to hit the mob first if you want them to aggro on you.
 -   [The Enforcer](Enforcer.md)
 -   [Nautilodaunt](Nautilodaunt.md)
 -   Ministry Necromancers (Surprisingly)
--   [Ministry Scouts](Ministry_Scout.md) (ONLY prevents them from gripping)
 
 ### Hostile Mobs:
 
