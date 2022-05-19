@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 28216
+revid: 30457
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

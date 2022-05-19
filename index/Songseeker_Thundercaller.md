@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 27721
+revid: 30455
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
