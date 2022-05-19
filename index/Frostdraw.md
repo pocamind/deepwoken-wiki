@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 30327
+revid: 30482
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -79,7 +79,7 @@ These mantras have no prequisites.
 -   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Daggers
+| File:Ice Daggers.gif | Ice Daggers
 
 (★)
 
@@ -182,7 +182,7 @@ Impale/Impact
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-| [Glacialarc](https://deepwoken.fandom.com/wiki/File:Glacialarc.gif) | Glacial Arc
+|  | Glacial Arc
 (★)
 
  | An arc of ice. | Launches an ice pillar that impacts where the cursor is.
@@ -238,7 +238,7 @@ Impale/Impact
 
 | Media | Name | Card Description | Effect | Category |
 | --- | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health | Frostforger |
+|  | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health | Frostforger |
 | File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | Placeholder | Frostforger |
 | File:Spike Traps Card.png | Spike Traps | Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot. | +3 Elemental Intensity  
 +2 Health | Cryomancer |
@@ -247,24 +247,24 @@ Impale/Impact
 
 | Media | Name | Card Description | Effect | Category |
 | --- | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Chilling Flourish | When flourishing an enemy, send them off with a trail of ice. | +4 Elemental Intensity  
+|  | Chilling Flourish | When flourishing an enemy, send them off with a trail of ice. | +4 Elemental Intensity  
 +2 Health | Cryomancer |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cool Head | If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. | +2 Elemental Intensity  
+|  | Cool Head | If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. | +2 Elemental Intensity  
 +2 Health | Cryomancer |
 | File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare. | +4 Ether  
 +2 Elemental Intensity  
 +1 Health | Cryomancer |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Cryonis | ~All~ Some ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
+|  | Cryonis | ~All~ Some ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
 +2 Health | Ice Age |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Frostbite | Enemies can no longer heal when under the effect of your chill. | +5 Elemental Intensity  
+|  | Frostbite | Enemies can no longer heal when under the effect of your chill. | +5 Elemental Intensity  
 +2 Health | Ice Age |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Glacial Ice | Your frost is now considerably more intense. | +3 Health  
+|  | Glacial Ice | Your frost is now considerably more intense. | +3 Health  
 +6 Sanity | Ice Age |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Bottom Freeze | Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. | +5 Elemental Intensity  
+|  | Bottom Freeze | Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. | +5 Elemental Intensity  
 +2 Health | Ice Age |
 | File:Saint Jay.png | Saint Jay | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. | +5 Elemental Intensity  
 +2 Health | Ice Age |
-| [Frozone](https://deepwoken.fandom.com/wiki/File:Frozone.png) | Frozone | You are no longer required to be over water to use Ice Skate. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
+|  | Frozone | You are no longer required to be over water to use Ice Skate. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
 +3 Health | Ice Age |
 | File:Frozen pin cushion.png | Frozen Pin-Cushion | Ice Daggers now freeze opponents. (Requires Ice Daggers 1 Star combat mantra \*\*I was able to get this without having Ice Daggers, however I had Ice Forge.) | +3 Elemental Intensity  
 +1 Health | Ice Age |
@@ -276,9 +276,9 @@ File:Static-assets-upload2550294597928104705.webp
 +3 Health
 
  | Ice Age |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (Requires ~40 Frostdrawer) | +4 Elemental Intensity | Glassdancer |
+|  | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (Requires ~40 Frostdrawer) | +4 Elemental Intensity | Glassdancer |
 | File:OrbitalIce.jpg | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. | Placeholder | Frostthorn |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Fragile Freeze | Your ice Mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity | Cryoni |
+|  | Fragile Freeze | Your ice Mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity | Cryoni |
 | File:Preceeding Chill Card.webp | Preceding Chill | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity | Cryoni |
 | File:Cryostasis.jpg | Cryostasis | When block broken, fragile freeze yourself, negating the damage of the next attack. | +3 Elemental Intensity  
 +1 Health | Cryoni |

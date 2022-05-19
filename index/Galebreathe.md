@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30472
+revid: 30490
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -177,16 +177,26 @@ These talents are found in the _Cloudwalker_ category.
 +2 Health  
 Costs _[Ether](Combat_Mechanics.md)_. |
 
+**Galebreather:**
+
+These talents are found in the _Galebreather_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:Galebreathe Talent Placeholder.png | Galebreather | Grants you the ability to command Wind as a Galebreathe. | N/A |
+| File:Galebreathe Talent Placeholder.png | Adept Galebreather | You can now obtain 1-star Galebreathe mantras. | N/A |
+| File:Galebreathe Talent Placeholder.png | Expert Galebreather | You can now obtain 2-star Galebreathe mantras. | N/A |
+| File:Galebreathe Talent Placeholder.png | Master Galebreather | You can now obtain 3-star Galebreathe mantras. | N/A |
+| File:Galebreathe Talent Placeholder.png | The Old Wind | Glide straight with the power of Gales. | +4 Elemental Intensity  
++1 Health |
+
 **Gale Duelist:**
 
 These talents are found in the _Gale Duelist_ category.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Tempest Wind | Cast Wind Blade while sliding to unleash a quick whirlwind attack.
-(Performing a jump is required to activate it)
-
- | Send target and you onto the air. |
+|  | Tempest Wind | Cast Wind Blade while sliding to unleash a quick whirlwind attack. | Sends target and you into the air. |
 
 **Galeforce:**
 
@@ -222,23 +232,28 @@ These talents are found in the _Whisper_ category.
 |  | Haunted Gale | Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. | +5 Elemental Intensity  
 +2 Health |
 
-**Uncategorized:**
+**Vigil of Winds:**
 
-These talents have no category or their category is unknown.
+These talents are found in the _Vigil of Winds_ category.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Wind Step | Create a step of wind below you when jumping in the air. | +4 Elemental Intensity  
-Costs _[Ether](Combat_Mechanics.md)_. |
-| File:Fixed The Old Wind.gif | The Old Wind | Glide straight with the power of Gales. | _Allows you to glide longer with a glider._ |
+| File:Galebreathe Talent Placeholder.png | Maestro's Blade | Inhaling a spell will cause the wind to be applied to your melee attack. | +4 Elemental Intensity  
++1 Health |
 
-## **Trivia/Notes**
+## **Trivia**
 
 -   Galebreathe only has 1 grab move.
 -   Primadon is completely immune to suffocation.
--   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
-    -   Cast the mantra then press M1 and M2 together to Inhale.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   Archmage stated that Galebreathe is "least me" out of all the elements.
     
 -   Wind Step can be used by other players for a short period after being placed.
+-   The "_Gale Leap_" talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
+-   The "_Tempest Wind_" talent requires the player to perform a jump to activate it.
+-   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
+    -   Cast the mantra then press M1 and M2 together to Inhale.
+-   Galebreathe can apply 2 status effects: "_Winded_" & "_Suffocate_".
+    -   "_Winded_" reduces your opponent's attack speed.
+    -   "_Suffocate_" reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
+    -   It is the only Attunement to be able to do this without any evolution paths.
