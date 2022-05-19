@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 30449
+revid: 30471
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,9 +11,9 @@ Template:Creature Info Box v2
 
 ## Description
 
-Hive Guard are NPCs that can only be found outisde and around the [Greathive Aratel](Greathive_Aratel.md). Killing one will give the player negative reputation with [The Hive](Reputation.md).
+A Hive Guard is an NPC that can only be found outside and inside [Greathive Aratel](Greathive_Aratel.md). Killing one will give the player negative reputation with [The Hive](Reputation.md).
 
-They are all either Vesperians or Ganymedes. They wear Pathfinder Cloaks, Woodland Pauldrons and Woodland boots.
+They are all either Vesperians or Ganymedes. They wear Pathfinder Cloaks, Woodland Pauldrons and Woodland Boots.
 
 ## Moveset
 
