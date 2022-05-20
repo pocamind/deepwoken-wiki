@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 30503
+revid: 30516
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -40,7 +40,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Red Megalodaunts that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
+Red Megalodaunts that are hostile to regular Megalodaunts. Little is known about them, their origin, behavior, or their bizarre ability to create a volley of fiery sword by roaring due to them being exclusive to Song Seeker and spawning extremely rarely.
 
 **Alpha:**
 

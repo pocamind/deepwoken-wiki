@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30506
+revid: 30514
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -692,13 +692,13 @@ These are just raw stat increase and are beneficial to anyone.
 
 ### Navaen Nomad
 
--   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15% \[.Requires fist style and 20 fortitude\]
+-   Fists of Fortitude \[Generic Talent, Rare Talent\] - Every 6 Light Hits builds of a Shield of Endurance (Ether Shield) reducing incoming damage by 15% \[Requires fist style and 20 fortitude\]
 -   Captain Etrea \[Generic Talent, Common Talent\] - Gain the ability to use a shield while using your fists. (+3 Health, +4 Carry Load)
     -   Prerequisites: Way of Navae.
     -   Currently bugged, shields can be equipped without the talent
 -   Champion's Regalia \[Generic Talent, Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+4 Health, +1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character
-    -   Prerequisites: Strength (15-20?)
+    -   Prerequisites: 25 Strength
 -   Heartbreaker \[Generic Talent, Common Talent\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
 
 ### [Oath](Oaths.md)
