@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 30269
+revid: 30527
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -241,6 +241,7 @@ _**Negative**_
 -   Works both thrown and drinken.
 -   Good potion to keep handy.
 -   \[Pretty sure this one removes "posture damage"\]
+-   (Add 2 Bamboo Bundles to drain reservoir)
 
  |
 | **Hastening Potion** | 
