@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30463
+revid: 30506
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -626,7 +626,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 Most of these Talents are meant to let you stay on the field longer and improve some of your combat abiltiy, mainly in PVP.
 
 -   Bloodletter \[Generic Talent, Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
--   Thresher Scales \[Generic Talent, Rare Talent\] - You regenerate your armor at campfires. (+9 Health)
+-   Thresher Scales \[Generic Talent, Common Talent\] - You regenerate your armor at campfires. (+9 Health)
     -   Prerequisites: Bloodiron Spirit
 -   Thresher Claws \[Generic Talent, Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
 -   Aggressive Posture \[Generic Talent, Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)

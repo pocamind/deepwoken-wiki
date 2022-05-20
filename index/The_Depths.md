@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 30410
+revid: 30508
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -98,7 +98,7 @@ These numbers are not set in stone, you may get a trial at power 9, or not get a
 | ~11- ~18 | [Mudskipper Knight](Mudskipper.md) |
 | ~19 - ~28 | [Angels](Hollow_Angel.md) (Lesser) |
 | ~29 - ~39 | [Megalodaunt](Megalodaunt.md) |
-| ~40 - ~49 | Corrupted [Megalodaunt](Megalodaunt.md) |
+| ~40 - ~49 | Still just [Megalodaunt](Megalodaunt.md), but maybe higher chance of corrupted |
 | ~50+ | [Enforcer](Enforcer.md) |
 
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.

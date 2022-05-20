@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 30447
+revid: 30511
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -172,8 +172,8 @@ File:Arch says Wishes have cooldowns.png
 
 ## Unobtainable Resonances
 
--   Akira's Resonance
--   Duke Erisia's Resonance  
+-   Skull popper (Akira's Resonance)
+-   Golem Creation (Duke Erisia's Resonance)  
     
 
 ## Resonance Cosmetic

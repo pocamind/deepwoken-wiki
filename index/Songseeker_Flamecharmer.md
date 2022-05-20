@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 26700
+revid: 30504
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,7 +21,7 @@ Flamecharmer Monks can appear in [Random Encounters](Random_Encounters.md) and i
 
 ### Health
 
-Flamecharmer Monks have 900 health.
+Flamecharmer Monks have 1000 health.
 
 ### Weapons
 
