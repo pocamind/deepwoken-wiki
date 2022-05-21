@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 30527
+revid: 30558
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,6 +28,7 @@ These are recipes that are not used to produce food or potions.
 -   **Fiber** - _2 Bamboo Shoots **OR** 1 Spider Egg_
 -   **Cloth** - _3 Fiber_
 -   **Flint** - _1 Coal, 1 Rock_
+-   **Umbral Flint** - _1 Coal, 1 Umbral Obsidian_
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat_
 -   **Megalodaunt bait** - 2 Chum

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 29527
+revid: 30573
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -56,7 +56,7 @@ able?
 (★★☆)
 
  | **I**/**II** |
-| **Lightning Assault** | The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping. Becomes much faster and deals more damage in Phase 2. | ◯ | (★★☆)
+| **Lightning Assault** | The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping. During phase 2, this moves becomes much faster and is cancelled into any other attack once. | ◯ | (★★☆)
 
 (★★★)
 
@@ -107,7 +107,7 @@ Phase two is where it gets real- the true fight. All of his previous attacks get
 
 -   **Displacement** - As said before, Ferryman begins to teleport with less delay and much closer to the player, and even doing more attacks before giving time to hit him, can be especially deadly if getting hit something like Electromagnetic Pulse and then Grand Volley.
 -   **Lighting Strike** - Lightning strike is somewhat of a threat now, becoming much faster and dealing many more AoE's, along with more damage. If unlucky, you can get hit with one and just be forced to eat all the other ones and take massive damage, although if lucky, you can parry all of them by parrying the first one and simply holding. The attack tends to trail behind you if you're sprinting, however, so it can be easily punished. If you are not damaged, Medium Weapons can get about 3-4 hits in.
--   **Lightning Assault** - Lightning Assault deals significantly more damage, and now has almost no delay between attacks, doing all three slashes one after the other: this, however, unexpectedly makes the move much easier to counter by as the second consecutive assault can be parried alongside the first one in with a single parry toggle. You can tell that this is his current attack if you don't see him in the center of his Electromagnetic Pulse. If all 3 strikes are parried, Medium Weapons can get about 5 hits in.
+-   **Lightning Assault** - Lightning Assault deals significantly more damage, and now has almost no delay between attacks, doing all three slashes one after the other: this, however, unexpectedly makes the move much easier to counter by as the second consecutive assault can be parried alongside the first one in with a single parry toggle. You can tell that this is his current attack if you don't see him in the center of his Electromagnetic Pulse. Whenever the ferryman complete this move, getting close will immediatly trigger another attack starting with Displacement, which could either be Lightning Strike, Grand Volley or another Lightning Assault. He becomes vulnerable after his second attack.
 -   **Electromagnetic Pulse** - Ferryman's most powerful and useless attack at the same time. In the unlucky case that Ferryman teleports next to you point blank, you will get obliterated not for its damage, but for its stun. The stun can easily lead to you being unable to avoid getting hit by his next attack, which he does instantly after Electromagnetic Pulse. It's recommended that you stay close to Ferryman, at least close enough when he teleports, as he is unlikely to teleport near his current location.
 -   **Grand Volley** - Ferryman's most reliably dangerous attack. He has a significant wind-up when throwing his Javelins, and they seem to be slower than normal Javelins, but they are still massive, infinite range projectiles that he locks onto you with. At the beginning of the move there is a sound cue to help with identifying the attack and direction it can be coming from if the Ferryman has displaced himself out of your sight. Each Javelin deals about 160 damage (solo). This doesn't seem to be completely deadly, if not devastating, until you realize that **he throws four in rapid-fire succession.** Getting hit by one easily leads to you being steamrolled by the additional javelins. It's very important to make distance if healing is required, so that he cannot just obliterate you with an unexpected Pulse & Grand Volley combo.
 

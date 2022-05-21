@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30540
+revid: 30569
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -81,7 +81,7 @@ Armor Pieces come in different rarities, marked by the presence and quantity of 
 
 Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat, Elite Pathfinder Coat, and Royal Pathfinder Coat.**
 
-When an armor piece is generated, its given a "wallet" of points that it randomly use to "buy" stats, said wallet size is slightly random but always nears a specific value for each equipment. Rarity increase the base "Wallet" size, while Quality Rating (stars) are bonus points that the equipment can spend. Rarity affect the stats of an item more than the Quality Rating: A 3 star common item is likely gonna be outclassed by a 0 star rare item.
+When an armor piece is generated, its given a "wallet" of points that it randomly use to "buy" stats, said wallet size is slightly random but always nears a specific value for each equipment. Rarity increase the base "Wallet" size, while Quality Rating (stars) are bonus points that the equipment can spend. Rarity affect the stats of an item more than the Quality Rating: A 0 star common item is most likely going be outclassed by a 3 star rare item.
 
 **Head:**
 
@@ -175,6 +175,7 @@ _\+ 2 Posture_
 _Requires Fortitude 15_
 
  | Hive Chests | N/A |
+|  | Goldleaf Helm | Grants a random buff. | (Work in Progress) | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests | N/A |
 | 
 
@@ -201,20 +202,21 @@ File:Royal Guard's Kabuto.png
 
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
-|  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests |
+|  | Blindfold | _\+ Talent: Blinded_ | Erisia Chests | Default & Black |
 |  | Crimson Blindfold | Grants a random buff.
 _\+ Talent: Blinded_
 
- | Minityrsa Chests, Songseeker Chests |
-| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Orange, Red (Work in Progress) |
-| File:Rabel Bandana.png | Rebel's Bandana | Cosmetic | Navae Enemies |
-| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests |
-|  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
-|  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests |
-| File:Demonmask.png | Demon Mask | Cosmetic | Duke Chests, Depths Chests |
-|  | Iron Mask | Cosmetic | Erisia Chests |
-| File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests |
-|  | Warrior's Eyepatch | Cosmetic | Hive Chests |
+ | Minityrsa Chests, Songseeker Chests | N/A |
+| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Orange & Red |
+| File:Rabel Bandana.png | Rebel's Bandana | Cosmetic | Navae Enemies | N/A |
+| File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests | N/A |
+|  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
+|  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
+| File:Demonmask.png | Demon Mask | Cosmetic | Duke Chests, Depths Chests | N/A |
+|  | Iron Mask | Cosmetic | Erisia Chests | N/A |
+| File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
+|  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |
+| File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy and Slate |
 
 **Ears:**
 
@@ -235,7 +237,7 @@ _\+ Talent: Blinded_
 | --- | --- | --- | --- | --- |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent | N/A |
 | File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests | N/A |
-| File:Static-assets-upload6078901116095484260.png | Shrouded Cape (Series) | Grants a random buff. | Fishing, Duke | Red, Black, Midnight, White |
+| File:Static-assets-upload6078901116095484260.png | Shrouded Cape (Series) | Grants a random buff. | Fishing, Duke | Red, Black, Midnight & White |
 | File:Crimson Scarf.png | Scarf (Series) | Grants a random buff. | Hive Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.
 _Requires Power 40_
@@ -300,7 +302,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian, Verdant (Work in progress) |
+ | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian & Verdant (Work in progress) |
 |  | Deepwoken Cloak
 
 (Legendary)
@@ -311,8 +313,8 @@ _Requires Power 30_
 _Requires Power 40_
 
  | Nautilodaunt (Very Rare) | Crimson, Ash, Black (Work in Progress) |
-| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud, Jade, Lavender, Umber |
-| File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre, White |
+| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
+| File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre & White |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
@@ -347,7 +349,7 @@ _Requires Power 30_
 
 _Requires Power 40_
 
- | Songseeker Chests, Minityrsa Chests | Dark, Faded, Purple, Red, Rose, Stained (Work in progress) |
+ | Songseeker Chests, Minityrsa Chests | Dark, Faded, Purple, Red, Rose & Stained (Work in progress) |
 |  | Royal Pathfinder | Grants a random buff.
 
 _Requires Power 30_
@@ -398,8 +400,8 @@ _Requires Power 10_
 
 Grants one random buff.
 
- | Duke Chests, Primadon Chests, Depths Chests |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Chests, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
+ | Duke Erisia's Chest, Primadon Chests, Depths Chests |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Erisia's Chest, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
 | File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Primadon Chests, Depths Chests |
 | File:Heavy Hand's Ring.png | Heavy Hands Ring | Makes your "M1" attack slower but do more posture damage.
 
@@ -417,24 +419,24 @@ _Requires Power 10_
 
 (Legendary)
 
- | Gives every weapon 1.5 strength scaling when equipped. | Depths Chests? |
+ | Gives every weapon 1.5 strength scaling when equipped. | Depths Chests (Maybe?) |
 |  | Akira's Ring
 
 (Legendary)
 
- | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Summer Chest, Duke, Maybe more |
+ | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Chest, Summer Isle Chest, Duke Erisia's Chest & Arena Chests |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 50%
 
 _Requires Power 40_
 
  | Primadon Chests, Depths Chests |
 |  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests, Depths Chests |
-|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction that you have bad reputation with, ex. Etris, Vigils, Summer, Authority, Legion) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
+|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
 |  | Finisher's Ring
 
 (Legendary)
 
- | Reduces your flourish count by 1 (allows you to flourish someone with 1 less m1)
+ | Reduces your flourish count by 1 (Allows you to flourish someone with 1 less m1)
 
 _Requires Power 40_
 
@@ -467,13 +469,17 @@ _Requires Power 10_
 
 | Image | Armor | Effects | Source |
 | --- | --- | --- | --- |
-| File:Leather boots.png | Leather Boots | _\+ 2 Health_ | Erisia Chests, Primadon Chests |
+| File:Leather boots.png | Leather Boots | Grants a random buff.
+_\+ 2 Health_
+
+ | Erisia Chests, Primadon Chests |
 | File:White fur boots.png | White Fur Boots | Grants a random buff. | Erisia Chests, Hive Chest |
 | File:Black fur boots 1.png | Black Fur Boots | Grants a random buff. | Erisia Chests |
 |  | Autumn Boots | Grants a random buff. | Erisia Chests |
 | File:Khanboots.png | Khan Boots | Grants a random buff. | Erisia Chests, Hive Chests |
 | File:Imperial Boots.png | Imperial Boots | Grants a random buff. | Hive Chests |
 |  | Star Boots | Grants a random buff.
+
 _Requires Power 30_
 
  | Primadon Chests, Depths Chests |

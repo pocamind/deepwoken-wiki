@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 30243
+revid: 30557
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,9 +11,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) fighting the Etrean Footsoldiers in groups of two. They can also be seen patrolling [Upper Erisia](Upper_Erisia.md), accompanied by two [Authority Flamecharmers](Authority_Soldier.md). Defeating all four of them will be rewarded with a chest containing low level gear and negative Authority Reputation. They have around 600 HP.
+An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) fighting the Etrean Footsoldiers in groups of two. They can also be seen patrolling [Upper Erisia](Upper_Erisia.md), accompanied by two Authority Flamecharmers in a groups of four. Defeating all four of them will be rewarded with a chest containing low level gear and negative Authority Reputation.
 
-They all wear an Authority Healm and the [Authority Commander Uniform](Authority_Captain_Uniform.md). They are higher ranking and more dangerous than their counterpart the Authority Flamecharmer.
+Authority Footsoldiers wear an Authority Helm and an [Authority Commander Uniform](Authority_Captain_Uniform.md). They are the higher ranked and more dangerous counterpart to the Authority Flamecharmer.
 
 ## Moves
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30551
+revid: 30560
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -12,11 +12,11 @@ categories: [Pages with broken file links, Magic, Mantras, Spells]
 
 ## Description
 
-Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities that focus on movement, projectiles, and large aoe.
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE.
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
-The playstyle for this attunement is one of combos and burst damage. With this attunement, Gale Lunge, Wind gun, and Astral Wind will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos, or players that rely on their blade (Or blunt weapon) more than their mantras.
+The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras.
 
 ## Training
 
@@ -24,7 +24,7 @@ Can be trained by using a combination of Gale Kata and usage of the user's Galeb
 
 Like all other elements, users can see their Mantras become stronger with training:
 
--   At Power 2, galebreathers receive the _Galebreather_ Talent.
+-   At Power 2, Galebreathers receive the _Galebreather_ Talent.
 -   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one-star Mantras.
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two-star Mantras.
 -   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three-star Mantras.
@@ -88,7 +88,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 |  | Champion Twister  
 (★★) | _Grab your opponent and toss them with the power of gale._ | Caster grabs opponent and proceeds to spin in 360 degrees before tossing the opponent.
 
--   Deals low damage.
+-   Deals light damage.
 -   Might be able to break block?
 -   Can be modified with [Tornado Spark](Mantra_Modifiers.md).
 
@@ -122,7 +122,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   Can be modified with Cloudstones and Stratus Stones to make each hit take longer to come out, possibly messing with the parry timing of your opponent.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to make each hit take longer to come out; possibly messing up the opponent's parry timing.
 
  |
 
@@ -137,7 +137,8 @@ There are no known Mobility Mantras for Galebreathers, though there is a talent 
 |  | Gale Wisp  
 (★★) | _A servant of wind._ | Spawns a wisp of wind. Must use ritual casting.
 -   Gives the caster fall damage resistance
--   Upgrade it/using logstones on it will extend how many times you may use its ability. -Note using logstone will force you to cast more signs
+-   Can be modified with logstones to extend it's usage.
+    -   Note using logstones will force you to cast more signs.
 
  |
 
@@ -238,7 +239,7 @@ These talents are found in the _Vigil of Winds_ category.
 | File:Galebreathe Talent Placeholder.png | Maestro's Blade | Inhaling a spell will cause the wind to be applied to your melee attack. | +4 Elemental Intensity  
 +1 Health |
 
-## **Trivia**
+## **Notes/Trivia**
 
 -   Galebreathe only has 1 grab move.
 -   Primadon is completely immune to suffocation.
@@ -254,3 +255,4 @@ These talents are found in the _Vigil of Winds_ category.
     -   "_Winded_" reduces your opponent's attack speed.
     -   "_Suffocate_" reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
     -   It is the only Attunement to be able to do this without any evolution paths.
+-   To cast the "_Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI.
