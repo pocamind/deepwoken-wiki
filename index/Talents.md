@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30514
+revid: 30544
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -1069,60 +1069,92 @@ Occasionally, instead of receiving a selection of cards, you receive a Whisper -
 
 _You can find a more detailed list of Physical Mantras [here.](Attunement-less.md)_
 
-#### Fortitude Support (15-75 Fortitude Needed)
+#### Fortitude Support
 
--   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break (15 fortitude)
--   Reinforce - Up defense for you and allies around you (50 fortitude)
--   Brace - Gain hyperarmor on your attacks for a short duration (75 fortitude)
--   Shoulder Bash - Rush into your enemies with your full physical force. (75 Fortitude)
+-   Rally \[Shield Only\] - Absorb incoming posture damage for allies around you - While active your posture will not break
+    -   Prerequisite: 10 Fortitude + Shield
+-   Reinforce - Up defense for you and allies around you
+    -   Prerequisite: 50 Fortitude
+-   Brace - Gain hyperarmor on your attacks for a short duration
+    -   Prerequisite: 75 Fortitude
 
-#### Agility Combat (6 Agility Needed)
+#### Fortitude Mobility
+
+-   Shoulder Bash - Rush into your enemies with your full physical force.
+    -   Prerequisite: 40 Fortitude (?)
+
+#### Agility Combat
 
 -   Revenge - A short dash dealing damage to opponents it hits.
+    -   Prerequisite: 6 Agility
 
-#### Agility Support and Mobility (20-40 Agility Needed)
+#### Agility Support
 
--   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost. (20 agility, tested and confirmed)
--   Dash - Just a dash, nothing special. (40 agility, tested and confirmed)
+-   Adrenaline Surge - Adrenaline Surges in your body activating a brief speed boost.
+    -   Prerequisite: 20 Agility
 
-#### Charisma Support (25~ Charisma Needed)
+#### Agility Mobility
 
--   Glare - Opponents facing you are briefly stunned.
+-   Dash - Just a dash, nothing special.
+    -   Prerequisite: 40 Agility
+
+#### Charisma Support
+
 -   Sing - Charm those around you with your powerful voice.
+    -   Prerequisite: 25 Charisma
 
 -   Taunt - Taunt those around you, causing them unable to jump and to take more damage. However in their rage they do extra damage.
+    -   Prerequisite: 25 Charisma
 
-#### Intelligence Combat and Support (50 Intelligence Needed)
+#### Intelligence Combat
 
 -   Prediction - Predict an opponents attack and reflect it.
--   Summon Cauldron - Make a cauldron appear from your memories.
+    -   Prerequisite: 50 Intelligence
 
-#### Strength Combat (5-10 Strength Needed)
+#### Intelligence Support
+
+-   Summon Cauldron - Make a cauldron appear from your memories.
+    -   Prerequisite: 20 Intelligence
+
+#### Strength Combat
 
 -   Strong Left - Show your foes your strength. (Do a large punch that knocks back and deals damage in a small AoE in front of you)
+    -   Prerequisite: 5 Strength
 -   Rapid Punches (1 Star Mantra) - Unleash a barrage of blows against your foes after taking a step forwards.
+    -   Prerequisite: 5 Strength
 
-#### Strength Mobility (50 Strength Needed)
+#### Strength Mobility
 
 -   Strong Leap - Kick off the ground with your strength, sending you into the air.
     -   Prerequisite: 50 Strength
 
-#### Willpower Combat and Support (40 Willpower Needed)
+#### Willpower Combat
+
+-   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
+    -   Prerequisites: 40 Willpower
+
+#### Willpower Support
 
 -   Gaze - Peer into your enemies souls. Seemingly strike fear into enemies. Said to induce insanity, causes npcs to block less.
--   Exhaustion Strike - Execute a quick strike, emptying your posture when landed.
+    -   Prerequisite: 30 Willpower
 
-#### Light Weapon Mobility (30 stat needed)
+-   Glare - Opponents facing you are briefly stunned.
+    -   Prerequisite: 5 Willpower + 25 Charisma (?)
+
+#### Light Weapon Mobility
 
 -   Rapid Slashes - Rush down your opponent cutting them apart.
+    -   Prerequisite: 30 Light Weapon
 
-#### Medium Weapon Combat (30 stat needed)
+#### Medium Weapon Combat
 
 -   Master's Flourish - A powerful slash that chips through block and slashes through armor.
+    -   Prerequisite: 30 Medium Weapon
 
-#### Heavy Weapon Combat (30 stat needed)
+#### Heavy Weapon Combat
 
 -   Pressure Blast - Unleash a powerful pressure blast from the weight of your weapon.
+    -   Prerequisite: 30 Heavy Weapon
 
 ### Flamecharm Mantras
 

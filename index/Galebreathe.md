@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30490
+revid: 30551
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -35,17 +35,17 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Wind Blade | Slicing blades of Wind. | Launches a wind projectile to cursor's position.
+|  | Wind Blade | _Slicing blades of Wind._ | Launches a wind projectile to cursor's position.
 -   Deals light damage.
 -   Can be improved with _Tempest Wind_, a learnable talent.
 
  |
-|  | Gale Lunge | Green particles appear and then lunges you forward | User lunges forward with their weapon coated in wind.
+|  | Gale Lunge | _Green particles appear and then lunges you forward_ | User lunges forward with their weapon coated in wind.
 
 -   Deals moderate damage.
 
  |
-|  | Air Force | Shoots out an air blast | Shoots out air from your hands in the direction of your mouse and staggers target.
+|  | Air Force | _Shoots out an air blast_ | Shoots out air from your hands in the direction of your mouse and staggers target.
 
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
@@ -56,7 +56,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 | 
 
  | Tornado  
-(★) | A rushing current of wind. | AOE attack that also functions as a ranged attack.
+(★) | _A rushing current of wind._ | AOE attack that also functions as a ranged attack.
 
 -   Summons a tornado where the user is standing.
 -   This tornado can be moved by "hitting it" with an m1
@@ -64,7 +64,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
  |
 |  | Heavenly Wind  
-(★) | A strike from the heavens. | User jumps into the air and strikes down.
+(★) | _A strike from the heavens._ | User jumps into the air and strikes down.
 
 -   Deals moderate damage.
 -   User moves towards the cursor (turn shiftlock off to do this)
@@ -73,31 +73,28 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
  |
 |  | Galetrap  
-(★) | Toss a wind landmine. | Deploy a small, green landmine at your cursor location.
+(★) | _Toss a wind landmine._ | Deploy a small, green landmine at your cursor location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 
  |
 |  | Gale Punch  
-(★) | Form a punch of wind in your fist and release it. | AOE punch that deals damage and knocks opponents away.
+(★) | _Form a punch of wind in your fist and release it._ | AOE punch that deals damage and knocks opponents away.
 
 -   Can be upgraded with the _Vacuum Punch_ Talent.
 
  |
-| 
-
- | Champion Twister
-
-(★★)
-
- | Grab your opponent and toss them with the power of gale. | Caster grabs opponent and proceeds to spin in 360 degrees before tossing the opponent.
+|  | Champion Twister  
+(★★) | _Grab your opponent and toss them with the power of gale._ | Caster grabs opponent and proceeds to spin in 360 degrees before tossing the opponent.
 
 -   Deals low damage.
+-   Might be able to break block?
+-   Can be modified with [Tornado Spark](Mantra_Modifiers.md).
 
  |
 |  | Rising Wind  
-(★★) | Use wind to uppercut and propel yourself into the air. | Caster uppercuts their opponent, rapidly damaging them.
+(★★) | _Use wind to uppercut and propel yourself into the air._ | Caster uppercuts their opponent, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to the opponent while rising.
@@ -107,21 +104,21 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
  |
 |  | Wind Gun  
-(★★) | A powerful wind blast. | Fires a penetrating bullet of wind.
+(★★) | _A powerful wind blast._ | Fires a penetrating bullet of wind.
 
 -   Deals heavy damage and flings opponents.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) in order to shoot multiple bullets at once.
 
  |
 |  | Wind Carve  
-(★★) | A quick swirl of sharp winds. | Summons many small wind projectiles.
+(★★) | _A quick swirl of sharp winds._ | Summons many small wind projectiles.
 
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
 
  |
 |  | Astral Wind  
-(★★★) | A rapid delivery of consecutive attacks. | Several fast, wind-enhanced slashes that form a star and release winds in all directions in front.
+(★★★) | _A rapid delivery of consecutive attacks._ | Several fast, wind-enhanced slashes that form a star and release winds in all directions in front.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
