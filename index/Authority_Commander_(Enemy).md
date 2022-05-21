@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 30539
+revid: 30541
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ Their arsenal is composed of a Medium or Heavy weapon (An Officer Saber, a Shote
 | Moves | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | Fire Blade | Slicing blade of flame. | ◯ | (★★☆) |
-| Flame Replusion | An exertion of flames.
+| Flame Repulsion | An exertion of flames.
 (Modified with what looks to be 3 Cloudstones or 2 Stratus Stones)
 
  | ✗ | (★☆☆) |
