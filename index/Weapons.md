@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 30507
+revid: 30529
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1140,7 +1140,7 @@ Weapons that scale with a certain element
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
   <td>60 FTD</td>
-  <td>5</td>
+  <td>2</td>
 </tr>
 </tbody>
 </table>

@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt
-revid: 30526
+revid: 30532
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Megalodaunt
@@ -40,7 +40,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Red Megalodaunts that are hostile to regular Megalodaunts. Little is known about them, their origin, behavior, or their bizarre ability to create a volley of fiery sword by roaring due to them being exclusive to Song Seeker and spawning extremely rarely.
+Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
 
 **Alpha:**
 
@@ -54,13 +54,13 @@ Gray version of the Megalodaunt, exclusive to The Depths and Trial Of One. They 
 
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
-| **Slash** | A short range **Slash** using their forearms. Often used twice in a row. Heavy posture damage. | ◯ | (★☆☆) |
+| **Slash**File:Slash.png | A short range **Slash** using their forearms. Often used twice in a row. Heavy posture damage. | ◯ | (★☆☆) |
 | **Kick** | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying. Causes the Dazed status if kicked into a wall. This ability is very dangerous as it cannot be blocked and can send you into unwanted situations. | ✗ | (★★★) |
 | **Jump** | If the target is above it, the Megalodaunt will **Jump**, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | (★☆☆) |
 | **Spit** | A long-range single target ability. Hits multiple times. | ◯ | (★☆☆) |
 | **Thousand Needles** | The Megalodaunt bends over and points its coral tubes towards a target, proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | (★☆☆) |
 | **Roar** | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much earlier than expected or during combat. Blocking negates much of but not all the insanity gain. | ◯ | (★☆☆) |
-| **Fire Roar** | Similar to the standard **Roar**, but has the ability to rain down fiery swords from the sky. Exclusive to the crimson variant. While the swords are raining down, the shark seems unable to attack. | ◯ | (★☆☆) |
+| Fire Roar | Similar to the standard **Roar**, but has the ability to rain down fiery swords from the sky. Exclusive to the crimson variant. While the swords are raining down, the shark seems unable to attack. | ◯ | (★☆☆) |
 
 #### Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 30519
+revid: 30531
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -74,26 +74,13 @@ In Upper Erisia, the player can encounter two villager NPCs in [Stranded](Strand
 
 A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. As the villagers do not trust Alastir, you cannot turn them in for a chest.
 
-#### **Wild Megalodaunt Spawn**
+#### **Brainsucker swarm**
 
-This encounter is limited to Erisia and is somewhat uncommon. An idle [Megalodaunt](Megalodaunt.md) will spawn at a distance from the player, usually facing away from the player. This encounter has happened in multiple locations and it's unclear if these are set spawns or pure random. Usually when it spawns, you will hear the Megalodaunt's roar so you'll know if there is one near you (Note that this first roar doesn't put you in danger). If the Megalodaunt sees or gets attacked by a player or a npc(s), it will start attacking them. If the Megalodaunt hasn't encountered a player or npc(s), it will eventually despawn. Successfully killing the Megalodaunt will spawn a large chest where it spawns.
-
-#### **Wild Lionfish Spawn**
-
-This overworld encounter usually happens at [Aratel Sea](The_Aratel_Sea.md) and [Void Sea](Voidsea.md), but you can also encounter it if you [fish](Fishing.md) it up. The [Lionfish](Lionfish.md) usually spawns while the player is sailing on a boat or swimming, however there are rare times where it does spawn near shore. If the Lionfish sees you in your boat, you can hear it growl and it will start attacking the boat dealing a large chunk of the boat's health at a time. Should the player decide to get off the boat to deal with the Lionfish, it'll stop attacking the boat and attack the player instead. If the player is on land or unreachable by the Lionfish, it will keep trying to follow the player as far as possible and try attacking them. **Killing the Lionfish doesn't reward any chests.**
-
-#### **Wild Gargoyle Spawn(s)**
-
-**As of there are currently two types of these spawns:**
-
--   **Void/Aratal Sea spawn:** Happens when you're sailing in [Void](Voidsea.md) or [Aratal Sea](The_Aratel_Sea.md). A Gargoyle will spawn in mid air at somewhat of a distance from the player. **Doesn't spawn a chest.**
--   **Starswept/Minityrsa spawn:** Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two Gargoyles spawn in mid air. **Spawns a chest.**
-
-In both spawns, the [Gargoyle](Brainsucker.md)(s) will keep following you around and keep trying to attack you. Unlike the Lionfish's attacks, these attacks do not destroy your boat and instead serve as minor annoyances when sailing.
+Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Multiple Brainsuckers spawn in mid air, in groups of two to five, and swarm their prey, all dive bombing them at once. Killing them all spawns a chest.
 
 #### **Mudskipper Emergence**
 
-An encounter limited to [Erisia](Erisia.md), can only happen during spring or summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a gale mantra (Gale Force) to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
+An encounter limited to [Erisia](Erisia.md), can only happen during spring or summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
 
 #### **Mudskipper-Mancer**
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 30257
+revid: 30539
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,6 +38,6 @@ Their arsenal is composed of a Medium or Heavy weapon (An Officer Saber, a Shote
 
 ## Trivia
 
--   You can pickpocket the Authority Warden for the Jail Keys but it requires the Pickpocket Talent to do so. Nothing happens when you attempt to pickpocket them without the talent.
+-   You can pickpocket the Authority Warden for the Jail Keys but it requires the Pickpocket Talent to do so.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a Khan Shield or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.
