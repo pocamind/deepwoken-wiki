@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 30510
+revid: 30595
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,37 +1,29 @@
 ---
 title: Authority Captain
-revid: 30583
+revid: 30598
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Authority Captain
 
-## Contents
-
--   [1Description](Authority_Peacekeeper.md#description)
--   [2Moveset](Authority_Peacekeeper.md#moveset)
-    -   [2.1Moves:](Authority_Peacekeeper.md#moves)
--   [3Trivia](Authority_Peacekeeper.md#trivia)
+Template:Creature Info Box v2
 
 ## Description
 
-The Authority Captain is a type of enemy NPC found in [Fort Merit](Fort_Merit.md). They are located near the docks, guarding the Shipwrights hut.
-
-Their appearance consists of polarized sunglasses, authority commander uniform and a midnight shrouded cape. They are almost identical to the Authority Warden, but are easily identifiable by their sunglasses and lack of a authority helmet.
+The Authority Commander is an NPC found in the Starswept Valley fighting Legion Captains. Unlike most Authority members, their face is completely unobscured. It is unknown whether this is a personal choice or the rank's uniform.
 
 ## Moveset
 
-Their arsenal is composed of a officer saber or adretian ax and the [Flamecharm](Flamecharm.md) Attunement:
-
-### Moves:
+Their arsenal consists of an [Officer Saber](Officer_Saber.md) and the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts spear at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
-| Critical | Pulls the trigger on the spear and fires a bullet at opponent. | ◯ | ◯ | (★★☆) |
-| Fire Blade | Slicing blades of flame. | ◯ | ◯ | (★★☆) |
+| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
+| Critical | Charges up for a heavy attack. | ◯ | ◯ | (★★☆) |
+| Frost Shower | Rain down shards of ice. (Exclusive to Authority Commander) | ◯ | ◯ | (★★☆) |
 
 ## Trivia
 
--   As well as being almost identical in appearance, both the Prison Guard and Flamecharmer use Flamecharm mantras.
+-   A variant of the Authority Warden is near identical to this enemy.
+-   They are exclusively [Adrets](Adret.md).

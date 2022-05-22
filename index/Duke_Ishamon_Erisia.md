@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 30579
+revid: 30590
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -16,7 +16,7 @@ categories: [Boss, Luck]
 
 Template:Creature Infobox V3Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
-In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). He also has a bell by his side, although it is never visibly used during the boss fight (This is due to his bell allowing him to summon and command [Rock Golems](Rock_Golem.md) as mentioned by [Alastir](Alastir.md)). The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style, wielding a pair of [Iron Cestus](Iron_Cestus.md). Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
+In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). He also has a bell by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
 ## Attacks
 
@@ -66,20 +66,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.md) (Bell) Progress.
 
-## Dialogue
-
--   So you're the one running about tripping my alarms. Care to explain yourself?
-    -   The Lord Regent sent me to retrieve the Forge.
--   That thing is finally making it's move, hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
-    -   That 'thing'? Agent?
--   _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter.\*_
-    -   What?
--   _\*The Duke smiles,\*_ I'd thought for sure you were an agent, but you're what - let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim..
-    -   What are you talking about?
--   There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
-
   
-This dialogue suggests that the Duke knows about the Lord Regent's true intentions as a contractor of the Ministry, and could be fighting to protect the Forge of Sin in order to use it to prevent the oncoming Second Celtorian Horror. But turning his golems against the people of Erisia puts to question what his true intentions are.
 
 ## Trivia
 

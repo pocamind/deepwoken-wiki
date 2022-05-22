@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 30577
+revid: 30594
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -22,7 +22,7 @@ Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) 
 
 ## Moveset
 
-Their arsenal consists of the [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
+Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
