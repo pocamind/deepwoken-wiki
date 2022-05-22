@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 29706
+revid: 30600
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
@@ -14,52 +14,20 @@ Template:EnemyInfobox1.0
 
 The Legion Captain is a Humanoid NPC which appears to wear the [Legion Centurion](Legion_Centurion.md) outfit, Khan Boots, Khan Helmet and Khan Pauldrons. They have two variants: One that attacks on sight, dubbed the [Legion Javelin Captain](Legion_Sniper.md) and a neutral one that fights the Authority Commander. These encounters are exclusive to [Starswept Valley](The_Starswept_Valley.md).
 
-  
-
 ## **Moves**
 
-**The Captain has access to different weapons, those being:** The Champion Sword, Ritual Spear and Kata without Cestus.
+**The Captain has access to different weapons, those being:** A Champion Sword orRitual Spear and Legion Kata without Cestus.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Description</th>
-  <th>Parryable?</th>
-  <th>Danger</th>
-</tr>
-<tr>
-  <td>Rising Wind</td>
-  <td>The Captain uppercuts their opponent, rapidly damaging them.<p>Compared to it's player counterpart, this attack is very deadly and can deal up to 2 bars of damage.</p></td>
-  <td><font>◯</font></td>
-  <td>(★★★)</td>
-</tr>
-<tr>
-  <td>Heavenly Wind</td>
-  <td>The Captain jumps into the air and strikes down.</td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Gale Lunge</td>
-  <td>The Captain lunges forward with their weapon coated in wind.</td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td>Strong Left</td>
-  <td>A powerful, flinging punch that shatters the air.</td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
-</tr>
-<tr>
-  <td>Rapid Punches</td>
-  <td>Unleash a barrage of blows against their opponent</td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
-</tr>
-</tbody>
-</table>
+| Name | Description | Parryable? | Bloakcable? | Danger |
+| --- | --- | --- | --- | --- |
+| Rising Wind | The Captain uppercuts their opponent, rapidly damaging them.
+Compared to it's player counterpart, this attack is very deadly and can deal up to 2 bars of damage.
+
+ | ◯ | ◯ | (★★★) |
+| Heavenly Wind | The Captain jumps into the air and strikes down. | ◯ | ◯ | (★☆☆) |
+| Gale Lunge | The Captain lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
+| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| Rapid Punches | Unleash a barrage of blows against their opponent | ◯ | ◯ | (★★☆) |
 
   
 

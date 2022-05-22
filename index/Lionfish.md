@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 27355
+revid: 30604
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -70,7 +70,8 @@ It drops a Lionfish Scale, which is used for crafting armor sets
 
 -   When fighting the lionfish above the depths, it will only have 1 attack pattern, that being the triple chomp combo. The cue for it coming out is usually the lionfish swimming towards you after swimming away for a little bit.
 -   If the lionfish is submerged, you can still land some hits, though you need to be cautious for when it comes up so that you aren't in a swing animation while it's biting.
--   If you're fighting one in the depths with the beam, right as you hear the sound start calmly counting in seconds. Right as you count to 8 it will fire the beam. Before you start fighting corrupted ones, it's recommended you fight normal ones to get the feel of how to count it with M1s, Seconds, or maybe even combos depending on what you find to be more comfortable.
+-   If you're fighting one in the depths with the beam, right as you hear the sound start calmly counting in seconds. Right as you count to 8 it will fire the beam. Before you start fighting corrupted ones, it's recommended you fight normal ones to get the feel of how to count it with M1's, Seconds, or maybe even combos depending on what you find to be more comfortable. Another way to avoid the beam is to wait for the Lionfish to charge up, point your camera up _while_ its charging, after a few seconds of charging it will tilt its head/body down, and right when it starts tilting down, you can dodge the beam by pressing Q.
+-   In the depths, after the Lionfish uses its beam, it will try to go away from the player and use its Bites. To avoid it biting, you need to follow it after it uses its beam, not letting it get too far from you so it won't use bites (be careful of the void). Doing this correctly makes it unable to use its Bites and only its beam.
 
 ## Notes
 

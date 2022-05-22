@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 19039
+revid: 30599
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
 The Voidsea is an extremely dangerous region. It is speculated to be an ecological deadzone, where some vicious sea creatures reside.
 
-It is incredibly easy to stumble into during travelling. It covers a fairly large part of the sea and can appear out of nowhere so while going long distances be very careful.
+It is incredibly easy to intentionally sail into during travelling. It covers the surrounding sea of the Etrean Luminent and will appear when you sail too far off from the map.
 
 Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately, this does not happen when killed by a player.
 
