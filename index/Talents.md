@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 30570
+revid: 30574
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -1101,7 +1101,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Fortitude Mobility
 
 -   Shoulder Bash - Rush into your enemies with your full physical force.
-    -   Prerequisite: 40 Fortitude (?)
+    -   Prerequisite: 10 Fortitude + Shield
 
 #### Agility Combat
 
@@ -1159,7 +1159,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
     -   Prerequisite: 30 Willpower
 
 -   Glare - Opponents facing you are briefly stunned.
-    -   Prerequisite: 5 Willpower + 25 Charisma (?)
+    -   Prerequisite: 5 Willpower + 25 Charisma
 
 #### Light Weapon Mobility
 

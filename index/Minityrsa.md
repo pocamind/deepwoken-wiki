@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 27884
+revid: 30576
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -32,13 +32,13 @@ Minityrsa is an island blanketed in fresh snow. It can be found past the central
 ### Unnamed
 
 -   Stronghold
-    -   A stronghold inhabited and guarded by [Dark Mage Cultists](Ministry_Scout.md).
+    -   A stronghold inhabited and guarded by [Ministry Scouts](Ministry_Scout.md).
     -   The [Trial of One](Trial_of_One.md)'s entrance can be found here underneath the back right hatch.
 
 ## Potential Enemies
 
--   [Dark Mage Cultists](Ministry_Scout.md)
--   [Cultist Necromancer](Ministry_Necromancer.md)
+-   [Ministry Scouts](Ministry_Scout.md)
+-   [Ministry Necromancer](Ministry_Necromancer.md)
 -   [Rogue Constructs](Hive_Construct.md)
 -   [Snow Knight](Stone_Knight.md)
 -   [Brain Suckers](Brainsucker.md)
@@ -55,7 +55,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
  | 
 
--   [Blindfold](Blindfold.md)
+-   Blindfold
 -   Crimson Blindfold
 -   Ten-Gallon Bandana
 -   Eyeglasses
@@ -78,11 +78,11 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   [Hero Blades](Hero_Blades.md) (skill issue)
 -   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
 -   [Razor Cutlass](Razor_Cutlass.md) (uncommon)
--   Sacred Hammer (VERY rare drop from Rouge Construct)
--   Inquisitor's Straight Sword (uncommon from Rouge)
--   Mid-High enchant rates (from Rouge Construct)
--   Flamekeeper Cestus (Rare drop from Rouge Construct)
--   Shattered Katana (Rare drop from Aelita)
+-   [Sacred Hammer](Sacred_Hammer.md) (VERY rare drop from Rouge Construct)
+-   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) (uncommon from Rouge)
+-   Mid-High [enchant](Enchantments.md) rates (from Rouge Construct)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Rare drop from Rouge Construct)
+-   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita)
 
  | 
 

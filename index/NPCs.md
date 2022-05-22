@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 30139
+revid: 30575
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -131,12 +131,12 @@ You can also get alot of gear from loresns
 -   Locations - Minityrsa and Summer Isle.
 -   Hostile against - Players, Children of Navae and Summer Company (probably more).
 -   Appearance - Black clothing that looks like Prophet's cloak, also wear blindfolds and hats except the ganymede ones that summon spellcasting mudskippers.
--   Equipment - Krulian Dagger / Shadow magic.
--   Player Reputable? - Surprisingly yes, when doing [Murmur: Tacet](Murmur.md) quest, after 6th assassination you will start getting their reputation.
+-   Equipment - Krulian Dagger / Shadow magic / Tacet.
+-   Player Reputable? - Surprisingly yes, when doing [Murmur: Tacet](Murmur.md) quest, after 6th assassination you will start getting their reputation. Alternatively you can assist them in Summer Isle where they can be found battling Children of Navae.
 
 **Lore**
 
-When getting gripped, they will mention that player will not be able to stop history from repeating itself, and that the entire world will fall into the depths like Celtor.
+The Ministry's primary goal is to bring forth the horrors and achieve the Drowned Gods' goal of engulfing the whole world with water. They also have members known as contractors, one such being the Lord Regent of Etrea (as stated by Warden Jericho's book). This group was thought to have been eradicated after they assisted in the drowning of Celtor.
 
 ### The Knives of Eylis
 

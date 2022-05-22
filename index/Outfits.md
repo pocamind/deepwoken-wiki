@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30569
+revid: 30582
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -225,7 +225,7 @@ _\+ Talent: Blinded_
 |  | Amethyst Pendant Earrings | Grants a random buff. | (Work in Progress) | N/A |
 |  | Crystal Pendant Earrings | Grants a random buff. | Hive Chests | N/A |
 |  | Dewdrop Earrings | Grants a random buff. | Hive Chests | N/A |
-| File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants a random buff. | Primadon Chests | N/A |
+| File:Emeraldtsk.JPG | Emerald Tusk Earrings | Grants a random buff. | Primadon Chests, Duke Chests | N/A |
 | File:MasterThief.png | Master Thief Earrings | Grants a random buff. | Fort Merit Chests | N/A |
 |  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
 | File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest | N/A |

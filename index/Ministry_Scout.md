@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 30403
+revid: 30577
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -47,8 +47,8 @@ Their arsenal consists of the [Krulian Knife](Krulian_Knife.md) and the [Shadowc
 ## Trivia
 
 -   A really good location to progress at, although it lacks rewarding loot.
--   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Cultist Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. However, when you are gripping them or when they have finished killing the Nomads at Summer Isle they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md) or just voicing their disgust of the Navaen Nomads.
--   Everyone except the [Cultist Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
+-   They are believed to be brainwashed, because when the scouts have conversations in-between themselves or with a [Ministry Necromancer](Ministry_Necromancer.md), they can only muster up sounds, growls, etc.. However, when you are gripping them or when they have finished killing the Nomads at Summer Isle they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md) or just voicing their disgust of the Navaen Nomads.
+-   Everyone except the [Ministry Necromancer](Ministry_Necromancer.md)[s](Ministry_Necromancer.md) are enemies towards them, even NPCs.
 -   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra, and it's apparently only exclusive to the scouts.
 -   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife, due to the fact the model of the knife is a direct 'copy' to a knife in the anime [Hunter X Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter).
 -   It is possible to increase reputation with The Ministry by helping Ministry Scouts in Summer Company vs The Ministry events in Summer Isle. However, your reputation with them is set to negative, so much more grinding is needed to get positive reputation with them compared to other factions.
