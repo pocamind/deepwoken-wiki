@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30582
+revid: 30627
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -117,7 +117,7 @@ _\+ Talent: Pitcher_
 | File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants a random buff. | Depths Chests | N/A |
 | File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre, White (Work in progress) |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests | N/A |
-|  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests | N/A |
+|  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests, Duke Chests | N/A |
 | File:Black Hood.png | Black Hood | Grants a random buff.
 
 _\+ 4% Stealth_

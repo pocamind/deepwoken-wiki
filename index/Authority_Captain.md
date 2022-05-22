@@ -1,17 +1,17 @@
 ---
 title: Authority Captain
-revid: 30598
+revid: 30619
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Authority Captain
 
-Template:Creature Info Box v2
+Template:EnemyInfobox1.0
 
 ## Description
 
-The Authority Commander is an NPC found in the Starswept Valley fighting Legion Captains. Unlike most Authority members, their face is completely unobscured. It is unknown whether this is a personal choice or the rank's uniform.
+An Authority Commander is an NPC found in the Starswept Valley fighting Legion Captains. Unlike most Authority members, their face is completely unobscured. It is unknown whether this is a personal choice or the rank's uniform.
 
 ## Moveset
 

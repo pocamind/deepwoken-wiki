@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 30482
+revid: 30615
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -161,17 +161,13 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Crystal Knee | Knock your enemy skyward with a kick of crystal. | Do a short flipkick that throws your enemies into the air
--   Compatible with a spring spark to launch the opponent away instead of upward.
+|  | Crystal Knee | Knock your enemy skyward with a kick of crystal. | Do a short flipkick that throws your enemies into the air
+-   Compatible with a Spring Spark to launch the opponent away instead of upward.
 
  |
 | 
 
- | Crystal
-
-Impale/Impact
-
- | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
+ | Crystal Impale | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
 
 -   Deals around six to eight hits.
 -   Can be comboed into from regular Crystal Knee.

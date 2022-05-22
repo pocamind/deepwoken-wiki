@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 28874
+revid: 30628
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Resonance, Talents, Enemies, Boss, World, Map, Death, Locations, Lightning Combat Mantras, Weaponry, Weapons, Armors, Attunement, Attributes, Article stubs, Rare Talents, Races, Random Encounters]
@@ -96,6 +96,7 @@ notices:
 -   **Petra's Anchor** can be a possible reference to two characters; being [Minamitsu Muramasa](https://en.touhouwiki.net/wiki/Minamitsu_Murasa) from _Touhou Project,_ or [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
 -   The **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to the black mortal blade that was used by Genichiro from _Sekiro._
+-   **Razor Cutlass**’s description “A serrated cutlass fashioned after the brutal bite of a Lionfish” is a possible reference to “The bite of ‘87”.
 
 ## World
 

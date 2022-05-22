@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 30599
+revid: 30605
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,7 +19,7 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
 
 The Voidsea is an extremely dangerous region. It is speculated to be an ecological deadzone, where some vicious sea creatures reside.
 
-It is incredibly easy to intentionally sail into during travelling. It covers the surrounding sea of the Etrean Luminent and will appear when you sail too far off from the map.
+It is incredibly easy to mistakenly sail into during travelling, As it covers the surrounding sea of the Etrean Luminent and will appear when you sail too far off from the surrounding islands.
 
 Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately, this does not happen when killed by a player.
 
@@ -38,3 +38,4 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 
 -   There are patches of bubbles around the Void Sea and hitting one can cause a Dread Serpent (bigger bubbles) or a Lionfish (smaller bubbles) to spawn.
 -   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most. (May be referenced to Voidheart)
+-   The voidheart once existed here, A private island where developers and their friends could play chess together.

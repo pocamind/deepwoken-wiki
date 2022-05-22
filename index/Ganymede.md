@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 30602
+revid: 30620
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -91,4 +91,3 @@ A common theory is that Vesperians and Ganymedes are different versions of the s
 -   During the 4/1/2022 April Fools update (Mudwoken), Ganymede's race name was changed to Hatskipper.
 -   Ganymede is one of the rarest obtainable races in the game, the other one being [Capra](Capra.md)
 -   Also has a lot of drip potential. They even start with a hat, very drippy.
--   Doesn't have a white priviledge.

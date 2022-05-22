@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 30600
+revid: 30617
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
@@ -16,7 +16,7 @@ The Legion Captain is a Humanoid NPC which appears to wear the [Legion Centurion
 
 ## **Moves**
 
-**The Captain has access to different weapons, those being:** A Champion Sword orRitual Spear and Legion Kata without Cestus.
+**The Captain has access to different weapons, those being:** A Champion Sword or Ritual Spear and Legion Kata without Cestus.
 
 | Name | Description | Parryable? | Bloakcable? | Danger |
 | --- | --- | --- | --- | --- |

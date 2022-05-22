@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30597
+revid: 30611
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -141,7 +141,8 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
  | 
 
--   Compatible with Glacial Arc for a unique effect. Effect: Makes the impact of Glacial Arc summon ice spikes around it the way a round spark modified Ice Eruption does, only smaller.
+-   Compatible with Glacial Arc for a unique effect.
+    -   Effect: Makes the impact of Glacial Arc summon ice spikes around it the way a round spark modified Ice Eruption does, only smaller.
 
  |
 |  | Magnifying Stone | Likely same as Glass Stone, just better
@@ -543,7 +544,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   Think Knives in a certain stopping of time
 
  |
-| Crystal Knee |  | File:Ice Laser with Spring Spark.gif | 
+| Crystal Knee |  | File:Crystal Knee with Spring Spark.gif | 
 
 -   This modifier causes the "Crystal Knee" mantra to perform a spin kick after the initial backflip kick that sends the opponent flying.
 
@@ -563,7 +564,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier seems to have no effect on the "Fire Blade" mantra.
 
  |
-| Champions Twister |  | File:Champions Twister with Tornado Spark.gif | 
+| Champion Twister |  | File:Champion Twister with Tornado Spark.gif | 
 
 -   (Work in Progress)
 
