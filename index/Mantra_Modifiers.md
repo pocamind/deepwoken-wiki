@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30633
+revid: 30654
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -374,9 +374,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
   
 
-## **Specific Effects of Sparks**
-
 **Blast Spark:**
+
+## Specific Effects of Sparks
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -399,6 +399,12 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier causes the "Lightning Stream" mantra to shock it's opponent instead of pulling them.
 
  |
+| Wind Gun |  | File:Wind Gun with Blast Spark.gif | 
+
+-   This modifier turns the "Wind Gun" mantra into a shotgun, firing 3 rounds of short-ranged wind bullets.
+    -   Do note that this Spark will override the effects of a Multiplying Spark.
+
+ |
 | Shade Devour |  | File:Shade Devour with Blast Spark.gif | 
 
 -   This modifier cause the "Shade Devour" mantra to perform a shockwave.
@@ -412,6 +418,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 
 **Magnet Spark:**
+
+## Specific Effects of Sparks
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -458,10 +466,12 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 **Multiplying Spark:**
 
+## Specific Effects of Sparks
+
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | Wind Gun |  | File:Wind Gun with Multiplying Spark.gif | 
--   This modifier turns the "Wind Gun" Mantra into a shotgun, firing 4 wind bullets instead of 1.
+-   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range wind bullets instead of 1 long-range bullet.
 
  |
 | Shade Bringer |  |  | 
@@ -478,6 +488,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 
 **Reversal Spark:**
+
+## Specific Effects of Sparks
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -524,6 +536,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 **Round Spark:**
 
+## Specific Effects of Sparks
+
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | Fire Gun |  | File:Fire Gun with Round Spark.gif | 
@@ -538,6 +552,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 
 **Spring Spark:**
+
+## Specific Effects of Sparks
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
@@ -559,6 +575,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 
 **Tornado Spark:**
+
+## Specific Effects of Sparks
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |

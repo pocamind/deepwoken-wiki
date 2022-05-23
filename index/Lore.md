@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 30425
+revid: 30659
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -28,7 +28,7 @@ _"Ah, perfect. All I needed was for you to secure the area. Your services will n
 
 _The Lord Regent, sitting atop his throne of coral._
 
-The Lord Regent is a mysterious individual who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
+The Lord Regent is a mysterious individual and **contractor** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris.
 
   
 
@@ -44,6 +44,7 @@ The Lord Regent is a mysterious individual who rose to power and has absolute co
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
 -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles.
+-   His goals are in line with the ministry's as he works as a contractor for them, manipulating Etris's prospects in order to sieze the island to the tides, as once happened to Celtor in the south and their leader (also a contractor)
 
 ### The King of Etrea
 
@@ -74,12 +75,13 @@ The Duke
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
+-   The dukes minions which guard his mansion are _vacant_ and his golems (which is unusual from most monsters) possess human souls which can fuel the Soul jar resonance, leading to the theory that the forge of sin has been used to transfer Erisias inhabitants power to his stone servants.
 
 ### **Maestro Evengarde Rest**
 
 "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon. Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 
--   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as an alleged murderer and Authority soldier.
+-   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
 
 ### **Akira, The Black Diver**
@@ -87,11 +89,10 @@ The Duke
 _"Another one...? You've got to be kidding me." - Akira_
 
 -   Akira is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
--   Akira wields a purple Resonance Bell, which allows the ability to blow up an unfortunate victim's head clean off. Provoking him will lead the same fate as the others.
-    -   It is presumed that the purple Resonance Bell is Yun'Shul's curse, as tumor-like spheres pop around the victim's head, before blowing up.
+-   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between akira and his foes powers the more of his lifespan using this bell will drain.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
--   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
--   He once had a ring but has long since discarded it for unknown reasons
+-   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers. (may be a reference to Kakashi from naruto pulling this same trope in early episode arcs.)
+-   He once had wielded Akiras ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets".
 
 ### **The Meat Lord**
 
@@ -122,13 +123,16 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   He is a Vesperian, according to Arch\_Mage
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
-    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
+    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
+    -   against contrary belief, Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms, " _Funny things y'learn when you discard everything in pursuit of your goals... Heh heh..."_ (a reference to the sacrifices he endured \[currently unknown\] while in or escaping the deep)  
         
 
 ### **Yun'shul**
 
 -   A being that is restrained within the [Temple of Hearts](Temple_of_Hearts.md). Yun'shul is known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   Yun'shul is a Drowned God; according to Arch\_Mage.
+-   The "being" we find withing the temple of hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, Used by those who worship the deep (aswell as the resonant) to commune with Yun'Shul safely.
+-   his title, Keeper of Hearts. Is a refference to his ability to manipulate and warp the passage ones soul outputs while resonating, this is why he is the only creature who may have governance over your resonance.
 
 File:Yun'Shul.png
 
@@ -208,7 +212,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 ### **Western Luminant**
 
--   The home to the Eleventh Legion
+-   The home to the Eleventh Legion and home of the Khans
 
 ### **Voidsea**
 
@@ -246,8 +250,6 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 **Lore Sources:** _Arch\_Mage (Discord)_
 
 _"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
-
-[Canor City](https://deepwoken.fandom.com/wiki/File:Canor_City.png)
 
   
 
@@ -607,9 +609,9 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 _"Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin."_
 
--   A recently arrived race of spiritually adept individuals that make up the bulk of the Authority.
+-   A recently (1400 years ago) arrived race of spiritually adept individuals that make up the bulk of the Authority. (note that all high ranking officers in the authority are adrets)
 -   Their tattoos (markings on their face) represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
--   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". He also states that the Adrets are not related to an animal unlike the races.
+-   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once isolatary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
 -   According to **Shirafune**, the Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
 -   Arch\_mage confirmed they are **NOT** fishes.
 
@@ -874,10 +876,10 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
 
 #### The Origin of Adrets
 
-**Lore Sources:** _Ishan, Weapon Descriptions._
+**Lore Sources:** _Ishan, Weapon Descriptions, Arch\_Mage._
 
 -   The Adret have no ties with any sort of Animal, unlike the rest of the Races (Felinors are Felines, Canors are Dogs, Vesperians are Beetles, etc.) This seems to be many races main point of contention with them, viewing them as alien.
--   Ishan, an Etrean located within the Stronghold of [Summer Isles](Summer_Isle.md) theorizes that The Adret came from the Seas. This piece of evidence of the Adret is believed that they are the Humans of Deepwoken.
+-   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationary mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
 -   Adrets are NOT Fish. This is confirmed by Arch\_Mage.  

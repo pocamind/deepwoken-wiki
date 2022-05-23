@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 30620
+revid: 30662
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -52,9 +52,9 @@ Template:Races-Main
 
   
 
-Little is known about the Ganymede, but they are distantly related to [Vesperians](Vesperian.md) and as such they share very similar last names (Gany: Sekhige. Vesp: Sekhigi.) and can be related to one another in game.
+Aeons ago, a long Extinct species faced a cultural schizm in response to the rising tides, those talented few blessed with the art of LifeWeaving vowed to turn their backs to the tides and grow Great living hives above the ocean deep becoming what we in the modern world know as Vesperians. With the minor few embracing those coming waves, sinking to the deep and settling in as it's latest drowned inhabitants. these adventurous folk becoming our modern ganymedes.
 
-A common theory is that Vesperians and Ganymedes are different versions of the same species, with Vesperians being the ones that stayed above water and the Ganymede's descending into the depths. This would fit with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
+This fits with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
 **Strengths:**
 

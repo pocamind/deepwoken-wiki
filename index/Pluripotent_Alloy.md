@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 28944
+revid: 30646
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -58,6 +58,7 @@ To use a Pluripotent Alloy, you must be at least power level 30 and equip an app
 -   [Vigil Longsword](Vigil_Longsword.md)
 -   [Tanto](Tanto.md)
 -   [Steel Maul](Steel_Maul.md)
+-   [Messer](Messer.md)
 
 ## Effects of the Pluripotent Alloys
 
