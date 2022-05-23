@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 30635
+revid: 30642
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1151,7 +1151,7 @@ Players can use [this formula](https://www.desmos.com/calculator/sbokgffwxn) to 
 
 _**Damage = BaseDmg + AttributeLevel((BaseDmg / 1000) ⋅ Scaling))**_
 
-Weapons with two scaling factors (Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.
+Weapons with two scaling factors (some Legendary weapons) will have the same formula, but the "+" part is repeated, using the other attribute and scaling.
 
 _**Damage = BaseDmg + AttributeLevel1((BaseDmg / 1000) ⋅ Scaling1)) + AttributeLevel2((BaseDmg / 1000) ⋅ Scaling2))**_
 

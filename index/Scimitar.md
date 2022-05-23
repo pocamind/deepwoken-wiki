@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 20880
+revid: 30640
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,6 +25,10 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Erisia Bandit Chests |
 | description | "A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture. |
+
+“ I do not play Digmake, because only Lightbornes can generate a world. ”
+
+― The people of Markor, probably
 
 ## Description
 

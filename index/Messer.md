@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 27754
+revid: 30639
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -23,16 +23,15 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Weapon Shop at Etris |
 
-##### _"Bullet may tear through metal. But I don't care since they can't handle the smoke from my MED 10 Messer."_
+“ NICE KNIFE ”
 
-\-Someguy who killed the entire population of Summer Company with a Messer
+― Mace user flaunting the superior weapon.
 
-### **Description**
+## **Description**
 
-  
-The Messer is a Medium Weapon that can be obtained by buying it at Etris, or from chests in Lower Erisia. This weapon has no special effects or passives.
+The Messer is a Medium Weapon that can be obtained by buying it at Etris, or from chests in Lower Erisia. This weapon has no special effects or passives. It can be alloyed to create **the placeholder**.
 
-### Notes
+## Trivia
 
 -   If you want to buy this as your freshie weapon, keep in mind there are better alternatives depending for what you want to use this for; For example, in PVE, I'd recommend the [Iron Spear](Iron_Spear.md), which can be found in the same armory shop where you'd buy the Messer. (Messer is still better than the starting sword though).
 -   There is no reason to use a messer over a mace since they both cost the same and maces are generally better. The only reason I can see why people would use messer is just because its a sword and they're attached to it's play style
