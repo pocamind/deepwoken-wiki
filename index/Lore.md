@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 30659
+revid: 30691
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -44,7 +44,8 @@ The Lord Regent is a mysterious individual and **contractor** who rose to power 
     -   This maybe because of the Canor's history with the Authority, whom they are currently at war with.
     -   However, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears rather funny in the head.
 -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles.
--   His goals are in line with the ministry's as he works as a contractor for them, manipulating Etris's prospects in order to sieze the island to the tides, as once happened to Celtor in the south and their leader (also a contractor)
+-   His goals are in line with the ministry's as he works as a contractor for them, manipulating Etris' prospects in order to sieze the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
+    -   As it is unknown how long ago this event was, they may be the same person.
 
 ### The King of Etrea
 
@@ -75,7 +76,9 @@ The Duke
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
--   The dukes minions which guard his mansion are _vacant_ and his golems (which is unusual from most monsters) possess human souls which can fuel the Soul jar resonance, leading to the theory that the forge of sin has been used to transfer Erisias inhabitants power to his stone servants.
+-   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the Soul Jar resonance, leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
+    -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
+    -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily.
 
 ### **Maestro Evengarde Rest**
 
@@ -89,10 +92,12 @@ The Duke
 _"Another one...? You've got to be kidding me." - Akira_
 
 -   Akira is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
--   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between akira and his foes powers the more of his lifespan using this bell will drain.
+-   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
+    -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
+    -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
--   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers. (may be a reference to Kakashi from naruto pulling this same trope in early episode arcs.)
--   He once had wielded Akiras ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets".
+-   His readings on the book he wields when confronting him is unknown, but his ranking of Black Diver is a good example of Veterans within The Divers.
+-   He once had wielded Akira's ring, a legendary ring which adds 1.5 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 
 ### **The Meat Lord**
 
@@ -114,7 +119,8 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 **Lore Sources:** _Rifle Spear (Description), Flintlock (Description), Yamaketzal (Mentioned), Summer Company Guards (Good Rep Dialogue)_
 
--   Gunsmith Rosen is a man who sparked the innovation of Firearms, and the introduction to it in the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
+-   Gunsmith Rosen is a man who sparked the innovation of Firearms, and the their reintroduction to the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
+    -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 
@@ -123,16 +129,15 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   He is a Vesperian, according to Arch\_Mage
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
-    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
-    -   against contrary belief, Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms, " _Funny things y'learn when you discard everything in pursuit of your goals... Heh heh..."_ (a reference to the sacrifices he endured \[currently unknown\] while in or escaping the deep)  
+    -   (Arch\_Mage) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.  
         
 
 ### **Yun'shul**
 
 -   A being that is restrained within the [Temple of Hearts](Temple_of_Hearts.md). Yun'shul is known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   Yun'shul is a Drowned God; according to Arch\_Mage.
--   The "being" we find withing the temple of hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, Used by those who worship the deep (aswell as the resonant) to commune with Yun'Shul safely.
--   his title, Keeper of Hearts. Is a refference to his ability to manipulate and warp the passage ones soul outputs while resonating, this is why he is the only creature who may have governance over your resonance.
+-   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul himself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
+-   His title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why he is the only creature who may have governance over your resonance.
 
 File:Yun'Shul.png
 
@@ -357,6 +362,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   As of 1271, Summer Company has ties with The Authority. They contract the Company for Firearms in exchange fpr goods and the likings.
     -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company secrets are being stolen by Authority they are still in business with them.
         -   Explained by Arch\_Mage, Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
+        -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
 
@@ -405,7 +411,8 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives)_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Arch\_Mage (Discord)_
 
--   Also known as Whalers, The Knives of Eylis are a gang of assassins that work under Eylis; presumably the Boss. They are not to be confused with The Contractors.
+-   Also known as Whalers, The Knives of Eylis are a gang of assassins that work under Eylis; presumably the Boss.
+-   They live in the sewers of the Central Luminant.
 -   (Arch\_Mage) The Knives of Eylis are Mercenaries, hired by The Central Authority to cause havoc upon The Etrean Luminant.
     -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
@@ -417,7 +424,7 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Unknown_
 -   **Encountered In:** _Summer Isles, The Depths (Akira's rare event)_
 -   **Attunements:** _Flamecharm_
--   **Alliances:** _Unknown_
+-   **Alliances:** _The Central Authority (Business Relations)_
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Arch\_Mage (Discord)_
 
@@ -425,6 +432,7 @@ A Dark Mage, located in Minityrsa.
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, however their efforts have been less than successful.
 -   The Crypt blade's description, the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
+-   Much like their two main rivals, they are hired by The Authority, this time for mining work.
 
   
 
@@ -433,7 +441,7 @@ A Dark Mage, located in Minityrsa.
 -   **Territory:** _Fort Merit, Central Luminant, Markor_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
--   **Alliances:** _The Divers (Mixed), The Summer Company (Business relations?)_
+-   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_
 -   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundredth Legion__, Hive_
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
@@ -442,18 +450,19 @@ A Dark Mage, located in Minityrsa.
 -   The footsoldiers, specifically those that use Thundercall, wear a red coat over their armour. Those that use Flamecharm, ironically, lack the red coat.
 -   Consists mostly of Adrets, but can vary with other races too.
     -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part.
-    -   The footsoldiers that use Flamecharm are comprised of solely other races.
+    -   The footsoldiers that use Flamecharm are comprised solely of other races.
         -   These also appear to be the lower-ranking, more poorly equipped and more expendable part of their army.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
 -   They purchase firearms from The Summer Company.
     -   Despite this they have yet to lend military aid to them, despite this resulting in heavy ammunition loses
--   The Central Authority (as of we know now) use 3 attunements, and has their own role.
-    -   The Central Authority's Flamecharmers are used by foot soldiers and Wardens alike.
+-   The Central Authority (as of we know now) use three attunements, and has their own role.
+    -   The Central Authority's Flamecharmers are used by foot soldiers, guards and Wardens alike.
     -   The Central Authority's Thundercallers are foot soldiers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests.
     -   The Central Authority's Frostdrawers are commanding officers.
 -   One of their known conquered territories is the savannah of Markor, which is presumably the location of the Markor Citadel.
--   Their goal is essentially to control all of the Deepwoken world. Practicioners of Imperialism.
+-   Their goal is essentially to control all of the Deepwoken world. Practitioners of Imperialism.
+-   Racist.
 
 A Peacekeeper Commander, part of The Authority
 
@@ -596,7 +605,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 -   Inspired by East Asian cultures:
     -   White snakes play a part in Chinese mythology.
     -   Their architecture consists of gates, temples and lanterns often seen from Chinese and Japanese countries.
-    -   Snakes are known for having thin eyes, with some people describing people of East Asian decent the same way.
+    -   Snakes are known for having thin eyes, with some people describing people of East Asian dessent the same way.
 
 ### Celtor
 
@@ -609,11 +618,12 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 _"Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin."_
 
--   A recently (1400 years ago) arrived race of spiritually adept individuals that make up the bulk of the Authority. (note that all high ranking officers in the authority are adrets)
--   Their tattoos (markings on their face) represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
--   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once isolatary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
+-   A recently arrived race of spiritually adept individuals that make up the bulk of the Authority's High Command. They arrived roughly around 1400 years ago.
+-   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
+-   According to an NPC in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "old world". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
 -   According to **Shirafune**, the Adret race come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
--   Arch\_mage confirmed they are **NOT** fishes.
+-   Arch\_mage confirmed they are **NOT** fish.
+-   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, once shared a close bond with Canor, the dog race, and are the leaders of the most violently racist group in the game.
 
 ### Canor
 
@@ -623,7 +633,10 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   Once heavily employed as soldiers of the Authority
 -   Little is known about their origins...
 -   Seem to be German-like in terms of name and history:
-    -   They popularized the Zweihander, a real life German weapon, the Thundercaller trainer is a Canor named Funke (German for spark), the Canor mantra modifier collector in Etris is named Schnitzel and the one in Summer Isle is named Hotdog, both being German dishes and both seemingly not fluent in English, and Canor last names are mostly German/German inspired.
+    -   They popularized the Zweihander, a real life German weapon.
+    -   The Thundercaller trainer is a Canor named Funke, German for spark.
+    -   The Canor mantra modifier collector in Etris is named Schnitzel and the one in Summer Isle is named Hotdog, both being German dishes and both seemingly not fluent in English.
+    -   Canor last names are mostly German/German inspired.
 
 ### Gremor
 
@@ -842,14 +855,6 @@ Murmurs are whispers of the Song that allows the user to do a variety of special
     -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur and are apparently able to teach it to individuals with no abilities or connection to The Song at all.
-
-### Whispers of Adagio
-
--   An application of the Song that enables the user to emit a strange noise that slows time around them.
-    -   Unobtainable to players, only proof of it is the NPCs that use it.
-    -   Following a Roblox update that made games unable to use sounds that aren't saved to the associated group, the sound emitted by the user has not be reinstated.
--   Used by Knives of Eylis captains.  
-    
 
 ## Before the Tides (Old World)
 

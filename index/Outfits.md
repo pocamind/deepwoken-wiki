@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30631
+revid: 30672
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -207,8 +207,8 @@ File:Royal Guard's Kabuto.png
 _\+ Talent: Blinded_
 
  | Minityrsa Chests, Songseeker Chests | N/A |
-| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Orange & Red |
-| File:Rabel Bandana.png | Rebel's Bandana | Cosmetic | Navae Enemies | N/A |
+| File:Hairband.jpg | Headband (Series) | Cosmetic | Erisia Chests | Black, Orange, Red & Yellow |
+| File:Rabel Bandana.png | Rebel's Bandana | Cosmetic | Navae Enemies, Erisia Chests, Songseeker Chests & Minityrsa Chests | N/A |
 | File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests | N/A |
 |  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
@@ -216,7 +216,8 @@ _\+ Talent: Blinded_
 |  | Iron Mask | Cosmetic | Erisia Chests | N/A |
 | File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
 |  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |
-| File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy and Slate |
+|  | Investigator's Hat | Grants a random buff. | Aratel Island Chests | N/A |
+| File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy & Slate |
 
 **Ears:**
 
@@ -236,7 +237,7 @@ _\+ Talent: Blinded_
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent | N/A |
-| File:Golden Cape.png | Golden Cape | Grants a random buff. | Songseeker Chests | N/A |
+| File:Golden Cape.png | Cape (Series) | Grants a random buff. | Songseeker Chests | Black & Golden |
 | File:Static-assets-upload6078901116095484260.png | Shrouded Cape (Series) | Grants a random buff. | Fishing, Duke | Red, Black, Midnight & White |
 | File:Crimson Scarf.png | Scarf (Series) | Grants a random buff. | Hive Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.
@@ -252,6 +253,7 @@ _Requires Power 40_
 _Disappears on death or leaving the game._
 
  | Summer Isle | N/A |
+|  | Novice Brace | Grants a random buff. | Placeholder | N/A |
 |  | Ranger's Brace | Grants a random buff. | Erisia Chests | N/A |
 |  | Tracker's Brace | Grants a random buff. | Erisia Chests | N/A |
 | File:Vanguardbrace.png | Vanguard Brace | Grants a random buff. | Erisia Chests | N/A |
@@ -289,7 +291,7 @@ _Disappears on death or leaving the game._
 
 _Requires Power 40_
 
- | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable, Tawny (Work in progress) |
+ | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable & Tawny |
 | 
 
  | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green (Work in progress) |
@@ -312,8 +314,8 @@ _Requires Power 30_
 
 _Requires Power 40_
 
- | Nautilodaunt (Very Rare) | Crimson, Ash, Black (Work in Progress) |
-| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
+ | Nautilodaunt (Very Rare) | Ash, Black, Crimson (Work in Progress) |
+| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. (Power 40 requirement) | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre & White |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
@@ -324,7 +326,7 @@ _Requires Power 40_
 
 +X% Damage VS Beast _Requires Power 30_
 
- | Megalodaunts Drop | Red, Purple, Brown, Green, Blue, Peach (Work in progress) |
+ | Megalodaunts Drop | Red, Purple, Brown, Green, Blue & Peach |
 | File:Ministry Cloak.png | Ministry Cloak (Series) | Grants a random buff.
 
 _Requires Power 40_
@@ -349,7 +351,7 @@ _Requires Power 30_
 
 _Requires Power 40_
 
- | Songseeker Chests, Minityrsa Chests | Dark, Faded, Purple, Red, Rose & Stained (Work in progress) |
+ | Songseeker Chests, Minityrsa Chests | Dark, Faded, Purple, Red, Rose & Stained |
 |  | Royal Pathfinder | Grants a random buff.
 
 _Requires Power 30_
@@ -467,30 +469,32 @@ _Requires Power 10_
 
 **Boots:**
 
-| Image | Armor | Effects | Source |
-| --- | --- | --- | --- |
+| Image | Armor | Effects | Source | Variants |
+| --- | --- | --- | --- | --- |
+|  | Autumn Boots | Grants a random buff. | Erisia Chests | N/A |
+| File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants a random buff. | Depths Chests | N/A |
+| File:Black fur boots 1.png | Black Fur Boots | Grants a random buff. | Erisia Chests | N/A |
+|  | Bluesteel Boots | Grants a random buff. | Hive Chests | N/A |
+| File:Brilliant Boots.png | Brilliant Boots | Grants a random buff. | Songseeker Chests | N/A |
+|  | Enforcer Boots | Grants a random buff. | Depths Chests | N/A |
+| File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests | N/A |
+| File:White fur boots.png | White Fur Boots | Grants a random buff. | Erisia Chests, Hive Chest | N/A |
 | File:Leather boots.png | Leather Boots | Grants a random buff.
 _\+ 2 Health_
 
- | Erisia Chests, Primadon Chests |
-| File:White fur boots.png | White Fur Boots | Grants a random buff. | Erisia Chests, Hive Chest |
-| File:Black fur boots 1.png | Black Fur Boots | Grants a random buff. | Erisia Chests |
-|  | Autumn Boots | Grants a random buff. | Erisia Chests |
-| File:Khanboots.png | Khan Boots | Grants a random buff. | Erisia Chests, Hive Chests |
-| File:Imperial Boots.png | Imperial Boots | Grants a random buff. | Hive Chests |
+ | Erisia Chests, Primadon Chests | N/A |
+|  | Novice Boots | Grants a random buff. | Scope's Quest on Summer Isle | N/A |
+| File:Imperial Boots.png | Imperial Boots | Grants a random buff. | Hive Chests | N/A |
+| File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants a random buff. | Depths Chests | N/A |
+| File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests | N/A |
+|  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests, Fort Merit Chests | N/A |
+| File:Khanboots.png | Khan Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Star Boots | Grants a random buff.
 
 _Requires Power 30_
 
- | Primadon Chests, Depths Chests |
-| File:Brilliant Boots.png | Brilliant Boots | Grants a random buff. | Songseeker Chests |
-| File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants a random buff. | Depths Chests |
-| File:Static-assets-upload12369006146430102616.png | Iron Boots | Grants a random buff. | Depths Chests |
-|  | Bluesteel Boots | Grants a random buff. | Hive Chests |
-|  | Enforcer Boots | Grants a random buff. | Depths Chests |
-| File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests |
-| File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests |
-|  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests, Fort Merit Chests |
+ | Primadon Chests, Depths Chests | N/A |
+|  | Vanguard Boots | Grants a random buff. | Hive Chests | N/A |
 
   
 

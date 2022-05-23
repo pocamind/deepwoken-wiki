@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 29139
+revid: 30679
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -22,6 +22,13 @@ Bandits can appear in [Random Encounters](Random_Encounters.md) and in locations
 -   [Isle of Vigils](Isle_of_Vigils.md)
 -   [Etris](Etris.md)
 -   [Summer Isle](Summer_Isle.md)
+
+## Moves
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them |  |  |  |
+| Critical |  |  |  |  |
 
 ## Enemy Information
 

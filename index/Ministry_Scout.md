@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 30594
+revid: 30678
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,7 +18,7 @@ Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) 
 
 -   Vagabond's Bicorn
 -   Blindfold or Crimson Blindfold
--   Prophet's Cloak
+-   Prophet's Cloak (Outfit)
 
 ## Moveset
 
@@ -26,7 +26,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Swiftly swings dagger at opponent and continuing to combo them until knocked. | ◯ | ◯ |  |
+| Assault | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
 | Void Lance | Caster touches the ground and opens a gate allowing a void tentacle to attack at aimed opponent. | ◯ | ◯ | (★☆☆) |

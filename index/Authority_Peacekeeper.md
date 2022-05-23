@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 30253
+revid: 30675
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,7 +23,7 @@ Their arsenal is composed of a [Rifle Spear](Weapons.md) and the [Flamecharm](Fl
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts spear at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
+| Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Pulls the trigger on the spear and fires a bullet at opponent. | ◯ | ◯ | (★★☆) |
 | Fire Blade | Slicing blades of flame. | ◯ | ◯ | (★★☆) |
 
