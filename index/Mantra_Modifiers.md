@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30611
+revid: 30633
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -264,6 +264,8 @@ Blast Spark
  | Blast Spark | 
 
 -   Frost Grab
+
+-   Wind Gun
 
 -   Ice Forge
 

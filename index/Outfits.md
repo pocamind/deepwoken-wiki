@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30627
+revid: 30631
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -175,7 +175,7 @@ _\+ 2 Posture_
 _Requires Fortitude 15_
 
  | Hive Chests | N/A |
-|  | Goldleaf Helm | Grants a random buff. | (Work in Progress) | N/A |
+|  | Goldleaf Helm | Grants a random buff. | Duke Chests, Golden Warrior Erisia Event | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests | N/A |
 | 
 
