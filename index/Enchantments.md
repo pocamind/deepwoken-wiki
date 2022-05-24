@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 30132
+revid: 30718
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -182,7 +182,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Vampirism.png<figcaption></figcaption></figure><div>Vampirism</div></td>
-  <td><div><p>Heal for 15% of damage dealt.</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt. Heals blood bar</p></div></td>
 </tr>
 </tbody>
 </table>
