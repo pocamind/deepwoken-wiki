@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 29506
+revid: 30738
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -62,8 +62,8 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 -   Deals moderate damage.
 -   Burns target(s).
--   Identical to Frostdraw's [Frozen Servants](https://deepwoken.fandom.com/wiki/Frostdraw#Combat_Mantras).
--   Improved by [Cloudstone](Mantra_Modifiers.md#regular-modifiers)[\[1\]](https://deepwoken.fandom.com/wiki/Cloudstone)
+-   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras), as both do the same thing and can be modified with a Reversal Spark to achieve the same effect.
+-   Improved by [Cloudstone](Mantra_Modifiers.md#regular-modifiers)
 
  |
 |  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
@@ -74,13 +74,14 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Can destroy certain wooden parts.
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
--   Adding round spark makes shot 4 chaotic bullets, but ether cost is a lot less.
+-   Adding a Round Spark makes it fire 4 bullets in a chaotic pattern.
 
  |
 |  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
 
 -   Inflicts light damage.
 -   Burns target(s).
+-   The Flamecharm counterpart to Frostdraw's Frost Grab.
 -   Can **NOT** be improved by Drift/Rush Shards or Crystal/Perfect Lens. (May have been changed, might require testing)
 
  |
@@ -90,12 +91,12 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Deal heavy posture damage
 
  |
-|  | Flame Blind | Snap your fingers shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
+|  | Flame Blind | Snap your fingers, shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
 -   Improved by [Magnet Spark](Mantra_Modifiers.md#magnet-spark).
--   This is considered a rare mantra (unaffected by [luck](Luck.md))[\[2\]](https://deepwoken.fandom.com/wiki/Luck)
+-   This is considered a rare mantra (unaffected by [luck](Luck.md))[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |
@@ -104,7 +105,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Cone hitbox.
 -   Deals moderate damage.
 -   Burns target(s).
--   Can be improved with Cloud/Stratus stones.
+-   Can be improved with Cloud/Stratus Stones.
 
  |
 |  | Fire Eruption (★) | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
@@ -128,17 +129,17 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 |  | Rising Flame (★★) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
 
 -   Deals moderate to high damage.
--   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact, dealing immense damage._
--   Initial slashes are blockable.
+-   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact_, dealing immense damage.
+-   Initial slashes are blockable, and final hit is parryable.
 
  |
-|  | Flame Assault (★★) | Burst forward in flames. | User dashes forward attacking anything in their path.
+|  | Flame Assault (★★) | Burst forward in flames. | User dashes forward and surrounds themself in flame, attacking anything in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
 -   Can be upgraded with Drift/Rush Shards and Crystal/Perfect Lens.
--   Great movement when upgraded despite being a combat mantra
--   Good for chasing/escaping
+-   Great movement when upgraded despite being a combat mantra.
+-   Good for chasing/escaping.
 -   Moves in a straight horizontal line (Even midair)
 
  |

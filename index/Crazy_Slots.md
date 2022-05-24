@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 30708
+revid: 30734
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -13,9 +13,9 @@ categories: [Resonance]
 | effect | Pulls out a random weapon with a special ability. |
 | appearance | Summons a weapon from thin air into the user's hand. |
 
-“ Conjure an arsenal of weapons. ”
+“ I love gambling for the perfect weapon cast! ”
 
-― Crazy Slots description
+― 100 Medium Adret who got a greatsword as his crazy slots
 
   
 
@@ -28,7 +28,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-Once used, the user extends their right arm, summoning a weapon from thin air.
+Once used, the user extends their right arm (and left arm if Divine Flintlock), summoning a weapon from thin air.
 
 ## Usage
 

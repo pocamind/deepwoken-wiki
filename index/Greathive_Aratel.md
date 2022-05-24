@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 30721
+revid: 30737
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -52,7 +52,8 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 #### Cargo
 
--   The carbo room is currently vacant.
+-   A long corridor of empty rooms.
+-   At the end is a door that can be broken that leads to outside the Greathive.
 
 #### Archive
 

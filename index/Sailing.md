@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 27216
+revid: 30724
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -42,7 +42,7 @@ Detailed info of individual boats [here](Ships_&_Sailing.md).
 
 ### Dinghy
 
-Usually the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest.
+Usually the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest. Fits 1.
 
 ### Sloop
 
@@ -50,19 +50,19 @@ Cheapest boat not including the Dingy. Size suitable for groups of 2-3.
 
 ### Schooner
 
-Mid game boat with cannons. A good boat for casual outings despite the weird sail design(not worth)
+Mid game boat with cannons. A good boat for casual outings despite the weird sail design(not worth it). Suitable for groups of 2-4.
 
 ### Merchant Schooner
 
-The better version of the Schooner. Although (possibly) having the same speed as the Schooner, the addition of more underside space and a lantern makes up for it.
+The better version of the Schooner. Although (possibly) having the same speed as the Schooner, the addition of more underside space and a lantern makes up for it. For groups of 3-5)
 
 ### Frigate
 
-Another mid game boat with way more space. Best for sizes 4-5.
+Another mid game boat with way more space. Best for sizes 4-6)
 
 ### Ironclad
 
-Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too much notes to spend)
+Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too much notes to spend) Enough for an entire guild.
 
 ## Notes/Trivia
 
