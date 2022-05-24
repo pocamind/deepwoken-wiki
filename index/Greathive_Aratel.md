@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 30720
+revid: 30721
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -50,6 +50,10 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 ### Root Plaza
 
+#### Cargo
+
+-   The carbo room is currently vacant.
+
 #### Archive
 
 -   Physical Mantra Trainer
@@ -63,6 +67,7 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 #### R&D
 
 -   There is a hidden laboratory behind a breakable bookshelf, it serves no purpose as of 05/23/2022.
+-   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "A memory of tides" by naktigonis.
 
 ### Canopy Plaza
 
@@ -116,7 +121,6 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).
 -   Artifacts are able to spawn at hive, however there are no known location of a Banker in the hive itself.
--   In the secret lab in R&D, the OST of "A Memory of Tides" By Naktigonis is played.
 -   **Contrary to popular belief, the hive is NOT sinking. (This was confirmed by Arch.)**
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen with drinkable liquid.
 -   You can bring a friend over to Greathive Aratel without them needing to have the gate open. To do this, flourish a humanoid into the gate or go around and above the gate, carry them and get teleported. This works for the 3 teleporters inside too.

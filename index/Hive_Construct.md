@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 29064
+revid: 30722
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -80,3 +80,5 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 -   Hive Constructs can drop Pomars upon death.
     
     A hive golem talking.
+    
+-   Animations are currently very weird and fucky, so it messes with parry timing if fought directly.
