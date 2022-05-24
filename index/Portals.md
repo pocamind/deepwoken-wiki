@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 29607
+revid: 30711
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -33,22 +33,13 @@ Pressing C will activate the **Portal** Resonance.
 
 **Portal** grants the user invisibility, increased walk and swim speed and invincibility for 5.5 seconds until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
 
-### _Variants_
+### _Resonance Point usage_
 
-Portal has two versions, along with unique Tarnished and Corrupted variants.
+When obtained, Portals will spend its points on the following stats:
 
-#### **_Versions_**
-
--   **Version 1** is the regular version with no difference
--   **Version 2** provide the user with an offensive version of the resonance on top of the regular version, which can be activated by double tapping C (wait for the portal to open before pressing C again). Doing so make the user dive in the ground via a portal, making them invisible and intangible. Cancelling/ending the ability make the user perform an upward rising kick, which send the target upward, along the user. Can true combo with an M1 or mantras that cast quickly.
-
-#### _**Tarnished**_
-
-If the owner of this Resonance is Tarnished, there will be a 1 second wind up before the ability triggers. Can be interrupted via damage.
-
-#### _**Corrupted**_
-
-If Portal is found to be corrupted, the duration of the ability is 8-10 Seconds.
+-   **Dive:** If this stat is used, this resonance gains an alternative use: Press C again right before going into the portal to dive. When the duration ends or after pressing C again, kick out of the portal, dealing damage and sending the user and target into the air. The user can true combo with fast attacks.
+-   **Duration:** The more poinst are spent on this stat, the longer the user can stay in the portal.
+-   **Speed:** The more poinst are spent on this stat, the faster the user move while inside the portal.
 
 ## Trivia/Notes
 

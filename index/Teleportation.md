@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 29800
+revid: 30707
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -25,7 +25,7 @@ categories: [Resonance]
 
 ### _Appearance_
 
-Once used, a gold ring expands on the ground around the user. Over time, particles will start to rise from the field indicating teleport. It should also be noted that the more players/entities within the circle, the longer it will take to teleport.
+Once used, a gold ring expands on the ground around the user. Over time, particles will start to rise from the field indicating teleport.
 
 Shortly after particles start appearing, all players inside **Teleportation's** radius teleport to the set waypoint, appearing similar to teleportation used at [Greathive Aratel](Greathive_Aratel.md).
 
@@ -33,32 +33,19 @@ Shortly after particles start appearing, all players inside **Teleportation's** 
 
 Pressing "C" will activate the **Teleportation** Resonance.
 
-**Teleportation** will set a waypoint and transport the user and players to that waypoint when used.
+Using the resonance first places a marker. This marker is only visible to the user, is visible throught walls and at any distance. It will remain here until used, including when changing servers.
 
-**Teleportation** has two variants along with a regular and corrupted version.
+Using the resonance while aiming at a marker starts the teleportation sequence, creating a ring around the user. After charging up (charge speed depends on distance (further = longer to charge) and Resonance Points), everyone inside the ring is transported to the location of the mark.
 
-**Corrupted Version** will apply the followings:
+### _**Resonance Point usage**_
 
--   The ring will be slightly larger
--   The ring will charge up twice as fast
--   The teleportation speed is doubled
--   Give an additional marker slot
+When obtained, Teleportation will spend its points on the following stats:
 
-### _**Variants**_
-
-**Variant 1** will work as the usual
-
-**Variant 2** will allow the user to place markers on humanoid entities (Players & humanoid NPCs)
-
-**Regular version** POV: [https://cdn.discordapp.com/attachments/785042190048165908/958511961388236820/Regular\_Version.mp4](https://cdn.discordapp.com/attachments/785042190048165908/958511961388236820/Regular_Version.mp4)
-
-**Corrupted version** POV: [https://cdn.discordapp.com/attachments/785042190048165908/958511996561657876/Corrupted\_Version.mp4](https://cdn.discordapp.com/attachments/785042190048165908/958511996561657876/Corrupted_Version.mp4)
-
-#### _Teleportation_
-
--   At first use, **Teleportation** will set a position or marker at the cursor's location, this position is indicated with a gray translucent circle.
-    -   If a marker is set on a player, the marker will expire once said player disconnects. (thats cap if the join back the marker will still be on them).
--   If the position or marker is set, **Teleportation** will form a golden ring below the user's feet. The start-up scales with how far the portal is from the marker. This ring persists even if the user leaves the ring, and teleports all players inside the ring once finished.
+-   **Max amount of markers:** The more points are spent on this stat, the more markers can be placed at once.
+-   **Mark on players:** If this stat is used, marks can be placed on players. The mark follow them around and persist throught servers.
+-   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
+-   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
+-   **Ring Size:** The more points are spent on this stat, the larger the ring gets.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 29387
+revid: 30708
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -36,13 +36,12 @@ Pressing C will activate the **Crazy Slots** Resonance and its unique special sk
 
 **Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and curses being transferred onto the summoned weapon. Each weapon scales with its respective stat, and has a unique skill that can be used by re-activating the ability.
 
-### _Variants_
+### _Resonance Point usage_
 
-**Crazy Slots** does not have variants, however, each weapon can have a different weight when the resonance is unlocked. This mean that you could, for example, summon the Divine Axe more often than the other weapons or summon the Divine Longsword less often.
+When obtained, Crazy Slots will spend its points on the following stats:
 
-#### _Corrupted_
-
-**Crazy Slots** cannot be corrupted.
+-   **Weapon roll weight:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance.
+    -   When spending its points, Crazy Slots will favor spending them toward weapons in which you have the highest weapon attribute stat.
 
 #### _Tarnished_
 

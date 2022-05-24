@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 30658
+revid: 30706
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -177,6 +177,10 @@ This is not without a cost, however. Rerolling your Resonance inflicts you with 
 Every time you use a wish, Yun'Shul goes on "cooldown", and will require you to progress 10 levels before making another wish. You can reroll an unlimited times, aslong as you have enough levels left to level up 10 times once more. It's generally recommended to get your resonance at 40 for two rerolls, or 50 for one reroll.
 
 File:Arch says Wishes have cooldowns.png
+
+## Resonances Points
+
+Certain resonances have a set of "points" given when they are obtained. The points are randomly spent and dictate certain parts of the resonance, such as their variant and damage for example. Each resonances uses these points differently. Corrupted Resonances have more points to spend.
 
 ## Unobtainable Resonances
 

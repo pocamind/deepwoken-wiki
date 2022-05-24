@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 29362
+revid: 30694
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -51,6 +51,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 -   **Rally** - Strike your shield a few times to absorb some of the posture received by your allies.
     -   Requirements: Fortitude + Any Shield, _Fortitude Support Mantra_
+        -   This weapon actually prevents you from becoming posture broken at all, including moves that can be parried by the Hunter's Brace, such as the [Sharko](Megalodaunt.md)/[Primadon](Primadon,_Titan_of_the_East.md) kick and the [Thresher](Thresher.md) burrowing attack, as well as reducing incoming posture damage if used on yourself only. (Tested by ArialWasTaken, free sharko grips for freshies tbh)
 
 -   **Reinforce** - Buff those around you with extra defense.
     -   Reduces incoming damage and ~completely negate armor damage~ I tested this, and my armor did still take damage.
