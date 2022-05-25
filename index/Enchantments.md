@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 30718
+revid: 30787
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -42,7 +42,7 @@ There are two variants that enchantments come in:
 
 Since release, only weapons can have Cursed Enchantments. Equipment and Weapons can get Regular and Cursed Enchantments.
 
-The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md) is a good way to increase your chances of finding one.
+The actual chance of getting an enchant are unknown, however, any chest from any place can have enchanted items, it is unknown if certain locations have higher odds of giving enchants. However, going for places with chest that give a lot of items, like doing [Primadon](Primadon,_Titan_of_the_East.md), [Duke](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) or the [Rogue Construct](Hive_Construct.md) at [Minityrsa](Minityrsa.md), along with Starswept Valley Events (as of the buffed chests) is a good way to increase your chances of finding one.
 
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
 
@@ -359,6 +359,8 @@ Auto-Repair
 
  | 
 
-User passively regain armor durability at all time.
+An enchantment that Arch\_Mage forgot to remove in the initial week of Deepwoken's release, and has since become unobtainable. Arch has confirmed there was no data associated with this. As such, we don't know the true function of this enchant.
+
+-   It is speculated that it passively repaired your armor durability over time, though.
 
  |

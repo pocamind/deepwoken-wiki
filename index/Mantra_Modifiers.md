@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30654
+revid: 30776
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -384,28 +384,48 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" Mantra.
 
  |
-| Ice Forge |  | File:Ice Forge with Blast Spark.gif | 
+| Ice Forge
+
+(★)
+
+ |  | File:Ice Forge with Blast Spark.gif | 
 
 -   (Work in Progress)
 
  |
-| Lightning Clones |  | File:Lightning Clones with Blast Spark.gif | 
+| Lightning Clones
+
+(★)
+
+ |  | File:Lightning Clones with Blast Spark.gif | 
 
 -   This modifier causes the clones in the "Lightning Clones" Mantra to explode on death.
 
  |
-| Lightning Stream |  | File:Lightning Stream with Blast Spark.gif | 
+| Lightning Stream
+
+(★)
+
+ |  | File:Lightning Stream with Blast Spark.gif | 
 
 -   This modifier causes the "Lightning Stream" mantra to shock it's opponent instead of pulling them.
 
  |
-| Wind Gun |  | File:Wind Gun with Blast Spark.gif | 
+| Wind Gun
+
+(★★)
+
+ |  | File:Wind Gun with Blast Spark.gif | 
 
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing 3 rounds of short-ranged wind bullets.
     -   Do note that this Spark will override the effects of a Multiplying Spark.
 
  |
-| Shade Devour |  | File:Shade Devour with Blast Spark.gif | 
+| Shade Devour
+
+(★)
+
+ |  | File:Shade Devour with Blast Spark.gif | 
 
 -   This modifier cause the "Shade Devour" mantra to perform a shockwave.
     -   Can be paired with Multiplying Spark.
@@ -427,12 +447,20 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier makes the "Flame Blind" Mantra follow and flash towards the opponent.
 
  |
-| Ice Chain | File:Icechain.gif | File:Ice Chain with Magnet Spark.gif | 
+| Ice Chain
+
+(★)
+
+ | File:Icechain.gif | File:Ice Chain with Magnet Spark.gif | 
 
 -   This modifier seems to have no effect on the "Ice Chain" mantra.
 
  |
-| Ice Forge |  | File:Ice Forge with Magnet Spark.gif | 
+| Ice Forge
+
+(★)
+
+ |  | File:Ice Forge with Magnet Spark.gif | 
 
 -   (Work in Progress)
 
@@ -447,12 +475,20 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Lightning Stream |  | File:Lightning Stream with Magnet Spark.gif | 
+| Lightning Stream
+
+(★)
+
+ |  | File:Lightning Stream with Magnet Spark.gif | 
 
 -   (Work in Progress)
 
  |
-| Spark Swap |  | File:Spark Swap with Magnet Spark.gif | 
+| Spark Swap
+
+(★★★)
+
+ |  | File:Spark Swap with Magnet Spark.gif | 
 
 -   This modifier seems to have no effect on the "Spark Swap" mantra.
 
@@ -470,17 +506,29 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Wind Gun |  | File:Wind Gun with Multiplying Spark.gif | 
+| Wind Gun
+(★★)
+
+ |  | File:Wind Gun with Multiplying Spark.gif | 
+
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range wind bullets instead of 1 long-range bullet.
 
  |
-| Shade Bringer |  |  | 
+| Shade Bringer
+
+(★★★)
+
+ |  |  | 
 
 -   This modifier adds 2 more cuts onto "Shade Bringer".
     -   Can be paired with Spring Spark.
 
  |
-| Shade Devour |  | File:Shade Devour with Multiplying Spark.gif | 
+| Shade Devour
+
+(★)
+
+ |  | File:Shade Devour with Multiplying Spark.gif | 
 
 -   This modifier makes "Shade Devour" perform 3 shockwaves instead of 1.
     -   Can be paired with Blast Spark.
@@ -493,12 +541,25 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Flame Leap |  | File:Flame Leap with Reversal Spark.gif | 
+| Burning Servants |  | File:Burning Servants with Reversal Spark.gif | 
+-   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards.
+
+ |
+| Flame Leap
+
+(★★)
+
+ |  | File:Flame Leap with Reversal Spark.gif | 
+
 -   This modifier reverses the "Flame Leap" Mantra causing the caster to slam the ground, throwing those around them into the air.
     -   Beware, this has a very buggy hitbox.
 
  |
-| Lightning Impact |  | File:Lightning Impact with Reversal Spark.gif | 
+| Lightning Impact
+
+(★★)
+
+ |  | File:Lightning Impact with Reversal Spark.gif | 
 
 -   This modifier seems to have no effect on the "Lightning Impact" mantra.
 
@@ -508,17 +569,30 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier reverses the "Air Force" Mantra to pull targets in, instead of blasting them away.
 
  |
-| Gale Punch |  | File:Gale Punch with Reversal Spark.gif | 
+| Gale Punch
+
+(★)
+
+ |  | File:Gale Punch with Reversal Spark.gif | 
 
 -   (Work in Progress)
 
  |
-| Tornado |  | File:Tornado with Reversal Spark.gif | 
+| Tornado
+
+(★)
+
+ |  | File:Tornado with Reversal Spark.gif | 
 
 -   This modifier seems to have no effect on the "Tornado" mantra.
+-   This modifier is still in the game as a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
 
  |
-| Shadow Chains |  | File:Shadow Chains with Reversal Spark.gif | 
+| Shadow Chains
+
+(★☆☆)
+
+ |  | File:Shadow Chains with Reversal Spark.gif | 
 
 -   (Work in Progress)
 
@@ -544,7 +618,11 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier causes the bullets of the "Fire Gun" mantra to split into two.
 
  |
-| Ice Eruption |  | File:Ice Eruption with Round Spark.gif | 
+| Ice Eruption
+
+(★)
+
+ |  | File:Ice Eruption with Round Spark.gif | 
 
 -   This modifier converts the "Ice Eruption" Mantra's hitbox into a circle that surrounds the user.
     -   Similar to that of the Frostdrawer Monk's Ice Eruption.
@@ -567,7 +645,11 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier causes the "Crystal Knee" mantra to perform a spin kick after the initial backflip kick that sends the opponent flying.
 
  |
-| Shade Bringer |  | File:Shade Bringer with Spring Spark.gif | 
+| Shade Bringer
+
+(★★★)
+
+ |  | File:Shade Bringer with Spring Spark.gif | 
 
 -   This modifier makes "Shade Bringer" perform a jump before slamming the blade down.
     -   Can be paired with Multiplying Spark.
@@ -584,12 +666,20 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier seems to have no effect on the "Fire Blade" mantra.
 
  |
-| Champion Twister |  | File:Champion Twister with Tornado Spark.gif | 
+| Champion Twister
+
+(★★)
+
+ |  | File:Champion Twister with Tornado Spark.gif | 
 
 -   (Work in Progress)
 
  |
-| Storm Blades |  | File:Storm Blades with Tornado Spark.gif | 
+| Storm Blades
+
+(★)
+
+ |  | File:Storm Blades with Tornado Spark.gif | 
 
 -   This modifier makes "Storm Blades" summon a ring of lightning that stuns and damages anyone touching it.
     -   Adding some Logstones might increase it's duration.

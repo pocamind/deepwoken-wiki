@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 30760
+revid: 30775
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -100,7 +100,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |
-|  | Fire Palm(★) | A blast of flame. | Caster releases an eruption of fire in front of them.
+|  | Fire Palm (★) | A blast of flame. | Caster releases an eruption of fire in front of them.
 
 -   Cone hitbox.
 -   Deals moderate damage.

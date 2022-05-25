@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 19976
+revid: 30783
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,6 +21,7 @@ Placeholder
 ## Potential Enemies
 
 -   [Deep Widow](Deep_Widow.md)
+-   (Bandits can occasionaly spawn)
 
 ## Missions
 

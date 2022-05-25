@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30672
+revid: 30785
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -116,6 +116,8 @@ _\+ Talent: Pitcher_
  | Hive Chests | N/A |
 | File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants a random buff. | Depths Chests | N/A |
 | File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre, White (Work in progress) |
+|  | Investigator's Hat | Grants a random buff. | Aratel Island Chests | N/A |
+| File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests | N/A |
 |  | Vagabond's Bicorn | Grants a random buff. | Artifacts, Primadon Chests, Depths Chests, Duke Chests | N/A |
 | File:Black Hood.png | Black Hood | Grants a random buff.
@@ -155,6 +157,11 @@ _Requires Fortitude 10_
 _Requires Fortitude 20_
 
  | Hive Chests, Arena Chests, Depths Chests | N/A |
+| 
+
+File:Khan Helmet.png
+
+ | Khan Helmet | Grants a random buff. | Aratel Island Chests. (Work in Progress) | N/A |
 | 
 
  | Blacksteel Helm | Grants a random buff.
@@ -216,8 +223,6 @@ _\+ Talent: Blinded_
 |  | Iron Mask | Cosmetic | Erisia Chests | N/A |
 | File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
 |  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |
-|  | Investigator's Hat | Grants a random buff. | Aratel Island Chests | N/A |
-| File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy & Slate |
 
 **Ears:**
 
