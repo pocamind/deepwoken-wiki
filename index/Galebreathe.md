@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30560
+revid: 30758
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]

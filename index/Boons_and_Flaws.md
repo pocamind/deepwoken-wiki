@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 30735
+revid: 30747
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -66,7 +66,6 @@ Count as 2 flaws, cannot be taken with another flaw.
 
 -   Entering Castle Light
 -   Partaking in The Vow of Mastery, which means removing your vows and/or your vow owner.
--   Could prevent you from obtaining a bell. People who already have a bell when they obtain the flaw keep it
 
 This flaw is obtained if you seek to make a deal with Arch\_Mage, a developer for Deepwoken. His spec allows you to make a deal with him for your soul. This can also be gained by rerolling your flaw at [Yun'Shul.](<Yun'Shul,_Keeper_of_Hearts.md>)
 
@@ -78,7 +77,7 @@ The flaw is only obtainable by wishing through a developer, which it will grant 
 
  | N/A |
 
-## Trivia/Notes
+## Trivia
 
 -   While _Deepwoken_ is largely PvE, many players who use _Marauder_ will usually be more hostile towards anyone to gain higher luck from gripping. Be extremely cautious of [Lower Erisia](Lower_Erisia.md).
 -   Some flaws are more worth taking than others:

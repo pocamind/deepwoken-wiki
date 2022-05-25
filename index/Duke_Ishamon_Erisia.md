@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 30590
+revid: 30752
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -32,7 +32,7 @@ able?
  | ◯ | (★★☆) |
 | **Strong Left** | The Duke suddenly appears in front of the person he's aggroed onto before hitting them with a strong left. After using this move, he will utilize his **Legion Kata Fist Combat**. | ◯ | (★☆☆) |
 | **Wind Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's aggroed on. | ◯ | (★★☆) |
-| **Counter** | The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflect back to the attacker- dealing significant damage. He laughs afterward when something strikes his counter. | ✗ | (★☆☆) |
+| **Counter** | The Duke quickly shields himself in a glowing wind shield. Any attacks against the shield during this time reflect back to the attacker- dealing significant damage. He laughs afterward when something strikes his counter. | ✗ | (★★☆) |
 | **Wind Stomp** | The Duke kicks the ground, shooting a wave of wind up from the ground towards his target. **This move will insta-grip if it hits you while knocked or at low health.** | ✗ | (★★★) |
 | **Wind Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down. Covers a large AoE. | ◯ | (★★★) |
 | **Fist Combat: Legion Kata** | The Duke wields Iron Cestus and will fight using Martial Arts of the Legion. | ◯ | (★☆☆) |

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 30739
+revid: 30745
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -22,7 +22,7 @@ Random encounters are randomly spawning events that occur throughout target area
 
 **The End**
 
-A very rare event, newly added in the 5/22/2022 update. The Central Authority launches a full out raid on the capital of Etrea. The mobs found in the event range from regular scouts found in Erisia to the Wardens themselves. Most of Etris will be set on fire during this raid, signalling the start. Wave after wave of Authority soldiers crash down into Etrea, eventually defeating the Etrean Guards if left alone. Polis, the guy who gives you the ring when talked to, gets up and fights with his Darksteel Greatsword. He fights on the side of The Authority. The Etreans are reinforced by their navy but the lack of mantras results in them being overwhelmed. If the Authority raid were to be defeated, a chest will spawn next to the big white tree where Polis resides. The loot is somewhat mediocre.
+A very rare event, newly added in the 5/22/2022 update. The Central Authority's military launches a full out raid on the capital of Etrea, burning the port and town as the navy signals the guards. The mobs found in the event range from regular scouts found in Erisia to the Wardens themselves. Most of Etris will be set on fire during this raid, signalling the start. Wave after wave of Authority soldiers crash down into Etrea, eventually defeating the Etrean Guards if left alone. Polis, the guy who gives you the ring when talked to, gets up and fights with his Darksteel Greatsword, fighting to defend the town he lived in for so long. The Etreans are reinforced by their navy but their lack of mantras results in them being overwhelmed. If the Authority raid were to be defeated, a chest will spawn next to the big white tree where Polis resides. The loot is somewhat mediocre. (for now)
 
 #### **Bandit Camp**
 
