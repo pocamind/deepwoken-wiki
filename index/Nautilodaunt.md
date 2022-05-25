@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 29355
+revid: 30765
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -27,8 +27,8 @@ It can be found digging in the marketplace area near the gate, but will run towa
 | --- | --- | --- | --- |
 | **Punch** | Squibbo punches the opponent consecutively. | ◯ | (★☆☆) |
 | **Kick** | Squibbo's punches randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, he may slide towards you and kick again. | ◯ | (★★☆) |
-| **Flip- Kick[Blunt](https://deepwoken.fandom.com/wiki/File:Blunt.png)** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
-| **Drop-Kick[Blunt](https://deepwoken.fandom.com/wiki/File:Blunt.png)** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
+| **Flip- Kick** | Squibbo flips forwards into the air, then kicks you from above, after the opponent flourishes him. | ◯ | (★★★) |
+| **Drop-Kick** | Squibbo runs aggressively at the opponent, jumps, then kicks you with great force down into the ground. This version of the kick is very difficult to parry, and might be safer to roll out of. | ◯ | (★★★) |
 | **Grand Stomp** | Squibbo pounds the ground aggressively with his feet, sending rubble hurling towards you. Creates a shockwave through walls and buildings, with great range. Usually uses it as a combat starter, or a chase towards the opponent. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Squibbo can also **feint** his attacks, forcing the opponent to roll or block. | N/A | (★★☆) |
 | **Vent** | Squibbo may also Vent your spells, which emits blue, smoke-like particles. This used to be something old Deepwoken players could do, but it got removed before release. After Venting, he usually follows up with a kick. | N/A | (★☆☆) |

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 29538
+revid: 30767
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
@@ -141,6 +141,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Tanto](Tanto.md) (rare)
 -   [Forgotten Gladius](Forgotten_Gladius.md) (rare)
 -   Iron Cestus (common)
+-   Iron Birch (Rare)
 
 ### Miscellaneous
 
