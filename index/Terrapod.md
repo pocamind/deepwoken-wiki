@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 29374
+revid: 30771
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Monster]
@@ -12,24 +12,24 @@ categories: [Monsters, Monster]
 
 ― Angry Terrapod before leaping into the Etrean sea and falling into the Depths below
 
-Template:Creature Infobox V3 _Also known as turtles, annoying scissor thing or table_
+Template:Creature Infobox V3 **Also known as Turtles, Annoying Scissor Things or Headcrabs.**
 
 The Terrapod is a monster notorious for shredding health quickly and having very high mobility.
 
-## Description
+## **Description**
 
 Terrapods are purple crab-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of it's attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes.
 
   
 
-## Moves
+## **Moves**
 
 -   **Relentless Strikes** - The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim.
 -   **Triple Slash** - The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter.
 -   **Quick Slice** - The Terrapod does a singular slice at its opponent and retreats to recover.  
     
 
-## Tips and Notes
+## **Tips and Notes**
 
 -   Despite their speed, Terrapods are fairly easy to kill. (Stat Check Level: 30)
 -   It's recommended to dodge or just move out of a Terrapod's way instead of parrying due to the confusing parry window and the carelessness of its attacks (they don't auto-track).

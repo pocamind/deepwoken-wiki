@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 29611
+revid: 30769
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -35,18 +35,19 @@ On output, the user fires a large, bright beam, similar to Lightning Beam in fro
 
 Pressing C will activate the **Jar of Souls** Resonance. Has about 30 second cd (for version 2 at least)
 
-**Jar of Souls** fires a large white beam in front of the user, dealing damage to those hit by it.
+Passively, **Jar of Souls** store the souls of dead humanoids nearby.
 
-### _Variants_
+Activating the resonance fires a white beam that deal damage.
 
--   **Version 1** releases a continuous beam that rapidly deals damage.
--   **Version 2** releases a single beam that deals heavy damage.
+### _Resonance Point usage_
 
-#### _Jar of Souls_
+When obtained, Jar of Soul will spend its points on the following stats:
 
--   With **Jar of Souls**, the user collects souls from recently killed humanoids, players or NPC, to amplify the strength of their beam.
--   On activation, **Jar of Souls** will use stored souls to release an intense beam of souls that damage and stun targets. With max souls, this beam can deal about 300 damage.
--   With **Jar of Souls, Version 1,** the continuous beam may be halted by letting go of C, however since **Version 1** drains so fast, it is not recommended to halt as you continue to lose souls starting up and halting the beam.
+-   **Beam type:** Decides the type of beam that will be used.
+    -   The "sniper" beam is a singular beam that use all stored souls at once to deal damage in one instance.
+    -   The "continuous" beam is a long lasting beam that hit multiple time and use the souls stored overtime. Hold C to keep firing the laser if available.
+-   **Refill multiplier:** The more points are spent on this stat, the easier it is to recharge the resonance to full.
+-   **Range:** The more points are spent on this stat, the further the beam can reach.
 
 ## Trivia/Notes
 

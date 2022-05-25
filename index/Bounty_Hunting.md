@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 30763
+revid: 30768
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -24,7 +24,7 @@ The details of the Bounty.
 
 ## Tips and Advice
 
--   Taking as many bounties as possible is recomended as it gives ou easy access to where people in your server are, espescially usefull if others plan on hunting you.
+-   Taking as many bounties as possible is recomended as it gives you easy access to where people in your server are, espescially usefull if others plan on hunting you.
 -   If hunting as a team, make sure the bounty holder contributes enough damage and performs a **MANUAL** grip to the target for the bounty to be counted as complete.
 -   if you are struggling to find targets you may find better luck by using the server browser to locate populated servers with more targets.
 -   Fort merit, (due to the popularly grinded hostage quest.) and Etris are your best chances for finding valid bounties, although Greathive Aratel will occasionally have enemies that need hunting aswell
