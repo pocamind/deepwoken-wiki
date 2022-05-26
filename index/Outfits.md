@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30785
+revid: 30833
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -182,7 +182,7 @@ _\+ 2 Posture_
 _Requires Fortitude 15_
 
  | Hive Chests | N/A |
-|  | Goldleaf Helm | Grants a random buff. | Duke Chests, Golden Warrior Erisia Event | N/A |
+|  | Goldleaf Helm | Grants a random buff. | Duke Chests, Golden Warrior Erisia Event, Turning in Artifacts | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests | N/A |
 | 
 
@@ -242,7 +242,7 @@ _\+ Talent: Blinded_
 | Image | Armor | Common Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Brilliant Cape.png | Brilliant Cape | Grants a random buff. | Depths Chests, Dread Serpent | N/A |
-| File:Golden Cape.png | Cape (Series) | Grants a random buff. | Songseeker Chests | Black & Golden |
+| File:Golden Cape.png | Cape (Series) | Grants a random buff. | Songseeker Chests, Minityrsa Chests | Black & Golden |
 | File:Static-assets-upload6078901116095484260.png | Shrouded Cape (Series) | Grants a random buff. | Fishing, Duke | Red, Black, Midnight & White |
 | File:Crimson Scarf.png | Scarf (Series) | Grants a random buff. | Hive Chests | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 | File:Onepiececape.png | Fleet Warden Cape (Series) | Grants a random buff.

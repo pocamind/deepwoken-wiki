@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 30791
+revid: 30801
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -77,5 +77,4 @@ Unknown
 -   If you do not have any hair on your avatar as a Capra, you will be given a type of hair that's pretty fair-looking.
 -   Once using a Mark on another player, you will gain extra health regen, and presumably sanity/food buffs correlating to the different Marks.
 -   During the 4/1/2022 April Fools update (Mudwoken). Capra race name was changed to Skullskipper.
--   💀
--   Possible a reference to the dark souls enemy of the same name and features, Capra
+-   Possible a reference to the dark souls enemy of the same name and features, Capra.

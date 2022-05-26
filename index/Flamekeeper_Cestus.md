@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 27258
+revid: 30805
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,6 +25,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Primadon The Depths Fort Merit Starswept Valley chests |
 | description | N/A |
+
+_**What do you mean a Flamekeeper Cestus doesn't have to do something with flame? "a flame user playing fists for the first time"**_
 
 ## Description
 

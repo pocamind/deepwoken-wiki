@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 25253
+revid: 30822
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,6 +25,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Lower Erisia, Songseeker Wilds, Starswept Valley and Golem Constructs chests |
 | description | "Cestus used by members of the Legion." |
+
+_**By the power of the 100 Legion, those fists will punish you.**_
 
 ## Description
 

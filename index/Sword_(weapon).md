@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 25952
+revid: 30835
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -24,6 +24,12 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Main Menu Selection |
 | description | “A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains" |
+
+“ I thought to myself 'Hey, I could steal that,' so I did ”
+
+― Freshies explaining where the sword came from
+
+  
 
 ## Overview
 

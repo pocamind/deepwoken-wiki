@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 30371
+revid: 30816
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -28,6 +28,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Songseeker Wilds, Minityrsa |
 | description | An exceptionally sharp knife forged by unknown means. Carries and intense aura of foreboding. |
+
+_**A good forged weapon, which doesn't need much experience to be used.**_
 
 ## Description
 

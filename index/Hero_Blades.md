@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 28368
+revid: 30828
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -92,6 +92,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
+
+_**I'm going to cut you down with my magic. Who needs a sword out of iron, when you have a sword out of magic! "A crazy Ganymede at a Bar"**_
 
 ## Description
 

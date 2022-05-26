@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 29453
+revid: 30824
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -24,6 +24,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | The Enforcer |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood. |
+
+_**A greatsword main realisising, that the enforcer blade is slow.**_
 
 ## Description
 

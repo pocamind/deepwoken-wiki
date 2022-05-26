@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 29968
+revid: 30823
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,6 +25,12 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Starswept Valley and Primadon chests |
 | description | TBA |
+
+“ I forgor ”
+
+― Historians naming this ancient blade
+
+  
 
 ## Description
 

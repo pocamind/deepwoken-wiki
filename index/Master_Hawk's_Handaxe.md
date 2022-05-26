@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 25239
+revid: 30831
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,6 +27,8 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Starswept Valley chests |
 | description | ? |
+
+_**The one axe, which nobody asked for but still looks sick.**_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 29223
+revid: 30834
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -25,6 +25,8 @@ categories: [Weapons]
 | pass down | Yes |
 | obtainment | Rare drop from King Thresher, Fishing Chests |
 | description | There's no description for this weapon as of now |
+
+_**This is a medium, right? "a medium user farming at hive" "Woah guys im so good at the game i fought a king thresher"**_
 
 ## Description
 

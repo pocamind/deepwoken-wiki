@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 22328
+revid: 30818
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,6 +27,10 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Starswept Valley Chests |
 | description | Your trusty weapon. |
+
+“ It ain't much, but it's honest work. ”
+
+― Celtor merchant after charging the same price for half a Champion's Sword.
 
 ## Description
 

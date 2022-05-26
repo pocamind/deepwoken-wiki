@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30758
+revid: 30800
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -88,9 +88,9 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 |  | Champion Twister  
 (★★) | _Grab your opponent and toss them with the power of gale._ | Caster grabs opponent and proceeds to spin in 360 degrees before tossing the opponent.
 
--   Deals light damage.
+-   Deals good-high damage.
 -   Might be able to break block?
--   Can be modified with [Tornado Spark](Mantra_Modifiers.md).
+-   Can be modified with [Tornado Spark](Mantra_Modifiers.md). (needs more testing)
 
  |
 |  | Rising Wind  
