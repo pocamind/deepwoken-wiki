@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30833
+revid: 30849
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -159,11 +159,6 @@ _Requires Fortitude 20_
  | Hive Chests, Arena Chests, Depths Chests | N/A |
 | 
 
-File:Khan Helmet.png
-
- | Khan Helmet | Grants a random buff. | Aratel Island Chests. (Work in Progress) | N/A |
-| 
-
  | Blacksteel Helm | Grants a random buff.
 
 _Requires Fortitude 15_
@@ -184,6 +179,11 @@ _Requires Fortitude 15_
  | Hive Chests | N/A |
 |  | Goldleaf Helm | Grants a random buff. | Duke Chests, Golden Warrior Erisia Event, Turning in Artifacts | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests | N/A |
+| 
+
+File:Khan Helmet.png
+
+ | Khan Helmet | Grants a random buff. | Aratel Island Chests. (Work in Progress) | N/A |
 | 
 
 File:KnightHelm.png
@@ -309,7 +309,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Fort Merit Chests | Amber, Bronze, Gold, Ruby, Stygian & Verdant (Work in progress) |
+ | Fort Merit Chests | Amber, Bronze, Gold, Royal, Ruby, Stygian & Verdant (Work in Progress) |
 |  | Deepwoken Cloak
 
 (Legendary)
@@ -336,7 +336,7 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Valley of Heroes Chests | Onyx, Smoke, Scarlet (Work in Progress) |
+ | Valley of Heroes Chests | Onyx, Scarlet, Smoke (Work in Progress) |
 | File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
 
 _Doesn't need any power, but obviously needs a mantra to get it_
@@ -380,7 +380,30 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
+|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
+Grants one random buff.
+
+ | Duke Erisia's Chest, Primadon Chests, Depths Chests |
+| File:Dazedband.PNG | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
+
+_Requires Power 10_
+
+ | Duke Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
+| File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed while out of combat.
+
+_Requires Power 10_
+
+ | Primadon Chests, Depths Chests |
+|  | Gold Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests, Polis |
+| File:Heavy Hand's Ring.png | Heavy Hands Ring | Makes your "M1" attack slower but do more posture damage.
+
+_\+ 30% posture damage_
+
+_\- 15% swing speed_
+
+ | Primadon Chests, Depths Chests |
 | File:Isshin.png | Isshin's Ring | Take 1.4x damage and deal 1.2x damage.
+
 _Requires Power 15_
 
  | Pirate Event Chests, Primadon Chests, Depths Chests |
@@ -389,56 +412,45 @@ _Requires Power 15_
 _Requires Power 10_
 
  | Mudskipper Chests, Primadon Chests, Depths Chests |
-| File:Freestyler's Band.png | Freestyler's Band | Gives the user a massive increase in swimming speed while out of combat.
-
-_Requires Power 10_
-
- | Primadon Chests, Depths Chests |
-|  | Gold Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests, Polis |
 | File:Light eater ring.jpg | Light eater ring | Getting hit by a Lightning or Fire mantra recovers ether.
 
-Grants one random buff.
-
-_Requires Power 10_
+Grants one random buff. _Requires Power 10_
 
  | Duke Chests, Primadon Chests, Depths Chests |
-|  | Silver Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests |
-|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
-
-Grants one random buff.
-
- | Duke Erisia's Chest, Primadon Chests, Depths Chests |
-| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Erisia's Chest, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
+|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
 | File:Purifyingring.PNG | Purifying Ring | Allows wearer to drink seawater with no side effects. | Primadon Chests, Depths Chests |
-| File:Heavy Hand's Ring.png | Heavy Hands Ring | Makes your "M1" attack slower but do more posture damage.
-
-_\+ 30% posture damage_
-
-_\- 15% swing speed_
-
- | Primadon Chests, Depths Chests |
-| File:Dazedband.PNG | Dazed Band | Flourishing an opponent has a 50% chance to stun them.
-
-_Requires Power 10_
-
- | Duke Chests, Pirate Event Chests, Primadon Chests, Depths Chests |
-|  | Dawnfist's Ring
-
-(Legendary)
-
- | Gives every weapon 1.5 strength scaling when equipped. | Depths Chests (Maybe?) |
-|  | Akira's Ring
-
-(Legendary)
-
- | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Chest, Summer Isle Chest, Duke Erisia's Chest & Arena Chests |
+|  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests, Depths Chests |
 |  | Ring of Pestilence | Enemies you hit have their healing reduced by 50%
 
 _Requires Power 40_
 
  | Primadon Chests, Depths Chests |
-|  | Ring of Casters | Mantra damage increased by 10% but reduces melee damage by 10% | Duke Chests, Primadon Chests, Depths Chests |
-|  | Pariah's Keepsake | Deal more damage to factions that hate you. (Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority) | Duke Chests, Pirate Event Chests, Primadon Chests, Deep Widow Chests, Depths Chests |
+| File:Ringofwisps.PNG | Ring of Wisps | Increases effectiveness of wisps. | Duke Erisia's Chest, Primadon Chests, Depths Chests, Etrean Sailors vs Knives of Eylis Chests |
+|  | Silver Ring | Grants a random buff. | Mudskipper Chests, Primadon Chests |
+|  | Windmill Ring | Taking damage from ice or wind will cause you to regenerate ether.
+
+Grants one random buff. _Requires Power 10_
+
+ | Songseeker Chests, Arena Chests |
+|  | Akira's Ring
+
+(Legendary)
+
+ | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Chest, Summer Isle Chest, Duke Erisia's Chest & Arena Chests |
+|  | Dawnfist's Ring
+
+(Legendary)
+
+ | Gives every weapon 1.5 strength scaling when equipped. | Depths Chests (Maybe?) |
+|  | Deepfire Ring
+
+(Legendary)
+
+ | Flames burn 1.5x faster but goes out 1.5x faster.
+
+_Requires Power 15_
+
+ | Ferryman Chest, Arena Chests |
 |  | Finisher's Ring
 
 (Legendary)
@@ -453,22 +465,6 @@ _Requires Power 40_
 (Legendary)
 
  | Conceal your age, appearing as if you were younger than 40. | Depths Chests, Duke |
-|  | Deepfire Ring
-
-(Legendary)
-
- | Flames burn 1.5x faster but goes out 1.5x faster.
-
-_Requires Power 15_
-
- | Ferryman Chest, Arena Chests |
-|  | Windmill Ring | Taking damage from ice or wind will cause you to regenerate ether.
-
-Grants one random buff.
-
-_Requires Power 10_
-
- | Songseeker Chests, Arena Chests |
 
   
 
