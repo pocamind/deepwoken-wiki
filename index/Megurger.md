@@ -1,6 +1,6 @@
 ---
 title: Megurger
-revid: 30343
+revid: 30853
 source: https://deepwoken.fandom.com/wiki/Megurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,12 +8,16 @@ categories: [Pages with broken file links]
 
 # Megurger
 
-Megalodaunt Burger (REAL) (3AM)
+“ \*dying\* ”
 
-Buy it at Lance's food for 20 notes.
+― A Celtor who was deemed unworthy by the almighty Megurger.
+
+  
+
+Megalodaunt Burger (REAL) (3AM)
 
 File:Megurger.png
 
 ...Should I really eat this? The smell is the most vile combination of stenches, ranging from megalodaunt meat to "kelp." Even the toughest, most strongheaded Authority soldier cannot stand a chance against this... monstrosity.
 
-Gives you a damage up.
+The Megurger is a food item that you can buy at Lance Leshi's building for 20 [Notes](Notes.md). Eating it gives you a 20% damage boost, but it can also make you vomit in the process of trying to do so if it deems you unworthy.

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 30141
+revid: 30864
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -46,7 +46,7 @@ Mantras are divided into various categories based on their general application. 
 
 -   **Wildcard Mantra (1)** - This is not a type of mantra, but it refers to a slot that can be taken up by any kind of Mantra - Combat, Support, or Mobility.
 
-It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath.](Oaths.md)
+It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting certain talents.
 
 ## Combat Usage
 

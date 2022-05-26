@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 30044
+revid: 30855
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -81,7 +81,7 @@ List of agility talents
 ― Big brain Adret to an inept Canor.
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
--   This stat gives 2 Ether and Reservoir
+-   This stat gives 2 Ether and Reservoir every point.
 -   Affects potion potency.
 -   Unlocks Intelligence-related Talents, depending on the Character's Intelligence.
 -   Gain Intelligence EXP via foraging, fishing, brewing potions, completing questions in the \[[Textbook](https://deepwoken.fandom.com/wiki/Training_Items#Intelligence%7CMath)\], discovering Recipes for the first time, certain dialogue choices (such as asking about history) or discovering new locations for the first time.
