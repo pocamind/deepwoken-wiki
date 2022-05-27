@@ -1,9 +1,8 @@
 ---
 title: Minityrsa
-revid: 30576
+revid: 30905
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Minityrsa
@@ -13,8 +12,6 @@ LocationL Minityrsa LocationR
 Ocean water freezes against the stone, as if trying to climb onto the shore.
 
   
-
-File:Mynistria Picture.png
 
 **Minityrsa** is a location in _Deepwoken_. It is an island found in the [Etrean Sea](The_Etrean_Sea.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 30859
+revid: 30903
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -14,13 +14,13 @@ categories: [Pages with broken file links, Resonance, Character, Boss, Locations
 
 **Resonances** are one of the many skills that players can obtain. They are the most varied when it comes to all the abilities, and are quite powerful, having effects from perfect invisibility, map-wide teleportation, and instantaneous gripping.
 
-### Normal Resonances
+## Normal Resonances
 
 Normal Resonances are the basic version of each Resonance, and the most common. They do not have any buffs or debuffs compared to sub-category Resonances, but they are still susceptible to being a variant.
 
 **From data of 100 rerolls, the calculated chance of getting a normal resonance was 92% (276/300, almost guaranteed per reroll)**
 
-### Resonance Variants
+## Resonance Variants
 
 Resonances of any category are susceptible to Variants. Resonance Variants are variations of the normal Resonance, having slight variations to the original execution, but still having the same purpose, such as an Instant-grip AOE becoming ranged, instead of melee, but still having the same function of being an Instant-grip AOE. Variants are not able to be changed or swayed in any way, so it's up to chance what variant of what Resonance someone obtains. However, some variants are rarer than others, with the most common variant being called the 'basic' or 'original' variant. All Resonance Variants are listed in their corresponding Resonance page.
 

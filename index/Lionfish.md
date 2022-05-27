@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 30604
+revid: 30899
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,16 +12,14 @@ categories: [Pages with broken file links, Monsters]
 
 ― A Lionfish before instakilling a freshspawn in the depths
 
-_Commonly refered to as: Menos Grande_
+_Commonly refered to as: Menos Grande_ Template:Creature Infobox V3
 
-## Appearance
-
-Template:Creature Infobox V3
+## Description
 
 Half-fish, half-lion. A large brown fish with a black mane of a Lion, thus it's name. It has white blank eyes, with it's teeth visible. The fossil record suggests that Lionfish have caused many other predatory fish species to go extinct due to it completely outclassing them in size. It has likely existed for millions of years.
 
   
-It drops a Lionfish Scale, which is used for crafting armor sets
+It drops a Lionfish Scale, which is used for crafting armor sets.
 
 ## Moves
 

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 30870
+revid: 30896
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -10,7 +10,7 @@ categories: [Races, Character]
 
 Races are categorizations of those who live in the world of _Deepwoken_. They are randomly selected when first created, and can be re-rolled for 150 Robux ( ). All 10 races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character. Your character's hairstyle is reflected by your avatar's hairstyle, with your races hair color completely covered.
 
-## Felinor
+## Common Races
 
 These races are obtainable by any player. One of these races will be given to the player when they first purchase the game. Re-rolling a race will give you the option between keeping your first race, or switching to the rolled race.
 
@@ -32,4 +32,9 @@ These races are not obtainable, don't ask the devs and mods for it, you aren't g
 
 ## Notes
 
--   Felinor
+-   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat will overwrite the NPC's aggression towards the player. Many of the factions in Deepwoken are inherently xenophobic/racist.
+
+-   Players may also treat the player differently depending on their race.
+-   All races are balanced, and the player does not need a rare race to be considered **good** at the game.
+-   Players can find others tagged with familial relations, though this ultimately does not change anything.
+-   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
