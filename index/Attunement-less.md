@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 30756
+revid: 30952
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -119,7 +119,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 Charisma mantras are mainly based on AOE support: immobilizing and debuffing enemies. To increase the duration/level cap, practice wordplay with a guide on 'How to Make Friends'.
 
 -   **Taunt** - Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage.
-    -   Combat tags enemies. (Last time I tried to test this a few months ago with 2 other people hitting eachother, it seemed to give 10% more damage to the afflicted persons, but also cause them to take 20% more. Basically like half of an Isshan's ring. Please remove this if I was wrong.)
+    -   Combat tags enemies, and causes them to take 20% more damage, while they do 10% more damage to you specifically. They also can't jump anymore.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
@@ -155,7 +155,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, they must meet some requirements.
 
-1.  The user must have a good reputation with Hive. (Not true, it only needs to be neutral.)
+1.  The user must be at least neutral with Hive.
 2.  Must be able to use the wells to travel to the Greathive Aratel.
 3.  Following that the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
     -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.

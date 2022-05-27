@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 30757
+revid: 30934
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -214,7 +214,7 @@ Lightning Cloak
 -   Your dashes become teleports, increasing your i-frames.
 -   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
 -   **Lightning cloak has no stat requirements**. In LordSendo's lightning cloak video, you can see that he rolls lightning cloak with 9 agility and 1 intelligence, disproving both theories. It depends merely on luck _(not in-game luck)_ and if you have the Master Thundercaller talent.
--   Rapidly drains Ether.
+-   Drains Ether. (Almost at par with a well-trained Murmur: Ardour.)
 
  |
 

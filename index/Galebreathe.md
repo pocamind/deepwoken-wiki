@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 30800
+revid: 30941
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -90,7 +90,7 @@ The spell trainer can be found in the Isle of Vigils by the tent across the Inn.
 
 -   Deals good-high damage.
 -   Might be able to break block?
--   Can be modified with [Tornado Spark](Mantra_Modifiers.md). (needs more testing)
+-   Can be modified with [Tornado Spark](Mantra_Modifiers.md). (Needs more testing)
 
  |
 |  | Rising Wind  
@@ -150,6 +150,8 @@ These talents are found in the _Aeromancy_ category.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
+| File:Galebreathe Talent Placeholder.png | Aeronade | Your trap automatically detonates on contact with an object | +2 Passive Agility  
++5 Elemental Intensity |
 | File:Galebreathe Talent Placeholder.png | Drifting Winds | Enemies hit by your wind mantra are winded, having their attack speed lowered for a short duration. | +2 Passive Agility  
 +5 Elemental Intensity |
 | File:Galebreathe Talent Placeholder.png | Stifled Jump | Enemies who jump while suffocated by you are dazed. | +2 Passive Agility  
@@ -165,6 +167,17 @@ These talents are found in the _Aeromancy_ category.
 +5 Elemental Intensity  
 +2 Health |
 
+**Aeromancer:**
+
+These talents are found in the _Aeromancy_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:Galebreathe Talent Placeholder.png | Gale Trap | Knocking a player tags them with a wind trap, causing anyone to pick up that body to get sent flying. However, if you pick up the body you gain a speed boost for 20 seconds. | +4 Elemental Intensity
+FROM: Wind Step
+
+ |
+
 **Cloudwalker:**
 
 These talents are found in the _Cloudwalker_ category.
@@ -173,7 +186,10 @@ These talents are found in the _Cloudwalker_ category.
 | --- | --- | --- | --- |
 |  | Gale Leap | Jumping while sliding down a slope or off a cliff launches you forward. | +1 Elemental Intensity  
 +2 Health  
-Costs _[Ether](Combat_Mechanics.md)_. |
+Costs _[Ether](Combat_Mechanics.md)_.
+FROM: Galebreather
+
+ |
 
 **Galebreather:**
 
@@ -202,15 +218,30 @@ These talents are found in the _Galeforce_ category.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | Breathing Impact | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. | +5 Elemental Intensity |
+| File:Galebreathe Talent Placeholder.png | Breathing Impact | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. | +5 Elemental Intensity
+FROM: Galebreather
+
+ |
 | File:Galebreathe Talent Placeholder.png | Tailwind | Gain a speed boost after a successful inhale. | +1 Elemental Intensity  
 +2 Health  
-Costs _[Ether](Combat_Mechanics.md)_. |
+Costs _[Ether](Combat_Mechanics.md)_.
+
+FROM: Inhale
+
+ |
 | File:Galebreathe Talent Placeholder.png | Inhale | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | +1 Elemental Intensity  
 +2 Health  
-Costs _[Ether](Combat_Mechanics.md)_. |
+Costs _[Ether](Combat_Mechanics.md)_.
+
+FROM: Breathing Impact
+
+ |
 |  | After Cut | If an attack is physical and wind, it will apply an after cut that does 5% of the damage you dealt. | +2 Elemental Intensity  
-+2 Health |
++2 Health
+
+FROM: Breathing Impact
+
+ |
 
 **Legion Shock Trooper:**
 
@@ -218,6 +249,15 @@ These talents require stats in agility.
 
 | Image | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
+| File:Galebreathe Talent Placeholder.png | Air Pressure | If you hit an enemy's block, your next dash will be an empowered wind dash. | +1 Passive Agility +2 Elemental Intensity
+FROM: Galebreather
+
+ |
+| File:Galebreathe Talent Placeholder.png | Gale Dash | After dodging an attack successfully your next dash will be a Gale Dash. | +2 Passive Agility +4 Elemental Intensity +3 Health
+
+FROM: Galebreather
+
+ |
 |  | Wind Step | Create a step of wind below you when jumping in the air. | +4 Elemental Intensity  
 Costs _[Ether](Combat_Mechanics.md)_. |
 
@@ -246,13 +286,14 @@ These talents are found in the _Vigil of Winds_ category.
 -   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
 -   Archmage stated that Galebreathe is "least me" out of all the elements.
     
--   Wind Step can be used by other players for a short period after being placed.
+-   To cast the "_Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI
+-   The "_Wind Step_" talent can be used by other players for a short period after being placed.
 -   The "_Gale Leap_" talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
 -   The "_Tempest Wind_" talent requires the player to perform a jump to activate it.
+-   The "_Q_" key activates Gale Dash.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
-    -   Cast the mantra then press M1 and M2 together to Inhale.
+    -   Cast the mantra then press M1 and M2 together to Inhale, you know your doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: "_Winded_" & "_Suffocate_".
     -   "_Winded_" reduces your opponent's attack speed.
     -   "_Suffocate_" reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
     -   It is the only Attunement to be able to do this without any evolution paths.
--   To cast the "_Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI.
