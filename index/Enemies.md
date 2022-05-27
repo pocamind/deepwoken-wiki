@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 30740
+revid: 30932
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -55,5 +55,7 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 **The Legion**
 
 ## Bosses
+
+**Etrea**
 
 **Miscellaneous**

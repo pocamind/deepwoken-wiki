@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 30849
+revid: 30930
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -289,7 +289,8 @@ _Disappears on death or leaving the game._
 | File:Whitefurpauldrons.png | White Fur Pauldrons | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Pauldrons | Grants a random buff. | Hive Chests | N/A |
 | File:Brigand's Cloak.png | Brigand's Cloak | Grants a random buff. | Depths Chests, Primadon Chests | N/A |
-| File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Members on Hive Island Drop | Black, Brown & White |
+| File:Brown Overcoat.png | Overcoat (Series) | Grants a random buff. | Erisia Chests | Brown (Work in Progress) |
+| File:White Parka.png | Parka (Series) | Grants a random buff. | Erisia Chests, Songseeker Chests, Minityrsa Chests, Hive Chests & Authority Commander Drop | Black, Brown & White |
 | File:Glassdancer wraps.jpg | Glassdancer Wraps | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 | File:Smithgloves.png | Smith's Gloves | Grants a random buff. | Duke Erisia's Chest, Depths Chest, Primadon Chest | N/A |
 | File:Grayjusticarcoat.png | Adjudicator's Coat (Series) | Grants a random buff.
