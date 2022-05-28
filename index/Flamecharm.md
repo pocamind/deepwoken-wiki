@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 30775
+revid: 30970
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -39,7 +39,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Fire Blade | Slicing blades of flame. | Caster thrusts down with their blade coated in flame.
+|  | Fire Blade | Slicing blades of flame. | Caster slams down with their blade coated in flames.
 -   Deals moderate damage.
 -   Burns target(s).
 -   Can block break some targets at mantra level 1, and almost all targets at higher levels.
@@ -48,7 +48,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Compatible with Size, Duration and Intensity Buffs.
 
  |
-|  | Flame Repulsion | An exertion of flames. | After a wind-up of ~2 seconds, user explodes in a burst of flames.
+|  | Flame Repulsion | An exertion of flames. | After a wind-up of ~2 seconds, user releases a burning shockwave.
 
 -   Unable to move in wind-up.
 -   Deals moderate damage.
@@ -58,7 +58,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Compatible with Cloud/Stratus Stones.
 
  |
-| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Summons seven burning soldiers that appear and attack one after the other in quick succession at the position of the caster, before all striking one final time at the center.
+| File:Снимок экрана 2021-12-31 211752.png | Burning Servants | A legion of flames. | Conjures seven burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).
@@ -66,7 +66,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Improved by [Cloudstone](Mantra_Modifiers.md#regular-modifiers)
 
  |
-|  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels two balls of fire from their hands towards the cursor's location.
+|  | Fire Gun | A bullet of flames shot through each hand. | Caster readies and propels bullets of fire from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   No Cooldown.
@@ -77,7 +77,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Adding a Round Spark makes it fire 4 bullets in a chaotic pattern.
 
  |
-|  | Flame Grab | A fiery chokehold. | Caster launches forward for a grab, slamming any targets into the ground.
+|  | Flame Grab | A fiery chokehold. | Caster lunges forward for a grab and slamming any targets into the ground.
 
 -   Inflicts light damage.
 -   Burns target(s).
@@ -91,7 +91,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Deal heavy posture damage
 
  |
-|  | Flame Blind | Snap your fingers, shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, summoning an orb that implodes.
+|  | Flame Blind | Snap your fingers, shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, conjuring an orb that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
@@ -100,7 +100,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Buffed by a Common Flamecharm Talent, causing all blinded enemies to be dazed.
 
  |
-|  | Fire Palm (★) | A blast of flame. | Caster releases an eruption of fire in front of them.
+|  | Fire Palm (★) | A blast of flame. | Caster releases a burst of flame in front of them.
 
 -   Cone hitbox.
 -   Deals moderate damage.
@@ -116,7 +116,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   The second explosion posture breaks.
 
  |
-|  | Fire Forge (★) | Toss a nimble dagger. | User swipes their weapon to launch three throwing daggers.
+|  | Fire Forge (★) | Toss a nimble dagger. | Caster throws 3 quick burning daggers.
 
 -   Deal light damage.
 -   Burns target(s).
@@ -126,14 +126,14 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   Can be upgraded with Magnet Spark, but the change is unknown.
 
  |
-|  | Rising Flame (★★) | A rising tornado of flames. | Caster charges target into the air, discharging bursts of flame around them.
+|  | Rising Flame (★★) | A rising tornado of flames. | Caster sends themselves and target into the air while releasing a fury of flames.
 
 -   Deals moderate to high damage.
 -   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact_, dealing immense damage.
 -   Initial slashes are blockable, and final hit is parryable.
 
  |
-|  | Flame Assault (★★) | Burst forward in flames. | User dashes forward and surrounds themself in flame, attacking anything in their path.
+|  | Flame Assault (★★) | Burst forward in flames. | User dashes forward covered in flames, hitting anyone in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
@@ -148,7 +148,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 
 | **Image** | **Spell** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air leaving a trail of flames on the ground. Also launch nearby targets in the air.
+|  | Flame Leap (★★) | Leap up leaving behind a burst of flames. | Launches the caster up in the air and leaving a trail of flames on the ground. Also launches nearby targets in the air.
 -   On flat ground, will usually lead to fall damage for the user.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
 -   This Mantra is not compatible with a [Spring Spark](Mantra_Modifiers.md#spring-spark).
@@ -169,7 +169,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 -   The hp given from the wisp will go lower every time its used, eventually ending up at 3% at around the 5-6th use and continuing to be 3% until it dissipates.
 
  |
-|  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster raises their arm and summons an orb of fire.
+|  | Graceful Flame | Conjure an undying flame for the caster and their comrades to rest by. | Caster holds out their arm while concentrating their flame before conjuring an orb of fire.
 
 -   Acts as a mobile campfire with restrictions.
 -   Lasts one minute without Duration Modifiers.

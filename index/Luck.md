@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 30498
+revid: 30975
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -14,7 +14,7 @@ categories: [Luck, Mechanics]
 
 The new luck effect, emits a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
-Luck is a feature shown on the bottom right of your screen. This value currently has a maximum of 50%, although the maximum displayable value is 43% for some reason.
+Luck is a feature shown on the bottom right of your screen. This value currently has a maximum of 50%, although the maximum displayable value is 43% for some reason. To get to 50% luck, you need to be below 43% and then gain enough of it to add up to 50%, for example fishing up a golden fish or handing in an artifact. If you are at 43%, you cannot gain any more luck to get to the absolute limit. Unsure of whether the 50% actually affects rolling rares/legendaries.
 
 You begin with 20% luck every time you start a new character.
 
