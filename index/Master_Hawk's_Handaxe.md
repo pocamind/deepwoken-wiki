@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 30831
+revid: 30981
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -36,6 +36,5 @@ Master Hawk's Handaxe is obtainable in [Starswept Valley](The_Starswept_Valley.m
 
 ## Notes
 
-With 100 heavy, it reaches 48 damage, a very good damage number applied with the chip damage, although its swing speed can make a difference in battles for the worse.
-
-(Please correct me if I'm wrong, damage wise)
+-   With 100 heavy, it reaches 48 damage, a very good damage number applied with the chip damage, although its swing speed can make a difference in battles for the worse.
+    -   (Please correct me if I'm wrong, damage wise)

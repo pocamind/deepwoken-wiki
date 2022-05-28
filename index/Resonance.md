@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 30903
+revid: 30994
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -193,9 +193,8 @@ Certain resonances have a set of "points" given when they are obtained. The poin
 Resonances are universally represented as an item attached on your waist. This item can be a bell, a chime, jingle bells or a sleigh bell. They can also be of varying colors, ranging from yellow, green, to red, dark blue, black and purple. (If someone could post an image of all the bell variants I'd appreciate it). Do remember that rerolling your bell can change the type and color of your bell as well.
 
   
-Assumed to be a bug, sometimes if you choose a resonance - or reroll a bell will no longer be visible on your characters body.
 
-File:Resonance Bell 1.pngFile:Resonance Bell 2.png
+Assumed to be a bug, sometimes if you choose a resonance - or reroll a bell will no longer be visible on your characters body.
 
 ## Trivia
 
@@ -210,5 +209,6 @@ File:Resonance Bell 1.pngFile:Resonance Bell 2.png
 -   **Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL wipe you.**
 -   A number of doors other than the Yun'Shul door require a resonance to open. One is at the end of the parkour in the Depths, one is in the Etrean Luminant near a waterfall at the Aratel islands.
 -   It also seems like the amount of Progression needed for a resonance share among all slots in an account. (If the previous slot gets a resonance early then other slots will likely get it early too)
--   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the song!" and you don't have a bell, DO NOT try to go and bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
+-   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, DO NOT try to go and bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your Resonance was from a circular aura that occured when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.
+-   Contrary to popular belief, Blessed versions of Resonances DO NOT exist. Dumbass.

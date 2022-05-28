@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 30814
+revid: 30993
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -25,7 +25,9 @@ categories: [Weapons]
 | obtainment | Chests from Minityrsa, Starswept Valley, Depths & Primadon |
 | description | The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes. |
 
-_**This is for mother land! "a vesperian getting ready to kill an Adret"**_  
+“ Is your opponent strong? No matter! Simply overcome their strength with even more strength, and they'll soon be defeated. ”
+
+― Hive Adjudicators passing on their wisdom
 
 ## Description
 

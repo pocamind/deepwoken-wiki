@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 30360
+revid: 30979
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -31,4 +31,4 @@ The Evanspear Hand Axe is a HVY weapon that can be obtained by defeating \[Inser
 
 ## Trivia
 
--   Probably the worst axe design out of all the axes.
+-   Probably has the worst axe design out of all the axes.
