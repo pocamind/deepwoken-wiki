@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 30673
+revid: 30969
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,5 +22,5 @@ A Hive Guard's kit consists of a [Ritual Spear](Ritual_Spear.md) and the [Flamec
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Unleash a quick double slash with spear. | ◯ | ◯ | (★☆☆) |
-| Flame Assault | Burst forward in flames. | ◯ | ◯ | (★★☆) |
+| Critical | Unleash a quick slash and short lunge. | ◯ | ◯ | (★☆☆) |
+| Flame Assault | User dashes forward covered in flames, hitting anyone in their path. | ◯ | ◯ | (★★☆) |
