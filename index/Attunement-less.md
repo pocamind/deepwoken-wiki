@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 30955
+revid: 31000
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,14 +31,14 @@ Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few move
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
 -   **Strong Left** - A powerful, flinging punch that shatters the air.
-    -   Requirement: 6 Strength, _Strength Combat Mantra_
+    -   Requirement: 5 Strength, _Strength Combat Mantra_
     -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
     -   Unlike other mantras, Strong Left scales with your strength level.
     -   Name may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
 
 -   **Rapid Punches** - Unleash a barrage of blows against your foes.
     -   If parried during its startup it gets cancelled, otherwise not.
-    -   Requirement: 6 Strength, _Strength Combat Mantra_
+    -   Requirement: 5 Strength, _Strength Combat Mantra_
 
 -   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
     -   The altitude travelled decreases significantly as the user loses health.

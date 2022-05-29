@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 30992
+revid: 30999
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -77,8 +77,9 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>When hitting an enemy:<br>
-  20% chance to deal 1.4x damage to the enemy.<br>
-  10% chance to deal 0.9x damage to yourself.</p></div></td>
+  does 2x damage on proc<br>
+  also a chance that on proc u receive the damage</p>
+  <p>THIS MAY WORK DIFFERENTLY ON DIFFERENT WEAPONS (this info was tested with an iron cestus)</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -198,7 +199,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
-  <td><div><p>Every weapon enchant are enabled. Randomly proc or activate the effect of an enchant on hit.</p></div></td>
+  <td><div><p>Every weapon enchant are enabled. Randomly proc or activate the effect of an enchant on hit.<br>
+  <b>Enchant is disabled.</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
@@ -208,7 +210,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
-  <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.</p></div></td>
+  <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.<br>
+  <b>Enchant is disabled.</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
