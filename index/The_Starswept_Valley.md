@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 30767
+revid: 31052
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Enemies, Combat Mantras, Armors, Attunement, Attributes, Article stubs, Races, Resonance, Random Encounters, Reputation, Weaponry, Weapons, World, Luck, Helpful]
@@ -102,8 +102,8 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 #### Arms
 
--   Pale Assassins Cloak
--   Star Duster
+-   Pale Assassins Cloak (Uncommon)
+-   Star Duster (Rare)
 -   Black Parka
 -   Brown Parka
 -   White Parka
@@ -140,8 +140,8 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Shattered Katana](Shattered_Katana.md) (very rare)
 -   [Tanto](Tanto.md) (rare)
 -   [Forgotten Gladius](Forgotten_Gladius.md) (rare)
--   Iron Cestus (common)
--   Iron Birch (Rare)
+-   [Iron Cestus](Iron_Cestus.md) (common)
+-   [Iron Birch](Iron_Birch.md) (Rare)
 
 ### Miscellaneous
 

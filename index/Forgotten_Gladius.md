@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 31027
+revid: 31044
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -23,7 +23,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, King Thresher drop, Primadon chests |
+| obtainment | Starswept Valley, King Thresher drop and Primadon chests |
 | description | TBA |
 
 “ I forgor ”

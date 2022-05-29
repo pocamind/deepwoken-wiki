@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 31010
+revid: 31040
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,10 +27,11 @@ Ice Eruption
 
 (★)
 
- | Forms a path of ice spikes in front of user. | ✗ | ◯ | (★★☆) |
+ | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |
 | Frost Shower | Rains down shards of ice. (Exclusive to Authority Commander) | ◯ | ◯ | (★★☆) |
 
 ## Trivia
 
 -   A variant of the Authority Warden is near identical to this enemy.
 -   They are exclusively [Adrets](Adret.md).
+-   The only Authority soldier with a completely unobscured face.

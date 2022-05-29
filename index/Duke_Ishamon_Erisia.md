@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 31024
+revid: 31042
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -70,17 +70,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.md) (Bell) Progress.
 
-## Dialogue
-
--   So you're the one running about tripping my alarms. Care to explain yourself?
-    -   The Lord Regent sent me to retrieve the Forge.
--   That thing is finally making it's move, hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
-    -   That 'thing'? Agent?
--   _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter.\*_
-    -   What?
--   _\*The Duke smiles,\*_ I'd thought for sure you were an agent, but you're what - let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim..
-    -   What are you talking about?
--   There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
+  
 
 ## Trivia
 

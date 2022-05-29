@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 31021
+revid: 31041
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -34,7 +34,7 @@ Shadow Roar
 
 (★★☆)
 
- | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. | ✗ | ? | (★★☆) |
+ | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. | ◯ | ◯ | (★★☆) |
 | 
 
 Summon

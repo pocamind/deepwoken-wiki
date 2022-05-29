@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 30858
+revid: 31047
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -18,7 +18,7 @@ categories: [Weapons, Weaponry]
 | swing speed | N/A |
 | endlag | N/A |
 | penetration | N/A |
-| special effect | Reduces incoming blocking posture damage |
+| special effect | Reduces incoming blocking posture damage. |
 | offhand | Offhand only |
 | selling price | 10 |
 | weight | 1.75 |
@@ -26,9 +26,13 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Lower Erisia chests |
-| description | A fine shield to hold back the horrors of the world |
+| obtainment | Erisia Chests |
+| description | A fine shield to hold back the horrors of the world. |
 
 ## Description
 
-Can be found in chests in [Erisia](Erisia.md)
+A Kite Shield is a side weapon under the Shield category and can be obtained through chests in [Erisia](Erisia.md).
+
+## Notes
+
+-   Model resembles a typical knight's shield.
