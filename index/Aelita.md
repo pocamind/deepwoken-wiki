@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 30412
+revid: 31007
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ _Aelita_ is a unique event NPC that spawns when you walk near a rock in the cent
 
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if you come back during the winter."
 
-## Dialogue
+## Event
 
 1.  _"Hey! It's cold up here, don't you agree? All the more reason to warm ourselves up with a game." ... "The game has two rules first being my words are absolute and lastly, ABSOLUTELY NO KILLING." ... "Oh yeah, my name is Aelita. Lets begin shall we?"_
 2.  _"Use some of that magic you guys love."_
@@ -32,7 +32,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 -   After this she will spawn a chest in the same spot Blizzard Knights' chest spawns. Aelita does not spawn during the winter, instead [Blizzard Knights](Stone_Knight.md) spawn.
 
-## Drops
+### Drops
 
 -   Shattered Katana
 -   Black Scarf

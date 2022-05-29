@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 28063
+revid: 31008
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,7 +23,7 @@ Tomb Entrance seen in Asiany's [video](https://youtu.be/TNnoMQjSgow).
 
 ## Overview
 
-Tomb of the Nameless Warrior is a cavern that is home to a black [Mudskipper](Mudskipper.md). A hidden door behind the Mudskipper can be broken open with any destructible Mantra.
+Tomb of the Nameless Warrior is a cavern that is home to a black [Mudskipper](Mudskipper.md). A hidden door behind the Mudskipper can be broken open with any destructible Mantra. It is an Authority Stronghold disguised as a place of rest, however it appears the Etrean military have become aware of this and have destroyed sections of it, though are yet to find the segment hidden behind the door.
 
 This location is important to obtaining [Strength Unbound](Attributes_Unbound.md).
 

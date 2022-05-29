@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 31000
+revid: 31006
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -61,14 +61,14 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   _Can be upgraded with the "Blood Shadow" talent card, which saps health from people you reinforced back onto you until the effect wears off._
     -   _Can be upgraded with the "Grand Support" talent card, which slightly heals people upon reinforcing. (The user included)_
 
--   **Brace** - Brace yourself against attacks and gain hyperarmour.
+-   **Brace** - Brace yourself against attacks and gain hyperarmor.
     -   Prevents your attacks/mantras from getting cancelled.
     -   Requirements: 75 Fortitude, _Fortitude Support Mantra_
     -   Base 5 second duration, every upgrade increases it by 1 up to 9 max seconds
 
 -   **Shoulder Bash** - Rush at your enemies with your full physical force.
     -   Doesn't do much damage but is a good mobility move to catch up to your opponents.
-    -   Upgrades based off of fortitude from the atunementless trainer
+    -   Upgrades based on fortitude from the Attunement-less trainer
     -   Requirements: Shield & 10 FTD
 
 ### _**Agility Mantras**_

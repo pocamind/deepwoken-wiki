@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 30776
+revid: 31013
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -41,7 +41,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 
 | Image | Modifier | Effect | Notes |
 | --- | --- | --- | --- |
-| File:Cloudstone HD.png | Cloudstone | +2 Size
+| File:Cloudstone HD.png | 
+Cloudstone
+
+ | +2 Size
+
 \-1 Speed  
 +8.5 Ether Cost
 
@@ -51,7 +55,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Projectiles lose distance.
 
  |
-| File:Stratus.png | Stratus Stone | +3 Size  
+| File:Stratus.png | 
+
+Stratus Stone
+
+ | +3 Size  
 
 +?? Ether Cost
 
@@ -60,7 +68,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Increases mantra/hitbox size.
 
  |
-|  | Crystal Lens | +2 Range
+|  | 
+
+Crystal Lens
+
+ | +2 Range
 
 \-1 Size  
 +?? Ether Cost
@@ -71,7 +83,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   If the mantra is not a projectile, the hitbox/aim assist area size is reduced instead.
 
  |
-|  | Perfect Lens | +3 Range  
+|  | 
+
+Perfect Lens
+
+ | +3 Range  
 
 +?? Ether Cost
 
@@ -80,7 +96,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Increases range of Projectiles and targeting range of auto-aim moves.
 
  |
-|  | Aeon Logstone | +2 Duration
+|  | 
+
+Aeon Logstone
+
+ | +2 Duration
 
 \-1 Range  
 +?? Ether Cost
@@ -92,7 +112,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Doesn't increase the duration of Adrenaline Rush.
 
  |
-|  | Eternal Logstone | +3 Duration  
+|  | 
+
+Eternal Logstone
+
+ | +3 Duration  
 
 +?? Ether Cost
 
@@ -102,7 +126,13 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Add 3 keys to Ritual Casts
 
  |
-| File:Drift & Rush shard.png | Drift Shard | +2 Speed
+| File:Drift & Rush shard.png | 
+
+Drift
+
+Shard
+
+ | +2 Speed
 
 \-1 Duration  
 +?? Ether Cost
@@ -113,7 +143,13 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Repeating mantras (ex; Lightning Assault) perform their loops/repeated actions quicker.
 
  |
-| File:Drift & Rush shard.png | Rush Shard | +3 Speed  
+| File:Drift & Rush shard.png | 
+
+Rush
+
+Shard
+
+ | +3 Speed  
 
 +?? Ether Cost
 
@@ -123,12 +159,22 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 -   Repeating mantras (ex; Rapid Punches) perform their loops/repeated actions quicker.
 
  |
-|  | Amnesic Driftwood | Removes all Modifiers on a Mantra | 
+|  | 
+
+Amnesic Driftwood
+
+ | Removes all Modifiers on a Mantra | 
 
 -   Remove every single modifier previously added to the mantra, including sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
 
  |
-|  | Glass Stone | Applicable to all spells, and causes the primary projectile to be turned invisible.
+|  | 
+
+Glass
+
+Stone
+
+ | Applicable to all spells, and causes the primary projectile to be turned invisible.
 
 +1 Size  
 +1 Range  
@@ -145,7 +191,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
     -   Effect: Makes the impact of Glacial Arc summon ice spikes around it the way a round spark modified Ice Eruption does, only smaller.
 
  |
-|  | Magnifying Stone | Likely same as Glass Stone, just better
+|  | 
+
+Magnifying Stone
+
+ | Likely same as Glass Stone, just better
 
 +2 Size  
 +2 Range  
@@ -156,7 +206,11 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
 
  |  |
-|  | Vibrant Gem | +2 Intensity  
+|  | 
+
+Vibrant Gem
+
+ | +2 Intensity  
 
 +?? Ether Cost
 
@@ -196,25 +250,49 @@ For more information on Deep Gems, [click here](Deep_Gems.md)
 
 | Image | Modifier | Effect |
 | --- | --- | --- |
-|  | Insignia Gem | The next Mantra you cast within a short timeframe will have a 25% windup reduction. |
+|  | 
+Insignia Gem
+
+ | The next Mantra you cast within a short timeframe will have a 25% windup reduction. |
 | 
- | Bloodless Gem | Heals user by 50% of the damage dealt by the Mantra.
+
+ | 
+
+Bloodless Gem
+
+ | Heals user by 50% of the damage dealt by the Mantra.
 
 Reduces damage of mantra for 20%.
 
  |
 | 
 
- | Blessed Gem | Halves the cooldown of the Mantra. |
+ | 
+
+Blessed Gem
+
+ | Halves the cooldown of the Mantra. |
 | 
 
- | Blue Gem | Reduces Mantra ether cost by half. |
+ | 
+
+Blue Gem
+
+ | Reduces Mantra ether cost by half. |
 | 
 
 File:Screenshot 59.png
 
- | Wayward Gem | You will teleport to the first enemy hit by the mantra. |
-|  | Wind Gem | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
+ | 
+
+Wayward Gem
+
+ | You will teleport to the first enemy hit by the mantra. |
+|  | 
+
+Wind Gem
+
+ | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
 **Sparks:**
 
@@ -229,7 +307,11 @@ If the modifier cannot be applied to the specific Mantra you use it on, a messag
 | 
 File:Magnet spark PNG.png
 
- | Magnet Spark | 
+ | 
+
+Magnet Spark
+
+ | 
 
 -   Flame Blind
 
@@ -250,7 +332,11 @@ File:Magnet spark PNG.png
 
 Round Spark
 
- | Round Spark | 
+ | 
+
+Round Spark
+
+ | 
 
 -   Fire Gun
 
@@ -261,7 +347,13 @@ Round Spark
 
 Blast Spark
 
- | Blast Spark | 
+ | 
+
+Blast
+
+Spark
+
+ | 
 
 -   Frost Grab
 
@@ -282,7 +374,11 @@ Blast Spark
 
 Reversal Spark
 
- | Reversal Spark | 
+ | 
+
+Reversal Spark
+
+ | 
 
 -   Flame Leap
 
@@ -305,7 +401,11 @@ Reversal Spark
 
 File:Image 2021-12-31 211633.png
 
- | Multiplying Spark | 
+ | 
+
+Multiplying Spark
+
+ | 
 
 -   Wind Gun
 
@@ -318,7 +418,11 @@ File:Image 2021-12-31 211633.png
 
 Spring Spark
 
- | Spring Spark | 
+ | 
+
+Spring Spark
+
+ | 
 
 -   Ice Laser
 
@@ -331,7 +435,11 @@ Spring Spark
 
 Tornado spark
 
- | Tornado Spark | 
+ | 
+
+Tornado Spark
+
+ | 
 
 -   Fire Blade (Confirmed broken as of 1st of May 2022)
 
@@ -348,7 +456,11 @@ _"You feel dizzy when you hold it."_
  |
 | 
 
- | Mirage Stone | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
+ | 
+
+Mirage Stone
+
+ | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
 
 Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, either the sanity recover is very slightly or it does something else.
 
@@ -357,14 +469,22 @@ Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, 
  |
 | 
 
- | Falseflame Stone | Unknown. | _"The azure stone glows vibrantly, but emits no warmth."_
+ | 
+
+Falseflame Stone
+
+ | Unknown. | _"The azure stone glows vibrantly, but emits no warmth."_
 
 -   Gigamed drop. (Devs only)
 
  |
 | 
 
- | Haunting Stone | Unknown. | _"You feel unsettled when grasping this stone"_
+ | 
+
+Haunting Stone
+
+ | Unknown. | _"You feel unsettled when grasping this stone"_
 
 Could give insanity on to the target if attack hits. Looks identical to falseflame.
 
@@ -380,11 +500,17 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Frost Grab | File:Frostgrab base range.gif | File:Frost Grab with Blast Spark.gif | 
+| 
+Frost Grab
+
+ | File:Frostgrab base range.gif | File:Frost Grab with Blast Spark.gif | 
+
 -   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" Mantra.
 
  |
-| Ice Forge
+| 
+
+Ice Forge
 
 (★)
 
@@ -393,7 +519,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Lightning Clones
+| 
+
+Lightning Clones
 
 (★)
 
@@ -402,7 +530,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier causes the clones in the "Lightning Clones" Mantra to explode on death.
 
  |
-| Lightning Stream
+| 
+
+Lightning Stream
 
 (★)
 
@@ -411,7 +541,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier causes the "Lightning Stream" mantra to shock it's opponent instead of pulling them.
 
  |
-| Wind Gun
+| 
+
+Wind Gun
 
 (★★)
 
@@ -421,7 +553,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   Do note that this Spark will override the effects of a Multiplying Spark.
 
  |
-| Shade Devour
+| 
+
+Shade Devour
 
 (★)
 
@@ -431,7 +565,11 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   Can be paired with Multiplying Spark.
 
  |
-| Shadow Gun |  | File:Shadow Gun with Blast Spark.gif | 
+| 
+
+Shadow Gun
+
+ |  | File:Shadow Gun with Blast Spark.gif | 
 
 -   This modifier causes the "Shadow Gun" Mantra to hit multiple times.
 
@@ -443,11 +581,17 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Flame Blind |  | File:Flame Blind with Magnet Spark.gif | 
+| 
+Flame Blind
+
+ |  | File:Flame Blind with Magnet Spark.gif | 
+
 -   This modifier makes the "Flame Blind" Mantra follow and flash towards the opponent.
 
  |
-| Ice Chain
+| 
+
+Ice Chain
 
 (★)
 
@@ -456,7 +600,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier seems to have no effect on the "Ice Chain" mantra.
 
  |
-| Ice Forge
+| 
+
+Ice Forge
 
 (★)
 
@@ -465,17 +611,27 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Jolt Grab | File:Jolt Grab.gif | File:Jolt Grab with Magnet Spark.gif | 
+| 
+
+Jolt Grab
+
+ | File:Jolt Grab.gif | File:Jolt Grab with Magnet Spark.gif | 
 
 -   This modifier changes "Jolt Grab" Mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
 
  |
-| Lightning Blade |  | File:Lightning Blade with Magnet Spark.gif | 
+| 
+
+Lightning Blade
+
+ |  | File:Lightning Blade with Magnet Spark.gif | 
 
 -   (Work in Progress)
 
  |
-| Lightning Stream
+| 
+
+Lightning Stream
 
 (★)
 
@@ -484,7 +640,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Spark Swap
+| 
+
+Spark Swap
 
 (★★★)
 
@@ -493,7 +651,11 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier seems to have no effect on the "Spark Swap" mantra.
 
  |
-| Strong Leap |  | File:Strong Leap with Magnet Spark.gif | 
+| 
+
+Strong Leap
+
+ |  | File:Strong Leap with Magnet Spark.gif | 
 
 -   This modifier is compatible with "Strong Leap" Strength mantra.
     -   Appears to jump slightly more in the direction of an ally.
@@ -506,7 +668,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Wind Gun
+| 
+Wind Gun
+
 (★★)
 
  |  | File:Wind Gun with Multiplying Spark.gif | 
@@ -514,7 +678,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range wind bullets instead of 1 long-range bullet.
 
  |
-| Shade Bringer
+| 
+
+Shade Bringer
 
 (★★★)
 
@@ -524,7 +690,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   Can be paired with Spring Spark.
 
  |
-| Shade Devour
+| 
+
+Shade Devour
 
 (★)
 
@@ -541,11 +709,17 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Burning Servants |  | File:Burning Servants with Reversal Spark.gif | 
+| 
+Burning Servants
+
+ |  | File:Burning Servants with Reversal Spark.gif | 
+
 -   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards.
 
  |
-| Flame Leap
+| 
+
+Flame Leap
 
 (★★)
 
@@ -555,7 +729,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   Beware, this has a very buggy hitbox.
 
  |
-| Lightning Impact
+| 
+
+Lightning Impact
 
 (★★)
 
@@ -564,12 +740,18 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier seems to have no effect on the "Lightning Impact" mantra.
 
  |
-| Air Force |  | File:Air Force with Reversal Spark.gif | 
+| 
+
+Air Force
+
+ |  | File:Air Force with Reversal Spark.gif | 
 
 -   This modifier reverses the "Air Force" Mantra to pull targets in, instead of blasting them away.
 
  |
-| Gale Punch
+| 
+
+Gale Punch
 
 (★)
 
@@ -578,7 +760,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Tornado
+| 
+
+Tornado
 
 (★)
 
@@ -588,7 +772,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   This modifier is still in the game as a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
 
  |
-| Shadow Chains
+| 
+
+Shadow Chains
 
 (★☆☆)
 
@@ -597,12 +783,20 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Adrenaline Surge |  | File:Adrenaline Surge with Reversal Spark.gif | 
+| 
+
+Adrenaline Surge
+
+ |  | File:Adrenaline Surge with Reversal Spark.gif | 
 
 -   This modifier seems to have no effect on the "Adrenaline Surge" mantra.
 
  |
-| Revenge |  | File:Adrenaline Surge with Reversal Spark.gif | 
+| 
+
+Revenge
+
+ |  | File:Adrenaline Surge with Reversal Spark.gif | 
 
 -   This modifier is compatible with the "Revenge" Mantra, causing it to deal no damage.
 
@@ -614,11 +808,17 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Fire Gun |  | File:Fire Gun with Round Spark.gif | 
+| 
+Fire Gun
+
+ |  | File:Fire Gun with Round Spark.gif | 
+
 -   This modifier causes the bullets of the "Fire Gun" mantra to split into two.
 
  |
-| Ice Eruption
+| 
+
+Ice Eruption
 
 (★)
 
@@ -635,17 +835,27 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Ice Laser |  | File:Ice Laser with Spring Spark.gif | 
+| 
+Ice Laser
+
+ |  | File:Ice Laser with Spring Spark.gif | 
+
 -   This modifier causes the projectile of the "Ice Laser" mantra to stop in place when shot for a brief amount of time, then goes forward.
     -   Think Knives in a certain stopping of time
 
  |
-| Crystal Knee |  | File:Crystal Knee with Spring Spark.gif | 
+| 
+
+Crystal Knee
+
+ |  | File:Crystal Knee with Spring Spark.gif | 
 
 -   This modifier causes the "Crystal Knee" mantra to perform a spin kick after the initial backflip kick that sends the opponent flying.
 
  |
-| Shade Bringer
+| 
+
+Shade Bringer
 
 (★★★)
 
@@ -662,11 +872,17 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
-| Fire Blade |  | File:Fire Blade with Tornado Spark.gif | 
+| 
+Fire Blade
+
+ |  | File:Fire Blade with Tornado Spark.gif | 
+
 -   This modifier seems to have no effect on the "Fire Blade" mantra.
 
  |
-| Champion Twister
+| 
+
+Champion Twister
 
 (★★)
 
@@ -675,7 +891,9 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 -   (Work in Progress)
 
  |
-| Storm Blades
+| 
+
+Storm Blades
 
 (★)
 
@@ -685,7 +903,11 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   Adding some Logstones might increase it's duration.
 
  |
-| Dark Blade |  | File:Dark Blade with Tornado Spark.gif | 
+| 
+
+Dark Blade
+
+ |  | File:Dark Blade with Tornado Spark.gif | 
 
 -   This modifier adds a spin at the end of the "Dark Blade" Mantra.
 

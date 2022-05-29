@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 30031
+revid: 31021
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,15 +15,37 @@ Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and alway
 
 ## Moves
 
-Their arsenal consists of a Dagger and [Shadowcast](Shadowcast.md):
+Their arsenal consists of a [Krulian Dagger](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) Attunement:
 
-### **Moves:**
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
 
--   **Dagger Attack**: Common dagger M1's, can be easily parried.
--   **Mudskippermancing**: The Cultist instantaneously summons 3 [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until the Mudskippers are killed. These ones are slightly more intelligent, as they will rarely try to block sometimes.
-    -   Red-robed mudskippers are called "Redskippers" and have "[Flamecharm](Flamecharm.md)" as their attunement. These throw fireballs.
-    -   Blue-robed mudskippers are called "Blueskippers" and have "[Frostdraw](Frostdraw.md)" as their attunement. These summon Warden Blades, a Frostdraw mantra.
--   **Shadow Roar**: Exhale a giant cloud of shadow, it deals constant damage and ether drain per second to anyone who are involved in the area. Can be both blocked and parried. Leaves it vulnerable, giving the player the chance for an easy flourish.
+ | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| 
+
+Critical
+
+ | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
+| 
+
+Shadow Roar
+
+(★★☆)
+
+ | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second anyone stands in it. | ✗ | ? | (★★☆) |
+| 
+
+Summon
+
+Necro-skippers
+
+ | Summons 3 [Mudskippers](Mudskipper.md) around himself becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
+
+### Boons
+
+-   Third Eye - User cannot be assassinated under any circumstances.
 
 ## Trivia
 

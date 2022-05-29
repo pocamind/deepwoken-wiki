@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 30674
+revid: 31011
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,7 +22,7 @@ Their arsenal consists of an [Officer Saber](Officer_Saber.md) and the [Thunderc
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings sword at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Jolt Grab (Magnet Spark) | An electrified chokehold. | ◯ | ◯ | (★★☆) |
+| (Magnet Spark) Jolt Grab | An electrified chokehold. | ◯ | ◯ | (★★☆) |
 | Thunder Kick | An unrelenting kick like a clap of thunder. | ◯ | ◯ | (★★☆) |
 
   
