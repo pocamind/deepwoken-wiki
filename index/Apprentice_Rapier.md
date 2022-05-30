@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 31055
+revid: 31074
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -19,7 +19,7 @@ categories: [Weapons, Weaponry]
 | endlag | None |
 | penetration | None |
 | stances | 1 Handed |
-| selling price | ? |
+| selling price | 18 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
@@ -27,6 +27,10 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Starswept ValleyThe Depths [?] |
 | description | "Your trusty weapon." |
+
+“ It's not that you ain't skilled, it's because you aren't balling on that stank ass Windows 95 Puter ”
+
+― Ganymede fighting a Felinor in the chime of conflict
 
 ## Description
 

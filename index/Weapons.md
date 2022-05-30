@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 31004
+revid: 31086
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -329,7 +329,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
 
 **Rapiers:**
 
-Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the damage of a Light Weapon combined with the lower speed of a Medium Weapon, making it essentially worse than both in every way.
+Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the damage of a Light Weapon combined with the lower speed of a Medium Weapon. They boast a power 4 hit critical attack that deal full damage.
 
 <table>
 <tbody>
@@ -353,6 +353,28 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8</td>
   <td>0.8x</td>
+  <td>No</td>
+</tr>
+<tr>
+  <td><a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></td>
+  <td>40 LHT</td>
+  <td>14</td>
+  <td>10%</td>
+  <td>LHT: 7</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.81x</td>
+  <td>No</td>
+</tr>
+<tr>
+  <td><a href="Crucible_Rapier.md">Crucible Rapier</a></td>
+  <td>75 LHT</td>
+  <td>15</td>
+  <td>20%</td>
+  <td>LHT: 9</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.82x</td>
   <td>No</td>
 </tr>
 </tbody>
