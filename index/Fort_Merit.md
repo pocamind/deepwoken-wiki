@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 29068
+revid: 31106
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -68,7 +68,7 @@ Bellow is a list of NPCs and their uses (that are known) that you can find thoro
 -   [Brutus](Attributes_Unbound.md) (Fortitude Uncap)
 -   Innkeeper (Sets spawn)
 -   [Guild Clerk](Guilds.md) (Guild stuff)
--   Kana
+-   [Kana](Kana.md)
 -   [Banker](Artifacts.md) (Artifact returns)
 -   Kiternon
 -   [Antiquarian](Antiquarian.md) (Selling)

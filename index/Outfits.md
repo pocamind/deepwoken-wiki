@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31088
+revid: 31108
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -165,11 +165,6 @@ _Requires Fortitude 15_
 File:Captainskabuto.png
 
  | Captain's Kabuto | Grants a random buff. | (Work in Progress) | N/A |
-| 
-
-80×80px
-
- | Guard's Kabuto | Grants a random buff. | Artifact Turn-ins | N/A |
 | File:Feathertop Helm.png | Feathertop Helm | Grants a random buff. | Artifact Turn-ins | N/A |
 | File:Gladiator Helmet.png | Gladiator Helmet | Grants a random buff.
 

@@ -1,36 +1,39 @@
 ---
 title: Ignition Union Fighter
-revid: 27570
+revid: 31118
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Ignition Union Fighter
 
-Template:Creature Infobox V3
+Template:EnemyInfobox1.0
 
 ## Description
 
-Spawns during Ignition Union vs Akira and Ignition Union vs Summer Company events. Equipped with Sword or Darksteel Greatsword. Interactable only after Ignition Union vs Summer Company event finishes.  
+An Ignition Union Guard is a type of enemy NPC that spawns during Ignition Union vs Akira and Ignition Union vs Summer Company events. Interactable only after Ignition Union vs Summer Company event finishes.
+
+A Ignition Union Guard only wears a [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 
 ## Moves
 
-Ignition Union Guards are equipped with Sword or Darksteel Greatsword.
+An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md):
 
-**Moves:**
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings blade at opponent and finishing the combo by kicking them. |  |  |  |
+| Critical |  |  |  |  |
 
--   **Basic Swing:** Same as M1 attack with Sword or Darksteel Greatsword.
--   **Heavy Attack:** Same with critical attack with Sword or Darksteel Greatsword.
-
-  
+| Finisher | Description |
+| --- | --- |
+| Execute | User pins down the opponent and slices their throat with their blade. |
 
 ## Tips
 
--   When you're fighting an Ignition Union Guard, treat them like an elite bandit but with more health.
+-   When you're fighting an Ignition Union Guard, treat them like an [Bandit Captain](Bandit_Leader.md) but with more health.
 -   Apply standard humanoid fighting tactics.
 -   They don't use mantras. It is easy to escape them when you're getting low.
-
-  
+-   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
 
 ## Trivia
 

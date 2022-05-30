@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 30688
+revid: 31109
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,4 +26,4 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) and th
 
 ## Trivia
 
--   All Nomads are [Gremor](Gremor.md).
+-   All Nomads are [Gremors](Gremor.md).
