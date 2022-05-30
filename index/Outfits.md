@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31054
+revid: 31088
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -271,7 +271,7 @@ _Disappears on death or leaving the game._
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
-|  | Gladiator Pauldrons | Grants a random buff. | Fishing Chests (Work in progress) | N/A |
+|  | Gladiator Pauldrons | Grants a random buff. | Depths Chests (Work in progress) | N/A |
 | 
 
  | Grand Pauldrons | Grants a random buff. | Placeholder | N/A |

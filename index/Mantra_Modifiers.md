@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31013
+revid: 31092
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -70,7 +70,9 @@ Stratus Stone
  |
 |  | 
 
-Crystal Lens
+Crystal
+
+Lens
 
  | +2 Range
 
@@ -85,7 +87,9 @@ Crystal Lens
  |
 |  | 
 
-Perfect Lens
+Perfect
+
+Lens
 
  | +3 Range  
 
@@ -208,7 +212,9 @@ Magnifying Stone
  |  |
 |  | 
 
-Vibrant Gem
+Vibrant
+
+Gem
 
  | +2 Intensity  
 
@@ -334,7 +340,9 @@ Round Spark
 
  | 
 
-Round Spark
+Round
+
+Spark
 
  | 
 
@@ -420,7 +428,9 @@ Spring Spark
 
  | 
 
-Spring Spark
+Spring
+
+Spark
 
  | 
 
@@ -458,7 +468,9 @@ _"You feel dizzy when you hold it."_
 
  | 
 
-Mirage Stone
+Mirage
+
+Stone
 
  | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
 

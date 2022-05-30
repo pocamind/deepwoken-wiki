@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 30999
+revid: 31099
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -75,7 +75,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <b>The effects of the Viscosity are disabled if using this curse.</b></p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
+  <td><figure><figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>When hitting an enemy:<br>
   does 2x damage on proc<br>
   also a chance that on proc u receive the damage</p>
@@ -97,7 +97,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>When above 90% HP, gain a 25% damage increase on your weapon.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>
+  <td><figure><figcaption></figcaption></figure><div>Detonation</div></td>
   <td><div><p>After hitting a target a certain amount of time (Guns: 5, LHT: 7, MED: 4, HVY: 3), make them explode, dealing bonus damage + AOE damage around them. The explosion can execute.</p>
   <p><br>
   </p></div></td>
