@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 31107
+revid: 31132
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Deep Widow , The Depths (Maybe) |
+| obtainment | Starswept Valley, Deep Widow , The Depths |
 | description | Your trusty weapon. |
 
 ## Description

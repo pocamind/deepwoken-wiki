@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 30575
+revid: 31133
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -12,141 +12,149 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 ## Description
 
-Npcs are very useful help in the game. However if you attack the guards THEY WILL ATTACK YOU AND FINSH YOU OFF, But if you attack an random player near an guard or the Etrea, Ises then make sure to watch out since people can have alot of charisma and attacking them with that will mean the end of you.
+NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) stat will unlock special interactions with them.
 
-There are some other Npcs such has merchants they will provide you things as long has you have the notes
-
-There are some npcs you can find that can Upgrade or give you training for you abilltys  
-
-  
-
-### **The Authority**
-
--   Affiliations - Summer Company. The Divers
--   Locations - Fort Merit, Central Luminant,
--   Hostile against - Monsters, Bandits, The Legion, Etris, Players, The Hive (Negative Reputation)
--   Appearance - Iron Armor, Pirate-like Armor, Silver Helmets, (Adretians for the captains) (Fort merit guards could be any race)
--   Equipment - Swords, Spears, Greataxes, Flamecharm Spells, Frostdraw Spells, Thundercall Spells
--   Player Reputable? - Yes, inflicts with The Legion, Etris and The Hive
-
-#### Lore
-
-Warlord of the Central Authority battles againts Lord Regent or something, Look for [Windrunner](Windrunner.md) page for lore about it.
-
-### **Etrea**
-
--   Affiliations - Etris, Isle of Vigils
--   Hostile against - Monsters, Bandits, The Authority, Players (Negative Reputation) Nomads of Navae (Why tf has nobody added this yet)
--   Appearance - Green/Purple/White/Black outfits, Etreans
--   Equipment - Swords, Spears, Greataxes, Maces, Galebreathe Spells
--   Player Reputable? - Yes, inflicts with The Authority and The Hive
-
-#### Lore
-
-Main government of Etris. The Lord Regent, holds a reputation of incredible power.
-
-### The Pathfinders
-
--   Affiliations - Unknown
--   Hostile against - Bandits, The Legion, (possibly etrea).
--   Appearance - Pathfinder Armor
--   Equipment - Swords, daggers, Frostdraw spells (known as of now)
--   Player Reputable? - Unknown
-
-#### Lore
-
-An organization that preserves whats left before the tides came. Historians that safeguards Artifacts, such as the Pieces of the Forge.  
-
-### **Vigils of the Blades**
-
--   Affiliations - Vigils, Etris
--   Hostile against - Bandits, Negative rep player
--   Appearance - White Armor set - Cloak of Winds armor with Vigil Hoods (can be any race)
--   Equipment - Katanas, Galebreathe Spells
--   Player Reputable? - Possibly (Currently align with Etrea)
-
-#### Lore
-
-(Placeholder)  
-
-### **Children of Navae**
-
--   Affiliations - Neutral
--   Hostile Against - Bandits, Summer Company, Ministry, Ignition Union, Etrea (Legit grip guards)
--   Appearance - Navaen Armor, Gremors
--   Equipment - Spears, Swords, Fists, Frostdraw Spells
--   Player Reputable? - Yes
-
-#### Lore
-
-(Placeholder)
-
-### **[Summer Company](The_Summer_Company.md)**
-
--   Affiliations - The Authority
--   Locations - Summer Isle
--   Hostile against - Bandits, Ignition Union, Players (Negative Reputation), Nomads of Navae
--   Appearance - Black Clothing
--   Equipment - Guns
--   Player Reputable? - Yes.
-
-#### Lore
-
-Business men, they are advanced in tech however they are not good at using magic or swords.
-
-### **The Hive**
-
--   Affiliations - Unknown
--   Locations - Greathive Aratel, The Lordsgrove
--   Hostile Against - Etrea, The Central Authority, Players (Negative Reputation)
--   Appearance - Black-clothed Vesperians or Ganymedes
--   Equipment - Swords and Battleaxes
--   Player Reputable? - Yes, inflicts with Etrea and The Authority
-
-#### **Lore**
-
-A group of supreme warriors who plan to grow their island and become the best. They do this with "life weaving" which they use on the tree upon which they grow their base on.
-
-The Hive can also upgrade your ship using their "life weaving", but other factions doubt their ability to out grow the next flood. They use the sap from the tree to use relocation magic, to travel from place to place. (unconfirmed)
-
-### [The Divers](The_Divers.md)
-
--   Affiliations - The Authority
--   Locations - The Depths / Void Sea
--   Hostile against - Depths Monsters, Non-Divers (Negative Reputation), Players (Negative Reputation)
--   Appearance - Blue/Green Clothing (Diver Apprentice, Diver), Black Clothing (Black Diver), Adretians
--   Equipment - Melee Weaponry / Magic
--   Player Reputable? - Yes
--   Faction is joinable via the Akira Questline
-
-#### **Lore**
-
-You can get a lot of the lore from travelling to the Castle of Light (Diver HQ in the depths), after meeting Akira elsewhere in the depths. There you will learn a lot more about what the divers do. They apparently have different groups within them. (Akira is part of the research group, and he explains he was securing a area from any other threats before the group arrived.) Another fact we learn from Akira is that 2% of Divers survive.
-
-You can also get alot of gear from loresns
-
-### Ministry
-
--   Affiliations - Unknown.
--   Locations - Minityrsa and Summer Isle.
--   Hostile against - Players, Children of Navae and Summer Company (probably more).
--   Appearance - Black clothing that looks like Prophet's cloak, also wear blindfolds and hats except the ganymede ones that summon spellcasting mudskippers.
--   Equipment - Krulian Dagger / Shadow magic / Tacet.
--   Player Reputable? - Surprisingly yes, when doing [Murmur: Tacet](Murmur.md) quest, after 6th assassination you will start getting their reputation. Alternatively you can assist them in Summer Isle where they can be found battling Children of Navae.
-
-**Lore**
-
-The Ministry's primary goal is to bring forth the horrors and achieve the Drowned Gods' goal of engulfing the whole world with water. They also have members known as contractors, one such being the Lord Regent of Etrea (as stated by Warden Jericho's book). This group was thought to have been eradicated after they assisted in the drowning of Celtor.
-
-### The Knives of Eylis
-
--   Affiliations - Unknown
--   Locations - Somewhere on Songseeker Isle, Pathfinder's Respite in Lower Erisia, Upper Erisia, Viper's Jaw, and the Aratel Ship Battle. (Maybe more)
--   Hostile Against - Players, Aratel, and Authority, (probably more).
--   Appearance - Red armor that kind of looks like Samurai armor.
--   Equipment - Not sure what weapons they have, they use time mantras where they slow you down, I'm not sure what other abilities they have.
--   Player Reputable? - Yes, when one is gripped it says "Your actions anger The Knives of Eylis..."
-
-**Lore**
-
-I'm not sure of what they have for lore, I just know that they are pirates.
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>NPC</th>
+  <th>Faction</th>
+  <th>Location</th>
+  <th>Purpose</th>
+  <th>Notes</th>
+</tr>
+<tr>
+  <td><a href="Aelita.md">Aelita</a></td>
+  <td>Unaligned</td>
+  <td><a href="The_Valley_of_Heroes.md">Valley of Heroes</a></td>
+  <td>Aelita event</td>
+  <td>Does not spawn during Winter</td>
+</tr>
+<tr>
+  <td>Brutus</td>
+  <td><a href="The_Hundred_Legions.md">The Hundred Legions</a></td>
+  <td><a href="Fort_Merit.md">Fort Merit</a></td>
+  <td>Fortitude unbound</td>
+  <td>Leaves the player knocked and vulnerable to guards</td>
+</tr>
+<tr>
+  <td>Kana</td>
+  <td><a href="The_Central_Authority.md">The Authority</a></td>
+  <td><a href="Fort_Merit.md">Fort Merit</a></td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Karliah</td>
+  <td><a href="The_Divers.md">The Divers</a></td>
+  <td><a href="Etris.md">Etris</a></td>
+  <td>Charisma unbound quest</td>
+  <td>Having 10 Charisma allows you to charge her</td>
+</tr>
+<tr>
+  <td>Kennith</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a>, steps near Etris Palace</td>
+  <td>Begins Lord Regent questline</td>
+  <td>Requires positive Etrea reputation, is killed during the events of the quest, cannot be interacted with afterwards</td>
+</tr>
+<tr>
+  <td>Lance's Brother</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a>, Lance's Food</td>
+  <td>Food Vendor, gives crate delivery quest</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Lance Leshi</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a>, Lance's Food</td>
+  <td>Food Vendor</td>
+  <td>LANCE LESHI</td>
+</tr>
+<tr>
+  <td>The Lord Regent</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a>, <a href="The_Ministry.md">The Ministry</a></td>
+  <td><a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a></td>
+  <td>Lord Regent questline</td>
+  <td>Kills the player instantly if they are not permitted to enter</td>
+</tr>
+<tr>
+  <td>The Meat Lord</td>
+  <td>Unaligned</td>
+  <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Summer_Isle.md">Summer Isle</a></td>
+  <td>Food Vendor</td>
+  <td>Only sells meat, will not answer to Vegetarians</td>
+</tr>
+<tr>
+  <td>The Nestmind</td>
+  <td>Unaligned</td>
+  <td></td>
+  <td>Grants <a href="Oaths.md">Oath: Visionshaper</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Nyanna</td>
+  <td><a href="The_Divers.md">The Divers</a></td>
+  <td></td>
+  <td>Equipment Vendor</td>
+  <td>Stock changes, weapons and armor can be bought enchanted</td>
+</tr>
+<tr>
+  <td>Plume</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a>, Lance's Food</td>
+  <td>Gives dying ember retrieval quest, grants talent card</td>
+  <td>Quest can be bypassed with either high Flamecharm stat or high Charisma stat</td>
+</tr>
+<tr>
+  <td>Royal Guard</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etrean_Wilds.md">Etrean Wilds</a>, a hill behind the Nomad Camp</td>
+  <td>Lord Regent questline, grants access to <a href="Etris_Palace.md">Etris Palace</a></td>
+  <td>Not to be confused with the <a href="Etrean_Royal_Guard_(Enemy).md">enemy type</a></td>
+</tr>
+<tr>
+  <td>Scope</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, left tower near the stairs to the castle</td>
+  <td>Gives a chest to those who give him Explosives Crates</td>
+  <td></td>
+</tr>
+<tr>
+  <td>The Stranger</td>
+  <td><a href="The_Ministry.md">The Ministry</a></td>
+  <td><a href="Erisia.md">Erisia</a></td>
+  <td>Grants Murmur: Tacet to those with 10 Charisma</td>
+  <td>Having less than 10 Charisma initiates a fight, extremely buggy and unfinished</td>
+</tr>
+<tr>
+  <td>Statos</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a></td>
+  <td>Grants a talent to those who meet his requirements</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Surge</td>
+  <td>Unaligned</td>
+  <td><a href="The_Depths.md">The Depths</a></td>
+  <td>Teleports you to the Nestmind if give Void Feathers</td>
+  <td>Will take your Void Feathers to unlock more Visionshaper mantras</td>
+</tr>
+<tr>
+  <td>Theadre</td>
+  <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
+  <td><a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a></td>
+  <td>None</td>
+  <td>Dialogue varies based on Etris reputation, race and weapon equipped</td>
+</tr>
+<tr>
+  <td>Trig</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
+  <td><a href="Summer_Isle.md">Summer Isle</a>, Inn</td>
+  <td>Grants Loansharking quest</td>
+  <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two Summer Company Guards</td>
+</tr>
+</tbody>
+</table>

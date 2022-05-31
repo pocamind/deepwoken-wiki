@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 29198
+revid: 31135
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -36,5 +36,6 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
     
     Mr Goozer's message.
     
+-   Meat lord is the bane of all vegetarians and will roast the living out of them, also able to one punch duke and ferryman.
 -   Agamatsu asked Ragoozer on who would win Big Hoss or the Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
 -   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
