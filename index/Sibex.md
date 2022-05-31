@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 30063
+revid: 31165
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance, Boss, Dialogue, Deepwoken, Character]
@@ -22,7 +22,7 @@ Where Sibex can be found
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
 -   **Resonance Available:** "Well look at you, my friend! You're practically beaming with the Song!" (Currently glitched, if it says this but you do not have a bell available, rejoin to different servers until he changes his dialogue.)
--   **Arena, Bosses and Depths:** "Hmm... Given you accomplishments, it's hard to sat just where you're lacking... Perhaps the Depths might prove fruitful to you?"
+-   **Arena, Bosses and Depths:** "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
 
 ### Dialogue when meeting him:
 

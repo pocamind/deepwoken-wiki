@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 30855
+revid: 31162
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -90,9 +90,9 @@ List of agility talents
 
 ### Willpower
 
-“ Grant us eyes, **GRANT US EYES!** Grant us eyes, on the inside! ”
+“ I know what I have to do, I just don't know if I have the strength to do it... ”
 
-― Etrean, prostrating themselves before Yun'Shul.
+― Etrean before prostrating themselves before Yun'Shul.
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -103,9 +103,9 @@ List of agility talents
 
 ### Charisma
 
-“ I know how to get stronger, it's called a vow of mastery. Want to make one... ? ”
+“ You wanna make a vow of mastery? You wanna make a vow of mastery? C'mon you wanna make a vow of mastery? ”
 
-― Felinor, offering legal slavery to a Stranded Vesperian.
+― Felinor offering legal slavery to anyone he can.
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
@@ -176,7 +176,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Sure is cold for some reason... ”
 
-― Clueless Gremorian, drinking from the well.
+― Clueless Gremor, drinking from the well.
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
@@ -185,9 +185,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Thundercall
 
-“ AND HE **HURRRRLED** HIS THUNDERBOLT! ”
+“ Lanza del relampago! ”
 
-― Celtor, describing his fight against a Megalodaunt.
+― Celtor yeeting a grand javelin.
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.
@@ -196,9 +196,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
-“ Taste the wind! ”
+“ Man, they put chips in my packet of air again... ”
 
-― Katana-wielding Khan.
+― Khan buying Lays oven baked chips.
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
@@ -206,7 +206,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Shadowcast
 
-“ Oh boy! Sure feel like gripping some stranded today! ”
+“ Feel the power... OF THE DARK SIDE! ”
 
 ― 'Uber' Shadowcaster.
 
