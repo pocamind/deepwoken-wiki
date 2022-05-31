@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 31135
+revid: 31140
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -16,11 +16,12 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 
 -   Calamari
 -   Fish Omelette - Boosts your Mantra Damage.
--   Glazed Fish - Boosts your M1 Attack Damage.
+-   Glazed Fish - Boosts your Weapon Damage.
 -   Seafood Boil - Makes your hunger go down slower for a limited time.
 -   Sushi
 -   Mushroom Bisque
 -   Cooked Fish
+-   Megurger - Boosts your Weapon Damage, vomit if you're unworthy.
 
 ## Notes/Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Crucible Rapier
-revid: 31077
+revid: 31150
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Pages with broken file links]
 ---
 
 # Crucible Rapier
@@ -27,6 +27,20 @@ categories: [Weapons]
 | pass down | Yes |
 | obtainment | Starswept ValleyThe Depths [?] |
 | description | "Your trusty weapon." |
+
+File:Rc.png
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
 ## Description
 

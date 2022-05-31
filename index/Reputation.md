@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 30450
+revid: 31160
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 # Reputation
 
-“ The guard gives you a crooked smile. 'Have a nice day, friend. If you ever get into trouble, you know who to look for...' ”
+“ Don’t worry, gripping one hive guard won’t hurt my reputation ”
 
-― Nerin
+― Celtor before being bombarded by hive guards
 
   
 
@@ -182,4 +182,5 @@ Some quests in the game allow you to get reputation with certain factions, some 
     -   You cannot get good rep with Celtor, but can lose rep, essentially meaning once you are in the negative you will stay that way.
     -   You can get good rep with The Ignition Union, but as you can no longer gain negative rep from events, it is impossible to get negative rep.
 -   Spitting on a guard causes them to aggro on you.
+-   A lot of charisma talents positively help with reputation
 -   The Ministry is the only Faction that all players start out with Negative Reputation on spawn.

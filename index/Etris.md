@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 29961
+revid: 31157
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -178,6 +178,7 @@ To begin this quest, talk to Karliah, an Adret Diver. She is located in a house 
     -   You must have Charisma ~10 to charge Karliah.
 -   Save her from the Mudskipper that is attacking her.
 -   Interact with her.
+-   This quest is very easy to screw up, and if you do so there is no way to uncap charisma, so be careful. (Don’t be a chad)
 
 #### Ending 1: Promise Broken
 
