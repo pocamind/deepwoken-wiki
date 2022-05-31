@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31134
+revid: 31172
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -300,8 +300,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryoni
 
+-   Cryostasis \[Common Talent\] - When block broken, fragile freeze yourself, negating the damage of the next attack. \[+3 Elemental Intensity, +1 Health\]
 -   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
-    -   Prerequisites: Cryostasis Mantra
+    -   Prerequisites: Cryostasis
 
 ### Cutthroat
 

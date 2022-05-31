@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31108
+revid: 31168
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -503,9 +503,9 @@ _Requires Power 30_
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
     -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
-    -   **Pathfinder Journeyman** is also bugged/will give you grandmaster pathfinder instead.
--   Some Armors such as Star Duster and all of the Royal Duelists require enough Power to use
--   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer
+    -   **Pathfinder Journeyman** is also bugged, and it will give you Grandmaster Pathfinder instead.
+-   Some Armors such as Star Duster, the Royal Duelist and its variants and the Megalodaunt Coat require you to be at a certain Power level to use.
+-   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off Scaramouche from Genshin Impact
 -   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
 -   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
