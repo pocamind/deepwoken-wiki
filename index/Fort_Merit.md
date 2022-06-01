@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 31106
+revid: 31217
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -109,6 +109,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Verdant Authority Commander Coat
 -   Haze Authority Commander Coat
 -   Amber Authority Commander Coat
+-   Bronze Authority Commander Coat
 
 ### [Weapons](Weapons.md)
 
@@ -121,6 +122,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (uncommon)
 -   [Cavalry Saber](Officer_Saber.md) (uncommon)
 -   [Apprentice Rapier](Apprentice_Rapier.md) (rare)
+-   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) (unknown rarity)
 
 ### Miscellaneous
 
