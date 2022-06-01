@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 31179
+revid: 31231
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept ValleyThe Depths [?] Songseeker Wilds |
+| obtainment | Starswept ValleyThe Depths [?] Songseeker Wilds Minityrsa |
 | description | "Your trusty weapon." |
 
 “ It's not that you ain't skilled, it's because you aren't balling on that stank ass Windows 95 Puter ”
@@ -34,7 +34,7 @@ categories: [Weapons, Weaponry]
 
 ## Description
 
-The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
+The Apprentice rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to its greater range compared to other light weapon options. It can be obtained via chests at [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), and [Minityrsa](Minityrsa.md).
 
 ## Trivia
 

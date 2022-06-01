@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 28991
+revid: 31235
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 15 and [Intelligence](Attributes.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +5% Physical resistance, +5% Elemental resistance, +5% Ice resistance, +5% Wind resistance and +0% Ether Regen.
+This Outfit has 1000 durability and grants +5% Physical resistance, +5% Elemental resistance, +5% Ice resistance, +5% Wind resistance and +25% Ether Regen.
 
 ## Location
 
@@ -32,4 +32,4 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   This outfit has +0% Ether Regen stated on the Blacksmith page.
+-   This outfit has +25% Ether Regen stated on the Blacksmith page.

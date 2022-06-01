@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 30832
+revid: 31220
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -34,3 +34,7 @@ _**The night begins to shine! "A ganymede screaming at a freshie"**_
 ## Description
 
 The Night Axe is a HVY weapon in the Greataxe category. It can be obtained from [Brainsucker](Brainsucker.md) and [Minityrsa](Minityrsa.md) [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer) (Shadow NPCs). It has a base damage of 22 and a heavy weapon scaling of 7 and the requirement of 75 HVY.
+
+## Notes
+
+-   Holding block against this weapon is almost completely useless as it has 70% chip damage, by far the most out of any weapon in the game.

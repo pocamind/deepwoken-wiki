@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 31086
+revid: 31219
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -765,12 +765,12 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td><a href="Adretian_Axe.md">Adretian Axe</a></td>
   <td>40 HVY</td>
-  <td>26</td>
+  <td>24</td>
   <td>N/A</td>
-  <td>HVY: 8</td>
-  <td>6</td>
+  <td>HVY: 7</td>
+  <td>5</td>
   <td>8</td>
-  <td>0.61x</td>
+  <td>0.62x</td>
   <td>No</td>
 </tr>
 <tr>

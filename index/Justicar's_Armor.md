@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 25310
+revid: 31239
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,10 +19,10 @@ This Outfit requires [Power Level](Talents.md) 45.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +30% Physical resistance and +30% Elemental resistance.
+This Outfit has 2800 durability and grants +40% Physical resistance and +30% Elemental resistance.
 
 ## Location
 
 This Outfit's Schematic can be found in:
 
--   Unobtainable
+-   Etris War Event (Super Rare)

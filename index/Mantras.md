@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 30864
+revid: 31218
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -177,7 +177,7 @@ Elemental Intensity is the ability to affect the environment around you. If a ma
 [Shadowcast](Shadowcast.md)
 
  |
-| Fire Palm | Glacial Arc | Grand Javelin | Air Force | Strong Left (Strength) | Needs testing... |
+| Needs testing... | Glacial Arc | Grand Javelin | Air Force | Strong Left (Strength) | Shadow Chains (?) |
 
 There are believed to be more mantras that scale from intensity, but they have yet to be identified.
 

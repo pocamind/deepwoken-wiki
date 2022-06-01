@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 31182
+revid: 31228
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -59,9 +59,9 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Agility
 
-“ Parkour - **PARKOUR!** ”
+“ Run!!! Run like wind!!! ”
 
-― Vesperian, leaping to their doom.
+― Canor merchant to a Fugitive Vesperian escaping Etrean guards.
 
 List of agility talents
 
@@ -198,7 +198,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Man, they put chips in my packet of air again... ”
 
-― Khan buying Lays oven baked chips.
+― Etrean buying Lays oven baked chips.
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
