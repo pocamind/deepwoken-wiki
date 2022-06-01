@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 29096
+revid: 31183
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -88,7 +88,6 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 
 -   Hunter's Brace
 -   Self-conducting loop
--   Hearthgem
 -   Pure Heart
 -   Hemafrost
 -   Gale Kata

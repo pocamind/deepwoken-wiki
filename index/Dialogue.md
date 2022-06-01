@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 26501
+revid: 31212
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dialogue, NPCs, NPC, Npc, Locations, Character, Reputation]
@@ -119,7 +119,7 @@ Talking to Guards
 Talking to Guards
 
 -   Very Good Reputation - "Alright, \[Name\]? Good to see a familiar face."
--   Good Reputation - "placeholder" | "placeholder"
+-   Good Reputation - "How's it going mate?" | "Seas been treating you well mate?"
 -   Neutral Reputation - "You on your break or something? Some of us still have work to do." | "placeholder"
 -   Unfriendly Reputation- "placeholder" | "placeholder"
 

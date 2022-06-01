@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 31157
+revid: 31204
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -204,7 +204,15 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 -   Checking up on Karliah, back in her house, she is now in a different set of clothing. Talking to her thanks you for seeing the realities of life, and reflect about the people of Etris being friendly with her.
 -   The reward from this ending increases your charisma cap to 100, a fistful of EXP, and a moment of harmony and relief.
 -   Requires 50 Charisma \[Confirmed by SkipperFalconeer, If you don't have enough and try to get the 3rd ending anyway, You won't be able to try again. Keep this in mind before trying out to this.\]
--   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.
+-   If you don't have 75 charisma, You won't uncap it. However, you can do the quest with 50 Charisma and come back to her in etris after the quest, talk to her again and get the uncap card.e
+
+### Etris War Event
+
+This event is an extremely rare event that happens every so often.
+
+At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to Aid Etris.
+
+After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths loot will spawn at the Tree in the center of Etris.
 
 ## NPCs
 

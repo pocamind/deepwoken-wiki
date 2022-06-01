@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 30806
+revid: 31215
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -35,7 +35,7 @@ The First Light is one of the many heavy weapons you can obtain in the game, obt
 
 ## Trivia
 
--   Maybe a reference from some Anime. It looks similar to Reinhardt's dragon sword
+-   Maybe a reference from _Re: Zero_. It looks similar to Reinhardt's dragon sword.
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of two greatswords (Other being enforcer blade), that has no endlag on m1s.
