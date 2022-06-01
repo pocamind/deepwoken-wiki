@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 30811
+revid: 31176
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Items, Weaponry]
@@ -42,7 +42,7 @@ With the new Alloy update, Vigil Longswords are on the same level if not better 
 
 -   If a Vigil Longsword is alloyed the stats will change to the following:
 
--   Damage: 20(34)
+-   Damage: 20
 
 -   PEN: 10
 

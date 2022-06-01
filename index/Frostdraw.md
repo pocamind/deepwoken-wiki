@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 30759
+revid: 31180
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -309,3 +309,4 @@ File:Static-assets-upload2550294597928104705.webp
 -   The Frozone talent card is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
 -   The Cryonis talent card has a faulty description, it only reduced ether of certain moves(3/27/2022) List of Ice moves that do get a ether reduction: Ice smash, Warden's Blades, Ice fissure, Ice Beam, Glacial Arc, Ice Dagger. List of moves that don't get an ether reduction: Ice Lance, Ice Eruption. List of moves currently unchecked: Ice Skates, Ice Spikes, Ice Blade, Frost Grab, Ice Forge, Ice Chain, Ice Laser, Frozen Servants
 -   Ice chain MAY be a reference to the character [Gilgamesh's chains of heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the fate series.
+-   Ice Eruption does less damage the larger it gets (Never tested, but was stated in update log)
