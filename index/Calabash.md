@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 30175
+revid: 31263
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients]
@@ -8,7 +8,7 @@ categories: [Food, Ingredients]
 
 # Calabash
 
-Template:Food Template V1
+Template:Food Template V1"Deepwoken Calabaaash, i just shit out my aaaass.."
 
 ## Description
 

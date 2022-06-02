@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 31226
+revid: 31265
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -141,7 +141,7 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 
 ### **Clearing Bad rep.**
 
--   Nepo, an NPC found on a bridge can clear your bounty with Summer Company.
+-   Nepo, an NPC found on a bridge can clear your bounty with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
 
 ## Quests
 
