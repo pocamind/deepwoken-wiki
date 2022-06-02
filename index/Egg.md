@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 31234
+revid: 31240
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,10 +13,14 @@ Eggs are a food item in Deepwoken. They can be used to make Omelettes, [Mushroom
 
 #### [Etris](Etris.md)
 
-Above a post on the ride side of the docks
+On top of a cargo lift on the right side of the docks
 
 On a pipe near the central tree
 
 On a small tree above a cliff near the docks
 
 \[Add more specific locations here\]
+
+#### [Isle of Vigils](Isle_of_Vigils.md)
+
+On the leftmost cargo lift on the docks

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31168
+revid: 31251
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -69,7 +69,7 @@ _Deepwoken_ currently has 1 Confirmed spec/mod armor that has been discovered.
 
 ### **Unconfirmed/Speculated**
 
-_Deepwoken_ currently has 9 and more speculated/unconfirmed armors that are seen on npc's through the game.
+_Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen on npc's through the game.
 
 ## Armor
 
