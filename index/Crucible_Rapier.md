@@ -1,9 +1,9 @@
 ---
 title: Crucible Rapier
-revid: 31175
+revid: 31301
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links]
+categories: [Weapons, Rapiers]
 ---
 
 # Crucible Rapier
@@ -25,26 +25,12 @@ categories: [Weapons, Pages with broken file links]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept ValleyThe Depths [?] Rogue Hive Construct |
+| obtainment | Starswept Valley, The Depths [?] , Rogue Hive Construct |
 | description | "Your trusty weapon." |
-
-File:Rc.png
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ## Description
 
-The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference of the both except for higher damage, and honing a 20% penetration stat. It can so far be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the Rogue Hive construct in Ministrya.
+The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference of the both except for higher damage, and honing a 20% penetration stat. It can so far be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the [Rogue Hive Constructs](Hive_Construct.md) on [Minitrysa](Minityrsa.md).
 
 ## Trivia
 

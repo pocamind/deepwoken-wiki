@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 31060
+revid: 31296
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -53,6 +53,8 @@ This page consists of Humanoid NPCs that fight back, or attack you on sight. Inc
 **The Children of Navae**
 
 **The Legion**
+
+**Celtor**
 
 ## Bosses
 

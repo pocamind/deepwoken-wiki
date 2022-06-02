@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 31272
+revid: 31291
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -146,7 +146,7 @@ _Form a punch of wind in your fist and release it._
  |
 |  | 
 
-Champion's Whirlwind  
+Champion's Whirlthrow  
 (★★)
 
  | 
@@ -590,6 +590,19 @@ After dodging an attack successfully your next dash will be a Gale Dash.
 FROM: Galebreather
 
  |
+| File:Galebreathe Talent Placeholder.png | 
+
+Hoplite
+
+ | 
+
+Posture damage is reduced when wielding a spear and standing still.
+
+ | 
+
++2 Passive Agility +3 Health
+
+ |
 |  | 
 
 Wind Step
@@ -649,17 +662,17 @@ Inhaling a spell will cause the wind to be applied to your melee attack.
 
 -   Galebreathe only has 1 grab move.
 -   Primadon is completely immune to suffocation.
--   Light Green Mudskippers are able to use a buffed version of _Air Force,_ with greater knockback and ragdoll.
--   Archmage stated that Galebreathe is "least me" out of all the elements.
+-   Light Green Mudskippers are able to use a buffed version of the _"Air Force"_ mantra, with greater knockback and ragdoll.
+-   Arch\_mage stated that Galebreathe is "least me" out of all the elements.
     
--   To cast the "_Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI
--   The "_Wind Step_" talent can be used by other players for a short period after being placed.
--   The "_Gale Leap_" talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
--   The "_Tempest Wind_" talent requires the player to perform a jump to activate it.
--   The "_Q_" key activates Gale Dash.
+-   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI
+-   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
+-   The _"Gale Leap"_ talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
+-   The _"Tempest Wind"_ talent requires the player to perform a jump to activate it.
+-   The _"Q"_ key activates Gale Dash.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know your doing it right when you hear an inhale sound.
--   Galebreathe can apply 2 status effects: "_Winded_" & "_Suffocate_".
-    -   "_Winded_" reduces your opponent's attack speed.
-    -   "_Suffocate_" reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
+-   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.
+    -   _"Winded"_ reduces your opponent's attack speed.
+    -   _"Suffocate"_ reduces posture regen; the opponent will also have a resonance-like effect circling their neck when applied.
     -   It is the only Attunement to be able to do this without any evolution paths.

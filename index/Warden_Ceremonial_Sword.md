@@ -1,9 +1,9 @@
 ---
 title: Warden Ceremonial Sword
-revid: 29975
+revid: 31321
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons, Swords]
 ---
 
 # Warden Ceremonial Sword
@@ -34,4 +34,4 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 
 ## Notes & Trivia
 
--   TBA
+-   TBA\]

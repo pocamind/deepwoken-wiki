@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31273
+revid: 31338
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -18,7 +18,7 @@ notices:
 
 ## Overview
 
-**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you power up, you'll receive a hand of two to five Talent Cards.
+**[Talent](Talents.md) Cards** or Talents are the main aspect of your character's build. When you mfs power up, you'll receive a hand of two to five Talent Cards.
 
 There are certain cards that are handed to you automatically, free of charge. Cards such as Thundercaller, Flamecharmer, and The Sound from Below are examples of this. Certain cards that have an alternate use can be also handed out in a deck alongside your ordinary talent cards, such as Fold or Legendary Echoes.
 
@@ -263,7 +263,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you. (+ 4 Ether)
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you. 10 sec - 5 sec. (+ 4 Ether)
--   Tough Love \[Common Talent, Charisma\] - Deal more damage to players charmed by you. (+ 4 Ether)
+-   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you. (+ 4 Ether)
 -   Familiar Sight \[Common Talent, Charisma\] - Being hit by someone of the same race causes them to be charmed for a short duration.
 -   Dazing Finisher \[Legendary Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. (Requirements: 25 Charisma)
     -   Prerequisite For All: Charm + Charismatic Cast (You'll need it for unlocking all the other cards in the category)

@@ -1,9 +1,9 @@
 ---
 title: Iron Birch
-revid: 30993
+revid: 31334
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Greataxes]
 ---
 
 # Iron Birch

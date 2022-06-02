@@ -1,9 +1,9 @@
 ---
 title: Legion Captain
-revid: 30617
+revid: 31299
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Races, Reputation, Random Encounters, Attributes, Weaponry, Weapons]
+categories: [Enemies, Reputation, Random Encounters]
 ---
 
 # Legion Captain

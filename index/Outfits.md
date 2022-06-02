@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31251
+revid: 31288
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -447,7 +447,7 @@ Grants one random buff. _Requires Power 10_
 
 _Requires Power 15_
 
- | Ferryman Chest, Arena Chests |
+ | Ferryman Chest, Arena Chests, Duke's Chests |
 |  | Finisher's Ring
 
 (Legendary)
@@ -461,7 +461,7 @@ _Requires Power 40_
 
 (Legendary)
 
- | Conceal your age, appearing as if you were younger than 40. | Depths Chests, Duke |
+ | Conceal your age, appearing as if you were younger than 40. | Depths Chests, Duke, Aelita's Chests, Arena Chests |
 
   
 

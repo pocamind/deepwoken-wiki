@@ -1,9 +1,9 @@
 ---
 title: Canor Fang
-revid: 30816
+revid: 31333
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Daggers]
 ---
 
 # Canor Fang
@@ -34,3 +34,7 @@ _**A good forged weapon, which doesn't need much experience to be used.**_
 ## Description
 
 The Canor Fang is a LHT weapon in the Dagger category that can be obtained by enemy NPC chests on [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It's a pretty solid weapon if there's no better alternatives.
+
+## Trivia
+
+-   Despite the name, it's not actually made from a Canor's fang.

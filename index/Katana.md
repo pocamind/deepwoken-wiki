@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 28138
+revid: 31317
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Swords, Katanas]
 ---
 
 # Katana
@@ -29,13 +29,11 @@ categories: [Weapons, Weaponry]
 
 ― Katana mains while spamming their quick draw crit.
 
-  
-
 ## Description
 
 The Katana is a Medium type weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md). This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack, a forward stab, the katana will make the user lunge forward.  
 
-## Notes
+## Trivia
 
 -   The Vigil Guards on The Isle of Vigils use Katanas.
 -   Katana damage is increased by 20% when wearing Vigil Initiate or Cloak of Winds armor (Paired Soul talent).

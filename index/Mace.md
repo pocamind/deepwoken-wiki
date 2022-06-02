@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 30829
+revid: 31309
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,8 +27,6 @@ categories: [Weapons, Weaponry]
 
 _**Sir, you're not allowed to enter that pla... BONK. OW, you can't just enter by hitting me with a... BONK.**_
 
-The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at Etris.
-
 ## Description
 
-The Mace is an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.
+The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at Etris. It's an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31092
+revid: 31295
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -257,7 +257,9 @@ For more information on Deep Gems, [click here](Deep_Gems.md)
 | Image | Modifier | Effect |
 | --- | --- | --- |
 |  | 
-Insignia Gem
+Insignia
+
+Gem
 
  | The next Mantra you cast within a short timeframe will have a 25% windup reduction. |
 | 
@@ -275,14 +277,18 @@ Reduces damage of mantra for 20%.
 
  | 
 
-Blessed Gem
+Blessed
+
+Gem
 
  | Halves the cooldown of the Mantra. |
 | 
 
  | 
 
-Blue Gem
+Blue
+
+Gem
 
  | Reduces Mantra ether cost by half. |
 | 
@@ -296,7 +302,9 @@ Wayward Gem
  | You will teleport to the first enemy hit by the mantra. |
 |  | 
 
-Wind Gem
+Wind
+
+Gem
 
  | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
 
@@ -453,7 +461,7 @@ Tornado Spark
 
 -   Fire Blade (Confirmed broken as of 1st of May 2022)
 
--   Champions Twister
+-   Champion's Whirlthrow
 
 -   Storm Blades
 
@@ -515,7 +523,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | 
 Frost Grab
 
- | File:Frostgrab base range.gif | File:Frost Grab with Blast Spark.gif | 
+ | File:InfernoYTea's Frost Grab.gif | File:Frost Grab.gif | 
 
 -   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" Mantra.
 
@@ -574,7 +582,7 @@ Shade Devour
  |  | File:Shade Devour with Blast Spark.gif | 
 
 -   This modifier cause the "Shade Devour" mantra to perform a shockwave.
-    -   Can be paired with Multiplying Spark.
+    -   Can be paired with a Multiplying Spark.
 
  |
 | 
@@ -699,7 +707,7 @@ Shade Bringer
  |  |  | 
 
 -   This modifier adds 2 more cuts onto "Shade Bringer".
-    -   Can be paired with Spring Spark.
+    -   Can be paired with a Spring Spark.
 
  |
 | 
@@ -711,7 +719,7 @@ Shade Devour
  |  | File:Shade Devour with Multiplying Spark.gif | 
 
 -   This modifier makes "Shade Devour" perform 3 shockwaves instead of 1.
-    -   Can be paired with Blast Spark.
+    -   Can be paired with a Blast Spark.
 
  |
 
@@ -781,14 +789,14 @@ Tornado
  |  | File:Tornado with Reversal Spark.gif | 
 
 -   This modifier seems to have no effect on the "Tornado" mantra.
--   This modifier is still in the game as a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
+    -   This modifier is still in the game as a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
 
  |
 | 
 
 Shadow Chains
 
-(★☆☆)
+(★)
 
  |  | File:Shadow Chains with Reversal Spark.gif | 
 
@@ -837,7 +845,7 @@ Ice Eruption
  |  | File:Ice Eruption with Round Spark.gif | 
 
 -   This modifier converts the "Ice Eruption" Mantra's hitbox into a circle that surrounds the user.
-    -   Similar to that of the Frostdrawer Monk's Ice Eruption.
+    -   Similar to that of the Songseeker Frostdrawer's Ice Eruption.
 
  |
 
@@ -873,8 +881,17 @@ Shade Bringer
 
  |  | File:Shade Bringer with Spring Spark.gif | 
 
--   This modifier makes "Shade Bringer" perform a jump before slamming the blade down.
-    -   Can be paired with Multiplying Spark.
+-   This modifier causes the "Shade Bringer" mantra perform a jump before slamming the blade down.
+    -   Can be paired with a Multiplying Spark.
+
+ |
+| 
+
+Dash
+
+ |  | File:Dash with Spring Spark.gif | 
+
+-   This modifier shortens the "Dash" mantra's travel distance but increases the uses from 1 to 2.
 
  |
 
@@ -894,7 +911,7 @@ Fire Blade
  |
 | 
 
-Champion Twister
+Champion's Whirlthrow
 
 (★★)
 
@@ -911,7 +928,7 @@ Storm Blades
 
  |  | File:Storm Blades with Tornado Spark.gif | 
 
--   This modifier makes "Storm Blades" summon a ring of lightning that stuns and damages anyone touching it.
+-   This modifier causes the "Storm Blades" mantra to summon a ring of lightning around the user that stuns and damages anyone touching it.
     -   Adding some Logstones might increase it's duration.
 
  |
