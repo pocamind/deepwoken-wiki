@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31019
+revid: 31274
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -42,7 +42,7 @@ Flamecharm can be obtained from the trainer found at Songseeker Wilds in the tem
 |  | 
 Fire Blade
 
- | Slicing blades of flame. | Caster slams down with their blade coated in flames.
+ | Slicing blades of flame. | User slams down with their blade coated in flames.
 
 -   Deals moderate damage.
 -   Burns target(s).
@@ -56,7 +56,7 @@ Fire Blade
 
 Flame Repulsion
 
- | An exertion of flames. | After a wind-up of ~2 seconds, user releases a burning shockwave.
+ | An exertion of flames. | After a wind-up of ~2 seconds, user releases a burning AoE blast.
 
 -   Unable to move in wind-up.
 -   Deals moderate damage.
@@ -70,7 +70,7 @@ Flame Repulsion
 
 Burning Servants
 
- | A legion of flames. | Conjures seven burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
+ | A legion of flames. | User conjures seven burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).
@@ -82,7 +82,7 @@ Burning Servants
 
 Fire Gun
 
- | A bullet of flames shot through each hand. | Caster readies and propels bullets of fire from their hands towards the cursor's location.
+ | A bullet of flames shot through each hand. | Caster readies and propels bullets of flames from their hands towards the cursor's location.
 
 -   Deals light damage.
 -   No Cooldown.
@@ -97,7 +97,7 @@ Fire Gun
 
 Flame Grab
 
- | A fiery chokehold. | Caster lunges forward for a grab and slams any targets into the ground.
+ | A fiery chokehold. | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
 -   Inflicts light damage.
 -   Burns target(s).
@@ -109,7 +109,7 @@ Flame Grab
 
 Ash Slam
 
- | Strike the ground, turning it to ash. | Strike twice in front of the user, creating a fiery blast each time.
+ | Strike the ground, turning it to ash. | User strikes twice in front of the user, creating a fiery blast each time.
 
 -   Requires 40 Strength and 60+ Flamecharm
 -   Deal heavy posture damage
@@ -121,7 +121,7 @@ Flame
 
 Blind
 
- | Snap your fingers, shooting a projectile that blinds those who dare gaze at it. | Caster snaps their fingers, conjuring an orb that implodes and blinds opponents temporarily.
+ | Snap your fingers, shooting a projectile that blinds those who dare gaze at it. | User snaps their fingers, conjuring an orb that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   _Radius unknown._
@@ -134,7 +134,7 @@ Blind
 
 Fire Palm (★)
 
- | A blast of flame. | Caster releases a burst of flame in front of them.
+ | A blast of flame. | User releases a burst of flame in front of them.
 
 -   Cone hitbox.
 -   Deals moderate damage.
@@ -146,7 +146,7 @@ Fire Palm (★)
 
 Fire Eruption (★)
 
- | A pyroclastic eruption. | Caster summons two explosions by slamming their weapon into the ground.
+ | A pyroclastic eruption. | User slams weapon into the ground below that causes 2 consecutive explosions.
 
 -   Deals moderate-high damage.
 -   The second explosion ragdolls enemies.
@@ -158,11 +158,11 @@ Fire Eruption (★)
 
 Fire Forge (★)
 
- | Toss a nimble dagger. | Caster throws 3 quick burning daggers.
+ | Toss a nimble dagger. | User throws 3 quick burning daggers.
 
 -   Deal light damage.
 -   Burns target(s).
--   Breaks certain tiles (Hidden village door, glider cave planks).
+-   Breaks certain tiles. (Hidden village door, glider cave planks).
 -   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
 -   Can not be upgraded with a multiplying spark.
 -   Can be upgraded with Magnet Spark, but the change is unknown.
@@ -172,7 +172,7 @@ Fire Forge (★)
 
 Rising Flame (★★)
 
- | A rising tornado of flames. | Caster sends themselves and target into the air while releasing a fury of flames.
+ | A rising tornado of flames. | User spins and releases a fury of flames that sends the user and opponent into the air.
 
 -   Deals moderate to high damage.
 -   Can be combo-ed with the Talents _Meteor Impact_ and _Phoenix Impact_, dealing immense damage.
@@ -183,14 +183,15 @@ Rising Flame (★★)
 
 Flame Assault (★★)
 
- | Burst forward in flames. | User dashes forward covered in flames, hitting anyone in their path.
+ | Burst forward in flames. | User dashes forward covered in flames; hitting anyone in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire (recommended to turn around after using as you will be behind the opponent)
 -   Can be upgraded with Drift/Rush Shards and Crystal/Perfect Lens.
 -   Great movement when upgraded despite being a combat mantra.
 -   Good for chasing/escaping.
--   Moves in a straight horizontal line (Even midair)
+-   Moves in a straight horizontal line.
+    -   Can even propel the user in midair.
 
  |
 
@@ -201,7 +202,7 @@ Flame Assault (★★)
 |  | 
 Flame Leap (★★)
 
- | Leap up leaving behind a burst of flames. | Launches the caster up in the air and leaving a trail of flames on the ground. Also launches nearby targets in the air.
+ | Leap up leaving behind a burst of flames. | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
 -   On flat ground, will usually lead to fall damage for the user.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
@@ -223,7 +224,7 @@ Flame Wisp (★★)
 -   Heals the caster 5% hp over 5 seconds every 10 seconds.
 -   Ignites nearby campfire pits if not busy healing you (does not use up the wisp).
 -   Ritual casting (Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether).
--   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses (requires confirmation).
+-   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses \*\*Requires confirmation.
 -   The hp given from the wisp will go lower every time its used, eventually ending up at 3% at around the 5-6th use and continuing to be 3% until it dissipates.
 
  |
@@ -295,13 +296,20 @@ These talents are found in the "Undying Ember" catagory.
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Last Laugh | Gain the ability to incinerate your self when down.(rare talent) |
-|  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.(rare talent) |
+|  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.
+-   Rare talent
+
+ |
 |  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: 40 Willpower (guy who said you need unyielding inferno is wrong. I do not have unyielding but I do have undying. |
 |  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. |
 
 **Inferno:**
 
-|pleskis faith when ur on fire it puts out at the cost of ether requires 15 carisma and flamecharm maybe less carisma
+These talents are found in the "Inferno" catagory.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Pleetsky's Faith | (Work in Progress) | (when on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma.) |
 
 ## Trivia
 
