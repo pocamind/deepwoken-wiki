@@ -1,9 +1,9 @@
 ---
 title: Stiletto
-revid: 31339
+revid: 31344
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Daggers]
+categories: [Weapons, Daggers]
 ---
 
 # Stiletto
@@ -26,7 +26,7 @@ categories: [Weapons, Weaponry, Daggers]
 | obtainment | Starter Weapon, Etris, Lower Erisia |
 | description | "A remarkably thin blade often likened to (and used as) a toothpick." |
 
-“ Oi, you got a license for that knoife? ”
+“ Oi, you got a license for that knife? ”
 
 ― Authority Peacekeeper watching a bandit shank a loyal citizen, and doing absolutely nothing about it
 
@@ -38,4 +38,4 @@ The Stiletto is a dagger that Light weapon users start with when beginning the g
 
 ## Trivia
 
--   The only starter weapon not used by NPCs.
+-   This is the only starter weapon not used by NPCs.
