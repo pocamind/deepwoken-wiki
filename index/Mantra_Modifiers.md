@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31295
+revid: 31347
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -523,7 +523,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | 
 Frost Grab
 
- | File:InfernoYTea's Frost Grab.gif | File:Frost Grab.gif | 
+ | File:Frostgrab base range.gif | File:Frost Grab with Blast Spark.gif | 
 
 -   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" Mantra.
 

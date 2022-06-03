@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31345
+revid: 31351
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -55,7 +55,7 @@ _Deepwoken_ currently has 9 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 4 Master Outfits that have been discovered, Archmage has confirmed there are 5 master fits in game.
+_Deepwoken_ currently has 5 Master Outfits that have been discovered.
 
 ### Unique
 
@@ -270,6 +270,7 @@ _Disappears on death or leaving the game._
 | 
 
  | Grand Pauldrons | Grants a random buff. | Placeholder | N/A |
+|  | Guardian Pauldrons | Grants a random buff. | Depths Chest | N/A |
 |  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
 
@@ -323,7 +324,7 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Purple (Work in progress) |
+ | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Orange, Purple (Work in progress) |
 | File:Sharko coat.png | Megalodaunt Coat (Series) | Grant a random buff.
 
 +X% Damage VS Beast _Requires Power 30_
@@ -470,7 +471,7 @@ _Requires Power 40_
 | Image | Armor | Effects | Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | Autumn Boots | Grants a random buff. | Erisia Chests | N/A |
-| File:Static-assets-upload10948241571813513916.png | Azure Royal Guard | Grants a random buff. | Depths Chests | N/A |
+| File:Static-assets-upload10948241571813513916.png | Azure Royal Guard Boots | Grants a random buff. | Depths Chests | N/A |
 | File:Black fur boots 1.png | Black Fur Boots | Grants a random buff. | Erisia Chests | N/A |
 |  | Bluesteel Boots | Grants a random buff. | Hive Chests | N/A |
 | File:Brilliant Boots.png | Brilliant Boots | Grants a random buff. | Songseeker Chests | N/A |

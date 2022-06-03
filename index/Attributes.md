@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 31228
+revid: 31352
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -59,7 +59,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Agility
 
-“ Run!!! Run like wind!!! ”
+“ You better run, boy. And fast! ”
 
 ― Canor merchant to a Fugitive Vesperian escaping Etrean guards.
 
