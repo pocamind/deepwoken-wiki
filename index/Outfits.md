@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31351
+revid: 31355
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -373,6 +373,10 @@ _Requires Power 30_
   
 
 **Rings:**
+
+“ Wt ring u got bithc? ”
+
+― PL99 Flamecharm Canor.
 
 Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring).
 
