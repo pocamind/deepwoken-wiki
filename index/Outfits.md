@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31288
+revid: 31345
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -433,7 +433,7 @@ Grants one random buff. _Requires Power 10_
 
 (Legendary)
 
- | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Chest, Summer Isle Chest, Duke Erisia's Chest & Arena Chests |
+ | Gives every weapon 1.5 Willpower scaling when equipped. | Ferryman Chest, Summer Isle Chest, Duke Erisia's Chest & Arena Chests, Aelita's Chest |
 |  | Dawnfist's Ring
 
 (Legendary)
