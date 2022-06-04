@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 29141
+revid: 31377
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items]
@@ -47,4 +47,4 @@ _Not to be confused with [Deep Gems](Deep_Gems.md), which are used to modify Man
 </tbody>
 </table>
 
-These Gems/Ores also come with Descriptions, some being obvious or just jokes.
+These Gems/Ores also come with Descriptions, some being obvious or some being weird.

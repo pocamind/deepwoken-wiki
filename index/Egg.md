@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 31262
+revid: 31365
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,3 +26,7 @@ On a small tree above a cliff near the docks
 #### [Isle of Vigils](Isle_of_Vigils.md)
 
 On the leftmost cargo lift on the docks
+
+In the small trees in front of the mantra building
+
+Next to the top of the zipline going to the docks, on the left post of the Torii

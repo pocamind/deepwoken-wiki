@@ -1,9 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 31093
+revid: 31379
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss, Luck]
+categories: [Pages with broken file links, Boss, Luck]
 ---
 
 # Duke Ishamon Erisia
@@ -100,3 +100,8 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
     -   A **[Heavy Hands Ring](Equipment.md#rings)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
     -   **Heavy Weaponry**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
         -   Specifically any **Greathammer**, however Greataxes & Greatswords are also very effective at infinite posture-breaking The Duke.
+        -   Any weapon with critical like hammers such as Mace, Sacred Hammer and Way of Navae also work.
+    -   File:Celtor Queen Kashimex.png
+        
+        Fun fact: Duke has a wife called "Celtor queen Kashimex"
+    -   She is also known for having a porn in Rule 34.
