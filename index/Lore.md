@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 30691
+revid: 31381
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -214,6 +214,12 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A location affected by a Great Drowning.
 -   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.
+
+### **Northern Luminant**
+
+A frozen Tundra.
+
+Probably home to Frostdraw.
 
 ### **Western Luminant**
 
