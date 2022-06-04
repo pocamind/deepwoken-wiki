@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31338
+revid: 31363
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -859,6 +859,7 @@ Prerequisite: Charisma
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Health, +4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
+-   55 Fortitude, You might wanna just get khan shield for this lol.
 
 ### Shipwright
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 31258
+revid: 31362
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -247,7 +247,7 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 +3 Health | Cryomancer |
 | File:Cool Head.png | Cool Head | If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. | +2 Elemental Intensity  
 +3 Health | Cryomancer |
-| File:Condensation Drop Card.webp | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare. | +4 Ether  
+| File:New Condensation Drip Stats.png | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare. | +4 Ether  
 +2 Elemental Intensity | Cryomancer |
 | File:Cryonis.png | Cryonis | ~All~ Some ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
 +3 Health | Ice Age |
