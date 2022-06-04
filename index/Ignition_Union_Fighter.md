@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 31118
+revid: 31394
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -21,10 +21,14 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or [Da
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and finishing the combo by kicking them. |  |  |  |
-| Critical |  |  |  |  |
+| Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Performs a windup before thrusting sword forward. | ◯ | ◯ | (★★☆) |
 
-| Finisher | Description |
+## Finisher
+
+An Ignition Union Guard executes the player after knocking them:
+
+| Name | Description |
 | --- | --- |
 | Execute | User pins down the opponent and slices their throat with their blade. |
 

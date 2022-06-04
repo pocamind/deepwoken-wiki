@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 27725
+revid: 31392
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,40 +9,30 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:EnemyInfobox1.0
 
-**Bandit Captains** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+## Description
 
-## **Appearance**
+Bandit Captains can only be found on [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually spawn in groups of 3 with 2 being normal bandits and 1 being the captain on [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can spawn in groups of 2 in events that involve them fighting Summer Company Guards.
 
-Bandit Captains wear a brown, red and white coat with brown gloves. Their [race](Aspects.md) and gender can vary.
+A Bandit Captain wears an Unknown/Unlisted Outfit with their [race](Aspects.md) and gender varying.
 
-## **Locations**
+## Moveset
 
-Bandit Captains can appear in [Random Encounters](Random_Encounters.md) and in locations listed below. They typically spawn with two [Bandits](Bandit.md) sitting around a Campfire.
+A Bandit Captain's arsenal consists of a starter weapon, them being a [Messer](Messer.md), [Mace](Mace.md) or [Gilded Knife](Gilded_Knife.md):
 
--   [Lower Erisia](Lower_Erisia.md)
--   [Upper Erisia](Upper_Erisia.md)
--   [Viper's Jaw](<The_Viper's_Jaw.md>)
--   [Erisor's Church](<Erisor's_Church.md>)
--   [Summer Isle](Summer_Isle.md)
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Performs a windup before thrusting sword forward. | ◯ | ◯ | (★★☆) |
 
-## **Enemy Information**
+## Finisher
 
-### Health
+A Bandit Captain executes the player after knocking them:
 
-Bandit Captains have 220 health. Cannot be one-shot assassinated without the Assassin [Talent](Talents.md), however attempting to do so without it will ragdoll them and still deal a good chunk of damage.
+| Name | Description |
+| --- | --- |
+| Execute | User pins down the opponent and slices their throat with their blade. |
 
-### Weapons
+## Tips
 
-Bandit Captains can be seen wielding Starter Weapons, like [Stilettos](Stiletto.md), [Swords](<Sword_(weapon).md>) and [Battleaxes](Battleaxe.md). They can also be seen wielding [Messers](Messer.md), [Maces](Mace.md) and [Gilded Knives](Gilded_Knife.md).
-
-### Combat
-
-Bandit Captains can use Light and Heavy Attacks, and usually parries and blocks. They also have a chance to feint some attacks.
-
-### Drops
-
-Bandit Captains commonly drop lesser, although they can also drop rare [Mantra Modifiers](Mantra_Modifiers.md) such as Sparks. (Got a Tornado Spark from gripping a Captain once)
-
-## **Trivia/Notes**
-
--   Player notes here.
+-   Parry trade them until their posture breaks.
+-   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.

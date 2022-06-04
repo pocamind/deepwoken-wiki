@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 30679
+revid: 31393
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -8,46 +8,58 @@ categories: [Npc]
 
 # Bandit
 
-Template:EnemyInfobox1.0**Bandits** are a [humanoid enemy](Enemies.md) in _Deepwoken._
+“ BRO JUST PARRY HIS ATTACKS, IT'S NOT THAT HARD!! ”
 
-## Appearance
+― Unknown Person
 
-Bandits wear a red coat with a white shirt underneath, black pants, and brown boots. Their [race](Aspects.md) and gender can vary.
+  
+Template:EnemyInfobox1.0
 
-## Locations
+## Description
 
-Bandits can appear in [Random Encounters](Random_Encounters.md) and in locations listed below. They typically spawn with [Bandit Captains](Bandit_Leader.md).
+Bandits can be found in either [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in Erisia and can spawn in groups of 3-5 on Summer Isle.
 
--   [Lower Erisia](Lower_Erisia.md)
--   [Isle of Vigils](Isle_of_Vigils.md)
--   [Etris](Etris.md)
--   [Summer Isle](Summer_Isle.md)
+A Bandit wears an Unknown/Unlisted Outfit with their [races](Aspects.md) varying.
 
 ## Moves
 
+A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Stiletto](Stiletto.md):
+
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them |  |  |  |
-| Critical |  |  |  |  |
+| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | \[Battleaxe & Mace\] Raises weapon before firmly slamming it down into the ground.
+OR
 
-## Enemy Information
+\[Sword\] Performs a windup before thrusting blade forward.
 
-### Health
+OR
 
-Bandits have 85 health and can be assassinated in one shot without the Assasin talent. They can easily be one-shotted at decent levels.
+\[Dagger\] Performs a windup before unleashing a flurry of slashes.
 
-### Weapons
+  
 
-Bandits can be seen wielding Starter Weapons, like [Stilettos](Stiletto.md), [Swords](<Sword_(weapon).md>), and [Battleaxes](Battleaxe.md). They can also be seen wielding [Maces](Mace.md).
+ | ◯ | ◯ | (★☆☆) |
 
-### Combat
+## Finisher
 
-Bandits use Light Attacks and rarely Critical Attacks, and are incapable of parrying. On rare occasion, some can block your attacks.
+A Bandit Captain executes the player after knocking them:
 
-### Drops
+| Name | Description |
+| --- | --- |
+| Execute | \[Sword\] User pins down the opponent and slices their throat with their blade.
+OR
 
-Bandits have a chance to drop lesser variants of [Mantra Modifiers](Mantra_Modifiers.md).
+\[Mace\] User pins raises weapon and firmly bashes opponent's face.
+
+  
+
+ |
+
+## Tips
+
+-   Parry an attack and go in for a full combo, this should knock them.
 
 ## Trivia
 
--   According to the lore, they have turned to a life of crime due to the affect the War has had on the East, causing jobs to become scarce.
+-   According to the lore, they have turned to a life of crime due to the war on the East, causing jobs to become scarce.

@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 31365
+revid: 31395
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,3 +30,11 @@ On the leftmost cargo lift on the docks
 In the small trees in front of the mantra building
 
 Next to the top of the zipline going to the docks, on the left post of the Torii
+
+#### [Erisia](Erisia.md)
+
+In a small tree to the right of the first set of stairs in Lower.
+
+#### [Summer Isle](Summer_Isle.md)
+
+To the left of the large staircase, in the large tree

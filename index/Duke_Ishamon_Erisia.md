@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 31379
+revid: 31389
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]

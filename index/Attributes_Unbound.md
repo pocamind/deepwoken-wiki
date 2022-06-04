@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 27685
+revid: 31383
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,9 +24,9 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 ### **Strength Unbound**
 
 1.  Reach 75 Strength.
-2.  Enter the Tomb of the Nameless Soldier.
+2.  Enter the Tomb of the Nameless Warrior.
 3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Approch the coffin the attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
+4.  Approch the coffin then attempt to interact with the ladder bellow it to climb down. (Note: Try not to climb **ALL** the way down, as you may glitch through the floor and under the map, just climb down into the room and jump off before you reach the floor)
 5.  Read the book in the room to obtain Strength Unbound.
 
 ### **Fortitude Unbound**
@@ -48,11 +48,11 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 ### **Intelligence Unbound**
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a Soul Hearthgem. These are guarded by a guaranted Megalodaunt spawn.
-3.  Reach [The Birdcage](The_Birdcage.md) and light each brasier in the correct order with the Soulheart Gem (when entering, the correct order is Left, Back, Forward, Right)
+2.  Enter the Garden Reservoir and obtain a Soul Hearthgem, should be in a mini tunnel cave.
+3.  Reach [The Birdcage](The_Birdcage.md) and light each brasier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
-6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up will obtaining Intelligence Unbound
+6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound
     1.  **If you have carnivore:** get 2 Bluecaps and spam click them. You need to eat the second one while vomitting the first one.
 
 Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pick up some Bluecaps from the hidden library near [Lightkeeper Temple](Lightkeeper_Temple.md) (Requires a mantra that can destroy blocks, needed for gaining access to the room which opens the door to the library)
@@ -94,8 +94,8 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 1.  Reach 75 Flamecharm/Frostdraw/Thundercall/Galebreath/Shadowcast
 2.  Start Lord Regent's Quest in Etris. Requires a good reputation.
 3.  Talk to Kennith and finish his dialogue.
-4.  Talk to the Bookeeper, ask him about Etris then about the Duke's rise to power.
-5.  Go above the Navaen Nomad Camp and talk to the Royal Guard next to Kennith's evicerated body.
+4.  Talk to the Bookworm in the book store, ask him about Etris then about the Duke's rise to power.
+5.  Go above the Navaen Nomad Camp and talk to the Royal Guard next to Kennith's eviscerated body.
 6.  Talk to Lord Regent and obtain the Manor Key
 7.  Head on to Erisia and go all the way throught the Garden Reservoir. You will eventually reach a teleport, which takes you to [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
 8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
