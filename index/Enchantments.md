@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 31232
+revid: 31402
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -66,7 +66,12 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and remove more blood on hit. If above 10% HP, missing an M1s deal 1% of max HP as self damage. Landing a hit on a block/parry/dodge will not count as a miss.</p></div></td>
+  <td><div><p>When Enchant Procs&nbsp;:<br>
+  If an m1 is landed on a player/mob it will deal an extra 10% of the weapons base damage.<br>
+  It will also steal blood if landed on a player.<br>
+  <br>
+  If a swing is missed it will deal 1% to the user.<br>
+  Getting parried, Blocked, or dodged will not apply this effect. Nor does missing a Heavy swing.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -76,10 +81,11 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>When hitting an enemy:<br>
-  does 2x damage on proc<br>
-  also a chance that on proc u receive the damage</p>
-  <p>THIS MAY WORK DIFFERENTLY ON DIFFERENT WEAPONS (this info was tested with an iron cestus)</p></div></td>
+  <td><div><p>When Enchant Procs&nbsp;:<br>
+  Deals an extra 40% of the m1 damage.<br>
+  When the enchant proc's on the user is deals 10% less then the weapons base damage.</p>
+  <p>Info Credit&nbsp;: Raum on Youtube<br>
+  <a href="https://www.youtube.com/watch?v=tPUKBifmpyE">https://www.youtube.com/watch?v=tPUKBifmpyE</a></p></div></td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +100,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Heroism Shotel.png<figcaption></figcaption></figure><div>Heroism</div></td>
-  <td><div><p>When above 90% HP, gain a 25% damage increase on your weapon.</p></div></td>
+  <td><div><p>When the user is above 90% HP&nbsp;:<br>
+  Your m1's will deal 25% extra dmg. This doesn't apply to mantras nor heavy swings.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Detonation.jpg<figcaption></figcaption></figure><div>Detonation</div></td>

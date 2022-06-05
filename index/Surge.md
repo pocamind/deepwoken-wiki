@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 23339
+revid: 31398
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
