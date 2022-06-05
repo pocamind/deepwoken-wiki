@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31347
+revid: 31410
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -635,7 +635,7 @@ Ice Forge
 
 Jolt Grab
 
- | File:Jolt Grab.gif | File:Jolt Grab with Magnet Spark.gif | 
+ |  | File:Jolt Grab with Magnet Spark.gif | 
 
 -   This modifier changes "Jolt Grab" Mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
 

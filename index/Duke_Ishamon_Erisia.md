@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 31389
+revid: 31403
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -104,4 +104,3 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
     -   File:Celtor Queen Kashimex.png
         
         Fun fact: Duke has a wife called "Celtor queen Kashimex"
-    -   She is also known for having a porn in Rule 34.

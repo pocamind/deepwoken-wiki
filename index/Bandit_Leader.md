@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 31392
+revid: 31408
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,12 +17,17 @@ A Bandit Captain wears an Unknown/Unlisted Outfit with their [race](Aspects.md) 
 
 ## Moveset
 
-A Bandit Captain's arsenal consists of a starter weapon, them being a [Messer](Messer.md), [Mace](Mace.md) or [Gilded Knife](Gilded_Knife.md):
+A Bandit Captain's arsenal consists of a starter weapon, them being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md) or [Gilded Knife](Gilded_Knife.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Performs a windup before thrusting sword forward. | ◯ | ◯ | (★★☆) |
+| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+\[[Messer](Messer.md)\] Performs a windup before thrusting blade forward.
+
+\[[Gilded Knife](Gilded_Knife.md)\] Performs a windup before unleashing a flurry of slashes.
+
+ | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 
@@ -30,7 +35,10 @@ A Bandit Captain executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | User pins down the opponent and slices their throat with their blade. |
+| Execute | \[[Battleaxe](Battleaxe.md), [Messer](Messer.md) & [Gilded Knife](Gilded_Knife.md)\] User pins down the opponent and slices their throat with their blade.
+\[[Mace](Mace.md)\] User pins raises weapon and firmly bashes opponent's face.
+
+ |
 
 ## Tips
 

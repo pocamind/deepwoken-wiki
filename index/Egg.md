@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 31395
+revid: 31404
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 "You don't have to tell me what happened, you just need to eat these."
 
-Eggs are a food item in Deepwoken. They can be used to make Omelettes, [Mushroom Omelettes](Mushroom_Omelette.md), Noodles, Mushroom Egg Soup, Fish Omelette, and Cake.
+Eggs are a food item in Deepwoken. They can be used to make Omelettes, [Mushroom Omelettes](Mushroom_Omelette.md), Noodles, Mushroom Egg Soup, Fish Omelettes, and Cake.
 
 ## Locations
 
