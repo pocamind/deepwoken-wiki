@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 31439
+revid: 31464
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 31443
+revid: 31459
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,8 +15,22 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is an NPC normally found sitting at the roots of a white tree in the centre of Etris. A member of the Justicars, he gifts those who pass by with a golden ring to aid them on their travels. When The Central Authority invades Etris, he will fight to defend his home.
+Polis is an NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and gives a Gold Ring to those who interact with him. Polis' motive for fighting The Central Authority is to defend his home, [Etris](Etris.md).
+
+## Moveset
+
+Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), the [Jus Karita](Jus_Karita.md) fighting style and the [Galebreathe](Galebreathe.md) Attunement:
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | User firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | User raises sword upward before slamming it into the ground. | ◯ | ◯ | (★★☆) |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+| Rising Wind | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |
+| Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
+| Rapid Punches | User unleashes a barrage of blows against your foes. | ◯ | ◯ | (★★☆) |
 
 ## Trivia
 
+-   Killing him will give the player negative [reputation](Reputation.md) with Etrea.
 -   Though Polis can be killed, doing so will not affect him respawning back in his usual spot and acting like nothing happened.

@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 31404
+revid: 31466
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,3 +38,7 @@ In a small tree to the right of the first set of stairs in Lower.
 #### [Summer Isle](Summer_Isle.md)
 
 To the left of the large staircase, in the large tree
+
+#### [Greathive Aratel](Greathive_Aratel.md)
+
+In the tree to the left of the Balcony entrance up the stairs from the blacksmith

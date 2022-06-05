@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31447
+revid: 31463
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -75,7 +75,7 @@ _Deepwoken_ currently has 8 and more speculated/unconfirmed armors that are seen
 
 Armor Pieces come in different rarities, marked by the presence and quantity of stars present above an item's name, meaning that item has more or higher valued stat bonuses. This can apply to cosmetic items that don't normally roll with stats, such as an Iron Mask or Headband. The following is **not an exhaustive list** - new armors are frequently discovered and are not yet listed due to rarity/lack of information. Not to be confused with the armor attribute each outfit gives.
 
-Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat, Elite Pathfinder Coat, and Royal Pathfinder Coat.**
+Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat and Royal Pathfinder Coat.**
 
 When an armor piece is generated, its given a "wallet" of points that it randomly use to "buy" stats, said wallet size is slightly random but always nears a specific value for each equipment. Rarity increase the base "Wallet" size, while Quality Rating (stars) are bonus points that the equipment can spend. Rarity affect the stats of an item more than the Quality Rating: A 0 star common item is most likely going be outclassed by a 3 star rare item.
 
@@ -135,7 +135,7 @@ _\+ 4% Stealth_
 
 _\+ 4% Stealth_
 
- | Artifacts, Depths Chests | N/A |
+ | Artifact Turn-ins, Depths Chests | N/A |
 | File:Authorityhelm.png | Authority Helm | Grants a random buff.
 
 _Requires Fortitude 10_
@@ -145,7 +145,7 @@ _Requires Fortitude 10_
 
 _Requires Fortitude 10_
 
- | Artifacts, Arena Chests, Duke Chests, Depths Chests | N/A |
+ | Artifact Turn-ins, Arena Chests, Duke Chests, Depths Chests | N/A |
 | 
 
  | Blackleaf Helm | Grants a random buff.
@@ -173,13 +173,13 @@ _\+ 2 Posture_
 _Requires Fortitude 15_
 
  | Hive Chests | N/A |
-|  | Goldleaf Helm | Grants a random buff. | Duke Chests, Golden Warrior Erisia Event, Turning in Artifacts | N/A |
-| File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifacts, Primadon Chests | N/A |
+|  | Goldleaf Helm | Grants a random buff. | Duke Chests, Golden Warrior Erisia Event, Artifact Turn-ins | N/A |
+| File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifact Turn-ins, Primadon Chests | N/A |
 | 
 
 File:Khan Helmet.png
 
- | Khan Helmet | Grants a random buff. | Aratel Island Chests. (Work in Progress) | N/A |
+ | Khan Helmet | Grants a random buff. | Hive Chests. (Work in Progress) | N/A |
 | 
 
 File:KnightHelm.png
@@ -199,7 +199,7 @@ _Requires Fortitude 5_
 File:Royal Guard's Kabuto.png
 
  | Royal Guard's Kabuto | Grants a random buff. | Depths Chests | N/A |
-| File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifacts, Erisia Chests, Primadon Chests | N/A |
+| File:Smith Bandana.png | Smith Bandana | Cosmetic | Artifact Turn-ins, Erisia Chests, Primadon Chests | N/A |
 
 **Face:**
 
@@ -232,6 +232,7 @@ _\+ Talent: Blinded_
 |  | Pendant Earrings | Grants a random buff. | Primadon Chests | N/A |
 | File:Prac.JPG | Practicioner's Earrings | Grants a random buff. | Summer Isle Scope Quest | N/A |
 |  | Rubydrop Earrings | Grants a random buff. | Hive Chests | N/A |
+|  | Ruby Pendant Earrings | Grants a random buff. | Fishing Chests | N/A |
 
 **Back:**
 
@@ -266,8 +267,11 @@ _Disappears on death or leaving the game._
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
+|  | Enforcer's Plate | Grants a random buff. | Depths Chests? | N/A |
 |  | Gladiator Pauldrons | Grants a random buff. | Depths Chests (Work in progress) | N/A |
 | 
+
+File:Grand Pauldrons.png
 
  | Grand Pauldrons | Grants a random buff. | Placeholder | N/A |
 |  | Guardian Pauldrons | Grants a random buff. | Depths Chest | N/A |
@@ -297,7 +301,7 @@ _Requires Power 40_
  | Fort Merit Chests | Ash, Beige, Pink, Rural, Sable & Tawny |
 | 
 
- | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown, Green (Work in progress) |
+ | Adventurer Coat (Series) | Grants a random buff. | Duke Erisia's Chest | Black, Brown & Green (Work in progress) |
 | File:Aristocrat Coat.png | Aristocrat Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
@@ -317,14 +321,18 @@ _Requires Power 30_
 
 _Requires Power 40_
 
- | Nautilodaunt (Very Rare) | Ash, Black, Crimson (Work in Progress) |
-| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff. (Power 40 requirement) | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
+ | Nautilodaunt (Very Rare) | Ash, Black, Crimson & Magenta (Work in Progress) |
+| File:Cloud First Ranger Duster.png | First Ranger Duster (Series) | Grants a random buff.
+
+_Requires Power 40_
+
+ | King Thresher | Blue, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | Gumshoe Longcoat (Series) | Grants a random buff. | Songseeker Chests | Dark, Ochre & White |
 | File:Red justicar defender coat.png | Justicar Defender Coat (Series) | Grants a random buff.
 
 _Requires Power 40_
 
- | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Orange, Purple (Work in progress) |
+ | Aelita Chests, Minityrsa Chests, Depths Chests | Red, Black, Faded, Orange & Purple (Work in progress) |
 | File:Sharko coat.png | Megalodaunt Coat (Series) | Grant a random buff.
 
 +X% Damage VS Beast _Requires Power 30_
@@ -334,17 +342,12 @@ _Requires Power 40_
 
 _Requires Power 40_
 
- | Valley of Heroes Chests | Onyx, Scarlet, Smoke (Work in Progress) |
-| File:MistCloak.png | Mist Assassin's Cloak | Grants a random buff.
-
-_Doesn't need any power, but obviously needs a mantra to get it_
-
- | Aelita Chests | N/A |
-| File:Pale.jpg | Pale Assassin's Cloak | Grants a random buff.
+ | Valley of Heroes Chests | Onyx, Scarlet & Smoke (Work in Progress) |
+| File:Pale.jpg | Assassin's Cloak | Grants a random buff.
 
 _Requires Power 30_
 
- | Hive Chests, Minityrsa (Rogue Mech) Chests, Depths Chests, Common from Primadon | N/A |
+ | Hive Chests, Minityrsa (Rogue Mech) Chests, Aelita Chests, Depths Chests, Primadon Chests | Crimson, Gold, Mist & Pale (Work in Progress) |
 |  | Providence Coat
 
 (Legendary)

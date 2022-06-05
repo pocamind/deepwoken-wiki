@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31274
+revid: 31474
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -16,7 +16,7 @@ Flamecharm icon
 
 Flamecharm grants the user the ability to conjure fire from their environment, giving them access to abilities which focus on burning (Explosion with the right talents), damage per second and AoE effects.
 
-While Flamecharm overwhelmes the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
+While Flamecharm overwhelms the level of damage other attunements and does well in utility and survivability. However it lacks abilities and not much is written about it.
 
 The playstyle of this element is a jack of all trades and combat mobility. Despite what that quote usually means for something, flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is a very, very, diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team.
 
@@ -31,7 +31,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent.
 
-Flamecharm can be obtained from the trainer found at Songseeker Wilds in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 flamecharm, level 3 at 40 flamecharm, etc.) up to a total of level 5.
+Flamecharm can be obtained from the trainer found at Songseeker Wilds in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 flamecharm, level 3 at 40 flamecharm, etc.) up to a total of level 5. (level 80 flamecharm, requires uncap)
 
 ## Mantras
 
@@ -260,7 +260,7 @@ Flame of Denial
 
 **Flamecharmer:**
 
-These talents are found in the _Flamecharmer_ category.
+These talents are found in the "_Flamecharmer_" Category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
@@ -270,46 +270,43 @@ These talents are found in the _Flamecharmer_ category.
 
 **The Emperor's Blade:**
 
-These are talents found in _The Emperor's Blade_ category.
+These are talents found in "_The Emperor's Blade_" Category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) | When dodging an attack, you leave behind a fire clone that burns the attacking enemy. |
-|  | Exploding Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) |  |
-
-**Special:**
-
-These talents are unique to their element and _may_ have no category.
-
-### **Azure Flames**
-
-Azure Flames, also known as Blue Flames, is a [Talent](Talents.md) special to Flamecharm.
-
-Obtaining Azure Flames requires 40 [Willpower](Attributes.md) and a Flamecharm level of 70. After you've met the requirements, the card will drop randomly upon a power-up with a high chance (usually around Power 25+).
-
-Once obtaining Azure Flames, you will see most of the appearance of your Flamecharm abilities changed. Azure Flames also adds a considerable buff to many Flamecharm abilities.
+|  | Exploding Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) | ??? |
 
 **Undying Ember:**
 
-These talents are found in the "Undying Ember" catagory.
+These talents are found in the "_Undying Ember_" Category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Last Laugh | Gain the ability to incinerate your self when down.(rare talent) |
+|  | Last Laugh | Gain the ability to incinerate your self when down.(rare talent) | ??? |
 |  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.
 -   Rare talent
 
- |
-|  | Undying Flame | Your flame can be casted in the depths (rare card). Prerequisites: 40 Willpower (guy who said you need unyielding inferno is wrong. I do not have unyielding but I do have undying. |
-|  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. |
+ | ??? |
+|  | Undying Flame | Your flame can be casted in the depths. (Rare card) \[Prerequisites: 40 Willpower\] | ??? |
+|  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. | ??? |
 
 **Inferno:**
 
-These talents are found in the "Inferno" catagory.
+These talents are found in the "_Inferno_" Category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Pleetsky's Faith | (Work in Progress) | (when on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma.) |
+|  | Pleetsky's Faith | (Work in Progress) | (Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma) |
+
+**Uncategorized:**
+
+These are talents found in "_Uncategorized_" Category.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Azure Flames | Many of your flames burn blue signifying their increased intensity. (Requires: 40 Willpower and 70 Flamecharm) |3 Health  
++2 Elemental Intensity
 
 ## Trivia
 

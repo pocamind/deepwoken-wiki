@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 31411
+revid: 31467
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -247,153 +247,39 @@ You may gain these through simply powering up (rolling talents), having more poi
 
 ### **Passive**
 
-| Media | Talent | Card Description | Effect | Category |
-| --- | --- | --- | --- | --- |
-|  | Stratoshock | You lightning does more damage in the rain. | +4 Elemental Intensity  
-+3 Health | Thundercaller |
-|  | Shocking Finish | Following a flourish up with a lightning beam causes it to be casted instantly. | +3 Elemental Intensity  
-+2 Health | Thundercaller |
-|  | Static Flash Clone | When using Lightning Clones you disappear leaving behind a static clone for a short duration | +3 Elemental Intensity  
-+1 Health | Thundercaller |
-|  | Jolt Cast | Every 3 perfectly casted thunder mantras builds a stack. At 3 stacks your next thunder mantra is an instant cast. | +7 Carry Load  
-+2 Elemental Intensity | ??? |
-|  | Volt Kick | After landing a lightning kick press F to follow-up with a less potent kick. | +7 Carry Load
-+2 Elemental Intensity
-
- | Thunder Brawler |
-|  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times. | ??? | Thunderblade |
-|  | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE) | +10 Carry Load  
-+1 Passive Agility  
-+2 Health | ??? |
-|  | Grand Skewer | Grand Javelin now carries opponents with it through the skies.  
-(MANTRA UPGRADE) | +3 Elemental Intensity  
-+1 Health | Javelin Lord |
-|  | Static Withdraw | When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them. | ??? | Self-Shocker |
-|  | Jumpstart | when not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit. | +4 Ether
-
-+4 Elemental Intensity
-
-+3 Health
-
- | Self-Shocker |
-|  | Raging Static | Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.  
-(STATIC WITHDRAW UPGRADE)  
-(JUMPSTART UPGRADE) | +4 Ether
-
-+4 Elemental Intensity
-
-+3 Health
-
- | Self-Shocker |
-|  | Static Link | Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long. | +8 Reservoir  
-+4 Elemental Intensity  
-+1 Health | Static Weaver |
-|  | Jumper Cables | Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.  
-(STATIC LINK UPGRADE) | +1 Ether  
-+5 Reservoir  
-+2 Health | Static Weaver |
-| File:Static Allure.png | Static Allure | Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.  
-(STATIC LINK UPGRADE) | 15 second Static Link Duration.  
-+1 Ether  
-+5 Resrvoir  
-+2 Health | Static Weaver |
-| File:Static Ace.png | Static Ace | Using stream core with an active Static Link targets your closest active link.  
-(STATIC LINK UPGRADE) | +4 Ether  
-+7 Reservoir | Static Weaver |
-|  | Authority Intimidation | All moves that apply electricity slow the opponent more. | ??? | Authority
-
-Interrogator
-
- |
-| File:Static-assets-upload2268134233810269473.png | Rain of Static | After successfully casting lightning impact, strike down countless thunder at those below. In return your lightning impact will require more time to cast. | +7 Carry Load  
-+2 Elemental Intensity | Thunder Caster |
-| File:Resolve crusher.png | Resolve Crusher | Lightning moves now have a chance to apply "Electrify". | N/A | Authority Interrogator |
-
-**Uncategorised:**
-
-These are talents that we could not place a category. If you do know the category of the following Talents, please help this page by adding the category so that source editors can later, put a category to it.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | Volt Kick | After landing a lightning kick press F to followup with a less potent kick. (MANTRA UPGRADE) | ??? |
-|  | Gathering Electricity | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE) | +10 Carry Load  
-+1 Passive Agility  
-+2 Health |
-|  | Kickstart | Use your lightning to resurrect a knocked player, they wake up with about 15% hp. | ??? |
-
-**Thundercaller:**
-
-These talents are found in the _Thundercaller_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Discovery of Fire | Light all campfires in a large radius for a little ether. | ??? |
-|  | Stratoshock | You lightning does more damage in the rain. | +4 Elemental Intensity  
-+3 Health |
-|  | Shocking Finish | Following a flourish up with a lightning beam causes it to be casted instantly. | +3 Elemental Intensity  
-+2 Health |
-|  | Static Flash Clone | When using lightning clones you disappear leaving behind a static clone for a short duration | +3 Elemental Intensity  
-+1 Health |
-
-**Thunderblade:**
-
-These talents are found in the _Thunderblade_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Static Blade | \[Medium Weapons\] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times. | ??? |
-
-**Self-Shocker:**
-
-These talents are found in the _Self-Shocker_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Static Withdraw | When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them. | ??? |
-|  | Jumpstart | when not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit. | ??? |
-|  | Raging Static | Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.  
-(STATIC WITHDRAW UPGRADE)  
-(JUMPSTART UPGRADE) | ??? |
-
-**Static Weaver:**
-
-These talents are found in the _Static Weaver_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Static Link | Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long. | +8 Reservoir  
-+4 Elemental Intensity  
-+1 Health |
-|  | Jumper Cables | Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.  
-(STATIC LINK UPGRADE) | +1 Ether  
-+5 Reservoir  
-+2 Health |
-| File:Static Allure.png | Static Allure | Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.  
-(STATIC LINK UPGRADE) | 15 second Static Link Duration.  
-+1 Ether  
-+5 Resrvoir  
-+2 Health |
-| File:Static Ace.png | Static Ace | Using stream core with an active Static Link targets your closest active link.  
-(STATIC LINK UPGRADE) | +4 Ether  
-+7 Reservoir |
-
-**Thunder Caster:**
-
-These talents are found in the _Thunder Caster_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| File:Static-assets-upload2268134233810269473.png | Rain of Static | After successfully casting lightning impact, strike down countless thunder at those below. In return your lightning impact will require more time to cast. | +7 Carry Load  
-+2 Elemental Intensity | Thunder Caster |
-
 **Authority Interrogator:**
 
 These talents are found in the _Authority Interrogator_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Authority Intimidation | All moves that apply electricity slow the opponent more. | ??? |
-| File:Resolve crusher.png | Resolve Crusher | Lightning moves now have a chance to apply "Electrify". | ??? |
+|  | 
+Authority Intimidation
+
+ | 
+
+All moves that apply electricity slow the opponent more.
+
+ | 
+
+ ???
+
+ |
+| File:Resolve crusher.png | 
+
+Resolve
+
+Crusher
+
+ | 
+
+Lightning moves now have a chance to apply 'Electrify'.
+
+ | 
+
+ ???
+
+ |
 
 **Javelin Lord:**
 
@@ -401,9 +287,136 @@ These talents are found in the _Javelin Lord_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Grand Skewer | Grand Javelin now carries opponents with it through the skies.  
-(MANTRA UPGRADE) | +3 Elemental Intensity  
-+1 Health | Javelin Lord |
+|  | 
+Grand Skewer
+
+ | 
+
+Grand Javelin now carries opponents with it through the skies.  
+(MANTRA UPGRADE)
+
+ | 
+
++3 Elemental Intensity  
++1 Health
+
+ |
+
+**Static Weaver:**
+
+These talents are found in the _Static Weaver_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | 
+Jumper Cables
+
+ | 
+
+Getting knocked with an active Static Link allows you to steal health from the linked target and avoid death.  
+(STATIC LINK UPGRADE)
+
+ | 
+
++1 Ether  
++5 Reservoir  
++2 Health
+
+ |
+| File:Static Ace.png | 
+
+Static Ace
+
+ | 
+
+Using stream core with an active Static Link targets your closest active link.  
+(STATIC LINK UPGRADE)
+
+ | 
+
++4 Ether  
++7 Reservoir
+
+ |
+| File:Static Allure.png | 
+
+Static Allure
+
+ | 
+
+Having two active Static Link's will cause the previous linked enemy to be pulled towards your newest linked enemy.  
+(STATIC LINK UPGRADE)
+
+ | 
+
+15 second Static Link Duration.  
++1 Ether  
++5 Resrvoir  
++2 Health
+
+ |
+|  | 
+
+Static Link
+
+ | 
+
+Flourishing and enemy crates a Static Link between you and your enemy, you lightning stuns for 1.5x as long.
+
+ | 
+
++8 Reservoir  
++4 Elemental Intensity  
++1 Health
+
+ |
+
+**Self-Shocker:**
+
+These talents are found in the _Self-Shocker_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | 
+Jumpstart
+
+ | 
+
+When not being carried Static Withdraw now increases movement speed, and wall scaling speed, you also now apply shock to everything you hit.
+
+ | 
+
+ ???
+
+ |
+|  | 
+
+Raging Static
+
+ | 
+
+Static Withdraw no longer gives the movement buff from Jumpstart, your physical damage is increased and the Static Withdraw damage is decreased.  
+(STATIC WITHDRAW UPGRADE)  
+(JUMPSTART UPGRADE)
+
+ | 
+
+ ???
+
+ |
+|  | 
+
+Static Withdraw
+
+ | 
+
+When knocked, if someone tries to carry you for the first time after being knocked you may release a static charge to stun them.
+
+ | 
+
+ ???
+
+ |
 
 **Stormblade:**
 
@@ -412,11 +425,168 @@ These talents are found in the _Stormblade_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | Stormcaller Slash | Call forth the fury of the storms
+ | 
+
+Stormcaller Slash
+
+ | 
+
+Call forth the fury of the storms
 
 by pressing F at the end of the mantra Lightning Blade.
 
- | ??? | Stormblade |
+ | 
+
+ ???
+
+ |
+
+**Thunderblade:**
+
+These talents are found in the _Thunderblade_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | 
+Static Blade
+
+ | 
+
+\[Medium Weapons\] Hitting blocks or blocking/parrying hits will now generate an electric charge in your blade, granting a small speed buff. Can stack up to 10 times.
+
+ | 
+
+ ???
+
+ |
+
+**Thundercaller:**
+
+These talents are found in the _Thundercaller_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | 
+Discovery of Fire
+
+ | 
+
+Light all campfires in a large radius for a little ether.
+
+ | 
+
+ ???
+
+ |
+|  | 
+
+Shocking Finish
+
+ | 
+
+Following a flourish up with a lightning beam causes it to be casted instantly.
+
+ | 
+
++3 Elemental Intensity  
++2 Health
+
+ |
+|  | 
+
+Static Flash Clone
+
+ | 
+
+When using lightning clones you disappear leaving behind a static clone for a short duration
+
+ | 
+
++3 Elemental Intensity  
++1 Health
+
+ |
+|  | 
+
+Stratoshock
+
+ | 
+
+You lightning does more damage in the rain.
+
+ | 
+
++4 Elemental Intensity  
++3 Health
+
+ |
+
+**Thunder Caster:**
+
+These talents are found in the _Thunder Caster_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:Static-assets-upload2268134233810269473.png | 
+Rain of Static
+
+ | 
+
+After successfully casting lightning impact, strike down countless thunder at those below. In return your lightning impact will require more time to cast.
+
+ | 
+
++7 Carry Load  
++2 Elemental Intensity
+
+ |
+
+**Uncategorised:**
+
+These are talents that we could not place a category. If you do know the category of the following Talents, please help this page by adding the category so that source editors can later, put a category to it.
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Gathering Electricity
+
+ | 
+
+\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (STATIC BLADE UPGRADE)
+
+ | 
+
++10 Carry Load  
++1 Passive Agility  
++2 Health
+
+ |
+|  | 
+
+Kickstart
+
+ | 
+
+Use your lightning to resurrect a knocked player, they wake up with about 15% hp.
+
+ | 
+
+ ???
+
+ |
+|  | 
+
+Volt Kick
+
+ | 
+
+After landing a lightning kick press F to followup with a less potent kick. (MANTRA UPGRADE)
+
+ | 
+
+ ???
+
+ |
 
 ## Trivia/Notes
 

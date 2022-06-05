@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 30766
+revid: 31473
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -50,7 +50,7 @@ File:Legion fist.png
 
 -   After learning Legion Martial Arts you'll still retain your Fist Fighting Style but, more enhanced and honed. Your critical attack becomes a suplex.
 
--   You need good rep with the legion to get the recommendation from the captain. Debatably the best fist style. While Navae and Kata tie in damage, the critical is faster and deals more damage. Whilst your in the critical animation, the Kata user is able to spit on your opponent effectively giving the critical a lifesteal effect.
+-   You need good rep with the legion to get the recommendation from the captain. Debatably the best fist style. While Navae and Kata tie in damage, the critical is faster and deals more damage. Whilst you're in the critical animation, the Kata user is able to spit on your opponent effectively giving the critical a lifesteal effect.
 
 ### Way of Navae
 
