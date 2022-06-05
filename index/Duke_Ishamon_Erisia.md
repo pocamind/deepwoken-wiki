@@ -1,9 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 31403
+revid: 31448
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss, Luck]
+categories: [Boss, Luck]
 ---
 
 # Duke Ishamon Erisia
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Boss, Luck]
 
 ## Description
 
-Template:Creature Infobox V3Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
+Template:Creature Infobox V3 Duke Erisia (also known as Accelerator and Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the "The Lord Regent" Quest and is located in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md).
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](https://deepwoken.fandom.com/wiki/Armors?so=search#Arms) over a black tuxedo vest, along with [Eyeglasses](https://deepwoken.fandom.com/wiki/Armors?so=search#Face). He also has a bell by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -70,18 +70,6 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.md) (Bell) Progress.
 
-## Dialogue
-
--   So you're the one running about tripping my alarms. Care to explain yourself?
-    -   The Lord Regent sent me to retrieve the Forge.
--   That thing is finally making it's move, hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
-    -   That 'thing'? Agent?
--   _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter.\*_
-    -   What?
--   _\*The Duke smiles,\*_ I'd thought for sure you were an agent, but you're what - let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim..
-    -   What are you talking about?
--   There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
-
 ## Trivia
 
 -   The Duke gives the second best monster bell proression (1st is Primadon)
@@ -101,6 +89,3 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
     -   **Heavy Weaponry**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
         -   Specifically any **Greathammer**, however Greataxes & Greatswords are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as Mace, Sacred Hammer and Way of Navae also work.
-    -   File:Celtor Queen Kashimex.png
-        
-        Fun fact: Duke has a wife called "Celtor queen Kashimex"

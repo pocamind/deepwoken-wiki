@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31410
+revid: 31417
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -44,7 +44,9 @@ Applying _Amnesiac Driftwood_ on a mantra will remove all previous upgrades incl
 | File:Cloudstone HD.png | 
 Cloudstone
 
- | +2 Size
+ | 
+
++2 Size
 
 \-1 Speed  
 +8.5 Ether Cost
@@ -59,7 +61,9 @@ Cloudstone
 
 Stratus Stone
 
- | +3 Size  
+ | 
+
++3 Size  
 
 +?? Ether Cost
 
@@ -74,7 +78,9 @@ Crystal
 
 Lens
 
- | +2 Range
+ | 
+
++2 Range
 
 \-1 Size  
 +?? Ether Cost
@@ -91,7 +97,9 @@ Perfect
 
 Lens
 
- | +3 Range  
+ | 
+
++3 Range  
 
 +?? Ether Cost
 
@@ -104,7 +112,9 @@ Lens
 
 Aeon Logstone
 
- | +2 Duration
+ | 
+
++2 Duration
 
 \-1 Range  
 +?? Ether Cost
@@ -113,14 +123,16 @@ Aeon Logstone
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
 -   Add 1 key to Ritual Casts.
--   Doesn't increase the duration of Adrenaline Rush.
+    -   Doesn't increase the duration of Adrenaline Rush.
 
  |
 |  | 
 
 Eternal Logstone
 
- | +3 Duration  
+ | 
+
++3 Duration  
 
 +?? Ether Cost
 
@@ -136,7 +148,9 @@ Drift
 
 Shard
 
- | +2 Speed
+ | 
+
++2 Speed
 
 \-1 Duration  
 +?? Ether Cost
@@ -153,7 +167,9 @@ Rush
 
 Shard
 
- | +3 Speed  
+ | 
+
++3 Speed  
 
 +?? Ether Cost
 
@@ -167,7 +183,11 @@ Shard
 
 Amnesic Driftwood
 
- | Removes all Modifiers on a Mantra | 
+ | 
+
+Removes all Modifiers on a Mantra.
+
+ | 
 
 -   Remove every single modifier previously added to the mantra, including sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidently added too many modifiers which pushed the ether cost past max ether.
 
@@ -178,7 +198,9 @@ Glass
 
 Stone
 
- | Applicable to all spells, and causes the primary projectile to be turned invisible.
+ | 
+
+Applicable to all spells, and causes the primary projectile to be turned invisible.
 
 +1 Size  
 +1 Range  
@@ -199,7 +221,9 @@ Stone
 
 Magnifying Stone
 
- | Likely same as Glass Stone, just better
+ | 
+
+Likely same as Glass Stone, just better
 
 +2 Size  
 +2 Range  
@@ -216,7 +240,9 @@ Vibrant
 
 Gem
 
- | +2 Intensity  
+ | 
+
++2 Intensity  
 
 +?? Ether Cost
 
@@ -341,7 +367,11 @@ Magnet Spark
 
 -   Spark Swap
 
- | Applies "Magnet Shot" to compatible Mantra. |
+ | 
+
+Applies "Magnet Shot" to compatible Mantra.
+
+ |
 | 
 
 Round Spark
@@ -358,7 +388,11 @@ Spark
 
 -   Ice Eruption
 
- | Applies "Round Shot" to compatible Mantra. |
+ | 
+
+Applies "Round Shot" to compatible Mantra.
+
+ |
 | 
 
 Blast Spark
@@ -385,7 +419,11 @@ Spark
 
 -   Shadow Gun
 
- | Applies "Explosion" to compatible Mantra. |
+ | 
+
+Applies "Explosion" to compatible Mantra.
+
+ |
 | 
 
 Reversal Spark
@@ -412,7 +450,11 @@ Reversal Spark
 
 -   Revenge
 
- | Applies "Reversal" to compatible Mantra. |
+ | 
+
+Applies "Reversal" to compatible Mantra.
+
+ |
 | 
 
 File:Image 2021-12-31 211633.png
@@ -429,7 +471,11 @@ Multiplying Spark
 
 -   Shade Devour
 
- | Applies "Triple Shot" to compatible Mantra. |
+ | 
+
+Applies "Triple Shot" to compatible Mantra.
+
+ |
 | 
 
 Spring Spark
@@ -448,7 +494,11 @@ Spark
 
 -   Shade Bringer
 
- | Applies "Spring" to compatible Mantra. |
+ | 
+
+Applies "Spring" to compatible Mantra.
+
+ |
 | 
 
 Tornado spark
@@ -467,7 +517,9 @@ Tornado Spark
 
 -   Dark Blade
 
- | Applies "Spin" to compatible Mantra.
+ | 
+
+Applies "Spin" to compatible Mantra.
 
 _"You feel dizzy when you hold it."_
 
@@ -480,7 +532,13 @@ Mirage
 
 Stone
 
- | Unknown_._ | _"You feel unnaturally calm when grasping this stone"_
+ | 
+
+Unknown_._
+
+ | 
+
+_"You feel unnaturally calm when grasping this stone"_
 
 Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, either the sanity recover is very slightly or it does something else.
 
@@ -493,7 +551,13 @@ Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, 
 
 Falseflame Stone
 
- | Unknown. | _"The azure stone glows vibrantly, but emits no warmth."_
+ | 
+
+Unknown.
+
+ | 
+
+_"The azure stone glows vibrantly, but emits no warmth."_
 
 -   Gigamed drop. (Devs only)
 
@@ -504,7 +568,13 @@ Falseflame Stone
 
 Haunting Stone
 
- | Unknown. | _"You feel unsettled when grasping this stone"_
+ | 
+
+Unknown.
+
+ | 
+
+_"You feel unsettled when grasping this stone"_
 
 Could give insanity on to the target if attack hits. Looks identical to falseflame.
 
@@ -789,7 +859,7 @@ Tornado
  |  | File:Tornado with Reversal Spark.gif | 
 
 -   This modifier seems to have no effect on the "Tornado" mantra.
-    -   This modifier is still in the game as a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
+    -   The modifier is a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
 
  |
 | 
@@ -845,7 +915,7 @@ Ice Eruption
  |  | File:Ice Eruption with Round Spark.gif | 
 
 -   This modifier converts the "Ice Eruption" Mantra's hitbox into a circle that surrounds the user.
-    -   Similar to that of the Songseeker Frostdrawer's Ice Eruption.
+    -   Similar to that of the [Songseeker Frostdrawer's](Songseeker_Frostdrawer.md) Ice Eruption.
 
  |
 
@@ -915,7 +985,7 @@ Champion's Whirlthrow
 
 (★★)
 
- |  | File:Champion Twister with Tornado Spark.gif | 
+ |  | File:Champion's Whirlthrow with Tornado Spark.gif | 
 
 -   (Work in Progress)
 

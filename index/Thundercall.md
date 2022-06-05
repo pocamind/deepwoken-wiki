@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 30934
+revid: 31411
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -58,8 +58,9 @@ Jolt Grab
 -   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range.
 
  |
-|  | Electro Carve
+|  | 
 
+Electro Carve  
 (☆☆☆)
 
  | Produce a highly potent field of electromagnetism, shocking all inside. | Creates a yellow orb in front of the user.
@@ -193,7 +194,7 @@ Spark Swap
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | 
-Lightning Assault  
+Lightning Assault  
 (★★☆)
 
  | A rush of lightning. | You dash forward and attack those you pass by during your dashes.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 31291
+revid: 31425
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -618,6 +618,44 @@ Costs _[Ether](Combat_Mechanics.md)_.
 
  |
 
+**Silencer:**
+
+These talents are found in the _Silencer_ category.
+
+| Image | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| File:A World Without Song.jpg | 
+A World
+
+Without Song (Legendary)
+
+ | 
+
+All of your wind attacks apply 'Suffocate'.
+
+ | 
+
++1 Elemental Intensity +2 Health
+
+FROM: Silencer's Edge
+
+ |
+| File:Galebreathe Talent Placeholder.png | 
+
+Silencer's Edge
+
+ | 
+
+Meleeing a 'Suffocated' opponent will grant you a speed boost.
+
+ | 
+
++1 Elemental Intensity +3 Health
+
+FROM: Galebreather
+
+ |
+
 **Whisper:**
 
 These talents are found in the _Whisper_ category.
@@ -656,6 +694,8 @@ Inhaling a spell will cause the wind to be applied to your melee attack.
 +4 Elemental Intensity  
 +1 Health
 
+FROM: Inhale
+
  |
 
 ## **Notes/Trivia**
@@ -669,7 +709,7 @@ Inhaling a spell will cause the wind to be applied to your melee attack.
 -   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
 -   The _"Gale Leap"_ talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
 -   The _"Tempest Wind"_ talent requires the player to perform a jump to activate it.
--   The _"Q"_ key activates Gale Dash.
+-   The \[Q\] key activates Gale Dash.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know your doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.

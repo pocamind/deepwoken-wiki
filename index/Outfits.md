@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31355
+revid: 31447
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -523,5 +523,5 @@ _Requires Power 30_
 ## Speculation
 
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
--   The final **Master Outfit** to be discovered will most likely require an Insignia or Wayward gem, considering the known sets each require 1 of the other 4 deep gems.
+-   The only gem that is not used in any armor set is insignia gem.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.

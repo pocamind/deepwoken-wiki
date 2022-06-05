@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 30990
+revid: 31450
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -13,10 +13,7 @@ LocationL The Depths LocationR
 You can feel your soul dragging down like a weight, deeper, further into the depths.
 
   
-
-[The City of the Drowned](The_City_of_the_Drowned.md) in The Depths
-
-**The Depths** is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
+Template:Areainfobox**The Depths** is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
 
 ## Overview
 
@@ -82,7 +79,7 @@ The method **requires no encounters with Watchers.**
 
 ## **The Trial**
 
-The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them. There is a chance that there will be a fewer number of mobs even if there are more players.
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, The Trial will average out the player levels of all participants and spawn one mob for each of them. There is a chance that there will be a fewer number of mobs even if there are more players.
 
 Completing your trial and escaping The Depths gives you a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air into the reservoir, boosting reservoir regeneration. Escaping will also award both of your character's lives back.
 

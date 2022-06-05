@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 31380
+revid: 31441
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -17,11 +17,11 @@ The flames have called the Ferryman!
 
 ― The Ferryman's Theme
 
-  
+Template:Creature Infobox V3
 
 ## Description
 
-Template:Creature Infobox V3 **The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
+**The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. The Ferryman shows little interest in mortals who dwell on the surface and simply toys with them, playing "games" that involve their life and death.
 
 #### Summoning **The Ferryman**
 
@@ -38,7 +38,7 @@ This is possibly the easiest boss in the game to fight solo, if you are familiar
 
   
 
-## Attacks
+## Moves
 
 | Name | Description | Parry-
 able?
@@ -139,9 +139,9 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
     -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once in Summer or Spring)
 
-## Trivia/Notes
+## Trivia
 
--   prThe [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase.
+-   The [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase.
     -   If the Ferryman is in phase 1, "A Sarabande of Thunder" will play in the background.
         -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.

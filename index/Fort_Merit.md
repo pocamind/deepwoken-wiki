@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 31217
+revid: 31449
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -15,11 +15,11 @@ TERRITORY OF The Central Authority
 Once a prison at the edge of Etrean influence, now a forward base for the Authority.
 
   
-**Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
+**Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md). Template:Areainfobox
 
 ## Overview
 
-Template:Areainfobox Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit
+Fort Merit is an Etrean Prison overtaken by the Authority, now serving as a forward base for them. Ironically, Etrean Hostages and Hostage Gremorian Nomads can be found in the cells of Fort Merit
 
 It is found to the right of Bluster's Rift and has a port that can be docked from the shore.
 

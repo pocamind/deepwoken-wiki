@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 31322
+revid: 31419
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -24,7 +24,7 @@ categories: [Weapons, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Corrupted King Thresher |
-| description | "[No description yet in the latest patch]" |
+| description | "" |
 
 “ Life is pain ”
 

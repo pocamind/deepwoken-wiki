@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 31383
+revid: 31438
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -48,8 +48,8 @@ Attributes Unbound, also known as uncapping or limit breaking, are a set of Tale
 ### **Intelligence Unbound**
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a Soul Hearthgem, should be in a mini tunnel cave.
-3.  Reach [The Birdcage](The_Birdcage.md) and light each brasier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
+2.  Enter the Garden Reservoir and obtain a Soul Hearthgem, guarded by a guaranteed [Megalodaunt](Megalodaunt.md) spawn.
+3.  Reach [The Birdcage](The_Birdcage.md) and light each brassier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
 6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 31394
+revid: 31439
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ Template:EnemyInfobox1.0
 
 An Ignition Union Guard is a type of enemy NPC that spawns during Ignition Union vs Akira and Ignition Union vs Summer Company events. Interactable only after Ignition Union vs Summer Company event finishes.
 
-A Ignition Union Guard only wears a [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
+They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 
 ## Moves
 
@@ -41,6 +41,4 @@ An Ignition Union Guard executes the player after knocking them:
 
 ## Trivia
 
--   No longer possible to have negative rep with Ignition Union ever since it became impossible to lose rep from events.
--   Ignition Union Guards only give a different dialog when you're max rep.
--   Max rep dialogs are "How's it going mate?" and "Sea's treatin' you well and all, yeah?"
+-   It is not possible to have negative rep with Ignition Union ever since it became impossible to lose rep from events.
