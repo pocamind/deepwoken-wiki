@@ -1,13 +1,13 @@
 ---
 title: "Attunement-less"
-revid: 31491
+revid: 31496
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Attunement-less
 
-_"Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Durability, Agility, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all." - Journal Of Jericho (probably)_
+> _"Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Durability, Agility, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all." - Journal Of Jericho (probably)_
 
 Attunement-less mantras consist of mantras that are chosen based of your attributes, similar to talents, rather than your attunements.
 
@@ -90,7 +90,7 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
 Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook.
 
 -   **Summon Cauldron** - Make a cauldron appear from your memories.
-    -   Summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
+    -   After inputting a note ( X ) summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
     -   Requirement: 20 Intelligence.
 
 -   **Prediction** - Predict an opponent's attack and reflect it.
@@ -124,7 +124,8 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 -   **Sing** - _Charm_ those around you with your powerful voice.
-    -   Inflicts enemies with a longer lasting charmed debuff. Combat tags enemies.
+    -   Inflicts enemies with a long lasting charmed debuff. Combat tags enemies.
+    -   Can be upgraded with a Talent to buff yourself.
     -   Requirement: 25 Charisma, _Charisma Support Mantra_
 
 ## Weapon Mantras
@@ -181,7 +182,8 @@ For example:
 -   You can increase the distance travelled of dashes with Drift Shard and Rush Shards, although this does not work with Strong Leap, this make the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
 -   Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats more.
 -   You can increase the duration of Fortitude and Charisma related mantras with Aeon and Eternal Logstones, although this does not work for Adrenaline Rush.
--   You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.
+-   ~You can use the Summoning Cauldron as a support in climbing high obstacles, as it is anchored and will only despawn if you're too far.~
+    -   You used to be able to use Summoning Cauldron to climb high obstacles, however, after an update, the Cauldron can no longer be summoned stick to walls due to the new way it is cast.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
 -   Charisma mantras are a very good choice for gunslinger related builds.
 
