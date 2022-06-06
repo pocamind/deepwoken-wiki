@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 31266
+revid: 31491
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -76,7 +76,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the duration/level cap, bolster your agility and wisdom with Ankle weights.
 
 -   **Revenge** - A vengeful rush.
-    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 6 agility, agility _Combat Mantra_
+    -   A red, teleporting dash, activates if you damage an opponent with it. Teleports the user some distance forward. Range significantly decreases and damage significantly increases as the user loses health. Requirement: 5 agility, agility _Combat Mantra_
 -   **Dash** - An agile dash.
     -   Sends the user a considerable distance forward. Range significantly decreases as the user loses health. Can be modified with spring spark, reversal spark and drift/rush shards.
     -   Requirement: 40 agility, Mobility Mantra

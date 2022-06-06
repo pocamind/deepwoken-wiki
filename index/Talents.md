@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31484
+revid: 31492
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -372,6 +372,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are now Dazed for 2 seconds.
+    -   This talent may need strength
     -   Prerequisite: Flame Blind
 
 ### Empath
@@ -927,7 +928,7 @@ These Talents are designed to let you survive against starvation and thirst by l
 
 These Talents are meant to reap the reward of your latest hunt.
 
--   Pickpocket \[Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
+-   Cap Pocket \[Common Talent, Agility\] - Gain the ability to pickpocket by pressing "N" on a downed person. (+4 Ether, +2 Passive Agility)
     -   Prerequisite: 10 Charisma + ~5 Agility
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead it's cancelled when hit or when toggling \[R\] again. (+4 Ether, +2 Passive Agility)
 -   Master Thief \[Common Talent, Agility\] - Gain more notes when mugging a player. (+2 Ether)
