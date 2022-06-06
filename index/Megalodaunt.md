@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 30532
+revid: 31499
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -71,11 +71,11 @@ Gray version of the Megalodaunt, exclusive to The Depths and Trial Of One. They 
 A Megalodaunt swimming.
 
 -   It is the most common Giant Type enemy, and the easiest (Stat Check Level: 30).
--   Sharko's have swimming animations, as seen on the right.
+-   Sharkos have swimming animations, as seen on the right.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
-    -   Moves such as **Thousand Needles** and **Spit** are, however, semi-impossible to avoid, as it covers a good AoE.
+    -   Moves such as **Thousand Needles** and **Spit** are, however, really hard to avoid, as it covers a good Area of Effect.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](Outfits.md#arms) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   They very closely resemble the [Shark-Giants](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.

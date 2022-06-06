@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31475
+revid: 31510
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -110,8 +110,8 @@ _\+ Talent: Apothecary_
 _\+ Talent: Pitcher_
 
  | Hive Chests | N/A |
-| File:Static-assets-upload10220259416551286672.png | Double Strapped Hat | Grants a random buff. | Depths Chests | N/A |
-| File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre, White (Work in progress) |
+| File:Static-assets-upload10220259416551286672.png | Strapped Hat (Series) | Grants a random buff. | Depths Chests | Black & Double (Work in Progress) |
+| File:GreyGumshoeHat.png | Gumshoe Hat (Series) | Grants a random buff. | Fort Merit Chests | Dark, Grey, Ochre & White (Work in progress) |
 | File:Investigator's Hat.png | Investigator's Hat | Grants a random buff. | Aratel Island Chests | N/A |
 | File:Tophat.png | Tophat | Cosmetic | Summer Isle Chests | Beige, Burgundy & Slate |
 | File:Static-assets-upload12843990363310254802.png | Brigand's Bicorn | Grants a random buff. | Depths Chests | N/A |

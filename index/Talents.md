@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31492
+revid: 31506
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -10,7 +10,7 @@ notices:
 
 # Talents
 
-“ Your training finally bears food ”
+“ Your training finally bears fruit... ”
 
 ― Selection Flavour Text
 
@@ -632,7 +632,7 @@ Most of these Talents are designed to benefit you when the situation is dire.
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+3 Health, +6 Sanity)
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown) (+2 Health, +5 Ether)
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+3 Health, +10 Sanity)
--   Piercing Will \[Legendary Talent\] - When your sanity is at stake, ignore the armor resistances of your enemies. (+4 Ether)
+-   Piercing Will \[Legendary Talent\] - When your sanity is at stake gain additional pen on your attacks. (+4 Ether)
 
 ### Lone Warrior
 

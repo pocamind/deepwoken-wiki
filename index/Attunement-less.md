@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 31496
+revid: 31511
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,17 +9,17 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 > _"Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Durability, Agility, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all." - Journal Of Jericho (probably)_
 
-Attunement-less mantras consist of mantras that are chosen based of your attributes, similar to talents, rather than your attunements.
+Attunement-less mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
 
 **NOTE: Attunement-less mantras are rarer if you have an attunement.**
 
-## Overview/Description
+## Description
 
 You don't have an attunement, so your mantras scale off of Strength or other sources, if it has scaling at all.
 
 Most of your mantras focus on your character, such as making you faster, helping you do more damage when things look ugly, or removing stun. Although attunementless sounds horrible on paper, Deepwoken does a good job of making it as good as any other attunement. While the moves are on par if not better than most attunements, it has some drawbacks being you don't get to experience the passives of other attunements, despite having 100 extra points, you likely won't get the chance to obtain most of the mantras, and you don't have much utility outside of fighting.
 
-Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few moves, the community has discovered much about it. It's one move that seemingly had nothing to do with combat, was turned into a wall to proc flourish talents, effectively turning it into unironically one of the best combat mantras. The playstyle of this lifestyle is straight forward. You see an opening and you take it without a second thought because it's going to be hard to get close to your opponent. Many of the moves are good for combat, which is very beneficial in a game like Deepwoken, because it has a large arsenal of moves including it's very own counter, something that little to no attunements have. This attunement (If you could even call it that) is for a warrior, as it can excel in fights, but is not very useful outside of fights.
+Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few moves, the community has discovered much about it. One of it's moves that seemingly had nothing to do with combat, was turned into a wall to proc flourish talents, effectively turning it into unironically one of the best combat mantras. The playstyle of this lifestyle is straight forward. You see an opening and you take it without a second thought because it's going to be hard to get close to your opponent. Many of the moves are good for combat, which is very beneficial in a game like Deepwoken, because it has a large arsenal of moves including it's very own counter, something that little to no attunements have. This attunement (If you could even call it that) is for a warrior, as it can excel in fights, but is not very useful outside of fights.
 
 ## Attribute Mantras
 
@@ -137,7 +137,7 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 ### _**Light Weapon Mantras**_
 
 -   **Rapid Slashes** - Rush down your opponent cutting them apart.
-    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high dmg. when upgraded and 75+ lht.
+    -   Teleports the user to the enemy which the cursor is pointed at. Deals damage, doesn't cancel the enemy's attacks. Deals very high damage when upgraded and 75+ lht.
     -   Requirement: 30 Light Weapon, _Light Weapons Mobility Mantra_
 
 ### _**Medium Weapon Mantras**_
