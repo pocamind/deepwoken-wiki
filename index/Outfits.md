@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31463
+revid: 31475
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -267,13 +267,13 @@ _Disappears on death or leaving the game._
  | Bluesteel Pauldrons | Grants a random buff. | Arena Chests | N/A |
 | File:Brilliant Pauldrons.png | Brilliant Pauldron | Grants a random buff. | Arena Chests, Depths Chests | N/A |
 | File:Flameguard.png | Flameguard Pauldrons | Grants a random buff. | Erisia Chests | N/A |
-|  | Enforcer's Plate | Grants a random buff. | Depths Chests? | N/A |
+|  | Enforcer's Plate | Grants a random buff | Duke chests | N/A |
 |  | Gladiator Pauldrons | Grants a random buff. | Depths Chests (Work in progress) | N/A |
 | 
 
 File:Grand Pauldrons.png
 
- | Grand Pauldrons | Grants a random buff. | Placeholder | N/A |
+ | Grand Pauldrons | Grants a random buff. | Duke chests | N/A |
 |  | Guardian Pauldrons | Grants a random buff. | Depths Chest | N/A |
 |  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
