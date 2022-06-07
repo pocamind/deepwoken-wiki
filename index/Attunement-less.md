@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 31511
+revid: 31538
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Attunement-less mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
 
-**NOTE: Attunement-less mantras are rarer if you have an attunement.**
+**NOTE: Attunement-less mantras are rarer if you have an attunement. (Also very dependent on how much you have in said stat opposed to your attunement)**
 
 ## Description
 

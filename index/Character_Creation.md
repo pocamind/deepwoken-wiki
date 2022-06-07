@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 28805
+revid: 31516
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
@@ -110,3 +110,5 @@ There may be some changes to dialogue with NPCs depending on what 'Tier' of age 
 Helena Dusselden, at Age 40
 
 Age 50
+
+Helena Dusselden, at Age 60

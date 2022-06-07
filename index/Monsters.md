@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 30338
+revid: 31537
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -60,7 +60,7 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 
 **Trial of One**
 
-**Unknown?**
+**Unknown**
 
 **Important Note**: Entities such as King Thresher and King Gigamed may appear to be missing from the list. That is because they are essentially larger and more powerful variants of their basic counterparts, and their information has been relocated to the pages of said counterparts. In the case of "Watchers", they're more essentially like hazards than a true monster and exist only to summon Angels.
 
@@ -127,17 +127,15 @@ Every single Monster in the game is part of a single family. Families are all to
 </tbody>
 </table>
 
-One thing you might notice is that some of these types might layer over with each other, like Megalodaunts being able to spawn on islands and The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea**, so keep that in mind when using accessories.
+One thing you might notice is that some of these types might layer over with each other, like Megalodaunts being able to spawn on islands and The Depths. Monsters **CANNOT** have two families at once and are only what they are originally. A Megalodaunt in The Depths is **still ONLY Giant**, and a Lionfish in The Depths is **still ONLY Sea.**
+
+What purpose does this serve? Absolutely nothing. Before, accessories would give bonus damage types to Monsters depending on their type, but that got changed to make all Monsters take the same, however it might be worth noting for the future that Monsters have families.
 
 ## PVE Scaling/Monster Health
 
-If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one?
+If you have looked at Monster's health on their pages, you might have noticed how they have absolutely **absurd** health, like how the Megalodaunt apparently has 1000 health. What's happening here? At max, a weapon does like 30-50 damage, does it take a max player 20 to 34 hits to kill one? Not really.
 
-**Well, no.**
-
-When you level up, you automatically gain bonus damage during PVE, which is currently estimated to be **8.9%.**
-
-This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level n with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
+When you level up, you automatically gain bonus damage during PVE, which is currently estimated to be **8.9%.** This bonus damage applies to **every** NPC and Monster and is applied on **every** level. This is why even when someone does not upgrade their weapons damage, they still are able to kill Monsters much faster than a lower level n with the same weapon damage. This scaling very quickly becomes crazy in its own right, (to cope with the Monster's crazy health, of course), and towards the endgame, people can kill monsters with thousands of health in a few hits.
 
 Calculating how much health a Monster has from just your damage alone won't be correct, you need to factor in your Power.
 
@@ -149,21 +147,17 @@ _**HitsNeeded = MonsterHealth / (PowerLevel ⋅ WeaponDamage ⋅ 0.089)**_
 
 So as an example, If you were to fight a Megalodaunt with 1000 health, using a weapon that does 40 damage per hit, and at level 60, you would do:
 
-1000 /(60 ⋅ 40 ⋅ 0.089), which would come out to 4.6 hits.
+**1000 /(60 ⋅ 40 ⋅ 0.089)**, which would come out to 4.6 hits.
 
 The only issue with this formula is some monsters have specific resistances to physical, magical, slash, and blunt damage. In this case, you can use:
 
-_**HitsNeeded = MonsterHealth / (PercentOfDamageDealt ⋅ (PowerLevel ⋅ WeaponDamage ⋅ 0.089))**_
+_**HitsNeeded = MonsterHealth / (PercentOfDamageDealt⋅ (PowerLevel ⋅ WeaponDamage ⋅ 0.089))**_
 
--   H = Monster Health
--   L = Level
--   D = Weapon Damage
--   N = Hits needed
--   R = Percent of damage the resistance takes away (Aka, the % of your damage you do after the % is applied. If they have 30% resistance, you put 70%).
+_**note, 'PercentOfDamageDealt' means how much you DO to them WITH the resistance, not how much the resistance IS. If they have a 60% resistance, you do 40% damage, so you put 40%. Not 60%.**_
 
 If you were to fight a Stone Knight, which has a 55% resistance to slashing, with a slashing weapon (biggest mistake ever), using the same stats as before, you would do:
 
-9000 / (0.45 ⋅ (60 ⋅ 40 ⋅ 0.089)), which would come out to 93.6 hits.
+**9000 / (0.45 ⋅ (60 ⋅ 40 ⋅ 0.089))**, which would come out to 93.6 hits.
 
 _[Easily calculate damage done to monsters](https://www.desmos.com/calculator/cp551objtw)_.
 

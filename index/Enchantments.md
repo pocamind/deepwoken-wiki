@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 31402
+revid: 31518
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -66,12 +66,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>When Enchant Procs&nbsp;:<br>
-  If an m1 is landed on a player/mob it will deal an extra 10% of the weapons base damage.<br>
-  It will also steal blood if landed on a player.<br>
-  <br>
-  If a swing is missed it will deal 1% to the user.<br>
-  Getting parried, Blocked, or dodged will not apply this effect. Nor does missing a Heavy swing.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and have increased blood damage. Missing an M1 deal 1% of max hp as self damage. Blocked/Parried/Dodged hits do not count as a miss.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
@@ -83,9 +78,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>When Enchant Procs&nbsp;:<br>
   Deals an extra 40% of the m1 damage.<br>
-  When the enchant proc's on the user is deals 10% less then the weapons base damage.</p>
-  <p>Info Credit&nbsp;: Raum on Youtube<br>
-  <a href="https://www.youtube.com/watch?v=tPUKBifmpyE">https://www.youtube.com/watch?v=tPUKBifmpyE</a></p></div></td>
+  When the enchant proc's on the user is deals 10% less then the weapons base damage.</p></div></td>
 </tr>
 </tbody>
 </table>
@@ -170,10 +163,10 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Updateprov.png<figcaption></figcaption></figure><div>Providence's Thorns</div></td>
-  <td><div><p>Parrying an attack will proc the thorns to the attacker. The thorns scales base of the users power, this affects in PVPVE.</p>
-  <p>Power scaling is based 0.043% x ()power in PVP.<br>
+  <td><div><p>Parrying an attack will proc the thorns to the attacker. The thorns scales base of the users power, this affects in PVPVE.<br>
+  Power scaling is based 0.043% x ()power in PVP.<br>
   Power scaling is based 10% x ()power in PVE.<br>
-  Maximum damage capped is <b>500</b> in PVE.</p>
+  Damage capped at <b>500</b>.</p>
   <p><br>
   </p></div></td>
 </tr>
