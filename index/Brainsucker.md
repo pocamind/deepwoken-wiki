@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 26607
+revid: 31599
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,3 +38,4 @@ Brainsuckers spawn alone above the waves of the [The Aratel Sea](The_Aratel_Sea.
 -   Usually, if you are sailing, they don't notice you when they spawn. You can sail past them with no issue, as long as you are lucky and they spawn somewhat far from the ship. If they do detect you, the ship will be fast enough to make sure both of you are unable to make direct contact. (Provided the ship is moving at maximum speed)
 -   Ironically, the Brainsucker does not actually suck brains.
 -   If Brainsuckers somehow get stuck on a larger boat, they can cause your boat to somewhat fling, which is practically the only threat these things present to the player.
+-   Using a mantra with a Wayward gem on a Brainsucker can cause you to teleport to a random one around the map

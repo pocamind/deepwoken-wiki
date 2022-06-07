@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 31467
+revid: 31598
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -214,7 +214,7 @@ Lightning Cloak
 
 -   Your dashes become teleports, increasing your i-frames.
 -   Lightning cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Lightning cloak has no stat requirements**. In LordSendo's lightning cloak video, you can see that he rolls lightning cloak with 9 agility and 1 intelligence, disproving both theories. It depends merely on luck _(not in-game luck)_ and if you have the Master Thundercaller talent.
+-   **Lightning cloak has only one requirement.** 100 Thundercall, proven by archmage (link below talents)
 -   Drains Ether. (Almost at par with a well-trained Murmur: Ardour.)
 
  |
@@ -598,7 +598,8 @@ After landing a lightning kick press F to followup with a less potent kick. (MAN
 -   The Support Mantra _Lightning Stream_ is in a semi-broken state. Casting the spell immediately sends the tether straight into the ground, wasting it.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
     -   It also shares a resemblance to Byakuren Hijiri's "Virudhaka's Sword" ability, and features a sound effect from the "Occult Gauge" variant of abilities from TouHou 14.5/15.5
--   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.  
+-   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
+-   Proof of Lightning cloak([https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png](https://cdn.discordapp.com/attachments/921964795643699211/983495195029037117/271ceb5381ccc87aab2e2ef384311332.png))  
     
     Virudhaka's Sword
     

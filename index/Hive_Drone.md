@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 28800
+revid: 31592
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -30,6 +30,7 @@ This Outfit's Schematic can be found in:
 
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
+-   [Summer Isles](Summer_Isle.md) Chests
 
 ## Trivia/Notes
 
