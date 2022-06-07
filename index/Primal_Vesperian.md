@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 31564
+revid: 31632
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -10,11 +10,17 @@ categories: [Races]
 
 Template:Races-Main
 
-vadim negr pidor
+"Ancient Vesperians lost to time."
+
+**Currently Unobtainable**
 
 ## Description
 
-вы все пидоры
+An alternate version of Vesperian with dark chitin and white markings, currently **unobtainable** by normal means.
+
+_This is not an entirely different race in and of itself, more so a racial variant with special properties._  
+
+## Lore
 
 Primal Vesperians do not play a significant role in the lore, though they did exist, and have some brief lore behind them.
 

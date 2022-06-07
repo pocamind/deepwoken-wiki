@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31563
+revid: 31619
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -282,10 +282,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health)
     -   Crit procs are rolled for each individual target, not per swing.
     -   Only works on daggers.
--   Prerequisite: 30 Light
+    -   Prerequisite: 30 Light
+-   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
+    -   Prerequisite: Knife's Journey \[Rare Talent\]
+
+-   Thresher Fangs \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
+    -   Prerequisite: 30 - 40 Light (?)
 -   True Pain \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
     -   Critical Strike can attack twice.
-    -   Prerequisite: 75 Light Dagger
+    -   Prerequisite: 75 Light
 
 ### Cryomancer
 
@@ -1087,7 +1092,7 @@ These Talents are designed to make you more effective in water.
     -   When your Armor is at 0%, movement speed increased.
 -   Impervious Slumber \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked. (+2 Health, +5 Ether)
     -   Prerequisites: 35 Fortitude
--   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is cut in half, but your incoming mantra damage is cut in half too. (+10 Health)
+-   Return to the Dark Ages \[Legendary Talent\] - Your mantra damage is reduced by 35%, but your incoming mantra damage is cut by 35% too. (+5 Health)
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables both you and your opponent's ability to cast mantras. You take reduced damage from non-chained enemies while this is applied.
     -   Prerequisites: Shadow Chains
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)

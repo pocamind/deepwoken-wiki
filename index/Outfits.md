@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31510
+revid: 31606
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -275,6 +275,7 @@ File:Grand Pauldrons.png
 
  | Grand Pauldrons | Grants a random buff. | Duke chests | N/A |
 |  | Guardian Pauldrons | Grants a random buff. | Depths Chest | N/A |
+| File:Imperial Pauldrons.png | Imperial Pauldrons | Grants a random buff. | Fort Merit Chests | N/A |
 |  | Leather Pauldrons | Grants a random buff. | Erisia Chests | N/A |
 | 
 

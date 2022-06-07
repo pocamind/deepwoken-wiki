@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 31425
+revid: 31604
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -601,6 +601,19 @@ Posture damage is reduced when wielding a spear and standing still.
  | 
 
 +2 Passive Agility +3 Health
+
+ |
+| File:Galebreathe Talent Placeholder.png | 
+
+Pressure Break
+
+ | 
+
+Breaking an enemy's posture will cause them to take intense wind pressure damage and be flung backwards.
+
+ | 
+
++8 Carry Load +2 Passive Agility +3 Health FROM: Air Pressure
 
  |
 |  | 

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 31590
+revid: 31635
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -104,7 +104,7 @@ Players can reset their reputation of a faction to Neutral by **bribing** their 
   <td>Near the fountain in <a href="The_Lordsgrove.md">The Lordsgrove</a></td>
 </tr>
 <tr>
-  <td></td>
+  <td><figure>File:Rashet.png<figcaption></figcaption></figure></td>
   <td>The Authority</td>
   <td>Rashet: Removes negative rep with the Fort merit guards</td>
   <td>Standing by a pillar at the Merit's reach from across the river</td>
