@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 31537
+revid: 31584
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -57,6 +57,8 @@ While most of the ways to fight a Monster are specific to what kind it is, there
 **Exclusive to Etrean Luminant**
 
 **Exclusive to The Depths**
+
+  
 
 **Trial of One**
 

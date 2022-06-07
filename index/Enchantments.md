@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 31518
+revid: 31567
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -69,7 +69,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>M1s deal 10% more damage and have increased blood damage. Missing an M1 deal 1% of max hp as self damage. Blocked/Parried/Dodged hits do not count as a miss.</p></div></td>
 </tr>
 <tr>
-  <td><figure>File:Image 2022-01-05 195102.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
+  <td><figure><figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped.<br>
   <b>This enchant is disabled in Arena</b><br>
   <b>The effects of the Viscosity are disabled if using this curse.</b></p></div></td>

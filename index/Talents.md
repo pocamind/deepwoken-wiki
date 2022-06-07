@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31506
+revid: 31563
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -686,6 +686,10 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 
+### **Mindbreaker**
+
+-   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity.
+
 ### Ministry Operative
 
 -   Ghost \[Legendary Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 passive agility)
@@ -733,6 +737,8 @@ These are just raw stat increase and are beneficial to anyone.
 ### Omniscient
 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
+-   All knowing \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity, +10 Ether)
+    -   Prerequisite: Prediction (Intelligence Mantra)
 -   Successive Prediction \[Rare Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
     -   Prerequisite: Prediction (Intelligence Mantra)
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 27172
+revid: 31579
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -57,6 +57,10 @@ A list of locations that can be found in the [Etrean Sea](The_Etrean_Sea.md).
 ### Inaccessible
 
 -   [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md)
+-   [The Floating Keep](The_Floating_Keep.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [The Entropy Catalyst](The_Entropy_Catalyst.md)
+-   [Derelict Highchurch](Derelict_Highchurch.md)
     
 
 **The Aratel Sea:**
@@ -89,18 +93,30 @@ A list of locations that can be found in [the Voidsea](Voidsea.md).
 ### The Void Sea
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
--   [Voidheart](Voidheart.md)
     
 
 ## The Depths
 
 A list of named locations that can be found in [The Depths](The_Depths.md) experience.
 
+### **Layer 1**
+
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [The City of the Drowned](The_City_of_the_Drowned.md)
         -   [Varicosa District](Varicosa_District.md)
         -   [District of Commerce](District_of_Commerce.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
+
+### **Layer 2**
+
+-   Ethironal Shrine Outskirts
+    -   [Sanctuary Gatehouse](Sanctuary_Gatehouse.md)
+    -   Ethironal Shrine Sanctuary
+        -   [Pilgrim's Respite](<Pilgrim's_Respite.md>)
+        -   [The Frontier Furnace](The_Frontier_Furnace.md)
+-   [Firfire](Firfire.md)
+    -   Firfire Caverns
+    -   [Firfire Cliffs](Firfire_Cliffs.md)
 
 ### Miscellaneous
 

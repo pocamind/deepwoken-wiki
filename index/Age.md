@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 28938
+revid: 31545
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, NPCs]
@@ -23,4 +23,4 @@ The section below will be continually updated after any visual changes, the pict
 
 -   Age 40 - Crow's Feet (wrinkles next to eyes)
 -   IF your the same race and race variant as someone lets say player A is 40+ while player b is only like 21, you get the title juvenile over your name for that person while they get elder over theirs
--   Stage 4 is the last stage of age
+-   Stage 5 is the last stage of age
