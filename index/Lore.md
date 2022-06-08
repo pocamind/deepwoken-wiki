@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 31381
+revid: 31653
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -153,6 +153,7 @@ Yun'shul
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
     -   The Nestmind assumes the people of the New World misunderstanding the concept of The Depths, that the truth is it is an Interstice between human consciousness and reality as a whole.
+    -   The Nestmind is NOT a Drowned God and simply a strong Depths entity like the [Deep Voices](Voices_of_the_Depths.md).
 
 ## Locations
 

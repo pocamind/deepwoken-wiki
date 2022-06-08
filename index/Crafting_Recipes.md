@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 30558
+revid: 31655
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -255,10 +255,14 @@ _**Negative**_
 
 -   Grants a speed bonus, lasts longer high level potion
 
+_**Negative**_
+
+-   Deals damage
+
  | 
 
 -   The speed bonus also works in water, great for escapes.
--   No real downsides other than Pomar being hard to come by.
+-   No real downsides other than Pomar being hard to come by and it dealing damage.
 
  |
 | **Grueling Potion**

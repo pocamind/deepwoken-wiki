@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 31486
+revid: 31671
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -27,9 +27,9 @@ categories: [Weapons, Greatswords]
 | obtainment | Chests in The Depths; The Duke loot pools |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
-“ Hi son, I'm back! ”
+“ Oh no... I'm in trouble... ”
 
-― Deepwoken player's dad coming home after he decides to stop using Crypt Blade.
+― Hero Blade main after meeting a Crypt Blade user.
 
 ## Description
 

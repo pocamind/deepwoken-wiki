@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 27665
+revid: 31658
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -60,6 +60,8 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   [Thundercaller Monk](Songseeker_Thundercaller.md)
 -   [Megalodaunt](Megalodaunt.md)
     -   Red Megalodaunt
+
+-   [Knives of Eylis](The_Knives_of_Eylis.md)
 
 ## Loot Table
 

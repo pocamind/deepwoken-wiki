@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 30053
+revid: 31668
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Spells, Mantras, Skills, Attunement, Attributes, Weaponry, Armors, Weapons, Guilds, Helpful, Talents]
@@ -27,6 +27,8 @@ Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www
 ### Arch\_Mage
 
 Arch\_Mage has (Atleast in Pre-release Deepwoken) the ability to steal people's soul and take mantras from them. He can upgrade then to whatever level he sees fit. Most likely is that he has changed his spec in-game but we can't be sure. Arch\_Mage also seems to posses a teleportation ability which spawns chains around him when he disappears, not much is know about this ability currently.
+
+**[Arcwarder](Oath%253A_Arcwarder.md)**
 
 ### Melonbread
 
