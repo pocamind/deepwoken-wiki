@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 30994
+revid: 31696
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -74,9 +74,7 @@ Resonances of both types are able to have **Variants,** which are sidegrades tha
 
 There is a very small chance that both types and their **Variants** can also become **Corrupted,** increasing their effect and strength, but adding a downside.
 
-There is a very small chance that they can also become **Corrupted,** increasing their effect and strength, but adding a downside.
-
-Finally, if you reroll (see below) your Resonance, the next one you get will become **Tarnished,** making the Resonance weaker, and acting like a opposite of, but still being able to overlap with **Corrupted**.  
+Finally, if you reroll (see below) your Resonance, the next one you get will become **Tarnished,** making the Resonance weaker, and acting like a opposite of, but still being able to overlap with **Corrupted**.
 
 ## Obtainment Process
 

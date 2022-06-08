@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 31673
+revid: 31699
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Daggers]
@@ -36,7 +36,9 @@ categories: [Weapons, Pages with broken file links, Daggers]
 
 ## Description
 
-Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has base damage of 15 and a weapon scaling of 5. It is underwhelming compared to the [Canor Fang](Canor_Fang.md) but when upgraded using [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy), it can match endgame daggers such as the [Krulian Knife](Krulian_Knife.md); especially with its unique critical attack. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md). Also, it has a unique critical attack.
+Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has base damage of 15 and a weapon scaling of 5. Can be upgraded [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy) and once done so it can match endgame daggers such as the [Krulian Knife](Krulian_Knife.md). It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md).
+
+Instead of the normal dagger critical, this dagger has a unique varient: [This Video](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal)
 
 It is the standard weapon of members of [The Knives of Eylis](The_Knives_of_Eylis.md).
 
@@ -46,5 +48,6 @@ Can be upgraded using [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Plur
 
 -   The name references the other nickname of The Knives of Eylis, that being The Whalers.
 -   The Knives of Eylis will always spawn with this Alloyed.
+-   The critial attack will proc knifes journey at a extremely high rate
 
 File:Whalin knife 2.png

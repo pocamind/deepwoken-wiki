@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31503
+revid: 31695
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -379,6 +379,15 @@ These talents are found in the "_Inferno_" Category.
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | Pleetsky's Faith | (Work in Progress) | (Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma) |
+
+**Immolator:**
+
+These talents are found in the "_Immolator_" Category.
+
+| **Image** | **Talent** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | Phoenix Flames | Any time you would burn to death, you instead rise again with 50% of your health restored. | When the user is burned to death, the user is instead revived with 50% health. This card is typically paired with Last Laugh. |
+|  | Immolator | Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. | Reduces the caster's ether cost by 70% while on fire. Hitting an opponent while on fire causes them to be lit on fire. |
 
 **Uncategorized:**
 
