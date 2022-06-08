@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 31215
+revid: 31714
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Red Megalodaunt at Songseeker Wilds |
-| description | Long red dagger, with hints of white on specific lining on the blade and grip, along with gold as the hilt and guard. |
+| description | Long white blade with a red overlay in the center. Gold adorns the grip and makes up the hilt as well as the pommel. |
 
 _**Sometimes you defeat your enemy, just by showing of your weapon. "a wise Capra telling his stories"**_
 
