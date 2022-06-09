@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 31268
+revid: 31748
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 File:Primadon.png
 
-**Primadon** is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Description
 
