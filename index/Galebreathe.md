@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 31724
+revid: 31740
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -713,7 +713,6 @@ FROM: Inhale
 
 ## **Notes/Trivia**
 
--   Galebreathe only has 1 grab move.
 -   Primadon is completely immune to suffocation.
 -   Light Green Mudskippers are able to use a buffed version of the _"Air Force"_ mantra, with greater knockback and ragdoll.
 -   Arch\_mage stated that Galebreathe is "least me" out of all the elements.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 31680
+revid: 31743
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -46,9 +46,9 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 ### Fortitude
 
-“ Cheers bro, I'll drink to that. ”
+“ Fortitude Unbound son! You can't hurt me Jack! ”
 
-― Ganymede alchemist, chugging an absurd number of potions.
+― Senator Corbet, tanking through Rapid Punches.
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
@@ -98,6 +98,7 @@ List of agility talents
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
 -   Gain Willpower EXP via Foraging, fighting sea monsters, witnessing players/NPCs deaths (by another source, like drowning, burning or killed by someone else), and using Prayer Beads. It will also passively increase in [The Depths](The_Depths.md) and The Void Sea.
 -   Willpower allows access to the Blindseer Oath if you decide to take the steps necessary.
+-   Willpower allows for the Azure Flame talent to be rolled for Flamecharmers.
 -   Uncapped by talking to Akira then going to Castle Light to talk to him again.
 -   (requires 30 willpower) gain the ability to get mantras like Gaze, Ardour Scream and Exhaustion Strike.
 
@@ -174,9 +175,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Frostdraw
 
-“ Sure is cold for some reason... ”
+“ FREEZE! DON'T MOVE! ”
 
-― Clueless Gremor, drinking from the well.
+― Gremorian Frostdrawer, charging their Ice Beam at a clueless Khan.
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
@@ -196,9 +197,9 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 ### Galebreathe
 
-“ Man, they put chips in my packet of air again... ”
+“ Taste my wind! ”
 
-― Etrean buying Lays oven baked chips.
+― Galebreathe user, using their "Flatulence Mantra"
 
 -   Increases damage and effectiveness of Galebreathe Mantras.
 -   Unlocks Galebreathe related Talents.
