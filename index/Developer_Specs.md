@@ -1,9 +1,9 @@
 ---
 title: Developer Specs
-revid: 31708
+revid: 31720
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken, Spells, Mantras, Skills, Attunement, Attributes, Weaponry, Armors, Weapons, Guilds, Helpful, Talents]
+categories: [Deepwoken]
 ---
 
 # Developer Specs
@@ -41,3 +41,7 @@ Not much is known of Iltria's spec as of now, however we have a general idea. Up
 ### Zartaina (Stannis Caesar)
 
 Zartaina has spec which is called “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game. Zartaina has also stated that the spec isn’t full completed. (Note: He can slo summon a gate that can transport a player to a random location, unknown if it’s related to his spec)
+
+### Hive Leader (Zithori Vhemm Rybak Diri)
+
+They wear custom armor and a custom outfit that allows them to cosplay Scaramouche from the actionRPG _Genshin Imapct_.

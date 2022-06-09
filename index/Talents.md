@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31709
+revid: 31739
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -62,7 +62,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 ### Aerial Dancer
 
 -   Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
-    -   Prerequisites: 20 Strength
+    -   Prerequisites: 15 Strength, Aerial Stab
     -   Synergizes well with Aerial attack Talents.
 
 ### Aeromancy
@@ -74,6 +74,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
+    -   Prerequisite: 30 Strength
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
@@ -148,7 +149,7 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
     -   Also apply to sheathing.
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: Agility
+    -   Prerequisites: Agility 30-35~, 20-25~ Intellegence
 
 ### Athlete
 
@@ -213,7 +214,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   Safety Dance \[Rare Talent\] - Your dodge frames are doubled. (+1 Passive Agility)
     -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Prerequisite: 15 Agility.
+    -   Prerequisite: 15 Agility (This is false, I rolled it with 2 agility. It either has no requirement, or a different stat requirement).
 
 ### Butterfly
 
@@ -752,7 +753,7 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest. (+10 Ether, +9 Health)
 -   Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
-    -   Prerequisite: 90+ Strength
+    -   Prerequisite: 90 Strength
 
 ### Public Figure
 
@@ -780,7 +781,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks.
 
 -   Bulldozer \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact. (+2 Health)
-    -   Prerequisite: 25 strength
+    -   Prerequisite: 25 Strength
 -   Treefelling Blow \[Common Talent\] - You can collect lumber from the trees you fell with your fists. Look, it's hilarious, are you gonna take it or not?
     -   Prerequisite: Unknown amount of strength. (Requires Strong Left - Strength Mantra.)
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load, +3 Health)

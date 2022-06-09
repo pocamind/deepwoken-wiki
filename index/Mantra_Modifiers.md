@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31504
+revid: 31738
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -1240,7 +1240,9 @@ File:Dark Blade with Tornado Spark.gif
 
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
 -   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
+-   Mantra Modifiers that directly affect a mantra will glow white after rising from the modification table- Mantra Modifiers that either indirectly affect a mantra or are entirely incompatible in the first place will dissolve into black.
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
 -   The Falseflame, Haunting stone and Mirage Stones are not meant to be in the game yet and do not do anything. _(Arch said he didn't know how people got them as they are unreleased material)_
 -   Revenge requires Drift/Rush Shards to reach further instead of Lens.
 -   Mantra modifying will not always cost notes.
+-   Longstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun). They will dissolve into black, but the duration will still be modified.

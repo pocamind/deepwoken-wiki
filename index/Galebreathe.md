@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 31604
+revid: 31724
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Mantras, Spells]
@@ -29,7 +29,7 @@ Like all other elements, users can see their Mantras become stronger with traini
 -   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two-star Mantras.
 -   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three-star Mantras.
 
-The spell trainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stone](Gale_Stone.md) in order to unlock Galebreathe.
+The spell trainer can be found in the Isle of Vigils by the tent across the Inn. It requires 5 [Gale Stones](Gale_Stone.md) in order to unlock Galebreathe.
 
 ### **Combat Mantras**
 

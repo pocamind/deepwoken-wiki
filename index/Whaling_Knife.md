@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 31715
+revid: 31725
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Daggers]
@@ -27,7 +27,7 @@ categories: [Weapons, Pages with broken file links, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The depths, Duke, Knives of Eylis events, Primadon |
+| obtainment | The Depths, Duke, Knives of Eylis events, Primadon |
 | description | ' The Knife of one of the infamous Silver Whalers, mercenaries and assassins feared and reviled the world over ' |
 
 “ Theeeere once was a ship that was put to sea.... ”
@@ -36,7 +36,7 @@ categories: [Weapons, Pages with broken file links, Daggers]
 
 ## Description
 
-Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has base damage of 15 and a weapon scaling of 5. Can be upgraded [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy) and once done so it can match endgame daggers such as the [Krulian Knife](Krulian_Knife.md). It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md).
+Whaling knife is a dagger type weapon with the requirement of 40 LHT, it has base damage of 15 and a weapon scaling of 5. Can be upgraded with [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy) and once done it can match endgame daggers such as the [Krulian Knife](Krulian_Knife.md). It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md).
 
 Instead of the normal dagger critical, this dagger has a unique variant: [This Video](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal)
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31650
+revid: 31718
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -508,7 +508,7 @@ _Requires Power 30_
 ## Trivia/Notes
 
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   Arch confirmed that there are **5** master outfits. So far, only 4 outfits have been found.
+-   Arch confirmed that there are **5** master outfits. `S̶o̶ ̶f̶a̶r̶,̶ ̶o̶n̶l̶y̶ ̶4̶ ̶o̶u̶t̶f̶i̶t̶s̶ ̶h̶a̶v̶e̶ ̶b̶e̶e̶n̶ ̶f̶o̶u̶n̶d̶.̶ this is no longer the case all 5 have been found. and the first statement needs proof because there is still a Insignia Gem. Future updates might change this.`
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
     -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).

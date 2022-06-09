@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 31204
+revid: 31727
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -125,7 +125,7 @@ Template:Areainfobox
 -   Located at the backside of the Blacksmith, talk to the Etrean there.
 -   The Etrean begs you not to not rat him out to the Blacksmith, as he will be revoked of his apprenticeship.
 -   Keeping his promise and not ratting him out rewards you a 50% discount on all Materials in the Blacksmith.
--   Ratting him out does nothing, but atleast your ego increased!
+-   Ratting him out does nothing, but at least your ego increased!
 
 ### Slim Jim Quest
 
@@ -146,12 +146,13 @@ Template:Areainfobox
 -   Talk to the Navaen Nomad in Etris, located near the big slope ramp close to the Alchemy House.
 -   She'll talk to you about a missing individual, whom they were suppose to meet in Etris. Agreeing to help to find this person accepts the quest.
 -   Any info on how to finish this will be rewarded with 2 Vibrant Gems. Message PrιmΦrdιs#0070 and tell me how to finish it for your reward. ( I think you just give them a nomad?)
+-   Look at: [Nanji](Nanji.md)
 
 ### The Lord Regent's Quest
 
 Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and properly equipped players.
 
--   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrian Guards in the Etrian Guard vs Adret event or the Etrian Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
+-   To begin this quest, you must have a positive reputation in Etrea. Can be achieved by helping the Etrean Guards in the Etrean Guard vs Adret event or the Etrean Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard, and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the The Lord Regent's Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
@@ -160,8 +161,8 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 
 -   Make sure you talk to the Royal Guards that the The Lord Regent is expecting you, making them docile unless provoked.
 
--   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia Island](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
--   Traverse through Erisia Island, go through Towerstruck Lands and into the Garden Reservoir, there, a Teleporter will be seen, which leads to the Manor.
+-   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in Lord Erisia's Manor, in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Traverse through [Erisia,](Erisia.md) go through [Towerstruck Lands](Towerstruck_Lands.md) and into the [Garden Reservoir](The_Garden_Reservoir.md), there, a Teleporter will be seen, which leads to the Manor.
 -   To use the Key to unlock the black iron gate, the Key must be glowing white.
 -   Descend to the Elevators, and fight againt a handful of Enemies and Humanoid Constructs.
 -   Fight the Boss, named The Duke; a Celtor Scientist whom went insane from his corrupted knowledge.
@@ -174,7 +175,7 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 
 To begin this quest, talk to Karliah, an Adret Diver. She is located in a house near the Signs, next to the General Store.
 
--   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in Erisia Island. (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
+-   Accepting to escort her activates the quest, and meet her in Erisian Mines, located in [Erisia](Erisia.md). (She is located near the zipline placement near the ruins, onto of the cave deposit in Pathfinder's Respite.
     -   You must have Charisma ~10 to charge Karliah.
 -   Save her from the Mudskipper that is attacking her.
 -   Interact with her.
@@ -218,7 +219,7 @@ After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths
 
 -   Ploom
 -   Theadre
--   The Lord Regent
+-   [Lord Regent](The_Lord_Regent.md)
 -   Innkeeper
 -   [Guild Clerk](Guilds.md)
 -   [Banker](Artifacts.md)
@@ -226,7 +227,7 @@ After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths
 -   Lance Leshi
 -   Kennith
 -   [Royal Guard](Etrean_Guardsmen.md)
--   Karliah
+-   [Karliah](Karliah.md)
 -   The old guy Karliah kills (placeholder)
 -   Frostdrawer Nell
 -   That capra at the port (placeholder)
