@@ -1,12 +1,18 @@
 ---
 title: Felinor
-revid: 31472
+revid: 31751
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
 ---
 
 # Felinor
+
+“ OMG!! FURRY!!! KILL KILL KILL ”
+
+― A Gremor after seeing a Felinor for the first time.
+
+  
 
 ## Descriptions
 

@@ -1,6 +1,6 @@
 ---
 title: Pure Heart
-revid: 19827
+revid: 31756
 source: https://deepwoken.fandom.com/wiki/Pure_Heart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

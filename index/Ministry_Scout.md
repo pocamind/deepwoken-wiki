@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 30678
+revid: 31761
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description:
 
-Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Curiously, they also gather around Summer Isle, whether to murder members of The Children of Navae or massacre bandits.
+Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. ~Curiously, they also gather around Summer Isle, whether to murder members of The Children of Navae or massacre bandits.~
 
 ## Appearance
 
@@ -29,7 +29,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 | Assault | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
-| Void Lance | Caster touches the ground and opens a gate allowing a void tentacle to attack at aimed opponent. | ◯ | ◯ | (★☆☆) |
+| Void Lance | Caster opens a gate allowing a void tentacle to attack at aimed opponent. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
@@ -41,7 +41,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Rushing the game _especially here_ is very dangerous at a low level, alone, **ESPECIALLY IF YOU HAVE THE OBVIOUS FLAW.** It's best to be avoided unless you know what you are doing.
 -   There are about 9 Ministry Scouts. 4 patrolling outside, 5 inside the fortress on [Minitrysa](Minityrsa.md).
--   Within the fortress there are 2 plumfruit trees and 3 wheat spots, a good source of water/food.
+-   Within the fortress there are 2 Plumfruit trees and 3 Wheat spots, a good source of Food/Water.
 -   Killing one decreases your reputation with their faction.
 
 ## Trivia

@@ -1,12 +1,18 @@
 ---
 title: Ganymede
-revid: 30943
+revid: 31759
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
 ---
 
 # Ganymede
+
+“ What the fuck are yo talkin' about, Gigguur? Yer' too scared to explore the depths? ”
+
+― A Ganymede talking to his fellow Capra friend
+
+  
 
 ## Description
 

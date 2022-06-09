@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 30927
+revid: 31763
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -8,6 +8,11 @@ categories: [Pages with broken file links, Races, Character]
 
 # Adret
 
+“ Imagine being a slow learner ”
+
+― An Adret before entering in serious EXP debt
+
+  
 Template:Races-Main
 
 _Tattooed when they come of age, their tattoo represents the path of life they seek. Well-regarded as bureaucrats and keepers of coin._

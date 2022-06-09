@@ -1,12 +1,18 @@
 ---
 title: Shadowcast
-revid: 31020
+revid: 31771
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
 ---
 
 # Shadowcast
+
+“ Ill be borrowing that ether ”
+
+― Unknown Shadowcaster about to drain someones entire ether and reservoir
+
+  
 
 ## Description
 
@@ -84,7 +90,11 @@ Shadow Eruption
 Shadow Seekers  
 (★☆☆)
 
- | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether. |
+ | Call forth the void to track your opponents. | The user snaps their finger and dozens of void orbs will float out from their position and slowly fly to its opponent until it has disappeared or hit the user dealing a small amount of damage and tremendously stealing the opponents' ether.
+
+-   Shares a cooldown with Shadow Meteors.
+
+ |
 | 
 
  | 
@@ -118,6 +128,7 @@ Shadow Meteors
  | Hail down meteors of darkness. | Multiple meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable.
 
 -   Shards make the meteors significantly faster.
+-   Shares a cooldown with Shadow Seekers.
 
  |
 | 

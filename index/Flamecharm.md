@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31695
+revid: 31773
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -8,6 +8,11 @@ categories: [Pages with broken file links, Spells, Magic, Mantras]
 
 # Flamecharm
 
+“ GRACEFUL FLAME PLZ PLZ PLZ ”
+
+― Canor freshie begging for an unknown Flamecharmer for graceful flame in the Depths.
+
+  
 Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 
 ## Description

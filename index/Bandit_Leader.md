@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 31408
+revid: 31758
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,8 +23,7 @@ A Bandit Captain's arsenal consists of a starter weapon, them being a [Battleaxe
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
-\[[Messer](Messer.md)\] Performs a windup before thrusting blade forward.
-
+\[[Messer](Messer.md)\] Performs a windup before thrusting blade forward.  
 \[[Gilded Knife](Gilded_Knife.md)\] Performs a windup before unleashing a flurry of slashes.
 
  | ◯ | ◯ | (★★☆) |

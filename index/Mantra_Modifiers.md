@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31738
+revid: 31753
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -198,9 +198,7 @@ Glass
 
 Stone
 
- | 
-
-Applicable to all spells, and causes the primary projectile to be turned invisible.
+ | Applicable to all spells, and causes the primary projectile to be turned invisible.
 
 +1 Size  
 +1 Range  
@@ -221,9 +219,7 @@ Applicable to all spells, and causes the primary projectile to be turned invisib
 
 Magnifying Stone
 
- | 
-
-Likely same as Glass Stone, just better
+ | Likely same as Glass Stone, just better
 
 +2 Size  
 +2 Range  
@@ -536,9 +532,7 @@ Stone
 
 Unknown_._
 
- | 
-
-_"You feel unnaturally calm when grasping this stone"_
+ | _"You feel unnaturally calm when grasping this stone"_
 
 Possible sanity recover if you hit the attack.(?) Tested with multiple Mantras, either the sanity recover is very slightly or it does something else.
 
@@ -555,9 +549,7 @@ Falseflame Stone
 
 Unknown.
 
- | 
-
-_"The azure stone glows vibrantly, but emits no warmth."_
+ | _"The azure stone glows vibrantly, but emits no warmth."_
 
 -   Gigamed drop. (Devs only)
 
@@ -572,9 +564,7 @@ Haunting Stone
 
 Unknown.
 
- | 
-
-_"You feel unsettled when grasping this stone"_
+ | _"You feel unsettled when grasping this stone"_
 
 Could give insanity on to the target if attack hits. Looks identical to falseflame.
 

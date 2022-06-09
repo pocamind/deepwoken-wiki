@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 31435
+revid: 31757
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Npc]
@@ -23,14 +23,13 @@ A Bandit wears an Unknown/Unlisted Outfit with their [race](Aspects.md) and gend
 
 ## Moves
 
-A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Stiletto](Stiletto.md):
+A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), Sword (Unobtainable), [Mace](Mace.md) or [Stiletto](Stiletto.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
-\[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.
-
+\[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.  
 \[[Stiletto](Stiletto.md)\] Performs a windup before unleashing a flurry of slashes.
 
  | ◯ | ◯ | (★☆☆) |
