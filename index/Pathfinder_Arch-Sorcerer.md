@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 25459
+revid: 31799
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Power.md) 30 and [Intelligence](Attributes.md
 
 This Outfit has 1500 durability and grants +10% Physical resistance, +25% Elemental resistance, +10% Lightning resistance, +10% Ice resistance and +200% Ether Regen.
 
-This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which gives the player extra Ether for every Mantra Card they own.
+This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which gives the player +10 Ether for every equipped mantras.
 
 ## Location
 
@@ -34,3 +34,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Similar to Robin's outfit from the Fire Emblem series.
+-   Expect to get a minimum of +60 Ether on common builds, with an upper limit of +100 Ether with certain talent and oaths.

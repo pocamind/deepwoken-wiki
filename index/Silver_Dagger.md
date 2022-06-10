@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 31735
+revid: 31798
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Daggers]
@@ -28,7 +28,7 @@ categories: [Weapons, Weaponry, Daggers]
 | obtainment | Found in Erisia , Purchased in Summer Isle |
 | description | A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable. |
 
-It's just a dagger out of silver. what did you expect?
+It's just a dagger out of silver. what did you expect? But at least it can kill a werewolf
 
 ## Description
 

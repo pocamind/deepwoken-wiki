@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31741
+revid: 31801
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -522,6 +522,11 @@ These Talents are meant to improve your overall combat effectiveness.
     -   **M1 + M2** during most galebreath mantra windup will Inhale the mantra and cancel it. (2 seconds cooldown)
 -   Tailwind \[Galebreathe Exclusive\] - Gain a speed boost after a successful inhale.
     -   You can no longer abuse this. **You cannot spell cancel consecutively as there is now a 2 second cooldown.**
+
+### Gale Duelist
+
+-   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
+    -   Prerequisites: Wind Blade, 20 Galebreathe.
 
 ### Genius Intellect
 
