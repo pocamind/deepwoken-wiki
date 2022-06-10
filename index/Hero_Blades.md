@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 30977
+revid: 31824
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -93,7 +93,9 @@ categories: [Weapons, Weaponry]
 | obtainment | Defeating Blizzard Knights in Valley of Heroes |
 | description | N/A |
 
-_**I'm going to cut you down with my magic. Who needs a sword out of iron, when you have a sword out of magic! "A crazy Ganymede at a Bar"**_
+_**"Hmm... Aelita said to come back here during the winter... Wait are those...meteors?"**_
+
+_**\- A unaware Aelita fan**_
 
 ## Description
 

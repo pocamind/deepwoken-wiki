@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 31796
+revid: 31834
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -27,11 +27,13 @@ Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and
 
 ## **Points of Interest**
 
--   [The City of the Drowned](The_City_of_the_Drowned.md)
-    -   [District of Commerce](District_of_Commerce.md)
-    -   [Varicosa District](Varicosa_District.md)
--   [Temple of Hearts](Temple_of_Hearts.md)
--   [Fragments of Self](Fragments_of_Self.md)
+-   Layer 1
+    -   [The City of the Drowned](The_City_of_the_Drowned.md)
+        -   [District of Commerce](District_of_Commerce.md)
+        -   [Varicosa District](Varicosa_District.md)
+    -   [Temple of Hearts](Temple_of_Hearts.md)
+    -   [Fragments of Self](Fragments_of_Self.md)
+-   Layer 2
 
 ## **Escaping The Depths**
 
@@ -259,7 +261,7 @@ Legendary = Gold
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
 
-## **Trivia/Notes**
+## **Trivia**
 
 -   You can gain luck by killing corrupted [Monsters](Monsters.md) in the Depths.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.

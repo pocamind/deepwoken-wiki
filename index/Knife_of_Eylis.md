@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 31465
+revid: 31833
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,3 +19,7 @@ The Knives of Eylis Pirates, also referred to as the Silver Whalers, are a gang 
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | The pirate uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward. | ◯ | ✗ | (★★☆) |
+
+## Trivia
+
+-   The player needs to kill all 3 Pirates to obtain the chest for The Aratel Sea event.

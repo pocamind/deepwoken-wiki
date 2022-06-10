@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 31140
+revid: 31821
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -22,6 +22,14 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 -   Mushroom Bisque
 -   Cooked Fish
 -   Megurger - Boosts your Weapon Damage, vomit if you're unworthy.
+
+## Spawn locations
+
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [Summer Isle](Summer_Isle.md)
+
+_**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
 
 ## Notes/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 31362
+revid: 31832
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -47,17 +47,41 @@ These mantras have no prequisites.
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
-| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | Ice Spikes | Piercing spikes of ice. | Thrusts a spike of ice from the ground at cursor location.
+| [Icespikes](https://deepwoken.fandom.com/wiki/File:Icespikes.gif) | 
+Ice Spikes
+
+ | 
+
+_Piercing spikes of ice._
+
+ | Thrusts a spike of ice from the ground at cursor location.
+
 -   Deals moderate damage and sends target into the air.
 -   Leaves ice where the Mantra is casted.
 
  |
-| [Ice Beam](https://deepwoken.fandom.com/wiki/File:Ice%20Beam.gif) | Ice Beam | Fire a beam of ice. | Fires a penetrating beam of ice.
+| [Ice Beam](https://deepwoken.fandom.com/wiki/File:Ice%20Beam.gif) | 
+
+Ice Beam
+
+ | 
+
+_Fire a beam of ice._
+
+ | Fires a penetrating beam of ice.
 
 -   Deals multiple attacks and light damage.
 
  |
-| File:Frostgrab base range.gif | Frost Grab | An icy chokehold. | Launches the user forward and grabs a target in front of them.
+| File:Frostgrab base range.gif | 
+
+Frost Grab
+
+ | 
+
+_An icy chokehold._
+
+ | User performs a quick dash before grabbing the opponent in front of them.
 
 -   Can be used for slight forwards mobility until the user gets Glacial Arc.
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
@@ -65,25 +89,60 @@ These mantras have no prequisites.
 -   This move can insta-grip if it posture breaks a target with low enough health.
 
  |
-| [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | Warden's Blades | Revolving blades of ice. | Caster creates 4 large blades made of ice around them in a cross formation. The blades then quickly proceed to start spinning around the caster with the blade facing out. Deals rapid light damage, combined with stratus stones can create serious area denial. |
-| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | Frozen Servants | A legion of frost. | Summons four or five ice servants that thrusts out two blasts of some sort of ice shard frost mist to the center. Deals Moderate damage if both blows hit.
+| [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 
 
+Warden's Blades
+
+ | 
+
+_Revolving blades of ice._
+
+ | User forms 4 ice blades around them before rapidly rotating them dealing light damage.
+
+-   Can be modified with Stratus Stones to create some serious area denial.
+
+ |
+| [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | 
+
+Frozen Servants
+
+ | 
+
+_A legion of frost._
+
+ | Conjures four to five frozen servants that emits two blasts of frost mist to the center.
+
+-   Deals Moderate damage if both blows hit.
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.
 -   The Frostdraw counterpart to [Flamecharm's](Flamecharm.md) [Burning Servants](Flamecharm.md#combat-mantras), as both do the same thing and can be modified with a Reversal Spark to get the same effect.
 
  |
-| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | Ice Laser | Swift bolts of frozen air. | Fires a penetrating bullet of ice.
+| [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | 
+
+Ice Laser
+
+ | 
+
+_Swift bolts of frozen air._
+
+ | Fires a penetrating bullet of ice.
 
 -   Damages opponents, _possibly slows them down._
 -   Similar to Galebreathe's [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreath#Combat_Mantras%7C).
 
  |
-| File:Ice Daggers.gif | Ice Daggers
+| File:Ice Daggers.gif | 
+
+Ice Daggers
 
 (★)
 
- | Form and toss daggers of ice at your aimed opponent. | User throws three daggers of ice toward the nearest person.
+ | 
+
+_Form and toss daggers of ice at your aimed opponent._
+
+ | User forms three daggers of ice before throwing them towards the nearest person.
 
 -   Homing attack.
 -   Can be upgraded with Frozen Pin-Cushion (freezes opponents for a long period of time)
@@ -91,64 +150,114 @@ These mantras have no prequisites.
 -   Also doesn't work if you are just a couple of studs higher than your opponent, though this is often inconsistent.
 
  |
-| [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | Ice Blade
+| [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | 
+
+Ice Blade
 
 (★)
 
- | A barrage of freezing blades. | User slashes forward rapidly with four swings.
+ | 
+
+_A barrage of freezing blades._
+
+ | User slashes forward rapidly with four swings.
 
 -   Deals light damage.
 -   _Can be parried on 1st and 2nd hits_.
 
  |
-| File:Icechain.gif | Ice Chain(★) | Chains of ice | Summons 3-4(minimum) chains of ice that stun for a brief period of time and do light damage. The number of chains can be increased with cloudstones presumably increasing the damage, but is a pretty bad mantra in general with a lackluster hitbox. |
-| [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | Ice Forge
+| File:Icechain.gif | 
+
+Ice Chain
 
 (★)
 
- | Conjure and throw weapons of ice. | Forms ice shurikens and launches them at the cursor's location.
+ | 
+
+_Chains of ice._
+
+ | Conjures 3-4 (Minimum) chains of ice that lock-on and stun for a brief period of time dealing light damage.
+
+-   The number of chains can be increased with Cloudstones presumably increasing the damage, but it's a pretty bad mantra in general considering it's lackluster hitbox.
+
+ |
+| [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
+
+Ice Forge
+
+(★)
+
+ | 
+
+_Conjure and throw weapons of ice._
+
+ | Forms a barrage of ice shurikens before propelling them at the cursor's location.
 
 -   Rapidly deals light damage.
 -   Briefly slows target(s).
 
  |
-| [Iceeruption](https://deepwoken.fandom.com/wiki/File:Iceeruption.gif) | Ice Eruption
+| [Iceeruption](https://deepwoken.fandom.com/wiki/File:Iceeruption.gif) | 
+
+Ice Eruption
 
 (★)
 
- | A flurry of ice spikes. | Forms a path of ice spikes in front of user.
+ | 
+
+_A flurry of ice spikes._
+
+ | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage.
 -   Slows target(s) down.
 -   Leaves ice where Mantra is casted.
 
  |
-| [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | Ice Smash
+| [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
+
+Ice Smash
 
 (★)
 
- | A colossal mace of ice. | User winds up and bashes a club into the floor.
+ | 
+
+_A colossal mace of ice._
+
+ | User performs a wind-up before slamming an ice club into the ground.
 
 -   Deals heavy damage and low knockback.
 -   Briefly slows target down.
 -   Can destroy certain parts.
 
  |
-| File:Icelance.gif | Ice Lance
+| File:Icelance.gif | 
+
+Ice Lance
 
 (★★)
 
- | Form an ice spear and lunge forward. | Creates an ice spear and dashes forward.
+ | 
+
+_Form an ice spear and lunges forward._
+
+ | User forms an ice spear and lunges forward towards the opponent.
 
 -   Deals moderate damage.
 -   Briefly slows target.
 
  |
-| [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | Ice Fissure
+| [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
+
+Ice Fissure
 
 (★★★)
 
- | Send ice rippling out in a shockwave. | Forms a beacon infront of the player.
+ | 
+
+_Send ice rippling out in a shockwave._
+
+ | Forms a beacon infront of the player.
 
 -   A wave of ice periodically ripples out of the beacon, applying frost damage and pushing back anyone hit.
 -   This is a legendary mantra
@@ -161,16 +270,32 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Crystal Knee | Knock your enemy skyward with a kick of crystal. | Do a short flipkick that throws your enemies into the air
+|  | 
+Crystal Knee
+
+ | 
+
+_Knock your enemy skyward with a kick of crystal._
+
+ | Perform a short flipkick that throws your enemies into the air
+
 -   Compatible with a Spring Spark to launch the opponent away instead of upward.
 
  |
 | 
 
- | Crystal Impale | Impale your foes with a brutal crystal smash. | Leaps the user up and crashs them down.
+ | 
+
+Crystal Impale
+
+ | 
+
+_Impale your foes with a brutal crystal smash._
+
+ | User briefly ascends before swiftly descends
 
 -   Deals around six to eight hits.
--   Can be comboed into from regular Crystal Knee.
+-   Can be combo-ed into from an unmodified Crystal Knee.
 
  |
 
@@ -178,25 +303,37 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Glacial Arc
+|  | 
+Glacial Arc
+
 (★)
 
- | An arc of ice. | Launches an ice pillar that impacts where the cursor is.
+ | 
+
+_An arc of ice._
+
+ | Conjures a solid ice pillar that follows the cursor is.
 
 -   Can be used to climb or cross gaps.
 -   Deals heavy damage and briefly slows targets.
--   Can be upgraded with Glass Stone. This makes it form a mini ice eruption at the end of it.
+-   Can be upgraded with a Glass Stone; This makes it form a small glacial eruption at the end of it.
 -   Can be upgraded with Cloudstones to form more arcs.
 
  |
-| File:Ice Skate.png | Ice Skates
+| File:Ice Skate.png | 
+
+Ice Skates
 
 (★★★)
 
- | Skate freely on paths of ice. | While on or above water, create a frozen platform that you slide on at a high velocity.
+ | 
+
+_Skate freely on paths of ice._
+
+ | While on or above water, create a frozen platform that you slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active
--   A legendary card "Frozone" allows the user to cast this mantra anywhere, including the Depths
+-   The legendary talent "Frozone" allows the user to cast this mantra anywhere, this includes [The Depths](The_Depths.md).
 
   
 
@@ -213,13 +350,16 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
   <th>Effect</th>
 </tr>
 <tr>
-  <td><figure>File:Giphy 8.gif<figcaption></figcaption></figure></td>
-  <td>Iceberg<p>(★★★)</p></td>
-  <td>Enter a state of cryostasis</td>
-  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies too close. You gain autoparry for 1 hits while this is active.
+  <td><center><figure>File:Giphy 8.gif<figcaption></figcaption></figure></center></td>
+  <td><center>Iceberg<p>(★★★)</p></center></td>
+  <td><center><i>Enter a state of cryostasis.</i></center></td>
+  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit(s) while this is active.
   <ul>
     <li>Heals 1-3%</li>
-    <li>Possibly can be upgraded with Stratus Stones and Eternal Logstones</li>
+    <li>Can be upgraded with Stratus Stones and Eternal Logstones.
+  <ul>
+    <li>Needs more testing.</li>
+  </ul></li>
     <li>Don't use when your teammates are nearby, because this can freeze others.</li>
   </ul></td>
 </tr>
@@ -232,87 +372,467 @@ These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have t
 
 ### **Active**
 
-| Media | Name | Card Description | Effect | Category |
-| --- | --- | --- | --- | --- |
-|  | Glacial Mobility | Cast while sliding to perform a running attack with your ice sabers. | +3 Health | Frostforger |
-| File:Glacial Finish Card.webp | Glacial Finish | Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack. | Placeholder | Frostforger |
-| File:Spike Traps Card.png | Spike Traps | Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot. | +3 Elemental Intensity  
-+3 Health | Cryomancer |
+**Cryomancer:**
 
-### **Passive**
+These talents are found in the _Cryomancer_ category.
 
-| Media | Name | Card Description | Effect | Category |
-| --- | --- | --- | --- | --- |
-| File:Chilling Flourish.png | Chilling Flourish | When flourishing an enemy, send them off with a trail of ice. | +4 Elemental Intensity  
-+3 Health | Cryomancer |
-| File:Cool Head.png | Cool Head | If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire. | +2 Elemental Intensity  
-+3 Health | Cryomancer |
-| File:New Condensation Drip Stats.png | Condensation Drip | Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare. | +4 Ether  
-+2 Elemental Intensity | Cryomancer |
-| File:Cryonis.png | Cryonis | ~All~ Some ice spells casted on top of ice cost less Ether. | +5 Elemental Intensity  
-+3 Health | Ice Age |
-| File:Frostbite.png | Frostbite | Enemies can no longer heal when under the effect of your chill. | +5 Elemental Intensity  
-+3 Health | Ice Age |
-|  | Glacial Ice | Your frost is now considerably more intense. | +3 Health  
-+6 Sanity | Ice Age |
-|  | Bottom Freeze | Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. | +5 Elemental Intensity  
-+3 Health | Ice Age |
-| File:Saint Jay.png | Saint Jay | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (Requires Frostbite) | +5 Elemental Intensity  
-+3 Health | Ice Age |
-|  | Frozone | You are no longer required to be over water to use Ice Skate. (Require Ice Skates 3 Star mobility mantra) | +5 Elemental Intensity  
-+3 Health | Ice Age |
-| File:Frozen pin cushion.png | Frozen Pin-Cushion | Ice Daggers now freeze opponents. (Requires Ice Daggers 1 Star combat mantra \*\*I was able to get this without having Ice Daggers, however I had Ice Forge.) | +3 Elemental Intensity | Ice Age |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 | 
-File:Static-assets-upload2550294597928104705.webp
+File:Spike Traps Card.png
 
- | Frost Buster | Greatsword and Greathammer Crits leave a trail of ice. (Requires ~ Heavy weapon) | +5 Elemental Intensity
+ | 
+
+Spike Traps
+
+ | 
+
+Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+
+ | 
+
++3 Elemental Intensity  
++3 Health
+
+ |
+
+**Frostforger:**
+
+These talents are found in the _Frostforger_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Glacial Mobility
+
+ | 
+
+Cast while sliding to perform a running attack with your ice sabers.
+
+ | 
 
 +3 Health
 
- | Ice Age |
+ |
+| 
+
+File:Glacial Finish Card.webp
+
+ | 
+
+Glacial Finish
+
+ | 
+
+Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
+
+ | 
+
+Placeholder
+
+ |
+
+### **Passive**
+
+**Cryomancer:**
+
+These talents are found in the _Cryomancer_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Chilling Flourish.png
+
+ | 
+
+Chilling Flourish
+
+ | 
+
+When flourishing an enemy, send them off with a trail of ice.
+
+ | 
+
++4 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+File:Cool Head.png
+
+ | 
+
+Cool Head
+
+ | 
+
+If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire.
+
+ | 
+
++2 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+File:New Condensation Drip Stats.png
+
+ | 
+
+Condensation Drip
+
+ | 
+
+Passively collect condensation from the air, greatly reducing your thirst. The card shown isn't accurate, as this talent is no longer rare.
+
+ | 
+
++4 Ether  
++2 Elemental Intensity
+
+ |
+
+**Cryoni:**
+
+These talents are found in the _Cryoni_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Fragile Freeze
+
+ | 
+
+Your ice Mantras will freeze opponents upon blockbreaking them.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+| 
+
+File:Preceeding Chill Card.webp
+
+ | 
+
+Preceding Chill
+
+ | 
+
+Enemies hit during the last moments of your ice beam are frozen.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+| 
+
+File:Cryostasis.jpg
+
+ | 
+
+Cryostasis
+
+ | 
+
+When block broken, fragile freeze yourself, negating the damage of the next attack.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+
+**Frostthorn:**
+
+These talents are found in the _Frostthorn_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:OrbitalIce.jpg
+
+ | 
+
+Orbital Ice
+
+ | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage.
+
+-   Requires ~20 Agility
+
+ | 
+
+Placeholder
+
+ |
+
+**Frozen Warrior:**
+
+These talents are found in the _Frozen Warrior_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Frozenlegs.PNG
+
+ | 
+
+Frozen Legs
+
+ | 
+
+Your slow effect prevents your opponents from rolling.
+
+ | 
+
++5 Elemental Intensity  
++3 Health
+
+ |
+
+**Glassdancer:**
+
+These talents are found in the _Ice Age_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Crystallization
+
+ | 
+
+Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. \*Requires ~40 Frostdrawer
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Crystal Breaker
+
+ | 
+
+When breaking someone's posture detonate any active crystals on their body.
+
+ | 
+
++5 Elemental Intensity +3 Health
+
+ |
+
+**Ice Age:**
+
+These talents are found in the _Ice Age_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Cryonis.png
+
+ | 
+
+Cryonis
+
+ | 
+
+~All~ Some ice spells casted on top of ice cost less Ether.
+
+ | 
+
++5 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+File:Frostbite.png
+
+ | 
+
+Frostbite
+
+ | 
+
+Enemies can no longer heal when under the effect of your chill.
+
+ | 
+
++5 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+ | 
+
+Glacial Ice
+
+ | 
+
+Your frost is now considerably more intense.
+
+ | 
+
++3 Health  
++6 Sanity
+
+ |
+| 
+
+ | 
+
+Bottom Freeze
+
+ | 
+
+Hitting chilled enemies with shurikens while they are on ice freezes them to the ground.
+
+ | 
+
++5 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+File:Saint Jay.png
+
+ | 
+
+Saint Jay
+
+ | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled.
+
+-   Requires the "Frostbite" Talent.
+
+ | 
+
++5 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+ | 
+
+Frozone
+
+ | You are no longer required to be over water to use Ice Skate.
+
+-   Requires the "Ice Skates" mantra.
+
+ | 
+
++5 Elemental Intensity  
++3 Health
+
+ |
+| 
+
+File:Frozen pin cushion.png
+
+ | 
+
+Frozen Pin-Cushion
+
+ | Ice Daggers now freeze opponents.
+
+-   Requires the "Ice Daggers" combat mantra
+    -   I was able to get this without having Ice Daggers, however I had Ice Forge.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+| 
+
+File:Static-assets-upload2550294597928104705.webp
+
+ | 
+
+Frost Buster
+
+ | Greatsword and Greathammer Crits leave a trail of ice.
+
+-   Requires a HVY/Heavy weapon.
+
+ | 
+
++5 Elemental Intensity +3 Health
+
+ |
 | 
 
 File:TheColdForge.png
 
- | The Cold Forge | Your forge more shurikens when casting on ice. | +5 Elemental Intensity
+ | 
 
-+3 Health
+The Cold Forge
 
- | Ice Age |
-|  | Crystallization | Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (Requires ~40 Frostdrawer) | +4 Elemental Intensity | Glassdancer |
-| File:OrbitalIce.jpg | Orbital Ice | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage. (Requires 20 agility ) | Placeholder | Frostthorn |
-|  | Fragile Freeze | Your ice Mantras will freeze opponents upon blockbreaking them. | +3 Elemental Intensity | Cryoni |
-| File:Preceeding Chill Card.webp | Preceding Chill | Enemies hit during the last moments of your ice beam are frozen. | +3 Elemental Intensity | Cryoni |
-| File:Cryostasis.jpg | Cryostasis | When block broken, fragile freeze yourself, negating the damage of the next attack. | +3 Elemental Intensity | Cryoni |
-| File:Frozenlegs.PNG | Frozen Legs | Your slow effect prevents your opponents from rolling. | +5 Elemental Intensity  
-+3 Health | Frozen Warrior |
-| File:ShatterSpear.png | Shatter Spear | Your ice spear now lodges into human opponents and explodes. | +5 Elemental Intensity  
-+3 Health | Uncategorized |
+ | 
+
+Your forge more shurikens when casting on ice.
+
+ | 
+
++5 Elemental Intensity +3 Health
+
+ |
+
+**Uncategorized:**
+
+These talents are found in the _Uncategorized_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 | 
+File:ShatterSpear.png
 
-  
+ | 
 
-  
+Shatter Spear
 
-  
+ | 
 
- | Crystal Breaker | When breaking someone's posture detonate any active crystals on their body. | +5 Elemental Intensity
+Your ice spear now lodges into human opponents and explodes.
 
+ | 
+
++5 Elemental Intensity  
 +3 Health
 
- | Glassdancer |
+ |
 
   
 
 ## Trivia/Notes
 
 -   Frostdraw is slightly slower compared other magics but is still quick and cunning.
--   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that you or your opponents can collide with.
--   Frostdrawers can be found as Navaen Nomads in Etris and on [Summer Isle](Summer_Isle.md), as Songseeker monks in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), and as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
--   Ice fissure is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
--   Warden's Blades is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
--   Frostdraw's Ice Chains received a rework into a new ability on 2/8/2022
--   The Frozone talent card is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
--   The Cryonis talent card has a faulty description, it only reduced ether of certain moves(3/27/2022) List of Ice moves that do get a ether reduction: Ice smash, Warden's Blades, Ice fissure, Ice Beam, Glacial Arc, Ice Dagger. List of moves that don't get an ether reduction: Ice Lance, Ice Eruption. List of moves currently unchecked: Ice Skates, Ice Spikes, Ice Blade, Frost Grab, Ice Forge, Ice Chain, Ice Laser, Frozen Servants
--   Ice chain MAY be a reference to the character [Gilgamesh's chains of heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the fate series.
--   Ice Eruption does less damage the larger it gets (Never tested, but was stated in update log)
+-   Frostdraw mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that allow you or your opponents can collide with.
+-   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), as well as Authority Commanders in [Starswept Valley](The_Starswept_Valley.md).
+-   The "Ice Fissure" mantra is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
+-   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
+-   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
+-   The "Frozone" Talent card is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
+-   The "Cryonis" Talent card has a faulty description, it only reduced ether of certain moves (Last Updated: 27th of March 2022).
+    -   List of mantras that DO get a ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc.
+    -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
+    -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Frozen Servants, Ice Laser, Ice Blade, Ice Chain, Ice Forge & Ice Skates.
+-   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
+-   Ice Eruption does less damage the larger it gets?
+    -   Never tested, but was stated in update log.

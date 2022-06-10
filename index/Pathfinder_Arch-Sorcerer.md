@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 31799
+revid: 31822
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Similar to Robin's outfit from the Fire Emblem series.
--   Expect to get a minimum of +60 Ether on common builds, with an upper limit of +100 Ether with certain talent and oaths.
+-   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +100 Ether with certain talent and oaths.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 31777
+revid: 31835
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -732,7 +732,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 **Heavy Weapons:**
 
-Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch.
+Heavy Weapons are two-handed weapons, but they can be wielded with one hand with the use of a Talent. They are slow, but have superior range and pack quite a punch. Passively, heavy weapon grant the user a charge of Hyper Armor when they parry an attack. The next attack performed will grant the user Hyper Armor, allowing them to resist hitstun for the duration of the attack. If the weapon has Endlag, the hyper armor extends to it.
 
 **Greataxes:**
 
