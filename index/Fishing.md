@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 31478
+revid: 31784
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -117,7 +117,7 @@ If you want to add more, feel free. I'm done for the time being.
 -   Some spots wont let you fish.
 -   How good certain locations seem for fishing is purely RNG, some people will get lucky, some will not.
 -   Fish meat can be used for bait or cooking it into Cooked Fish Meat, which is a pretty solid food item, restoring about 15% hunger and about 10% thirst. Good for Carnivores that need food.
--   Always good to have a fishing rod on you, fishing is a good way to get food if you're ever in a pinch.
+-   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish to get food, luck, and loot.
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the maximum settings. Do be careful, as making a mistake can result in the fish/chest/trash escaping.
--   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do be ware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
+-   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   Fishing enough can level up fortitude or other stats for some reason

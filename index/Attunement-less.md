@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 31538
+revid: 31792
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -192,7 +192,7 @@ For example:
 -   Once the most powerful attunement-less mantra, the Strong Left, has been shadow-nerfed making it really weak. Though it did get gutted, It is still a viable move in dealing with heavy posture damage and damage in general.
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 -   _Strong Left or the so called: "hot men"_
--   You can obtain other Weapon Mantra's as long as you have 30 investment points in them.
--   Rapid Punches is the single Attunement-less mantra that has a star.
+-   You can obtain other Weapon Mantras long as you have 30 investment points in them.
+-   Rapid Punches is the single Attunement-less mantra that has a star. Also, the animation changed sadly.
 -   Revenge really be a Afro Samurai wannabe type of move.
 -   Exhaustion Strike is glorified spit.

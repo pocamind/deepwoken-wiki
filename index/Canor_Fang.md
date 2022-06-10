@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 31485
+revid: 31794
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -11,7 +11,7 @@ categories: [Weapons, Daggers]
 | Canor Fang | |
 |---|---|
 | type | Dagger |
-| requirements | 30 LHT |
+| requirements | 40 LHT |
 | damage | 11 |
 | scaling | 10 |
 | range | 6.5 |
@@ -38,3 +38,4 @@ The Canor Fang is a LHT weapon in the Dagger category that can be obtained by en
 ## Trivia
 
 -   Despite the name, it's not actually made from a Canor's fang.
+-   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md)

@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 31761
+revid: 31782
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description:
 
-Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. ~Curiously, they also gather around Summer Isle, whether to murder members of The Children of Navae or massacre bandits.~
+Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Curiously, they also gather around Summer Isle, whether to murder members of The Children of Navae or massacre bandits.
 
 ## Appearance
 

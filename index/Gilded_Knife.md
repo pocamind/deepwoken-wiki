@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 29226
+revid: 31791
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,7 @@ categories: [Weapons, Weaponry]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia chest |
+| obtainment | Erisia |
 | description | A knife of fine craftmanship, bearing an equally fine sharpness. |
 
 “ SHANK 'EM UP BRUV, SHANK 'EM UP BRUV ”
@@ -39,4 +39,4 @@ The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.
 ## Trivia
 
 -   This acts as the lowest tier enemy weapon for daggers, and is the only weapon that isn't a starter weapon to do so.
--   Color scheme pairs really well with a [Dragoon](Dragoon.md) gun.
+-   Color scheme pairs really well with a [Dragoon](Dragoon.md).

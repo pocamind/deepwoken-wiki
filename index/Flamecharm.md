@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31773
+revid: 31776
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -216,7 +216,6 @@ Toss a nimble dagger.
     -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Can deal a lot of posture damage if you're close range and all 3 daggers hit.
 -   Can not be upgraded with a [Multiplying Spark](Mantra_Modifiers.md).
--   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md), but the change is unknown.
 
  |
 |  | 

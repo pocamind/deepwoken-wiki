@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 30875
+revid: 31793
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, World]
@@ -34,17 +34,17 @@ A campfire, circled by three NPCs, consisting of two regular bandits and one Ban
 
 While in Erisia, there is a chance that three bandits will fall from the sky and ambush you. This event is similar to the Bandit Camp event, but you cannot assassinate the captain, as they automatically aggro onto you. If they spawn on an elevated space or behind an object, it is possible to assassinate the regular bandits, though note gripping their captain will alert them and only downs the captain unless you have the Cutthroat [Assassin](Talents.md) Talent. Completing this event rewards you with XP and a chest at which where they appeared from. Occurs at [Erisia](Erisia.md).
 
-**Weapons:** Basic or semi advanced
+**Weapons:** Basic or Semi advanced
 
 #### **Thieves**
 
 A group of three thieves, recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug the player for their Notes and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at [Erisia](Erisia.md).
 
-**Weapons:** Stilleto, pickpocket
+**Weapons:** Stilleto
 
 #### **Bandit Attack**
 
-In Etris or Vigils, two bandits can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest.
+In Etris or Vigils, two bandits can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. The bandits rarely drop lesser mantra modifiers.
 
 **Weapons:** Basic
 
@@ -56,11 +56,13 @@ Regular bandit raid: Three bandits, the type of bandits is random, can range fro
 
 Greater bandit raid: Seven or so regular bandits that spawn on the steps.
 
+**Weapons:** Basic
+
 #### **Knives of Eylis**
 
 Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Navaean Hostage. Occurs at Upper Erisia and Songseeker Wilds.
 
-Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village. In Songseeker, there is an event where three Knives Of Eylis bandits spawn with no magic and no hostage.
 
 **Weapons:** Whaling Knife, Time Magic
 
@@ -80,19 +82,19 @@ In Upper Erisia, the player can encounter two villager NPCs in [Stranded](Strand
 
 A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. As the villagers do not trust Alastir, you cannot turn them in for a chest.
 
-#### **Brainsucker swarm**
+#### **Brainsucker Swarm**
 
-Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Multiple Brainsuckers spawn in mid air, in groups of two, and swarm their prey, all dive bombing them at once. Killing them all spawns a chest.
+Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Multiple [Brainsuckers](Brainsucker.md) spawn in mid air, in groups of two, and swarm their prey, all dive bombing them at once. Killing them all spawns a chest.
 
 #### **Mudskipper Emergence**
 
-An encounter limited to [Erisia](Erisia.md), can only happen during spring or summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
+An encounter limited to [Erisia](Erisia.md), can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
 
 #### **Mudskipper-Mancer**
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that has the ability to become intangible to all damage and summon three special [Mudskippers](Mudskipper.md), consisting of two that can use [Flamecharm](Flamecharm.md) and one that can use [Frostdraw](Frostdraw.md), though the Frostdraw Mudskipper is bugged and cannot use it's Mantra.
 
-**Weapons:** Ben's knife, Shadowcast, Necroskippers
+**Weapons:** Krulian Knife, Shadowcast, Necroskippers
 
 #### **Songseeker**
 
@@ -148,7 +150,7 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 A Megalodaunt feasting on the corpse of a Vesperian Authority Footsoldier, found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never depsawn and are found in set locations. There are three(?) locations they can be found at:
 
-One in the Tower Struck lands
+One in the Towerstruck lands
 
 One near the teleporter to The Duke's Manor, on a ledge over a body of water
 
