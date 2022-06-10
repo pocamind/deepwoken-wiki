@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 31696
+revid: 31797
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -182,7 +182,7 @@ Certain resonances have a set of "points" given when they are obtained. The poin
 
 ## Unobtainable Resonances
 
--   Skull popper (Akira's Resonance)
+-   **Corrupted** Skull popper (Akira's Resonance)
 -   Golem Creation (Duke Erisia's Resonance)  
     
 
