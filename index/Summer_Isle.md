@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 31849
+revid: 31853
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -69,7 +69,7 @@ Jarvis, an unique NPC in the Eastern Luminant. He will allow you to smelt 2 item
 
 On the second level of the Summer Company's castle is the spelltrainer for Thundercall.
 
--   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining Sparkblood.
+-   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining a Sparkblood potion.
 -   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
 
 ### Mysterious Glyphs
@@ -91,10 +91,10 @@ The Summer Isle has similar vendors to the spawn islands, these being the:
 ##### Items
 
 -   Hunter's Brace
--   Self-conducting loop
--   Pure Heart
--   Hemafrost
--   Gale Kata
+-   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears)
+-   [Pure Heart](Training_Gear.md#attunement-training-gears)
+-   [Hemafrost](Training_Gear.md#attunement-training-gears)
+-   [Gale Kata](Training_Gear.md#attunement-training-gears)
 -   Praying Beads
 -   Ankle Weights
 -   Training Vest
