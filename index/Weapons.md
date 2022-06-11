@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 31835
+revid: 31837
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -24,29 +24,36 @@ When obtaining a weapon, it may come with a star on them, which adds a certain b
 
 ## Stances
 
-Pressing Y will change your stance. Changing your stance will change the way you hold your weapon. Light weapon users are locked to a one-handed stance, and Heavy weapon users are locked to a two-handed stance, however you can one-hand a heavy weapon if you have 50 Heavy Weapons and get the talent _One Handed Training_. Using a weapon two-handed allows you to do more posture damage and swing slightly faster than using a weapon one-handed, but also makes you unable to equip side weapons and shields.
+Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
-Quick Tip: To get the talent of using a heavy weapon one handed, you need at least 10 Strength and 50 Heavy Weapons.
+-   All **Light Weapons** are locked to One Handed stance.
+-   All **Medium Weapons** can freely switch between One Handed and Two Handed stance.
+-   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed training (10 STR, 50 HVY) allow usage of One Handed stance with them.
 
 ### One-Handed
 
-Hold your weapon with your main hand, which allows the use of an off-hand accessory, such as shields, daggers, or guns.
+-   Deal increased posture damage with parries
+-   Deal reduce posture damage with hits
+-   Can use offhand weapons, like shields or guns
 
 ### Two-Handed
 
-Hold your weapon with both hands, adding weight to your swings. Also triggers different buffs depending on weapon and talents.
+-   Deal increased posture damage with hits
+-   Deal reduce posture damage with parries
+-   Slightly faster swing speed
 
 ## Key Terminology
 
 -   **Requirements:** How much of the attribute(s) you need to wield that weapon.
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
 -   **Penetration:** Runs by percentage (%). Determines how much of your attacks ignore through armor.
+-   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
 -   **Scaling:** Additional damage determined by your selected Attribute is being scaled by.
--   **Weight:** How much posture damage people deal to you when they hit your blocks or when they parry your attacks
+-   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
 -   **Range:** How far your weapon can reach. (Does not calculate by stud)
 -   **Swing Speed:** How fast your weapon can strike per M1.
--   **Chip Damage:** Damage that bypass block (Does not bypass parries and perfect rolls)
--   **Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). They'll be marked with cyan stats.
+-   **End Lag:** How long you linger after attacking.
+-   **Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md).
 
 ## Types of Weapons
 

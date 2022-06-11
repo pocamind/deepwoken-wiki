@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 31833
+revid: 31838
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,3 +23,4 @@ The Knives of Eylis Pirates, also referred to as the Silver Whalers, are a gang 
 ## Trivia
 
 -   The player needs to kill all 3 Pirates to obtain the chest for The Aratel Sea event.
+-   When they spawn on boats, they spawn standing on the sails.
