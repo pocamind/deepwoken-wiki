@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 30813
+revid: 31843
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -29,4 +29,8 @@ _**Watch me catch fish! "jumps into the sea and drowns"**_
 
 ## Description
 
-The Falchion is a Medium type weapon that can be obtained from chests in [Lower Erisia](Lower_Erisia.md). It also has a somewhat uncommon chance from the Gold Plate trade. The weapon has a base damage of 16 and requires 20 MED to equip.
+The Falchion is a Medium type weapon that can be obtained from chests in [Lower Erisia](Lower_Erisia.md). It also has a somewhat uncommon chance from the Gold Plate trade. The weapon has a base damage of 16 and requires 20 MED to equip.  
+
+## Notes
+
+-   The Ignition Union uses this and [Darksteel Greatswords](Darksteel_Greatsword.md)

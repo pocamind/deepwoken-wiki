@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 31837
+revid: 31842
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -112,23 +112,23 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>No</td>
 </tr>
 <tr>
-  <td><a href="Canor_Fang.md">Canor Fang</a></td>
-  <td>40 LHT</td>
-  <td>11</td>
-  <td>5%</td>
-  <td>LHT: 10</td>
-  <td>5</td>
-  <td>6.5</td>
-  <td>1.05x</td>
-  <td>No</td>
-</tr>
-<tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
   <td>35 LHT</td>
   <td>12</td>
   <td>N/A</td>
   <td>LHT: 6</td>
   <td>2</td>
+  <td>6.5</td>
+  <td>1.05x</td>
+  <td>No</td>
+</tr>
+<tr>
+  <td><a href="Canor_Fang.md">Canor Fang</a></td>
+  <td>40 LHT</td>
+  <td>11</td>
+  <td>5%</td>
+  <td>LHT: 10</td>
+  <td>5</td>
   <td>6.5</td>
   <td>1.05x</td>
   <td>No</td>

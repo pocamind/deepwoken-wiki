@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31801
+revid: 31841
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -74,7 +74,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 -   Stifled Jump \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
 -   Gale Coil \[Common Talent, Galebreathe Exclusive\] - Your suffocates last twice as long. (+2 Passive Agility, +5 Elemental Intensity, + 1 Health)
-    -   Prerequisite: 30 Strength
+    -   Prerequisite: 30 Strength, Master Galebreather/50 Galebreathe
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 Elemental Intensity)
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your gale punch pulls enemies in before you hit them. (+2 Passive Agility, +5 Elemental Intensity, +2 Health)
     -   Prerequisite: Gale Punch
@@ -1114,6 +1114,7 @@ These Talents are designed to make you more effective in water.
 ### Whisper
 
 -   Haunted Gale \[Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
+    -   Prerequisite: Master Galebreather/50 Galebreathe
 
 ### Windrunner
 

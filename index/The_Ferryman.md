@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 31441
+revid: 31839
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -34,7 +34,7 @@ This is possibly the easiest boss in the game to fight solo, if you are familiar
 
 **Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry.**
 
-**The only way to escape is to either die, or defeat The Ferryman.**
+**The only way to escape is to either die, or defeat The Ferryman. this might not be the only way i was healing back to full then ferryman despawned and the barrier disapeared but the boss music continued**
 
   
 

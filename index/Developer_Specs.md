@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 31775
+revid: 31840
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -39,6 +39,13 @@ Not much is known of Iltria's spec as of now, however we have a general idea. Up
 ### Zartania (Stannis Caesar)
 
 Zartania has spec which is called “Skeleton Key”. The spec allows him to lock and unlock anything being physically represented as barriers, he has full control of these barriers allowing him to launch himself into the air, push and pull the barriers, fly around on them etc. This ability also allows him to gain access to restricted areas and bypass any requirement in the game. Zartaina has also stated that the spec isn’t full completed.
+
+#### Family Members:
+
+-   Mar Caesar
+-   Zeppelli Caesar
+-   Zoltorias Caesar
+-   Vortex Caesar
 
 ### yayafino (Zithori Vhemm Rybak Diri)
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 31265
+revid: 31849
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -72,13 +72,17 @@ On the second level of the Summer Company's castle is the spelltrainer for Thund
 -   To unlock Thundercall, the player must bring 5 Spark Glands to the trainer to be crushed into a vial, obtaining Sparkblood.
 -   You can upgrade your thundercall related mantras for 100 notes each, the price increasing by 100 notes each upgrade on the specific mantra.
 
+### Mysterious Glyphs
+
+In the circular structure, there are some glyphs. These glyphs are interactable by [Blindseers](Oaths.md) hinting towards how to progress and unlock [Blindseer](Oaths.md) mantras.
+
 ## Vendors & Purchasable Items
 
 #### _**Vendors:**_
 
 The Summer Isle has similar vendors to the spawn islands, these being the:
 
--   Antiquarian : Buys any type of loot excluding mantra modifiers and some clothing
+-   Antiquarian : Buys any type of loot excluding mantra modifiers and some clothing including hats,
 -   The Blacksmith: Located within the castle's outer Palisades.
 -   Modifier Trader : Buys gems and mantra modifiers only.
 
@@ -192,11 +196,11 @@ Possible items found after completing Scope's quest
 -   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star)
--   [Iron Cestus](Iron_Cestus.md)(0-1 star)
+-   [Iron Cestus](Iron_Cestus.md)(0-2 star)
 -   [Ritual Spear](Ritual_Spear.md)
--   Practitioner's Earrings
+-   Practitioner's Earrings(0-1 star)
 -   Burgundy/Beige/Slate Tophat (0-2 star)
--   Burgundy/Beige/Slate Aristocrat Coat
+-   Burgundy/Beige/Slate Aristocrat Coat (0-3 star)
 -   Novice Boots
 -   Rebel's Bandana (0-2 star)
 -   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
