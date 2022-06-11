@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 26643
+revid: 31850
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -28,15 +28,16 @@ Players using the bell will be prompted to select a gamemode between 1v1 and 3v3
 
 -   **1v1 -** The player is instantly taken to the matchmaking queue.
 -   **3v3 -** A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
+-   **2v2 -** Almost exactly the same as 3v3. Also has the same maps as 3v3. The only difference is that it's a 2v2 not a 3v3 (duh)
 
-Afterwards, players will be waiting in the queue and be put in a match with their opponent.
+Afterwards, players will be waiting in the queue and be put in a match with their opponent. For matchmaking to start in 3v3s or 2v2s, all players need to be ready
 
 ## Rules
 
 -   **Power range -** When selecting opponents, the game will match players who are at most 15 Power levels apart from one another.
 -   **One round -** There is only a single round. Killing your opponent means winning the match and returning to the matchmaking lobby.
--   **Elimination** **\-** Dying removes the player from the round.(3v3 only)
--   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players.
+-   **Elimination** **\-** Dying removes the player from the round.(3v3 and 2v2 only)
+-   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (like 2 minutes or something) the entire arena will be covered in the "circle of death" meaning you take constant damage.
 -   **Resonance limitation -** Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.
 
 ## Skulls
