@@ -1,11 +1,15 @@
 ---
 title: Songseeker Thundercaller
-revid: 30949
+revid: 31886
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Songseeker Thundercaller
+
+“ POWAAA! UNLIMITED POWAAAAAAA! ”
+
+― A Thundercaller Monk electrocuting an unfortunate Gremor
 
 Template:EnemyInfobox1.0 **Thundercaller Monks** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 

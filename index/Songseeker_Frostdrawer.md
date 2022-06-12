@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 30457
+revid: 31875
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,7 @@ Frostdrawer Monks have 1000 health.
 
 ### Weapons
 
-Frostdrawer Monks have no weapons.
+Frostdrawer Monks use [Way of Navae](Way_of_Navae.md) fist style.
 
 ### Combat
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 31863
+revid: 31885
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -41,7 +41,7 @@ File:Mnhfds8goqa81.png
 
 Detailed map of the entire Depths First Layer
 
-There are 2 methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
+There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape The Depths: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above.
 
 ### **Bells**
 
@@ -101,9 +101,9 @@ These numbers are not set in stone, you may get a trial at power 9, or not get a
 | ~50+ | [Enforcer](Enforcer.md) |
 
 -   If (5?) or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
-    -   Depending on the power of each player, this may not be the case and either many enforcers or megalodaunts may spawn.
+    -   Depending on the power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
--   If you log while in the trial (if you aren't in combat) you will simply get teleported back to your Depths spawnpoint (where you spawned in when you first came to the Depths).
+-   If you log while in the trial and you aren't in combat you will simply get teleported back to where you spawned in when you first came to the Depths.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 49 enter the trial, one Enforcer will spawn. But if both players are power 50, two Enforcers will spawn.
 
@@ -127,12 +127,12 @@ Just some information to keep in mind and remember.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in The Depths, as sitting near a campfire restores sanity. Do note that Lockers in the Diver Camp and Castle Light do not restore sanity.
     -   Blindseer most likely doubles or even triples the time you can stay in the depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also grant [Luck](Luck.md) when defeated.
--   On opposite corners of the map, 2 _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
--   The inability to create campfires means that healing methods are limited. Besides killing monsters (especially jellyfish, commonly nicknamed "Health Packs") and Graceful Flame, you might want to consider bringing _**healing potions**_.
+-   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
+-   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs," and Graceful Flame, you might want to consider bringing _**healing potions**_.
 -   Consider bringing _**elemental stones**_. The lack of available campfires mean that you will often be low on reservoir.
--   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost 3 Bluecaps to make the maximum effective version of the potion.
+-   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running. It is, however, a legendary card, which can be harder to obtain.
--   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a Regalias, your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
+-   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.
 
 ### **Good Grinding Spots:**
 

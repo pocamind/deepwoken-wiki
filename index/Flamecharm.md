@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31867
+revid: 31880
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -49,7 +49,7 @@ Fire Blade
 
  | 
 
-Slicing blades of flame.
+_Slicing blades of flame._
 
  | User slams down with their blade coated in flames.
 
@@ -69,7 +69,7 @@ Flame Repulsion
 
  | 
 
-An exertion of flames.
+_An exertion of flames._
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
 
@@ -87,7 +87,7 @@ Burning Servants
 
  | 
 
-A legion of flames.
+_A legion of flames._
 
  | User conjures seven burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
@@ -103,7 +103,7 @@ Fire Gun
 
  | 
 
-A bullet of flames shot through each hand.
+_A bullet of flames shot through each hand._
 
  | Caster readies and propels bullets of flames from their hands towards the cursor's location.
 
@@ -140,7 +140,7 @@ Ash Slam
 
  | 
 
-Strike the ground, turning it to ash.
+_Strike the ground, turning it to ash._
 
  | User strikes twice in front of the user, creating a fiery blast each time.
 
@@ -156,7 +156,7 @@ Blind
 
  | 
 
-Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
+_Snap your fingers, shooting a projectile that blinds those who dare gaze at it._
 
  | User snaps their fingers, conjuring an orb that implodes and blinds opponents temporarily.
 
@@ -174,7 +174,7 @@ Fire Palm (★)
 
  | 
 
-A blast of flame.
+_A blast of flame._
 
  | User releases a burst of flame in front of them.
 
@@ -190,7 +190,7 @@ Fire Eruption (★)
 
  | 
 
-A pyroclastic eruption.
+_A pyroclastic eruption._
 
  | User slams weapon into the ground below that causes 2 consecutive explosions.
 
@@ -224,7 +224,7 @@ Rising Flame (★★)
 
  | 
 
-A rising tornado of flames.
+_A rising tornado of flames._
 
  | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
@@ -239,7 +239,7 @@ Flame Assault (★★)
 
  | 
 
-Burst forward in flames.
+_Burst forward in flames._
 
  | User dashes forward covered in flames; hitting anyone in their path.
 
@@ -262,6 +262,8 @@ Burst forward in flames.
 Flame Leap
 
 (★★)
+
+  
 
  | 
 
@@ -286,9 +288,11 @@ Flame Wisp
 
 (★★)
 
+  
+
  | 
 
-A servant of flames.
+_A servant of flames._
 
  | Caster summons a wisp of magma.
 
@@ -308,7 +312,7 @@ Graceful Flame
 
  | 
 
-Conjure an undying flame for the caster and their comrades to rest by.
+_Conjure an undying flame for the caster and their comrades to rest by._
 
  | Caster holds out their arm while concentrating their flame before conjuring an orb of fire.
 
@@ -328,7 +332,7 @@ Flame of Denial
 
  | 
 
-Undying flame.
+_Undying flame._
 
  | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
@@ -347,60 +351,233 @@ Undying flame.
 
 These talents are found in the "_Flamecharmer_" Category.
 
-| **Image** | **Talent** | **Card Description** | **Effect** |
+| Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Produce Spark | A masterful production of flame for the use of making campfires. | Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage. |
-|  | Flame Within | Set yourself ablaze. | Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling. |
-|  | Wildfire | Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame. | Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range. |
+| 
+ | 
+
+Produce Spark
+
+ | A masterful production of flame for the use of making campfires.
+
+-   Active Ability.
+
+ | 
+
+Caster uses a small amount of ether to create a small ember in their hands, used for lighting up campfire pits, does no damage.
+
+ |
+| 
+
+ | 
+
+Flame Within
+
+ | Set yourself ablaze.
+
+-   Active Ability.
+
+ | 
+
+Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling.
+
+ |
+| 
+
+ | 
+
+Wildfire
+
+ | 
+
+Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
+
+ | 
+
+Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range.
+
+ |
 
 **The Emperor's Blade:**
 
 These are talents found in "_The Emperor's Blade_" Category.
 
-| **Image** | **Talent** | **Card Description** | **Effect** |
+| Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) | When dodging an attack, you leave behind a fire clone that burns the attacking enemy. |
-|  | Exploding Mirage Clone | Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent) | ??? |
+| 
+ | 
+
+Mirage Clone
+
+ | 
+
+Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent)
+
+ | 
+
+When dodging an attack, you leave behind a fire clone that burns the attacking enemy.
+
+ |
+| 
+
+ | 
+
+Exploding Mirage Clone
+
+ | 
+
+Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire. (Legendary Talent)
+
+ | 
+
+ ???
+
+ |
 
 **Undying Ember:**
 
 These talents are found in the "_Undying Ember_" Category.
 
-| **Image** | **Talent** | **Card Description** | **Effect** |
+| Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Last Laugh | Gain the ability to incinerate your self when down.(rare talent) | ??? |
-|  | Denial Repulse | You now emit a delayed burst of flames after coming close to death.
+| 
+ | 
+
+Last Laugh
+
+ | 
+
+Gain the ability to incinerate your self when down.(rare talent)
+
+ | 
+
+ ???
+
+ |
+| 
+
+ | 
+
+Denial Repulse
+
+ | You now emit a delayed burst of flames after coming close to death.
+
 -   Rare talent
 
- | ??? |
-|  | Undying Flame | Your flame can be casted in the depths. (Rare card) \[Prerequisites: 40 Willpower\] | ??? |
-|  | Soundness of Mind | Standing close to your graceful flame will slowly restore sanity for others in the area. | ??? |
+ | 
+
+ ???
+
+ |
+| 
+
+ | 
+
+Undying Flame
+
+ | 
+
+Your flame can be casted in the depths. (Rare card) \[Prerequisites: 40 Willpower\]
+
+ | 
+
+ ???
+
+ |
+| 
+
+ | 
+
+Soundness of Mind
+
+ | 
+
+Standing close to your graceful flame will slowly restore sanity for others in the area.
+
+ | 
+
+ ???
+
+ |
 
 **Inferno:**
 
 These talents are found in the "_Inferno_" Category.
 
-| **Image** | **Talent** | **Card Description** | **Effect** |
+| Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Pleetsky's Faith | When on fire, automatically quench flames at the cost of some ether. | (Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma) |
+| 
+ | 
+
+Pleetsky's Faith
+
+ | 
+
+When on fire, automatically quench flames at the cost of some ether.
+
+ | 
+
+(Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma)
+
+ |
 
 **Immolator:**
 
 These talents are found in the "_Immolator_" Category.
 
-| **Image** | **Talent** | **Card Description** | **Effect** |
+| Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Phoenix Flames | Any time you would burn to death, you instead rise again with 50% of your health restored. | When the user is burned to death, the user is instead revived with 50% health. This card is typically paired with Last Laugh. |
-|  | Immolator | Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. | Reduces the caster's ether cost by 70% while on fire. Hitting an opponent while on fire causes them to be lit on fire. |
+| 
+ | 
+
+Phoenix Flames
+
+ | 
+
+Any time you would burn to death, you instead rise again with 50% of your health restored.
+
+ | 
+
+When the user is burned to death, the user is instead revived with 50% health. This card is typically paired with Last Laugh.
+
+ |
+| 
+
+ | 
+
+Immolator
+
+ | 
+
+Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage.
+
+ | 
+
+Reduces the caster's ether cost by 70% while on fire. Hitting an opponent while on fire causes them to be lit on fire.
+
+ |
 
 **Uncategorized:**
 
 These are talents found in "_Uncategorized_" Category.
 
-| **Image** | **Talent** | **Card Description** | **Effect** |
+| Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Azure Flames | Many of your flames burn blue signifying their increased intensity. (Requires: 40 Willpower and 70 Flamecharm) |3 Health  
+| 
+ | 
+
+Azure Flames
+
+ | Many of your flames burn blue signifying their increased intensity.
+
+-   Requires 40 Willpower and 70 Flamecharm
+
+ | 
+
++3 Health  
 +2 Elemental Intensity
+
+ |
 
 ## Trivia
 

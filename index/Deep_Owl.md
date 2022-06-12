@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 30625
+revid: 31884
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,22 +31,42 @@ The corrupted Deep Owls that spawn in _The Depths_ follow the aforementioned beh
 
 | Name | Description | Parry-able? | Danger |
 | --- | --- | --- | --- |
-| **Talon Swipe** | Three slow, consecutive swipes. Can do this multiple times
+| 
+**Talon Swipe**
+
+ | Three slow, consecutive swipes. Can do this multiple times
+
 back-to-back. Swipes that come from the left side of your screen come swiftly, while swings that come from the right side of your screen are slightly delayed.
 
  | ◯ | (★☆☆) |
-| **Feather Teleport** | Turns into a burst of feathers, emerging at the target it is
+| 
+
+**Feather Teleport**
+
+ | Turns into a burst of feathers, emerging at the target it is
 
 pursuing after a bit. Typically used after Talon Swipe.
 
  | ◯ | (★☆☆) |
-| **Whirling Dash** | Twirls towards the target at a high speed. Typically used after Talon Swipe. | ◯ | (★☆☆) |
-| **Flying Grab** | Disappears into a burst of feathers, becomes invulnerable
+| 
+
+**Whirling Dash**
+
+ | Twirls towards the target at a high speed. Typically used after Talon Swipe. | ◯ | (★☆☆) |
+| 
+
+**Flying Grab**
+
+ | Disappears into a burst of feathers, becomes invulnerable
 
 and attempts a grab before flying upward. Can be noticed by a lack of feather for an extended period of time within your peripheral vision, as well as looking up and spotting the owl.
 
  | ✗ | (★★★) |
-| **Flock of Feathers** | Bursts into a puff of feathers which does substantial armor
+| 
+
+**Flock of Feathers**
+
+ | Bursts into a puff of feathers which does substantial armor
 
 and chip damage on block.
 

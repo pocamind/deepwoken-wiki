@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 30834
+revid: 31888
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,10 +24,12 @@ categories: [Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare drop from King Thresher, Fishing Chests |
-| description | There's no description for this weapon as of now |
+| description | "" |
 
-_**This is a medium, right? "a medium user farming at hive" "Woah guys im so good at the game i fought a king thresher"**_
+“ This is a medium, right? Woah guys im so good at the game i fought a king thresher ”
+
+― A Medium User farming on Aratel Island
 
 ## Description
 
-Central Dirk is a dagger type weapon with the requirement of 50 LHT, it has a base damage 14.5 and weapon scaling of 8. It is a very good dagger but not very optimal to get, it's a rare drop from king [Thresher](Thresher.md), its best to get a [Krulian Knife](Krulian_Knife.md) instead of grinding for this. This weapon can also be obtained from loot chests in fishing.
+Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 14.5 and a weapon scaling of 8. It is a very good dagger but not very optimal to get, it's a rare drop from [King Thresher](Thresher.md), it's best to get a [Krulian Knife](Krulian_Knife.md) instead of grinding for this. This weapon can also be obtained from loot chests while fishing.

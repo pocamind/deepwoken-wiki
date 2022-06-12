@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 26453
+revid: 31890
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -27,8 +27,8 @@ This Outfit has 2000 durability and grants +22% Physical resistance and +22% Ele
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) Chests
 -   Sold by Nyanna in [Castle Light](Castle_Light.md)
--   Primadon Chests
 
 ## Trivia/Notes
 
