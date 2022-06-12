@@ -1,8 +1,9 @@
 ---
 title: "Attunement-less"
-revid: 31792
+revid: 31895
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # Attunement-less
@@ -30,20 +31,55 @@ Summoning Cauldrons, i-Frames, Hyper Armor, Speed Passives. Due to it's few move
 
 Strength mantras are mainly based on combat and slightly geared towards mobility & exploration. To increase the damage output and level cap, build muscle with Dumbbells, chop trees with a Lumber Axe or hit enemies with your weapon.
 
--   **Strong Left** - A powerful, flinging punch that shatters the air.
-    -   Requirement: 5 Strength, _Strength Combat Mantra_
-    -   _Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra._
-    -   Unlike other mantras, Strong Left scales with your strength level.
-    -   Name may have been inspired by Franky from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk))
-
--   **Rapid Punches** - Unleash a barrage of blows against your foes.
-    -   If parried during its startup it gets cancelled, otherwise not.
-    -   Requirement: 5 Strength, _Strength Combat Mantra_
-
--   **Strong Leap** - Kick off of the ground with your strength, sending you into the air.
-    -   The altitude travelled decreases significantly as the user loses health.
-    -   Requirement: 40 Strength, _Strength Mobility Mantra_  
-        
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><b><u>Media</u></b></th>
+  <th><b><u>Name</u></b></th>
+  <th><b><u>Card Description</u></b></th>
+  <th><b><u>Effect &amp; info</u></b></th>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Strong Left<p>(☆☆☆)</p></td>
+  <td><i>A powerful, flinging punch that shatters the air.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>5 Strength</b></i> <i>Combat Mantra</i></li>
+    <li>A powerful left hook, that ragdolls and knockbacks hit enemies.</li>
+    <li>Unlike other mantras, Strong Left scales with your strength level.</li>
+  </ul>
+  <ul>
+    <li><i>Can be upgraded with the "Tree Felling Blow" talent card, which allows the user to collect wood from trees that they hit with this mantra.</i></li>
+  </ul>
+  <ul>
+    <li>Name may have been inspired by Franky from one piece (<a href="https://www.youtube.com/watch?v=wE-kYYDvGtk">https://www.youtube.com/watch?v=wE-kYYDvGtk</a>)</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Rapid Punches<p>(☆☆☆)</p></td>
+  <td><i>Unleash a barrage of blows against your foes.</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>5 Strength</b> Combat Mantra</i></li>
+    <li>A flurry of blows that hitstun and pound your enemy.</li>
+    <li>If parried during its startup it gets cancelled, otherwise not.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
+  <td>Strong Leap<p>(☆☆☆)</p></td>
+  <td><i>Kick off of the ground with your strength, sending you into the air</i></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>40 Strength</b> Mobility Mantra</i></li>
+    <li>A vertical jump that sends the user into the air.</li>
+    <li>Altitude travelled decreases significantly as the user loses health, making it inopportune for retreating.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### _**Fortitude Mantras**_
 

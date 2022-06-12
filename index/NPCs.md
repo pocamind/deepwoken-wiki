@@ -1,9 +1,9 @@
 ---
 title: NPCs
-revid: 31133
+revid: 31893
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # NPCs
@@ -12,7 +12,7 @@ _"Welcome, friend of Etrea." - Etrean Guard_
 
 ## Description
 
-NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) stat will unlock special interactions with them.
+NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
 
 <table><caption></caption>
 <tbody>
@@ -155,6 +155,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Summer_Isle.md">Summer Isle</a>, Inn</td>
   <td>Grants Loansharking quest</td>
   <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two Summer Company Guards</td>
+</tr>
+<tr>
+  <td>Jeremiah<figure>File:Jeremiah, my love..png<figcaption><p>Jeremiah, in the Depths.</p></figcaption></figure></td>
+  <td>Unaligned?</td>
+  <td>The Depths, Celtor District</td>
+  <td>???</td>
+  <td></td>
 </tr>
 </tbody>
 </table>

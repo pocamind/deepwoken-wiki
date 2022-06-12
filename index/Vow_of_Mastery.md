@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 30473
+revid: 31891
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -73,3 +73,4 @@ Charisma, Rare
 -   TRUST NOBODY!!!
 -   The _Live_ command is likely a referrence to _Code Geass_
 -   The Return command unknocks but will not heal them more then normal
+-   Nothing is worth the risk. Nothing is worth the risk. Nothing is worth the risk. Nothing is worth the risk.
