@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 31834
+revid: 31863
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -13,7 +13,7 @@ LocationL The Depths LocationR
 You can feel your soul dragging down like a weight, deeper, further into the depths.
 
   
-Template:Areainfobox**The Depths** is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
+Template:Areainfobox**The Depths**, canonically named Scyphozia, is a location in _Deepwoken_. Players are sent here after dying whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the PVP Arena or dying in the [Voidsea](Voidsea.md).
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 31007
+revid: 31865
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -59,4 +59,4 @@ Aelita sitting in the fetal position on a rock
 -   If going straight through the [Valley of Hereos](The_Valley_of_Heroes.md), even sticking to the walls, it is almost impossible to avoid Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   Before attempting this event be aware of other enemy's, such as [Songseekers](Songseeker_Frostdrawer.md) and [Necromancers](Ministry_Necromancer.md), as they can spawn in peculiar places and interrupt you while doing the event.
 
--   According to Arch\_Mage, Aelita is bisexual.
+-   A̶c̶c̶o̶r̶d̶i̶n̶g̶ ̶t̶o̶ ̶A̶r̶c̶h̶\_̶M̶a̶g̶e̶,̶ ̶A̶e̶l̶i̶t̶a̶ ̶i̶s̶ ̶b̶i̶s̶e̶x̶u̶a̶l̶. needs proof to support your claim

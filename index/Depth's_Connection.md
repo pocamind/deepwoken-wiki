@@ -1,13 +1,13 @@
 ---
 title: "Depth's Connection"
-revid: 22234
+revid: 31866
 source: https://deepwoken.fandom.com/wiki/Depth's_Connection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Depth's Connection
 
-You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
+Your interaction with the Depths allows you to easily draw ether from the surrounding air into your reservoir.
 
 +1 _Health_
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 31776
+revid: 31867
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -382,7 +382,7 @@ These talents are found in the "_Inferno_" Category.
 
 | **Image** | **Talent** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
-|  | Pleetsky's Faith | (Work in Progress) | (Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma) |
+|  | Pleetsky's Faith | When on fire, automatically quench flames at the cost of some ether. | (Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma) |
 
 **Immolator:**
 
