@@ -1,21 +1,32 @@
 ---
 title: Blade Temple Guard
-revid: 31115
+revid: 31902
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Blade Temple Guard
 
+Template:EnemyInfobox1.0
+
 ## Description
 
-Blade Temple Guards are reputable NPCs that can be found on the [Isle of Vigils](Isle_of_Vigils.md) guarding the front of the temple gate and entrance to the temple. Occasionally, they will defend themselves once some [bandits](Bandit.md) spawn in front of the temple. Unlike their Etrean counterparts, they lack any mantras, leading to the Bandits actually posing a serious threat to them.
+Blade Temple Guards are reputable NPCs that can be found on the [Isle of Vigils](Isle_of_Vigils.md) guarding the front of the temple gate and entrance to the temple. Occasionally, they will defend themselves once some [bandits](Bandit.md) spawn in front of the temple. Unlike their Etrean counterparts, they lack any mantras, leading to the [Bandits](Bandit.md) actually posing a serious threat to them.
 
 ## Moveset
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings sword at opponent and finishing the combo by kicking them. | ◯ | ◯ |  |
+| Assault | Firmly swings sword at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Sheathes blade before unleashing a quick slash. | ◯ | ◯ | (★★☆) |
+
+## Finisher
+
+A Blade Temple Guard executes the player after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | User pins down the opponent and slices their throat with their blade. |
 
 ## Trivia
 

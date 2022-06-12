@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 31872
+revid: 31910
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Spears]
@@ -35,5 +35,5 @@ The Iron Spear is a MED weapon that can be bought for 25 Notes at the weapon sto
 ## Trivia
 
 -   The spear stances can be switched between two and one hand with Y.
--   Spears are the lowest attack speed for medium weapons, but it has more range than the rest of them.
+-   Spears have one of the lowest attack speeds for medium weapons, but it has more range than the rest of them.
 -   Please don't run and spam your M1s and Criticals, it won't help at all.

@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 31418
+revid: 31908
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -13,11 +13,11 @@ categories: [Weapons]
 | type | Spear |
 | requirements | 90 MED |
 | damage | 18.5 |
-| scaling | 4 |
+| scaling | 6 |
 | range | 9 |
 | swing speed | 0.72x |
-| penetration | 30% |
-| chip damage | 50% |
+| penetration | 20% |
+| chip damage | 40% |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |

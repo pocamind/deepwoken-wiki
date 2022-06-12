@@ -1,14 +1,18 @@
 ---
 title: NPCs
-revid: 31893
+revid: 31914
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [NPCs]
 ---
 
 # NPCs
 
-_"Welcome, friend of Etrea." - Etrean Guard_
+“ Welcome, friend of Etrea. ”
+
+― Etrean Guard
+
+  
 
 ## Description
 
@@ -24,11 +28,25 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <th>Notes</th>
 </tr>
 <tr>
+  <td>???</td>
+  <td>Unalinged</td>
+  <td><a href="The_Depths.md">The Depths</a></td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
   <td><a href="Aelita.md">Aelita</a></td>
   <td>Unaligned</td>
   <td><a href="The_Valley_of_Heroes.md">Valley of Heroes</a></td>
   <td>Aelita event</td>
   <td>Does not spawn during Winter</td>
+</tr>
+<tr>
+  <td><a href="Akira.md">Akira</a></td>
+  <td><a href="The_Divers.md">The Divers</a></td>
+  <td><a href="The_Depths.md">The Depths</a></td>
+  <td>Akira vs Ignition Union event, Willpower unbound and joining <a href="The_Divers.md">The Divers</a></td>
+  <td></td>
 </tr>
 <tr>
   <td>Brutus</td>
@@ -38,6 +56,20 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Leaves the player knocked and vulnerable to guards</td>
 </tr>
 <tr>
+  <td>Glid</td>
+  <td>Unaligned</td>
+  <td>The Depths, Varicosa District</td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Jeremiah</td>
+  <td>Unaligned</td>
+  <td>The Depths, Varicosa District</td>
+  <td>Trades Deep Gems for random loot</td>
+  <td>Generally considered not worth it unless you have a Deep Gem you don't plan on using</td>
+</tr>
+<tr>
   <td>Kana</td>
   <td><a href="The_Central_Authority.md">The Authority</a></td>
   <td><a href="Fort_Merit.md">Fort Merit</a></td>
@@ -45,7 +77,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>Karliah</td>
+  <td><a href="Karliah.md">Karliah</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td><a href="Etris.md">Etris</a></td>
   <td>Charisma unbound quest</td>
@@ -80,7 +112,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Kills the player instantly if they are not permitted to enter</td>
 </tr>
 <tr>
-  <td>The Meat Lord</td>
+  <td>Lucy</td>
+  <td>Unaligned</td>
+  <td><a href="The_Depths.md">The Depths</a>, The City of The Drowned</td>
+  <td>None</td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="The_Meat_Lord.md">The Meat Lord</a></td>
   <td>Unaligned</td>
   <td><a href="Aratel_Island.md">Aratel Island</a>, <a href="Summer_Isle.md">Summer Isle</a></td>
   <td>Food Vendor</td>
@@ -101,11 +140,25 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Stock changes, weapons and armor can be bought enchanted</td>
 </tr>
 <tr>
+  <td>Petris</td>
+  <td>Unalinged</td>
+  <td><a href="The_Depths.md">The Depths</a>, The City of the Drowned</td>
+  <td>Gives clues to summon <a href="The_Ferryman.md">The Ferryman</a></td>
+  <td></td>
+</tr>
+<tr>
   <td>Plume</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Etris.md">Etris</a>, Lance's Food</td>
   <td>Gives dying ember retrieval quest, grants talent card</td>
   <td>Quest can be bypassed with either high Flamecharm stat or high Charisma stat</td>
+</tr>
+<tr>
+  <td>Raphael</td>
+  <td>Unalinged</td>
+  <td><a href="The_Depths.md">The Depths</a>, Varicosa District</td>
+  <td>Grants Find Morning quest</td>
+  <td>The quest is still in development</td>
 </tr>
 <tr>
   <td>Royal Guard</td>
@@ -129,7 +182,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Having less than 10 Charisma initiates a fight, extremely buggy and unfinished</td>
 </tr>
 <tr>
-  <td>Statos</td>
+  <td>Stratos</td>
   <td><a href="Etrea.md">The Kingdom of Etrea</a></td>
   <td><a href="Isle_of_Vigils.md">The Isle of Vigils</a></td>
   <td>Grants a talent to those who meet his requirements</td>
@@ -154,13 +207,15 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="The_Summer_Company.md">Summer Company</a></td>
   <td><a href="Summer_Isle.md">Summer Isle</a>, Inn</td>
   <td>Grants Loansharking quest</td>
-  <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two Summer Company Guards</td>
+  <td>Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two <a href="Summer_Company_Guard.md">Summer Company Guards</a></td>
+  <td></td>
 </tr>
 <tr>
-  <td>Jeremiah<figure>File:Jeremiah, my love..png<figcaption><p>Jeremiah, in the Depths.</p></figcaption></figure></td>
-  <td>Unaligned?</td>
-  <td>The Depths, Celtor District</td>
-  <td>???</td>
+  <td><a href="Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a></td>
+  <td>Unaligned</td>
+  <td><a href="The_Depths.md">The Depths</a>, The Temple of Hearts</td>
+  <td>Grants four wishes</td>
+  <td>A Resonance is required to talk to the statue or you are instantly killed and wiped</td>
   <td></td>
 </tr>
 </tbody>

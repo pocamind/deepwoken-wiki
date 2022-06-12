@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 31842
+revid: 31906
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -685,8 +685,8 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>True Seraph's Spear</td>
   <td>90 MED</td>
   <td>18.5</td>
-  <td>30% PEN &amp; 50% Chip Damage</td>
-  <td>MED: 4</td>
+  <td>20% PEN &amp; 40% Chip Damage</td>
+  <td>MED: 6</td>
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>

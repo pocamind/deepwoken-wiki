@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31718
+revid: 31907
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -386,7 +386,7 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
-|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill.
+|  | Bloodiron Ring | Grants the ability to recover Armor durability per kill (Stacks with Bloodiron Spirit).
 Grants one random buff.
 
  | Duke Erisia's Chest, Primadon Chests, Depths Chests |

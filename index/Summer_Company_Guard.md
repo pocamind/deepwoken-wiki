@@ -1,0 +1,46 @@
+---
+title: Summer Company Guard
+revid: 31913
+source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Summer Company Guard
+
+“ If you're not here to buy something, then just leave. ”
+
+― Summer Comany Guard
+
+Template:EnemyInfobox1.0
+
+## Description
+
+A Summer Company Guard is enemy NPC that can only be found on Summer Isle. They can spawn manually around the fort on the island or during one of these events:
+
+-   Summer Company Guards defending fort against a wave of bandits
+-   Summer Company Guards vs Bandits
+-   Summer Company Guards vs Ignition Union Guards
+-   Summer Company Guards retrieval of an Explosive Crate
+
+A Summer Company Guard only wears a Summer Company Uniform outfit with their [race](Aspects.md) varying.
+
+## Moveset
+
+A Summer Company Guard's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Pulls the trigger an fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
+| Critical | Fires a long-ranged bullet at opponent. | ◯ | ◯ | (★★☆) |
+
+## Finisher
+
+A Summer Company Guard executes the player after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down the opponent and shoots them in the head. |
+
+## Trivia
+
+-   Their hitboxes are particularly wonky, they can put a gun through your head but still not land a single shot.
