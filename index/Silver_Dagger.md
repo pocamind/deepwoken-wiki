@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 31798
+revid: 31923
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Daggers]
@@ -28,11 +28,11 @@ categories: [Weapons, Weaponry, Daggers]
 | obtainment | Found in Erisia , Purchased in Summer Isle |
 | description | A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable. |
 
-It's just a dagger out of silver. what did you expect? But at least it can kill a werewolf
+**It's just a dagger out of silver. What did you expect? At least it can kill a werewolf.**
 
 ## Description
 
-The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](Summer_Isle.md) for 45 Notes and can found in [Erisia](Erisia.md). It is a decent dagger to use from early to mid game. However, it is highly suggested to use the Gilded Knife _(If you have one)_ as it outranks the Silver Dagger in everything.
+The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](Summer_Isle.md) for 50 Notes and can found in [Erisia](Erisia.md). It is a decent dagger to use from early to mid game. However, it is highly suggested to use the Gilded Knife _(If you have one)_ as it outranks the Silver Dagger in everything except the swing speed (only .02x faster).
 
 ## Notes
 
