@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 30768
+revid: 31936
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -22,6 +22,13 @@ The details of the Bounty.
 
 -   When you manage to successfully hunt someone and kill them, you'll get a chest filled with loot, (depending on how many stars the person you hunted has) exp and some luck. The person who got killed will get forgiven by the faction for a little bit since they don't see them as a threat anymore.
 
+Examples:
+
+-   Aesop Truad - Pathfinder ★★
+-   River Hasteshi - Blindseer ★★★
+-   Kaido Etudi - Oathless ★★★★
+-   Dawn Zeneki - Scholar ★★★★★
+
 ## Tips and Advice
 
 -   Taking as many bounties as possible is recomended as it gives you easy access to where people in your server are, espescially usefull if others plan on hunting you.
@@ -36,3 +43,4 @@ The details of the Bounty.
 -   The stars might be inspired from GTA, where in GTA the more stars you have the more wanted you are.
 -   You can hunt more people at once.
 -   Using Blood Scourge might not work since I think you actually have to grip the person.
+-   The least amount of stars someone can have is 2 stars

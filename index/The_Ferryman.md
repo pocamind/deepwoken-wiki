@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 31916
+revid: 31955
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -66,7 +66,7 @@ able?
 
 ### Finishers
 
--   **Boatman's Gaze** - The Ferryman does not need to manually execute anyone. If you lose all of your health, you die instantly.
+-   **Boatman's Gaze** - **The Ferryman does not need to manually execute anyone. If you lose all of your health, you die instantly.**
 
 ## Battle
 
@@ -164,11 +164,24 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     _Petris, found traumatised in The Depths._
     
 
+  
+
+  
+
 -   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all. (I tested this myself)
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
--   The Ferryman gives a moderate amount of [Progress](Resonance.md), however he will reward more if he is killed by someone with the corresponding [Nature](Resonance.md#obtainment-process).  
+-   The Ferryman gives a moderate amount of [Progress](Resonance.md), however he will reward more if he is killed by someone with the corresponding [Nature](Resonance.md#obtainment-process).
+-   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.  
     
+    File:Yamaketzalferryman.png
+    
+    Yamaketzal mentioning the Ferryman.
+    
+
+  
+
+  
 
 ## Bugs
 
