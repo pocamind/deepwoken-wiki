@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 31334
+revid: 31918
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -31,7 +31,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Iron Birch is a HVY weapon that is obtainable from [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), and [Primadon](Primadon,_Titan_of_the_East.md) Chests. This weapon isn't worth farming for as it is outranked by the [Adretian Axe](Adretian_Axe.md) and [Canorian Axe](Canorian_Axe.md). The only thing this weapon can do better than the two axes above is it's base damage and swing speed which isn't enough to outrank them.
+The Iron Birch is a HVY weapon that is obtainable from [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [The Depths](The_Depths.md), and [Primadon](Primadon,_Titan_of_the_East.md) Chests. Considered one of the best HVY weapons due to it's unusually high swing speed, no endlag, and overall decent damage.
 
 ## Trivia
 
