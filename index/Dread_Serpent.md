@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 31944
+revid: 31956
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -47,3 +47,4 @@ able?
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   You will only get hit if you are close to him, so keep your distance while behind him.
 -   Its general design appears to be a reference to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form.
+-   Since Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.

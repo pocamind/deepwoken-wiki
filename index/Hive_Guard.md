@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 31111
+revid: 31963
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

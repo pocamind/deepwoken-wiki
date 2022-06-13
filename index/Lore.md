@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 31653
+revid: 31957
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -79,6 +79,7 @@ The Duke
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the Soul Jar resonance, leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily.
+-   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed.
 
 ### **Maestro Evengarde Rest**
 
@@ -154,6 +155,15 @@ Yun'shul
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
     -   The Nestmind assumes the people of the New World misunderstanding the concept of The Depths, that the truth is it is an Interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God and simply a strong Depths entity like the [Deep Voices](Voices_of_the_Depths.md).
+
+### **The Ferryman**
+
+**Lore Sources:** _Yamaketzel (Mentioned), Petris (Mentioned)_
+
+-   The Ferryman is a Krulian that has taken the appearance of an Etrean and resides within the Boatman's Watch in the Void Sea.
+-   He is summoned using a ritual involving several campfires.
+-   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
+-   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
 
 ## Locations
 
