@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 31545
+revid: 31973
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, NPCs]
@@ -14,6 +14,9 @@ Age in Deepwoken is viewable by going to your stats menu. Your age increases eve
 
 -   Some NPCs have dialogue depending on your age.
 -   It is said that characters suffer from appearance changes the older they get depending on their race, such as getting wrinkles, [Canors](Canor.md) growing a mane(?) (This is however not tested
+    
+-   Your character can age in the character creation screen aswell
+    
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 31958
+revid: 31969
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -47,6 +47,8 @@ The actual chance of getting an enchant are unknown, however, any chest from any
 As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, enchant rates have been buffed yet again.
 
 **WHEN THE LAYER 2 UPDATE RELEASES ALL ENCHANT VFX MOSTLY FOR WEAPON WILL BE CHANGED!**
+
+Astral can only be obtained through a wishmaker. The only known wishmaker in-game as of now is Iltria. Wishmakers are not NPCs. They are players (developers, mods, etc.) who will join the game at times. If you meet them, you may ask for a wish. Do not stalk or harass wishmakers.
 
 **Weapons:**
 
@@ -218,7 +220,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Deal 50% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
+  <td><div><p>Deal 20% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>

@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 31925
+revid: 31965
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -54,7 +54,7 @@ A [Ganymede](Ganymede.md) located in [the Hidden Village](The_Hidden_Village.md)
 
 > Cestis: Ah, good work as always. You know what? You might be of more use to us than I thought initally...
 
-**17-20 Assassinations**
+**17-25 Assassinations**
 
 > Cestis: Ahaha.. A natural born killer.. Although you may want to make use of Tacet to sneak up on your foes more easily...
 

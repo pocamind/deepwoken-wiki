@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 31914
+revid: 31966
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -54,6 +54,13 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td><a href="Fort_Merit.md">Fort Merit</a></td>
   <td>Fortitude unbound</td>
   <td>Leaves the player knocked and vulnerable to guards</td>
+</tr>
+<tr>
+  <td><a href="Cestis.md">Cestis</a></td>
+  <td><a href="The_Ministry.md">The Ministry</a></td>
+  <td><a href="The_Hidden_Village.md">The Hidden Village</a></td>
+  <td>Grants assassinations</td>
+  <td>Requires the player to have negative Etrean reputation</td>
 </tr>
 <tr>
   <td>Glid</td>

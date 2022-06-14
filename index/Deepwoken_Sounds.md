@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 30524
+revid: 31984
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -31,7 +31,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | 1 | To Sleep, Dreaming (Contour 1) | 1:40 | Title Screen | File:Mainmenu contour1.ogg |
 | 2 | To Sleep, Dreaming (Contour 2) | 1:40 | _Title Screen_ | File:To Sleep, Dreaming (Contour 2).mp3 |
-| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | In the Depths (I heard it after getting in danger, staying still, and not getting hit (should play durning the in combat music, and after)) | File:To Sleep, Dreaming (Contour 3).mp3 |
+| 3 | To Sleep, Dreaming (Contour 3) | 1:41 | Unknown | File:To Sleep, Dreaming (Contour 3).mp3 |
 | 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Unknown | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
@@ -72,13 +72,14 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war?in=naktigonis/sets/deepwoken-ost-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | 2:48 | Arena | File:The Games Of War.mp3 |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | Aelita | File:Catwhisker.mp3 |
+| 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
+| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) War | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
 
 ### Additional Songs
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | ? | N/A | 2:14 | [Voidheart](Voidheart.md) & [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) | File:CorvusManorMain.ogg |
-| ? | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
 
 ## Alternative Soundtracks
 
