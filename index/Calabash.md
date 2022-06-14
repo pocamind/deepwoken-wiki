@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 31263
+revid: 31998
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients]
@@ -8,7 +8,12 @@ categories: [Food, Ingredients]
 
 # Calabash
 
-Template:Food Template V1"Deepwoken Calabaaash, i just shit out my aaaass.."
+“ Deepwoken Calabash, just shit out my asssss… ”
+
+― Goofy ahh Deepwoken joe
+
+  
+Template:Food Template V1
 
 ## Description
 
@@ -18,6 +23,7 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
 
 -   [Candied Fruit](Candied_Fruit.md) (Any Fruit, Sap)
 -   [Canteen](Canteen.md) (Calabash, Beeswax)
+-   [Fruit Salad](Fruit_Salad.md) (Three fruits that are different. ex: Calabash, Pomar, Ongo)
 
 ## Trivia
 

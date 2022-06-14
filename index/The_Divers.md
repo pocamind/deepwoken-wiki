@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 29399
+revid: 32004
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Guilds, Reputation]
@@ -50,7 +50,6 @@ Note: don't mess with him
 ## Trivia
 
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
--   Current leader of The Divers is SoftSnowOwl
 -   Current officers of The Divers are:
     -   Aeronautic
     -   colddeathmaker

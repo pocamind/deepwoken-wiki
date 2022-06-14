@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31970
+revid: 31995
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -215,7 +215,7 @@ _\+ Talent: Blinded_
 | File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests | N/A |
 |  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
-| File:Demonmask.png | Demon Mask | Cosmetic | Duke Chests, Depths Chests | N/A |
+|  | HiveLord Mask | Cosmetic | Hive Mechs. | N/A |
 |  | Iron Mask | Cosmetic | Erisia Chests | N/A |
 | File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
 |  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |

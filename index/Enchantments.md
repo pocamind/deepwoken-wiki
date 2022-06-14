@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 31969
+revid: 31992
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -70,7 +70,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Bloodthirsty Iron Birch.png<figcaption></figcaption></figure><div>Curse of the Bloodthirsty</div></td>
-  <td><div><p>M1s deal 10% more damage and have increased blood damage. Missing an M1 deal 1% of max hp as self damage. Blocked/Parried/Dodged hits do not count as a miss.</p></div></td>
+  <td><div><p>M1s deal 10% more damage and have increased blood damage. Missing an M1 deal 1% of max hp as self damage. Blocked/Parried/Dodged hits do not count as a miss. Self-Damage does not Proc when below 10%HP.</p></div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
