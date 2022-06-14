@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 32019
+revid: 32024
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Talents, Attributes]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Races, Character, Talents, Attributes
 
 Template:Races-Main
 
-_"With canine features, the Canor are fiercely loyal_
+_"With canine features, the Canor are fiercely loyal._
 
 _Often found as guards and personal servants in the retinue of powerful people."_
 

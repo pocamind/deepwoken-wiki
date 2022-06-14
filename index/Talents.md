@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 31997
+revid: 32044
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -64,6 +64,7 @@ These talents improve the user's aerial mobility without the use of Galebreathe.
 -   Wyvern's Claw \[Rare Talent\] - Attacks made when not touching the ground deals slightly more damage (10% more damage). (+3 Health)
     -   Prerequisites: 15 Strength, Aerial Stab
     -   Synergizes well with Aerial attack Talents.
+    -   Since Shard Bow launches you in the air, it automatically applies Wyvern's Claw.
 
 ### Aeromancy
 
@@ -149,7 +150,9 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 -   Finesse \[Common Talent, Agility\] - You pull your weapon out silently. (+1 Passive Agility, +5 Health)
     -   Also apply to sheathing.
+    -   Does nothing on fist as they are silent by default.
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds (+1 Passive Agility)
+    -   You immediatly reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
 -   Lightspeed Reflexes \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: Agility 30-35~, 20-25~ Intellegence
 
@@ -185,6 +188,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
+    -   Knock timer is reduced to ?? seconds instead of the usual 10.
 -   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
     -   PEN calculation: incoming PEN \* 0.7 = reduced incoming PEN
     -   Prerequisite: 90 Fortitude
@@ -192,7 +196,8 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Beast Slayer
 
 -   Giantslayer \[Common Talent\] - Deal more damage to larger foes. (+3 Health, +7 Sanity)
-    -   "Larger foes" being anything that isn't a humanoid NPC.
+    -   Deal ??% more damage to larger foes.
+    -   "Larger foes" being anything that isn't a humanoid NPC. Essentially, anything in the monster category that is not a Mudskipper or Angel.
     -   Prerequisite: 10 Willpower.
 
 ### Blindseer
@@ -244,6 +249,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Eureka \[Rare Talent, Intelligence\] - Receive ether back on every successful perfect cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisite: 30 Intelligence
     -   Refunds 15% of the ether cost of the mantra.
+        -   Because of this, the effect is barely noticeable on cheaper mantras.
     -   Holding or clicking M1 during a mantra windup is a perfect cast (Some mantras lack the ability to perfect cast)
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
 -   Ether Conduit \[Common Talent, Intelligence\] - Successful hits with your mantra inspire you, stacking up to 3 and causing your mantra to deal more damage for a set duration (+7 Carry Load, +2 Elemental Intensity)
@@ -290,6 +296,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Knife's Journey \[Rare Talent, Light\] - You now have a 10% chance to do 1.2x damage with light weapons. (+2 Health)
     -   Crit procs are rolled for each individual target, not per swing.
     -   Only works on daggers.
+    -   Crit procs are indicated by a red visual effect.
     -   Prerequisite: 25 Light Weapon Mastery
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   Prerequisite: Knife's Journey \[Rare Talent\]
@@ -340,7 +347,7 @@ These Talents are mainly aimed at making assassination much more potent, especia
 -   Dark Rift \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 -   Dark Hours \[Shadowcast Exclusive\] Shadowcast mantras deal more damage at night. (+4 Elemental Intensity, 3+ Health)
-    -   Shadowcast deal 20% more damage at night.
+    -   Shadowcast mantras deal 20% more damage at night.
 -   Devour \[Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves (+3 Elemental Intensity, +3 Health)
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity, +1 Health)
 -   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
@@ -372,6 +379,7 @@ These Talents are meant to improve your overall combat effectiveness.
 -   Duelist Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load, +1 Health)
 -   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+3 Health, +10 Sanity)
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility, +3 Health)
+    -   Whenever you land a crit, your next light weapon attack gain 100% Chip Damage.
     -   Prequesite: ?? Strength, ?? Agility
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
 -   Tap Dancer \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility, +2 Health)
@@ -919,8 +927,10 @@ Prerequisite: Charisma
 These Talent are meant to make maintaining your ship easier.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load, +2 Health)
+    -   Repairing restore ??? HP instead of 250 HP.
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load, +2 Health)
-    -   Prerequisite for all: Use the Repair Hammer once.
+    -   Repairing restore ??% more HP to the boat when it's below ?? HP.
+        -   Prerequisite for all: Use the Repair Hammer once.
 
 ### Silencer
 

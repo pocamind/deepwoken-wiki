@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32020
+revid: 32039
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -217,7 +217,7 @@ _\+ Talent: Blinded_
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 |  | HiveLord Mask | Cosmetic | Hive Contructs | N/A |
 |  | Iron Mask | Cosmetic | Erisia Chests | N/A |
-|  | Songseeker Mask | Cosmetic | Songseeker Mobs | Blue, Green & Red |
+| File:Songseekermask.png | Songseeker Mask | Cosmetic | Songseeker Mobs | Blue, Green & Red |
 | File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
 |  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |
 
@@ -509,14 +509,15 @@ _Requires Power 30_
 ## Trivia/Notes
 
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   Arch confirmed that there are **5** master outfits. `S̶o̶ ̶f̶a̶r̶,̶ ̶o̶n̶l̶y̶ ̶4̶ ̶o̶u̶t̶f̶i̶t̶s̶ ̶h̶a̶v̶e̶ ̶b̶e̶e̶n̶ ̶f̶o̶u̶n̶d̶.̶ this is no longer the case all 5 have been found. and the first statement needs proof because there is still a Insignia Gem. Future updates might change this.`
+-   Arch confirmed that there are **5** master outfits. ~So far, only 4 outfits have been found.~
+    -   This is no longer the case since all 5 have been found and the first statement needs proof because there is still a Insignia Gem. Future updates might change this.
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
     -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   **Royal Bodyguard** is currently bugged - you cannot hand it in to the [Blacksmith](Blacksmith.md).
     -   **Pathfinder Journeyman** is also bugged, and it will give you Grandmaster Pathfinder instead.
 -   Some Armors such as Star Duster, the Royal Duelist and its variants and the Megalodaunt Coat require you to be at a certain Power level to use.
 -   There is a secret beginner armor called 'RaguzaRequest7' and its schematic name is 'Pathfinder Sorcerer.'
--   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off Scaramouche from Genshin Impact
+-   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based off the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche?so=search)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).
 -   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
 -   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
     
@@ -530,4 +531,4 @@ _Requires Power 30_
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The only gem that is not used in any armor set is insignia gem.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
--   The **Vagabond's Bicorn** and the **Brigand's Bicorn** are most likely a reference to **Captain Jack Sparrow** from the **Pirates of the Caribbean**
+-   The **Vagabond's Bicorn** and **Brigand's Bicorn** are most likely a reference to **Captain Jack Sparrow** from the **Pirates of the Caribbean**.

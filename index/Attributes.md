@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 32002
+revid: 32049
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character]
@@ -33,7 +33,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 “ SAIDO CHESTO! ”
 
-― Chad Ganymede, flexing their superior physique.
+― Chad Khan, flexing their superior physique.
 
 -   Overall Physical Strength. Increases Carry Load, Armor Penetration, and the effectiveness of strength mantras.
     -   Increases Carry Load by 1 per Strength.
@@ -48,7 +48,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 “ Fortitude Unbound son! You can't hurt me Jack! ”
 
-― Senator Dise, tanking through Rapid Punches.
+― Senator Corbet, tanking through Rapid Punches.
 
 -   Overall character wellbeing and resistance to diseases. Increases Health slightly.
     -   Adds 0.5 HP to your character for every Fortitude point. 100 Fortitude will grant you 50 HP.
@@ -61,7 +61,7 @@ If your race happens to start with +2 in a given stat, the limits are 77 and 102
 
 “ You better run, boy. And fast! ”
 
-― Ganymede merchant to a Fugitive Ganymede escaping Ganymede guards.
+― Canor merchant to a Fugitive Vesperian escaping Etrean guards.
 
 List of agility talents
 
@@ -78,7 +78,7 @@ List of agility talents
 
 “ What's 9 + 10? ”
 
-― Big brain Ganymede to an inept Ganymede.
+― Big brain Adret to an inept Canor.
 
 -   Logical processing and Problem-Solving skills. Increases Ether and Reservoir slightly per Intelligence.
 -   This stat gives 2 Ether and Reservoir every point.
@@ -92,7 +92,7 @@ List of agility talents
 
 “ I know what I have to do, I just don't know if I have the strength to do it... ”
 
-― Ganymede before prostrating themselves before Yun'Shul.
+― Etrean before prostrating themselves before Yun'Shul.
 
 -   Your character's mental integrity and ability to keep a steady mind. Increases Sanity and Reservoir per Willpower.
 -   Willpower can be used on certain interactions, such as reading forbidden knowledge or glyphs.
@@ -106,7 +106,7 @@ List of agility talents
 
 “ You wanna make a vow of mastery? You wanna make a vow of mastery? C'mon you wanna make a vow of mastery? ”
 
-― Ganymede offering legal slavery to anyone he can.
+― Felinor offering legal slavery to anyone he can.
 
 -   Your character's ability to influence others with their personality. Increases Ether slightly per Charisma.
 -   Charisma can be used on Dialogue Checks that requires Charisma.
@@ -123,7 +123,7 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 “ That thing was too big to be called a sword. Too big, too thick, too heavy, and far too rough, it was more like a large hunk of iron. ”
 
-― A stranded Ganymede describing the Crypt Blade.
+― A stranded Felinor, describing the Crypt Blade.
 
 \- A Freshie Felinor Describing a Greatsword
 
@@ -149,7 +149,7 @@ These attributes can be improved up to 75, but completion of the quest: [A Lost 
 
 “ **YOU FOOL!** You brought a knife to a gunfight! ”
 
-― An overconfident Ganymede to a dagger wielding Ganymede.
+― An overconfident Capra to a dagger wielding Canor.
 
 -   Increases your Character's skill in Light Weapons.
 -   Determines the damage of your light Weapons via Scaling.
@@ -177,7 +177,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ FREEZE! DON'T MOVE! ”
 
-― Ganymede Frostdrawer, charging their Ice Beam at a clueless Ganymede.
+― Gremorian Frostdrawer, charging their Ice Beam at a clueless Khan.
 
 -   Increases damage and effectiveness of Frostdraw Mantras.
 -   Lengthens slow and freeze times of procced abilities.
@@ -188,7 +188,7 @@ These attributes can be improved up to 75, but completion of Lord Regent's quest
 
 “ Lanza del relampago! ”
 
-― Ganymede yeeting a grand javelin.
+― Celtor yeeting a grand javelin.
 
 -   Increases damage and effectiveness of Thundercall Mantras.
 -   Lengthens the stun caused by attacks.

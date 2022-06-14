@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 32003
+revid: 32042
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,41 +11,80 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ― A Thundercaller Monk electrocuting an unfortunate Gremor
 
-Template:EnemyInfobox1.0 **Thundercaller Monks** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+Template:EnemyInfobox1.0
 
-## Appearance
+## Description
 
-Thundercaller Monks wear dark wraps and a unique **dark green mask**. Their [race](Aspects.md) and gender can vary.
+A Songseeker Thundercaller is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns.
 
-## **Locations**
+A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlisted outfit with their [race](Aspects.md) and gender varying.
 
-Thundercaller Monks can appear in [Random Encounters](Random_Encounters.md) and in [Songseeker Wilds](Songseeker_Wilds.md).
+## Moveset
 
-## Enemy Information
+A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) (Fist of Navae) and the [Thundercall](Thundercall.md) attunement:
 
-### Health
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
 
-Thundercaller Monks have 1000 health.
+ | 
 
-### Weapons
+Firmly pummels opponent and finishing up the combo by kicking them.
 
-Thundercaller Monks are armed with their [fists](Fists.md), and use the Way of Navae fist style.
+ | ◯ | ◯ | (★☆☆) |
+| 
 
-### Combat
+Critical
 
-Thundercaller Monks have the Way of Navae fist style, but alternatively use [Thundercall](Thundercall.md) Mantras against their opponents. These Mantras have little to no cooldown. Thundercaller monks are the only Songseeker monks who can parry.
+ | 
 
--   **Jolt Grab**: Teleports into the opponent and slams them into the ground. Deals damage and stun. Can be blocked and parried.
--   **Thunder Kick**: The monk sends out a powerful kick forward. Deals damage, stun and knockback. Can be blocked and parried.
--   **Lightning Stream**: Grapples onto the player and pulls them in. Deals damage and stun. Can be blocked and parried.
+Raises left leg before slamming it to the ground below.
 
-Thundercaller Monks cannot be assassinated and have no Ether cost to their Mantras. These Mantras combined with the fist style and stun can make this enemy very difficult to battle.
+ | ◯ | ✗ | (★★☆) |
+| 
 
-### Drops
+Jolt Grab
 
-Thundercaller Monks have a chance to drop a Spark Gland. If fought in a [Random Encounter](Random_Encounters.md), they will spawn a chest on death.
+ | 
 
-## Trivia/Notes
+Rushes the opponent and slams them into the ground, sending out a small AOE around you if it lands.
+
+ | ◯ | ◯ | (★★☆) |
+| 
+
+Thunder Kick
+
+ | 
+
+User heavily kicks forward.
+
+ | ◯ | ◯ | (★★☆) |
+| 
+
+Lightning Stream
+
+ | 
+
+A stream of lightning that hooks onto an opponent before shocking them multiple times.
+
+ | ✗ | ◯ | (★★☆) |
+
+### **Boons:**
+
+-   Third Eye - A Songseeker Thundercaller cannot be assassinated.
+-   High Supply - A Songseeker Thundercaller has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+-   Mantra Modification - A Songseeker Thundercaller's "Lightning Stream" mantra is modified with a [Blast Spark](Mantra_Modifiers.md).
+
+## Finisher
+
+A Songseeker Thundercaller executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before firmly bashing their face. |
+
+## Tips
 
 -   It is not advised to fight these below [Power](Power.md) 30, as they're extremely difficult to fight without spare health.
 -   Despite being immune to [assassination](Stealth.md), the player can still sneak behind and use a powerful mantra to pile up some good damage.

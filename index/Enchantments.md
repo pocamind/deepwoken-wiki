@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 31992
+revid: 32022
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -216,7 +216,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
   <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.<br>
-  <b>Enchant is disabled.</b></p></div></td>
+  </p></div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 32000
+revid: 32038
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,46 +9,76 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Template:EnemyInfobox1.0 **Frostdrawer Monks** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
-## Appearance
+## Description
 
-Frostdrawer Monks wear dark wraps and a unique **dark blue mask**. Their [race](Aspects.md) and gender can vary.
+A Songseeker Frostdrawer is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
 
-## **Locations**
+A Songseeker Frostdrawer wears a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit with their [race](Aspects.md) and gender can varying.
 
-Frostdrawer Monks can appear in [Random Encounters](Random_Encounters.md) and in locations listed below.
+## Moveset
 
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
+A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) (Fist of Navae) and the [Frostdraw](Frostdraw.md) attunement:
 
-## Enemy Information
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Assault
 
-### Health
+ | 
 
-Frostdrawer Monks have 1000 health.
+Firmly thrusts spear at opponent and finishing the combo by kicking them.
 
-### Weapons
+ | ◯ | ◯ | (★☆☆) |
+| 
 
-Frostdrawer Monks use [Way of Navae](Way_of_Navae.md) fist style.
+Ice Spikes
 
-### Combat
+ | 
 
-Frostdrawer Monks can only use [Frostdraw](Frostdraw.md) Mantras against their opponents. These Mantras have little to no cooldown.
+Conjure a spike of ice from the ground at cursor location.
 
--   **Ice Spikes**: Thrusts a spike of ice from the ground at the player's location. Deals moderate damage and sends target into the air. Can be blocked, parried and cancelled.
--   **Ice Daggers**: Throws three daggers of ice toward the nearest player. Homing attack. Can be blocked, parried and cancelled.
--   **Ice Eruption**: Forms a circle of ice around the NPC. (Round Spark variant) Deals moderate damage, slows target down. Can be blocked, parried and cancelled.
+ | ◯ | ◯ | (★★☆) |
+| 
 
-Frostdrawer Monks cannot be assassinated and have no Ether cost to their Mantras. The damage and effects of these Mantras can be cancelled if attacked during casting, making this enemy bearable to deal with.
+Ice Daggers
 
-### Drops
+ | 
 
-Frostdrawer Monks rarely drop Frigid Prisms on death. If fought in a [Random Encounter](Random_Encounters.md), they will spawn a chest on death.
+User forms three daggers of ice before throwing them towards the nearest person.
 
-## Trivia/Notes
+ | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Eruption
+
+ | 
+
+Forms a path of ice spikes in front of user.
+
+ | ✗ | ◯ | (★★☆) |
+
+### **Boons:**
+
+-   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
+-   High Supply - A Songseeker Frostdrawer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+-   Mantra Modification - A Songseeker Frostdrawer's "Ice Eruption" mantra is modified with a [Round Spark](Mantra_Modifiers.md).
+
+## Finisher
+
+A Songseeker Frostdrawer executes it's opponents after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before firmly bashing their face. |
+
+## Tips
 
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using mantras will prevent them from spamming mantras.
 -   Watch out for Ice Daggers, as this move can be spammed and be easily proven lethal.
--   They're relatively easy to fight, even at low Power.
 -   Get them into corners as it will make it impossible for the Frostdrawer Monks to deal damage. Even though they will cast mantras, they won't deal damage while being attacked when casting a mantra. Or keep hitting them and spamming mantras on them.
 -   Fighting Frostdrawer Monks with Flamecharmer Monks can be very annoying, and lethal. If you are planning to fight the two monks at the same time, make sure to know what you are doing otherwise you can get knocked.
+
+## Trivia
+
+-   They're relatively easy to fight, even at low Power.
