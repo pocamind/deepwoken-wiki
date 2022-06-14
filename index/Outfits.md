@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 31995
+revid: 32020
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -215,8 +215,9 @@ _\+ Talent: Blinded_
 | File:Static-assets-upload9013636473975687804.png | Ten-Gallon Bandana | Cosmetic | Songseeker Chests, Depths Chests | N/A |
 |  | Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
-|  | HiveLord Mask | Cosmetic | Hive Mechs. | N/A |
+|  | HiveLord Mask | Cosmetic | Hive Contructs | N/A |
 |  | Iron Mask | Cosmetic | Erisia Chests | N/A |
+|  | Songseeker Mask | Cosmetic | Songseeker Mobs | Blue, Green & Red |
 | File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
 |  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |
 
@@ -529,3 +530,4 @@ _Requires Power 30_
 -   The **Blindfold** is believed to protect the user from certain attacks that affect their Sanity, but this has not yet been proven.
 -   The only gem that is not used in any armor set is insignia gem.
 -   The **Providence Coat** might be a reference to the coat **Dante** wore in the game **Devil May Cry 5**, but this has not yet been confirmed.
+-   The **Vagabond's Bicorn** and the **Brigand's Bicorn** are most likely a reference to **Captain Jack Sparrow** from the **Pirates of the Caribbean**

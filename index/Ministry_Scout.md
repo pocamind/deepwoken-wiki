@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 31782
+revid: 32011
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,17 +8,13 @@ categories: [Enemies]
 
 # Ministry Scout
 
-Template:Creature Infobox V3
+Template:EnemyInfobox1.0
 
-## Description:
+## Description
 
-Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Curiously, they also gather around Summer Isle, whether to murder members of The Children of Navae or massacre bandits.
+Ministry Scouts are an enemy NPC that can be found on [Minityrsa](Minityrsa.md) patrolling a small "fortress" in a cave. Curiously, they also gather around Summer Isle, whether to murder members of [The Children of Navae](Eastern_Nomad_Leader.md) or massacre [bandits](Bandit.md).
 
-## Appearance
-
--   Vagabond's Bicorn
--   Blindfold or Crimson Blindfold
--   Prophet's Cloak (Outfit)
+They wear a Vagabond's Bicorn, either a Blindfold or Crimson Blindfold and a Prophet's Cloak outfit.
 
 ## Moveset
 
@@ -34,6 +30,12 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 ### Boons
 
 -   Third Eye - User cannot be assassinated under any circumstances.
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent and slices their throat with dagger. |
 
 ## Tips
 
