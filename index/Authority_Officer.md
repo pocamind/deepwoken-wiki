@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 31900
+revid: 32125
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,11 +11,18 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) fighting the Etrean Footsoldiers in groups of two. They can also be seen patrolling [Upper Erisia](Upper_Erisia.md), accompanied by two Authority Flamecharmers in a group of four. Defeating all four of them will be rewarded with a chest containing low level gear and negative Authority Reputation.
+An Authority Footsoldier are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
-Authority Footsoldiers wear an Authority Helm and an [Authority Commander Uniform](Authority_Captain_Uniform.md). They are the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
+-   Authority Footsoldiers vs Etrean Footsoldiers
+-   Authority Footsoldiers vs Legion Soldiers
+-   Authority Footsoldiers with [Authority Flamcharmers](Authority_Soldier.md) patrolling [Upper Erisia](Upper_Erisia.md)
+    -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
-## Moves
+They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
+
+Authority Footsoldiers wear an Authority Helm and an [Authority Commander Uniform](Authority_Captain_Uniform.md). All of them are also Adrets with their gender varying.
+
+## Moveset
 
 Their arsenal consists of an [Officer Saber](Officer_Saber.md) and the [Thundercall](Thundercall.md) Attunement:
 
@@ -32,11 +39,7 @@ Critical
  | Performs a wind-up before thrusting sword forward. | ◯ | ◯ | (★☆☆) |
 | 
 
-(Magnet Spark)
-
 Jolt Grab
-
-  
 
  | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
 | 
@@ -45,8 +48,15 @@ Thunder Kick
 
  | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
 
-  
+### **Boons:**
 
-## Trivia
+-   Experienced - Can parry and and block attacks most of the time.
+-   Mantra Modification - An Authority Footsoldier's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
 
--   All of them are exclusively [Adrets](Adret.md).
+## Finisher
+
+An Authority Footsoldier executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before slicing their throat with blade. |

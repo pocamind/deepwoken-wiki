@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 32038
+revid: 32123
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,38 +24,22 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) (Fist of Navae)
 | 
 Assault
 
- | 
-
-Firmly thrusts spear at opponent and finishing the combo by kicking them.
-
- | ◯ | ◯ | (★☆☆) |
+ | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | 
 
 Ice Spikes
 
- | 
-
-Conjure a spike of ice from the ground at cursor location.
-
- | ◯ | ◯ | (★★☆) |
+ | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★★☆) |
 | 
 
 Ice Daggers
 
- | 
-
-User forms three daggers of ice before throwing them towards the nearest person.
-
- | ◯ | ◯ | (★★☆) |
+ | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
 | 
 
 Ice Eruption
 
- | 
-
-Forms a path of ice spikes in front of user.
-
- | ✗ | ◯ | (★★☆) |
+ | Forms a path of ice spikes in front of user. | ✗ | ◯ | (★★☆) |
 
 ### **Boons:**
 

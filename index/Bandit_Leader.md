@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 31758
+revid: 32122
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,12 +30,12 @@ A Bandit Captain's arsenal consists of a starter weapon, them being a [Battleaxe
 
 ## Finisher
 
-A Bandit Captain executes the player after knocking them:
+A Bandit Captain executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
 | Execute | \[[Battleaxe](Battleaxe.md), [Messer](Messer.md) & [Gilded Knife](Gilded_Knife.md)\] User pins down the opponent and slices their throat with their blade.
-\[[Mace](Mace.md)\] User pins raises weapon and firmly bashes opponent's face.
+\[[Mace](Mace.md)\] User pins down opponent while raising their mace before firmly bashing the opponent's face.
 
  |
 
