@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32039
+revid: 32128
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -313,7 +313,7 @@ _Requires Power 40_
 
 _Requires Power 30_
 
- | Fort Merit Chests | Amber, Bronze, Gold, Royal, Ruby, Stygian & Verdant (Work in Progress) |
+ | Fort Merit Chests | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 |  | Deepwoken Cloak
 
 (Legendary)

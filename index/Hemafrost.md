@@ -1,6 +1,6 @@
 ---
 title: Hemafrost
-revid: 32100
+revid: 32146
 source: https://deepwoken.fandom.com/wiki/Hemafrost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,8 +14,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 The Hemafrost in the mantra shop at Isle of Vigils
 
 ## **Description**
-
-_"A glowing sphere that emits ice energy."_
 
 Trains the [Frostdraw attunement](Frostdraw.md). It can be used 200 times. Upon activation, the character is slowed and surrounded by a frosty glow. It can be used at [Power](Power.md) 2+ if your character has [Frostdraw](Frostdraw.md)
 

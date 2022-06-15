@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 31516
+revid: 32145
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races, Weaponry, Weapons, Attunement, Attributes, Spells, Mechanics, Monsters, Magic, Map]
@@ -36,7 +36,7 @@ _\[More information about [attunements](Attunements.md) can be found on their co
 
 ## Weapon Classes
 
-When customizing your character, there is a total of three [weapon classes](Weapons.md) you can choose from: Heavy _(Battleaxe)_, Medium _(Sword)_ and Light _(Stiletto)_.
+When customizing your character, there is a total of three [weapon classes](Weapons.md) you can choose from: HVY _(Battleaxe)_, MED _(Sword)_ and LHT _(Stiletto)_.
 
 _(Weapon Manuals do not teach you a new [weapon classes](Weapons.md), but they allow you to train the type of style of the weapon you are currently using. To change your [weapon classes](Weapons.md) you need to equip the specific weapon corresponding to your desired style)_
 
@@ -69,7 +69,7 @@ Here is what makes Etris unique:
 
 ### Isle of Vigils
 
-The Isle of Vigils is a small island with a fortress guarded by Vigils with [Katanas](Katana.md). The [antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food.
+The Isle of Vigils is a small island with a fortress guarded by Vigils with [Katanas](Katana.md). The [antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food. It is recommended for starters as it has an NPC that allows you to get better at combat and it is easier to get to Erisia from the docks.
 
 Here is what makes the Isle of Vigils unique:
 

@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 32122
+revid: 32142
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,13 +11,13 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Bandit Captains can only be found on [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually spawn in groups of 3 with 2 being normal bandits and 1 being the captain on [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can spawn in groups of 2 in events that involve them fighting Summer Company Guards.
+Bandit Leaders can only be found on [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually spawn in groups of 3 with 2 being normal bandits and 1 being the captain on [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can spawn in groups of 2 in events that involve them fighting Summer Company Guards.
 
-A Bandit Captain wears an Unknown/Unlisted Outfit with their [race](Aspects.md) and gender varying.
+A Bandit Leader wears an Unknown/Unlisted Outfit with their [race](Aspects.md) and gender varying.
 
 ## Moveset
 
-A Bandit Captain's arsenal consists of a starter weapon, them being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md) or [Gilded Knife](Gilded_Knife.md):
+A Bandit Leader's arsenal consists of a starter weapon, them being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md) or [Gilded Knife](Gilded_Knife.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ A Bandit Captain's arsenal consists of a starter weapon, them being a [Battleaxe
 
 ## Finisher
 
-A Bandit Captain executes it's opponent after knocking them:
+A Bandit Leader executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

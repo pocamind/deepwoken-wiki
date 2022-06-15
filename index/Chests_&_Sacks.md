@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 31686
+revid: 32149
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -22,7 +22,7 @@ Artifact Chest
 
 Artifact Chest
 
-Artifact Chest
+  
 
   
 

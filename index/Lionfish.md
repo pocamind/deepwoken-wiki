@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 30899
+revid: 32144
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -16,7 +16,7 @@ _Commonly refered to as: Menos Grande_ Template:Creature Infobox V3
 
 ## Description
 
-Half-fish, half-lion. A large brown fish with a black mane of a Lion, thus it's name. It has white blank eyes, with it's teeth visible. The fossil record suggests that Lionfish have caused many other predatory fish species to go extinct due to it completely outclassing them in size. It has likely existed for millions of years.
+A large brown fish with a black mane of a lion, hence it's name. It has white blank eyes, with it's teeth visible. The fossil record suggests that Lionfish have caused many other predatory fish species to go extinct due to it completely outclassing them in size. It has likely existed for millions of years.
 
   
 It drops a Lionfish Scale, which is used for crafting armor sets.
@@ -74,10 +74,10 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 ## Notes
 
 -   It is recommended to be roughly power 20 (preferably higher) to take on a lionfish.
--   Lionfishes do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
+-   Lionfish do not go directly for the ship but the players on it. To protect a ship, players must slow it down/stop it then jump in the water to move the lionfish away from the boat.
 -   If a Lionfish dives, you can still hit it if you are directly above it.
--   You can spawn a lionfish by fishing, however it has a really low chance of spawning
--   Will usually spawn if you happen to travel to [voidsea](Voidsea.md) and sail over certain bubble particles. These bubbles may also spawn the boss [Kaido](Dread_Serpent.md)
+-   You can spawn Lionfish by fishing with a low chance
+-   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail over certain bubble particles. These bubbles may also spawn the boss [Kaido](Dread_Serpent.md)
 -   Not confirmed, but the cero beam may be programmed to be used whenever the lionfish is on land.
     
     File:Big ass fish.jpg
