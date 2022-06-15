@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 32069
+revid: 32115
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -50,6 +50,7 @@ To use a Pluripotent Alloy, you must be at least power level 30 and equip an app
 -   Alloyed weapons will retain the quality (stars + buffs) of the original
 -   The alloy itself cannot be dropped, but the weapons can
 -   The alloy itself cannot be lost on-death
+-   You can own multiple pluripotent alloys though earning additional ones is completely rng unlike the first one you collect
 
 ## Which weapons are able to be alloyed?
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 31957
+revid: 32099
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -1228,6 +1228,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 ## Trivia
 
 -   The Adretian Authority was renamed into The Central Authority by Arch\_Mage. This change happened in 12/31/2021.
+-   Fan No-Life King lore made by The Aberrant Archive (WhiteWarbler) can be found here: [https://docs.google.com/document/d/1Tk1HarP-e0jFgwvcP1hhu5PrhT6oPF2\_0bbxt7J2qZo/edit?usp=sharing](https://docs.google.com/document/d/1Tk1HarP-e0jFgwvcP1hhu5PrhT6oPF2_0bbxt7J2qZo/edit?usp=sharing)
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   There are no Demigods in Deepwoken, confirmed by Arch\_Mage in 1/22/2022.
 -   In 2/22/2022, Arch\_Mage confirmed that Aratel Island wasn't sinking in the first place- as the Monsters encountered from the Deep were a bug.

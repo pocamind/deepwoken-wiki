@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 32084
+revid: 32105
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -24,7 +24,7 @@ categories: [Weapons, Weaponry, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Killing Primadon, You can get it on Summer island by handing over "Explosion" boxes. Also obtainable from Duke Erisia's chests. |
+| obtainment | The Depths, Killing Primadon, You can get it on Summer island by handing over "Explosion" boxes, Summer Isle events, Also obtainable from Duke Erisia's chests. |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
 “ Long and wiggly :D ”

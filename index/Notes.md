@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 23112
+revid: 32102
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,4 +37,3 @@ The max amount of notes you can carry is 10,000. Anything else more will just st
 ## Trivia/Notes
 
 -   Modifier buyers refer to Notes as "Sand Dollars," which is the same.
--   Notes aren't very useful, especially in trading, as their main (or only) use in the end-game is to upgrade mantras.
