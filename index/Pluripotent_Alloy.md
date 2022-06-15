@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 30646
+revid: 32069
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -12,7 +12,11 @@ categories: [Pages with broken file links]
 |---|---|
 | usage | Converts midgame weapons into stronger, endgame-level variants |
 
-_**"A liquid metal that can be applied to certain weapons to draw out inner strength. The discovery of the Pluripotent Alloys is said to have sparked the development of Ironsing during the Canticlysm."**_
+“ A liquid metal that can be applied to certain weapons to draw out inner strength. The discovery of the Pluripotent Alloys is said to have sparked the development of Ironsing during the Canticlysm. ”
+
+― Item description (I think?)
+
+  
 
 ## Description
 

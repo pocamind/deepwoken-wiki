@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 29046
+revid: 32092
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Rock Golems** (also referred to as Golems, or Erisian Golems) are large, bulky stone constructs with a distinct, glowing, white core, and three peculiar stone discs on it's "stomach," and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless.
+**Rock Golems** (also referred to as Golems, or Erisian Golems) are large, bulky stone constructs with a distinct, glowing, white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless.
 
 Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [The Garden Reservoir](The_Garden_Reservoir.md), but they can also be found throughout Upper Erisia fighting a [Megalodaunt](Megalodaunt.md) in an uncommon event. The black variant of Rock Golems known as Golem Prime and are found exclusively within [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), and are much deadlier than their original counterparts.
 

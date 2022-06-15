@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 32046
+revid: 32085
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,8 +8,11 @@ categories: [Pages with broken file links]
 
 # Attunement-less
 
-> _"Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Durability, Agility, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all." - Journal Of Jericho (probably)_
+“ Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Durability, Agility, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all. ”
 
+― Journal of Jericho
+
+  
 Attunement-less mantras consist of mantras that are chosen based on your attributes, similar to talents, rather than your attunements.
 
 **NOTE: Attunement-less mantras are rarer if you have an attunement. (Also very dependent on how much you have in said stat opposed to your attunement)**

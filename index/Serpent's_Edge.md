@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 28322
+revid: 32084
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -27,11 +27,15 @@ categories: [Weapons, Weaponry, Items]
 | obtainment | The Depths, Killing Primadon, You can get it on Summer island by handing over "Explosion" boxes. Also obtainable from Duke Erisia's chests. |
 | description | Despite popular opinion, the Serpent's Edge is actually a blade of Capra make, as opposed to one of Etrean make. It cuts just as well as any Etrean blade, however. |
 
+“ Long and wiggly :D ”
+
+― Unknown Felinor
+
 ## Description
 
 The Serpent's Edge is a popular endgame Medium Weapon, know for its iconic curved design, resembling a snake.
 
 ## Trivia
 
--   At max Medium Weapons, the Serpent's Edge is better than a [Shattered Katana](Shattered_Katana.md) in terms of damage and it also has 5% penetration
--   Pro tip: If your in a bad situation, quickly jump into water and spam R. Works best with [Portals](Portals.md) resonance.
+-   At max MED Weapons, the Serpent's Edge is better than the [Shattered Katana](Shattered_Katana.md) in terms of damage. It also has 5% penetration.
+-   Pro tip: If you're in a bad situation, quickly jump into water and spam R. Works best with the [Portals](Portals.md) resonance.

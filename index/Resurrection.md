@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 29643
+revid: 32070
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -51,3 +51,4 @@ Resurrection has 2 variants, with a common varying factor being the amount of HP
 -   When someone or something is getting resurrected, they cannot be damaged.
 -   Casting this resonance gives you hyperarmor. It won't cancel if you are hit, and you can cast it mid-stun.
 -   Keep in mind that the target can still be gripped if the star is active while they are downed/carried. The resurrection will not take place if the star fades during that time.
+-   If an ally's health drops below half resurrection users will be able to see their health.

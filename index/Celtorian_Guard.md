@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 32051
+revid: 32052
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,7 +28,3 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 \[[Trident Spear](Trident_Spear.md)\] Enters a stance before performing a quick swipe with spear.
 
  | ◯ | ◯ | (★☆☆) |
-
-## Trivia
-
--   They give different dialogue to fellow Celtor.

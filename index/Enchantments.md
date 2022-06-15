@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32022
+revid: 32098
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -48,7 +48,7 @@ As of March 27th 2022, enchant rates have been buffed 3x. As of April 11 2022, e
 
 **WHEN THE LAYER 2 UPDATE RELEASES ALL ENCHANT VFX MOSTLY FOR WEAPON WILL BE CHANGED!**
 
-Astral can only be obtained through a wishmaker. The only known wishmaker in-game as of now is Iltria. Wishmakers are not NPCs. They are players (developers, mods, etc.) who will join the game at times. If you meet them, you may ask for a wish. Do not stalk or harass wishmakers.
+Astral can only be obtained through a wishmaker. Iltria Dev Spec is being a Wish Maker (Dev Specs are only unique to one developer).
 
 **Weapons:**
 
@@ -81,8 +81,10 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
   <td><div><p>When Enchant Procs&nbsp;:<br>
-  Deals an extra 40% of the m1 damage.<br>
-  When the enchant proc's on the user is deals 10% less then the weapons base damage.</p></div></td>
+  Deals double m1 damage on proc for players<br>
+  deals an additional base dmg on proc for pve (like sharkos or stone knights)<br>
+  chance to receive ur base m1 damage.<br>
+  proof: <a href="https://streamable.com/v6alrh">https://streamable.com/v6alrh</a></p></div></td>
 </tr>
 </tbody>
 </table>
@@ -205,22 +207,22 @@ Will have an effect upon hitting something. Can range from status effects to mor
 <tr>
   <td><figure>File:Unstable.png<figcaption></figcaption></figure><div>Unstable</div></td>
   <td><div><p>Every weapon enchant are enabled. Randomly proc or activate the effect of an enchant on hit.<br>
-  <b>Enchant is disabled.</b></p></div></td>
+  <b>Enchant is disabled for Non-Moderators</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
   <td><div><p>On hit, gain the ability to pull the victim toward the user by pressing R. Flourishing make all subsequents attack fling the target upward.</p>
   <p>Tainted Sorrows is only obtainable through mod/dev rerolls. Deepwoken Moderators are the only people that can obtain this enchant on any weapon through moderation points/reward system.<br>
-  <b>Does not work on guns.</b></p></div></td>
+  <b>Enchant is disabled for Non-Moderators</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
   <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.<br>
-  </p></div></td>
+  <b>Enhcant is enabled for (original) players with fist</b> <b>Enchant is disabled for Non-Moderators</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Deal 20% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
+  <td><div><p>Deal 50% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>

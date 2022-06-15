@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 28025
+revid: 32067
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,9 +8,11 @@ categories: [Pages with broken file links]
 
 # Leveling
 
-# Power Level
+“ All that training, and for what? ”
 
-_"All that training, and for what?" - Unimpressed Etrean_  
+― Unimpressed Etrean
+
+# Power Level
 
 ## Description
 

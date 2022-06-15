@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 26732
+revid: 32074
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Uses]
@@ -12,13 +12,13 @@ categories: [Drops, Uses]
 
 * * *
 
-The Dark feather is a crafting item that is found from killing a [Owl](Deep_Owl.md) or a [Deep Owl](Deep_Owl.md). Not to be confused with the Corrupted Owl which will drop a Void Feather
+The Dark feather is a crafting item that is found from killing an [Owl](Deep_Owl.md) or [Deep Owl](Deep_Owl.md). Not to be confused with the Corrupted Owl, which drops a Void Feather.
 
 ## **Uses**
 
 * * *
 
-The Dark Feather is used in these crafts
+The Dark Feather is used in these recipes:
 
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Authority Commander Uniform](Authority_Captain_Uniform.md)

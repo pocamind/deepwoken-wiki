@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 31956
+revid: 32073
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss, Luck]
@@ -8,7 +8,7 @@ categories: [Boss, Luck]
 
 # Dread Serpent
 
-“ Dont worry, dude. All we need to do is sail to Boatman's Watch. There is absolutely no chance that anything will go wro- ”
+“ Don't worry dude. All we need to do is sail to Boatman's Watch. It'll be fine! Trust m- ”
 
 ― Last words of a level 40 Adret
 

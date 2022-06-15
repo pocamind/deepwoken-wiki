@@ -1,11 +1,15 @@
 ---
 title: Hemafrost
-revid: 25288
+revid: 32093
 source: https://deepwoken.fandom.com/wiki/Hemafrost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hemafrost
+
+“ A glowing sphere that emits ice energy. ”
+
+― Description (I think)
 
 The Hemafrost in the mantra shop at Isle of Vigils
 

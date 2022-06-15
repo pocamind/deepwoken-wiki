@@ -1,13 +1,13 @@
 ---
 title: Bosses
-revid: 31917
+revid: 32053
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Bosses
 
-"**Boss**" is a very loose term in Deepwoken. It ranges from the strongest [Enemies](Enemies.md) and [Monsters](Monsters.md), to those with unique spawns/drops, and even those that simply reward [Luck](Luck.md)/[Progress](Resonance.md). While nothing is REALLY a boss, the developers have given SOME recognition to a few foes.
+"**Boss**" is a very loose term in Deepwoken. It ranges from the strongest [Enemies](Enemies.md) and [Monsters](Monsters.md), to those with unique spawns/drops, and even those that simply reward [Luck](Luck.md)/[Progress](Resonance.md). The absolute definition of a boss is a mob which has the ability to give Pluripotent Alloy on death.
 
 Every opponent on these lists has either a:
 

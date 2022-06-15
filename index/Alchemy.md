@@ -1,11 +1,15 @@
 ---
 title: Alchemy
-revid: 25937
+revid: 32081
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Alchemy
+
+“ Yo, Mister White! ”
+
+― Young Etrean
 
 Alchemy is the process of creating potions at a cauldron. Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
 

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 30737
+revid: 32056
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -114,7 +114,7 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 ## Trivia
 
 -   There is _currently_ nothing special about this place other than the fast travel system. It is just another town.
--   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added.
+-   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added. (speculated to be 4 in total)
 -   Suri's Quest could be inspired by Hollow Knight, which also has a mission to deliver a delicate flower, which is destroyed if the player is in any danger
 -   Everyone inside Greathive Aratel is a Vesperian, except Laplace, who is a Ganymede.
 -   It is theorized that Laplace has a pre-requisite and can give you a quest. That pre-requisite is unknown, though.
