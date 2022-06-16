@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 28121
+revid: 32178
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -35,5 +35,5 @@ The Halberd is a Heavy Greataxe used by the Central Authority. It has a Base Dam
 
 ## Notes & Trivia
 
--   Since the alloy update, this weapon is reall good, the critical is a full radius of 360, it steals blood and it stuns.
+-   Since the alloy update, this weapon is really good, the critical is a full radius of 360, it steals blood and it stuns.
 -   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from Dark Souls 3.
