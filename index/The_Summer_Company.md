@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 32058
+revid: 32163
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -38,6 +38,18 @@ As with all other groups in the game, having too low of a reputation with the Su
 To restore your reputation with the Summer Company, head to the Bridge behind Fort Summer. At the end of the bridge, leaning against a pillar, is a Summer Company Guard reading a book. Talking to this NPC whilst your Reputation with the Summer Company is favourable will not result in anything, however, if you speak to them whilst you are considered an Enemy of the Summer Company, they inform you that they "Collect the crime tax around here", and will restore your reputation with the Summer Company to being favourable for a price of approximately 150 notes (On average.)
 
 In addition, completing the Explosives Crate quest will allow you to increase your reputation with the Summer Company.
+
+### **Dialogue**
+
+Neutral Reputation:
+
+-   "If you aren't going to buy something, then leave."
+-   "If I see you near the storage room, you're dead."
+
+Neutral-Bad Reputation:
+
+-   "Keeping your hands to yourself, thief."
+-   "I've got my eye on you."
 
 ## NPCs
 

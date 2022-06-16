@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 32050
+revid: 32164
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -39,6 +39,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 ### Drops
 
 -   Shattered Katana
+-   Iron Birch
 -   Black Scarf
 -   Diamonds
 -   Platinum Bars

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 27425
+revid: 32161
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
