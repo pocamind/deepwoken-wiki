@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 29995
+revid: 32158
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -40,7 +40,7 @@ This Outfit's Schematic can be found in:
 
 -   Has the highest Ether regen buff in the game currently.
 
--   The only armour in the game that adds a collar to your head.
+-   ~The only armour in the game that adds a collar to your head.~ Not true, Verdant Sniper also adds a green collar.
 
 -   Shirt ID: [https://www.roblox.com/catalog/5049282750/Dark-Mage](https://www.roblox.com/catalog/5049282750/Dark-Mage)
 

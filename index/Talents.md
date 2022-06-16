@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32044
+revid: 32154
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -701,6 +701,13 @@ Most of these Talents are meant to let you stay on the field longer and improve 
     -   Prerequisites: Bloodiron Spirit
 -   Thresher Claws \[Rare Talent\] - All of your attacks have 10% more PEN. (+9 Health)
 -   Aggressive Posture \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+
+### Master Survivalist
+
+-   Survival Kit \[Rare Talent, ???\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
+    -   Flint have infinite durability.
+    -   Obtainement: Wipe with Herbivore, Iron Gut and Termite.
+    -   Requirement: ???
 
 ### Meditative Trance
 
