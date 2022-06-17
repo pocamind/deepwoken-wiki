@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32154
+revid: 32190
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -180,13 +180,18 @@ These Talents are designed to improve fishing. Unlike most other talents, they a
 
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
+-   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
+-   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
+-   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
+-   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+3 Health, +1 Sanity)
+    -   From: Perseverance
+    -   Prerequisite: Atleast 90 Fortitude and 90 Willpower (Needs to be tested)
+    -   You do not ragdoll from moves that ragdoll normally (e.g. Strong Left, Grand Javelin, Wind Gun etc.)
+-   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
+-   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
+
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+4 Health, +1 Carry Load)
     -   Negate movement speed penalty of blocking.
--   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
--   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
--   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you defense. (+3 Health, +9 Carry Load)
--   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+3 Health, +10 Sanity)
--   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
 -   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+3 Health, +3 Sanity)
     -   Knock timer is reduced to ?? seconds instead of the usual 10.
 -   Reinforced Armor \[Legendary Talent\] - Incoming PEN is reduced by 30%. (+10 Ether, +9 Health)
@@ -798,9 +803,9 @@ These are just raw stat increase and are beneficial to anyone.
 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
 -   All knowing \[Rare Talent\] - your prediction now ignores the range requirement to reflect attacks. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: Prediction (Intelligence Mantra)
+    -   Prerequisite: 80 Intelligence + Prediction (Intelligence Mantra)
 -   Successive Prediction \[Rare Talent\] - Predicting an attack will briefly allow you to predict another. (+3 Elemental Intensity, +10 Ether)
-    -   Prerequisite: Prediction (Intelligence Mantra)
+    -   Prerequisite: 80 Intelligence + Prediction (Intelligence Mantra)
     -   Allows you to reflect the entirety of multi-hit moves (such as enforcer's spin attack)
 
 ### One Eyed King

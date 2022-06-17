@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 31299
+revid: 32196
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Reputation, Random Encounters]
@@ -34,9 +34,9 @@ Compared to it's player counterpart, this attack is very deadly and can deal up 
 ## Trivia
 
 -   The weapon they spawn with appears to affect their chance of winning:
-    -   **Fists:** Almost always results in victory.
-    -   **Champion sword:** Will only lose if the Authority Commander also has a sword.
-    -   **Spear:** Loss.
+    -   **Legion Kata:** Almost always results in victory.
+    -   **Champion's Sword:** Will only lose if the Authority Commander also has a sword.
+    -   **Ritual Spear:** Loss.
 -   The Legion Captain, after killing the Authority Commander, instantly aggravates on the nearest enemy NPC, regardless if through a wall, **killing the NPC will most probably make the Captain despawn if it doesn't have anymore targets**, therefore, you will not be able to talk to them.
 -   Along with the Javelin Captain, he's one of the strongest NPCs due to all of his mantras and being able to "spam" them.
 -   Normally called "Legion Centurion" or just "Khan" by the playerbase.
