@@ -1,13 +1,13 @@
 ---
 title: Legion Sniper
-revid: 31919
+revid: 32239
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Legion Sniper
 
-Template:Creature Info Box v2
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -24,11 +24,13 @@ According to Amara, these Legion Javelin Captain are hostile to "outlanders", wh
 
  | ◯ | (★★★) |
 
-  
+### Boons
 
-## Tips & Tricks
+-   Grand Skewer - Grand Javelin now carries opponents with it through the skies.
 
--   This Captain is always hostile, no matter your Reputation with the Legion, **You will not lose Reputation from killing this one.**
+## Tips
+
+-   This Captain is always hostile, no matter your Reputation with the Legion, **you will not lose Reputation from killing this one.**
 -   He will let you get 2 hits in (With a medium weapon) Before parrying the 3rd, so **just hit it twice and prepare to parry his Javelin.**
 -   Using bolt piercer or shard bow, or any projectile-based mantras **will make him walk towards you a few steps,** they can also aim their javelins, but only at further ranges.
 -   If you don't know how to fight them, approach them with caution, **they insta-grip you if you're low enough on health**, but due to their statue-like nature, it's easy to walk away, get on like a hill or cliff, heal and come back.

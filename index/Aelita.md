@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 32164
+revid: 32244
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -50,6 +50,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Justicar Defender (all colors)
 -   Headbands (all colors)
 -   Moon Ring
+-   Akira's ring
 
 ## Trivia
 

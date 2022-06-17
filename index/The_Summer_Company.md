@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 32202
+revid: 32231
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -23,7 +23,7 @@ notices:
 
 The Summer Company is a faction that operates in their fortified island, the **[Summer Isle](Summer_Isle.md)** in [The Aratel Sea](The_Aratel_Sea.md).
 
-As their name implies, they are a merchant Company that provides firearms.
+As their name implies, they are a merchant Company that are the Deepwoken world's chief supplier of firearms.
 
 ## **Lore**
 
@@ -41,15 +41,19 @@ In addition, completing the Explosives Crate quest will allow you to increase yo
 
 ### **Dialogue**
 
+Neutral-Good Reputation:
+
+-   "Did you make any new discoveries?"
+
 Neutral Reputation:
 
 -   "If you aren't going to buy something, then leave."
--   "If I see you near the storage room, you're dead."
+-   "If I see you near the storage rooms, you're dead."
 
 Neutral-Bad Reputation:
 
--   "Keeping your hands to yourself, thief."
--   "I've got my eye on you."
+-   "Keep your hands to yourself, thief."
+-   "We've got our eye son you."
 
 ## NPCs
 

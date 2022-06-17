@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32201
+revid: 32240
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -302,6 +302,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Crit procs are rolled for each individual target, not per swing.
     -   Only works on daggers.
     -   Crit procs are indicated by a red visual effect.
+    -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
+        -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
     -   Prerequisite: 25 Light Weapon Mastery
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   Prerequisite: Knife's Journey \[Rare Talent\]

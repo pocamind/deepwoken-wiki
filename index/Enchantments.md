@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32223
+revid: 32236
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Character, Weapons, Enemies, Locations, Boss, Remove, Talents, Items]
@@ -73,10 +73,10 @@ Will have an effect upon hitting something. Can range from status effects to mor
   <td><div><p>M1s deal 10% more damage and have increased blood damage. Missing an M1 deal 1% of max hp as self damage. Blocked/Parried/Dodged hits do not count as a miss. Self-Damage does not Proc when below 10%HP.</p></div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
+  <td><figure>File:New-nlk2.png<figcaption></figcaption></figure><div>Curse of the No-Life King</div></td>
   <td><div><p>Gives insanity on hit and grant passive health regen while the curse is equipped. Healthbar is permanently stained. 2x bloodloss in the Etrean Luminant. -100 sanity when this weapon is equipped.<br>
   <b>This enchant is disabled in Arena</b><br>
-  <b>The effects of the Viscosity are disabled if using this curse.</b></p></div></td>
+  <b>Viscosity is Disabled</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
@@ -211,14 +211,14 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Tainted sorrow.png<figcaption></figcaption></figure><div>Tainted Sorrow</div></td>
-  <td><div><p>On hit, gain the ability to pull the victim toward the user by pressing R. Flourishing make all subsequents attack fling the target upward.</p>
-  <p>Tainted Sorrows is only obtainable through mod/dev rerolls. Deepwoken Moderators are the only people that can obtain this enchant on any weapon through moderation points/reward system.<br>
-  <b>Enchant is disabled for Non-Moderators</b></p></div></td>
+  <td><div><p>On hit, gain the ability to pull the victim toward the user by pressing R. Flourishing make all subsequents attack fling the target upward.<br>
+  <b>Enchant is disabled for Non-Moderators</b><br>
+  <b>Enchant is enabled for (original) players with fist</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Providence.png<figcaption></figcaption></figure><div>Providence of Storms</div></td>
   <td><div><p>Weapon gain a massive attack speed increase. No movement speed penalty (heavy weapon only). Parrying attacks reflect the damage to the attacker.<br>
-  <b>Enhcant is enabled for (original) players with fist</b> <b>Enchant is disabled for Non-Moderators</b></p></div></td>
+  <b>Enchant is disabled for Non-Moderators</b></p></div></td>
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
@@ -226,7 +226,8 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>
-  <td><div><p>A super charged attack on proc.</p></div></td>
+  <td><div><p>A super charged attack on proc.<br>
+  <b>Zithori Vhemm Rybak Diri Dev Spec</b></p></div></td>
 </tr>
 </tbody>
 </table>

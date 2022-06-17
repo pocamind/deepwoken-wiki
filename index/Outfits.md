@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32192
+revid: 32229
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -221,7 +221,7 @@ _\+ Talent: Blinded_
 |  | Polarized Eyeglasses | Grants a random buff. | Minityrsa Chests, Songseeker Chests | N/A |
 |  | HiveLord Mask | Cosmetic | Hive Contructs | N/A |
 |  | Iron Mask | Cosmetic | Erisia Chests | N/A |
-| File:Songseekermask.png | Songseeker Mask | Cosmetic | Songseeker Mobs | Blue, Green & Red |
+| File:Songseekermask.png | Royal Guard | Cosmetic | Songseeker Mobs, Duke of Erisia chest | Blue, Green & Red |
 | File:Smith Goggles.png | Smith Goggles | Cosmetic | Erisia Chests | N/A |
 |  | Warrior's Eyepatch | Cosmetic | Hive Chests | N/A |
 
