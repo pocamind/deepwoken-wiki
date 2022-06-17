@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 32163
+revid: 32202
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -21,9 +21,9 @@ notices:
 
 ## Description
 
-The Summer Company is a faction that operates in their fortified island, the **[Summer Isle](Summer_Isle.md)** in the Aratel Sea.
+The Summer Company is a faction that operates in their fortified island, the **[Summer Isle](Summer_Isle.md)** in [The Aratel Sea](The_Aratel_Sea.md).
 
-As their name implies, they are a merchant Company that provides firearms to The Authority.
+As their name implies, they are a merchant Company that provides firearms.
 
 ## **Lore**
 

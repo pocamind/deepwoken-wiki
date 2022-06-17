@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 31481
+revid: 32216
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,4 +11,26 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Etrean Sailor is a variant of the Etrean Footsoldier, being virtually identical apart from lacking any mantras and wearing a purple uniform.
+An Etrean Guard is a enemy NPC that can only be found in the following events:
+
+-   Etrean Guards vs Knives of Eylis Pirates
+-   Invasion of Etris
+
+An Etrean Guard wears a purple uniform with their race being an [Etrean](Etrean.md) along with their gender varying.
+
+## Moveset
+
+An Etrean Guard's arsenal consists of a [Battleaxe](Battleaxe.md):
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings axe at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Raises axe before slamming it into the ground below. | ◯ | ✗ | (★★☆) |
+
+## Finisher
+
+An Etrean Guard executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before slicing their throat with axe. |

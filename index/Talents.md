@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32190
+revid: 32201
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -186,7 +186,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Brick Wall \[Common Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+3 Health, +1 Sanity)
     -   From: Perseverance
     -   Prerequisite: Atleast 90 Fortitude and 90 Willpower (Needs to be tested)
-    -   You do not ragdoll from moves that ragdoll normally (e.g. Strong Left, Grand Javelin, Wind Gun etc.)
+    -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
 -   Firmly Planted \[Common Talent,, Fortitude\] - All slow debuffs towards you are cut in half. (+3 Health, +5 Sanity)
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower. (+2 Health)
 

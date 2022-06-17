@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 31901
+revid: 32211
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,13 +12,16 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Ignition Union Guard is a type of enemy NPC that spawns during Ignition Union vs Akira and Ignition Union vs Summer Company events. Interactable only after Ignition Union vs Summer Company event finishes.
+An Ignition Union Fighter is a type of enemy NPC that can spawn in the following events:
+
+-   Ignition Union vs Akira in [The Depths](The_Depths.md)
+-   Ignition Union vs Summer Company events. Interactable only after Ignition Union vs Summer Company event finishes.
 
 They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 
 ## Moves
 
-An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md):
+An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -30,7 +33,7 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or [Da
 
 ## Finisher
 
-An Ignition Union Guard executes the player after knocking them:
+An Ignition Union Fighter executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -38,7 +41,7 @@ An Ignition Union Guard executes the player after knocking them:
 
 ## Tips
 
--   When you're fighting an Ignition Union Guard, treat them like an [Bandit Captain](Bandit_Leader.md) but with more health.
+-   When you're fighting an Ignition Union Fighter, treat them like an [Bandit Captain](Bandit_Leader.md) but with more health.
 -   Apply standard humanoid fighting tactics.
 -   They don't use mantras. It is easy to escape them when you're getting low.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.

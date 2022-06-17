@@ -1,9 +1,9 @@
 ---
 title: Flamecharm
-revid: 31880
+revid: 32205
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Spells, Magic, Mantras]
+categories: [Spells, Magic, Mantras]
 ---
 
 # Flamecharm
@@ -81,7 +81,7 @@ _An exertion of flames._
 -   Compatible with Cloud/Stratus Stones.
 
  |
-| File:Снимок экрана 2021-12-31 211752.png | 
+|  | 
 
 Burning Servants
 
@@ -89,12 +89,12 @@ Burning Servants
 
 _A legion of flames._
 
- | User conjures seven burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
+ | User conjures six burning warriors in a circle and attacking one after the other in quick succession at the position of the caster, before all striking one final time at the center.
 
 -   Deals moderate damage.
 -   Burns target(s).
 -   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras), as both do the same thing and can be modified with a Reversal Spark to achieve the same effect.
--   Can be modified with [Cloudstone](Mantra_Modifiers.md).
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors.
 
  |
 |  | 
