@@ -1,13 +1,13 @@
 ---
 title: Hive Construct
-revid: 30722
+revid: 32182
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Hive Construct
 
-_Also known as Hive Mechs, Life Weaver Golem, Senju, Forest Golems, or Obsidian Golems_
+_Also known as Hive Mechs, Life Weaver Golem, Transformers, Mechs, Golems, Senju, Forest Golems, or Obsidian Golems_
 
 Template:Creature Infobox V3
 
@@ -74,7 +74,7 @@ They have a brown wood-like appearance, with foliage around their legs, resembli
 -   Can easily kill you even at level 60 if you're solo and inexperienced.
 -   Usually not worth fighting. Even if you try, this Construct will obscure your vision with trees all the time.
 -   They talk if the Authority Commander that spawns with it at Starswept Valley is defeated, mocking the Central Authority.
--   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro the Meteor Knights, the opposite is also true.
+-   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro the [Meteor Knights](Stone_Knight.md), the opposite is also true.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
 -   Can win every fight with another [monster](Monsters.md) in Starswept Valley. (Works with Stone Knight even prioritises it above Authority Commander)
 -   Hive Constructs can drop Pomars upon death.

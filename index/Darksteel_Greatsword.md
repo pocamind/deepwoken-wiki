@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 32148
+revid: 32183
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -13,11 +13,12 @@ categories: [Weapons, Greatswords]
 | type | Heavy Greatsword |
 | requirements | 40 HVY, 10 STR |
 | damage | 26 |
-| scaling | 7 |
+| scaling | 78 (Alloyed) |
 | range | 9 |
 | swing speed | 0.6x |
 | endlag | 0.1s |
 | penetration | 0% |
+| chip damage | 10% (Alloyed) |
 | special effect | N/A |
 | selling price | N/A |
 | weight | 9 |
