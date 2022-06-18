@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 31753
+revid: 32275
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -1012,7 +1012,7 @@ File:Shadow Chains with Reversal Spark.gif
 
  | 
 
--   (Work in Progress)
+-   (This mantra and spark are incompatible, I don't know why this was added here.)
 
  |
 | 
