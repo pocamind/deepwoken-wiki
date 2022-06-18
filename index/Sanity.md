@@ -1,13 +1,17 @@
 ---
 title: Sanity
-revid: 6570
+revid: 32260
 source: https://deepwoken.fandom.com/wiki/Sanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Sanity
 
-_"Do you know the definition, of insanity?" - Crazed Stranded_
+“ Do you know the definition of insanity? ”
+
+― Crazed Stranded
+
+  
 
 ## Description
 

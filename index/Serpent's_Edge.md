@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 32105
+revid: 32265
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -29,7 +29,7 @@ categories: [Weapons, Weaponry, Items]
 
 “ Long and wiggly :D ”
 
-― Unknown Felinor
+― Unknown Ganymede
 
 ## Description
 

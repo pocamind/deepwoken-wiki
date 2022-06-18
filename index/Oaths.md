@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 31488
+revid: 32262
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents]
@@ -69,8 +69,6 @@ Obtaining Blindseer is harder than Oathless (minus the entire not having a level
 5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer._
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=7NfG6_JiFdQ)._
-
-Once unlocked you can progress the bell by reading the glyphs at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
 You can unlock the abilities by helping players escape the depths trial. Each complete Depths trial saving another player substantially lower level than you, while being kept alive, will gain you Blindseer progress.
 

@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 32172
+revid: 32264
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -8,7 +8,9 @@ categories: [Pages with broken file links, Talents, Character]
 
 # Murmur
 
-"Become Sharko" - Journal of Jerico
+“ Become Sharko ”
+
+― Journal of Jerico
 
 File:Ardour Scream gif.gif
 
@@ -62,9 +64,11 @@ Unlike Ardour, Ardour Scream does **NOT** need to be trained.
 
 Template:ImageCaption Infobox _"An application of the song that enables the user to suppress their own Murmur. Press T while crouched."_
 
-Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signalled with an inward ring for activation or an outward ring for deactivation.
+Murmur: Tacet is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them. This will not be obvious to the user but will be signaled with an inward ring for activation or an outward ring for deactivation.
 
-The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will deaggro when Tacet is activated.
+The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will de-aggro when Tacet is activated.
+
+Tacet has two different ranges, one for NPCs and one for players. Tacet's NPC detection range is much smaller than the player detection range, allowing the user to easily crouch infront of NPCs, this includes monsters such as golems, megalodaunts, etc. If the NPC is a humanoid, you are able to push them from behind and they will not aggro. Activating Tacet while being pursued by NPCs while they are out of range will immediately de-aggro them. It is not known if the range of Tacet for NPCs is determined by it's "training level."
 
 When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). It takes ~700 activations to max out the murmur, and the minimum detection range for players is ~40 studs.
 
