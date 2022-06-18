@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 31541
+revid: 32280
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -24,6 +24,12 @@ categories: [Weapons]
 | obtainment | Enforcer Drop |
 | description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
 
+“ Oh shit it's an Enforcer Axe. From my experience, they're either boosted as fuck or they will whoop your ass in mere seconds. There is no in between. ”
+
+― Jonathan Talo
+
+  
+
 ## Description
 
 The Enforcer's Axe is a Heavy Weapon that is obtainable by defeating an [Enforcer](Enforcer.md) in [The Depths](The_Depths.md) or in the Trial of One, It has 26 base damage and a Swing Speed of 0.55x.
@@ -32,4 +38,4 @@ The Enforcer's Axe is a Heavy Weapon that is obtainable by defeating an [Enforce
 
 -   If you want to grind for the Enforcer's Axe, then you'll need to be Power 50+ since Enforcers are guaranteed after that level range when taking your trial.
 -   At 100 heavy, the Enforcer's Axe does 52 damage.
--   Enforcer's Axe is considered one of the best greataxes in Deepwoken.
+-   Enforcer's Axe is considered one of the best Greataxes in Deepwoken.

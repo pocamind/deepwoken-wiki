@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 32230
+revid: 32284
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ An Etrean Guard is a enemy NPC that can only be found in the following events:
 
 -   Etrean Guards vs Knives of Eylis Pirates
 -   Invasion of Etris
--   Etrea vs Authority
+-   Etrea vs Authority (Upper Erisia)
 
 An Etrean Guard wears a purple uniform with their race being an [Etrean](Etrean.md) along with their gender varying.
 
