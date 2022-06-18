@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 32211
+revid: 32302
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,6 +30,10 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Raises blade upward before slamming it down to the ground.
 
  | ◯ | ◯ | (★★☆) |
+
+### Boons
+
+-   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ## Finisher
 

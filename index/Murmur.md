@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 32266
+revid: 32294
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -68,7 +68,7 @@ Murmur: Tacet is a Murmur that, when active, makes the user completely invisible
 
 The only actions a user can perform during Tacet are movement, such as sliding and rolling. Pulling out a weapon, activating a mantra, or interacting with the world will deactivate Tacet and reveal your location. NPCs will also not aggro you while you are invisible, and will de-aggro when Tacet is activated.
 
-Tacet has two different ranges, one for NPCs and one for players. Tacet's NPC detection range is much smaller than the player detection range, allowing the user to easily crouch infront of NPCs, this includes monsters such as golems, megalodaunts, mudskippers, etc. Once Tacet is trained enough, NPCs will no longer aggro on you, regardless of distance when Tacet is active. (You are able to physically touch and push hostile NPCs without them noticing you.)
+Tacet has two different ranges, one for NPCs and one for players. Tacet's NPC detection range is much smaller than the player detection range, allowing the user to easily crouch infront of NPCs, this includes monsters such as golems, megalodaunts, mudskippers, etc. Once Tacet is trained enough, NPCs will no longer aggro on you, regardless of distance when Tacet is active, letting you physically touch and push hostile NPCs without them noticing you. Tacet's NPC range is only determined by it's "training level". Having poor stealth or the Obvious flaw will not impact Tacet.
 
 When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). It takes ~700 activations to max out the murmur, and the minimum detection range for players is ~40 studs.
 

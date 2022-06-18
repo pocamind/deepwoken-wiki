@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 31966
+revid: 32312
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -77,7 +77,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td>Generally considered not worth it unless you have a Deep Gem you don't plan on using</td>
 </tr>
 <tr>
-  <td>Kana</td>
+  <td><a href="Kana.md">Kana</a></td>
   <td><a href="The_Central_Authority.md">The Authority</a></td>
   <td><a href="Fort_Merit.md">Fort Merit</a></td>
   <td>None</td>
@@ -140,7 +140,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
   <td></td>
 </tr>
 <tr>
-  <td>Nyanna</td>
+  <td><a href="Nyanna.md">Nyanna</a></td>
   <td><a href="The_Divers.md">The Divers</a></td>
   <td></td>
   <td>Equipment Vendor</td>

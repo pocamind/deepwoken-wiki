@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 32134
+revid: 32296
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,6 +23,10 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) and th
 | --- | --- | --- | --- | --- |
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
+
+### Boons
+
+-   Experienced Fighter - Can parry and block common attacks and mantras.
 
 ## Finisher
 

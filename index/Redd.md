@@ -1,17 +1,22 @@
 ---
 title: Redd
-revid: 29979
+revid: 32292
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Redd
 
+“ WHY IS IT CALLED A REDD WHEN IT IS CLEARLY ORANGE?? \*Flips Table\* ”
+
+― A Confused Yet Frustrated Celtor
+
+  
 Template:Food Template V1
 
 ## Description
 
-A small fruit found in many places all across the Etrean Luminant. They grow on trees, with around 5-7 Redds per tree. If you bring a few of these with you on a trip, they can save you for a while from dehydration or starvation.
+A small fruit found in many places all across the Etrean Luminant. They grow on trees, with around 5-8 Redds per tree. If you bring a few of these with you on a trip, they can save you for a while from dehydration or starvation.
 
 ## Recipes used in
 

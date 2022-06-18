@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 32248
+revid: 32310
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -46,7 +46,3 @@ A Legion Soldier executes it's opponent after knocking them:
 \[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
 
  |
-
-## Trivia
-
--   They would win a fight in terms of appearance.
