@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 32255
+revid: 32335
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -1176,7 +1176,7 @@ Weapons that scale with a certain element
 
 ## Calculating Damage and Attack Speed
 
-Players can use [this formula](https://www.desmos.com/calculator/sbokgffwxn) to figure out their complete damage.
+Players can use this formula to figure out their complete damage.
 
 _**Damage = BaseDmg + AttributeLevel((BaseDmg / 1000) ⋅ Scaling))**_
 

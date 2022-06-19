@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 32294
+revid: 32337
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character]
@@ -22,9 +22,9 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective that allow
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more and it is possible there will be more introduced in the future, however, there is no proof of any others existing or being obtainable (Aside from Adagio, which is used by The Knives of Eylis captains but not obtainable for now).
+Currently, there are only two known obtainable Murmurs; [Ardour](#murmur-ardour) and [Tacet](#murmur-tacet). It is possible there are more and it is possible there will be more introduced in the future, however, there is no proof of any others existing or being obtainable.
 
-Similar to Haki from One Piece, though you can only get one murmur.
+You can only get one murmur.
 
 ## Training Murmurs
 
@@ -71,6 +71,8 @@ The only actions a user can perform during Tacet are movement, such as sliding a
 Tacet has two different ranges, one for NPCs and one for players. Tacet's NPC detection range is much smaller than the player detection range, allowing the user to easily crouch infront of NPCs, this includes monsters such as golems, megalodaunts, mudskippers, etc. Once Tacet is trained enough, NPCs will no longer aggro on you, regardless of distance when Tacet is active, letting you physically touch and push hostile NPCs without them noticing you. Tacet's NPC range is only determined by it's "training level". Having poor stealth or the Obvious flaw will not impact Tacet.
 
 When you first obtain Tacet you can be spotted from far away, making it relatively useless. However, you can reduce this "spotting range" by training it (repeatedly using it). It takes ~700 activations to max out the murmur, and the minimum detection range for players is ~40 studs.
+
+Once Tacet is fully trained, 2 rings will appear when activating/deactivating instead of 1. (Could other Tacet users back this up? I've recently received Tacet and have been using it a lot, and suddenly two rings appear instead of one. Might be a Roblox bug.)
 
 Murmur: Tacet can be obtained by completing 16 assassinations for [Cestis](Cestis.md) at [The Hidden Village](The_Hidden_Village.md).
 
