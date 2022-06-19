@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32240
+revid: 32324
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Character, Luck, Rare Talents, Legendaries, Races, Attunement, Attributes, Magic, Spells, Weapons, Weaponry, Fishing, Food, Armors, Boss, World, Combat Mantras]
@@ -1138,11 +1138,16 @@ These Talents are designed to make you more effective in water.
 ### Whisper
 
 -   Haunted Gale \[Common Talent\] - Every 5 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
-    -   Prerequisite: Master Galebreather/50 Galebreathe
+    -   Prerequisites: Master Galebreather/50 Galebreathe
 
 ### Windrunner
 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest. (+10 Ether, +9 Health)
+
+### Wraith
+
+-   Concentrated Reload \[Rare Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
+    -   Prerequisites: Ether Bullets
 
 ### **Miscellaneous**
 

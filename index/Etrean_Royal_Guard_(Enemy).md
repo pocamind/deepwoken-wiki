@@ -1,8 +1,9 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 31889
+revid: 32319
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Etrean Royal Guard (Enemy)

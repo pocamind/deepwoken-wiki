@@ -1,17 +1,12 @@
 ---
 title: Songseeker Flamecharmer
-revid: 32040
+revid: 32321
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Songseeker Flamecharmer
 
-“ STOP USING FLAME REPULSION ”
-
-― An poor Felinor who encountered one of these guys.
-
-  
 Template:EnemyInfobox1.0 **Flamecharmer Monks** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description

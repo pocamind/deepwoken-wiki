@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 32205
+revid: 32322
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras]
@@ -347,6 +347,42 @@ _Undying flame._
 
 ## **Talents**
 
+**Falling Star Guard:**
+
+These are talents found in "_Falling Star Guard_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Meteor Impact
+
+ | 
+
+Aerial moves will follow up into a devastating slam.
+
+ | 
+
++3 Elemental Intensity FROM: Flamecharmer
+
+ |
+| 
+
+ | 
+
+Phoenix Impact
+
+ | 
+
+If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
+
+ | 
+
++3 Elemental Intensity +3 Health FROM: Meteor Impact
+
+ |
+
 **Flamecharmer:**
 
 These talents are found in the "_Flamecharmer_" Category.
@@ -373,7 +409,7 @@ Caster uses a small amount of ether to create a small ember in their hands, used
 
 Flame Within
 
- | Set yourself ablaze.
+ | An Application of Pleetsky's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra strength and speed.
 
 -   Active Ability.
 
@@ -398,6 +434,27 @@ Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F
 
  |
 
+**Flame Dancer:**
+
+These are talents found in "_Flame Dancer_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Dancing Steps
+
+ | 
+
+Fire mantras now move you in the direction you'rr facing.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+
 **The Emperor's Blade:**
 
 These are talents found in "_The Emperor's Blade_" Category.
@@ -405,6 +462,21 @@ These are talents found in "_The Emperor's Blade_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+ | 
+
+Emperor Flame
+
+ | 
+
+Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
+
+ | 
+
++4 Elemental Intensity +3 Health FROM: Flamecharmer
+
+ |
+| 
+
  | 
 
 Mirage Clone
@@ -507,6 +579,21 @@ These talents are found in the "_Inferno_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+ | 
+
+Agitating Spark
+
+ | 
+
+If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+
+ | 
+
++3 Elemental Intensity FROM: Flamecharmer
+
+ |
+| 
+
  | 
 
 Pleetsky's Faith

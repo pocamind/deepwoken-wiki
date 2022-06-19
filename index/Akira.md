@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 32161
+revid: 32334
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ The Bell in question allows Akira to instantaneously grip any entity Akira wishe
 
 Outside of his tough persona, Akira is actually relatively inexperienced and unseasoned as a Black Diver. As a result, he is the only Black Diver present on the First Layer.
 
-A player with an extremely high amount of Charisma can intimidate him into retreating via a Thundercall ability/mantra (perhaps an advanced application of an alternative or modified Spark Swap? Or even a Thundercall equivalent to Shadowcast's Shadow Travel?). Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without sapping a large portion of his strength, and thus retreats to another area.
+A player with an extremely high amount of Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without sapping a large portion of his strength, and thus retreats to another area.
 
 ## Meeting
 
@@ -118,12 +118,10 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 Once you reach [Castle Light](Castle_Light.md), you're only able to pass the barrier and go inside if you have entered [the Depths](The_Depths.md) via the Whirlpool. You can find him inside the Main Hall and he gives you the option to join [the Divers](The_Divers.md). The guild does not currently come with benefits, and it removes your guild. However, we know about some planned features: such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
 
-There is no level requirement to joining [the Divers](The_Divers.md), I was able to do it at level 1.
+There is no level requirement to joining [the Divers](The_Divers.md).
 
 ## Trivia
 
 -   He has a purple colored [bell](Resonance.md), it is unknown if he used this to kill the Ignition Union members or its simply a known/unknown [resonance](Resonance.md). Since it has purple effect on use, it may be Corrupted.
 -   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons something that could be called an Ice Wisp above him, before it fires a laser across the ground in front of him, creating a line.
--   He is a Black Diver, in lore there is little to none of them. The frostdraw and thundercall trainers may also be Black Divers, but it is unconfirmed.
-
-DM Enklerical#2225 for any other info on NPC or with information that isn't on this page.
+-   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
