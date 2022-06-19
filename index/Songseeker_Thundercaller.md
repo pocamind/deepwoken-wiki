@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 32320
+revid: 32341
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,7 +44,7 @@ Jolt Grab
 
  | 
 
-Rushes the opponent and slams them into the ground, sending out a small AOE around you if it lands.
+Teleports to the nearest target before sending out a shocking AoE.
 
  | ◯ | ◯ | (★★☆) |
 | 
@@ -68,9 +68,10 @@ A stream of lightning that hooks onto an opponent before shocking them multiple 
 
 ### **Boons:**
 
+-   Experienced Fighter - Can parry and block common attacks and mantras.
 -   Third Eye - A Songseeker Thundercaller cannot be assassinated.
 -   High Supply - A Songseeker Thundercaller has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
--   Mantra Modification - A Songseeker Thundercaller's "Lightning Stream" mantra is modified with a [Blast Spark](Mantra_Modifiers.md).
+-   Mantra Modification - A Songseeker Thundercaller's "Jolt Grab" and "Lightning Stream" mantra are modified with a [Magnet Spark](Mantra_Modifiers.md) and [Blast Spark](Mantra_Modifiers.md).
 
 ## Finisher
 

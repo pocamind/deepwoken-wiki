@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32229
+revid: 32340
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -179,6 +179,7 @@ _Requires Fortitude 10_
 
  | Duke Chests, Depths, Golden Warrior Erisia Event, Artifact Turn-ins | N/A |
 | File:Guardian helm.png | Guardian Helm | Grants a random buff. | Artifact Turn-ins, Primadon Chests | N/A |
+| File:Guard's Kabuto.png | Guard's Kabuto | Grants a random buff. | (Work in Progress) | N/A |
 | 
 
 File:Khan Helmet.png
@@ -501,12 +502,13 @@ _\+ 2 Health_
 | File:Ranger Boots.png | Ranger's Boots | Grants a random buff. | Hive Chests, Arena Chests | N/A |
 |  | Redsteel Boots | Grants a random buff. | Arena Chests, Depths Chests, Fort Merit Chests | N/A |
 | File:Khanboots.png | Khan Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
+|  | Silver Sabatons | Grants a random buff. | Hive Chests | N/A |
 |  | Star Boots | Grants a random buff.
 
 _Requires Power 30_
 
  | Primadon Chests, Depths Chests | N/A |
-|  | Vanguard Boots | Grants a random buff. | Hive Chests | N/A |
+|  | Vanguard Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 
   
 

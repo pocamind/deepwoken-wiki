@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 32125
+revid: 32342
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -50,7 +50,7 @@ Thunder Kick
 
 ### **Boons:**
 
--   Experienced - Can parry and and block attacks most of the time.
+-   Experienced Fighter - Can parry and and block common attacks and mantras.
 -   Mantra Modification - An Authority Footsoldier's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
 
 ## Finisher

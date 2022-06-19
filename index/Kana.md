@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 31131
+revid: 32346
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,7 @@ Kana is an interactable NPC located in [Fort Merit](Fort_Merit.md). She is stand
 
 ## Trivia
 
--   Currently unknown what mantra/ability is she using to do that and is there any way to interact with her.
+-   Kana is a [Felinor](Felinor.md).
 -   The armor she is wearing is the Keeper armor, but switched the gold color to a dark blue?
 -   As she is at Fort Merit, it can be inferred she works for The Authority, making her the only non-Adret to use Thundercall in their ranks.
+-   Currently unknown what mantra/ability is she using to do that and is there any way to interact with her.

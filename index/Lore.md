@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 32129
+revid: 32348
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -202,7 +202,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   A desert land that occupies most of Aratel Island; consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of Starswept.
     -   (Arch\_Mage) Thanks to Arch\_Mage, its confirmed that the blue particles that rain down the Valley are fragments of Stars.
-    -   Along with blue fragmented stars; Blue Meteorites, containing Meteor Knights crash into the Valley as an encounter, emerging out of the rubble upon landing.
+    -   Along with blue fragmented stars; Blue Meteorites, containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.
 
 -   It was once thought that the Blue stars that rain down the Valley is coming from the Celestial City, however this is not the case.
     -   Though the Celestial City itself doesn't seem to be visually breaking down due to the inactivity of its infrastructure (Using the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md)), its unlikely that the Celestial City is slowly degrading.
@@ -1083,6 +1083,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   They overwhelm other animals using sheer size alone.
     -   This has proven to be an effective tactic, causing the extinction of much marine wildlife over the years.
 -   Despite their immense size, they seem to need very little food to survive, even preferring to outright disintegrate their prey rather than eat them.
+-   They might be the reason why Aratel sea is lacking fish or any other life forms.
 
 ### Mudskippers
 
