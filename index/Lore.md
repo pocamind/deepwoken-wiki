@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 32348
+revid: 32365
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -616,7 +616,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 "_Defined by their snake-like features and cunning. Isolationists who tend to their own interests."_
 
--   This race came from snakes.
+-   This race shares traits with snakes.
 -   A race most commonly found in the Etrean Luminant and often regarded as "xenophobic" due to their dislikes of other races.
 -   The people of [Etris](Etris.md) has been in scrambles ever since their king had left them and the current reigning lord causing evident dismay to his people, rather than helping them.
 -   Inspired by East Asian cultures:
@@ -628,7 +628,7 @@ For people who wish to see the races, head [here.](Aspects.md)
 
 "_Silver-tongued traders whose pride often gets the better of them. Renowned as ship-builders and seafarers alike."_
 
--   This race came from racoons.
+-   This race shares traits with racoons.
 -   A prideful and greedy race that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the tides, and dragged to the bottom of the ocean and into the [Depths](The_Depths.md) where it stands today.
 
 ### Adret
@@ -646,7 +646,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 
 "_With canine features, the Canor are fiercely loyal. Often found as guards and personal servants in the retinue of powerful people."_
 
--   A race of canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
+-   A race that shares traits with canids, often found as guards and personal servants to powerful people due to their fierce loyalty.
 -   Once heavily employed as soldiers of the Authority
 -   Little is known about their origins...
 -   Seem to be German-like in terms of name and history:
@@ -667,7 +667,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over."_
 
--   A prideful race of monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
+-   A prideful race that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
 -   They are a big part of the Hundred Legions
 -   Little is known about the race in general and their origins...
 
@@ -675,14 +675,14 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
--   A race of felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
+-   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
 -   _**(No current lore yet...)**_
 
 ### Vesperian
 
 "_Never seen without their masks, poorly understood, but begrudgingly appreciated due to their natural talents."_
 
--   A race of bugs never seen without the masks they wear, although most may not understand why.
+-   A race that shares traits with bugs, never seen without the masks they wear, although most may not understand why.
 -   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
 -   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that indentified as a Vesperian.
 -   A race that lived above the waters and on the surface, which _**may**_ explain their natural armor.
@@ -693,14 +693,14 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 "_Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 
--   A race of goats who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
+-   A race that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
 -   Little is known about their origins...
 
 ### Ganymede
 
 "_Peculiar folk who are often known for their wisdom and intelligence. Though quite rare, Ganymede science still leads man forward."_
 
--   A race of snails who are well known for their intelligence and wisdom. Their science still leads the field.
+-   A race that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
 
@@ -1162,9 +1162,9 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 ### **Animals**
 
 -   The Deepwoken world was once home to many of the animals seen in the real world, but all have dissapeared. The only animals that remain are fish, birds, and the monsters that now hunt the people of the Luminants.
-    -   Many animals have become the races seen in the game.
+    -   Many animals share traits with the races seen in the game.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
-    -   Fish are the only animals that can be actively seen and interracted with
+    -   Fish are the only animals that can be actively seen and interacted with
         -   The know fish species include:
         -   At least three types of swordfish
         -   Sea bass

@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 32342
+revid: 32358
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,19 +24,24 @@ Authority Footsoldiers wear an Authority Helm and an [Authority Commander Unifor
 
 ## Moveset
 
-Their arsenal consists of an [Officer Saber](Officer_Saber.md) and the [Thundercall](Thundercall.md) Attunement:
+Their arsenal consists of an [Officer Saber](Officer_Saber.md) or a [Mace](Mace.md) and the [Thundercall](Thundercall.md) Attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | 
 Assault
 
- | Firmly swings sword at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | 
 
 Critical
 
- | Performs a wind-up before thrusting sword forward. | ◯ | ◯ | (★☆☆) |
+ | Performs a wind-up before thrusting sword forward. (**Officer Saber)**
+
+  
+Raises club before swinging down; block breaking the enemy. **(Mace)**
+
+ | ◯ | ◯ | (★☆☆) |
 | 
 
 Jolt Grab

@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 32314
+revid: 32363
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,11 +15,11 @@ An Authority Commander is an NPC found in the [Starswept Valley](The_Starswept_V
 
 ## Moveset
 
-Their arsenal consists of an [Officer Saber](Officer_Saber.md) and the [Frostdraw](Frostdraw.md) attunement:
+Their arsenal consists of an [Officer Saber](Officer_Saber.md) or an [Adretian Axe](Adretian_Axe.md) and the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
+| Slash | Firmly swings blade at opponent and continuing to combo them until knocked. | ◯ | ◯ | (★☆☆) |
 | Critical | Charges up for a heavy attack. | ◯ | ◯ | (★★☆) |
 | (Round  
 Spark)
@@ -27,7 +27,7 @@ Ice Eruption
 
 (★)
 
- | Forms a path of ice spikes in front of user. | ◯ | ◯ | (★★☆) |
+ | Stomps the ground and ice erupts _**around**_ the Commander. | ◯ | ◯ | (★★☆) |
 | Frost Shower | Rains down shards of ice. (Exclusive to Authority Commander) | ◯ | ◯ | (★★☆) |
 
 ## Trivia

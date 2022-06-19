@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 32317
+revid: 32359
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

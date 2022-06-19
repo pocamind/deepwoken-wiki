@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 32351
+revid: 32362
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -59,7 +59,6 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
 -   _"You feel as though you could go longer without food..." =_ This buff completely stops hunger from draining until it's gone.
--   ”you feel incredibly based and red pilled” = you drain sanity at a lower rate
 
 Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 
@@ -93,7 +92,6 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore
 -   **[Glazed Fish](Glazed_Fish.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
 -   **Sauteed Scallops** - 2 Scallops
 -   **Cake** - 1 _Egg_, 3 _Gathered Wheat,_ 1 _Sap_ (Grants increased agility)
--   **Cream Soda** - 1 honey 1 dry ice (layer two exclusive) and a water in your canteen (grants decreased sanity drain)
 
 ## Alchemy
 
