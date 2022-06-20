@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 32433
+revid: 32458
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -69,6 +69,8 @@ Automatically used after the first posture stun or when dropping below 50% healt
 -   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
     -   Staying still may also avoid confusion from Primadon's walking animation.
     -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
+
+File:Therealnautilo.png
 
 The boss arena, showing the ocean from which Primadon spawns.
 

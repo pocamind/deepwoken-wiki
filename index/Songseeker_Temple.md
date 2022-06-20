@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 23296
+revid: 32452
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -28,6 +28,7 @@ Inside the Temple is Amashi, a spelltrainer.
 ### NPCs
 
 -   Players can find Amashi, a spelltrainer who can help you acquire [Flamecharm](Flamecharm.md), or upgrade your existing Flamecharm Mantras.
+-   Just outside the temple, players can find Yamaketzal, which can give you [Chime of Conflict](Chime_of_Conflict.md) or remove your [Tarnished](Boons_and_Flaws.md) flaw.
 
 ## Potential Enemies
 

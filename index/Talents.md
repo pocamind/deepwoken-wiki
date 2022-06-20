@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32423
+revid: 32453
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -1371,7 +1371,7 @@ _Main Source - [Shadowcast](Shadowcast.md)_
 
 ### Cutthroat
 
--   Hunter - Increased Drop Rate when defeating Monsters. (Obtained by wearing the Cutthroat Light Armor Outfit)
+-   Hunter's reflexes - slightly larger dodge window. (Obtained by wearing the Cutthroat Light Armor Outfit)
 
 ### Vigil
 

@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 32449
+revid: 32450
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -10,9 +10,11 @@ categories: [Pages with broken file links]
 
 File:UnknownThree.png
 
+“This is what happens when you literally think with your crotch”
+
 ## Description
 
-Carbuncle(s), also known as Mudspider, Spiderskipper, Spidercrab, Transgenders Mudsuckers and Charles, is a new monster in Layer 2 of The Depths.
+Carbuncle(s), also known as Mudspider, Spiderskipper, Spidercrab, Down-Bad Blokes, Mudsuckers and Charles, is a new monster in Layer 2 of The Depths.
 
 Carbuncles are easily the most identifiable of the three leaked layer 2 monsters, being a [Mudskipper](Mudskipper.md), but from that it all goes downhill. They appear to be giant barnacle-like organisms fused to the backs of mudskippers, either has parasites or some sort of symbiosis. Interestingly, the creatures are reminiscent of [Brainsuckers](Brainsucker.md), with the reddish coloring, many eyes, and teeth arranged in a circle around a open mouth facing down.
 
