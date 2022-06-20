@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 31748
+revid: 32407
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -54,7 +54,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
 ## Rewards
 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them.
--   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a low chance of 1-2 Deep Gems.
+-   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a low chance of 1-2 Deep Gems or legendary ring(deepfire and maybe others).
 -   **Luck -** Gives about 23% luck, somewhere as much as 15-20 Corrupted [monster](Monsters.md) kills (7-8 solo Primadon kills are enough to get a [Resonance (Bell),](Resonance.md) **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).**
 
 ## Strategies & Tips

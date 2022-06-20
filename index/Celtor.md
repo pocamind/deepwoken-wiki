@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 30926
+revid: 32371
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
@@ -93,5 +93,5 @@ _Legends speak of the few survivors of the city recalling maddening tales of tha
 -   Half of the surnames of the Celtors are of Russian origin (Baranof, Kotof, Pavel, Bykof, Kalinof, Petrof, Sokolof).
 -   Name tag of a Celtor during Mudwoken.
     
-    During the 4/1/2022 April Fools update (Mudwoken), Celtor race name was changed to Mustskipper.
+    During the 4/1/2022 April Fools update (Mudwoken), the Celtor race name was changed to Mustskipper.
 -   Celtor is tied with Adret and Etrean for the most common race

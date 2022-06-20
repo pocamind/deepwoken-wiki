@@ -1,23 +1,12 @@
 ---
 title: Way of Navae
-revid: 23725
+revid: 32392
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
 ---
 
 # Way of Navae
 
-File:Fist Symbol.png
+Redirect to:
 
-Way of Navae is a [Common Talent](Talents.md) in Deepwoken. It is one of the [Navaen Nomad](Navaen_Hostage.md) talents.
-
-## Description & Effects
-
-_Gain the ability to use fist combat against weapons, including the ability to block weapons with your hands using [Ether](Ether.md)._
-
-## Acquisition
-
--   Carry a bound nomad to the nomads in [Etris](Etris.md).
-
-Template:Navbox:Talents
+-   [Talents](Talents.md)

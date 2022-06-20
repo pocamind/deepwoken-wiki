@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 30319
+revid: 32410
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Luck, Weapons, Weaponry, Mechanics, Skills, Locations]
@@ -12,9 +12,9 @@ Stone Knights are a type of Giant [monster](Monsters.md) encountered primarily i
 
 **Blizzard Knight:**
 
-“ You can have a lot more fun if you come back during the winter. ”
+“ That... wasn't fun at all... ”
 
-― Aelita
+― Felinor, moments before death, who listened to Aelita
 
 Template:Creature Info Box v2
 

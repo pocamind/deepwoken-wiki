@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 32191
+revid: 32372
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Resonance, Character, Boss, Locations
 
 # Resonance
 
-**Resonances**, commonly referred to and known as "Bells", are unique abilities the player can obtain in _Deepwoken_.
+**Resonances**, commonly referred to and known as "Bells," are unique abilities the player can obtain in _Deepwoken_.
 
 ## Overview
 

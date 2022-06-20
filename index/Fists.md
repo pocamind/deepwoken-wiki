@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 31473
+revid: 32370
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -27,6 +27,10 @@ categories: [Weapons, Pages with broken file links, Weaponry]
 | description | "The traditional martial arts style of the Justicars." - Jus Karita, "Adopt the fighting stance of the Way of Navae" - Way of Navae, TBA - Legion Kata |
 
 > _"I COULD BREAK THE REGENT OF ETREA IN TWO... WITH MY BARE HANDS!"_ -Senator Corbet
+> 
+>   
+> 
+> "Now I fight as Crow Zeneki... WARRIOR!" - Crow Zeneki, right after brutally murdering his beloved pet sharko.
 
 ## Description
 

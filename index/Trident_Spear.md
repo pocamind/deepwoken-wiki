@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 30809
+revid: 32368
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry]
@@ -26,7 +26,9 @@ categories: [Weapons, Pages with broken file links, Weaponry]
 | obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna, Upper Erisia, Fishing |
 | description | "A surprisingly effective weapon despite its previous use by fishermen" |
 
-_**I'm Poseidon. You can maybe parry, but you can't outrange me with my alloyed power! "A proud Adret killing Etreans"**_  
+“ NIHIL, NIHIL, NIHIL! ”
+
+― disfigured lightborn, after having kidnapped someones little brother
 
 ## Description
 

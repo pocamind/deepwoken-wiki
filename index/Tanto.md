@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 30851
+revid: 32386
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -27,6 +27,12 @@ categories: [Weapons, Weaponry]
 | pass down | Yes |
 | obtainment | Starswept Valley Chests |
 | description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
+
+“ Too bad you can’t use grapple in this game. ”
+
+― Musing Vesperian
+
+  
 
 ## Description
 

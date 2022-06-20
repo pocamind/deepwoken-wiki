@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 25889
+revid: 32402
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -30,8 +30,8 @@ A training vest hanging in the Antiquarian shop at Etris.
 
 ### Fortitude
 
--   [Training Vest](Training_Gear.md#attribute-training-gears) - Template:Cost / **50 uses** (On the white and black armor)
--   [Boulder](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
+-   Training Vest - Template:Cost / **50 uses** (On the white and black armor)
+-   Boulder - Template:Cost / **200 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils. Isle of Vigils does not have a boulder.
 
@@ -39,7 +39,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
 ### Agility
 
--   [Ankle Weights](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses** (On the legs of the grey armor w/ gold belt)
+-   Ankle Weights - Template:Cost / **200 uses** (On the legs of the grey armor w/ gold belt)
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -49,14 +49,14 @@ A question from the math textbook
 
 ### Intelligence
 
--   [Encyclopedia](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
--   [Math Textbook](Training_Gear.md#attribute-training-gears) - Template:Cost / **200 uses**
+-   Encyclopedia - Template:Cost / **200 uses**
+-   Math Textbook - Template:Cost / **200 uses**
 
 Located at the bookstore.
 
 ### Willpower
 
--   [Prayer Beads](Training_Gear.md#attribute-training-gears) - Template:Cost / **100 uses**
+-   Prayer Beads - Template:Cost / **100 uses**
 
 Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
@@ -90,15 +90,15 @@ _Purchased from Mantra Shops at any area._
 
 ### [Thundercall](Thundercall.md)
 
--   [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Self-Conducting Loop - Template:Cost / **200 uses**
 
 ### [Frostdraw](Frostdraw.md)
 
--   [Hemafrost](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Hemafrost - Template:Cost / **200 uses**
 
 ### [Flamecharm](Flamecharm.md)
 
--   [Heartgem](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Hearthgem - Template:Cost / **200 uses**
 
 ### [Shadowcast](Shadowcast.md)
 
@@ -106,7 +106,7 @@ _Purchased from Mantra Shops at any area._
 
 ### Galebreath
 
--   [Gale Kata](Training_Gear.md#attunement-training-gears) - Template:Cost / **200 uses**
+-   Gale Kata - Template:Cost / **200 uses**
 
 ## Trivia
 
