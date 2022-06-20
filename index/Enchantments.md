@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32308
+revid: 32441
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -222,7 +222,7 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Astralrapier.png<figcaption></figcaption></figure><div>Astral</div></td>
-  <td><div><p>Deal 50% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
+  <td><div><p>Deal 20% more damage in PVE. Can be obtained throught a wishmaker.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Cosmic.png<figcaption></figcaption></figure><div>Cosmic</div></td>

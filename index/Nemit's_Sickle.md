@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 32409
+revid: 32420
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,11 +13,13 @@ categories: [Weapons, Daggers]
 | type | Dagger |
 | requirements | 60 LHT |
 | damage | 9 |
-| scaling | 13 LHT |
+| scaling | 13 |
 | range | 6.5 |
-| swing speed | 1.05 |
+| swing speed | 1.05x |
+| endlag | N/A |
 | penetration | 30% |
-| special effect | ? |
+| chip damage | N/A |
+| special effect | N/A |
 | stances | 1 Handed |
 | selling price | 150 notes |
 | weight | 4 |
@@ -38,10 +40,9 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-The Nemit's Sickle is a dagger weapon that boasts a 30% penetration against armor and extremely high swing speed like other daggers. While it does significantly less damage compared to the other daggers(one less than Stiletto), its high penetration, speed, and scaling make up for it.
-
-20.7 Damage at 100 LHT
+The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and an extremely high swing speed like most of the other daggers. While it does significantly less damage compared to the other daggers (one less than [Stiletto](Stiletto.md)), its high penetration and scaling make up for it.
 
 ## Notes
 
--   [Jus Karita](Jus_Karita.md) is better because it deals more damage and has more range. However, it is slower and has less weight and PEN.
+-   [Jus Karita](Jus_Karita.md) is better because it deals more damage and has more range. However, it is slower, has less weight, and less PEN.
+-   It deals 20.7 Damage at 100 LHT

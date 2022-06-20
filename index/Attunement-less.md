@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 32176
+revid: 32439
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -129,11 +129,14 @@ Agility mantras are mainly based on making sure your enemy cant escape and keepi
 Intelligence mantras act as "wildcards" in the user's arsenal. They compliment the mantras you already have. To increase the level cap, train your brain with an Encyclopedia or a Math Textbook.
 
 -   **Summon Cauldron** - Make a cauldron appear from your memories.
-    -   After inputting a note ( X ) summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
+    -   After inputting a note ( X or C ) summons a cauldron that can be used to create potions with certain ingredients. If the user gets too far away, it despawns.
     -   Requirement: 20 Intelligence.
 
 -   **Prediction** - Predict an opponent's attack and reflect it.
     -   Spawns a white flooring pattern around the user. The following mantra to hit you will have it's damage and elemental effect reflected back to the enemy. ~Does not work on M1's/Critical Attacks.~ This is false.
+    -   Can be upgraded with Talents unlocked by reaching and unlocking the Intelligence cap.
+        -   Can be upgraded with _**Rare Talent: All Knowing**_ to ignore its range requirement.
+        -   Can be upgraded with _**Rare Talent: Successive Prediction**_ to predict another attack right after it activates (stacks).
     -   Requirement: 50 Intelligence, _Intelligence Combat Mantra_
 
 ### _**Willpower Mantras**_
