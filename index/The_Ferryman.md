@@ -1,9 +1,9 @@
 ---
 title: The Ferryman
-revid: 31955
+revid: 32482
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boss, Luck]
+categories: [Pages with broken file links, Boss, Luck, Resonance]
 ---
 
 # The Ferryman
@@ -148,6 +148,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   The Ferryman takes about 25 minutes to respawn.
     -   Sometimes, he won't spawn even if the timer is off, and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires, or log and join another server, to solve the issue.
+    -   You can easily ignore this time by destroying all campfires, replacing them, and relighting them, but this can stop you from getting rewards if you killed him previously in the same server less than 25 minutes ago. (Bug)
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
