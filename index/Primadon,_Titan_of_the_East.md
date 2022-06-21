@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 32460
+revid: 32497
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Boss, Luck]
 
 “ I shall summon HARAMBE! ”
 
-― Johnathon Talo before being annihilated by the Primadon
+― Jonathan Talo before being annihilated by the Primadon
 
   
 

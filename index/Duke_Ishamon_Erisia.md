@@ -1,9 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 32479
+revid: 32491
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boss, Luck, Resonance]
+categories: [Boss, Enemies]
 ---
 
 # Duke Ishamon Erisia
@@ -89,3 +89,4 @@ You also gain a large amount of [Luck](Luck.md)(16%), and [Resonance](Resonance.
     -   **Heavy Weaponry**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything.
         -   Specifically any **Greathammer**, however Greataxes & Greatswords are also very effective at infinite posture-breaking The Duke.
         -   Any weapon with critical like hammers such as Mace, Sacred Hammer and Way of Navae also work.
+-   \]\]

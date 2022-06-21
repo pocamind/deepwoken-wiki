@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32462
+revid: 32493
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -290,10 +290,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blood Shadow \[Rare Talent\] - **Allies** you Reinforce are drained of their HP until you are fully healed.
     -   Prerequisite: Reinforce, Contrary to popular belief, Shadowcasting is not required for this talent.
--   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+4 Health)
+-   Grand Support \[Rare Talent\] - Everyone you buff heals them slightly. (+3 Health)
     -   Prerequisite: Reinforce
 
--   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+4 Health) Prerequisite: Reinforce
+-   Lord Commander \[Rare Talent\] - Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   Prerequisite: Reinforce
 
 ### Critical Specialist
@@ -935,7 +935,8 @@ Prerequisite: Charisma
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Health, +4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. (+3 Health)
--   55 Fortitude, You might wanna just get khan shield for this lol.
+    -   From: Knight's Rally
+    -   Prerequisite: 55 Fortitude
 
 ### Shipwright
 

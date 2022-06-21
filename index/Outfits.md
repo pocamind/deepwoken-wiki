@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32466
+revid: 32487
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -170,9 +170,7 @@ File:Captainskabuto.png
 | File:Feathertop Helm.png | Feathertop Helm | Grants a random buff. | Artifact Turn-ins | N/A |
 | File:Gladiator Helmet.png | Gladiator Helmet | Grants a random buff.
 
-_\+ 2 Posture_
-
-_Requires Fortitude 15_
+_\+ 2 Posture_ _Requires Fortitude 15_
 
  | Hive Chests | N/A |
 |  | Goldleaf Helm | Grants a random buff.
@@ -493,7 +491,6 @@ _Requires Power 40_
 | File:Brilliant Boots.png | Brilliant Boots | Grants a random buff. | Songseeker Chests | N/A |
 |  | Enforcer Boots | Grants a random buff. | Depths Chests | N/A |
 | File:Grand Boots.png | Grand Boots | Grants a random buff. | Depths Chests | N/A |
-| File:White fur boots.png | White Fur Boots | Grants a random buff. | Erisia Chests, Hive Chest | N/A |
 | File:Leather boots.png | Leather Boots | Grants a random buff.
 _\+ 2 Health_
 
@@ -511,6 +508,8 @@ _Requires Power 30_
 
  | Primadon Chests, Depths Chests | N/A |
 |  | Vanguard Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
+| File:White fur boots.png | White Fur Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
+|  | Woodland Boots | Grants a random buff. | Hive Chests | N/A |
 
   
 
