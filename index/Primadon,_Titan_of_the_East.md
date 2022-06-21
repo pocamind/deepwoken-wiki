@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 32458
+revid: 32460
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boss, Luck]
@@ -70,9 +70,7 @@ Automatically used after the first posture stun or when dropping below 50% healt
     -   Staying still may also avoid confusion from Primadon's walking animation.
     -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
 
-File:Therealnautilo.png
-
-The boss arena, showing the ocean from which Primadon spawns.
+Image of Primadon's boss arena.
 
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.
     -   If you were catapulted out into the ocean, there is a chance that a sea monster will spawn in to kill you even if you have the [Scuba Drowner](https://deepwoken.fandom.com/wiki/Talents?so=search#Waterborne) talent or lived the fall.

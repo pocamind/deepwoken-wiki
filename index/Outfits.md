@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32340
+revid: 32466
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -77,7 +77,9 @@ Armor Pieces come in different rarities, marked by the presence and quantity of 
 
 Keep in mind, **nearly all of the coats have color variants** that may not be mentioned below (variants vary, 2+), **the exceptions being Star Duster, Providence Coat and Royal Pathfinder Coat.**
 
-When an armor piece is generated, its given a "wallet" of points that it randomly use to "buy" stats, said wallet size is slightly random but always nears a specific value for each equipment. Rarity increase the base "Wallet" size, while Quality Rating (stars) are bonus points that the equipment can spend. Rarity affect the stats of an item more than the Quality Rating: A 0 star common item is most likely going be outclassed by a 3 star rare item.
+When an armor piece is generated, it will roll its stats a certain amounts of times to decide what its stats will be. The amount of stats per roll varies from armor to armor (E.G: an item could obtain 2 hp per roll, while another would get 5), so does the amount of rolls (E.G: an item would roll 1 time, while another would roll 4 times). More common armor pieces will have a lower amount of rolls and weaker stats, while a higher rarity piece would roll more times with better stats per roll. Star Rating gives an additional roll for each star. Note that whenever a stat is rolled, the odds of rolling it again are reduced. This stacks indefinitely, making each succesive roll have less and less chance of getting the same stat.
+
+Some armor pieces comes with stats that will always appear, like +1 posture for Star Dusters. These guaranted stats does not consume a stat roll.
 
 **Head:**
 
@@ -388,7 +390,7 @@ _Requires Power 30_
 
 ― PL99 Flamecharm Canor.
 
-Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring).
+Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring). Beside the Silver and Gold Ring, rings cannot normally have stats: they will need a star rating to be able to do so.
 
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |

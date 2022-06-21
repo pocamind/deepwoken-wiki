@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32453
+revid: 32462
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -634,6 +634,7 @@ These Talents are meant to improve your overall combat effectiveness.
 ### Immolator
 
 -   Phoenix Flames \[Flamecharm Exclusive, Legendary Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. (+4 Health, +2 Elemental Intensity)
+    -   If Phoenix Flame is activated by the use of Flame Within, the healing is reduced to 25% instead.
     -   Prerequisites: 60 Flamecharm, 20 Willpower, Immolator
 -   Immolator \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity)
     -   Prerequisite: Agitating Spark

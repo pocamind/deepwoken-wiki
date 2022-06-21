@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 32455
+revid: 32461
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boss]
@@ -81,7 +81,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.
 -   Do **NOT** parry trade with the Nautilodaunt because it has a much higher posture pool than you. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack.
--   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break Squibbo in one crit (confirmed, i tested this)
+-   Abuse your critical hits as a Greatsword or Dagger user, Sword users can do the same, but the stab is less effective. [Way of Navae](Way_of_Navae.md) can also posture break the Nautilodaunt in one critical hit, (Confirmed, I tested this.)
 -   No matter how high leveled you are, you cannot just try to stat check it like what you do to a Sharko. You need to parry and pay attention to his punches, or you will get wiped, This thing _**WILL**_ outskill you.
 -   If he tries to kick you, parry it or dash out of it. If it hits, it does a lot of damage.
 -   If he flourishes you, you must roll. After a flourish he will run and you and do a slide-kick. The only way to avoid it is to just dodge out of the way.
@@ -89,8 +89,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high, if it's your only option try running through buildings as that'll give you the best chances of escaping
 -   **HEAVY WEAPON COMBAT TIP**: Block, he barely does any posture damage. After blocking an attack, try to parry the next one. If you do, follow with a critical. Its posture will break, and you can land an M1. Rinse and repeat until it is dead (easy for freshies as well)
 -   It respawns after roughly 40 minutes.
--   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautiloduant can be difficult on its own due to the cloaks high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
-
+-   Very low chance to drop the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautilodaunt can be difficult on its own due to the cloaks high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
 -   Always keep a calm composure when you fight him, panicking will lead to a swift death.
-
--   The squibbo is the only mob in the game with the ability to regen it's health. The squibbo when un-aggro'ed will automatically begin healing going from 250 to full health within a matter of seconds.
+-   It is the only mob in the game with the ability to regen it's health. When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
+-   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and get wiped. (Examples being: Players(in a group or solo), Angels, Monsters or even bad ping)
