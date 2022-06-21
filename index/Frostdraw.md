@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 31832
+revid: 32485
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Spells, Magic, Mantras]
@@ -115,7 +115,7 @@ _A legion of frost._
 -   Deals Moderate damage if both blows hit.
 -   Area of Effect attack that damages and slows targets inside.
 -   Leaves ice where the Mantra is casted.
--   The Frostdraw counterpart to [Flamecharm's](Flamecharm.md) [Burning Servants](Flamecharm.md#combat-mantras), as both do the same thing and can be modified with a Reversal Spark to get the same effect.
+-   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a Reversal Spark to get the same effect.
 
  |
 | [Frostdraw](https://deepwoken.fandom.com/wiki/File:Frostdraw.png) | 
