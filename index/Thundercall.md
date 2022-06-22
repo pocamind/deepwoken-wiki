@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 31598
+revid: 32509
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -135,6 +135,7 @@ Storm Blades
 
 -   Deals light damage.
 -   Has a short delay before exploding.
+-   With a Tornado Spark, Storm Blades deploys a arena-like circle; shocking those who touch its walls.
 
  |
 |  | 

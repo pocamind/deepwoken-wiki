@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 30770
+revid: 32513
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonance]
@@ -41,7 +41,7 @@ When obtained, Sacred Field will spend its points on the following stats:
 -   **Elemental Armor:** The more points are spent on this stat, the more resistant to elemental damage the user become.
 -   **Range:** The more points are spent on this stat, the larger the area covered by the resonance is.
 -   **Duration:** The more points are spent on this stat, the longer the resonance last.
--   **Color:** A free stat. Changes the color of the field, colors include Yellow, Purple, Red, Orange and Green.
+-   **Color:** A free stat. Changes the color of the field, colors include Yellow, Blue, Purple, Red, Orange and Green.
 
 ## Trivia/Notes
 
