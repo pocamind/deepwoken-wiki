@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32493
+revid: 32526
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -547,7 +547,7 @@ These Talents are meant to improve your overall combat effectiveness.
 
 -   The Thinker \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate reservoir and ether. (+5 Ether, +10 Reservoir)
     -   With Depths Connection and no ether regen armor, the Reservoir Bar will not empty itself until the Ether Bar is full.
-    -   Prerequisite: 30 Intelligence(can not collected with warrior's respite)
+    -   Prerequisite: 30 Intelligence (can not activated with warrior's respite)
 -   Neuroplasticity \[Legendary Talent\] - Your mind is a pliable, flexible substance. Adding modifications to a Mantra now has a reduced Ether cost. (+1 Wildcard Mantra Slot, +20 Reservoir)
     -   The increased Ether Cost from Modified Mantras is reduced.
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
@@ -1203,7 +1203,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Agility Combat
 
 -   Revenge - A short dash dealing damage to opponents it hits.
-    -   Prerequisite: 6 Agility
+    -   Prerequisite: 5 Agility
 
 #### Agility Support
 

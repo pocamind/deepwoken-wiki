@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 31821
+revid: 32514
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters]
@@ -28,6 +28,7 @@ The Meat Lord is a [Random Encounter](Random_Encounters.md) and a merchant in De
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Upper Erisia](Upper_Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
+-   [Viper's Jaw](<The_Viper's_Jaw.md>)
 
 _**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
 

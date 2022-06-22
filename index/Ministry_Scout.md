@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 32011
+revid: 32515
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -40,6 +40,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 ## Tips
 
 -   Almost at any given time they will try to use their mantras while doing an M1 Combo.
+-   Always watch your blood bar while fighting these enemies, as it can get low very fast.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Rushing the game _especially here_ is very dangerous at a low level, alone, **ESPECIALLY IF YOU HAVE THE OBVIOUS FLAW.** It's best to be avoided unless you know what you are doing.
 -   There are about 9 Ministry Scouts. 4 patrolling outside, 5 inside the fortress on [Minitrysa](Minityrsa.md).
