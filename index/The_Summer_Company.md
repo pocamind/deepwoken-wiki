@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 32231
+revid: 32498
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -25,9 +25,9 @@ The Summer Company is a faction that operates in their fortified island, the **[
 
 As their name implies, they are a merchant Company that are the Deepwoken world's chief supplier of firearms.
 
-## **Lore**
-
 As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the firearm.
+
+They are one of the three factions employed by [The Authority](The_Central_Authority.md).
 
 They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves.
 

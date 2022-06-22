@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 32288
+revid: 32502
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character]
