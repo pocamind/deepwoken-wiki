@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 30827
+revid: 32545
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry]
@@ -25,7 +25,9 @@ categories: [Weapons, Weaponry]
 | obtainment | Chests in: , Minityrsa |
 | description | "A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from." |
 
-_**You are now a new member of my vow of mastery! "a flame user who became a flame priest, just by training charisma"**_
+“ You are now a new member of my vow of mastery! ”
+
+― A Flamecharm user who became a flame priest, just by training charisma.
 
 ## Description
 
@@ -35,4 +37,4 @@ The Worshipper Longsword is a midgame sword obtained from chests in [Minityrsa](
 
 ## Notes & Trivia
 
--   TBA
+-   Why would anyone get this? The [Messer](Messer.md) has the same swing speed but deals more damage. Also literal garbage

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 32512
+revid: 32549
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weaponry, Character]
@@ -905,7 +905,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><a href="Crescent_Cleaver.md">Crescent Cleaver</a></td>
   <td>40/<font>75</font> HVY, 10 STR</td>
   <td>22.4</td>
-  <td>N/A/<font>10%Chip</font></td>
+  <td>N/A/<font>10%Chip Damage</font></td>
   <td>HVY: 8/<font>9</font></td>
   <td>9</td>
   <td>9</td>
@@ -1192,6 +1192,6 @@ _[Damage calculator for penetration, armor and exoskeleton](https://www.desmos.c
 
 Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (The higher the stat, the quicker the attack). Therefore a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.)
 
-Players can use this formula to figure out their swing speed.
+Players can use this formula to figure out their swing speed
 
 _**Attack Speed = (1/SwingSpeed)/2**_
