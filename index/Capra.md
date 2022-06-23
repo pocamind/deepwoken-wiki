@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 32072
+revid: 32537
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Character, Creation]
@@ -71,6 +71,15 @@ _**THE FOLLOWING MAY BE FALSE**_
 
   
 Unknown
+
+**Surnames:**
+
+  
+
+-   Tulad
+-   Truad
+-   Arad
+    
 
 ## Notes
 

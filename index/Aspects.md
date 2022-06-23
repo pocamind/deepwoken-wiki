@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 30896
+revid: 32528
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character]
@@ -28,7 +28,7 @@ These races are obtainable by any player. One of these races will be given to th
 
 ## Exclusive Races
 
-These races are not obtainable, don't ask the devs and mods for it, you aren't getting it.
+These races are not obtainable, don't ask the devs and mods for it, you aren't going to get it.
 
 ## Notes
 
