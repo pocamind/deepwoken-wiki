@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32526
+revid: 32559
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -817,6 +817,13 @@ These are just raw stat increase and are beneficial to anyone.
 -   Million Ton Piercer \[Legendary Talent\] - Your PEN is uncapped, go beyond your limits. (+10 Ether, 9 Health)
     -   Prerequisite: 90 Strength
 
+### Prospector
+
+These Talents are meant to make foraging and mining grant more resources.
+
+-   Excavator \[Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
+-   Harvester \[Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
+
 ### Public Figure
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. (+3 Ether, +2 Health)
@@ -825,12 +832,9 @@ These are just raw stat increase and are beneficial to anyone.
 -   Diplomat \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
     -   Prerequisites For All: Charisma
 
-### Prospector
+### Puppet Master
 
-These Talents are meant to make foraging and mining grant more resources.
-
--   Excavator \[Common Talent\] - Chance to receive two sets of ore when mining. (+2 Ether, +7 Reservoir, +3 Health)
--   Harvester \[Common Talent\] - Chance to receive two sets of ingredients when harvesting. (+2 Ether, +7 Reservoir, +3 Health)
+-   Twisted Puppets \[Common Talent\] - Bodies affected by corpse explosion will lift into the air and track onto an enemy. (1+ Elemntal Intensity, +2 Health)
 
 ### Pyromancer
 

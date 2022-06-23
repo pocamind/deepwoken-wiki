@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 32448
+revid: 32556
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,6 +34,50 @@ They could also be spawned using [Megalodaunt Bait](Monster_Bait.md). (Note: The
 
 Megalodaunts come in three different versions, with two able to be corrupted, for a total of five "versions" of the monster you can encounter.
 
+## **Attacks**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| 
+Slash
+
+ | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
+
+-   Heavy posture damage.
+-   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
+-   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Kick
+
+ | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+
+-   Causes the player to be Dazed if kicked into a wall.
+-   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+
+ | ✗ | ✗ | ◯ | (★★★) |
+| 
+
+Jump
+
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
+| 
+
+Thousand Needles
+
+ | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★☆☆) |
+| 
+
+Roar
+
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
+
+-   Blocking negates much of but not all the insanity gain.
+
+ | ✗ | ◯ | ✗ | (★★☆) |
+
 **Crimson:**
 
 Template:Creature Infobox V3
@@ -41,14 +85,6 @@ Template:Creature Infobox V3
 ## **Description**
 
 Crimson Megalodaunts are Red Megalodaunts, native to Songseeker Isle, that are hostile to regular Megalodaunts. Little is known about them, their origin, behaviour, or their bizarre ability to create a volley of fiery sword by roaring.
-
-**Alpha:**
-
-Template:Creature Infobox V3
-
-## **Description**
-
-Dark Blue version of the Megalodaunt, exclusive to The Depths and Trial Of One. They are at the top of the Megalodaunt social hierarchy, boasting in extra strength and health.
 
 ## **Attacks**
 
@@ -103,6 +139,58 @@ Fire Roar
 -   While the swords are raining down, the megalodaunt seems unable to attack.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
+
+**Alpha:**
+
+Template:Creature Infobox V3
+
+## **Description**
+
+Dark Blue version of the Megalodaunt, exclusive to The Depths and Trial Of One. They are at the top of the Megalodaunt social hierarchy, boasting in extra strength and health.
+
+## **Attacks**
+
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| 
+Slash
+
+ | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
+
+-   Heavy posture damage.
+-   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
+-   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Kick
+
+ | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+
+-   Causes the player to be Dazed if kicked into a wall.
+-   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+
+ | ✗ | ✗ | ◯ | (★★★) |
+| 
+
+Jump
+
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
+| 
+
+Thousand Needles
+
+ | The Megalodaunt bends over and points its coral tubes towards an opponent an proceeding to spew a large and constant spray of projectiles at anyone in the cone in-front of it. | ◯ | ◯ | ✗ | (★☆☆) |
+| 
+
+Roar
+
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
+
+-   Blocking negates much of but not all the insanity gain.
+
+ | ✗ | ◯ | ✗ | (★★☆) |
 
 ## **Finisher**
 

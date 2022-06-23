@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 32087
+revid: 32558
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -25,7 +25,7 @@ categories: [Weapons, Rapiers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, The Depths [?] , Rogue Hive Construct |
+| obtainment | Starswept Valley, The Depths [?] , Rogue/Hive Construct |
 | description | "Your trusty weapon." |
 
 ## Description

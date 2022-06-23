@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 32147
+revid: 32557
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Character, Attunement, Magic, Spells, Luck, Lightning Combat Mantras]
@@ -175,7 +175,7 @@ categories: [Pages with broken file links, Mantras, Character, Attunement, Magic
 > [Shadowcast](Shadowcast.md)
 > 
 >  |
-> | Needs testing... | Glacial Arc | Grand Javelin | Air Force | Strong Left (Strength) | Shadow Chains (?) |
+> | Needs testing... | Glacial Arc | Grand Javelin (?) | Air Force (?) | Strong Left (Strength) | Needs testing... |
 > 
 > There are believed to be more mantras that scale from intensity, but they have yet to be identified.
 > 

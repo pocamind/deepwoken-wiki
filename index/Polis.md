@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 31459
+revid: 32554
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,7 +24,7 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), the
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | User firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | User raises sword upward before slamming it into the ground. | ◯ | ◯ | (★★☆) |
+| Critical | User raises sword upward before slamming it into the ground. | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Rising Wind | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |
 | Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |

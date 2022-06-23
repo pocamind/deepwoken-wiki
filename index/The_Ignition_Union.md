@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 32548
+revid: 32560
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -18,7 +18,7 @@ The Ignition Union is a faction that can be found throughout [The Depths](The_De
 
 They are a group of miners who specialize in Depths exploration. They are also producers of certain greatswords, such as the [Darksteel Greatsword](Darksteel_Greatsword.md) and [Crypt Blade](Crypt_Blade.md).
 
-~They are one of the three factions employed by [The Authority](The_Central_Authority.md).~ Correct me if I'm wrong, but in Akira's dialogue it mentions the fact that The Authority blows boatloads of money funding The Divers' expeditions. It would be very unlikely for 2 rival sub-factions to be funded by the same faction, correct? Quoted from Akira's dialogue, "Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here."
+They are one of the three factions employed by [The Authority](The_Central_Authority.md).
 
 They frequently come to blows with the [Summer Company](The_Summer_Company.md), in order to steal their gunpowder and explosives for themselves.
 
