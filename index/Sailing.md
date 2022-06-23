@@ -1,18 +1,12 @@
 ---
 title: Sailing
-revid: 32551
+revid: 32570
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
 ---
 
 # Sailing
-
-“ I’m running out of screen time!!! ”
-
-― Freshie searching for Lower Erisia in a boat after 3 hours
-
-  
 
 # Sailing
 

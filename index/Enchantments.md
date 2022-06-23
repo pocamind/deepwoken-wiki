@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 32534
+revid: 32564
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weaponry, Armors, Items, Mechanics]
@@ -80,7 +80,10 @@ Will have an effect upon hitting something. Can range from status effects to mor
 </tr>
 <tr>
   <td><figure>File:Yunshattered.png<figcaption></figcaption></figure><div>Curse of Yun'Shul</div></td>
-  <td><div><p>Deals increased m1 percent damage on proc chance to deal m1 damage to yourself<br>
+  <td><div><p>On proc does double m1 damage to players or an additional m1 damage to Monsters<br>
+  Chance to deal m1 damage to yourself instead<br>
+  </p>
+  <p><br>
   </p></div></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32559
+revid: 32582
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -888,6 +888,7 @@ These Talents are meant to be used in an aggressive playstyle. (10 - 40 strength
 Prerequisite: Charisma
 
 -   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether, +3 Health.)
+    -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
     -   Prerequisite: Diplomat
 -   Salesperson \[Common Talent\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether. +2 Health.)
     -   Gain 1.25x more notes from selling items.
@@ -1005,6 +1006,8 @@ These Talents are designed to let you survive against starvation and thirst by l
 ### The Negotiator
 
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether, +1 Health)
+    -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which as a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
+        -   Does not work in PVE.
     -   Prerequisite: ~75 Charisma
 
 ### Thief

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 32312
+revid: 32579
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

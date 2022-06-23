@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 32487
+revid: 32565
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Armors, Character]
@@ -507,7 +507,7 @@ _\+ 2 Health_
 _Requires Power 30_
 
  | Primadon Chests, Depths Chests | N/A |
-|  | Vanguard Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
+|  | Tracker's Boots | Grants a random buff. | Erisia Chests | N/A |  | Vanguard Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 | File:White fur boots.png | White Fur Boots | Grants a random buff. | Erisia Chests, Hive Chests | N/A |
 |  | Woodland Boots | Grants a random buff. | Hive Chests | N/A |
 
