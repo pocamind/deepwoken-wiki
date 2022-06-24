@@ -1,9 +1,9 @@
 ---
 title: Authority Captain Uniform
-revid: 27673
+revid: 32709
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors]
+categories: [Armors, Items]
 ---
 
 # Authority Captain Uniform

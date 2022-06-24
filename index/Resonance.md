@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 32372
+revid: 32684
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonance, Character, Boss, Locations]
@@ -32,7 +32,7 @@ Corrupted Resonances give substantial buffs accordingly to their purpose, such a
 
 **From data of 100 rerolls, the calculated chance of getting a corrupted resonance was 4% (12/300, 12% per reroll)**
 
-However, similarly to [Corrupted Items](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
+However, similarly to [Cursed Enchants](Enchantments.md), Corrupted Resonance's power comes with a cost. Every Corrupted Resonance has a debuff that happens upon usage.
 
 Known downsides include:
 

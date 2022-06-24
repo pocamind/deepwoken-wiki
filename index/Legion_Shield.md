@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 32674
+revid: 32686
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -28,6 +28,10 @@ categories: [Weapons, Weaponry, Items]
 | pass down | Yes |
 | obtainment | Starswept Valley Chests |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
+
+##### _"Legion assemble!"_
+
+_**"I'm fucking invincible!" Max fortitude lava serpent etrean absorbing every single bit of posture created**_
 
 ## Description
 

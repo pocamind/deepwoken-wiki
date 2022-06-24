@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 32345
+revid: 32683
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,6 +13,8 @@ categories: [Pages with broken file links, Races]
 Template:Races-Main
 
 _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
+
+_"UWU" - A Felinor moments before being evaporated by a red sharko._
 
 ## Racial Traits
 

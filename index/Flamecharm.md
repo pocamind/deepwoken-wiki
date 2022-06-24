@@ -1,9 +1,9 @@
 ---
 title: Flamecharm
-revid: 32322
+revid: 32725
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Spells, Magic, Mantras]
+categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
 ---
 
 # Flamecharm

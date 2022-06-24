@@ -1,9 +1,9 @@
 ---
 title: Diver Apprentice Robes
-revid: 30426
+revid: 32697
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors]
+categories: [Armors, Items]
 ---
 
 # Diver Apprentice Robes
