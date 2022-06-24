@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 32612
+revid: 32746
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weaponry, Character, Items, Swords, Greatswords, Greataxes, Spears, Rapiers, Daggers]
+categories: [Weaponry, Character]
 ---
 
 # Weapons
@@ -33,13 +33,13 @@ Pressing Y will change your stance. Changing your stance will change the way you
 ### One-Handed
 
 -   Deal increased posture damage with parries
--   Deal reduce posture damage with hits
+-   Deal reduced posture damage with hits
 -   Can use offhand weapons, like shields or guns
 
 ### Two-Handed
 
+-   Deal reduced posture damage with parries
 -   Deal increased posture damage with hits
--   Deal reduce posture damage with parries
 -   Slightly faster swing speed
 
 ## Key Terminology

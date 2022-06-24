@@ -1,9 +1,9 @@
 ---
 title: Legion Shield
-revid: 32686
+revid: 32774
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items]
+categories: [Weapons, Shields]
 ---
 
 # Legion Shield
@@ -29,9 +29,9 @@ categories: [Weapons, Weaponry, Items]
 | obtainment | Starswept Valley Chests |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
 
-##### _"Legion assemble!"_
+“ Legion Assemble! ”
 
-_**"I'm fucking invincible!" Max fortitude lava serpent etrean absorbing every single bit of posture created**_
+― Captain AmeriKhan
 
 ## Description
 
@@ -39,4 +39,4 @@ A Khan Shield is a side weapon in the Shield category. It can be obtained throug
 
 ## Trivia
 
--   Currently the best shield in the game.
+-   The head on the face of the shield may be a reference to the shield of Athena, which sported the head of Medusa on it.

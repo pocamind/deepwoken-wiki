@@ -1,9 +1,9 @@
 ---
 title: Mace
-revid: 31309
+revid: 32752
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Clubs]
 ---
 
 # Mace
@@ -25,8 +25,17 @@ categories: [Weapons, Weaponry]
 | obtainment | Weapon Shop in Etris and at lower Erisia |
 | description | A simple blunt weapon effective at breaking guards. |
 
-_**Sir, you're not allowed to enter that pla... BONK. OW, you can't just enter by hitting me with a... BONK.**_
+“ Uhm actually.. BONK. OW, stop hitting me with a... BONK. ”
+
+― A Felinor trying to explain something
+
+  
 
 ## Description
 
 The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at Etris. It's an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.
+
+## Notes
+
+-   Obviously superior compared to the [Messer](Messer.md)
+-   Good for fighting [Golems](Rock_Golem.md)

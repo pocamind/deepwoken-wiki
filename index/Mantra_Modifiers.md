@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 32580
+revid: 32737
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -933,6 +933,21 @@ File:Flame Leap with Reversal Spark.gif
  |
 | 
 
+Frozen Servants
+
+ | 
+
+ | 
+
+File:Frozen Servants with Reversal Spark.gif
+
+ | 
+
+-   This modifier causes the servants from the "Frozen Servants" mantra to face outwards instead of inwards.
+
+ |
+| 
+
 Lightning Impact
 
 (★★)
@@ -996,23 +1011,6 @@ File:Tornado with Reversal Spark.gif
 
 -   This modifier seems to have no effect on the "Tornado" mantra.
     -   The modifier is a remnant of the pre-rework Tornado, which would pull enemies into the center instead of letting them move freely.
-
- |
-| 
-
-Shadow Chains
-
-(★)
-
- | 
-
- | 
-
-File:Shadow Chains with Reversal Spark.gif
-
- | 
-
--   (This mantra and spark are incompatible, I don't know why this was added here.)
 
  |
 | 

@@ -1,9 +1,9 @@
 ---
 title: Canor Fang
-revid: 32613
+revid: 32739
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Items]
+categories: [Weapons, Daggers]
 ---
 
 # Canor Fang
@@ -35,7 +35,7 @@ categories: [Weapons, Daggers, Items]
 
 ## Description
 
-The Canor Fang is a LHT weapon in the Dagger category that can be obtained by enemy NPC chests on [Songseeker Isles](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It's a pretty solid weapon if there's no better alternatives.
+The Canor Fang is a LHT weapon in the Dagger category that can be obtained by enemy NPC chests in[Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It's a pretty solid weapon if there's no better alternatives.
 
 ## Trivia
 

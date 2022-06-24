@@ -1,9 +1,9 @@
 ---
 title: "Serpent's Edge"
-revid: 32624
+revid: 32742
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry, Items, Swords]
+categories: [Weapons, Swords]
 ---
 
 # Serpent's Edge

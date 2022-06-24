@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 32365
+revid: 32781
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -376,7 +376,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of Summer Company is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company.
--   As of 1271, Summer Company has ties with The Authority. They contract the Company for Firearms in exchange fpr goods and the likings.
+-   As of 1271, Summer Company has ties with The Authority. They contract the Company for Firearms in exchange for goods and the likings.
     -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that Summer Company secrets are being stolen by Authority they are still in business with them.
         -   Explained by Arch\_Mage, Summer Company overlooked the Authority's actions under their noses and ignored them; presumably to avoid ruining their business relationship with The Authority.
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
