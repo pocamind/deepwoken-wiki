@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 32094
+revid: 32589
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons]
 
 ## Description
 
-The True Seraph's Spear is a MED weapon that can be obtained by defeating King Threshers (Refer to [Thresher](Thresher.md) page due to king threshers not currently having their own page as of 23/05/2022) in [The Depths](The_Depths.md). It has the highest MED requirement out of all the spears and probably is the most tedious spear to obtain. It outranks most spears by it's penetration, chip damage and swing speed but has the second lowest weapon scaling; the only downfall to this weapon is it's scaling.
+The True Seraph's Spear is a MED weapon that can be obtained by defeating King Threshers (Refer to [Thresher](Thresher.md) page due to king threshers not currently having their own page as of 23/05/2022) in [The Depths](The_Depths.md). It has the highest MED requirement out of all the spears and probably is the most tedious spear to obtain. It outranks most spears by it's penetration, chip damage and swing speed but has the second lowest weapon scaling; the only downfall to this weapon is it's scaling. The True Seraph's Spear does 29.6 damage at 100 MED and 28.49 damage at 90 MED (the requirement to use this weapon).
 
 ## Trivia
 

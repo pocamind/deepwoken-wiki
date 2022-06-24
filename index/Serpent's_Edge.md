@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 32265
+revid: 32597
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items]
@@ -33,7 +33,7 @@ categories: [Weapons, Weaponry, Items]
 
 ## Description
 
-The Serpent's Edge is a popular endgame Medium Weapon, know for its iconic curved design, resembling a snake.
+The Serpent's Edge is a popular endgame Medium Weapon, know for its iconic curved design, resembling a snake. At 100 MED, the Serpent's Edge does 35.2 damage. At 75 MED, the Serpent's Edge does 31.9 damage
 
 ## Trivia
 

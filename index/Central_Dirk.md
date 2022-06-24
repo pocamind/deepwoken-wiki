@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 31888
+revid: 32583
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -33,3 +33,7 @@ categories: [Weapons]
 ## Description
 
 Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 14.5 and a weapon scaling of 8. It is a very good dagger but not very optimal to get, it's a rare drop from [King Thresher](Thresher.md), it's best to get a [Krulian Knife](Krulian_Knife.md) instead of grinding for this. This weapon can also be obtained from loot chests while fishing.
+
+## Notes
+
+At 100 LHT, this weapon deals 26.1 damage. At 75 LHT, this weapon does 23.2 damage.

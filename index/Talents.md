@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 32582
+revid: 32595
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Talents, Rare Talents, Legendaries, Mechanics]
@@ -712,9 +712,9 @@ Most of these Talents are meant to let you stay on the field longer and improve 
 
 ### Master Survivalist
 
--   Survival Kit \[Rare Talent, ???\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
+-   Survival Kit \[Common Talent, ???\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses. (+3 health)
     -   Flint have infinite durability.
-    -   Obtainement: Wipe with Herbivore, Iron Gut and Termite.
+    -   Obtainment: Wipe with Herbivore, Iron Gut and Termite.
     -   Requirement: ???
 
 ### Meditative Trance
