@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 30709
+revid: 32681
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -36,7 +36,7 @@ When used, this ability will transport the user into the Distortion Realm known 
 #### _Distortion Realm_
 
 -   If the ability is used in the Etrean Luminant, the user will be transported into the **Distortion Realm** and leave a portal behind for others to enter.
--   If the ability is used in the **Dimensional Travel**, the user's camera will teleport into the Etrean Luminant, showing them where they will teleport. Moving will place their camera back on their character in the Distortion Realm.
+-   If the ability is used in the **Dimensional Travel**, the user's camera will teleport into the Etrean Luminant, showing them where they will teleport. after 3~ seconds the players camera goes back to their character in the Distortion Realm. (Moving is restricted during this.)
     -   If any players inside the **Distortion Realm** jump into the void, they will be teleported to the equivalent position in the Etrean Luminant above said void.
 -   If **Dimensional Travel** is used during the visual indicator (Pressing C again), all players that go through the portal will be teleported back to the Etrean Luminant.
 

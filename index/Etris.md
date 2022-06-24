@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 31727
+revid: 32609
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -38,6 +38,8 @@ Template:Areainfobox
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 -   Players can purchase Ankle Weights (AGI), Boulder (FTD), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) for.
+
+The Etris blacksmith house.
 
 #### Blacksmith
 

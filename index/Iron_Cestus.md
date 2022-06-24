@@ -1,9 +1,9 @@
 ---
 title: Iron Cestus
-revid: 24271
+revid: 32662
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items]
 ---
 
 # Iron Cestus

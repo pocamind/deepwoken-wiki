@@ -1,9 +1,9 @@
 ---
 title: Legion Cestus
-revid: 30822
+revid: 32663
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items]
 ---
 
 # Legion Cestus

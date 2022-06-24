@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 32570
+revid: 32606
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing]
@@ -57,6 +57,8 @@ Mid game boat with cannons. A good boat for casual outings despite the weird sai
 The better version of the Schooner. Although (possibly) having the same speed as the Schooner, the addition of more underside space and a lantern makes up for it. For groups of 3-5)
 
 ### Frigate
+
+The overpriced ironclad in its natural habitat
 
 Another mid game boat with way more space. Best for sizes 4-6)
 

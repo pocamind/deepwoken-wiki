@@ -1,9 +1,9 @@
 ---
 title: "Champion's Sword"
-revid: 30825
+revid: 32621
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items]
+categories: [Weapons, Items, Weaponry, Swords]
 ---
 
 # Champion's Sword

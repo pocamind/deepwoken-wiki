@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 30150
+revid: 32610
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -61,4 +61,4 @@ A Individual who has crossed paths with The Meat Lord.
     -   Pomar may represent a pineapple (just like a red represents oranges). Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they hurt you.
 -   Sometimes there's a rare chance for an NPC called the "Meat Lord" to spawn randomly throughout [Aratel Island](Aratel_Island.md) and rarely [Erisia](Erisia.md) and [Summer Isle](Summer_Isle.md). The Meat Lord sells a variety of foods, some granting essential boosts, knowingly Slowed Stomach. Each item on his menu is 2 notes.
     -   He also sells one of the best food items in the game, as it takes no inventory space.
--   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches 0 and you collapse on the ground and die.
+-   Having 0 thirst and/or 0 hunger will eventually kill you. Your Health bar will slowly go down until it reaches half health and you start draining blood, and once your blood is all gone you quickly lose the rest of your health and die.

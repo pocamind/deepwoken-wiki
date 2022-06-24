@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 32056
+revid: 32608
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -37,6 +37,8 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle one will send you to [The Lordsgrove](The_Lordsgrove.md).
     -   The right one will send you to [Upper Erisia](Upper_Erisia.md).
+
+The doors to enter the Lordsgrove.
 
 #### Shipyard
 

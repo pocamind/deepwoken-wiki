@@ -1,9 +1,9 @@
 ---
 title: "Champion's Dagger"
-revid: 30818
+revid: 32668
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items, Daggers]
 ---
 
 # Champion's Dagger

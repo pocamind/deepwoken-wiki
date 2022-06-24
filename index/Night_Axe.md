@@ -1,9 +1,9 @@
 ---
 title: Night Axe
-revid: 32380
+revid: 32638
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weaponry]
+categories: [Weapons, Weaponry, Items, Greataxes]
 ---
 
 # Night Axe
