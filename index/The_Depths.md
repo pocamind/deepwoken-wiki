@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 31885
+revid: 32797
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Death, Mantras, Locations]
@@ -33,6 +33,7 @@ Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and
         -   [Varicosa District](Varicosa_District.md)
     -   [Temple of Hearts](Temple_of_Hearts.md)
     -   [Fragments of Self](Fragments_of_Self.md)
+    -   Marauders Entrance
 -   Layer 2
 
 ## **Escaping The Depths**

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 32725
+revid: 32785
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Spells, Magic, Mantras, Attunement, Combat Mantras]
@@ -320,7 +320,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 -   Lasts one minute without Duration Modifiers.
 -   Compatible with Duration, Intensity and Size Buffs.
 -   Ritual casting.
--   Will be put out if it's raining.
+-   Will be put out if it's raining, unless used with the unyielding inferno talent.
 -   Using Blue Gem will NOT work.
 -   Does not work in The Depths unless used with Undying Flames.
     -   Rare Flamecharm mantra.

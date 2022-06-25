@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 32254
+revid: 32799
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages]
@@ -17,6 +17,7 @@ notices:
 -   **Meteor Isle -** A medium sized island, which featured a good stream of monsters, important to gain exp. The name was derivated from the random event where a meteor would fall and summon Enforcers. Primadon was also spawned here initially.
 -   **The Floating Keep -** While it is possible to see using exploits, the actual content of The Floating Keep has been removed. The only remaining evidence of this area is exploit location markers.
 -   **Miners Landing -** Teased in the Deepwoken Leak Document before release, but never actually added due to being 'useless'
+-   Iron Fist island - was a island that only spawned megalaudants and was where the spider boss was
 
 ## Player
 
@@ -36,6 +37,7 @@ notices:
 -   **Crab -** While the giant red crab from the popular leak turned into the [Crustaceous Rex](Crustaceous_Rex.md), there was a smaller version that existed.
 -   **Isopods -** Small, weak creature that could attach to your face and start sucking the blood of the player. They still "exist" but in a scripted sequence with Karliah.
 -   **The World Serpent -** A giant sea monster that was scripted into the game but not added in the official release.
+-   Box Spider - First seen within the first month of release(Same person who made the spider cow made this)it was a fake gif/image.
 
 ## Talents
 
@@ -46,8 +48,8 @@ notices:
 
 ## Other
 
--   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. Their was a skill book for each skill.
--   **Murmur: Rhythm -** Allowed the player to hear the heartbeat of other players and entities, essentially giving them ESP. This was removed, but the core feature of it (crouching and listening) was kept in the game.
+-   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world(Khan item seller)that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. Their was a skill book for each skill.
+-   **Murmur: Rhythm -** Allowed the player to hear the heartbeat of other players and entities, essentially giving them ESP. This was removed, but the core feature of it (crouching and listening) was kept in the game.(Was taught by ferryman and was said that it was supposed to be taught by unknown box Carla)
 -   **Sacks** **\-** Craftable a short time after release but then shadow removed, due to it being 'useless'. Sacks were craftable with 2 cloths and would let the player carry chest by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
 -   **Locked Chest -** Limited to [The Depths](The_Depths.md), chest dropped from the monster used to be locked and had to be carried to NPCs to be unlocked to reap the rewards. 2 NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader still mention this mechanic in their dialogue.
 -   **Lore guilds -** Their used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. Known Lore guilds include The Hive.

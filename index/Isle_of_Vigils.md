@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 28491
+revid: 32792
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -81,3 +81,4 @@ Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-traveled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best fishing spots which is near the docks. Testing showed that there is a high chance of a chest as I found in 1 hour about 30-40 chests.
+-   In the old days of deepwoken vigils used to be a larger piece on etris map but now they have been separated
