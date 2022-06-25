@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 32640
+revid: 32843
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weaponry, Items, Greataxes]
@@ -8,7 +8,7 @@ categories: [Weapons, Weaponry, Items, Greataxes]
 
 # Master Hawk's Handaxe
 
-| Master Hawk's Handaxe | |
+| Master Hawk's HandAxe | |
 |---|---|
 | type | Great Axe |
 | requirements | 75 HVY |

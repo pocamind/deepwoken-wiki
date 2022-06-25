@@ -1,9 +1,9 @@
 ---
 title: Ganymede
-revid: 32278
+revid: 32858
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Character]
+categories: [Pages with broken file links, Races]
 ---
 
 # Ganymede

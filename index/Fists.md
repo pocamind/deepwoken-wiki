@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 32664
+revid: 32849
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weaponry, Items]
@@ -17,20 +17,20 @@ categories: [Weapons, Pages with broken file links, Weaponry, Items]
 | range | 7 |
 | swing speed | 0.75x (Way of Navae/Legion Kata), 0.9x (Jus Karita) |
 | penetration | N/A (Way of Navae/Legion Kata), 20% (Jus Karita) |
-| selling price | TBA |
+| selling price | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Navaen Nomad Hostage (Way of Navae), Amara & Captain's Recc (Legion Kata), 40 LHT, 30 Power & Polis (Jus Karita) |
-| description | "The traditional martial arts style of the Justicars." - Jus Karita, "Adopt the fighting stance of the Way of Navae" - Way of Navae, TBA - Legion Kata |
+| obtainment | (Way of Navae) , -> Navaen Nomad Hostage , --> Camp Master , or , --> Eastern Tribal Leader , (Legion Kata) , -> Help Legion Captains , --> Get their recommendation , ---> Amara , (Jus Karita) , -> 40 LHT, 30 Power , --> Polis |
+| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, TBA - Legion Kata, "The traditional martial arts style of the Justicars." - Jus Karita |
 
-> _"I COULD BREAK THE REGENT OF ETREA IN TWO... WITH MY BARE HANDS!"_ -Senator Corbet
-> 
->   
-> 
-> "Now I fight as Crow Zeneki... WARRIOR!" - Crow Zeneki, right after brutally murdering his beloved pet sharko.
+“ I COULD BREAK THE REGENT OF ETREA IN TWO... WITH MY BARE HANDS! ”
+
+― Senator Corbet
+
+  
 
 ## Description
 
@@ -40,7 +40,7 @@ Switching to fist stance while using another weapon. Note that the weapon being 
 
 There are several different style and all share the common ability of being able to be switched to at any time, even mid combat.
 
-## Styles
+## Stances
 
 File:Legion fist.png
 

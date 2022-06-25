@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 32726
+revid: 32839
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Magic, Spells, Mantras]
@@ -293,8 +293,9 @@ Grand Skewer
 
  | 
 
-Grand Javelin now carries opponents with it through the skies.  
-(MANTRA UPGRADE)
+Grand Javelin now carries opponents with it through the skies.
+
+(Legendary)
 
  | 
 

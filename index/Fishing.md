@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 32576
+revid: 32850
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Fishing, Mechanics, Luck]
@@ -121,3 +121,4 @@ If you want to add more, feel free. I'm done for the time being.
 -   If you would rather not get carpal tunnel while fishing, use an auto clicker at the maximum settings. Do be careful, as making a mistake can result in the fish/chest/trash escaping.
 -   If you're in need of luck and you don't wanna do anything dangerous for luck, you can always try to catch a golden fish to get a bunch of luck! Do beware, as this CAN take a LONG time. (Seemingly no pity system so this can take upwards of first catch to more than an hour)
 -   Fishing enough can level up fortitude or other stats for some reason
+-   Also using autoclicker makes fishing 10 times easier and faster
