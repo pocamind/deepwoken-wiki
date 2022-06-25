@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 32776
+revid: 32868
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -45,7 +45,7 @@ _"Akin to their feline features, the Felinor are carefree and whimsical. Seen to
 **Lore:**
 
   
-None yet.
+Felinors originate from the temperate forest of the Southern Luminant. They were very disorganized and often enslaved for labour and harems by the Celtors. When the cataclysm began, a huge slave rebellion took place among the Felinors. The Felinors exploited the song during it and this eventually lead to the great drowning where their Celtor masters were drowned. Many Felinors were pulled down with them but most had become refugees in the Central Luminant by this point. This lead them to become free-spirited, carefree people who are warry of authority but due to their contribution to The Great Drowning and Cataclysm, they are the victims of widespread racism and bigotry.
 
 **Strengths:**
 
@@ -55,12 +55,12 @@ None yet.
 +2 Charisma  
 Climbs faster and higher, especially against wood surfaces including trees.  
 
-Partically not affected by "Obvious" Flaw.  
+Innate talents negate "Obvious" Flaw.  
 
 **Weaknesses:**
 
   
-Felinors do not have game stats-wise weaknesses, besides rare player issue.
+Felinors do not have game stats-wise weaknesses, besides the community wide racism against them.
 
 **Surnames:**
 

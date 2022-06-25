@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 32809
+revid: 32866
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -53,4 +53,8 @@ They wear custom armor and a custom outfit that allows them to cosplay Scaramouc
 
 ### Dex
 
-This developer has a spec which allows him to spawn a phoenix that allows others to sit on and ride with him
+This developer has a spec which allows him to spawn a phoenix that allows others to sit on and ride with him.
+
+Par
+
+Par has the spec to spawn a cat maid that will excite any downed player/npc not much is known about this spec at the moment.
